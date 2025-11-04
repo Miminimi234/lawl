@@ -6,5 +6,4 @@ __all__ = [
     "documents",
     "feed",
     "research",
-    "counsel",
 ]

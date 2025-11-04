@@ -1,2 +1,1 @@
-web: python standalone_server.py
-
+﻿web: python main.py
