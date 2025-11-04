@@ -1,14 +1,20 @@
 """
 Application Configuration
 """
-from pydantic_settings import BaseSettings
 from typing import List
-import os
+
+from pydantic_settings import BaseSettings, SettingsConfigDict
 
 
 class Settings(BaseSettings):
     """Application settings from environment variables"""
-    
+
+    model_config = SettingsConfigDict(
+        env_file=".env",
+        env_file_encoding="utf-8",
+        extra="ignore",
+    )
+
     # Application
     ENVIRONMENT: str = "development"
     DEBUG: bool = True
@@ -70,14 +76,9 @@ class Settings(BaseSettings):
     DATA_RAW_PATH: str = "/data/raw"
     DATA_PROCESSED_PATH: str = "/data/processed"
     DATA_EMBEDDINGS_PATH: str = "/data/embeddings"
-    
-    class Config:
-        env_file = ".env"
-        case_sensitive = True
 
 
 settings = Settings()
-
 
 
 
