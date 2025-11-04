@@ -46,6 +46,6 @@ def get_db() -> Generator:
 
 def create_tables() -> None:
     """Create all tables if they do not exist."""
-    from app.models import *  # noqa: F401,F403 import models for metadata
+    import app.models  # noqa: F401 ensures model metadata is registered
 
     Base.metadata.create_all(bind=engine)
