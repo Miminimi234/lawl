@@ -1,0 +1,14 @@
+# Data pipelines – generated artifacts
+data/raw/
+data/processed/
+data/cache/
+data/*.db
+data/*.duckdb
+
+# Virtual environments
+venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+

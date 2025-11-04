@@ -1,0 +1,2 @@
+web: python standalone_server.py
+
