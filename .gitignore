@@ -1,12 +1,5 @@
 # Data pipelines – generated artifacts
-data/raw/
-data/processed/
-data/cache/
-# Keep generated databases out of git by default.
-# Explicitly allow the curated SQLite bundle we want to ship.
-data/*.db
-data/*.duckdb
-!data/caselaw.db
+
 
 # Virtual environments
 venv/
