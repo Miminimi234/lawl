@@ -124,6 +124,16 @@ class LegalCounselService:
         jurisdiction: Optional[str] = None,
         case_type: Optional[str] = None,
     ) -> Dict[str, object]:
+        logger.info(
+            "Counsel ask: session=%s title=%s jurisdiction=%s case_type=%s question_len=%s facts_len=%s",
+            session_id,
+            (case_title or "")[:60],
+            jurisdiction,
+            case_type,
+            len(question or ""),
+            len(facts or "") if facts else 0,
+        )
+
         conversation = await self._get_session_copy(session_id)
         client = self._ensure_client()
 
@@ -141,6 +151,9 @@ class LegalCounselService:
         except OpenAIError as exc:
             logger.exception("OpenAI chat completion failed: %s", exc)
             raise CounselServiceError("OpenAI completion failed") from exc
+        except Exception as exc:  # pragma: no cover - unexpected failures
+            logger.exception("Counsel ask unexpected failure: %s", exc)
+            raise CounselServiceError("Counsel service encountered an unexpected error.") from exc
 
         if not response.choices:
             raise CounselServiceError("No response returned from OpenAI.")
