@@ -18,6 +18,9 @@ from pathlib import Path
 # Add backend to path
 sys.path.insert(0, str(Path(__file__).parent))
 
+from app.schemas.counsel import CounselRequest, CounselResponse
+from app.services.legal_counsel_service import LegalCounselService
+
 # Import Real Case Fetcher
 REAL_CASES_AVAILABLE = False
 try:
@@ -32,6 +35,16 @@ logging.basicConfig(level=logging.INFO)
 logger = logging.getLogger("verdict.standalone")
 
 app = FastAPI(title="Verdict API")
+
+# Legal counsel service initialization
+COUNSEL_SERVICE_AVAILABLE = False
+counsel_service: Optional[LegalCounselService] = None
+try:
+    counsel_service = LegalCounselService()
+    COUNSEL_SERVICE_AVAILABLE = True
+    logger.info("Legal counsel service enabled.")
+except Exception as counsel_error:
+    logger.warning("Legal counsel service disabled: %s", counsel_error)
 
 # CORS - Allow verdictbnb.ai domain
 app.add_middleware(
@@ -1218,6 +1231,33 @@ async def startup_event():
     print("="*60 + "\n")
 
 # API Endpoints
+
+@app.post("/api/counsel/chat", response_model=CounselResponse)
+async def counsel_chat(payload: CounselRequest):
+    """Generate legal counsel response from the AI judicial panel."""
+    if not COUNSEL_SERVICE_AVAILABLE or counsel_service is None:
+        raise HTTPException(
+            status_code=503,
+            detail="Legal counsel service unavailable. Configure OPENAI_API_KEY to enable this feature.",
+        )
+
+    try:
+        result = counsel_service.generate_panel_guidance(  # type: ignore[union-attr]
+            message=payload.message,
+            history=[msg.model_dump() for msg in payload.history],
+        )
+    except ValueError as exc:
+        raise HTTPException(status_code=400, detail=str(exc)) from exc
+    except Exception as exc:  # pragma: no cover - runtime safety
+        logger.exception("Counsel service error: %s", exc)
+        raise HTTPException(
+            status_code=502,
+            detail="Failed to generate legal counsel response.",
+        ) from exc
+
+    return CounselResponse(**result)
+
+
 @app.get("/health")
 async def health():
     return {
