@@ -130,6 +130,21 @@ Decided: {case_data.get('decision_date', 'N/A')}
                     }
                 }
             }
+            # Include extra metadata fields if present so frontend can consume them directly
+            if 'opinions' in case_data:
+                case['opinions'] = case_data.get('opinions', [])
+            if 'parties' in case_data:
+                case['parties'] = case_data.get('parties', [])
+            if 'judges' in case_data:
+                case['judges'] = case_data.get('judges', [])
+            if 'provenance' in case_data:
+                case['provenance'] = case_data.get('provenance', {})
+            if 'source_url' in case_data:
+                case['source_url'] = case_data.get('source_url', '')
+            if 'url' in case_data:
+                case['url'] = case_data.get('url', '')
+            if 'last_updated' in case_data:
+                case['last_updated'] = case_data.get('last_updated')
             
             CASES_DB.append(case)
             CASE_ID_COUNTER += 1

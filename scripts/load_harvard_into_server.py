@@ -35,18 +35,26 @@ def convert_harvard_case(harvard_case, case_id):
     # Case text - extract from opinions
     casebody = harvard_case.get('casebody', {})
     case_text = ""
-    
+    opinions = []
+
     if isinstance(casebody, dict):
-        opinions = casebody.get('opinions', [])
-        if opinions and isinstance(opinions, list):
-            # Combine all opinion texts
+        raw_opinions = casebody.get('opinions', [])
+        if raw_opinions and isinstance(raw_opinions, list):
+            # Combine all opinion texts and keep structured opinions
             opinion_texts = []
-            for opinion in opinions:
+            for opinion in raw_opinions:
                 if isinstance(opinion, dict):
                     text = opinion.get('text', '')
                     author = opinion.get('author', '')
                     opinion_type = opinion.get('type', '')
-                    
+
+                    # Append structured opinion entry
+                    opinions.append({
+                        'author': author or None,
+                        'type': opinion_type or None,
+                        'text': text or None
+                    })
+
                     if text:
                         header = f"\n{'='*60}\n"
                         if author or opinion_type:
@@ -55,7 +63,7 @@ def convert_harvard_case(harvard_case, case_id):
                                 header += f" by {author}"
                             header += f"\n{'='*60}\n\n"
                         opinion_texts.append(header + text)
-            
+
             case_text = "\n\n".join(opinion_texts)
     
     # Fallback if no text found
@@ -64,6 +72,10 @@ def convert_harvard_case(harvard_case, case_id):
     
     # No truncation - include full opinion text!
     
+    # Collect parties and judges metadata when available
+    parties = harvard_case.get('parties') or harvard_case.get('parties_full') or []
+    judges = harvard_case.get('judges') or []
+
     # Determine case type from case name/text
     case_type = determine_case_type(name, case_text)
     
@@ -80,8 +92,14 @@ def convert_harvard_case(harvard_case, case_id):
         'citation': citation,
         'decision_date': decision_date,
         'case_text': case_text,
+        'opinions': opinions,
+        'parties': parties,
+        'judges': judges,
+        'provenance': harvard_case.get('provenance', {}),
+        'last_updated': harvard_case.get('last_updated') or harvard_case.get('modified') or None,
         'status': 'completed',
         'url': harvard_case.get('frontend_url') or harvard_case.get('url') or '',
+        'source_url': harvard_case.get('frontend_url') or harvard_case.get('url') or '',
         'snippet': case_text[:200] + '...' if len(case_text) > 200 else case_text,
         'confidence': 1.0,  # Real cases have 100% confidence
     }
