@@ -8,9 +8,15 @@ import json
 import logging
 import uuid
 from dataclasses import dataclass, field
-from typing import Dict, List, Optional
+from typing import Any, Dict, List, Optional
 
-from openai import AsyncOpenAI, OpenAIError
+try:
+    from openai import AsyncOpenAI, OpenAIError  # type: ignore
+except ModuleNotFoundError:
+    AsyncOpenAI = None  # type: ignore
+
+    class OpenAIError(Exception):
+        """Fallback error when OpenAI SDK is unavailable."""
 
 from app.core.config import settings
 
@@ -66,7 +72,10 @@ class LegalCounselService:
         self._lock = asyncio.Lock()
         self._client: Optional[AsyncOpenAI] = None
 
-    def _ensure_client(self) -> AsyncOpenAI:
+    def _ensure_client(self) -> Any:
+        if AsyncOpenAI is None:
+            logger.error("OpenAI Python SDK is not installed for legal counsel service")
+            raise CounselConfigurationError("OpenAI Python SDK is not installed.")
         api_key = settings.OPENAI_API_KEY
         if not api_key:
             logger.error("OpenAI API key missing for legal counsel service")
