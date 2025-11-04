@@ -1,0 +1,62 @@
+{
+  "id": 2192060,
+  "name": "In the Matter of the Accounting of Bertrand Clover as Assignee, etc.",
+  "name_abbreviation": "In re the Accounting of Clover",
+  "decision_date": "1883-12-04",
+  "docket_number": "",
+  "first_page": "636",
+  "last_page": "636",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "94 N.Y. 636"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "N.Y.",
+    "id": 24653,
+    "name": "New York Court of Appeals"
+  },
+  "jurisdiction": {
+    "id": 1,
+    "name_long": "New York",
+    "name": "N.Y."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 35,
+    "char_count": 252,
+    "ocr_confidence": 0.595,
+    "sha256": "6b608a566e67f0500860b3ad02042b9defe5b9d62c0d76a7a5e279462a16e906",
+    "simhash": "1:1b28bc89ce45c1db",
+    "word_count": 40
+  },
+  "last_updated": "2023-07-14T18:55:18.857986+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In the Matter of the Accounting of Bertrand Clover as Assignee, etc."
+    ],
+    "opinions": [
+      {
+        "text": "Agree to dismiss appeal; no opinion.\nAll concur.\nAppeal dismissed.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Nelson Smith for appellant.",
+      "De Witt C. Brown for respondent."
+    ],
+    "corrections": "",
+    "head_matter": "In the Matter of the Accounting of Bertrand Clover as Assignee, etc.\n(Argued November 20, 1883 ;\ndecided December 4, 1883.)\nNelson Smith for appellant.\nDe Witt C. Brown for respondent."
+  },
+  "file_name": "0636-03",
+  "first_page_order": 660,
+  "last_page_order": 660
+}

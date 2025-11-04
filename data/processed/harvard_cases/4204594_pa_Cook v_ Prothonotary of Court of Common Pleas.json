@@ -1,0 +1,67 @@
+{
+  "id": 4204594,
+  "name": "Darryl COOK, Petitioner v. PROTHONOTARY OF COURT OF COMMON PLEAS and Court of Common Pleas, Respondents",
+  "name_abbreviation": "Cook v. Prothonotary of Court of Common Pleas",
+  "decision_date": "2011-10-07",
+  "docket_number": "No. 48 EM 2011",
+  "first_page": "308",
+  "last_page": "308",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "612 Pa. 308"
+    },
+    {
+      "type": "parallel",
+      "cite": "30 A.3d 1099"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 44,
+    "char_count": 349,
+    "ocr_confidence": 0.7,
+    "pagerank": {
+      "raw": 4.688403287882615e-08,
+      "percentile": 0.1391916405848968
+    },
+    "sha256": "b6a9c95ce6a82823dd0d3a8cacd858cc58ba8b6af8974166b8a99eae6ac3872b",
+    "simhash": "1:5bb5533e65f86e85",
+    "word_count": 60
+  },
+  "last_updated": "2023-07-14T19:33:52.292960+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Darryl COOK, Petitioner v. PROTHONOTARY OF COURT OF COMMON PLEAS and Court of Common Pleas, Respondents."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nPER CURIAM.\nAND NOW, this 7th day of October, 2011, the Application for Leave to File Original Process is GRANTED, and the Petition for Writ of Mandamus is DENIED.",
+        "type": "majority",
+        "author": "PER CURIAM."
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "30 A.3d 1099\nDarryl COOK, Petitioner v. PROTHONOTARY OF COURT OF COMMON PLEAS and Court of Common Pleas, Respondents.\nNo. 48 EM 2011.\nSupreme Court of Pennsylvania.\nOct. 7, 2011."
+  },
+  "file_name": "0308-02",
+  "first_page_order": 352,
+  "last_page_order": 352
+}

@@ -1,0 +1,638 @@
+{
+  "id": 12519833,
+  "name": "Judith COX, Individually and as Personal Representative of the Estate of C. J. P., and Estate of B. T. P. and Charles Cox, Individually and as Personal Representatives of the Estate of C. J. P. and Estate of B. T. P., Plaintiffs-Appellants/Cross-Appellees, v. State of Washington, DEPARTMENT OF SOCIAL AND HEALTH SERVICES; Forest Jacobson; Randy Stephenson; Jane Wilson; Billie Reed-Lyyski, Defendants-Appellees/Cross-Appellants.",
+  "name_abbreviation": "Cox v. State",
+  "decision_date": "2019-01-10",
+  "docket_number": "Nos. 15-35964; 15-35980",
+  "first_page": "831",
+  "last_page": "843",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "913 F.3d 831"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "9th Cir.",
+    "id": 18869,
+    "name": "United States Court of Appeals for the Ninth"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "134 S.Ct. 1861",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        12707002,
+        12580258
+      ],
+      "weight": 2,
+      "year": 2014,
+      "pin_cites": [
+        {
+          "parenthetical": "per curiam"
+        },
+        {
+          "parenthetical": "per curiam"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/572/0650-01",
+        "/s-ct/134/1861-01"
+      ]
+    },
+    {
+      "cite": "572 U.S. 650",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        12707002
+      ],
+      "year": 2014,
+      "pin_cites": [
+        {
+          "page": "656",
+          "parenthetical": "per curiam"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/572/0650-01"
+      ]
+    },
+    {
+      "cite": "149 Wash.2d 589",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        1292551
+      ],
+      "year": 2003,
+      "pin_cites": [
+        {
+          "parenthetical": "en banc"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/149/0589-01"
+      ]
+    },
+    {
+      "cite": "Wash. Rev. Code \u00a7 26.44.050",
+      "category": "laws:leg_statute",
+      "reporter": "Wash. Rev. Code",
+      "weight": 2,
+      "opinion_index": 0
+    },
+    {
+      "cite": "1 P.3d 1148",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "weight": 4,
+      "year": 2000,
+      "pin_cites": [
+        {
+          "page": "1159"
+        },
+        {
+          "page": "1158"
+        },
+        {
+          "page": "1159"
+        },
+        {
+          "page": "1158"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "141 Wash.2d 68",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        1183463
+      ],
+      "year": 2000,
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/141/0068-01"
+      ]
+    },
+    {
+      "cite": "973 P.2d 465",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1999,
+      "pin_cites": [
+        {
+          "page": "472"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "137 Wash.2d 518",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        179292
+      ],
+      "year": 1999,
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/137/0518-01"
+      ]
+    },
+    {
+      "cite": "73 P.3d 1019",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2003,
+      "pin_cites": [
+        {
+          "page": "1023"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "117 Wash.App. 881",
+      "category": "reporters:state",
+      "reporter": "Wash. App.",
+      "case_ids": [
+        652747
+      ],
+      "year": 2003,
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-app/117/0881-01"
+      ]
+    },
+    {
+      "cite": "86 P.3d 1234",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "weight": 3,
+      "year": 2004,
+      "pin_cites": [
+        {
+          "page": "1244"
+        },
+        {
+          "page": "1244"
+        },
+        {
+          "page": "1244-45"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "121 Wash.App. 36",
+      "category": "reporters:state",
+      "reporter": "Wash. App.",
+      "case_ids": [
+        863909
+      ],
+      "year": 2004,
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-app/121/0036-01"
+      ]
+    },
+    {
+      "cite": "979 P.2d 400",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1999,
+      "pin_cites": [
+        {
+          "page": "406"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "138 Wash.2d 265",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        887368
+      ],
+      "year": 1999,
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/138/0265-01"
+      ]
+    },
+    {
+      "cite": "558 F.3d 1028",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        3358956
+      ],
+      "year": 2009,
+      "pin_cites": [
+        {
+          "parenthetical": "recognizing we \"may affirm on any ground supported by the record, even if it differs from the district court's rationale\" (citation omitted) "
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/558/1028-01"
+      ]
+    },
+    {
+      "cite": "809 P.2d 143",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1991,
+      "opinion_index": 0
+    },
+    {
+      "cite": "116 Wash.2d 596",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        1376202
+      ],
+      "year": 1991,
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/116/0596-01"
+      ]
+    },
+    {
+      "cite": "402 P.3d 346",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2017,
+      "pin_cites": [
+        {
+          "page": "350"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "200 Wash.App. 189",
+      "category": "reporters:state",
+      "reporter": "Wash. App.",
+      "year": 2017,
+      "opinion_index": 0
+    },
+    {
+      "cite": "70 P.3d 954",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "960",
+          "parenthetical": "en banc"
+        },
+        {
+          "page": "960"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "387 P.3d 1093",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "weight": 3,
+      "year": 2017,
+      "pin_cites": [
+        {
+          "parenthetical": "\" H.B.H. I \""
+        },
+        {
+          "page": "1101"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "197 Wash.App. 77",
+      "category": "reporters:state",
+      "reporter": "Wash. App.",
+      "case_ids": [
+        12453147
+      ],
+      "year": 2017,
+      "pin_cites": [
+        {
+          "parenthetical": "\" H.B.H. I \""
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-app/197/0077-01"
+      ]
+    },
+    {
+      "cite": "429 P.3d 484",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "case_ids": [
+        12571213
+      ],
+      "weight": 9,
+      "year": 2018,
+      "pin_cites": [
+        {
+          "page": "492",
+          "parenthetical": "\" H.B.H. II \""
+        },
+        {
+          "parenthetical": "citations omitted"
+        },
+        {
+          "page": "494",
+          "parenthetical": "citation omitted"
+        },
+        {
+          "page": "496"
+        },
+        {
+          "page": "488"
+        },
+        {
+          "page": "499",
+          "parenthetical": "citation and internal quotation marks omitted"
+        },
+        {
+          "page": "496"
+        },
+        {
+          "page": "496"
+        },
+        {
+          "page": "499"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/p3d/429/0484-01"
+      ]
+    },
+    {
+      "cite": "192 Wash.2d 154",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "year": 2018,
+      "pin_cites": [
+        {
+          "parenthetical": "\" H.B.H. II \""
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "257 P.3d 532",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2011,
+      "pin_cites": [
+        {
+          "page": "542"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "171 Wash.2d 587",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        4015220
+      ],
+      "year": 2011,
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/171/0587-01"
+      ]
+    },
+    {
+      "cite": "141 F.3d 927",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        191511
+      ],
+      "year": 1998,
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/141/0927-01"
+      ]
+    },
+    {
+      "cite": "105 F.3d 493",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        7633819
+      ],
+      "year": 1997,
+      "pin_cites": [
+        {
+          "page": "501"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/105/0493-01"
+      ]
+    },
+    {
+      "cite": "572 F.3d 1047",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        3670886
+      ],
+      "year": 2009,
+      "pin_cites": [
+        {
+          "page": "1061"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/572/1047-01"
+      ]
+    },
+    {
+      "cite": "514 F.3d 906",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        3618758
+      ],
+      "year": 2008,
+      "pin_cites": [
+        {
+          "page": "908-09"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/514/0906-01"
+      ]
+    },
+    {
+      "cite": "630 F.3d 833",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        6053326
+      ],
+      "weight": 3,
+      "year": 2010,
+      "pin_cites": [
+        {
+          "page": "842",
+          "parenthetical": "citing Beltran v. Santa Clara Cty. , 514 F.3d 906, 908-09 (9th Cir. 2008) ; Miller , 335 F.3d at 898 "
+        },
+        {
+          "page": "844",
+          "parenthetical": "footnote, citations, and some internal quotation marks omitted"
+        },
+        {
+          "page": "845"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/630/0833-01"
+      ]
+    },
+    {
+      "cite": "335 F.3d 889",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        1533829
+      ],
+      "weight": 4,
+      "year": 2003,
+      "pin_cites": [
+        {
+          "page": "898",
+          "parenthetical": "en banc"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/335/0889-01"
+      ]
+    },
+    {
+      "cite": "844 F.3d 1112",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        12177613
+      ],
+      "year": 2017,
+      "pin_cites": [
+        {
+          "page": "1115",
+          "parenthetical": "citing Miller v. Gammie , 335 F.3d 889, 898 (9th Cir. 2003) (en banc) "
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/844/1112-01"
+      ]
+    },
+    {
+      "cite": "812 F.2d 1103",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1694644
+      ],
+      "year": 1987,
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/812/1103-01"
+      ]
+    },
+    {
+      "cite": "237 F.3d 1101",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        11167644
+      ],
+      "year": 2001,
+      "pin_cites": [
+        {
+          "page": "1106",
+          "parenthetical": "citing Greater L.A. Council on Deafness, Inc. v. Zolin , 812 F.2d 1103 (9th Cir. 1987) "
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/237/1101-01"
+      ]
+    },
+    {
+      "cite": "871 F.3d 1032",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        12266216
+      ],
+      "year": 2017,
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/871/1032-01"
+      ]
+    },
+    {
+      "cite": "28 U.S.C. \u00a7 1291",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "42 U.S.C. \u00a7 1983",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "weight": 3,
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 1263,
+    "char_count": 32202,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.25916568881042873
+    },
+    "sha256": "3dd0c9c2dbf83c7b2300435c79166b5e29aea88172e0b68508857033f2797c12",
+    "simhash": "1:3a6ce73e483734d2",
+    "word_count": 5037
+  },
+  "last_updated": "2024-02-27T18:46:17.308091+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "file_name": "0831-01",
+  "first_page_order": 831,
+  "last_page_order": 843
+}

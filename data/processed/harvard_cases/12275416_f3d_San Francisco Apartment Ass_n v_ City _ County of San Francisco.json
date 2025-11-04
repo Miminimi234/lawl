@@ -1,0 +1,562 @@
+{
+  "id": 12275416,
+  "name": "SAN FRANCISCO APARTMENT ASSOCIATION; Coalition for Better Housing; Small Property Owners of San Francisco Institute; San Francisco Association of Realtors; Norman T. Larson, Plaintiffs-Appellants, v. CITY AND COUNTY OF SAN FRANCISCO, Defendant-Appellee",
+  "name_abbreviation": "San Francisco Apartment Ass'n v. City & County of San Francisco",
+  "decision_date": "2018-02-08",
+  "docket_number": "No. 15-17381",
+  "first_page": "1169",
+  "last_page": "1181",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "881 F.3d 1169"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "9th Cir.",
+    "id": 8826,
+    "name": "United States Court of Appeals for the Ninth Circuit"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "198 U.S. 45",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        1499541
+      ],
+      "weight": 3,
+      "year": 1905,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/198/0045-01"
+      ]
+    },
+    {
+      "cite": "96 L.Ed. 469",
+      "category": "reporters:federal",
+      "reporter": "L. Ed.",
+      "year": 1952,
+      "pin_cites": [
+        {
+          "parenthetical": "\"The liberty of contract argument pressed on us is reminiscent of the philosophy of Lochner v. State of New York, 198 U.S. 45 [25 S.Ct. 539, 49 L.Ed. 937] (1905"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "342 U.S. 421",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        640887
+      ],
+      "weight": 2,
+      "year": 1952,
+      "pin_cites": [
+        {
+          "page": "423",
+          "parenthetical": "\"The liberty of contract argument pressed on us is reminiscent of the philosophy of Lochner v. State of New York, 198 U.S. 45 [25 S.Ct. 539, 49 L.Ed. 937] (1905"
+        },
+        {
+          "parenthetical": "\"The liberty of contract argument pressed on us is reminiscent of the philosophy of Lochner v. State of New York, 198 U.S. 45 [25 S.Ct. 539, 49 L.Ed. 937] (1905"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/342/0421-01"
+      ]
+    },
+    {
+      "cite": "827 F.2d 1310",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1753980
+      ],
+      "year": 1987,
+      "pin_cites": [
+        {
+          "page": "1315"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/827/1310-01"
+      ]
+    },
+    {
+      "cite": "42 U.S.C. \u00a7 12102",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "weight": 4,
+      "opinion_index": 0
+    },
+    {
+      "cite": "Cal. Gov't Code \u00a7 65580",
+      "category": "laws:leg_statute",
+      "reporter": "Cal. Code",
+      "pin_cites": [
+        {
+          "page": "(a)",
+          "parenthetical": "\"The availability of housing is of vital statewide importance, and the early attainment of decent housing and a suitable living environment for every Californian ... is a priority of the highest order.\""
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "703 P.2d 339",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1985,
+      "opinion_index": 0
+    },
+    {
+      "cite": "39 Cal. 3d 256",
+      "category": "reporters:state",
+      "reporter": "Cal. 3d",
+      "case_ids": [
+        2011423
+      ],
+      "year": 1985,
+      "pin_cites": [
+        {
+          "page": "262-66"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-3d/39/0256-01"
+      ]
+    },
+    {
+      "cite": "301 P.3d 1102",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2013,
+      "pin_cites": [
+        {
+          "parenthetical": "\"Courts have frequently recognized that individuals have a substantial interest in the privacy of them home.... Accordingly, home contact information is generally considered private.\" (quotation omitted)"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "157 Cal.Rptr.3d 481",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr. 3d",
+      "year": 2013,
+      "pin_cites": [
+        {
+          "parenthetical": "\"Courts have frequently recognized that individuals have a substantial interest in the privacy of them home.... Accordingly, home contact information is generally considered private.\" (quotation omitted)"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "56 Cal. 4th 905",
+      "category": "reporters:state",
+      "reporter": "Cal. 4th",
+      "case_ids": [
+        4225125
+      ],
+      "year": 2013,
+      "pin_cites": [
+        {
+          "page": "927",
+          "parenthetical": "\"Courts have frequently recognized that individuals have a substantial interest in the privacy of them home.... Accordingly, home contact information is generally considered private.\" (quotation omitted)"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-4th/56/0905-01"
+      ]
+    },
+    {
+      "cite": "485 U.S. 1",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        13427
+      ],
+      "weight": 3,
+      "year": 1988,
+      "pin_cites": [
+        {
+          "page": "13-14"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/485/0001-01"
+      ]
+    },
+    {
+      "cite": "998 F.2d 680",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        10514274
+      ],
+      "weight": 3,
+      "year": 1993,
+      "pin_cites": [
+        {
+          "page": "690"
+        },
+        {
+          "page": "690"
+        },
+        {
+          "page": "690"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/998/0680-01"
+      ]
+    },
+    {
+      "cite": "473 U.S. 432",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6200639
+      ],
+      "weight": 3,
+      "year": 1985,
+      "pin_cites": [
+        {
+          "page": "440"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/473/0432-01"
+      ]
+    },
+    {
+      "cite": "729 F.3d 1189",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        3700658
+      ],
+      "year": 2013,
+      "pin_cites": [
+        {
+          "page": "1191"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/729/1189-01"
+      ]
+    },
+    {
+      "cite": "Cal. Bus. & Prof. Code \u00a7 10233.2",
+      "category": "laws:leg_statute",
+      "reporter": "Cal. Code",
+      "opinion_index": 0
+    },
+    {
+      "cite": "Cal. Civ. Code \u00a7 2932.5",
+      "category": "laws:leg_statute",
+      "reporter": "Cal. Code",
+      "opinion_index": 0
+    },
+    {
+      "cite": "Cal. Gov't Code \u00a7 27280",
+      "category": "laws:leg_statute",
+      "reporter": "Cal. Code",
+      "pin_cites": [
+        {
+          "page": "(a)"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "865 P.2d 633",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "weight": 2,
+      "year": 1994,
+      "opinion_index": 0
+    },
+    {
+      "cite": "26 Cal.Rptr.2d 834",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr. 2d",
+      "weight": 2,
+      "year": 1994,
+      "opinion_index": 0
+    },
+    {
+      "cite": "7 Cal. 4th 1",
+      "category": "reporters:state",
+      "reporter": "Cal. 4th",
+      "case_ids": [
+        1981852
+      ],
+      "year": 1994,
+      "pin_cites": [
+        {
+          "page": "20"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-4th/7/0001-01"
+      ]
+    },
+    {
+      "cite": "471 U.S. 626",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6206937
+      ],
+      "weight": 4,
+      "year": 1985,
+      "pin_cites": [
+        {
+          "page": "651"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/471/0626-01"
+      ]
+    },
+    {
+      "cite": "854 F.3d 1105",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        12277381
+      ],
+      "year": 2017,
+      "pin_cites": [
+        {
+          "page": "1115",
+          "parenthetical": "citing Zauderer v. Office of Disciplinary Counsel of the Supreme Ct. of Ohio, 471 U.S. 626, 651, 105 S.Ct. 2265, 85 L.Ed.2d 652 (1985) "
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/854/1105-01"
+      ]
+    },
+    {
+      "cite": "507 U.S. 761",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6238494
+      ],
+      "weight": 3,
+      "year": 1993,
+      "pin_cites": [
+        {
+          "page": "707",
+          "parenthetical": "holding that restrictions on commercial speech \"need only be tailored in a reasonable manner to serve a substantial state interest\""
+        },
+        {
+          "parenthetical": "holding that restrictions on commercial speech \"need only be tailored in a reasonable manner to serve a substantial state interest\""
+        },
+        {
+          "parenthetical": "holding that restrictions on commercial speech \"need only be tailored in a reasonable manner to serve a substantial state interest\""
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/507/0761-01"
+      ]
+    },
+    {
+      "cite": "514 U.S. 476",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        1339650
+      ],
+      "weight": 3,
+      "year": 1995,
+      "pin_cites": [
+        {
+          "page": "486"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/514/0476-01"
+      ]
+    },
+    {
+      "cite": "606 F.3d 676",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        3678110
+      ],
+      "weight": 2,
+      "year": 2010,
+      "pin_cites": [
+        {
+          "page": "684",
+          "parenthetical": "alteration in original"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/606/0676-01"
+      ]
+    },
+    {
+      "cite": "425 U.S. 748",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6182253
+      ],
+      "weight": 3,
+      "year": 1976,
+      "pin_cites": [
+        {
+          "page": "752"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/425/0748-01"
+      ]
+    },
+    {
+      "cite": "447 U.S. 557",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6186683
+      ],
+      "weight": 2,
+      "year": 1980,
+      "pin_cites": [
+        {
+          "page": "561"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/447/0557-01"
+      ]
+    },
+    {
+      "cite": "353 F.3d 1099",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        9298506
+      ],
+      "year": 2004,
+      "pin_cites": [
+        {
+          "page": "1106",
+          "parenthetical": "citing Cent. Hudson Gas & Elec. Corp. v. Pub. Serv. Comm'n of N.Y., 447 U.S. 557, 561, 100-S.Ct. 2343, 65 L.Ed.2d 341 (1980); Va. State Bd. of Pharmacy v. Va. Citizens Consumer Council, Inc., 425 U.S. 748, 752, 96 S.Ct. 1817, 48 L.Ed.2d 346 (1976)"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/353/1099-01"
+      ]
+    },
+    {
+      "cite": "143 F.3d 1196",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        268759
+      ],
+      "weight": 4,
+      "year": 1998,
+      "pin_cites": [
+        {
+          "page": "1200"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/143/1196-01"
+      ]
+    },
+    {
+      "cite": "189 F.3d 971",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        1733447
+      ],
+      "weight": 2,
+      "year": 1999,
+      "pin_cites": [
+        {
+          "page": "978"
+        },
+        {
+          "page": "978-79"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/189/0971-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 1249,
+    "char_count": 30286,
+    "ocr_confidence": 0.596,
+    "pagerank": {
+      "raw": 5.207966869300525e-08,
+      "percentile": 0.32906551694712705
+    },
+    "sha256": "242dffd49f05b54bc822596366a95a6c4ca184058b1aa388799e3e78ae043642",
+    "simhash": "1:ab3be0bbaa1c4060",
+    "word_count": 4646
+  },
+  "last_updated": "2024-02-27T17:59:44.301675+00:00",
+  "provenance": {
+    "date_added": "2018-10-23",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before: Eugene E. Siler, Richard C.. Tallman, and Carlos T. Bea, Circuit Judges."
+    ],
+    "parties": [
+      "SAN FRANCISCO APARTMENT ASSOCIATION; Coalition for Better Housing; Small Property Owners of San Francisco Institute; San Francisco Association of Realtors; Norman T. Larson, Plaintiffs-Appellants, v. CITY AND COUNTY OF SAN FRANCISCO, Defendant-Appellee."
+    ],
+    "opinions": [
+      {
+        "text": "OPINION\nBEA, Circuit Judge\nWe must determine whether a San Francisco city ordinance limiting the rights of landlords to commence and conduct buyout negotiations is consistent with the federal and state constitutions. We do not, as we must not, evaluate the policy merits of the ordinance. Appellants\u2014an individual property owner and several organizations that represent landlords\u2019 interests in San Francisco\u2014present us with assertions but no authority which suggests the ordinance runs afoul of either constitution! We therefore affirm the district court\u2019s decision to grant the City and County of San Francisco\u2019s (\u201cthe City\u2019s\u201d) motion for judgment on the pleadings.\nFACTUAL AND PROCEDURAL BACKGROUND\nOn October 21, 2014, the San Francisco Board of Supervisors enacted Ordinance No. 225-14 (the \u201cOrdinance\u201d), titled \u201cTenant Buyout Agreements.\u201d See S.F. Admin. Code \u00a7 37.9E. The \u201cFindings and Purpose\u201d section provides context for the enactment of the Ordinance:\nInstead of evicting tenants, some landlords offer cash buyouts to tenants in exchange for the tenants vacating rental units.... Unlike no-fault evictions, these buyouts are unregulated, and can enable landlords to circumvent many of the restrictions that apply when a landlord, executes a no-fault eviction. For example, a landlord'who executes some types of no-fault evictions must give tenants a certain amount of time to move out, provide funds to tenants-to cover relocation costs, and allow tenants to move back into the unit under specified circumstances. Two types of these no fault evictions\u2014the Ellis Act and owner move-in evictions\u2014contain restrictions on how much rent a landlord can charge if the units are re-rented following eviction. Analogous regulations do not exist for tenant buyouts.\nAnecdotal evidence indicates- that many buyout agreements are not conducted at armS-length, and landlords sometimes employ high-pressure tactics and intimidation to induce tenants to sign the agreements. Some landlords threaten tenants with eviction if they do not accept the terms of the buyout. The frequency of -these buyout offers increased significantly following passage of a San Francisco law in 1996 which restricted, and in many cases prohibited, condominium conversions following no fault evictions. By threatening a specific no fault eviction and then convincing a tenant to vacate rather than receiving the eviction notice, a landlord will avoid restrictions on condominium conversion as well as restrictions on renovations, mergers, or demolitions.... Disabled, senior, and catastrophically ill tenants can be particularly vulnerable, and. can face greater -hurdles in securing new housing., \u25a0 -\nThe main purpose of this Section 37.9E is to increase the fairness of buyout negotiations and agreements by requiring landlords to provide tenants with a statement of their rights and allowing tenants to rescind a buyout agreement for up to 45 days after signing the agreement.... Another goal of this ordinance is to help the City collect data about buyout agreements. The City lacks comprehensive information about the number, location, and terms of buyout agreements. This dearth of information precludes the City from understanding the true level of tenant displacement in San Francisco.\nS.F. Admin. Code \u00a7 37.9E(a). The Ordinance defines \u201cBuyout Agreement\u201d as \u201can agreement wherein the landlord pays the tenant money or other consideration to vacate the rental unit,\u201d and it excludes from the definition agreements \u201cto settle a pending unlawful detainer action.\u201d Id. \u00a7 37.9E(c). The Ordinance defines \u201cBuyout Negotiations\u201d as \u201cany discussion or bargaining, whether oral or written, between a landlord and tenant regarding the possibility of entering into a Buyout Agreement.\u201d Id.\nThe Ordinance has six provisions rele-, vant to this appeal: (1) the \u201cDisclosure Provision,\u201d (2) the \u201cNotification Provision,\u201d (3) the \u201cRescission Provision,\u201d (4) the \u201cDatabase Provision,\u201d (5) the \u201cPenalty and Fee Provision,\u201d and (6) the \u201cCondominium Conversion Provision.\u201d Id. \u00a7 37.9E; S.F. Subdivision Code \u00a7 1396.\nThe Disclosure Provision states that, prior to the commencement of buyout negotiations for a rental unit, landlords must provide each tenant in that unit with a written disclosure form written by the Rent Board. S.F. Admin. Code \u00a7 37.9E(d). The form states that a tenant has a right not to - enter into buyout negotiations or a buyout agreement, may choose to consult with an attorney before entering into negotiations or an agreement, has a right to rescind any buyout agreement for up to forty-five days after the agreement\u2019s execution, and may visit the Rent Board for information about other buyout agreements in the tenant\u2019s neighborhood. The form also includes a description of the Condominium Conversion Provision, the contact information for the landlord, the contact information for several tenants\u2019 rights organizations, and a space for' a tenant signature.\nThe Notification Provision states that, prior to the commencement of buyout negotiations, the landlord shall provide the Rent Board with a declaration that the landlord provided each tenant with the disclosure form required by \u00a7 37.9E(d). Id. \u00a7 S^Efe).\nThe Rescission Provision provides tenants with a unilateral right to rescind an executed buyout agreement for up to and including forty-five days after the agreement\u2019s execution. Id. \u00a7 37.9E(g).\nThe Database Provision requires landlords to file a copy of any buyout agreement with the Rent Board between the forty-sixth and fifty-ninth day after the execution date of the buyout agreement. Id. \u00a7 37.9E(h). A related provision requires that the Rent Board create a searchable database with information received from the buyout agreements filed by landlords. Id. \u00a7 37.9E(i).\nThe Penalty and Fee Provision provides that a tenant may bring a civil action against a landlord for \u201cfailure to comply with the requirements set forth in subsections (d) and (f).\u201d Id. \u00a7 37.9E(k). That section also provides that \u201c[t]he City Attorney or any organization with tax exempt status under [Section 501(c)(3) or 501(c)(4) ] with a primary mission of protecting the rights of tenants in San Francisco may bring a civil action against a landlord ... for failure to comply with subsection (h).\u201d Id.\nFinally, the Condominium Conversion Provision provides that any property subject to a buyout agreement after the enactment of the Ordinance is ineligible for conversion to a condominium for ten years where the tenant involved in the buyout agreement was senior, disabled, catastrophically ill, or where the owner entered into a buyout agreement with two or more tenants in the same building. S.F. Subdivision Code \u00a7 1396.\nAppellants commenced this action by filing a \u201cpetition for writ of mandate\u201d and a \u201ccomplaint for injunctive and declaratory relief\u2019 in the Superior Court of California in San Francisco. Appellants alleged in their complaint that the Ordinance violates free speech rights under the United States and California Constitutions, equal protection and due process rights under the United States and California Constitutions, Appellants\u2019 right to privacy under the California Constitution, and \u201cthe right to enter into voluntary settlement of disputes.\u201d Appellants sought an order declaring the Ordinance illegal and unenforceable. The City removed the case based on the federal constitutional claims, and filed a motion for judgment on the pleadings. The district court granted the City\u2019s motion for judgment on the pleadings. Because the district court concluded that amendment would be futile, the district court dismissed the case with prejudice.\nSTANDARD OF REVIEW\nWe review de novo a district court\u2019s order granting a motion for judgment on the pleadings. See Heliotrope Gen., Inc. v. Ford Motor Co., 189 F.3d 971, 978 (9th Cir. 1999). \u201cA judgment on the pleadings is properly granted when, taking all the allegations in the pleading as true, the moving party is entitled to judgment as a matter of law.\u201d Id. at 978-79 (quoting Nelson v. City of Irvine, 143 F.3d 1196, 1200 (9th Cir. 1998)).\nDISCUSSION\nI. The Ordinance does not prevent Appellants from commencing buyout negotiations if a tenant refuses to sign the disclosure form.\nAppellants argue that the Ordinance is a \u201cGag Rule\u201d that prevents landlords from commencing buyout negotiations unless the tenant signs the required disclosure form. Although the disclosure form states that \u201c[e]ach tenant must sign \u25a0this three-page Pre-Buyout Negotiations Disclosure Form below and write the date the landlord provided the tenant with the disclosure form,\u201d the Ordinance makes clear that landlords need not obtain the tenant\u2019s signature prior to the commencement of buyout negotiations.\nThe Ordinance imposes a number of specific requirements on landlords before they can' commence buyout negotiations\u2014none of which involve securing the tenant\u2019s signature. For example, the Ordinance provides that, prior to the commencement of buyout negotiations, landlords \u201cshall pro.vide each tenant in that rental unit a written disclosure, on a form developed and authorized by the Rent Board.\u201d S.F. Admin. Code \u00a7 37.9E(d). Landlords also must provide the Rent Board with' \u201c[a] statement' signed under penalty of perjury that the landlord provided each tenant with\u201d the required disclosure form.' Id. \u00a7 37.9E(e). There is no requirement that the landlord certify that the tenant signed the form. There is also no requirement to obtain a tenant\u2019s signature prior to the commencement of buyout negotiations. Moreover, tenants may sue landlords who fail to provide that form prior to the commencement of buyout negotiations. Id. \u00a7 37.9E(k). That subsection does not provide a right of action to tenants or anyone else against landlords who fail to obtain the tenant\u2019s signature. Although the .Ordinance states that \u201c[t]he landlord shall retain a copy of each signed disclosure form for five years, along with a record of the date the landlord provided the disclosure to each tenant,\u201d id. \u00a7 37.9E(d), that clause can easily be understood to mean that landlords need only retain copies of signed disclosure forms, and need not retain copies of disclosure forms that tenants refuse to sign. In other words, the requirement that the landlord retain copies of signed disclosure forms does. not condition the right to commence buyout negotiations on the tenant having signed the form. Thus, Appellants\u2019, argument that the Ordinance prevents them from initiating buyout negotiations unless tenants sign the disclosure form fails under the plain language of the Ordinance.\nII. The Disclosure Provision does not violate Appellants\u2019 First Amendment rights.\nAppellants argue that' the Disclosure Provision violates the First Amendment because it restricts protected speech. They claim it limits landlords\u2019 ability to initiate buyout negotiations and compels speech by requiring landlords to disclose the contact information for tenants\u2019 rights organizations prior to the commencement of buyout negotiations. The City argues that the Disclosure Provision targets purely commercial speech and does not preclude or limit any speech after the minimal requirements of the Disclosure Provision and Notification Provision' have been met. The City also argues that the Disclosure Provision does not unconstitutionally compel speech because the requirement to disclose a list of tenants\u2019 rights organizations directly advances the City\u2019s substantial interest in improving the bargaining position of tenants, and includes no message from or endorsement of those organizations.\nAlthough Appellants urge that the commencement of buyout negotiations constitutes commercial speech that is inextricably intertwined with noncommercial, fully protected speech, Appellants fail to identify the noncommercial, fully protected speech at issue. The district court did not err in concluding that- a discussion between a landlord and a teriant about the possibility of entering into a buyout agreement is commercial speech, as it relates solely to the economic interests of the parties and does no more than propose a commercial transaction. See Am. Acad. of Pain Mgmt. v. Joseph, 353 F.3d 1099, 1106 (9th Cir. 2004) (citing Cent. Hudson Gas & Elec. Corp. v. Pub. Serv. Comm\u2019n of N.Y., 447 U.S. 557, 561, 100-S.Ct. 2343, 65 L.Ed.2d 341 (1980); Va. State Bd. of Pharmacy v. Va. Citizens Consumer Council, Inc., 425 U.S. 748, 752, 96 S.Ct. 1817, 48 L.Ed.2d 346 (1976)).\nWe use the four-part test from Central Hudson to .evaluate restrictions on commercial speech:\n(1) if the communication \u215b neither misleading nor related to unlawful activity, then it merits First Amendment scrutiny as a threshold matter;- in order for the restriction to withstand such scrutiny, (2) [t]he State must assert a substantial interest to be achieved by restrictions on commercial speech; (3) the restriction must directly advance the state interest involved; and (4) it must not be more extensive than is necessary to serve that interest.\nWorld Wide Rush, LLC v. City of Los Angeles, 606 F.3d 676, 684 (9th Cir. 2010) (alteration in original) (quotation omitted). First, the Ordinance triggers First Amendment scrutiny because it restricts commercial speech that is neither misleading nor related to unlawful activity. Second, the asserted government interests in enacting the.Ordinance are substantial. As the Ordinance states, its main purpose is \u201cto increase the fairness of buyout negotiations and agreements\u201d in response to San Francisco\u2019s. \u201chousing crisis.\u201d S.F. Admin. Code \u00a7 37.9E(a). It also seeks to \u201creduc[e] the likelihood of landlords pressuring tenants into signing buyout agreements without allowing the tenants sufficient time to consult with a tenants\u2019 rights specialist,\u201d and to \u201ccollect data about buyout agreements.\u201d Id.\nThe final two steps of the Central Hudson analysis \u201cbasically involve a consideration of the \u2018fit\u2019 between the legislature\u2019s ends and the means chosen to accomplish those ends.\u201d' Rubin v. Coors Brewing Co., 514 U.S. 476, 486, 115 S.Ct. 1585, 131 L.Ed.2d 532 (1995)-. (quotation omitted). The Ordinance purports to advance the City\u2019s stated \u25a0 interest in the fairness-of buyout negotiations by placing targeted restrictions on landlord-tenant communication before the landlord discloses certain pertinent information. As the district court held, the Ordinance is sufficiently tailored because the speech restrictions apply only until the landlord has provided the disclosures to the tenant, which \u201ccould take less than half a day.\u201d See Edenfield v. Fane, 507 U.S. 761, 707, 113 S.Ct. 1792, 123 L.Ed.2d 543 (1993) (holding that restrictions on commercial speech \u201cneed only be tailored in a reasonable manner to serve a substantial state interest\u201d). Thus, these restrictions do not violate the First Amendment.\nNeither do the Disclosure Provision\u2019s compelled disclosures run afoul of the First Amendment. \u201c[T]he government may compel truthful disclosure in commercial speech as long as the compelled disclosure is \u2018reasonably related\u2019 to a substantial governmental interest.\u201d CTIA The Wireless Ass\u2019n v. City of Berkeley, 854 F.3d 1105, 1115 (9th Cir. 2017) (citing Zauderer v. Office of Disciplinary Counsel of the Supreme Ct. of Ohio, 471 U.S. 626, 651, 105 S.Ct. 2265, 85 L.Ed.2d 652 (1985) ). Here, the City requires landlords to provide tenants with a form that describes tenants\u2019 rights with respect to buyout negotiations and agreements, and \u00edists the contact information for tenants\u2019 rights organizations. Both disclosures are \u201cpurely factual,\u201d and do not include any message whatsoever from the tenants\u2019 rights organizations listed on the disclosure form. Id. Moreover, the required disclosure advances the City\u2019s purported substantial interest in increasing the fairness of buyout negotiations (by informing tenants of their rights) and reducing the likelihood that tenants will accept \u201cunfair\u201d buyout agreements (by providing tenants with a list of organizations that can advance, their rights). Therefore, the Disclosure Provision does not violate the First Amendment.\nIII. The creation of a publicly searcha-ble database of buyout agreements does not violate landlords\u2019 right to privacy under the California Constitution.\nAppellants argue that the Database Provision of the Ordinance violates landlords\u2019 right to privacy under the California Constitution. Th\u00e9 Database Provision makes publicly available landlords\u2019 business contact information, the address of any rental unit subject to a buyout agreement, the certification of compliance with the Disclosure Provision, and copies of executed buyout agreements. S.F. Admin. Code \u00a7 37.9E(h). The City argues that landlords have no legally protected privacy interest in their names, business contact information, or address of the rental unit at issue, because ownership of property is a matter of public record. The City also argues that landlords have no legally protected privacy interest or reasonable expectation of privacy in the transactional information included in buyout agreements, as that information is not the type of private financial information held to be protected by the right to privacy under the California Constitution.\n\u201c[A]rticle I, section 1 of the California Constitution creates a right of action against private as well as government entities.\u201d Hill v. Nat\u2019l Collegiate Athletic Ass\u2019n, 7 Cal. 4th 1, 20, 26 Cal.Rptr.2d 834, 865 P.2d 633 (1994). To state a claim for a violation of the right to privacy under the California Constitution, Appellants must allege facts sufficient to raise a plausible inference that they have a legally protected privacy interest, a reasonable expectation of privacy under the circumstances, and a \u201cserious invasion\u201d of privacy by the City that constitutes \u201can egregious breach of the social norms underlying the privacy right.\u201d Id at 35-37, 26 Cal.Rptr.2d 834, 865 P.2d 633.\nThe district court did not err in its conclusion that landlords do not have a legally protected privacy interest or reasonable expectation of privacy in the information made publicly available by the Ordinance. As the City noted, information already publicly available is not protected by the\\ right to privacy under the California Constitution. Moreover, Appellants offer no explanation why the terms or consideration for a buyout agreement is more sensitive or private than other financial information routinely submitted to the government and made publicly available. For example, a landlord who seeks to impose a rent increase in excess of the generally applicable limitations must file a petition with the Rent Board that includes (among other information) the landlord\u2019s name and contact information, the property address, information about proposed expenditures where applicable, the current rent for each unit, and the proposed increase. S.F. Admin. Code \u00a7 37.7, 37.8. Landlords also must disclose similar information when they apply for condominium conversions, including detailed rental history, proposed sale prices of the condominiums produced, and a copy of the condominium purchase agreement. S.F. Subdivision Code \u00a7 1381. More broadly, financial information relating to real estate and land use transactions is regularly filed with government entities and made publicly accessible, including records that involve security interests or transfers of ownership or title, or applications under the zoning laws. See, e.g., S.F. Planning Code \u00a7 303, 305; Cal. Gov\u2019t Code \u00a7 27280(a); Cal. Civ. Code \u00a7 2932.5; Cal. Bus. & Prof. Code \u00a7 10233.2. Appellants fail to provide any argument why the consideration paid in a buyout transaction, or any other information contained in a buyout agreement, is more sensitive than the information described above.\nIV. The Ordinance does not violate landlords\u2019 rights to equal protection or due process.\nAppellants argue that the Ordinance violates their rights to equal protection and due process because it applies only to speech by landlords and requires the redaction of the tenant\u2019s identity, but not the landlord\u2019s identity, from the publicly searchable database of buyout agreements. As explained above, the Ordinance does not violate the First Amendment, nor does it violate any other fundamental right guaranteed by the Constitution. Landlords are also not a protected class. Therefore, we review Appellants\u2019 claim that the Ordinance violates their right to equal proteetion under the rational basis standard. See Sylvia Landfield Tr. v. City of L.A., 729 F.3d 1189, 1191 (9th Cir. 2013). Under the rational basis standard, \u201c[t]he general rule is that legislation is presumed to be valid and will be sustained if the classification drawn by the statute is rationally related to a legitimate state interest.\u201d City of Cleburne v. Cleburne Living Ctr., 473 U.S. 432, 440, 105 S.Ct. 3249, 87 L.Ed.2d 313 (1985).\nHere, the City could reasonably conclude that tenants are in an inferior bargaining position relative to landlords, who are generally more sophisticated and have more information about the rental market and the rights and obligations of both parties than are tenants. The City could also reasonably conclude that landlords face unique incentives to pressure tenants into accepting buyout agreements, such as the avoidance of restrictions and regulations that apply to no-fault evictions. A commercial disclosure requirement that applies only to landlords and informs tenants of their rights with regard to buyout negotiations and agreements is rationally related to the City\u2019s legitimate interests in improving the bargaining position of tenants in buyout negotiations and ensuring that tenants are apprised of their rights prior to the commencement of such negotiations. See Levald, Inc. v. City of Palm Desert, 998 F.2d 680, 690 (9th Cir. 1993) (\u201c[T]he stated purposes of the ordinance were to alleviate hardship created by rapidly escalating rents; to protect owners\u2019 investments in their mobile homes; to equalize the bargaining position of park owners and tenants; and to protect residents from unconscionable and coercive changes in rental rates. These purposes are similar to those advanced in support of other rent control ordinances; the Supreme Court has held that these goals are legitimate.\u201d) (citing Pennell v. City of San Jose, 485 U.S. 1, 13-14, 108 S.Ct. 849, 99 L.Ed.2d 1 (1988)).\nAppellants\u2019 argument that the Ordinance violates equal protection because it requires the redaction of the tenant\u2019s identity from the publicly searchable database of buyout agreements, but not the landlord\u2019s identity, also fails. The information collected from landlords concerns them businesses, which is already a matter of public, record through the Office' of the Assessor-Recorder and the San Francisco Planning Department. By contrast, the inclusion of a tenant\u2019s name connects the tenant to his current or prior residence. See, e.g., Cty. of L.A. v. L.A. Cty. Emp. Relations Comrn\u2019n, 56 Cal. 4th 905, 927, 157 Cal.Rptr.3d 481, 301 P.3d 1102 (2013) (\u201cCourts have frequently recognized that individuals have a substantial interest in the privacy of them home.... Accordingly, home contact information is generally considered private.\u201d (quotation omitted)).\nBecause the Ordinance does not violate Appellants\u2019 right to privacy under the California Constitution, we review Appellants\u2019 equal protection claim under the rational basis standard. The Ordinance\u2019s requirement that the Rent Board publish landlords\u2019 contact information and rental unit address\u2014information that is already publicly available\u2014is rationally related to the City\u2019s legitimate interest in reducing information asymmetry between tenants and landlords and improving the inferior bargaining position of tenants in buyout negotiations while protecting tenant privacy., See Levald, 998 F.2d at 690,\nV. The Condominium Conversion Provision does not violate landlords\u2019 \u201cliberty of contract.\u201d\nAppellants do not cite any case law or other precedential authority to support their claim that the Condominium Conversion Provision violates their \u201cliberty of contract\u201d under the United States Constitution. Under California law, regulation of condominium conversions lies within a municipality\u2019s police power and need only be reasonably related to a legitimate governmental purpose. See Griffin Dev. Co. v. City of Oxnard, 39 Cal. 3d 256, 262-66, 217 CaLRptr. 1, 703 P.2d 339 (1985). The City has a legitimate governmental purpose in protecting what it sees as vulnerable tenants and maintaining a form of price control which it theorizes will provide an affordable rental housing inventory' for its residents. See Levald, 998 F.2d at 690; see also Cal. Gov\u2019t Code \u00a7 65580(a) (\u201cThe availability of housing is of vital statewide importance, and the early attainment of decent housing and a suitable living environment for every Californian ... is a priority of the highest order.\u201d). The City could reasonably believe that senior, disabled, or catastrophically ill tenants face greater hurdles in securing new housing, and that multiple buyouts within the sarnie building have a greater impact on the availability of affordable rental housing than single-unit buyouts. Therefore, we hold that the Condominium Conversion Provision survives rational basis review and does not violate Appellants\u2019 \u201cliberty of contract.\u201d\nCONCLUSION\nFor all of the foregoing reasons, we AFFIRM the district court\u2019s order granting the City\u2019s motion for judgment on the pleadings.\nCosts are awarded to the Appellee.\n. Subsection (d) is the Disclosure Provision. Subsection (f) lists various requirements for buyout agreements, including that the agreements be in writing, state in bold letters that tenants may rescind a buyout agreement any time before the forty-fifth day after the agreement\u2019s execution date, a list of rights similar to those included on the disclosure form, and a description of the Condominium Conversion Provision. Neither subsection expressly requires that a tenant sign the disclosure form prior to the commencement of buyout negotiations.\n. Subsection (h) is the Database Provision, which requires landlords to file copies of executed buyout agreements with the Rent Board to create a publicly searchable database of buyout agreements.\n. The Ordinance defines \"senior\u201d as \"a person who is 60 years or older and has been residing in the unit for ten years or more at the time of [the] Buyout Agreement.\u201d S.F. Subdivision Code \u00a7 1396. A \"disabled\u201d tenant is defined as \"a person who is disabled within the meaning of [42 U.S.C. \u00a7 12102] and has been residing in the unit for ten years or more at the time of [the] Buyout Agreement.\u201d Id. A \"catastrophically ill\u201d tenant is defined as \"a person who is disabled within the meaning of [42 U.S.C. \u00a7 12102] and who is suffering from a life threatening illness as certified by his or her primary care physician and has been residing in the unit for five years or more at the time of [the] Buyout Agreement.\u201d Id.\n. Whether bolstering the bargaining posture of tenants will indeed ameliorate the \"housing crisis\u201d in San Francisco .depends on an economic theory that interferes with free market forces, It is a policy chosen by the City's representatives, the effectiveness of which is not for this court to either accept or reject.\n. The court notes that the owner, whose name appears on the public record, is not necessarily the landlord in all cases, and thus that the above argument may not always apply. Property is often leased to a tenant under a master lease; the tenant then leases spaces to subtenants. However, this unique issue does not arise in this case and, in any event, Appellants fail to argue that such a privacy issue would make a difference.\n. Appellants do not analyze their due process claims separately from those based on equal protection. Therefore, we focus on Appellants\u2019 equal protection claim.\n. in any event, the Contracts Clause does not support Appellants' claim that the Condominium Conversion Provision violates their \"liberty of contract\u201d because the Ordinance applies only to buyout agreements executed after the enactment date of the Ordinance, .and \u201c[t]he Constitution protects freedom of contract only by limiting the states\u2019 power to modify'or affect' contracts already formed.\u201d McCarthy v. Mayo, 827 F.2d 1310, 1315 (9th Cir. 1987); see also U.S. Const. art. I, \u00a7 10.\n, See Day-Brite Lighting, Inc. v. Missouri, 342 U.S. 421, 423, 72 S.Ct. 405, 96 L.Ed. 469 (1952) (\"The liberty of contract argument pressed on us is reminiscent of the philosophy of Lochner v. State of New York, 198 U.S. 45 [25 S.Ct. 539, 49 L.Ed. 937] (1905), which invalidated a New York law prescribing maximum hours for'work in bakeries[.] ... Our recent decisions make plain that we do not sit as a super-legislature to weigh the wisdom of legislation nor to decide whether the policy which it expresses offends the public welfare.\u201d). For all the recent academic discussion whether Lochner\u2019s evaluation of, economic freedom requires greater judicial scrutiny, see, e.g,, Randy E. Barnett, Foreword: What's So Wicked About Lochner?, 1 N.Y.U. J. L. & Liberty 325 (2005), our governing precedent has not significantly changed from that of Day-Brite.",
+        "type": "majority",
+        "author": "BEA, Circuit Judge"
+      }
+    ],
+    "attorneys": [
+      "Christopher E. Skinnell (argued), James W. Carson, and James R. Parrinello, Nielsen Merksamer Parrinello Gross <& Leoni LLP, San Rafael, California, for Plaintiffs-Appellants.",
+      "Jeremy M. Goldman (argued)' and Wayne Snodgrass, Deputy City Attorneys; Dennis J. Herrera, City Attorney; Office of the City Attorney, San Francisco, California; for Defendant-Appellee."
+    ],
+    "corrections": "",
+    "head_matter": "SAN FRANCISCO APARTMENT ASSOCIATION; Coalition for Better Housing; Small Property Owners of San Francisco Institute; San Francisco Association of Realtors; Norman T. Larson, Plaintiffs-Appellants, v. CITY AND COUNTY OF SAN FRANCISCO, Defendant-Appellee.\nNo. 15-17381\nUnited States Court of Appeals, Ninth Circuit.\nArgued and Submitted September 14, 2017, San Francisco, California\nFiled February 8, 2018\nChristopher E. Skinnell (argued), James W. Carson, and James R. Parrinello, Nielsen Merksamer Parrinello Gross <& Leoni LLP, San Rafael, California, for Plaintiffs-Appellants.\nJeremy M. Goldman (argued)' and Wayne Snodgrass, Deputy City Attorneys; Dennis J. Herrera, City Attorney; Office of the City Attorney, San Francisco, California; for Defendant-Appellee.\nBefore: Eugene E. Siler, Richard C.. Tallman, and Carlos T. Bea, Circuit Judges.\nThe Honorable Eugene E. Siler, Senior United States Circuit Judge-for the U.S. Court of \u25a0Appeals for the Sixth Circuit, sitting by designation. \u2022\n. Appellants do not challenge the Notification Provision on appeal."
+  },
+  "file_name": "1169-01",
+  "first_page_order": 1197,
+  "last_page_order": 1209
+}

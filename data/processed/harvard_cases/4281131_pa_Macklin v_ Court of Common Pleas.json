@@ -1,0 +1,63 @@
+{
+  "id": 4281131,
+  "name": "Oliver MACKLIN, Petitioner v. COURT OF COMMON PLEAS OF PHILADELPHIA COUNTY, Respondent",
+  "name_abbreviation": "Macklin v. Court of Common Pleas",
+  "decision_date": "2013-11-21",
+  "docket_number": "No. 137 EM 2013",
+  "first_page": "176",
+  "last_page": "176",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "622 Pa. 176"
+    },
+    {
+      "type": "parallel",
+      "cite": "80 A.3d 380"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 48,
+    "char_count": 363,
+    "ocr_confidence": 0.679,
+    "sha256": "c3b472f4cc3450bd53c2a7195a08b2def3fc7d4419e0de41d224b5bdb5893e07",
+    "simhash": "1:f577c3af77d31ebf",
+    "word_count": 59
+  },
+  "last_updated": "2023-07-14T18:30:24.877122+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Oliver MACKLIN, Petitioner v. COURT OF COMMON PLEAS OF PHILADELPHIA COUNTY, Respondent."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nPER CURIAM.\nAND NOW, this 21st day of November, 2013, the Application for Leave to File Original Process is GRANTED, and the Petition for Writ of Mandamus and/or Extraordinary Relief is DENIED.",
+        "type": "majority",
+        "author": "PER CURIAM."
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "80 A.3d 380\nOliver MACKLIN, Petitioner v. COURT OF COMMON PLEAS OF PHILADELPHIA COUNTY, Respondent.\nNo. 137 EM 2013.\nSupreme Court of Pennsylvania.\nNov. 21, 2013."
+  },
+  "file_name": "0176-01",
+  "first_page_order": 220,
+  "last_page_order": 220
+}

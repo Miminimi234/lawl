@@ -1,0 +1,682 @@
+{
+  "id": 3727023,
+  "name": "UNITED STATES of America, Appellee, v. Curtis TAYLOR, Antonio Rosario, aka Chickee, Samuel Vasquez, aka Rock, Defendants-Appellants",
+  "name_abbreviation": "United States v. Taylor",
+  "decision_date": "2013-12-04",
+  "docket_number": "Docket Nos. 11-2201(L), 11-2426(CON), 11-2639(CON)",
+  "first_page": "661",
+  "last_page": "675",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "736 F.3d 661"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "2d Cir.",
+    "id": 8778,
+    "name": "United States Court of Appeals for the Second Circuit"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "133 S.Ct. 2151",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        12699057
+      ],
+      "weight": 2,
+      "year": 2013,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/570/0099-01"
+      ]
+    },
+    {
+      "cite": "176 L.Ed.2d 1098",
+      "category": "reporters:federal",
+      "reporter": "L. Ed. 2d",
+      "case_ids": [
+        12449208,
+        3641704
+      ],
+      "year": 2010,
+      "pin_cites": [
+        {
+          "parenthetical": "internal quotation marks omitted"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/l-ed-2d/176/1098-01",
+        "/us/560/0370-01"
+      ]
+    },
+    {
+      "cite": "560 U.S. 370",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        3641704,
+        12449208
+      ],
+      "weight": 2,
+      "year": 2010,
+      "pin_cites": [
+        {
+          "page": "382",
+          "parenthetical": "internal quotation marks omitted"
+        },
+        {
+          "parenthetical": "internal quotation marks omitted"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/560/0370-01",
+        "/l-ed-2d/176/1098-01"
+      ]
+    },
+    {
+      "cite": "631 F.3d 608",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        4085145
+      ],
+      "pin_cites": [
+        {
+          "page": "614"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/631/0608-01"
+      ]
+    },
+    {
+      "cite": "972 F.2d 30",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1871407
+      ],
+      "pin_cites": [
+        {
+          "page": "35"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/972/0030-01"
+      ]
+    },
+    {
+      "cite": "523 U.S. 185",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11503401
+      ],
+      "weight": 3,
+      "year": 1998,
+      "pin_cites": [
+        {
+          "page": "196"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/523/0185-01"
+      ]
+    },
+    {
+      "cite": "54 F.2d 1006",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1810500
+      ],
+      "pin_cites": [
+        {
+          "page": "1007"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/54/1006-01"
+      ]
+    },
+    {
+      "cite": "569 F.3d 47",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        3660376
+      ],
+      "pin_cites": [
+        {
+          "page": "55"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/569/0047-01"
+      ]
+    },
+    {
+      "cite": "527 U.S. 1",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        1248184
+      ],
+      "weight": 3,
+      "year": 1999,
+      "pin_cites": [
+        {
+          "page": "18"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/527/0001-01"
+      ]
+    },
+    {
+      "cite": "391 F.3d 462",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        9140612
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "466"
+        },
+        {
+          "page": "468"
+        },
+        {
+          "page": "468"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/391/0462-01"
+      ]
+    },
+    {
+      "cite": "499 U.S. 279",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11318776
+      ],
+      "weight": 11,
+      "year": 1991,
+      "pin_cites": [
+        {
+          "page": "310-11",
+          "parenthetical": "Rehnquist, C.J., writing for a majority as to harmless error analysis"
+        },
+        {
+          "parenthetical": "Rehnquist, C.J., writing for a majority as to harmless error analysis"
+        },
+        {
+          "parenthetical": "Rehnquist, C.J., writing for a majority as to harmless error analysis"
+        },
+        {
+          "page": "310"
+        },
+        {
+          "page": "313"
+        },
+        {
+          "page": "312"
+        },
+        {
+          "page": "312-13"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/499/0279-01"
+      ]
+    },
+    {
+      "cite": "331 U.S. 532",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6158265
+      ],
+      "weight": 3,
+      "year": 1947,
+      "pin_cites": [
+        {
+          "page": "540"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/331/0532-01"
+      ]
+    },
+    {
+      "cite": "135 F.3d 235",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        11866555
+      ],
+      "weight": 4,
+      "pin_cites": [
+        {
+          "page": "245"
+        },
+        {
+          "page": "245"
+        },
+        {
+          "page": "247"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/135/225-235-01"
+      ]
+    },
+    {
+      "cite": "437 U.S. 385",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6180644
+      ],
+      "weight": 10,
+      "year": 1978,
+      "pin_cites": [
+        {
+          "page": "398"
+        },
+        {
+          "page": "401"
+        },
+        {
+          "parenthetical": "\"But despite [the accused's] entreaties to be let alone, [the police officer] ceased the interrogation only during intervals when [the accused] lost consciousness or received medical treatment, and after each such interruption returned relentlessly to his task.\""
+        },
+        {
+          "page": "401"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/437/0385-01"
+      ]
+    },
+    {
+      "cite": "436 F.2d 1352",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        2213391
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "1355-56"
+        },
+        {
+          "page": "1355-56"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/436/1352-01"
+      ]
+    },
+    {
+      "cite": "412 U.S. 218",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6172008
+      ],
+      "weight": 4,
+      "year": 1973,
+      "pin_cites": [
+        {
+          "page": "224"
+        },
+        {
+          "parenthetical": "internal quotation marks omitted"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/412/0218-01"
+      ]
+    },
+    {
+      "cite": "152 F.3d 88",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        11707460
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "117"
+        },
+        {
+          "page": "117"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/152/0088-01"
+      ]
+    },
+    {
+      "cite": "929 F.2d 96",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        10541748
+      ],
+      "weight": 4,
+      "pin_cites": [
+        {
+          "page": "99"
+        },
+        {
+          "page": "102"
+        },
+        {
+          "page": "102"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/929/0096-01"
+      ]
+    },
+    {
+      "cite": "479 U.S. 157",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6213196
+      ],
+      "weight": 7,
+      "year": 1986,
+      "pin_cites": [
+        {
+          "page": "168-69"
+        },
+        {
+          "page": "164-65"
+        },
+        {
+          "page": "157"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/479/0157-01"
+      ]
+    },
+    {
+      "cite": "182 L.Ed.2d 222",
+      "category": "reporters:federal",
+      "reporter": "L. Ed. 2d",
+      "year": 2012,
+      "opinion_index": 0
+    },
+    {
+      "cite": "132 S.Ct. 1610",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "year": 2012,
+      "opinion_index": 0
+    },
+    {
+      "cite": "648 F.3d 118",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        3741593
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "127"
+        },
+        {
+          "page": "127-28"
+        },
+        {
+          "page": "128",
+          "parenthetical": "statements voluntary because defendant \"was never threatened physically or psychologically abused in any manner, or made any type of promises such that his will was overborne\""
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/648/0118-01"
+      ]
+    },
+    {
+      "cite": "470 U.S. 298",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11299279
+      ],
+      "weight": 5,
+      "year": 1985,
+      "pin_cites": [
+        {
+          "page": "309"
+        },
+        {
+          "page": "310"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/470/0298-01"
+      ]
+    },
+    {
+      "cite": "530 U.S. 428",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        9413869
+      ],
+      "weight": 5,
+      "year": 2000,
+      "pin_cites": [
+        {
+          "page": "444",
+          "parenthetical": "\"The requirement that Miranda warnings be given does not, of course, dispense with the voluntariness inquiry.\""
+        },
+        {
+          "parenthetical": "\"The requirement that Miranda warnings be given does not, of course, dispense with the voluntariness inquiry.\""
+        },
+        {
+          "parenthetical": "\"The requirement that Miranda warnings be given does not, of course, dispense with the voluntariness inquiry.\""
+        },
+        {
+          "page": "444"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/530/0428-01"
+      ]
+    },
+    {
+      "cite": "552 F.3d 177",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        4011716
+      ],
+      "pin_cites": [
+        {
+          "page": "211-12"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/552/0177-01"
+      ]
+    },
+    {
+      "cite": "489 F.3d 528",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        3486825
+      ],
+      "pin_cites": [
+        {
+          "page": "534"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/489/0528-01"
+      ]
+    },
+    {
+      "cite": "21 U.S.C. \u00a7 843",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "weight": 4,
+      "pin_cites": [
+        {
+          "page": "(a)(3)"
+        },
+        {
+          "page": "386-87"
+        },
+        {
+          "page": "387-88"
+        },
+        {
+          "page": "388"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "18 U.S.C. \u00a7 924",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "pin_cites": [
+        {
+          "page": "(c)(1)(A)(ii)"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "18 U.S.C. \u00a7 1951",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "pin_cites": [
+        {
+          "page": "(b)(1)"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "391 U.S. 123",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        1767670
+      ],
+      "weight": 10,
+      "year": 1968,
+      "pin_cites": [
+        {
+          "page": "135-36"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/391/0123-01"
+      ]
+    },
+    {
+      "cite": "384 U.S. 436",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        12046400
+      ],
+      "weight": 3,
+      "year": 1966,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/384/0436-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 1530,
+    "char_count": 37851,
+    "ocr_confidence": 0.698,
+    "pagerank": {
+      "raw": 4.971041155211322e-08,
+      "percentile": 0.3127031730421349
+    },
+    "sha256": "e8cfa8cefe9eb355a0137e259520b9b64d00d3d54b7eaec4ca68ed676aa03444",
+    "simhash": "1:6a5d7b0ccf3186b1",
+    "word_count": 6096
+  },
+  "last_updated": "2024-02-27T16:55:59.249303+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before: KEARSE, JACOBS and CARNEY, Circuit Judges."
+    ],
+    "parties": [
+      "UNITED STATES of America, Appellee, v. Curtis TAYLOR, Antonio Rosario, aka Chickee, Samuel Vasquez, aka Rock, Defendants-Appellants."
+    ],
+    "opinions": [
+      {
+        "text": "DENNIS JACOBS, Circuit Judge:\nCurtis Taylor, Antonio Rosario, and Samuel Vasquez appeal judgments of conviction entered in the United States District Court for the Southern District of New York (Marrero, J.) for conspiracy to commit Hobbs Act robbery and brandishing a firearm during a crime of violence, among other offenses related to the robbery of a pharmacy in midtown Manhattan. Taylor, who claims to have attempted suicide by pills as he was arrested, argues that he was incapacitated when he incriminated himself post-arrest, and that the court\u2019s decision to admit those statements into evidence violated his rights under Miranda v. Arizona, 384 U.S. 436, 86 S.Ct. 1602, 16 L.Ed.2d 694 (1966), and the Due Process Clause of the Constitution. Rosario and Vasquez, who raise separate issues, join Taylor\u2019s challenge to the extent that Taylor\u2019s confession was used against them, and appeal the denial of their motion to sever on the ground that Taylor\u2019s statements caused prejudicial spillover and violated the confrontation right protected under Bruton v. United States, 391 U.S. 123, 88 S.Ct. 1620, 20 L.Ed.2d 476 (1968).\nThis is a close case. Even assuming that Taylor\u2019s initial waiver of his Miranda rights was knowing and voluntary, Taylor was largely stupefied when he made his post-arrest statements, as confirmed by the testimony of the law enforcement agents and the pretrial services officer who interviewed him, and by the evaluations of staff psychologists at the Metropolitan Correctional Center (\u201cMCC\u201d). The agents and officer testified that Taylor fell asleep repeatedly during questioning and was only intermittently alert. Although their testimony also suggests \u2014 and the district court found \u2014 that Taylor\u2019s incriminating statements were made in relatively lucid intervals, Taylor was impaired throughout, and his interrogators took undue advantage of that impairment by continuing to question him. We therefore conclude that Taylor\u2019s post-arrest statements were not voluntary. We further conclude that admitting those statements into evidence was not harmless. His conviction is therefore vacated and remanded for a new trial. And because the admission of Taylor\u2019s statements, to the extent they could be used against Rosario and Vasquez, was not harmless error as to them, their convictions are also vacated and remanded for a new trial.\nI\nOn Christmas Eve 2008, Vasquez drove Taylor and Rosario from the Bronx to midtown Manhattan to rob a pharmacy. With them was Luana Miller, a drug addict from Mississippi with an extensive criminal history.\nEn route, Miller called the pharmacy and asked them to stay open for a few minutes past 5:00 PM, so that she could pick up a prescription. At the pharmacy, Miller went in first, posing as a customer. As she spoke with the pharmacist, Rosario burst in the door brandishing a gun, screaming that it was a robbery, and demanding OxyContin: a powerful opioid for pain that is often resold illegally. The two took more than $12,000 of controlled substances, as well as cash and subway cards, while Taylor- stood lookout at the front door and Vasquez waited in the getaway car. The crew then drove back to the Bronx. Cell phone records for Taylor, Rosario, and Vasquez show that they were in the Bronx that afternoon, traveled to midtown Manhattan just before 5:00 PM, stayed near the pharmacy until just after the robbery, and then returned to the Bronx.\nWhile executing a warrant at the home of Miller\u2019s boyfriend in January 2009, police arrested her on outstanding warrants. Fearing extradition to Mississippi, she offered to cooperate with the government\u2019s investigation of the pharmacy robbery, and led police to Taylor, Rosario, and Vasquez.\nAround 6:00 AM on April 9, 2009, over 25 NYPD and FBI agents came to Taylor\u2019s apartment to effect his arrest. Taylor claims that, amid the ensuing chaos, he attempted suicide by taking a bottle-full of Xanax pills. Taylor\u2019s daughter testified that her mother (who died before trial) reported the overdose to an officer who dismissed her and told her to \u201cshut up.\u201d Still, the record is less than clear as to whether Taylor actually took the pills, and as to whether officers were told of his overdose.\nAround 9:30 that morning, Taylor was interviewed at FBI headquarters in downtown Manhattan by New York City Police Department Detective Ralph Burch, a member of an FBI/New York health care fraud task force. Taylor signed a form waiving his Miranda rights, and went on to give a lengthy statement confessing his involvement in the robbery.\nTaylor argues that he was falling asleep and was at times unconscious during the interview. Detective Burch said that it seemed like Taylor\u2019s body was \u201csomewhat shutting down\u201d during the two- to three-hour interview. Supplemental App. 51. On the other hand, Burch testified that, though Taylor nodded off at times, he was \u201ccoherent\u201d and \u201cfluid\u201d when he was awake and speaking:\nMr. Taylor at times was nodding off during the interview. When we asked Mr. Taylor to listen up, that we were asking him questions, he would respond that he knew what he was being asked and he would repeat the questions back to us to show that he was understanding what was being asked of him and knew what was going on.\nId. at 45. Detective Burch clarified that Taylor did not need to be awakened during the interview; he just had to be \u201crefocused.\u201d Id. at 46. \u201cHe seemed like he was dozing off, and we had to stress did he understand what was going on. ... [I]t was my impression that he knew what was going on then.\u201d Id.\nTaylor was later .taken to a hospital for medical clearance before his transfer into the custody of the Marshals Service. FBI Special Agent Ian Tomas, who was also involved in the interrogation, explained that Taylor was taken to the hospital because \u201c[t]here was some talk about him on some medication and possibly an injury he had sustained previous at a construction site.\u201d Id. at 137. Agent Tomas clarified that the hospital visit was necessary because there was some question as to whether the Marshals Service would take custody of someone who \u201cmight be off\u2019: \u201cWe felt that his do[z]ing off might be a reason the marshals wouldn\u2019t accept the custody of Mr. Taylor.\u201d Id. at .160. Taylor spent the rest of the day at the hospital sleeping, but he did not receive medical attention. He was transferred to the MCC later that evening.\nThe next morning, April 10, Taylor met with MCC staff psychologists. The MCC\u2019s chief psychologist, Dr. Elissa Miller, explained that they wanted to evaluate Taylor before his arraignment because they knew of Taylor\u2019s earlier schizophrenia diagnosis and several prior attempts at suicide. According to Dr. Miller (who reported on findings by staff psychologists), Taylor \u201cpresented with a thought disorder,\u201d drooled, was vague, stared blankly, and \u201c[h]is thoughts lacked spontaneity.\u201d Id. at 110. Miller testified that \u201cif you asked him questions, he really couldn\u2019t elaborate on them because his thought process was impaired.\u201d Id. at 111.\n\u25a0 Taylor also told one of the staff psychologists that \u201cthe day he was arrested by the FBI, he took multiple Xanax pills in an attempt to kill himself because he had promised himself that he would never go back to jail.\u201d Id. at 113. Miller recounted that, \u201c[a]s a result of taking all those Xa-nax pills, he said he wasn\u2019t waking up and he went to the hospital.\u201d Id.\nHe was then taken to the courthouse for arraignment. While awaiting arrival of a pretrial services officer, Taylor told Agent Tomas that \u201che wanted to clear up some issues about the charges that he was presented with.\u201d Id. at 139. Agent Tomas took Taylor to an interview room and again advised him of his Miranda rights; Taylor confessed to the robbery again.\nAround 12:30 PM that day, Taylor met with Dennis Khilkevich, a pretrial services officer. Khilkevich testified that when he arrived to interview Taylor, Taylor \u201cappeared sleepy and had to be awakened to be interviewed.\u201d Id. at 319. \u201cHe was sitting in a chair and he appeared as if he was asleep or he was taking a nap.\u201d Id. Khilkevich stopped the interview because Taylor \u201crepeatedly fell asleep in the chair.\u201d Id. at 320. When the interview resumed, Taylor \u201cwas initially responsive maybe for several minutes,\u201d but \u201c[t]hen he continued to fall asleep.\u201d Id. \u201cHe had to be woken up and he would be responsive for a few minutes and then he would go to sleep again.\u201d Id. Khilkevich eventually finished the interview, explaining that Taylor was awake and coherent \u201c[a]t times.\u201d Id. at 323.\nAs to the other defendants:\n\u2022 Rosario was also arrested on April 9, 2009, and waived his Miranda rights. He claimed at first that he was in the hospital the day of the robbery, but then said he had actually been at his girlfriend\u2019s house in Queens. When told that a surveillance video showed a suspect like him, Rosario laughed and ambiguously said \u201cyeah.\u201d Trial Transcript (\u201cTr.\u201d) 571.\n\u2022 Vasquez was arrested a day earlier, on April 8, after surveillance linked him to the car believed to have been used in the pharmacy robbery. When arrested, he was carrying car keys, a cell phone, and a piece of paper listing various milligram doses of oxycodone and OxyContin, along with the number of pills of each dose. Vasquez gave no statement to police.\nThe indictment charged the three with (1) conspiracy to commit Hobbs Act robbery, in violation of 18 U.S.C. \u00a7 1951(b)(1); (2) Hobbs Act robbery; and (3) use, possession, and brandishing of a firearm during a crime of violence, in violation of 18 U.S.C. \u00a7 924(c)(1)(A)(ii). Taylor was additionally charged with (4) fraudulent acquisition of controlled substances by passing forged prescriptions, in violation of 21 U.S.C. \u00a7 843(a)(3).\nTaylor moved to suppress his two post-arrest statements on the ground that his Miranda waivers and his post-arrest statements were neither knowing nor voluntary. The testimony summarized above was given at the suppression hearing (starting April 23, 2010, continuing May 4, 2010, and concluding May 6, 2010). The district court denied suppression of Taylor\u2019s post-arrest statements, finding that the government sustained its burden of proving that Taylor\u2019s Miranda waivers were \u201cinformed and voluntary.\u201d Supplemental App. 385. The court found that the testimony of the law enforcement agents was consistent, corroborated, and truthful. Id. at 386-87.\nThe court rejected the argument that Taylor\u2019s incapacitation rendered his post-arrest statements involuntary:\n[T]he defense does not allege that the government failed to read Mr. Taylor [his] rights before questioning began or any other coercion. Even were the Court to assume that Mr. Taylor ingested a large quantity of Xanax shortly before his arrest, the Court credits the testimony from the government\u2019s witnesses that Mr. Taylor was sufficiently lucid during the questioning that his waiver of Miranda rights was knowing and voluntary.\nThe fact that there is evidence that Mr. Taylor nodded off from time to time during the questioning does not persuade the Court that during those portions of the testimony when he was awake and lucid he could not have voluntarily and knowingly waived his Miranda rights.\nId. at 387-88. The district court went on to explain that it did \u201cnot equate nodding off intermittently with total psychotic episodes of hallucination and other extreme circumstances that might throw greater doubt on the defendant\u2019s ability to voluntarily and knowingly waive his rights.\u201d Id. at 388.\nTaylor\u2019s statements, which implicated Rosario and Vasquez, were redacted at trial to remove their names. The jury was instructed that Taylor\u2019s statements should be considered only as to Taylor.\nIn December 2010, the jury convicted on all counts. Taylor was sentenced principally to 200 months\u2019 imprisonment, Rosario was sentenced principally to 180 months, and Vasquez was sentenced principally to 170 months. They all filed timely notices of appeal.\nII\nThe main issue on appeal is whether Taylor\u2019s Miranda waivers on April 9 and April 10, and his post-arrest statements on each of those dates, were knowing and voluntary. \u201cWe review a district court\u2019s determination regarding the constitutionality of a Miranda waiver de novo and a district court\u2019s underlying factual findings for clear error.\u201d United States v. Carter, 489 F.3d 528, 534 (2d Cir.2007).\nA statement made by the accused \u201cduring a custodial interrogation is inadmissible at trial unless the prosecution can establish that the accused in fact knowingly and voluntarily waived [Miranda ] rights when making the statement.\u201d Berghuis v. Thompkins, 560 U.S. 370, 382, 130 S.Ct. 2250, 176 L.Ed.2d 1098 (2010) (internal quotation marks omitted). \u201cThe existence of a knowing and voluntary waiver does not, however, guarantee that all subsequent statements were voluntarily made.\u201d In re Terrorist Bombings of U.S. Embassies in E. Afr., 552 F.3d 177, 211-12 (2d Cir.2008); see also Dickerson v. United States, 530 U.S. 428, 444, 120 S.Ct. 2326, 147 L.Ed.2d 405 (2000) (\u201cThe requirement that Miranda warnings be given does not, of course, dispense with the voluntariness inquiry.\u201d).\nWe look at the totality of circumstances surrounding a Miranda waiver and any subsequent statements to determine knowledge and voluntariness. See Oregon v. Elstad, 470 U.S. 298, 309, 105 S.Ct. 1285, 84 L.Ed.2d 222 (1985). In that context, \u201cknowing\u201d means with full awareness of the nature of the right being abandoned and the consequences of abandoning it, and \u201cvoluntary\u201d means by deliberate choice free from intimidation, coercion, or deception. United States v. Plugh, 648 F.3d 118, 127 (2d Cir.2011), cert. denied, - U.S. -, 132 S.Ct. 1610, 182 L.Ed.2d 222 (2012). The government bears the burden of proof. Colorado v. Connelly, 479 U.S. 157, 168-69, 107 S.Ct. 515, 93 L.Ed.2d 473 (1986).\nThe analysis applicable to April 9 differs somewhat from the analysis applicable to April 10.\nApril 9. In general, a suspect who reads, acknowledges, and signs an \u201cadvice of rights\u201d form before making a statement has knowingly and voluntarily waived Miranda rights. See Plugh, 648 F.3d at 127-28. Before making his statement on April 9, Taylor was read Miranda rights using an \u201cadvice of rights\u201d form. He was read every right, voiced his understanding, and signed the form. At the time, according to Detective Burch, Taylor had a \u201cfluid\u201d demeanor, \u201cknew what was going on,\u201d and \u201cunderstood what was happening.\u201d Supplemental App. 15. This evidence, credited by the district court, supports the conclusion that Taylor knowingly and voluntarily waived his Miranda rights before speaking with law enforcement on April 9.\nBut even accepting that Taylor\u2019s April 9 Miranda waiver was knowing and voluntary, we must nonetheless determine whether the inculpatory statements themselves were voluntary. Dickerson, 530 U.S. at 444, 120 S.Ct. 2326. \u201cA confession is not voluntary when obtained under circumstances that overbear the defendant\u2019s will at the time it is given.\u201d United States v. Anderson, 929 F.2d 96, 99 (2d Cir.1991). The voluntariness inquiry should examine \u201cthe totality of all the surrounding circumstances, including the accused\u2019s characteristics, the conditions of interrogation, and the conduct of law enforcement officials.\u201d Id. An individual\u2019s mental state should be considered in the voluntariness inquiry to the extent it allowed law enforcement to coerce the individual. Connelly, 479 U.S. at 164-65, 107 S.Ct. 515; see also United States v. Salameh, 152 F.3d 88, 117 (2d Cir.1998) (per curiam).\nThe record indicates that Taylor\u2019s statement of April 9 was made when he was unable to summon the will to make a knowing and voluntary decision; his will was overborne.\nIt is difficult to determine whether a confession is voluntary; case law \u201cyield[s] no talismanic definition\u201d for the term. Schneckloth v. Bustamonte, 412 U.S. 218, 224, 93 S.Ct. 2041, 36 L.Ed.2d 854 (1973). It is clear, however, that when \u201ca person is unconscious or drugged or otherwise lacks capacity for conscious choice,\u201d a confession cannot be voluntary. Id. (internal quotation marks omitted); see also United States ex rel. Burns v. LaVallee, 436 F.2d 1352, 1355-56 (2d Cir.1970) (holding a written confession to be involuntary when given \u201cafter over eighteen hours of uninterrupted custodial interrogation, after he had been without sleep, and almost without food, for thirty hours\u201d).\nTaylor claims he was mentally incapacitated during the April 9 interview because of the quantity of Xanax pills he ingested immediately before his arrest. That claim finds support in the record. Detective Burch testified that Taylor\u2019s body \u201cwas somewhat shutting down,\u201d and that \u201cat that time that he was answering questions ... his body was giving up on him.\u201d Supplemental App. 51. The district court credited this testimony. Granted, Burch also testified that, when Taylor was speaking, he was \u201ccoherent\u201d and understood what was going on when he was not nodding off. Id. But it nonetheless appears that Taylor fell asleep at least two or three times during the interview, and the officers repeatedly had to awaken him, or (to use the nicer term) \u201crefocus\u201d him \u2014 at one point coaxing him, \u201cMr. Taylor, you have to answer our questions and focus with us.\u201d Id. at 47. Agent Tomas corroborated that Taylor was \u201ca little bit out of it\u201d and dozing off. Id. at 158-61.\nIn Mincey v. Arizona, 437 U.S. 385, 98 S.Ct. 2408, 57 L.Ed.2d 290 (1978), statements by a defendant who was hospitalized were ruled involuntary. The Court observed that the defendant was in intensive care for a serious wound and was \u201cevidently confused and unable to think clearly about either the events of that afternoon or the circumstances of his interrogation.\u201d Id. at 398, 98 S.Ct. 2408. The statements were \u201cthe result of virtually continuous questioning of a seriously and painfully wounded man on the edge of consciousness.\u201d Id. at 401, -98 S.Ct. 2408; see also id. (\u201cBut despite [the accused\u2019s] entreaties to be let alone, [the police officer] ceased the interrogation only during intervals when [the accused] lost consciousness or received medical treatment, and after each such interruption returned relentlessly to his task.\u201d).\nOn the other hand, in Salameh, we rejected a claim that a statement was involuntary, even though the accused claimed that prior to being taken into U.S. custody, he had been incarcerated in Egypt and tortured for ten days. 152 F.3d at 117. Despite the accused\u2019s weakened mental state, his statements were voluntary because he did \u201cnot contend that federal agents either mentally or physically coerced his remarks during that interrogation.\u201d Id,.; see also Plugh, 648 F.3d at 128 (statements voluntary because defendant \u201cwas never threatened physically or psychologically abused in any manner, or made any type of promises such that his will was overborne\u201d) (internal quotation marks omitted).\nOne difference between Mincey and Salameh is the presence in Mincey of police overreaching, see Connelly, 479 U.S. at 157, 107 S.Ct. 515 (stressing the \u201ccrucial element of police overreaching\u201d in assessing voluntariness), and that is no doubt a difficult issue here. Continued questioning of a sleep-deprived suspect can be coercive, depending on the circumstances, see, e.g., Mincey, 437 U.S. at 401, 98 S.Ct. 2408; LaVallee, 436 F.2d at 1355-56; but the decisive issue is whether the will was \u201coverborne\u201d by the police, so that the defendant is not using such faculties as he has. The conditions in which Taylor was questioned do not appear to have been abusive; but there is little difference in effect between sleep deprivation as a technique and the relentless questioning of a person who is obviously unable to focus or stay awake for some other reason.\nThe district court credited testimony that Taylor was coherent at times. One such interval is when Taylor signed the \u201cadvice of rights\u201d form on April 9, a finding that we do not disturb. But as that interview progressed, it became clear to the officers (as their testimony confirms) that Taylor was in and out of consciousness while giving his statement, and in a trance or a stupor most of the time when not actually asleep. Thus, the officers\u2019 persistent questioning took undue advantage of Taylor\u2019s diminished- mental state, and ultimately overbore his will. Accordingly, we conclude that Taylor\u2019s statement on April 9 was not voluntary and should have been suppressed.\nApril 10. On the morning of April 10, Taylor himself initiated contact with law enforcement by notifying Agent Tomas that \u201che wanted to clear up some issues about the charges that he was presented with.\u201d Supplemental App. 139. He was then orally re-advised of his rights, orally waived them, and gave an additional statement, altering some aspects of his April 9 account. Although Taylor continued to slip in and out of consciousness that day, Agent Tomas testified that, when speaking to the agents mid-morning, Taylor was \u201cmuch more alert\u201d than he had been the day before. Id. at 139-12. But because Taylor\u2019s first confession on April 9 was the product of coercion, we must determine whether his second waiver and confession, fewer than twenty-four hours later, were rendered involuntary based, at least in part, on the \u201ctaint clinging to the first confession.\u201d Anderson, 929 F.2d at 102.\n\u201c[T]he use of coercive and improper tactics in obtaining an initial confession may warrant a presumption of compulsion as to a second one, even if the latter was obtained after properly administered Miranda warnings.\u201d Tankleff v. Senkowski, 135 F.3d 235, 245 (2d Cir.1998) - (internal quotation marks omitted). That is so because, \u201cafter an accused has once let the cat out of the bag by confessing, no matter what the inducement, he is never thereafter free of the psychological and practical disadvantages of having confessed.\u201d Unit ed States v. Bayer, 331 U.S. 532, 540, 67 S.Ct. 1394, 91 L.Ed. 1654 (1947).\n\u201cIn deciding whether a second confession has been tainted by the prior coerced statement, \u2018the time that passes between confessions, the change in place of interrogations, and the change in identity of interrogators all bear on whether that coercion has carried over into the second confession.\u2019\u201d Anderson, 929 F.2d at 102 (quoting Elstad, 470 U.S. at 310, 105 S.Ct. 1285). Less than a day passed between Taylor\u2019s first and second confessions, and in that interval, Taylor was hospitalized or unconscious most of the time. Although the venue of the interrogations differed, Agent Tomas was present at both \u2014 and it was to Agent Tomas that Taylor addressed his request to \u201cclear up some issues.\u201d The taint of the prior involuntary confession carried over to Taylor\u2019s second waiver and statement, burdening both with a \u201cpresumption of compulsion.\u201d Tankleff, 135 F.3d at 245.\nThat presumption is reinforced by un-contradicted testimony regarding Taylor\u2019s lingering mental incapacity on April 10. Taylor continued to doze off that morning and was alert only \u201cat times.\u201d Supplemental App. 162. Just before the April 10 interview, FBI Special Agent Steven Jensen saw Taylor \u201cslouched in his chair, and he appeared to be sleeping.\u201d Id. at 247. When asked for how long Taylor was sleeping, Agent Jensen explained that it was \u201cin excess of minutes.\u201d Id.\nAlthough the record does not suggest that Taylor fell asleep during the April 10 interview, there is evidence that, throughout the day on April 10, Taylor remained in a fog. Dr. Miller reported that Taylor was mentally impaired on the morning of April 10 and could not adequately respond to questions:\nWhen he was seen, he presented with a thought disorder. He was noted to be picking at his nails. He was drooling. He was vague in his responses to questioning. He presented with what we call a flat affect ... just kind of flat and blank-face stare.\nHe could not elaborate on questions asked. His thoughts lacked spontaneity. His speech was vague. When we would ask him certain questions about whether he was hearing voices, he couldn\u2019t really elaborate on his responses.\nId. at 110. Dr. Miller also reported the observation made by psychologists in her division: \u201c[I]f you asked him questions, he really couldn\u2019t elaborate on them because his thought process was impaired.\u201d Id. at 111.\nDennis Khilkevich, a pretrial services officer who interviewed Taylor at around 12:30 PM on April 10, found Taylor drowsy and in need of rousing. See id. at 319 (\u201cHe was sitting in a chair and he appeared as if he was asleep or taking a nap.\u201d).' When Khilkevich tired of waking him up, he suspended the interview; and when he resumed, Taylor continued to fall asleep between short intervals of consciousness, so Khilkevich ended the questioning.\nThe district court did not discredit the testimony of Dr. Miller or Khilkevich.\nEvidence of Taylor\u2019s continued incapacity on April 10, coupled with the taint of his prior confession, renders his second waiver and statement involuntary. Considering the totality of circumstances, we conclude that Taylor\u2019s inculpatory statement on April 10 should have been suppressed.\nIII\nNext we consider whether the error in admitting those statements was harmless. Arizona v. Fulminante, 499 U.S. 279, 310-11, 111 S.Ct. 1246, 113 L.Ed.2d 302 (1991) (Rehnquist, C.J., writing for a majority as to harmless error analysis); see also Zappulla v. New York, 391 F.3d 462, 466 (2d Cir.2004). \u201cWhen reviewing the erroneous admission of an involuntary confession, the appellate court, as it does with the admission of other forms of improperly admitted evidence, simply reviews the remainder of the evidence against the defendant to determine whether the admission of the confession was harmless beyond a reasonable doubt\u201d Fulminante, 499 U.S. at 310, 111 S.Ct. 1246 (emphasis added).\n\u201cIs it clear beyond a reasonable doubt that a rational jury would have found the defendant guilty absent the error?\u201d Neder v. United States, 527 U.S. 1, 18, 119 S.Ct. 1827, 144 L.Ed.2d 35 (1999). \u201c[T]he court conducting a harmless-error inquiry must appreciate the indelible impact a full confession may have on the trier of fact,\u201d Fulminante, 499 U.S. at 313, 111 S.Ct. 1246 (Kennedy, J., concurring); indeed, \u201cit may be devastating to a defendant,\u201d Id. at 312, 111 S.Ct. 1246 (Rehnquist, C.J., writing for a majority as to harmless error analysis). We consider the following (nonexclusive) factors in determining whether the erroneous admission of a confession was harmless: \u201c(1) the overall strength of the prosecution\u2019s case; (2) the prosecutor\u2019s conduct with respect to the improperly admitted evidence; (3) the importance of the wrongly admitted testimony;- and (4) whether such evidence was cumulative of other properly admitted evidence.\u201d Zappulla, 391 F.3d at 468.\nThe admission of Taylor\u2019s involuntary confessions was not harmless error beyond a reasonable doubt. ' (1) Taylor\u2019s confessions were a critical part of the prosecution\u2019s case. The case against Taylor otherwise rested on the'testimony of Lua-na Miller and cell-site records/ Miller\u2019s testimony was subject to attack, as Taylor claims, because of her criminal past and because she had much to gain from cooperating with the government. Further, while the cell-site records corroborate Miller\u2019s account of their movements, no other witness or physical evidence links Taylor to the crime. (2) The prosecution emphasized Taylor\u2019s confessions throughout trial, including at opening and closing, and had both statements read to the jury in full. (3) & (4) Taylor\u2019s confessions were important to the case, corroborating Miller\u2019s critical testimony. Further, a confession is recognized to have greater impact than the same testimony given by another witness. See, e.g., Fulminante, 499 U.S. at 312-13, 111 S.Ct. 1246. Given the weight that a jury may accord a confession, as well as the other relevant factors, the admission of Taylor\u2019s post-arrest statements was not harmless.\nIn sum, Taylor confessed while in a stupor, his will was overborne, his statements were not voluntarily made, and they should have been suppressed. Considering the other evidence against Taylor and the important role that his confessions played at trial, this was not harmless error. We therefore vacate Taylor\u2019s conviction and remand for a new trial.\nIV\nTo the extent that Taylor\u2019s confessions were used against them, Rosario and Vasquez join Taylor\u2019s challenge based on the voluntariness of Taylor\u2019s confessions. The question is whether the admission of those statements was harmless as to Rosario and Vasquez. We conclude that it was not.\nIt matters that the district court gave limiting instructions. The court instructed that \u201c[s]ome evidence is admitted for a limited purpose only,\u201d and pointed specifically to \u201ccertain statements that law enforcement agents testified were made to them by Mr. Taylor and Mr. Rosario and that were admitted only as to the particular defendant who made the statement.\u201d Vasquez App. 220. The court later reinforced that instruction:\nAs I instructed you previously, evidence of statements that law enforcement agents testified were made by a particular defendant was admitted with respect to that particular defendant alone, and if you find that the statements were made, may not be considered or discussed by you in any way with respect to any other defendant when you begin your deliberations.\nId. at 227; see also id. at 177 (\u201cThe evidence of alleged statements made by Curtis Taylor to law enforcement is admitted with respect to Curtis Taylor alone and may not be considered or discussed by you in any way with respect to either of the other defendants.... \u201d).\nWe normally assume that jurors follow limiting instructions. See, e.g., United States v. Jass, 569 F.3d 47, 55 (2d Cir.2009). But a confession by one co-defendant in a joint trial poses substantial risk for the other co-defendants notwithstanding such an instruction. See Bruton v. United States, 391 U.S. 123, 135-36, 88 S.Ct. 1620, 20 L.Ed.2d 476 (1968). In Bruton, the Supreme Court recognized the risks posed by \u201cpowerfully incriminating extrajudicial statements of a co-defendant, who stands accused side-by-side with the defendant,\u201d which are then \u201cdeliberately spread before the jury in a joint trial.\u201d Id. Such limiting instructions call for \u201ca mental gymnastic which is beyond, not only [the jury\u2019s] powers, but anybody\u2019s else.\u201d Nash v. United States, 54 F.2d 1006, 1007 (2d Cir.1932) (L.Hand, J.). The risk is heightened when the circumstances deprive a defendant of the constitutional right to confront the witnesses against him, which may result in Bruton error. See Gray v. Maryland, 523 U.S. 185, 196, 118 S.Ct. 1151, 140 L.Ed.2d 294 (1998).\nWith this risk in mind, we turn to examine whether the erroneous admission of Taylor\u2019s statements was harmless as to Rosario and Vasquez \u2014 that is, whether it is clear beyond a reasonable doubt that a rational jury would have found Rosario and Vasquez guilty absent the error. Again we consider, among other things: (1) the strength of the prosecution\u2019s case, (2) the prosecutor\u2019s conduct with respect to the statements, (3) the importance of the statements, and (4) whether the statements were cumulative of other evidence. Zappulla, 391 F.3d at 468.\nAs to Rosario, the prosecution\u2019s case was relatively strong, but relied chiefly on the testimony of Miller, which was subject to credibility attack, and on the cell-site records. The government also relied on surveillance video footage from inside the pharmacy and the testimony of the pharmacist working during the robbery. However, the record suggests that the face on the videotape was partially covered; the pharmacist was unable to identify Rosario as the assailant; and Rosario\u2019s post-arrest statement mostly denied involvement in the robbery. Taylor\u2019s confession was critical to the prosecution because it corroborated Miller\u2019s account and definitively placed Rosario at the scene of the crime, in possession of a firearm. \u25a0 We cannot conclude beyond a reasonable doubt that a rational jury would have convicted Rosario absent Taylor\u2019s statements.\nAs to Vasquez, the government\u2019s case was somewhat weaker, again relied heavily on the cell-site records, and drew its strength from Taylor\u2019s statements. The government\u2019s other evidence was a piece of paper found on Vasquez\u2019s person when he was arrested, with oxycodone and OxyContin listed and annotated with numbers; and the testimony of an officer who saw Taylor, Rosario, and Vasquez together in Vasquez\u2019s car, which was allegedly used during the robbery.- The piece of paper is likely a drug ledger, but no evidence tied it to the pharmacy robbery, and the only evidence putting Vasquez\u2019s car at the scene of the crime was testimony by Miller and the statements of Taylor. For the same r\u00e9a\u00e1ons reviewed above, we cannot conclude beyond a reasonable doubt that a rational jury would have convicted Vasquez had Taylor\u2019s statements been properly excluded.\nWe therefore hold that the admission of Taylor\u2019s involuntary confessions was not harmless error as to Rosario and Vasquez, and vacate their convictions and remand for a new trial.\nV\nRosario and Vasquez also argue that the admission of Taylor\u2019s post-arrest statements violated their rights under the Confrontation Clause because they had no opportunity to cross-examine Taylor and because his statements adverted to them. See Bruton v. United States, 391 U.S. 123, 88 S.Ct. 1620, 20 L.Ed.2d 476 (1968). Because we have vacated the convictions of Rosario and Vasquez on separate grounds, we need not reach their claim of Bruton error.\nCONCLUSION\nFor the foregoing reasons, we vacate the convictions and remand for a new trial.\n. The law enforcement agents, though persistent in interrogating Taylor and summoning him to alertness as he continued to fall asleep, do not appear to have acted maliciously or abusively during the interrogation.\n. As discussed further below, the question is not free of doubt.\n. When it appears that a defendant is malingering, the voluntariness calculus should be vastly different. Here, all the witnesses support the account that Taylor was actually slipping in and out of consciousness during the April 9 interview, and immediately before and after the April 10 interview.\n. Aside from Counts One, Two, and Three of the indictment, which stemmed from the pharmacy robbery (of which all three defendants were convicted), Taylor was also convicted of making a misrepresentation to obtain OxyContin (Count Four). The government relied heavily on Taylor\u2019s confession in proving this offense. Accordingly, we vacate all of Taylor\u2019s counts of conviction, under the same harmless error analysis.\n. Vasquez explicitly joins Taylor\u2019s arguments. While Rosario failed to explicitly join, we exercise our discretion and construe Rosario\u2019s appeal to include those arguments made by Taylor that may be applicable to Rosario. See Fed. R.App. P. 2 (\"On its own or a party\u2019s motion, a court of appeals may \u2014 to expedite its decision or for other good cause \u2014 suspend any provision of these rules in a particular case....\u201d); United. States v. Babwah, 972 F.2d 30, 35 (2d Cir.1992) (\"Fed. R.App. P. 2 gives a Court of Appeals the discretion to overlook [a failure to raise an argument on appeal] if manifest injustice otherwise would result.\u201d).\n. After at first claiming he was elsewhere, Rosario laughed and said \"yeah\u201d when, law enforcement told him that surveillance video showed a suspect that looked like him in the pharmacy.\n. Although Rosario\u2019s conviction- is vacated on this ground, it may matter on remand that his challenge to the admissibility of Miller's testimony under Rule 404(b) is without merit. Miller\u2019s testimony about plans to commit a pharmacy robbery related to the crime at issue in this case, and the district court did not abuse its discretion by admitting the evidence as relevant background. See United States v. Greer, 631 F.3d 608, 614 (2d Cir.2011).\n. Vasquez raises two other arguments on appeal that may have some bearing on the proceedings upon remand. First, Vasquez argues that the district court erred by limiting his cross-examination of Miller on the circumstances surrounding Rosario\u2019s possession of a gun. Second, Vasquez argues that the district court delivered an unbalanced jury instruction on the significance of the ledger found in his pocket after his arrest. We see no abuse of discretion on either score.\n.The Supreme Court recently decided that any fact that increases the mandatory minimum sentence \u2014 including whether a defendant \"brandished\u201d a firearm in connection with a crime of violence \u2014 is an element of the offense that must be found by a jury beyond a \u25a0 reasonable doubt. Alleyne v. United States, - U.S. -, 133 S.Ct. 2151, 186 L.Ed.2d 314 (June 17, 2013). After briefing and oral argument were complete, Taylor and Vasquez sought to raise this issue on appeal, but because we are vacating their convictions on other grounds, we need not reach it. In any event, the jury did find brandishing beyond a reasonable doubt. See, e.g., Verdict Form 5; Tr. 1194.",
+        "type": "majority",
+        "author": "DENNIS JACOBS, Circuit Judge:"
+      }
+    ],
+    "attorneys": [
+      "Kelley J. Sharkey, Brooklyn, NY, for Defendant-Appellant Curtis Taylor.",
+      "Jillian S. Harrington, Monroe Township, NJ, for Defendant-Appellant Antonio Rosario.",
+      "Colleen P. Cassidy, Federal Defenders of New York, Inc., New York, NY, for Defendant-Appellant Samuel Vasquez.",
+      "Christopher D. Frey (Michael Bosworth, on the brief), Assistant United States Attorneys, for Preet Bharara, United States Attorney for the Southern District of New York, New York, NY, for Appellee."
+    ],
+    "corrections": "",
+    "head_matter": "UNITED STATES of America, Appellee, v. Curtis TAYLOR, Antonio Rosario, aka Chickee, Samuel Vasquez, aka Rock, Defendants-Appellants.\nDocket Nos. 11-2201(L), 11-2426(CON), 11-2639(CON).\nUnited States Court of Appeals, Second Circuit.\nArgued: Feb. 4, 2013.\nDecided: Dec. 4, 2013.\nKelley J. Sharkey, Brooklyn, NY, for Defendant-Appellant Curtis Taylor.\nJillian S. Harrington, Monroe Township, NJ, for Defendant-Appellant Antonio Rosario.\nColleen P. Cassidy, Federal Defenders of New York, Inc., New York, NY, for Defendant-Appellant Samuel Vasquez.\nChristopher D. Frey (Michael Bosworth, on the brief), Assistant United States Attorneys, for Preet Bharara, United States Attorney for the Southern District of New York, New York, NY, for Appellee.\nBefore: KEARSE, JACOBS and CARNEY, Circuit Judges."
+  },
+  "file_name": "0661-01",
+  "first_page_order": 687,
+  "last_page_order": 701
+}

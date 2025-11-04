@@ -1,0 +1,80 @@
+{
+  "id": 12142622,
+  "name": "In re Jaco/Robinson",
+  "name_abbreviation": "In re Jaco",
+  "decision_date": "2015-10-23",
+  "docket_number": "No. 152178; Court of Appeals No. 323922",
+  "first_page": "899",
+  "last_page": "899",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "498 Mich. 899"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Mich.",
+    "id": 8790,
+    "name": "Michigan Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 49,
+    "name_long": "Michigan",
+    "name": "Mich."
+  },
+  "cites_to": [
+    {
+      "cite": "498 Mich 877",
+      "category": "reporters:state",
+      "reporter": "Mich.",
+      "case_ids": [
+        12133730,
+        12133226,
+        12133554,
+        12133881,
+        12133373
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mich/498/0877-04",
+        "/mich/498/0877-01",
+        "/mich/498/0877-03",
+        "/mich/498/0877-05",
+        "/mich/498/0877-02"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 17,
+    "char_count": 102,
+    "ocr_confidence": 0.812,
+    "sha256": "562863b4d091378510345c530913d69b8ed96f797dcf1c6703a42f0ccf07910c",
+    "simhash": "1:468f520131374eb9",
+    "word_count": 18
+  },
+  "last_updated": "2024-02-27T16:10:26.420323+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In re Jaco/Robinson,"
+    ],
+    "opinions": [
+      {
+        "text": "Leave to appeal denied at 498 Mich 877.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "In re Jaco/Robinson,\nNo. 152178; Court of Appeals No. 323922."
+  },
+  "file_name": "0899-06",
+  "first_page_order": 845,
+  "last_page_order": 845
+}

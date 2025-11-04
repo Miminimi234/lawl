@@ -1,0 +1,790 @@
+{
+  "id": 4281236,
+  "name": "COMMONWEALTH of Pennsylvania, Appellant v. Jeffrey Michael BORRIN, Appellee",
+  "name_abbreviation": "Commonwealth v. Borrin",
+  "decision_date": "2013-10-30",
+  "docket_number": "No. 60 MAP 2011",
+  "first_page": "422",
+  "last_page": "449",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "622 Pa. 422"
+    },
+    {
+      "type": "parallel",
+      "cite": "80 A.3d 1219"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "23 A.2d 837",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "year": 1942,
+      "pin_cites": [
+        {
+          "page": "842",
+          "parenthetical": "\"[I]n every case, what is actually decided is the law applicable to the particular facts; all other conclusions are but obiter dicta.\" (internal quotation marks and citation omitted)"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "343 Pa. 549",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1208350
+      ],
+      "year": 1942,
+      "pin_cites": [
+        {
+          "page": "560",
+          "parenthetical": "\"[I]n every case, what is actually decided is the law applicable to the particular facts; all other conclusions are but obiter dicta.\" (internal quotation marks and citation omitted)"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/343/0549-01"
+      ]
+    },
+    {
+      "cite": "11 A.2d 891",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "year": 1940,
+      "pin_cites": [
+        {
+          "page": "892"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "298 U.S. 460",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        1486144
+      ],
+      "weight": 3,
+      "year": 1936,
+      "pin_cites": [
+        {
+          "page": "464",
+          "parenthetical": "\"The only sentence known to the law is the sentence or judgment entered upon the records of the court.\""
+        },
+        {
+          "parenthetical": "\"The only sentence known to the law is the sentence or judgment entered upon the records of the court.\""
+        },
+        {
+          "parenthetical": "\"The only sentence known to the law is the sentence or judgment entered upon the records of the court.\""
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/298/0460-01"
+      ]
+    },
+    {
+      "cite": "93 A.2d 887",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "year": 1953,
+      "pin_cites": [
+        {
+          "page": "888",
+          "parenthetical": "\"Clerical errors or inaccuracies in docket entries [or orders] may be corrected by the trial court so that they conform to the facts.\""
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "172 Pa.Super. 258",
+      "category": "reporters:state",
+      "reporter": "Pa. Super.",
+      "case_ids": [
+        477215
+      ],
+      "year": 1953,
+      "pin_cites": [
+        {
+          "parenthetical": "\"Clerical errors or inaccuracies in docket entries [or orders] may be corrected by the trial court so that they conform to the facts.\""
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa-super/172/0258-01"
+      ]
+    },
+    {
+      "cite": "171 A.2d 560",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "year": 1961,
+      "pin_cites": [
+        {
+          "page": "561",
+          "parenthetical": "explaining that the sentencing order contained a \"clerical\" error subject to correction, as it did not reflect that the trial court specifically stated at sentencing that the sentence it imposed was effective on expiration of defendant's federal sentence"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "195 Pa.Super. 183",
+      "category": "reporters:state",
+      "reporter": "Pa. Super.",
+      "case_ids": [
+        753522
+      ],
+      "year": 1961,
+      "pin_cites": [
+        {
+          "parenthetical": "explaining that the sentencing order contained a \"clerical\" error subject to correction, as it did not reflect that the trial court specifically stated at sentencing that the sentence it imposed was effective on expiration of defendant's federal sentence"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa-super/195/0183-01"
+      ]
+    },
+    {
+      "cite": "29 A. 105",
+      "category": "reporters:state_regional",
+      "reporter": "A.",
+      "year": 1894,
+      "pin_cites": [
+        {
+          "page": "106",
+          "parenthetical": "upholding the trial court's direction to correct a \"clerical\" omission and amend the record to state that the defendant was present at every stage of the proceedings"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "161 Pa. 484",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        854158
+      ],
+      "year": 1894,
+      "pin_cites": [
+        {
+          "page": "496-97",
+          "parenthetical": "upholding the trial court's direction to correct a \"clerical\" omission and amend the record to state that the defendant was present at every stage of the proceedings"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/161/0484-01"
+      ]
+    },
+    {
+      "cite": "781 A.2d 1133",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        706281,
+        9480469
+      ],
+      "year": 2001,
+      "pin_cites": [
+        {
+          "page": "1135"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/566/0396-02",
+        "/a2d/781/1133-01"
+      ]
+    },
+    {
+      "cite": "566 Pa. 396",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        706288,
+        706281
+      ],
+      "year": 2001,
+      "pin_cites": [
+        {
+          "page": "400"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/566/0396-01",
+        "/pa/566/0396-02"
+      ]
+    },
+    {
+      "cite": "12 A. 464",
+      "category": "reporters:state_regional",
+      "reporter": "A.",
+      "year": 1888,
+      "pin_cites": [
+        {
+          "page": "466",
+          "parenthetical": "acknowledging a trial court's inherent authority to amend a verdict after it was recorded, and judgment was entered thereon, so as to make it conform to the verdict the jury actually rendered"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "118 Pa. 550",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        556669
+      ],
+      "year": 1888,
+      "pin_cites": [
+        {
+          "page": "558",
+          "parenthetical": "acknowledging a trial court's inherent authority to amend a verdict after it was recorded, and judgment was entered thereon, so as to make it conform to the verdict the jury actually rendered"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/118/0550-01"
+      ]
+    },
+    {
+      "cite": "79 A. 140",
+      "category": "reporters:state_regional",
+      "reporter": "A.",
+      "year": 1911,
+      "pin_cites": [
+        {
+          "page": "141",
+          "parenthetical": "acknowledging a trial court's inherent authority to amend its record so as to make it conform to the truth"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "229 Pa. 587",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        971840
+      ],
+      "year": 1911,
+      "pin_cites": [
+        {
+          "page": "591",
+          "parenthetical": "acknowledging a trial court's inherent authority to amend its record so as to make it conform to the truth"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/229/0587-01"
+      ]
+    },
+    {
+      "cite": "224 A.2d 805",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "year": 1966,
+      "pin_cites": [
+        {
+          "page": "807",
+          "parenthetical": "explaining that a sentence, as any other judgment, is construed in its entirety under the usual canons of construction so as to give effect to the intent of the sentencing court"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "209 Pa.Super. 227",
+      "category": "reporters:state",
+      "reporter": "Pa. Super.",
+      "case_ids": [
+        778058
+      ],
+      "year": 1966,
+      "pin_cites": [
+        {
+          "parenthetical": "explaining that a sentence, as any other judgment, is construed in its entirety under the usual canons of construction so as to give effect to the intent of the sentencing court"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa-super/209/0227-01"
+      ]
+    },
+    {
+      "cite": "467 A.2d 1287",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        1785936,
+        1785882,
+        1785894
+      ],
+      "year": 1983,
+      "pin_cites": [
+        {
+          "page": "1292",
+          "parenthetical": "internal quotation marks and citations omitted"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/503/0001-01",
+        "/pa/503/0002-01",
+        "/pa/503/0002-02"
+      ]
+    },
+    {
+      "cite": "503 Pa. 2",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1785882,
+        1785894
+      ],
+      "year": 1983,
+      "pin_cites": [
+        {
+          "page": "12",
+          "parenthetical": "internal quotation marks and citations omitted"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/503/0002-01",
+        "/pa/503/0002-02"
+      ]
+    },
+    {
+      "cite": "335 A.2d 392",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "year": 1975,
+      "pin_cites": [
+        {
+          "page": "393"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "232 Pa.Super. 555",
+      "category": "reporters:state",
+      "reporter": "Pa. Super.",
+      "case_ids": [
+        6772981
+      ],
+      "year": 1975,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa-super/232/0555-01"
+      ]
+    },
+    {
+      "cite": "14 A.3d 912",
+      "category": "reporters:state_regional",
+      "reporter": "A.3d",
+      "case_ids": [
+        7285299
+      ],
+      "pin_cites": [
+        {
+          "page": "915-16"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a3d/14/0912-01"
+      ]
+    },
+    {
+      "cite": "933 A.2d 57",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        3250928,
+        8340526
+      ],
+      "weight": 7,
+      "year": 2007,
+      "pin_cites": [
+        {
+          "page": "65"
+        },
+        {
+          "page": "67"
+        },
+        {
+          "page": "66"
+        },
+        {
+          "page": "66"
+        },
+        {
+          "page": "66-67"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/593/0601-01",
+        "/a2d/933/0057-01"
+      ]
+    },
+    {
+      "cite": "593 Pa. 601",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        3250928
+      ],
+      "weight": 2,
+      "year": 2007,
+      "pin_cites": [
+        {
+          "page": "614"
+        },
+        {
+          "page": "618"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/593/0601-01"
+      ]
+    },
+    {
+      "cite": "22 A.3d 1020",
+      "category": "reporters:state_regional",
+      "reporter": "A.3d",
+      "case_ids": [
+        7280898,
+        4202156,
+        4202009,
+        7280943,
+        4202841,
+        7280863
+      ],
+      "year": 2011,
+      "pin_cites": [
+        {
+          "parenthetical": "order"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a3d/22/1020-02",
+        "/pa/610/0550-01",
+        "/pa/610/0551-01",
+        "/a3d/22/1020-03",
+        "/pa/610/0552-01",
+        "/a3d/22/1020-01"
+      ]
+    },
+    {
+      "cite": "610 Pa. 551",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        4202009
+      ],
+      "year": 2011,
+      "pin_cites": [
+        {
+          "parenthetical": "order"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/610/0551-01"
+      ]
+    },
+    {
+      "cite": "12 A.3d 466",
+      "category": "reporters:state_regional",
+      "reporter": "A.3d",
+      "case_ids": [
+        7283640
+      ],
+      "weight": 9,
+      "pin_cites": [
+        {
+          "page": "471"
+        },
+        {
+          "parenthetical": "citations omitted"
+        },
+        {
+          "page": "473-74"
+        },
+        {
+          "page": "475"
+        },
+        {
+          "page": "472, 473-74"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a3d/12/0466-01"
+      ]
+    },
+    {
+      "cite": "841 A.2d 1071",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        9287646
+      ],
+      "pin_cites": [
+        {
+          "page": "1073"
+        }
+      ],
+      "opinion_index": 2,
+      "case_paths": [
+        "/a2d/841/1071-01"
+      ]
+    },
+    {
+      "cite": "59 A.3d 1165",
+      "category": "reporters:state_regional",
+      "reporter": "A.3d",
+      "case_ids": [
+        7311150
+      ],
+      "pin_cites": [
+        {
+          "page": "1168"
+        }
+      ],
+      "opinion_index": 2,
+      "case_paths": [
+        "/a3d/59/1165-01"
+      ]
+    },
+    {
+      "cite": "981 A.2d 893",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        4196469,
+        7294022
+      ],
+      "year": 2009,
+      "pin_cites": [
+        {
+          "page": "900",
+          "parenthetical": "emphasis added"
+        }
+      ],
+      "opinion_index": 2,
+      "case_paths": [
+        "/pa/603/0031-01",
+        "/a2d/981/0893-01"
+      ]
+    },
+    {
+      "cite": "603 Pa. 31",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        4196469
+      ],
+      "year": 2009,
+      "pin_cites": [
+        {
+          "parenthetical": "emphasis added"
+        }
+      ],
+      "opinion_index": 2,
+      "case_paths": [
+        "/pa/603/0031-01"
+      ]
+    },
+    {
+      "cite": "905 A.2d 462",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        3788025,
+        8467492
+      ],
+      "year": 2006,
+      "pin_cites": [
+        {
+          "page": "468-69"
+        }
+      ],
+      "opinion_index": 2,
+      "case_paths": [
+        "/pa/588/0470-01",
+        "/a2d/905/0462-01"
+      ]
+    },
+    {
+      "cite": "588 Pa. 470",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        3788025
+      ],
+      "year": 2006,
+      "opinion_index": 2,
+      "case_paths": [
+        "/pa/588/0470-01"
+      ]
+    },
+    {
+      "cite": "976 A.2d 474",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        4196216,
+        7294924
+      ],
+      "year": 2009,
+      "pin_cites": [
+        {
+          "page": "483",
+          "parenthetical": "emphasis added"
+        }
+      ],
+      "opinion_index": 2,
+      "case_paths": [
+        "/pa/601/0637-01",
+        "/a2d/976/0474-01"
+      ]
+    },
+    {
+      "cite": "601 Pa. 637",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        4196216
+      ],
+      "year": 2009,
+      "pin_cites": [
+        {
+          "parenthetical": "emphasis added"
+        }
+      ],
+      "opinion_index": 2,
+      "case_paths": [
+        "/pa/601/0637-01"
+      ]
+    },
+    {
+      "cite": "860 A.2d 146",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        9145910
+      ],
+      "pin_cites": [
+        {
+          "page": "153"
+        }
+      ],
+      "opinion_index": 2,
+      "case_paths": [
+        "/a2d/860/0146-01"
+      ]
+    },
+    {
+      "cite": "379 Pa.Super. 402",
+      "category": "reporters:state",
+      "reporter": "Pa. Super.",
+      "case_ids": [
+        874661
+      ],
+      "weight": 2,
+      "year": 1988,
+      "pin_cites": [
+        {
+          "parenthetical": "correction permissible where sentencing court stated on record that sentence was 5 to 20 years, but written order erroneously stated 5 to 10 years"
+        },
+        {
+          "page": "231",
+          "parenthetical": "correction permissible where sentencing court stated on record that sentence was 5 to 20 years, but written order erroneously stated 5 to 10 years"
+        }
+      ],
+      "opinion_index": 2,
+      "case_paths": [
+        "/pa-super/379/0402-01"
+      ]
+    },
+    {
+      "cite": "467 A.2d 1287",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        1785936,
+        1785882,
+        1785894
+      ],
+      "year": 1983,
+      "pin_cites": [
+        {
+          "page": "1293"
+        }
+      ],
+      "opinion_index": 2,
+      "case_paths": [
+        "/pa/503/0001-01",
+        "/pa/503/0002-01",
+        "/pa/503/0002-02"
+      ]
+    },
+    {
+      "cite": "503 Pa. 2",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1785882,
+        1785894
+      ],
+      "year": 1983,
+      "opinion_index": 2,
+      "case_paths": [
+        "/pa/503/0002-01",
+        "/pa/503/0002-02"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 1518,
+    "char_count": 42895,
+    "ocr_confidence": 0.741,
+    "pagerank": {
+      "raw": 1.7752050099226673e-07,
+      "percentile": 0.7126735960281855
+    },
+    "sha256": "5d439068286a02645101ace8f4ba9b866725d9e34b4a7fcbd60c514f0333b433",
+    "simhash": "1:afa2d03277474d4e",
+    "word_count": 7033
+  },
+  "last_updated": "2024-02-27T16:59:34.878718+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "file_name": "0422-01",
+  "first_page_order": 466,
+  "last_page_order": 493
+}

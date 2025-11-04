@@ -1,0 +1,117 @@
+{
+  "id": 1370293,
+  "name": "In the Matter of the Disciplinary Proceeding Against Jay C. Immelt, an Attorney at Law",
+  "name_abbreviation": "In re the Disciplinary Proceeding Against Immelt",
+  "decision_date": "1992-06-25",
+  "docket_number": "No. 8281",
+  "first_page": "369",
+  "last_page": "373",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "119 Wash. 2d 369"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Wash.",
+    "id": 9029,
+    "name": "Washington Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 38,
+    "name_long": "Washington",
+    "name": "Wash."
+  },
+  "cites_to": [
+    {
+      "cite": "804 P.2d 30",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1991,
+      "opinion_index": 0
+    },
+    {
+      "cite": "116 Wn.2d 293",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        1376205
+      ],
+      "year": 1991,
+      "pin_cites": [
+        {
+          "page": "295-96"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/116/0293-01"
+      ]
+    },
+    {
+      "cite": "31 How. L.J. 299",
+      "category": "journals:journal",
+      "reporter": "How. L.J.",
+      "year": 1988,
+      "pin_cites": [
+        {
+          "parenthetical": "recognizing reciprocal discipline alleviates burden of securing witnesses and evidence otherwise required for de novo hearings and dispenses with necessity of resolving critical factual issues"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "562 N.E.2d 888",
+      "category": "reporters:state_regional",
+      "reporter": "N.E.2d",
+      "year": 1990,
+      "opinion_index": 0
+    },
+    {
+      "cite": "55 Ohio St. 3d 17",
+      "category": "reporters:state",
+      "reporter": "Ohio St. 3d",
+      "case_ids": [
+        1426650
+      ],
+      "year": 1990,
+      "opinion_index": 0,
+      "case_paths": [
+        "/ohio-st-3d/55/0017-01"
+      ]
+    },
+    {
+      "cite": "18 U.S.C. \u00a7 3559",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "18 U.S.C. \u00a7 1341",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 465,
+    "char_count": 7438,
+    "ocr_confidence": 0.77,
+    "pagerank": {
+      "raw": 5.8447377132187834e-08,
+      "percentile": 0.36304587641982217
+    },
+    "sha256": "782d9506cd36b4c95eac2490c61a3ef5257a4a4ad41c04c240a4449b4d688b27",
+    "simhash": "1:66e51572fd862103",
+    "word_count": 1183
+  },
+  "last_updated": "2024-02-27T20:54:39.105269+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "file_name": "0369-01",
+  "first_page_order": 403,
+  "last_page_order": 407
+}

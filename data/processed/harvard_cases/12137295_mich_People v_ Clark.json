@@ -1,0 +1,76 @@
+{
+  "id": 12137295,
+  "name": "People v. Kyle Clark",
+  "name_abbreviation": "People v. Clark",
+  "decision_date": "2015-09-29",
+  "docket_number": "No. 150202; Court of Appeals No. 313121",
+  "first_page": "887",
+  "last_page": "887",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "498 Mich. 887"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Mich.",
+    "id": 8790,
+    "name": "Michigan Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 49,
+    "name_long": "Michigan",
+    "name": "Mich."
+  },
+  "cites_to": [
+    {
+      "cite": "498 Mich 858",
+      "category": "reporters:state",
+      "reporter": "Mich.",
+      "case_ids": [
+        12124742
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mich/498/0858-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 16,
+    "char_count": 99,
+    "ocr_confidence": 0.732,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.24607708789199678
+    },
+    "sha256": "c89e1ebe1193b626e0a8ebfa8563f206318346a64a699c044e53ad7860da6e11",
+    "simhash": "1:b7acc66f348756fd",
+    "word_count": 17
+  },
+  "last_updated": "2024-02-27T16:10:26.420323+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "People v Kyle Clark,"
+    ],
+    "opinions": [
+      {
+        "text": "Summary disposition at 498 Mich 858.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "People v Kyle Clark,\nNo. 150202; Court of Appeals No. 313121."
+  },
+  "file_name": "0887-06",
+  "first_page_order": 833,
+  "last_page_order": 833
+}

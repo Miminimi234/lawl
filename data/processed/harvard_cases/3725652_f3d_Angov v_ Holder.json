@@ -1,0 +1,2065 @@
+{
+  "id": 3725652,
+  "name": "Nikolay Ivanov ANGOV, Petitioner, v. Eric H. HOLDER, Jr., Attorney General, Respondent",
+  "name_abbreviation": "Angov v. Holder",
+  "decision_date": "2013-12-04",
+  "docket_number": "No. 07-74963",
+  "first_page": "1263",
+  "last_page": "1287",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "736 F.3d 1263"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "9th Cir.",
+    "id": 8826,
+    "name": "United States Court of Appeals for the Ninth Circuit"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "8 C.F.R. \u00a7 208.6",
+      "category": "laws:admin_compilation",
+      "reporter": "C.F.R.",
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "(a)"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "590 F.3d 1034",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        3503800
+      ],
+      "pin_cites": [
+        {
+          "page": "1048"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/590/1034-01"
+      ]
+    },
+    {
+      "cite": "444 F.3d 1043",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        5322642
+      ],
+      "pin_cites": [
+        {
+          "page": "1047-48"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/444/1043-01"
+      ]
+    },
+    {
+      "cite": "652 F.3d 1011",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        3759934
+      ],
+      "pin_cites": [
+        {
+          "page": "1013-15"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/652/1011-01"
+      ]
+    },
+    {
+      "cite": "656 F.3d 1047",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        3831629
+      ],
+      "pin_cites": [
+        {
+          "page": "1049-50"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/656/1047-01"
+      ]
+    },
+    {
+      "cite": "658 F.3d 1122",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        3837715
+      ],
+      "pin_cites": [
+        {
+          "page": "1124-25"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/658/1122-01"
+      ]
+    },
+    {
+      "cite": "669 F.3d 920",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        3724202
+      ],
+      "pin_cites": [
+        {
+          "page": "922"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/669/0920-01"
+      ]
+    },
+    {
+      "cite": "820 F.2d 1485",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1704805
+      ],
+      "pin_cites": [
+        {
+          "page": "1491"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/820/1485-01"
+      ]
+    },
+    {
+      "cite": "59 Duke L.J. 1635",
+      "category": "journals:journal",
+      "reporter": "Duke L.J.",
+      "year": 2010,
+      "pin_cites": [
+        {
+          "page": "1674, 1714"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "459 U.S. 14",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6190276
+      ],
+      "weight": 4,
+      "year": 1982,
+      "pin_cites": [
+        {
+          "page": "16-18",
+          "parenthetical": "per curiam"
+        },
+        {
+          "parenthetical": "per curiam"
+        },
+        {
+          "parenthetical": "per curiam"
+        },
+        {
+          "page": "23-24"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/459/0014-01"
+      ]
+    },
+    {
+      "cite": "381 U.S. 279",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6169135
+      ],
+      "weight": 3,
+      "year": 1965,
+      "pin_cites": [
+        {
+          "page": "296",
+          "parenthetical": "FCC's decision making process"
+        },
+        {
+          "parenthetical": "FCC's decision making process"
+        },
+        {
+          "parenthetical": "FCC's decision making process"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/381/0279-01"
+      ]
+    },
+    {
+      "cite": "534 U.S. 1",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        9107924
+      ],
+      "weight": 3,
+      "year": 2001,
+      "pin_cites": [
+        {
+          "page": "10",
+          "parenthetical": "Post Office disciplinary procedures"
+        },
+        {
+          "parenthetical": "Post Office disciplinary procedures"
+        },
+        {
+          "parenthetical": "Post Office disciplinary procedures"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/534/0001-01"
+      ]
+    },
+    {
+      "cite": "517 U.S. 456",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11745202
+      ],
+      "weight": 6,
+      "year": 1996,
+      "pin_cites": [
+        {
+          "page": "464"
+        },
+        {
+          "page": "464",
+          "parenthetical": "prosecutorial decision making"
+        },
+        {
+          "parenthetical": "prosecutorial decision making"
+        },
+        {
+          "parenthetical": "prosecutorial decision making"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/517/0456-01"
+      ]
+    },
+    {
+      "cite": "473 F.3d 1061",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        2540469
+      ],
+      "pin_cites": [
+        {
+          "page": "1068"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/473/1061-01"
+      ]
+    },
+    {
+      "cite": "541 U.S. 157",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        5929642
+      ],
+      "weight": 5,
+      "year": 2004,
+      "pin_cites": [
+        {
+          "page": "174"
+        },
+        {
+          "page": "174"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/541/0157-01"
+      ]
+    },
+    {
+      "cite": "8 U.S.C. \u00a7 1158",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "pin_cites": [
+        {
+          "page": "(b)(l)(B)(iii)"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "538 F.3d 1281",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        4128429
+      ],
+      "pin_cites": [
+        {
+          "page": "1285"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/538/1281-01"
+      ]
+    },
+    {
+      "cite": "469 Fed.Appx. 617",
+      "category": "reporters:federal",
+      "reporter": "Fed. Appx.",
+      "pin_cites": [
+        {
+          "page": "617"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "474 Fed.Appx. 584",
+      "category": "reporters:federal",
+      "reporter": "Fed. Appx.",
+      "pin_cites": [
+        {
+          "page": "585"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "485 Fed.Appx. 252",
+      "category": "reporters:federal",
+      "reporter": "Fed. Appx.",
+      "pin_cites": [
+        {
+          "page": "253"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "638 F.3d 1264",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        4198618
+      ],
+      "pin_cites": [
+        {
+          "page": "1270-71"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/638/1264-01"
+      ]
+    },
+    {
+      "cite": "160 U. Pa. L.Rev. 1309",
+      "category": "journals:journal",
+      "reporter": "U. Pa. L. Rev.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "424 U.S. 319",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        12026449
+      ],
+      "weight": 3,
+      "year": 1976,
+      "pin_cites": [
+        {
+          "page": "334-35"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/424/0319-01"
+      ]
+    },
+    {
+      "cite": "98 L.Ed. 503",
+      "category": "reporters:federal",
+      "reporter": "L. Ed.",
+      "year": 1954,
+      "opinion_index": 0
+    },
+    {
+      "cite": "347 U.S. 62",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11299308
+      ],
+      "weight": 2,
+      "year": 1954,
+      "pin_cites": [
+        {
+          "page": "64-66"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/347/0062-01"
+      ]
+    },
+    {
+      "cite": "446 U.S. 620",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6186084
+      ],
+      "weight": 3,
+      "year": 1980,
+      "pin_cites": [
+        {
+          "page": "627-628"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/446/0620-01"
+      ]
+    },
+    {
+      "cite": "401 U.S. 222",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11712077
+      ],
+      "weight": 3,
+      "year": 1971,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/401/0222-01"
+      ]
+    },
+    {
+      "cite": "8 C.F.R. \u00a7 1208.13",
+      "category": "laws:admin_compilation",
+      "reporter": "C.F.R.",
+      "pin_cites": [
+        {
+          "page": "(a)"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "880 F.2d 506",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        10533564,
+        3471655
+      ],
+      "pin_cites": [
+        {
+          "page": "519-20"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/880/0506-01",
+        "/us-app-dc/279/0183-01"
+      ]
+    },
+    {
+      "cite": "16 Geo. Immigr. L.J. 407",
+      "category": "journals:journal",
+      "reporter": "Geo. Immigr. L.J.",
+      "year": 2002,
+      "pin_cites": [
+        {
+          "page": "407"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "84 Colum. L.Rev. 1",
+      "category": "journals:journal",
+      "reporter": "Colum. L. Rev.",
+      "pin_cites": [
+        {
+          "page": "20-21"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "408 U.S. 564",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        1782964
+      ],
+      "weight": 3,
+      "year": 1972,
+      "pin_cites": [
+        {
+          "page": "569-70"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/408/0564-01"
+      ]
+    },
+    {
+      "cite": "397 U.S. 254",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        12052726
+      ],
+      "weight": 3,
+      "year": 1970,
+      "pin_cites": [
+        {
+          "page": "260-61"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/397/0254-01"
+      ]
+    },
+    {
+      "cite": "97 L.Ed. 956",
+      "category": "reporters:federal",
+      "reporter": "L. Ed.",
+      "year": 1953,
+      "pin_cites": [
+        {
+          "parenthetical": "same"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "345 U.S. 206",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        372544
+      ],
+      "weight": 2,
+      "year": 1953,
+      "pin_cites": [
+        {
+          "page": "212",
+          "parenthetical": "same"
+        },
+        {
+          "parenthetical": "same"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/345/0206-01"
+      ]
+    },
+    {
+      "cite": "94 L.Ed. 317",
+      "category": "reporters:federal",
+      "reporter": "L. Ed.",
+      "year": 1950,
+      "opinion_index": 0
+    },
+    {
+      "cite": "338 U.S. 537",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        3946507
+      ],
+      "weight": 2,
+      "year": 1950,
+      "pin_cites": [
+        {
+          "page": "544"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/338/0537-01"
+      ]
+    },
+    {
+      "cite": "533 U.S. 678",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        9313599
+      ],
+      "weight": 5,
+      "year": 2001,
+      "pin_cites": [
+        {
+          "page": "693"
+        },
+        {
+          "page": "692-94"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/533/0678-01"
+      ]
+    },
+    {
+      "cite": "94 L.Ed. 1255",
+      "category": "reporters:federal",
+      "reporter": "L. Ed.",
+      "year": 1950,
+      "opinion_index": 0
+    },
+    {
+      "cite": "339 U.S. 763",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        362721
+      ],
+      "weight": 2,
+      "year": 1950,
+      "pin_cites": [
+        {
+          "page": "770"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/339/0763-01"
+      ]
+    },
+    {
+      "cite": "459 U.S. 21",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6190607
+      ],
+      "weight": 10,
+      "year": 1982,
+      "pin_cites": [
+        {
+          "page": "32"
+        },
+        {
+          "page": "34"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/459/0021-01"
+      ]
+    },
+    {
+      "cite": "655 F.3d 1077",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        3828683
+      ],
+      "pin_cites": [
+        {
+          "page": "1084-85"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/655/1077-01"
+      ]
+    },
+    {
+      "cite": "69 L.Ed. 585",
+      "category": "reporters:federal",
+      "reporter": "L. Ed.",
+      "case_ids": [
+        6138694,
+        6138590
+      ],
+      "year": 1925,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/267/0228-01",
+        "/us/267/0226-01"
+      ]
+    },
+    {
+      "cite": "267 U.S. 228",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6138694
+      ],
+      "weight": 2,
+      "year": 1925,
+      "pin_cites": [
+        {
+          "page": "230"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/267/0228-01"
+      ]
+    },
+    {
+      "cite": "548 F.3d 1248",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        3954515
+      ],
+      "pin_cites": [
+        {
+          "page": "1253"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/548/1248-01"
+      ]
+    },
+    {
+      "cite": "297 U.S. 278",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        3929326
+      ],
+      "weight": 3,
+      "year": 1936,
+      "pin_cites": [
+        {
+          "page": "285-86"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/297/0278-01"
+      ]
+    },
+    {
+      "cite": "360 U.S. 264",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        9052
+      ],
+      "weight": 3,
+      "year": 1959,
+      "pin_cites": [
+        {
+          "page": "269"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/360/0264-01"
+      ]
+    },
+    {
+      "cite": "367 U.S. 643",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        1785580
+      ],
+      "weight": 3,
+      "year": 1961,
+      "pin_cites": [
+        {
+          "page": "655"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/367/0643-01"
+      ]
+    },
+    {
+      "cite": "384 U.S. 436",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        12046400
+      ],
+      "weight": 3,
+      "year": 1966,
+      "pin_cites": [
+        {
+          "page": "444-45"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/384/0436-01"
+      ]
+    },
+    {
+      "cite": "132 S.Ct. 716",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        12186177,
+        12445445
+      ],
+      "weight": 7,
+      "year": 2012,
+      "pin_cites": [
+        {
+          "page": "725"
+        },
+        {
+          "page": "730"
+        },
+        {
+          "page": "723"
+        },
+        {
+          "page": "725"
+        },
+        {
+          "page": "726"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/565/0228-01",
+        "/l-ed-2d/181/0694-01"
+      ]
+    },
+    {
+      "cite": "394 U.S. 440",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6173399
+      ],
+      "weight": 3,
+      "year": 1969,
+      "pin_cites": [
+        {
+          "page": "443"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/394/0440-01"
+      ]
+    },
+    {
+      "cite": "390 U.S. 377",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6170914
+      ],
+      "weight": 3,
+      "year": 1968,
+      "pin_cites": [
+        {
+          "page": "386"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/390/0377-01"
+      ]
+    },
+    {
+      "cite": "399 U.S. 1",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6167869
+      ],
+      "weight": 3,
+      "year": 1970,
+      "pin_cites": [
+        {
+          "page": "5"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/399/0001-01"
+      ]
+    },
+    {
+      "cite": "409 U.S. 188",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6173155
+      ],
+      "weight": 3,
+      "year": 1972,
+      "pin_cites": [
+        {
+          "page": "201"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/409/0188-01"
+      ]
+    },
+    {
+      "cite": "432 U.S. 98",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6177400
+      ],
+      "weight": 3,
+      "year": 1977,
+      "pin_cites": [
+        {
+          "page": "117"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/432/0098-01"
+      ]
+    },
+    {
+      "cite": "388 U.S. 293",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6168284
+      ],
+      "weight": 3,
+      "year": 1967,
+      "pin_cites": [
+        {
+          "page": "301-02"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/388/0293-01"
+      ]
+    },
+    {
+      "cite": "556 U.S. 586",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        3653347
+      ],
+      "weight": 4,
+      "year": 2009,
+      "pin_cites": [
+        {
+          "parenthetical": "refusing, almost unanimously, to \"craft a broad[ ] exclusionary rule for uncorroborated statements obtained [from jailhouse snitches]\""
+        },
+        {
+          "parenthetical": "refusing, almost unanimously, to \"craft a broad[ ] exclusionary rule for uncorroborated statements obtained [from jailhouse snitches]\""
+        },
+        {
+          "parenthetical": "refusing, almost unanimously, to \"craft a broad[ ] exclusionary rule for uncorroborated statements obtained [from jailhouse snitches]\""
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/556/0586-01"
+      ]
+    },
+    {
+      "cite": "493 U.S. 342",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11331685
+      ],
+      "weight": 5,
+      "year": 1990,
+      "pin_cites": [
+        {
+          "page": "352-53"
+        },
+        {
+          "page": "353"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/493/0342-01"
+      ]
+    },
+    {
+      "cite": "402 U.S. 389",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11733715
+      ],
+      "weight": 17,
+      "year": 1971,
+      "pin_cites": [
+        {
+          "page": "397-98"
+        },
+        {
+          "page": "398"
+        },
+        {
+          "page": "401-06"
+        },
+        {
+          "page": "410"
+        },
+        {
+          "page": "400-402"
+        },
+        {
+          "page": "402-06"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/402/0389-01"
+      ]
+    },
+    {
+      "cite": "527 F.3d 912",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        3567025
+      ],
+      "pin_cites": [
+        {
+          "page": "914-16"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/527/0912-01"
+      ]
+    },
+    {
+      "cite": "527 F.3d 935",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        3567508
+      ],
+      "pin_cites": [
+        {
+          "page": "938-39"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/527/0935-01"
+      ]
+    },
+    {
+      "cite": "532 F.3d 1044",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        4031113
+      ],
+      "pin_cites": [
+        {
+          "page": "1047-48"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/532/1044-01"
+      ]
+    },
+    {
+      "cite": "536 F.3d 853",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        5764915
+      ],
+      "pin_cites": [
+        {
+          "page": "855-57"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/536/0853-01"
+      ]
+    },
+    {
+      "cite": "547 F.3d 814",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        6050905
+      ],
+      "pin_cites": [
+        {
+          "page": "815-16"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/547/0814-01"
+      ]
+    },
+    {
+      "cite": "545 F.3d 922",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        3857644
+      ],
+      "pin_cites": [
+        {
+          "page": "925-26"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/545/0922-01"
+      ]
+    },
+    {
+      "cite": "585 F.3d 289",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        3481256
+      ],
+      "pin_cites": [
+        {
+          "page": "290-91"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/585/0289-01"
+      ]
+    },
+    {
+      "cite": "619 F.3d 1069",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        3778991
+      ],
+      "pin_cites": [
+        {
+          "page": "1074-76"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/619/1069-01"
+      ]
+    },
+    {
+      "cite": "672 F.3d 178",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        3736979
+      ],
+      "pin_cites": [
+        {
+          "page": "180-81"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/672/0178-01"
+      ]
+    },
+    {
+      "cite": "492 Fed.Appx. 774",
+      "category": "reporters:federal",
+      "reporter": "Fed. Appx.",
+      "pin_cites": [
+        {
+          "page": "775"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "693 F.3d 1045",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        3517995
+      ],
+      "pin_cites": [
+        {
+          "page": "1046-47"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/693/1045-01"
+      ]
+    },
+    {
+      "cite": "697 F.3d 616",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        3623233
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/697/0616-01"
+      ]
+    },
+    {
+      "cite": "216 Fed.Appx. 840",
+      "category": "reporters:federal",
+      "reporter": "Fed. Appx.",
+      "pin_cites": [
+        {
+          "page": "841-43"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "589 F.3d 749",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        3500789
+      ],
+      "pin_cites": [
+        {
+          "page": "751-53"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/589/0749-01"
+      ]
+    },
+    {
+      "cite": "647 F.3d 1257",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        6049513
+      ],
+      "pin_cites": [
+        {
+          "page": "1260-61, 1265"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/647/1257-01"
+      ]
+    },
+    {
+      "cite": "474 F.3d 565",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        5712010
+      ],
+      "pin_cites": [
+        {
+          "page": "570"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/474/0565-01"
+      ]
+    },
+    {
+      "cite": "257 F.3d 971",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        11087172
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "976"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/257/0971-01"
+      ]
+    },
+    {
+      "cite": "459 F.3d 255",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        3644928
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "269"
+        },
+        {
+          "page": "271"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/459/0255-01"
+      ]
+    },
+    {
+      "cite": "325 F.3d 396",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        9345891
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "405-08"
+        },
+        {
+          "page": "406"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/325/0396-01"
+      ]
+    },
+    {
+      "cite": "535 F.3d 243",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        5897309
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "256-58"
+        },
+        {
+          "page": "257-58"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/535/0243-01"
+      ]
+    },
+    {
+      "cite": "557 F.3d 886",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        6046779
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "892-93"
+        },
+        {
+          "page": "891-92"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/557/0886-01"
+      ]
+    },
+    {
+      "cite": "129 F.3d 1063",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        11900451
+      ],
+      "pin_cites": [
+        {
+          "page": "1065"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/129/1063-01"
+      ]
+    },
+    {
+      "cite": "394 F.3d 674",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        9169248
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "681"
+        },
+        {
+          "page": "681"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/394/0674-01"
+      ]
+    },
+    {
+      "cite": "629 F.3d 1083",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        4078509
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "1087-88"
+        },
+        {
+          "page": "1087-88"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/629/1083-01"
+      ]
+    },
+    {
+      "cite": "622 F.3d 1007",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        3787978
+      ],
+      "pin_cites": [
+        {
+          "page": "1011-12"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/622/1007-01"
+      ]
+    },
+    {
+      "cite": "633 F.3d 1182",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        4092455
+      ],
+      "pin_cites": [
+        {
+          "page": "1184"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/633/1182-01"
+      ]
+    },
+    {
+      "cite": "600 F.3d 1235",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        4222963
+      ],
+      "pin_cites": [
+        {
+          "page": "1239-40"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/600/1235-01"
+      ]
+    },
+    {
+      "cite": "567 F.3d 1067",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        3652153
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "1074-75"
+        },
+        {
+          "page": "1076",
+          "parenthetical": "had the government given petitioners a chance to examine forensic reports before hearing, they may have been able to produce rebuttal evidence"
+        },
+        {
+          "page": "1076-77"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/567/1067-01"
+      ]
+    },
+    {
+      "cite": "8 C.F.R. \u00a7 1240.10",
+      "category": "laws:admin_compilation",
+      "reporter": "C.F.R.",
+      "pin_cites": [
+        {
+          "page": "(a)(4)"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "8 C.F.R. \u00a7 1003.2",
+      "category": "laws:admin_compilation",
+      "reporter": "C.F.R.",
+      "pin_cites": [
+        {
+          "page": "(c)(1)"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "841 F.2d 865",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        11299894
+      ],
+      "pin_cites": [
+        {
+          "page": "867"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/841/0865-01"
+      ]
+    },
+    {
+      "cite": "395 F.3d 1095",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        9172505
+      ],
+      "pin_cites": [
+        {
+          "page": "1098"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/395/1095-01"
+      ]
+    },
+    {
+      "cite": "442 F.3d 395",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        1064018
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "407"
+        },
+        {
+          "page": "409-10",
+          "parenthetical": "Nelson, J., dissenting"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/442/0395-01"
+      ]
+    },
+    {
+      "cite": "8 C.F.R. \u00a7 208.11",
+      "category": "laws:admin_compilation",
+      "reporter": "C.F.R.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "589 F.3d 1040",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        3500121
+      ],
+      "pin_cites": [
+        {
+          "page": "1044"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/f3d/589/1040-01"
+      ]
+    },
+    {
+      "cite": "259 F.3d 1176",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        9501281
+      ],
+      "pin_cites": [
+        {
+          "page": "1181"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/f3d/259/1176-01"
+      ]
+    },
+    {
+      "cite": "712 F.3d 1123",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        3555193
+      ],
+      "pin_cites": [
+        {
+          "page": "1133"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/f3d/712/1123-01"
+      ]
+    },
+    {
+      "cite": "726 F.3d 1007",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        4073270
+      ],
+      "pin_cites": [
+        {
+          "page": "1014-15"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/f3d/726/1007-01"
+      ]
+    },
+    {
+      "cite": "703 F.2d 420",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1851519
+      ],
+      "pin_cites": [
+        {
+          "page": "424-25"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/f2d/703/0420-01"
+      ]
+    },
+    {
+      "cite": "45 F.3d 308",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        7412808
+      ],
+      "weight": 4,
+      "pin_cites": [
+        {
+          "page": "310"
+        },
+        {
+          "page": "310"
+        },
+        {
+          "page": "310"
+        },
+        {
+          "page": "309"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/f3d/45/0308-01"
+      ]
+    },
+    {
+      "cite": "238 F.3d 239",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        11140462
+      ],
+      "pin_cites": [
+        {
+          "page": "246"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/f3d/238/0239-01"
+      ]
+    },
+    {
+      "cite": "547 F.3d 374",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        6051329
+      ],
+      "pin_cites": [
+        {
+          "page": "382-83"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/f3d/547/0374-01"
+      ]
+    },
+    {
+      "cite": "319 F.3d 365",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        9330335
+      ],
+      "pin_cites": [
+        {
+          "page": "370"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/f3d/319/0365-01"
+      ]
+    },
+    {
+      "cite": "227 F.2d 708",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        61256
+      ],
+      "pin_cites": [
+        {
+          "page": "719"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/f2d/227/0708-01"
+      ]
+    },
+    {
+      "cite": "590 F.3d 1034",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        3503800
+      ],
+      "pin_cites": [
+        {
+          "page": "1047-48"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/f3d/590/1034-01"
+      ]
+    },
+    {
+      "cite": "8 U.S.C. \u00a7 1158",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "pin_cites": [
+        {
+          "page": "(b)(1)(B)(ii)"
+        }
+      ],
+      "opinion_index": 1
+    },
+    {
+      "cite": "459 F.3d 255",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        3644928
+      ],
+      "weight": 4,
+      "pin_cites": [
+        {
+          "page": "268-272"
+        },
+        {
+          "page": "271"
+        },
+        {
+          "page": "270"
+        },
+        {
+          "page": "269"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/f3d/459/0255-01"
+      ]
+    },
+    {
+      "cite": "325 F.3d 396",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        9345891
+      ],
+      "weight": 7,
+      "pin_cites": [
+        {
+          "page": "405-08"
+        },
+        {
+          "page": "408"
+        },
+        {
+          "page": "406"
+        },
+        {
+          "page": "406-08"
+        },
+        {
+          "page": "408"
+        },
+        {
+          "page": "407"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/f3d/325/0396-01"
+      ]
+    },
+    {
+      "cite": "535 F.3d 243",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        5897309
+      ],
+      "weight": 9,
+      "pin_cites": [
+        {
+          "page": "256-258"
+        },
+        {
+          "page": "256"
+        },
+        {
+          "page": "257"
+        },
+        {
+          "page": "258"
+        },
+        {
+          "page": "269-70"
+        },
+        {
+          "page": "270"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/f3d/535/0243-01"
+      ]
+    },
+    {
+      "cite": "557 F.3d 886",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        6046779
+      ],
+      "weight": 6,
+      "pin_cites": [
+        {
+          "page": "892-93"
+        },
+        {
+          "page": "890"
+        },
+        {
+          "page": "891"
+        },
+        {
+          "page": "891-92"
+        },
+        {
+          "page": "891-93"
+        },
+        {
+          "page": "893"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/f3d/557/0886-01"
+      ]
+    },
+    {
+      "cite": "394 F.3d 674",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        9169248
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/f3d/394/0674-01"
+      ]
+    },
+    {
+      "cite": "442 F.3d 395",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        1064018
+      ],
+      "weight": 4,
+      "pin_cites": [
+        {
+          "page": "407"
+        },
+        {
+          "page": "407"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/f3d/442/0395-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 2770,
+    "char_count": 73959,
+    "ocr_confidence": 0.676,
+    "pagerank": {
+      "raw": 4.688522389713308e-08,
+      "percentile": 0.29363005333515585
+    },
+    "sha256": "090d6c80425ab3acd98291d269e30d3812d5715fb2d3587cb9e9545566a00b49",
+    "simhash": "1:9868a728bf34315b",
+    "word_count": 11869
+  },
+  "last_updated": "2024-02-27T16:55:59.249303+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before: ALEX KOZINSKI, Chief Judge, and STEPHEN S. TROTT and SIDNEY R. THOMAS, Circuit Judges."
+    ],
+    "parties": [
+      "Nikolay Ivanov ANGOV, Petitioner, v. Eric H. HOLDER, Jr., Attorney General, Respondent."
+    ],
+    "opinions": [
+      {
+        "text": "OPINION\nKOZINSKI, Chief Judge:\nFive other circuits have held that an immigration judge violates due process or the immigration laws by relying on a State Department investigation of an asylum petitioner\u2019s claim. Do we fall in line?\nI. BACKGROUND\nNikolay Angov, a Bulgarian citizen, claims he was persecuted by the Bulgarian government because he is Roma. He alleges repeated abuse at the hands of the Bulgarian police, including beatings, false accusations of crimes and illegitimate arrests. After three years of this treatment, he fled Bulgaria and sought asylum in the United States.\nAn IJ conducted asylum hearings in early 2004, during which Angov presented several documents, including two Bulgarian subpoenas that ordered him to appear at a Sofia police station. The IJ allowed the government to obtain a State Department investigation of Angov\u2019s allegations. See 8 C.F.R. \u00a7 208.11. The investigation was conducted by our consulate in Sofia, and the results were summarized in a letter signed by Cynthia Bunton, Director of Department of State\u2019s Office of Country Reports and Asylum Affairs.\nThe IJ admitted the Bunton Letter, which stated that the Embassy had contacted \u201can official in the Archive Department at the 5th Police District in Sofia.\u201d The official found a number of errors in the subpoenas, suggesting that they were forgeries: (1) Three officers named in the subpoena \u2014 Captain Donkov, Lieutenant Slavkov and Investigator Vutov \u2014 never worked for the police department; (2) the case and telephone numbers were wrong; and, (3) although the subpoenas mentioned room 4 on the second floor of the department and room 5 on the first floor, there are no rooms by those numbers. The official also explained (4) that the seal on the subpoena was too small.\nBunton also stated that the embassy investigator (5) was unable to locate An-gov\u2019s claimed past residences; and (6) that the neighborhood where Angov lived was only twenty to thirty percent Roma, where Angov claimed that he lived in a \u201cgypsy neighborhood.\u201d Attached to the letter were five photographs of the places the investigator had visited while trying to verify the addresses.\nAngov\u2019s industrious lawyer submitted a plethora of rebuttal evidence, including photos, maps, an article about Angov\u2019s neighborhood and a letter apparently signed by someone named Daniela Mihay-lova, who identified herself as the legal programs director of a Roma human rights organization in Bulgaria. Angov also argued that, without the opportunity to cross-examine the investigator, the admission of the Bunton Letter would violate his statutory and constitutional rights.\nIn response to Angov\u2019s objection, the government attorney asked the State Department to produce an employee to testify about the investigation. State responded with a letter authored by Nadia Tongour, Bunton\u2019s successor. The Tong-our Letter provided some general background information on State\u2019s investigation procedures, but explained that it\u2019s State\u2019s policy to refrain from providing further specific information about an overseas investigation.\nBased on the Bunton Letter, the IJ made an adverse credibility finding and denied Angov\u2019s applications for asylum, withholding of removal and relief under the Convention Against Torture. The BIA adopted and affirmed the IJ\u2019s ruling denying relief, and his determination that the subpoenas are fraudulent. The BIA also denied Angov\u2019s motion to supplement the record with a recent Sixth Circuit opinion that Angov claimed constituted new evidence of a \u201cpattern and practice\u201d of lawbreaking by officials in the Sofia consulate. See Alexandrov v. Gonzales, 442 F.3d 395 (6th Cir.2006).\nII. ANALYSIS\nA. Motion to Remand\nAngov claims the BIA abused its discretion by denying his motion. See Movsisian v. Ashcroft, 395 F.3d 1095, 1098 (9th Cir.2005). His brief before the BIA spent just two sentences explaining this argument:\nRespondent respectfully submits a copy of Alexandrov v. Gonzales to supplement the record in this case. The document is submitted to document a pattern and practice of procedural and substantive violations of the law and applicable regulations by the consulate in Sofia during overseas investigations and in divulging the identity of asylum applicants to the authorities in Bulgaria in violation of C.F.R. 208.6 [sic].\n\u201cSince a motion to remand is so similar to a motion to reopen, the motion to remand should be drafted in conformity with the regulations pertinent to motions to reopen....\u201d Rodriguez v. INS, 841 F.2d 865, 867 (9th Cir.1988) (internal quotation marks omitted). The applicable regulation provides that a motion to reopen shall state \u201cthe new facts that will be proven at a hearing to be held if the motion is granted\u201d and be supported by affidavits or other \u201cevidentiary material.\u201d 8 C.F.R. \u00a7 1003.2(c)(1). But Angov didn\u2019t provide any evidence supporting his motion nor did he even explain why he believed that section 208.6 had been violated. The BIA did not abuse its discretion in denying Angov\u2019s motion to remand. More, we disagree with Alexandrov, see infra p. 9, and see no point in remanding for the BIA to apply the teachings of a case we believe is flat wrong.\nB. Admission of the Bunton Letter\nAngov claims that the admission of, and the IJ\u2019s and BIA\u2019s reliance on, the Bunton Letter violated his statutory and constitutional rights. See 8 U.S.C. \u00a7 1229a(b)(4)(B); 8 C.F.R. \u00a7 1240.10(a)(4); Cinapian v. Holder, 567 F.3d 1067, 1074-75 (9th Cir.2009). In considering Angov\u2019s argument, we review the IJ\u2019s decision, except for the portion that the BIA didn\u2019t clearly adopt \u2014 here, the IJ\u2019s conclusion that the Department of State\u2019s inability to verify Angov\u2019s addresses supported an adverse credibility finding. See Joseph v. Holder, 600 F.3d 1235, 1239-40 (9th Cir.2010). On that issue, we review the BIA\u2019s decision.\nWhile we review constitutional and statutory questions de novo, \u201c[t]he BIA\u2019s interpretation and application of the immigration laws are generally entitled to deference.\u201d Hernandez-Mancilla v. Holder, 633 F.3d 1182, 1184 (9th Cir.2011); Zetino v. Holder, 622 F.3d 1007, 1011-12 (9th Cir.2010). The agency\u2019s factual findings\u2014 such as its adverse credibility determination\u2014are reviewed for substantial evidence and can be reversed only if the evidence \u201ccompels\u201d a contrary conclusion. See Rizk v. Holder, 629 F.3d 1083, 1087-88 (9th Cir.2011) (emphasis omitted).\nAngov\u2019s statutory arguments can be quickly dispatched. He claims that he was denied his right to examine evidence against him. See 8 U.S.C. \u00a7 1229a(b)(4)(B). The record tells a different story: He was allowed to examine the Bunton Letter, and given ample time to produce substantial evidence to rebut it. See supra pp. 1266-67; cf. Cinapian, 567 F.3d at 1076 (had the government given petitioners a chance to examine forensic reports before hearing, they may have been able to produce rebuttal evidence).\nAngov also argues that he was denied his statutory right to cross-examine the witnesses against him. We\u2019ve held that, before hearsay statements made by an absent witness can be admitted into an immigration hearing, \u201c \u2018the government must make a reasonable effort ... to afford the alien a reasonable opportunity to confront the witnesses against him or her.\u2019 \u201d Hernandez-Guadarrama v. Ashcroft, 394 F.3d 674, 681 (9th Cir.2005) (quoting Saidane v. INS, 129 F.3d 1063, 1065 (9th Cir.1997)); see also \u00a7 1229a(b)(4)(B); Cinapian, 567 F.3d at 1076-77. The government here did make a reasonable effort to obtain a witness from the Department of State, but was prevented from doing so by State\u2019s policy of not releasing follow-up information regarding its overseas investigations. It is entirely reasonable for the government not to bring a hearsay declarant from overseas to appear at an immigration hearing in the United States.\nAngov also argues that admission of the Bunton Letter, and the IJ\u2019s and BIA\u2019s reliance on it, violates due process because the letter didn\u2019t provide enough information to evaluate its reliability and trustworthiness. We see little merit in this argument but, surprisingly, five of our sister circuits disagree. Four have held that the Constitution prohibits the IJ and BIA from relying on consular letters like the Bunton Letter. See Banat v. Holder, 557 F.3d 886, 892-93 (8th Cir.2009); Anim v. Mukasey, 535 F.3d 243, 256-58 (4th Cir.2008); Alexandrov, 442 F.3d at 407; Ezeagwuma v. Ashcroft, 325 F.3d 396, 405-08 (3d Cir.2003). A fifth reached the same conclusion on statutory grounds. See Lin v. U.S. Dep\u2019t of Justice, 459 F.3d 255, 269 (2d Cir.2006) (because consular report was unreliable, agency decision that relied on it wasn\u2019t based on \u201csubstantial evidence\u201d). Consequently, we offer a thorough explanation for parting company with our colleagues elsewhere.\nThe IJ found that Nikolay Angov presented forged documents. This is a serious matter that, if true, should not merely result in the immediate termination of An-gov\u2019s asylum petition, but also in criminal prosecution for immigration fraud. But the IJ and the BIA weren\u2019t fazed by discovery of the fraud; they went on to decide whether Angov\u2019s asylum claim could be sustained despite the forgeries. No other adjudicator in the United States would react with such equanimity to finding that a party had tried to bamboozle it.\nThis points to an unfortunate reality that makes immigration cases so different from all other American adjudications: Fraud, forgery and fabrication are so common \u2014 and so difficult to prove \u2014 that they are routinely tolerated. Our circuit is no exception. See Abovian v. INS, 257 F.3d 971 (9th Cir.2001) (Kozinski, J., dissental).\nThe reason for this deplorable state of affairs is not difficult to figure out. The schizophrenic way we administer our immigration laws creates an environment where lying and forgery are difficult to disprove, richly rewarded if successful and rarely punished if unsuccessful. This toxic combination creates a moral hazard to which many asylum applicants fall prey.\nFirst, the reward: the opportunity to be lawfully admitted into the United States. Those born with U.S. citizenship cannot imagine what this is worth to the world\u2019s poor and oppressed billions, most of whom would come here tomorrow if they could. Gaining a lawful foothold in America is an incalculable benefit. It sets an immigrant on the path to a peaceful life in a free society, economic prosperity, citizenship and the opportunity to bring family members in due course. A prize like this is worth a great deal of expense and risk. Telling an elaborate lie, and coming up with forged documents and mendacious witnesses to back it up, is nothing at all when the stakes are so high.\nAnd the risk of getting caught is low. As eight members of this court pointed out in Abovian:\nThe specific facts supporting a petitioner\u2019s asylum claim \u2014 when, where, why and by whom he was allegedly persecuted \u2014 are peculiarly within the petitioner\u2019s grasp. By definition, they will have happened at some time in the pasN^ often many years ago \u2014 in a foreign country. In order for the INS to present evidence \u201crefuting or in any way contradicting\u201d petitioner\u2019s testimony, it would have to conduct a costly and often fruitless investigation abroad, trying to prove a negative \u2014 that the incidents petitioner alleges did not happen.\n257 F.3d at 976. There\u2019s very little the United States can do to investigate obscure incidents that allegedly occurred in countries on the other side of the globe. Even if it were economically feasible, we can\u2019t send the FBI into a foreign country to conduct a full-field investigation. The best we can do is to have consular personnel check basic facts, in addition to the many other functions they perform. And we have very few U.S. consular personnel on the ground in most countries; in all of Bulgaria, there are fewer than two dozen. See U.S. Sec\u2019y of State, 1 Congressional Budget Justification, Department of State Operations, Fiscal Year 2013, at 306 (2012). All told, there are fewer than 6000 consular officials in embassies and consulates spread out across more than 170 countries. Id. at 227-311.\nFinally, if an alien does get caught lying or committing fraud, nothing very bad happens to him. Sure, he may be ordered removed, but most aliens who aren\u2019t in custody remain here long after their removal orders become final. See, e.g., Office of the Inspector Gen., U.S. Dep\u2019t of Justice, The Immigration and Naturalization Service\u2019s Removal of Aliens Issued Final Orders iii (2003) (reporting that \u201cthe INS removed only 3 percent of nonde-tained asylum seekers with final removal orders\u201d); see also Mark Hamblett, Circuit Sets Policy for Removal Cases Deemed Low Priority by U.S., N.Y. L.J., Oct. 18, 2012 (discussing policy that calls for \u201cthe exercise of prosecutorial discretion to focus removal efforts on the most high-priority cases\u201d). And if they do get sent back \u2014 at our expense \u2014 what\u2019s lost? They wind up where they started. Would \u2014 be immigrants almost never get prosecuted for presenting forged documents in support of asylum petitions, unless they commit some additional misconduct. See, e.g., United States v. Jawara, 474 F.3d 565, 570 (9th Cir.2007) (defendant charged with document fraud and conspiracy to commit marriage fraud). Consequently, immigration fraud is rampant.\nTake, for instance, Angov\u2019s compatriot, Pavel Pavlov. Pavlov sought asylum as a persecuted gypsy, just like Angov. They even have the same lawyer. But Pavlov\u2019s story took a different turn when his wife gained U.S. citizenship and he sought adjustment of status. In the process, he had to disclose that his asylum application was a tissue of lies. Specifically, Pavlov admitted that he wasn\u2019t persecuted in Bulgaria. In fact, he\u2019s not even a gypsy.\nAmericans galore wind up in federal prison every year for far less significant lies on government forms or bank loan applications. See, e.g., United States v. Prince, 647 F.3d 1257, 1260-61, 1265 (10th Cir.2011); United States v. Sandlin, 589 F.3d 749, 751-53 (5th Cir.2009); United States v. Jack, 216 Fed.Appx. 840, 841-43 (11th Cir.2007). So was Pavlov appealing his criminal conviction? Certainly not. The BIA barred Pavlov from obtaining any relief under our immigration laws because he had filed a frivolous (read: fraudulent) asylum petition \u2014 a decision he had the chutzpah to appeal. See Pavlov v. Holder, 697 F.3d 616 (7th Cir.2012).\nCases involving fraudulent asylum claims are distressingly common. See, e.g., Cheema v. Holder, 693 F.3d 1045, 1046-47 (9th Cir.2012); Dol v. Holder, 492 Fed.Appx. 774, 775 (9th Cir.2012); Zheng v. Holder, 672 F.3d 178, 180-81 (2d Cir.2012); Fernandes v. Holder, 619 F.3d 1069, 1074-76 (9th Cir.2010); Ghazali v. Holder, 585 F.3d 289, 290-91 (6th Cir.2009); Ribas v. Mukasey, 545 F.3d 922, 925-26 (10th Cir.2008); Siddique v. Mukasey, 547 F.3d 814, 815-16 (7th Cir.2008); Rafiyev v. Mukasey, 536 F.3d 853, 855-57 (8th Cir.2008); Dhital v. Mukasey, 532 F.3d 1044, 1047-48 (9th Cir.2008) (per curiam); Chen v. Mukasey, 527 F.3d 935, 938-39 (9th Cir.2008); Ahir v. Mukasey, 527 F.3d 912, 914-16 (9th Cir.2008). And for every case where the fraud is discovered or admitted, there are doubtless scores of others where the petitioner gets away with it because our government didn\u2019t have the resources to expose the lie.\nOur sister circuits have given this already shaky system a swift kick in the gut, with only a single dissent by the levelheaded Judge Nelson in the Sixth. See Alexandrov, 442 F.3d at 409-10 (Nelson, J., dissenting). Their rulings make it pretty much impossible for the immigration authorities to carry out even the little bit of fact checking they now manage to do. These decisions smother the State Department\u2019s informal process of checking up on asylum petitions in layers of procedural complexity that will prove impossible to carry out in practice.\nIt\u2019s absurd. Grandiloquent language and lofty sentiments are no substitute for law and common sense. The other circuits have simply lost their way; they\u2019ve overlooked some key precedents and misconstrued others. Below, we point out some problems with their opinions. Perhaps the Supreme Court or Congress will intervene and decide who\u2019s right.\n1. We start with a reality check: In how many cases has the Supreme Court held that evidence presented to a trier of fact is so unreliable that its admission violates due process? Angov cites none, and nor do any of the circuits that have adopted his theory. And for good reason: The only Supreme Court case to have addressed this argument in the administrative law context rejected it.\nRichardson v. Perales, 402 U.S. 389, 91 S.Ct. 1420, 28 L.Ed.2d 842 (1971), involved the denial of Social Security disability benefits based on the testimony of a nonexam-ining physician and the reports of several experts. The district court \u201cwas reluctant to accept as substantial evidence the opinions of medical experts submitted in the form of unsworn written reports, the admission of which would have the effect of denying the opposition an opportunity for cross-examination.\u201d Id. at 397-98, 91 S.Ct. 1420. It held that \u201cthe opinion of a doctor who had never examined the claimant is entitled to little or no probative value, especially when opposed by substantial evidence including the oral testimony of an examining physician; and that what was before the court amounted to hearsay upon hearsay.\u201d Id. at 398, 91 S.Ct. 1420. The Fifth Circuit naively affirmed, reasoning that \u201cuncorroborated hearsay could not constitute substantial evidence ... when the hearsay was directly contradicted by the testimony of live medical witnesses and by the claimant in person.\u201d Id.\nThe Supreme Court reversed, emphasizing the informality of Social Security claims procedures, the impartiality of the doctors and the practicalities and expense of conducting 20,000 claims hearings a year. Id. at 401-06, 91 S.Ct. 1420. The Court rejected both statutory and due process claims. Id. at 410, 91 S.Ct. 1420. None of the out-of-circuit cases on which Angov relies distinguish \u2014 or even cite\u2014 Richardson v. Perales.\nEven in criminal cases, the Supreme Court has been extremely reluctant to hold that the mere admission of evidence violates due process. Dowling v. United States, 493 U.S. 342, 352-53, 110 S.Ct. 668, 107 L.Ed.2d 708 (1990), firmly rejected the argument that a defendant is denied due process because the prosecution introduced evidence of crimes of which he had been acquitted. See also Kansas v. Ven-tris, 556 U.S. 586, 129 S.Ct. 1841, 1847 n. *, 173 L.Ed.2d 801 (2009) (refusing, almost unanimously, to \u201ccraft a broad[ ] exclusionary rule for uncorroborated statements obtained [from jailhouse snitches]\u201d).\nIn only one line of cases has the Supreme Court held that the mere admission of evidence amounts to a denial of due process, and that\u2019s where police manipulate an eyewitness to identify the defendant as the culprit. The Court announced this rule in Stovall v. Denno, 388 U.S. 293, 301-02, 87 S.Ct. 1967, 18 L.Ed.2d 1199 (1967), and has been backpedaling ever since. See, e.g., Manson v. Brathwaite, 432 U.S. 98, 117, 97 S.Ct. 2243, 53 L.Ed.2d 140 (1977); Neil v. Biggers, 409 U.S. 188, 201, 93 S.Ct. 375, 34 L.Ed.2d 401 (1972); Coleman v. Alabama, 399 U.S. 1, 5, 90 S.Ct. 1999, 26 L.Ed.2d 387 (1970); Simmons v. United States, 390 U.S. 377, 386, 88 S.Ct. 967, 19 L.Ed.2d 1247 (1968). But see Foster v. California, 394 U.S. 440, 443, 89 S.Ct. 1127, 22 L.Ed.2d 402 (1969).\nThe latest case in the Stovall line, decided just last year, is particularly instructive. In Perry v. New Hampshire, \u2014 U.S. -, 132 S.Ct. 716, 725, 181 L.Ed.2d 694 (2012), the eyewitness identified the suspect in a suggestive setting, but this happened by accident, rather than as a result of police manipulation. By a decisive margin, the Supreme Court declined to find a due process violation. Id. at 730. Justice Ginsburg starts her analysis with words that our colleagues in the other circuits should read twice:\nThe Constitution, our decisions indicate, protects a defendant against a conviction based on evidence of questionable reliability, not by prohibiting introduction of the evidence, but by affording the defendant means to persuade the jury that the evidence should be discounted as unworthy of credit.\nId. at 723.\nThe Court goes on to reject Perry\u2019s argument that \u201ctrial judges [must] pres-creen eyewitness evidence for reliability any time an identification is made under suggestive circumstances.\u201d Id. at 725. Instead, exclusion of the evidence is appropriate only \u201cto deter law enforcement use of improper lineups, showups, and photo arrays.\u201d Id. at 726. In another passage our colleagues might pin to their robes, the Court held:\nWe have concluded in other contexts ... that the potential unreliability of a type of evidence does not alone render its introduction at the defendant\u2019s trial fundamentally unfair.... We reach a similar conclusion here: The fallibility of eyewitness evidence does not, without the taint of improper state conduct, warrant a due process rule requiring a trial court to screen such evidence for reliability before allowing the jury to assess its creditworthiness.\nId. at 728 (citing Ventris, 129 S.Ct. at 1847 n. *, and Dowling, 493 U.S. at 353, 110 S.Ct. 668).\nThe way to deal with unreliable evidence, the Supreme Court tells us, is via the adversary system, which includes the ability to confront witnesses, the assistance of counsel, jury instructions, the burden of proof and the right to introduce contrary evidence. Id. at 728-29. Justice Thomas concurs, noting that the Stovall line of cases is grounded in substantive due process, which he finds inconsistent with the strictly procedural nature of the Due Process Clause. See id. at 730 (Thomas, J., concurring).\nThe constitutional adventurism of our sister circuits can\u2019t be squared with Pe-rales or the Stovallr-Perry line of cases. Criminal trials reflect the pinnacle of procedural formality because the consequences of an erroneous conviction \u2014 loss of liberty or life \u2014 are the most serious. The Court has been willing to protect these values by adopting quasi-substantive rules such as those announced in Miranda v. Arizona, 384 U.S. 436, 444-45, 86 S.Ct. 1602, 16 L.Ed.2d 694 (1966), Mapp v. Ohio, 367 U.S. 643, 655, 81 S.Ct. 1684, 6 L.Ed.2d 1081 (1961), Napue v. Illinois, 360 U.S. 264, 269, 79 S.Ct. 1173, 3 L.Ed.2d 1217 (1959), Brown v. Mississippi, 297 U.S. 278, 285-86, 56 S.Ct. 461, 80 L.Ed. 682 (1936), and Stovall. All of those rules were designed to counter a particular evil: misconduct by police and prosecutors. But the Court has steadfastly refused, even in criminal cases, to find a due process violation based on the mere unreliability of evidence.\nOurs is not a criminal case. Nor is there an allegation that U.S. government officials manipulated the evidence or engaged in other misconduct. The due process claim is based entirely on the alleged unreliability of the evidence. Comparing the opinions of other circuits with Perry reveals the odd situation we\u2019re in: The courts of appeals are forging a due process rule in the administrative context, where the Supreme Court has stressed informality and flexibility, even as the Court itself abjures a similar due process rule in the criminal context.\nNor can the rule our colleagues have invented be cabined to immigration cases. If admission of evidence can violate the due process rights of undocumented aliens, analogous constitutional rights can\u2019t be denied to the millions of Americans whose professional licenses, disability benefits, grazing privileges, mining claims, zoning permits and a constellation of other benefits are controlled by federal, state and local agencies. This is just the opening chapter in what could well become the constitutionalization of vast areas of administrative law.\n2. And Angov\u2019s case is not even in the heartland of administrative law cases. It is at the fringes because Angov is an alien who never formally entered the United States. He presented himself at the San Ysidro port.of entry without valid entry documents and sought asylum. He is in the United States physically, not legally. See Aguilera-Montero v. Mukasey, 548 F.3d 1248, 1253 (9th Cir.2008) (explaining the \u201centry fiction\u201d); see also Kaplan v. Tod, 267 U.S. 228, 230, 45 S.Ct. 257, 69 L.Ed. 585 (1925); United States v. Barajas-Alvarado, 655 F.3d 1077, 1084-85 (9th Cir.2011). In London v. Plasencia, 459 U.S. 21, 103 S.Ct. 321, 74 L.Ed.2d 21 (1982), the Supreme Court explained the difference between a \u201ccontinuously present permanent resident alien\u201d and one who presents himself at the border seeking admission for the first time:\nThis Court has long held that an alien seeking initial admission to the United States requests a privilege and has no constitutional rights regarding his application, for the power to admit or exclude aliens is a sovereign prerogative. Our recent decisions confirm that view. As we explained in Johnson v. Eisentrager, 339 U.S. 763, 770 [70 S.Ct. 936, 94 L.Ed. 1255] (1950), however, once an alien gains admission to our country and begins to develop the ties that go with permanent residence, his constitutional status changes accordingly.\nId. at 32, 103 S.Ct. 321 (internal citations omitted); see also Zadvydas v. Davis, 533 U.S. 678, 693, 121 S.Ct. 2491, 150 L.Ed.2d 653 (2001). Angov\u2019s claim of a due process violation can\u2019t be squared rwith the Supreme Court\u2019s prohibition in London. It\u2019s far more plausible to conclude that the rights of aliens who haven\u2019t yet entered the country are defined entirely by the applicable statutes and regulations.\nThe Supreme Court has said as much: \u201cWhatever the procedure authorized by Congress is, it is due process as far as an alien denied entry is concerned.\u201d United States ex rel. Knauff v. Shaughnessy, 338 U.S. 537, 544, 70 S.Ct. 309, 94 L.Ed. 317 (1950); see also Shaughnessy v. United States ex rel. Mezei, 345 U.S. 206, 212, 73 S.Ct. 625, 97 L.Ed. 956 (1953) (same). While the Court\u2019s due process jurisprudence has changed since the two Shaughnessy cases, see, e.g., Goldberg v. Kelly, 397 U.S. 254, 260-61, 90 S.Ct. 1011, 25 L.Ed.2d 287 (1970); Bd. of Regents of State Colleges v. Roth, 408 U.S. 564, 569-70, 92 S.Ct. 2701, 33 L.Ed.2d 548 (1972), the Court has cited one or both of them in several decisions that postdate the procedural due process revolution, so they remain good law. See, e.g., Landon, 459 U.S. at 32, 103 S.Ct. 321; Zadvydas, 533 U.S. at 692-94, 121 S.Ct. 2491.\nIn Landon, the Court \u201creaffirmed the classical doctrine on the legal status of aliens seeking initial entry\u201d and \u201ccited with apparent approval United States ex rel. Knauff v. Shaughnessy.\u201d Peter H. Schuck, The Transformation of Immigration Law, 84 Colum. L.Rev. 1, 20-21, 62-63 & n.343 (1984). In Zadvydas, the majority \u201creaffirmed] ... [the] distinction whereby those defined to be on the inside of the national territorial line enjoy fundamental due process protections whereas those on the outside do not. In the course of the analysis, the Court all but reaffirmed ... Mezei.\u201d Linda Bosniak, A Basic Territorial Distinction, 16 Geo. Immigr. L.J. 407, 407 (2002).\nEven if we were to apply the Goldberg/ Roth line of cases to aliens like Angov, it wouldn\u2019t help him. \u201cThe Due Process Clause applies only when the \u2018state\u2019 \u2018deprives\u2019 a person of \u2018life, liberty, or property.\u2019 \u201d 2 Richard J. Pierce, Jr., Administrative Law Treatise \u00a7 9.4, at 775 (5th ed.2010). Asylum is not life or property, and at least one of our sister circuits has held that aliens who seek asylum upon reaching the U.S. border have no liberty interest in entering the country. See Raf-eedie v. INS, 880 F.2d 506, 519-20 (D.C.Cir.1989). This seems entirely right.\nCongress and the Attorney General have given aliens like Angov a variety of procedural rights, including the right to. be present at the hearing; to be represented by counsel; to examine the evidence against him and present counter-evidence; to cross-examine witnesses; and to have a written record kept of the proceedings. 8 U.S.C. \u00a7 1229a(b)(4). Neither the statute nor the regulations give the asylum applicant a right to a particular quality of the evidence presented against him. Instead, he is given the right to have an impartial adjudicator assess the evidence. When exercising grace towards individuals who have no rights under our laws, Congress can set the precise limits of what it grants and what it withholds. That then defines the process an asylum seeker like Angov is due.\n3. Furthermore, it is Angov who has the burden of proving his eligibility for asylum. See 8 C.F.R. \u00a7 1208.13(a). The government has no burden; it can present evidence solely to rebut or impeach petitioner\u2019s case.\nThis matters because the Supreme Court often permits evidence to be used for impeachment, even when it is constitutionally inadmissible for substantive purposes. For example, evidence obtained without giving the suspect proper Miranda warnings can\u2019t be introduced in the government\u2019s case-in-chief, but it is admissible for impeachment. See Harris v. New York, 401 U.S. 222; 224-26, 91 S.Ct. 643, 28 L.Ed.2d 1 (1971). Similarly, illegally seized evidence can be admitted to impeach statements made by a criminal defendant. See United States v. Havens, 446 U.S. 620, 627-628, 100 S.Ct. 1912, 64 L.Ed.2d 559 (1980); Walder v. United States, 347 U.S. 62, 64-66, 74 S.Ct. 354, 98 L.Ed. 503 (1954).\nEven assuming it were appropriate to craft a rule limiting the admission of evidence based on an appellate court\u2019s gut feeling as to its reliability, what\u2019s sufficient for impeachment is certainly less than what\u2019s needed to carry the asylum applicant\u2019s burden of proof. Impeachment evidence, after all, need not be believed; it need only cast doubt on the evidence presented by the party with the burden of proof. The Bunton Letter is at least sufficient to cast doubt on Angov\u2019s evidence and force him to come up with more solid proof to support his claim.\n4. Even if petitioner had a due process right in the quality of the impeachment evidence presented by the government, there would be no constitutional violation here. The Supreme Court has told us that the appropriate test for evaluating the constitutional adequacy of procedures in immigration cases is that articulated in Mathews v. Eldridge:\nIn evaluating the procedures in any case, the courts must consider the interest at stake for the individual, the risk of an erroneous deprivation of the interest through the procedures used as well as the probable value of additional or different procedural safeguards, and the interest of the government in using the current procedures rather than additional or different procedures.\nLandon, 459 U.S. at 34, 103 S.Ct. 321 (citing Mathews v. Eldridge, 424 U.S. 319, 334-35, 96 S.Ct. 893, 47 L.Ed.2d 18 (1976)); see also Jason Parkin, Adaptable Due Process, 160 U. Pa. L.Rev. 1309, 1325-26 & n.77 (2012).\nWe must thus consider not only the degree to which Angov may be prejudiced by admission of the Bunton Letter, but also the harm the government would suffer if it were required to produce more. We note that the other circuits did no such balancing; indeed, they seem to overlook Mathews and Landon altogether.\nAngov finds fault with the Bunton Letter because it \u201cprovides no information as to who conducted the investigation; who obtained, stored and verified the information underlying the conclusion expressed in the document [or] when and under what authority the investigation was conducted.\u201d He notes that the Bunton Letter offers no explanation for many of its conclusions\u2014 for example, that both the case numbers and the telephone numbers listed on the fraudulent subpoenas were incorrect. These are all interesting points to raise at the hearing, and the absence of a satisfactory response from the government might well convince the trier of fact to disregard the letter. But what does this have to do with due process?\nThe problems Angov identifies flow from the fact that the rules of evidence, and the hearsay rules in particular, don\u2019t apply to administrative proceedings. See Richardson v. Perales, 402 U.S. 389, 400-402, 91 S.Ct. 1420, 28 L.Ed.2d 842 (1971); Hernandez-Guadarrama v. Ashcroft, 394 F.3d 674, 681 (9th Cir.2005). This inevitably leaves some uncertainty that would be eliminated if this were a formal trial subject to the rules of evidence. But it doesn\u2019t deprive the opposing party of any and all means of rebutting the hearsay declarant\u2019s assertions.\nThe Bunton Letter does come to certain factual conclusions: that the addresses identified by Angov in his asylum petition don\u2019t exist; that the officers \u2014 Captain Donkov, Lieutenant Slavkov and Investigator Vutov \u2014 and room numbers specified in the subpoenas presented by Angov don\u2019t exist; that the seals on the subpoenas are the wrong size; and that the part of the city where Angov claimed to live was only twenty to thirty percent Roma. Each of these assertions describes facts in the real world, so it\u2019s possible to rebut Bunton by presenting proof that those facts are not as the Bunton Letter describes them.\nIn fact, Angov did precisely that with respect to the two addresses. He presented a letter from someone in Bulgaria, who explained that the Bunton Letter\u2019s conclusions about the addresses are wrong. See supra pp. 1266-67; Appendix. And the BIA seems to have been swayed, as it noted that the \u201crecord is unclear\u201d about whether Angov was telling the truth about the addresses.\nAngov was free to present similar evidence to undermine the Bunton Letter\u2019s statements about the subpoenas. He could have had Ms. Mihaylova from the human rights organization or some other friend in Sofia visit the police station and try to find out whether the rooms referenced in the Bunton Letter do or don\u2019t exist. He might also have been able to obtain a roster of the names of police officials in Sofia and shown that it contains the names of the officers referenced in the subpoenas.\nThe Bunton Letter also asserts that the phone numbers in the subpoenas aren\u2019t correct. Angov or one of his friends could have called the numbers and asked whether he\u2019d reached the police station \u2014 and then submitted an affidavit to that effect. The same is true about the seals: Angov or his friends might have tried to obtain an official copy of the police seal from the Bulgarian government and introduced it into evidence. He did none of these things, perhaps because he knew that the subpoenas were forged.\nWhere the petitioner has the burden of proof, there\u2019s nothing unfair about having a U.S. government agent check out some of his basic facts and inform the IJ of possible discrepancies. This forces the petitioner to obtain further evidence supporting the challenged claims. There might be situations where obtaining further evidence is impossible, such as where the petitioner has fled from a closed society and can find no one willing or able to obtain the evidence he needs. In such cases, we don\u2019t hold the petitioner\u2019s failure to present evidence against him. See Singh v. Holder, 638 F.3d 1264, 1270-71 (9th Cir.2011). But Angov has never claimed that he couldn\u2019t get more evidence; indeed he has.resources in Bulgaria.\nThe Bunton Letter\u2019s estimate that An-gov comes from a community that is only twenty to thirty percent Roma is similar to the kind of demographic estimates made by the State Department in its country reports, on which we and the BIA rely all the time. See, e.g., Dhillon v. Holder, 485 Fed.Appx. 252, 253 (9th Cir.2012); Patel v. Holder, 474 Fed.Appx. 584, 585 (9th Cir.2012); Sesay v. Holder, 469 Fed.Appx. 617, 617 (9th Cir.2012); see also Sowe v. Mukasey, 538 F.3d 1281, 1285 (9th Cir.2008) (\u201cU.S. Department of State country reports are the most appropriate and perhaps the best resource for information on political situations in foreign nations.\u201d (internal quotation marks omitted)); cf. 8 U.S.C. \u00a7 1158(b)(l)(B)(iii).\nWere we to hold that we can\u2019t rely on this estimate in the Bunton Letter, we\u2019d be casting doubt on a multitude of country reports that have no better support for their demographic estimates than the Bun-ton Letter. The country reports are, after all, prepared by the very same consular officials, using some of the same methods, as the Bunton Letter. See Bureau of Democracy, Human Rights & Labor, U.S. Dep\u2019t of State, Country Reports on Human Rights Practices for 2012: Appendix A: Notes on Preparation of Reports, at 1 (2012). Indeed, Cynthia Bunton\u2019s title when she wrote her letter was director of the Department of State\u2019s \u201cOffice of Country Reports and Asylum Affairs.\u201d (emphasis added). Nadia Tongour is her successor. Adopting Angov\u2019s objection to the findings in the Bunton Letter could render country reports inadmissible in immigration proceedings.\nAngov complains that the Bunton Letter might have relied on reports from foreign service nationals (FSNs). See Ezeagwuna, 325 F.3d at 406. What if it did? Our embassy in Sofia, as elsewhere, employs roughly the same number of FSNs and Americans. U.S. Sec\u2019y of State, 1 Congressional Budged Justification, Department of State Operations, Fiscal Year 2013, at 306 (2012). Our short-staffed consular offices no doubt use FSNs, who are fluent in the local language and familiar with local conditions, to do some of the legwork. We see nothing wrong with that. Whether the investigation was conducted by U.S. citizens, FSNs or Hercule Poirot, it resulted in certain factual conclusions that can be refuted.\nSubmissions such as the Bunton Letter and the various country reports on which we routinely rely aren\u2019t just a collection of statements by disconnected individuals. Rather, they are the unified work product of a U.S. government agency carrying out governmental responsibilities. As such, the report itself, and the acts of the various individuals who helped prepare it, are clothed with a presumption of regularity. See Nat\u2019l Archives & Records Admin. v. Favish, 541 U.S. 157, 174, 124 S.Ct. 1570, 158 L.Ed.2d 319 (2004); see also Kohli v. Gonzales, 473 F.3d 1061, 1068 (9th Cir.2007). \u201c[I]n the absence of clear evidence to the contrary, courts presume that [these individuals] have properly discharged their official duties.\u201d Favish, 541 U.S. at 174, 124 S.Ct. 1570 (quoting United States v. Armstrong, 517 U.S. 456, 464, 116 S.Ct. 1480, 134 L.Ed.2d 687 (1996)).\nThe presumption of regularity has been applied far and wide to many functions performed by government officials. See, e.g., U.S. Postal Serv. v. Gregory, 534 U.S. 1, 10, 122 S.Ct. 431, 151 L.Ed.2d 323 (2001) (Post Office disciplinary procedures); United States v. Armstrong, 517 U.S. 456, 464, 116 S.Ct. 1480, 134 L.Ed.2d 687 (1996) (prosecutorial decision making); FCC v. Schreiber, 381 U.S. 279, 296, 85 S.Ct. 1459, 14 L.Ed.2d 383 (1965) (FCC\u2019s decision making process); cf. INS v. Miranda, 459 U.S. 14, 16-18, 103 S.Ct. 281, 74 L.Ed.2d 12 (1982) (per curiam) (processing of visa application).\nThe Bunton Letter is entitled to the presumption that those who participated in its preparation, be they FSNs, consular officers or officials at the State Department in Washington, did their jobs fairly, conscientiously and thoroughly; that each officer in the chain relied on the work of someone down the chain in whom he had confidence; that no one had a personal stake in the substance of the report; and that no one lied or fabricated evidence. Without this presumption, country reports would be no more useful than the Farmers\u2019 Almanac or Perezhilton.com.\nHolding that the admission of the Bun-ton Letter violates due process would cripple the government\u2019s ability to detect fraud in the asylum process. The asylum unit of the Department of State\u2019s Office of Country Reports and Asylum Affairs \u201chas suffered from long standing resource problems.\u201d Office of the Inspector Gen., U.S. Dep\u2019t of State, Report of Inspection: Bureau of Democracy, Human Rights and Labor 23 (2003). Many of its staffers are interns, and even its regular employees are often \u201cpressed into service to work\u201d on the Office\u2019s other main responsibility: country reports. Id. at 23-24. And the consular officers tasked with verifying asylum applicants\u2019 claims are also overworked and understaffed. The Tongour Letter expresses the government\u2019s position on providing additional information about the results of an overseas investigation: \u201cSuch additional demands are further burdens on Consular Officers in the performance of their regular responsibilities and are particularly onerous for FSNs who may be subject to local reprisal.\u201d The State Department tells us it\u2019s doing the best it can with the scant resources allocated to it and our consular corps abroad.\nDemanding, as our sister circuits do, that the reports contain a multitude of additional details, such as \u201cthe identity and qualifications of the investigator(s),\u201d \u201cthe objective and extent of the investigation\u201d and \u201cthe methods used to verify the information discovered,\u201d see Lin, 459 F.3d at 271, see also Banat, 557 F.3d at 891-92, Anim, 535 F.3d at 257-58, transforms a process that is swift, efficient and informal into one that\u2019s ponderous, time-consuming and expensive.\nInsisting on these procedures would paralyze the process, making it impossible for our consular officers to do many of these investigations because they\u2019re too busy filling in all the jots and tittles our sister circuits enshrine as constitutional requirements. Complying with the requirements put in place by the other circuits considerably lengthens the time it takes to write most reports, and may make it impossible to write others for fear of disclosing sensitive information that could compromise sources or impair relations with local officials.\nNor is it realistic for the government to produce such information in camera. These reports are prepared by Department of State officials stationed in foreign countries, and are then turned over to another agency in another department, which then releases them to an adverse party. These disclosures are made in the context of immigration court proceedings, not in district court, and the immigration court, despite its name, is an executive branch agency. It has no contempt powers and can\u2019t have anyone arrested for violating its orders, including confidentiality orders. See Stephen H. Legomsky, Restructuring Immigration Adjudication, 59 Duke L.J. 1635, 1674, 1714 (2010); Dana Leigh Marks, Still a Legal \u201cCinderella\u2019\u2019? Why the Immigration Courts Remain an Ill-Treated Stepchild Today, 59 Fed. Law., Mar. 2012, 25, at 30. There\u2019s a good chance the information will fall into the hands of people who have little regard for U.S. law and find themselves repatriated with a motive for revenge. Consular officials forced to disclose sensitive information in these circumstances would probably leave the information out of the report rather than risk burning their sources, offending local officials or losing their lives.\nIf we make the job of compiling these reports substantially more risky and onerous, the State Department may stop writing them. The United States gets close to 74,000 asylum cases a year, far more than any other industrialized nation. See United Nations High Comm\u2019r for Refugees, Asylum Levels and Trends in Industrialized Countries 3, 8 & n.14 (2011). (That\u2019s more than three times the number of Social Security cases the Supreme Court considered massive in Perales). The use of reports from consular officials gives the government the ability to check facts and puts at least some constraint on how far from the truth asylum applicants will stray. By knocking out even this feeble check on fraud and fabrication, the other circuits subvert the asylum process, giving charlatans a free pass into the United States.\n5. In any event, our sister circuits\u2019 \u201cfaith in procedural choreography is ... fundamentally flawed.\u201d United States v. Balough, 820 F.2d 1485, 1491 (9th Cir.1987) (Kozinski, J., concurring). Requiring the Department of State to disclose more details will neither materially enhance the reliability of the resulting report nor do very much to help asylum applicants.\nWe test this proposition by modifying a portion of the Bunton Letter to comply with the requirements put in place by other circuits; new or modified language is italicized:\nAgent Michael Smith, a foreign service agent with seventeen years of field experience who is fluent in Bulgarian, ordered Vladimir Popov, a foreign service national in the Embassy\u2019s employ, to visit the 5th Police District station in Sofia in order to seek authentication of the two subpoenas. FSN Popov is a lifelong resident of Sofia and has worked for the Embassy for two years. He is fluent in Bulgarian and speaks conversational English.\nFSN Popov traveled to the station and, once there, spoke to Ludmilla Bogdanovich, who is the supervisor of personnel records at the station. FSN Popov considers Ms. Bogdanovich a trustworthy source. After she consulted the relevant records, Ms. Bogdano-vich told FSN Popov that Captain Donkov, Lieutenant Slavkov and Investigator Vutov have never worked for the 5th Police District. Ms. Bogdano-vich also told FSN Popov that the case numbers on the subpoenas were not correct, there was no room 4 on the second floor and no room 5 on the first floor and that the telephone numbers on the subpoenas were incorrect. While at the station, FSN Popov asked Ms. Bogdanovich for an imprint of the police station seal, which he brought back to the consulate. Agent Smith compared it to the seal on the two subpoenas and found the official seal to be much larger.\nAfter hearing FSN Popov\u2019s oral report of his meeting with Ms. Bogdano-vich, Agent Smith transmitted the information to the author of this letter by encrypted email.\nBest we can tell, this revised letter would comply with the requirements imposed by the other circuits, but would it be much more valuable than what we already have? We would now know for sure that the information came to us via at least four levels of hearsay: (1) Ms. Bunton; (2) Agent Smith; (3) FSN Popov; and (4) Ms. Bogdanovich. That\u2019s no help. We\u2019d know a bit more about Agent Smith, and we\u2019d know the identity of the person who did the legwork, but how would that help us? We\u2019d also have a name of someone who purportedly provided the information from the Bulgarians, but how would that be of any use? Angov could still complain that the IJ was unable to assess the Bulgarian official\u2019s credibility, or even the credibility of any of the later links in the hearsay chain. We\u2019d also know that it was Agent Smith who visually compared the seal on the subpoenas with the station\u2019s official seal, but how does that bring us closer to the truth?\nAt this point, we would be faced with a whole new set of questions: How do we know Popov really went to the police station instead of stopping off in a bar to chug rakia? How did Popov know whether Bogdanovich was really the supervisor of personnel records at the police station? Did he check her identification papers? How did Popov assess Bogdanovich to be trustworthy, and how can we be sure he\u2019s right? Did Popov look at the personnel records himself, or did he take Bogdano-vich\u2019s word that the three officers never worked there? Can we be sure that Bog-danovich checked all the relevant records? Can we be sure the purported personnel records were accurate and complete? How do we know Popov didn\u2019t falsify important details because he was afraid of reprisal or because he hates gypsies? And how can we be sure Smith is telling the truth if we can\u2019t cross-examine him? Did Smith have a full-sized copy of the subpoena when he compared the seals or a shrunken photocopy?\nThese difficulties are inherent in trying to prove up facts related to events that occurred years past and thousands of miles away from where the IJ is holding his hearing. Short of transporting all the de-clarants and their underlying records to the United States for a hearing before an IJ, there will inevitably be gaps that can be bridged only by multiple levels of hearsay.\nThis is not a problem that plagues only the government. Almost every piece of evidence asylum petitioners present in support of their cases would be inadmissible if subjected to the rules of evidence, especially those pertaining to hearsay: threats they claim to have been subjected to; racist comments by the police; reports of strange people looking for them; letters from family members and others. A brief scan of our caselaw shows it\u2019s pretty much impossible to build an asylum case without relying on evidence that would be laughed out of court if presented in a domestic trial. See, e.g., Meza-Vallejos v. Holder, 669 F.3d 920, 922 (9th Cir.2012); Haile v. Holder, 658 F.3d 1122, 1124-25 (9th Cir.2011); Singh v. Holder, 656 F.3d 1047, 1049-50 (9th Cir.2011); Hu v. Holder, 652 F.3d 1011, 1013-15 (9th Cir.2011); Kumar v. Gonzales, 444 F.3d 1043, 1047-48 (9th Cir.2006).\nTake, as a small example, the letter from Daniela Mihaylova that Angov presented to rebut some of the information in the Bunton Letter. This is a two-page, typed document, with a small emblem and a typed address by way of -letterhead. (We reproduce it in the Appendix.) It is addressed \u201cTo: Whom it may concern\u201d and references Angov\u2019s case. The letter represents that the \u201cRomani Baht Foundation is a leading Bulgarian non-profit organization for protection of Roma/Gypsies human rights, founded in 1996 and legally registered with Bulgarian court.\u201d Mihay-lova purports to be the legal programs\u2019 director of the Foundation.\nThe BIA took this letter seriously and modified some of the IJ\u2019s findings based on it and other evidence presented by An-gov. But there is absolutely no evidence in the record that there is any such person as Daniela Mihaylova and, if there is, how she went about obtaining the information detailed in her letter. For all we know, Angov could have printed the letter using his computer and standard word processing software.\nCompared to this letter \u2014 and the remaining evidence presented by Angov\u2014 the Bunton Letter seems a paragon of reliability. It was prepared by government officials trained to perform this kind of investigation; who have nothing to gain by giving false information; and whose conduct is clothed with the presumption of regularity that attaches to all government actors. Cf. Perales, 402 U.S. at 402-06, 91 S.Ct. 1420. The Bunton Letter encloses five photographs depicting locations mentioned in Angov\u2019s asylum petition, which confirms that someone from our consulate traveled to those locations and made a personal inspection.\nThe Bunton Letter also gives specific reasons for doubting the authenticity of the addresses and points to several problems with the subpoenas. It is not an unsupported assertion that Angov is a liar; it is a rational, apparently objective recital of observed facts. At the very least, we can be sure that there is a Bunton and a Tongour, and that they can be disciplined or prosecuted if they negligently or deliberately falsified their reports. And we can reasonably presume that, in preparing their reports, Bunton and Tongour relied on trained State Department officers and agents who are themselves subject to discipline or prosecution for incompetence or corruption.\nCompare this to the letter from Mihay-lova (assuming there even is a Mihaylova): It comes from someone who cannot be disciplined or prosecuted in case of a lie, and who has not been screened for competence, honesty or reliability. It encloses no pictures or other documentary evidence. It doesn\u2019t explain how the facts asserted were gathered or by whom. It doesn\u2019t even claim to be based on firsthand knowledge, rather than hearsay or rumor. The letter simply makes a series of bald factual assertions without any support. Even assuming the letter is genuine (in the sense that it was actually written by its purported signatory in Bulgaria), the IJ and the BIA have absolutely no way to evaluate how accurate or objective it is.\nIn an environment where it\u2019s pretty much impossible to obtain first-hand accounts of most of the relevant facts, does due process require the government to fight an uphill battle on a slippery slope with one leg and both arms tied behind its back, while its adversary gets to use cleats and brass knuckles? Of course not. As the Supreme Court has explained, \u201cThe constitutional sufficiency of procedures provided in any situation ... varies with the circumstances.\u201d Landon, 459 U.S. at 34, 103 S.Ct. 321. It would be the height of cognitive dissonance to hold the United States to standards of proof derived from domestic litigation while allowing petitioners to present anything and everything that doesn\u2019t bear the watermark \u201cForgery Purchased on the Black Market.\u201d The Mathews balancing test calls for a fair weighing of the burdens on both parties to the controversy in light of \u201cthe circumstances.\u201d Landon, 459 U.S. at 34, 103 S.Ct. 321. The balance struck by the other circuits is so one-sided and unfair that it hobbles the government\u2019s ability to detect and combat fraud in the asylum application process.\nThe consequence of the rule adopted by the other circuits will not be to allow more of the world\u2019s oppressed into the land of the free. Rather, it favors the canny, the dishonest, the brazen and those who have the means and connections to purchase or create fraudulent documents. Nor does the other circuits\u2019 rule ultimately help asylum seekers, as it\u2019s hard to believe that Congress will long allow the program to continue when it rewards people who lie their way into the United States. Eventually, Congress and the public will catch on that asylum has become a fast-track vehicle for immigration fraud, and the asylum statute will be repealed or amended so as to make it more difficult for honest asylum seekers to obtain relief. The ultimate victims of the epidemic of substantive due process that has infected the circuit courts will be the tired, poor, huddled masses who will find the golden door slammed in their faces.\n* * *\nWe conclude that the IJ acted within his discretion when he admitted the Bunton Letter into evidence and relied on it to find that the subpoenas Angov submitted were fraudulent. The adverse credibility finding based on the fraudulent subpoenas was supported by substantial evidence. Because Angov\u2019s claim is based on his mistreatment by the Bulgarian police, the fact that the subpoenas were fraudulent \u201cgoes to the heart of [Angov\u2019s] claim of persecution.\u201d See Rizk v. Holder, 629 F.3d 1083, 1087-88 (9th Cir.2011). Furthermore, Angov\u2019s testimony is not credible, and he doesn\u2019t present other evidence that meets his burden to show that it\u2019s \u201c \u2018more likely than not\u2019 \u201d that he would be tortured if sent back to Bulgaria. See Shrestha v. Holder, 590 F.3d 1034, 1048 (9th Cir.2010). Consequently, the IJ and BIA decisions denying Angov asylum, withholding of removal and protection under the Convention Against Torture must stand.\nPETITION DENIED.\nAppendix: Mihaylova Letter\n. Angov\u2019s brief refers to him as \"Roma\u201d or \"gypsy\u201d interchangeably. So do we.\n. 8 C.F.R. \u00a7 208.6(a) provides that \"[i]nfor-mation contained in or pertaining to any asylum application ... shall not be disclosed without the written consent of the applicant.\u201d Angov argues that Alexandrov \"exposed the improprieties that have riddled overseas investigations in the Sofia consulate,\u201d including that investigations were often conducted by foreign service nationals, that someone other than a consular officer could have authored embassy reports and that consular officials often signed reports written by others. None of these arguments were presented to the BIA.\n. The DOJ guidelines stated that, in the case of a fraudulent document, the \"report must contain, at a minimum: (i) the name and title of the investigator; (ii) a statement that the investigator is fluent in the relevant language(s) or that he or she used a translator who is fluent in the relevant language(s); (iii) any other statements of the competency of the investigator and the translator deemed appropriate under the circumstances (such as education, years of experience in the field, familiarity with the geographic terrain, etc.); (iv) the specific objective of the investigation; (v) the location(s) of any conversations or other searches conducted; (vi) the name(s) and title(s) of the people spoken to in the course of the investigation; (vii) the method used to verify the information; (viii) the circumstances, content, and results of each relevant conversation or search!]; and (ix) a statement that the Service investigator is aware of the confidentiality provisions found in 8 C.F.R. \u00a7 208.6.\u201d Memorandum from Bo Cooper (\"Cooper Memo\u201d), Gen. Counsel, Immigration & Naturalization Serv., to Jeffrey Weiss, Dir., Immigration & Naturalization Serv. Office of Int\u2019l Affairs, Confidentiality of Asylum Applications and Overseas Verification of Documents and Application Information (June 21, 2001), available at http:// judiciary.house.gov/legacy/82238.pdf at 39-45.",
+        "type": "majority",
+        "author": "KOZINSKI, Chief Judge:"
+      },
+      {
+        "text": "THOMAS, Circuit Judge,\ndissenting:\nI would join the five other circuits that have considered the issue. Unsworn, unauthenticated, hearsay letters \u2014 prepared for litigation by the government and not subject to any form of cross-examination\u2014 cannot form the sole basis for denying asylum to an otherwise qualified applicant. Therefore, I must respectfully dissent.\nI\nWe have long criticized the practice of using anonymous hearsay as the basis for denying constitutional rights, without affording due process. As Judge Walter Pope wrote in 1955 in a ease involving security clearances:\nThe question is: Is this system of secret informers, whisperers and talebearers of such vital importance to the public welfare that it must be preserved at the cost of denying to the citizen even a modicum of the protection traditionally associated with due process?\nParker v. Lester, 227 F.2d 708, 719 (9th Cir.1955).\nFor Judge Pope, the answer was an unequivocal \u201cno,\u201d and that should be our answer today.\nA\nAs we have steadfastly held, immigration proceedings must be conducted \u201cin accord with due process standards of fundamental fairness.\u201d Ramirez-Alejandre v. Ashcroft, 319 F.3d 365, 370 (9th Cir.2003) (en banc) (internal quotation marks omitted). For that reason, four of our sister circuits have held that the government violates the due process rights of aliens when it denies asylum solely on the basis of conclusory letters prepared for litigation in reliance on multiple layers of unauthenticated hearsay, without affording the petitioner some right of confronting the charges. Banat v. Holder, 557 F.3d 886, 892-93 (8th Cir.2009); Anim v. Mukasey, 535 F.3d 243, 256-258 (4th Cir.2008); Alexandrov v. Gonzales, 442 F.3d 395, 407 (6th Cir.2006); Ezeagwuna v. Ashcroft, 325 F.3d 396, 405-08 (3d Cir.2003). Those circuits have held that due process requires consular letters to meet the minimal standards of reliability and trustworthiness in order to be admissible.\nTo be sure, \u201coverseas investigations by State Department officials concerning the authenticity of documents purportedly originating in foreign countries are often necessary for the adjudication of an asylum claim.\u201d Banat, 557 F.3d at 890. However, as the 8th Circuit also explained:\nReliance on reports of investigations that do not provide sufficient information about how the investigation was conducted are fundamentally unfair because, without that information, it is nearly impossible for the immigration court to assess the report\u2019s probative value and the asylum applicant is not allowed a meaningful opportunity to rebut the investigation\u2019s allegations.\nId. at 891.\nAdditionally, without reaching the Constitutional question, the Second Circuit rejected a \u201chighly unreliable\u201d consular report on the grounds that it did not amount to substantial evidence to support a finding that the document was forged. Lin v. U.S. Dep\u2019t of Justice, 459 F.3d 255, 268-272 (2d Cir.2006); see also Balachova v. Mukasey, 547 F.3d 374, 382-83 (2d Cir.2008) (applying Lin). Lin quoted with approval the Department of Justice\u2019s own guidelines for preparation of such reports, distilling them into three factors for evaluating the reliability of a consular letter: \u201c(i) the identity and qualifications of the investigator(s); (ii) the objective and extent of the investigation; and (iii) the methods used to verify the information discovered.\u201d Id. at 271.\nKeeping in mind the Lin factors, an examination of the circumstances giving rise to the other circuits\u2019 concerns is instructive in evaluating this case.\nIn Banat, the Eighth Circuit rejected the IJ\u2019s reliance on a consular letter that cited to an unidentified embassy investigator, with no indication of the qualifications or experience of the investigator or the investigator\u2019s \u201ccontact,\u201d and that contained multiple levels of hearsay. 557 F.3d at 891-92. The Eighth Circuit applied the Lin factors and determined that none of the factors were met. Id. at 891-93. As a result, the Court concluded that \u201cthe IJ\u2019s reliance on the State Department letter, which provided no details about the investigation that would allow the IJ to assess the investigation\u2019s reliability or trustworthiness and which contained multiple levels of hearsay, violated Banat\u2019s right to a fundamentally fair hearing.\u201d Id. at 893.\nIn Balachova, the Second Circuit concluded that \u201cthe consular report is unreliable and cannot contribute to a finding of substantial evidence.\u201d 547 F.3d at 383. The Court noted that the report \u201ccontains no information concerning the qualifications of the investigators, the identity of the Russian officials who prepared the response to the consular inquiry, or the methods, if any, used to verify the information supplied by the foreign official.\u201d Id. Applying the Lin factors, it held that the IJ could not rely on the letter.\nIn Anim, the Fourth Circuit considered a State Department letter authored by the same official involved in our case. It concluded that \u201cthe Bunton letter contains insufficient indicia of reliability and, as a result, its use was fundamentally unfair.\u201d 535 F.3d at 256. It noted that the letter \u201cis comprised entirely of multiple hearsay statements.\u201d Id. at 257. It also pointed out that the \u201cletter does not explain how Bunton received the information she relates, nor does the letter disclose the identities of some of the individuals involved in the chain of communication.\u201d Id. The Court observed that the letter provided \u201cmarkedly insufficient information\u201d as to how the investigation was conducted, and emphasized that \u201c[wjithout the details of the investigation, it is impossible for an immigration judge, the BIA, or a court to evaluate the reliability of the letter\u2019s conclusions.\u201d Id. The Fourth Circuit determined that the letter did not satisfy the Lin test, concluding that the letter did not \u201cmeet even the minimum standards prescribed by [the Department of Homeland Security],\u201d and lacked \u201cthe clarity and content necessary to provide fair or probative evidence in an immigration proceeding.\u201d Id. at 258. The Fourth Circuit also warned of the temptation to defer to and rely on \u201cthe general prestige and competence of the Department of State\u201d as the primary factor in determining the document\u2019s authenticity, rather than on \u201cadequate evaluation of the reliability of the document.\u201d Id.\nIn Lin, the Second Circuit rejected a letter almost identical to the one at issue here. The report was based on the opinions of government officials who, as the Second Circuit noted, \u201cappear to have powerful incentives to be less than candid on the subject of their government\u2019s persecution of political dissidents.\u201d Id. at 269-70. The Court concluded that the Consular Report was \u201cinsufficiently detailed to permit a reviewing court to assess its reliability.\u201d Id. at 270.\nIn Alexandrov, the Sixth Circuit concluded that two consular memoranda did \u201cnot meet our standards of trustworthiness and reliability and were therefore improperly relied upon by the immigration court.\u201d 442 F.3d at 407. The Court noted that there was no identification of the embassy investigator, no clarification \u201cto any degree [of] what type of investigation was conducted,\u201d no description of how the investigation was concluded, no explanation of the investigator\u2019s qualifications, and no identification of the person who provided the information. Id. As the Court summarized, \u201c[t]here is not much that we do know aside from the apparent conclusions of the mysterious investigation.\u201d Id.\nIn Ezeagwuna, the Third Circuit held that the BIA violated the petitioner\u2019s due process rights by basing its credibility finding on a consular letter, which the Court concluded was \u201cneither reliable nor trustworthy.\u201d 325 F.3d at 408. It found that the letter constituted \u201cmultiple hearsay of the most troubling kind.\u201d Id. at 406. The Court also noted that the investigator was unidentified, country officials were identified only by position, the sources of information were not disclosed, the method of investigation was not detailed, and only conclusory statements were made. Id. at 406-08. It observed that it had \u201cabsolutely no information about what the \u2018investigation\u2019 consisted of, or how the investigation was conducted in this case.\u201d Id. at 408. The Court was also concerned that the agency was \u201cattempting to use the prestige of the State Department letterhead to make its case.\u201d Id. at 407. It emphasized that \u201cthe Board\u2019s decisions cannot be sustained simply by invoking the State Department\u2019s authority,\u201d noting that the procedural safeguard of judicial review \u201cwould be destroyed if the Board could justify its decisions simply by invoking assertions by the State Department that themselves provide no means for evaluating their validity.\u201d Id. (quoting Li Wu Lin v. INS, 238 F.3d 239, 246 (3d Cir.2001)).\nOur case cannot be distinguished from those decided by our sister circuits. In this case, the immigration judge relied on a short, unsworn letter from Cynthia Bun-ton, the State Department\u2019s Director of the Office of Country Reports and Asylum Affairs (\u201cthe Bunton Letter\u201d). The Bun-ton letter consisted of unauthenticated, hearsay statements from unidentified officials. There is no description of the methodology employed in the investigation, the qualifications of the investigators, or who was involved. In short, the Bunton Letter contains conclusory statements of fact, but no information, as required by the Lin factors, about \u201c(i) the identity and qualifications of the investigator(s); (ii) the objective and extent of the investigation; and (iii) the methods used to verify the information discovered.\u201d Lin, 459 F.3d at 271. We are left, as were our sister circuits, with a document that is \u201cinsufficiently detailed to permit a reviewing court to assess its reliability.\u201d Id. at 270. Indeed, in many ways, there is less information in the Bunton letter than in letters rejected as unreliable by our sister circuits. Further, the key information provided in this case was by an unnamed individual at the police department where Angov claims to have been severely beaten on account of his political views. Like the government officials in Lin, the official \u2014 whose department had been accused of brutality by Angov \u2014 had a strong incentive to be \u201cless than candid.\u201d Id. at 269.\nIn sum, whether we cast the issue as one of due process or of substantial evidence, the Bunton letter falls far short of satisfying the standards of reliability established by our sister circuits and the agency should not have relied upon it.\nB\nThe Government argues that the Bunton Letter should be credited as trustworthy by employing the presumption of regularity \u2014 that is, that government officials accurately perform their reporting duties without bias. See Espinoza v. INS, 45 F.3d 308, 310 (9th Cir.1995) (holding that \u201cinformation on an authenticated immigration form is presumed to be reliable in the absence of evidence to the contrary presented by the alien\u201d).\nHowever, the presumption of reliability does not apply when the source of information \u201cwas neither a government official nor the subject of the report.\u201d Hernandez-Guadarrama v. Ashcroft, 394 F.3d 674, 681 n. 9 (9th Cir.2005) (citing Espinoza, 45 F.3d at 310). The key hearsay statement in the Bunton Letter comes from a Bulgarian police employee, not a U.S. government official or Angov. Statements made by third persons under no business duty to report are not entitled to the presumption of reliability and cannot be considered subject to the presumption, even if included in a document that enjoys such a presumption. United States v. Pazsint, 703 F.2d 420, 424-25 (9th Cir.1983); see also Pouhova v. Holder, 726 F.3d 1007, 1014-15 (7th Cir.2013) (rejecting application of presumption of reliability to hearsay statements of third parties recorded in official documents); Jordan v. Binns, 712 F.3d 1123, 1133 (7th Cir.2013) (\u201c[T]he presumption of reliability that serves as the premise for the public-records exception does not attach to third parties who themselves have no public duty to report.\u201d).\nSecond, the presumption of reliability, similar to the traditional hearsay exception for public records, applies to documents \u201cprepared in accordance with normal recordkeeping requirements.\u201d Espinoza, 45 F.3d at 310; see also Lopez-Chavez v. INS, 259 F.3d 1176, 1181 (9th Cir.2001) (\u201cIt must be shown that the document has been certified by the INS District Director as a true an[d] accurate reflection of INS records.\u201d). The Bunton Letter, summarizing the results of an investigation involving multiple individuals and carried out at the behest of a party involved in litigation, is not comparable to an authenticated immigration form routinely filled out by border agents. Espinoza, 45 F.3d at 309. It is not a \u201cbusiness record\u201d which is prepared in the usual and ordinary course of business. It was not authenticated or certified. It did not even conform with the agency\u2019s own reporting procedures, as described and set forth in the Cooper Memo. Thus, the ad hoc Bunton Letter does not qualify as a government document produced in accordance with regular agency procedure.\nFor these reasons, I find the government\u2019s arguments unpersuasive.\nII\nAdjudicating asylum claims is necessarily an imperfect endeavor. Witnesses to alleged foreign persecution are rarely available; documents are often impossible to locate. The immigration judge is often left with assessing witness credibility as the only means of resolving the request for relief. We are often limited to seeing through a glass, darkly.\nAs to post-REAL ID Act asylum seekers, the IJ may require corroboration, even when presented with credible testimony. See Aden v. Holder, 589 F.3d 1040, 1044 (9th Cir.2009) (\u2018Where the trier of fact determines that the applicant should provide evidence that corroborates otherwise credible testimony, such evidence must be provided unless the applicant does not have the evidence and cannot reasonably obtain the evidence.\u201d (quoting 8 U.S.C. \u00a7 1158(b)(1)(B)(ii))). We have sustained the BIA\u2019s denial of relief founded on the inability of an asylum seeker to obtain corroboration. Shrestha v. Holder, 590 F.3d 1034, 1047-48 (9th Cir.2010).\nIn the post-REAL ID Act world, when corroborating evidence has assumed more importance, it is not unfair or unduly burdensome to require the government to identify basic, rudimentary information about its sources when it challenges corroborating evidence so that the IJ can properly weigh it. The information our sister circuits have demanded is modest. They do not require that every detail be uncovered or every riddle solved, they merely ask that very basic foundational questions \u2014 already in the hands of the Executive Branch \u2014 be answered. The Executive Branch invests significant resources in forensic document analysts, who provide detailed declarations in immigration cases. It is not much to ask that in the case of routine foreign fact-checking, the government simply tell us how it acquired the facts upon which it asks us to deny asylum.\nThe alternative is a decision founded solely on anonymous hearsay, often \u2014 as in this case \u2014 produced by the very foreign government actors the asylum-seeker accuses of persecution. Nearly sixty years ago, Judge Pope underscored the danger of relying on \u201csecret informers, whisperers and talebearers\u201d to decide legal rights in the administrative process. We should not succumb to that temptation again, especially when it is used as the sole basis to deny relief to an otherwise qualified applicant. The immigration system is fraught with enough risk of error. When it is reasonably possible, we need to minimize that risk.\nI respectfully dissent.\n. If I were writing on a clean slate, I would join the Second Circuit and adopt the Lin factors as probative of the substantial evidence question, without reaching the due process issue. If forced to decide the contours of due process in this context, I would join our four other sister circuits and hold that administrative reliance on hearsay letters lacking sufficient authentication, such as the Bunton letter, violates due process.",
+        "type": "dissent",
+        "author": "THOMAS, Circuit Judge,"
+      }
+    ],
+    "attorneys": [
+      "Nicolette Glazer (argued), Law Offices of Larry R. Glazer, Century City, CA, for Petitioner.",
+      "Gregory G. Katsas, Assistant Attorney General, Barry J. Pettinato, Assistant Director, Jesse Lloyd Busen (argued) and Charles E. Canter, Attorneys, United States Department of Justice, Civil Division, Washington, D.C., for Respondent."
+    ],
+    "corrections": "",
+    "head_matter": "Nikolay Ivanov ANGOV, Petitioner, v. Eric H. HOLDER, Jr., Attorney General, Respondent.\nNo. 07-74963.\nUnited States Court of Appeals, Ninth Circuit.\nArgued and Submitted June 5, 2012.\nFiled Dec. 4, 2013.\nNicolette Glazer (argued), Law Offices of Larry R. Glazer, Century City, CA, for Petitioner.\nGregory G. Katsas, Assistant Attorney General, Barry J. Pettinato, Assistant Director, Jesse Lloyd Busen (argued) and Charles E. Canter, Attorneys, United States Department of Justice, Civil Division, Washington, D.C., for Respondent.\nBefore: ALEX KOZINSKI, Chief Judge, and STEPHEN S. TROTT and SIDNEY R. THOMAS, Circuit Judges."
+  },
+  "file_name": "1263-01",
+  "first_page_order": 1289,
+  "last_page_order": 1313
+}

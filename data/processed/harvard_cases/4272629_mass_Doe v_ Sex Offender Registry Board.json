@@ -1,0 +1,225 @@
+{
+  "id": 4272629,
+  "name": "John Doe, Sex Offender Registry Board No. 941 vs. Sex Offender Registry Board",
+  "name_abbreviation": "Doe v. Sex Offender Registry Board",
+  "decision_date": "2011-08-05",
+  "docket_number": "",
+  "first_page": "336",
+  "last_page": "341",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "460 Mass. 336"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Mass.",
+    "id": 8825,
+    "name": "Massachusetts Supreme Judicial Court"
+  },
+  "jurisdiction": {
+    "id": 4,
+    "name_long": "Massachusetts",
+    "name": "Mass."
+  },
+  "cites_to": [
+    {
+      "cite": "360 Mass. 693",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "case_ids": [
+        317554
+      ],
+      "year": 1971,
+      "pin_cites": [
+        {
+          "page": "694"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mass/360/0693-01"
+      ]
+    },
+    {
+      "cite": "445 Mass. 280",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "case_ids": [
+        2822416
+      ],
+      "weight": 3,
+      "year": 2005,
+      "pin_cites": [
+        {
+          "page": "290"
+        },
+        {
+          "page": "287-288"
+        },
+        {
+          "page": "288-289"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mass/445/0280-01"
+      ]
+    },
+    {
+      "cite": "456 Mass. 309",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "case_ids": [
+        3668281
+      ],
+      "year": 2010,
+      "pin_cites": [
+        {
+          "parenthetical": "regulation exempting landlocked tidelands from licensing requirements that applied to uses or structures on tidelands was ultra vires because it relinquished Department of Environmental Protection's obligation under applicable statute to protect public's rights in tidelands"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mass/456/0309-01"
+      ]
+    },
+    {
+      "cite": "448 Mass. 340",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "case_ids": [
+        3855250
+      ],
+      "year": 2007,
+      "pin_cites": [
+        {
+          "page": "352-353"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mass/448/0340-01"
+      ]
+    },
+    {
+      "cite": "459 Mass. 46",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "case_ids": [
+        4270651
+      ],
+      "year": 2011,
+      "pin_cites": [
+        {
+          "page": "50"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mass/459/0046-01"
+      ]
+    },
+    {
+      "cite": "434 Mass. 418",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "case_ids": [
+        1080017
+      ],
+      "year": 2001,
+      "pin_cites": [
+        {
+          "page": "419, 423"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mass/434/0418-01"
+      ]
+    },
+    {
+      "cite": "447 Mass. 768",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "case_ids": [
+        3730944
+      ],
+      "year": 2006,
+      "pin_cites": [
+        {
+          "page": "775-776"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mass/447/0768-01"
+      ]
+    },
+    {
+      "cite": "426 Mass. 136",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "case_ids": [
+        369455
+      ],
+      "year": 1997,
+      "pin_cites": [
+        {
+          "page": "149",
+          "parenthetical": "Fried, J., concurring"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mass/426/0136-01"
+      ]
+    },
+    {
+      "cite": "428 Mass. 90",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "case_ids": [
+        651222
+      ],
+      "weight": 3,
+      "year": 1998,
+      "pin_cites": [
+        {
+          "page": "100"
+        },
+        {
+          "page": "91, 98, 102-104"
+        },
+        {
+          "page": "100"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mass/428/0090-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 604,
+    "char_count": 13670,
+    "ocr_confidence": 0.925,
+    "pagerank": {
+      "raw": 1.1658286855553817e-07,
+      "percentile": 0.5851485936052643
+    },
+    "sha256": "f4f7fe4da6f91505570eb65d900f1423e073246e631483b698ff91fda3fad074",
+    "simhash": "1:c1a50dbb2cf92ddb",
+    "word_count": 2224
+  },
+  "last_updated": "2024-02-27T17:56:26.592595+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "file_name": "0336-01",
+  "first_page_order": 362,
+  "last_page_order": 367
+}

@@ -1,0 +1,98 @@
+{
+  "id": 1370262,
+  "name": "The State of Washington, Respondent, v. Nathan Vincent Howell, Appellant",
+  "name_abbreviation": "State v. Howell",
+  "decision_date": "1992-07-30",
+  "docket_number": "No. 59191-1",
+  "first_page": "513",
+  "last_page": "519",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "119 Wash. 2d 513"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Wash.",
+    "id": 9029,
+    "name": "Washington Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 38,
+    "name_long": "Washington",
+    "name": "Wash."
+  },
+  "cites_to": [
+    {
+      "cite": "818 P.2d 1076",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1991,
+      "opinion_index": 0
+    },
+    {
+      "cite": "117 Wn.2d 655",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        1373849
+      ],
+      "year": 1991,
+      "pin_cites": [
+        {
+          "page": "669"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/117/0655-01"
+      ]
+    },
+    {
+      "cite": "759 P.2d 436",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1988,
+      "opinion_index": 0
+    },
+    {
+      "cite": "111 Wn.2d 353",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        1179801
+      ],
+      "year": 1988,
+      "pin_cites": [
+        {
+          "page": "361"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/111/0353-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 434,
+    "char_count": 10393,
+    "ocr_confidence": 0.774,
+    "pagerank": {
+      "raw": 1.0313961624691828e-07,
+      "percentile": 0.5481794498443732
+    },
+    "sha256": "6f7e2537c91551e52966f3a54e219bd82628e24dca95e9643b56c770f5f8fb4f",
+    "simhash": "1:1e8aa3a820fd8ddc",
+    "word_count": 1669
+  },
+  "last_updated": "2024-02-27T20:54:39.105269+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "file_name": "0513-01",
+  "first_page_order": 547,
+  "last_page_order": 553
+}

@@ -1,0 +1,63 @@
+{
+  "id": 4204412,
+  "name": "Reginald BLASSINGALE, Petitioner v. PENNSYLVANIA BOARD OF PROBATION AND PAROLE, Respondent",
+  "name_abbreviation": "Blassingale v. Pennsylvania Board of Probation & Parole",
+  "decision_date": "2011-10-13",
+  "docket_number": "No. 331 EAL 2011",
+  "first_page": "310",
+  "last_page": "310",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "612 Pa. 310"
+    },
+    {
+      "type": "parallel",
+      "cite": "30 A.3d 1100"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 38,
+    "char_count": 313,
+    "ocr_confidence": 0.664,
+    "sha256": "1355d44e2a7cb57c21c1422978bebf6d0d909610c327b0cae9a2bfeeb2f6a69f",
+    "simhash": "1:623dd2b0e3c0a77f",
+    "word_count": 48
+  },
+  "last_updated": "2023-07-14T19:33:52.292960+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Reginald BLASSINGALE, Petitioner v. PENNSYLVANIA BOARD OF PROBATION AND PAROLE, Respondent."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nPER CURIAM.\nAND NOW, this 13th day of October, 2011, the Application for Appointment of Counsel and the Petition for Allowance of Appeal are hereby DENIED.",
+        "type": "majority",
+        "author": "PER CURIAM."
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "30 A.3d 1100\nReginald BLASSINGALE, Petitioner v. PENNSYLVANIA BOARD OF PROBATION AND PAROLE, Respondent.\nSupreme Court of Pennsylvania.\nOct. 13, 2011."
+  },
+  "file_name": "0310-01",
+  "first_page_order": 354,
+  "last_page_order": 354
+}

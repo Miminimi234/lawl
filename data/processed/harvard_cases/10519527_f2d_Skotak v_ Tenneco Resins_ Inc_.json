@@ -1,0 +1,911 @@
+{
+  "id": 10519527,
+  "name": "Mary Faye SKOTAK, George Jerry Skotak, and Eric Norman Skotak, Plaintiffs-Appellants, Cross-Appellees, v. TENNECO RESINS, INC., Defendant Appellee, Cross-Appellant",
+  "name_abbreviation": "Skotak v. Tenneco Resins, Inc.",
+  "decision_date": "1992-02-03",
+  "docket_number": "No. 90-1256",
+  "first_page": "909",
+  "last_page": "923",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "953 F.2d 909"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "5th Cir.",
+    "id": 8820,
+    "name": "United States Court of Appeals for the Fifth Circuit"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "475 U.S. 574",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6205783
+      ],
+      "weight": 3,
+      "year": 1986,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/475/0574-01"
+      ]
+    },
+    {
+      "cite": "695 F.2d 839",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1492195
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/695/0839-01"
+      ]
+    },
+    {
+      "cite": "669 F.2d 1026",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1161381
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/669/1026-01"
+      ]
+    },
+    {
+      "cite": "607 F.2d 653",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1431722
+      ],
+      "pin_cites": [
+        {
+          "page": "656-57"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/607/0653-01"
+      ]
+    },
+    {
+      "cite": "514 S.W.2d 429",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.2d",
+      "case_ids": [
+        10131452
+      ],
+      "pin_cites": [
+        {
+          "page": "432-33"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/sw2d/514/0429-01"
+      ]
+    },
+    {
+      "cite": "928 F.2d 137",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1138359
+      ],
+      "pin_cites": [
+        {
+          "page": "139"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/928/0137-01"
+      ]
+    },
+    {
+      "cite": "868 F.2d 1455",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        10537286
+      ],
+      "pin_cites": [
+        {
+          "page": "1457"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/868/1455-01"
+      ]
+    },
+    {
+      "cite": "918 F.2d 513",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        10535210
+      ],
+      "pin_cites": [
+        {
+          "page": "516"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/918/0513-01"
+      ]
+    },
+    {
+      "cite": "939 F.2d 1106",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        10529760
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "1109",
+          "parenthetical": "emphasis added; citations omitted"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/939/1106-01"
+      ]
+    },
+    {
+      "cite": "582 F.2d 333",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        857764
+      ],
+      "pin_cites": [
+        {
+          "page": "334"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/582/0333-01"
+      ]
+    },
+    {
+      "cite": "922 F.2d 1183",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        10546687
+      ],
+      "pin_cites": [
+        {
+          "page": "1188"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/922/1183-01"
+      ]
+    },
+    {
+      "cite": "757 F.2d 698",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        317170
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "710"
+        },
+        {
+          "page": "710"
+        },
+        {
+          "page": "712-13"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/757/0698-01"
+      ]
+    },
+    {
+      "cite": "941 F.2d 1323",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        11723640
+      ],
+      "pin_cites": [
+        {
+          "page": "1326"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/941/1323-01"
+      ]
+    },
+    {
+      "cite": "845 F.2d 1300",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        10550569
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "1307"
+        },
+        {
+          "page": "1307"
+        },
+        {
+          "page": "1307"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/845/1300-01"
+      ]
+    },
+    {
+      "cite": "940 F.2d 121",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        10521671
+      ],
+      "pin_cites": [
+        {
+          "page": "123"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/940/0121-01"
+      ]
+    },
+    {
+      "cite": "910 F.2d 167",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        10532157
+      ],
+      "pin_cites": [
+        {
+          "page": "178"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/910/0167-01"
+      ]
+    },
+    {
+      "cite": "920 F.2d 311",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        10542811
+      ],
+      "pin_cites": [
+        {
+          "page": "314-15"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/920/0311-01"
+      ]
+    },
+    {
+      "cite": "896 F.2d 1435",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        10540549
+      ],
+      "pin_cites": [
+        {
+          "page": "1444"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/896/1435-01"
+      ]
+    },
+    {
+      "cite": "919 F.2d 301",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1245047
+      ],
+      "pin_cites": [
+        {
+          "page": "303"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/919/0301-01"
+      ]
+    },
+    {
+      "cite": "943 F.2d 589",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1855941
+      ],
+      "pin_cites": [
+        {
+          "page": "592"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/943/0589-01"
+      ]
+    },
+    {
+      "cite": "477 U.S. 317",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6207800
+      ],
+      "weight": 6,
+      "year": 1986,
+      "pin_cites": [
+        {
+          "page": "323"
+        },
+        {
+          "page": "2553"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/477/0317-01"
+      ]
+    },
+    {
+      "cite": "480 S.W.2d 602",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.2d",
+      "case_ids": [
+        9943510
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/sw2d/480/0602-01"
+      ]
+    },
+    {
+      "cite": "780 S.W.2d 910",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.2d",
+      "case_ids": [
+        10018219
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "911"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/sw2d/780/0910-01"
+      ]
+    },
+    {
+      "cite": "111 S.Ct. 1217",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        11318566
+      ],
+      "weight": 2,
+      "year": 1991,
+      "pin_cites": [
+        {
+          "page": "1221"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/499/0225-01"
+      ]
+    },
+    {
+      "cite": "863 F.2d 1210",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        10534595
+      ],
+      "pin_cites": [
+        {
+          "page": "1212"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/863/1210-01"
+      ]
+    },
+    {
+      "cite": "477 U.S. 242",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6206897
+      ],
+      "weight": 7,
+      "year": 1986,
+      "pin_cites": [
+        {
+          "page": "248"
+        },
+        {
+          "page": "2510"
+        },
+        {
+          "page": "251-52"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/477/0242-01"
+      ]
+    },
+    {
+      "cite": "328 N.W.2d 576",
+      "category": "reporters:state_regional",
+      "reporter": "N.W.2d",
+      "pin_cites": [
+        {
+          "page": "582"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "121 Mich.App. 73",
+      "category": "reporters:state",
+      "reporter": "Mich. App.",
+      "case_ids": [
+        2232558
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mich-app/121/0073-01"
+      ]
+    },
+    {
+      "cite": "657 F.2d 642",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1192084
+      ],
+      "pin_cites": [
+        {
+          "page": "645"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/657/0642-01"
+      ]
+    },
+    {
+      "cite": "717 S.W.2d 588",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.2d",
+      "case_ids": [
+        9978461
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "591-92"
+        },
+        {
+          "page": "591-92"
+        },
+        {
+          "page": "591"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/sw2d/717/0588-01"
+      ]
+    },
+    {
+      "cite": "798 F.2d 700",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1610190
+      ],
+      "pin_cites": [
+        {
+          "page": "717"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/798/0700-01"
+      ]
+    },
+    {
+      "cite": "780 F.2d 1190",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1531374
+      ],
+      "pin_cites": [
+        {
+          "page": "1195"
+        }
+      ],
+      "opinion_index": 2,
+      "case_paths": [
+        "/f2d/780/1190-01"
+      ]
+    },
+    {
+      "cite": "430 U.S. 188",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        12122537
+      ],
+      "weight": 3,
+      "year": 1977,
+      "pin_cites": [
+        {
+          "page": "193"
+        },
+        {
+          "page": "993"
+        }
+      ],
+      "opinion_index": 2,
+      "case_paths": [
+        "/us/430/0188-01"
+      ]
+    },
+    {
+      "cite": "432 F.2d 6",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        2224404
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "8"
+        }
+      ],
+      "opinion_index": 2,
+      "case_paths": [
+        "/f2d/432/0006-01"
+      ]
+    },
+    {
+      "cite": "563 F.2d 205",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        889091
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "209"
+        }
+      ],
+      "opinion_index": 2,
+      "case_paths": [
+        "/f2d/563/0205-01"
+      ]
+    },
+    {
+      "cite": "614 F.2d 406",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1401518
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "410"
+        }
+      ],
+      "opinion_index": 2,
+      "case_paths": [
+        "/f2d/614/0406-01"
+      ]
+    },
+    {
+      "cite": "475 U.S. 574",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6205783
+      ],
+      "weight": 3,
+      "year": 1986,
+      "opinion_index": 2,
+      "case_paths": [
+        "/us/475/0574-01"
+      ]
+    },
+    {
+      "cite": "695 F.2d 839",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1492195
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "846"
+        },
+        {
+          "page": "846"
+        }
+      ],
+      "opinion_index": 2,
+      "case_paths": [
+        "/f2d/695/0839-01"
+      ]
+    },
+    {
+      "cite": "669 F.2d 1026",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1161381
+      ],
+      "weight": 2,
+      "opinion_index": 2,
+      "case_paths": [
+        "/f2d/669/1026-01"
+      ]
+    },
+    {
+      "cite": "607 F.2d 653",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1431722
+      ],
+      "weight": 4,
+      "pin_cites": [
+        {
+          "page": "656-57"
+        },
+        {
+          "page": "656"
+        }
+      ],
+      "opinion_index": 2,
+      "case_paths": [
+        "/f2d/607/0653-01"
+      ]
+    },
+    {
+      "cite": "582 F.2d 333",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        857764
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "334"
+        }
+      ],
+      "opinion_index": 2,
+      "case_paths": [
+        "/f2d/582/0333-01"
+      ]
+    },
+    {
+      "cite": "922 F.2d 1183",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        10546687
+      ],
+      "opinion_index": 2,
+      "case_paths": [
+        "/f2d/922/1183-01"
+      ]
+    },
+    {
+      "cite": "757 F.2d 698",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        317170
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "712"
+        }
+      ],
+      "opinion_index": 2,
+      "case_paths": [
+        "/f2d/757/0698-01"
+      ]
+    },
+    {
+      "cite": "845 F.2d 1300",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        10550569
+      ],
+      "opinion_index": 2,
+      "case_paths": [
+        "/f2d/845/1300-01"
+      ]
+    },
+    {
+      "cite": "940 F.2d 121",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        10521671
+      ],
+      "opinion_index": 2,
+      "case_paths": [
+        "/f2d/940/0121-01"
+      ]
+    },
+    {
+      "cite": "910 F.2d 167",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        10532157
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "172-73"
+        }
+      ],
+      "opinion_index": 2,
+      "case_paths": [
+        "/f2d/910/0167-01"
+      ]
+    },
+    {
+      "cite": "477 U.S. 317",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6207800
+      ],
+      "weight": 6,
+      "year": 1986,
+      "pin_cites": [
+        {
+          "page": "324"
+        },
+        {
+          "page": "323-24"
+        }
+      ],
+      "opinion_index": 2,
+      "case_paths": [
+        "/us/477/0317-01"
+      ]
+    },
+    {
+      "cite": "477 U.S. 242",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6206897
+      ],
+      "weight": 3,
+      "year": 1986,
+      "opinion_index": 2,
+      "case_paths": [
+        "/us/477/0242-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 1567,
+    "char_count": 46012,
+    "ocr_confidence": 0.773,
+    "pagerank": {
+      "raw": 3.394200840037474e-06,
+      "percentile": 0.9978894522421964
+    },
+    "sha256": "8205a6e189ed2d1a4b71ee3512b19e5507083b023b2e0d4c3edbe8bf20879f92",
+    "simhash": "1:96d6ce92c91d1679",
+    "word_count": 7420
+  },
+  "last_updated": "2024-02-27T21:21:35.589357+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before WISDOM, KING, and BARKSDALE, Circuit Judges.",
+      "Before WISDOM, KING and BARKSDALE, Circuit Judges."
+    ],
+    "parties": [
+      "Mary Faye SKOTAK, George Jerry Skotak, and Eric Norman Skotak, Plaintiffs-Appellants, Cross-Appellees, v. TENNECO RESINS, INC., Defendant Appellee, Cross-Appellant."
+    ],
+    "opinions": [
+      {
+        "text": "BARKSDALE, Circuit Judge:\nThe widow and children of George Sko-tak (the Skotaks), appeal the summary judgment awarded Tenneco Resins, Inc. (TRI). Because the Skotaks did not produce sufficient evidence to create a genuine issue of material fact concerning the adequacy of the warning in issue, the judgment is AFFIRMED.\nI.\nGeorge Skotak died as a result of liver cancer in 1986. The Skotaks sued TRI in district court under theories of strict liability, negligence, and breach of an implied warranty, alleging that the cancer was caused by Thorotrast, a drug manufactured between 1943 and 1953 by TRI\u2019s predecessor, Heyden Chemical Corporation, and used as a contrast medium in radiology; that Mr. Skotak underwent surgery in 1947 to have a blood vessel removed from his neck; that Dr. Albert D\u2019Errico performed the operations; and that he either administered the Thorotrast, or ordered it to be administered. Dr. D\u2019Errico died before this action was filed.\nTRI moved for summary judgment, including on the grounds that: (1) the Sko-taks could not prove the essential elements of their strict liability and negligence claims; and (2) as a matter of law, TRI was not liable as the corporate successor to Heyden. TRI claimed, among other things, that the Skotaks could not establish: (1) that Mr. Skotak received an injection of Thorotrast during the period 1943 to 1953, when it was manufactured by Hey-den; or (2) that the warning given by Hey-den was not adequate.\nIn response, the Skotaks submitted a brief (included in the record) and the following evidentiary materials: (1) affidavits by Mr. Skotak\u2019s sister and cousin, which stated that Dr. D\u2019Errico performed surgery on Mr. Skotak in either 1946 or 1948 at Baylor Hospital; (2) some of Mr. Skotak\u2019s medical records, from another facility, prepared prior to the surgery; (3) excerpts from the deposition of Dr. Block, Mr. Sko-tak\u2019s subsequent physician, in which he testified that a 1958 x-ray report showed the presence of Thorotrast in Mr. Skotak\u2019s body; (4) excerpts from the deposition of plaintiff Mary Skotak, who married Mr. Skotak in 1953, in which she testified both (a) that Mr. Skotak told her that he received Thorotrast in 1947 and (b) that Dr. Groman, who treated Mr. Skotak at the time of his death, told her, based upon reading medical articles, that Thorotrast caused cancer; and (5) TRI\u2019s answers to interrogatories in this ease and an earlier case, concerning the warnings that accompanied Thorotrast.\nThe district court held that TRI was not liable as the corporate successor of Hey-den, because TRI had not expressly assumed liability for injuries caused by Tho-rotrast. The district court also held:\nAssuming, arguendo, that Tenneco assumed the liabilities of its predecessor, the Skotaks\u2019 case fails under the \u201clearned intermediary\u201d doctrine. Under that doctrine, a manufacturer discharges its duty to warn by adequately warning the prescribing physician. Koonce v. Quaker Safety Products & Manufacturing Company, 798 F.2d 700, 717 (5th Cir.1986); Alm v. Aluminum Company of America, 717 S.W.2d 588, 591-92 (Tex.1986). A plaintiff must prove that an inadequate warning was given and that the inadequate warning was the cause of the injury. That is, it must be shown that an adequate warning would have caused the physician to act differently. See Stanback v. Parke, Davis and Company, 657 F.2d 642, 645 (4th Cir.1981) (Virginia law); Dunn v. Cederle Laboratories, [121 Mich.App. 73] 328 N.W.2d 576, 582 (Mich.App.1982).\nThe Skotaks cannot meet their burden on this issue. They have not identified with any certainty the doctor who administered Thorotrast to Mr. Skotak. The one physician who they have identified is deceased. There is no one who can testify as to the identity of the physician, whether any warning was received by him, whether such a warning was adequate, and whether an adequate warning would have changed the actions of the physician. The Skotaks have the burden of proving inadequacy of warning and cause of the injury. Since they have produced no evidence in this regard, summary judgment must be granted on the theory of inadequate warnings.\nThe Skotaks timely appealed.\nII.\nOn appeal, the Skotaks contend that there are genuine issues of material fact, including with respect to (1) the adequacy of the warning; and (2) TRI\u2019s liability as the successor to Heyden. It is not necessary *o address either successor liability or causation; the judgment is affirmed solely on the Skotaks\u2019 failure to show a genuine issue of material fact concerning the adequacy of the warning.\nSummary judgment is proper \u201cif the pleadings, depositions, answers to interrogatories, and admissions on file, together with the affidavits, if any, show that there is no genuine issue as to any material fact and that the moving party is entitled to a judgment as a matter of law.\u201d Fed. R.Civ.P. 56(c). A \u201cdispute about a material fact is \u2018genuine\u2019 ... if the evidence is such that a reasonable jury could return a verdict for the nonmoving party.\u201d Anderson v. Liberty Lobby, Inc., 477 U.S. 242, 248, 106 S.Ct. 2505, 2510, 91 L.Ed.2d 202 (1986). In reviewing a summary judgment, this court applies, de novo, the same test employed by the district court. Netto v. Amtrak, 863 F.2d 1210, 1212 (5th Cir.1989). And, contrary to the position urged by TRI, the district court\u2019s determination of state law is likewise reviewed de novo. Salve Regina College v. Russell, \u2014 U.S. -, 111 S.Ct. 1217, 1221, 113 L.Ed.2d 190 (1991).\nIn this diversity case, Texas law, of course, applies to the Skotaks\u2019 negligence and strict liability claims. For cases involving a drug manufacturer\u2019s duty to warn, Texas courts apply the \u201clearned intermediary\u201d doctrine. See Alm v. Aluminum Co. of America, 717 S.W.2d 588, 591-92 (Tex.1986). Under that doctrine, that duty is satisfied by warning the physician of the dangers of the drug. Id. at 591. \u201c[Ojnce the physician is warned, the choice of which drugs to use and the duty to explain the risks become that of the physician.\u201d Stewart v. Janssen Pharmaceutica, Inc., 780 S.W.2d 910, 911 (Tex.Ct.App. \u2014 El Paso 1989, writ denied). Therefore, in order to prevail under Texas law on their negligence and strict liability claims, the Skotaks had the burden of proving, among other things, that the warning accompanying Thorotrast was (1) inadequate; and (2) a \u201cproducing cause\u201d of Mr. Skotak\u2019s death. Stewart, 780 S.W.2d at 911 (citing Technical Chemical Co. v. Jacobs, 480 S.W.2d 602 (Tex.1972)).\nA.\nIn order to satisfy its initial burden under Rule 56(c), TRI bore \u201cthe initial responsibility of informing the district court of the basis for its motion, and identifying those portions of \u2018the pleadings, depositions, answers to interrogatories, and admissions on file, together with the affidavits, if any,\u2019 which it believe[d] demonstrate[d] the absence of a genuine issue of material fact.\u201d Celotex Corp. v. Catrett, 477 U.S. 317, 323, 106 S.Ct. 2548, 2553, 91 L.Ed.2d 265 (1986); see also Russ v. International Paper Co.,. 943 F.2d 589, 592 (5th Cir.1991). Because the Skotaks bore the burden of proof at trial on the issues of adequacy of the warning and causation, TRI was not required to \u201cproduce evidence negating the existence of a material fact\u201d; rather, TRI\u2019s burden was \u201conly [to] point out the absence of evidence supporting the nonmoving party\u2019s case.\u201d Latimer v. Smithkline & French Laboratories, 919 F.2d 301, 303 (5th Cir.1990).\nTRI satisfied its burden. In its motion, it pointed out that the record contained no evidence on whether the Thorotrast administered to Mr. Skotak was accompanied by a warning and, if so, whether the warning would have added to the administering physician\u2019s knowledge of the risks of using Thorotrast. TRI also pointed to the absence of evidence in the record regarding, among other things: when and where the Thorotrast administration occurred; the identity of the prescribing physician; and whether Mr. Skotak would have received Thorotrast even if the physician had full knowledge of the risks.\nTRI failed, in its motion, to identify two articles from medical journals which were in the record as exhibits to the Skotaks\u2019 opposition to TRI\u2019s motion to dismiss for lack of personal jurisdiction, filed more than a year before TRI filed its summary judgment motion. The articles were presented then by the Skotaks in support of their description of the \u201cbackground\u201d of their lawsuit; they were not relevant to the issues raised in TRI\u2019s motion to dismiss for lack of personal jurisdiction. Prior to TRI\u2019s moving for summary judgment, the Skotaks never suggested that the articles were relevant to the issues of warning and causation. (In fact, as discussed infra, the Skotaks did not assert until their reply brief in this court that the articles create a genuine issue of material fact regarding inadequate warnings.) Therefore, the fact that TRI failed to identify those articles in its summary judgment motion does not establish a failure by TRI to meet its initial burden under Rule 56(c).\nAs is well established, \u201c[w]hen a motion for summary judgment demonstrates the absence of evidence as to a material fact on which the nonmovant will bear the burden of proof at trial, the nonmovant must come forward with evidence which would be sufficient to enable it to survive a motion for directed verdict at trial.\u201d Transco Leasing Corp. v. United States, 896 F.2d 1435, 1444 (5th Cir.1990). \u201cThe test is identical to that used for a directed verdict: \u2018whether the evidence presents a sufficient disagreement to require submission to a jury or whether it is so one-sided that one party must prevail as a matter of law.\u2019 \u201d Chiari v. City of League City, 920 F.2d 311, 314-15 (5th Cir.1991) (quoting Anderson, 477 U.S. at 251-52, 106 S.Ct. at 2512).\n1.\nThe evidentiary materials submitted by the Skotaks in response to TRI\u2019s summary judgment motion were insufficient to demonstrate the existence of a genuine issue of material fact. For example, no contemporaneous medical records were introduced to establish who administered the Thorotrast to Mr. Skotak, or when, or even whether it was administered in the late 1940s. Moreover, the Skotaks did not introduce expert witness affidavits or deposition testimony concerning the adequacy of the warning, even though they designated expert witnesses before responding to the motion and provided a supplemental designation, following their response.\nConcerning the warning, the Skotaks attempted to demonstrate a genuine issue of material fact, by introducing a certified copy of a 1975 TRI response to an interrogatory in a similar case involving Thoro-trast. In that response, TRI stated:\nAlthough the records indicate that Heyden did not regard Thorotrast as having harmful side effects, the records do indicate that one of two versions of the warning set forth below accompanied each box or package of Thorotrast.\n[ 1 ]\nThe clinical evidence to date indicates that THOROTRAST is a valuable contribution to roentgenography, and that no harmful effects may be expected following its use.\nWe wish, however, to point out that the question as to the elimination of THOROTRAST from the body, following intravenous injection and subsequent storage in the reticulo-endothelial system, is still under investigation; and no definite and reliable evidence that could be accepted as conclusive has been published.\nTherefore, in accordance with our established conservative policy, we recommend to the profession further study on the ultimate fate of the intravenously injected THOROTRAST before such injection is accepted as routine practice in the X-ray visualization of the liver and spleen, etc.\n[ 2 ]\nClinical evidence indicates that THO-ROTRAST is a valuable contribution to roentgenography, particularly in arter-iography and hepatosplenography.\nIt should be pointed out, however, that the elimination of THOROTRAST from the body, following intravenous injection and subsequent storage in the reticuloendothelial system, is still under investigation. No definite reliable evidence that may be accepted as conclusive has been published.\nTherefore, it is recommended that the medical profession should conduct further studies on the ultimate fate of the intravenously injected THORO-TRAST before its use is accepted as routine practice in the X-ray visualization of the arteries, liver, and spleen.\nThe [first] insert ... may have been an earlier version of the [second] one.... Additional information as to possible side effects may have been set forth in various articles appearing from time to time in medical journals. The records indicate that these articles or a bibliography of such articles were supplied to doctors and medical institutions who made inquiries of Heyden or otherwise expressed an interest in Thorotrast. The records also indicate that at least one x-ray supply company, General Electric X-Ray Corporation, carried Thorotrast as part of their x-ray supplies and in that cat-alogue (copyrighted 1935) stated:\n\u201cAt the present time there is some controversy regarding the radioactivity of this material when used intravenously.\u201d\nThe 1975 interrogatory response, without more, is insufficient to demonstrate the requisite fact issue. For example, the Sko-taks contend that a disputed fact is created by the statement in the first of the two warnings that \u201cno harmful effects may be expected following [Thorotrast\u2019s] use.\u201d But, there is no evidence as to which of the two warnings accompanied the Thorotrast that Mr. Skotak allegedly received in the ' late 1940s. Moreover, the Skotaks failed totally to present any proof that the above warnings were inadequate.\n2.\nThe Skotaks contend that other evidence before the district court on the summary judgment motion showed that Thorotrast injections are associated with a significant increase in liver cancer, and that the American Medical Association\u2019s Council on Pharmacy and Chemistry disapproved of the use of Thorotrast as early as 1932. That evidence consists of the earlier discussed medical journal articles attached to the Skotaks\u2019 earlier, separate, response to TRI\u2019s motion to dismiss for lack of personal jurisdiction. That response was filed more than a year before TRI filed its summary judgment motion. Although these articles are part of the total record, the Skotaks never referred to them in their response in district court to TRI\u2019s motion for summary judgment, nor did they argue in district court in their summary judgment response brief that such evidence created a genuine issue of fact concerning the adequacy of the warning. As stated, under Rule 56(e), the Skotaks were required to \u201cset forth specific facts showing that there is a genuine issue for trial.\u201d Fed.R.Civ.P. 56(e).\nThe nonmoving party cannot discharge that burden by referring to the \u201cmere allegations or denials\u201d of the nonmoving party\u2019s pleadings; rather, that party must, either by submitting opposing evi-dentiary documents or by referring to evidentiary documents already in the record, set out specific facts showing that a genuine issue exists.\nLavespere v. Niagara Mach. & Tool Works, Inc., 910 F.2d 167, 178 (5th Cir.1990) (emphasis added). See, e.g., Dorsett v. Board of Trustees for State Colleges & Universities, 940 F.2d 121, 123 (5th Cir.1991) (\u201can opposing party cannot establish a genuine issue of material fact by resting on the mere allegations of his pleadings\u201d). Because the Skotaks failed to refer to these articles in district court in their summary judgment response, the articles were not properly before that court in deciding whether to grant the motion; therefore, they will not be considered here. Although on summary judgment the record is reviewed de novo, this court, for obvious reasons, will not consider evidence or arguments that were not presented to the district court for its consideration in ruling on the motion. See Nissho-Iwai American Corp. v. Kline, 845 F.2d 1300, 1307 (5th Cir.1988) (where nonmovant \u201cfailed to designate, or in any way refer to, the deposition as the source of factual support for her response to [the] motion [for summary judgment,] the deposition was never made part of the competent summary judgment record before the court\u201d). See also Colony Creek, Ltd. v. Resolution Trust Corp., 941 F.2d 1323, 1326 (5th Cir.1991) (quoting John v. Louisiana, 757 F.2d 698, 710 (5th Cir.1985)) (The party opposing summary judgment \u201ccannot attack summary judgment on appeal by raising distinct issues that were not before the district court\u201d); Fields v. City of South Houston, 922 F.2d 1183, 1188 (5th Cir.1991) (quoting John v. Louisiana, 757 F.2d at 710) (\u201c[Materials not presented to the district court for consideration of a motion for summary judgment are never properly before the reviewing court.\u201d); Frank C. Bailey Enterprises, Inc. v. Cargill, Inc., 582 F.2d 333, 334 (5th Cir.1978) (in reviewing a summary judgment, we \u201ccan only consider those matters presented to the district court\u201d).\nAs stated, because the Skotaks failed, in district court, to designate, or to, in any way, refer to the medical journal articles relied upon by them for the first time on appeal, those articles never became \u201cpart of the competent summary judgment record before the court.\u201d Nissho-Iwai, 845 F.2d at 1307. Nissho-Iwai\u2019s use of the term \u201ccompetent summary judgment record\u201d is particularly appropriate here; this rule is consistent with, for example, our rule that in reviewing summary judgments, we will not reverse an evidentiary ruling made by the district court, unless it was manifestly erroneous, even though we are making a de novo review of the record, as noted in our recent en banc decision in Christophersen v. Allied-Signal Corp., 939 F.2d 1106 (5th Cir.1991):\nThis is an appeal from a grant of summary judgment. Although we review grants of summary judgment de novo, that is, under the same Rule 56 standards as are used by the district court, in Rule 56 proceedings we still apply the manifest-error standard of review to the trial court\u2019s evidentiary rulings. Thus an appeal of a summary judgment presenting evidentiary issues raises two levels of inquiry. At the first level, we review the trial court\u2019s evidentiary rulings, which define the summary judgment record, and we give these rulings their due deference. At the second level, with the record defined, we review the trial court\u2019s summary judgment decision de novo. When the contested evidence is essential to the cause of action and the trial court has excluded the evidence, we may decide the appeal at the first level solely on the basis of the soundness of the evidentiary ruling. For if we uphold the exclusion of essential evidence, the second-level inquiry becomes academic.\n939 F.2d at 1109 (emphasis added; citations omitted).\nFinally, the Skotaks did not refer to these articles in their opening brief on appeal; as noted, the first mention was in their reply brief. \u201cIn the absence of manifest injustice, this court will not consider arguments belatedly raised after appellees have filed their brief.\u201d Najarro v. First Federal Savings & Loan Ass\u2019n, 918 F.2d 513, 516 (5th Cir.1990).\nB.\nIII.\nProof of an inadequate warning was an essential element of the Skotaks\u2019 case. Because they failed to designate specific facts showing that there was a genuine issue for trial with respect to that element, TRI was entitled to summary judgment. Accordingly, the judgment of the district court is\nAFFIRMED.\n. TRI also moved for summary judgment on the Skotaks\u2019 claim for breach of implied warranty, and the district court held that the limitations period had run on that claim. The Skotaks do not appeal that ruling.\n. TRI cross-appealed from the denial of its motion to dismiss for lack of personal jurisdiction. At oral argument, however, TRI\u2019s counsel stated that, in the event this court affirmed the summary judgment, TRI would waive its objection to personal jurisdiction with respect to this case. Accordingly, it is not necessary to address it.\n. Because causation is not addressed, it is not necessary to reach the subissue of whether, even if the warning was inadequate, the Skotaks were still required to prove that a different warning would have caused the physician to act differently, as held by the district court.\n. Salve Regina College overrules this court's pri- or practice of \"customarily deferring to the district judge in a diversity case involving interpretation of the law of the state in which the judge sits.\u201d USX Corp. v. Tanenbaum, 868 F.2d 1455, 1457 (5th Cir.1989). See Allison v. ITE Imperial Corp., 928 F.2d 137, 139 (5th Cir.1991).\n.Accordingly, the Skotaks\u2019 negligence claims, such as the alleged failure to adequately test Thorotrast, are subsumed within this two-part standard. The district court held to this effect, by holding that the Skotaks were required to \"prove that an inadequate warning was given and that the inadequate warning was the cause of the injury.\" The Skotaks do not argue otherwise, nor do they assert here an independent, or separate, negligence claim. See, e.g., Crocker v. Winthrop Laboratories, Div. of Sterling Drug, Inc., 514 S.W.2d 429, 432-33 (Tex.1974); Restatement (Second) of Torts, \u00a7 402A, comment k (1965).\n. To assist in meeting their burden of proof, the Skotaks argue that TRTs response in this case to a similar interrogatory is inconsistent with the 1975 response. As TRI pointed out, however, its 1975 response was based upon information from Heyden\u2019s records. Its response to the interrogatory in this case was based on its own actions; because TRI never manufactured Tho-rotrast, it never gave any warnings regarding it. Therefore, there is no inconsistency. In any event, if the Skotaks were dissatisfied with the answer filed in this case, they should have moved to compel a supplemental answer; they did not do so.\n. The district court was not prohibited from considering the articles. However, Rule 56 does not impose upon the district court a duty to sift through the record in search of evidence to support a party\u2019s opposition to summary judgment, especially where, as here, the nonmoving party is well aware of the existence of such evidence. Rule 56 allocates that duty to the opponent of the motion, who is required to point out the evidence, albeit evidence that is already in the record, that creates an issue of fact. See Nissho-Iwai American Corp. v. Kline, 845 F.2d 1300, 1307 (5th Cir.1988) (it is not necessary \"that the entire record in the case must be searched and found bereft of a genuine issue of material fact before summary judgment may be properly entered\u201d).\n. In a 1979 case, this court held that evidence in the record must be considered by the reviewing court, even if not specifically brought to the attention of the district court. Higgenbotham v. Ochsner Foundation Hospital, 607 F.2d 653, 656-57 (5th Cir.1979). However, in Impossible Electronic Techniques, Inc. v. Wackenhut Protective Systems, Inc., 669 F.2d 1026 (5th Cir.1982), the court held that, \"[a]bsent extraordinary circumstances, we should not reverse a grant of summary judgment based on the presence of a factual issue that was not in some way brought to the attention of the district court.\u201d 669 F.2d at 1033 n. 7. In Nicholas Acoustics & Specialty Co. v. H & M Construction Co., 695 F.2d 839 (5th Cir.1983) and John v. Louisiana, 757 F.2d 698, 712-13, the court noted, but did not resolve, a possible conflict between Higgenbotham and Impossible Electronic. In the light of the Supreme Court\u2019s 1986 summary judgment trilogy (Anderson v. Liberty Lobby, Inc., 477 U.S. 242, 106 S.Ct. 2505, 91 L.Ed.2d 202 (1986); Celotex Corp. v. Catrett, 477 U.S. 317, 106 S.Ct. 2548, 91 L.Ed.2d 265 (1986); and Matsushita Elec. Indus. Co., Ltd. v. Zenith Radio Corp., 475 U.S. 574, 106 S.Ct. 1348, 89 L.Ed.2d 538 (1986)), Nissho-Iwai, Lavespere, and Fields reflect the current rule in this Circuit. Therefore, it is unnecessary to attempt to reconcile any conflict, if one exists, among those pre-trilogy cases.\nParagraph II.B. of original opinion is withdrawn.",
+        "type": "majority",
+        "author": "BARKSDALE, Circuit Judge:"
+      },
+      {
+        "text": "KING, Circuit Judge,\nconcurring in the judgment:\nI withdraw my original opinion and concur in the judgment without opinion.",
+        "type": "concurrence",
+        "author": "KING, Circuit Judge,"
+      },
+      {
+        "text": "WISDOM, Senior Circuit Judge,\ndissenting:\nI withdraw my original dissenting opinion and substitute the following opinion:\nI respectfully dissent.\nJudge Barksdale, for the majority of the Court, holds that the plaintiffs failed to show that there was a genuine issue for trial with respect to the adequacy of the manufacturer\u2019s warning of the risk of cancer from using Thorotrast.\nThe plaintiffs introduced in the record copies of two scientific articles and a letter to the Editor of Cancer bearing on the relationship between cancer and Thoro-trast.\na. Article 1: Underwood & Hall, Thoro-trast Associated Hepatic Angiosar-coma with 36 Years Latency, Cancer 42: 2610-12 (Dec. 1978);\nb. Letter to editor, Thorium Dioxide and Liver Cancer, JAMA, Vol. 246, No. 16 (Oct. 16, 1981); and\nc.Article 2: Benjamin & Albukerk, Thorotrast-Induced Angiosarcoma of Liver, N. Y. State J. Med., pp. 751-53 (Apr. 1982).\nArticle 1 referred to an April 1925 study (not introduced in the record) entitled \u201cSome unrecognized dangers in the use and handling of radioactive substances\u201d. JAMA 85:1769-1776 (1925). The same article noted that in 1932 the American Medical Association\u2019s Council on Pharmacy and Chemistry disapproved of Heyden\u2019s introduction of Thorotrast into the United States. Both Articles 1 and 2 referred to a 1947 report in the American Journal of Pathology by McMahon, E., Murphy, A.S., and Bates, M.J., (not introduced in the record) documenting the link between cancer and Thorotrast. The report stated that the use of Thorotrast noticeably declined in the 1950\u2019s and continued to decline. The plaintiffs\u2019 attorney inartfully attached the articles as exhibits to the Skotaks\u2019 opposition to a motion to dismiss for lack of personal jurisdiction, apparently as part of the description of the \u201cbackground\u201d of their lawsuit. The Skotaks did not suggest the relevancy of the articles before or when TRI moved for summary judgment and did hot assert the importance of the articles until they filed their reply brief in this court. It would seem likely that the Sko-taks\u2019 attorney expected to introduce the articles in the trial on the merits. Nevertheless, they were in the record. We should consider the record as a whole in determining whether there was a dispute over a material fact.\nJudge Barksdale would have the Court ignore these articles.\nBased on the articles, a reasonable jury could make the following findings:\n(1) Thorotrast is a radioactive contrast medium first developed and used in Germany in the 1920\u2019s.\n(2) The relationship between radioactive chemicals and cancer was documented in a 1925 article by Martl'and, H.S., Conlan, P., and Knef, J.P. in the Journal of the American Medical Association entitled \u201cSome Unrecognized Dangers in the Use and Handling of Radioactive Substances\u201d. JAMA 85:1769-1776 (1925).\n(3) In 1932, based primarily on the findings of Martland, H.S., Conlan, P., and Knef, J.P. the American Medical Association\u2019s Council on Pharmacy and Chemistry disapproved of the introduction of Thorotrast in the United States.\n(4) The relationship between Thorotrast and liver cancer was documented in a 1947 article by McMahon, E., Murphy A.S., and Bates, M.J., \u201cEndothelial Cell Sarcoma of the Liver Following Thoro-trast Injections\u201d. Am.J. Pathology, 23:586-611 (1947).\n(5) Following the 1947 findings, a large number of reports surfaced linking cancer with previous administration of Tho-rotrast.\n(6) As a result of these reports, the use of Thorotrast as a contrast medium quickly decreased, and by the mid-1950\u2019s Thorotrast was no longer used in the United States as a contrast medium.\nThis information would permit a jury to find that either of the possible warnings (quoted in Judge Barksdale\u2019s opinion) would have been inadequate for failing to mention the evidence linking radioactive chemicals and cancer, and for failing to mention McMahon\u2019s finding, of a link between Thorotrast and liver cancer.\nEven though the testimony of the actual treating physician is unavailable, the timing of the marked decline in Thorotrast use following the release of information on the cancer risk would permit a reasonable jury to infer: (1) that most physicians were unaware of the cancer risks associated with Thorotrast before the information was released; and (2) once they became aware of the cancer risk, the vast majority of physicians switched to a substitute contrast medium. In the absence of specific evidence of the treating physician\u2019s actual knowledge and likely response, a jury could reasonably infer that Mr. Skotak\u2019s treating physician was likely to have the same information available, and would respond in the same manner, as the vast majority of physicians. The articles, therefore, raise a genuine issue of material fact with respect to the adequacy of the warning.\nThe result reached by Judge Barksdale is contrary to our holdings in Higgenbotham v. Ochsner Foundation Hospital, Keiser v. Coliseum Properties, Inc., and Nicholas Acoustics & Specialty Co. v. H & M Constr. Co. In those cases we held that, at least where the record is small (as it is in this case), a reviewing court must consider the entire record in determining whether there is a genuine issue of material fact. Although, except for Higgenbotham, Fifth Circuit cases touching on this question are not models of clarity, I conclude, unlike Judge Barksdale, that in the circumstances of this case precedent in the Fifth Circuit compels consideration of the evidence the Skotaks failed to point out.\nHiggenbotham appears to have been the Circuit\u2019s first attempt to delineate the responsibilities of district and appellate judges in summary judgment proceedings when the nonmoving party neglects to point out evidence in its favor. In that case Judge Rubin, for the Court, held that the district court should have considered a deposition filed but not singled out by the nonmovant for attention, especially where (as here) the record was small. In Frank C. Bailey Enterprises, Inc. v. Cargill, Inc. we did state that \u201can appellate court, in reviewing a summary judgment order, can only consider those matters presented to the district court.\u201d It is unclear in that case, however, whether the nonmovant (1) failed to point out evidence to the district court; (2) made a new argument on appeal; or (3) referred on appeal to evidence which was never in the summary judgment record. The per curiam opinion recites no facts relating to this issue and is conspicuously silent on the nature of the nonmov-ant\u2019s default. In Frank C. Bailey, the citations to Munoz v. International Alliance of Theatrical Stage Employees and Garcia v. American Marine Corp. suggest that the appellant/nonmovant had introduced at the appellate stage facts that had never even been placed in the record before the district court, for in those two cases the Court disapproved of such a method of attacking a summary judgment. I agree entirely with the holdings in Munoz and Garcia (and with Bailey, if I read it correctly), but introducing evidence before an appellate court that was never in the district court record is entirely different from failing to point out evidence that is already in the record.\nJudge Barksdale\u2019s assertion that Nissho-Iwai American Corp. v. Kline, Lavespere v. Niagara Mach. & Tool Works, Inc. and Fields v. City of South Houston state the accepted rule in this Circuit cannot withstand scrutiny. First, Lavespere had nothing to do with the problem in this case. At issue in Lavespere was whether the \u25a0 district court could consider evidentiary materials submitted by the opponent of summary judgment for the first time in a Fed.R.Civ.P. 59 motion for reconsideration. Judge Barksdale apparently focuses on the elaboration in Lavespere on Rule 56(e)\u2019s language, but the court was merely repeating the uncontroversial proposition that a nonmoving party cannot defeat summary judgment by resting on its pleadings or allegations. (This is also the import of the passage Judge Barksdale quoted from Dorsett v. Board of Trustees for State Colleges & Universities. ) Neither case considers whether the procedure for opposing summary judgment set forth in Rule 56(e) necessarily precludes appellate consideration of evidence in the record that might defeat summary judgment, but which the nonmovant neglected to bring to the attention of the district judge.\nSecond, Judge Barksdale\u2019s quotation from Fields is actually a quotation from John v. State of Louisiana, in which the court was quoting the argument of the defendant/movant. But we did not resolve John according to the rule urged by the defendant in that case, finding instead that the factual issues raised by the moving party in its motion were sufficient to enable the nonmovant to overcome summary judgment. Returning to Fields, that case presented the same problem as Laves-pere \u2014 whether a party could introduce evidence for the first time in a motion for reconsideration of summary judgment.\nThird, the Supreme Court\u2019s 1986 trilogy of cases on summary judgment does not abrogate the rule of Higgenbotham. None of the cases dealt with the question of pointing out materials in the summary judgment record. Matsushita Elec. Indus. Co., Ltd. v. Zenith Radio Corp. held that the evidence produced by the plaintiff in a predatory pricing case must tell a plausible story of conspiracy \u2014 which usually includes showing a rational motive to conspire \u2014 to create a genuine issue for trial. Anderson v. Liberty Lobby, Inc. held that the evidentiary standard of proof that would be used at trial also applies to a ruling on a summary judgment motion, so that a public figure plaintiff in a libel action must show that a jury could find actual malice with \u201cconvincing clarity\u201d in order to defeat a motion for summary judgment. Celotex Corp. v. Catrett focuses exclusively on the moving party\u2019s burden, and contains no holding about the obligation of the nonmoving party to direct the district court\u2019s attention to evidence in the record which could defeat summary judgment.\nFar from requiring that we discard the rule of Higgenbotham, the reasoning of the trilogy cases actually supports that rule. First, as the Court recognized in Celotex, Rule 56 places an initial burden on the moving party to establish his right to summary judgment. When the record is bare of evidence that would support the pleading allegations of the plaintiff, a defendant \u201cmay rely upon the complete absence of proof of an essential element of the other party\u2019s case\u201d to satisfy this burden and establish his right to summary judgment. If the nonmoving party will bear the burden of proof at trial, the moving party need not introduce evidence affirmatively disproving an element of the non-moving party\u2019s case. Rather, \u201cthe burden on the moving party may be discharged by \u2018showing\u2019 \u2014 that is, pointing out to the district court \u2014 that there is an absence of evidence to support the nonmoving party\u2019s case.\u201d As explained by Professors Wright, Miller, and Kane, \u201cthe movant may discharge his burden by demonstrating that if the case went to trial there would be no competent evidence to support a judgment for his opponent.\u201d\nIt will not always be enough for the moving party just to deny that there is sufficient evidence, even when the nonmov-ing party will bear the burden of proof at trial. As Justice White explained in his concurrence in Celotex:\n[T]he movant must discharge the burden the Rules place upon him: It is not enough to move for summary judgment without supporting the motion or with a conclusory assertion that the plaintiff has no evidence to prove his case.\nYet that is exactly the tack taken by TRI with respect to the warning issues. TRI filed affidavits and addressed the relevant evidence in the record with respect to the issues of successor liability and whether Thorotrast was actually administered in 1947, but with respect to the warning issues TRI simply made a \u201cconclusory assertion\u201d that \u201cthe following critical information cannot be documented on the basis of the evidence and the medical records that are available\u201d. TRI made this assertion even though there was already evidence in the record which, together with the details of the warning provided by the Skotaks in their response to TRI's summary judgment motion, provided a circumstantial basis for jury findings favorable to the plaintiff on the issues of warning adequacy and warning causation. This approach is insufficient to establish TRI\u2019s right to summary judgment on the warning issues.\nIn short, when the record already contains evidence that creates a genuine issue of material fact, Celotex requires a moving party to do more than simply answer that there is no evidence of that fact, even if the nonmovant will bear the burden of proof on that issue at trial. Celotex places the burden on the moving party to demonstrate that, given \u201cthe pleadings, depositions, answers to interrogatories, and admissions on file, together with the affidavits, if any\u201d, there is not sufficient evidence to create a genuine issue with respect to a material fact. This holding is consistent with the Higgenbotham rule. Both decisions require the district court to consider the entire record in deciding whether summary judgment is appropriate \u2014 Celotex implicitly by placing an initial burden on the moving party to demonstrate his right to judgment as a matter of law, and Higgenbotham explicitly. A review, on appeal, of whether the moving party has satisfied its initial Celotex burden necessarily encompasses consideration of the entire record.\nWhile the Celotex Court does emphasize certain procedural aspects of the summary judgment process, the Court distributes the various summary judgment burdens in order to \u201cisolate and dispose of factually unsupported claims or defenses....\u201d Judge Barksdale\u2019s rule would not serve that purpose, but would force us to dispose of factually supported claims. I find such a rule inconsistent with the Celotex Court\u2019s explanation of the purposes behind the summary judgment process.\nFinally, the plain language of Rule 56(c) directs a court considering a summary judgment motion to examine the entire record. Rule 56 authorizes summary judgment only if \u201c[the evidentiary material] on file, together with the affidavits, if any, show that there is no genuine issue as to any material fact and that the moving party is entitled to a judgment as a matter of law.\u201d [Emphasis added] As Judge Rubin wrote in Higgenbotham:\n\u201c[Rule 56] does not distinguish between depositions merely filed and those singled out by counsel for special attention.\u201d\nThus, I cannot agree that either Nissho-Iwai or Impossible Electronic Techniques, Inc. v. Wackenhut Protective Sys., Inc. states the correct rule in this circuit. Instead, I believe the earlier decision in Hig-genbotham (which was followed in Reiser and Nicholas Acoustics) requires this Court to consider record evidence to which the nonmoving party has failed to refer. As in Nicholas Acoustics, I believe that an appellate court is not free to ignore evidence that comes to its attention. Thus, in my view the journal articles must be considered in determining whether the summary judgment was proper.\nAdmittedly, if a specific issue is not raised in the district court, then we may appropriately resort to the plain error standard if a party attempts to raise that issue on appeal. But, in this case, the Skotaks pointed to the warning issue that would preclude the grant of summary judgment. They were not attempting to rest on their unverified pleadings, but had introduced evidence that, together with the evidence already in the record, created a genuine issue with respect to the warning. There was no large record to scour. For these reasons, the scientific articles create a genuine issue of fact with respect to the issue of the warning. The litigation explosion in the federal court system, the consequent need for economy of judicial efforts, and the advantage of simplifying procedures, especially in the overburdened district courts, argue strongly for increasing use of summary judgments \u2014 but not at the expense of the quality of justice. The first rule of the Federal Rules of Civil Procedure admonishes courts that the rules\nshall be construed to secure the just, speedy, and inexpensive determination of every action.\nIn this case justice cries out for a trial on the merits.\nI have incorporated in this opinion a large part of the opinion Judge King withdrew.\n. 607 F.2d 653 (5th Cir.1979).\n. 614 F.2d 406 (5th Cir.1980).\n. 695 F.2d 839 (5th Cir.1983).\n. See Higgenbotham, 607 F.2d at 656-57; Keiser, 614 F.2d at 410; Nicholas Acoustics, 695 F.2d at 846. Professors Wright, Miller, and Kane agree: \"The parties need not formally offer their outside matter as evidence or have it marked as an exhibit at the hearing on the motion. Given this process, the court is obliged to take account of the entire setting of the case on a Rule 56 motion. In addition to the pleadings, it will consider all papers of record, as well as any material prepared for the motion that meets the standard prescribed in Rule 56(e).\u201d 10A Wright, Miller & Kane, Federal Practice and Procedure \u00a7 2721, at 44 (2d ed. 1983).\n. 582 F.2d 333 (5th Cir.1978) (per curiam).\n. Id. at 334.\n. 563 F.2d 205 (5th Cir.1977).\n. 432 F.2d 6 (5th Cir.1970) (per curiam).\n. See Munoz, 563 F.2d at 209; Garcia, 432 F.2d at 8.\n.845 F.2d 1300 (5th Cir.1988).\n. 910 F.2d 167 (5th Cir.1990).\n. 922 F.2d 1183 (5th Cir.1991).\n. Lavespere, 910 F.2d at 172-73.\n. 940 F.2d 121 (5th Cir.1991).\n. 757 F.2d 698 (5th Cir.1985).\n. See John, 757 F.2d at 712.\n. 475 U.S. 574, 106 S.Ct. 1348, 89 L.Ed.2d 538 (1986).\n. 477 U.S. 242, 106 S.Ct. 2505, 91 L.Ed.2d 202 (1986).\n. 477 U.S. 317, 106 S.Ct. 2548, 91 L.Ed.2d 265 (1986).\n. 477 U.S. at 323, 106 S.Ct. at 2552-53; see also id. at 328, 106 S.Ct. at 2555 (White, J., concurring). Because Justice White was the fifth vote, his understanding of the case \"would seem to be controlling\". Id. at 329 n. 1, 106 S.Ct. at 2556 n. 1 (Brennan, J., dissenting) (citing Marks v. United States, 430 U.S. 188, 193, 97 S.Ct. 990, 993, 51 L.Ed.2d 260 (1977)).\n.Fontenot v. Upjohn Co., 780 F.2d 1190, 1195 (5th Cir.1986).\n.See Celotex Corp., 477 U.S. at 324, 106 S.Ct. at 2553.\n.Id. at 325, 106 S.Ct. at 2553-54.\n. Id.\n. 10A Wright, Miller, & Kane, Federal Practice and Procedure \u00a7 2727, at 130.\n. Celotex, 477 U.S. at 328, 106 S.Ct. at 2555 (White, J., concurring).\n. Fed.R.Civ.P. 56(c).\n. The Celotex Court also stated:\nThe import of these subsections [of Rule 56] is that, regardless of whether the moving party accompanies its summary judgment motion with affidavits, the motion may, and should, be granted so long as whatever is before the district court demonstrates that [there is no genuine issue of material fact].\nCelotex, 477 U.S. at 323, 106 S.Ct. at 2553 (emphasis added). I find the phrase \"whatever is before the district court\u201d to read most naturally as \"whatever is in the record\", rather than Judge Barksdale\u2019s suggested reading of \u201cwhatever is in the record that is specifically referred to by the parties during the summary judgment process\u201d. But it is not essential that my reading be the most natural, or even the only natural, reading of the phrase. As long as the Supreme Court's opinion can reasonably be read as consistent with the Higgenbotham rule, we are obliged to so read it.\n.Celotex Corp., 477 U.S. at 323-24, 106 S.Ct. at 2553.\n. Fed.R.Civ.P. 56(c). While scientific articles are not specifically mentioned in the list of materials to be considered under Rule 56(c), the articles would, given a proper foundation, be admissible at trial under Fed.R.Evid. 803(18). As such, they can be considered in resolving a motion for summary judgment, unless the trial judge specifically rules that they would not be admissible.\n. Higgenbotham, 607 F.2d at 656. I heartily agree with Judge Rubin\u2019s comment in note 3 of Higgenbotham-.\nIn this instance, as in many, we reverse the court for error in a matter in which it did not receive the assistance it was due from counsel- [Plaintiff's counsel] did not ... call the court\u2019s attention by memorandum or otherwise to the deposition in the record. Defense counsel was content to submit its case in the most favorable posture without alerting the court to the minefield in the path he invited the court to take.\n607 F.2d at 656 n. 3.\n. 669 F.2d 1026 (5th Cir. Unit B 1982).\n. See Nicholas Acoustics, 695 F.2d at 846.\n. See, e.g., Impossible Electronics Techniques, Inc. v. Wackenhut Protective Sys., Inc., 669 F.2d 1026, 1033 n. 7 (5th Cir. Unit B 1982).",
+        "type": "dissent",
+        "author": "WISDOM, Senior Circuit Judge,"
+      },
+      {
+        "text": "ON SUGGESTION FOR REHEARING EN BANC.\nMarch 26, 1992.\nBefore WISDOM, KING and BARKSDALE, Circuit Judges.\nPER CURIAM:\nTreating the suggestion for rehearing en banc as a petition for panel rehearing, it is ordered that the petition for panel rehearing is DENIED. No member of the panel nor Judge in regular active service of this Court having requested that the Court be polled on rehearing en banc (Federal Rule of Appellate Procedure and Local Rule 35), the suggestion for Rehearing En Banc is DENIED. The three February B, 1992, opinions are revised as follows:",
+        "type": "rehearing",
+        "author": "PER CURIAM:"
+      }
+    ],
+    "attorneys": [
+      "Rodney Gappelberg, Wilson, Jorgenson, Fuqua & Hudnall, Dallas, Tex., for plaintiffs-appellants, cross-appellees.",
+      "Michael R. Berry, George C. Chapman, G. Luke Ashley, Thompson & Knight, Dallas, Tex., Joseph T.C. Hart, Fulton, Dun-combe & Rowe, New York City, for defendant-appellee, cross-appellant."
+    ],
+    "corrections": "",
+    "head_matter": "Mary Faye SKOTAK, George Jerry Skotak, and Eric Norman Skotak, Plaintiffs-Appellants, Cross-Appellees, v. TENNECO RESINS, INC., Defendant Appellee, Cross-Appellant.\nNo. 90-1256.\nUnited States Court of Appeals, Fifth Circuit.\nFeb. 3, 1992.\nOn Suggestion for Rehearing En Banc March 26, 1992.\nRodney Gappelberg, Wilson, Jorgenson, Fuqua & Hudnall, Dallas, Tex., for plaintiffs-appellants, cross-appellees.\nMichael R. Berry, George C. Chapman, G. Luke Ashley, Thompson & Knight, Dallas, Tex., Joseph T.C. Hart, Fulton, Dun-combe & Rowe, New York City, for defendant-appellee, cross-appellant.\nBefore WISDOM, KING, and BARKSDALE, Circuit Judges."
+  },
+  "file_name": "0909-01",
+  "first_page_order": 997,
+  "last_page_order": 1011
+}

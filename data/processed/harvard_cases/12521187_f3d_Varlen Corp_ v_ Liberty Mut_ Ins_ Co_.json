@@ -1,0 +1,217 @@
+{
+  "id": 12521187,
+  "name": "VARLEN CORPORATION, Plaintiff-Appellant, v. LIBERTY MUTUAL INSURANCE COMPANY, Defendant-Appellee.",
+  "name_abbreviation": "Varlen Corp. v. Liberty Mut. Ins. Co.",
+  "decision_date": "2019-05-16",
+  "docket_number": "No. 17-3212",
+  "first_page": "456",
+  "last_page": "460",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "924 F.3d 456"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "7th Cir.",
+    "id": 9010,
+    "name": "United States Court of Appeals for the Seventh Circuit"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "307 F. Supp. 2d 474",
+      "category": "reporters:federal",
+      "reporter": "F. Supp. 2d",
+      "case_ids": [
+        9267345
+      ],
+      "year": 2004,
+      "pin_cites": [
+        {
+          "page": "494"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f-supp-2d/307/0474-01"
+      ]
+    },
+    {
+      "cite": "611 F.3d 339",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        3698139
+      ],
+      "year": 2010,
+      "pin_cites": [
+        {
+          "page": "347",
+          "parenthetical": "noting that under Illinois law, \"[i]nsurers have the burden of proving that an exclusion applies,\" while insureds \"have the burden to prove that an exception to an exclusion restores coverage\""
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/611/0339-01"
+      ]
+    },
+    {
+      "cite": "477 U.S. 317",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6207800
+      ],
+      "weight": 3,
+      "year": 1986,
+      "pin_cites": [
+        {
+          "page": "322",
+          "parenthetical": "\" Rule 56(c) mandates the entry of summary judgment ... against a party who fails to make a showing sufficient to establish the existence of an element essential to that party's case, and on which that party will bear the burden of proof at trial.\""
+        },
+        {
+          "parenthetical": "\" Rule 56(c) mandates the entry of summary judgment ... against a party who fails to make a showing sufficient to establish the existence of an element essential to that party's case, and on which that party will bear the burden of proof at trial.\""
+        },
+        {
+          "parenthetical": "\" Rule 56(c) mandates the entry of summary judgment ... against a party who fails to make a showing sufficient to establish the existence of an element essential to that party's case, and on which that party will bear the burden of proof at trial.\""
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/477/0317-01"
+      ]
+    },
+    {
+      "cite": "796 F.3d 749",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        5769146
+      ],
+      "year": 2015,
+      "pin_cites": [
+        {
+          "page": "756"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/796/0749-01"
+      ]
+    },
+    {
+      "cite": "619 F.3d 748",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        3778626
+      ],
+      "year": 2010,
+      "pin_cites": [
+        {
+          "page": "761",
+          "parenthetical": "\"An expert's testimony is not unreliable simply because it is founded on his experience rather than on data.\""
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/619/0748-01"
+      ]
+    },
+    {
+      "cite": "765 F.3d 765",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        4185245
+      ],
+      "year": 2014,
+      "pin_cites": [
+        {
+          "page": "772",
+          "parenthetical": "\"If the court properly [followed the Daubert framework], we then review its ultimate decision to exclude expert testimony for an abuse of discretion.\""
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/765/0765-01"
+      ]
+    },
+    {
+      "cite": "561 F.3d 698",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        3481171
+      ],
+      "year": 2009,
+      "pin_cites": [
+        {
+          "page": "705"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/561/0698-01"
+      ]
+    },
+    {
+      "cite": "509 U.S. 579",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        355769
+      ],
+      "weight": 3,
+      "year": 1993,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/509/0579-01"
+      ]
+    },
+    {
+      "cite": "477 U.S. 242",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6206897
+      ],
+      "weight": 3,
+      "year": 1986,
+      "pin_cites": [
+        {
+          "page": "255-56"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/477/0242-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 658,
+    "char_count": 11929,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.2593145391874198
+    },
+    "sha256": "89de9c460999187ea6abcb3098786e8ebfd3c6853e0a196a1e0ef44bb262169c",
+    "simhash": "1:5a8827257a11d7a1",
+    "word_count": 1908
+  },
+  "last_updated": "2024-02-27T18:46:58.656971+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "file_name": "0456-01",
+  "first_page_order": 456,
+  "last_page_order": 460
+}

@@ -1,0 +1,782 @@
+{
+  "id": 4272138,
+  "name": "Commonwealth vs. Luis Melendez-Diaz",
+  "name_abbreviation": "Commonwealth v. Melendez-Diaz",
+  "decision_date": "2011-07-26",
+  "docket_number": "",
+  "first_page": "238",
+  "last_page": "248",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "460 Mass. 238"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Mass.",
+    "id": 8825,
+    "name": "Massachusetts Supreme Judicial Court"
+  },
+  "jurisdiction": {
+    "id": 4,
+    "name_long": "Massachusetts",
+    "name": "Mass."
+  },
+  "cites_to": [
+    {
+      "cite": "70 Mass. App. Ct. 1110",
+      "category": "reporters:state",
+      "reporter": "Mass. App. Ct.",
+      "year": 2007,
+      "opinion_index": -1
+    },
+    {
+      "cite": "129 S. Ct. 2727",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "weight": 2,
+      "year": 2009,
+      "pin_cites": [
+        {
+          "page": "2532"
+        },
+        {
+          "page": "2532"
+        }
+      ],
+      "opinion_index": -1
+    },
+    {
+      "cite": "129 S. Ct. 2527",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        3657952
+      ],
+      "weight": 4,
+      "year": 2009,
+      "pin_cites": [
+        {
+          "page": "2532",
+          "parenthetical": "Melendez-Diaz"
+        },
+        {
+          "parenthetical": "Melendez-Diaz"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/557/0305-01"
+      ]
+    },
+    {
+      "cite": "70 Mass. App. Ct. 1110",
+      "category": "reporters:state",
+      "reporter": "Mass. App. Ct.",
+      "year": 2007,
+      "opinion_index": 0
+    },
+    {
+      "cite": "245 Mass. 405",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "case_ids": [
+        5753944
+      ],
+      "weight": 3,
+      "year": 1923,
+      "pin_cites": [
+        {
+          "page": "415",
+          "parenthetical": "Slavski"
+        },
+        {
+          "parenthetical": "admission of certificates to prove alcoholic contents of \"moonshine\""
+        },
+        {
+          "page": "415-417",
+          "parenthetical": "analyzing admissibility of such records at common law dating back to 1780 and adoption of Massachusetts Declaration of Rights"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mass/245/0405-01"
+      ]
+    },
+    {
+      "cite": "78 Mass. App. Ct. 906",
+      "category": "reporters:state",
+      "reporter": "Mass. App. Ct.",
+      "case_ids": [
+        3839557
+      ],
+      "year": 2011,
+      "opinion_index": 0,
+      "case_paths": [
+        "/mass-app-ct/78/0906-01"
+      ]
+    },
+    {
+      "cite": "401 U.S. 667",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11714690
+      ],
+      "year": 1971,
+      "pin_cites": [
+        {
+          "page": "693",
+          "parenthetical": "Harlan, J., concurring in part and dissenting in part"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/401/0667-01"
+      ]
+    },
+    {
+      "cite": "448 U.S. 56",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        1787607
+      ],
+      "weight": 2,
+      "year": 1980,
+      "pin_cites": [
+        {
+          "page": "66"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/448/0056-01"
+      ]
+    },
+    {
+      "cite": "69 Mass. App. Ct. 1114",
+      "category": "reporters:state",
+      "reporter": "Mass. App. Ct.",
+      "year": 2007,
+      "opinion_index": 0
+    },
+    {
+      "cite": "28 U.S.C. \u00a7 2254",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "year": 2006,
+      "pin_cites": [
+        {
+          "page": "(d)(1)"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "202 P.3d 1130",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "case_ids": [
+        8167345
+      ],
+      "year": 2009,
+      "pin_cites": [
+        {
+          "page": "1140"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/p3d/202/1130-01"
+      ]
+    },
+    {
+      "cite": "552 U.S. 264",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        3675901
+      ],
+      "year": 2008,
+      "pin_cites": [
+        {
+          "page": "288"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/552/0264-01"
+      ]
+    },
+    {
+      "cite": "407 Mass. 296",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "case_ids": [
+        3887568
+      ],
+      "year": 1990,
+      "pin_cites": [
+        {
+          "page": "300-301"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mass/407/0296-01"
+      ]
+    },
+    {
+      "cite": "466 U.S. 668",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6204802
+      ],
+      "year": 1984,
+      "pin_cites": [
+        {
+          "page": "689-690"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/466/0668-01"
+      ]
+    },
+    {
+      "cite": "130 S. Ct. 1473",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        3581896,
+        12447673
+      ],
+      "weight": 5,
+      "year": 2010,
+      "pin_cites": [
+        {
+          "parenthetical": "Padilla"
+        },
+        {
+          "page": "1478-1480"
+        },
+        {
+          "page": "1484-1485"
+        },
+        {
+          "page": "1482"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/559/0356-01",
+        "/l-ed-2d/176/0284-01"
+      ]
+    },
+    {
+      "cite": "642 F.3d 99",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        3384836
+      ],
+      "weight": 2,
+      "year": 2011,
+      "pin_cites": [
+        {
+          "page": "102-103"
+        },
+        {
+          "page": "102"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/642/0099-01"
+      ]
+    },
+    {
+      "cite": "456 Mass. 350",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "case_ids": [
+        3668331
+      ],
+      "weight": 4,
+      "year": 2010,
+      "pin_cites": [
+        {
+          "page": "359",
+          "parenthetical": "applying Melendez-Diaz to cases on direct appeal"
+        },
+        {
+          "page": "355-359"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mass/456/0350-01"
+      ]
+    },
+    {
+      "cite": "444 Mass. 279",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "case_ids": [
+        985751
+      ],
+      "weight": 3,
+      "year": 2005,
+      "pin_cites": [
+        {
+          "page": "283, 284"
+        },
+        {
+          "page": "283",
+          "parenthetical": "Supreme Court in Crawford \"suggested in dictum that a business or official record would not be subject to its holding\""
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mass/444/0279-01"
+      ]
+    },
+    {
+      "cite": "194 Or. App. 511",
+      "category": "reporters:state",
+      "reporter": "Or. App.",
+      "case_ids": [
+        1505006
+      ],
+      "year": 2004,
+      "pin_cites": [
+        {
+          "page": "516",
+          "parenthetical": "laboratory report of urinalysis was \"analogous to - or arguably even the same as - a business or official record\""
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/or-app/194/0511-01"
+      ]
+    },
+    {
+      "cite": "129 S. Ct. 2856",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "year": 2009,
+      "pin_cites": [
+        {
+          "parenthetical": "analysis of blood tests not testimonial"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "156 N.H. 125",
+      "category": "reporters:state",
+      "reporter": "N.H.",
+      "case_ids": [
+        4034398
+      ],
+      "year": 2007,
+      "opinion_index": 0,
+      "case_paths": [
+        "/nh/156/0125-01"
+      ]
+    },
+    {
+      "cite": "136 N.M. 561",
+      "category": "reporters:state",
+      "reporter": "N.M.",
+      "case_ids": [
+        1224659
+      ],
+      "year": 2004,
+      "pin_cites": [
+        {
+          "parenthetical": "report of blood alcohol analysis not testimonial"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/nm/136/0561-01"
+      ]
+    },
+    {
+      "cite": "903 So. 2d 1110",
+      "category": "reporters:state_regional",
+      "reporter": "So. 2d",
+      "case_ids": [
+        8971527
+      ],
+      "year": 2005,
+      "pin_cites": [
+        {
+          "parenthetical": "drag certificate nontestimonial business record under Crawford"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/so2d/903/1110-01"
+      ]
+    },
+    {
+      "cite": "121 Cal. App. 4th 1409",
+      "category": "reporters:state",
+      "reporter": "Cal. App. 4th",
+      "case_ids": [
+        1204716
+      ],
+      "year": 2004,
+      "pin_cites": [
+        {
+          "page": "1411-1413",
+          "parenthetical": "laboratory report is routine documentary evidence whose admission does not violate confrontation clause"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-app-4th/121/1409-01"
+      ]
+    },
+    {
+      "cite": "954 So. 2d 611",
+      "category": "reporters:state_regional",
+      "reporter": "So. 2d",
+      "case_ids": [
+        8331611
+      ],
+      "year": 2006,
+      "pin_cites": [
+        {
+          "parenthetical": "drug certificate not testimonial"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/so2d/954/0611-01"
+      ]
+    },
+    {
+      "cite": "460 F.3d 920",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        3673715
+      ],
+      "year": 2006,
+      "pin_cites": [
+        {
+          "parenthetical": "medical records establishing presence of methamphetamine in defendant's system were nontestimonial business records"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/460/0920-01"
+      ]
+    },
+    {
+      "cite": "356 Mass. 452",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "case_ids": [
+        300511
+      ],
+      "weight": 2,
+      "year": 1969,
+      "pin_cites": [
+        {
+          "parenthetical": "admission of certificates of drug analysis"
+        },
+        {
+          "page": "461-463"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mass/356/0452-01"
+      ]
+    },
+    {
+      "cite": "505 U.S. 277",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        1480980
+      ],
+      "year": 1992,
+      "pin_cites": [
+        {
+          "page": "304",
+          "parenthetical": "O'Connor, J., concurring"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/505/0277-01"
+      ]
+    },
+    {
+      "cite": "529 U.S. 362",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        9508607
+      ],
+      "year": 2000,
+      "pin_cites": [
+        {
+          "page": "410"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/529/0362-01"
+      ]
+    },
+    {
+      "cite": "503 U.S. 222",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6225374
+      ],
+      "year": 1992,
+      "pin_cites": [
+        {
+          "page": "237"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/503/0222-01"
+      ]
+    },
+    {
+      "cite": "521 U.S. 151",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        915886
+      ],
+      "year": 1997,
+      "pin_cites": [
+        {
+          "page": "156",
+          "parenthetical": "\"we will not disturb a final state conviction or sentence unless it can be said that a state court, at the time the conviction or sentence became final, would have acted objectively unreasonably by not extending the relief later sought in federal court\""
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/521/0151-01"
+      ]
+    },
+    {
+      "cite": "506 U.S. 461",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11925359
+      ],
+      "year": 1993,
+      "pin_cites": [
+        {
+          "page": "468",
+          "parenthetical": "court must ascertain \"legal landscape\" existing at time conviction became final"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/506/0461-01"
+      ]
+    },
+    {
+      "cite": "542 U.S. 406",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        5858880
+      ],
+      "weight": 2,
+      "year": 2004,
+      "pin_cites": [
+        {
+          "page": "411"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/542/0406-01"
+      ]
+    },
+    {
+      "cite": "494 U.S. 407",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        5098
+      ],
+      "weight": 2,
+      "year": 1990,
+      "pin_cites": [
+        {
+          "page": "414"
+        },
+        {
+          "page": "415"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/494/0407-01"
+      ]
+    },
+    {
+      "cite": "549 U.S. 406",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        3553902
+      ],
+      "weight": 3,
+      "year": 2007,
+      "pin_cites": [
+        {
+          "page": "416"
+        },
+        {
+          "page": "416-417"
+        },
+        {
+          "page": "416"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/549/0406-01"
+      ]
+    },
+    {
+      "cite": "547 U.S. 813",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        3275498
+      ],
+      "year": 2006,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/547/0813-01"
+      ]
+    },
+    {
+      "cite": "541 U.S. 36",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        5873383
+      ],
+      "weight": 7,
+      "year": 2004,
+      "pin_cites": [
+        {
+          "parenthetical": "Crawford"
+        },
+        {
+          "page": "56"
+        },
+        {
+          "page": "76",
+          "parenthetical": "Rehnquist, C.J., concurring"
+        },
+        {
+          "parenthetical": "Crawford"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/541/0036-01"
+      ]
+    },
+    {
+      "cite": "450 Mass. 1110",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "year": 2008,
+      "opinion_index": 0
+    },
+    {
+      "cite": "489 U.S. 288",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        12032050
+      ],
+      "weight": 5,
+      "year": 1989,
+      "pin_cites": [
+        {
+          "parenthetical": "Teague"
+        },
+        {
+          "page": "300",
+          "parenthetical": "\"Retroactivity is properly treated as a threshold question, for, once a new rule is applied to the defendant in the case announcing the rule, evenhanded justice requires that it be applied retroactively to all who are similarly situated\""
+        },
+        {
+          "parenthetical": "Teague"
+        },
+        {
+          "page": "307"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/489/0288-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 1202,
+    "char_count": 27281,
+    "ocr_confidence": 0.899,
+    "pagerank": {
+      "raw": 9.010528736560947e-08,
+      "percentile": 0.503550400042628
+    },
+    "sha256": "05938a6a6ae26d535c9abc6ce5150b7f7ed535056b53d14470c88daa5639a82b",
+    "simhash": "1:b2eeaf3c5447a5fb",
+    "word_count": 4326
+  },
+  "last_updated": "2024-02-27T17:56:26.592595+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Commonwealth vs. Luis Melendez-Diaz."
+    ],
+    "opinions": [
+      {
+        "text": "Cordy, J.\nIn Melendez-Diaz v. Massachusetts, 129 S. Ct. 2527, 2532 (2009) (Melendez-Diaz), the United States Supreme Court concluded that a certificate of chemical analysis, sworn to by a State laboratory analyst and reporting the weight and chemical makeup of a seized substance, came within the class of testimonial statements subject to the protections of the confrontation clause of the Sixth Amendment to the United States Constitution. Consequently, the certificate was inadmissable as evidence in a criminal trial in the absence of testimony from the analyst who performed the underlying forensic analysis. Id. The question raised in this case is whether the rule announced in Melendez-Diaz applies retroactively to cases on collateral review.\nThe defendant asks us to apply the rule to his drug-related convictions that became final prior to the Supreme Court\u2019s decision. We conclude that the rule announced in Melendez-Diaz, as it relates to the applicability of the confrontation clause to certificates of chemical analysis (drug certificates), is a \u201cnew\u201d rule within the meaning of Teague v. Lane, 489 U.S. 288 (1989) (Teague), and, as such, is not available to the defendant in this appeal from the denial of his motion for a new trial.\n1. The defendant\u2019s convictions. The defendant was arrested on February 20, 2004, following a controlled drug purchase set up by the Marshfield and Abington police departments with the help of an informant. The informant made a telephone call for the purpose of purchasing cocaine. The defendant arrived shortly thereafter in a Ford Contour automobile. The informant, who had been given $630 in controlled \u201cbuy\u201d money by an undercover officer, got into the back seat of the automobile and returned with several small bags of a white powdery substance, which the undercover officer believed to be cocaine. The automobile was stopped by Abington police shortly thereafter and both the defendant and a passenger were arrested. The vehicle was towed to a police department lot. A careful examination of the interior of the automobile led to the discovery of a secret compartment above the glove compartment in which was found the $630 in buy money, a number of small bags containing a white powdery substance, and a Tylenol bottle holding small bags containing a black tar-like substance as well as small bags containing a whitish beige rock substance.\nDuring a two-day jury-waived trial, and without objection from the defendant, the substances sold to the informant and recovered from the secret compartment, along with drug certificates averring that the substances were cocaine and heroin, were admitted in evidence. See G. L. c. 111, \u00a7\u00a7 12, 13. On May 3, 2005, the defendant was convicted of two indictments charging trafficking in cocaine, G. L. c. 94C, \u00a7 32E (b); and one indictment charging possession of heroin with intent to distribute, G. L. c. 94C, \u00a7 32 (a). He was sentenced to a ten-year mandatory term of imprisonment.\nThe defendant\u2019s judgments of conviction in this case were affirmed by the Appeals Court, see Commonwealth v. Melendez Diaz, 70 Mass. App. Ct. 1110 (2007), and we denied further appellate review, 450 Mass. 1110 (2008). On June 25, 2009, after the defendant\u2019s convictions in this case had become final, the United States Supreme Court\u2019s decision in the Melendez-Diaz case was announced. The defendant subsequently filed a motion for a new trial that was denied.\n2. Discussion, a. The Melendez-Diaz decision. In Melendez-Diaz, supra at 2542, five Justices of the Supreme Court concluded that the inadmissibility of the drug certificates (in the absence of an opportunity to cross-examine the analyst) was \u201clittle more than the application\u201d of the Court\u2019s decision in Crawford v. Washington, 541 U.S. 36 (2004) (Crawford), a case involving the admission of the tape-recorded statement of a percipient but unavailable witness to a stabbing. The four dissenting Justices were of a very different view, asserting that the Court was sweeping away \u201can accepted rule governing the admission of scientific evidence\u201d; a rule \u201cestablished for at least 90 years . . . extending] across at least 35 States and six Federal [Circuit] Courts of Appeals.\u201d Melendez-Diaz, supra at 2543 (Kennedy, J., dissenting, with whom Roberts, C.J., Breyer and Alito, JJ., joined). The dissenting opinion pointed out that the Court had based its remarkable conclusion, \u201c disregarding] a century of jurisprudence,\u201d on two confrontation clause decisions, Crawford, supra, and Davis v. Washington, 547 U.S. 813 (2006), that said \u201cnothing about forensic analysts.\u201d Melendez-Diaz, supra at 2543 (Kennedy, J., dissenting). Those cases, the dissenting Justices noted, stood only for:\n\u201cthe proposition that formal statements made by a conventional witness \u2014 one who has personal knowledge of some aspect of the defendant\u2019s guilt \u2014 may not be admitted without the witness appearing at trial to meet the accused face to face. But Crawford and Davis do not say \u2014 indeed, could not have said, because the facts were not before the Court \u2014 that anyone who makes a testimonial statement is a witness for purposes of the Confrontation Clause, even when that person has, in fact, witnessed nothing to give them personal knowledge of the defendant\u2019s guilt.\u201d\nId. at 2543 (Kennedy, J., dissenting).\nb. Retroactivity. The rule of Melendez-Diaz is of no use to the defendant unless it is held to be retroactive to convictions already made final at the time it was decided. Federal law on the retroactive application of constitutional decisions is articulated in Teague, supra. In that case, the Supreme Court held that a \u201cnew\u201d constitutional rule of criminal law does not ordinarily apply on collateral review to convictions that were final before the new rule was announced. \u201cUnder the Teague framework, an old rule applies both on direct and collateral review, but a new rule is generally applicable only to cases that are still on direct review.\u201d Whorton v. Bockting, 549 U.S. 406, 416 (2007).\nThe Supreme Court in Teague acknowledged the difficulty of determining when a rule is new, and chose not to define a \u201cnew rule\u201d except to state that, \u201c[i]n general, ... a case announces a new rule when it breaks new ground or imposes a new obligation on the States or the Federal Government. ... To put it differently, a case announces a new rule if the result was not dictated by precedent existing at the time the defendant\u2019s conviction became final.\u201d (Citations omitted.) Teague, supra at 301. The Supreme Court, since Teague, has given broad articulation to the meaning of when a rule is \u201cnew,\u201d thus limiting review in collateral challenges, and \u201cvalidat[ing] reasonable, good-faith interpretations of existing precedents made by state courts\u201d even though they are \u201ccontrary to later decisions.\u201d Butler v. McKellar, 494 U.S. 407, 414 (1990). See Beard v. Banks, 542 U.S. 406, 411 (2004), quoting Graham v. Collins, 506 U.S. 461, 468 (1993) (court must ascertain \u201clegal landscape\u201d existing at time conviction became final); O\u2019Dell v. Netherland, 521 U.S. 151, 156 (1997) (\u201cwe will not disturb a final state conviction or sentence unless it can be said that a state court, at the time the conviction or sentence became final, would have acted objectively unreasonably by not extending the relief later sought in federal court\u201d).\nThe defendant asserts that Melendez-Diaz did not announce a new rule because it was \u201cdictated by Crawford,\u201d that is, in the words of the Court\u2019s opinion, it was \u201clittle more than the application\u201d of the new rule announced in Crawford, supra. Melendez-Diaz, supra at 2542. The language used by the Court, however, is not conclusive in determining whether a rule is new. \u201c[T]he fact that a court says that its decision is within the \u2018logical compass\u2019 of an earlier decision, or indeed that it is \u2018controlled\u2019 by a prior decision, is not conclusive for purposes of deciding whether the current decision is a \u2018new rule\u2019 under Teague. Courts frequently view their decisions as being \u2018controlled\u2019 or \u2018governed\u2019 by prior opinions even when aware of reasonable contrary conclusions reached by other courts.\u201d Butler v. McKellar, supra at 415. Nor is the existence of conflicting authority dispositive of the new rule inquiry. Stringer v. Black, 503 U.S. 222, 237 (1992). As the Supreme Court has stated: \u201cEven though we have characterized the new rule inquiry as whether \u2018reasonable jurists\u2019 could disagree as to whether a result is dictated by precedent, the standard for determining when a case establishes a new rule is \u2018objective,\u2019 and the mere existence of conflicting authority does not necessarily mean a rule is new.\u201d Williams v. Taylor, 529 U.S. 362, 410 (2000), quoting Wright v. West, 505 U.S. 277, 304 (1992) (O\u2019Connor, J., concurring). With this framework in mind, we look to the specific holding of Melendez-Diaz and the \u201clegal landscape\u201d existing at the time to determine whether it was, in fact, a new rule or one simply dictated by precedent. Beard v. Banks, supra.\nIt is beyond question that prior to Crawford, drug certificates were broadly considered admissible against a criminal defendant in the absence of the testimony of the analyst, often under the official or public records exception to the confrontation clause, \u201can ancient principle of the common law, recognized at the time of the adoption of the Constitution.\u201d Commonwealth v. Slavski, 245 Mass. 405, 415 (1923) (Slavski). In Massachusetts, for example, the issue of the admissibility of the results of basic chemical analyses was first addressed in Slavski, supra (admission of certificates to prove alcoholic contents of \u201cmoonshine\u201d), and again in Commonwealth v. Harvard, 356 Mass. 452 (1969) (admission of certificates of drug analysis). In both cases, this court concluded that admission of the records of results of the analysis did not violate the confrontation clause because they were merely records of primary fact that required no judgment or discretion by the analysts who prepared them. See id. at 461-463; Slavski, supra at 415-417 (analyzing admissibility of such records at common law dating back to 1780 and adoption of Massachusetts Declaration of Rights).\nIn Crawford itself, the Supreme Court explicitly left \u201cfor another day\u201d any effort to spell out a comprehensive definition of what types of evidence would be considered \u201ctestimonial\u201d (and therefore subject to the constraints of the confrontation clause) and specifically acknowledged that its \u201crefusal to articulate a comprehensive definition [would] cause interim uncertainty.\u201d Crawford, supra at 68 & n.10. The Court also noted that certain types of records, by their nature, were nontes-timonial and admissible pursuant to exceptions to the general rule of exclusion that were well established at the time the Bill of Rights was appended to the United States Constitution. See Crawford, supra at 56. See also id. at 76 (Rehnquist, C.J., concurring) (\u201c[t]o its credit, the Court\u2019s analysis of \u2018testimony\u2019 excludes at least some hearsay exceptions, such as business records and official records. ... To hold otherwise would require numerous additional witnesses without any apparent gain in the truth-seeking process.\u201d [Citation omitted]).\nNot surprisingly, after Crawford was decided, most courts continued to conclude that drug certificates (or their equivalent) remained outside the scope of that decision and, either as business records or as official records, were admissible as prima facie evidence without the testimony of the analyst. See, e.g., United States v. Ellis, 460 F.3d 920 (7th Cir. 2006) (medical records establishing presence of methamphetamine in defendant\u2019s system were nontestimonial business records); Pruitt v. State, 954 So. 2d 611 (Ala. Crim. App. 2006) (drug certificate not testimonial); People v. Johnson, 121 Cal. App. 4th 1409, 1411-1413 (2004) (laboratory report is routine documentary evidence whose admission does not violate confrontation clause); State v. Cunningham, 903 So. 2d 1110 (La. 2005) (drag certificate nontestimonial business record under Crawford); State v. Dedman, 136 N.M. 561 (2004) (report of blood alcohol analysis not testimonial); State v. O\u2019Maley, 156 N.H. 125 (2007), cert. denied, 129 S. Ct. 2856 (2009) (analysis of blood tests not testimonial); State v. Thackaberry, 194 Or. App. 511, 516 (2004) (laboratory report of urinalysis was \u201canalogous to \u2014 or arguably even the same as \u2014 a business or official record\u201d).\nSimilarly, in Commonwealth v. Verde, 444 Mass. 279 (2005), we held that drag certificates were \u201cwell within the public records exception to the confrontation clause\u201d because \u201c [c]ertificates of chemical analysis are neither discretionary nor based on opinion; rather, they merely state the results of a well-recognized scientific test determining the composition and quantity of the substance.\u201d Id. at 283, 284. See id. at 283 (Supreme Court in Crawford \u201csuggested in dictum that a business or official record would not be subject to its holding\u201d). As we subsequently noted in Commonwealth v. Vasquez, 456 Mass. 350, 359 (2010) (applying Melendez-Diaz to cases on direct appeal), \u201c[o]ur holding in Verde was not an aberration, and reflected the unsettled nature of confrontation clause jurisprudence in Crawford\u2019s wake . . . .\u201d See id. at 359 n.11, and cases cited. Indeed, it can be fairly said that the Supreme Court granted the petition for a writ of certiorari in Melendez-Diaz precisely so that it could resolve this very area of \u201cinterim uncertainty,\u201d that is, \u201c[w]hether a state forensic analyst\u2019s laboratory report prepared for use in criminal prosecution is \u2018testimonial\u2019 evidence subject to the demands of the [c]onfrontation [c]lause as set forth in Crawford . . . .\u201d Likely v. Ruane, 642 F.3d 99, 102-103 (1st Cir. 2011).\nIn sum, to the extent Melendez-Diaz classified this limited category of evidence as triggering the protections of the confrontation clause, it broke new ground and announced a new rale.\nWe are careful to note the distinction between our holding in\nthis case and our holding in Commonwealth v. Clarke, ante 30, 31 (2011), where we concluded that Padilla v. Kentucky, 130 S. Ct. 1473 (2010) (Padilla), was to be applied retroactively to cases on collateral review. In Padilla, the Supreme Court was responding to \u201cextensive changes in immigration law\u201d that had occurred over two decades, and had transformed \u201ca system where deportation was rare and often preventable by a favorable exercise of judicial or administrative discretion, to a system where deportation is a near-mandatory consequence of many convictions.\u201d Commonwealth v. Clarke, supra at 41, citing Padilla, supra at 1478-1480. In light of that transformation and the evolution of the professional standards and expectations of the legal community that had followed in its wake, the Supreme Court\u2019s conclusion that advice regarding the deportation consequences of a criminal conviction had long since become the duty of constitutionally competent counsel, was more akin to the affirmation of an existing constitutional obligation than the imposition a new obligation on the States and Federal government. In contrast, the Supreme Court in Melendez-Diaz overruled a long-standing precedent relied on in more than thirty-five States (and throughout the Federal courts), plainly resulting in the imposition of a substantial \u201cnew obligation on the States.\u201d Teague, supra at 301. See Melendez-Diaz, supra at 2543 (Kennedy, J., dissenting).\nIn addition, as we noted in the Clarke case, the retroactivity of the rule in Padilla was fully implied in the Supreme Court\u2019s decision. First, the case of Padilla itself was a collateral challenge to Padilla\u2019s final convictions. See Teague, supra at 300 (\u201cRetroactivity is properly treated as a threshold question, for, once a new rule is applied to the defendant in the case announcing the rule, evenhanded justice requires that it be applied retroactively to all who are similarly situated\u201d). Second, the Padilla opinion explicitly addressed concerns that its holding would open the \u201cfloodgates\u201d and disturb the finality of \u201cconvictions already obtained.\u201d Padilla, supra at 1484-1485. It explained that the finality of most convictions would not be disturbed because (1) professional norms of defense counsel had required advice on deportation consequences for over a decade; (2) claims of ineffective assistance of counsel are less frequent when a plea agreement has been reached due to potential loss of favorable terms; and (3) the ineffective assistance of counsel test articulated in Strickland v. Washington, 466 U.S. 668, 689-690 (1984), requires defendants to meet the high bar of showing prejudice. Padilla, supra. Again, in contrast, the rule in Melendez-Diaz was rendered in a direct appeal, and the Court provided no similar guidance on the issue of retroactivity.\nc. Futility exception to the doctrine of waiver. The futility exception was applied in Commonwealth v. Vasquez, supra, only to preserve a more favorable standard of review for a defendant whose conviction was not yet final when Melendez-Diaz was decided. Commonwealth v. Vasquez, supra at 355-359. Because we conclude that Melendez-Diaz is not retroactive, we need not reach the defendant\u2019s argument that the futility exception to the doctrine of waiver should apply in his case.\n3. Adopting a new rule of retroactivity. We adopted the Teague rule in Commonwealth v. Bray, 407 Mass. 296, 300-301 (1990), but the Supreme Court has since made clear that States are not constrained by the analysis of Teague and may allow broader application of new constitutional rules than that mandated by Federal law. Danforth v. Minnesota, 552 U.S. 264, 288 (2008). While some State appellate courts have chosen to deviate from Teague, see, e.g., State v. Smart, 202 P.3d 1130, 1140 (Alaska 2009), we have yet to consider whether we should accept the invitation of the Supreme Court to do so. We decline to do so in this case, where we see no fundamental injustice or unfairness in applying Melendez-Diaz as a new rule with prospective effect.\n4. Conclusion. The denial of the defendant\u2019s motion for new trial is affirmed.\nSo ordered.\nNo circuit court of the United States Court of Appeals or State Supreme Court has considered the retroactivity of Melendez-Diaz v. Massachusetts, 129 S. Ct. 2527 (2009) (Melendez-Diaz). Only one Federal District Court has held Melendez-Diaz to be retroactive to cases on collateral review. See Scott vs. Mule Creek State Prison, U.S. Dist. Ct., No. ED CV 07-909 SVW (PJW) (C.D. Cal. Dec. 28, 2010) (rule in Melendez-Diaz \u201can application of the Crawford [v. Washington, 541 U.S. 36 (2004) (Crawford),] rule of constitutional criminal procedure rather than the creation of an entirely \u2018new rule\u2019 \u201d). A few Federal District Courts have concluded Melendez-Diaz is a \u201cnew rule\u201d and not retroactive. See Vega w. Walsh, U.S. Dist. Ct., No. 06-CV-6492 (ARR) (JO) (E.D.N.Y. April 22, 2010) (Vega). See also Adams vs. United States, U.S. Dist. Ct., No. Civ. A. 09-6152 GEB (D.N.J. May 10, 2011) (citing Vega); Espino-Rangel vs. Hollingsworth, U.S. Dist. Ct., No. 10-674-GPM (S.D. Ill. Nov. 1, 2010) (same); Galiana vs. McNeil, U.S. Dist. Ct., No. 08-20705-CIV (S.D. Fla. July 5, 2010) (same); Flournoy vs. Small, U.S. Dist. Ct., Civ. No. 08-2298-IEG (POR) (S.D. Cal. June 14, 2010) (same). Still other Federal District Courts do not consider whether Melendez-Diaz announced a new rule and jump to the conclusion that because Crawford, supra, announced a new mle that is not retroactive, see Whorton v. Bockting, 549 U.S. 406, 416-417 (2007), Melendez-Diaz similarly cannot be retroactive. See, e.g., Nardi vs. Pepe, U.S. Dist. Ct., Civ. A. No. 09-12166-RWZ (D. Mass. Feb. 8, 2011); Larkin vs. Yates, U.S. Dist. Ct., No. CV 09-2034-DSF (CT) (C.D. Cal. July 9, 2009); Louder vs. Coleman, U.S. Dist. Ct., Civ. A. No. 09-1124 (W.D. Pa. Dec. 10, 2009).\nIn the context of a petition for habeas corpus relief, the United States Court of Appeals for the First Circuit recently held that where a State conviction was made final after Crawford, but before Melendez-Diaz, Crawford did not represent \u201c \u2018clearly established Federal law, as determined by the Supreme Court of the United States,\u2019 ... as to whether admission of this evidence without the chemist being a witness violated the Confrontation Clause.\u201d Likely v. Ruane, 642 F.3d 99, 102 (1st Cir. 2011), quoting 28 U.S.C. \u00a7 2254(d)(1) (2006).\nThe defendant in this case is the same person who was the defendant in the Melendez-Diaz case. The conviction that led to the Supreme Court decision arose from events that took place in Suffolk County on November 15, 2001. See Commonwealth v. Melendez-Diaz, 69 Mass. App. Ct. 1114 (2007), rev\u2019d, 129 S. Ct. 2527 (2009). The conviction in this case arose from events that took place in Plymouth County on February 20, 2004.\nPursuant to G. L. c. 111, \u00a7 12:\n\u201cThe department [of public health] shall make, free of charge, a chemical analysis of any narcotic drug, or any synthetic substitute for the same, or any preparation containing the same, or any salt or compound thereof, and of any poison, drug, medicine or chemical, when submitted to it by police authorities or by such incorporated charitable organiza-lions in the commonwealth, as the department shall approve for this purpose; provided, that it is satisfied that the analysis is to be used for the enforcement of law.\u201d\nPursuant to G. L. c. Ill, \u00a7 13:\n\u201cThe analyst or an assistant analyst of the department or of the University of Massachusetts medical school shall upon request furnish a signed certificate, on oath, of the result of the analysis provided for in the preceding section to any police officer or any agent of such incorporated charitable organization, and the presentation of such certificate to the court by any police officer or agent of any such organization shall be prima facie evidence that all the requirements and provisions of the preceding section have been complied with. This certificate shall be sworn to before a justice of the peace or notary public, and the jurat shall contain a statement that the subscriber is the analyst or an assistant analyst of the department. When properly executed, it shall be prima facie evidence of the composition, quality, and the net weight of the narcotic or other drug, poison, medicine, or chemical analyzed or the net weight of any mixture containing the narcotic or other drug, poison, medicine, or chemical analyzed, and the court shall take judicial notice of the signature of the analyst or assistant analyst, and of the fact that he is such.\u201d\nThe defendant was also sentenced to other mandatory terms of imprisonment that the judge directed be served concurrently with the ten-year sentence.\nOne member of the majority, Justice Thomas, concurred in the result on the limited ground that the drug certificates were admitted in the form of \u201caffidavits\u201d which \u201c \u2018fall within the core class of testimonial statements\u2019 governed by the Confrontation Clause.\u201d Melendez-Diaz, supra at 2543 (Thomas, J., concurring), quoting Melendez-Diaz, supra at 2532.\nCrawford, supra, overruled Ohio v. Roberts, 448 U.S. 56 (1980), which had held that a statement from an unavailable witness was admissible against a criminal defendant as long as the statement bore an \u201cadequate \u2018indicia of reliability,\u2019 \u201d which was found either by inference, if the statement fell into a \u201cfirmly rooted hearsay exception,\u201d or by a showing of \u201cparticularized guarantees of trustworthiness.\u201d Id. at 66.\nThere are two exceptions to the rule announced in Teague v. Lane, 489 U.S. 288 (1989) (Teague). A new constitutional rule will apply retroactively if it (1) places certain primary conduct outside what can be prohibited by use of the criminal law; or (2) requires the observance of procedures \u201cimplicit in the concept of ordered liberty.\u201d Id. at 307, quoting Mackey v. United States, 401 U.S. 667, 693 (1971) (Harlan, J., concurring in part and dissenting in part). Melendez-Diaz does not come within these exceptions. See Commonwealth v. Arnaut, 78 Mass. App. Ct. 906, 906-907 & n.5 (2011), and cases cited.\nIn Whorton v. Bockting, 549 U.S. 406, 416 (2007), the Supreme Court held that Crawford announced a new rule that did not fall under either Teague exception.\nWe note that the sweep of Melendez-Diaz was quite broad. See Vega w. Walsh, U.S. Dist. Ct, No. 06-CV-6492 (ARR) (JO) (E.D.N.Y. April 22, 2010) (citing cases decided prior to Melendez-Diaz that held various scientific evidence to be nontestimonial in light of Crawford). We limit our holding on the retroactivity of Melendez-Diaz to the category of records produced pursuant to G. L. c. 111, \u00a7\u00a7 12 and 13. As to the retroactive effect of Melendez-Diaz in relation to other categories of records or reports, we reach no conclusions.\nIn Padilla v. Kentucky, 130 S. Ct. 1473, 1482 (2010), the Supreme Court specifically referenced the performance guidelines and professional standards promulgated by a wide range of professional organizations, from the American Bar Association to the National Legal Aid and Defender Association and the Department of Justice, Office of Justice Program, dating back to 1995, in support of its conclusion that \u201cauthorities of every stripe . . . universally require defense attorneys to advise as to the risk of deportation for non-citizen clients.\u201d",
+        "type": "majority",
+        "author": "Cordy, J."
+      }
+    ],
+    "attorneys": [
+      "Mary T. Rogers for the defendant.",
+      "Robert C. Thompson, Assistant District Attorney, for the Commonwealth.",
+      "Brownlow M. Speer & Donald S. Bronstein, Committee for Public Counsel Services, for Committee for Public Counsel Services, amicus curiae, submitted a brief."
+    ],
+    "corrections": "",
+    "head_matter": "Commonwealth vs. Luis Melendez-Diaz.\nPlymouth.\nApril 5, 2011.\n- July 26, 2011.\nPresent: Ireland, C.J., Spina, Cordy, Botsford, Gants, & Duffly, JJ.\nControlled Substances. Constitutional Law, Retroactivity of judicial holding, Confrontation of witnesses. Practice, Criminal, Retroactivity of judicial holding, Confrontation of witnesses. Evidence, Certificate of drug analysis.\nDiscussion of the decision of the United States Supreme Court in Melendez-Diaz v. Massachusetts, 129 S. Ct. 2727, 2532 (2009), holding that a certificate of chemical analysis of a seized substance was inadmissible as evidence in a criminal trial in the absence of testimony from the analyst. [241-242]\nThis court concluded that the decision of the United States Supreme Court in Melendez-Diaz v. Massachusetts, 129 S. Ct. 2727, 2532 (2009), announced a \u201cnew\u201d constitutional rule of criminal law, such that it did not apply retroactively on collateral review to convictions that were final before the new rule was announced [242-248]; therefore, given that a criminal defendant\u2019s convictions had already become final at the time the new rule was announced, this court declined to consider the defendant\u2019s argument that the futility exception to the doctrine of waiver should have applied in his case. [248]\nIndictments found and returned in the Superior Court Department on April 16, 2004.\nFollowing review by the Appeals Court, 70 Mass. App. Ct. 1110 (2007), a motion for a new trial, filed on April 21, 2010, was heard by Janet L. Sanders, J.\nThe Supreme Judicial Court granted an application for direct appellate review.\nMary T. Rogers for the defendant.\nRobert C. Thompson, Assistant District Attorney, for the Commonwealth.\nBrownlow M. Speer & Donald S. Bronstein, Committee for Public Counsel Services, for Committee for Public Counsel Services, amicus curiae, submitted a brief."
+  },
+  "file_name": "0238-01",
+  "first_page_order": 264,
+  "last_page_order": 274
+}

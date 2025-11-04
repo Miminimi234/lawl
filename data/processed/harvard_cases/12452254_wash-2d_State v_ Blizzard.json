@@ -1,0 +1,76 @@
+{
+  "id": 12452254,
+  "name": "State, Respondent, v. Blizzard, Petitioner",
+  "name_abbreviation": "State v. Blizzard",
+  "decision_date": "2017-02-08",
+  "docket_number": "No. 93707-9",
+  "first_page": "1012",
+  "last_page": "1012",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "187 Wash. 2d 1012"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Wash.",
+    "id": 9029,
+    "name": "Washington Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 38,
+    "name_long": "Washington",
+    "name": "Wash."
+  },
+  "cites_to": [
+    {
+      "cite": "195 Wn. App. 717",
+      "category": "reporters:state",
+      "reporter": "Wash. App.",
+      "case_ids": [
+        12454251
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-app/195/0717-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 28,
+    "char_count": 195,
+    "ocr_confidence": 0.857,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.25722020859131167
+    },
+    "sha256": "ec0bbfe40d88cba53908ff434b09de29fd47cfbe4418ba42d489461710372987",
+    "simhash": "1:083bec3319694d78",
+    "word_count": 31
+  },
+  "last_updated": "2024-02-27T20:27:34.476040+00:00",
+  "provenance": {
+    "date_added": "2019-05-21",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "State, Respondent, v. Blizzard, Petitioner,"
+    ],
+    "opinions": [
+      {
+        "text": "Petition for review of a decision of the Court of Appeals, No. 32866-0-III, September 1, 2016, 195 Wn. App. 717. Denied February 8, 2017.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "State, Respondent, v. Blizzard, Petitioner,\nNo. 93707-9."
+  },
+  "file_name": "1012-04",
+  "first_page_order": 980,
+  "last_page_order": 980
+}

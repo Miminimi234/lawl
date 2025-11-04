@@ -1,0 +1,78 @@
+{
+  "id": 12452315,
+  "name": "Hood, Petitioner, v. S. Whidbey Sch. Dist., Respondent",
+  "name_abbreviation": "Hood v. S. Whidbey Sch. Dist.",
+  "decision_date": "2017-03-08",
+  "docket_number": "No. 93819-9",
+  "first_page": "1020",
+  "last_page": "1020",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "187 Wash. 2d 1020"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Wash.",
+    "id": 9029,
+    "name": "Washington Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 38,
+    "name_long": "Washington",
+    "name": "Wash."
+  },
+  "cites_to": [
+    {
+      "cite": "195 Wn. App. 1058",
+      "category": "reporters:state",
+      "reporter": "Wash. App.",
+      "case_ids": [
+        12454481,
+        12454482,
+        12454483,
+        12454484
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-app/195/1058-01",
+        "/wash-app/195/1058-02",
+        "/wash-app/195/1058-03",
+        "/wash-app/195/1058-04"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 31,
+    "char_count": 203,
+    "ocr_confidence": 0.9,
+    "sha256": "53d0a644363511d171ad10255a12ab1502779797322738a287a1dea15fb5202a",
+    "simhash": "1:2579f0787f6d0b9d",
+    "word_count": 34
+  },
+  "last_updated": "2024-02-27T20:27:34.476040+00:00",
+  "provenance": {
+    "date_added": "2019-05-21",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Hood, Petitioner, v. S. Whidbey Sch. Dist., Respondent,"
+    ],
+    "opinions": [
+      {
+        "text": "Petition for review of a decision of the Court of Appeals, No. 73165-3-I, September 6, 2016, 195 Wn. App. 1058. Denied March 8, 2017.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Hood, Petitioner, v. S. Whidbey Sch. Dist., Respondent,\nNo. 93819-9."
+  },
+  "file_name": "1020-04",
+  "first_page_order": 988,
+  "last_page_order": 988
+}

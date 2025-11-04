@@ -1,0 +1,139 @@
+{
+  "id": 3556074,
+  "name": "Joseph PILCHESKY, Petitioner, v. Robert C. CORDARO, Respondent",
+  "name_abbreviation": "Pilchesky v. Cordaro",
+  "decision_date": "2007-04-30",
+  "docket_number": "No. 353 MAL 2007",
+  "first_page": "15",
+  "last_page": "16",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "592 Pa. 15"
+    },
+    {
+      "type": "parallel",
+      "cite": "922 A.2d 877"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "896 A.2d 566",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        5653674,
+        8427002
+      ],
+      "weight": 3,
+      "year": 2006,
+      "pin_cites": [
+        {
+          "page": "574-76",
+          "parenthetical": "explaining that a non-profit organization does not constitute a business entity under the Ethics Act, removing it from the reporting requirements of Section 1105(b)(8)"
+        },
+        {
+          "page": "575-76"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/586/0624-01",
+        "/a2d/896/0566-01"
+      ]
+    },
+    {
+      "cite": "586 Pa. 624",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        5653674
+      ],
+      "year": 2006,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/586/0624-01"
+      ]
+    },
+    {
+      "cite": "852 A.2d 1182",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        9239204,
+        1329325
+      ],
+      "year": 2004,
+      "pin_cites": [
+        {
+          "page": "1187"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/852/1182-01",
+        "/pa/578/0402-01"
+      ]
+    },
+    {
+      "cite": "578 Pa. 402",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1329325
+      ],
+      "year": 2004,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/578/0402-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 180,
+    "char_count": 2276,
+    "ocr_confidence": 0.73,
+    "pagerank": {
+      "raw": 8.788337403497326e-08,
+      "percentile": 0.4959856732960107
+    },
+    "sha256": "a0d71536c1c6d7a0bd0608c41809833716096b097be7762549a72061ac9054ff",
+    "simhash": "1:a94902dec3258fd3",
+    "word_count": 360
+  },
+  "last_updated": "2024-02-27T21:45:49.457734+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Joseph PILCHESKY, Petitioner, v. Robert C. CORDARO, Respondent."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nPER CURIAM.\nThe Petition for Allowance of Appeal is GRANTED. Respondent did not disclose on his Statement of Financial Interests his position on the Board of Directors of Landmark Community Bank. See 65 Pa.C.S. \u00a7 1105(b)(8) (requiring disclosure of \u201c[a]ny office, directorship or employment of any nature whatsoever in any business entity\u201d); Statement of Financial Interests Instructions, Block 13 (indicating that a directorship must be disclosed, \u201cregardless of income\u201d). Moreover, in the face of this omission, the record does not contain a supported finding that Respondent completed his statement of financial interests to the best of his knowledge, information, and belief. See 65 Pa.C.S. \u00a7 1105(a). Accord In re Nomination Petition of Benninghoff, 578 Pa. 402, 852 A.2d 1182, 1187 (2004).\nAccordingly, the Order of the Commonwealth Court, which allowed Respondent to remain on the ballot, is REVERSED, and Respondent Robert C. Cordaro\u2019s name is ordered STRICKEN from the primary ballot for the Republican Party nomination for the Office of Lackawanna County Commissioner. See 65 Pa.C.S. \u00a7 1104(b)(3) (providing that the \u201c[fjailure to file the statement [of financial interests] in accordance \"with the provisions of this chapter shall ... be a fatal defect to a petition to appear on the ballot\u201d).\n. Landmark Community Bank\u2019s status as a for-profit entity renders the Commonwealth Court's and the trial court\u2019s reliance upon In re Nomination Petition of Carroll, 586 Pa. 624, 896 A.2d 566 (2006), misplaced. See id. at 574-76 (explaining that a non-profit organization does not constitute a business entity under the Ethics Act, removing it from the reporting requirements of Section 1105(b)(8)). To the extent that the Commonwealth Court focused upon this Court\u2019s analysis in Carroll surrounding the candidate\u2019s lack of financial interests in a non-disclosed entity, that analysis was in the context of Section 1105(b)(1) and its requirement of disclosure of a public position held by the candidate, see Carroll, 896 A.2d at 575-76, as opposed to the disclosure of a directorship in a for-profit business entity under Section 1105(b)(8).",
+        "type": "majority",
+        "author": "PER CURIAM."
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "922 A.2d 877\nJoseph PILCHESKY, Petitioner, v. Robert C. CORDARO, Respondent.\nSupreme Court of Pennsylvania.\nApril 30, 2007."
+  },
+  "file_name": "0015-01",
+  "first_page_order": 67,
+  "last_page_order": 68
+}

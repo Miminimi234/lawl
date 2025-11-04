@@ -1,0 +1,63 @@
+{
+  "id": 4205512,
+  "name": "COMMONWEALTH of Pennsylvania, Respondent v. Julio SALDANAS, Petitioner",
+  "name_abbreviation": "Commonwealth v. Saldanas",
+  "decision_date": "2011-11-07",
+  "docket_number": "No. 49 EM 2011",
+  "first_page": "483",
+  "last_page": "484",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "612 Pa. 483"
+    },
+    {
+      "type": "parallel",
+      "cite": "31 A.3d 655"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 41,
+    "char_count": 305,
+    "ocr_confidence": 0.668,
+    "sha256": "95d7c73b23a8aa865433542913afe155903ae44888904c10c72aebe6bf1b6761",
+    "simhash": "1:1c3c0115d18b07b4",
+    "word_count": 50
+  },
+  "last_updated": "2023-07-14T19:33:52.292960+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "COMMONWEALTH of Pennsylvania, Respondent v. Julio SALDANAS, Petitioner."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nPER CURIAM.\nAND NOW, this 7th day of November, 2011, the Petition for Allowance of Appeal, treated as a Petition for Relief per Pa.R.A.P. 123, is DENIED.",
+        "type": "majority",
+        "author": "PER CURIAM."
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "31 A.3d 655\nCOMMONWEALTH of Pennsylvania, Respondent v. Julio SALDANAS, Petitioner.\nNo. 49 EM 2011.\nSupreme Court of Pennsylvania.\nNov. 7, 2011."
+  },
+  "file_name": "0483-02",
+  "first_page_order": 527,
+  "last_page_order": 528
+}

@@ -1,0 +1,860 @@
+{
+  "id": 4076059,
+  "name": "The State of Washington, Respondent, v. Adonijah Lacroy Sykes, Petitioner",
+  "name_abbreviation": "State v. Sykes",
+  "decision_date": "2014-12-18",
+  "docket_number": "Nos. 87946-0; 87947-8",
+  "first_page": "168",
+  "last_page": "190",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "182 Wash. 2d 168"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Wash.",
+    "id": 9029,
+    "name": "Washington Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 38,
+    "name_long": "Washington",
+    "name": "Wash."
+  },
+  "cites_to": [
+    {
+      "cite": "29 Fordham Urb. L.J. 2063",
+      "category": "journals:journal",
+      "reporter": "Fordham Urb. L.J.",
+      "year": 2002,
+      "pin_cites": [
+        {
+          "page": "2068, 2088, 2093",
+          "parenthetical": "arguing that this collaborative approach, key to the drug court framework generally, is fundamentally inappropriate for the judiciary"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "34 Wash. U. J.L. & Pol'y 185",
+      "category": "journals:journal",
+      "reporter": "Wash. U. J.L. & Pol'y",
+      "year": 2010,
+      "pin_cites": [
+        {
+          "page": "207"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "447 P.2d 718",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1968,
+      "opinion_index": 0
+    },
+    {
+      "cite": "74 Wn.2d 945",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        1086639
+      ],
+      "year": 1968,
+      "pin_cites": [
+        {
+          "page": "949"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/74/0945-01"
+      ]
+    },
+    {
+      "cite": "291 P.3d 886",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2013,
+      "pin_cites": [
+        {
+          "parenthetical": "plurality opinion"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "176 Wn.2d 303",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        4306902
+      ],
+      "year": 2013,
+      "pin_cites": [
+        {
+          "page": "308-10",
+          "parenthetical": "plurality opinion"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/176/0303-01"
+      ]
+    },
+    {
+      "cite": "478 U.S. 1",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6203186
+      ],
+      "weight": 5,
+      "year": 1986,
+      "pin_cites": [
+        {
+          "page": "8"
+        },
+        {
+          "page": "8"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/478/0001-01"
+      ]
+    },
+    {
+      "cite": "292 P.3d 715",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2012,
+      "pin_cites": [
+        {
+          "parenthetical": "C. Johnson, J., lead opinion"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "176 Wn.2d 58",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        4306367
+      ],
+      "year": 2012,
+      "pin_cites": [
+        {
+          "page": "73",
+          "parenthetical": "C. Johnson, J., lead opinion"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/176/0058-01"
+      ]
+    },
+    {
+      "cite": "256 P.3d 357",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2011,
+      "pin_cites": [
+        {
+          "parenthetical": "plurality opinion"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "172 Wn.2d 37",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        4018239
+      ],
+      "year": 2011,
+      "pin_cites": [
+        {
+          "page": "41",
+          "parenthetical": "plurality opinion"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/172/0037-01"
+      ]
+    },
+    {
+      "cite": "330 P.3d 774",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2014,
+      "opinion_index": 0
+    },
+    {
+      "cite": "180 Wn.2d 312",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        4242119
+      ],
+      "year": 2014,
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/180/0312-01"
+      ]
+    },
+    {
+      "cite": "740 P.2d 835",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "weight": 2,
+      "year": 1987,
+      "opinion_index": 0
+    },
+    {
+      "cite": "108 Wn.2d 491",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        1187839
+      ],
+      "year": 1987,
+      "pin_cites": [
+        {
+          "page": "504"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/108/0491-01"
+      ]
+    },
+    {
+      "cite": "425 P.2d 658",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1967,
+      "pin_cites": [
+        {
+          "parenthetical": "\"The general rule is that one cannot voluntarily elect to submit his case to the jury and then, after an adverse verdict, claim error which, if it did exist, could have been cured or otherwise ameliorated by some action on the part of the trial court.\""
+        }
+      ],
+      "opinion_index": 1
+    },
+    {
+      "cite": "70 Wn.2d 854",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        1060216
+      ],
+      "year": 1967,
+      "pin_cites": [
+        {
+          "page": "859",
+          "parenthetical": "\"The general rule is that one cannot voluntarily elect to submit his case to the jury and then, after an adverse verdict, claim error which, if it did exist, could have been cured or otherwise ameliorated by some action on the part of the trial court.\""
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/wash-2d/70/0854-01"
+      ]
+    },
+    {
+      "cite": "217 P.3d 321",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2009,
+      "opinion_index": 1
+    },
+    {
+      "cite": "167 Wn.2d 140",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        4005246
+      ],
+      "year": 2009,
+      "pin_cites": [
+        {
+          "page": "156"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/wash-2d/167/0140-01"
+      ]
+    },
+    {
+      "cite": "868 P.2d 134",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1994,
+      "opinion_index": 1
+    },
+    {
+      "cite": "123 Wn.2d 260",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        812791
+      ],
+      "year": 1994,
+      "pin_cites": [
+        {
+          "page": "269"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/wash-2d/123/0260-01"
+      ]
+    },
+    {
+      "cite": "176 Wn.2d 1031",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "year": 2013,
+      "opinion_index": 1
+    },
+    {
+      "cite": "173 P.3d 948",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2007,
+      "pin_cites": [
+        {
+          "parenthetical": "recognizing that the presumption of open proceedings applies to voir dire despite the privacy interests of jurors"
+        }
+      ],
+      "opinion_index": 1
+    },
+    {
+      "cite": "141 Wn. App. 797",
+      "category": "reporters:state",
+      "reporter": "Wash. App.",
+      "case_ids": [
+        3854618
+      ],
+      "year": 2007,
+      "pin_cites": [
+        {
+          "page": "808",
+          "parenthetical": "recognizing that the presumption of open proceedings applies to voir dire despite the privacy interests of jurors"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/wash-app/141/0797-01"
+      ]
+    },
+    {
+      "cite": "640 P.2d 716",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1982,
+      "opinion_index": 1
+    },
+    {
+      "cite": "97 Wn.2d 30",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        1154995
+      ],
+      "year": 1982,
+      "pin_cites": [
+        {
+          "page": "37-39"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/wash-2d/97/0030-01"
+      ]
+    },
+    {
+      "cite": "87 P.3d 757",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2004,
+      "opinion_index": 1
+    },
+    {
+      "cite": "151 Wn.2d 203",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        428176
+      ],
+      "year": 2004,
+      "pin_cites": [
+        {
+          "page": "213"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/wash-2d/151/0203-01"
+      ]
+    },
+    {
+      "cite": "939 P.2d 1255",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1997,
+      "pin_cites": [
+        {
+          "parenthetical": "invited error doctrine applies even to manifest constitutional errors"
+        }
+      ],
+      "opinion_index": 1
+    },
+    {
+      "cite": "87 Wn. App. 66",
+      "category": "reporters:state",
+      "reporter": "Wash. App.",
+      "case_ids": [
+        566148
+      ],
+      "year": 1997,
+      "pin_cites": [
+        {
+          "page": "70",
+          "parenthetical": "invited error doctrine applies even to manifest constitutional errors"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/wash-app/87/0066-01"
+      ]
+    },
+    {
+      "cite": "792 P.2d 514",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "weight": 2,
+      "year": 1990,
+      "pin_cites": [
+        {
+          "parenthetical": "internal quotation marks omitted"
+        }
+      ],
+      "opinion_index": 1
+    },
+    {
+      "cite": "114 Wn.2d 867",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        1169903
+      ],
+      "year": 1990,
+      "pin_cites": [
+        {
+          "page": "870"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/wash-2d/114/0867-01"
+      ]
+    },
+    {
+      "cite": "202 P.3d 325",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "weight": 2,
+      "year": 2009,
+      "pin_cites": [
+        {
+          "page": "357"
+        }
+      ],
+      "opinion_index": 1
+    },
+    {
+      "cite": "148 Wn. App. 952",
+      "category": "reporters:state",
+      "reporter": "Wash. App.",
+      "case_ids": [
+        3979748
+      ],
+      "year": 2009,
+      "pin_cites": [
+        {
+          "page": "958"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/wash-app/148/0952-01"
+      ]
+    },
+    {
+      "cite": "293 P.3d 1159",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2013,
+      "pin_cites": [
+        {
+          "parenthetical": "plurality opinion"
+        }
+      ],
+      "opinion_index": 1
+    },
+    {
+      "cite": "176 Wn.2d 441",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        4306549
+      ],
+      "year": 2013,
+      "pin_cites": [
+        {
+          "page": "447-48",
+          "parenthetical": "plurality opinion"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/wash-2d/176/0441-01"
+      ]
+    },
+    {
+      "cite": "309 P.3d 410",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2013,
+      "opinion_index": 1
+    },
+    {
+      "cite": "178 Wn.2d 350",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        4298496
+      ],
+      "year": 2013,
+      "opinion_index": 1,
+      "case_paths": [
+        "/wash-2d/178/0350-01"
+      ]
+    },
+    {
+      "cite": "467 U.S. 39",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6193857
+      ],
+      "weight": 5,
+      "year": 1984,
+      "opinion_index": 1,
+      "case_paths": [
+        "/us/467/0039-01"
+      ]
+    },
+    {
+      "cite": "288 P.3d 1113",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2012,
+      "pin_cites": [
+        {
+          "parenthetical": "quoting Waller v. Georgia, 467 U.S. 39, 46 n.4, 104 S. Ct. 2210, 81 L. Ed. 2d 31 (1984)"
+        }
+      ],
+      "opinion_index": 1
+    },
+    {
+      "cite": "176 Wn.2d 1",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        4306658
+      ],
+      "year": 2012,
+      "pin_cites": [
+        {
+          "page": "17",
+          "parenthetical": "quoting Waller v. Georgia, 467 U.S. 39, 46 n.4, 104 S. Ct. 2210, 81 L. Ed. 2d 31 (1984)"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/wash-2d/176/0001-01"
+      ]
+    },
+    {
+      "cite": "257 P.3d 624",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2011,
+      "pin_cites": [
+        {
+          "parenthetical": "\"strong presumption that courts are to be open at all trial stages\""
+        }
+      ],
+      "opinion_index": 1
+    },
+    {
+      "cite": "172 Wn.2d 85",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        4018381
+      ],
+      "year": 2011,
+      "pin_cites": [
+        {
+          "page": "90",
+          "parenthetical": "\"strong presumption that courts are to be open at all trial stages\""
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/wash-2d/172/0085-01"
+      ]
+    },
+    {
+      "cite": "93 P.3d 861",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2004,
+      "opinion_index": 1
+    },
+    {
+      "cite": "151 Wn.2d 900",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        428155
+      ],
+      "year": 2004,
+      "pin_cites": [
+        {
+          "page": "908-09"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/wash-2d/151/0900-01"
+      ]
+    },
+    {
+      "cite": "279 P.3d 861",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2012,
+      "pin_cites": [
+        {
+          "parenthetical": "citing Dreiling v. Jain, 151 Wn.2d 900, 908-09, 93 P.3d 861 (2004); Rufer, 154 Wn.2d at 549"
+        }
+      ],
+      "opinion_index": 1
+    },
+    {
+      "cite": "174 Wn.2d 795",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        4021992
+      ],
+      "year": 2012,
+      "pin_cites": [
+        {
+          "page": "807",
+          "parenthetical": "citing Dreiling v. Jain, 151 Wn.2d 900, 908-09, 93 P.3d 861 (2004); Rufer, 154 Wn.2d at 549"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/wash-2d/174/0795-01"
+      ]
+    },
+    {
+      "cite": "114 P.3d 1182",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2005,
+      "pin_cites": [
+        {
+          "parenthetical": "first and second emphasis added"
+        }
+      ],
+      "opinion_index": 1
+    },
+    {
+      "cite": "154 Wn.2d 530",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        5629116
+      ],
+      "year": 2005,
+      "pin_cites": [
+        {
+          "page": "549",
+          "parenthetical": "first and second emphasis added"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/wash-2d/154/0530-01"
+      ]
+    },
+    {
+      "cite": "615 P.2d 440",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1980,
+      "opinion_index": 1
+    },
+    {
+      "cite": "94 Wn.2d 51",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        1164044
+      ],
+      "year": 1980,
+      "pin_cites": [
+        {
+          "page": "60"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/wash-2d/94/0051-01"
+      ]
+    },
+    {
+      "cite": "246 P.3d 1254",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2011,
+      "pin_cites": [
+        {
+          "parenthetical": "emphasis added"
+        }
+      ],
+      "opinion_index": 1
+    },
+    {
+      "cite": "170 Wn.2d 903",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        4012604
+      ],
+      "year": 2011,
+      "pin_cites": [
+        {
+          "page": "913-14",
+          "parenthetical": "emphasis added"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/wash-2d/170/0903-01"
+      ]
+    },
+    {
+      "cite": "291 P.3d 886",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2013,
+      "pin_cites": [
+        {
+          "parenthetical": "Chambers, J., lead opinion"
+        }
+      ],
+      "opinion_index": 1
+    },
+    {
+      "cite": "176 Wn.2d 303",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        4306902
+      ],
+      "year": 2013,
+      "pin_cites": [
+        {
+          "page": "312",
+          "parenthetical": "Chambers, J., lead opinion"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/wash-2d/176/0303-01"
+      ]
+    },
+    {
+      "cite": "292 P.3d 715",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2012,
+      "pin_cites": [
+        {
+          "parenthetical": "lead opinion"
+        }
+      ],
+      "opinion_index": 1
+    },
+    {
+      "cite": "176 Wn.2d 58",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        4306367
+      ],
+      "year": 2012,
+      "pin_cites": [
+        {
+          "page": "73",
+          "parenthetical": "lead opinion"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/wash-2d/176/0058-01"
+      ]
+    },
+    {
+      "cite": "425 P.2d 658",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1967,
+      "opinion_index": 2
+    }
+  ],
+  "analysis": {
+    "cardinality": 1655,
+    "char_count": 43445,
+    "ocr_confidence": 0.743,
+    "pagerank": {
+      "raw": 4.392552054677732e-08,
+      "percentile": 0.27567591778516815
+    },
+    "sha256": "2807ca1d76d9666255a6cd145a9e6a4d7e9b2bbfb8778e9b67c6a927b99ba29d",
+    "simhash": "1:9ce60621726b2cc4",
+    "word_count": 6900
+  },
+  "last_updated": "2024-02-27T17:34:40.830885+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "file_name": "0168-01",
+  "first_page_order": 204,
+  "last_page_order": 226
+}

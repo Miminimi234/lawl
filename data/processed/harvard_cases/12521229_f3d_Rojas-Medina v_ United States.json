@@ -1,0 +1,682 @@
+{
+  "id": 12521229,
+  "name": "Toribio ROJAS-MEDINA, Petitioner, Appellant, v. UNITED STATES of America, Respondent, Appellee.",
+  "name_abbreviation": "Rojas-Medina v. United States",
+  "decision_date": "2019-05-16",
+  "docket_number": "No. 18-1150",
+  "first_page": "9",
+  "last_page": "19",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "924 F.3d 9"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "1st Cir.",
+    "id": 8809,
+    "name": "United States Court of Appeals for the First Circuit"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "895 F.2d 1",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        10526539
+      ],
+      "year": 1990,
+      "pin_cites": [
+        {
+          "page": "17"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/895/0001-01"
+      ]
+    },
+    {
+      "cite": "18 U.S.C. \u00a7 3553",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "pin_cites": [
+        {
+          "page": "(a)"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "846 F.3d 487",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        12128358
+      ],
+      "year": 2017,
+      "pin_cites": [
+        {
+          "page": "489-90"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/846/0487-01"
+      ]
+    },
+    {
+      "cite": "232 F.3d 24",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        11151146
+      ],
+      "year": 2000,
+      "pin_cites": [
+        {
+          "page": "31-32"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/232/0024-01"
+      ]
+    },
+    {
+      "cite": "179 F.3d 604",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        844387
+      ],
+      "year": 1999,
+      "pin_cites": [
+        {
+          "page": "607"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/179/0604-01"
+      ]
+    },
+    {
+      "cite": "750 F.3d 19",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        4066389
+      ],
+      "year": 2014,
+      "pin_cites": [
+        {
+          "page": "23"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/750/0019-01"
+      ]
+    },
+    {
+      "cite": "689 F.3d 94",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        3501366
+      ],
+      "year": 2012,
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/689/0094-01"
+      ]
+    },
+    {
+      "cite": "180 F.3d 648",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        11664873
+      ],
+      "year": 1999,
+      "pin_cites": [
+        {
+          "page": "652"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/180/0648-01"
+      ]
+    },
+    {
+      "cite": "290 F. Supp. 3d 145",
+      "category": "reporters:federal",
+      "reporter": "F. Supp. 3d",
+      "case_ids": [
+        12523363
+      ],
+      "year": 2018,
+      "pin_cites": [
+        {
+          "page": "156-57"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f-supp-3d/290/0145-01"
+      ]
+    },
+    {
+      "cite": "741 F.3d 288",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        3898987
+      ],
+      "year": 2014,
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/741/0288-01"
+      ]
+    },
+    {
+      "cite": "453 F. App'x 887",
+      "category": "reporters:federal",
+      "reporter": "F. App'x",
+      "case_ids": [
+        4206114
+      ],
+      "year": 2011,
+      "pin_cites": [
+        {
+          "page": "889",
+          "parenthetical": "per curiam"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f-appx/453/0887-01"
+      ]
+    },
+    {
+      "cite": "430 F.3d 696",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        1594136
+      ],
+      "weight": 3,
+      "year": 2005,
+      "pin_cites": [
+        {
+          "page": "702, 712"
+        },
+        {
+          "page": "712",
+          "parenthetical": "noting that petitioner's \"tenacity in pursuing habeas relief ... bolsters th[e] conclusion\" that he would have appealed"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/430/0696-01"
+      ]
+    },
+    {
+      "cite": "617 F.3d 307",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        3772678
+      ],
+      "weight": 2,
+      "year": 2010,
+      "pin_cites": [
+        {
+          "page": "313"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/617/0307-01"
+      ]
+    },
+    {
+      "cite": "268 F. App'x 615",
+      "category": "reporters:federal",
+      "reporter": "F. App'x",
+      "case_ids": [
+        3562791
+      ],
+      "year": 2008,
+      "pin_cites": [
+        {
+          "page": "620"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f-appx/268/0615-01"
+      ]
+    },
+    {
+      "cite": "722 F.3d 320",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        4063032
+      ],
+      "weight": 3,
+      "year": 2013,
+      "pin_cites": [
+        {
+          "page": "325"
+        },
+        {
+          "page": "325",
+          "parenthetical": "emphasis in original"
+        },
+        {
+          "page": "325"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/722/0320-01"
+      ]
+    },
+    {
+      "cite": "257 F.3d 14",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        11082752
+      ],
+      "weight": 2,
+      "year": 2001,
+      "pin_cites": [
+        {
+          "page": "24-26",
+          "parenthetical": "explaining that appeal waiver does not apply when waiver's scope was not clearly delineated, when plea was not knowing and voluntary, or when enforcing waiver \"would work a miscarriage of justice\""
+        },
+        {
+          "page": "24-26",
+          "parenthetical": "cataloguing exceptions to appeal waiver's preclusive effect"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/257/0014-01"
+      ]
+    },
+    {
+      "cite": "536 F.3d 231",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        5762604
+      ],
+      "year": 2008,
+      "pin_cites": [
+        {
+          "page": "241",
+          "parenthetical": "same"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/536/0231-01"
+      ]
+    },
+    {
+      "cite": "546 F.3d 450",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        3895277
+      ],
+      "year": 2008,
+      "pin_cites": [
+        {
+          "page": "455",
+          "parenthetical": "holding Flores-Ortega inapplicable because defendant had signed appeal waiver"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/546/0450-01"
+      ]
+    },
+    {
+      "cite": "409 F.3d 1193",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        8960325
+      ],
+      "year": 2005,
+      "pin_cites": [
+        {
+          "page": "1198",
+          "parenthetical": "same"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/409/1193-01"
+      ]
+    },
+    {
+      "cite": "433 F.3d 788",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        881114
+      ],
+      "year": 2005,
+      "pin_cites": [
+        {
+          "page": "794",
+          "parenthetical": "same"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/433/0788-01"
+      ]
+    },
+    {
+      "cite": "442 F.3d 770",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        1063884
+      ],
+      "year": 2006,
+      "pin_cites": [
+        {
+          "page": "776-77",
+          "parenthetical": "same"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/442/0770-01"
+      ]
+    },
+    {
+      "cite": "793 F.3d 920",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        4278176
+      ],
+      "year": 2015,
+      "pin_cites": [
+        {
+          "page": "923",
+          "parenthetical": "holding Flores-Ortega applicable notwithstanding signed appeal waiver"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/793/0920-01"
+      ]
+    },
+    {
+      "cite": "594 F.3d 39",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        3523263
+      ],
+      "year": 2010,
+      "pin_cites": [
+        {
+          "page": "45",
+          "parenthetical": "citing Strickland, 466 U.S. at 687, 104 S.Ct. 2052 "
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/594/0039-01"
+      ]
+    },
+    {
+      "cite": "397 U.S. 759",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        12058501
+      ],
+      "weight": 3,
+      "year": 1970,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/397/0759-01"
+      ]
+    },
+    {
+      "cite": "466 U.S. 668",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6204802
+      ],
+      "weight": 5,
+      "year": 1984,
+      "pin_cites": [
+        {
+          "page": "686",
+          "parenthetical": "quoting McMann v. Richardson, 397 U.S. 759, 771 n.14, 90 S.Ct. 1441, 25 L.Ed.2d 763 (1970) "
+        },
+        {
+          "parenthetical": "quoting McMann v. Richardson, 397 U.S. 759, 771 n.14, 90 S.Ct. 1441, 25 L.Ed.2d 763 (1970) "
+        },
+        {
+          "parenthetical": "quoting McMann v. Richardson, 397 U.S. 759, 771 n.14, 90 S.Ct. 1441, 25 L.Ed.2d 763 (1970) "
+        },
+        {
+          "page": "687"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/466/0668-01"
+      ]
+    },
+    {
+      "cite": "861 F.3d 1",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        12276091
+      ],
+      "year": 2017,
+      "pin_cites": [
+        {
+          "page": "5"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/861/0001-01"
+      ]
+    },
+    {
+      "cite": "817 F.3d 816",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        6812365
+      ],
+      "weight": 2,
+      "year": 2016,
+      "pin_cites": [
+        {
+          "page": "820"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/817/0816-01"
+      ]
+    },
+    {
+      "cite": "28 U.S.C. \u00a7 2253",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "pin_cites": [
+        {
+          "page": "(c)"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "28 U.S.C. \u00a7 636",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "pin_cites": [
+        {
+          "page": "(b)(1)(B)"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "28 U.S.C. \u00a7 2255",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "18 U.S.C. \u00a7 2237",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "pin_cites": [
+        {
+          "page": "(a)(1)"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "8 U.S.C. \u00a7\u00a7 1324",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "pin_cites": [
+        {
+          "page": "(a)(1)(A)(i)"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "139 S. Ct. 738",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        12623937
+      ],
+      "weight": 5,
+      "year": 2019,
+      "pin_cites": [
+        {
+          "page": "749"
+        },
+        {
+          "page": "745"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/s-ct/139/0738-01"
+      ]
+    },
+    {
+      "cite": "528 U.S. 470",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        9476451
+      ],
+      "weight": 32,
+      "year": 2000,
+      "pin_cites": [
+        {
+          "page": "480"
+        },
+        {
+          "page": "483"
+        },
+        {
+          "page": "483"
+        },
+        {
+          "page": "477"
+        },
+        {
+          "page": "480"
+        },
+        {
+          "page": "478"
+        },
+        {
+          "page": "483"
+        },
+        {
+          "page": "484"
+        },
+        {
+          "page": "474"
+        },
+        {
+          "page": "477"
+        },
+        {
+          "page": "480"
+        },
+        {
+          "page": "478"
+        },
+        {
+          "page": "484"
+        },
+        {
+          "page": "472"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/528/0470-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 1138,
+    "char_count": 26515,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.25932052409233125
+    },
+    "sha256": "8a3ea8abd6bb2f25046e0246bbfbd2a3522e052c62a7a464eb99610aca05c6f3",
+    "simhash": "1:bb424d716a229359",
+    "word_count": 4224
+  },
+  "last_updated": "2024-02-27T18:46:58.656971+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "file_name": "0009-01",
+  "first_page_order": 9,
+  "last_page_order": 19
+}

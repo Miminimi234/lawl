@@ -1,0 +1,740 @@
+{
+  "id": 12275335,
+  "name": "SGK PROPERTIES, L.L.C.; Gary P. Katz, Plaintiffs-Appellants v. U.S. BANK NATIONAL ASSOCIATION, as Trustee FOR LEHMAN BROTHERS SMALL BALANCE COMMERCIAL MORTGAGE PASS-THROUGH CERTIFICATES, SERIES 2007-3, Defendant-Counter Plaintiff-Appellee. Ocwen Loan Servicing, L.L.C., Defendant-Appellee v. Steven Weinreb, Counter Defendant-Appellant. SGK Properties, L.L.C.; Gary Katz, Plaintiffs-Appellants v. Ocwen Loan Servicing, L.L.C.; U.S. Bank National Association, Defendants-Appellees",
+  "name_abbreviation": "SGK Properties, L.L.C. v. U.S. Bank National Ass'n",
+  "decision_date": "2018-02-09",
+  "docket_number": "No. 17-20130",
+  "first_page": "933",
+  "last_page": "945",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "881 F.3d 933"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "5th Cir.",
+    "id": 8820,
+    "name": "United States Court of Appeals for the Fifth Circuit"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "136 S.Ct. 1012",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        12594853
+      ],
+      "weight": 5,
+      "year": 2016,
+      "pin_cites": [
+        {
+          "page": "1015-17"
+        },
+        {
+          "page": "1015"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/s-ct/136/1012-01"
+      ]
+    },
+    {
+      "cite": "376 F.3d 420",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        9374463
+      ],
+      "year": 2004,
+      "pin_cites": [
+        {
+          "page": "426"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/376/0420-01"
+      ]
+    },
+    {
+      "cite": "751 F.3d 368",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        4068825
+      ],
+      "year": 2014,
+      "pin_cites": [
+        {
+          "page": "378",
+          "parenthetical": "quoting Mayeaux v. La. Health Serv. & Indem. Co., 376 F.3d 420, 426 (5th Cir. 2004)"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/751/0368-01"
+      ]
+    },
+    {
+      "cite": "830 F.2d 68",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1763363
+      ],
+      "year": 1987,
+      "pin_cites": [
+        {
+          "page": "69"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/830/0068-01"
+      ]
+    },
+    {
+      "cite": "117 F.3d 242",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        11961553
+      ],
+      "year": 1997,
+      "pin_cites": [
+        {
+          "page": "245-46",
+          "parenthetical": "quoting Marks v. Shell Oil Co,, 830 F.2d 68, 69 (6th Cir. 1987)"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/117/0242-01"
+      ]
+    },
+    {
+      "cite": "234 F.3d 863",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        11150599
+      ],
+      "weight": 2,
+      "year": 2000,
+      "pin_cites": [
+        {
+          "page": "872-73"
+        },
+        {
+          "page": "872-73"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/234/0863-01"
+      ]
+    },
+    {
+      "cite": "393 F.3d 590",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        9171523
+      ],
+      "weight": 2,
+      "year": 2004,
+      "pin_cites": [
+        {
+          "page": "595",
+          "parenthetical": "citation omitted"
+        },
+        {
+          "parenthetical": "citations omitted"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/393/0590-01"
+      ]
+    },
+    {
+      "cite": "134 F.3d 721",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        11587308
+      ],
+      "year": 1998,
+      "pin_cites": [
+        {
+          "page": "727-28"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/134/0721-01"
+      ]
+    },
+    {
+      "cite": "336 F.3d 375",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        1537747
+      ],
+      "year": 2003,
+      "pin_cites": [
+        {
+          "page": "379",
+          "parenthetical": "citing Hypes v. First Commerce Corp., 134 F.3d 721, 727-28 (5th Cir. 1998)"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/336/0375-01"
+      ]
+    },
+    {
+      "cite": "588 F.3d 864",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        3495087
+      ],
+      "year": 2009,
+      "pin_cites": [
+        {
+          "page": "877",
+          "parenthetical": "\"[A]rguments not raised before the district court are waived and cannot be raised for the first time on appeal.\""
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/588/0864-01"
+      ]
+    },
+    {
+      "cite": "341 S.W.3d 323",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.3d",
+      "case_ids": [
+        7319324
+      ],
+      "year": 2011,
+      "pin_cites": [
+        {
+          "page": "337"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/sw3d/341/0323-01"
+      ]
+    },
+    {
+      "cite": "2017 WL 6374694",
+      "category": "reporters:specialty_west",
+      "reporter": "WL",
+      "year": 2017,
+      "pin_cites": [
+        {
+          "page": "*13",
+          "parenthetical": "citing Italian-Cowboy Partners, Ltd. V. Prudential Ins. Co. of Am., 341 S.W.3d 323, 337 (Tex. 2011)"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "556 U.S. 662",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        3653744
+      ],
+      "weight": 6,
+      "year": 2009,
+      "pin_cites": [
+        {
+          "page": "678"
+        },
+        {
+          "parenthetical": "citation omitted"
+        },
+        {
+          "page": "678"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/556/0662-01"
+      ]
+    },
+    {
+      "cite": "498 F.3d 483",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        3629162
+      ],
+      "year": 2007,
+      "pin_cites": [
+        {
+          "page": "484"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/498/0483-01"
+      ]
+    },
+    {
+      "cite": "499 S.W.3d 534",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.3d",
+      "case_ids": [
+        12177918
+      ],
+      "year": 2016,
+      "pin_cites": [
+        {
+          "page": "541",
+          "parenthetical": "rejecting the argument that the assignee of an allegedly fraudulent deed of trust precludes the holder of the promissory note from foreclosing on the property"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/sw3d/499/0534-01"
+      ]
+    },
+    {
+      "cite": "469 Fed. Appx. 330",
+      "category": "reporters:federal",
+      "reporter": "Fed. Appx.",
+      "year": 2012,
+      "pin_cites": [
+        {
+          "page": "331-32",
+          "parenthetical": "\"It was sufficient for the Bank of New York to establish that it was in possession of the note; it was not required to show that the deed of trust had been assigned to it.\""
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "591 S.W.2d 292",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.2d",
+      "case_ids": [
+        9934577
+      ],
+      "year": 1979,
+      "pin_cites": [
+        {
+          "page": "294"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/sw2d/591/0292-01"
+      ]
+    },
+    {
+      "cite": "2016 WL 914975",
+      "category": "reporters:specialty_west",
+      "reporter": "WL",
+      "year": 2016,
+      "pin_cites": [
+        {
+          "page": "*3"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "311 S.W.3d 28",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.3d",
+      "case_ids": [
+        7322402
+      ],
+      "year": 2010,
+      "pin_cites": [
+        {
+          "page": "44"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/sw3d/311/0028-01"
+      ]
+    },
+    {
+      "cite": "803 S.W.2d 774",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.2d",
+      "case_ids": [
+        9990810
+      ],
+      "year": 1991,
+      "pin_cites": [
+        {
+          "page": "776"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/sw2d/803/0774-01"
+      ]
+    },
+    {
+      "cite": "Tex. Bus. & Com. Code Ann. \u00a7 3.201",
+      "category": "laws:leg_statute",
+      "reporter": "Tex. Code Ann.",
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "(b)"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "175 S.W.3d 301",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.3d",
+      "case_ids": [
+        8899419
+      ],
+      "weight": 2,
+      "year": 2004,
+      "pin_cites": [
+        {
+          "page": "309",
+          "parenthetical": "citing Tex. Bus. & Com. Code Ann. \u00a7 3.201 cmt. 1 (2002)"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/sw3d/175/0301-01"
+      ]
+    },
+    {
+      "cite": "Tex. Bus. & Com. Code Ann. \u00a7 1.201",
+      "category": "laws:leg_statute",
+      "reporter": "Tex. Code Ann.",
+      "year": 2015,
+      "pin_cites": [
+        {
+          "page": "(b)(21)(A)"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "2012 WL 1839357",
+      "category": "reporters:specialty_west",
+      "reporter": "WL",
+      "pin_cites": [
+        {
+          "page": "*4"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "Tex. Bus. & Com. Code Ann. \u00a7 9.203",
+      "category": "laws:leg_statute",
+      "reporter": "Tex. Code Ann.",
+      "year": 2005,
+      "pin_cites": [
+        {
+          "page": "(g)",
+          "parenthetical": "\"The attachment of a security interest in a right to payment or performance secured by a security interest or other lien on personal or real property is also attachment of a security interest in the security interest, mortgage, or other hen.\""
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "Tex. Prop. Code Ann. \u00a7\u00a7 51.002",
+      "category": "laws:leg_statute",
+      "reporter": "Tex. Code Ann.",
+      "weight": 3,
+      "opinion_index": 0
+    },
+    {
+      "cite": "355 S.W.3d 187",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.3d",
+      "case_ids": [
+        7316291
+      ],
+      "year": 2011,
+      "pin_cites": [
+        {
+          "page": "191"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/sw3d/355/0187-01"
+      ]
+    },
+    {
+      "cite": "377 S.W.3d 79",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.3d",
+      "case_ids": [
+        7116744
+      ],
+      "year": 2012,
+      "pin_cites": [
+        {
+          "page": "84",
+          "parenthetical": "citing Wells Fargo Bank, N.A. v. Ballestas, 355 S.W.3d 187, 191 (Tex. App. 2011)"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/sw3d/377/0079-01"
+      ]
+    },
+    {
+      "cite": "723 F.3d 586",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        4064673
+      ],
+      "year": 2013,
+      "pin_cites": [
+        {
+          "page": "591"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/723/0586-01"
+      ]
+    },
+    {
+      "cite": "674 Fed.Appx. 330",
+      "category": "reporters:federal",
+      "reporter": "Fed. Appx.",
+      "year": 2016,
+      "pin_cites": [
+        {
+          "parenthetical": "per curiam"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "494 U.S. 185",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        5551
+      ],
+      "weight": 3,
+      "year": 1990,
+      "pin_cites": [
+        {
+          "page": "195-96"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/494/0185-01"
+      ]
+    },
+    {
+      "cite": "446 U.S. 458",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6184166
+      ],
+      "weight": 7,
+      "year": 1980,
+      "pin_cites": [
+        {
+          "page": "461"
+        },
+        {
+          "page": "462"
+        },
+        {
+          "page": "464"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/446/0458-01"
+      ]
+    },
+    {
+      "cite": "376 F.3d 344",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        9374217
+      ],
+      "weight": 2,
+      "year": 2004,
+      "pin_cites": [
+        {
+          "page": "353",
+          "parenthetical": "per curiam"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/376/0344-01"
+      ]
+    },
+    {
+      "cite": "851 F.3d 530",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        12277437
+      ],
+      "year": 2017,
+      "pin_cites": [
+        {
+          "page": "536",
+          "parenthetical": "alteration in original"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/851/0530-01"
+      ]
+    },
+    {
+      "cite": "866 F.3d 351",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        12275474
+      ],
+      "weight": 4,
+      "year": 2017,
+      "pin_cites": [
+        {
+          "page": "355"
+        },
+        {
+          "page": "366"
+        },
+        {
+          "page": "356"
+        },
+        {
+          "page": "357"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/866/0351-01"
+      ]
+    },
+    {
+      "cite": "28 U.S.C. \u00a7 1332",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "pin_cites": [
+        {
+          "page": "(a)"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "771 F.3d 883",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        4290662
+      ],
+      "year": 2014,
+      "pin_cites": [
+        {
+          "page": "887"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/771/0883-01"
+      ]
+    },
+    {
+      "cite": "818 F.3d 193",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        4251041
+      ],
+      "year": 2016,
+      "pin_cites": [
+        {
+          "page": "199",
+          "parenthetical": "citing Scarlott v. Nissan N. Am., Inc., 771 F.3d 883, 887 (5th Cir. 2014)"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/818/0193-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 1261,
+    "char_count": 31524,
+    "ocr_confidence": 0.583,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.24882956496691505
+    },
+    "sha256": "f311a4c924c261012c69ee11826ce55d6da5a30e28e3782cb813c7e1bbb57dec",
+    "simhash": "1:298c01a3c2fb1de8",
+    "word_count": 5118
+  },
+  "last_updated": "2024-02-27T17:59:44.301675+00:00",
+  "provenance": {
+    "date_added": "2018-10-23",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before STEWART, Chief Judge, and CLEMENT and SOUTHWICK, Circuit Judges."
+    ],
+    "parties": [
+      "SGK PROPERTIES, L.L.C.; Gary P. Katz, Plaintiffs-Appellants v. U.S. BANK NATIONAL ASSOCIATION, as Trustee FOR LEHMAN BROTHERS SMALL BALANCE COMMERCIAL MORTGAGE PASS-THROUGH CERTIFICATES, SERIES 2007-3, Defendant-Counter Plaintiff-Appellee Ocwen Loan Servicing, L.L.C., Defendant-Appellee v. Steven Weinreb, Counter Defendant-Appellant SGK Properties, L.L.C.; Gary Katz, Plaintiffs-Appellants v. Ocwen Loan Servicing, L.L.C.; U.S. Bank National Association, Defendants-Appellees"
+    ],
+    "opinions": [
+      {
+        "text": "CARL E. STEWART, Chief Judge:\nSGK Properties, LLC (\u201cSGK\u201d), Gary Katz (\u201cKatz\u201d), and Steven Weinreb (\u201cWeinreb\u201d) (collectively \u201cAppellants\u201d) appeal the district court\u2019s dismissal of their respective claims against U.S. Bank National Association, as Trustee for Lehman Brothers Small Balance Commercial Mortgage Pass-Through Certificates, Series 2007-3 (\u201cU.S. Bank\u201d) and Oewen Loan Servicing, L.L.C. (\u201cOewen\u201d) (collectively \u201cAp-pellees\u201d). Weinreb also appeals the district court\u2019s denial of his motion to dismiss U.S. Bank for lack of standing, and SGK and Katz appeal several of the district court\u2019s other rulings, including its orders denying their motion to remand and motion to amend their complaint, as well as its order striking causes of action asserted in a responsive pleading. For the following reasons, we affirm.\nI. Factual Background and Procedural History\nOn April 18, 2007, SGK received a loan from Greenpoint Mortgage Funding, Inc. (\u201cGreenpoint\u201d) for the purchase of commercial real estate in the amount of $1,725,000, which was secured by a lien on the property. The transaction and resulting obligation was memorialized by two documents. First, SGK executed a promissory note (\u201cthe Note\u201d) in the principal amount of the loan, with an interest rate of 7.5% per annum. Katz and Weinreb, who were SGK\u2019s sole members at the time, personally guaranteed repayment of the loan. SGK also executed a Deed of Trust, by which SGK conveyed the property to Greenpoint as consideration for and to secure payment of the Note.\nU.S. Bank came to possess the Note and Deed of Trust through a series of assignments of endorsements. Specifically, on April 26, 2007, Greenpoint allegedly assigned the Deed to \u201cAurora Bank, FSB f/k/a Lehman Brothers Bank, FSB,\u201d which thereafter assigned the Deed to \u201cU.S. Bank National Association, as Trustee for Lehman Brothers Small Balance Commercial Mortgage Pass-Through Certificates, Series 2007-3,\u201d with an effective date of November 19, 2007. Likewise, on a date unknown, Greenpoint endorsed the Note to \u201cAurora Bank, FSB f/k/a Lehman Brothers Bank, FSB,\u201d and Aurora endorsed the Note to U.S. Bank on April 18, 2007.\nSGK raised concerns about the identity and existence of the true holder and owner of the Note and Deed and ceased making payments on the Note around October 2010. Specifically, SGK and Katz became skeptical of the endorsements and assignments in favor of Aurora and U.S. Bank, primarily because, at the time the purported endorsements and assignments were made to and from Aurora, Aurora did not > exist as-an entity. After several delinquency notices, U.S. Bank authorized Ocwen, as its loan servicer, to administer a. non-judi-. cial foreclosure sale of the property, which was scheduled for December 2013. SGK and Katz made several attempts to cancel .the foreclosure but to no avail. SGK and Katz then sought and received a temporary restraining order in Texas state court on the grounds that the foreclosure was wrongful.\nOn January 9, 2014, U.S. Bank and Ocwen removed the case to federal court. SGK and Katz filed their First Amended Complaint, which included claims for trespass to try title, quiet title, breach of contract, tortious interference with an existing contract, violations of the Texas Deceptive Trade Practices Act, violations of the Texas Debt. Collection Act, and statutory fraud. The. factual allegations in their complaint essentially challenged U.S. Bank\u2019s status as a valid holder of the Note and its incidental right to foreclose on the property in light of SGK and Katz\u2019s concerns about the validity of the assignments of the Deed. The complaint also questioned the district court\u2019s jurisdiction over the case, alleging that U.S. Bank, which SGK'and Katz asserted was an unincorporated association,' failed to demonstrate complete diversity of citizenship between the plaintiffs and U.S. Bank\u2019s members- and shareholders.- The district court sua sponte dismissed SGK and Katz\u2019s jurisdictional challenge. SGK and Katz thereafter filed a motion to remand for lack of diversity jurisdiction, offering the same arguments about U.S. Bank\u2019s status as an unincorporated association. Appellees did not respond to SGK and Katz\u2019s motion to remand, and the district court, denied it,, holding that U.S, Bank was a trustee and its citizenship in Ohio was determinative, which created complete diversity. U.S. Bank thereafter sought sumnlary judgment on all of SGK and Katz\u2019s claims. The district court granted summary judgment against Katz after he failed to respond within the time period set by the court, but denied summary judgment against SGK because it was. involved in bankruptcy proceedings. U.S. Bank then foreclosed on the'property and--sold it for $2.5 million. Because there was a deficiency balance, U.S. Bank filed a counterclaim against Katz, SGK and Weinreb to recover the difference.\nSGK and Katz answered U.S. Bank\u2019s counterclaim and asserted three additional causes of. action related to U.S. Bank\u2019s authority to enforce the Note and foreclose on the property. U.S. Bank moved to strike these additional claims, which the court granted that same day without allowing Katz or SGK an opportunity to respond. The parties then filed several pleadings, including: (1) a motion for leave to amend their complaint to re-assert the stricken claims by SGK and Katz, (2) a motion to dismiss for lack of standing by Weinreb, (3) a counterclaim against U.S. Bank for fraudulent misrepresentation and breach of duty by Weinreb, to which U.S. Bank responded with a motion to dismiss under Federal- Rule of Civil Procedure 12(b)(6); and (4) a motion for summary judgment by U.S. Bank on its counterclaim against Appellants. At a hearing, the court orally denied Katz and SGK\u2019s motion to amend, denied Weinreb\u2019s motion to dismiss, and granted U.S. Bank\u2019s motions to dismiss and for summary judgment. The district court rendered final judgment in favor of U.S. Bank in the amount of $374,548.34 for.the deficiency, as well as attorneys\u2019 fees and costs.\nII. Discussion\nOn appeal-, SGK, Katz and Weinreb challenge all of the district court\u2019s adverse rulings and the final judgment. Specifically, Appellants raise the following issues: (1) whether the district court erred in denying SGK and Katz\u2019s motion to remand; (2) whether the district court erred in granting U.S. Bank\u2019s motion for summary judgment for its counterclaim; (3) whether the district court erred by holding that U.S. Bank had standing to pursue Weinreb to recover the deficiency judgment; (4) whether the district court erred in denying Weinreb\u2019s fraudulent misrepresentation and breach of duty claims; (5) whether the district court abused its discretion in granting U.S. Bank\u2019s motion to strike SGK and Katz\u2019s additional causes of action; and (6) whether the district court erred in denying SGK and Katz leave to amend their complaint. We discuss each issue in turn.\nA SGK and Katz\u2019s Motion to Remand\nSGK and Katz argue that the district court erred by denying their motion to remand because U.S. Bank never established complete diversity of citizenship. We review denial of a motion to remand de novo, Int\u2019l Energy Ventures Mgmt., L.L.C. v. United Energy Grp., Ltd., 818 F.3d 193, 199 (5th Cir. 2016) (citing Scarlott v. Nissan N. Am., Inc., 771 F.3d 883, 887 (5th Cir. 2014)). \u201cUnder 28 U.S.C. \u00a7 1332(a), diversity jurisdiction exists where there is complete diversity of citizenship among the parties and the amount in controversy exceeds $75,000.\u201d Bynane v. Bank of New York Mellon for CWMBS, Inc. Asset-Backed Certificates Series 2006-21, 866 F.3d 351, 355 (5th Cir. 2017). \u201c[Complete diversity requires that \u2019 all persons on one side of the controversy be citizens of different states than all persons on the'other side.\u201d Settlement Funding, L.L.C. v. Rapid Settlements, Ltd., 851 F.3d 530, 536 (5th Cir. 2017) (alteration in original) (quoting McLaughlin v. Miss. Power Co., 376 F.3d 344, 353 (5th Cir. 2004) (per curiam)). The party seeking the federal forum, here U.S. Bank, has the burden of establishing diversity jurisdiction. Id.\nSGK and Katz specifically challenge the district court\u2019s citizenship finding with respect to U.S. Bank. The district ' court \u25a0 found that there was complete diversity of citizenship, holding in relevant part that \u201cU.S. Bank need hot disclose the citizenship of the beneficiaries of the trust\u201d because \u201c[a]s trustee, its citizenship is determinative.\u201d They contend that the district court erred by considering only the citizenship of U.S. Bank as the trustee. Instead, they argue, the district court should have considered the citizenship of each of the trust\u2019s shareholders and members. In so arguing, SGK and Katz aver that U.S. Bank is .only a nominal or formal , party present .in the lawsuit on behalf .of the trust.\nIt is true that \u201c[i]n determining diversity jurisdiction, a federal court must disregard nominal or formal parties and rest jurisdiction only upon the citizenship of the real parties to the controversy.\u201d Bynane, 866 F.3d at 366 (quoting Navarro Sav. Ass'n v. Lee, 446 U.S. 458, 461, 100 S.Ct. 1779, 64 L.Ed.2d 425 (1980)) (internal quotation marks omitted). In Navarro, the Supreme Court addressed whether the trustees or the trust\u2019s beneficial shareholders are the real parties to a controversy when the trustees are named as the parties to the lawsuit. Navarro, 446 U.S. at 462, 100 S.Ct. 1779. The Court held that when a trustee is named as a defendant in a lawsuit, \u201c[the] trustee is a real party to the controversy for purposes of diversity jurisdiction when he possesses certain customary powers to hold, manage, and dispose of assets for the benefit of others.\u201d Id. at 464, 100 S.Ct. 1779. Because U.S. Bank was named as a defendant in this lawsuit, its citizenship is determinative for purposes of diversity jurisdiction if its control over the trust\u2019s assets is real and substantial. See Bynane, 866 F.3d at 356.\nSGK and Katz argue that the facts of this case require us to apply the Supreme Court\u2019s recent decision in Americold Realty Trust v. Conagra Foods, Inc., \u2014 U.S. -, 136 S.Ct. 1012, 194 L.Ed.2d 71 (2016). In Americold, the Supreme Court considered whose citizenship\u2014the trustee\u2019s or the trust\u2019s shareholders\u2019\u2014matters in determining diversity jurisdiction for a real estate investment trust organized under Maryland law. Americold, 136 S.Ct. at 1015-17. The Supreme Court treated the trust as a non-corporate artificial entity and applied the \u201coft-repeated rule that diversity jurisdiction in a suit by or against the entity depends on the citizenship of all [its] members.\u201d Id. at 1015. On this basis, the Supreme Court held that the real estate investment trust\u2019s shareholders\u2019 citi-zenships must be considered. See id. (quoting Carden v. Arkoma Assocs., 494 U.S. 185, 195-96, 110 S.Ct. 1015, 108 L.Ed.2d 157 (1990)) (alteration in original) (quotation marks omitted). Significantly, because the real estate investment trust was sued in its own name, the Supreme Court declined to apply the rule from Navarro that a federal court looks only at the trustee\u2019s citizenship. Id. at 1017. Because SGK and Katz sued the U.S. Bank in its capacity as trustee, their reliance on Americold is unavailing. Further, this court has previously held that the Navarro rule still controls when the trustee is a national banking association. See Bynane, 866 F.3d at 357 (discussing Justice v. Wells Fargo Bank Nat\u2019l Ass\u2019n, 674 Fed.Appx. 330 (5th Cir. 2016) (per curiam) (unpublished)).\nAgain, here, because U.S. Bank was sued in its capacity as trustee, Navarro controls, leaving us to determine only whether U.S. Bank possesses the sort of \u201creal and substantial\u201d control over the trust\u2019s assets to make it more than just a nominal party. We hold that it does. U.S. Bank, as assignee of the trust\u2019s assets\u2014 including the Note and Deed of Trust\u2014is the holder of the Note and all rights due under it, and consequently has the right to enforce the Note and defend itself in this lawsuit. We therefore hold that there is complete diversity of citizenship among the parties and affirm the district court\u2019s denial of SGK and Katz\u2019s motion to remand.\nB. Motion for Summary Judgment\nSGK and Katz also challenge the district court\u2019s summary judgment dismissal of their claims. In its summary judgment motion, U.S. Bank argued that because it is the legal holder of the Note, all of SGK and Katz\u2019s claims\u2014which were premised on allegations challenging the validity of the endorsements and assignments of the Note and Deed of Trust, respectively\u2014should be dismissed. In support of their motion, Appellees submitted a certified copy of the original Note and an affidavit attesting to its authenticity. SGK and Katz maintain on appeal that Appel-lees were required to establish an unbroken chain of title for both the Note and Deed of Trust, and that because Appellees did not\u2014and could not\u2014offer proof to dispel with the mystery surrounding Aurora\u2019s existence at the time of the- transfers, genuine issues of material fact remain and summary judgment dismissal was in appropriate.\n\u201cWe review a grant of summary judgment de novo, applying the same standard as the district court.\u201d Haverda v. Hays Cty., 723 F.3d 586, 591 (5th Cir. 2013). Summary judgment is proper \u201cif the movant shows that there is no genuine dispute as to any material fact and the movant is entitled to judgment as a matter of law.\u201d Fed. R. Civ. P. 56(a).\nFor U.S. Bank to recover on the Note, Texas law requires that it establish the following: (1) the note exists; (2) the obligor signed the note; (3) the obligee is entitled to enforce the note; and (4) a certain balance is due and owing under the note. Martin v. New Century Mortg. Co., 377 S.W.3d 79, 84 (Tex. App. 2012) (citing Wells Fargo Bank, N.A. v. Ballestas, 355 S.W.3d 187, 191 (Tex. App. 2011)). SGK and Katz challenge whether the third requirement is satisfied, that is, whether U.S. Bank was entitled to enforce the Note. Under the Texas Property Code, a party has standing to initiate a non-judicial foreclosure sale if the party is a mortgagee. See Tex. Prop. Code Ann. \u00a7\u00a7 51.002, 51.0025 (2017). A mortgagee includes, among others, the owner or holder of a security instrument, such as a deed of trust, or, \u201cif the security interest has been assigned of record, the last person to whom the security interest has been assigned of record.\u201d Id. \u00a7 51.0001(4), (6). Even if a party does not have a recorded interest in a security instrument, the party may still have standing to foreclose if the party' is the holder or owner of a note secured by the instrument. This rule derives from the common law maxim, now 'codified in Texas, that \u201cthe mortgage follows the note.\u201d See Tex. Bus. & Com. Code Ann. \u00a7 9.203(g) (2005) (\u201cThe attachment of a security interest in a right to payment or performance secured by a security interest or other lien on personal or real property is also attachment of a security interest in the security interest, mortgage, or other hen.\u201d); Campbell v. Mortg. Elec. Registration Sys., Inc., No. 03-11-00429-CV, 2012 WL 1839357, at *4 (Tex. App. May 18, 2012, pet. denied) (mem.op.).\nU.S. Bank maintains that it is a holder of the Note and is therefore legally entitled to enforce the mortgage. A holder is defined as \u201cthe person in possession of a negotiable instrument that is payable either to bearer or to an identified person that is the person in possession.\u201d Tex. Bus. & Com. Code Ann. \u00a7 1.201(b)(21)(A) (2015). In other words, \u201c[a] person can become the holder of an instrument when the instrument is issued to that person; or he can become a holder by negotiation.\u201d Leavings v. Mills, 175 S.W.3d 301, 309 (Tex. App. 2004) (citing Tex. Bus. & Com. Code Ann. \u00a7 3.201 cmt. 1 (2002)). For instruments made \u201cpayable to an identified person,\u201d that person becomes a \u201cholder- by negotiation\u201d through a \u201ctransfer of possession of the instrument and its indorsement by the holder.\u201d Tex. Bus. & Com. Code Ann. \u00a7 3.201(b) (2013). For the indorsement to be legally acceptable, it \u201cmust be written by or on behalf of the holder and on the instrument or on a paper so firmly affixed to it as to become part of it,\u201d such as a firmly affixed allonge. Leavings, 175 S.W.3d at 309 (citing Jernigan v. Bank One, Tex., N.A., 803 S.W.2d 774, 776 (Tex. App. 1991)).\nThe evidence submitted by U.S. Bank in support of its motion for summary judgment demonstrates that it is a legal holder of the Note under Texas law. Appended to the Note, of which U.S. Bank has possession, is an allonge that contains a special endorsement in favor of U.S. Bank. U.S. Bank is' therefore a holder of the Note.\nThis logic and conclusion treats as legally insignificant whether Aurora existed at the time of the transfers and therefore had legal capacity to either endorse the,Note or assign the Deed to U.S. Bank. Assuming without holdiri'g that any of the Deed assignments from Green-point to Aurora to U.S. Bank were forgeries under Texas law, see Tex Penal Code Ann. \u00a7 32.21(a)(1)(A) (defining \u201cforge\u201d as altering, making, completing, or executing any writing so that it purports to be the act of another who did not authorize that act), and acknowledging that a forgery makes a Deed assignment void, see, e.g., Garcia v. Garza, 311 S.W.3d 28, 44 (Tex. App. 2010), when the foreclosing party is the holder of the promissory note,' any defects in the Deed assignment ar\u00e9 irrelevant. See Antony v. United Midwest Sav. Bank, No. H-15-1062, 2016 WL 914975, at *3 (S.D. Tex. Mar. 10, 2016)-(\u201cEven if the assignment of the Deed of Trust from MERS to Flagstar was void, the record shows that Flagstar was the holder of the Note at foreclosure and had standing to foreclose on that basis.\u201d). That is, because Texas follows the common-law maxim that the mortgage follows the note, see Lawson v. Gibbs, 591 S.W.2d 292, 294 (Tex. App. 1979), U.S. Bank was, as holder, entitled to foreclose on the property as holder of the note even if the assignment of the Deed of Trust was void. See Kiggundu v. Mortg. Elec. Registration Sys. Inc., 469 Fed. Appx. 330, 331-32 (5th Cir. 2012) (\u201cIt was sufficient for the Bank of New York to establish that it was in possession of the note; it was not required to show that the deed of trust had been assigned to it.\u201d).\nThus, U.S. Bank was authorized to foreclose on the property when SGK defaulted on the loan, and Appellants\u2019 attacks on the validity of the transfers of the Note and Deed of Trust from Greenpoint to U.S. Bank are irrelevant. See, e.g., EverBank, N.A. v. Seedergy Ventures, Inc., 499 S.W.3d 534, 541 (Tex. App. 2016) (rejecting the argument that the assignee of an allegedly fraudulent deed of trust precludes the holder of the promissory note from foreclosing on the property). Because there remains no genuine dispute of material fact concerning U.S. Bank\u2019s authority to collect on the Note and enforce the Deed of Trust, we affirm the district court\u2019s grant of U.S. Bank\u2019s motion for summary judgment.\nC. Weinreb\u2019s Standing Challenge\nOn appeal, Weinreb argues that U.S. Bank lacked standing to recover any deficiency against him because it was not ' legally entitled to foreclose on the property to begin with. Weinreb\u2019s arguments mirror challenges asserted against U.S. Bank\u2019s attempts to initially foreclose on the property by SGK and Katz. That is, the crux of Weinreb\u2019s challenge concerns whether U.S. Bank is a valid holder and owner of the note. For the reasons supporting summary judgment dismissal of SGK and Katz\u2019s claims, we hold that the district court correctly concluded U.S. Bank is legally entitled .to pursue a deficiency judgment against Weinreb as guarantor. Specifically, U.S. Bank\u2019s status as the holder of the Note authorizes it to foreclose on the collateral listed in the Deed of Trust and to exercise other incidental rights, including to recoup any outstanding balance on the Note. See Tex. Prop. Code Ann. \u00a7\u00a7 51.002, 51.0025 (2017). We therefore affirm the district court\u2019s denial of Weinreb\u2019s standing challenge.\nD. Dismissal of Weinreb\u2019s Fraudulent Misrepresentation Claim\nNext, Weinreb challenges the district court\u2019s dismissal of his fraudulent misrepresentation claim. In response to U.S. Bank\u2019s third-party demand seeking a deficiency judgment, Weireb asserted, inter alia, that lawyers for U.S. Bank represented to him on a telephone call that they had found a buyer willing to purchase the foreclosed property for $2.8 million, which exceeded the outstanding loan balance. At the foreclosure sale, however, U.S. Bank sold the property for less than the stated amount, resulting in a deficiency that Weinreb was jointly and severally liable for as a guarantor. On this basis, Weinreb asserted a fraudulent misrepresentation claim against U.S. Bank, arguing that he ' relied on U.S. Bank\u2019s representations about a potential purchaser to his detriment. The district court dismissed Wein-reb\u2019s claim on U.S. Bank\u2019s Rule 12(b)(6) motion. On appeal, Weinreb argues that his counterclaim pleaded adequate facts that he relied on and acted upon U.S. Bank\u2019s representation that there would be no deficiency owed on the loan after the foreclosure sale.\nWe review de novo a district court\u2019s grant of a Rule 12(b)(6) motion, \u201caccepting all well-pleaded facts as true and viewing those facts in the light most favorable to the plaintiff.\u201d Stokes v. Gann, 498 F.3d 483, 484 (5th Cir. 2007). However, \u201c[t]hreadbare recitals of the elements of a cause of action, supported by mere conclu-sory statements, do not suffice.\u201d Ashcroft v. Iqbal, 556 U.S. 662, 678, 129 S.Ct. 1937, 173 L.Ed.2d 868 (2009). \u201cTo survive a motion to dismiss, a complaint must contain sufficient factual matter, accepted as true, to \u2018state a claim to relief that is plausible on its face.\u2019 \u201d Id. (citation omitted).\n\u201cA plaintiff asserting a claim for fraudulent misrepresentation must [allege] the following elements of the tort: (1) a material representation was made; (2) the representation was false; (3) when the representation was made, the speaker knew it was false or made it recklessly without any knowledge of the truth and as a positive assertion; (4) the speaker made the representation with the intent that the plaintiff act upon it; (5) the plaintiff acted in reliance on the representation; and (6) the plaintiff thereby suffered injury.\u201d Cent. Petroleum Ltd. v. Geoscience Resource Recovery, LLC, No. 14-16-00933-cv, \u2014 S.W.3d \u2014, -, 2017 WL 6374694, at *13 (Tex. App. Dec. 14, 2017) (citing Italian-Cowboy Partners, Ltd. V. Prudential Ins. Co. of Am., 341 S.W.3d 323, 337 (Tex. 2011)).\nWe note that throughout his brief, Wein-reb maintains that he adequately alleged a negligent misrepresentation claim, although his original counterclaim asserts that U.S. Bank\u2019s attorneys fraudulently misrepresented the status of a potential third-party purchaser of the property. To the extent Weinreb\u2019s briefing exclusively asserts the viability of a negligent misrepresentation claim based on U.S. Bank\u2019s alleged breach of the duty to disclose, we will not consider that assertion for the first time on appeal. See, e.g., Marico Ltd. P\u2019ship v. Wellons, Inc., 588 F.3d 864, 877 (5th Cir. 2009) (\u201c[A]rguments not raised before the district court are waived and cannot be raised for the first time on appeal.\u201d) (citation omitted). However, because the element disputed on appeal\u2014 whether Weinreb sustained any injury due to U.S. Bank\u2019s alleged misrepresentations\u2014is present in both negligent and fraudulent misrepresentation claims, we will discuss the viability of Weinreb\u2019s claim.\nWeinreb\u2019s counterclaim primarily contains conclusory allegations in support of his fraudulent misrepresentation claim, in-eluding that \u201cU.S. Bank intended that Weinreb should act upon these representations\u201d and \u201cWeinreb acted in reliance on these representations.\u201d Such conclusory statements are insufficient to withstand a Rule 12(b)(6) motion. Ashcroft, 556 U.S. at 678, 129 S.Ct. 1937. Weinreb\u2019s assertion that he suffered a loss because he did not attend the foreclosure sale or bid on the property does not satisfy the injury element. Weinreb did not allege that he initially intended to bid on the property before learning of a potential buyer and changed his position after speaking with U.S. Bank\u2019s representatives. Having failed to show that he was injured because of U.S. Bank\u2019s alleged representations, Wein-reb\u2019s fraudulent representation claim was properly dismissed.\nE. U.S. Bank\u2019s Motion to Strike and SGK and Katz\u2019s Motion for Leave to Amend\nWe finally turn to arguments related to SGK and Katz\u2019s attempts to assert new claims. In response to U.S. Bank\u2019s counterclaim seeking a deficiency judgment, SGK and Katz filed an answer and included three \u201cadditional claims\u201d against U.S. Bank and Ocwen. Specifically, SGK and Katz asserted claims alleging (1) that U.S. Bank lacked standing because the original assignment of the Deed of Trust was void ab initio, (2) that U.S. Bank fraudulently foreclosed on the property and was \u201cfraudulently attempting to collect a debt,\u201d and (3) that U.S. Bank committed common law fraud by misrepresenting to SGK and Katz that it had a buyer who would purchase the property for a price sufficient to satisfy the outstanding debt. Approximately two years later, U.S. Bank filed a motion to strike these claims from SGK and Katz\u2019s answer, which the district court granted without written reasons that same day. Notwithstanding, we hold that the district court properly struck SGK and Katz\u2019s claims. Federal Rule of Civil Procedure 15(a)(1) authorizes amendment of a pleading as of right within 21 days of serving it. Outside of that window, a party may amend a complaint with leave of court or the opposing party\u2019s consent. Fed. R. Civ. Pro. 15(a)(2). Although SGK and Katz asserted their additional claims in response to U.S. Bank\u2019s counterclaim, the claims effectively served as an attempt to amend their complaint. Because SGK and Katz did not follow the procedure set out in Rule 15 to amend their complaint, their additional claims were properly stricken on U.S. Bank\u2019s motion.\nAfter the district court struck the additional claims from their answer, SGK and Katz filed a motion to amend their complaint to add the stricken claims. The district court orally denied this motion without reasons. \u2018We review the district court\u2019s denial of leave to amend the complaint for abuse of discretion.\u201d United States ex rel. Willard v. Humana Health Plan of Tex. Inc., 336 F.3d 375, 379 (5th Cir. 2003) (citing Hypes v. First Commerce Corp., 134 F.3d 721, 727-28 (5th Cir. 1998)). Federal Rule of Civil Procedure 15(a)(2) states that the district \u201ccourt should freely give leave [to amend] when justice so requires.\u201d \u201c[T]he language of this rule \u2018evinces a bias in favor of granting leave to amend,\u2019 \u201d and \u201c[a] district court must possess a \u2018substantial reason\u2019 to deny a request.\u201d Smith v. EMC Corp., 393 F.3d 590, 595 (5th Cir. 2004) (citation omitted). A district court should \u201cexamine [] five considerations to determine whether to grant a party leave to amend a complaint: 1) undue delay, 2) bad faith or dilatory motive, 3) repeated failure to cure deficiencies by previous amendments, 4) undue prejudice to the opposing party, and 5) futility of the amendment.\u201d Id. (citations omitted). An amendment is considered futile if \u201cthe amended complaint would fail to state a claim upon which relief could be-granted.\u201d Stripling v. Jordan Prod. Co., 234 F.3d 863, 872-73 (5th Cir. 2000). Moreover, \u201c[g]iven the policy of liberality behind Rule 15(a), it is apparent that when a motion to amend is not even considered, much less not granted, an abuse of discretion has occurred.\u201d Lowrey v. Tex. A & M Univ. Sys., 117 F.3d 242, 245-46 (5th Cir. 1997) (quoting Marks v. Shell Oil Co,, 830 F.2d 68, 69 (6th Cir. 1987)).\nThe district court did not offer reasons for denying SGK and Katz\u2019s motion to amend their complaint. Notwithstanding our strong preference for explicit reasoning for denial of a motion to amend, \u201cwhen the justification for the denial. is \u2018readily apparent,\u2019 a failure to explain \u2018is unfortunate but not fatal to affirmance if the record reflects ample and obvious \u25a0 grounds for. denying leave to amend.\u2019 \u201d Marucci Sports, L.L.C. v. Nat\u2019l Collegiate Athletic Ass\u2019n, 751 F.3d 368, 378 (5th Cir. 2014) (quoting Mayeaux v. La. Health Serv. & Indem. Co., 376 F.3d 420, 426 (5th Cir. 2004)). We hold that, because SGK and Katz\u2019s amendment would have been futile, the district court properly denied their motion to amend. SGK and Katz\u2019s additional claims rested on the premise that U.S. Bank was not legally entitled to enforce the Deed of Trust because of alleged defects in the assignments, and that U.S. Bank\u2019s representative fraudulently represented that a potential buyer would purchase the property for a price that would leave no deficiency. For the same reasons we affirmed the summary judgment dismissal of SGK and Katz\u2019s original claims and the dismissal , of Weinreb\u2019s fraudulent misrepresentation claim, we hold that SGK and Katz\u2019s attempts to pursue these claims would have been futile, see Stripling, 234 F.3d at 872-73, and the district court did not abuse its discretion by disallowing the amendment.\nIII. Conclusion\nFor the foregoing reasons, we AFFIRM the district court\u2019s judgment.\n. On March 19, 2014, SGK filed a certificate with the district court evidencing the entity\u2019s name change from SG Properties, LLC to SGK Properties, LLC.\n. The assignment from Aurora to U.S. Bank was signed by Aurora's Vice President Jack Jacob on April 12, 2010, and was notarized on April 21, 2010, upon acknowledgement of the signature by Jacob, which is authorized under Texas law. See Tex. Civ. Prac. & Rem, Code Ann. \u00a7 121.004 (West 2011). Any argument about the discrepancy between the date the assignment was signed and the date same was notarized is unavailing.\n. SGK and Katz submitted a certification from the Office of the Comptroller of Currency indicating that on April 27, 2009, the date on which SGK and Katz assert Aurora's existence as a legal entity began, \"Lehman Brothers Bank, FSB\u201d changed its title to \"Aurora Bank FSB.\u201d\n. SGK\u2019s bankruptcy action was dismissed on March 28, 2014, after which U.S. Bank renewed its motion for summary judgment to dismiss SGK\u2019s claims. The district court granted U.S. Bank\u2019s motion,\n. It is undisputed that, at the time of removal, SGK and Katz were citizens of New Jersey, and that Ocwen was a citizen of the U.S. Virgin Islands.",
+        "type": "majority",
+        "author": "CARL E. STEWART, Chief Judge:"
+      }
+    ],
+    "attorneys": [
+      "Gary P. Katz, Katz Law Group, L.L.C., Houston, TX, for Plaintiffs-Appellants.",
+      "Erin E. Clark, McGuireWoods, L.L.P., Dallas, TX, Kari Lynn Robinson, Baker, Donelson, Bearman, Caldwell & Berkow-itz, P.C., Houston, TX, Brian David Schmalzbach, McGuireWoods, L.L.P., Richmond, VA, for Defendant-Counter Plaintiff-Appellee, Defendant-Appellee.",
+      "Gary Robin Maze, Maze IP Law, P.C., Houston, TX, for Counter Defendant-Appellant."
+    ],
+    "corrections": "",
+    "head_matter": "SGK PROPERTIES, L.L.C.; Gary P. Katz, Plaintiffs-Appellants v. U.S. BANK NATIONAL ASSOCIATION, as Trustee FOR LEHMAN BROTHERS SMALL BALANCE COMMERCIAL MORTGAGE PASS-THROUGH CERTIFICATES, SERIES 2007-3, Defendant-Counter Plaintiff-Appellee Ocwen Loan Servicing, L.L.C., Defendant-Appellee v. Steven Weinreb, Counter Defendant-Appellant SGK Properties, L.L.C.; Gary Katz, Plaintiffs-Appellants v. Ocwen Loan Servicing, L.L.C.; U.S. Bank National Association, Defendants-Appellees\nNo. 17-20130\nUnited States Court of Appeals, Fifth Circuit.\nFILED February 9, 2018\nGary P. Katz, Katz Law Group, L.L.C., Houston, TX, for Plaintiffs-Appellants.\nErin E. Clark, McGuireWoods, L.L.P., Dallas, TX, Kari Lynn Robinson, Baker, Donelson, Bearman, Caldwell & Berkow-itz, P.C., Houston, TX, Brian David Schmalzbach, McGuireWoods, L.L.P., Richmond, VA, for Defendant-Counter Plaintiff-Appellee, Defendant-Appellee.\nGary Robin Maze, Maze IP Law, P.C., Houston, TX, for Counter Defendant-Appellant.\nBefore STEWART, Chief Judge, and CLEMENT and SOUTHWICK, Circuit Judges."
+  },
+  "file_name": "0933-02",
+  "first_page_order": 971,
+  "last_page_order": 983
+}

@@ -1,0 +1,183 @@
+{
+  "id": 1967442,
+  "name": "PEOPLE v. JOHNSON",
+  "name_abbreviation": "People v. Johnson",
+  "decision_date": "1984-12-28",
+  "docket_number": "Docket No. 71296",
+  "first_page": "494",
+  "last_page": "501",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "421 Mich. 494"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Mich.",
+    "id": 8790,
+    "name": "Michigan Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 49,
+    "name_long": "Michigan",
+    "name": "Mich."
+  },
+  "cites_to": [
+    {
+      "cite": "100 ALR3d 431",
+      "category": "reporters:specialty",
+      "reporter": "A.L.R. 3d",
+      "opinion_index": -1
+    },
+    {
+      "cite": "339 NW2d 399",
+      "category": "reporters:state_regional",
+      "reporter": "N.W.2d",
+      "year": 1983,
+      "opinion_index": 0
+    },
+    {
+      "cite": "417 Mich 430",
+      "category": "reporters:state",
+      "reporter": "Mich.",
+      "case_ids": [
+        1973348
+      ],
+      "year": 1983,
+      "pin_cites": [
+        {
+          "page": "434-435"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mich/417/0430-01"
+      ]
+    },
+    {
+      "cite": "120 NW 1003",
+      "category": "reporters:state_regional",
+      "reporter": "N.W.",
+      "year": 1909,
+      "opinion_index": 0
+    },
+    {
+      "cite": "156 Mich 370",
+      "category": "reporters:state",
+      "reporter": "Mich.",
+      "case_ids": [
+        1589425
+      ],
+      "year": 1909,
+      "opinion_index": 0,
+      "case_paths": [
+        "/mich/156/0370-01"
+      ]
+    },
+    {
+      "cite": "314 NW2d 756",
+      "category": "reporters:state_regional",
+      "reporter": "N.W.2d",
+      "year": 1981,
+      "opinion_index": 0
+    },
+    {
+      "cite": "111 Mich App 788",
+      "category": "reporters:state",
+      "reporter": "Mich. App.",
+      "case_ids": [
+        2213167
+      ],
+      "year": 1981,
+      "pin_cites": [
+        {
+          "page": "795"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mich-app/111/0788-01"
+      ]
+    },
+    {
+      "cite": "1982 PA 314",
+      "category": "reporters:neutral",
+      "reporter": "PA",
+      "weight": 2,
+      "opinion_index": 1
+    },
+    {
+      "cite": "245 NW2d 374",
+      "category": "reporters:state_regional",
+      "reporter": "N.W.2d",
+      "year": 1976,
+      "opinion_index": 1
+    },
+    {
+      "cite": "69 Mich App 725",
+      "category": "reporters:state",
+      "reporter": "Mich. App.",
+      "case_ids": [
+        2145059
+      ],
+      "year": 1976,
+      "pin_cites": [
+        {
+          "page": "729"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/mich-app/69/0725-01"
+      ]
+    },
+    {
+      "cite": "1978 PA 81",
+      "category": "reporters:neutral",
+      "reporter": "PA",
+      "weight": 2,
+      "opinion_index": 1
+    },
+    {
+      "cite": "314 NW2d 756",
+      "category": "reporters:state_regional",
+      "reporter": "N.W.2d",
+      "year": 1981,
+      "opinion_index": 1
+    },
+    {
+      "cite": "111 Mich App 788",
+      "category": "reporters:state",
+      "reporter": "Mich. App.",
+      "case_ids": [
+        2213167
+      ],
+      "year": 1981,
+      "opinion_index": 1,
+      "case_paths": [
+        "/mich-app/111/0788-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 568,
+    "char_count": 13538,
+    "ocr_confidence": 0.814,
+    "pagerank": {
+      "raw": 5.931854501617833e-07,
+      "percentile": 0.9532638775465287
+    },
+    "sha256": "c365ab8933604cee99c20ad11f8fa3963e4fa50d005c5e6bf7594a247c692073",
+    "simhash": "1:e3749cb656c35df0",
+    "word_count": 2270
+  },
+  "last_updated": "2024-02-27T19:29:49.154056+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "file_name": "0494-01",
+  "first_page_order": 646,
+  "last_page_order": 653
+}

@@ -1,0 +1,66 @@
+{
+  "id": 12131057,
+  "name": "In re Estate of Perun",
+  "name_abbreviation": "In re Estate of Perun",
+  "decision_date": "2015-09-09",
+  "docket_number": "No. 149855; Court of Appeals No. 313869",
+  "first_page": "875",
+  "last_page": "875",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "498 Mich. 875"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Mich.",
+    "id": 8790,
+    "name": "Michigan Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 49,
+    "name_long": "Michigan",
+    "name": "Mich."
+  },
+  "cites_to": [
+    {
+      "cite": "497 Mich 954",
+      "category": "reporters:state",
+      "reporter": "Mich.",
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 18,
+    "char_count": 104,
+    "ocr_confidence": 0.759,
+    "sha256": "04982ed49c04292f07efbd5f42e317788555fabbbf8bf214e4e3f2cf0fe932cd",
+    "simhash": "1:0ba53e8b61a6048b",
+    "word_count": 20
+  },
+  "last_updated": "2024-02-27T16:10:26.420323+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In re Estate of Perun,"
+    ],
+    "opinions": [
+      {
+        "text": "Leave to appeal denied at 497 Mich 954.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "In re Estate of Perun,\nNo. 149855; Court of Appeals No. 313869."
+  },
+  "file_name": "0875-06",
+  "first_page_order": 821,
+  "last_page_order": 821
+}

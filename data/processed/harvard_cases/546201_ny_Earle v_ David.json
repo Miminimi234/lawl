@@ -1,0 +1,85 @@
+{
+  "id": 546201,
+  "name": "William P. Earle, Respondent, v. Caroline F. David, Appellant",
+  "name_abbreviation": "Earle v. David",
+  "decision_date": "1881-10-25",
+  "docket_number": "",
+  "first_page": "634",
+  "last_page": "634",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "86 N.Y. 634"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "N.Y.",
+    "id": 24653,
+    "name": "New York Court of Appeals"
+  },
+  "jurisdiction": {
+    "id": 1,
+    "name_long": "New York",
+    "name": "N.Y."
+  },
+  "cites_to": [
+    {
+      "cite": "84 N. Y. 105",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        2180952
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny/84/0105-01"
+      ]
+    },
+    {
+      "cite": "12 N. Y. 491",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 110,
+    "char_count": 1029,
+    "ocr_confidence": 0.56,
+    "pagerank": {
+      "raw": 2.388589108911313e-07,
+      "percentile": 0.7976196681737043
+    },
+    "sha256": "6fe8db8daee8e05e61689e1ee1749ac08d4e1fb7f8646eee076e9d83d24c954d",
+    "simhash": "1:c2898502b01b1b7f",
+    "word_count": 164
+  },
+  "last_updated": "2024-02-27T20:42:53.385782+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "William P. Earle, Respondent, v. Caroline F. David, Appellant."
+    ],
+    "opinions": [
+      {
+        "text": "Danforth, J.,\nreads for affirmance.\nAll concur, except Milleb, J., absent.\nJudgment affirmed.",
+        "type": "majority",
+        "author": "Danforth, J.,"
+      }
+    ],
+    "attorneys": [
+      "Walter S. Logan, for appellant.",
+      "John M. Martin for respondent."
+    ],
+    "corrections": "",
+    "head_matter": "William P. Earle, Respondent, v. Caroline F. David, Appellant.\n(Submitted October 14, 1881;\ndecided October 25, 1881.)\nThis was an action to recover for a deficiency arising on foreclosure sale. It was commenced without obtaining permission of the court as required. (2 R. S. 191, \u00a7\u00a7 153 et seq.; Scofield v. Doscher, 12 N. Y. 491.) Defendant demurred to the complaint; the demurrer was sustained, but 'thereafter the court, upon plaintiff\u2019s application, gave him permission to amend, and to bring and continue the action, \u201c without prejudice to the proceedings already had.\u201d The complaint was thereupon amended, and upon a second demurrer held sufficient. It was claimed by defendant that the court had no power, after the commencement of the action, to give leave and permit the action to continue. Meld untenable; the court citing McKernam, v. Robinson (84 N. Y. 105).\nWalter S. Logan, for appellant.\nJohn M. Martin for respondent."
+  },
+  "file_name": "0634-01",
+  "first_page_order": 660,
+  "last_page_order": 660
+}

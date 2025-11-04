@@ -1,0 +1,792 @@
+{
+  "id": 546155,
+  "name": "Louisa Lawrence, Appellant, v. Ira Miller, Respondent",
+  "name_abbreviation": "Lawrence v. Miller",
+  "decision_date": "1881-10-04",
+  "docket_number": "",
+  "first_page": "131",
+  "last_page": "140",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "86 N.Y. 131"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "N.Y.",
+    "id": 24653,
+    "name": "New York Court of Appeals"
+  },
+  "jurisdiction": {
+    "id": 1,
+    "name_long": "New York",
+    "name": "N.Y."
+  },
+  "cites_to": [
+    {
+      "cite": "1 Sandf. 297",
+      "category": "reporters:state",
+      "reporter": "Sandf.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "24 N. Y. 367",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        2029404
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny/24/0367-01"
+      ]
+    },
+    {
+      "cite": "9 N. Y. 525",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        2011914
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny/9/0525-01"
+      ]
+    },
+    {
+      "cite": "55 N. Y. 480",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        517513
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny/55/0480-01"
+      ]
+    },
+    {
+      "cite": "20 Barb. 509",
+      "category": "reporters:state",
+      "reporter": "Barb.",
+      "case_ids": [
+        4970187
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/barb/20/0509-01"
+      ]
+    },
+    {
+      "cite": "1 Hun, 551",
+      "category": "reporters:state",
+      "reporter": "Hun,",
+      "opinion_index": -1
+    },
+    {
+      "cite": "4 Serg & Rawle, 241",
+      "category": "reporters:state",
+      "reporter": "Serg. & Rawle",
+      "case_ids": [
+        1801955
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/serg-rawl/4/0241-01"
+      ]
+    },
+    {
+      "cite": "2 Barb. 278",
+      "category": "reporters:state",
+      "reporter": "Barb.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "4 Sandf. 426",
+      "category": "reporters:state",
+      "reporter": "Sandf.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "55 N. Y. 12",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "23 Barb. 305",
+      "category": "reporters:state",
+      "reporter": "Barb.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "12 N. Y. 439",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "3 Sumn. 530",
+      "category": "reporters:federal",
+      "reporter": "Sumn.",
+      "case_ids": [
+        6132610
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/f-cas/5/1152-01"
+      ]
+    },
+    {
+      "cite": "12 N. Y. 369",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "5 Denio, 406",
+      "category": "reporters:state",
+      "reporter": "Denio",
+      "case_ids": [
+        1881408
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/denio/5/0406-01"
+      ]
+    },
+    {
+      "cite": "18 Wend. 178",
+      "category": "reporters:state",
+      "reporter": "Wend.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "13 Johns. 358",
+      "category": "reporters:state",
+      "reporter": "Johns.",
+      "case_ids": [
+        374555
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/johns/13/0358-01"
+      ]
+    },
+    {
+      "cite": "5 Hun, 83",
+      "category": "reporters:state",
+      "reporter": "Hun,",
+      "opinion_index": -1
+    },
+    {
+      "cite": "22 Barb. 258",
+      "category": "reporters:state",
+      "reporter": "Barb.",
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "315"
+        }
+      ],
+      "opinion_index": -1
+    },
+    {
+      "cite": "19 Ohio, 433",
+      "category": "reporters:state",
+      "reporter": "Ohio",
+      "opinion_index": -1
+    },
+    {
+      "cite": "52 N. Y. 647",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        511006
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny/52/0647-01"
+      ]
+    },
+    {
+      "cite": "7 Johns. 476",
+      "category": "reporters:state",
+      "reporter": "Johns.",
+      "case_ids": [
+        369226
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/johns/7/0476-01"
+      ]
+    },
+    {
+      "cite": "15 Wend. 474",
+      "category": "reporters:state",
+      "reporter": "Wend.",
+      "case_ids": [
+        2018797
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/wend/15/0474-01"
+      ]
+    },
+    {
+      "cite": "2 Sandf. Ch. 143",
+      "category": "reporters:state",
+      "reporter": "Sand. Ch.",
+      "case_ids": [
+        2164685
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/sand-ch/2/0143-01"
+      ]
+    },
+    {
+      "cite": "5 Cow. 506",
+      "category": "reporters:state",
+      "reporter": "Cow.",
+      "case_ids": [
+        2032873
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/cow/5/0506-01"
+      ]
+    },
+    {
+      "cite": "56 Barb. 69",
+      "category": "reporters:state",
+      "reporter": "Barb.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "2 N. Y. 65",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "12 Barb. 370",
+      "category": "reporters:state",
+      "reporter": "Barb.",
+      "weight": 2,
+      "opinion_index": -1
+    },
+    {
+      "cite": "28 N. Y. 150",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "27 Barb. 320",
+      "category": "reporters:state",
+      "reporter": "Barb.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "4 Bosw. 354",
+      "category": "reporters:state",
+      "reporter": "Bosw.",
+      "case_ids": [
+        1342096
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny-super-ct/17/0354-01"
+      ]
+    },
+    {
+      "cite": "15 Johns. 20",
+      "category": "reporters:state",
+      "reporter": "Johns.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "15 Wend. 637",
+      "category": "reporters:state",
+      "reporter": "Wend.",
+      "case_ids": [
+        2018864
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/wend/15/0637-01"
+      ]
+    },
+    {
+      "cite": "46 Barb. 227",
+      "category": "reporters:state",
+      "reporter": "Barb.",
+      "case_ids": [
+        5152121
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/barb/46/0227-01"
+      ]
+    },
+    {
+      "cite": "58 N. Y. 611",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        2158490
+      ],
+      "weight": 2,
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny/58/0611-01"
+      ]
+    },
+    {
+      "cite": "12 Barb. 137",
+      "category": "reporters:state",
+      "reporter": "Barb.",
+      "case_ids": [
+        1937901
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/barb/12/0137-01"
+      ]
+    },
+    {
+      "cite": "44 N. Y. 618",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        507360
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny/44/0618-01"
+      ]
+    },
+    {
+      "cite": "11 Vt. 549",
+      "category": "reporters:state",
+      "reporter": "Vt.",
+      "case_ids": [
+        610542
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/vt/11/0549-01"
+      ]
+    },
+    {
+      "cite": "7 Pick. 278",
+      "category": "reporters:state",
+      "reporter": "Pick.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "13 Wend. 71",
+      "category": "reporters:state",
+      "reporter": "Wend.",
+      "case_ids": [
+        2015728
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/wend/13/0071-01"
+      ]
+    },
+    {
+      "cite": "14 Johns. 330",
+      "category": "reporters:state",
+      "reporter": "Johns.",
+      "case_ids": [
+        376235
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/johns/14/0330-01"
+      ]
+    },
+    {
+      "cite": "7 Cow. 50",
+      "category": "reporters:state",
+      "reporter": "Cow.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "21 Wend. 631",
+      "category": "reporters:state",
+      "reporter": "Wend.",
+      "weight": 2,
+      "opinion_index": -1
+    },
+    {
+      "cite": "58 N. Y. 621",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        2158477,
+        2158422
+      ],
+      "weight": 2,
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny/58/0621-01",
+        "/ny/58/0621-02"
+      ]
+    },
+    {
+      "cite": "3 N. Y. 88",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        2007233
+      ],
+      "weight": 2,
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny/3/0088-01"
+      ]
+    },
+    {
+      "cite": "9 Cow. 46",
+      "category": "reporters:state",
+      "reporter": "Cow.",
+      "case_ids": [
+        2159689
+      ],
+      "weight": 2,
+      "opinion_index": -1,
+      "case_paths": [
+        "/cow/9/0049-01"
+      ]
+    },
+    {
+      "cite": "13 Johns. 365",
+      "category": "reporters:state",
+      "reporter": "Johns.",
+      "weight": 2,
+      "opinion_index": -1
+    },
+    {
+      "cite": "43 N. Y. 218",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        2048099
+      ],
+      "weight": 2,
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny/43/0218-01"
+      ]
+    },
+    {
+      "cite": "5 Hill, 115",
+      "category": "reporters:state",
+      "reporter": "Hill,",
+      "opinion_index": -1
+    },
+    {
+      "cite": "47 Barb. 574",
+      "category": "reporters:state",
+      "reporter": "Barb.",
+      "case_ids": [
+        1946987
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/barb/47/0574-01"
+      ]
+    },
+    {
+      "cite": "12 Johns. 274",
+      "category": "reporters:state",
+      "reporter": "Johns.",
+      "case_ids": [
+        2139220
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/johns/12/0274-01"
+      ]
+    },
+    {
+      "cite": "42 Barb. 60",
+      "category": "reporters:state",
+      "reporter": "Barb.",
+      "case_ids": [
+        5114725
+      ],
+      "weight": 3,
+      "opinion_index": -1,
+      "case_paths": [
+        "/barb/42/0060-01"
+      ]
+    },
+    {
+      "cite": "24 N. Y. 370",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "7 Cow. 48",
+      "category": "reporters:state",
+      "reporter": "Cow.",
+      "case_ids": [
+        6035261
+      ],
+      "weight": 2,
+      "opinion_index": -1,
+      "case_paths": [
+        "/cow/7/46-1-01"
+      ]
+    },
+    {
+      "cite": "3 Johns. Cas. 60",
+      "category": "reporters:state",
+      "reporter": "Johns. Cas.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "29 Barb. 315",
+      "category": "reporters:state",
+      "reporter": "Barb.",
+      "case_ids": [
+        2426324
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/barb/29/0315-01"
+      ]
+    },
+    {
+      "cite": "53 N. Y. 114",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        512932
+      ],
+      "pin_cites": [
+        {
+          "page": "121"
+        }
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny/53/0114-01"
+      ]
+    },
+    {
+      "cite": "77 N. Y. 312",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        542894
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny/77/0312-01"
+      ]
+    },
+    {
+      "cite": "6 Wend. 22",
+      "category": "reporters:state",
+      "reporter": "Wend.",
+      "case_ids": [
+        2007400
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/wend/6/0022-01"
+      ]
+    },
+    {
+      "cite": "55 N. Y. 299",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        517300
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny/55/0299-01"
+      ]
+    },
+    {
+      "cite": "4 Wend. 604",
+      "category": "reporters:state",
+      "reporter": "Wend.",
+      "case_ids": [
+        2005500
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wend/4/0604-01"
+      ]
+    },
+    {
+      "cite": "21 N. Y. 547",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        1749985
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny/21/0589-01"
+      ]
+    },
+    {
+      "cite": "13 N. Y. 108",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        494228
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny/13/0108-01"
+      ]
+    },
+    {
+      "cite": "11 Wend. 48",
+      "category": "reporters:state",
+      "reporter": "Wend.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "55 N. Y. 480",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        517513
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny/55/0480-01"
+      ]
+    },
+    {
+      "cite": "13 Johns. 358",
+      "category": "reporters:state",
+      "reporter": "Johns.",
+      "case_ids": [
+        374555
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/johns/13/0358-01"
+      ]
+    },
+    {
+      "cite": "15 Wend. 637",
+      "category": "reporters:state",
+      "reporter": "Wend.",
+      "case_ids": [
+        2018864
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wend/15/0637-01"
+      ]
+    },
+    {
+      "cite": "58 N. Y. 611",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        2158490
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny/58/0611-01"
+      ]
+    },
+    {
+      "cite": "44 N. Y. 618",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        507360
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny/44/0618-01"
+      ]
+    },
+    {
+      "cite": "43 N. Y. 218",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        2048099
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny/43/0218-01"
+      ]
+    },
+    {
+      "cite": "6 Wend. 22",
+      "category": "reporters:state",
+      "reporter": "Wend.",
+      "case_ids": [
+        2007400
+      ],
+      "pin_cites": [
+        {
+          "page": "34"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wend/6/0022-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 951,
+    "char_count": 19607,
+    "ocr_confidence": 0.464,
+    "pagerank": {
+      "raw": 4.284666180504888e-06,
+      "percentile": 0.998533698296696
+    },
+    "sha256": "6dd416e8973335933d1e343ebece04d6b5649cc3d522f3bb410f768ae930796f",
+    "simhash": "1:9ddc41b4adfebdc8",
+    "word_count": 3700
+  },
+  "last_updated": "2024-02-27T20:42:53.385782+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Louisa Lawrence, Appellant, v. Ira Miller, Respondent."
+    ],
+    "opinions": [
+      {
+        "text": "Folger, Ch. J.\nThe plaintiff is the assignee, of the vendee in a contract' in writing and under seal for the purchase of lands. The contract called for the payment by the vendee, of the sum of $2,000 on the day of. the making of it, and that sum the vendee then paid. There is no time or place named in the contract, for the performance by either party of any other part of the agreement, though the vendee was to make further considerable payment of money, and to give a bond with a mortgage on the lands; and the vendor was to give a deed for them. The parties met, however, on the 1st day of April, then next, with a view to perform! The vendor then produced the deed, told the vendee that he had it and was ready, and laid it upon the table, and told the vendee that it was there. The vendee was not ready to perform, and asked further time to get ready thereto. The parties by writing, not under seal, on the contract, agreed upon the 1st day of May, then next. On that day they met.. The vendor had his deed,-told the vendee that he was all ready, and laid it upon the table. The vendee was not ready and so stated, saying that he could not get the money, could not get the place, that he was not ready. The vendee then asked for more time. The vendor replied that he should not give him another day. The parties did no more on that day. They did not meet again for the purpose of performance, nor did either ever after make to the other\" an offer or demand of performance. The vendor, after the 1st day of May, sold and conveyed the lands to other persons. He kept the $2,000 paid by the vendee. The plaintiff now brings her action to recover the sum of $2,000 thus paid and .kept. Her claim;' in one branch of it, rests upon the allegation, that the vendee was never so far put in default by the vendor, as that his rights under the contract were forfeited and the vendor entitled to rescind it and keep the money paid. This allegation is sought to be sustained by asserting the law to be, that a tender of a deed by the vendor to the vendee was a condition precedent to the obligation of the latter to perform, and was needful to put him in default, or in any manner to affect his rights.' There is no doubt that as a general rule, it is often stated, that where the vendee in such a contract has performed his part of it up to a given period, he cannot be put in default for non-performance further, without a tender to him of a deed and a demand for what more is to be done by him. (Leaird v. Smith, 44 N. Y. 618; Johnson v. Wygant, 11 Wend. 48.) And it may be taken that by the term tender is generally meant the actual physical production of the deed, and the reaching it out, with words of offer of it, to the vendee. It is to be observed though, that the rule is sometimes stated with terms less strict; that there must be averment or proof of a tender of conveyance, or of a readiness or willingness to convey (Beecher v. Conradt, 13 N. Y. 108); or that there must be performance, or something equivalent to performance. (Carman v. Pultz, 21 N. Y. 547.) And that the requirement of the law is not cast in a rigid mould is also shown by the authorities. Thus a refusal to accept a formal tender, if made, excuses from making it (Blewett v. Baker, 58 N. Y. 611); and where there is a willingness and ability to perform, there need be no actual tender thereto, if performance has been waived or prevented (Nelson v. Plimpton F. P. El. Co., 55 N. Y. 480); and it\" seems that it may be dispensed with by some positive act or declaration. (Bakerman v. Pooler, 15 Wend. 637.) Doubtless, rigid rules are better than uncertain -ones. (Dunham v. Jackson, 6 Wend. 22, 34.) Yet the law does not hold to the doing of a vain thing. It calls for fair dealing, and asks of each party that he shall give the other plainly to understand just what position he takes, and just' what he means to d\u00f3, if the other acts this way or that. If that is beyond all doubt effected, the law does not exact that it be reached in a prescribed and exact method. In this case the vendor had ready and in sight the deed for the premises. He was willing and prepared to make a delivery of it, on receiving payment from the vendee, and so said to the latter. The vendee could not but have comprehended that the vendor had \u201cthere before them both, on the table, subject to the grasp and inspection of either, the deed for the lands, and that it was there with the expectation and for the purpose of the exchange of it for the money of the vendee, and his bond and mortgage. When he, knowing this, declared that he was unable to make-payment, he in effect stated to the vendor that it would be a-useless thing to do, to make him a manual offer of the deed, and he excused the vendor from the formal presentation of it to him. So much was brought to the comprehension of the vendee, that the vendor was there prepared, ready and willing-to perform. The vendee could not have been mistaken or-doubtful of that. If it was yet needful, for more to be said or done to give him to know that he would at his peril let that occasion pass without fulfilling on his part, that much more was said or done. On asking for more time, he was told that he should not have another day. We fail to see how any formal presentation of the deed and demand for money could do more to inform the vendee that if he was to save any right under the contract, he must bestir himself that very day to fulfill his covenants. He was fully apprized that the vendor was-then ready to perform and was shown the legal instrument which was all the means that the vendor needed to enable him to perform, and was given to know that the vendor was willing-to hand it over to him. He was further fully apprized that that day was the last on which performance by him would be received by the vendor. If these things did not clearly present to the mind of any one of ordinary sense and business capacity the peril in which he was, we fail to see what would. \u2019We are-constrained to say that the ends of the law were met by the vendor and that he did all that could be required of him to-put the vendee in default. ' Sometimes, where acts and words have been set up in place of a formal tender, it did not appear but that if the formal act had been done, the party would have-accepted. As in cases where he has asked for time to make- , inquiry, as in 15 Wend, (supra); \u00f3r has claimed that enough was hot done as in 6 Wend. (supra); but here the acts and words of the vendee were as much as to declare, you have done-all that you need to, it is useless to do more, for do what more you may, I am not able to do that which I am bound to do on the other hand; and when further time for him to get ready to do Ms part is denied to Mm, he must have seen that the rigor of Ms legal position was to be enforced upon Mm.\nA subsidiary point is made by the plaintiff that the oral arrangement of the parties to meet on April 1, and the written agreement, not under seal, for further time until May 1, could not change the contract, it being under seal, and that, therefore, there was no definite time at wMch the vendee was bound to perform, and so the vendor could not exact performance on the latter day. But for the parties to agree on a day was not a change of the contract, for it was silent upon that. To agree upon a day, in such case, is a thing that may be done by parol. The time, when finally agreed upon, was an essential part of the-contract. They had met, and the vendee was unready. At Ms asking, and to give him time in which to get ready, the \" later day was fixed upon. A day agreed upon, in such circumstances, may be considered as an essential part of the agreement. (Dominick v. Michael, 4 Sandf. [Sup. Ct.] 374; Havens v. Patterson, 43 N. Y. 218.)\nThere is another branch of the case, as presented by the brief of the appellant. It is ingemously argued, that though the vendee has made breach of Ms contract, all that the law will give for that is the damage that the vendor has suffered thereby; and that, therefore, he has no right to keep the $2,000, though it be granted that he had a right to rescind the contract. We do not see in the case any exception that distinctly raises '* this point in this court. There are no requests to find. There is no finding of fact that presents it. There is no conclusion of law which of necessity includes it. \\ ''he position concedes that if the vendor has suffered damage ,..e may keep of the payment enough to satisfy that. The matter of the vendor\u2019s damage was not entered into on the trial. We cannot say that it was nothing, nor how great it was. The appeal book does not show us that it was not as much as the payment.\nWe need not rest there, however, which would be but to avoid the point. It is declared by tMs court in Havens v. Patterson (supra), that it is never permitted either at law or in equity, for one to recover back money paid on an executory contract that he had refused or neglected to perform. The plaintiff in the action before us sues for the whole amount of the money paid by the vendee. The defendant came by it rightfully ; in pursuance of a contract lawfully made, between competent parties. He has made no breach of that contract.\n. He has failed in no duty to the vendee. Wherefore, then, should he give up that which was rightfully his own ? When and whereby did it cease to be his and to be due to the ven,dee? If the contract had been kept by both parties, the money paid would still be his of right. The contract would have been kept but for the breach of it by the vendee. To allow a recovery of this money would be to sustain an action by a party on his own breach of his own contract, which the law does not allow. When we once declare in this case that the ven- . dor has done all that the law asked of him, we also declare that the vendee has not so done on his part. And then to maintain this action would be to declare that a party may violate his agreement, and make an infraction of it by himself a cause of .action. That would be ill doctrine. (See Ketchum, v. Evertson, 13 Johns. 358.) Nor can the specious view be taken, presented by the plaintiff, that the defendant is entitled to no more than he has actually been damaged. ' That was substantially the question in Stephens v. Beard (4 Wend. 604), and the answer was against it. The doctrine of Ketchum v. Evertson (supra) is reiterated in Page v. McDonnell (55 N. Y. 299).\nWe see no ground for a reversal of the judgment.\nAll concur.\nJudgment affirmed",
+        "type": "majority",
+        "author": "Folger, Ch. J."
+      }
+    ],
+    "attorneys": [
+      "\u2022J. T.\u201e Ma/recm for appellant.",
+      "L. T. Yale for respondent."
+    ],
+    "corrections": "",
+    "head_matter": "Louisa Lawrence, Appellant, v. Ira Miller, Respondent.\nWhere there is a willingness and ability on the part of the vendor to perform a contract of sale, an actual tender of performance is not necessary to put the vendee in default, if performance has been waived or prevented. t\nWhere the vendee, knowing that the vendor is ready and willing to perform, declares himself unable to perform on his p t, this excuses a formal tender.\nDunham v. Jackson (6 Wend. 22), Bakeman v. 1. /\u2022 (15 id. 637), distinguished.\nH., plaintiff\u2019s assignor, and defendant entered into a contract under seal, for the purchase by the former and sale by the latter, of certain lands ; $2,000 of the purchase-money was paid down ; H. covenanted to pay a portion of the balance on delivery of the deed, and to secure the residue by bond a mortgage, on receipt whereof defendant covenanted to convey, i-,- tii for per- \u25a0 formance was specified. The parties met on a day tk la view to perform ; defendant produced the deed, laid it on the table and told H. it was there and that he was ready to perform. H\u201e however was not ready and asked furthef time, and by writing, not under sea], on the contract,the parties agreed upon the first day of May thereafter as the time for performance. On that day they met, defendant produced his deed and laid it on the table, stating that he was all ready; H. stated that he was not ready, could not get the money, and asked for more time ; defendant refused to give another day. Neither thereafter made any demand or offer of performance. Defendant subsequently sold the lands. In an action to recover back the money paid, held that plaintiff was not entitled to recover; that defendant did all that was necessary to put the vendee in default. Also held, that fixing the time for performance was not a change of the sealed instrument, and could be done by parol.\nAlso held, that plaintiff could'not limit defendant to the actual damage sustained by the default of H., and was not entitled to recover back any portion of the money paid.\n(Argued May 4, 1881;\ndecided October 4, 1881.)\nAppeal from judgment of the G-eneral Term of the Supreme Court, in the second judicial department, entered upon an order made December 8, 1879, which affirmed a judgment in favor of defendant, entered upon a decision of the court on trial without a jury.\nThis action was brought by plaintiff, as assignee of Henry H. Lawrence, to recover back the sum of $2,000, paid by the latter upon a contract, the substance of which and the material facts are set forth in the opinion.\n\u2022J. T.\u201e Ma/recm for appellant.\nWhen the defendant announced his positive refusal to convey after Hay 1, he rescinded the' contract;. such rescission was wrongful, and the vendee may elect to assent to such rescission and recover back his deposit. (Bigler v. Morgan, 77 N. Y. 312; Morange v. Morris, 3 Keyes, 50; Hawley v. Keeler, 53 N. Y. 114, 121; Howard v. Daly, 61 id. 362; Freer v. Denton, id. 496; Burtis v. Thompson, 42 id. 246; Fancher v. Goodman, 29 Barb. 315; Thrasher v. Bently, 2 T. & C. 310; Ballard v. Walker, 3 Johns. Cas. 60; Dearborn v. Cross, 7 Cow. 48; Friess v. Rider, 24 N. Y. 370; Reynolds v. Nelson, 6 Madd. Ch. 18; Haynes v. Hart, 42 Barb. 60; Lawrence v. Simons, 4 id. 354; Raymond v. Barnard, 12 Johns. 274; Monroe v. Reynolds, 47 Barb. 574; Crist v. Armour, 34 id. 378; Skinner v. Tinker, id. 333; Lawrence v. Taylor, 5 Hill, 115; Havens v. Patterson, 43 N. Y. 218; Ketcham v. Evertson, 13 Johns. 365; Green v. Green, 9 Cow. 46; Battle v. Rochester City Bk., 3 N. Y. 88; Haynes v. Hart, 42 Barb. 60; Jenks v. Robertson, 58 N. Y. 621; 2 T. & C. 225; Allen v. Jaquish, 21 Wend. 631; Dearborn v. Cross, 7 Cow. 50; Lattimore v. Harsen, 14 Johns. 330; Delacroix v. Buckley, 13 Wend. 71; Monroe v. Perkins, 7 Pick. 278; Lawrence v. Dale, 11 Vt. 549.) Under this contract, tender of deed by defendant was a condition precedent to the obligation of Lawrence to perform, and necessary to put him in default, or in any manner to affect V rights. (Laird v. Smith, 44 N. Y. 618; Lester v. Jewett, id. 453; Nelson v. P lympton, 55 id. 480; Hubbell v. V Schoening, 49 id. 331; Beecher v. Conradt, 13 id. 108; Ca n v. Pultz, 21 id. 549; Dunham v. Mann, 8 id. 508.) , turning all the defendant says about the interview on A/ 1, there was no tender of performance. (Holmes v. Holmes, 12 Barb. 137; Blewett v. Baker, 58 N. Y. 611; Strong v. Blake, 46 Barb. 227; Bakeman v. Pooler, 15 Wend. 637; Dunham v. Jackson, 6 id. 22; Thomas v. Evans, 10 East, 101; Douglass v. Patrick, 3 T. R. 683; Dickinson v. Shea, 4 Esp. 68.) The contract being under seal could not be altered or affected by a writing not under seal. The extension indorsed upon it did not change the contract in any manner. (Jenks v. Robertson, 58 N. Y. 621; Allen v. Jaguish, 21 Wend. 631-632; DeLa croix v. Buckley, 13 id. 71; Hasbrouck v. Tappen, 15 Johns. 20; Lawrence v. Woods, 4 Bosw. 354; Penniman v. Elliott, 27 Barb. 320; French v. New, 28 N. Y. 150; Dodge v. Crandall, 30 id. 304; Freiss v. Ryder, 24 id. 369; Clough v. Murray, 3 Robn. 16; Esmond v. VanBenschoten, 12 Barb. 370.) There was no waiver of the tender of a deed, equivalent to tender considered as a condition precedent to the obligation of Lawrence to perform; only an absolute refusal to perform at all on. Lawrence\u2019s part would have been equivalent to tender by defendant. (Blewett v. Baker, 58 N. Y. 611; Bunge v. Koop, 48 id. 225; Sears v. Conover, 3 Keyes, 113; Crary v. Smith, 2 N. Y. 65; Cornwell v. Haight, 21 id. 462; Anderson v. Sherwood, 56 Barb. 69; v. Armour, 34 id. 378; Bellinger v. Kitts, 6 id. 273; Stone v. Sprague, 20 id. 509; Franchot v. Leach, 5 Cow. 506; Mur . Rosevelt, Anth. N. P. 138; Van Pelt v. Wood 2 Sandf. Ch. 143; Dana v. Fiedler, 1 E. D. Smith, 403; Everett v. Saltus, 15 Wend. 474; Warren. v. Mains, 7 Johns. 476.) Even if defendant had duly tendered performance on May 1, Lawrence\u2019s right to specific performance would not have been extinguished. (Myers v. De Mier, 52 N. Y. 647; Davison v. Associates, etc., 71 id. 333; Laird v. Smith, 44 id. 623; Campbell v. Hicks, 19 Ohio, 433; Reynolds v. Nelson, 9 Madd. Ch. 18, 20; Beebe v. Dowd, 22 Barb. 258; Fancher v. Goodman, 29 id. 315; McCarty v. Myers, 5 Hun, 83; Harris v. Troup, 8 Paige, 423; Falls v. Carpenter, id. 427, note.) Even if the contract was forfeited by Lawrence by reason of his default, the defendant, having announced his rescission and sold the premises immediately to other persons at a better price, the plaintiff should have recovered. (Havens v. Patterson, 43 N. Y. 218; Ketcham v. Evertson, 13 Johns. 365; Green v. Green, 9 Cow. 46; Battle v. Roch City Bk., 3 N. Y. 88; Haynes v. Hart, 42 Barb. 60.)\nL. T. Yale for respondent.\nWhere a person has paid money or delivered goods in part performance of a contract which he neglects or refuses to complete, the other party having performed or being ready to perform every thing agreed to be done* on his part, the former cannot recover back the money so paid or for the goods so delivered. (Ketcham v. Evertson, 13 Johns. 358; Champlain v. Rowley, 18 Wend. 178; Page v. Alt, 5 Denio, 406.) When no time for performance is mentioned in a contract, a reasonable time is always implied as intended and agreed upon by the parties. (Thomas v. Dickerson, 12 N. Y. 369.) The time for performance not being fixed by the contract, what was reasonable time was a question of fact. (Story on Contracts, \u00a7 970; 1 Addison on Contracts, \u00a7 320, note 1 [3d Am. ed., Morgan].) The meeting of the parties on April 1, by mutual consent to pass the title, the memorandum then made, signed by both, postponing the day, and their subsequent meeting on May 1, by like consent and for the same purpose, are facts showing and competent to show what the parties thought reasonable time. (Cocker v. Franklin Hemp Co., 3 Sumn. 530; 1 Addison on Contracts, \u00a7 320, note 1; People v. Ryder, 12 N. Y. 439; People v. Walker, 23 Barb. 305.) The time having been fixed, and as fixed by the acts of the parties was material. (Merchants' Bk. v. Thompson, 55 N. Y. 12; Story on Contracts, \u00a7 970a; Dominick v. Michael, 4 Sandf. 426; Wiswall v. McGowan, 2 Barb. 278.) The doctrine of estoppel applies and prevents the plaintiff claiming that the extension was invalid. (LeFever v. LeFever, 4 Serg & Rawle, 241; Esmond v. Van Benschoten, 12 Barb. 370; Dearborn v. Cross, 7 Cow. 48-50; Burt v. Saxton, 1 Hun, 551; Jones v. Jones, 9 N. Y. Dig. 53.) The tender of the deed on both occasions was sufficient. (Stone v. Sprague, 20 Barb. 509; Nelson v. Plympton, 55 N. Y. 480; Morange v. Morris, 3 Keyes, 50.) Evidence of a waiver of tender is competent and sufficient to support the averment and finding of tender. (Holmes v. Holmes, 9 N. Y. 525.) The time having been extended to May 1, and the plaintiffs assignor then being in default in not having his money ready to pay, the defendant was justified in refusing to grant further time and in selling the property, which he did on May 17. (Fries v. Rider, 24 N. Y. 367; Crooks v. Moore, 1 Sandf. 297.)"
+  },
+  "file_name": "0131-01",
+  "first_page_order": 157,
+  "last_page_order": 166
+}

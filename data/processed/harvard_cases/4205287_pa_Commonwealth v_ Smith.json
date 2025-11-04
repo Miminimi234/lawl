@@ -1,0 +1,67 @@
+{
+  "id": 4205287,
+  "name": "COMMONWEALTH of Pennsylvania, Petitioner v. Daniel Roger SMITH, Respondent",
+  "name_abbreviation": "Commonwealth v. Smith",
+  "decision_date": "2011-10-14",
+  "docket_number": "No. 363 MAL 2011",
+  "first_page": "473",
+  "last_page": "474",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "612 Pa. 473"
+    },
+    {
+      "type": "parallel",
+      "cite": "31 A.3d 285"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 131,
+    "char_count": 1436,
+    "ocr_confidence": 0.677,
+    "pagerank": {
+      "raw": 5.5276465409424146e-08,
+      "percentile": 0.34484056792500256
+    },
+    "sha256": "d6b16692157ea07660d7f60c8e0ecc2ce9410af0a8393466314c106d72601b7a",
+    "simhash": "1:641b953e3d9f06be",
+    "word_count": 217
+  },
+  "last_updated": "2023-07-14T19:33:52.292960+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "COMMONWEALTH of Pennsylvania, Petitioner v. Daniel Roger SMITH, Respondent."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nPER CURIAM.\nAND NOW, this 14th day of October 2011, the Petition for Allowance of Appeal is GRANTED. The issues, as stated by Petitioner are:\na. Whether the Superior Court\u2019s holding that Respondent\u2019s consent to a blood alcohol test was invalid was an unreasonable application of the Fourth Amendment\u2019s prohibition against unlawful searches and seizures, where the totality of the circumstances demonstrated that Respondent\u2019s consent was freely and voluntarily given, where there was no force or coercion by police, where Respondent was advised of his right to refuse, and where Respondent was aware that the consent was being requested as a result of a police investigation into a three-vehicle motor vehicle collision with a possible fatality, wherein respondent was one of the operators involved?\nb. Whether the Superior Court, in finding that Respondent\u2019s consent was invalid because it was not \u201cknowing,\u201d overlooked, misapprehended and/or ignored the record set forth below, and improperly acted as fact finder in reweighing the evidence, thereby invading the province of the suppression court?\nc. Whether the Superior Court misapplied the Pennsylvania Supreme Court\u2019s holding in Danforth as the facts in Danforth [sic] are significantly different from the circumstances in the instant case?",
+        "type": "majority",
+        "author": "PER CURIAM."
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "31 A.3d 285\nCOMMONWEALTH of Pennsylvania, Petitioner v. Daniel Roger SMITH, Respondent.\nSupreme Court of Pennsylvania.\nOct. 14, 2011."
+  },
+  "file_name": "0473-01",
+  "first_page_order": 517,
+  "last_page_order": 518
+}

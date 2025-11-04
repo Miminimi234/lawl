@@ -1,0 +1,520 @@
+{
+  "id": 12519731,
+  "name": "Hanh DO, Petitioner v. DEPARTMENT OF HOUSING AND URBAN DEVELOPMENT, Respondent",
+  "name_abbreviation": "Do v. Dep't of Hous. & Urban Dev.",
+  "decision_date": "2019-01-14",
+  "docket_number": "2018-1147",
+  "first_page": "1089",
+  "last_page": "1098",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "913 F.3d 1089"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Fed. Cir.",
+    "id": 8955,
+    "name": "United States Court of Appeals for the Federal Circuit"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "727 F.2d 1535",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1934473
+      ],
+      "year": 1984,
+      "pin_cites": [
+        {
+          "page": "1538"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/727/1535-01"
+      ]
+    },
+    {
+      "cite": "486 U.S. 230",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6214098
+      ],
+      "weight": 3,
+      "year": 1988,
+      "pin_cites": [
+        {
+          "page": "242",
+          "parenthetical": "examining the \"importance of the private interest and the harm to this interest occasioned by [agency] delay\" in determining \"how long a delay is justified in affording a post-suspension hearing and decision\""
+        },
+        {
+          "parenthetical": "examining the \"importance of the private interest and the harm to this interest occasioned by [agency] delay\" in determining \"how long a delay is justified in affording a post-suspension hearing and decision\""
+        },
+        {
+          "parenthetical": "examining the \"importance of the private interest and the harm to this interest occasioned by [agency] delay\" in determining \"how long a delay is justified in affording a post-suspension hearing and decision\""
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/486/0230-01"
+      ]
+    },
+    {
+      "cite": "424 U.S. 319",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        12026449
+      ],
+      "weight": 5,
+      "year": 1976,
+      "pin_cites": [
+        {
+          "page": "335, 340-42"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/424/0319-01"
+      ]
+    },
+    {
+      "cite": "720 F.2d 1266",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1904095
+      ],
+      "year": 1983,
+      "pin_cites": [
+        {
+          "page": "1273-74",
+          "parenthetical": "citing Ryder , 585 F.2d 482 "
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/720/1266-01"
+      ]
+    },
+    {
+      "cite": "735 F.2d 488",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        580921
+      ],
+      "year": 1984,
+      "pin_cites": [
+        {
+          "page": "496",
+          "parenthetical": "Nies, J., concurring"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/735/0488-01"
+      ]
+    },
+    {
+      "cite": "585 F.2d 482",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        10811517,
+        845806
+      ],
+      "weight": 2,
+      "year": 1978,
+      "pin_cites": [
+        {
+          "page": "487-88"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us-ct-cl/218/0289-01",
+        "/f2d/585/0482-01"
+      ]
+    },
+    {
+      "cite": "684 F.2d 155",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        3633664,
+        529453
+      ],
+      "weight": 2,
+      "year": 1982,
+      "pin_cites": [
+        {
+          "page": "157-58",
+          "parenthetical": "cited with approval in Licausi , 350 F.3d at 1363 "
+        },
+        {
+          "page": "157-58"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us-app-dc/221/0381-01",
+        "/f2d/684/0155-01"
+      ]
+    },
+    {
+      "cite": "350 F.3d 1359",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        9057049
+      ],
+      "weight": 2,
+      "year": 2003,
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/350/1307-01"
+      ]
+    },
+    {
+      "cite": "355 F.3d 1375",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        9069288
+      ],
+      "year": 2004,
+      "pin_cites": [
+        {
+          "page": "1378-79"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/355/1375-01"
+      ]
+    },
+    {
+      "cite": "999 F.2d 523",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        11957014
+      ],
+      "weight": 3,
+      "year": 1993,
+      "pin_cites": [
+        {
+          "page": "526-27"
+        },
+        {
+          "page": "526-27"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/999/0523-01"
+      ]
+    },
+    {
+      "cite": "147 F.3d 1367",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        1358807
+      ],
+      "weight": 2,
+      "year": 1998,
+      "pin_cites": [
+        {
+          "page": "1371-72"
+        },
+        {
+          "page": "1371-72"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/147/1367-01"
+      ]
+    },
+    {
+      "cite": "318 F.3d 1310",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        9343807
+      ],
+      "weight": 5,
+      "year": 2002,
+      "pin_cites": [
+        {
+          "page": "1315"
+        },
+        {
+          "page": "1315",
+          "parenthetical": "citations omitted"
+        },
+        {
+          "page": "1315"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/318/1310-01"
+      ]
+    },
+    {
+      "cite": "292 F.3d 307",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        9415409
+      ],
+      "year": 2002,
+      "pin_cites": [
+        {
+          "page": "321",
+          "parenthetical": "holding \"that the process due [to the employee] was notice of the charges against him and the opportunity to be heard before demotion\""
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/292/0307-01"
+      ]
+    },
+    {
+      "cite": "114 F.3d 1144",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        405125
+      ],
+      "weight": 3,
+      "year": 1997,
+      "pin_cites": [
+        {
+          "page": "1148-49"
+        },
+        {
+          "page": "1148-49"
+        },
+        {
+          "page": "1148-49"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/114/1144-01"
+      ]
+    },
+    {
+      "cite": "737 F.3d 711",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        3732337
+      ],
+      "year": 2013,
+      "pin_cites": [
+        {
+          "page": "718"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/737/0711-01"
+      ]
+    },
+    {
+      "cite": "520 U.S. 924",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11653435
+      ],
+      "weight": 3,
+      "year": 1997,
+      "pin_cites": [
+        {
+          "page": "933"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/520/0924-01"
+      ]
+    },
+    {
+      "cite": "706 F.3d 1372",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        3662371
+      ],
+      "year": 2013,
+      "pin_cites": [
+        {
+          "page": "1377",
+          "parenthetical": "\"[A]n employee is entitled to notice of the charges against him, an explanation of the employer's evidence, and an opportunity to present his side of the story before termination.\" (citing Stone , 179 F.3d at 1376 ) "
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/706/1372-01"
+      ]
+    },
+    {
+      "cite": "179 F.3d 1368",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        844525
+      ],
+      "weight": 4,
+      "year": 1999,
+      "pin_cites": [
+        {
+          "page": "1374-76",
+          "parenthetical": "\"An employee is entitled to a certain amount of due process rights at each stage and, when these rights are undermined, the employee is entitled to relief regardless of the stage of the proceedings.\""
+        },
+        {
+          "page": "1376-77"
+        },
+        {
+          "page": "1373"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/179/1368-01"
+      ]
+    },
+    {
+      "cite": "470 U.S. 532",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11299646
+      ],
+      "weight": 11,
+      "year": 1985,
+      "pin_cites": [
+        {
+          "page": "538"
+        },
+        {
+          "page": "546"
+        },
+        {
+          "page": "542"
+        },
+        {
+          "page": "543"
+        },
+        {
+          "page": "546-47"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/470/0532-01"
+      ]
+    },
+    {
+      "cite": "247 F.3d 1225",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        11111410
+      ],
+      "year": 2001,
+      "pin_cites": [
+        {
+          "page": "1228"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/247/1225-01"
+      ]
+    },
+    {
+      "cite": "634 F.3d 1274",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        4093338
+      ],
+      "weight": 2,
+      "year": 2011,
+      "pin_cites": [
+        {
+          "page": "1278"
+        },
+        {
+          "page": "1278",
+          "parenthetical": "alteration in original"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/634/1274-01"
+      ]
+    },
+    {
+      "cite": "28 U.S.C. \u00a7 1295",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "pin_cites": [
+        {
+          "page": "(a)(9)"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "5 U.S.C. \u00a7 7703",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "(b)(1)"
+        },
+        {
+          "page": "(c)"
+        }
+      ],
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 1079,
+    "char_count": 24406,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.25915758022958096
+    },
+    "sha256": "609fe0fa342fbf8511c971fca9badc7cc81741de124dde74ffc17909bb5a19e3",
+    "simhash": "1:315fe24ea82aea03",
+    "word_count": 3965
+  },
+  "last_updated": "2024-02-27T18:46:17.308091+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "file_name": "1089-01",
+  "first_page_order": 1089,
+  "last_page_order": 1098
+}

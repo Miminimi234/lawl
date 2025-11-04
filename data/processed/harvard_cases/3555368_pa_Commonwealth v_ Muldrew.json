@@ -1,0 +1,63 @@
+{
+  "id": 3555368,
+  "name": "COMMONWEALTH of Pennsylvania, Appellee, v. Don MULDREW, Appellant",
+  "name_abbreviation": "Commonwealth v. Muldrew",
+  "decision_date": "2007-06-08",
+  "docket_number": "Appeal No. 4 MAP 2007",
+  "first_page": "457",
+  "last_page": "457",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "592 Pa. 457"
+    },
+    {
+      "type": "parallel",
+      "cite": "926 A.2d 438"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 30,
+    "char_count": 227,
+    "ocr_confidence": 0.67,
+    "sha256": "2c08f1cd5b89b6405b08db5f13d7a6206dbeecff588cf664e3d49571b20b5217",
+    "simhash": "1:16bf8b60b62310b8",
+    "word_count": 33
+  },
+  "last_updated": "2023-07-14T20:20:44.535844+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "COMMONWEALTH of Pennsylvania, Appellee, v. Don MULDREW, Appellant."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nPER CURIAM.\nAppeal dismissed as having been improvidently granted.",
+        "type": "majority",
+        "author": "PER CURIAM."
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "926 A.2d 438\nCOMMONWEALTH of Pennsylvania, Appellee, v. Don MULDREW, Appellant.\nSupreme Court of Pennsylvania.\nArgued May 16, 2007.\nDecided June 8, 2007."
+  },
+  "file_name": "0457-01",
+  "first_page_order": 509,
+  "last_page_order": 509
+}

@@ -1,0 +1,195 @@
+{
+  "id": 12149366,
+  "name": "In re Jackson",
+  "name_abbreviation": "In re Jackson",
+  "decision_date": "2015-12-18",
+  "docket_number": "No. 152404; Court of Appeals No. 325838",
+  "first_page": "943",
+  "last_page": "944",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "498 Mich. 943"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Mich.",
+    "id": 8790,
+    "name": "Michigan Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 49,
+    "name_long": "Michigan",
+    "name": "Mich."
+  },
+  "cites_to": [
+    {
+      "cite": "468 Mich 202",
+      "category": "reporters:state",
+      "reporter": "Mich.",
+      "case_ids": [
+        1408270
+      ],
+      "year": 2003,
+      "opinion_index": 0,
+      "case_paths": [
+        "/mich/468/0202-01"
+      ]
+    },
+    {
+      "cite": "880 So 2d 602",
+      "category": "reporters:state_regional",
+      "reporter": "So. 2d",
+      "case_ids": [
+        9206016
+      ],
+      "year": 2004,
+      "pin_cites": [
+        {
+          "page": "609",
+          "parenthetical": "holding that a parent's rights may only be terminated on the basis of a similar Florida statutory presumption if the state also establishes that there is \"a substantial risk of significant harm to the current child\""
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/so2d/880/0602-01"
+      ]
+    },
+    {
+      "cite": "20 Kan App 2d 665",
+      "category": "reporters:state",
+      "reporter": "Kan. App. 2d",
+      "case_ids": [
+        373787
+      ],
+      "year": 1995,
+      "pin_cites": [
+        {
+          "page": "672-673",
+          "parenthetical": "holding that a Kansas statute creating a statutory presumption of unfitness based on a prior termination can be rebutted by any evidence supporting a finding of fitness"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/kan-app-2d/20/0665-01"
+      ]
+    },
+    {
+      "cite": "455 US 745",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11307633
+      ],
+      "year": 1982,
+      "pin_cites": [
+        {
+          "page": "769",
+          "parenthetical": "requiring the state to establish a parent's unfitness with clear and convincing evidence"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/us/455/0745-01"
+      ]
+    },
+    {
+      "cite": "405 US 645",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11723248
+      ],
+      "year": 1972,
+      "pin_cites": [
+        {
+          "page": "658"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/us/405/0645-01"
+      ]
+    },
+    {
+      "cite": "495 Mich 394",
+      "category": "reporters:state",
+      "reporter": "Mich.",
+      "case_ids": [
+        4293668
+      ],
+      "weight": 2,
+      "year": 2014,
+      "pin_cites": [
+        {
+          "page": "422"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/mich/495/0394-01"
+      ]
+    },
+    {
+      "cite": "530 US 57",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        9413198
+      ],
+      "year": 2000,
+      "pin_cites": [
+        {
+          "page": "65",
+          "parenthetical": "opinion by O'Connor, J."
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/us/530/0057-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 356,
+    "char_count": 5623,
+    "ocr_confidence": 0.703,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.24653290597251037
+    },
+    "sha256": "85111516c36ed0b14a182de8daea86758b062277f384a8abe96c478fa76cae0b",
+    "simhash": "1:50fb7e09990ab57c",
+    "word_count": 915
+  },
+  "last_updated": "2024-02-27T16:10:26.420323+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In re Jackson,"
+    ],
+    "opinions": [
+      {
+        "text": "On order of the Court, the application for leave to appeal the July 28,2015 judgment of the Court of Appeals is considered, and it is denied, because we are not persuaded that the questions presented should be reviewed by this Court.\nThe Court has become aware that, during the pendency of this appeal, the trial court finalized the adoption of the minor child, in violation of In re JK, 468 Mich 202 (2003). It appears that no one informed the trial court of the father\u2019s appeal of the termination of his parental rights. In order to prevent any recurrence of the problem, we order any trial court finalizing an adoption to provide the following findings on the record:\nI have determined that any appeal of the decision to terminate parental rights has reached disposition, that no appeal, application for leave to appeal, or motion for rehearing or reconsideration is pending, and that the time for all appellate proceedings in this matter has expired.",
+        "type": "majority",
+        "author": null
+      },
+      {
+        "text": "McCormack, J.\n(concurring). I concur with the Court\u2019s decision to deny leave to appeal because I believe that the respondent-father received sufficient notice that the prior termination of his parental rights could be used as a ground for terminating his parental rights in this case. I write separately, however, to articulate more generally my reservations about using MCL 712A.19b(3)(Z) as a statutory basis for termination.\n\u201c[T]he interest of parents in the care, custody, and control of their children is perhaps the oldest of the fundamental liberty interests . . . .\u201d Troxel v Granville, 530 US 57, 65 (2000) (opinion by O\u2019Connor, J.) (punctuation omitted). Parents are constitutionally entitled to have their fitness adjudicated before the state may infringe on this constitutionally protected relationship. See, e.g., In re Sanders, 495 Mich 394, 422 (2014); Stanley v Illinois, 405 US 645, 658 (1972). And when the state seeks to adjudicate a parent\u2019s fitness it must be done through fundamentally fair procedures. See, e.g., Santosky v Kramer, 455 US 745, 769 (1982) (requiring the state to establish a parent\u2019s unfitness with clear and convincing evidence); see also MCL 712A.19b(3).\nMCL 712A.19b(3)(Z) permits termination of a parent\u2019s rights to his or her child if the state can establish that the parent\u2019s rights to another child were involuntarily terminated in a prior proceeding. There is no requirement that the prior adjudication be proved relevant or material to the current allegations against the respondent. By requiring only that the state establish a prior involuntary termination, MCL 712A.19b(3)(Z) creates a statutory presumption that a parent is unfit to parent a child presently before the court. In my view, this presumption excuses the state from having to meet its evidentiary burden before infringing on a parent\u2019s constitutionally protected relationship with his or her child. Other state courts have addressed this concern when their states\u2019 analogous statutory presumptions were challenged by requiring the state to proffer additional evidence of the parent\u2019s unfitness to parent the child currently at issue. See, e.g., In re JL, 20 Kan App 2d 665, 672-673 (1995) (holding that a Kansas statute creating a statutory presumption of unfitness based on a prior termination can be rebutted by any evidence supporting a finding of fitness); Florida Dep\u2019t of Children & Families v FL, 880 So 2d 602, 609 (Fla, 2004) (holding that a parent\u2019s rights may only be terminated on the basis of a similar Florida statutory presumption if the state also establishes that there is \u201ca substantial risk of significant harm to the current child\u201d).\nThe statutory presumption at issue in MCL 712A.19b(3)\u00a9\u2014that a parent\u2019s unfitness may be based solely on a prior involuntary termination\u2014raises significant constitutional questions that are not complained of in this case but nevertheless trouble me. When someone is accused of a crime, due process does not permit the state to put forth evidence of a prior conviction as sufficient proof to convict him or her of the new charge. To the contrary, we go to great lengths to provide an accused with fair process that does not allow his or her criminal history to play a role in the present adjudication. I do not see why similar process is not due a parent in jeopardy of losing the constitutional right to control the care and custody of his or her children.\nMy concerns regarding the constitutionality of MCL 712A.19b(3)(Z) notwithstanding, I concur with the Court\u2019s decision to deny leave to appeal in this case because the respondent-father has complained only of the Court of Appeals\u2019 sua sponte use of his prior termination as grounds to uphold the trial court\u2019s result specifically because, the respondent argued, there was no finding that his prior termination did not violate Sanders, 495 Mich 394. There is no evidence, however, that the respondent-father\u2019s prior termination was impermissible under Sanders or that he was unaware his prior termination could be used to terminate his parental rights. The respondent-father directly appealed the trial court\u2019s termination of his parental rights under MCL 712A.19b(3)(i), which permits the state to terminate a parent\u2019s rights on the basis of a prior termination that involved serious and chronic neglect or physical or sexual abuse and a showing that the parent has not been rehabilitated; thus, the respondent was plainly aware that his prior termination was at issue in the present proceeding. Accordingly, I am not persuaded that the respondent-father\u2019s arguments merit further review.",
+        "type": "concurrence",
+        "author": "McCormack, J."
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "In re Jackson,\nNo. 152404; Court of Appeals No. 325838."
+  },
+  "file_name": "0943-02",
+  "first_page_order": 889,
+  "last_page_order": 890
+}

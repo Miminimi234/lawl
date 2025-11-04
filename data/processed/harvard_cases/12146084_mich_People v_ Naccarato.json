@@ -1,0 +1,77 @@
+{
+  "id": 12146084,
+  "name": "People v. Naccarato",
+  "name_abbreviation": "People v. Naccarato",
+  "decision_date": "2015-11-24",
+  "docket_number": "No. 152137; Court of Appeals No. 320571",
+  "first_page": "918",
+  "last_page": "918",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "498 Mich. 918"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Mich.",
+    "id": 8790,
+    "name": "Michigan Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 49,
+    "name_long": "Michigan",
+    "name": "Mich."
+  },
+  "cites_to": [
+    {
+      "cite": "498 Mich 358",
+      "category": "reporters:state",
+      "reporter": "Mich.",
+      "case_ids": [
+        12122895
+      ],
+      "year": 2015,
+      "opinion_index": 0,
+      "case_paths": [
+        "/mich/498/0358-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 96,
+    "char_count": 1003,
+    "ocr_confidence": 0.666,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.246406450723575
+    },
+    "sha256": "af34114d827a655e4b2ddf027b21a31698d5abeeacdb37d68e48fa914b253e4b",
+    "simhash": "1:e541669f439aeb58",
+    "word_count": 169
+  },
+  "last_updated": "2024-02-27T16:10:26.420323+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "People v Naccarato,"
+    ],
+    "opinions": [
+      {
+        "text": "Pursuant to MCR 7.305(H)(1), in lieu of granting leave to appeal, we remand this case to the Wayne Circuit Court. The Court of Appeals, in the course of issuing two opinions in this case, correctly held that Offense Variables 1 and 2 should have been scored at 20 points and 15 points, respectively, and that the circuit court erred by failing to do so. On remand, the circuit court shall determine whether it would have imposed a materially different sentence under the sentencing procedure described in People v Lockridge, 498 Mich 358 (2015), upon correction of the error in scoring the offense variables. If the trial court determines that it would have imposed the same sentence absent the scoring error, it may reaffirm the original sentence, stating its reason for departing from the guidelines on the record. If, however, the trial court determines that it would not have imposed the same sentence, it shall resentence the defendant.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "People v Naccarato,\nNo. 152137; Court of Appeals No. 320571."
+  },
+  "file_name": "0918-02",
+  "first_page_order": 864,
+  "last_page_order": 864
+}

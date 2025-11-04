@@ -1,0 +1,741 @@
+{
+  "id": 12521148,
+  "name": "Shudde FATH; Save Barton Creek Association; Friends of the Wildflower Center; Carole Keeton; Frank Cloud Cooksey; Jerry Jeff Walker ; Susan Walker; Doctor Laurie Dries; Save Our Springs Alliance, Incorporated; MoPac Corridor Neighbors Alliance; The Friendship Alliance of Northern Hays County, Incorporated; Clean Water Action, Plaintiffs-Appellants v. TEXAS DEPARTMENT OF TRANSPORTATION; Central Texas Regional Mobility Authority, Defendants-Appellees",
+  "name_abbreviation": "Fath v. Tex. Dep't of Transp.",
+  "decision_date": "2018-07-17",
+  "docket_number": "No. 17-50683",
+  "first_page": "132",
+  "last_page": "140",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "924 F.3d 132"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "5th Cir.",
+    "id": 8820,
+    "name": "United States Court of Appeals for the Fifth Circuit"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "637 F.2d 430",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1353856
+      ],
+      "year": 1981,
+      "pin_cites": [
+        {
+          "page": "440"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/637/0430-01"
+      ]
+    },
+    {
+      "cite": "23 U.S.C. \u00a7 327",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "(a)(2)(A) and (c)"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "40 C.F.R. \u00a7 1508.9",
+      "category": "laws:admin_compilation",
+      "reporter": "C.F.R.",
+      "pin_cites": [
+        {
+          "page": "(a)(1)",
+          "parenthetical": "defining an Environmental Assessment as a \"concise public document\" that \"[b]riefly provide[s] sufficient evidence and analysis\""
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "919 F.2d 439",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1245041
+      ],
+      "year": 1990,
+      "pin_cites": [
+        {
+          "page": "443"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/919/0439-01"
+      ]
+    },
+    {
+      "cite": "460 F.3d 1125",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        3673901
+      ],
+      "year": 2006,
+      "pin_cites": [
+        {
+          "page": "1140"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/460/1125-01"
+      ]
+    },
+    {
+      "cite": "668 F.3d 1067",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        6049141
+      ],
+      "year": 2011,
+      "pin_cites": [
+        {
+          "page": "1082"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/668/1067-01"
+      ]
+    },
+    {
+      "cite": "762 F.3d 97",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        4110968,
+        4178754
+      ],
+      "year": 2014,
+      "pin_cites": [
+        {
+          "page": "113",
+          "parenthetical": "concluding that no cumulative impact analysis was needed where \"the [Environmental Assessment] concluded that because the ... Project itself was expected to have minimal impacts, no significant cumulative impacts were expected to flow\""
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us-app-dc/412/0097-01",
+        "/f3d/762/0097-01"
+      ]
+    },
+    {
+      "cite": "2018 WL 3339539",
+      "category": "reporters:specialty_west",
+      "reporter": "WL",
+      "year": 2018,
+      "pin_cites": [
+        {
+          "page": "*8-9",
+          "parenthetical": "holding that a full cumulative impact analysis was unnecessary where Environmental Assessments concluded that a project would have no incremental impact and \"hence, there could be no cumulative effects\""
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "894 F.3d 692",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        12517519
+      ],
+      "year": 2018,
+      "pin_cites": [
+        {
+          "page": "702-04",
+          "parenthetical": "holding that a full cumulative impact analysis was unnecessary where Environmental Assessments concluded that a project would have no incremental impact and \"hence, there could be no cumulative effects\""
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/894/0692-01"
+      ]
+    },
+    {
+      "cite": "40 C.F.R. \u00a7 1500.1",
+      "category": "laws:admin_compilation",
+      "reporter": "C.F.R.",
+      "pin_cites": [
+        {
+          "page": "(c)",
+          "parenthetical": "\"NEPA's purpose is not to generate paperwork-even excellent paperwork-but to foster excellent action.\""
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "230 F.3d 170",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        1094356
+      ],
+      "year": 2000,
+      "pin_cites": [
+        {
+          "page": "175-76",
+          "parenthetical": "analyzing the sufficiency of a cumulative impacts analysis in a supplemental Environmental Impact Statement under the \"rule of reason\" and arbitrary and capricious standard"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/230/0170-01"
+      ]
+    },
+    {
+      "cite": "541 U.S. 752",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        5923753
+      ],
+      "weight": 5,
+      "year": 2004,
+      "pin_cites": [
+        {
+          "page": "767"
+        },
+        {
+          "page": "768"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/541/0752-01"
+      ]
+    },
+    {
+      "cite": "40 C.F.R. \u00a7 1508.7",
+      "category": "laws:admin_compilation",
+      "reporter": "C.F.R.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "352 F.3d 545",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        9297298
+      ],
+      "year": 2003,
+      "pin_cites": [
+        {
+          "page": "559-60"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/352/0545-01"
+      ]
+    },
+    {
+      "cite": "762 F.3d 374",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        4179396
+      ],
+      "year": 2014,
+      "pin_cites": [
+        {
+          "page": "395"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/762/0374-01"
+      ]
+    },
+    {
+      "cite": "37 Fed. Reg. 21,809",
+      "category": "reporters:federal",
+      "reporter": "Fed. Reg.",
+      "year": 1972,
+      "pin_cites": [
+        {
+          "page": "21,810"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "24 F.3d 1465",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        10516044
+      ],
+      "weight": 2,
+      "year": 1994,
+      "pin_cites": [
+        {
+          "page": "1472"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/24/1465-01"
+      ]
+    },
+    {
+      "cite": "425 U.S. 820",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6183218
+      ],
+      "weight": 3,
+      "year": 1976,
+      "pin_cites": [
+        {
+          "page": "834"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/425/0820-01"
+      ]
+    },
+    {
+      "cite": "550 U.S. 429",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        3556149
+      ],
+      "weight": 3,
+      "year": 2007,
+      "pin_cites": [
+        {
+          "page": "433-34",
+          "parenthetical": "quoting in part Brown v. Gen. Servs. Admin. , 425 U.S. 820, 834, 96 S.Ct. 1961, 48 L.Ed.2d 402 (1976) "
+        },
+        {
+          "parenthetical": "quoting in part Brown v. Gen. Servs. Admin. , 425 U.S. 820, 834, 96 S.Ct. 1961, 48 L.Ed.2d 402 (1976) "
+        },
+        {
+          "parenthetical": "quoting in part Brown v. Gen. Servs. Admin. , 425 U.S. 820, 834, 96 S.Ct. 1961, 48 L.Ed.2d 402 (1976) "
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/550/0429-01"
+      ]
+    },
+    {
+      "cite": "826 F.2d 60",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        4331736,
+        1741295
+      ],
+      "weight": 2,
+      "year": 1987,
+      "pin_cites": [
+        {
+          "page": "68, 70-71"
+        },
+        {
+          "page": "69-70"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us-app-dc/263/0426-01",
+        "/f2d/826/0060-01"
+      ]
+    },
+    {
+      "cite": "906 F.2d 1477",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1812163
+      ],
+      "year": 1990,
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/906/1477-01"
+      ]
+    },
+    {
+      "cite": "87 F.3d 1242",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        551
+      ],
+      "weight": 3,
+      "year": 1996,
+      "pin_cites": [
+        {
+          "page": "1247-48"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/87/1242-01"
+      ]
+    },
+    {
+      "cite": "162 F.3d 1046",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        11810137,
+        11809994
+      ],
+      "year": 1998,
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/162/1046-02",
+        "/f3d/162/1046-01"
+      ]
+    },
+    {
+      "cite": "349 F.3d 938",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        9072596
+      ],
+      "weight": 3,
+      "year": 2003,
+      "pin_cites": [
+        {
+          "page": "962-63"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/349/0938-01"
+      ]
+    },
+    {
+      "cite": "753 F.3d 1304",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        5918307,
+        4280527
+      ],
+      "year": 2014,
+      "pin_cites": [
+        {
+          "page": "1314-15"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/753/1304-01",
+        "/us-app-dc/410/0137-01"
+      ]
+    },
+    {
+      "cite": "40 C.F.R. \u00a7\u00a7 1502.4",
+      "category": "laws:admin_compilation",
+      "reporter": "C.F.R.",
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "(a)"
+        },
+        {
+          "page": "(a)"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "950 F.2d 1129",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        10525892
+      ],
+      "weight": 7,
+      "year": 1992,
+      "pin_cites": [
+        {
+          "page": "1140",
+          "parenthetical": "per curiam"
+        },
+        {
+          "page": "1141-42",
+          "parenthetical": "concluding that challenged highway segments \"fully comport[ed] with both case law and FHWA's regulations\" and \"satisfie[d] the FHWA's standards\" without discussing the CEQ regulations"
+        },
+        {
+          "page": "1141",
+          "parenthetical": "\"[B]oth the segment of the Austin Outer Loop as well as MoPac South fully comport with both case law and FHWA's regulations requiring that segments have independent utility, connect with logical termini , and do not foreclose the opportunity to consider alternatives.\" (emphasis added) "
+        },
+        {
+          "page": "1142",
+          "parenthetical": "concluding that a highway segment \"satisfie[d] the FHWA's standards for proper segmentation\" as to independent utility because it increased the utility of a roadway network; provided improved access to business, residential, and recreational features; and would relieve traffic"
+        },
+        {
+          "page": "1141"
+        },
+        {
+          "page": "1140"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/950/1129-01"
+      ]
+    },
+    {
+      "cite": "23 C.F.R. \u00a7 771.101",
+      "category": "laws:admin_compilation",
+      "reporter": "C.F.R.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "42 U.S.C. \u00a7\u00a7 4342",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "42 U.S.C. \u00a7 4332",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "pin_cites": [
+        {
+          "page": "(2)(C)"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "719 F.2d 1272",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1899128
+      ],
+      "year": 1983,
+      "pin_cites": [
+        {
+          "page": "1282"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/719/1272-01"
+      ]
+    },
+    {
+      "cite": "427 U.S. 390",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6178084
+      ],
+      "weight": 3,
+      "year": 1976,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/427/0390-01"
+      ]
+    },
+    {
+      "cite": "490 U.S. 332",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        605709
+      ],
+      "weight": 3,
+      "year": 1989,
+      "pin_cites": [
+        {
+          "page": "349-50",
+          "parenthetical": "quoting Kleppe v. Sierra Club , 427 U.S. 390, 410 n.21, 96 S.Ct. 2718, 49 L.Ed.2d 576 (1976) "
+        },
+        {
+          "parenthetical": "quoting Kleppe v. Sierra Club , 427 U.S. 390, 410 n.21, 96 S.Ct. 2718, 49 L.Ed.2d 576 (1976) "
+        },
+        {
+          "parenthetical": "quoting Kleppe v. Sierra Club , 427 U.S. 390, 410 n.21, 96 S.Ct. 2718, 49 L.Ed.2d 576 (1976) "
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/490/0332-01"
+      ]
+    },
+    {
+      "cite": "23 C.F.R. \u00a7 771.111",
+      "category": "laws:admin_compilation",
+      "reporter": "C.F.R.",
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "(f)"
+        },
+        {
+          "page": "(f)"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "40 C.F.R. \u00a7 1508.25",
+      "category": "laws:admin_compilation",
+      "reporter": "C.F.R.",
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "(a)(2)"
+        },
+        {
+          "page": "(c)"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "463 U.S. 29",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6190630
+      ],
+      "weight": 5,
+      "year": 1983,
+      "pin_cites": [
+        {
+          "page": "43"
+        },
+        {
+          "page": "43"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/463/0029-01"
+      ]
+    },
+    {
+      "cite": "5 U.S.C. \u00a7 706",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "903 F.2d 1533",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        10541469
+      ],
+      "weight": 3,
+      "year": 1990,
+      "pin_cites": [
+        {
+          "page": "1539"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/903/1533-01"
+      ]
+    },
+    {
+      "cite": "951 F.2d 669",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        10522296
+      ],
+      "weight": 4,
+      "year": 1992,
+      "pin_cites": [
+        {
+          "page": "678-79"
+        },
+        {
+          "page": "678"
+        },
+        {
+          "page": "677"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/951/0669-01"
+      ]
+    },
+    {
+      "cite": "772 F.2d 1225",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        306735
+      ],
+      "weight": 5,
+      "year": 1985,
+      "pin_cites": [
+        {
+          "page": "1240"
+        },
+        {
+          "page": "1234, 1247"
+        },
+        {
+          "page": "1246-47"
+        },
+        {
+          "page": "1242-43"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/772/1225-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 1075,
+    "char_count": 20630,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.2593100987740984
+    },
+    "sha256": "fa4f45d90856b1a2ca04f4c4d7dfcff5362b30b2763f60ae168ced6ff26b2c7c",
+    "simhash": "1:bd2b27334d1cc698",
+    "word_count": 3224
+  },
+  "last_updated": "2024-02-27T18:46:58.656971+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "file_name": "0132-01",
+  "first_page_order": 132,
+  "last_page_order": 140
+}

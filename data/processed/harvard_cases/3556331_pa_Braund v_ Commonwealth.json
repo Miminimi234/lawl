@@ -1,0 +1,80 @@
+{
+  "id": 3556331,
+  "name": "Georgianna BRAUND, Respondent, v. COMMONWEALTH of Pennsylvania, DEPARTMENT OF TRANSPORTATION, BUREAU OF DRIVER LICENSING, Petitioner",
+  "name_abbreviation": "Braund v. Commonwealth",
+  "decision_date": "2007-05-01",
+  "docket_number": "No. 162 MAL 2004",
+  "first_page": "19",
+  "last_page": "19",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "592 Pa. 19"
+    },
+    {
+      "type": "parallel",
+      "cite": "922 A.2d 879"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "880 A.2d 552",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        687742,
+        8937046
+      ],
+      "year": 2005,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/583/0592-01",
+        "/a2d/880/0552-01"
+      ]
+    },
+    {
+      "cite": "583 Pa. 592",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        687742
+      ],
+      "year": 2005,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/583/0592-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 45,
+    "char_count": 405,
+    "ocr_confidence": 0.67,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.1003274708293804
+    },
+    "sha256": "40923103faea6a7d03264e8d38ee2d4ad04f1dbb8c27f7dfc621cd5f4fa7bc94",
+    "simhash": "1:55ffaaf7a1a3a5f6",
+    "word_count": 59
+  },
+  "last_updated": "2024-02-27T21:45:49.457734+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "file_name": "0019-01",
+  "first_page_order": 71,
+  "last_page_order": 71
+}

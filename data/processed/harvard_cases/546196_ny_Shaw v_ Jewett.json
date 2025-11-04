@@ -1,0 +1,100 @@
+{
+  "id": 546196,
+  "name": "John Shaw, Respondent, v. Hugh J. Jewett, Receiver, etc., Appellant",
+  "name_abbreviation": "Shaw v. Jewett",
+  "decision_date": "1881-10-04",
+  "docket_number": "",
+  "first_page": "616",
+  "last_page": "617",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "86 N.Y. 616"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "N.Y.",
+    "id": 24653,
+    "name": "New York Court of Appeals"
+  },
+  "jurisdiction": {
+    "id": 1,
+    "name_long": "New York",
+    "name": "N.Y."
+  },
+  "cites_to": [
+    {
+      "cite": "58 N. Y. 248",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        2158428
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny/58/0248-01"
+      ]
+    },
+    {
+      "cite": "75 N. Y. 320",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        536832
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "451"
+        },
+        {
+          "page": "338"
+        }
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny/75/0320-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 203,
+    "char_count": 2420,
+    "ocr_confidence": 0.545,
+    "pagerank": {
+      "raw": 4.5494214248776314e-07,
+      "percentile": 0.9244490701967566
+    },
+    "sha256": "1396ae39932fe0c40800ff54ae67f2e66ae7e1dab267e9c18c6d79f4d01d6b06",
+    "simhash": "1:473e7982469728ad",
+    "word_count": 450
+  },
+  "last_updated": "2024-02-27T20:42:53.385782+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "John Shaw, Respondent, v. Hugh J. Jewett, Receiver, etc., Appellant."
+    ],
+    "opinions": [
+      {
+        "text": "Folger, Ch. J.,\nreads for affirmance.\nAll concur.\nJudgment affirmed:",
+        "type": "majority",
+        "author": "Folger, Ch. J.,"
+      }
+    ],
+    "attorneys": [
+      "Lewis E. Carr for appellant.",
+      "W. F. O'Neil for respondent."
+    ],
+    "corrections": "",
+    "head_matter": "John Shaw, Respondent, v. Hugh J. Jewett, Receiver, etc., Appellant.\n(Argued May 12, 1881;\ndecided October 4, 1881.)\nThis action was brought to recover damages for injuries sustained by plaintiff from a collision with a train on the Erie railway at a street crossing.\nThe negligence charged was neglect to ring the bell on the engine as it approached the crossing. The court charged the jury that plaintiff had the right to assume that defendant would do his duty and ring a bell. This was excepted to, and the court thereupon supplemented it by saying to the jury that plaintiff, though he might make that assumption, was not relieved thereby from the duty on his part to vigilantly use his senses to avoid danger. Held, that the charge as thus restricted was proper. The court citing Voak v. N. C. R. Co. (75 N. Y. 320); Weber v. N. Y. C. & H. R. R. Co. (58 id. 451); Terry v. Jewett (78 id. 338).\nThe court was asked to charge that if they believed that the plaintiff could have seen the train at distance enough from the track to have stopped his horse before reaching the track, his failure to see the train was negligence on his part and he was not entitled to recover. The court refused so to charge. Held no error. The court here say:\n\u201c That is not the rule. The plaintiff is not bound to see; he is bound to make all reasonable effort to see that a careful prudent man would make in like circumstances. He is not to provide against any certain result. He is to make an effort for a result that will give safety; such effort as caution, care and prudence will dictate.\u201d\nThe court stated to the jury that of course the interest of self-preservation would prevent a man from attempting to cross a railroad if he saw that the engine was bound to reach the point of crossing before he could pass ; on this being excepted to, the court added it would leave that to the jury, whether it would or not; and in connection therewith also told the jury to seek whether the plaintiff took the precaution of a prudent man before attempting to cross the track, and that the law exacted of him before attempting to cross a vigilant use of his senses to look both ways and to listen. Held no error. (Reynolds v. N. Y. C. & H. R. R. Co., 58 N. Y. 248; Morrison v. N. Y. C. & H. R. R. Co., 63 id. 643.)\nLewis E. Carr for appellant.\nW. F. O'Neil for respondent."
+  },
+  "file_name": "0616-01",
+  "first_page_order": 642,
+  "last_page_order": 643
+}

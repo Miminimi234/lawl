@@ -1,0 +1,47 @@
+{
+  "id": 4280426,
+  "name": "Darien HOUSER, Petitioner v. COMMONWEALTH of Pennsylvania, Respondent",
+  "name_abbreviation": "Houser v. Commonwealth",
+  "decision_date": "2013-11-20",
+  "docket_number": "No. 152 EM 2013",
+  "first_page": "171",
+  "last_page": "171",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "622 Pa. 171"
+    },
+    {
+      "type": "parallel",
+      "cite": "80 A.3d 377"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 49,
+    "char_count": 392,
+    "ocr_confidence": 0.67,
+    "sha256": "fa3b2071086f41a7d4444536a28177a6f44e4d7ec3f7f55e98c9449995123f4b",
+    "simhash": "1:dcd380ae93500f2e",
+    "word_count": 62
+  },
+  "last_updated": "2023-07-14T18:30:24.877122+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "file_name": "0171-01",
+  "first_page_order": 215,
+  "last_page_order": 215
+}

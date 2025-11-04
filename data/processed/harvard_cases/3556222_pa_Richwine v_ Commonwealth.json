@@ -1,0 +1,96 @@
+{
+  "id": 3556222,
+  "name": "John RICHWINE, Respondent, v. COMMONWEALTH of Pennsylvania, DEPARTMENT OF TRANSPORTATION, BUREAU OF DRIVER LICENSING, Petitioner",
+  "name_abbreviation": "Richwine v. Commonwealth",
+  "decision_date": "2007-05-01",
+  "docket_number": "No. 658 MAL 2003",
+  "first_page": "22",
+  "last_page": "22",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "592 Pa. 22"
+    },
+    {
+      "type": "parallel",
+      "cite": "922 A.2d 881"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "915 A.2d 1155",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8340050,
+        3017333
+      ],
+      "year": 2007,
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/915/1155-01",
+        "/pa/591/0056-01"
+      ]
+    },
+    {
+      "cite": "591 Pa. 56",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        3017333
+      ],
+      "year": 2007,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/591/0056-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 44,
+    "char_count": 399,
+    "ocr_confidence": 0.68,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.10032341653895652
+    },
+    "sha256": "0be409c23f302e8f0e66bdc65978645f280d9f96743072e54ecf93806884d8f0",
+    "simhash": "1:dddf127f8125a5fa",
+    "word_count": 59
+  },
+  "last_updated": "2024-02-27T21:45:49.457734+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "John RICHWINE, Respondent, v. COMMONWEALTH of Pennsylvania, DEPARTMENT OF TRANSPORTATION, BUREAU OF DRIVER LICENSING, Petitioner."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nPER CURIAM.\nThe Petition for Allowance of Appeal is GRANTED, and the order of the Commonwealth Court is REVERSED pursuant to McGrory v. PennDOT, 591 Pa. 56, 915 A.2d 1155 (2007). Jurisdiction relinquished.",
+        "type": "majority",
+        "author": "PER CURIAM."
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "922 A.2d 881\nJohn RICHWINE, Respondent, v. COMMONWEALTH of Pennsylvania, DEPARTMENT OF TRANSPORTATION, BUREAU OF DRIVER LICENSING, Petitioner.\nSupreme Court of Pennsylvania.\nMay 1, 2007."
+  },
+  "file_name": "0022-01",
+  "first_page_order": 74,
+  "last_page_order": 74
+}

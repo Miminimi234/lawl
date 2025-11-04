@@ -1,0 +1,59 @@
+{
+  "id": 12144256,
+  "name": "People v. Floyd Allen",
+  "name_abbreviation": "People v. Allen",
+  "decision_date": "2015-11-04",
+  "docket_number": "No. 151843; Court of Appeals No. 318560",
+  "first_page": "910",
+  "last_page": "911",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "498 Mich. 910"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Mich.",
+    "id": 8790,
+    "name": "Michigan Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 49,
+    "name_long": "Michigan",
+    "name": "Mich."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 38,
+    "char_count": 281,
+    "ocr_confidence": 0.729,
+    "sha256": "de67bbdcbe1f221d4c2628b3fef46503d0fb2678fa1128eb56956539e9392299",
+    "simhash": "1:428e422ba007407e",
+    "word_count": 44
+  },
+  "last_updated": "2023-07-14T17:53:29.610635+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "People v Floyd Allen,"
+    ],
+    "opinions": [
+      {
+        "text": "The parties shall address whether the second-offense habitual-offender enhancement set forth under MCL 769.10 may be applied to the sentence prescribed under MCL 28.729(l)(b).",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Leave to Appeal Granted November 4, 2015:\nPeople v Floyd Allen,\nNo. 151843; Court of Appeals No. 318560."
+  },
+  "file_name": "0910-04",
+  "first_page_order": 856,
+  "last_page_order": 857
+}

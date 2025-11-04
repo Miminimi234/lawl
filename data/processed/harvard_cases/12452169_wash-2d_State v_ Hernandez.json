@@ -1,0 +1,78 @@
+{
+  "id": 12452169,
+  "name": "State, Petitioner, v. Hernandez, Respondent",
+  "name_abbreviation": "State v. Hernandez",
+  "decision_date": "2017-01-04",
+  "docket_number": "No. 93112-7",
+  "first_page": "1001",
+  "last_page": "1001",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "187 Wash. 2d 1001"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Wash.",
+    "id": 9029,
+    "name": "Washington Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 38,
+    "name_long": "Washington",
+    "name": "Wash."
+  },
+  "cites_to": [
+    {
+      "cite": "193 Wn. App. 1017",
+      "category": "reporters:state",
+      "reporter": "Wash. App.",
+      "case_ids": [
+        12449995,
+        12449996,
+        12449997,
+        12449998
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-app/193/1017-01",
+        "/wash-app/193/1017-02",
+        "/wash-app/193/1017-03",
+        "/wash-app/193/1017-04"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 31,
+    "char_count": 230,
+    "ocr_confidence": 0.846,
+    "sha256": "d9613eca9b14cc77518dd41113df51460a1c8e54543152454a079a8e1a71733c",
+    "simhash": "1:2d396e3d25410d6d",
+    "word_count": 38
+  },
+  "last_updated": "2024-02-27T20:27:34.476040+00:00",
+  "provenance": {
+    "date_added": "2019-05-21",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "State, Petitioner, v. Hernandez, Respondent,"
+    ],
+    "opinions": [
+      {
+        "text": "Petition for review of a decision of the Court of Appeals, No. 46093-9-II, April 12, 2016, 193 Wn. App. 1017. Granted and remanded to the Court of Appeals January 4, 2017.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "State, Petitioner, v. Hernandez, Respondent,\nNo. 93112-7."
+  },
+  "file_name": "1001-01",
+  "first_page_order": 969,
+  "last_page_order": 969
+}

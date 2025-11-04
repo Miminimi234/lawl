@@ -1,0 +1,47 @@
+{
+  "id": 3555832,
+  "name": "COMMONWEALTH of Pennsylvania, Respondent, v. Raymond COLON, Petitioner",
+  "name_abbreviation": "Commonwealth v. Colon",
+  "decision_date": "2007-06-26",
+  "docket_number": "No. 61 MM 2007",
+  "first_page": "623",
+  "last_page": "623",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "592 Pa. 623"
+    },
+    {
+      "type": "parallel",
+      "cite": "927 A.2d 208"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 40,
+    "char_count": 292,
+    "ocr_confidence": 0.683,
+    "sha256": "c0084273074b5bd4330e549e8a425ada5a11b10faca513af4658a12be1a4250e",
+    "simhash": "1:90b50a33d3df8672",
+    "word_count": 49
+  },
+  "last_updated": "2023-07-14T20:20:44.535844+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "file_name": "0623-01",
+  "first_page_order": 675,
+  "last_page_order": 675
+}

@@ -1,0 +1,67 @@
+{
+  "id": 4205332,
+  "name": "Christopher BERRY, Petitioner v. COURT OF COMMON PLEAS OF PHILADELPHIA, Respondent",
+  "name_abbreviation": "Berry v. Court of Common Pleas",
+  "decision_date": "2011-11-02",
+  "docket_number": "No. 84 EM 2011",
+  "first_page": "333",
+  "last_page": "333",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "612 Pa. 333"
+    },
+    {
+      "type": "parallel",
+      "cite": "30 A.3d 1111"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 47,
+    "char_count": 351,
+    "ocr_confidence": 0.716,
+    "pagerank": {
+      "raw": 4.688403287882615e-08,
+      "percentile": 0.13924376679466774
+    },
+    "sha256": "afbc38de7c26c635c7456dd6d9e46ff254a94f99c5390a97b3847fd1b853abdc",
+    "simhash": "1:78e753b5e3901e3f",
+    "word_count": 57
+  },
+  "last_updated": "2023-07-14T19:33:52.292960+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Christopher BERRY, Petitioner v. COURT OF COMMON PLEAS OF PHILADELPHIA, Respondent."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nPER CURIAM.\nAND NOW, this 2nd day of November, the Application for Leave to File Original Process is GRANTED, and the Petition for Writ of Mandamus and/or Extraordinary Relief is DENIED.",
+        "type": "majority",
+        "author": "PER CURIAM."
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "30 A.3d 1111\nChristopher BERRY, Petitioner v. COURT OF COMMON PLEAS OF PHILADELPHIA, Respondent.\nNo. 84 EM 2011.\nSupreme Court of Pennsylvania.\nNov. 2, 2011."
+  },
+  "file_name": "0333-01",
+  "first_page_order": 377,
+  "last_page_order": 377
+}

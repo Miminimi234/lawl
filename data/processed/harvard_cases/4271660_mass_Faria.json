@@ -1,0 +1,186 @@
+{
+  "id": 4271660,
+  "name": "John Faria, petitioner",
+  "name_abbreviation": "Faria",
+  "decision_date": "2011-11-21",
+  "docket_number": "",
+  "first_page": "1021",
+  "last_page": "1022",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "460 Mass. 1021"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Mass.",
+    "id": 8825,
+    "name": "Massachusetts Supreme Judicial Court"
+  },
+  "jurisdiction": {
+    "id": 4,
+    "name_long": "Massachusetts",
+    "name": "Mass."
+  },
+  "cites_to": [
+    {
+      "cite": "525 U.S. 1003",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11151328,
+        11151136,
+        11151112,
+        11151292,
+        11151022,
+        11151186,
+        11151094,
+        11151064,
+        11151225,
+        11151162,
+        11151259,
+        11151036
+      ],
+      "year": 1998,
+      "pin_cites": [
+        {
+          "parenthetical": "holding that petitioner under G. L. c. 211, \u00a7 3, has burden of creating a record that demonstrates entitlement to relief"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/525/1003-12",
+        "/us/525/1003-06",
+        "/us/525/1003-05",
+        "/us/525/1003-11",
+        "/us/525/1003-01",
+        "/us/525/1003-08",
+        "/us/525/1003-04",
+        "/us/525/1003-03",
+        "/us/525/1003-09",
+        "/us/525/1003-07",
+        "/us/525/1003-10",
+        "/us/525/1003-02"
+      ]
+    },
+    {
+      "cite": "428 Mass. 1001",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "case_ids": [
+        651167
+      ],
+      "year": 1998,
+      "pin_cites": [
+        {
+          "page": "1002",
+          "parenthetical": "holding that petitioner under G. L. c. 211, \u00a7 3, has burden of creating a record that demonstrates entitlement to relief"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mass/428/1001-01"
+      ]
+    },
+    {
+      "cite": "395 Mass. 135",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "case_ids": [
+        896060
+      ],
+      "year": 1985,
+      "pin_cites": [
+        {
+          "parenthetical": "same"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mass/395/0135-01"
+      ]
+    },
+    {
+      "cite": "413 Mass. 106",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "case_ids": [
+        3902580
+      ],
+      "year": 1992,
+      "pin_cites": [
+        {
+          "parenthetical": "involving appeal from dismissal of appeal pursuant to rule 10 [c]"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mass/413/0106-01"
+      ]
+    },
+    {
+      "cite": "434 Mass. 1015",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "case_ids": [
+        1080043
+      ],
+      "year": 2001,
+      "pin_cites": [
+        {
+          "page": "1016"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mass/434/1015-01"
+      ]
+    },
+    {
+      "cite": "423 Mass. 1019",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "case_ids": [
+        1028037
+      ],
+      "year": 1996,
+      "pin_cites": [
+        {
+          "page": "1019"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mass/423/1019-01"
+      ]
+    },
+    {
+      "cite": "417 Mass. 1602",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "year": 1994,
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 227,
+    "char_count": 3016,
+    "ocr_confidence": 0.922,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.14320777002829121
+    },
+    "sha256": "be3458336a4ae9b0aaaef4dcb40674d252c6be7a016fc70ceb8bebf44de5e381",
+    "simhash": "1:b73a51b702bd4da9",
+    "word_count": 532
+  },
+  "last_updated": "2024-02-27T17:56:26.592595+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "file_name": "1021-01",
+  "first_page_order": 911,
+  "last_page_order": 912
+}

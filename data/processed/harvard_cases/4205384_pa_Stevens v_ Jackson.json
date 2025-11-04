@@ -1,0 +1,110 @@
+{
+  "id": 4205384,
+  "name": "Paul STEVENS, Respondent v. Lisa JACKSON and Thomas Luther, Petitioners",
+  "name_abbreviation": "Stevens v. Jackson",
+  "decision_date": "2011-11-09",
+  "docket_number": "No. 340 MAL 2011",
+  "first_page": "485",
+  "last_page": "485",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "612 Pa. 485"
+    },
+    {
+      "type": "parallel",
+      "cite": "31 A.3d 656"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "654 A.2d 529",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        474188,
+        7868357
+      ],
+      "year": 1995,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/539/0584-01",
+        "/a2d/654/0529-01"
+      ]
+    },
+    {
+      "cite": "539 Pa. 584",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        474188
+      ],
+      "year": 1995,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/539/0584-01"
+      ]
+    },
+    {
+      "cite": "535 Pa. 95",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1841488
+      ],
+      "weight": 2,
+      "year": 1993,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/535/0095-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 104,
+    "char_count": 1001,
+    "ocr_confidence": 0.694,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.13865248514488682
+    },
+    "sha256": "65247fdc0a78756b45e56373624e2c7f137d06c5b4937a85f331d56c0a02cedd",
+    "simhash": "1:54b4871fc18a0dec",
+    "word_count": 159
+  },
+  "last_updated": "2024-02-27T21:06:01.025246+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Paul STEVENS, Respondent v. Lisa JACKSON and Thomas Luther, Petitioners."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nPER CURIAM.\nAND NOW, this 9th day of November, 2011, Petitioners\u2019 Petition for Allowance of Appeal is GRANTED, and the Superior Court\u2019s order quashing Petitioners\u2019 appeal is VACATED. This matter is REMANDED for the Superior Court to consider the substance of Petitioners\u2019 appeal. Estoppel is at issue in this case. The fact that genetic testing has occurred has not mooted out that issue; genetic testing does not resolve estoppel issues, and the estoppel issue is still being contested by the parties. Estoppel issues arising in paternity testing cases are immediately appealable. See Jones v. Trojak, 535 Pa. 95, 634 A.2d 201 (1993) and Freedman v. McCandless, 539 Pa. 584, 654 A.2d 529 (1995). Under this authority, parties are not constrained to wait until they file an appeal regarding a custody order to raise an estoppel argument.\nJurisdiction relinquished.",
+        "type": "majority",
+        "author": "PER CURIAM."
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "31 A.3d 656\nPaul STEVENS, Respondent v. Lisa JACKSON and Thomas Luther, Petitioners.\nSupreme Court of Pennsylvania.\nNov. 9, 2011."
+  },
+  "file_name": "0485-01",
+  "first_page_order": 529,
+  "last_page_order": 529
+}

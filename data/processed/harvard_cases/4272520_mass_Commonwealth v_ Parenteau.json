@@ -1,0 +1,793 @@
+{
+  "id": 4272520,
+  "name": "Commonwealth vs. Peter L. Parenteau",
+  "name_abbreviation": "Commonwealth v. Parenteau",
+  "decision_date": "2011-06-10",
+  "docket_number": "",
+  "first_page": "1",
+  "last_page": "11",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "460 Mass. 1"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Mass.",
+    "id": 8825,
+    "name": "Massachusetts Supreme Judicial Court"
+  },
+  "jurisdiction": {
+    "id": 4,
+    "name_long": "Massachusetts",
+    "name": "Mass."
+  },
+  "cites_to": [
+    {
+      "cite": "76 Mass. App. Ct. 167",
+      "category": "reporters:state",
+      "reporter": "Mass. App. Ct.",
+      "case_ids": [
+        3836247
+      ],
+      "weight": 2,
+      "year": 2010,
+      "opinion_index": 0,
+      "case_paths": [
+        "/mass-app-ct/76/0167-01"
+      ]
+    },
+    {
+      "cite": "76 Mass. App. Ct. 904",
+      "category": "reporters:state",
+      "reporter": "Mass. App. Ct.",
+      "case_ids": [
+        3835770
+      ],
+      "year": 2010,
+      "pin_cites": [
+        {
+          "page": "904"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mass-app-ct/76/0904-01"
+      ]
+    },
+    {
+      "cite": "423 U.S. 887",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6366185,
+        6366028,
+        6366380,
+        6367151,
+        6365873,
+        6366962,
+        6366710
+      ],
+      "year": 1975,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/423/0887-03",
+        "/us/423/0887-02",
+        "/us/423/0887-04",
+        "/us/423/0887-07",
+        "/us/423/0887-01",
+        "/us/423/0887-06",
+        "/us/423/0887-05"
+      ]
+    },
+    {
+      "cite": "368 Mass. 286",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "case_ids": [
+        307076
+      ],
+      "year": 1975,
+      "pin_cites": [
+        {
+          "page": "291-292"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mass/368/0286-01"
+      ]
+    },
+    {
+      "cite": "11 Mass. App. Ct. 1",
+      "category": "reporters:state",
+      "reporter": "Mass. App. Ct.",
+      "case_ids": [
+        3965982
+      ],
+      "year": 2010,
+      "pin_cites": [
+        {
+          "page": "5-7"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mass-app-ct/11/0001-01"
+      ]
+    },
+    {
+      "cite": "438 Mass. 444",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "case_ids": [
+        201339
+      ],
+      "weight": 2,
+      "year": 2003,
+      "pin_cites": [
+        {
+          "page": "452-453"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mass/438/0444-01"
+      ]
+    },
+    {
+      "cite": "546 U.S. 870",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        5988545,
+        5996065,
+        5977956,
+        6014825,
+        5979896,
+        5875664,
+        5883704,
+        5944915,
+        6013140,
+        6006869,
+        6014901,
+        5977397,
+        5941494
+      ],
+      "year": 2005,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/546/0870-01",
+        "/us/546/0870-07",
+        "/us/546/0870-11",
+        "/us/546/0870-09",
+        "/us/546/0870-06",
+        "/us/546/0870-12",
+        "/us/546/0870-04",
+        "/us/546/0870-13",
+        "/us/546/0870-10",
+        "/us/546/0870-03",
+        "/us/546/0870-08",
+        "/us/546/0870-05",
+        "/us/546/0870-02"
+      ]
+    },
+    {
+      "cite": "443 Mass. 752",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "case_ids": [
+        1276626
+      ],
+      "year": 2005,
+      "pin_cites": [
+        {
+          "page": "765"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mass/443/0752-01"
+      ]
+    },
+    {
+      "cite": "399 Mass. 863",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "case_ids": [
+        3795996
+      ],
+      "year": 1987,
+      "opinion_index": 0,
+      "case_paths": [
+        "/mass/399/0863-01"
+      ]
+    },
+    {
+      "cite": "447 Mass. 546",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "case_ids": [
+        3731526
+      ],
+      "year": 2006,
+      "pin_cites": [
+        {
+          "page": "553"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mass/447/0546-01"
+      ]
+    },
+    {
+      "cite": "452 Mass. 379",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "case_ids": [
+        5684526
+      ],
+      "year": 2008,
+      "pin_cites": [
+        {
+          "page": "394"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mass/452/0379-01"
+      ]
+    },
+    {
+      "cite": "77 Mass. App. Ct. 1",
+      "category": "reporters:state",
+      "reporter": "Mass. App. Ct.",
+      "case_ids": [
+        3838359
+      ],
+      "weight": 2,
+      "year": 2010,
+      "pin_cites": [
+        {
+          "page": "5-7",
+          "parenthetical": "holding that admission in evidence of certified copies of docket sheets of defendant's prior convictions did not violate defendant's Sixth Amendment right to confrontation because such records are not testimonial"
+        },
+        {
+          "page": "5"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mass-app-ct/77/0001-01"
+      ]
+    },
+    {
+      "cite": "141 La. 404",
+      "category": "reporters:state",
+      "reporter": "La.",
+      "case_ids": [
+        597961
+      ],
+      "year": 1917,
+      "pin_cites": [
+        {
+          "page": "409"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/la/141/0403-01"
+      ]
+    },
+    {
+      "cite": "318 U.S. 109",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        364179
+      ],
+      "year": 1943,
+      "pin_cites": [
+        {
+          "page": "114",
+          "parenthetical": "holding that accident report provided by railroad company employee did not qualify as business record where essentially prepared for use \"in litigating, not in railroading\""
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/318/0109-01"
+      ]
+    },
+    {
+      "cite": "519 U.S. 1045",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11724832,
+        11724674,
+        11724518,
+        11724423,
+        11724263,
+        11724777,
+        11725031,
+        11724972,
+        11724558,
+        11724366,
+        11724624,
+        11724912,
+        11724725,
+        11724472,
+        11724315
+      ],
+      "year": 1996,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/519/1045-12",
+        "/us/519/1045-09",
+        "/us/519/1045-06",
+        "/us/519/1045-04",
+        "/us/519/1045-01",
+        "/us/519/1045-11",
+        "/us/519/1045-15",
+        "/us/519/1045-14",
+        "/us/519/1045-07",
+        "/us/519/1045-03",
+        "/us/519/1045-08",
+        "/us/519/1045-13",
+        "/us/519/1045-10",
+        "/us/519/1045-05",
+        "/us/519/1045-02"
+      ]
+    },
+    {
+      "cite": "423 Mass. 356",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "case_ids": [
+        1027952
+      ],
+      "year": 1996,
+      "opinion_index": 0,
+      "case_paths": [
+        "/mass/423/0356-01"
+      ]
+    },
+    {
+      "cite": "396 Mass. 202",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "case_ids": [
+        898109
+      ],
+      "year": 1985,
+      "pin_cites": [
+        {
+          "page": "208"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mass/396/0202-01"
+      ]
+    },
+    {
+      "cite": "131 S. Ct. 515",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        12438400,
+        12438401,
+        12438286,
+        12438335,
+        12438334,
+        12438399
+      ],
+      "year": 2010,
+      "opinion_index": 0,
+      "case_paths": [
+        "/l-ed-2d/178/0381-02",
+        "/l-ed-2d/178/0381-03",
+        "/l-ed-2d/178/0365-04",
+        "/l-ed-2d/178/0373-01",
+        "/l-ed-2d/178/0372-07",
+        "/l-ed-2d/178/0381-01"
+      ]
+    },
+    {
+      "cite": "991 A.2d 35",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7287051
+      ],
+      "pin_cites": [
+        {
+          "page": "41-44"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/991/0035-01"
+      ]
+    },
+    {
+      "cite": "158 Wash. App. 518",
+      "category": "reporters:state",
+      "reporter": "Wash. App.",
+      "case_ids": [
+        4007437
+      ],
+      "year": 2010,
+      "pin_cites": [
+        {
+          "page": "531-532",
+          "parenthetical": "affidavit from legal custodian of driving records attesting that records showed that defendant's driver's license was suspended on particular day was testimonial for confrontation clause purposes"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-app/158/0518-01"
+      ]
+    },
+    {
+      "cite": "454 Mass. 744",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "case_ids": [
+        3670262
+      ],
+      "year": 2009,
+      "pin_cites": [
+        {
+          "parenthetical": "factual findings of unavailable medical examiner contained in autopsy report made for purposes of investigating and prosecuting crime were testimonial, and their admission at trial violated confrontation clause"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mass/454/0744-01"
+      ]
+    },
+    {
+      "cite": "595 F.3d 581",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        4216433
+      ],
+      "year": 2010,
+      "pin_cites": [
+        {
+          "page": "586"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/595/0581-01"
+      ]
+    },
+    {
+      "cite": "129 S. Ct. 2527",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        3657952
+      ],
+      "weight": 7,
+      "year": 2009,
+      "pin_cites": [
+        {
+          "page": "2531-2532",
+          "parenthetical": "Melendez-Diaz"
+        },
+        {
+          "page": "2532"
+        },
+        {
+          "page": "2532"
+        },
+        {
+          "page": "2538"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/557/0305-01"
+      ]
+    },
+    {
+      "cite": "548 U.S. 926",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "year": 2006,
+      "opinion_index": 0
+    },
+    {
+      "cite": "445 Mass. 1",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "case_ids": [
+        2822365
+      ],
+      "year": 2005,
+      "pin_cites": [
+        {
+          "page": "13"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mass/445/0001-01"
+      ]
+    },
+    {
+      "cite": "131 S. Ct. 181",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        12436513,
+        12436514,
+        12436515,
+        12436516,
+        12436517,
+        12436518,
+        12436519
+      ],
+      "year": 2010,
+      "pin_cites": [
+        {
+          "parenthetical": "statement is testimonial per se if made in formal or solemnized form, such as affidavit, or if made in response to law enforcement interrogation"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/l-ed-2d/178/0107-07",
+        "/l-ed-2d/178/0107-08",
+        "/l-ed-2d/178/0108-01",
+        "/l-ed-2d/178/0108-02",
+        "/l-ed-2d/178/0108-03",
+        "/l-ed-2d/178/0108-04",
+        "/l-ed-2d/178/0108-05"
+      ]
+    },
+    {
+      "cite": "456 Mass. 280",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "case_ids": [
+        3668444
+      ],
+      "year": 2010,
+      "pin_cites": [
+        {
+          "page": "297",
+          "parenthetical": "statement is testimonial per se if made in formal or solemnized form, such as affidavit, or if made in response to law enforcement interrogation"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mass/456/0280-01"
+      ]
+    },
+    {
+      "cite": "502 U.S. 346",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6226656
+      ],
+      "year": 1992,
+      "pin_cites": [
+        {
+          "page": "365",
+          "parenthetical": "Thomas, J., concurring in part and concurring in judgment"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/502/0346-01"
+      ]
+    },
+    {
+      "cite": "541 U.S. 36",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        5873383
+      ],
+      "weight": 8,
+      "year": 2004,
+      "pin_cites": [
+        {
+          "page": "59",
+          "parenthetical": "Crawford"
+        },
+        {
+          "page": "51"
+        },
+        {
+          "page": "68"
+        },
+        {
+          "page": "51-52"
+        },
+        {
+          "page": "51"
+        },
+        {
+          "page": "52"
+        },
+        {
+          "page": "56"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/541/0036-01"
+      ]
+    },
+    {
+      "cite": "380 U.S. 400",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        1525264
+      ],
+      "year": 1965,
+      "pin_cites": [
+        {
+          "page": "403"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/380/0400-01"
+      ]
+    },
+    {
+      "cite": "421 Mass. 295",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "case_ids": [
+        861566
+      ],
+      "year": 1995,
+      "pin_cites": [
+        {
+          "page": "303-304"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mass/421/0295-01"
+      ]
+    },
+    {
+      "cite": "369 Mass. 228",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "case_ids": [
+        309652
+      ],
+      "weight": 5,
+      "year": 1975,
+      "pin_cites": [
+        {
+          "page": "231-233"
+        },
+        {
+          "page": "239-240, 242"
+        },
+        {
+          "page": "239"
+        },
+        {
+          "page": "240"
+        },
+        {
+          "page": "242"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mass/369/0228-01"
+      ]
+    },
+    {
+      "cite": "436 Mass. 40",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "case_ids": [
+        1178202
+      ],
+      "year": 2002,
+      "pin_cites": [
+        {
+          "page": "50"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mass/436/0040-01"
+      ]
+    },
+    {
+      "cite": "546 U.S. 1035",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        5941890,
+        3808390,
+        5994951,
+        5971624,
+        5890822,
+        6003787,
+        6001996,
+        6018350,
+        5987983,
+        6005488,
+        6016048,
+        5991120,
+        6007357,
+        5975167
+      ],
+      "year": 2005,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/546/1035-04",
+        "/us/546/1035-09",
+        "/us/546/1035-01",
+        "/us/546/1035-08",
+        "/us/546/1035-14",
+        "/us/546/1035-03",
+        "/us/546/1035-12",
+        "/us/546/1035-06",
+        "/us/546/1035-05",
+        "/us/546/1035-02",
+        "/us/546/1035-11",
+        "/us/546/1035-10",
+        "/us/546/1035-07",
+        "/us/546/1035-13"
+      ]
+    },
+    {
+      "cite": "443 Mass. 740",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "case_ids": [
+        1276640
+      ],
+      "year": 2005,
+      "pin_cites": [
+        {
+          "page": "745"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mass/443/0740-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 955,
+    "char_count": 25522,
+    "ocr_confidence": 0.923,
+    "pagerank": {
+      "raw": 2.798113706091393e-07,
+      "percentile": 0.8366090069343811
+    },
+    "sha256": "fbfcec3cb30adf5553a18b337de1abbf1136abd4439cea200d979163f149ea42",
+    "simhash": "1:9392c7ff93f985ae",
+    "word_count": 4090
+  },
+  "last_updated": "2024-02-27T17:56:26.592595+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "file_name": "0001-01",
+  "first_page_order": 27,
+  "last_page_order": 37
+}

@@ -1,0 +1,67 @@
+{
+  "id": 4204690,
+  "name": "Joseph CHAMBERLAIN, Petitioner v. Honorable WOODS-SKIPPER, Respondent",
+  "name_abbreviation": "Chamberlain v. Woods-Skipper",
+  "decision_date": "2011-10-28",
+  "docket_number": "No. 74 EM 2011",
+  "first_page": "319",
+  "last_page": "319",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "612 Pa. 319"
+    },
+    {
+      "type": "parallel",
+      "cite": "30 A.3d 1104"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 43,
+    "char_count": 322,
+    "ocr_confidence": 0.713,
+    "pagerank": {
+      "raw": 4.688403287882615e-08,
+      "percentile": 0.13919815636111815
+    },
+    "sha256": "9d0113bb4c5bc5d494a927a5992dd8bacc1dee86b5258bbb396526f299fa8b0a",
+    "simhash": "1:643dd72060dd5f06",
+    "word_count": 52
+  },
+  "last_updated": "2023-07-14T19:33:52.292960+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Joseph CHAMBERLAIN, Petitioner v. Honorable WOODS-SKIPPER, Respondent."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nPER CURIAM.\nAND NOW, this 28th day of October, 2011, the \u201cPetition for Review\u201d is DENIED. The Prothonotary is directed to strike the name of the jurist from the caption.",
+        "type": "majority",
+        "author": "PER CURIAM."
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "30 A.3d 1104\nJoseph CHAMBERLAIN, Petitioner v. Honorable WOODS-SKIPPER, Respondent.\nNo. 74 EM 2011.\nSupreme Court of Pennsylvania.\nOct. 28, 2011."
+  },
+  "file_name": "0319-01",
+  "first_page_order": 363,
+  "last_page_order": 363
+}

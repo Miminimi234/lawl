@@ -1,0 +1,59 @@
+{
+  "id": 5906791,
+  "name": "Mason, Warden v. Mitchell",
+  "name_abbreviation": "Mason v. Mitchell",
+  "decision_date": "2005-01-10",
+  "docket_number": "No. 03-466",
+  "first_page": "1080",
+  "last_page": "1080",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "543 U.S. 1080"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 23,
+    "char_count": 142,
+    "ocr_confidence": 0.672,
+    "sha256": "f77bc59a827759ffb4d73e92762bd1d66a821110ff9ea7f794bce406bdc53de2",
+    "simhash": "1:63a03016a240921c",
+    "word_count": 23
+  },
+  "last_updated": "2023-07-14T22:45:44.163661+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Mason, Warden v. Mitchell."
+    ],
+    "opinions": [
+      {
+        "text": "C. A. 6th Cir. Motion of respondent for leave to proceed in forma pauperis granted. Certiorari denied.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "No. 03-466.\nMason, Warden v. Mitchell."
+  },
+  "file_name": "1080-12",
+  "first_page_order": 1134,
+  "last_page_order": 1134
+}

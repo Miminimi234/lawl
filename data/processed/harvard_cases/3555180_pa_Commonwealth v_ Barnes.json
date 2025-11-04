@@ -1,0 +1,137 @@
+{
+  "id": 3555180,
+  "name": "COMMONWEALTH of Pennsylvania, Appellant, v. Maurice BARNES, Appellee",
+  "name_abbreviation": "Commonwealth v. Barnes",
+  "decision_date": "2007-06-25",
+  "docket_number": "No. 66 MAP 2006",
+  "first_page": "301",
+  "last_page": "303",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "592 Pa. 301"
+    },
+    {
+      "type": "parallel",
+      "cite": "924 A.2d 1202"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "833 A.2d 792",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        9084613
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/833/0792-01"
+      ]
+    },
+    {
+      "cite": "692 A.2d 1055",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        468722,
+        11919485
+      ],
+      "year": 1997,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/547/0626-01",
+        "/a2d/692/1055-01"
+      ]
+    },
+    {
+      "cite": "547 Pa. 626",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        468722
+      ],
+      "year": 1997,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/547/0626-01"
+      ]
+    },
+    {
+      "cite": "666 A.2d 221",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        12043856,
+        458423
+      ],
+      "year": 1995,
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/666/0221-01",
+        "/pa/542/0160-01"
+      ]
+    },
+    {
+      "cite": "542 Pa. 160",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        458423
+      ],
+      "year": 1995,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/542/0160-01"
+      ]
+    },
+    {
+      "cite": "871 A.2d 812",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8980076
+      ],
+      "pin_cites": [
+        {
+          "page": "821"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/871/0812-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 288,
+    "char_count": 3846,
+    "ocr_confidence": 0.684,
+    "pagerank": {
+      "raw": 6.352821562545344e-08,
+      "percentile": 0.3896727183708394
+    },
+    "sha256": "62618735ee6ecabc3990aad6558a056f598f74d7eeab3db3854b30db5b1d83d4",
+    "simhash": "1:d79b33e0a95bb314",
+    "word_count": 594
+  },
+  "last_updated": "2024-02-27T21:45:49.457734+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "file_name": "0301-01",
+  "first_page_order": 353,
+  "last_page_order": 355
+}

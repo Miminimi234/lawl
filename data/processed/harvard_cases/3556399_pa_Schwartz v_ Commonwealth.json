@@ -1,0 +1,108 @@
+{
+  "id": 3556399,
+  "name": "Richard J. SCHWARTZ, Respondent, v. COMMONWEALTH of Pennsylvania, DEPARTMENT OF TRANSPORTATION, BUREAU OF DRIVER LICENSING, Petitioner",
+  "name_abbreviation": "Schwartz v. Commonwealth",
+  "decision_date": "2007-05-01",
+  "docket_number": "No. 476 MAL 2002",
+  "first_page": "23",
+  "last_page": "23",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "592 Pa. 23"
+    },
+    {
+      "type": "parallel",
+      "cite": "922 A.2d 881"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "915 A.2d 1155",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8340050,
+        3017333
+      ],
+      "year": 2007,
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/915/1155-01",
+        "/pa/591/0056-01"
+      ]
+    },
+    {
+      "cite": "591 Pa. 56",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        3017333
+      ],
+      "year": 2007,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/591/0056-01"
+      ]
+    },
+    {
+      "cite": "880 A.2d 552",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        687742,
+        8937046
+      ],
+      "year": 2005,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/583/0592-01",
+        "/a2d/880/0552-01"
+      ]
+    },
+    {
+      "cite": "583 Pa. 592",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        687742
+      ],
+      "year": 2005,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/583/0592-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 51,
+    "char_count": 465,
+    "ocr_confidence": 0.666,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.10033075287400926
+    },
+    "sha256": "2bc1885ebf44286ecdbd51d008ad2665cccb3435d2a20f3c939fe481e067e76a",
+    "simhash": "1:d5ff9b7783218dfa",
+    "word_count": 71
+  },
+  "last_updated": "2024-02-27T21:45:49.457734+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "file_name": "0023-01",
+  "first_page_order": 75,
+  "last_page_order": 75
+}

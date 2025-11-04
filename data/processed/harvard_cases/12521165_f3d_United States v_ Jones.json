@@ -1,0 +1,916 @@
+{
+  "id": 12521165,
+  "name": "UNITED STATES of America, Plaintiff - Appellee v. Coy JONES, Defendant - Appellant United States of America, Plaintiff - Appellee v. Coy Marshall Jones, Defendant - Appellant",
+  "name_abbreviation": "United States v. Jones",
+  "decision_date": "2019-05-16",
+  "docket_number": "No. 18-50086; Consolidated With Case No. 18-50088",
+  "first_page": "219",
+  "last_page": "236",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "924 F.3d 219"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "5th Cir.",
+    "id": 8820,
+    "name": "United States Court of Appeals for the Fifth Circuit"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "83 S.Ct. 1194",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        11716714
+      ],
+      "weight": 2,
+      "year": 1963,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/373/0083-01"
+      ]
+    },
+    {
+      "cite": "106 S.Ct. 1431",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        6207521
+      ],
+      "weight": 2,
+      "year": 1986,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/475/0673-01"
+      ]
+    },
+    {
+      "cite": "484 F.3d 783",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        5733424
+      ],
+      "year": 2007,
+      "pin_cites": [
+        {
+          "page": "793"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/484/0783-01"
+      ]
+    },
+    {
+      "cite": "484 F.3d 762",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        5732901
+      ],
+      "year": 2007,
+      "pin_cites": [
+        {
+          "page": "768"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/484/0762-01"
+      ]
+    },
+    {
+      "cite": "405 U.S. 150",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11721534
+      ],
+      "weight": 5,
+      "year": 1972,
+      "pin_cites": [
+        {
+          "page": "154-55"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/405/0150-01"
+      ]
+    },
+    {
+      "cite": "854 F.3d 818",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        12277116
+      ],
+      "year": 2017,
+      "pin_cites": [
+        {
+          "page": "824",
+          "parenthetical": "quoting Ibarra, 493 F.3d at 531"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/854/0818-01"
+      ]
+    },
+    {
+      "cite": "353 U.S. 53",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6159521
+      ],
+      "weight": 3,
+      "year": 1957,
+      "pin_cites": [
+        {
+          "page": "62"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/353/0053-01"
+      ]
+    },
+    {
+      "cite": "493 F.3d 526",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        3512465
+      ],
+      "weight": 3,
+      "year": 2007,
+      "pin_cites": [
+        {
+          "page": "531"
+        },
+        {
+          "page": "531"
+        },
+        {
+          "page": "532"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/493/0526-01"
+      ]
+    },
+    {
+      "cite": "636 F.3d 687",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        4102479
+      ],
+      "weight": 2,
+      "year": 2011,
+      "pin_cites": [
+        {
+          "page": "697",
+          "parenthetical": "quotation omitted"
+        },
+        {
+          "page": "697-98"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/636/0687-01"
+      ]
+    },
+    {
+      "cite": "913 F.3d 491",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        12519795
+      ],
+      "weight": 5,
+      "year": 2019,
+      "pin_cites": [
+        {
+          "page": "493"
+        },
+        {
+          "page": "498"
+        },
+        {
+          "page": "497"
+        },
+        {
+          "page": "499"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/913/0491-01"
+      ]
+    },
+    {
+      "cite": "542 U.S. 74",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        2526567
+      ],
+      "weight": 3,
+      "year": 2004,
+      "pin_cites": [
+        {
+          "parenthetical": "\"When the Government has the burden of addressing prejudice, as in excusing preserved error as harmless on direct review of the criminal conviction, it is not enough to negate an effect on the outcome of the case.\""
+        },
+        {
+          "parenthetical": "\"When the Government has the burden of addressing prejudice, as in excusing preserved error as harmless on direct review of the criminal conviction, it is not enough to negate an effect on the outcome of the case.\""
+        },
+        {
+          "parenthetical": "\"When the Government has the burden of addressing prejudice, as in excusing preserved error as harmless on direct review of the criminal conviction, it is not enough to negate an effect on the outcome of the case.\""
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/542/0074-01"
+      ]
+    },
+    {
+      "cite": "988 F.2d 1364",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        10517342
+      ],
+      "year": 1993,
+      "pin_cites": [
+        {
+          "page": "1373"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/988/1364-01"
+      ]
+    },
+    {
+      "cite": "386 U.S. 18",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6168882
+      ],
+      "weight": 5,
+      "year": 1967,
+      "pin_cites": [
+        {
+          "page": "24"
+        },
+        {
+          "page": "24"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/386/0018-01"
+      ]
+    },
+    {
+      "cite": "521 F.3d 337",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        3736503
+      ],
+      "weight": 5,
+      "year": 2008,
+      "pin_cites": [
+        {
+          "page": "341"
+        },
+        {
+          "page": "342",
+          "parenthetical": "\"Our focus is on the possibility of harm arising from [the] testimony and not necessarily on the possibility of its relationship to other evidence.\""
+        },
+        {
+          "page": "342-43"
+        },
+        {
+          "page": "343"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/521/0337-01"
+      ]
+    },
+    {
+      "cite": "751 F.3d 326",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        4069283
+      ],
+      "year": 2014,
+      "pin_cites": [
+        {
+          "page": "332",
+          "parenthetical": "\"Invited error applies, however, only where the error can be attributed to the actions of the defense.\""
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/751/0326-01"
+      ]
+    },
+    {
+      "cite": "508 F.2d 761",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        135289
+      ],
+      "weight": 2,
+      "year": 1975,
+      "pin_cites": [
+        {
+          "page": "764"
+        },
+        {
+          "page": "764",
+          "parenthetical": "finding no invited error when defense counsel \"had no way to know that asking about the sawed-off rifle would lead the witness into the [challenged] statement\""
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/508/0761-01"
+      ]
+    },
+    {
+      "cite": "509 F.3d 682",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        3330571
+      ],
+      "year": 2007,
+      "pin_cites": [
+        {
+          "page": "691",
+          "parenthetical": "finding invited error when the challenged \"testimony was first elicited by Contreras' own attorney on cross-examination after he repeatedly asked Delauney to explain the basis for his suspicions about Contreras\""
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/509/0682-01"
+      ]
+    },
+    {
+      "cite": "838 F.3d 564",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        12173221
+      ],
+      "year": 2016,
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/838/0564-01"
+      ]
+    },
+    {
+      "cite": "527 F.3d 396",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        3568052
+      ],
+      "year": 2008,
+      "pin_cites": [
+        {
+          "page": "403"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/527/0396-01"
+      ]
+    },
+    {
+      "cite": "391 U.S. 123",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        1767670
+      ],
+      "weight": 3,
+      "year": 1968,
+      "pin_cites": [
+        {
+          "page": "135"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/391/0123-01"
+      ]
+    },
+    {
+      "cite": "596 F.2d 688",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        503127
+      ],
+      "year": 1979,
+      "pin_cites": [
+        {
+          "page": "689",
+          "parenthetical": "explaining that testimony regarding a tip is permissible \"provided that it is simply background information showing the police officers did not act without reason and, in addition, that it does not point specifically to the defendant\""
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/596/0688-01"
+      ]
+    },
+    {
+      "cite": "750 F.2d 1256",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        629065
+      ],
+      "year": 1985,
+      "pin_cites": [
+        {
+          "page": "1257",
+          "parenthetical": "rejecting argument that hearsay evidence identifying the defendant as a drug smuggler was permissibly used \"to explain the motivation behind DEA's investigation\""
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/750/1256-01"
+      ]
+    },
+    {
+      "cite": "897 F.3d 615",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        12517862
+      ],
+      "year": 2018,
+      "pin_cites": [
+        {
+          "page": "623",
+          "parenthetical": "\"[C]ourts must be vigilant in ensuring that these attempts to `explain the officer's actions' with out-of-court statements do not allow the backdoor introduction of highly inculpatory statements that the jury may also consider for their truth.\""
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/897/0615-01"
+      ]
+    },
+    {
+      "cite": "950 F.2d 187",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        10521125
+      ],
+      "weight": 3,
+      "year": 1991,
+      "pin_cites": [
+        {
+          "page": "191"
+        },
+        {
+          "page": "191"
+        },
+        {
+          "page": "191"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/950/0187-01"
+      ]
+    },
+    {
+      "cite": "523 U.S. 185",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11503401
+      ],
+      "weight": 3,
+      "year": 1998,
+      "pin_cites": [
+        {
+          "page": "193-94"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/523/0185-01"
+      ]
+    },
+    {
+      "cite": "545 F.3d 327",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        3858959
+      ],
+      "weight": 3,
+      "year": 2008,
+      "pin_cites": [
+        {
+          "page": "335"
+        },
+        {
+          "page": "331, 336",
+          "parenthetical": "finding a violation of clearly established law when an officer testified that he was able to develop a suspect after an unnamed individual told him \"that the perpetrator was Bruce\""
+        },
+        {
+          "page": "337"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/545/0327-01"
+      ]
+    },
+    {
+      "cite": "877 F.3d 650",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        12265605
+      ],
+      "weight": 9,
+      "year": 2017,
+      "pin_cites": [
+        {
+          "page": "656"
+        },
+        {
+          "page": "657",
+          "parenthetical": "quotation omitted"
+        },
+        {
+          "page": "659"
+        },
+        {
+          "page": "659"
+        },
+        {
+          "page": "659-60",
+          "parenthetical": "holding that a detective's testimony that he was able to obtain a search warrant for the defendant's house after questioning a witness about drug purchases violated the Confrontation Clause"
+        },
+        {
+          "page": "659"
+        },
+        {
+          "page": "662",
+          "parenthetical": "finding that Confrontation Clause error was not harmless when testimony was referenced in closing arguments and \"no other witness in this case could provide testimony from personal knowledge that Kizzee sold drugs\""
+        },
+        {
+          "page": "659"
+        },
+        {
+          "page": "661",
+          "parenthetical": "quotation omitted"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/877/0650-01"
+      ]
+    },
+    {
+      "cite": "541 U.S. 36",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        5873383
+      ],
+      "weight": 7,
+      "year": 2004,
+      "pin_cites": [
+        {
+          "page": "42, 61"
+        },
+        {
+          "page": "59"
+        },
+        {
+          "page": "50-51"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/541/0036-01"
+      ]
+    },
+    {
+      "cite": "162 F.3d 863",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        11806842
+      ],
+      "year": 1998,
+      "pin_cites": [
+        {
+          "page": "872"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/162/0863-01"
+      ]
+    },
+    {
+      "cite": "467 F.3d 880",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        3804787
+      ],
+      "year": 2006,
+      "pin_cites": [
+        {
+          "page": "885",
+          "parenthetical": "affirming use of past conviction that was nine years old"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/467/0880-01"
+      ]
+    },
+    {
+      "cite": "553 F.3d 821",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        3717352
+      ],
+      "year": 2008,
+      "pin_cites": [
+        {
+          "page": "828"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/553/0821-01"
+      ]
+    },
+    {
+      "cite": "660 F.3d 914",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        3843000
+      ],
+      "weight": 2,
+      "year": 2011,
+      "pin_cites": [
+        {
+          "parenthetical": "citing United States v. McCall, 553 F.3d 821, 828 (5th Cir. 2008)"
+        },
+        {
+          "page": "929"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/660/0914-01"
+      ]
+    },
+    {
+      "cite": "862 F.3d 527",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        12275914
+      ],
+      "weight": 2,
+      "year": 2017,
+      "pin_cites": [
+        {
+          "page": "536-37"
+        },
+        {
+          "page": "536"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/862/0527-01"
+      ]
+    },
+    {
+      "cite": "674 F.3d 420",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        3748072
+      ],
+      "year": 2012,
+      "pin_cites": [
+        {
+          "page": "430"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/674/0420-01"
+      ]
+    },
+    {
+      "cite": "866 F.3d 622",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        12275573
+      ],
+      "weight": 4,
+      "year": 2017,
+      "pin_cites": [
+        {
+          "page": "627"
+        },
+        {
+          "page": "627"
+        },
+        {
+          "page": "628",
+          "parenthetical": "quotations omitted"
+        },
+        {
+          "page": "629"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/866/0622-01"
+      ]
+    },
+    {
+      "cite": "729 F.3d 466",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        3700819
+      ],
+      "year": 2013,
+      "pin_cites": [
+        {
+          "page": "473"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/729/0466-01"
+      ]
+    },
+    {
+      "cite": "582 F.2d 898",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        858084
+      ],
+      "weight": 2,
+      "year": 1978,
+      "pin_cites": [
+        {
+          "page": "911",
+          "parenthetical": "en banc"
+        },
+        {
+          "page": "914"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/582/0898-01"
+      ]
+    },
+    {
+      "cite": "804 F.3d 724",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        4357846
+      ],
+      "year": 2015,
+      "pin_cites": [
+        {
+          "page": "735",
+          "parenthetical": "quoting United States v. Beechum, 582 F.2d 898, 911 (5th Cir. 1978) (en banc)"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/804/0724-01"
+      ]
+    },
+    {
+      "cite": "759 F.3d 486",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        4156355
+      ],
+      "weight": 3,
+      "year": 2014,
+      "pin_cites": [
+        {
+          "page": "494"
+        },
+        {
+          "page": "495"
+        },
+        {
+          "page": "494"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/759/0486-01"
+      ]
+    },
+    {
+      "cite": "14 F.3d 1022",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        10530352
+      ],
+      "year": 1994,
+      "pin_cites": [
+        {
+          "page": "1028"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/14/1022-01"
+      ]
+    },
+    {
+      "cite": "339 F.3d 349",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        9102749
+      ],
+      "year": 2003,
+      "pin_cites": [
+        {
+          "page": "354",
+          "parenthetical": "quoting United States v. Wisenbaker, 14 F.3d 1022, 1028 (5th Cir. 1994)"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/339/0349-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 1561,
+    "char_count": 46811,
+    "pagerank": {
+      "raw": 4.436057418262789e-08,
+      "percentile": 0.2783438339455312
+    },
+    "sha256": "9beeb3333a851c1ec1f146bf897a425d22795463f734983a33a882c2a2667c32",
+    "simhash": "1:b27aa36eaf5d9b61",
+    "word_count": 7379
+  },
+  "last_updated": "2024-02-27T18:46:58.656971+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "file_name": "0219-01",
+  "first_page_order": 219,
+  "last_page_order": 236
+}

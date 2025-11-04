@@ -1,0 +1,625 @@
+{
+  "id": 3725896,
+  "name": "Wyon Dale CHILDERS, Petitioner-Appellant, v. Willie L. FLOYD, Warden-Glades Correctional Institution, Respondent-Appellee",
+  "name_abbreviation": "Childers v. Floyd",
+  "decision_date": "2013-11-14",
+  "docket_number": "No. 08-15590",
+  "first_page": "1331",
+  "last_page": "1339",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "736 F.3d 1331"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "11th Cir.",
+    "id": 9031,
+    "name": "United States Court of Appeals for the Eleventh Circuit"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "642 F.3d 953",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        5861466
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/f3d/642/0953-01"
+      ]
+    },
+    {
+      "cite": "Fla. Stat. \u00a7 90.608",
+      "category": "laws:leg_statute",
+      "reporter": "Fla. Stat.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "380 U.S. 400",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        1525264
+      ],
+      "weight": 3,
+      "year": 1965,
+      "pin_cites": [
+        {
+          "page": "403"
+        },
+        {
+          "page": "1068"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/380/0400-01"
+      ]
+    },
+    {
+      "cite": "Fla. Stat. \u00a7 90.401",
+      "category": "laws:leg_statute",
+      "reporter": "Fla. Stat.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "Fla. Stat. \u00a7 90.403",
+      "category": "laws:leg_statute",
+      "reporter": "Fla. Stat.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "475 U.S. 673",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6207521
+      ],
+      "weight": 5,
+      "year": 1986,
+      "pin_cites": [
+        {
+          "page": "678",
+          "parenthetical": "internal quotation marks omitted"
+        },
+        {
+          "page": "1435",
+          "parenthetical": "internal quotation marks omitted"
+        },
+        {
+          "parenthetical": "internal quotation marks omitted"
+        },
+        {
+          "page": "678"
+        },
+        {
+          "page": "1435",
+          "parenthetical": "emphasis in original"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/475/0673-01"
+      ]
+    },
+    {
+      "cite": "936 So.2d 585",
+      "category": "reporters:state_regional",
+      "reporter": "So. 2d",
+      "case_ids": [
+        8472660
+      ],
+      "weight": 11,
+      "pin_cites": [
+        {
+          "page": "587"
+        },
+        {
+          "page": "592"
+        },
+        {
+          "parenthetical": "\"Under the rules of evidence, Appellant could attack Junior's credibility by 'showing that a witness is biased.' \""
+        },
+        {
+          "page": "593"
+        },
+        {
+          "page": "599",
+          "parenthetical": "Thomas J. specially concurring"
+        },
+        {
+          "page": "604-07",
+          "parenthetical": "Kahn, C.J., concurring in part and dissenting in part"
+        },
+        {
+          "page": "617",
+          "parenthetical": "Browning J., concurring in part and dissenting in part"
+        },
+        {
+          "page": "617-19",
+          "parenthetical": "Polston, J., concurring in part and dissenting in part"
+        },
+        {
+          "page": "615",
+          "parenthetical": "Benton J., concurring in part and dissenting in part"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/so2d/936/0585-01"
+      ]
+    },
+    {
+      "cite": "178 L.Ed.2d 624",
+      "category": "reporters:federal",
+      "reporter": "L. Ed. 2d",
+      "case_ids": [
+        12439786,
+        6005083
+      ],
+      "year": 2011,
+      "opinion_index": 0,
+      "case_paths": [
+        "/l-ed-2d/178/0624-01",
+        "/us/562/0086-01"
+      ]
+    },
+    {
+      "cite": "562 U.S.-, 131",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "year": 2011,
+      "opinion_index": 0
+    },
+    {
+      "cite": "133 S.Ct. 1088",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        12407478
+      ],
+      "weight": 5,
+      "year": 2013,
+      "pin_cites": [
+        {
+          "page": "1089"
+        },
+        {
+          "page": "1096"
+        },
+        {
+          "page": "1097"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/568/0289-01"
+      ]
+    },
+    {
+      "cite": "185 L.Ed.2d 358",
+      "category": "reporters:federal",
+      "reporter": "L. Ed. 2d",
+      "year": 2013,
+      "opinion_index": 0
+    },
+    {
+      "cite": "568 U.S.-, 133",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "year": 2013,
+      "opinion_index": 0
+    },
+    {
+      "cite": "642 F.3d 953",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        5861466
+      ],
+      "weight": 16,
+      "pin_cites": [
+        {
+          "page": "958"
+        },
+        {
+          "page": "958-59"
+        },
+        {
+          "page": "959"
+        },
+        {
+          "page": "959-60"
+        },
+        {
+          "page": "960"
+        },
+        {
+          "page": "962"
+        },
+        {
+          "page": "962-63"
+        },
+        {
+          "page": "963"
+        },
+        {
+          "page": "958"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/642/0953-01"
+      ]
+    },
+    {
+      "cite": "36 So.3d 613",
+      "category": "reporters:state_regional",
+      "reporter": "So. 3d",
+      "case_ids": [
+        7048575
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "636"
+        },
+        {
+          "page": "637",
+          "parenthetical": "\"In considering a trial court's ruling on admissibility of evidence over an objection based on the Confrontation Clause, our standard of review is de novo.\" (internal quotation marks omitted)"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/so3d/36/0613-01"
+      ]
+    },
+    {
+      "cite": "415 U.S. 308",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6174956
+      ],
+      "weight": 3,
+      "year": 1974,
+      "pin_cites": [
+        {
+          "page": "316"
+        },
+        {
+          "page": "1110"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/us/415/0308-01"
+      ]
+    },
+    {
+      "cite": "133 S.Ct. 1452",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "year": 2013,
+      "opinion_index": 1
+    },
+    {
+      "cite": "Fla. Stat. \u00a7 90.403",
+      "category": "laws:leg_statute",
+      "reporter": "Fla. Stat.",
+      "opinion_index": 1
+    },
+    {
+      "cite": "475 U.S. 673",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6207521
+      ],
+      "weight": 3,
+      "year": 1986,
+      "pin_cites": [
+        {
+          "page": "679"
+        },
+        {
+          "page": "1435"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/us/475/0673-01"
+      ]
+    },
+    {
+      "cite": "936 So.2d 585",
+      "category": "reporters:state_regional",
+      "reporter": "So. 2d",
+      "case_ids": [
+        8472660
+      ],
+      "pin_cites": [
+        {
+          "page": "592"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/so2d/936/0585-01"
+      ]
+    },
+    {
+      "cite": "178 L.Ed.2d 624",
+      "category": "reporters:federal",
+      "reporter": "L. Ed. 2d",
+      "case_ids": [
+        12439786,
+        6005083
+      ],
+      "year": 2011,
+      "opinion_index": 1,
+      "case_paths": [
+        "/l-ed-2d/178/0624-01",
+        "/us/562/0086-01"
+      ]
+    },
+    {
+      "cite": "562 U.S.-, 131",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "year": 2011,
+      "opinion_index": 1
+    },
+    {
+      "cite": "133 S.Ct. 1088",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        12407478
+      ],
+      "weight": 3,
+      "year": 2013,
+      "pin_cites": [
+        {
+          "page": "1096"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/us/568/0289-01"
+      ]
+    },
+    {
+      "cite": "185 L.Ed.2d 358",
+      "category": "reporters:federal",
+      "reporter": "L. Ed. 2d",
+      "year": 2013,
+      "opinion_index": 1
+    },
+    {
+      "cite": "642 F.3d 953",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        5861466
+      ],
+      "pin_cites": [
+        {
+          "page": "983-989"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/f3d/642/0953-01"
+      ]
+    },
+    {
+      "cite": "28 U.S.C. \u00a7 2254",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "weight": 4,
+      "pin_cites": [
+        {
+          "page": "(d)"
+        },
+        {
+          "page": "(d)"
+        },
+        {
+          "page": "1091",
+          "parenthetical": "emphasis added"
+        },
+        {
+          "page": "(d)"
+        }
+      ],
+      "opinion_index": 2
+    },
+    {
+      "cite": "537 U.S. 3",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        9190422
+      ],
+      "weight": 3,
+      "year": 2002,
+      "pin_cites": [
+        {
+          "page": "8"
+        },
+        {
+          "page": "364"
+        }
+      ],
+      "opinion_index": 2,
+      "case_paths": [
+        "/us/537/0003-01"
+      ]
+    },
+    {
+      "cite": "133 S.Ct. 1452",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "year": 2013,
+      "opinion_index": 2
+    },
+    {
+      "cite": "178 L.Ed.2d 624",
+      "category": "reporters:federal",
+      "reporter": "L. Ed. 2d",
+      "case_ids": [
+        12439786,
+        6005083
+      ],
+      "weight": 7,
+      "year": 2011,
+      "pin_cites": [
+        {
+          "page": "785"
+        },
+        {
+          "parenthetical": "emphasis added"
+        },
+        {
+          "page": "784-85"
+        },
+        {
+          "page": "784-85"
+        }
+      ],
+      "opinion_index": 2,
+      "case_paths": [
+        "/l-ed-2d/178/0624-01",
+        "/us/562/0086-01"
+      ]
+    },
+    {
+      "cite": "133 S.Ct. 1088",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        12407478
+      ],
+      "weight": 7,
+      "year": 2013,
+      "pin_cites": [
+        {
+          "page": "1091"
+        },
+        {
+          "page": "1094"
+        },
+        {
+          "page": "1091"
+        },
+        {
+          "page": "1097"
+        }
+      ],
+      "opinion_index": 2,
+      "case_paths": [
+        "/us/568/0289-01"
+      ]
+    },
+    {
+      "cite": "185 L.Ed.2d 358",
+      "category": "reporters:federal",
+      "reporter": "L. Ed. 2d",
+      "year": 2013,
+      "opinion_index": 2
+    },
+    {
+      "cite": "642 F.3d 953",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        5861466
+      ],
+      "weight": 6,
+      "pin_cites": [
+        {
+          "page": "968",
+          "parenthetical": "emphasis added"
+        },
+        {
+          "page": "969"
+        },
+        {
+          "page": "969"
+        },
+        {
+          "page": "988-95",
+          "parenthetical": "Barkett, J., dissenting, joined by Martin, J."
+        },
+        {
+          "page": "988-95",
+          "parenthetical": "Barkett, J., dissenting, joined by Martin, J."
+        }
+      ],
+      "opinion_index": 2,
+      "case_paths": [
+        "/f3d/642/0953-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 958,
+    "char_count": 25303,
+    "ocr_confidence": 0.696,
+    "pagerank": {
+      "raw": 2.2939676461891013e-07,
+      "percentile": 0.7865962455726183
+    },
+    "sha256": "6c56761287ef273fa9eecd94e9c10613ee5add5179187f38b3cb3e8a26023c56",
+    "simhash": "1:3763962caeeb550f",
+    "word_count": 4030
+  },
+  "last_updated": "2024-02-27T16:55:59.249303+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before CARNES, Chief Judge, TJOFLAT, HULL, MARCUS, WILSON, PRYOR, MARTIN, DUBINA, and BLACK, Circuit Judges."
+    ],
+    "parties": [
+      "Wyon Dale CHILDERS, Petitioner-Appellant, v. Willie L. FLOYD, Warden-Glades Correctional Institution, Respondent-Appellee."
+    ],
+    "opinions": [
+      {
+        "text": "On Remand from the Supreme Court of the United States\nPER CURIAM:\nIn Childers v. Floyd, 568 U.S.-, 133 S.Ct. 1452, 185 L.Ed.2d 358 (2013), the United States Supreme Court granted a writ of certiorari, vacated our judgment in Childers v. Floyd, 642 F.3d 953 (11th Cir.2011) (en banc) (Childers I), and remanded the case for further consideration in light of Johnson v. Williams, 568 U.S. -, 133 S.Ct. 1088, 185 L.Ed.2d 105 (2013). In a previous case, Harrington v. Richter, 562 U.S.-, 131 S.Ct. 770, 178 L.Ed.2d 624 (2011), the Supreme Court held that when a state court decision \u201csummarily rejects without discussion all the claims raised by the defendant, including a federal claim that the defendant subsequently presses in a federal habeas proceeding, the federal habeas court must presume (subject to rebuttal) that the federal claim was adjudicated on the merits.\u201d Johnson, 568 U.S. at -, 133 S.Ct. at 1089. In Johnson, the Court extended the rationale of Harrington and held that this presumption applies (subject to rebuttal) to cases in which the state court discusses some of the defendant\u2019s claims but \u201crejects a federal claim without expressly addressing that claim.\u201d Id. at 1096.\nIn this case, the defendant, Wyon Child-ers, a former County Commissioner for Escambia County, Florida, was on trial for receiving a bribe from a codefendant, Joe Elliot, in exchange for voting to have the Commission approve the County\u2019s purchase of a piece of land Elliot owned. Childers I, 642 F.3d at 958. A third code-fendant and fellow Commissioner, Willie Junior, pleaded guilty under a plea agreement and testified for the State at Elliot\u2019s trial. Id. The jury acquitted Elliot, and thereafter Junior informed the State of incriminating information he had not disclosed prior to Elliot\u2019s trial. Id. at 958-59. Due to the nondisclosure, the State moved the trial court to revoke Junior\u2019s plea agreement. Id. at 959. The court denied the motion. Id. at 959-60.\nPrior to his trial, Childers moved the trial court to permit him to bring out on Junior\u2019s cross-examination both Elliot\u2019s acquittal and the State\u2019s attempt to revoke Junior\u2019s plea agreement arguing that these events were relevant to Junior\u2019s credibility and bias as a witness. Id. at 960. The court denied his motion. Id. at 962. Addressing the admissibility of the Elliot acquittal, the court found that the unfair prejudice that the State would suffer if the testimony were allowed outweighed any probative value it might have. Id. Regarding the admissibility of the State\u2019s motion to revoke Junior\u2019s plea agreement, the court held that both the State\u2019s motion and the court\u2019s denial were irrelevant and therefore inadmissible. Id.\nA jury convicted Childers of one count of bribery and one count of unlawful compensation for official behavior but found him not guilty of the money laundering charge. Id. at 962-63. He appealed his convictions to the Florida District Court of Appeal. Id. at 963. Childers\u2019s brief to the District Court of Appeal argued that the trial court abused its discretion and denied him his Sixth Amendment right of confrontation by barring him from cross-examining Junior as- proposed in his motion. Id.\nThe District Court of Appeal, sitting en banc, ruled per curiam that the trial court\u2019s ruling did not constitute an abuse of discretion and affirmed Childers\u2019s convictions under Florida Evidence Rule 90.403. Childers v. State, 936 So.2d 585, 587 (Fla. 1st Dist.Ct.App.2006) (en banc) (per curiam) (Childers II). The court affirmed the convictions without expressly addressing Childers\u2019s claim that the trial court\u2019s ruling infringed his Sixth Amendment right of confrontation.\nIn granting certiorari and remanding this case for reconsideration in light of Johnson, the Supreme Court effectively asks us to determine whether Childers has rebutted the presumption that the District Court of Appeal adjudicated his Sixth Amendment right of confrontation claim on the merits. To determine whether the presumption has been rebutted, we look to the state court\u2019s decision and the record in the case to determine whether \u201cthe evidence leads very clearly to the conclusion that [the] federal claim was inadvertently overlooked in state court.\u201d Johnson, 568 U.S. at -, 133 S.Ct. at 1097.\nThe District Court of Appeal began its analysis of Childers\u2019s claim that the trial court had abused its discretion in prohibiting Childers from eliciting during his cross-examination of Junior evidence relating to the Elliot acquittal and the State\u2019s attempt to withdraw Junior\u2019s plea agreement by holding that such evidence was relevant under Florida Rule of Evidence 90.401. Childers II, 936 So.2d at 592. The court then observed that the Florida Rules of Evidence, specifically Rule 90.608, gave Childers the right to \u201cattack Junior\u2019s credibility.\u201d Id. The court focused, in particular, on subpart (2) of the rule, which allowed Childers to show on cross-examination that Junior was \u201cbiased.\u201d Id. (\u201cUnder the rules of evidence, Appellant could attack Junior\u2019s credibility by \u2018showing that a witness is biased.\u2019 \u201d). In essence, the court was observing that Florida\u2019s rules of evidence gave Childers the same right of confrontation he enjoyed under the Confrontation Clause--the right to expose a witness\u2019s \u201cmotivation in testifying.\u201d See Delaware v. Van Arsdall, 475 U.S. 673, 678, 106 S.Ct. 1431, 1435, 89 L.Ed.2d 674 (1986) (internal quotation marks omitted). While recognizing the importance of Childers\u2019s right to attack Junior\u2019s credibility, the District Court of Appeal nonetheless observed that this right of confrontation is subject to limitation under Rule 90.403. Childers II, 936 So.2d at 593. In Childers\u2019s case, the \u201ctrial judge [had to] balance the import of the evidence\u201d Childers sought on cross-examination \u201cagainst the danger of unfair prejudice. Only when the unfair prejudice substantially outweighs the probative value of the evidence should it be excluded.\u201d Id.\nIt is clear to us that Childers\u2019s Confrontation Clause claim was not \u201cinadvertently overlooked\u201d by the District Court of Appeal. The claim was squarely before the court. Although the court expressly analyzed Childers\u2019s claim under only the Florida rules of evidence, the underpinnings of these rules fit hand in glove -with the rights guaranteed under the Confrontation Clause.\nIn sum, we hold that the Florida'District Court of Appeal adjudicated Childers\u2019s Confrontation Clause claim on the merits. We therefore reinstate our decision in Childers I, and the District Court\u2019s decision denying Childers\u2019s a writ of habeas corpus is\nAFFIRMED.\n. Childers was indicted for one count of money laundering, one count of bribery, and one count of unlawful compensation or reward for official behavior. Childers I, 642 F.3d at 958.\n. Under Fla. Evid. R. 90.403 \"[rjelevant evidence is inadmissible if its probative value is substantially outweighed by the danger of unfair prejudice, confusion of issues, misleading the jury, or needless presentation of cumulative evidence.\" Fla. Stat. \u00a7 90.403.\n. Under Fla. Evid. R. 90.401, \u201c[rjelevant evidence is evidence tending to prove or disprove a material fact.\u201d Fla. Stat. \u00a7 90.401.\n. The Sixth Amendment\u2019s Confrontation Clause states: \u201cIn all criminal prosecutions, the accused shall enjoy the right ... to be confronted with the witnesses against him....\u201d U.S. Const, amend. VI. The Clause is applicable to the States through the Fourteenth Amendment's Due Process Clause. Pointer v. Texas, 380 U.S. 400, 403, 85 S.Ct. 1065, 1068, 13 L.Ed.2d 923 (1965).\n. Although the appeal was initially assigned to a three judge panel, a, majority of the judges of the District Court of Appeal voted to hear the case en banc under Fla. R.App. P. 9.331(a), before the panel\u2019s decision, was ever released. Childers I, 642 F.3d at 964 n. 12.\n. In the present context, the record consists of (1) the portions of the trial court record relating to Childers\u2019s motion to permit him to cross-examine Junior with the evidence of Elliott's acquittal and the State\u2019s attempt to withdraw Junior\u2019s plea agreement and (2) the briefs the parties submitted to the District Court of Appeal in Childers\u2019s appeal.\n. Florida Evidence Rule 90.608 provides that: \"[a]ny party, including the party calling the witness, may attack the credibility of a witness by:\n(1) Introducing statements of the witness which are inconsistent with the witness's present testimony.\n(2) Showing that the witness is biased.\n(3) Attacking the character of the witness in accordance with the provisions of \u00a7 90.609 or \u00a7 90.610.\n(4) Showing a defect of capacity, ability, or opportunity in the witness to observe, remember, or recount the matters about which the witness testified.\n(5)Proof by other witnesses that material facts are not as testified to by the witness being impeached.\u201d\nFla. Stat. \u00a7 90.608.\n. In Van Arsdall, the Supreme Court likewise held that the right of confrontation is subject to limitation by the trial court \"based on concerns about, among other things, harassment, prejudice, confusion of the issues, the witness\u2019 safety, or interrogation that is repetitive or only marginally relevant.... [T]he Confrontation Clause guarantees an opportunity for effective cross-examination, not cross-examination that is effective in whatever way, and to whatever extent, the defense might wish.\u201d 475 U.S. at 678, 106 S.Ct. at 1435 (emphasis in original) (internal quotation marks omitted).\n. As we noted in our en banc decision, although. the opinion of the Florida District Court did not expressly reference Childers\u2019s Sixth Amendment claim, the federal claim \"did not slip the court\u2019s collective mind.\" Childers I, 642 F.3d at 971 n. 19. Indeed, \"several of the concurring and dissenting opinions explicitly mentioned the Confrontation Clause and relevant Supreme Court precedent.\u201d Id.; e.g., Childers v. State, 936 So.2d at 599 (Thomas J. specially concurring); id. at 604-07 (Kahn, C.J., concurring in part and dissenting in part); id. at 617 (Browning J., concurring in part and dissenting in part); id. at 617-19 (Polston, J., concurring in part and dissenting in part); id. at 615 (Benton J., concurring in part and dissenting in part).",
+        "type": "majority",
+        "author": "PER CURIAM:"
+      },
+      {
+        "text": "WILSON, Circuit Judge,\ndissenting:\nThis case was remanded back to us from the Supreme Court so that we may assess, in light of Johnson v. Williams, 568 U.S. -, 133 S.Ct. 1088, 185 L.Ed.2d 105 (2013), whether Childers rebutted the presumption that the Florida District Court of Appeal (DCA) reached the merits of his Sixth Amendment confrontation claim. Under Johnson, \u201cif, ...' in at least some circumstances the state standard is less protective [than the federal standard,] ... [i]n such circumstances, the presumption that the federal claim was adjudicated on the merits may be rebutted.... \u201d Id. at 1096. \u201cThe presumption may be overcome when there is reason to think some other explanation for the state court\u2019s decision is more likely.\u201d Harrington v. Richter, 562 U.S.-, 131 S.Ct. 770, 785, 178 L.Ed.2d 624 (2011). Here, the presumption is rebutted because Florida Rule of Evidence 403, the state standard discussed by the DCA, is \u201cless protective\u201d than the Sixth Amendment\u2019s Confrontation Clause. See Fla. Stat. \u00a7 90.403. There are also reasons to think that \u201csome other explanation for the [DCA\u2019s] decision [was] more likely\u201d than adjudication of Childers\u2019s Sixth Amendment claim on the merits. Harrington, 562 U.S, at -, 131 S.Ct. at 785.\nAs the majority concedes, the DCA affirmed Childers\u2019s convictions \u201cwithout expressly addressing Childers\u2019s claim that the trial court\u2019s ruling infringed his Sixth Amendment right of confrontation.\u201d Majority Op. at 1334. As I previously stated, the DCA did not address Childers\u2019s Sixth Amendment claim when it exclusively discussed Florida\u2019s substantive evidentiary rule. See Childers v. Floyd, 642 F.3d 953, 983-989 (11th Cir.2011) (en banc) (Wilson, J., concurring), cert. granted, judgment vacated, \u2014 U.S. \u2014-, 133 S.Ct. 1452, 185 L.Ed.2d 358 (2013). His Sixth Amendment rights could be violated even if his cross-examination of Willie Junior was properly limited under Rule 403. Our per curiam opinion seems to suggest that Rule 403 and the Sixth Amendment right of confrontation go hand in hand with one another \u2014 if there is no Rule 403 violation, then it follows that there is no Sixth Amendment constitutional violation either. I cannot subscribe to that view.\nRule 403 calls on the trial judge to determine whether the probative value of evidence sought to be introduced is substantially outweighed by the danger of unfair prejudice. That is an entirely different \u2014 and narrower \u2014 question than determining whether an accused has been denied the right to confront a witness testifying against him through the demonstration of that witness\u2019s bias, prejudice, or ulterior motive. See Davis v. Alaska, 415 U.S. 308, 316, 94 S.Ct. 1105, 1110, 39 L.Ed.2d 347 (1974). Confrontation rights are violated when the trial court \u201ceut[s] off all questioning about an event that ... had taken place and that a jury might reasonably have found\u201d biased the witness. Delaware v. Van Arsdall, 475 U.S. 673, 679, 106 S.Ct. 1431, 1435, 89 L.Ed.2d 674 (1986).\nThe DCA does not even mention the words \u201cSixth Amendment\u201d or \u201cconfrontation\u201d in its opinion. Its opinion is confined exclusively to determining whether there was a violation of a Florida substantive evidentiary rule. The tests are not the same, and our per curiam opinion is unable to cite any authority to support the proposition that such a constitutional analysis can be subsumed, by implication, within the resolution of a state substantive evi-dentiary rule. Beyond failing to mention the more protective federal claim while extensively analyzing a less protective state claim, \u201cthere is [one additional] reason to think some other explanation for the state court\u2019s decision is more likely\u201d than an adjudication of Childers\u2019s Sixth Amendment claim on the merits. Harrington, 562 U.S. at-, 131 S.Ct. at 785. Determinations under Rule 403 are reviewed for abuse of discretion, see McWatters v. State, 36 So.3d 613, 636 (Fla.2010) (per curiam) (\u201cA court\u2019s ruling on the relevancy of evidence is reviewed for an abuse of discretion.\u201d), while determinations under the Confrontation Clause are reviewed de novo, see id. at 637 (\u201cIn considering a trial court\u2019s ruling on admissibility of evidence over an objection based on the Confrontation Clause, our standard of review is de novo.\u201d (internal quotation marks omitted)). The DCA reviewed the trial court\u2019s decision for abuse of discretion oply, see Childers v. State, 936 So.2d 585, 592 (Fla.Dist.Ct.App.2006) (en banc) (per curiam), showing that it only analyzed the less protective state court claim.\nThe majority believes it to be clear that Childers\u2019s Confrontation Clause claim was not \u201cinadvertently overlooked\u201d by the DCA. I disagree. In reviewing a criminal conviction, if an appellate court is going to limit its analysis to one of several distinct as the DCA did here, the court would choose the most protective claim with the least deferential standard of review \u2014 unless the more protective claim was overlooked. Given these circumstances, Johnson\u2019s presumption that the claim was adjudicated on the merits has been rebutted.\nI dissent because I believe that we are obligated to decide Childers\u2019s Sixth Amendment confrontation claim on the merits. As I previously indicated, however, I am not inclined to conclude ultimately that Childers\u2019s Sixth Amendment rights were violated by the limitations placed on his counsel during his cross-examination of Willie Junior.",
+        "type": "dissent",
+        "author": "WILSON, Circuit Judge,"
+      },
+      {
+        "text": "MARTIN, Circuit Judge,\ndissenting:\nI dissent from the Majority\u2019s opinion on remand, which reinstates this Court\u2019s en banc opinion in Childers v. Floyd, 642 F.3d 953 (11th Cir.2011) (en banc) (Childers I), cert. granted, judgment Vacated, \u2014\u2014 U.S. -, 133 S.Ct. 1452, 185 L.Ed.2d 358 (2013), after the Supreme Court had vacated it and remanded it for our consideration in light of Johnson v. Williams, 568 U.S. -, 133 S.Ct. 1088, 185 L.Ed.2d 105 (2013). Setting aside that members of our court may have different views about what is the right result for Mr. Childers, the en banc Majority\u2019s interpretation in Childers I of the term \u201cadjudicated on the merits\u201d must be reevaluated and rejected in light of Williams.\nIn Childers I, the en banc Majority said that \u201can \u2018adjudication on the merits\u2019 is best defined as any state court decision that does not rest solely on a state procedural bar.\u201d 642 F.3d at 968 (emphasis added). Childers I then held: \u201cunless the. state court clearly states that its decision was based solely on a state procedural rule, we will presume that the state court has rendered an adjudication on the merits when the petitioner\u2019s claim \u2018is the same claim rejected\u2019 by the state court.\u201d Id. at 969 (quoting Early v. Packer, 537 U.S. 3, 8, 123 S.Ct. 362, 364, 154 L.Ed.2d 263 (2002)). This exceedingly broad interpretation of the term \u201cadjudicated on the merits\u201d .is directly at odds with the Supreme Court\u2019s decision in Williams because the Majority\u2019s rule elevates all state court decisions, except for rulings \u201cclearly\u201d and \u201csolely\u201d based on state procedural grounds, to be \u201cadjudications on the merits.\u201d\nIn Williams, the Supreme Court was called upon to \u201cascertain the meaning of the adjudication-on-the merits requirement\u201d of 28 U.S.C. \u00a7 2254(d). Williams, 133 S.Ct. at 1091. The meaning of this term is important because the Antiterrorism and Effective Death Penalty Act \u201csharply limits the circumstances in which a federal court may issue a writ of habeas corpus to a state prisoner whose claim was \u2018adjudicated on the merits in State court proceedings.\u2019 \u201d Id. at 1094 (quoting 28 U.S.C. \u00a7 2254(d)). As the Supreme Court explained,\n[t]his issue arises when a defendant convicted in state court attempts to raise a federal claim, either on direct appeal or in a collateral state proceeding, and a state court rules against the defendant and issues an opinion that addresses some issues but does not expressly address the federal claim in question. If this defendant then raises the same claim in a federal habeas proceeding, should the federal court regard the claim as having been adjudicated on the merits by the state court and apply deference under \u00a7 2254(d)? Or may the federal court assume that the state court simply overlooked the federal claim and proceed to adjudicate the claim de novo, the course taken by the Court of Appeals in the case at hand?\nId. at 1091 (emphasis added). The answer to this question, the Supreme Court told us in Williams, \u201cfollows logically from [its] decision in Harrington v. Richter, 562 U.S. -, 131 S.Ct. 770, 178 L.Ed.2d 624 (2011).\u201d Williams, 133 S.Ct. at 1091.\nBy way of - background, the Supreme Court held in Richter that \u00a7 2254(d) \u201cdoes not require a state court to give reasons before its decision can be deemed to have been \u2018adjudicated on the merits.\u2019 \u201d Id. (quoting Richter, 131 S.Ct. at 785). Rather, the Supreme Court explained, \u201c[w]hen a federal claim has been presented to a state court and the state court has denied relief, it may be presumed that the state court adjudicated the claim on the merits in the absence of any indication or state-law procedural principles to the contrary.\u201d Id. (emphasis added) (quoting Richter, 131 S.Ct. at 784-85). Although Richter reviewed a state court summary adjudication that \u201cdid not address any of the defendant\u2019s claims,\u201d the Supreme Court in Williams found \u201cno reason why the Richter presumption should not also apply when a state-court opinion addresses some but not all of a defendant\u2019s claims.\u201d Id. at 1094. Thus, Williams reaffirmed the holding of Richter and extended it in the context of non-summary state court opinions.\nBut it is important to note that Williams also reaffirmed that the Richter presumption was rebuttable: \u201c[w]hen a state court rejects a federal claim without expressly addressing that claim, a federal habeas court must 'presume that the federal claim was adjudicated on the merits \u2014 but that presumption can in some limited circumstances be rebutted.\u201d Id. at 1096. In sustaining the principle that the presumption a claim has been adjudicated on the merits may be rebutted, the Supreme Court considered and rejected the State of California\u2019s invitation to hold otherwise. California argued in Richter that an irre-buttable presumption should apply where \u201ca defendant claimed in state court that something that occurred at trial violated both a provision of the Federal Constitution and a related provision of state law\u201d and the state court, \u201cin denying relief, made no reference' to federal law.\u201d Id. Williams rejected California\u2019s argument for an irrebutable presumption in this scenario because it \u201cgoes too far.\u201d Id. The Supreme Court explained, \u201cwhile the Richter presumption is a strong one that may be rebutted only in unusual circumstances, it is not irrebuttable. Per se rules should not be applied ... in situations where the generalization is incorrect as an empirical matter, and an irrebuttable presumption that state courts never overlook federal claims would occasionally miss the mark.\u201d Id. at 1096-97 (quotation marks, internal citation and footnote omitted).\nIn light of the Supreme Court\u2019s holding and reasoning in Williams, the Majority opinion\u2019s per se rule from Childers I cannot stand. That is because the Majority\u2019s per se rule in Childers I operates like an \u201cirrebutable presumption that state courts never overlook federal claims,\u201d id. at 1097, at least in cases where the state court did not \u201cclearly\u201d and \u201csolely\u201d rely on a procedural rule. As Justice Alito explained for the Court in Williams, \u201c[i]f a federal claim is rejected as a result of sheer inadvertence, it has not been evaluated based on the intrinsic right and wrong of the matter.\u201d Id. Said another way, claims that have been overlooked cannot have been \u201cadjudicated on the merits in State court\u201d within the meaning of \u00a7 2254(d). See id. Thus, even in the face of the Supreme Court\u2019s emphatic rejection of an irrebutta-ble presumption in Williams, the en banc Majority here all but ignores Williams by reinstating its opinion in Childers I. Today\u2019s reinstated Childers I opinion leaves undisturbed an irrebutable presumption (that there was an adjudieation-on-the merits in all \u00a7 2254 cases involving the same claim in state and federal court) \u201cunless the state court clearly states that its decision was based solely on a state procedural rule.\u201d Childers I, 642 F.3d at 969.\nAlthough the en banc Majority\u2019s rule may seem simpler to apply than Williams\u2019s rebuttable presumption, the Supreme Court was not \u201cpersuaded that applying a rebuttable presumption in this context will be unduly burdensome for federal courts.\u201d Williams, 133 S.Ct. at 1097. But more to the point, the now reinstated Childers I opinion is contrary to the rule the Supreme Court announced in Williams, and directed us to apply upon remand of Mr. Childers\u2019s case. So while the majority\u2019s inquiry into whether a claim has been procedurally defaulted is certainly necessary and proper, its per se rule ignores the more probing and complete inquiry required by Williams in cases where the state court may have inadvertently overlooked or misunderstood the federal claim.\nFor these reasons, I dissent.\n. For the reasons set out by Judge Barkett in her dissent in Childers I, which I joined, I maintain my view that the Florida Courts did not adjudicate Mr. Childers\u2019s Confrontation Clause claim \u201con the merits\u201d within the meaning of 28 U.S.C. \u00a7 2254(d) and Harrington v. Richter, 562 U.S. --, 131 S.Ct. 770, 784-85, 178 L.Ed.2d 624 (2011). See Childers I, 642 F.3d at 988-95 (Barkett, J., dissenting, joined by Martin, J.). I also agree with Judge Wilson, who explains in his dissent to the Majority\u2019s restated opinion here, that Mr. Childers has rebutted the presumption that his claim was adjudicated on the merits under Williams. See Wilson dissent at 1336. Under the resulting de novo review, however, I stand by my earlier conclusion that Mr. Childers is entitled to habeas relief based upon the circumstances of his case. Childers I, 642 F.3d at 988-95 (Barkett, J., dissenting, joined by Martin, J.).",
+        "type": "dissent",
+        "author": "MARTIN, Circuit Judge,"
+      }
+    ],
+    "attorneys": [
+      "Nathan Z. Dershowitz, Dershowitz, Eiger & Adelson, P.C., New York, NY, for Petitioner-Appellant.",
+      "Christine Ann Guard, Office of The Attorney General, Tallahassee, FL, for Respondent-Appellee."
+    ],
+    "corrections": "",
+    "head_matter": "Wyon Dale CHILDERS, Petitioner-Appellant, v. Willie L. FLOYD, Warden-Glades Correctional Institution, Respondent-Appellee.\nNo. 08-15590.\nUnited States Court of Appeals, Eleventh Circuit.\nNov. 14, 2013.\nNathan Z. Dershowitz, Dershowitz, Eiger & Adelson, P.C., New York, NY, for Petitioner-Appellant.\nChristine Ann Guard, Office of The Attorney General, Tallahassee, FL, for Respondent-Appellee.\nBefore CARNES, Chief Judge, TJOFLAT, HULL, MARCUS, WILSON, PRYOR, MARTIN, DUBINA, and BLACK, Circuit Judges.\nJudge Rosemary Barkett participated in the initial en banc decision of this Court, Childers v. Floyd, 642 F.3d 953 (11th Cir.2011) (en banc), but because she resigned from the Court effective September 30, 2013, she did not participate in this decision. Judge Adal-berto Jordan, who was not a member of the Court when the initial en banc decision was issued, elected not to participate in this decision. Judge J.L. Edmondson, who participated in the initial en banc decision of this Court but has since taken senior status, also elected not to participate in this decision."
+  },
+  "file_name": "1331-01",
+  "first_page_order": 1357,
+  "last_page_order": 1365
+}

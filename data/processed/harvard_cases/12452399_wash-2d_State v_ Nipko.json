@@ -1,0 +1,59 @@
+{
+  "id": 12452399,
+  "name": "State, Respondent, v. Nipko, Petitioner",
+  "name_abbreviation": "State v. Nipko",
+  "decision_date": "2017-03-29",
+  "docket_number": "No. 93971-3",
+  "first_page": "1031",
+  "last_page": "1031",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "187 Wash. 2d 1031"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Wash.",
+    "id": 9029,
+    "name": "Washington Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 38,
+    "name_long": "Washington",
+    "name": "Wash."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 23,
+    "char_count": 172,
+    "ocr_confidence": 0.876,
+    "sha256": "ef2dbae4ba974a1f333fc7105b1dafa3f58bbb27721a87e3573e7981f4473533",
+    "simhash": "1:40c9c8164d69646c",
+    "word_count": 27
+  },
+  "last_updated": "2023-07-14T16:43:02.993409+00:00",
+  "provenance": {
+    "date_added": "2019-05-21",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "State, Respondent, v. Nipko, Petitioner,"
+    ],
+    "opinions": [
+      {
+        "text": "Petition for review of a decision of the Court of Appeals, No. 33820-7-III, November 17, 2017. Denied March 29, 2017.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "State, Respondent, v. Nipko, Petitioner,\nNo. 93971-3."
+  },
+  "file_name": "1031-01",
+  "first_page_order": 999,
+  "last_page_order": 999
+}

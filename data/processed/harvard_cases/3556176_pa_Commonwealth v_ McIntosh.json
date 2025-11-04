@@ -1,0 +1,84 @@
+{
+  "id": 3556176,
+  "name": "COMMONWEALTH of Pennsylvania, Respondent v. Tracy McINTOSH, Petitioner",
+  "name_abbreviation": "Commonwealth v. McIntosh",
+  "decision_date": "2007-04-10",
+  "docket_number": "Petition No. 592 EAL 2006",
+  "first_page": "7",
+  "last_page": "7",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "592 Pa. 7"
+    },
+    {
+      "type": "parallel",
+      "cite": "922 A.2d 873"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "912 A.2d 827",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        3852218,
+        8444268
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/590/0376-01",
+        "/a2d/912/0827-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 85,
+    "char_count": 835,
+    "ocr_confidence": 0.651,
+    "pagerank": {
+      "raw": 8.622560850381648e-08,
+      "percentile": 0.49065119240542593
+    },
+    "sha256": "906c047da75c217cf1f3c84b4518ecada7718d8094910330abe44f39421ceac8",
+    "simhash": "1:4d3f42efd0cebebe",
+    "word_count": 134
+  },
+  "last_updated": "2024-02-27T21:45:49.457734+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Justice FITZGERALD did not participate in the consideration or decision of this matter."
+    ],
+    "parties": [
+      "COMMONWEALTH of Pennsylvania, Respondent v. Tracy McINTOSH, Petitioner."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nPER CURIAM.\nAND NOW, this 10th day of April, 2007, it is hereby ordered that Petitioner\u2019s Petition for Allowance of Appeal is granted. The order entered on November 6, 2006 by the Superior Court is vacated as to the remand to a different judge of the Court of Common Pleas of Philadelphia County. See Commonwealth v. Whitmore, 912 A.2d 827 (Pa.2006). The November 6, 2006 order of the Superior Court is affirmed in all other respects. Petitioner\u2019s Application for Relief Requesting Permission to File a Reply to the Commonwealth\u2019s Brief Opposing Petition for Allowance of Appeal Filed in this Case is denied.\nJustice FITZGERALD did not participate in the consideration or decision of this matter.",
+        "type": "majority",
+        "author": "PER CURIAM."
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "922 A.2d 873\nCOMMONWEALTH of Pennsylvania, Respondent v. Tracy McINTOSH, Petitioner.\nSupreme Court of Pennsylvania.\nApril 10, 2007."
+  },
+  "file_name": "0007-01",
+  "first_page_order": 59,
+  "last_page_order": 59
+}

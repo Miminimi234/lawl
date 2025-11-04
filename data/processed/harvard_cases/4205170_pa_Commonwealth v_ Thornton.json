@@ -1,0 +1,67 @@
+{
+  "id": 4205170,
+  "name": "COMMONWEALTH of Pennsylvania, Respondent v. Harold THORNTON, Petitioner",
+  "name_abbreviation": "Commonwealth v. Thornton",
+  "decision_date": "2011-10-04",
+  "docket_number": "No. 31 EM 2011",
+  "first_page": "102",
+  "last_page": "102",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "612 Pa. 102"
+    },
+    {
+      "type": "parallel",
+      "cite": "29 A.3d 1156"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 41,
+    "char_count": 310,
+    "ocr_confidence": 0.689,
+    "pagerank": {
+      "raw": 4.688403287882615e-08,
+      "percentile": 0.139230735242225
+    },
+    "sha256": "58865d5e2bf37d663ac49cd8f3080214dd97e11f1b76e123de85f8e0af7e1aea",
+    "simhash": "1:6db5612cd5e8081f",
+    "word_count": 51
+  },
+  "last_updated": "2023-07-14T19:33:52.292960+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "COMMONWEALTH of Pennsylvania, Respondent v. Harold THORNTON, Petitioner."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nAND NOW, this 4th day of October, 2011, the Application for Leave to File Original Process is GRANTED, and the Petition for Writ of Habeas Corpus is DENIED.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "29 A.3d 1156\nCOMMONWEALTH of Pennsylvania, Respondent v. Harold THORNTON, Petitioner.\nNo. 31 EM 2011.\nSupreme Court of Pennsylvania.\nOct. 4, 2011."
+  },
+  "file_name": "0102-01",
+  "first_page_order": 146,
+  "last_page_order": 146
+}

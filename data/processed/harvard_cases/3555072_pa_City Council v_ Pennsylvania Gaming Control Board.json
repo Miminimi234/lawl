@@ -1,0 +1,84 @@
+{
+  "id": 3555072,
+  "name": "CITY COUNCIL FOR the CITY OF PHILADELPHIA, Petitioner, v. The PENNSYLVANIA GAMING CONTROL BOARD, Respondent. HSP Gaming, LP, Intervenor, Philadelphia Entertainment and Development Partners, LP, Intervenor, Pinnacle Entertainment, Inc. and PNK (PA) LLC, Intervenor",
+  "name_abbreviation": "City Council v. Pennsylvania Gaming Control Board",
+  "decision_date": "2007-06-22",
+  "docket_number": "No. 39 EM 2007",
+  "first_page": "608",
+  "last_page": "609",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "592 Pa. 608"
+    },
+    {
+      "type": "parallel",
+      "cite": "927 A.2d 199"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "2007 WL 1610165",
+      "category": "reporters:specialty_west",
+      "reporter": "WL",
+      "weight": 2,
+      "year": 2007,
+      "pin_cites": [
+        {
+          "page": "*8-9",
+          "parenthetical": "Saylor, J., dissenting"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "928 A.2d 175",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        3248505,
+        8355763
+      ],
+      "weight": 2,
+      "year": 2007,
+      "pin_cites": [
+        {
+          "page": "185-86",
+          "parenthetical": "Saylor, J., dissenting"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/593/0001-01",
+        "/a2d/928/0175-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 103,
+    "char_count": 1189,
+    "ocr_confidence": 0.639,
+    "sha256": "bc27fd0cc15ebca9c60afce43657d4d2b82c683bddf168f88c65daac435e14c9",
+    "simhash": "1:78bba2aa060842a6",
+    "word_count": 180
+  },
+  "last_updated": "2024-02-27T21:45:49.457734+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "file_name": "0608-01",
+  "first_page_order": 660,
+  "last_page_order": 661
+}

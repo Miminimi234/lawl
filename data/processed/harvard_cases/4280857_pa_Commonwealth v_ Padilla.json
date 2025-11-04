@@ -1,0 +1,2435 @@
+{
+  "id": 4280857,
+  "name": "COMMONWEALTH of Pennsylvania, Appellee v. Miguel A. PADILLA, Appellant",
+  "name_abbreviation": "Commonwealth v. Padilla",
+  "decision_date": "2013-10-31",
+  "docket_number": "Nos. 567 CAP, 568 CAP",
+  "first_page": "449",
+  "last_page": "543",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "622 Pa. 449"
+    },
+    {
+      "type": "parallel",
+      "cite": "80 A.3d 1238"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "908 A.2d 265",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8455790,
+        2574062,
+        2574099,
+        2573043,
+        8455769,
+        8455804
+      ],
+      "weight": 2,
+      "year": 2006,
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/908/0265-02",
+        "/pa/589/0248-01",
+        "/pa/589/0247-01",
+        "/pa/589/0247-02",
+        "/a2d/908/0265-01",
+        "/a2d/908/0265-03"
+      ]
+    },
+    {
+      "cite": "980 A.2d 35",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7292570,
+        4194886
+      ],
+      "year": 2009,
+      "pin_cites": [
+        {
+          "page": "55-59"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/980/0035-01",
+        "/pa/602/0224-01"
+      ]
+    },
+    {
+      "cite": "602 Pa. 224",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        4194886
+      ],
+      "year": 2009,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/602/0224-01"
+      ]
+    },
+    {
+      "cite": "902 A.2d 430",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8413579,
+        3788063
+      ],
+      "year": 2006,
+      "pin_cites": [
+        {
+          "page": "444"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/902/0430-01",
+        "/pa/588/0019-01"
+      ]
+    },
+    {
+      "cite": "588 Pa. 19",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        3788063
+      ],
+      "year": 2006,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/588/0019-01"
+      ]
+    },
+    {
+      "cite": "690 A.2d 203",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        11922741,
+        468687
+      ],
+      "year": 1997,
+      "pin_cites": [
+        {
+          "page": "220-21"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/690/0203-01",
+        "/pa/547/0294-01"
+      ]
+    },
+    {
+      "cite": "547 Pa. 294",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        468687
+      ],
+      "year": 1997,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/547/0294-01"
+      ]
+    },
+    {
+      "cite": "489 Pa. 12",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1762384
+      ],
+      "weight": 3,
+      "year": 1980,
+      "pin_cites": [
+        {
+          "page": "674"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/489/0012-01"
+      ]
+    },
+    {
+      "cite": "962 A.2d 1170",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8189212,
+        3442350
+      ],
+      "year": 2009,
+      "pin_cites": [
+        {
+          "page": "1183"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/962/1170-01",
+        "/pa/599/0617-01"
+      ]
+    },
+    {
+      "cite": "599 Pa. 617",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        3442350
+      ],
+      "year": 2009,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/599/0617-01"
+      ]
+    },
+    {
+      "cite": "946 A.2d 645",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        4088960,
+        4088729,
+        8382171,
+        8382246
+      ],
+      "year": 2008,
+      "pin_cites": [
+        {
+          "page": "653"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/596/0510-01",
+        "/pa/596/0509-01",
+        "/a2d/946/0645-01",
+        "/a2d/946/0645-02"
+      ]
+    },
+    {
+      "cite": "596 Pa. 510",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        4088960
+      ],
+      "year": 2008,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/596/0510-01"
+      ]
+    },
+    {
+      "cite": "866 A.2d 292",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        1140650,
+        9036758
+      ],
+      "year": 2005,
+      "pin_cites": [
+        {
+          "page": "299"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/581/0490-01",
+        "/a2d/866/0292-01"
+      ]
+    },
+    {
+      "cite": "581 Pa. 490",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1140650
+      ],
+      "year": 2005,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/581/0490-01"
+      ]
+    },
+    {
+      "cite": "131 S.Ct. 2866",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        12450905,
+        5922409
+      ],
+      "weight": 2,
+      "year": 2011,
+      "pin_cites": [
+        {
+          "parenthetical": "per curiam"
+        },
+        {
+          "parenthetical": "per curiam"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/l-ed-2d/180/0872-01",
+        "/us/564/0940-01"
+      ]
+    },
+    {
+      "cite": "916 A.2d 511",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8333009,
+        3014012
+      ],
+      "year": 2007,
+      "pin_cites": [
+        {
+          "page": "526-27",
+          "parenthetical": "in the context of a different treaty, quoting Sanchez-Llamas for this proposition and adding that \"[t]his Court cannot enforce as laws those treaties ... which Congress has not chosen to incorporate into our domestic legal system\""
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/916/0511-01",
+        "/pa/591/0126-01"
+      ]
+    },
+    {
+      "cite": "591 Pa. 126",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        3014012
+      ],
+      "year": 2007,
+      "pin_cites": [
+        {
+          "parenthetical": "in the context of a different treaty, quoting Sanchez-Llamas for this proposition and adding that \"[t]his Court cannot enforce as laws those treaties ... which Congress has not chosen to incorporate into our domestic legal system\""
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/591/0126-01"
+      ]
+    },
+    {
+      "cite": "960 A.2d 59",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        3441393,
+        8191523
+      ],
+      "year": 2008,
+      "pin_cites": [
+        {
+          "page": "97"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/599/0001-01",
+        "/a2d/960/0059-01"
+      ]
+    },
+    {
+      "cite": "599 Pa. 1",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        3441393
+      ],
+      "year": 2008,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/599/0001-01"
+      ]
+    },
+    {
+      "cite": "548 U.S. 331",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        3500432
+      ],
+      "weight": 27,
+      "year": 2006,
+      "pin_cites": [
+        {
+          "page": "337"
+        },
+        {
+          "page": "349"
+        },
+        {
+          "page": "343"
+        },
+        {
+          "page": "347"
+        },
+        {
+          "page": "343-50"
+        },
+        {
+          "parenthetical": "per curiam"
+        },
+        {
+          "page": "351"
+        },
+        {
+          "page": "356"
+        },
+        {
+          "page": "349"
+        },
+        {
+          "page": "343"
+        },
+        {
+          "page": "350"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/548/0331-01"
+      ]
+    },
+    {
+      "cite": "552 U.S. 491",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        3675774
+      ],
+      "weight": 7,
+      "year": 2008,
+      "pin_cites": [
+        {
+          "page": "499",
+          "parenthetical": "citing 21 U.S.T. at 79"
+        },
+        {
+          "parenthetical": "citing 21 U.S.T. at 79"
+        },
+        {
+          "parenthetical": "citing 21 U.S.T. at 79"
+        },
+        {
+          "page": "499"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/552/0491-01"
+      ]
+    },
+    {
+      "cite": "924 A.2d 612",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8305672,
+        3555094
+      ],
+      "year": 2007,
+      "pin_cites": [
+        {
+          "page": "614"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/924/0612-01",
+        "/pa/592/0222-01"
+      ]
+    },
+    {
+      "cite": "592 Pa. 222",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        3555094
+      ],
+      "year": 2007,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/592/0222-01"
+      ]
+    },
+    {
+      "cite": "507 Pa. 440",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1792370
+      ],
+      "weight": 3,
+      "year": 1985,
+      "pin_cites": [
+        {
+          "parenthetical": "holding that there is no constitutional right for a represented defendant to act as co-counsel"
+        },
+        {
+          "page": "822",
+          "parenthetical": "holding that there is no constitutional right for a represented defendant to act as co-counsel"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/507/0440-01"
+      ]
+    },
+    {
+      "cite": "10 A.3d 282",
+      "category": "reporters:state_regional",
+      "reporter": "A.3d",
+      "case_ids": [
+        4199816,
+        7283852
+      ],
+      "year": 2010,
+      "pin_cites": [
+        {
+          "page": "293",
+          "parenthetical": "characterizing as a \"legal nullity\" a pro se Pa.R.A.P.1925(b) statement filed by an appellant who was represented by counsel"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/608/0071-01",
+        "/a3d/10/0282-01"
+      ]
+    },
+    {
+      "cite": "608 Pa. 71",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        4199816
+      ],
+      "year": 2010,
+      "pin_cites": [
+        {
+          "parenthetical": "characterizing as a \"legal nullity\" a pro se Pa.R.A.P.1925(b) statement filed by an appellant who was represented by counsel"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/608/0071-01"
+      ]
+    },
+    {
+      "cite": "534 Pa. 176",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1839641
+      ],
+      "weight": 2,
+      "year": 1993,
+      "pin_cites": [
+        {
+          "page": "1139"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/534/0176-01"
+      ]
+    },
+    {
+      "cite": "589 Pa. 247",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        2574099,
+        2573043
+      ],
+      "year": 2006,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/589/0247-01",
+        "/pa/589/0247-02"
+      ]
+    },
+    {
+      "cite": "386 U.S. 18",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6168882
+      ],
+      "weight": 3,
+      "year": 1967,
+      "pin_cites": [
+        {
+          "page": "22"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/386/0018-01"
+      ]
+    },
+    {
+      "cite": "828 A.2d 1009",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        9107929,
+        588019
+      ],
+      "year": 2003,
+      "pin_cites": [
+        {
+          "page": "1015",
+          "parenthetical": "citing Chapman v. California, 386 U.S. 18, 22, 87 S.Ct. 824, 17 L.Ed.2d 705 (1967) for the general principle that constitutional errors do not require automatic reversal but rather may be subject to a harmless error analysis"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/828/1009-01",
+        "/pa/574/0005-01"
+      ]
+    },
+    {
+      "cite": "574 Pa. 5",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        588019
+      ],
+      "year": 2003,
+      "pin_cites": [
+        {
+          "parenthetical": "citing Chapman v. California, 386 U.S. 18, 22, 87 S.Ct. 824, 17 L.Ed.2d 705 (1967) for the general principle that constitutional errors do not require automatic reversal but rather may be subject to a harmless error analysis"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/574/0005-01"
+      ]
+    },
+    {
+      "cite": "535 U.S. 685",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        354940
+      ],
+      "weight": 4,
+      "year": 2002,
+      "pin_cites": [
+        {
+          "page": "695-98"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/535/0685-01"
+      ]
+    },
+    {
+      "cite": "554 U.S. 191",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        3677266
+      ],
+      "weight": 9,
+      "year": 2008,
+      "pin_cites": [
+        {
+          "page": "198",
+          "parenthetical": "citations omitted"
+        },
+        {
+          "parenthetical": "citations omitted"
+        },
+        {
+          "parenthetical": "citations omitted"
+        },
+        {
+          "page": "212"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/554/0191-01"
+      ]
+    },
+    {
+      "cite": "467 U.S. 180",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6196731
+      ],
+      "weight": 4,
+      "year": 1984,
+      "pin_cites": [
+        {
+          "page": "190",
+          "parenthetical": "reiterating that \"the [Sixth Amendment] right to counsel exists to protect the accused during trial-type confrontations with the prosecutor\""
+        },
+        {
+          "parenthetical": "reiterating that \"the [Sixth Amendment] right to counsel exists to protect the accused during trial-type confrontations with the prosecutor\""
+        },
+        {
+          "parenthetical": "reiterating that \"the [Sixth Amendment] right to counsel exists to protect the accused during trial-type confrontations with the prosecutor\""
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/467/0180-01"
+      ]
+    },
+    {
+      "cite": "466 U.S. 648",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6204502
+      ],
+      "weight": 9,
+      "year": 1984,
+      "pin_cites": [
+        {
+          "page": "654"
+        },
+        {
+          "parenthetical": "citing Chapman v. California, 386 U.S. 18, 22, 87 S.Ct. 824, 17 L.Ed.2d 705 (1967) for the general principle that constitutional errors do not require automatic reversal but rather may be subject to a harmless error analysis"
+        },
+        {
+          "page": "658"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/466/0648-01"
+      ]
+    },
+    {
+      "cite": "849 A.2d 1145",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        9243904,
+        1329465
+      ],
+      "weight": 2,
+      "year": 2004,
+      "pin_cites": [
+        {
+          "page": "1149",
+          "parenthetical": "citing 16 P.S. \u00a7 9960.6(a)"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/849/1145-01",
+        "/pa/578/0059-01"
+      ]
+    },
+    {
+      "cite": "578 Pa. 59",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1329465
+      ],
+      "year": 2004,
+      "pin_cites": [
+        {
+          "parenthetical": "citing 16 P.S. \u00a7 9960.6(a)"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/578/0059-01"
+      ]
+    },
+    {
+      "cite": "535 U.S. 162",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        353765
+      ],
+      "weight": 3,
+      "year": 2002,
+      "pin_cites": [
+        {
+          "page": "171"
+        },
+        {
+          "page": "1243"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/535/0162-01"
+      ]
+    },
+    {
+      "cite": "980 A.2d 510",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        4194625,
+        7294178
+      ],
+      "weight": 2,
+      "year": 2009,
+      "pin_cites": [
+        {
+          "page": "522",
+          "parenthetical": "citing Mickens v. Taylor, 535 U.S. 162, 171, 122 S.Ct. 1237, 1243, 152 L.Ed.2d 291 (2002), for the definition of \"actual conflict of interest\" for Sixth Amendment purposes as a \"conflict of interest that adversely affects counsel's performance\""
+        },
+        {
+          "page": "527"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/602/0360-01",
+        "/a2d/980/0510-01"
+      ]
+    },
+    {
+      "cite": "602 Pa. 360",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        4194625
+      ],
+      "weight": 2,
+      "year": 2009,
+      "pin_cites": [
+        {
+          "parenthetical": "citing Mickens v. Taylor, 535 U.S. 162, 171, 122 S.Ct. 1237, 1243, 152 L.Ed.2d 291 (2002), for the definition of \"actual conflict of interest\" for Sixth Amendment purposes as a \"conflict of interest that adversely affects counsel's performance\""
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/602/0360-01"
+      ]
+    },
+    {
+      "cite": "896 A.2d 1191",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8431353,
+        3465881
+      ],
+      "weight": 2,
+      "year": 2006,
+      "pin_cites": [
+        {
+          "page": "1232"
+        },
+        {
+          "page": "1218"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/896/1191-01",
+        "/pa/587/0001-01"
+      ]
+    },
+    {
+      "cite": "587 Pa. 1",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        3465881
+      ],
+      "weight": 2,
+      "year": 2006,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/587/0001-01"
+      ]
+    },
+    {
+      "cite": "980 A.2d 549",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        4195000,
+        7294253
+      ],
+      "year": 2009,
+      "pin_cites": [
+        {
+          "page": "568",
+          "parenthetical": "citing Commonwealth v. Spotz, 587 Pa. 1, 896 A.2d 1191, 1232 (2006)"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/602/0425-01",
+        "/a2d/980/0549-01"
+      ]
+    },
+    {
+      "cite": "602 Pa. 425",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        4195000
+      ],
+      "year": 2009,
+      "pin_cites": [
+        {
+          "parenthetical": "citing Commonwealth v. Spotz, 587 Pa. 1, 896 A.2d 1191, 1232 (2006)"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/602/0425-01"
+      ]
+    },
+    {
+      "cite": "912 A.2d 268",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        3852085,
+        8440502
+      ],
+      "year": 2006,
+      "pin_cites": [
+        {
+          "page": "279",
+          "parenthetical": "citing the doctrine of transferred intent, 18 Pa.C.S. \u00a7 303(b)(1), pursuant to which \"the intent to murder may be transferred where the person actually killed is not the intended victim\""
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/590/0202-01",
+        "/a2d/912/0268-01"
+      ]
+    },
+    {
+      "cite": "590 Pa. 202",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        3852085
+      ],
+      "year": 2006,
+      "pin_cites": [
+        {
+          "parenthetical": "citing the doctrine of transferred intent, 18 Pa.C.S. \u00a7 303(b)(1), pursuant to which \"the intent to murder may be transferred where the person actually killed is not the intended victim\""
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/590/0202-01"
+      ]
+    },
+    {
+      "cite": "961 A.2d 119",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8189813,
+        3441590
+      ],
+      "weight": 2,
+      "year": 2008,
+      "pin_cites": [
+        {
+          "page": "130-31"
+        },
+        {
+          "page": "132",
+          "parenthetical": "internal citation omitted"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/961/0119-01",
+        "/pa/599/0270-01"
+      ]
+    },
+    {
+      "cite": "599 Pa. 270",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        3441590
+      ],
+      "weight": 2,
+      "year": 2008,
+      "pin_cites": [
+        {
+          "parenthetical": "internal citation omitted"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/599/0270-01"
+      ]
+    },
+    {
+      "cite": "18 A.3d 1128",
+      "category": "reporters:state_regional",
+      "reporter": "A.3d",
+      "case_ids": [
+        4202106,
+        7284013
+      ],
+      "year": 2011,
+      "pin_cites": [
+        {
+          "page": "1133"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/610/0264-01",
+        "/a3d/18/1128-01"
+      ]
+    },
+    {
+      "cite": "610 Pa. 264",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        4202106
+      ],
+      "year": 2011,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/610/0264-01"
+      ]
+    },
+    {
+      "cite": "12 A.3d 291",
+      "category": "reporters:state_regional",
+      "reporter": "A.3d",
+      "case_ids": [
+        4199685,
+        7283308,
+        7283181,
+        7283154,
+        4199511,
+        4199960
+      ],
+      "weight": 4,
+      "year": 2011,
+      "pin_cites": [
+        {
+          "page": "306"
+        },
+        {
+          "parenthetical": "declining to consider a claim under the Pennsylvania Constitution in support of which the appellant advances no argument, nor cites any case law"
+        },
+        {
+          "parenthetical": "concluding that an undeveloped claim is waived"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/608/0430-01",
+        "/a3d/12/0291-03",
+        "/a3d/12/0291-02",
+        "/a3d/12/0291-01",
+        "/pa/608/0428-02",
+        "/pa/608/0429-01"
+      ]
+    },
+    {
+      "cite": "608 Pa. 430",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        4199685
+      ],
+      "weight": 3,
+      "year": 2011,
+      "pin_cites": [
+        {
+          "parenthetical": "declining to consider a claim under the Pennsylvania Constitution in support of which the appellant advances no argument, nor cites any case law"
+        },
+        {
+          "parenthetical": "concluding that an undeveloped claim is waived"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/608/0430-01"
+      ]
+    },
+    {
+      "cite": "530 Pa. 127",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1833002
+      ],
+      "weight": 3,
+      "year": 1992,
+      "pin_cites": [
+        {
+          "page": "715"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/530/0127-01"
+      ]
+    },
+    {
+      "cite": "686 A.2d 1279",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7365120,
+        466665,
+        7365227,
+        466689
+      ],
+      "weight": 2,
+      "year": 1996,
+      "pin_cites": [
+        {
+          "page": "1292"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/686/1279-01",
+        "/pa/546/0515-01",
+        "/a2d/686/1279-02",
+        "/pa/546/0514-01"
+      ]
+    },
+    {
+      "cite": "546 Pa. 515",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        466665
+      ],
+      "year": 1996,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/546/0515-01"
+      ]
+    },
+    {
+      "cite": "981 A.2d 875",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7293968,
+        4196431
+      ],
+      "year": 2009,
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/981/0875-01",
+        "/pa/603/0001-01"
+      ]
+    },
+    {
+      "cite": "603 Pa. 1",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        4196431
+      ],
+      "year": 2009,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/603/0001-01"
+      ]
+    },
+    {
+      "cite": "723 A.2d 162",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        1701944,
+        1702002,
+        11754452,
+        11754303
+      ],
+      "year": 1999,
+      "pin_cites": [
+        {
+          "page": "170"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/555/0125-01",
+        "/pa/555/0125-02",
+        "/a2d/723/0162-02",
+        "/a2d/723/0162-01"
+      ]
+    },
+    {
+      "cite": "555 Pa. 125",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1701944,
+        1702002
+      ],
+      "year": 1999,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/555/0125-01",
+        "/pa/555/0125-02"
+      ]
+    },
+    {
+      "cite": "826 A.2d 831",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        9111753,
+        197189
+      ],
+      "year": 2003,
+      "pin_cites": [
+        {
+          "page": "844"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/826/0831-01",
+        "/pa/573/0426-01"
+      ]
+    },
+    {
+      "cite": "573 Pa. 426",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        197189
+      ],
+      "year": 2003,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/573/0426-01"
+      ]
+    },
+    {
+      "cite": "975 A.2d 586",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7294770,
+        4196199
+      ],
+      "year": 2009,
+      "pin_cites": [
+        {
+          "page": "590"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/975/0586-01",
+        "/pa/601/0540-01"
+      ]
+    },
+    {
+      "cite": "601 Pa. 540",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        4196199
+      ],
+      "year": 2009,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/601/0540-01"
+      ]
+    },
+    {
+      "cite": "813 A.2d 726",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        9381173,
+        716471
+      ],
+      "weight": 4,
+      "year": 2002,
+      "pin_cites": [
+        {
+          "page": "738"
+        },
+        {
+          "page": "738",
+          "parenthetical": "holding that a petitioner should wait to raise claims of ineffective assistance of trial counsel until collateral review"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/813/0726-01",
+        "/pa/572/0048-01"
+      ]
+    },
+    {
+      "cite": "572 Pa. 48",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        716471
+      ],
+      "weight": 3,
+      "year": 2002,
+      "pin_cites": [
+        {
+          "parenthetical": "holding that a petitioner should wait to raise claims of ineffective assistance of trial counsel until collateral review"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/572/0048-01"
+      ]
+    },
+    {
+      "cite": "438 U.S. 586",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        1769215
+      ],
+      "weight": 3,
+      "year": 1978,
+      "pin_cites": [
+        {
+          "parenthetical": "i.e., the court must actually re-weigh the factors and cannot rely on the mere presence of any \"valid and undisturbed\" aggravating factor as the basis for affirming the death sentence"
+        },
+        {
+          "parenthetical": "i.e., the court must actually re-weigh the factors and cannot rely on the mere presence of any \"valid and undisturbed\" aggravating factor as the basis for affirming the death sentence"
+        },
+        {
+          "parenthetical": "i.e., the court must actually re-weigh the factors and cannot rely on the mere presence of any \"valid and undisturbed\" aggravating factor as the basis for affirming the death sentence"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/us/438/0586-01"
+      ]
+    },
+    {
+      "cite": "147 L.Ed.2d 252",
+      "category": "reporters:federal",
+      "reporter": "L. Ed. 2d",
+      "year": 2000,
+      "opinion_index": 1
+    },
+    {
+      "cite": "120 S.Ct. 2220",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "year": 2000,
+      "opinion_index": 1
+    },
+    {
+      "cite": "530 U.S. 1216",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        9421633,
+        9421473,
+        9421571,
+        9421672,
+        9421323,
+        9421516,
+        9421229,
+        9421358,
+        9421713,
+        9421426,
+        9420886,
+        9420951,
+        9421080,
+        9421147,
+        9421020
+      ],
+      "year": 2000,
+      "opinion_index": 1,
+      "case_paths": [
+        "/us/530/1216-13",
+        "/us/530/1216-10",
+        "/us/530/1216-12",
+        "/us/530/1216-14",
+        "/us/530/1216-07",
+        "/us/530/1216-11",
+        "/us/530/1216-06",
+        "/us/530/1216-08",
+        "/us/530/1216-15",
+        "/us/530/1216-09",
+        "/us/530/1216-01",
+        "/us/530/1216-02",
+        "/us/530/1216-04",
+        "/us/530/1216-05",
+        "/us/530/1216-03"
+      ]
+    },
+    {
+      "cite": "741 A.2d 686",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        11655776,
+        837138
+      ],
+      "year": 1999,
+      "opinion_index": 1,
+      "case_paths": [
+        "/a2d/741/0686-01",
+        "/pa/559/0460-01"
+      ]
+    },
+    {
+      "cite": "559 Pa. 460",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        837138
+      ],
+      "year": 1999,
+      "opinion_index": 1,
+      "case_paths": [
+        "/pa/559/0460-01"
+      ]
+    },
+    {
+      "cite": "903 A.2d 1139",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        3787945,
+        8410935
+      ],
+      "weight": 2,
+      "year": 2006,
+      "pin_cites": [
+        {
+          "page": "1161"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/pa/588/0151-01",
+        "/a2d/903/1139-01"
+      ]
+    },
+    {
+      "cite": "588 Pa. 151",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        3787945
+      ],
+      "year": 2006,
+      "opinion_index": 1,
+      "case_paths": [
+        "/pa/588/0151-01"
+      ]
+    },
+    {
+      "cite": "408 U.S. 238",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        1782791
+      ],
+      "weight": 3,
+      "year": 1972,
+      "opinion_index": 1,
+      "case_paths": [
+        "/us/408/0238-01"
+      ]
+    },
+    {
+      "cite": "466 U.S. 668",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6204802
+      ],
+      "weight": 3,
+      "year": 1984,
+      "opinion_index": 1,
+      "case_paths": [
+        "/us/466/0668-01"
+      ]
+    },
+    {
+      "cite": "980 A.2d 35",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7292570,
+        4194886
+      ],
+      "weight": 2,
+      "year": 2009,
+      "opinion_index": 1,
+      "case_paths": [
+        "/a2d/980/0035-01",
+        "/pa/602/0224-01"
+      ]
+    },
+    {
+      "cite": "602 Pa. 224",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        4194886
+      ],
+      "weight": 2,
+      "year": 2009,
+      "opinion_index": 1,
+      "case_paths": [
+        "/pa/602/0224-01"
+      ]
+    },
+    {
+      "cite": "18 A.3d 244",
+      "category": "reporters:state_regional",
+      "reporter": "A.3d",
+      "case_ids": [
+        7280594,
+        4201975
+      ],
+      "year": 2011,
+      "pin_cites": [
+        {
+          "page": "329-49",
+          "parenthetical": "Castille, C.J., concurring, joined by McCaffery, J."
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/a3d/18/0244-01",
+        "/pa/610/0017-01"
+      ]
+    },
+    {
+      "cite": "610 Pa. 17",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        4201975
+      ],
+      "year": 2011,
+      "pin_cites": [
+        {
+          "parenthetical": "Castille, C.J., concurring, joined by McCaffery, J."
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/pa/610/0017-01"
+      ]
+    },
+    {
+      "cite": "24 A.3d 319",
+      "category": "reporters:state_regional",
+      "reporter": "A.3d",
+      "case_ids": [
+        7276240,
+        4203122
+      ],
+      "year": 2011,
+      "pin_cites": [
+        {
+          "page": "353-54",
+          "parenthetical": "Castille, C.J., concurring"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/a3d/24/0319-01",
+        "/pa/611/0203-01"
+      ]
+    },
+    {
+      "cite": "611 Pa. 203",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        4203122
+      ],
+      "year": 2011,
+      "pin_cites": [
+        {
+          "parenthetical": "Castille, C.J., concurring"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/pa/611/0203-01"
+      ]
+    },
+    {
+      "cite": "35 A.3d 4",
+      "category": "reporters:state_regional",
+      "reporter": "A.3d",
+      "case_ids": [
+        4205575,
+        7265644,
+        7265715,
+        7265943,
+        4205882,
+        4206013
+      ],
+      "year": 2012,
+      "pin_cites": [
+        {
+          "page": "22-24"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/pa/613/0510-02",
+        "/a3d/35/0004-01",
+        "/a3d/35/0004-02",
+        "/a3d/35/0004-03",
+        "/pa/613/0510-01",
+        "/pa/613/0509-02"
+      ]
+    },
+    {
+      "cite": "613 Pa. 510",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        4205882,
+        4205575
+      ],
+      "year": 2012,
+      "opinion_index": 1,
+      "case_paths": [
+        "/pa/613/0510-01",
+        "/pa/613/0510-02"
+      ]
+    },
+    {
+      "cite": "2013 WL 4458885",
+      "category": "reporters:specialty_west",
+      "reporter": "WL",
+      "opinion_index": 1
+    },
+    {
+      "cite": "556 U.S. 180",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        3653689
+      ],
+      "weight": 3,
+      "year": 2009,
+      "pin_cites": [
+        {
+          "parenthetical": "Section 3599 authorizes federally appointed habeas counsel to represent prisoner in subsequent state clemency proceedings; stressing that legislation does not authorize pursuit of litigation in state court in advance of federal habeas proceedings"
+        },
+        {
+          "parenthetical": "Section 3599 authorizes federally appointed habeas counsel to represent prisoner in subsequent state clemency proceedings; stressing that legislation does not authorize pursuit of litigation in state court in advance of federal habeas proceedings"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/us/556/0180-01"
+      ]
+    },
+    {
+      "cite": "55 A.3d 1108",
+      "category": "reporters:state_regional",
+      "reporter": "A.3d",
+      "case_ids": [
+        7312684,
+        3901111
+      ],
+      "year": 2012,
+      "pin_cites": [
+        {
+          "page": "1131"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/a3d/55/1108-01",
+        "/pa/618/0262-01"
+      ]
+    },
+    {
+      "cite": "618 Pa. 262",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        3901111
+      ],
+      "year": 2012,
+      "opinion_index": 1,
+      "case_paths": [
+        "/pa/618/0262-01"
+      ]
+    },
+    {
+      "cite": "976 F.2d 320",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        11288287
+      ],
+      "pin_cites": [
+        {
+          "page": "323"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/f2d/976/0320-01"
+      ]
+    },
+    {
+      "cite": "984 A.2d 478",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        4197554,
+        4197372,
+        7292165,
+        7292206
+      ],
+      "year": 2009,
+      "pin_cites": [
+        {
+          "page": "490",
+          "parenthetical": "quoting N.W. Nat'l Ins. Co. v. Maggio, 976 F.2d 320, 323 (7th Cir.1992)"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/pa/603/0399-01",
+        "/pa/603/0398-01",
+        "/a2d/984/0478-01",
+        "/a2d/984/0478-02"
+      ]
+    },
+    {
+      "cite": "603 Pa. 399",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        4197554
+      ],
+      "year": 2009,
+      "pin_cites": [
+        {
+          "parenthetical": "quoting N.W. Nat'l Ins. Co. v. Maggio, 976 F.2d 320, 323 (7th Cir.1992)"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/pa/603/0399-01"
+      ]
+    },
+    {
+      "cite": "29 A.3d 773",
+      "category": "reporters:state_regional",
+      "reporter": "A.3d",
+      "case_ids": [
+        4204675,
+        7278909
+      ],
+      "year": 2011,
+      "pin_cites": [
+        {
+          "page": "787",
+          "parenthetical": "quoting Maloney v. Valley Med. Facilities, Inc., 603 Pa. 399, 984 A.2d 478, 490 (2009) (quoting N.W. Nat'l Ins. Co. v. Maggio, 976 F.2d 320, 323 (7th Cir.1992))"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/pa/612/0023-01",
+        "/a3d/29/0773-01"
+      ]
+    },
+    {
+      "cite": "612 Pa. 23",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        4204675
+      ],
+      "year": 2011,
+      "pin_cites": [
+        {
+          "parenthetical": "quoting Maloney v. Valley Med. Facilities, Inc., 603 Pa. 399, 984 A.2d 478, 490 (2009) (quoting N.W. Nat'l Ins. Co. v. Maggio, 976 F.2d 320, 323 (7th Cir.1992))"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/pa/612/0023-01"
+      ]
+    },
+    {
+      "cite": "934 A.2d 1199",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8375645,
+        3596735
+      ],
+      "year": 2007,
+      "pin_cites": [
+        {
+          "parenthetical": "construing constitutional claim, and noting that decisions of such matters are more secure when supported by relevant searching inquiry"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/a2d/934/1199-01",
+        "/pa/594/0119-01"
+      ]
+    },
+    {
+      "cite": "594 Pa. 119",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        3596735
+      ],
+      "year": 2007,
+      "pin_cites": [
+        {
+          "parenthetical": "construing constitutional claim, and noting that decisions of such matters are more secure when supported by relevant searching inquiry"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/pa/594/0119-01"
+      ]
+    },
+    {
+      "cite": "64 A.3d 1036",
+      "category": "reporters:state_regional",
+      "reporter": "A.3d",
+      "case_ids": [
+        4234412,
+        7310932
+      ],
+      "year": 2013,
+      "pin_cites": [
+        {
+          "parenthetical": "noting difficulties with precedent lacking developed reasoning"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/pa/619/0401-01",
+        "/a3d/64/1036-01"
+      ]
+    },
+    {
+      "cite": "619 Pa. 401",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        4234412
+      ],
+      "year": 2013,
+      "pin_cites": [
+        {
+          "parenthetical": "noting difficulties with precedent lacking developed reasoning"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/pa/619/0401-01"
+      ]
+    },
+    {
+      "cite": "494 U.S. 738",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        5352
+      ],
+      "weight": 5,
+      "year": 1990,
+      "pin_cites": [
+        {
+          "page": "739",
+          "parenthetical": "\"[NJothing in appellate weighing or reweighing of the aggravating and mitigating circumstances is at odds with contemporary standards of fairness or ... inherently unreliable and likely to result in arbitrary imposition of the death sentence.\""
+        },
+        {
+          "parenthetical": "\"[NJothing in appellate weighing or reweighing of the aggravating and mitigating circumstances is at odds with contemporary standards of fairness or ... inherently unreliable and likely to result in arbitrary imposition of the death sentence.\""
+        },
+        {
+          "parenthetical": "\"[NJothing in appellate weighing or reweighing of the aggravating and mitigating circumstances is at odds with contemporary standards of fairness or ... inherently unreliable and likely to result in arbitrary imposition of the death sentence.\""
+        },
+        {
+          "page": "744-54"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/us/494/0738-01"
+      ]
+    },
+    {
+      "cite": "558 U.S. 139",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        3639127
+      ],
+      "weight": 4,
+      "year": 2010,
+      "opinion_index": 1,
+      "case_paths": [
+        "/us/558/0139-01"
+      ]
+    },
+    {
+      "cite": "753 A.2d 204",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        11205597,
+        225967
+      ],
+      "year": 2000,
+      "pin_cites": [
+        {
+          "page": "213-14"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/a2d/753/0204-01",
+        "/pa/562/0007-01"
+      ]
+    },
+    {
+      "cite": "562 Pa. 7",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        225967
+      ],
+      "year": 2000,
+      "opinion_index": 1,
+      "case_paths": [
+        "/pa/562/0007-01"
+      ]
+    },
+    {
+      "cite": "15 A.3d 345",
+      "category": "reporters:state_regional",
+      "reporter": "A.3d",
+      "case_ids": [
+        4201010,
+        7338275
+      ],
+      "weight": 4,
+      "year": 2011,
+      "pin_cites": [
+        {
+          "page": "384-85"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/pa/609/0128-01",
+        "/a3d/15/0345-01"
+      ]
+    },
+    {
+      "cite": "609 Pa. 128",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        4201010
+      ],
+      "year": 2011,
+      "opinion_index": 1,
+      "case_paths": [
+        "/pa/609/0128-01"
+      ]
+    },
+    {
+      "cite": "19 A.3d 512",
+      "category": "reporters:state_regional",
+      "reporter": "A.3d",
+      "case_ids": [
+        7281011,
+        4202141
+      ],
+      "year": 2011,
+      "opinion_index": 1,
+      "case_paths": [
+        "/a3d/19/0512-01",
+        "/pa/610/0332-01"
+      ]
+    },
+    {
+      "cite": "610 Pa. 332",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        4202141
+      ],
+      "year": 2011,
+      "opinion_index": 1,
+      "case_paths": [
+        "/pa/610/0332-01"
+      ]
+    },
+    {
+      "cite": "846 A.2d 75",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        9252144,
+        91637
+      ],
+      "weight": 2,
+      "year": 2004,
+      "pin_cites": [
+        {
+          "page": "100-01"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/a2d/846/0075-01",
+        "/pa/577/0421-01"
+      ]
+    },
+    {
+      "cite": "577 Pa. 421",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        91637
+      ],
+      "year": 2004,
+      "opinion_index": 1,
+      "case_paths": [
+        "/pa/577/0421-01"
+      ]
+    },
+    {
+      "cite": "31 A.3d 668",
+      "category": "reporters:state_regional",
+      "reporter": "A.3d",
+      "case_ids": [
+        7276009,
+        4204527
+      ],
+      "weight": 2,
+      "year": 2011,
+      "pin_cites": [
+        {
+          "page": "675-76",
+          "parenthetical": "footnotes omitted"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/a3d/31/0668-01",
+        "/pa/612/0505-01"
+      ]
+    },
+    {
+      "cite": "612 Pa. 505",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        4204527
+      ],
+      "year": 2011,
+      "opinion_index": 1,
+      "case_paths": [
+        "/pa/612/0505-01"
+      ]
+    },
+    {
+      "cite": "941 A.2d 686",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        4087735,
+        8396851,
+        4088903,
+        8396783
+      ],
+      "year": 2008,
+      "pin_cites": [
+        {
+          "parenthetical": "on collateral attack, defendants alleged that ineffectiveness claim involving counsel's failure to request on-record, oral jury waiver colloquy implicated structural error, warranting presumption of prejudice"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/pa/596/0172-01",
+        "/a2d/941/0686-02",
+        "/pa/596/0171-01",
+        "/a2d/941/0686-01"
+      ]
+    },
+    {
+      "cite": "596 Pa. 172",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        4087735
+      ],
+      "year": 2008,
+      "pin_cites": [
+        {
+          "parenthetical": "on collateral attack, defendants alleged that ineffectiveness claim involving counsel's failure to request on-record, oral jury waiver colloquy implicated structural error, warranting presumption of prejudice"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/pa/596/0172-01"
+      ]
+    },
+    {
+      "cite": "57 A.3d 607",
+      "category": "reporters:state_regional",
+      "reporter": "A.3d",
+      "case_ids": [
+        7310321,
+        3900413
+      ],
+      "year": 2012,
+      "pin_cites": [
+        {
+          "parenthetical": "on collateral attack, defendant alleged that trial counsel's lack of experience amounted to constructive denial of counsel implicating structural error, and warranting presumption of prejudice"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/a3d/57/0607-01",
+        "/pa/618/0405-01"
+      ]
+    },
+    {
+      "cite": "618 Pa. 405",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        3900413
+      ],
+      "year": 2012,
+      "pin_cites": [
+        {
+          "parenthetical": "on collateral attack, defendant alleged that trial counsel's lack of experience amounted to constructive denial of counsel implicating structural error, and warranting presumption of prejudice"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/pa/618/0405-01"
+      ]
+    },
+    {
+      "cite": "650 A.2d 420",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        11325009,
+        474246
+      ],
+      "weight": 3,
+      "year": 1994,
+      "pin_cites": [
+        {
+          "page": "430"
+        },
+        {
+          "page": "430"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/a2d/650/0420-01",
+        "/pa/539/0061-01"
+      ]
+    },
+    {
+      "cite": "539 Pa. 61",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        474246
+      ],
+      "weight": 2,
+      "year": 1994,
+      "opinion_index": 1,
+      "case_paths": [
+        "/pa/539/0061-01"
+      ]
+    },
+    {
+      "cite": "813 A.2d 726",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        9381173,
+        716471
+      ],
+      "year": 2002,
+      "pin_cites": [
+        {
+          "page": "738"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/a2d/813/0726-01",
+        "/pa/572/0048-01"
+      ]
+    },
+    {
+      "cite": "572 Pa. 48",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        716471
+      ],
+      "year": 2002,
+      "opinion_index": 1,
+      "case_paths": [
+        "/pa/572/0048-01"
+      ]
+    },
+    {
+      "cite": "877 A.2d 433",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8955379,
+        687694
+      ],
+      "year": 2005,
+      "pin_cites": [
+        {
+          "page": "453-58",
+          "parenthetical": "Saylor, J., dissenting"
+        }
+      ],
+      "opinion_index": 2,
+      "case_paths": [
+        "/a2d/877/0433-01",
+        "/pa/583/0358-01"
+      ]
+    },
+    {
+      "cite": "583 Pa. 358",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        687694
+      ],
+      "year": 2005,
+      "pin_cites": [
+        {
+          "page": "392-99",
+          "parenthetical": "Saylor, J., dissenting"
+        }
+      ],
+      "opinion_index": 2,
+      "case_paths": [
+        "/pa/583/0358-01"
+      ]
+    },
+    {
+      "cite": "795 A.2d 1073",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        9428334
+      ],
+      "year": 2002,
+      "pin_cites": [
+        {
+          "page": "1078"
+        }
+      ],
+      "opinion_index": 2,
+      "case_paths": [
+        "/a2d/795/1073-01"
+      ]
+    },
+    {
+      "cite": "602 Pa. 224",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        4194886
+      ],
+      "weight": 2,
+      "year": 2009,
+      "pin_cites": [
+        {
+          "page": "259-65"
+        }
+      ],
+      "opinion_index": 2,
+      "case_paths": [
+        "/pa/602/0224-01"
+      ]
+    },
+    {
+      "cite": "846 A.2d 75",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        9252144,
+        91637
+      ],
+      "weight": 3,
+      "year": 2004,
+      "pin_cites": [
+        {
+          "page": "102",
+          "parenthetical": "rejecting \"after-the-fact-explanations\" in an analogous context"
+        }
+      ],
+      "opinion_index": 2,
+      "case_paths": [
+        "/a2d/846/0075-01",
+        "/pa/577/0421-01"
+      ]
+    },
+    {
+      "cite": "577 Pa. 421",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        91637
+      ],
+      "weight": 2,
+      "year": 2004,
+      "pin_cites": [
+        {
+          "page": "466"
+        }
+      ],
+      "opinion_index": 2,
+      "case_paths": [
+        "/pa/577/0421-01"
+      ]
+    },
+    {
+      "cite": "650 A.2d 420",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        11325009,
+        474246
+      ],
+      "year": 1994,
+      "pin_cites": [
+        {
+          "page": "430",
+          "parenthetical": "\"[W]e are not in a position to determine whether the lack of the aggravating circumstance struck down would have changed the jury's determination, and, pursuant to 42 Pa.C.S. \u00a7 9711(h)(4), we are required to vacate the penalty of death and remand for a new sentencing hearing.\""
+        }
+      ],
+      "opinion_index": 2,
+      "case_paths": [
+        "/a2d/650/0420-01",
+        "/pa/539/0061-01"
+      ]
+    },
+    {
+      "cite": "539 Pa. 61",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        474246
+      ],
+      "year": 1994,
+      "pin_cites": [
+        {
+          "page": "80-81",
+          "parenthetical": "\"[W]e are not in a position to determine whether the lack of the aggravating circumstance struck down would have changed the jury's determination, and, pursuant to 42 Pa.C.S. \u00a7 9711(h)(4"
+        }
+      ],
+      "opinion_index": 2,
+      "case_paths": [
+        "/pa/539/0061-01"
+      ]
+    },
+    {
+      "cite": "980 A.2d 35",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7292570,
+        4194886
+      ],
+      "year": 2009,
+      "opinion_index": 2,
+      "case_paths": [
+        "/a2d/980/0035-01",
+        "/pa/602/0224-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 3871,
+    "char_count": 191372,
+    "ocr_confidence": 0.731,
+    "pagerank": {
+      "raw": 1.1202467278902063e-07,
+      "percentile": 0.5732772451212407
+    },
+    "sha256": "1c28976753f7d1031e0156dac800b52eb7b8dae62d8db984b9f666b6f00170fb",
+    "simhash": "1:83def2a6fb64dddd",
+    "word_count": 30675
+  },
+  "last_updated": "2024-02-27T16:59:34.878718+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "file_name": "0449-01",
+  "first_page_order": 493,
+  "last_page_order": 587
+}

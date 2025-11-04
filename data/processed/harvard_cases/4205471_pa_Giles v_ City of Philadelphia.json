@@ -1,0 +1,63 @@
+{
+  "id": 4205471,
+  "name": "Emmit GILES, Petitioner v. CITY OF PHILADELPHIA, Respondent",
+  "name_abbreviation": "Giles v. City of Philadelphia",
+  "decision_date": "2011-10-05",
+  "docket_number": "No. 33 EM 2011",
+  "first_page": "472",
+  "last_page": "472",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "612 Pa. 472"
+    },
+    {
+      "type": "parallel",
+      "cite": "31 A.3d 285"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 33,
+    "char_count": 215,
+    "ocr_confidence": 0.677,
+    "sha256": "6bf920aaa49c61d221cdd56fc0889de896e32102b82df013e797931639f49601",
+    "simhash": "1:f4a7831c528e2ca7",
+    "word_count": 37
+  },
+  "last_updated": "2023-07-14T19:33:52.292960+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Emmit GILES, Petitioner v. CITY OF PHILADELPHIA, Respondent."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nAND NOW, this 5th day of October, 2011, the Petition for Review is DENIED.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "31 A.3d 285\nEmmit GILES, Petitioner v. CITY OF PHILADELPHIA, Respondent.\nNo. 33 EM 2011.\nSupreme Court of Pennsylvania.\nOct. 5, 2011."
+  },
+  "file_name": "0472-01",
+  "first_page_order": 516,
+  "last_page_order": 516
+}

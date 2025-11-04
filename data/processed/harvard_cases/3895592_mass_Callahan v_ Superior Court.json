@@ -1,0 +1,143 @@
+{
+  "id": 3895592,
+  "name": "Elaine M. Callahan vs. Superior Court",
+  "name_abbreviation": "Callahan v. Superior Court",
+  "decision_date": "1991-05-07",
+  "docket_number": "",
+  "first_page": "1001",
+  "last_page": "1001",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "410 Mass. 1001"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Mass.",
+    "id": 8825,
+    "name": "Massachusetts Supreme Judicial Court"
+  },
+  "jurisdiction": {
+    "id": 4,
+    "name_long": "Massachusetts",
+    "name": "Mass."
+  },
+  "cites_to": [
+    {
+      "cite": "208 Mass. 162",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "case_ids": [
+        3470732
+      ],
+      "year": 1911,
+      "pin_cites": [
+        {
+          "page": "164"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mass/208/0162-01"
+      ]
+    },
+    {
+      "cite": "313 Mass. 238",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "case_ids": [
+        484702
+      ],
+      "weight": 2,
+      "year": 1943,
+      "pin_cites": [
+        {
+          "page": "243"
+        },
+        {
+          "page": "244"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mass/313/0238-01"
+      ]
+    },
+    {
+      "cite": "363 Mass. 643",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "case_ids": [
+        287167
+      ],
+      "year": 1973,
+      "pin_cites": [
+        {
+          "page": "644"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mass/363/0643-01"
+      ]
+    },
+    {
+      "cite": "397 Mass. 341",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "case_ids": [
+        874714
+      ],
+      "year": 1986,
+      "pin_cites": [
+        {
+          "page": "344"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mass/397/0341-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 187,
+    "char_count": 2235,
+    "ocr_confidence": 0.96,
+    "pagerank": {
+      "raw": 1.2418861847053688e-06,
+      "percentile": 0.988453766995682
+    },
+    "sha256": "24c290446447cc6e9923119f6092eba897efe40bdcb802b7f9a49faabf12dfe6",
+    "simhash": "1:143da6cfe71baa26",
+    "word_count": 373
+  },
+  "last_updated": "2024-02-27T17:24:21.316167+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Elaine M. Callahan vs. Superior Court."
+    ],
+    "opinions": [
+      {
+        "text": "In February, 1989, Elaine M. Callahan (petitioner) brought an action in Superior Court seeking dissolution of a partnership. Trial was scheduled for May, 1990. In April, 1990, the petitioner brought a complaint seeking relief in the nature of mandamus before a single justice of this court naming the assigned judge as the respondent. The complaint requested, inter alia, that an injunction granted against the petitioner be lifted, that an impoundment order be vacated, and that judgment in the matter before the Superior Court be entered in her favor. The respondent filed a motion to dismiss, which was granted by the single justice. The petitioner appeals from the judgment of the single justice.\nIt is well settled that relief in the nature of mandamus is extraordinary and may be granted only to prevent a failure of justice in instances where there is no alternative remedy Lutheran Serv. Ass\u2019n of New England, Inc. v. Metropolitan Dist. Comm\u2019n, 397 Mass. 341, 344 (1986). Coach & Six Restaurant, Inc. v. Public Works Comm\u2019n, 363 Mass. 643, 644 (1973). The writ of mandamus is the appropriate remedy to compel a judicial officer to decide a case when he or she has refused to act on the mistaken assumption that jurisdiction is lacking. Mengel v. Justices of the Superior Court, 313 Mass. 238, 243 (1943). The petitioner here is seeking an order which would reverse the interlocutory decisions made by the respondent. We have stated, however, that mandamus will not issue to direct a judicial officer to make a particular decision or to review, or reverse, a decision made by a judicial officer on an issue properly before him or her. Id. at 244. Crocker v. Justices of the Superior Court, 208 Mass. 162, 164 (1911). The petitioner has an alternative remedy, namely to appeal the interlocutory orders under G. L. c. 231, \u00a7 118 (1988 ed.), or to appeal after entry of final judgment in the matter. There was no error committed by the single justice in dismissing the complaint for relief in the nature of mandamus.\nJudgment affirmed.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Elaine M. Callahan, pro se.",
+      "Richard M. Brunei!, Assistant Attorney General, for the respondent."
+    ],
+    "corrections": "",
+    "head_matter": "Elaine M. Callahan vs. Superior Court.\nMay 7, 1991.\nPractice, Civil, Action in nature of mandamus.\nElaine M. Callahan, pro se.\nRichard M. Brunei!, Assistant Attorney General, for the respondent."
+  },
+  "file_name": "1001-01",
+  "first_page_order": 913,
+  "last_page_order": 913
+}

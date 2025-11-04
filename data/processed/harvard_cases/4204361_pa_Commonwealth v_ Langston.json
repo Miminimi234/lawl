@@ -1,0 +1,78 @@
+{
+  "id": 4204361,
+  "name": "COMMONWEALTH of Pennsylvania, Petitioner v. Terrance LANGSTON, Respondent",
+  "name_abbreviation": "Commonwealth v. Langston",
+  "decision_date": "2011-09-28",
+  "docket_number": "No. 351 EAL 2009",
+  "first_page": "4",
+  "last_page": "4",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "612 Pa. 4"
+    },
+    {
+      "type": "parallel",
+      "cite": "29 A.3d 761"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "23 A.3d 1032",
+      "category": "reporters:state_regional",
+      "reporter": "A.3d",
+      "case_ids": [
+        7283046,
+        4203319
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a3d/23/1032-01",
+        "/pa/611/0166-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 46,
+    "char_count": 399,
+    "ocr_confidence": 0.686,
+    "sha256": "ceb32aa8f56e6cd71af2401f30d68d0baea23580dba1d56c4faa8c65927e88b5",
+    "simhash": "1:9c1f7b3d32830fbf",
+    "word_count": 63
+  },
+  "last_updated": "2024-02-27T21:06:01.025246+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "COMMONWEALTH of Pennsylvania, Petitioner v. Terrance LANGSTON, Respondent."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nPER CURIAM.\nAND NOW, this 28th day of September 2011, the Petition for Allowance of Appeal is GRANTED. The decision below is VACATED and the case is REMANDED to the Superior Court for reconsideration in light of Commonwealth v. Jette, 23 A.3d 1032 (Pa.2011).",
+        "type": "majority",
+        "author": "PER CURIAM."
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "29 A.3d 761\nCOMMONWEALTH of Pennsylvania, Petitioner v. Terrance LANGSTON, Respondent.\nSupreme Court of Pennsylvania.\nSept. 28, 2011."
+  },
+  "file_name": "0004-01",
+  "first_page_order": 48,
+  "last_page_order": 48
+}

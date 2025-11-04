@@ -1,0 +1,78 @@
+{
+  "id": 12452277,
+  "name": "State, Respondent, v. Sass, Petitioner",
+  "name_abbreviation": "State v. Sass",
+  "decision_date": "2017-02-08",
+  "docket_number": "No. 93769-9",
+  "first_page": "1015",
+  "last_page": "1015",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "187 Wash. 2d 1015"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Wash.",
+    "id": 9029,
+    "name": "Washington Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 38,
+    "name_long": "Washington",
+    "name": "Wash."
+  },
+  "cites_to": [
+    {
+      "cite": "196 Wn. App. 1017",
+      "category": "reporters:state",
+      "reporter": "Wash. App.",
+      "case_ids": [
+        12461672,
+        12461673,
+        12461674,
+        12461671
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-app/196/1017-02",
+        "/wash-app/196/1017-03",
+        "/wash-app/196/1017-04",
+        "/wash-app/196/1017-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 28,
+    "char_count": 188,
+    "ocr_confidence": 0.866,
+    "sha256": "7946e413af1cd5767ed4c0ee6089bc8f892b69a53aeacff6f1ad555808114bd9",
+    "simhash": "1:8131869c1d7149c0",
+    "word_count": 31
+  },
+  "last_updated": "2024-02-27T20:27:34.476040+00:00",
+  "provenance": {
+    "date_added": "2019-05-21",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "State, Respondent, v. Sass, Petitioner,"
+    ],
+    "opinions": [
+      {
+        "text": "Petition for review of a decision of the Court of Appeals, No. 73462-8-I, October 3, 2016, 196 Wn. App. 1017. Denied February 8, 2017.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "State, Respondent, v. Sass, Petitioner,\nNo. 93769-9."
+  },
+  "file_name": "1015-04",
+  "first_page_order": 983,
+  "last_page_order": 983
+}

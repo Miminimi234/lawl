@@ -1,0 +1,76 @@
+{
+  "id": 12452313,
+  "name": "PeaceHealth Med. Grp., Petitioner, v. Hull, Respondent",
+  "name_abbreviation": "PeaceHealth Med. Grp. v. Hull",
+  "decision_date": "2017-03-08",
+  "docket_number": "No. 93816-4",
+  "first_page": "1020",
+  "last_page": "1020",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "187 Wash. 2d 1020"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Wash.",
+    "id": 9029,
+    "name": "Washington Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 38,
+    "name_long": "Washington",
+    "name": "Wash."
+  },
+  "cites_to": [
+    {
+      "cite": "196 Wn. App. 1010",
+      "category": "reporters:state",
+      "reporter": "Wash. App.",
+      "case_ids": [
+        12461645,
+        12461646,
+        12461647
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-app/196/1010-01",
+        "/wash-app/196/1010-02",
+        "/wash-app/196/1010-03"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 30,
+    "char_count": 204,
+    "ocr_confidence": 0.877,
+    "sha256": "e58eb0484cbf06a12b9fbe3f3e1d5f9c4f11cda17b2dab9bf44559d237010c64",
+    "simhash": "1:a7d1cbf3581c4bd1",
+    "word_count": 33
+  },
+  "last_updated": "2024-02-27T20:27:34.476040+00:00",
+  "provenance": {
+    "date_added": "2019-05-21",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "PeaceHealth Med. Grp., Petitioner, v. Hull, Respondent,"
+    ],
+    "opinions": [
+      {
+        "text": "Petition for review of a decision of the Court of Appeals, No. 74413-5-1, September 26, 2016, 196 Wn. App. 1010. Denied March 8, 2017.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "PeaceHealth Med. Grp., Petitioner, v. Hull, Respondent,\nNo. 93816-4."
+  },
+  "file_name": "1020-02",
+  "first_page_order": 988,
+  "last_page_order": 988
+}

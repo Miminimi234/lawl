@@ -1,0 +1,572 @@
+{
+  "id": 12452143,
+  "name": "The State of Washington, Respondent, v. Shacon Fontane Barbee, Petitioner",
+  "name_abbreviation": "State v. Barbee",
+  "decision_date": "2017-01-05",
+  "docket_number": "No. 92771-5",
+  "first_page": "375",
+  "last_page": "393",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "187 Wash. 2d 375"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Wash.",
+    "id": 9029,
+    "name": "Washington Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 38,
+    "name_long": "Washington",
+    "name": "Wash."
+  },
+  "cites_to": [
+    {
+      "cite": "996 P.2d 610",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 2000,
+      "opinion_index": 0
+    },
+    {
+      "cite": "140 Wn.2d 250",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        1119527
+      ],
+      "year": 2000,
+      "pin_cites": [
+        {
+          "page": "263-66"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/140/0250-01"
+      ]
+    },
+    {
+      "cite": "120 P.3d 936",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "weight": 2,
+      "year": 2005,
+      "pin_cites": [
+        {
+          "parenthetical": "implicitly authorizing two kidnapping convictions"
+        },
+        {
+          "parenthetical": "emphasis added"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "155 Wn.2d 563",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        3765868
+      ],
+      "year": 2005,
+      "pin_cites": [
+        {
+          "page": "567",
+          "parenthetical": "implicitly authorizing two kidnapping convictions"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/155/0563-01"
+      ]
+    },
+    {
+      "cite": "50 P.3d 638",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2002,
+      "pin_cites": [
+        {
+          "parenthetical": "plurality opinion"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "147 Wn.2d 16",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        103696
+      ],
+      "year": 2002,
+      "pin_cites": [
+        {
+          "page": "21",
+          "parenthetical": "plurality opinion"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/147/0016-01"
+      ]
+    },
+    {
+      "cite": "785 P.2d 440",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1990,
+      "opinion_index": 0
+    },
+    {
+      "cite": "114 Wn.2d 6",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        1169911
+      ],
+      "year": 1990,
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/114/0006-01"
+      ]
+    },
+    {
+      "cite": "138 P.3d 610",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "weight": 2,
+      "year": 2006,
+      "opinion_index": 0
+    },
+    {
+      "cite": "157 Wn.2d 335",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        3004252
+      ],
+      "year": 2006,
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/157/0335-01"
+      ]
+    },
+    {
+      "cite": "230 P.3d 1048",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2010,
+      "opinion_index": 0
+    },
+    {
+      "cite": "168 Wn.2d 726",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        4007275
+      ],
+      "year": 2010,
+      "pin_cites": [
+        {
+          "page": "728"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/168/0726-01"
+      ]
+    },
+    {
+      "cite": "103 P.3d 1238",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2005,
+      "opinion_index": 0
+    },
+    {
+      "cite": "153 Wn.2d 400",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        875615
+      ],
+      "year": 2005,
+      "pin_cites": [
+        {
+          "page": "408"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/153/0400-01"
+      ]
+    },
+    {
+      "cite": "9 P.3d 214",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "weight": 2,
+      "year": 2000,
+      "opinion_index": 0
+    },
+    {
+      "cite": "141 Wn.2d 701",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        1183467
+      ],
+      "year": 2000,
+      "pin_cites": [
+        {
+          "page": "710-11"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/141/0701-01"
+      ]
+    },
+    {
+      "cite": "124 P.3d 635",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2005,
+      "opinion_index": 0
+    },
+    {
+      "cite": "156 Wn.2d 140",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        3892682
+      ],
+      "year": 2005,
+      "pin_cites": [
+        {
+          "page": "147"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/156/0140-01"
+      ]
+    },
+    {
+      "cite": "748 P.2d 273",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "weight": 4,
+      "year": 1988,
+      "pin_cites": [
+        {
+          "page": "326"
+        },
+        {
+          "page": "327"
+        },
+        {
+          "page": "328"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "50 Wn. App. 325",
+      "category": "reporters:state",
+      "reporter": "Wash. App.",
+      "case_ids": [
+        1706348
+      ],
+      "year": 1988,
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-app/50/0325-01"
+      ]
+    },
+    {
+      "cite": "644 P.2d 710",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1982,
+      "opinion_index": 0
+    },
+    {
+      "cite": "31 Wn. App. 680",
+      "category": "reporters:state",
+      "reporter": "Wash. App.",
+      "case_ids": [
+        1822313
+      ],
+      "weight": 3,
+      "year": 1982,
+      "pin_cites": [
+        {
+          "page": "681"
+        },
+        {
+          "page": "686"
+        },
+        {
+          "page": "687"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-app/31/0680-01"
+      ]
+    },
+    {
+      "cite": "170 P.3d 24",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2007,
+      "opinion_index": 0
+    },
+    {
+      "cite": "162 Wn.2d 165",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        3696647
+      ],
+      "year": 2007,
+      "pin_cites": [
+        {
+          "page": "168"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/162/0165-01"
+      ]
+    },
+    {
+      "cite": "268 P.3d 215",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2011,
+      "opinion_index": 0
+    },
+    {
+      "cite": "173 Wn.2d 353",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        4020341
+      ],
+      "year": 2011,
+      "pin_cites": [
+        {
+          "page": "363"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/173/0353-01"
+      ]
+    },
+    {
+      "cite": "40 P.3d 669",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2002,
+      "opinion_index": 0
+    },
+    {
+      "cite": "145 Wn.2d 607",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        314604
+      ],
+      "year": 2002,
+      "pin_cites": [
+        {
+          "page": "610"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/145/0607-01"
+      ]
+    },
+    {
+      "cite": "107 P.3d 728",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2005,
+      "pin_cites": [
+        {
+          "parenthetical": "quoting State v. Westling, 145 Wn.2d 607, 610, 40 P.3d 669 (2002)"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "153 Wn.2d 705",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        875616
+      ],
+      "year": 2005,
+      "pin_cites": [
+        {
+          "page": "710",
+          "parenthetical": "quoting State v. Westling, 145 Wn.2d 607, 610, 40 P.3d 669 (2002)"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/153/0705-01"
+      ]
+    },
+    {
+      "cite": "965 P.2d 1072",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "weight": 2,
+      "year": 1998,
+      "opinion_index": 0
+    },
+    {
+      "cite": "136 Wn.2d 629",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        867965
+      ],
+      "year": 1998,
+      "pin_cites": [
+        {
+          "page": "632"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/136/0629-01"
+      ]
+    },
+    {
+      "cite": "212 P.3d 558",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2009,
+      "opinion_index": 0
+    },
+    {
+      "cite": "166 Wn.2d 675",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        4001550
+      ],
+      "year": 2009,
+      "pin_cites": [
+        {
+          "page": "681"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/166/0675-01"
+      ]
+    },
+    {
+      "cite": "377 P.3d 714",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2016,
+      "opinion_index": 0
+    },
+    {
+      "cite": "185 Wn.2d 1025",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        12457045,
+        12457046,
+        12457047,
+        12457048,
+        12457049,
+        12457050,
+        12457051
+      ],
+      "year": 2016,
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/185/1025-01",
+        "/wash-2d/185/1025-02",
+        "/wash-2d/185/1025-03",
+        "/wash-2d/185/1025-04",
+        "/wash-2d/185/1025-05",
+        "/wash-2d/185/1025-06",
+        "/wash-2d/185/1025-07"
+      ]
+    },
+    {
+      "cite": "192 Wn. App. 1001",
+      "category": "reporters:state",
+      "reporter": "Wash. App.",
+      "case_ids": [
+        12456104,
+        12456105,
+        12456106
+      ],
+      "year": 2015,
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-app/192/1001-01",
+        "/wash-app/192/1001-02",
+        "/wash-app/192/1001-03"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 1276,
+    "char_count": 30263,
+    "ocr_confidence": 0.887,
+    "pagerank": {
+      "raw": 9.61896796515115e-08,
+      "percentile": 0.5268921083816084
+    },
+    "sha256": "759cfa5b8c3b516005122d741c76f1fc41e3d51b6351104723b043698aa904b8",
+    "simhash": "1:d87dc951a3af7970",
+    "word_count": 4947
+  },
+  "last_updated": "2024-02-27T20:27:34.476040+00:00",
+  "provenance": {
+    "date_added": "2019-05-21",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Madsen, C.J., and Johnson, Fairhurst, Stephens, Wiggins, Gonz\u00e1lez, Gordon McCloud, and Yu, JJ., concur."
+    ],
+    "parties": [
+      "The State of Washington, Respondent, v. Shacon Fontane Barbee, Petitioner."
+    ],
+    "opinions": [
+      {
+        "text": "[As amended by order of the Supreme Court January 26, 2017.]\nOwens, J.\n\u00b61 At issue in this case is whether a pimp can be convicted on multiple counts of promoting prostitution when multiple prostitutes are involved. We have not previously considered the unit of prosecution for second degree promoting prostitution. In light of the statute\u2019s plain language and prior decisions of this court, we affirm the Court of Appeals and hold that the legislature expressed its clear intent to authorize multiple convictions when one pimp exploits multiple individuals.\n\u00b62 Additionally, after the court accepted review of this case, the parties discovered that the defendant\u2019s exceptional sentence for one of his other convictions exceeded the statutory maximum. The defendant requests resentencing, and the State concedes that resentencing is appropriate. We remand for resentencing on that count.\nFACTS\n\u00b63 Shacon Barbee was a pimp who made money from prostitutes working under his supervision. Three young women whom Barbee \u201csupervised\u201d during 2010 were SE, BK, and CW.\ni. SE\n\u00b64 SE met Barbee when she was 13 and began working for him as a prostitute when she was 16. Along with posting ads on websites such as Backpage.com, SE would also work \u201cthe track\u201d (a slang term for working on the streets) in popular Seattle-area prostitution locations, including Aurora Avenue and Pacific Highway South. SE thought that Barbee cared about her and that they would spend their lives together. She testified at trial that she was expected to make $1,000 a day or stay up at night until she met that quota. All of her earnings went to Barbee.\n\u00b65 Barbee required SE to recruit other girls or young women to work for him as prostitutes. SE would peruse websites like MySpace or Facebook, looking for attractive girls who might be interested in \u201cescorting.\u201d During 2010, two of the women she recruited on Barbee\u2019s behalf were 18-year-olds, BK and CW.\na. bk\n\u00b66 SE recruited 18-year-old BK to work for Barbee in April 2010. While BK was living with her aunt in Seattle, SE found BK\u2019s Facebook page. The two started to communicate and comment on each other\u2019s photos. SE convinced BK to meet her at a room in the Sutton Suites hotel in SeaTac where they could \u201chang out and chill.\u201d Verbatim Report of Proceedings (Aug. 22, 2013) at 107.\n\u00b67 BK met SE at the hotel room, where SE introduced her to Barbee. He told BK that she would be working for him as an escort, that all the money she earned would go to him, and that he would provide her with everything she needed to make her life and her daughter\u2019s life better. BK soon began working as a prostitute for Barbee, initially working out of a hotel room and later moving to \u201cthe track.\u201d\n\u00b68 On March 25, 2010, police received a complaint of potentially juvenile prostitutes working out of a room at the Sutton Suites. Police responded and found SE and BK inside the hotel room, along with prostitution and \u201cpimping\u201d paraphernalia. After BK was arrested and then released from jail, she went to her parents\u2019 house, intending to stop working for Barbee.\n\u00b69 A few months later, Barbee texted BK and convinced her to come to his apartment in Seattle. BK soon began living in the apartment and working for Barbee again. She testified at trial that Barbee took the keys to her car and refused to return them, would not allow her to leave the apartment during the day, and allowed her to go shopping or visit her daughter only if he accompanied her.\n\u00b610 At some point in late 2010, BK left and stopped working for Barbee permanently.\nHi. CW\n\u00b611 Eighteen-year-old CW also worked for Barbee during 2010, but for a comparatively short time. She was living in Bellingham and working at a nursing home when SE began communicating with her via MySpace in early May. Excited about the idea of becoming more independent, CW packed her bags, borrowed a friend\u2019s car, and moved to Seattle to meet SE at a Motel 6 on Pacific Highway South. Once she arrived, CW was told that she would be working for Barbee as an escort, that all of her money would go to him, and that he would provide her with clothes, jewelry, and a place to live.\n\u00b612 The next day, CW began working for Barbee as a prostitute. CW would host \u201cdates\u201d out of a motel room, and Barbee would drive her to \u201cout-calls.\u201d Barbee took photos of CW and set up online advertisements for her on Back-page.com. Again, any money she earned went to Barbee.\n\u00b613 A few weeks later, CW became disillusioned and texted Barbee that she was quitting. While Barbee was driving SE to a dentist\u2019s appointment, CW packed her bags and asked her grandmother to pick her up. She left and never had contact with Barbee again.\niv. December 3, 2010, Hampton Inn incident and aftermath\n\u00b614 That December, SE arranged online to meet a client for an out-call at the Hampton Inn in Kent. Barbee drove SE to the hotel and waited for her while she went inside. The client she had arranged to meet turned out to be an undercover officer. When SE arrived and agreed to have sex with the detective, she was arrested. After a short car chase, police officers arrested Barbee as well.\n\u00b615 After arresting Barbee, police seized his iPhone as evidence and secured a warrant to search its contents. The detectives recovered approximately 12,000 text messages from between May and December 2010, many of which were exchanged between Barbee and SE, CW, and BK. The police also obtained Backpage.com records that showed Barbee had paid for numerous prostitution-related ads. They searched storage units rented to Barbee and found more pimping- and prostitution-related items, as well as financial records and a safe containing large amounts of cash.\n\u00b616 The State charged Barbee with two counts of promoting sexual abuse of a minor (SE), one count of first degree promoting prostitution (BK), one count of second degree promoting prostitution (CW), one count of leading organized crime, two counts of first degree theft from the United States Social Security Administration, and one count of second degree theft from the Department of Social and Health Services (DSHS). The jury found Barbee guilty on all counts, except that they found him guilty of the lesser included offense of second degree promoting prostitution of BK. The jury made a special finding that promoting commercial sexual abuse of SE was part of a pattern of abuse over a \u201cprolonged period of time,\u201d and the court imposed exceptional sentences of 420 months for the first two promoting commercial sexual abuse of a minor (PCSAM) convictions. Clerk\u2019s Papers (CP) at 308, 332. The Court of Appeals affirmed all of Barbee\u2019s convictions. State v. Barbee, 192 Wn. App. 1001 (2015).\n\u00b617 Barbee petitioned for review on several issues. This court granted review only as to the unit of prosecution issue in relation to the two promoting prostitution charges and the issue of the exceptional sentence imposed for the first count of PCSAM. State v. Barbee, 185 Wn.2d 1025, 377 P.3d 714 (2016).\nISSUES\n\u00b618 1. Did Barbee\u2019s two counts of second degree promoting prostitution constitute a single unit of prosecution?\n\u00b619 2. Was Barbee entitled to resentencing on the first count of PCSAM?\nANALYSIS\n1. Barbee\u2019s Two Counts of Second Degree Promoting Prostitution Constitute Two Distinct Units of Prosecution\n\u00b620 Barbee claims that the two counts of promoting prostitution of BK and CW constitute a single unit of prosecution, or that he committed a single \u201centerprise\u201d of promoting prostitution that involved two prostitutes. He contends that his two convictions for promoting prostitution of \u201cdifferent women as part of the same enterprise over the same period of time\u201d encompassed a single unit of prosecution in violation of the double jeopardy prohibition clauses of our federal and state constitutions. See U.S. Const, amend. V; Wash. Const. art. I, \u00a7 9. We review double jeopardy claims de novo. State v. Hughes, 166 Wn.2d 675, 681, 212 P.3d 558 (2009).\n\u00b621 Double jeopardy is violated when a person is convicted multiple times for the same offense. State v. Adel, 136 Wn.2d 629, 632, 965 P.2d 1072 (1998). When the convictions are under the same statute, the court must ask what \u201c \u2018unit of prosecution\u2019 \u201d the legislature intended as the punishable act under the specific criminal statute. Id. Both constitutions protect a defendant from being convicted more than once under the same statute if the defendant commits only one unit of the crime. State v. Tvedt, 153 Wn.2d 705, 710, 107 P.3d 728 (2005) (quoting State v. Westling, 145 Wn.2d 607, 610, 40 P.3d 669 (2002)). Thus, while a unit of prosecution inquiry is \u201cone of constitutional magnitude on double jeopardy grounds, the issue ultimately revolves around a question of statutory interpretation and legislative intent.\u201d Adel, 136 Wn.2d at 634.\n\u00b622 When engaging in statutory interpretation, our goal is to ascertain and carry out the intent of the legislature. In re Marriage of Schneider, 173 Wn.2d 353, 363, 268 P.3d 215 (2011). To determine legislative intent and thus define the proper unit of prosecution, we first look to the statute\u2019s plain meaning. State v. Varnell, 162 Wn.2d 165, 168, 170 P.3d 24 (2007); Adel, 136 Wn.2d at 635. If the plain meaning of the statute is ambiguous, we may also determine legislative intent by reviewing legislative history. Hughes, 166 Wn.2d at 684.\n\u00b623 Once we have defined the proper unit of prosecution, we perform a factual analysis to ascertain whether the facts in a particular case reveal that more than one \u201cunit\u201d is present. Varnell, 162 Wn.2d at 168. If, however, the legislature failed to denote the unit of prosecution or if its intent is unclear, the rule of lenity requires any ambiguity be resolved against turning a single transaction into multiple offenses. Tvedt, 153 Wn.2d at 711. We discuss each of these steps below.\nA. The Plain Language of the Statute Unambiguously Authorizes Multiple Convictions When an Individual Promotes Prostitution of Multiple People\n\u00b624 First, we look to the plain language of the statute. Barbee was convicted of two counts of second degree promoting prostitution under RCW 9A.88.080: one for promoting prostitution of BK and the other for promoting prostitution of CW. CP at 246. In Washington, a person is guilty of second degree promoting prostitution if he or she knowingly \u201c[a]dvances prostitution\u201d or \u201c[p]rofits from prostitution.\u201d RCW 9A.88.080(l)(b), (a).\n\u00b625 RCW 9A.88.060 defines both \u201cadvances prostitution\u201d and \u201cprofits from prostitution.\u201d First,\n[a] person \u201cadvances prostitution\u201d if, acting other than as a prostitute or as a customer thereof, he or she causes or aids a person to commit or engage in prostitution, procures or solicits customers for prostitution, provides persons or premises for prostitution purposes, operates or assists in the operation of a house of prostitution or a prostitution enterprise, or engages in any other conduct designed to institute, aid, or facilitate an act or enterprise of prostitution.\nRCW 9A.88.060(1) (emphasis added). Similarly,\n[a] person \u201cprofits from prostitution\u201d if, acting other than as a prostitute receiving compensation for personally rendered prostitution services, he or she accepts or receives money or other property pursuant to an agreement or understanding with any person whereby he or she participates or is to participate in the proceeds of prostitution activity.\nRCW 9A.88.060(2).\ni. Court of Appeals Split\n\u00b626 Divisions One and Two of the Court of Appeals have come to different conclusions regarding whether the statute evinces a clear legislative intent to impose multiple punishments when one individual employs two or more prostitutes in the same time frame.\n\u00b627 Division Two concluded that the statute was ambiguous as to the unit of prosecution and applied the rule of lenity. In State v. Mason, 31 Wn. App. 680, 681, 644 P.2d 710 (1982), an owner of a steam bath was convicted of three counts of promoting prostitution, each based on a different prostitute working for the defendant as a \u201cmasseuse\u201d at the same massage parlor during the same two week period. The defendant argued that she committed a single unit of prosecution, asserting among other things that she was guilty of at most a general plan to promote prostitution. Id. at 686. The court did not find a clear legislative intent to impose multiple punishments on one person\u2019s promotion of prostitution by employing \u201ctwo or more persons simultaneously over a period of weeks in the same location.\u201d Id. at 687. Thus, the court applied the rule of lenity, focusing on the \u201capparent evils\u201d that the legislature sought to attack and holding that \u201c[a] person is equally guilty of either of those evils whether he has only one prostitute working for him or several.\u201d Id.\n\u00b628 Six years later, Division One disagreed in State v. Tu Nam Song, 50 Wn. App. 325, 748 P.2d 273 (1988), another \u201cmasseuse\u201d case. There, the defendant was convicted of one count of second degree promoting prostitution and two counts of attempted second degree promoting prostitution. The massage parlor owner had agreed, on two separate occasions, to hire undercover police officers posing as prostitutes. The owner had also accepted money from a massage parlor employee, knowing that the employee had earned the money by performing an act of prostitution with a customer. Id. at 326. Relying on Mason, the defendant argued that she could not be convicted on multiple counts. Id. at 327. The court disagreed, concluding that the legislature\u2019s intent to \u201c \u2018make a person\u2019s simultaneous promotion of prostitution on the part of more than one prostitute a criminal act as to each\u2019 \u201d was clearly expressed in the statute\u2019s language. Id. at 328 (quoting Mason, 31 Wn. App. at 686). While the court did not parse the language of the statute, it noted that that \u201c[w]e simply see no ambiguity and therefore no basis upon which to invoke the rule of lenity.\u201d Id. at 329.\n\u00b629 As explained below, the court\u2019s result in Song is more persuasive. The plain language of the statute and other unit of prosecution cases decided by this court indicate that the legislature unambiguously intended to allow for multiple convictions when a pimp \u201cpromotes\u201d two or more prostitutes simultaneously.\nit. Singular Language and Use of \u201ca Person\u201d\n\u00b630 We have repeatedly interpreted the legislature\u2019s use of the word \u201ca\u201d in criminal statutes as authorizing punishment for each individual instance of criminal conduct, even if each instance occurred in the same time frame. See, e.g., State v. Ose, 156 Wn.2d 140, 147, 124 P.3d 635 (2005). We apply this same reasoning here.\n\u00b631 Most tellingly, in State v. Root, 141 Wn.2d 701, 710-11, 9 P.3d 214 (2000), we held that the legislature\u2019s use of the words \u201ca minor\u201d in the sexual exploitation of a minor statute, RCW 9.68A.040, indicated that the defendant \u201cmay be charged per child involved.\u201d We went on to note that \u201c[e]ven if two children were involved in the same session, [the defendant] may be charged twice for the same session because he violated one unit of crime for each child involved in the session.\u201d Id. Again, in Ose, we affirmed 25 counts of possessing a stolen access device, noting that \u201cthe legislature, by use of the language \u2018a stolen access device,\u2019 unambiguously defined the unit of prosecution ... as each access device in a defendant\u2019s possession.\u201d 156 Wn.2d at 148 (quoting RCW 9A.56.160(1)(c)).\n\u00b632 Especially when criminal statutes reference \u201ca person\u201d or \u201canother person,\u201d we have reached the same result. In State v. Graham, 153 Wn.2d 400, 408, 103 P.3d 1238 (2005), this court analyzed the unit of prosecution for Washington\u2019s reckless endangerment statute. See RCW 9A.36-.050(1). We held that the legislature authorized the imposition of multiple sentences when a defendant\u2019s act endangers multiple individuals. Interpreting the statute\u2019s plain language (\u201canother person\u201d) and characterizing the crime as one \u201cagainst the person,\u201d this court held that the State was entitled to charge the defendant with three counts, one per person endangered. Graham, 153 Wn.2d at 407-08. Again, in Tvedt, we found multiple units of prosecution when a defendant was convicted of four counts of robbery for robbing two convenience stores when two individuals were in each store. 153 Wn.2d at 711. Affirming entry of four counts (one per victim), we noted that robbery is a property crime and a crime against the person. The fact that the crime contained multiple \u201ccharacteristic [s]\u201d did not affect our result. Id. at 713.\n\u00b633 However, in other unit of prosecution cases involving a single \u201ccourse of conduct,\u201d we have held otherwise. In State v. Hall, 168 Wn.2d 726, 728, 230 P.3d 1048 (2010), we held that a defendant could not be convicted of three counts of witness tampering when he made multiple calls to a single witness in an attempt to persuade that witness not to testify in a single proceeding. Also, in State v. Leyda, 157 Wn.2d 335, 138 P.3d 610 (2006), we held that only one conviction for identity theft was proper when a defendant used one victim\u2019s credit card four times. In Varnell, we held that only one act of solicitation occurred when a defendant asked one undercover officer to kill four people during the same conversation. There, we stated that \u201c[t] he evil the legislature has criminalized is the act of solicitation. The number of victims is secondary to the statutory aim, which centers on the agreement on solicitation of a criminal act.\u201d Varnell, 162 Wn.2d at 169.\n\u00b634 Here, unlike in Varnell, the number of victims is primary, rather than secondary, to the statutory aim. Under RCW 9A.88.080 and RCW 9A.88.060, a person \u201c \u2018advances prostitution\u2019 \u201d if, among other things, \u201che or she causes or aids a person to commit or engage in prostitution.\u201d RCW 9A.88.060(1) (emphasis added). The statute\u2019s singular language and reference, first and foremost, to \u201ca person\u201d indicates that the legislature plainly authorized multiple punishments when multiple individuals are \u201cpromoted.\u201d\n\u00b635 RCW 9A.88.060(1) also states that a person \u201c\u2018advances prostitution\u2019 \u201d if he or she \u201coperates or assists in the operation of a house of prostitution or a prostitution enterprise.\u201d Barbee draws attention to the words \u201ca prostitution enterprise,\u201d arguing that \u201c [t] he plain meaning of the statute indicates the Legislature intended to punish as a single unit all of a defendant\u2019s conduct that advances \u2018a prostitution enterprise.\u2019 \u201d Suppl. Br. of Pet\u2019r at 10. Barbee also asserts that because the statute uses the indefinite article \u201ca\u201d preceding \u201cprostitution enterprise,\u201d the legislature clearly intended to make each \u201centerprise\u201d the unit of prosecution. Id. While it is true that the statute may allow charges based on individual \u201centerprises,\u201d this does not foreclose charges or convictions on a \u201cper person\u201d basis. Rather, the statute authorizes charges premised on either alternative. So long as the facts support one of these avenues, it is within the prosecutor\u2019s discretion to charge \u201cper person\u201d or \u201cper enterprise.\u201d\n\u00b636 Our own precedent, State v. Elliott, 114 Wn.2d 6, 785 P.2d 440 (1990), demands this conclusion. The defendant in that case was charged with two counts of second degree promoting prostitution, each based on the activities of a different prostitute working during a different charging period. Rather than charging the defendant with promoting a prostitution enterprise, the State charged two separate counts of \u201cpromoting the prostitution of two named women.\u201d Id. at 15. The defendant argued that the State was required to elect whether to charge promoting prostitution by advancing an enterprise or by advancing several individual acts. Id. at 12. The court disagreed, stating that \u201cadvancing prostitution may be committed either by assisting or operating an enterprise of prostitution or by causing or aiding a person to engage in prostitution\u201d and that \u201c[i]n this case, the State charged two separate continuing offenses\u2014one for each employee whose prostitution petitioner was accused of promoting at different times and from different locations.\u201d Id. at 12, 13-14 (emphasis added). While the court did not squarely address a unit of prosecution issue, Elliott indicates that promoting prostitution charges may be based on the activities of individual prostitutes working in different places at different times.\n\u00b637 Petitioners note that the charging periods in Elliott are different from those in this case. In Elliott, the defendant \u201cpromoted\u201d the two prostitutes during entirely different time frames: the first in 1983-84, and the second in 1985. Elliott, 114 Wn.2d at 9. By contrast, the charging period for CW is entirely within the charging period for BK. However, the overlapping time periods do not alter our result, as we explain below.\nB. Adoption of Barbee\u2019s Proposed Interpretation Would Yield Absurd Results\n\u00b638 When engaging in statutory interpretation, the court must avoid constructions that \u201cyield unlikely, absurd or strained consequences.\u201d Kilian v. Atkinson, 147 Wn.2d 16, 21, 50 P.3d 638 (2002) (plurality opinion). Barbee urges this court to apply the rationale in Mason and Adel, arguing that the unit of prosecution should be \u201ceach continuous prostitution \u2018enterprise,\u2019 regardless of the number of prostitutes employed.\u201d Suppl. Br. of Pet\u2019r at 16. Such an interpretation would yield absurd results. Mason incorrectly focuses on the \u201capparent evils\u201d the legislature sought to attack, and Adel addresses an entirely different factual scenario.\n\u00b639 In Mason, the court stated that \u201c[t]he apparent evils the legislature sought to attack were \u2018advancing prostitution\u2019 and \u2018profiting from prostitution.\u2019 A person is equally guilty of either of those evils whether he has only one prostitute working for him or several.\u201d 31 Wn. App. at 687. We disagree. While the \u201cevil\u201d of promoting prostitution may be the same regardless of how many prostitutes are \u201cpromoted,\u201d it does not follow that a person is \u201cequally guilty\u201d whether he pimps one prostitute or several. Rather, in statutes that involve crimes against persons, that guilt compounds in magnitude depending on the number of lives that are affected. For example, our kidnapping statute criminalizes a single evil\u2014kidnapping\u2014but it would be absurd to hold that multiple convictions are inappropriate when a defendant kidnaps multiple people. See, e.g., State v. Louis, 155 Wn.2d 563, 567, 120 P.3d 936 (2005) (implicitly authorizing two kidnapping convictions).\n\u00b640 Adel is not persuasive on this set of facts for similar reasons. There, we determined the unit of prosecution for possession of marijuana. We held that although the defendant hid stashes of marijuana in separate locations, he committed only a single unit of prosecution because \u201c[a] person is equally guilty of possession whether that person has the drug stashed in one place, or hidden in several places under the person\u2019s dominion and control.\u201d Adel, 136 Wn.2d at 637. This analogy is inappropriate here. Possession of marijuana is not a crime of exploitation. Its effect on individuals is not compounded depending on the number of locations where the marijuana is \u201cstashed.\u201d\n\u00b641 Further, as the State argues in its brief, under Barbee\u2019s proposed interpretation, a perpetrator would face but a single count for acts of promoting prostitution that spanned a decade and involved numerous individuals so long as there was no gap in time between the courses of conduct with each individual. At the same time, a perpetrator engaged in the same acts would face multiple charges where there is a gap in time between his or her course of promoting the prostitution of multiple individuals. Suppl. Br. of Resp\u2019t at 17. It is highly unlikely that the legislature intended such consequences.\nC. The Statute\u2019s Legislative History Further Indicates That Promoting Prostitution Is Primarily a Crime Committed against \u201ca Person\u201d\n\u00b642 As explained above, the text of the statute is clear. The legislature authorized charges premised on either operating a prostitution enterprise or promoting individual prostitutes. Although not necessary to resolve the issue, an examination of the statute\u2019s legislative history also confirms that a defendant may face multiple convictions when he or she \u201cpromotes\u201d multiple prostitutes. The history of Washington\u2019s promoting prostitution statute indicates that the statute is \u201cvictim-centered\u201d and focused on criminalizing the promotion of prostitution as it relates to each individual exploited.\n\u00b643 The 1909 Criminal Code contained a section entitled \u201cPlacing Female in House of Prostitution!\u2019 Laws of 1909, ch. 249, \u00a7 188, at 944 (codified as former RCWA 9.79.060). The section contained various provisions that are analogous to today\u2019s second-degree promoting prostitution statute. Its first subsection criminalized, among other things, placing \u201ca female ... in a house of prostitution, with intent that she shall live a life of prostitution.\u201d Id. (emphasis added). Thus, the 1909 statute\u2019s language centered, first and foremost, on the placement of individual women in houses of prostitution.\n\u00b644 In 1975, the legislature enacted the contemporary version of the statute as part of a comprehensive crime bill. Laws of 1975, 1st Ex. Sess., ch. 260 (codified as ch. 9A.88 RCW). The acts listed in the 1909 law were replaced with the current \u201cadvances prostitution\u201d and \u201cprofits from prostitution\u201d language, as well as the separate offense of \u201cpermitting prostitution.\u201d Former RCW 9A.88.070(1)(a), .080(1)(a), .090(2) (Laws of 1975,1st Ex. Sess., ch. 260); 13A Seth A. Fine & Douglas J. Ende, Washington Practice: Criminal Law \u00a7 2103 (2d ed. 1998). The second-degree promoting prostitution provision was amended only once in 2011 to make \u201ctechnical corrections.\u201d S.B. 5045, at 1, 65th Leg., Reg. Sess. (Wash. 2011).\n\u00b645 Thus, while the plain language of the statute is unambiguous, the legislative history also clearly reflects that the legislature intended the crime to be, in part, a crime against individual persons.\nD. Factual Analysis\n\u00b646 Finally, we consider whether the \u201cfacts in a particular case may reveal more than one \u2018unit of prosecution\u2019 is present.\u201d Varnell, 162 Wn.2d at 168 (citing State v. Bobic, 140 Wn.2d 250, 263-66, 996 P.2d 610 (2000)). Two units are clearly proper here: CW and BK are two distinct \u201cpersons\u201d who were both exploited by Barbee.\nE. Conclusion\n\u00b647 In sum, in light of the plain language of the statute and consistent with our prior construction of similarly worded statutes, we hold that the legislature, by use of the language \u201ca person,\u201d unambiguously authorized a unit of prosecution for each person promoted. When a defendant promotes prostitution of more than one individual, he or she may be prosecuted for more than one count. Accordingly, we affirm the Court of Appeals\u2019 decision that Barbee\u2019s convictions for promoting prostitution of BK and CW did not violate prohibitions on double jeopardy.\n2. Barbee Is Entitled to a Resentencing Hearing on the First Count of Promoting Commercial Sex Abuse of a Minor\n\u00b648 In addition to two counts of promoting prostitution, Barbee was also convicted of two counts of PCSAM (both of which related to SE). Barbee received a 420-month exceptional sentence on both counts, running concurrently. Barbee argues, and respondents concede, that because PCSAM changed from a class B to a class A felony during the charging period for the first count, his exceptional sentence on count one exceeded the statutory maximum and that he is entitled to a resentencing hearing. We agree and remand for resentencing on that count.\n\u00b649 PCSAM changed from class B to a class A felony within the charging period for the first count. Before June 10, 2010, PCSAM was a class B felony with a seriousness level of VIII. A class B felony carries a maximum penalty of 10 years, or 120 months. RCW 9A.20.021. Effective June 10, 2010, the legislature changed PCSAM from a class B to a class A felony and raised the seriousness level of promoting commercial sexual abuse of a minor from VIII to XII. Engrossed Substitute S.B. 6476, 61st Leg., Reg. Sess. (Wash. 2010). This date falls within the charging period for the first count.\n\u00b650 After the court accepted review of this issue, the parties have come to realize that due to this change in the law, Barbee\u2019s exceptional sentence as to count one exceeds the statutory maximum. Because a class B felony carries a maximum penalty of 120 months, the sentencing court may impose no more than 120 months for count 1. Barbee requests resentencing, and the State concedes that resen-tencing is appropriate. Accordingly, we remand to the trial court for resentencing.\nCONCLUSION\n\u00b651 We hold that RCW 9A.88.080 and its definitional section, RCW 9A.88.060, evince a clear legislative intent to authorize multiple punishments when a person promotes prostitution of multiple individuals. We affirm Barbee\u2019s convictions of two counts of second degree promoting prostitution. However, as for the exceptional sentence issue, because of the elevation of PCSAM from a class B to a class A felony during the charging period for the first count, we remand to the trial court for resentencing.\nMadsen, C.J., and Johnson, Fairhurst, Stephens, Wiggins, Gonz\u00e1lez, Gordon McCloud, and Yu, JJ., concur.\nDuring the course of the investigation, police discovered that Barbee supplemented his income with regular payments from the Supplemental Security Income Program and from DSHS based on claimed disabilities and poverty. Not surprisingly, he did not report his prostitution-related income to these agencies. These charges are not at issue here. Additionally, the State also charged Barbee with one count of promoting commercial sexual abuse of a minor, AM, and one count of witness tampering as to AM, but both charges were dismissed.\nBK\u2019s charging period is January 1, 2010, through December 31, 2010. CW\u2019s charging period is May 10, 2010, through August 1, 2010.",
+        "type": "majority",
+        "author": "Owens, J."
+      }
+    ],
+    "attorneys": [
+      "David L. Donnan {o\u00ed Mery hew Law Group)-, and Maureen M. Cyr (of Washington Appellate Project), for petitioner.",
+      "Daniel T. Satterberg, Prosecuting Attorney, and Dennis J. McCurdy, Deputy, for respondent."
+    ],
+    "corrections": "",
+    "head_matter": "[No. 92771-5.\nArgued October 20, 2016.\nDecided January 5, 2017.\nThe State of Washington, Respondent, v. Shacon Fontane Barbee, Petitioner.\nDavid L. Donnan {o\u00ed Mery hew Law Group)-, and Maureen M. Cyr (of Washington Appellate Project), for petitioner.\nDaniel T. Satterberg, Prosecuting Attorney, and Dennis J. McCurdy, Deputy, for respondent."
+  },
+  "file_name": "0375-01",
+  "first_page_order": 411,
+  "last_page_order": 429
+}

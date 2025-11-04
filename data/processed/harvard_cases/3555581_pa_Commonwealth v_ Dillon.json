@@ -1,0 +1,992 @@
+{
+  "id": 3555581,
+  "name": "COMMONWEALTH of Pennsylvania, Appellee, v. Thomas DILLON, Appellant",
+  "name_abbreviation": "Commonwealth v. Dillon",
+  "decision_date": "2007-06-26",
+  "docket_number": "No. 32 EAP 2005",
+  "first_page": "351",
+  "last_page": "376",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "592 Pa. 351"
+    },
+    {
+      "type": "parallel",
+      "cite": "925 A.2d 131"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "673 A.2d 866",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7864648,
+        461544,
+        461549,
+        7864752,
+        7864596,
+        461496
+      ],
+      "year": 1996,
+      "pin_cites": [
+        {
+          "page": "870",
+          "parenthetical": "allowing evidence of defendant's previous sexual assaults"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/673/0866-02",
+        "/pa/543/0513-02",
+        "/pa/543/0512-01",
+        "/a2d/673/0866-03",
+        "/a2d/673/0866-01",
+        "/pa/543/0513-01"
+      ]
+    },
+    {
+      "cite": "543 Pa. 513",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        461496,
+        461544
+      ],
+      "year": 1996,
+      "pin_cites": [
+        {
+          "parenthetical": "allowing evidence of defendant's previous sexual assaults"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/543/0513-01",
+        "/pa/543/0513-02"
+      ]
+    },
+    {
+      "cite": "521 Pa. 168",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1817463
+      ],
+      "weight": 2,
+      "year": 1989,
+      "pin_cites": [
+        {
+          "parenthetical": "upholding the trial court's admission of evidence that the defendant had committed a prior rape, including testimony from the prior rape victim"
+        },
+        {
+          "page": "841",
+          "parenthetical": "upholding the trial court's admission of evidence that the defendant had committed a prior rape, including testimony from the prior rape victim"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/521/0168-01"
+      ]
+    },
+    {
+      "cite": "620 N.E.2d 792",
+      "category": "reporters:state_regional",
+      "reporter": "N.E.2d",
+      "year": 1993,
+      "pin_cites": [
+        {
+          "page": "796"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "35 Mass.App.Ct. 398",
+      "category": "reporters:state",
+      "reporter": "Mass. App. Ct.",
+      "case_ids": [
+        4015690
+      ],
+      "year": 1993,
+      "opinion_index": 0,
+      "case_paths": [
+        "/mass-app-ct/35/0398-01"
+      ]
+    },
+    {
+      "cite": "716 N.Y.S.2d 486",
+      "category": "reporters:state",
+      "reporter": "N.Y.S.2d",
+      "case_ids": [
+        547311
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/277/1045-01"
+      ]
+    },
+    {
+      "cite": "277 A.D.2d 1045",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        548355,
+        2821031,
+        2850057,
+        547311,
+        2807380,
+        2826359
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/277/1045-02",
+        "/ad/277/1045-01",
+        "/ad/277/1045-04",
+        "/ad2d/277/1045-01",
+        "/ad/277/1045-03",
+        "/ad/277/1045-02"
+      ]
+    },
+    {
+      "cite": "207 Neb. 746",
+      "category": "reporters:state",
+      "reporter": "Neb.",
+      "case_ids": [
+        2481652
+      ],
+      "weight": 2,
+      "year": 1981,
+      "opinion_index": 0,
+      "case_paths": [
+        "/neb/207/0746-01"
+      ]
+    },
+    {
+      "cite": "883 P.2d 949",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1994,
+      "pin_cites": [
+        {
+          "page": "958-59"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "35 Cal.Rptr.2d 407",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr. 2d",
+      "year": 1994,
+      "opinion_index": 0
+    },
+    {
+      "cite": "8 Cal.4th 746",
+      "category": "reporters:state",
+      "reporter": "Cal. 4th",
+      "case_ids": [
+        1985982
+      ],
+      "year": 1994,
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-4th/8/0746-01"
+      ]
+    },
+    {
+      "cite": "59 F.3d 1460",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        179589
+      ],
+      "pin_cites": [
+        {
+          "page": "1464"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/59/1460-01"
+      ]
+    },
+    {
+      "cite": "66 Cal. L.Rev. 1011",
+      "category": "journals:journal",
+      "reporter": "Cal. L. Rev.",
+      "year": 1978,
+      "opinion_index": 0
+    },
+    {
+      "cite": "521 Pa. 390",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1817499
+      ],
+      "weight": 8,
+      "year": 1989,
+      "pin_cites": [
+        {
+          "page": "1250-51"
+        },
+        {
+          "page": "1248"
+        },
+        {
+          "page": "1250"
+        },
+        {
+          "page": "1250"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/521/0390-01"
+      ]
+    },
+    {
+      "cite": "19 A. 957",
+      "category": "reporters:state_regional",
+      "reporter": "A.",
+      "year": 1890,
+      "opinion_index": 0
+    },
+    {
+      "cite": "135 Pa. 483",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        817456
+      ],
+      "year": 1890,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/135/0483-01"
+      ]
+    },
+    {
+      "cite": "525 Pa. 295",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1823735
+      ],
+      "weight": 3,
+      "year": 1990,
+      "pin_cites": [
+        {
+          "parenthetical": "citing Commonwealth v. Allen, 135 Pa. 483, 19 A. 957 (1890) and Commonwealth v. Lane, 521 Pa. 390, 555 A.2d 1246 (1989)"
+        },
+        {
+          "page": "300",
+          "parenthetical": "citing Commonwealth v. Allen, 135 Pa. 483, 19 A. 957 (1890) and Commonwealth v. Lane, 521 Pa. 390, 555 A.2d 1246 (1989)"
+        },
+        {
+          "page": "297"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/525/0295-01"
+      ]
+    },
+    {
+      "cite": "518 Pa. 290",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1811673,
+        1811668
+      ],
+      "weight": 4,
+      "year": 1988,
+      "pin_cites": [
+        {
+          "parenthetical": "evidence of other crimes may be relevant and admissible to show \"part of the chain or sequence of events which became part of the history of the case and formed part of the natural development of the facts\""
+        },
+        {
+          "page": "497",
+          "parenthetical": "evidence of other crimes may be relevant and admissible to show \"part of the chain or sequence of events which became part of the history of the case and formed part of the natural development of the facts\""
+        },
+        {
+          "page": "501"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/518/0290-01",
+        "/pa/518/0290-02"
+      ]
+    },
+    {
+      "cite": "800 A.2d 294",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        9409766,
+        9409834,
+        312748,
+        9409783,
+        312794,
+        312796
+      ],
+      "year": 2002,
+      "pin_cites": [
+        {
+          "page": "307-08"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/800/0294-01",
+        "/a2d/800/0294-03",
+        "/pa/569/0046-01",
+        "/a2d/800/0294-02",
+        "/pa/569/0045-01",
+        "/pa/569/0047-01"
+      ]
+    },
+    {
+      "cite": "569 Pa. 47",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        312796
+      ],
+      "year": 2002,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/569/0047-01"
+      ]
+    },
+    {
+      "cite": "896 A.2d 523",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8426660,
+        5654612
+      ],
+      "year": 2006,
+      "pin_cites": [
+        {
+          "page": "539"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/896/0523-01",
+        "/pa/586/0553-01"
+      ]
+    },
+    {
+      "cite": "586 Pa. 553",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        5654612
+      ],
+      "year": 2006,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/586/0553-01"
+      ]
+    },
+    {
+      "cite": "889 A.2d 501",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8993560,
+        2473146,
+        8993616,
+        2471663
+      ],
+      "year": 2005,
+      "pin_cites": [
+        {
+          "page": "534"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/889/0501-01",
+        "/pa/585/0547-02",
+        "/a2d/889/0501-02",
+        "/pa/585/0547-01"
+      ]
+    },
+    {
+      "cite": "585 Pa. 547",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        2473146,
+        2471663
+      ],
+      "year": 2005,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/585/0547-02",
+        "/pa/585/0547-01"
+      ]
+    },
+    {
+      "cite": "472 Pa. 53",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1727731
+      ],
+      "weight": 2,
+      "year": 1977,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/472/0053-01"
+      ]
+    },
+    {
+      "cite": "856 A.2d 767",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        1370926,
+        9212057,
+        1370995,
+        9212126
+      ],
+      "weight": 2,
+      "year": 2004,
+      "pin_cites": [
+        {
+          "page": "775"
+        },
+        {
+          "page": "775"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/579/0424-01",
+        "/a2d/856/0767-01",
+        "/pa/579/0425-01",
+        "/a2d/856/0767-02"
+      ]
+    },
+    {
+      "cite": "579 Pa. 425",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1370995
+      ],
+      "year": 2004,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/579/0425-01"
+      ]
+    },
+    {
+      "cite": "839 A.2d 1038",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        9061706,
+        16775
+      ],
+      "year": 2003,
+      "pin_cites": [
+        {
+          "page": "1046"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/839/1038-01",
+        "/pa/576/0546-01"
+      ]
+    },
+    {
+      "cite": "576 Pa. 546",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        16775
+      ],
+      "year": 2003,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/576/0546-01"
+      ]
+    },
+    {
+      "cite": "890 A.2d 372",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8990802,
+        5654462
+      ],
+      "year": 2005,
+      "pin_cites": [
+        {
+          "page": "379"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/890/0372-01",
+        "/pa/586/0054-01"
+      ]
+    },
+    {
+      "cite": "586 Pa. 54",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        5654462
+      ],
+      "year": 2005,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/586/0054-01"
+      ]
+    },
+    {
+      "cite": "753 A.2d 225",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        225939,
+        11205798
+      ],
+      "weight": 9,
+      "year": 2000,
+      "pin_cites": [
+        {
+          "page": "225"
+        },
+        {
+          "page": "231"
+        },
+        {
+          "page": "231"
+        },
+        {
+          "page": "231"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/562/0046-01",
+        "/a2d/753/0225-01"
+      ]
+    },
+    {
+      "cite": "562 Pa. 46",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        225939
+      ],
+      "year": 2000,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/562/0046-01"
+      ]
+    },
+    {
+      "cite": "743 A.2d 477",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        11488664
+      ],
+      "weight": 4,
+      "pin_cites": [
+        {
+          "page": "477"
+        },
+        {
+          "page": "480"
+        },
+        {
+          "page": "481"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/743/0477-01"
+      ]
+    },
+    {
+      "cite": "863 A.2d 597",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        9168557
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "600"
+        },
+        {
+          "page": "603"
+        },
+        {
+          "page": "603-04"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/863/0597-01"
+      ]
+    },
+    {
+      "cite": "525 Pa. 295",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1823735
+      ],
+      "weight": 2,
+      "year": 1990,
+      "pin_cites": [
+        {
+          "parenthetical": "quoting the anachronistic adage \"hue and cry follow rape like smoke follows fire\""
+        },
+        {
+          "page": "300",
+          "parenthetical": "quoting the anachronistic adage \"hue and cry follow rape like smoke follows fire\""
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/pa/525/0295-01"
+      ]
+    },
+    {
+      "cite": "480 Pa. 601",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1745067
+      ],
+      "weight": 2,
+      "year": 1978,
+      "pin_cites": [
+        {
+          "page": "606"
+        },
+        {
+          "page": "1050"
+        }
+      ],
+      "opinion_index": 2,
+      "case_paths": [
+        "/pa/480/0601-01"
+      ]
+    },
+    {
+      "cite": "515 Pa. 473",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1806047
+      ],
+      "weight": 2,
+      "year": 1987,
+      "pin_cites": [
+        {
+          "page": "476",
+          "parenthetical": "citing Commonwealth v. Spruill, 480 Pa. 601, 606, 391 A.2d 1048, 1050 (1978)"
+        },
+        {
+          "page": "85",
+          "parenthetical": "citing Commonwealth v. Spruill, 480 Pa. 601, 606, 391 A.2d 1048, 1050 (1978)"
+        }
+      ],
+      "opinion_index": 2,
+      "case_paths": [
+        "/pa/515/0473-01"
+      ]
+    },
+    {
+      "cite": "668 A.2d 97",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        458722,
+        7860557
+      ],
+      "year": 1995,
+      "pin_cites": [
+        {
+          "page": "105"
+        }
+      ],
+      "opinion_index": 2,
+      "case_paths": [
+        "/pa/542/0384-01",
+        "/a2d/668/0097-01"
+      ]
+    },
+    {
+      "cite": "542 Pa. 384",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        458722
+      ],
+      "year": 1995,
+      "pin_cites": [
+        {
+          "page": "401"
+        }
+      ],
+      "opinion_index": 2,
+      "case_paths": [
+        "/pa/542/0384-01"
+      ]
+    },
+    {
+      "cite": "295 Pa.Super. 467",
+      "category": "reporters:state",
+      "reporter": "Pa. Super.",
+      "case_ids": [
+        180039
+      ],
+      "weight": 2,
+      "year": 1982,
+      "pin_cites": [
+        {
+          "parenthetical": "\"[T]he fact that a victim made a prompt complaint is no longer required to sustain a rape conviction, See 18 Pa.C.S.A. \u00a7 3105.\""
+        },
+        {
+          "page": "1331",
+          "parenthetical": "\"[T]he fact that a victim made a prompt complaint is no longer required to sustain a rape conviction, See 18 Pa.C.S.A. \u00a7 3105.\""
+        }
+      ],
+      "opinion_index": 2,
+      "case_paths": [
+        "/pa-super/295/0467-01"
+      ]
+    },
+    {
+      "cite": "66 Cal.L.Rev. 1011",
+      "category": "journals:journal",
+      "reporter": "Cal. L. Rev.",
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "1019"
+        }
+      ],
+      "opinion_index": 2
+    },
+    {
+      "cite": "508 Pa. 198",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1794061
+      ],
+      "weight": 2,
+      "year": 1985,
+      "pin_cites": [
+        {
+          "page": "202"
+        },
+        {
+          "page": "178"
+        }
+      ],
+      "opinion_index": 2,
+      "case_paths": [
+        "/pa/508/0198-01"
+      ]
+    },
+    {
+      "cite": "521 Pa. 168",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1817463
+      ],
+      "weight": 5,
+      "year": 1989,
+      "pin_cites": [
+        {
+          "page": "177-78",
+          "parenthetical": "citing Commonwealth v. Claypool, 508 Pa. 198, 202, 495 A.2d 176, 178 (1985)"
+        },
+        {
+          "page": "840",
+          "parenthetical": "citing Commonwealth v. Claypool, 508 Pa. 198, 202, 495 A.2d 176, 178 (1985)"
+        },
+        {
+          "page": "177"
+        },
+        {
+          "page": "178"
+        }
+      ],
+      "opinion_index": 2,
+      "case_paths": [
+        "/pa/521/0168-01"
+      ]
+    },
+    {
+      "cite": "518 Pa. 290",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1811673,
+        1811668
+      ],
+      "weight": 4,
+      "year": 1988,
+      "pin_cites": [
+        {
+          "page": "497"
+        },
+        {
+          "page": "310"
+        },
+        {
+          "page": "501"
+        }
+      ],
+      "opinion_index": 2,
+      "case_paths": [
+        "/pa/518/0290-01",
+        "/pa/518/0290-02"
+      ]
+    },
+    {
+      "cite": "753 A.2d 225",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        225939,
+        11205798
+      ],
+      "weight": 7,
+      "year": 2000,
+      "pin_cites": [
+        {
+          "page": "228"
+        },
+        {
+          "page": "228"
+        },
+        {
+          "page": "227"
+        },
+        {
+          "page": "231"
+        }
+      ],
+      "opinion_index": 2,
+      "case_paths": [
+        "/pa/562/0046-01",
+        "/a2d/753/0225-01"
+      ]
+    },
+    {
+      "cite": "562 Pa. 46",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        225939
+      ],
+      "year": 2000,
+      "opinion_index": 2,
+      "case_paths": [
+        "/pa/562/0046-01"
+      ]
+    },
+    {
+      "cite": "863 A.2d 597",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        9168557
+      ],
+      "opinion_index": 2,
+      "case_paths": [
+        "/a2d/863/0597-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 1689,
+    "char_count": 51888,
+    "ocr_confidence": 0.665,
+    "pagerank": {
+      "raw": 3.908916242960208e-07,
+      "percentile": 0.9020647535821587
+    },
+    "sha256": "6a6a55caa385dac39c8d83ca543fea36fa8686178408db4c39f3dfea76554528",
+    "simhash": "1:ca73977eee1d95be",
+    "word_count": 8258
+  },
+  "last_updated": "2024-02-27T21:45:49.457734+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "BEFORE: CAPPY, C.J, and CASTILLE, NEWMAN, SAYLOR, EAKIN, BAER and BALDWIN, JJ.",
+      "Former Justice NEWMAN did not participate in the decision of this case.",
+      "Justice SAYLOR, EAKIN and BAER join the opinion.",
+      "Chief Justice CAPPY files a concurring opinion.",
+      "Justice BALDWIN files a dissenting opinion."
+    ],
+    "parties": [
+      "COMMONWEALTH of Pennsylvania, Appellee, v. Thomas DILLON, Appellant."
+    ],
+    "opinions": [
+      {
+        "text": "OPINION\nJustice CASTILLE.\nAppellant Thomas Dillon appeals from the Superior Court\u2019s order reversing the trial court\u2019s denial of the Commonwealth\u2019s motion in limine. The motion in limine sought permission to introduce evidence in the Commonwealth\u2019s case-in-chief to explain the delayed report of sexual abuse made by the child-victim, L.P. This Court granted review to address whether Rule 404(b) of the Pennsylvania Rules of Evidence prohibits the Commonwealth from introducing such evidence in its casein-chief-specifically, here, evidence that appellant physically abused L.P.\u2019s mother and brother which was proffered to explain L.P.\u2019s lengthy delay in reporting appellant\u2019s actions to authorities. For the reasons that follow, we affirm the judgment of the Superior Court.\nIn 1995, appellant began living with L.P.\u2019s mother, Danielle Herron. L.P., then age nine, and her brother, K., age eight, also lived in the home. Appellant stands accused of sexually abusing L.P. continuously for nearly four years between 1995 and 1998, while also subjecting Ms. Herron and K. to regular physical abuse. During one incident, in 1998, appellant broke K.\u2019s leg. Appellant claimed that K. was injured as the two were wrestling, but K. told L.P. during his hospitalization for his broken leg that appellant had intentionally injured him. K. waited to reveal this information to his mother until the family had moved away from appellant. Thereafter, appellant was arrested, prosecuted, and convicted of aggravated assault arising from this incident.\nIn May of 2001, while appellant was incarcerated for the assault conviction, L.P. first reported that appellant had sexually abused her. On June 22, 2001, appellant was arrested and charged with involuntary deviate sexual intercourse, indecent assault, false imprisonment, corruption of minors, statutory sexual assault, sexual assault, unlawful restraint, simple assault, recklessly endangering another person, and endangering the welfare of children. At appellant\u2019s June 29, 2001 preliminary hearing, L.P. testified that appellant sexually abused her almost daily from 1995 to 1998, from the time she was the age of nine to the age of twelve. On April 15, 2002, the Commonwealth filed a pre-trial motion in limine seeking to introduce evidence of appellant\u2019s physical abuse of L.P.\u2019s family, including his aggravated assault conviction, during the Commonwealth\u2019s case-in-chief. The Commonwealth claimed in the motion that the evidence was relevant and necessary to explain L.P.\u2019s failure to promptly report the sexual abuse, as appellant\u2019s physical abuse of L.P.\u2019s family made her fearful of retaliation. Commonwealth\u2019s Motion at 3. Additionally, the Commonwealth asserted that the evidence established that the sexual abuse was committed through forcible compulsion, or threat thereof, and that it also provided proof of the nature of the relationship between the parties. Id.\nOn April 19, 2002, the trial court issued an order and opinion regarding the Commonwealth\u2019s motion. The trial court ruled that the Commonwealth could introduce evidence of appellant\u2019s physical assaults against L.P., but not evidence of his physical abuse of L.P.\u2019s mother and brother unless appellant first attempted to refute L.P.\u2019s allegations of sexual abuse by arguing her lack of prompt complaint. The trial court realized that the evidence concerning L.P.\u2019s family could be relevant to establish that appellant forced L.P. into participating in the alleged sexual assaults. But the trial court noted, force was not an element of any of the charged offenses because L.P. was a minor when the offenses occurred. Consequently, the trial court determined that evidence of appellant\u2019s abuse of L.P.\u2019s family was inadmissible unless and until the defense argued the lack of prompt complaint. The Commonwealth then appealed to the Superior Court, certifying that the trial court\u2019s exclusionary order terminated or substantially handicapped the prosecution in accordance with Rule 311(d) of the Pennsylvania Rules of Appellate Procedure.\nInitially, a three-judge panel of the Superior Court affirmed the trial court, agreeing that the introduction of the disputed evidence during the Commonwealth\u2019s case-in-chief could possibly be more prejudicial than probative, but that decision was later withdrawn upon grant of the Commonwealth\u2019s petition for reargument en banc. Writing for a unanimous court following reargument, the Honorable Seamus McCaffery began by acknowledging that the Commonwealth\u2019s appeal was reviewable under Rule 311(d). Commonwealth v. Dillon, 863 A.2d 597, 600 (Pa.Super.2004). The court then proceeded to review the merits of the Commonwealth\u2019s claim, acknowledging the difficulties in prosecuting sexual assault cases, such as the lack of corroborating witnesses to the crime and the jury\u2019s frequent need to rest its decision solely on a determination of the relative credibility of the victim and the defendant. Courts of this Commonwealth, the panel noted, permit evidence of a victim\u2019s prompt complaint to be offered as substantive evidence for the prosecution, just as the defense is permitted to introduce evidence of a victim\u2019s lack of prompt complaint in order to cast doubt upon the accusation. Contrary to the trial court, the Superior Court panel interpreted Commonwealth v. Barger, 743 A.2d 477 (Pa.Super.1999) (en banc), as expressly allowing the Commonwealth\u2019s introduction of evidence during its case-in-chief of a defendant\u2019s physical abuse against a minor sexual assault victim and her family. Barger, according to the panel, authorizes the presentation of evidence of prior physical abuse and intimidation to provide the jury the benefit of the full res gestae of the crime and to ensure that the accused cannot \u201cprofit from terrorizing his victim into silence.\u201d Dillon, 863 A.2d at 603. The Superior Court found the trial court\u2019s ruling in this case antithetical to Barger\u2019s precepts. Moreover, the court reasoned that the trial court\u2019s ruling would lead to an illogical result, namely, allowing the accused to control whether the jury could hear evidence as to why an intimidated victim of sexual abuse did not promptly report her abuse. Id. at 603-04. Accordingly, the Superior Court ruled that the trial court had abused its discretion in denying the Commonwealth\u2019s motion in limine, and it therefore vacated the trial court\u2019s order and remanded the case for trial. Upon appellant\u2019s petition for allowance of appeal, this Court granted further pre-trial review.\nAppellant claims that the trial court\u2019s decision to conditionally exclude evidence of his alleged prior bad acts against the victim\u2019s family, unless and until made an issue by defense argument, was well within the trial court\u2019s discretion. Appellant argues that the trial court\u2019s reading of the Barger case was a correct interpretation because defense counsel in Barger made the evidence of prior physical abuse relevant by casting doubt on the allegations given the victim\u2019s failure to make a prompt complaint. The evidence that the Commonwealth seeks to admit, appellant adds, does not fall under any specific exception to Evidence Rule 404(b). Moreover, appellant maintains that the Commonwealth failed to establish that the evidence was more probative than prejudicial. Regarding the specific evidence of K.\u2019s broken leg, appellant asserts that the incident only marginally helps to show why L.P. failed to report the alleged abuse by appellant, because the incident occurred during the last four months of the alleged four-year period of sexual abuse. Because his breaking K.\u2019s leg offers little support for the instant charges, appellant argues, the evidence of prior assaults would contribute to the jury\u2019s willingness to believe that appellant sexually abused L.P. as a matter of criminal propensity or bad character, outweighing any marginal probative value of the evidence. Finally, appellant stresses that the trial court did not completely foreclose admission of prior physical abuse; rather, it prudently decided to wait until it heard the defense presentation at trial before it ultimately would determine if the evidence could be introduced.\nThe Commonwealth responds that L.P.\u2019s lengthy and unexplained failure to report the alleged abuse \u201cinevitably\u201d raises a negative inference as to her credibility. Therefore, the Commonwealth argues that it should be permitted to rebut that natural inference in its case-in-chief. The Commonwealth submits that the law recognizes the relevance of such evidence, since it permits the introduction of other crimes evidence if introduced for some relevant purpose other than to show bad character or a defendant\u2019s criminal propensity. Here, the evidence was proffered to show how appellant coerced L.P.\u2019s silence and delayed her report. Excluding an explanation for the delayed abuse report, contends the Commonwealth, is tantamount to blocking the Commonwealth from affirmatively discharging its burden of proof because the integrity of the trial is undermined by the misleading suggestion created by a child victim\u2019s unexplained delay in reporting.\nThe Commonwealth also argues \u201cstrong policy reasons\u201d for permitting evidence of other crimes to explain a failure to timely report a sex crime. The Commonwealth echoes the Superior Court\u2019s concern that preventing the admission of prior physical abuse of family members will allow sexual abusers to intimidate their victims into silence. Furthermore, the absence of evidence to explain a delayed report creates a \u201cfalse impression\u201d on the jury which serves to undermine the jury\u2019s assessment of a victim\u2019s sincerity, which in turn undermines the integrity of the trial.\nThe Commonwealth also emphasizes the teachings of Commonwealth v. Minerd, 562 Pa. 46, 753 A.2d 225 (2000), where this Court permitted the Commonwealth to introduce evidence that an absence of signs of physical harm does not disprove rape. In Minerd, this Court reasoned that a jury might expect to see physical evidence of an assault presented at trial, in the absence of which the jury is likely to raise doubt as to the victim\u2019s accusations and punish the Commonwealth for failing to present such evidence. The circumstance here is similar, the Commonwealth argues, as the jury will inevitably doubt L.P.\u2019s testimony because of the simple historical fact of the length of time she waited to report appellant\u2019s abuse. Because the trial court failed to appreciate the relevance of the physical abuse evidence to the Commonwealth\u2019s ultimate burden, the Commonwealth alleges, it could not and did not conduct a proper balancing test. Simply stating that the evidence may possibly be more prejudicial than probative does not constitute a proper weighing of the evidence, the Commonwealth notes; the prejudice must be undue to warrant its exclusion.\nThomas W. Corbett, Jr., the Attorney General of Pennsylvania, has filed an amicus curiae brief in support of the Commonwealth. The Attorney General argues that it is vital in cases such as the one sub judice to permit evidence of the accused\u2019s physical abuse of the child victim\u2019s family to explain the delayed report of sexual abuse. No decision of this Court, according to the Attorney General, has ever conditioned the admissibility of such evidence on a defendant having \u201copened the door\u201d to its admission. Evidence explaining a delayed report of sexual abuse should be treated identically to, for instance, evidence of motive, which, the Attorney General notes, is admissible even though motive is not an element of the charged crime.\nAppellate courts typically examine a trial court\u2019s decision concerning the admissibility of evidence for abuse of discretion. See Commonwealth v. Dengler, 586 Pa. 54, 890 A.2d 372, 379 (2005). \u201cAn abuse of discretion may not be found merely because an appellate court might have reached a different conclusion, but requires a result of manifest unreasonableness, or partiality, prejudice, bias, or ill-will, or such lack of support so as to be clearly erroneous.\u201d Grady v. Frito-Lay, Inc., 576 Pa. 546, 839 A.2d 1038, 1046 (2003). Typically, all relevant evidence, i.e., evidence which tends to make the existence or non-existence of a material fact more or less probable, is admissible, subject to the prejudice/probative value weighing which attends all decisions upon admissibility. See Pa.R.E. 401; Pa.R.E. 402; see also Commonwealth v. Malloy, 579 Pa. 425, 856 A.2d 767, 775 (2004).\nA long-accepted exception to this general rule of admissibility, which is reflected in Rule 404(b)(1) of the Pennsylvania Rules of Evidence, states that \u201c[e]vidence of other crimes, wrongs, or acts is not admissible to prove the character of a person in order to show action in conformity therewith.\u201d Character evidence (whether good or bad) is, of course, relevant in criminal prosecutions; that is why an accused has the right to introduce evidence of good character for relevant character traits. See Pa.R.E. 404(a)(1). Evidence of separate or unrelated \u201ccrimes, wrongs, or acts,\u201d however, has long been deemed inadmissible as character evidence against a criminal defendant in this Commonwealth as a matter not of relevance, but of policy, i.e., because of a fear that such evidence is so powerful that the jury might misuse the evidence and convict based solely upon criminal propensity. See Commonwealth v. Ulatoski, 472 Pa. 53, 371 A.2d 186, 191 n. 11 (1977). Because the fear against which this exception to the general rule of relevance/admissibility is aimed concerns use of prior crimes to show bad character/propensity, a series of \u201cexceptions to the exception\u201d (to the rule of relevance) have been recognized. Thus, as Rule 404(b)(2) reflects, evidence of \u201cother crimes, wrongs, or acts\u201d may be admitted when relevant for a purpose other than criminal character/propensity, including: proof of motive, opportunity, intent, preparation, plan, knowledge, identity, or absence of mistake. See, e.g., Commonwealth v. Chmiel, 585 Pa. 547, 889 A.2d 501, 534 (2005); Malloy, 856 A.2d at 775. This list is not exhaustive. Pa.R.E. 404(b) cmt. For instance, this Court has recognized a res gestae exception to Rule 404(b) which allows admission of other crimes evidence when relevant to furnish the context or complete story of the events surrounding a crime. Commonwealth v. Williams, 586 Pa. 553, 896 A.2d 523, 539 (2006); Commonwealth v. Paddy, 569 Pa. 47, 800 A.2d 294, 307-08 (2002); see also Commonwealth v. Lark, 518 Pa. 290, 543 A.2d 491, 497 (1988) (evidence of other crimes may be relevant and admissible to show \u201cpart of the chain or sequence of events which became part of the history of the case and formed part of the natural development of the facts\u201d).\nA jury may consider evidence of a lack of prompt complaint in cases involving sexual offenses pursuant to 18 Pa.C.S. \u00a7 3105, which provides:\nPrompt reporting to public authority is not required in a prosecution under this chapter: Provided, however, That nothing in this section shall be construed to prohibit a defendant from introducing evidence of the complainant\u2019s failure to promptly report the crime if such evidence would be admissible pursuant to the rules of evidence.\nId. Section 3105 codified a common law principle recognizing that the victim of a sexual assault naturally would be expected to complain of the assault at the first safe opportunity. Commonwealth v. Snoke, 525 Pa. 295, 580 A.2d 295, 300 (1990) (citing Commonwealth v. Allen, 135 Pa. 483, 19 A. 957 (1890) and Commonwealth v. Lane, 521 Pa. 390, 555 A.2d 1246 (1989)). Generally, there are three principles upon which evidence addressing the timeliness of a sexual assault complaint has been deemed relevant and admissible: (1) as an explanation of an inconsistency/silence; (2) as corroboration of similar statements; or (3) as a res gestae declaration. 4 Wigmore on Evidence \u00a7 1134 (Chadbourn rev.1972).\nIn Commonwealth v. Lane, this Court elaborated on the relevance and potential importance of a lack of prompt complaint in evaluating a sexual assault victim\u2019s credibility. 555 A.2d at 1250-51; see also Snoke, 580 A.2d at 297. Lane involved the defendant\u2019s conviction for, inter alia, the rape of an eight-year-old girl. On appeal, this Court examined the propriety of the trial court\u2019s decision to grant a Commonwealth challenge for cause concerning a prospective juror, who had expressed concern during voir dire that he would have difficulty ignoring the length of time that elapsed between the alleged rape and when it was reported. 555 A.2d at 1248. This Court affirmed the Superior Court\u2019s ruling that the juror\u2019s dismissal was in error, in part, because the juror had a legitimate question about a potential weakness in the Commonwealth\u2019s case. Id. at 1249. In reaching this conclusion, the Court noted that evidence concerning the timeliness of a complaint is contemplated both by statute (Section 3105 of the Crimes Code) and by the principle recognizing that a witness may be impeached if he or she remained silent on an occasion where it would have been natural to have spoken. See Lane, 555 A.2d at 1250 (citing Charles E. Torc\u00eda, Wharton\u2019s Criminal Evidence \u00a7 436 (14th ed.1986)). Because questions of the complainant\u2019s sincerity are raised if it is established that the delay in reporting was \u201ceither unreasonable or unexplained,\u201d the Lane Court observed, an \u201cinference of insincerity is only justified where the facts of the case fail to disclose a reasonable explanation for the challenged time lapse prior to the complaint.\u201d Lane, 555 A.2d at 1250. Although a lack of prompt complaint should not be dispositive of the merits of a case, the Court stated, a delayed report may produce justifiable doubts concerning the truth of the complaint. A complainant, for instance, may have delayed a report to protect a guilty third-party; to exact revenge against the accused; or to acknowledge the offensiveness of an encounter. Id. at 1250-51. Furthermore, in cases where the victim is a child, this Court commented on the importance of questioning whether \u201cthe immaturity of the child occasioned the delay as opposed to a design to deceive.\u201d Id. at 1251.\nAlso instructive is Commonwealth v. Minerd, 753 A.2d at 225. In Minerd, the defendant was charged with sexually abusing his stepdaughters several years after the sexual abuse itself occurred, and the question addressed was whether the Commonwealth may, in its case-in-chief in a sexual assault prosecution, offer the testimony of an expert that the absence of physical trauma is nevertheless consistent with the sexual abuse that was alleged. This Court, in a unanimous opinion by Mr. Justice (now Chief Justice) Cappy, began its analysis by noting that the Commonwealth has the burden of proving every element of the offense beyond a reasonable doubt, while the task of the jury, as factfinders, is to evaluate the evidence and then render a decision based on that evidence and the inferences naturally deduced from it. Id. at 231. We recognized that jurors may draw negative inferences on their own from the fact that the victims had no signs of physical trauma after they made their complaints. For this reason we held that it was permissible for the Commonwealth to introduce, in its case-in-chief, medical expert testimony to explain that the absence of physical trauma is not inconsistent with allegations of sexual abuse because there was adequate time for any trauma to heal. Id. We expressly noted that limiting the expert testimony to rebuttal would be in error because the defense might not introduce the examination result, which would deprive the Commonwealth of the opportunity to refute negative inferences that the jury would likely develop from the absence of such evidence. Moreover, we noted, the admission of such testimony on direct \u201cwill not confuse or prejudice the jury any more than if it is introduced on rebuttal, since in both cases, the defense will have the opportunity to cross-examine.\u201d Id.\nIn sum, both the common law experience and the judgment of the General Assembly have led to a recognition of the relevance of the promptness of a complaint of sexual abuse, and this Court has separately recognized the reality that a sexual assault prosecution oftentimes depends predominately on the victim\u2019s credibility, which is obviously affected by any delay in reporting the abuse. See Lane, 555 A.2d at 1250. Revealing the circumstances surrounding an incident of sexual abuse, and the reasons for the delay, enables the factfinder to more accurately assess the victim\u2019s credibility. See id. Moreover, this Court has acknowledged that juries in sexual assault cases expect to hear certain kinds of evidence and, without any reference to such evidence during the trial, a jury is likely to unfairly penalize the Commonwealth, the party with the burden of proof. See Minerd, 753 A.2d at 231 (citing Stephen A. Saltzburg, A Special Aspect of Relevance: Countering Negative Inferences Associated with the Absence of Evidence, 66 Cal. L.Rev. 1011 (1978)).\nTurning to the case sub judice, there is no doubt that evidence of appellant\u2019s physical abuse of L.P.\u2019s mother and brother was relevant for purposes other than to show his bad character and criminal propensity. First, the evidence was probative of the reasons for L.P.\u2019s significant delay in reporting the alleged sexual assaults \u2014 i.e., the evidence tends to show that her experiences with appellant, including those assaults on family members, caused her to fear making a prompt report. The evidence was also relevant for res gestae purposes, i.e., to explain the events surrounding the sexual assaults, and resulting prosecution so that the case presented to the jury did not appear in a vacuum. Indeed, multiple courts have recognized the importance of allowing the prosecution to fully explain incidents of physical abuse causing a complaint of sexual abuse to be delayed. See United States v. Powers, 59 F.3d 1460, 1464 (4th Cir.1995); People v. Brown, 8 Cal.4th 746, 35 Cal.Rptr.2d 407, 883 P.2d 949, 958-59 (1994); State v. Hitt, 207 Neb. 746, 301 N.W.2d 96 (1981); see also People v. Chase, 277 A.D.2d 1045, 716 N.Y.S.2d 486 (N.Y.App. Div.2000); Commonwealth v. McKinnon, 35 Mass.App.Ct. 398, 620 N.E.2d 792, 796 (1993).\nAppellant\u2019s physical abuse of L.P.\u2019s mother and brother, and the atmosphere and effect upon L.P. which were a necessary byproduct of that abuse, are particularly relevant given both the lengthy period of alleged sexual abuse and the long delay in reporting the abuse. L.P. alleged that she was abused for nearly four years, but apparently never told anyone. Even after the abuse stopped in 1998 and appellant left the house after breaking K.\u2019s leg, L.P. waited until 2001 to report the abuse. We are aware that appellant objects to any evidence relating to K.\u2019s broken leg on the basis that it occurred in the last four months of the four-year period during which appellant allegedly sexually abused L.P. However, this objection overlooks the relevance this incident has as a potential explanation of why L.P. waited several years after the sexual abuse ended to report it. Furthermore, the character of the incident with L.P.\u2019s brother underscores the severity of the physical assaults L.P. feared that she would be subjected to if she reported appellant to the authorities.\nBeyond the basic relevance of the evidence to explain a lack of prompt complaint, of course, is the question of the place of the evidence at trial. Appellant argues that evidence of other acts of physical abuse by the defendant should only be permitted if and when the defendant specifically challenges the timing of the victim\u2019s complaint \u2014 i.e., only on rebuttal. But any such broad proscription fails to account for the teaching of Minerd. Certain points need not be specifically made to jurors by the advocates in order for them to be on the minds of the jurors. The usefulness of an absence of prompt complaint as a defense point is that it resonates with our understanding of human behavior to suggest that an unexplained failure to complain raises suspicion about the validity of the complaint. Most jurors are not intimately familiar with evidentiary rules and, thus, are capable of drawing incorrect inferences and conclusions from the absence of evidence. See Minerd, 753 A.2d at 231.\nIn the vast majority of cases, the defense would make affirmative use of the lack of a prompt complaint, the only real disincentive to that strategy being a circumstance, such as this one, where the Commonwealth believes it can explain the delay by pointing to other instances of the defendant\u2019s behavior. Whether the delay can legitimately be explained or not, it is a matter the jury may notice and speculate about. The necessity for the party with the burden of proof to address that speculation cannot be a function of whether the defense decides to pursue it affirmatively. To allow the natural inference to go unrebutted can mislead the jury. Moreover, if the Commonwealth were forced in all instances to introduce the explanation for the delay only in response to the defense litigation strategy, the Commonwealth\u2019s rebuttal may appear unpersuasive precisely because of its timing: ie., it may seem to be an attempt to save a flawed presentation of its case-in-chief, or, at worst, a fabrication to save the victim\u2019s credibility after defense counsel\u2019s emphasis on a legitimate pitfall in the victim\u2019s version of the facts. It would be error for this Court to adopt a rule which allows for ignoring the jury\u2019s capacity to make common sense deductions and inferences when they would lead to erroneous conclusions, particularly when this Court may easily fashion a rule to prevent incorrect assumptions in sexual abuse cases that turn heavily, if not solely, on the credibility of one individual\u2019s accusations.\nIn light of the authority described above, and particularly Minerd, we believe the trial court clearly abused its discretion in determining that, to the extent the evidence of appellant\u2019s physical assaults against L.P.\u2019s family were proffered to explain the delay in her making a complaint, they were inadmissible except in rebuttal. Such evidence is directly relevant to explain a legitimate credibility question necessarily raised by the facts of the case \u2014 to wit, why L.P. waited to report the abuse \u2014 and, therefore, counteract the possibility that a juror would develop \u201cuntutored assumptions\u201d and rely upon them in rendering a verdict. Minerd, 753 A.2d at 231. Admittedly, consigning the instant evidence to rebuttal, as the trial court did, is not the appropriate solution in a case where a child-victim waited years to report abuse after it occurred, for the defense may not trigger its admission as rebuttal and, thereby, block the Commonwealth from addressing the jurors\u2019 likely negative inference arising from the particularly long reporting delay in this case. See id.\nFinding that the evidence is relevant to the Commonwealth\u2019s case-in-chief does not end the inquiry. In instances where evidence of other crimes, wrongs, or acts is offered for a purpose other than to show conformity of action, such evidence may still be excluded if the probative value of the evidence is outweighed by its potential for prejudice. Pa.R.E. 404(b)(3). The probative value of the evidence might be outweighed by the danger of unfair prejudice, confusion of the issues, misleading the jury, undue delay, pointlessness of presentation, or unnecessary presentation of cumulative evidence. Pa.R.E. 403. The comment to Pa.R.E. 403 instructs that: \u201c \u2018Unfair prejudice\u2019 means a tendency to suggest decision on an improper basis or to divert the jury\u2019s attention away from its duty of weighing the evidence impartially.\u201d Pa.R.E. 403 cmt. Additionally, when weighing the potential for prejudice, a trial court may consider how a cautionary jury instruction might ameliorate the prejudicial effect of the proffered evidence. Pa.R.E. 404(b) cmt.\nEvidence will not be prohibited merely because it is harmful to the defendant. This Court has stated that it is not \u201crequired to sanitize the trial to eliminate all unpleasant facts from the jury\u2019s consideration where those facts are relevant to the issues at hand and form part of the history and natural development of the events and offenses for which the defendant is charged.\u201d Lark, 543 A.2d at 501. Moreover, we have upheld the admission of other crimes evidence, when relevant, even where the details of the other crime were extremely grotesque and highly prejudicial. See Commonwealth v. Billa, 521 Pa. 168, 555 A.2d 835, 841 (1989) (upholding the trial court\u2019s admission of evidence that the defendant had committed a prior rape, including testimony from the prior rape victim); see also Commonwealth v. Gordon, 543 Pa. 513, 673 A.2d 866, 870 (1996) (allowing evidence of defendant\u2019s previous sexual assaults).\nBecause the trial judge did not recognize the relevance of the evidence here to the Commonwealth\u2019s case-in-chief, the court did not engage in a proper weighing of the probative value of the evidence versus its potential unfair prejudicial effect. In a proper balancing inquiry, of course, the court should also consider the scope and contour of the proffered evidence, to minimize its potential for unfair prejudice. We stress this point because it is important to recognize that, although the court erred in deeming the evidence irrelevant except as rebuttal, our finding of error in that regard does not mean that upon remand, the court is obliged to allow unlimited evidence along these lines. The trial court rather retains its discretionary power to determine the proper effect of evidence that may be introduced to support the point the Commonwealth pursues. It may be that, in the court\u2019s judgment, not every incident that is proffered needs to be recounted for the jury to understand that L.P. allegedly feared appellant and the general severity of the violence causing that fear. There may certainly be a point at which the quantity and quality of evidence regarding L.P.\u2019s fear of physical abuse may become more unfairly prejudicial than probative, and the trial court may avoid crossing that boundary by carefully tailoring how and to what degree evidence of the reasons for L.P.\u2019s delayed report is introduced at trial, and via appropriate limiting instructions. The point of our ruling today is that the trial court failed to comprehend the relevance of the disputed evidence, and in doing so erroneously limited presentation of it to rebuttal, and thereby failed to undertake a proper balancing. Following our direction that the evidence at issue is relevant and admissible in the Commonwealth\u2019s case-in-chief, it is for the trial court to manage the Commonwealth\u2019s presentation of the evidence establishing the reasons for the timing of L.P.\u2019s report.\nFor the foregoing reasons, we affirm.\nFormer Justice NEWMAN did not participate in the decision of this case.\nJustice SAYLOR, EAKIN and BAER join the opinion.\nChief Justice CAPPY files a concurring opinion.\nJustice BALDWIN files a dissenting opinion.\n. 18 Pa.C.S. \u00a7 2702.\n. 18 Pa.C.S. \u00a7 3123.\n. 18 Pa.C.S. \u00a7 3126.\n. 18 Pa.C.S. \u00a7 2903.\n. 18 Pa.C.S. \u00a7 6301.\n. 18 Pa.C.S. \u00a7 3122.1.\n. 18 Pa.C.S. \u00a7 3124.1.\n. 18 Pa.C.S. \u00a7 2902.\n. 18 Pa.C.S. \u00a7 2701.\n. 18 Pa.C.S. \u00a7 2705.\n. 18 Pa.C.S. \u00a7 4304.\n. Appellate Rule 311(d) provides:\nCommonwealth appeals in criminal cases. In a criminal case, under the circumstances provided by law, the Commonwealth may take an appeal as of right from an order that does not end the entire case where the Commonwealth certifies in the notice of appeal that the order will terminate or substantially handicap the prosecution.\nPa.R.A.P. 311(d). The parties make no argument regarding the Commonwealth's right to appeal the issue presently before this Court.\n. Judge McCaffery was joined by then-President Judge Del Sole, as well as Judges Ford Elliott (the current President Judge), Stevens, Orie Melvin, Lally-Green, Todd, Gantman, and Panella.\n. Res gestae, which in Latin means \"things done,\u201d is defined as: \"The events at issue, or other events contemporaneous with them.\u201d Black\u2019s Law Dictionary 1335 (8th ed.2004).\n. Mr. Justice Nigro's concurring opinion joined the majority opinion.\n. The Superior Court's decision that the evidence at issue here was relevant relied heavily on Commonwealth v. Barger, 743 A.2d at 477. In Barger, a unanimous en banc panel of the Superior Court upheld a trial court\u2019s order allowing the Commonwealth to introduce evidence of the defendant's physical abuse committed against the mother of the child-victim. The Barger panel first noted this Court's elaboration in Lane concerning the relevance of the lack of a prompt complaint as a factor in evaluating a victim\u2019s credibility. Id. at 480. Regarding the physical abuse exacted against the victim\u2019s mother, as well as the victim herself, the panel found that the defendant created an environment that \u201cfacilitated the repeated indecent assaults by intimidating the victim into silence.\u201d Id. at 481. Through the defendant\u2019s abuse, the victim was compelled to participate in the assaults and, therefore, the panel held, evidence of any physical abuse the defendant committed against the victim and her mother was admissible.\nAppellant notes that Barger does not support the Superior Court\u2019s decision in the case sub judice because the defendant in Barger specifically made his physical abuse of family members relevant by challenging the victim's credibility during cross-examination based on her delayed report of sexual abuse. Appellant\u2019s point is well-taken: Barger is indeed distinguishable on such grounds.",
+        "type": "majority",
+        "author": "Justice CASTILLE."
+      },
+      {
+        "text": "Chief Justice CAPPY\nconcurring.\nI join the majority in its entirety. I write to emphasize that while our holding allows the Commonwealth to introduce evidence in its case-in-chief to explain a lack of prompt complaint, this rule is limited to sexual assault cases. In this type of case the judiciary can rightly take note of the fact that the jury may make a natural inference against the credibility of a witness for a failure to report promptly consistent with the policy that underlies the legislation at 18 Pa.C.S. \u00a7 3105. Section 3105 instructs that a prompt complaint is not required for the prosecution of sexual offenses. This reflects the Legislature\u2019s response to the common law assumption of \u201chue and cry\u201d which presupposes that a victim of sexual assault will immediately cry out, and if he or she does not, a negative inference can be drawn against the credibility of the complaint and against whether or not the incident in fact occurred. Commonwealth v. Snoke, 525 Pa. 295, 580 A.2d 295, 300 (1990) (quoting the anachronistic adage \u201chue and cry follow rape like smoke follows fire\u201d).",
+        "type": "concurrence",
+        "author": "Chief Justice CAPPY"
+      },
+      {
+        "text": "Justice BALDWIN\ndissenting.\nIn this case implicating 18 Pa.C.S. \u00a7 3105, I believe that the prejudicial effect of the contested evidence outweighs its probative value when presented in the Commonwealth\u2019s case-in-chief. For reasons explained in greater detail below, I respectfully dissent.\nAppellant is charged with a multitude of sexual offenses stemming from the alleged sexual assault of his girlfriend Danielle Herron\u2019s daughter, L.P. See Majority Op. at 133, n. 2-11. It is alleged that Appellant sexually abused L.P. for a period of almost four years, beginning in 1995 when L.P. was nine years old and ending in 1998. During this period, Appellant also physically assaulted both Ms. Herron and K., L.P.\u2019s eight year old brother. In fact, Appellant was convicted of aggravated assault following one such attack on K. which resulted in K.\u2019s leg being broken. It was not until 2001, when Appellant was incarcerated on the aggravated assault charge, that L.P. revealed that Appellant had continually sexually assaulted her.\nPrior to trial on the sexual assault charges, the Commonwealth filed a pre-trial motion in limine seeking to introduce evidence of the physical abuse of Herron and K. during the Commonwealth\u2019s case-in-chief. The Commonwealth sought introduction of this evidence to demonstrate to the jury that L.P. failed to promptly report the sexual abuse out of fear that if she reported the abuse, she too would be subjected to the same physical abuse inflicted upon her family. The trial court denied the motion and ruled that the evidence was inadmissible until Appellant challenged the lengthy delay in reporting the abuse. The Superior Court, in a published en banc decision, reversed. Commonwealth v. Dillon, 863 A.2d 597 (Pa.Super.2004).\nWe granted allocatur to determine \u201cwhether Rule 404(b) of the Pennsylvania Rules of Evidence prohibits the Commonwealth from introducing such evidence in its case-in-chief\u2014 specifically, here, evidence that Appellant physically abused L.P.\u2019s mother and brother which was proffered to explain LJP.\u2019s lengthy delay in reporting Appellant\u2019s actions to authorities.\u201d Majority Op. at 353, 925 A.2d at 133. The majority, relying on this Court\u2019s decision in Commonwealth v. Minerd, 562 Pa. 46, 753 A.2d 225 (2000), holds that the challenged evidence is admissible in the Commonwealth\u2019s case-in-chief under Pa.R.E. 404(b)(2). In doing so, the majority overstates the probative value of such evidence. I disagree and reach the opposite conclusion. The introduction of evidence concerning the physical abuse of L.P.\u2019s mother and brother prior to the defense attacking the victim\u2019s delay in reporting results in the prejudicial impact of this evidence outweighing its probative value.\n\u201cAdmissibility of evidence is a matter addressed to the sound discretion of the trial court and an appellate court may only reverse rulings on admissibility upon a showing that the lower court abused its discretion.\u201d Commonwealth v. Billa, 521 Pa. 168, 177-78, 555 A.2d 835, 840 (1989) (citing Commonwealth v. Claypool, 508 Pa. 198, 202, 495 A.2d 176, 178 (1985)). \u201cEvidence of a defendant\u2019s distinct crimes are [sic] not generally admissible against a defendant solely to show his bad character or his propensity for committing criminal acts, as proof of the commission of one offense is not generally proof of the commission of another.\u201d Billa, 521 Pa. at 177, 555 A.2d at 840 (emphasis in original) (citing Commonwealth v. Lark, 518 Pa. 290, 543 A.2d 491, 497 (1988)). This concept is similarly reflected in Pennsylvania Rule of Evidence 404(b)(1), which states that \u201c[e]vidence of other crimes, wrongs, or acts is not admissible to prove the character of the person in order to show action in conformity therewith.\u201d As the majority aptly points out, evidence of other crimes or bad acts is relevant, but generally proscribed as a matter of policy because the potential for misuse by the jury due to the inflammatory nature of this type of evidence is too great. See Majority Op. at 359, 925 A.2d at 136. Nonetheless, there are exceptions to this rule which are specifically aimed at allowing the evidence to be used for purposes other than showing criminal propensity. Although not exhaustive, Pa.R.E. 404(b)(2) provides exceptions to the general rule where the evidence is offered to show motive, opportunity, intent, preparation, plan, knowledge, identity, or absence of mistake. See Majority Op. at 359-60, 925 A.2d at 136-37.\nHere, the majority finds that evidence of physical abuse upon Herron and K. was relevant for purposes other than criminal propensity. Specifically, the majority finds that the evidence was probative in that it explained L.P.\u2019s \u201csignificant delay\u201d in reporting the alleged sexual abuse. See Majority Op. at 363, 925 A.2d at 139. The majority also finds the evidence relevant for res gestae purposes. Id. (\u201cThe evidence was also relevant for res gestae purposes, i.e., to explain the events surrounding the sexual assaults, and resulting prosecution so that the case presented to the jury did not appear in a vacuum.\u201d). On these specific findings, I agree with the majority. However, for Rule 404(b) purposes, finding that the proffered evidence is relevant for purposes other than criminal propensity does not end the inquiry. Such evidence is admissible \u201conly upon a showing that the probative value of the evidence outweighs its potential for prejudice.\u201d Pa.R.E. 404(b)(3). It is at this juncture that I must depart from the majority.\nAs we stated in Billa regarding the balancing test in Rule 404(b), \u201c[a]s with any evidentiary ruling, the trial court should balance the relevancy and evidentiary need for the evidence of distinct crimes against the potential for undue prejudice.\u201d Billa, 521 Pa. at 178, 555 A.2d at 840 (emphasis added) (citing Lark, 518 Pa. at 310, 543 A.2d at 501). Upon a close inspection, the need for the proffered evidence in the Commonwealth\u2019s case-in-chief is minimal. Therefore, its probative value is outweighed by the evident prejudicial impact.\nIn Minerd, we were faced with a similar situation to that presented here. In that case, Timothy Minerd was charged with sexually assaulting the two young daughters of the woman with whom he was living. V.M., who was twenty years old at the time of trial, testified that Minerd began molesting her in the early 1980s when she was three and one-half or four years old. Id. at 50, 758 A.2d at 227. Similarly, J.M., V.M.\u2019s younger sister, testified that Minerd began molesting her when she was six years old. Id. at 51, 753 A.2d at 228. In 1989, after V.M. learned about AIDS in school and fearing that she had acquired the disease from Minerd, Y.M. informed her mother of the sexual abuse. J.M. also revealed that she too had been abused by Minerd. Id.\nMinerd was eventually arrested and brought to trial. At trial, as part of the Commonwealth\u2019s case-in-chief, Dr. Margaret Carver, an expert in obstetrics and gynecology, testified that she had examined both V.M. and J.M. and found no evidence of physical trauma to the girls\u2019 vaginal or anal areas. She further testified, however, that the lack of physical injury did not prove that an assault never occurred because there was adequate time between the abuse and the examination for the relevant bodily areas to fully heal. Id. at 51-52, 753 A.2d at 228. Minerd was eventually convicted of various sexual crimes and sentenced to an aggregate term of imprisonment of seven and one-half to twenty-two years.\nWe granted allocatur in Minerd to consider \u201cwhether the Commonwealth may, as part of its case-in-ehief in a sexual assault prosecution, offer the testimony of an expert that the absence of physical trauma is nevertheless consistent with the alleged sexual abuse.\u201d Id. at 50, 753 A.2d at 227. We rejected Minerd\u2019s claim that the expert testimony would be proper only on rebuttal and not in the Commonwealth\u2019s casein-chief. Because the victims waited a lengthy period of time before reporting the abuse, there was a lack of physical evidence to aid in proving the crime. Dr. Carver\u2019s testimony was relevant to explain the conspicuous absence. Thus, in rejecting Minerd\u2019s claim, we explained that without Dr. Carver\u2019s testimony, \u201cjurors may improperly draw a negative inference against the Commonwealth, based upon a layperson\u2019s untutored assumptions, and rely upon that inference in rendering a verdict.\u201d Id. at 57, 753 A.2d at 231. We also recognized that juries expect to hear certain kinds of evidence in sexual assault cases, and that the Commonwealth may be unfairly penalized for not meeting the jury\u2019s expectations. Id. (citing S.A. Saltzburg, A Special Aspect of Relevance: Countering Negative Inferences Associated with the Absence of Evidence, 66 Cal.L.Rev. 1011, 1019). Thus, we held that the Commonwealth was entitled to address this negative inference in its case-in-chief because the defense may choose not to introduce the results of the physical examination showing the lack of physical trauma, thereby depriving the Commonwealth of the opportunity to address the juror\u2019s potential negative inferences. In such a case, introduction of the evidence during the Commonwealth\u2019s case-in-chief would not prejudice or confuse the jury any more than if it were introduced at rebuttal, particularly because the defense would have the opportunity to cross-examine the expert at either stage. Id.\nThe majority employs the Minerd reasoning to find that jurors in a case such as this one will likely draw a negative inference from a sexual assault victim\u2019s failure to promptly report the alleged abuse. Addressing this negative inference, according to the majority, cannot be conditioned on the defense first raising the issue. The Court states that \u201c[t]he necessity for the party with the burden of proof to address that speculation cannot be a function of whether the defense decides to pursue it affirmatively. To allow the natural inference to go unrebutted can mislead the jury.\u201d Majority Op. at 365, 925 A.2d at 140. As mentioned above, the majority overstates the necessity of addressing this potential negative inference in this case.\nIn Minerd, there was a high likelihood that jurors would be suspicious of the criminal allegations absent an explanation of the lack physical trauma to the victims. There was little doubt that the testimony\u2019s probative value out weighed any prejudicial impact, which was minimal at best. Moreover, and particularly pertinent to this discussion, the necessity of Dr. Carver\u2019s testimony was clear. Without her testimony, the jury\u2019s suspicions and speculations would never be addressed.\nThe instant case differs from Minerd in two substantial ways. First, the evidence in question here is of a materially different character than that in Minerd. In Minerd, the evidence was expert testimony regarding the lack of physical trauma, whereas in the instant case the evidence at issue related to credibility and involved unrelated violent crimes perpetrated on the alleged victim\u2019s family. Second, however, is the chief distinction from Minerd, which is the applicability of 18 Pa.C.S. \u00a7 3105. Section 3105 states, with regard to sexual offenses, that:\nPrompt reporting to public authority is not required in a prosecution under this chapter: Provided, however, That nothing in this section shall be construed to prohibit a defendant from introducing evidence of the complainant\u2019s failure to promptly report the crime if such evidence would be admissible pursuant to the rules of evidence.\n18 Pa.C.S. \u00a7 3105. (emphasis added).\nThe statute instructs the courts that the Commonwealth does not have to prove, or explain, anything with regard to the promptness, or lack thereof, in reporting the alleged abuse to the authorities to achieve convictions on the underlying charges. Commonwealth v. Freeman, 295 Pa.Super. 467, 441 A.2d 1327, 1331 (1982) (\u201c[T]he fact that a victim made a prompt complaint is no longer required to sustain a rape conviction, See 18 Pa.C.S.A. \u00a7 3105.\u201d) Pursuant to \u00a7 3105, courts should instruct juries that the failure of a victim to promptly complain about sexual abuse or attacks is not to be considered in determining whether the Commonwealth has made its case. As discussed below, this would diffuse concerns about improper inferences drawn by the jury. This, of course, is limited to the situation where a defendant chooses not to attack the victim\u2019s credibility based on her delay in reporting the abuse or attack.\nThe existence of this statute not only refutes the majority\u2019s assertion that the challenged evidence here is necessary, but it also eliminates the concern that juries will (1) have and (2) ponder some nebulous \u201cnegative inference\u201d that is never addressed unless the defendant raises the issue. If the defendant fails to raise the issue, which, as the majority points out, would be a rare situation, see Majority Op. at 367, 925 A.2d at 141, the Commonwealth can inform the jury during closing arguments that it need not consider the lack of a prompt complaint because Pennsylvania law does not require it as an element of any sexual crimes. More importantly, the Commonwealth can request that a jury instruction be given that tracks the language of Section 3105, and the trial court should so instruct them. The result would eradicate any lingering concerns that the jury would have regarding the necessity of an explanation regarding the victim\u2019s failure to promptly report the alleged abuse. We routinely presume that jurors follow the court\u2019s instructions regarding the law. See Commonwealth v. Johnson, 542 Pa. 384, 401, 668 A.2d 97, 105 (1995). Therefore, an instruction to this effect would dispel the notion that the jurors would penalize the Commonwealth for not offering evidence to explain the speculation possibly lingering in their heads. The burden then lies with the defendant. The Commonwealth need not explain the issue; thus, if the defendant desires the benefit of the negative inference about the complainant\u2019s credibility that historically accompanies the victim of a sexual assault\u2019s failure to immediately report the abuse, he must raise it or suffer the consequences of having the judge instruct the jury not to consider it.\nIn light of the effect of \u00a7 3105, the need for the evidence in question in the Commonwealth\u2019s case-in-chief is minimal. Admittedly, the probative value must still be weighed against the prejudicial effect of the proffered evidence. See Billa, supra. The challenged evidence of prior crimes of violence is severely prejudicial. The impact of prior crimes, particularly violent ones, on a trial for a separate offense is well-settled. As we stated in Commonwealth v. Bryant, 515 Pa. 473, 476, 530 A.2d 83, 85 (1987) (citing Commonwealth v. Spruill, 480 Pa. 601, 606, 391 A.2d 1048, 1050 (1978)), \"... evidence of prior criminal activity on the part of the accused is so highly prejudicial in its effect upon the jury as to be equaled only by an actual confession in its impact on the deliberative process.\u201d As the majority notes, \u201c \u2018unfair prejudice\u2019 means the tendency to suggest a decision on an improper basis or to divert the jury\u2019s attention away from its duty of weighing the evidence impartially.\u201d Majority Op. at 366, 925 A.2d at 141, (citing Pa.R.E. 403 cmt.). Unquestionably, the inherent prejudice involved with prior crimes, including the acts of violence involved here, will improperly influence the jury and divert its attention, particularly where the defense chooses to forgo any challenge to the victim\u2019s failure to promptly report the alleged abuse. This would be even more so where the judge instructs the jury that the Commonwealth need not prove, or explain, anything with regard to the issue to sustain a conviction. Thus, I conclude that the prejudicial impact of the proffered evidence here outweighs its minimal probative value.\nTo be clear, the above analysis is applicable only to the Commonwealth\u2019s presentation, in its case-in-chief, of highly prejudicial evidence that is unrelated to the charged crimes. Where a defendant raises the issue of why the alleged victim failed to report the incident in a more timely manner, the circumstances change and the Commonwealth\u2019s need to explain the delay escalates to the point where introduction of the evidence on rebuttal will outweigh its prejudicial value. However, until such an attack is lodged, to ensure a fair trial, I would hold that the evidence is inadmissible. Therefore, I dissent.\n. 18 Pa.C.S. \u00a7 2702.",
+        "type": "dissent",
+        "author": "Justice BALDWIN"
+      }
+    ],
+    "attorneys": [
+      "Owen W. Larrabee, Esq., Karl Baker, Esq., Defender Association of Philadelphia, Philadelphia, for Thomas Dillon.",
+      "Hugh J. Burns, Jr., Esq., Philadelphia District Attorney\u2019s Office, for Commonwealth of Pennsylvania.",
+      "Stuart B. Suss, Esq., Amy Zapp, Esq., Office of the Attorney General, for Attorney General of Pennsylvania."
+    ],
+    "corrections": "",
+    "head_matter": "925 A.2d 131\nCOMMONWEALTH of Pennsylvania, Appellee, v. Thomas DILLON, Appellant.\nSupreme Court of Pennsylvania.\nArgued March 1, 2006.\nDecided June 26, 2007.\nOwen W. Larrabee, Esq., Karl Baker, Esq., Defender Association of Philadelphia, Philadelphia, for Thomas Dillon.\nHugh J. Burns, Jr., Esq., Philadelphia District Attorney\u2019s Office, for Commonwealth of Pennsylvania.\nStuart B. Suss, Esq., Amy Zapp, Esq., Office of the Attorney General, for Attorney General of Pennsylvania.\nBEFORE: CAPPY, C.J, and CASTILLE, NEWMAN, SAYLOR, EAKIN, BAER and BALDWIN, JJ."
+  },
+  "file_name": "0351-01",
+  "first_page_order": 403,
+  "last_page_order": 428
+}

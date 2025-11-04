@@ -1,0 +1,814 @@
+{
+  "id": 12519803,
+  "name": "TENNESSEE CLEAN WATER NETWORK ; Tennessee Scenic Rivers Association, Plaintiffs-Appellees, v. TENNESSEE VALLEY AUTHORITY, Defendant-Appellant.",
+  "name_abbreviation": "Tenn. Clean Water Network v. Tenn. Valley Auth.",
+  "decision_date": "2019-01-17",
+  "docket_number": "No. 17-6155",
+  "first_page": "592",
+  "last_page": "603",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "913 F.3d 592"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "6th Cir.",
+    "id": 21296,
+    "name": "United States Court of Appeals for the Six Circuit"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "599 F.2d 368",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        489368
+      ],
+      "year": 1979,
+      "pin_cites": [
+        {
+          "page": "373",
+          "parenthetical": "\"[T]he concept of a point source was designed to further [the CWA's regulatory] scheme by embracing the broadest possible definition of any identifiable conveyance from which pollutants might enter the waters of the United States.\""
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/599/0368-01"
+      ]
+    },
+    {
+      "cite": "141 F.Supp.3d 428",
+      "category": "reporters:federal",
+      "reporter": "F. Supp. 3d",
+      "case_ids": [
+        4227114
+      ],
+      "year": 2015,
+      "pin_cites": [
+        {
+          "page": "444",
+          "parenthetical": "quoting Dague, 935 F.2d at 1354-55 "
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f-supp-3d/141/0428-01"
+      ]
+    },
+    {
+      "cite": "54 F.Supp.2d 976",
+      "category": "reporters:federal",
+      "reporter": "F. Supp. 2d",
+      "case_ids": [
+        11542992
+      ],
+      "year": 1999,
+      "pin_cites": [
+        {
+          "page": "980",
+          "parenthetical": "citing Dague, 935 F.2d at 1354-55 "
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f-supp-2d/54/0976-01"
+      ]
+    },
+    {
+      "cite": "305 F.3d 943",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        11392154
+      ],
+      "year": 2002,
+      "pin_cites": [
+        {
+          "page": "955",
+          "parenthetical": "quoting Dague, 935 F.2d at 1354-55 "
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/305/0943-01"
+      ]
+    },
+    {
+      "cite": "505 U.S. 557",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        1481026
+      ],
+      "weight": 3,
+      "year": 1992,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/505/0557-01"
+      ]
+    },
+    {
+      "cite": "935 F.2d 1343",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        10541449
+      ],
+      "weight": 4,
+      "year": 1991,
+      "pin_cites": [
+        {
+          "page": "1354-55"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/935/1343-01"
+      ]
+    },
+    {
+      "cite": "575 F.3d 199",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        4034532
+      ],
+      "year": 2009,
+      "pin_cites": [
+        {
+          "page": "219",
+          "parenthetical": "quoting Dague v. City of Burlington, 935 F.2d 1343, 1354-55 (2d Cir. 1991), rev'd on other grounds , 505 U.S. 557, 112 S.Ct. 2638, 120 L.Ed.2d 449 (1992) "
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/575/0199-01"
+      ]
+    },
+    {
+      "cite": "691 F.3d 821",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        3509724
+      ],
+      "year": 2012,
+      "pin_cites": [
+        {
+          "page": "833"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/691/0821-01"
+      ]
+    },
+    {
+      "cite": "903 F.3d 403",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        12518550
+      ],
+      "weight": 4,
+      "year": 2018,
+      "pin_cites": [
+        {
+          "page": "411"
+        },
+        {
+          "page": "410",
+          "parenthetical": "quoting Webster's Third New International Dictionary 499 (1961) "
+        },
+        {
+          "page": "412-13"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/903/0403-01"
+      ]
+    },
+    {
+      "cite": "250 F.3d 264",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        11096259
+      ],
+      "weight": 2,
+      "year": 2001,
+      "pin_cites": [
+        {
+          "page": "266-67"
+        },
+        {
+          "page": "271-72"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/250/0264-01"
+      ]
+    },
+    {
+      "cite": "24 F.3d 962",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        10512022
+      ],
+      "year": 1994,
+      "pin_cites": [
+        {
+          "page": "965"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/24/0962-01"
+      ]
+    },
+    {
+      "cite": "75 Fed. Reg. 35,128",
+      "category": "reporters:federal",
+      "reporter": "Fed. Reg.",
+      "year": 2010,
+      "pin_cites": [
+        {
+          "page": "35,142",
+          "parenthetical": "\"The discharge of pollutants from CCR management units to waters of the United States are regulated under the National Pollutant Discharge Elimination System (NPDES) at 40 CFR Part 122, authorized by the Clean Water Act (CWA).\""
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "813 F.3d 265",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        4087565
+      ],
+      "year": 2016,
+      "pin_cites": [
+        {
+          "page": "273",
+          "parenthetical": "noting the general rule that \"courts should interpret contracts to avoid superfluous words\""
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/813/0265-01"
+      ]
+    },
+    {
+      "cite": "545 U.S. 967",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        8210237
+      ],
+      "weight": 4,
+      "year": 2005,
+      "pin_cites": [
+        {
+          "page": "980"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/545/0967-01"
+      ]
+    },
+    {
+      "cite": "467 U.S. 837",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6209106
+      ],
+      "weight": 5,
+      "year": 1984,
+      "pin_cites": [
+        {
+          "page": "844"
+        },
+        {
+          "page": "865-866"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/467/0837-01"
+      ]
+    },
+    {
+      "cite": "533 U.S. 218",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        9313070
+      ],
+      "weight": 3,
+      "year": 2001,
+      "pin_cites": [
+        {
+          "page": "229"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/533/0218-01"
+      ]
+    },
+    {
+      "cite": "42 U.S.C. \u00a7 6903",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "pin_cites": [
+        {
+          "page": "(27)"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "45 Fed. Reg. 33098",
+      "category": "reporters:federal",
+      "reporter": "Fed. Reg.",
+      "weight": 3,
+      "opinion_index": 0
+    },
+    {
+      "cite": "40 C.F.R. \u00a7 261.4",
+      "category": "laws:admin_compilation",
+      "reporter": "C.F.R.",
+      "weight": 6,
+      "pin_cites": [
+        {
+          "page": "(a)(2)"
+        },
+        {
+          "page": "(a)(2)"
+        },
+        {
+          "page": "(a)(2)"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "273 F.Supp.3d 775",
+      "category": "reporters:federal",
+      "reporter": "F. Supp. 3d",
+      "case_ids": [
+        12418341
+      ],
+      "year": 2017,
+      "pin_cites": [
+        {
+          "page": "826"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f-supp-3d/273/0775-01"
+      ]
+    },
+    {
+      "cite": "531 U.S. 457",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        9505769
+      ],
+      "weight": 3,
+      "year": 2001,
+      "pin_cites": [
+        {
+          "page": "468"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/531/0457-01"
+      ]
+    },
+    {
+      "cite": "138 S.Ct. 1612",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        12611962
+      ],
+      "weight": 2,
+      "year": 2018,
+      "pin_cites": [
+        {
+          "page": "1626-27",
+          "parenthetical": "quoting Whitman v. Am. Trucking Assns., Inc. , 531 U.S. 457, 468, 121 S.Ct. 903, 149 L.Ed.2d 1 (2001) "
+        },
+        {
+          "parenthetical": "quoting Whitman v. Am. Trucking Assns., Inc. , 531 U.S. 457, 468, 121 S.Ct. 903, 149 L.Ed.2d 1 (2001) "
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/s-ct/138/1612-01"
+      ]
+    },
+    {
+      "cite": "3 U.S.C. \u00a7 1362",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "(11)"
+        },
+        {
+          "parenthetical": "emphasis in original"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "4620 SC, 2005",
+      "category": "reporters:state",
+      "reporter": "S.C.",
+      "year": 2005,
+      "opinion_index": 0
+    },
+    {
+      "cite": "421 F.3d 1133",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        8937789
+      ],
+      "year": 2005,
+      "pin_cites": [
+        {
+          "page": "1137, 1141",
+          "parenthetical": "2.5 miles of tunnel separated the \"point source\" and \"navigable waters\""
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/421/1133-01"
+      ]
+    },
+    {
+      "cite": "438 F.Supp. 945",
+      "category": "reporters:federal",
+      "reporter": "F. Supp.",
+      "case_ids": [
+        3958627
+      ],
+      "year": 1976,
+      "pin_cites": [
+        {
+          "page": "946-947",
+          "parenthetical": "a municipal sewer system separated the \"point source\" and covered navigable waters"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f-supp/438/0945-01"
+      ]
+    },
+    {
+      "cite": "600 F.3d 180",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        4223110
+      ],
+      "year": 2010,
+      "pin_cites": [
+        {
+          "page": "188-89",
+          "parenthetical": "air"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/600/0180-01"
+      ]
+    },
+    {
+      "cite": "34 F.3d 114",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        10522274
+      ],
+      "year": 1994,
+      "pin_cites": [
+        {
+          "page": "118-19",
+          "parenthetical": "fields"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/34/0114-01"
+      ]
+    },
+    {
+      "cite": "33 U.S.C. \u00a7 1362",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "weight": 7,
+      "pin_cites": [
+        {
+          "page": "(12)(A)"
+        },
+        {
+          "page": "(12)(A)"
+        },
+        {
+          "page": "(12)(A)"
+        },
+        {
+          "page": "(12)(A)"
+        },
+        {
+          "page": "(14)"
+        },
+        {
+          "page": "(14)"
+        },
+        {
+          "page": "(14)",
+          "parenthetical": "emphasis added"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "33 U.S.C. \u00a7 1365",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "(a)"
+        },
+        {
+          "page": "(f)"
+        },
+        {
+          "page": "(a)"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "33 U.S.C. \u00a7\u00a7 1251",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "weight": 4,
+      "pin_cites": [
+        {
+          "page": "(a)"
+        },
+        {
+          "page": "(b)"
+        },
+        {
+          "page": "(a)"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "620 F.2d 41",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1372588
+      ],
+      "year": 1980,
+      "pin_cites": [
+        {
+          "page": "45",
+          "parenthetical": "holding \"gravity flow\" from miners' spoil piles is a point source"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/620/0041-01"
+      ]
+    },
+    {
+      "cite": "399 F.3d 486",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        1546929
+      ],
+      "year": 2005,
+      "pin_cites": [
+        {
+          "page": "510-11",
+          "parenthetical": "holding manure spread across fields is a point source"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/399/0486-01"
+      ]
+    },
+    {
+      "cite": "886 F.3d 737",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        12516480,
+        12516479
+      ],
+      "weight": 6,
+      "year": 2018,
+      "pin_cites": [
+        {
+          "page": "746",
+          "parenthetical": "\"This case is no different-the effluent comes 'from' the four wells and travels 'through' them before entering navigable waters. It just also travels through groundwater before entering the Pacific Ocean.\" (citation omitted) "
+        },
+        {
+          "page": "745-49"
+        },
+        {
+          "page": "749"
+        },
+        {
+          "page": "748"
+        },
+        {
+          "page": "749"
+        },
+        {
+          "page": "745-49"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/886/0737-02",
+        "/f3d/886/0737-01"
+      ]
+    },
+    {
+      "cite": "969 F.2d 187",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        10514248
+      ],
+      "year": 1992,
+      "pin_cites": [
+        {
+          "page": "194"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/969/0187-01"
+      ]
+    },
+    {
+      "cite": "547 U.S. 715",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        3275930
+      ],
+      "weight": 12,
+      "year": 2006,
+      "pin_cites": [
+        {
+          "page": "743",
+          "parenthetical": "plurality"
+        },
+        {
+          "parenthetical": "plurality"
+        },
+        {
+          "parenthetical": "plurality"
+        },
+        {
+          "page": "743"
+        },
+        {
+          "page": "745"
+        },
+        {
+          "page": "744"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/547/0715-01"
+      ]
+    },
+    {
+      "cite": "887 F.3d 637",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        12516584
+      ],
+      "weight": 7,
+      "year": 2018,
+      "pin_cites": [
+        {
+          "page": "643-44",
+          "parenthetical": "describing 369,000 gallons of gasoline spilled from an underground pipeline that leaked through groundwater into creeks, lakes, and a river"
+        },
+        {
+          "page": "650",
+          "parenthetical": "\"[A] point source is the starting point or cause of a discharge under the CWA, but that starting point need not also convey the discharge directly to navigable waters.\""
+        },
+        {
+          "page": "649-51"
+        },
+        {
+          "page": "650",
+          "parenthetical": "footnote omitted"
+        },
+        {
+          "page": "652",
+          "parenthetical": "\"We do not hold that the CWA covers discharges to ground water itself. Instead, we hold only that an alleged discharge of pollutants, reaching navigable waters ... by means of ground water with a direct hydrological connection to such navigable waters, falls within the scope of the CWA.\""
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/887/0637-01"
+      ]
+    },
+    {
+      "cite": "905 F.3d 436",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        12518789
+      ],
+      "weight": 8,
+      "year": 2018,
+      "pin_cites": [
+        {
+          "page": "447"
+        },
+        {
+          "page": "444"
+        },
+        {
+          "page": "450-51",
+          "parenthetical": "Clay, J., dissenting"
+        },
+        {
+          "page": "445"
+        },
+        {
+          "page": "446",
+          "parenthetical": "citation omitted"
+        },
+        {
+          "page": "447"
+        },
+        {
+          "parenthetical": "Clay, J., dissenting"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/905/0436-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 1680,
+    "char_count": 39720,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.2591624067657999
+    },
+    "sha256": "88365cd9f5c08fd243646a0d1ce067dc4f86b4cad60f97ea2213727fe2494ed1",
+    "simhash": "1:9012493defed25de",
+    "word_count": 6310
+  },
+  "last_updated": "2024-02-27T18:46:17.308091+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "file_name": "0592-01",
+  "first_page_order": 592,
+  "last_page_order": 603
+}

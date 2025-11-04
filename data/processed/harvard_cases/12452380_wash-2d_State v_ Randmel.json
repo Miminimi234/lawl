@@ -1,0 +1,78 @@
+{
+  "id": 12452380,
+  "name": "State, Respondent, v. Randmel, Petitioner",
+  "name_abbreviation": "State v. Randmel",
+  "decision_date": "2017-03-29",
+  "docket_number": "No. 93965-9",
+  "first_page": "1028",
+  "last_page": "1028",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "187 Wash. 2d 1028"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Wash.",
+    "id": 9029,
+    "name": "Washington Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 38,
+    "name_long": "Washington",
+    "name": "Wash."
+  },
+  "cites_to": [
+    {
+      "cite": "196 Wn. App. 1055",
+      "category": "reporters:state",
+      "reporter": "Wash. App.",
+      "case_ids": [
+        12461816,
+        12461817,
+        12461814,
+        12461815
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-app/196/1055-03",
+        "/wash-app/196/1055-04",
+        "/wash-app/196/1055-01",
+        "/wash-app/196/1055-02"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 28,
+    "char_count": 191,
+    "ocr_confidence": 0.852,
+    "sha256": "23824c984b8355dbed83569d36e2f51ced471f8b01bb8e0fda01caa96918379e",
+    "simhash": "1:0dd164b3016160d8",
+    "word_count": 31
+  },
+  "last_updated": "2024-02-27T20:27:34.476040+00:00",
+  "provenance": {
+    "date_added": "2019-05-21",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "State, Respondent, v. Randmel, Petitioner,"
+    ],
+    "opinions": [
+      {
+        "text": "Petition for review of a decision of the Court of Appeals, No. 73531-4-I, November 14, 2016, 196 Wn. App. 1055. Denied March 29, 2017.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "State, Respondent, v. Randmel, Petitioner,\nNo. 93965-9."
+  },
+  "file_name": "1028-06",
+  "first_page_order": 996,
+  "last_page_order": 996
+}

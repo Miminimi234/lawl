@@ -1,0 +1,78 @@
+{
+  "id": 12452305,
+  "name": "State, Respondent, v. Ram, Petitioner",
+  "name_abbreviation": "State v. Ram",
+  "decision_date": "2017-03-08",
+  "docket_number": "No. 93773-7",
+  "first_page": "1019",
+  "last_page": "1019",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "187 Wash. 2d 1019"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Wash.",
+    "id": 9029,
+    "name": "Washington Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 38,
+    "name_long": "Washington",
+    "name": "Wash."
+  },
+  "cites_to": [
+    {
+      "cite": "195 Wn. App. 1015",
+      "category": "reporters:state",
+      "reporter": "Wash. App.",
+      "case_ids": [
+        12454316,
+        12454317,
+        12454318,
+        12454319
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-app/195/1015-01",
+        "/wash-app/195/1015-02",
+        "/wash-app/195/1015-03",
+        "/wash-app/195/1015-04"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 28,
+    "char_count": 182,
+    "ocr_confidence": 0.853,
+    "sha256": "1cea907edb433e21a4cc38150f0e84053afbea1d57a44e1d22bb00dfe2e30748",
+    "simhash": "1:14b9e6403d5d26a0",
+    "word_count": 31
+  },
+  "last_updated": "2024-02-27T20:27:34.476040+00:00",
+  "provenance": {
+    "date_added": "2019-05-21",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "State, Respondent, v. Ram, Petitioner,"
+    ],
+    "opinions": [
+      {
+        "text": "Petition for review of a decision of the Court of Appeals, No. 73759-7-I, July 25, 2016, 195 Wn. App. 1015. Denied March 8, 2017.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "State, Respondent, v. Ram, Petitioner,\nNo. 93773-7."
+  },
+  "file_name": "1019-02",
+  "first_page_order": 987,
+  "last_page_order": 987
+}

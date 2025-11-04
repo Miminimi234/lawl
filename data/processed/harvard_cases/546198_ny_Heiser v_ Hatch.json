@@ -1,0 +1,121 @@
+{
+  "id": 546198,
+  "name": "Henry A. Heiser et al., Respondents, v. Daniel B. Hatch et al., Appellants",
+  "name_abbreviation": "Heiser v. Hatch",
+  "decision_date": "1881-10-04",
+  "docket_number": "",
+  "first_page": "614",
+  "last_page": "615",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "86 N.Y. 614"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "N.Y.",
+    "id": 24653,
+    "name": "New York Court of Appeals"
+  },
+  "jurisdiction": {
+    "id": 1,
+    "name_long": "New York",
+    "name": "N.Y."
+  },
+  "cites_to": [
+    {
+      "cite": "2 Black, 418",
+      "category": "reporters:scotus_early",
+      "reporter": "Black",
+      "case_ids": [
+        3466098
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/us/67/0418-01"
+      ]
+    },
+    {
+      "cite": "1 Johns. 517",
+      "category": "reporters:state",
+      "reporter": "Johns.",
+      "case_ids": [
+        2128209
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/johns/1/0517-01"
+      ]
+    },
+    {
+      "cite": "34 N. H. 187",
+      "category": "reporters:state",
+      "reporter": "N.H.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "4 Wall. 657",
+      "category": "reporters:scotus_early",
+      "reporter": "Wall.",
+      "case_ids": [
+        6142688
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/us/71/0657-01"
+      ]
+    },
+    {
+      "cite": "72 N. Y. 65",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        532821
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny/72/0065-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 180,
+    "char_count": 1928,
+    "ocr_confidence": 0.505,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.019462138526222958
+    },
+    "sha256": "a45bd9bd59cf632c908d18169a36fbc005f339d6487d70690296b13455ba8263",
+    "simhash": "1:30c808ab0c401ebd",
+    "word_count": 321
+  },
+  "last_updated": "2024-02-27T20:42:53.385782+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Henry A. Heiser et al., Respondents, v. Daniel B. Hatch et al., Appellants."
+    ],
+    "opinions": [
+      {
+        "text": "Folger, Ch. J.,\nreads for affirmance of order of General Term, and for judgment absolute against appellants on stipulation.\nAll concur, except Danforth, J., not voting.\nOrder affirmed and judgment accordingly.",
+        "type": "majority",
+        "author": "Folger, Ch. J.,"
+      }
+    ],
+    "attorneys": [
+      "John E. Burrill for appellants.",
+      "Samuel B. Clarke for respondents."
+    ],
+    "corrections": "",
+    "head_matter": "Henry A. Heiser et al., Respondents, v. Daniel B. Hatch et al., Appellants.\nWhere a third person is responsible over to the defendant in an action, and \u25a0- is duly notified of the pendency of the suit, the judgment therein, if rendered without fraud or collusion, will be conclusive against him. It is not essential that he be requested to assume the defense.\n(Argued April 25, 1881;\ndecided October 4, 1881.)\nThis action was brought to recover back moneys paid by plaintiffs to defendants, on the purchase of four United States seven-thirty notes which plaintiffs alleged were counterfeits. The only evidence of the spurious character of the notes was the record of a judgment in an action brought by the United States government against plaintiffs, to recover back moneys paid to redeem the notes. Plaintiffs\u2019 evidence tended to show that defendants were notified of the claim of the government that the notes were forged; also that plaintiffs had been sued, and should look -to the defendants for repayment and for indemnity in case judgment should be rendered in favor of the government. ' Reid, that these facts, if found, would have made the judgment conclusive against the defendants as to the genuineness of the note, and that, therefore, a refusal to submit the question to the jury was error. The court laid down the rule as above, citing City of Rochester v. Montgomery (72 N. Y. 65), Robbins v. Chicago (4 Wall. 657), Littleton v. Richardson (34 N. H. 187), Blasdale v. Babcock (1 Johns. 517), Chicago v. Robbins (2 Black, 418), Fake v. Smith (2 Ct. of App. Dec. 76).\nVarious other questions were disposed of on the facts and circumstances.\nJohn E. Burrill for appellants.\nSamuel B. Clarke for respondents."
+  },
+  "file_name": "0614-02",
+  "first_page_order": 640,
+  "last_page_order": 641
+}

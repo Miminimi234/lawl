@@ -1,0 +1,96 @@
+{
+  "id": 4204925,
+  "name": "Julius W. DODSON, Petitioner v. Montgomery County District Court Administrator Michael R. KEHS, Montgomery County Clerk of Courts Ann Thornburg Weiss, Respondents",
+  "name_abbreviation": "Dodson v. Kehs",
+  "decision_date": "2011-11-01",
+  "docket_number": "No. 935 MAL 2010",
+  "first_page": "321",
+  "last_page": "321",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "612 Pa. 321"
+    },
+    {
+      "type": "parallel",
+      "cite": "30 A.3d 1104"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "19 A.3d 1047",
+      "category": "reporters:state_regional",
+      "reporter": "A.3d",
+      "case_ids": [
+        4202824,
+        7283275
+      ],
+      "year": 2011,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/610/0365-01",
+        "/a3d/19/1047-01"
+      ]
+    },
+    {
+      "cite": "610 Pa. 365",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        4202824
+      ],
+      "year": 2011,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/610/0365-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 63,
+    "char_count": 541,
+    "ocr_confidence": 0.697,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.13862371898902215
+    },
+    "sha256": "4f3435be56e161b21480694f20b0654d8b1aecfa738c01a41be824d834dd7198",
+    "simhash": "1:7dfc5e8783214cbb",
+    "word_count": 88
+  },
+  "last_updated": "2024-02-27T21:06:01.025246+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Julius W. DODSON, Petitioner v. Montgomery County District Court Administrator Michael R. KEHS, Montgomery County Clerk of Courts Ann Thornburg Weiss, Respondents."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nPER CURIAM.\nAND NOW, this 1st day of November, 2011, the Petition for Allowance of Appeal is hereby GRANTED. The order of the Commonwealth Court is REVERSED and the matter is REMANDED to the Commonwealth Court for a determination of the merits. See Richardson v. Peters et. al., 610 Pa. 365, 19 A.3d 1047 (2011).",
+        "type": "majority",
+        "author": "PER CURIAM."
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "30 A.3d 1104\nJulius W. DODSON, Petitioner v. Montgomery County District Court Administrator Michael R. KEHS, Montgomery County Clerk of Courts Ann Thornburg Weiss, Respondents.\nSupreme Court of Pennsylvania.\nNov. 1, 2011."
+  },
+  "file_name": "0321-01",
+  "first_page_order": 365,
+  "last_page_order": 365
+}

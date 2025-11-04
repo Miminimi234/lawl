@@ -1,0 +1,910 @@
+{
+  "id": 10522041,
+  "name": "Herbert F. McGILL, Plaintiff-Appellee/Cross-Appellant, v. Jack R. DUCKWORTH, et al., Defendants-Appellants/Cross-Appellees",
+  "name_abbreviation": "McGill v. Duckworth",
+  "decision_date": "1991-09-17",
+  "docket_number": "Nos. 90-1845, 90-1945",
+  "first_page": "344",
+  "last_page": "355",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "944 F.2d 344"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "7th Cir.",
+    "id": 9010,
+    "name": "United States Court of Appeals for the Seventh Circuit"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "426 F.2d 651",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        2247129
+      ],
+      "pin_cites": [
+        {
+          "page": "656"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/426/0651-01"
+      ]
+    },
+    {
+      "cite": "562 F.2d 1345",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        885894
+      ],
+      "pin_cites": [
+        {
+          "page": "1361"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/562/1345-01"
+      ]
+    },
+    {
+      "cite": "937 F.2d 324",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        10523024
+      ],
+      "pin_cites": [
+        {
+          "page": "329"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/937/0324-01"
+      ]
+    },
+    {
+      "cite": "111 S.Ct. 2123",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        1107845
+      ],
+      "weight": 2,
+      "year": 1991,
+      "pin_cites": [
+        {
+          "page": "2134"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/501/0032-01"
+      ]
+    },
+    {
+      "cite": "505 N.E.2d 811",
+      "category": "reporters:state_regional",
+      "reporter": "N.E.2d",
+      "case_ids": [
+        11033366
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "813-14"
+        },
+        {
+          "page": "814"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ne2d/505/0811-01"
+      ]
+    },
+    {
+      "cite": "486 N.E.2d 16",
+      "category": "reporters:state_regional",
+      "reporter": "N.E.2d",
+      "case_ids": [
+        11025274
+      ],
+      "pin_cites": [
+        {
+          "page": "18"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ne2d/486/0016-01"
+      ]
+    },
+    {
+      "cite": "552 N.E.2d 488",
+      "category": "reporters:state_regional",
+      "reporter": "N.E.2d",
+      "case_ids": [
+        10960541
+      ],
+      "pin_cites": [
+        {
+          "page": "497-98"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ne2d/552/0488-01"
+      ]
+    },
+    {
+      "cite": "379 N.E.2d 1004",
+      "category": "reporters:state_regional",
+      "reporter": "N.E.2d",
+      "pin_cites": [
+        {
+          "page": "1007"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "177 Ind.App. 403",
+      "category": "reporters:state",
+      "reporter": "Ind. App.",
+      "case_ids": [
+        1501500
+      ],
+      "pin_cites": [
+        {
+          "page": "407"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ind-app/177/0403-01"
+      ]
+    },
+    {
+      "cite": "552 N.E.2d 500",
+      "category": "reporters:state_regional",
+      "reporter": "N.E.2d",
+      "case_ids": [
+        10960764
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "502"
+        },
+        {
+          "page": "502-03"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ne2d/552/0500-01"
+      ]
+    },
+    {
+      "cite": "504 N.E.2d 552",
+      "category": "reporters:state_regional",
+      "reporter": "N.E.2d",
+      "case_ids": [
+        11016721
+      ],
+      "weight": 4,
+      "pin_cites": [
+        {
+          "page": "554-55"
+        },
+        {
+          "page": "555"
+        },
+        {
+          "page": "555-56"
+        },
+        {
+          "page": "555-56",
+          "parenthetical": "summary judgment against baseball player who collided with another player during practice"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ne2d/504/0552-01"
+      ]
+    },
+    {
+      "cite": "57 N.E.2d 581",
+      "category": "reporters:state_regional",
+      "reporter": "N.E.2d",
+      "weight": 3,
+      "year": 1944,
+      "pin_cites": [
+        {
+          "page": "583"
+        },
+        {
+          "page": "583"
+        },
+        {
+          "page": "583-84",
+          "parenthetical": "plaintiff was driven into remote area during snowstorm before driver started driving dangerously and crashed"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "223 Ind. 16",
+      "category": "reporters:state",
+      "reporter": "Ind.",
+      "case_ids": [
+        1697683
+      ],
+      "weight": 2,
+      "year": 1944,
+      "pin_cites": [
+        {
+          "page": "22-23"
+        },
+        {
+          "page": "22"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ind/223/0016-01"
+      ]
+    },
+    {
+      "cite": "544 N.E.2d 484",
+      "category": "reporters:state_regional",
+      "reporter": "N.E.2d",
+      "case_ids": [
+        10929957
+      ],
+      "weight": 5,
+      "pin_cites": [
+        {
+          "page": "486"
+        },
+        {
+          "page": "486"
+        },
+        {
+          "page": "487"
+        },
+        {
+          "page": "487"
+        },
+        {
+          "page": "487"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ne2d/544/0484-01"
+      ]
+    },
+    {
+      "cite": "307 N.E.2d 501",
+      "category": "reporters:state_regional",
+      "reporter": "N.E.2d",
+      "pin_cites": [
+        {
+          "page": "505"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "159 Ind.App. 456",
+      "category": "reporters:state",
+      "reporter": "Ind. App.",
+      "case_ids": [
+        1380328
+      ],
+      "pin_cites": [
+        {
+          "page": "462"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ind-app/159/0456-01"
+      ]
+    },
+    {
+      "cite": "369 N.E.2d 936",
+      "category": "reporters:state_regional",
+      "reporter": "N.E.2d",
+      "pin_cites": [
+        {
+          "page": "939"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "174 Ind.App. 638",
+      "category": "reporters:state",
+      "reporter": "Ind. App.",
+      "case_ids": [
+        1496173
+      ],
+      "pin_cites": [
+        {
+          "page": "642"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ind-app/174/0638-01"
+      ]
+    },
+    {
+      "cite": "785 F.2d 184",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1565358
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "189-91"
+        },
+        {
+          "page": "189"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/785/0184-01"
+      ]
+    },
+    {
+      "cite": "919 F.2d 1223",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1245064
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "1226-29"
+        },
+        {
+          "page": "1228"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/919/1223-01"
+      ]
+    },
+    {
+      "cite": "111 S.Ct. 1859",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        6223686
+      ],
+      "weight": 2,
+      "year": 1991,
+      "pin_cites": [
+        {
+          "page": "1866",
+          "parenthetical": "reiterating that for constitutional purposes a state actor does not \"intend\" anticipated but unwelcome consequences of acts undertaken for other reasons"
+        },
+        {
+          "parenthetical": "reiterating that for constitutional purposes a state actor does not \"intend\" anticipated but unwelcome consequences of acts undertaken for other reasons"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/500/0352-01"
+      ]
+    },
+    {
+      "cite": "937 F.2d 1340",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        10531044
+      ],
+      "year": 1991,
+      "pin_cites": [
+        {
+          "parenthetical": "same principle applied to suicide"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/937/1340-01"
+      ]
+    },
+    {
+      "cite": "840 F.2d 741",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        10546618,
+        10546644
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/840/0741-01",
+        "/f2d/840/0741-02"
+      ]
+    },
+    {
+      "cite": "825 F.2d 792",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        10548792
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/825/0792-01"
+      ]
+    },
+    {
+      "cite": "670 F.2d 737",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1156519
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/670/0737-01"
+      ]
+    },
+    {
+      "cite": "940 F.2d 233",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        10522100
+      ],
+      "pin_cites": [
+        {
+          "page": "238-41"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/940/0233-01"
+      ]
+    },
+    {
+      "cite": "831 F.2d 700",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1768106
+      ],
+      "pin_cites": [
+        {
+          "page": "702"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/831/0700-01"
+      ]
+    },
+    {
+      "cite": "837 F.2d 789",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1773083
+      ],
+      "pin_cites": [
+        {
+          "page": "794-96"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/837/0789-01"
+      ]
+    },
+    {
+      "cite": "862 F.2d 646",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1825467
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "649-50"
+        },
+        {
+          "page": "647-48"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/862/0646-01"
+      ]
+    },
+    {
+      "cite": "894 F.2d 218",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        10529606
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "223-24"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/894/0218-01"
+      ]
+    },
+    {
+      "cite": "780 F.2d 645",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1531408
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "652-53"
+        },
+        {
+          "page": "653"
+        },
+        {
+          "page": "652-53"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/780/0645-01"
+      ]
+    },
+    {
+      "cite": "839 F.2d 392",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        10544005
+      ],
+      "pin_cites": [
+        {
+          "page": "395"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/839/0392-01"
+      ]
+    },
+    {
+      "cite": "897 F.2d 896",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        10535815
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/897/0896-01"
+      ]
+    },
+    {
+      "cite": "761 F.2d 335",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        29496
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "339"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/761/0335-01"
+      ]
+    },
+    {
+      "cite": "442 U.S. 256",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        1532186
+      ],
+      "weight": 3,
+      "year": 1979,
+      "pin_cites": [
+        {
+          "page": "279"
+        },
+        {
+          "page": "2296"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/442/0256-01"
+      ]
+    },
+    {
+      "cite": "475 U.S. 312",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6202378
+      ],
+      "weight": 4,
+      "year": 1986,
+      "pin_cites": [
+        {
+          "page": "321"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/475/0312-01"
+      ]
+    },
+    {
+      "cite": "111 S.Ct. 2321",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        1107993
+      ],
+      "weight": 4,
+      "year": 1991,
+      "pin_cites": [
+        {
+          "page": "2325"
+        },
+        {
+          "page": "2324-26"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/501/0294-01"
+      ]
+    },
+    {
+      "cite": "474 U.S. 344",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6205124
+      ],
+      "weight": 4,
+      "year": 1986,
+      "pin_cites": [
+        {
+          "page": "348"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/474/0344-01"
+      ]
+    },
+    {
+      "cite": "429 U.S. 97",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        7354
+      ],
+      "weight": 3,
+      "year": 1976,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/429/0097-01"
+      ]
+    },
+    {
+      "cite": "847 F.2d 1211",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1778442
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "1218-20"
+        },
+        {
+          "page": "1219"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/847/1211-01"
+      ]
+    },
+    {
+      "cite": "489 U.S. 189",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        12031841
+      ],
+      "weight": 3,
+      "year": 1989,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/489/0189-01"
+      ]
+    },
+    {
+      "cite": "42 U.S.C. \u00a7 1988",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "726 F.Supp. 1144",
+      "category": "reporters:federal",
+      "reporter": "F. Supp.",
+      "case_ids": [
+        6051958
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "1151"
+        },
+        {
+          "page": "1157-58"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f-supp/726/1144-01"
+      ]
+    },
+    {
+      "cite": "42 U.S.C. \u00a7 1983",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "460 N.E.2d 1241",
+      "category": "reporters:state_regional",
+      "reporter": "N.E.2d",
+      "case_ids": [
+        11045353
+      ],
+      "year": 1984,
+      "pin_cites": [
+        {
+          "page": "1243"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/ne2d/460/1241-01"
+      ]
+    },
+    {
+      "cite": "486 N.E.2d 16",
+      "category": "reporters:state_regional",
+      "reporter": "N.E.2d",
+      "case_ids": [
+        11025274
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/ne2d/486/0016-01"
+      ]
+    },
+    {
+      "cite": "552 N.E.2d 500",
+      "category": "reporters:state_regional",
+      "reporter": "N.E.2d",
+      "case_ids": [
+        10960764
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/ne2d/552/0500-01"
+      ]
+    },
+    {
+      "cite": "544 N.E.2d 484",
+      "category": "reporters:state_regional",
+      "reporter": "N.E.2d",
+      "case_ids": [
+        10929957
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "486"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/ne2d/544/0484-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 1798,
+    "char_count": 42432,
+    "ocr_confidence": 0.753,
+    "pagerank": {
+      "raw": 1.0026549005500704e-06,
+      "percentile": 0.9828074918653559
+    },
+    "sha256": "441586c42ed19adde396199fc569730bbc35a8590625d5773bed1daa745d0a1f",
+    "simhash": "1:b889942dbdf01757",
+    "word_count": 6961
+  },
+  "last_updated": "2024-02-27T20:11:57.694237+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before WOOD, Jr., CUDAHY and EASTERBROOK, Circuit Judges."
+    ],
+    "parties": [
+      "Herbert F. McGILL, Plaintiff-Appellee/Cross-Appellant, v. Jack R. DUCKWORTH, et al., Defendants-Appellants/Cross-Appellees."
+    ],
+    "opinions": [
+      {
+        "text": "EASTERBROOK, Circuit Judge.\nPrisons are dangerous places. Housing the most aggressive among us, they place violent people in close quarters. Those who have difficulty conforming to society\u2019s norms outside prison may find obedience no more attractive inside \u2014 and the threat of punishment for violence is diminished for one already serving a long term. Herbert McGill asks the federal courts to hold prison officials to answer for the injuries that their charges inflict on each other.\nI\nIn 1983 McGill shot and killed (and then robbed) David Anderson. McGill pleaded guilty to voluntary manslaughter and robbery. He is serving a 27-year sentence in an Indiana prison. McGill was assigned to a cell in the general population and began to receive sexually suggestive notes and comments from other inmates. (McGill is slightly built, and word spread that the Anderson murder had homosexual overtones.) McGill asked to be moved to another institution; prison officials denied this request but moved McGill closer to the officers\u2019 station.\nMcGill was labelled a \u201csnitch\u201d after he testified against an inmate who assaulted a guard. He asked to be placed in protective custody after he was assaulted because of his testimony. Prison officials obliged; McGill was sent to one of the prison\u2019s segregation units, I Cellhouse (\u201cIDU\u201d). IDU houses not only inmates in need of protection but also those on disciplinary segregation status. These groups were placed in the same unit temporarily: another unit of the prison houses only inmates in protective custody, but there was no room at the time for McGill. Prisoners in IDU are locked in their cells at least 23 hours a day. They may spend the remaining hour as they wish. They may shower or go to the gym with other inmates. Alternatively they may arrange for individual time out of their cells (eliminating all risk of assault). The most timorous may choose to remain locked in their cells \u2019round the clock.\nSoon after McGill arrived in IDU, two inmates on disciplinary status \u2014 Ausley and Halliburton \u2014 began harassing him through the bars of his cell. McGill asked prison officials to remove him from IDU because it wasn\u2019t what he expected; he did not tell them about the inmates\u2019 threats. (McGill did not want the guards to return him to the general population. He wanted, rather, to go to a protective-custody-only unit. But the prison could not accommodate that request without bumping another protective-custody inmate into the general population or the IDU.) On his third day in IDU, McGill was leaving his cell for a shower when Ausley approached him and made sexually suggestive comments. McGill continued on to the showers. Aus-ley and Halliburton followed McGill down the range, threatening him as they walked along. On the way McGill encountered two correctional officers \u2014 Webb and Jones. He spoke with the two briefly about some property McGill was trying to locate but did not ask them for help. Ausley and three other men entered the shower room as McGill shampooed his hair. While the three stood guard at the door, brandishing homemade knives, Ausley raped McGill in the anus after gagging him with a washcloth. (The defendants denied that a rape occurred, but the jury resolved that question adversely to them.) Ausley and the others then escorted McGill back to his own cell.\nMcGill sued four prison administrators (Gordon Faulkner, Cloid Shuler, Jack Duck-worth, and Robert Bronnenberg) and four prison guards (Jeff Fisher, Jerry Jones, Jay Kirkpatrick, and Brian Webb) under 42 U.S.C. \u00a7 1983, maintaining that they violated the eighth amendment\u2019s prohibition of cruel and unusual punishment (applied to Indiana through the fourteenth amendment) and the due process clause of the fourteenth. He also presented a pendent claim of negligence under Indiana law. The case went to trial with six defendants after McGill dismissed guards Kirkpatrick and Fisher. At the close of McGill\u2019s evidence, the district court granted a directed verdict in favor of two administrators (Faulkner and Shuler) on all issues and a directed verdict in favor of the four remaining defendants on McGill\u2019s due process claim only. The jury returned a verdict in favor of McGill against Duckworth, Bron-nenberg, and Webb on both the eighth amendment and negligence claims, while absolving Jones on all claims against him. Special verdict forms revealed that the jury awarded $10,000 on each of the constitutional and tort claims, raising the question whether the jury meant to award a total of $10,000 or $20,000. The district judge decided that the jury intended one $10,000 award for McGill\u2019s damages, and entered judgment on the eighth amendment claim alone. He rejected defendants\u2019 objections to the jury instructions and their request for judgment notwithstanding the verdict. 726 F.Supp. 1144 (N.D.Ind.1989).\nII\nCourts properly start with common law and statutory issues, seeking to avoid decision on constitutional questions. Doing so initially looks attractive here, for the district judge concluded that the jury meant to return a single $10,000 award, which could be supported on either state-law or constitutional grounds. Two considerations, however, require us to consider both the common law and constitutional issues. First, McGill\u2019s cross-appeal contends that the jury really awarded him $20,000, half on the constitutional question. Second, McGill wants an award of attorneys\u2019 fees under 42 U.S.C. \u00a7 1988 as the prevailing party on the constitutional claim. Defendants argue, and McGill agrees, that an award of fees is not possible under state tort law. We must therefore address both constitutional and common law theories of liability, and we start with the eighth amendment.\nA\nAusley, who raped McGill, is not among the defendants. Indiana did not harm McGill; rather it failed to prevent harm. Although the Supreme Court has never held that the eighth amendment requires the state to protect prisoners from each other, the duty to do so is a logical correlative of the state\u2019s obligation to replace the means of self-protection among its wards. DeShaney v. Winnebago County Department of Social Services, 489 U.S. 189, 109 S.Ct. 998, 103 L.Ed.2d 249 (1989); Archie v. Racine, 847 F.2d 1211 (7th Cir.1988) (in banc). A state with a constitutional duty to attend to prisoners\u2019 medical problems, even though the problems are not of the state\u2019s creation, Estelle v. Gamble, 429 U.S. 97, 97 S.Ct. 285, 50 L.Ed.2d 251 (1976), has no lesser obligation to attend to the need for physical safety. Davidson v. Cannon, 474 U.S. 344, 106 S.Ct. 668, 88 L.Ed.2d 677 (1986), although decided under the due process clause of the fourteenth amendment, assumes that the prison system may not ignore prisoners\u2019 risk of harm at the hands of other inmates.\nA prisoner\u2019s interest in safety does not lead to absolute liability, however, any more than the state is the insurer of medical care for prisoners. Not only Estelle but also more recent cases such as Wilson v. Seiter, \u2014 U.S. -, 111 S.Ct. 2321, 115 L.Ed.2d 271 (1991), and Whitley v. Albers, 475 U.S. 312, 106 S.Ct. 1078, 89 L.Ed.2d 251 (1986), hold that the eighth amendment has a mental component. The eighth amendment addresses only punishment. Whether an injury inflicted by fellow prisoners, or the pain of a medical condition, is \u201cpunishment\u201d depends on the mental state of those who cause or fail to prevent it. If prison officials put McGill into the IDU so that a bigger inmate would have a better chance to rape him, then it is as if the officials inflicted that pain and humiliation themselves. Other mental states, including total indifference to risks, come so close to deliberateness that courts treat them alike. Thus judges speak, as in Estelle and Archie, of \u201cdeliberate indifference\u201d or \u201crecklessness\u201d as the functional equivalent of intent. Although there are shadings of meaning here, total unconcern for a prisoner\u2019s welfare\u2014coupled with serious risks\u2014 is the functional equivalent of wanting harm to come to the prisoner.\nOnce we equate \u201crecklessness\u201d with intent, however, it becomes important to give recklessness a definition that separates \u201cpunishment\u201d (with which alone the eighth amendment is concerned) from the unwelcome injuries that occur when so many violent persons are locked up together. Wardens and guards do not desire these injuries, do not \u201cintend\u201d them in any useful sense. And although one could say that the state as an entity knows that intra-inmate violence is inevitable and intends the natural and probable consequences of its acts in confining prisoners, the state as entity is not a defendant here\u2014and even if it were could not be held liable on this theory. In constitutional law there is a gulf between what a government intends and what it knows will happen. A state \u201cintends\u201d a consequence when it acts because of thpt\u2019fffect; when it acts in spite of an effect'it does not intend that effect. Personnel Administrator of Massachusetts v. Feeney, 442 U.S. 256, 279, 99 S.Ct. 2282, 2296, 60 L.Ed.2d 870 (1979). Common law courts have given the term \u201creckless\u201d different meanings, depending on context, and these differences have consequences. We must select the meaning suited to the substantive constitutional provisions.\nThe instructions to the jury in this case came from Benson v. Cady, 761 F.2d 335 (7th Cir.1985). Benson defined recklessness as disregarding a substantial risk of danger that either is known or \u201cwould be apparent to a reasonable person\u201d in the defendant\u2019s position. 761 F.2d at 339. This language is a staple tort law definition of recklessness, drawn out of William Pros-ser, The Law of Torts \u00a7 34 (4th ed. 1971)\u2014 an objective standard, for it depends in part on what a \u201creasonable person\u201d would perceive. Some cases in this circuit have applied the tort law\u2019s objective approach to eighth amendment questions after prison guards failed to protect their charges from attack. E.g., Wilks v. Young, 897 F.2d 896 (7th Cir.1990); Richardson v. Penfold, 839 F.2d 392, 395 (7th Cir.1988).\nOther cases in this circuit take a different approach. Duckworth v. Franzen, 780 F.2d 645, 652-53 (7th Cir.1985), for example, asked how \u201crecklessness\u201d should be defined in the subjective sense that under Estelle (and lately Wilson and Whitley) pertains to the eighth amendment. Fran-zen looked to the criminal law, which typically uses subjective mental standards, and held that recklessness violates the eighth amendment only if the prison official had \u201cactual knowledge of impending harm easily preventable, so that a conscious, culpable refusal to prevent the harm can be inferred from the defendant\u2019s failure to prevent it.\u201d 780 F.2d at 653. Ordinary negligence and even \u201cgross negligence\u201d in the tort sense are not enough. Id. at 652-53. Whitley cited Franzen with approval, 475 U.S. at 321, 106 S.Ct. at 1085, as did Wilson v. Seiter, 111 S.Ct. at 2325; our in banc opinion in Archie extended its approach to cognate questions under the due process clauses. 847 F.2d at 1218-20. Several of our opinions stand with Franzen in applying the subjective standard of recklessness when guards have failed to protect prisoners from assault. E.g., Santiago v. Lane, 894 F.2d 218, 221 n. 7 (7th Cir.1990); Goka v. Bobbitt, 862 F.2d 646, 649-50 (7th Cir.1988); Walsh v. Mellas, 837 F.2d 789, 794-96 (7th Cir.1988); Campbell v. Greer, 831 F.2d 700, 702 (7th Cir.1987). Cf. Salazar v. Chicago, 940 F.2d 233, 238-41 (7th Cir.1991) (using the criminal law definition of recklessness to identify punishment of pretrial detainees).\nDecisions such as Benson, Richardson, and Wilks are hard to reconcile with decisions such as Franzen, Santiago, Goka, Walsh, and Campbell. The district judge recognized the conflict and gave the instruction he did because he deemed Richardson the prevailing rule. 726 F.Supp. at 1151. Our court has not added to the lists recently, but the Supreme Court\u2019s opinion in Wilson has substantial bearing, as we shall see.\nDebating the meaning of \u201crecklessness\u201d might be quibbling \u2014 so McGill argues \u2014 but is not. Prisoners are dangerous (that\u2019s why many are confined in the first place). Guards have no control over the temperament of the inmates they supervise, the design of the prisons, the placement of the prisoners, and the ratio of staff to inmates. Some level of brutality and sexual aggression among them is inevitable no matter what the guards do. Worse: because violence is inevitable unless all prisoners are locked in their cells 24 hours a day and sedated (a \u201csolution\u201d posing constitutional problems of its own) it will always be possible to say that the guards \u201cshould have known\u201d of the risk. Indeed they should, and do. Applied to a prison, the objective \u201cshould have known\u201d formula of tort law approaches absolute liability, rather a long distance from the Supreme Court\u2019s standards in Estelle and its offspring.\nAlthough the guards can influence the number of assaults, many of the levers that increase or decrease risk are manipulated by others. The size of prisons, the number of separate areas, and so on, are in the hands of the state. Legislatures decide how many prisons to build (and how many guards per prisoner to hire); architects design the buildings; judges fill them. Crowding is endemic, as taxpayers reluctant to foot the bill for increased space also clamor for longer sentences that may increase the prison population. Administrators in many states (Indiana among them) consequently are unable to house each inmate only with those of a similar status. A Herbert McGill will be small, young, la-belled as a snitch, and therefore at high risk no matter where he is placed \u2014 and the defendants, who know the risk unless they are unbelievably dense, had limited options in choosing his placement. The \u201cshould have known\u201d approach allows plaintiffs to tax employees of the prison system with the effects of circumstances beyond their control. It may be appropriate to require \u201cthe state\u201d (to personify a complex of persons and traditions) to bear these costs, so that it considers them when deciding how many prisons to build and whether to increase the sentences for crimes. However valuable this may be as a tort rule applied to the states, it has tenuous standing as an interpretation of the eighth amendment applied to guards and wardens.\nWhen deciding Davidson, a prison assault case under the due process clause, the Court made clear that failure to prevent aggression is actionable only if intentional. 474 U.S. at 348, 106 S.Ct. at 670. Wilson shows that shifting ground to the eighth amendment does not make it easier for the prisoner to recover. Wilson resolved the conflict between the objective and subjective understandings of recklessness in favor of Franzen\u2019s subjective standard. Wilson holds that only by demonstrating the defendants\u2019 mental state may a prisoner establish that unpleasant happenings are \u201cpunishment\u201d. In the process the Court rejected objective approaches like the one in Benson. The Supreme Court relied on our survey of the language and history of the \u201ccruel and unusual punishments\u201d clause in Franzen and concluded that, no matter how deplorable, prison conditions that are undesired are not \u201cpunishment\u201d. 111 S.Ct. at 2324-26. Wilson's understanding of intent traejc^our own in Archie, 847 F.2d at 1219, ''wfri'ch, ^explicitly adopted the subjective (criminal law) sense of recklessness. Franzen therefore represents the law of the circuit. : Contrary expressions in Benson, Wilks, and Richardson do not survive Wilson. See also Salazar (disapproving Kincaid, v. Rusk, 670 F.2d 737 (7th Cir.1982), the-par\u00e1\u00edl\u00e9l to Benson, Wilks, and Richardson for pretrial detainees).\nIt follows that the instructions to the jury were erroneous to \u00a1\u00dci&^tent they allowed the jury to find' the defendants liable if they \u201cshould have known\u201d that McGill was at risk. Defendants maintain that McGill would not prevail under the approach of Franzen, so that there is no point in remanding for a second trial. McGill had to show that the defendants had actual knowledge of the . threat Ausley posed, that the rape was readily preventable, but that instead of intervening the guards allowed Ausley to proceed. Proving (as the jury found McGill did) that the guards should have known of Ausley\u2019s threat is not enough. The jclefendants say that McGill had no evident to majke out his case under Franzen.\nA prisoner normally proves actual knowledge of impending harm by showing that he complained to prison officials about a specific threat to his safety. E.g., Santiago, 894 F.2d at 223-24; Goka, 862 F.2d at 647-48; Walsh, 837 F.2d at. 795-96, 798. McGill admits that he did hot complain: he testified that he never told any of the defendants that Ausley had threatened him. The only complaints McGill made to prison officials came while he was in the general population after being harassed as a snitch: he asked for protective custody and got it. Other circuits have held that failure to tell prison officials about threats is fatal and have dismissed such claims, at the pleading stage. See Ruefly v. Landon, 825 F.2d 792 (4th Cir.1987), and Blankenship v. Meachum, 840 F.2d 741 (10th Cir.1988). Cf. Bell v. Stigers, 937 F.2d 1340 (8th Cir. 1991) (same principle applied to suicide). These decisions are sound and require judgment for the defendants. McGill\u2019s is an easier case, for to the extent the defendants knew of threats they took immediate action to remove McGill from the general population. It makes no sense to infer that they wanted him humiliated, or didn\u2019t give a fig for his welfare, when they acted promptly to protect his safety. The eighth amendment does not guarantee success.\nMcGill tried to demonstrate the defendants\u2019 knowledge of an impending attack by showing that they knew he was a member of two groups that face a higher risk of assaults: (1) small, young prisoners, and (2) those in protective custody. The second strikes us as topsy-turvy. That McGill was in protective custody demonstrates that the defendants were trying to aid him, not that they intended his injury. McGill says that the defendants knew that putting small, young protective custody inmates in the same unit as disciplinary status inmates would lead to trouble. During the first three months of 1984 five violent incidents took place in the segregation unit, all involving inmates in protective custody. McGill then argues that \u201ccommon sense\u201d dictates that inmates under protective custody should not be placed with inmates on disciplinary status. This is a species of the \u201cshould have known\u201d approach \u2014 and it fixes liability on guards for prison housing arrangements that they cannot control. It shows vividly how McGill\u2019s analysis holds guards personally liable for the consequences of budgetary decisions made elsewhere. Inmates can be classified into innumerable groups such as \u201cyoung\u201d or \u201csmall\u201d. Half of all prisoners are smaller than average, and we may assume that they face higher risks. This hardly shows that the guards wanted injury to come to McGill, or did not care whether it did; it does not even show that McGill faced a substantial risk. The record does not show how many protective custody inmates passed through the IDU in the first quarter of 1984; we know that only five of what must be a much larger number were assaulted. Prisoners in protective custody are no saints themselves (McGill himself is in prison for killing another person in a rage). Inmates in protective custody may detest each other. McGill would have been at some risk anywhere.\nNothing in this record implies that the warden or guards put McGill in the IDU because of, rather than in spite of, the risk to him. The risk in the general population would have been greater, and evicting another inmate from the unit dedicated to protective custody, in order to make room there for McGill, would have shifted the incidence of risk without reducing risk to vulnerable inmates as a group. Cf. Hernandez v. New York, \u2014 U.S. -, 111 S.Ct. 1859, 1866, 114 L.Ed.2d 395 (1991) (reiterating that for constitutional purposes a state actor does not \u201cintend\u201d anticipated but unwelcome consequences of acts undertaken for other reasons). McGill does not dispute the defendants\u2019 submission that they would have liked to separate all protective custody inmates from all disciplinary inmates but could not because of lack of space and money \u2014 things that only the legislature can provide. McGill put in no evidence that some alternative strategy the defendants could have followed within their budget would have reduced the injury rate. And even if he had proved this, he would have established only negligence. The administrative defendants are entitled to judgment as a matter of law.\nBrian Webb presents a different situation. He was in charge of monitoring the shower area to protect the inmates from each other. Webb left his post without authorization and admitted at trial he was wrong. McGill\u2019s theory is that Webb left to take an inmate to the hospital. A prison log sheet shows that Webb signed out to the hospital at the time that McGill was assaulted. Why this is even negligence eludes us. It violated the prison\u2019s rules, to be sure, but under Estelle prisons must provide medical care for their inmates. An inmate with a problem requiring hospitalization takes priority. You can imagine the reaction if Webb had continued patrolling the shower while the other inmate\u2019s medical problem went unattended. Would Webb have had a good defense to the other inmate\u2019s eighth amendment suit that he had to remain on station, until relieved, lest mayhem break out in the shower? McGill introduced no evidence that Webb knew that McGill was about to be raped. (McGill admits that he spoke to Webb on his way to the shower and expressed no fear of an impending attack.) Is Webb to be held liable on the ground that he was supposed to know McGill\u2019s danger better than McGill himself? That would be the \u201cshould have known\u201d approach run riot.\nEstelle and subsequent cases equate \u201cdeliberate indifference\u201d with intent. This seeming oxymoron has given us, in company with other courts of appeals, fits. How do we simultaneously honor both the \u201cdeliberate\u201d and the \u201cindifference\u201d aspects? Criminal law suggests a way. Suspecting that something is true but shutting your eyes for fear of what you will learn satisfies scienter requirements. Going out of your way to avoid acquiring unwelcome knowledge is a species of intent. .See United States v. Giovannetti, 919 F.2d 1223, 1226-29 (7th Cir.1990); United States v. Ramsey, 785 F.2d 184, 189-91 (7th Cir.1986). Being an ostrich involves a level of knowledge sufficient for conviction of crimes requiring specific intent. Giovannetti, 919 F.2d at 1228; Ramsey, 785 F.2d at 189. Because it is sufficient for criminal liability it is sufficient for liability under the eighth amendment\u2019s subjective standard. But McGill did not pursue this avenue at trial; the jury was never given an \u201costrich\u201d instruction of the kind we discussed in Ramsey, and we need not speculate on where this possibility may take us tomorrow.\nB\nMcGill won a verdict on his state law negligence claim even though the district judge eventually entered judgment on the eighth amendment claim alone. McGill asks us to invoke the special verdict on negligence to support $10,000 in damages. Duckworth, Bronnenberg, and Webb argue there is insufficient evidence to allow a jury to deem them negligent, and that at all events McGill assumed the risk by leaving his cell and proceeding into the showers when he knew that Ausley and pals were on his heels.\nIndiana requires prison officials and guards to take reasonable precautions to preserve an inmate\u2019s health and safety. Johnson v. Bender, 174 Ind.App. 638, 642, 369 N.E.2d 936, 939 (3d Dist.1977); Roberts v. State, 159 Ind.App. 456, 462, 307 N.E.2d 501, 505 (2d Dist.1974). We may assume that the defendants breached this duty\u2014 Duckworth and Bronnenberg by failing to take greater care to see that disciplinary status inmates were separated from those in protective custody, Webb by leaving his post without authorization. Assuming negligence is a dubious step. Duckworth and Bronnenberg assert, without contradiction in the record, that any alternative housing arrangements within their budget would have been more dangerous for protective custody inmates. McGill points to no equally affordable option that would have been safer for inmates as a group, and McGill has no entitlement to be preferred over others. Nonetheless, we pass this by, as the defendants focus their energy on the question whether McGill assumed the risk of attack.\n\u201cIncurred risk\u201d (Indiana\u2019s mixture of contributory negligence and assumption of risk) is an affirmative defense on which the defendants bear the burden of proof. Get-N-Go, Inc. v. Markins, 544 N.E.2d 484, 486 (Ind.1989); Ridgway v. Yenny, 223 Ind. 16, 22-23, 57 N.E.2d 581, 583 (1944). Incurred risk bars the plaintiff from recovering anything even though the defendant was negligent. Ridgway, 223 Ind. at 22, 57 N.E.2d at 583. The Supreme Court of Indiana describes the defense as one that focuses on the plaintiff\u2019s actual knowledge of a specific risk and voluntary acceptance of that risk. Get-N-Go, 544 N.E.2d at 486; Beckett v. Clinton Prairie School Corp., 504 N.E.2d 552, 554-55 (Ind.1987). It requires looking at the plaintiff\u2019s \u201cstate of venturousness\u201d. Id. at 555.\nMcGill\u2019s lawyer probed his knowledge of the danger and acceptance of the risk. After establishing that Ausley and Halliburton had been threatening McGill since the day he took up residence in IDU, and that Ausley began to harass him immediately after he left his cell to take a shower, they had the following exchange:\nQ: Why did you still go in the shower if you were receiving these threats?\nA: Well, I figured ... when I went in the shower that ... since I had my shower things and [Ausley and the others] were by themselves, I didn\u2019t figure, you know, nothing would happen ....\nQ: Could you have gone back in your cell and closed the door?\nA: Yes.\nQ: Is there some reason you didn\u2019t do that?\nA: I don\u2019t know why.\nShortly thereafter McGill revealed that, with Ausley not far behind, he encountered Officers Jones and Webb on his way to the shower, spoke to them about some property that he was trying to locate, but said nothing about Ausley\u2019s threats.\nDisputes about knowledge and mental states \u2014 disputes, that is, of the kind the defense of incurred risk engenders\u2014 are classic questions of fact for resolution by the jury. See Mauller v. Columbus, 552 N.E.2d 500, 502 (Ind.App. 1st Dist.1990); Kroger Co. v. Haun, 177 Ind.App. 403, 407, 379 N.E.2d 1004, 1007 (2d Dist.1978). Still, an Indiana court may find incurred risk as a matter of law if the plaintiff\u2019s own evidence shows that he had actual knowledge of the specific risk and understood and appreciated the risk. Beckett, 504 N.E.2d at 555-56; Mauller, 552 N.E.2d at 502-03. Continued exposure to a known danger is incurred risk only if there is a \u201creasonable opportunity to escape from it\u201d, and the exposure was not the result of inducement that negates the element of voluntariness. Get-N-Go, 544 N.E.2d at 487. McGill relies on cases dealing with continued exposure by persons who have no safe way to escape. Get-N-Go presented such a problem. An elderly woman walked several steps into a parking lot before she discovered how icy it was. Faced with a choice of retreating or proceeding \u2014 both of which involved walking on ice \u2014 she chose to proceed and slipped. The Supreme Court of Indiana held that someone whose only way out of a pickle created by the defendants is to continue on through the hazard has no reasonable opportunity to escape from the dangerous condition and therefore does not incur the risk. 544 N.E.2d at 487. See also Ridgway, 57 N.E.2d at 583-84 (plaintiff was driven into remote area during snowstorm before driver started driving dangerously and crashed); Alexandria v. Allen, 552 N.E.2d 488, 497-98 (Ind.App.2d Dist.1990) (fireman drove broken fire truck when all others were broken too); Hollowell v. Midwest Smorgasbord, Inc., 486 N.E.2d 16, 18 (Ind.App. 1st Dist.1985) (plaintiff walked part way across wet floor before realizing the danger). But when the plaintiff\u2019s own evidence establishes that he knew of a specific risk and consciously proceeded despite the fact that he easily could have avoided the problem, Indiana treats him as incurring the risk. Mauller approved of summary judgment against a softball player who saw unsafe conditions around home plate on a softball field but slid into home anyway. 552 N.E.2d at 503-04. See also Beckett, 504 N.E.2d at 555-56 (summary judgment against baseball player who collided with another player during practice); St. Mary\u2019s Byzantine Church v. Mantich, 505 N.E.2d 811, 813-14 (Ind.App.3d Dist.1987) (reversing jury verdict for plaintiff who slipped on a steep ramp when there were other alternatives). The dividing line lies between cases where the plaintiff\u2019s alternatives are \u201cfraught with their own perils\u201d and those where the plaintiff has safe alternatives that would avoid the danger. St. Mary\u2019s, 505 N.E.2d at 814.\nIf this were a suit against Ausley and his confederates, McGill\u2019s failure to return to his cell or alert the guards would be no defense. No one surrenders his or her entitlement to bodily security by leaving home at night or entering an unsavory neighborhood. Rape is an intentional tort, and defenses such as contributory negligence, assumption of risk, and incurred risk do not apply to intentional torts. W. Page Keeton and others, Prosser & Keeton on Torts 462 (5th ed. 1984). So, too, these defenses often fall away when the defendant acts recklessly or wantonly. Ibid. But McGill sued his custodians, not the aggressors, and we have shown above that the custodians did not intentionally injure McGill. Under Indiana law a guard such as Webb is entitled to assume that the prisoners will exercise care for their own safety, and we are persuaded that the courts of Indiana would not require Webb (let alone the warden) to compensate McGill for injuries Ausley inflicted, after McGill passed Webb in silence.\nThis case lies closer to Beckett, St. Mary\u2019s, and Manlier than to cases such as Get-N-Go, Ridgway, and Hollowell. McGill knew, far better than his guards, of a risk of attack: Ausley had been making sexual threats since the day McGill arrived in IDU. McGill admitted he had easy means of avoidance: he could have retreated to his cell, locked the door, and waited to take his shower. Retreat did not imply that McGill had to give up showers, for he could have arranged for an individual shower period. He did neither; he chose to continue on to the showers, believing that \u201cnothing would happen\u201d. McGill had yet another chance to escape danger just before he entered the showers: he encountered Officers Webb and Jones on the way, but made not a peep about Ausley. McGill was not trapped in a situation with risks at every turn.\nMcGill calls attention to his testimony that after he came out of his cell, Ausley began pushing him toward the shower and threatening to throw him over the cell range if he resisted. The district court saw this as evidence that McGill\u2019s exposure to the risk was the result of \u201cinducement to continue despite the danger\u201d and did not constitute incurred risk. 726 F.Supp. at 1157-58, citing Get-N-Go, 544 N.E.2d at 487. But this testimony relates to what happened after McGill left his cell, saw Ausley heading his way making threats, and made the decision to take a shower anyway. McGill could have stayed in his cell or arranged for individual shower and recreation periods \u2014 and as we have emphasized, he could have alerted the guards he passed on the way. (A belief McGill kept his mouth shut as he passed Jones and Webb only because he feared immediate attack collides with McGill\u2019s own testimony that he does not know why he failed to alert the guards.) McGill\u2019s decision to accept the risk precludes blaming the guards and higher-ups in the prison system.\nIll\nMcGill raises three issues by cross-appeal. The first, his objection to the district court\u2019s decision to enter judgment for $10,-000 on the eighth amendment claim alone, is of no moment given our conclusion that he cannot recover under either theory. The other two issues require only brief comment.\nMcGill wanted to call three of the defendants (Faulkner, Shuler, and Jones) as witnesses. He says that he expected them to attend the trial because he had listed them as witnesses on several pretrial documents. One week before trial McGill learned the three did not plan to attend, and on the first day of trial he asked the district judge to order them to do so. Persons need not attend the proceedings just because they have been named as parties, so Judge Miller invited McGill to issue subpoenas to the three. McGill, who was represented by counsel, declined. He conceded (at trial and on appeal) that he could have procured subpoenas, but he says that he preferred to rely on Judge Miller\u2019s \u201cinherent power as a judge\u201d to compel defendants to attend trial.\nMcGill should not have resisted the court\u2019s repeated invitations to subpoena the three defendants. Fed.R.Civ.P. 45(a) provides a simple procedure: a litigant asks the clerk of the district court (not the district judge) to command someone to attend trial and give testimony. The judge has the power to enforce the subpoena if the witness opposes the demand to appear. Maybe McGill knew (or feared) that the three defendants were outside the court\u2019s subpoena power, which under Rule 45(e)(1) is limited to its district and a 100-mile radius around the courthouse. The record shows that Jerry Jones was working in California time of trial. Faulkner and Shuler no. longer worked for the Indiana prison system, but the record is silent on their domicile at the time of trial. The way to test whether a witness is beyond a federal court\u2019s power to hale him into court is to issue a subpoena under Rule 45(a). Although federal judges have some \u201cinherent powers\u201d, these are limited by statutes and rules. See Chambers v. NASCO, Inc., \u2014 U.S. -, 111 S.Ct. 2123, 2134, 115 L.Ed.2d 27 (1991). Relying on \u201cinherent powers\u201d to compel the attendance of a witness who is outside the court\u2019s subpoena jxnyer would make the restrictions in tRuKjP*45(e) meaningless. McGill chose not to subpoena the three, even after the judge insisted that this was his only recourse. The district judge was correct in refusing to order their appearance in the absence of a subpoena. Cf. United States v. Burton, 937 F.2d 324, 329 (7th Cir.1991); United States v. Taylor, 562 F.2d 1345, 1361 (2d Cir.1977); and Johnson v. United States, 426 F.2d 651, 656 (D.C.Cir.1970) (in banc), all dealing with the nearly identical provisions of Fed.R.Crim.P. 17. At all events, McGill was none too specific about the testimony he expected these witnesses to provide. He told Judge Miller only that they were \u201cnecessary\u201d and that he hoped to force them to \u201cimplicate themselves\u201d, but he did not explain why or how. It is no abuse of discretion to refuse to compel the attendance of a witness when the party requesting the order not only disdains proper procedures but also fails to explain why the testimony is needed.\nMcGill also says that he should have received a hearing before being reassigned from the general population to the disciplinaryv\u2019uhit. Yet McGill asked to be reassigned to a unit for greater protection. Indiana did not shortcut necessary procedures; it acceded to a request. The due process clause gives an opportunity for a hearing, which people can elect to forego. That the request is ill-starred is irrelevant to the question whether the state skimped on procedures. In the end McGill is repackaging his eighth amendment claim that he should have been sent to a protective-custody-only unit rather than the IDU. His problem is not that he was moved without a hearing, but that he did not like the destination. It is a complaint about the substance of the assignment, not the procedures (or lack of them) used to get him there. The defendants were entitled to a directed verdict on McGill\u2019s due process claim.\nOn the defendants\u2019 appeal, No. 90-1845, the judgment is reversed. On McGill\u2019s cross-appeal, No. 90-1945, the judgment is affirmed.",
+        "type": "majority",
+        "author": "EASTERBROOK, Circuit Judge."
+      },
+      {
+        "text": "CUDAHY, Circuit Judge,\nconcurring in part and dissenting in part.\nThe majority goes to wholly implausible lengths to overturn a jury verdict of negligence. It argues that McGill somehow voluntarily assumed the risk of rape by leaving his cell for the unexceptionable purpose of taking a shower and failing to run for home when an unsavory fellow prisoner popped up at his heels. I don\u2019t know what this approach to risk assumption in rape cases holds in store for multitudes of females innocently walking the streets or taking the sun on the beach. But it certainly is a novel (and unfashionable) approach.\nMcGill testified that, soon after he left his cell, Ausley began pushing him toward the shower and threatened to throw him over the cell range if he offered any resistance. The district court found, therefore, that McGill did not voluntarily incur the risk of rape but instead was induced to continue despite the danger. For under Indiana law, a plaintiff assumes the risk of a known danger only if there is a reasonable opportunity to escape from it and if the exposure to the risk was not itself the result of inducement negating voluntariness. In Get-N-Go, Inc. v. Markins, 544 N.E.2d 484 (Ind.1989), for example, an elderly woman took several steps into a parking lot before she realized how icy it was. Faced with the choice of retreating or proceeding, both of which presented the risk of falling on the ice, she chose to proceed and fell. See also Hollowell v. Midwest Smorgasbord, Inc., 486 N.E.2d 16 (Ind. App.1985) (no assumption of risk when plaintiff continued walking on wet floor after he had walked part way before realizing the danger).\nAttempting to distinguish Get-N-Go, the majority suggests that McGill possessed a number of alternatives: he could have retreated to his cell and locked the door as soon as he saw Ausley coming his way, he could have arranged in advance for an individual shower period or he could have alerted the prison guards to his danger. But the majority\u2019s perception of McGill\u2019s situation runs up against a stone wall of stark reality. For, as the majority opines (without contradiction from me), \u201cprisons are dangerous places.\u201d An inmate\u2019s decision to leave his cell is always fraught with peril. But certainly no inmate (no matter how \u201cattractive\u201d) assumes the risk of rape simply by leaving his cell when he knows other inmates lurk at large. The unsoundness of this proposition is revealed by extending it to heterosexual conduct in the world at large. Admittedly, this is a negligence action against a third party, not a suit against the rapist, but the burden of an exaggerated risk assumption doctrine upon rape victims in any such situation conflicts with the trend of the law.\nIn any event, the elderly woman in Get-N-Go could have refrained (as McGill is urged to do here) from leaving her home in inclement weather when she was well aware of the icy conditions outside. McGill\u2019s situation precisely parallels that of the plaintiff in Get-N-Go: once he left his cell to take a shower during the one-hour recreation period and discovered Ausley close on his heels threatening to throw him over the cell range, his options ran out. McGill\u2019s decision to proceed to the showers and not request help from the prison guards, while he was terrified by the threatening Ausley close behind, certainly does not amount to a deliberate or conscious acceptance of risk. See Mauller v. City of Columbus, 552 N.E.2d 500 (Ind. App.1990) (\u201c \u2018By definition ... the very essence of incurred risk is ' the. conscious, deliberate and intentioi^p^mbarkation upon a course of conduct with knowledge of the circumstances.\u2019 \u201d) (quoting Power v. Brodie, 460 N.E.2d 1241, 1243 (Ind.App. 1984)). ,\nThe burden of establishing the affirmative defense of assumption of risk, moreover, lies with the defendants and not with McGill. The Indiana Supreme Court instructs that \u201c[w]hen a trial court decides an issue adversely to a party'\" who has the burden of proof on that issue,, the appellate court is not free to reweigh the \u2022 evidence or judge the credibility of the fitnesses. Reversal of the trial court is wft\u00c9nted only if the evidence which is npt in confect leads solely to a conclusion contrary to that reached by the jury.\u201d Get-N-Go, 544 N.E.2d at 486. Attempting to draw a fine line between \u201ccases wheid the .plaintiff\u2019s alternatives are \u2018fraught with tfieir own perils,\u2019 \u201d supra at 352, and cases where \u201cthe plaintiff has safe alternatives that would avoid the danger,\u201d supra at 352, the majority strains to put this case in the \u201csafe alternatives\u201d category. I am not sure the issue is even close;.hql'g, . Certainly the evidence does not \u201clead[] solely to a conclusion contrary to that, reached by\u201d the district court. Likening this case to Get-N-Go, the district court reasonably concluded, based upon all the evidence, that McGill did not voluntarily assume the risk of a homosexual rape. It is certainly not for us to reweigh the evidence and second-guess the district court\u2019s determination on this sensitive, fact-intensive question. To do so is virtually to exculpate prison authorities in advance for any responsibility to provide protection against homosexual rape. I therefore respectfupyi^issent.\n. I agree that the Eighth Amendment theory may not fly because McGill could not establish that the defendants had actual knowledge of the threat of rape and yet failed to intervene.",
+        "type": "concurring-in-part-and-dissenting-in-part",
+        "author": "CUDAHY, Circuit Judge,"
+      }
+    ],
+    "attorneys": [
+      "Donald W. Pagos (argued), F. Parkerson, Sweeney, Dabagia, Donoghue & Thorne, Michigan City, Ind., for plaintiff-appellee.",
+      "Linley E. Pearson, Atty. Gen., David A. Arthur, Deputy Atty. Gen., Thomas D. Quigley (argued), Federal Litigation, Indianapolis, Ind., for defendants-appellants."
+    ],
+    "corrections": "",
+    "head_matter": "Herbert F. McGILL, Plaintiff-Appellee/Cross-Appellant, v. Jack R. DUCKWORTH, et al., Defendants-Appellants/Cross-Appellees.\nNos. 90-1845, 90-1945.\nUnited States Court of Appeals, Seventh Circuit.\nArgued Feb. 20, 1991.\nDecided Sept. 17, 1991.\nDonald W. Pagos (argued), F. Parkerson, Sweeney, Dabagia, Donoghue & Thorne, Michigan City, Ind., for plaintiff-appellee.\nLinley E. Pearson, Atty. Gen., David A. Arthur, Deputy Atty. Gen., Thomas D. Quigley (argued), Federal Litigation, Indianapolis, Ind., for defendants-appellants.\nBefore WOOD, Jr., CUDAHY and EASTERBROOK, Circuit Judges."
+  },
+  "file_name": "0344-01",
+  "first_page_order": 432,
+  "last_page_order": 443
+}

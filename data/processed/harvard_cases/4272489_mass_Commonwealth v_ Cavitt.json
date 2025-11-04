@@ -1,0 +1,866 @@
+{
+  "id": 4272489,
+  "name": "Commonwealth vs. Brian Keith Cavitt",
+  "name_abbreviation": "Commonwealth v. Cavitt",
+  "decision_date": "2011-09-21",
+  "docket_number": "",
+  "first_page": "617",
+  "last_page": "636",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "460 Mass. 617"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Mass.",
+    "id": 8825,
+    "name": "Massachusetts Supreme Judicial Court"
+  },
+  "jurisdiction": {
+    "id": 4,
+    "name_long": "Massachusetts",
+    "name": "Mass."
+  },
+  "cites_to": [
+    {
+      "cite": "379 Mass. 472",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "case_ids": [
+        5879651
+      ],
+      "year": 1980,
+      "pin_cites": [
+        {
+          "page": "485-486"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mass/379/0472-01"
+      ]
+    },
+    {
+      "cite": "455 Mass. 840",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "case_ids": [
+        3665481
+      ],
+      "weight": 2,
+      "year": 2010,
+      "pin_cites": [
+        {
+          "page": "842",
+          "parenthetical": "Mattel"
+        },
+        {
+          "page": "855-857"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mass/455/0840-01"
+      ]
+    },
+    {
+      "cite": "505 U.S. 1221",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        1481120,
+        1480794,
+        1480873,
+        1481006,
+        1480879,
+        1481106,
+        1480821,
+        1481141,
+        1480920,
+        1480921,
+        1481050
+      ],
+      "year": 1992,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/505/1221-04",
+        "/us/505/1221-07",
+        "/us/505/1221-03",
+        "/us/505/1221-11",
+        "/us/505/1221-10",
+        "/us/505/1221-08",
+        "/us/505/1221-09",
+        "/us/505/1221-02",
+        "/us/505/1221-06",
+        "/us/505/1221-05",
+        "/us/505/1221-01"
+      ]
+    },
+    {
+      "cite": "411 Mass. 640",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "case_ids": [
+        3898190
+      ],
+      "year": 1992,
+      "pin_cites": [
+        {
+          "page": "652"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mass/411/0640-01"
+      ]
+    },
+    {
+      "cite": "450 Mass. 736",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "case_ids": [
+        3777792
+      ],
+      "year": 2008,
+      "pin_cites": [
+        {
+          "page": "757",
+          "parenthetical": "\"There is no requirement that the defendant's image or person be surrounded by people nearly identical in appearance to his own\""
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mass/450/0736-01"
+      ]
+    },
+    {
+      "cite": "423 Mass. 266",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "case_ids": [
+        1027955
+      ],
+      "year": 1996,
+      "pin_cites": [
+        {
+          "page": "271",
+          "parenthetical": "same"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mass/423/0266-01"
+      ]
+    },
+    {
+      "cite": "452 Mass. 236",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "case_ids": [
+        5684433
+      ],
+      "weight": 3,
+      "year": 2008,
+      "pin_cites": [
+        {
+          "page": "253-254",
+          "parenthetical": "Nesbitt"
+        },
+        {
+          "page": "254"
+        },
+        {
+          "page": "255"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mass/452/0236-01"
+      ]
+    },
+    {
+      "cite": "60 Mass. App. Ct. 480",
+      "category": "reporters:state",
+      "reporter": "Mass. App. Ct.",
+      "case_ids": [
+        859174
+      ],
+      "year": 2004,
+      "pin_cites": [
+        {
+          "page": "485"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mass-app-ct/60/0480-01"
+      ]
+    },
+    {
+      "cite": "444 Mass. 586",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "case_ids": [
+        985800
+      ],
+      "year": 2005,
+      "opinion_index": 0,
+      "case_paths": [
+        "/mass/444/0586-01"
+      ]
+    },
+    {
+      "cite": "450 Mass. 858",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "case_ids": [
+        3777926
+      ],
+      "weight": 7,
+      "year": 2008,
+      "pin_cites": [
+        {
+          "parenthetical": "Mathews"
+        },
+        {
+          "page": "871"
+        },
+        {
+          "page": "866-867, 872"
+        },
+        {
+          "page": "872"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mass/450/0858-01"
+      ]
+    },
+    {
+      "cite": "369 Mass. 860",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "case_ids": [
+        309820
+      ],
+      "year": 1976,
+      "pin_cites": [
+        {
+          "page": "866"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mass/369/0860-01"
+      ]
+    },
+    {
+      "cite": "429 Mass. 231",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "case_ids": [
+        142824
+      ],
+      "year": 1999,
+      "pin_cites": [
+        {
+          "page": "235"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mass/429/0231-01"
+      ]
+    },
+    {
+      "cite": "403 Mass. 137",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "case_ids": [
+        3879021
+      ],
+      "year": 1988,
+      "pin_cites": [
+        {
+          "page": "139"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mass/403/0137-01"
+      ]
+    },
+    {
+      "cite": "391 Mass. 164",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "case_ids": [
+        918518
+      ],
+      "year": 1984,
+      "pin_cites": [
+        {
+          "page": "172"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mass/391/0164-01"
+      ]
+    },
+    {
+      "cite": "426 Mass. 692",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "case_ids": [
+        369553
+      ],
+      "weight": 2,
+      "year": 1998,
+      "opinion_index": 0,
+      "case_paths": [
+        "/mass/426/0692-01"
+      ]
+    },
+    {
+      "cite": "420 Mass. 67",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "case_ids": [
+        826207
+      ],
+      "year": 1995,
+      "pin_cites": [
+        {
+          "page": "77"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mass/420/0067-01"
+      ]
+    },
+    {
+      "cite": "387 Mass. 735",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "case_ids": [
+        908875
+      ],
+      "year": 1982,
+      "pin_cites": [
+        {
+          "page": "744",
+          "parenthetical": "detail of information is factor in over-all assessment of informant's reliability"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mass/387/0735-01"
+      ]
+    },
+    {
+      "cite": "529 U.S. 266",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        9508406
+      ],
+      "year": 2000,
+      "pin_cites": [
+        {
+          "page": "275",
+          "parenthetical": "Kennedy, J., concurring"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/529/0266-01"
+      ]
+    },
+    {
+      "cite": "438 Mass. 372",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "case_ids": [
+        201333
+      ],
+      "weight": 2,
+      "year": 2003,
+      "pin_cites": [
+        {
+          "page": "375",
+          "parenthetical": "informant not \"anonymous\" where, although not named in affidavit, police knew his \"identity\" and \"whereabouts\""
+        },
+        {
+          "page": "374",
+          "parenthetical": "informant's recent firsthand observation satisfies basis of knowledge prong"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mass/438/0372-01"
+      ]
+    },
+    {
+      "cite": "916 F.2d 1011",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        10539058
+      ],
+      "year": 1990,
+      "pin_cites": [
+        {
+          "page": "1014"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/916/1011-01"
+      ]
+    },
+    {
+      "cite": "56 Mass. App. Ct. 229",
+      "category": "reporters:state",
+      "reporter": "Mass. App. Ct.",
+      "case_ids": [
+        626978
+      ],
+      "weight": 3,
+      "year": 2002,
+      "pin_cites": [
+        {
+          "page": "234"
+        },
+        {
+          "page": "232-234",
+          "parenthetical": "reliability prong satisfied where citizen witness was identifiable, if not identified, when he presented himself to police in person and alighted from vehicle whose registration plate was visible to officer and could potentially be traced"
+        },
+        {
+          "page": "233"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mass-app-ct/56/0229-01"
+      ]
+    },
+    {
+      "cite": "44 Mass. App. Ct. 62",
+      "category": "reporters:state",
+      "reporter": "Mass. App. Ct.",
+      "case_ids": [
+        772058
+      ],
+      "year": 1997,
+      "pin_cites": [
+        {
+          "page": "68",
+          "parenthetical": "\"a tip from a private citizen is substantially strengthened when the citizen is identified by name and address\""
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mass-app-ct/44/0062-01"
+      ]
+    },
+    {
+      "cite": "448 Mass. 510",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "case_ids": [
+        3856870
+      ],
+      "weight": 5,
+      "year": 2007,
+      "pin_cites": [
+        {
+          "page": "515"
+        },
+        {
+          "page": "516"
+        },
+        {
+          "page": "515"
+        },
+        {
+          "page": "516"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mass/448/0510-01"
+      ]
+    },
+    {
+      "cite": "388 Mass. 255",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "case_ids": [
+        911092
+      ],
+      "year": 1983,
+      "pin_cites": [
+        {
+          "page": "264",
+          "parenthetical": "\"It is not ineffective assistance of counsel when trial counsel declines to file a motion with a minimal chance of success\""
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mass/388/0255-01"
+      ]
+    },
+    {
+      "cite": "39 Mass. App. Ct. 426",
+      "category": "reporters:state",
+      "reporter": "Mass. App. Ct.",
+      "case_ids": [
+        1040756
+      ],
+      "year": 1995,
+      "pin_cites": [
+        {
+          "page": "428"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mass-app-ct/39/0426-01"
+      ]
+    },
+    {
+      "cite": "440 Mass. 296",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "case_ids": [
+        1346372
+      ],
+      "year": 2003,
+      "pin_cites": [
+        {
+          "page": "297"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mass/440/0296-01"
+      ]
+    },
+    {
+      "cite": "464 U.S. 860",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6394915,
+        6395047,
+        6395181,
+        6395694,
+        6395981,
+        6395824,
+        6395311,
+        6395439,
+        6396211,
+        6396343,
+        6396088,
+        6395581,
+        6396511
+      ],
+      "year": 1983,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/464/0860-01",
+        "/us/464/0860-02",
+        "/us/464/0860-03",
+        "/us/464/0860-07",
+        "/us/464/0860-09",
+        "/us/464/0860-08",
+        "/us/464/0860-04",
+        "/us/464/0860-05",
+        "/us/464/0860-11",
+        "/us/464/0860-12",
+        "/us/464/0860-10",
+        "/us/464/0860-06",
+        "/us/464/0860-13"
+      ]
+    },
+    {
+      "cite": "389 Mass. 197",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "case_ids": [
+        913002
+      ],
+      "year": 1983,
+      "pin_cites": [
+        {
+          "page": "213"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mass/389/0197-01"
+      ]
+    },
+    {
+      "cite": "453 Mass. 102",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "case_ids": [
+        3658084
+      ],
+      "weight": 2,
+      "year": 2009,
+      "pin_cites": [
+        {
+          "page": "110"
+        },
+        {
+          "page": "111"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mass/453/0102-01"
+      ]
+    },
+    {
+      "cite": "358 Mass. 747",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "case_ids": [
+        298431
+      ],
+      "year": 1971,
+      "pin_cites": [
+        {
+          "page": "749"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mass/358/0747-01"
+      ]
+    },
+    {
+      "cite": "413 Mass. 426",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "case_ids": [
+        3901875
+      ],
+      "year": 1992,
+      "pin_cites": [
+        {
+          "page": "428"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mass/413/0426-01"
+      ]
+    },
+    {
+      "cite": "453 Mass. 203",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "case_ids": [
+        3657664
+      ],
+      "year": 2009,
+      "pin_cites": [
+        {
+          "page": "207"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mass/453/0203-01"
+      ]
+    },
+    {
+      "cite": "457 Mass. 530",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "case_ids": [
+        4269480
+      ],
+      "year": 2010,
+      "pin_cites": [
+        {
+          "page": "534"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mass/457/0530-01"
+      ]
+    },
+    {
+      "cite": "411 Mass. 678",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "case_ids": [
+        3898207
+      ],
+      "year": 1992,
+      "pin_cites": [
+        {
+          "page": "682"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mass/411/0678-01"
+      ]
+    },
+    {
+      "cite": "414 Mass. 252",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "case_ids": [
+        3903155
+      ],
+      "year": 1993,
+      "pin_cites": [
+        {
+          "page": "256"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mass/414/0252-01"
+      ]
+    },
+    {
+      "cite": "455 Mass. 811",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "case_ids": [
+        3666085
+      ],
+      "year": 2010,
+      "pin_cites": [
+        {
+          "page": "827"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mass/455/0811-01"
+      ]
+    },
+    {
+      "cite": "452 Mass. 662",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "case_ids": [
+        5685197
+      ],
+      "year": 2008,
+      "pin_cites": [
+        {
+          "page": "672-673"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mass/452/0662-01"
+      ]
+    },
+    {
+      "cite": "435 Mass. 1501",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "weight": 2,
+      "year": 2001,
+      "opinion_index": 0
+    },
+    {
+      "cite": "397 Mass. 303",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "case_ids": [
+        874767
+      ],
+      "weight": 2,
+      "year": 1986,
+      "pin_cites": [
+        {
+          "page": "307"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mass/397/0303-01"
+      ]
+    },
+    {
+      "cite": "455 Mass. 246",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "case_ids": [
+        3664978
+      ],
+      "weight": 5,
+      "year": 2009,
+      "pin_cites": [
+        {
+          "page": "256"
+        },
+        {
+          "page": "250-251"
+        },
+        {
+          "page": "251"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mass/455/0246-01"
+      ]
+    },
+    {
+      "cite": "458 Mass. 207",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "case_ids": [
+        4269623
+      ],
+      "year": 2010,
+      "pin_cites": [
+        {
+          "page": "245"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mass/458/0207-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 1605,
+    "char_count": 48419,
+    "ocr_confidence": 0.9,
+    "pagerank": {
+      "raw": 1.2802012148417734e-07,
+      "percentile": 0.6173070321860463
+    },
+    "sha256": "78a579e532d497411833129d398f8445c41d39e00ba555ca358831739bc239f4",
+    "simhash": "1:b0e1c065ae4e1de8",
+    "word_count": 7728
+  },
+  "last_updated": "2024-02-27T17:56:26.592595+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "file_name": "0617-01",
+  "first_page_order": 643,
+  "last_page_order": 662
+}

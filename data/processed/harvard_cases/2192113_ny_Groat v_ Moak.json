@@ -1,0 +1,880 @@
+{
+  "id": 2192113,
+  "name": "Edwin Groat et al., Respondents, v. Wendell Moak, Appellant",
+  "name_abbreviation": "Groat v. Moak",
+  "decision_date": "1883-11-20",
+  "docket_number": "",
+  "first_page": "115",
+  "last_page": "129",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "94 N.Y. 115"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "N.Y.",
+    "id": 24653,
+    "name": "New York Court of Appeals"
+  },
+  "jurisdiction": {
+    "id": 1,
+    "name_long": "New York",
+    "name": "N.Y."
+  },
+  "cites_to": [
+    {
+      "cite": "26 N. Y. 287",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        2033189
+      ],
+      "pin_cites": [
+        {
+          "page": "293"
+        }
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny/26/0279-01"
+      ]
+    },
+    {
+      "cite": "27 Barb. 207",
+      "category": "reporters:state",
+      "reporter": "Barb.",
+      "case_ids": [
+        5013543
+      ],
+      "pin_cites": [
+        {
+          "page": "210, 211"
+        }
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/barb/27/0207-01"
+      ]
+    },
+    {
+      "cite": "15 Johns. 447",
+      "category": "reporters:state",
+      "reporter": "Johns.",
+      "case_ids": [
+        2141015
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/johns/15/0447-01"
+      ]
+    },
+    {
+      "cite": "30 N. Y. 44",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        2040649
+      ],
+      "weight": 4,
+      "pin_cites": [
+        {
+          "page": "63"
+        },
+        {
+          "page": "178,185"
+        },
+        {
+          "page": "63"
+        }
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny/30/0044-01"
+      ]
+    },
+    {
+      "cite": "35 N. Y. 454",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        16930
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny/35/0454-01"
+      ]
+    },
+    {
+      "cite": "5 Wend. 423",
+      "category": "reporters:state",
+      "reporter": "Wend.",
+      "case_ids": [
+        2145676
+      ],
+      "pin_cites": [
+        {
+          "page": "448"
+        }
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/wend/5/0423-01"
+      ]
+    },
+    {
+      "cite": "48 Barb. 656",
+      "category": "reporters:state",
+      "reporter": "Barb.",
+      "case_ids": [
+        5157137
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "666"
+        }
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/barb/48/0656-01"
+      ]
+    },
+    {
+      "cite": "17 Johns. 195",
+      "category": "reporters:state",
+      "reporter": "Johns.",
+      "case_ids": [
+        6064892
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/johns/17/0163-01"
+      ]
+    },
+    {
+      "cite": "6 Cow. 518",
+      "category": "reporters:state",
+      "reporter": "Cow.",
+      "case_ids": [
+        12141307
+      ],
+      "pin_cites": [
+        {
+          "page": "527, 543"
+        }
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/cow/6/0518-01"
+      ]
+    },
+    {
+      "cite": "46 N. Y. 615",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        2052714
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny/46/0615-01"
+      ]
+    },
+    {
+      "cite": "53 N. Y. 152",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        512912
+      ],
+      "pin_cites": [
+        {
+          "page": "154-5"
+        }
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny/53/0152-01"
+      ]
+    },
+    {
+      "cite": "7 Hun, 7",
+      "category": "reporters:state",
+      "reporter": "Hun,",
+      "opinion_index": -1
+    },
+    {
+      "cite": "56 Ind. 139",
+      "category": "reporters:state",
+      "reporter": "Ind.",
+      "case_ids": [
+        1492855
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ind/56/0139-01"
+      ]
+    },
+    {
+      "cite": "27 N. Y. 611",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        2035342
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny/27/0611-01"
+      ]
+    },
+    {
+      "cite": "133 Mass. 215",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "case_ids": [
+        2150898
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/mass/133/0215-01"
+      ]
+    },
+    {
+      "cite": "7 Am. Dec. 526",
+      "category": "reporters:federal",
+      "reporter": "Am. Dec.",
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "531"
+        },
+        {
+          "page": "531"
+        }
+      ],
+      "opinion_index": -1
+    },
+    {
+      "cite": "2 Johns. Ch. 162",
+      "category": "reporters:state",
+      "reporter": "Johns. Ch.",
+      "weight": 2,
+      "opinion_index": -1
+    },
+    {
+      "cite": "5 Metc. 236",
+      "category": "reporters:state",
+      "reporter": "Metc.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "2 Col. 473",
+      "category": "reporters:state",
+      "reporter": "Col.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "15 Gray, 573",
+      "category": "reporters:state",
+      "reporter": "Gray",
+      "case_ids": [
+        2089415
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/mass/81/0573-01"
+      ]
+    },
+    {
+      "cite": "1 Den. 524",
+      "category": "reporters:state",
+      "reporter": "Denio",
+      "case_ids": [
+        483914
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/denio/1/0524-01"
+      ]
+    },
+    {
+      "cite": "19 Wend. 571",
+      "category": "reporters:state",
+      "reporter": "Wend.",
+      "pin_cites": [
+        {
+          "page": "584"
+        }
+      ],
+      "opinion_index": -1
+    },
+    {
+      "cite": "26 How. 124",
+      "category": "reporters:scotus_early",
+      "reporter": "How.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "83 N. Y. 178",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        2179285
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "185"
+        },
+        {
+          "page": "185, 186"
+        }
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny/83/0178-01"
+      ]
+    },
+    {
+      "cite": "38 Barb. 282",
+      "category": "reporters:state",
+      "reporter": "Barb.",
+      "case_ids": [
+        5097836
+      ],
+      "pin_cites": [
+        {
+          "page": "287, 291, 293"
+        }
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/barb/38/0282-01"
+      ]
+    },
+    {
+      "cite": "20 Wend. 24",
+      "category": "reporters:state",
+      "reporter": "Wend.",
+      "case_ids": [
+        2150232
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/wend/20/0024-01"
+      ]
+    },
+    {
+      "cite": "10 Barb. 369",
+      "category": "reporters:state",
+      "reporter": "Barb.",
+      "case_ids": [
+        2412351
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/barb/10/0369-01"
+      ]
+    },
+    {
+      "cite": "3 N. Y. 19",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        2007197
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny/3/0019-01"
+      ]
+    },
+    {
+      "cite": "20 Barb. 397",
+      "category": "reporters:state",
+      "reporter": "Barb.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "56 N. Y. 424",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        519209
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "449, 459"
+        }
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny/56/0424-01"
+      ]
+    },
+    {
+      "cite": "2 Sandf. 146",
+      "category": "reporters:state",
+      "reporter": "Sandf.",
+      "case_ids": [
+        1360168
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny-super-ct/4/0146-01"
+      ]
+    },
+    {
+      "cite": "62 Barb. 395",
+      "category": "reporters:state",
+      "reporter": "Barb.",
+      "case_ids": [
+        2263723
+      ],
+      "pin_cites": [
+        {
+          "page": "407"
+        }
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/barb/62/0395-01"
+      ]
+    },
+    {
+      "cite": "49 How. 269",
+      "category": "reporters:scotus_early",
+      "reporter": "How.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "9 N. Y. 243",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "21 Barb. 361",
+      "category": "reporters:state",
+      "reporter": "Barb.",
+      "case_ids": [
+        2421047
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/barb/21/0361-01"
+      ]
+    },
+    {
+      "cite": "13 Am. Rep. 737",
+      "category": "reporters:state_regional",
+      "reporter": "Am. Rep.",
+      "pin_cites": [
+        {
+          "page": "739"
+        }
+      ],
+      "opinion_index": -1
+    },
+    {
+      "cite": "7 Wall. 542",
+      "category": "reporters:scotus_early",
+      "reporter": "Wall.",
+      "case_ids": [
+        3449296
+      ],
+      "pin_cites": [
+        {
+          "page": "558-9"
+        }
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/us/74/0542-01"
+      ]
+    },
+    {
+      "cite": "71 N. Y. 161",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        2167976
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny/71/0161-01"
+      ]
+    },
+    {
+      "cite": "7 Rob. 80",
+      "category": "reporters:state",
+      "reporter": "Rob.",
+      "case_ids": [
+        1393352
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny-super-ct/30/0080-01"
+      ]
+    },
+    {
+      "cite": "43 N. Y. 273",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        2048124
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny/43/0273-01"
+      ]
+    },
+    {
+      "cite": "65 N. Y. 57",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        1953013
+      ],
+      "pin_cites": [
+        {
+          "page": "69"
+        }
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny/65/0057-01"
+      ]
+    },
+    {
+      "cite": "1 Denio, 536",
+      "category": "reporters:state",
+      "reporter": "Denio",
+      "opinion_index": -1
+    },
+    {
+      "cite": "9 Wend. 316",
+      "category": "reporters:state",
+      "reporter": "Wend.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "47 How. 398",
+      "category": "reporters:scotus_early",
+      "reporter": "How.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "18 Pick. 268",
+      "category": "reporters:state",
+      "reporter": "Pick.",
+      "case_ids": [
+        2025451
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/mass/35/0268-01"
+      ]
+    },
+    {
+      "cite": "2 Metc. 234",
+      "category": "reporters:state",
+      "reporter": "Metc.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "102 Mass. 451",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "case_ids": [
+        2142917
+      ],
+      "pin_cites": [
+        {
+          "page": "452, 454"
+        }
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/mass/102/0451-01"
+      ]
+    },
+    {
+      "cite": "87 N. Y. 422",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        549482
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny/87/0422-01"
+      ]
+    },
+    {
+      "cite": "22 Hun, 424",
+      "category": "reporters:state",
+      "reporter": "Hun,",
+      "opinion_index": -1
+    },
+    {
+      "cite": "49 How. 305",
+      "category": "reporters:scotus_early",
+      "reporter": "How.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "13 Hun, 454",
+      "category": "reporters:state",
+      "reporter": "Hun,",
+      "opinion_index": -1
+    },
+    {
+      "cite": "55 N. Y. 275",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        517491
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny/55/0275-01"
+      ]
+    },
+    {
+      "cite": "7 Lans. 55",
+      "category": "reporters:state",
+      "reporter": "Lans.",
+      "case_ids": [
+        4851708
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/lans/7/0055-01"
+      ]
+    },
+    {
+      "cite": "51 How 82",
+      "category": "reporters:scotus_early",
+      "reporter": "How.",
+      "pin_cites": [
+        {
+          "page": "86"
+        }
+      ],
+      "opinion_index": -1
+    },
+    {
+      "cite": "21 N. Y. 505",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        1749957
+      ],
+      "pin_cites": [
+        {
+          "page": "507"
+        }
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny/21/0542-01"
+      ]
+    },
+    {
+      "cite": "44 Vt. 435",
+      "category": "reporters:state",
+      "reporter": "Vt.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "6 Cush. 203",
+      "category": "reporters:state",
+      "reporter": "Cush.",
+      "case_ids": [
+        1989653
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/mass/60/0203-01"
+      ]
+    },
+    {
+      "cite": "20 Vt. 250",
+      "category": "reporters:state",
+      "reporter": "Vt.",
+      "case_ids": [
+        11267522
+      ],
+      "pin_cites": [
+        {
+          "page": "258-9"
+        }
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/vt/20/0250-01"
+      ]
+    },
+    {
+      "cite": "91 N. Y. 179",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "47 N. H. 529",
+      "category": "reporters:state",
+      "reporter": "N.H.",
+      "case_ids": [
+        4469359
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/nh/47/0529-01"
+      ]
+    },
+    {
+      "cite": "7 Cow. 686",
+      "category": "reporters:state",
+      "reporter": "Cow.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "18 Ark. 269",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        8726015
+      ],
+      "pin_cites": [
+        {
+          "page": "276"
+        }
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/18/0269-01"
+      ]
+    },
+    {
+      "cite": "1 Hill, 501",
+      "category": "reporters:state",
+      "reporter": "Hill,",
+      "opinion_index": -1
+    },
+    {
+      "cite": "6 N. Y. 33",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        2498047
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny/6/0039-01"
+      ]
+    },
+    {
+      "cite": "1 Hill, 17",
+      "category": "reporters:state",
+      "reporter": "Hill,",
+      "opinion_index": -1
+    },
+    {
+      "cite": "26 Hun, 381",
+      "category": "reporters:state",
+      "reporter": "Hun,",
+      "opinion_index": -1
+    },
+    {
+      "cite": "26 Hun, 380",
+      "category": "reporters:state",
+      "reporter": "Hun,",
+      "opinion_index": -1
+    },
+    {
+      "cite": "38 Am. Rep. 407",
+      "category": "reporters:state_regional",
+      "reporter": "Am. Rep.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "3 N. Y. 253",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        2007191
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny/3/0253-01"
+      ]
+    },
+    {
+      "cite": "30 N. Y. 44",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        2040649
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny/30/0044-01"
+      ]
+    },
+    {
+      "cite": "83 N. Y. 178",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        2179285
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny/83/0178-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 1198,
+    "char_count": 31960,
+    "ocr_confidence": 0.494,
+    "pagerank": {
+      "raw": 1.0159338458935701e-06,
+      "percentile": 0.9832079013100764
+    },
+    "sha256": "5bceac739244beabab81a40327d2dd4f58804e87ffe3c0bebd2e7a851f7d50fb",
+    "simhash": "1:a6079fdaf2bfe474",
+    "word_count": 5862
+  },
+  "last_updated": "2024-02-27T20:26:35.672822+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Edwin Groat et al., Respondents, v. Wendell Moak, Appellant."
+    ],
+    "opinions": [
+      {
+        "text": "Earl, J.\nThe rights of the parties depend upon the true construction of the reservation contained in the deed of 1841. It is very clear that the grantor in that deed, for the small consideration then paid by the grantees, did not mean to cripple the large and valuable factory by depriving it of any water power it might need to propel its machinery. If the defendant\u2019s contention is right, that he can draw water for his mill whenever the water in the pond is so high that it would run over a dam not more than nine feet high, then he can run his mill most of the time, many times when the factory cannot be run, and instead of having a secondary right to the water he will have substantially the primary right. That the parties to the deed intended to effect such a result cannot be presumed. The reservation is very comprehensive. The grantor was to have the use of the water reserved at all times; not only the use of the water in the dam, but in the river as it then was or might thereafter be; not only the water in the dam as it then was, but in any dam that might thereafter be erected; and it was to have not only all the water necessary to operate the machinery then in the factory, but also all the water necessary to operate any additional machinery which might be put in the factory, or in any building to be erected on the same site, of like or less dimensions.\nThe reservation of water sufficient to operate the machinery then in the factory was general. The reference to such machinery was not to limit or define the purpose for which the water could be used, but to measure and limit its quantity. (Cromwell v. Selden, 3 N. Y. 253; Olmsted v. Loomis, 9 id. 423; Wakely v. Davidson, 26 id. 387; Comstock v. Johnson, 46 id. 615.) The reservation was of that quantity of water power, and that could be used for any purpose and anywhere. There is nothing in the reservation confining the use of that power to the factory building; but if the grantor desired water for additional machinery, then it could be used only for such additional machinery as it should place in the same building, or in one not larger, to be placed upon the same site. There was not a reservation of power sufficient to operate all the machinery which the factory could contain, but only all the machinery then in the factory, or which might thereafter be placed therein, or in any building not larger, to be erected upon the.same site. Therefore, when the grantor used all the power requisite to operate the machinery then in the factory it had no right to use any more power to operate additional machinery uot in the factory, although such additional machinery could have been placed in the factory. To come within the terms of the reservation, the additional machinery must be in the factory. The additional machinery was not only to be a measure of power, but also a limitation xipon the use of the power. The quantity of water needed for the machinery then in the factory could then be known and measured, but the quantity which might be required for additional machinery could not then be known or measured, and hence there was the limitation as to such machinery. But the grantor made an absolute reservation of a quantity of water sufficient to operate the machinery then in the factory, and that water it could use anywhere. That results from the fact that it owned the water, and reserved it, and no one could control it in the use thereof. It could use a portion of it to operate machinery in the factory, and the rest to operate machinery in some other building, or it could use the whole of it in a building located upon some other site; and so the law was recognized to be in the case of Comstock v. Johnson (supra). In that case there was a grant of certain real estate, on which stood a carding machine, and clothing works and shops, and of the privilege of drawing from a dam sufficient quantity of water \u201c for the use of said works.\u201d It was held that the terms used for granting the water were to be taken as a measure of the quantity, and not a limitation of the use of the water; and Chief Judge Choboh said that the grantee \u201c had the right to use the water for any machinery and in any place which he was entitled to occupy.\u201d\nAt the time of the execution of the deed to Clark and Moak, in 1841, the machinery in the factory required for its operation one hundred horse power, and hence so long as the plaintiffs did not use more than that quantity in the main building and the wing combined, the defendant had no cause to complain that they used too much. The finding is that the plaintiffs required to operate all their machinery only from fifty to sixty horse power, and hence if all the water in the river was required to produce that power\u2019, they were entitled to it as against the defendant.\nThe defendant claims, however, that the deed of 1841 is to be construed in reference to the circumstances then existing, and that, therefore, the plaintiffs are required to obtain their power from a dam no higher than that then existing. We think otherwise. The reservation was of a definite quantity of water, \u201c at all times,\u201d and hence that the plaintiffs could have that water, they had the right to hold and store it until they could take it, and thus produce the power to which they were entitled. There was no limitation as to the height of the dam. The grantor could take the water from that dam or any dam which might thereafter be erected. It was to have water enough to operate its machinery, and if that dam would not furnish it, it could erect another that would. If it had been intended to confine the dam which might thereafter be erected to the same height, a limitation of so much importance would probably have been plainly expressed, as the limitation was in reference to the size of any other factory building which might be erected on the same site. Construing the reservation in the light of all the circumstances existing at the time of the grant, to-wit, the quantity of machinery and of water needed for its operation the size, value and importance of the factory as compared with the grist-mill, the fluctuating quantity of water in the river, which was certain to decrease as the country was cleared up, there can he no inference favorable to the contention of the defendant.\nThe further claim is made on behalf of the defendant that the reservation must be construed in reference to the statute which authorized a dam of only eight feet. It is not certain, however, that the grantees in the deed of 1841 knew any thing about that statute. It was a private statute, and there is no presumption that such statutes are generally known, and courts do not take judicial notice of them. If both parties to the deed did have knowledge of that statute, they also knew that it was practically a dead letter. The dam as then maintained had no lock, and entirely interrupted navigation in the river, and was about nine feet high without flush-boards, which when used made it still higher. So the grantees had no right to suppose that the statute would be conformed to, and that a dam which was already one foot higher than the height mentioned in the statute would not be made still higher to produce the power reserved.\nIt is also argued by the learned counsel for the defendant that as the dam is a violation of the statute the plaintiffs cannot claim the right to maintain- the same, and hence that they can- claim no relief from a court of equity. The grantor in the deed of 1841 owned the bed of the river and the lands on both sides of the river above and below the dam. Assuming that the river is technically a public highway, it has long since ceased to be practically navigable. Although it was a public highway, subject to the public easement for navigation, the riparian owner had the right to bridge it, or dam it, or do any other act which the riparian owners upon streams not navigable could do, and to enable him to do so he needed no act of the legislature. (Chenango Bridge Co. v. Paige, 83 N. Y. 178; 38 Am. Rep. 407.) If he put in or over the river any thing which obstructed its use as a public highway, the public, or any person specially injured in the use or attempted use of the river as a highway, could proceed against him. Here the public do not complain of the dam, and there is no allegation or proof that the defendant desired to use the river for navigation, and if he can complain of it at all it is only as a navigator. If he is injured in any other way or in any other capacity it is damnum absque injuria. (Fort Plain Bridge Co. v. Smith, 30 N. Y. 44.)\nBut this dam, upon the facts found, is in no sense a real nuisance. There is no finding that any one navigates, or desires to navigate, or can in any proper sense navigate, the river. Under such circumstances the dam is not, in a moral or legal sense, such a nuisance as calls upon a court of equity to deny the plaintiffs relief as against the defendant. He is estopped from denying that, as against him, they have the right to the water which was reserved. He cannot draw for his grist-mill water which was reserved for the factory. Having done so he perpetrated a wrong which made him liable in this action.\nThe counsel for the defendant discusses some questions of fact in his brief submitted to us, but as the evidence is not before us we are concluded by the findings.\nThe judgment should be affirmed, with costs.\nAll concur.\nJudgment affirmed.",
+        "type": "majority",
+        "author": "Earl, J."
+      }
+    ],
+    "attorneys": [
+      "Nathaniel C. Moak for appellant.",
+      "E. M. Harris for respondents."
+    ],
+    "corrections": "",
+    "head_matter": "Edwin Groat et al., Respondents, v. Wendell Moak, Appellant.\nIn 1841 the P. C. M. Co. owned lands on both sides of the S. river, also the bed of the river, a dam across it and all the water power created thereby. Upon its lands, on one side of the river, was a cotton factory, on the other side a grist-mill, both run by such water power. In that year said corporation conveyed to C. and M, the grist-mill property, covenanting that the grantee should have and might use the water necessary to operate the grist-mill, * * with the exception of the water * * reserved \u201d ; by a clause in the deed the grantor reserved to itself \u201c the right at all times to use so much of the water of the river and dam, which now is or may hereafter be therein, or in any dam erected hereafter, as shall be necessary to operate the present or any additional machinery which may be hereafter put in the building now \u201d used as a cotton factory, \u201c or in any building to be erected on the site thereof, of the like or less dimensions,\u201d At the time of the conveyance there was in operation, in the factory, machinery requiring one hundred horse power to operate it. The machinery was subsequently changed, and an addition was built to the factory, in which machinery was placed. Plain tiff succeeded to the rights of the P. U. M. Co., but never operated machinery in the mill requiring more than forty horse power; the machinery in the addition required from ten to twenty horse power to run it. In the summer and fall of 1879 the water of the river was low, and with what was reserved and stored in the pond at\u2019 night, there was not sufficient to operate plaintiff's machinery in the day-time. Defendant, who had succeeded to the rights of 0. and M., continued to draw water from the pond to operate his grist-mill. In an action to recover'damages and to restrain a further diversion of the water, held, that the reference in the reservation to the machinery then in the factory was a measure of quantity not a limitation on the use; that the quantity so reserved could be used for any purpose or anywhere ; but beyond that quantity, if power was desired for additional machinery, it could only be used fox such as was placed in the original factory building, or one erected on its site; that, therefore, so long as plaintiff did not use more than one hundred horse power, he could use that quantity to propel the machinery either in the main building or the addition, and up to that point, so far as needed to run his machinery, he was entitled to the exclusive use.\nThe S. river is a public highway; at the place where the dam was erected it was only navigable by row boats. The right to build and maintain a dam, not exceeding eight feet high, was granted by various statutes (Chap. 149, Laws of 1811; chap. 20, Laws of 1835 ;.chap. 531, Laws of 1864), subject, however, to a 'condition that through it a lock for the passage of boats should be made and kept in repair. A dam was built many years before 1841 and maintained from the time of its construction down, but no lock was ever constructed therein. In 1841 the dam was about nine feet high; in 1879 it was nine feet five inches high and to the top of the flush-boards, which were used during the whole summer and fall of that year, the height was ten feet six inches. Defendant claimed the right to draw water from the pond when the water was more than eight feet deep at the dam, and at no time used the water when it could not have run over a dam eight feet. Held, that such claim was untenable; that, as against the defendant, plaintiff had the right to maintain the dam at any height, and to hold and store the water required to produce power sufficient to operate his machinery, and to use all the water so stored so far as necessary to produce such power; and whenever there was not sufficient water to give that power, any use of it by defendant was unauthorized and unlawful.\nAlso held, that defendant could not object that the dam, as maintained, was unauthorized and an unlawful obstruction of a highway ; that plaintiff, as riparian owner, had the right to dam it, and if he unlawfully obstructed its use as a highway, defendant could only complain as a navigator, and on proof that he desired to use the river for navigation.\nAlso held, that, in the absence of proof that any one can, or does, or desires to navigate the river, the dam could in no sense be considered a nuisance such as calls upon a court of equity to deny plaintiff relief; that defendant, as against him, was estopped from denying his right to the water reserved.\nAlso held, that as the acts limiting the height of the dam were private acts, in the absence of evidence of knowledge, plaintiff was not chargeable with notice of the limitation.\n(Argued October 24, 1883 ;\ndecided November 20, 1883.)\nAppeal from judgment of the General Term of the Supreme Court, in the third judicial department, entered upon an order made January 24, 1882, which affirmed a judgment in favor of plaintiffs, entered upon the report of a referee.\nA mem. of the decision below appears in 26 Hun, 380.\nThis action was brought to recover damages for the diversion of water and to restrain the defendant from the further diversion thereof.\nThe ease contained simply the findings of the referee, from which the following facts appear: The Susquehanna river is a public highway under the statutes of this State, and has been so, at least, since 1813. From its source at Otsego lake, for a distance of sixteen miles, it is not navigable except for row boats of a size sufficient to carry three or four persons or their weight in the produce of the country. The right to build and maintain a rolling dam across the river, not exceeding eight feet high, which had been granted by the legislature to Oliver Corey by chapter 149 of the Laws of 1811, was continued to-the Phoenix Cotton Manufactory by chapter 20 of the Laws of 1835, and was again continued by chapter 551 of the Laws of 1864, subject to the restrictions and conditions contained in the act, one of which is that a good, sufficient and convenient lock shall be made and kept in repair through the dam for the passage of boats up the river to the lake. At the point mentioned in these acts, about three miles below the outlet of the lake, many years before 1841, a dam was constructed across the river, but, so far as appears, there was never any lock in the same. The dam had been erected and was maintained for the purpose of furnishing water power for a cotton factory located on the east side of the river and a grist-mill located on the west side. The cotton factory was a stone building ninety-eight feet long and forty-eight feet wide, five stories high and contained machinery for the manufacture of cotton cloth, propelled by water conducted from the east end of the dam. The grist-mill was located at the westerly end of the dam and was operated by water taken from that end of the dam through a flume. In August, 1841, the Phoenix Cotton Manufactory being then the owner of the dam and all the water power, and of the lands above and below the dam on both sides of the river, in consideration of the sum of $2,500 paid to it, granted by warranty deed to Alexander Clark and Jacob Moak a portion of its lands described as follows: \u201c All that certain piece and parcel of land with the grist-mill and messuage thereon, situate, lying and being in the town of Otsego, in the county of Otsego, and bounded and described as follows: Beginning on the west side of the Susquehanna river at high-water mark at a stake and stones; thence north, sixty-five degrees and thirty minutes west, four chains to a stake and stones on the road; thence north, eighteen degrees and thirty-seven minutes east, eight chains and twenty-one links, to Daniel Olendorf\u2019s land ; thence easterly, on Olendorfls land, to the river at high-water mark, to the place of beginning.\u201d That deed contained the following reservation, and was upon the following condition, to-wit: \u201c Provided, nevertheless, and every thing herein contained is upon the express condition that it shall and may be lawful for the said party of the first part, i. e., the Phoenix Cotton Manufactory, and they do hereby expressly reserve to themselves the right at all times to use so much of the water in the river and da.m which now is or may hereafter be therein, or in any dam erected hereafter, as shall be necessary to operate the present or any additional machinery which may be hereafter put in the building now used by them for the manufacture of cotton cloth, or in any building to be erected on the site thereof, of the like or less dimensions.\u201d The deed also contained the following covenant: \u201c And the said party of the first part do hereby covenant and agree that if the said parties of the second part, their heirs and assigns, shall and do at all times hereafter well and sufficiently keep in repair and maintain a good and sufficient flume to the grist-mill above granted, in its connection with the dam, so that no water be unnecessarily or unavoidably wasted, the said party of the first part will in like manner sufficiently keep in repair and maintain the said dam, and the flumes and dykes connected therewith, used or to be used by them, and that the said parties of the second part shall have and may use, with the exception of the water above reserved for operating the machinery in the manufactory buildings aforesaid, the use of so much water as shall remain and be necessary for the use of said grist-mill in the operation of its present or any additional machinery to be put in said mill.\u201d\nIn 1867 the machinery in the factory was changed and machinery put therein for the manufacture of woolen cloth, and a different water-wheel was also put therein. The owner also at the same time built a permanent addition or wing, attached to the west side of the factory, one story high, eighty-nine feet long by twenty-four wide, in which was placed a boiler, and in 1870 the same owner again changed the machinery and converted the factory into a building for the manufacture of woolen knit goods, and placed some of the machinery in the wing built and annexed as above stated. The plaintiffs have succeeded to all the rights of the Phcenix Cotton Manufactory, and the defendant to all the rights of Clark and Moak.\nAt the time of the grant to Clark and Moak, there were in operation in the factory eighty looms with the necessary additional machinery for the manufacture of cotton cloth, using three thousand three hundred and sixty spindles, requiring about on\u00e9 hundred horse power to operate such machinery, leaving considerable unoccupied space on each floor of the building, in which additional machinery might have been placed and operated. The factory then had sufficient capacity for one hundred and sixty-eight looms, and for the necessary machinery to operate six thousand spindles requiring one hundred and twenty horse power. The plaintiffs never operated more than four sets of machinery in the factory, requiring not to exceed forty horse power to propel the same, and the main factory building had sufficient capacity for eight sets of machinery, requiring about seventy-five horse power. The water in the river, from its source to the factory, during the dry season of the year, in August and ' September, and sometimes later, is-very low, and unless the water is reserved and stored in the dam or pond during the night-time and on such days as the \u2022 factory is not running, there is not water enough in the river, during such dry times, to operate the machinery of the factory. During such times of low water, all the water in the river and dam, including the water so reserved and stored, has been used and is necessary at all times to operate the machinery in the factory. But in ordinary seasons, except in times of low water, there is water enough in the river to run both the factory and the grist-mill. It has always been customary during the times of low water to use flush-boards upon the dam, and during the year 1879, the height of the dam to the top of the roll-beam was nine feet and five inches, and'to the top of the flush-boards ten feet and six inches; the flush-boards were used during the whole summer and fall of 1879, and during the time of the several acts complained of in the complaint. During that year, the plaintiffs had, and used in the wing, besides the machinery in the original factory building, certain machinery, requiring for its operation from ten to twenty horse power. But it requires no more power to operate the mill and its machinery with such machinery in the wing, in the manner the same is placed and used, than if all the machinery was placed and operated in the main building. During said summer and fall the water in the river was unusually low, so that, although the grist-mill was not operated during the day-time, the volume of water needed to run plaintiff\u2019s factory was greater than the volume of water coming down the river, and the factory, commencing' in the morning with the dam full of water, would draw the same down during the day, and on some days, to a line nearly two feet below the top of the flush-boards on the dam, and when drawn down below that point it was impossible to operate any of the factory machinery. When the factory stopped running at night, or at any other time, the pond would gradually fill up more or less rapidly, depending somewhat upon the amount of water let down through a dam above the outlet of the lake,' but the dam would generally fill up during the night to the top*of the flush-boards so that the water would flow over the dam. The running-time of the factory was tisually fronj. six and a half o\u2019clock in the morning to the same time in the evening. During the month of August, 1879, although commencing with the dam full in the. morning, and the grist-mill not running, the factory could run at full speed but a small portion of the day, and the balance of the day could only run a part of the machinery. The machinery in the factory cannot be operated to advantage, unless the water in the dam is at the top of the flush-boards, and cannot run at all when it is two feet below the top of the flusluboards. The dam, and flumes, and dykes connected therewith, were sufficiently kept in repair and maintained. At divers times during the summer and fall of 1879 the defendant drew down the water in the river and dam for his grist-mill so that the plaintiffs could not successfully operate the machinery in their factory, and this he did when all the water in the river and dam was necessary to furnish the requisite power to operate said machinery. But he at no time operated his mill, or used the water from the dam, when the surface of the water in the pond was below the top of the roll-beam, and when the water could not have run over a dam more than eight feet high.\nBefore and at the time of the commencement of this action' the defendant claimed the right to draw water from the pond to operate his grist-mill whenever the water was- at the. top of, and would run over the roll-beam of the dam, and threatened that he would continue to draw the water when it was at such height. The drawing of the water from the dam by the defendant at the times complained of, caused damage to the plaintiffs to the amount of $250.\nThe referee decided as matter of law that the plaintiffs as against the defendant have the right to maintain the dam at any height that may be required to produce sufficient power to run the machinery in their factory, and that they have the right to use all the water in the river and dam when it is necessary to produce power to propel such machinery, and that any use thereof, or any interference therewith by the defendant, when there is not sufficient,water to give to the plaintiffs the quantity required to operate their machinery, is unauthorized and unlawful, and should be restrained, and he ordered, judgment in favor of the plaintiffs for their damages.\nNathaniel C. Moak for appellant.\nIn construing the exception or reservation we must take into consideration the situation of the parties, the state of the country and of the thing granted, at the time of the grant, to ascertain the intention of the parties. (26 Hun, 381; Griswold v. Hodgman, 4 T. & C. 328-9; Swick v. Sears, 1 Hill, 17; Norton v. Coons, 6 N. Y. 33; Commercial B\u2019k v. Norton, 1 Hill, 501; Bishop on Cont., \u00a7 568; State v. Allis, 18 Ark. 269, 276; Clark v. Rinney, 7 Cow. 686; Rogers v. Allen, 47 N. H. 529; Many v. Beekman Iron Co., 9 Paige, 189, 195; People v. Globe Mut., etc., 91 N. Y. 179; Rogers v. Bancroft, 20 Vt. 250, 258-9; Davis v. Wilson, 6 Cush. 203; Miller v. Lampham, 44 Vt. 435-6; Adams v. Warner, 26 id. 395; Taylor v. St. Stephens, 6 Ch. Div. 264; 22 Eng. Rep. 796; Lampman v. Milks, 21 N. Y. 505, 507; Simmons v. Cloonan, 47 id. 3, 9; Curtiss v. Ayrault, id. 73, 79; Rogers v. Sensheimer, 50 id. 646; Havens v. Klein, 51 How 82, 86; Roberts v. Roberts, 7 Lans. 55; affirmed, 55 N. Y. 275; Flint v. Bacon, 13 Hun, 454; Hamel v. Griffith, 49 How. 305; Adams v. Conover, 22 Hun, 424; affirmed, 87 N. Y. 422.) The parties to the deed must be presumed to have contracted with reference to the dam at the height it existed at the time of the deed, there being nothing in the deed itself which is inconsistent with such construction. (Hapgood v. Brown, 102 Mass. 451, 452, 454; Johnson v. Jordan, 2 Metc. 234; Ashley v. Pease, 18 Pick. 268; Angell on Water-courses [6th ed.], \u00a7\u00a7 96a, 101a, 104; 3 Washburn on Easements, 397; 2 Parsons on Contracts, 303-305; 2 Greenleaf\u2019s Ed. Law of New York, 1798, 214; 1 Kent & Radcliff\u2019s Ed. of Rev. Laws, 1802, 601, \u00a7 34; 2 Rev. Laws, Van Ness & Woodworth\u2019s ed., 1813, 285, 287, 300.) No right by prescription can be gained to continue a public nuisance, or to commit a misdemeanor. (Washburn on Easements [3d ed.], 511; Crill v. City of Rome, 47 How. 398; Wood on Nuisances, 722, 743; Mills v. Hall, 9 Wend. 316; People v. Cunningham, 1 Denio, 536; Burbank v. Pay, 65 N. Y. 57, 69; Holman v. Johnson, 1 Cowp. 341, 343; Broom\u2019s Leg. Maxims, 576; Woodworth v. Bennett, 43 N. Y. 273; Saratoga Co. B\u2019k v. King, 44 id. 87; Rolfe v. Delmar, 7 Rob. 80; 3 Wait\u2019s Act. and Def. 198, 199; Croker v. Whitney, 71 N. Y. 161; Coppell v. Hull, 7 Wall. 542, 558-9; Holt v. Green, 13 Am. Rep. 737, 739; Rose v. Truak, 21 Barb. 361; Tylee v. Yates, 3 id. 228; La Farge v. Herter, 9 N. Y. 243; Pease v. Walsh, 49 How. 269; Clancy v. Onondaga Salt Co., 62 Barb. 395, 407; Bishop on Contracts, \u00a7 458; 2 Smith\u2019s Lead. Cas. [7th ed.] 283, marg. p. 306; Bell v. Quinn, 2 Sandf. 146; Hull v. Ruggles, 56 N. Y. 424; Gray v. Hook, 4 id. 449, 459; Benton v. Post, 20 Barb. 397; Leavitt v. Palmer, 3 N. Y. 19; Niver v. Best, 10 Barb. 369; Seneca Co. B\u2019k v. Lamb, 26 id. 595; Nellis v. Clark, 20 Wend. 24.) It makes no difference whether the dam actually interfered with the public navigation of the river or not. It was a nuisance per se. (People v. Vanderbilt, 38 Barb. 282, 287, 291, 293; Chenango Bridge Co. v. Paige, 83 N. Y. 178; Burbank v. Fay, 65 id. 70, 71; 26 How. 124; Hart v. Mayor of Albany, 19 Wend. 571, 584; People v. Cunningham, 1 Den. 524; Morton v. Moore, 15 Gray, 573.) The legislature has no power to allow plaintiffs to divert the water from defendant\u2019s mill, which he is entitled by law to have run there. He could have restrained plaintiffs\u2019 diversion thereof. (Smith v. City of Rochester, 17 N. Y. Weekly Dig. 298; Swindon Water-works v. Wilts Canal, L. R., 7 H. L. 697; 14 Eng. Rep. 86.) A water-course is real property, and the right to have water flow in it is incidental and appurtenant thereto. (Ditch Co. v. Conal Co., 2 Col. 473; Cary v. Daniels, 5 Metc. 236; Gard ner v. Newburgh, 2 Johns. Ch. 162; 7 Am. Dec. 526, 531, notes; Brooklyn v. McIntosh, 133 Mass. 215.) A diversion of a water-course by the authority of a riparian proprietor, to enable a company to supply, in part, a village with water, is a legal wrong to another riparian owner, who thereby sustains a perceptible and substantial damage. (Higgins v. Flemington Water Co., 36 H. J. Eq. 538; Gardner v. Village of Newburgh, 2 Johns. Ch. 162; 7 Am. Dec. 526, 531, note; Smith v. Rochester, 17 N. Y. Weekly Dig. 298; Milhau, v. Sharp, 27 N. Y. 611; Pettis v. Johnson, 56 Ind. 139; DeLaney v. Blizzard, 7 Hun, 7; Francis v. Schoellkopf, 53 N. Y. 152, 154-5.) Even if the reservation is to be construed as a measure of quantity, or, as the referee finds, \u201c a reservation power,\u201d it does not confer the right to use the water or the power in any other place than where they contracted to use it. (Comstock v. Johnson, 46 N. Y. 615.)\nE. M. Harris for respondents.\nThe referee correctly decided that, as against the defendant, plaintiffs had the right to keep up the dam to any height required to obtain the water necessary to run their machinery. (Ex parte Jennings, 6 Cow. 518, 527, 543; People v. Platt, 17 Johns. 195; Chenango Bridge Co. v. Paige, 83 N. Y. 178, 185; People v. Gutchess, 48 Barb. 656; Canal Com\u2019rs v. Tibbets, 5 Wend. 423, 448; Stow v. Child, 20 id. 149; Morgan v. King, 35 N. Y. 454; 3 Kent\u2019s Com. 412, 428.) The plaintiffs, being the owners of the bed of the stream and of the water as far as their land extends, had the right to use the land and water in any way not inconsistent with the public easement. (Fort Plain Bridge Co. v. Smith, 30 N. Y. 44; Jackson v. Hathaway, 15 Johns. 447; Angell on Water-courses, \u00a7\u00a7 541, 546; Thompson on Highways, 21, 22, 23.) This being a fresh-water river and not navigable, in fact, all the public have in the stream is a right of way only ; the public is the \"only party that can complain of the height of the dam as an interruption of navigation. (People v. Gutchess, 48 Barb. 656; Fort Plain Bridge Co. v. Smith, 30 N. Y. 44, 63; Chenango Bridge Co. v. Paige, 83 id. 178,185.) Legislative authority was not necessary in this case to authorize the erection of the dam across the river at the locus in quo. (Chenango Bridge Co. v. Paige, 83 N. Y. 178, 185, 186; Fort Plain Bridge Co. v. Smith, 30 id. 44.) It cannot be assumed, on the facts in this case, that the dam in question is a public nuisance; that is a fact to be established by evidence. (Mayor v. Curtis, Clark\u2019s Ch. 336, 344; Peckham v. Henderson, 27 Barb. 207, 210, 211; People v. Vanderbilt, 26 N. Y. 287, 293; People v. Gutchess, 48 Barb. 656, 666; Fort Plain Bridge Co. v. Smith, 30 N. Y. 44, 63; 2 Rev. Laws of 1813, 287.)"
+  },
+  "file_name": "0115-01",
+  "first_page_order": 139,
+  "last_page_order": 153
+}

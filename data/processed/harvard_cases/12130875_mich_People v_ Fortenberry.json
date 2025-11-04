@@ -1,0 +1,66 @@
+{
+  "id": 12130875,
+  "name": "People v. Fortenberry",
+  "name_abbreviation": "People v. Fortenberry",
+  "decision_date": "2015-09-09",
+  "docket_number": "No. 149826; Court of Appeals No. 320910",
+  "first_page": "875",
+  "last_page": "875",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "498 Mich. 875"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Mich.",
+    "id": 8790,
+    "name": "Michigan Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 49,
+    "name_long": "Michigan",
+    "name": "Mich."
+  },
+  "cites_to": [
+    {
+      "cite": "497 Mich 954",
+      "category": "reporters:state",
+      "reporter": "Mich.",
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 17,
+    "char_count": 103,
+    "ocr_confidence": 0.759,
+    "sha256": "20f6ef8d0df2593017366dfe249b7a1208b8b612abb98130432869dc284ca8f6",
+    "simhash": "1:23ee1a8965834b03",
+    "word_count": 18
+  },
+  "last_updated": "2024-02-27T16:10:26.420323+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "People v Fortenberry,"
+    ],
+    "opinions": [
+      {
+        "text": "Leave to appeal denied at 497 Mich 954.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "People v Fortenberry,\nNo. 149826; Court of Appeals No. 320910."
+  },
+  "file_name": "0875-05",
+  "first_page_order": 821,
+  "last_page_order": 821
+}

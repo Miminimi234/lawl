@@ -1,0 +1,51 @@
+{
+  "id": 4280566,
+  "name": "John GAGLIARDI, Petitioner, v. PENNSYLVANIA MUNICIPAL SERVICE COMPANY (PAMS), and Borough of Jefferson Hills",
+  "name_abbreviation": "Gagliardi v. Pennsylvania Municipal Service Co.",
+  "decision_date": "2013-10-31",
+  "docket_number": "No. 306 WAL 2013",
+  "first_page": "159",
+  "last_page": "160",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "622 Pa. 159"
+    },
+    {
+      "type": "parallel",
+      "cite": "79 A.3d 1093"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 72,
+    "char_count": 760,
+    "ocr_confidence": 0.686,
+    "pagerank": {
+      "raw": 4.688403287882615e-08,
+      "percentile": 0.14479704069733465
+    },
+    "sha256": "8126a133c1ad403c2288c1fa0c44222d166feb7e8986c027ec4f9b6f70898c44",
+    "simhash": "1:d3b7cb3b474a0347",
+    "word_count": 119
+  },
+  "last_updated": "2023-07-14T18:30:24.877122+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "file_name": "0159-01",
+  "first_page_order": 203,
+  "last_page_order": 204
+}

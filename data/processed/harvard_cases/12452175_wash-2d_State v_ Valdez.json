@@ -1,0 +1,76 @@
+{
+  "id": 12452175,
+  "name": "State, Respondent, v. Valdez, Petitioner",
+  "name_abbreviation": "State v. Valdez",
+  "decision_date": "2017-01-04",
+  "docket_number": "No. 93182-8",
+  "first_page": "1002",
+  "last_page": "1002",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "187 Wash. 2d 1002"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Wash.",
+    "id": 9029,
+    "name": "Washington Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 38,
+    "name_long": "Washington",
+    "name": "Wash."
+  },
+  "cites_to": [
+    {
+      "cite": "193 Wn. App. 1046",
+      "category": "reporters:state",
+      "reporter": "Wash. App.",
+      "case_ids": [
+        12450104,
+        12450105,
+        12450103
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-app/193/1046-02",
+        "/wash-app/193/1046-03",
+        "/wash-app/193/1046-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 28,
+    "char_count": 187,
+    "ocr_confidence": 0.85,
+    "sha256": "a0dbec30071e155482cb1f855edbc40d8cfc8b53e1888cbe1a85f4d63298968e",
+    "simhash": "1:84f8fa9d017d87e9",
+    "word_count": 31
+  },
+  "last_updated": "2024-02-27T20:27:34.476040+00:00",
+  "provenance": {
+    "date_added": "2019-05-21",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "State, Respondent, v. Valdez, Petitioner,"
+    ],
+    "opinions": [
+      {
+        "text": "Petition for review of a decision of the Court of Appeals, No. 33198-9-III, May 3, 2016, 193 Wn. App. 1046. Denied January 4, 2017.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "State, Respondent, v. Valdez, Petitioner,\nNo. 93182-8."
+  },
+  "file_name": "1002-02",
+  "first_page_order": 970,
+  "last_page_order": 970
+}

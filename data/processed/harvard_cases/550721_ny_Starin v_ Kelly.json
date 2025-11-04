@@ -1,0 +1,277 @@
+{
+  "id": 550721,
+  "name": "John H. Starin, Respondent, v. John Kelly, as Sheriff, etc., Appellant",
+  "name_abbreviation": "Starin v. Kelly",
+  "decision_date": "1882-03-31",
+  "docket_number": "",
+  "first_page": "418",
+  "last_page": "424",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "88 N.Y. 418"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "N.Y.",
+    "id": 24653,
+    "name": "New York Court of Appeals"
+  },
+  "jurisdiction": {
+    "id": 1,
+    "name_long": "New York",
+    "name": "N.Y."
+  },
+  "cites_to": [
+    {
+      "cite": "29 Barb. 218",
+      "category": "reporters:state",
+      "reporter": "Barb.",
+      "case_ids": [
+        2428332
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "491, 504"
+        },
+        {
+          "page": "347"
+        }
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/barb/29/0218-01"
+      ]
+    },
+    {
+      "cite": "17 N. Y. 134",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        2019315
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny/17/0134-01"
+      ]
+    },
+    {
+      "cite": "35 Barb. 636",
+      "category": "reporters:state",
+      "reporter": "Barb.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "14 N. Y. 567",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        496096
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny/14/0567-01"
+      ]
+    },
+    {
+      "cite": "49 Barb. 148",
+      "category": "reporters:state",
+      "reporter": "Barb.",
+      "case_ids": [
+        2244855
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/barb/49/0148-01"
+      ]
+    },
+    {
+      "cite": "14 N. Y. 270",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        496107
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny/14/0270-01"
+      ]
+    },
+    {
+      "cite": "10 Johns. 478",
+      "category": "reporters:state",
+      "reporter": "Johns.",
+      "case_ids": [
+        2135921
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/johns/10/0484-01"
+      ]
+    },
+    {
+      "cite": "14 Minn. 424",
+      "category": "reporters:state",
+      "reporter": "Minn.",
+      "case_ids": [
+        8875732
+      ],
+      "pin_cites": [
+        {
+          "page": "433, 434"
+        }
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/minn/14/0424-01"
+      ]
+    },
+    {
+      "cite": "14 Mass. 244",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "pin_cites": [
+        {
+          "page": "249"
+        }
+      ],
+      "opinion_index": -1
+    },
+    {
+      "cite": "17 N. Y. 28",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        2019321
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny/17/0028-01"
+      ]
+    },
+    {
+      "cite": "5 Denio, 619",
+      "category": "reporters:state",
+      "reporter": "Denio",
+      "case_ids": [
+        1881450
+      ],
+      "pin_cites": [
+        {
+          "page": "626"
+        }
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/denio/5/0619-01"
+      ]
+    },
+    {
+      "cite": "18 Minn. 414",
+      "category": "reporters:state",
+      "reporter": "Minn.",
+      "case_ids": [
+        736607
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "423"
+        }
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/minn/18/0414-01"
+      ]
+    },
+    {
+      "cite": "34 N. Y. 386",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        16496
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny/34/0386-01"
+      ]
+    },
+    {
+      "cite": "43 Barb. 448",
+      "category": "reporters:state",
+      "reporter": "Barb.",
+      "case_ids": [
+        5124049
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/barb/43/0448-01"
+      ]
+    },
+    {
+      "cite": "18 Wend. 353",
+      "category": "reporters:state",
+      "reporter": "Wend.",
+      "case_ids": [
+        2022129
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wend/18/0353-01"
+      ]
+    },
+    {
+      "cite": "18 Minn. 414",
+      "category": "reporters:state",
+      "reporter": "Minn.",
+      "case_ids": [
+        736607
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/minn/18/0414-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 608,
+    "char_count": 13809,
+    "ocr_confidence": 0.487,
+    "pagerank": {
+      "raw": 3.7074231460356133e-06,
+      "percentile": 0.9981612827620452
+    },
+    "sha256": "45648a76c0e87944a29d059f2277cbeffedfa1d905355cdec338693683969064",
+    "simhash": "1:9aac33f5a215b6c6",
+    "word_count": 2417
+  },
+  "last_updated": "2024-02-27T18:19:55.831084+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "John H. Starin, Respondent, v. John Kelly, as Sheriff, etc., Appellant."
+    ],
+    "opinions": [
+      {
+        "text": "Earl, J.\nThis action was commenced in July, 1868, to recover for the wrongful taking of property by the defendant as sheriff, on or about September 1, 1865. The defendant, in his answer, justified under attachments issued to him against the property of Theodore Besson. Upon the trial the plaintiff proved that before the levy of the attachments he purchased the property of Besson, and that at the time of the levy he had the property in his possession. The claim of the defendant was that the property was transferred to the plaintiff by Besson with intent to hinder, delay and defraud his creditors, and he gave evidence tending to show that the transfer was so made. The case was submitted to the jury under a charge of which no complaint is made, and they found in favor of the plaintiff. The only questions presented for our consideration have reference to the rulings of the trial judge upon questions of evidence, which we will briefly notice.\nFirst. The plaintiff was called as a witness in his own behalf, and after giving evidence showing the purchase of the property from Besson, the manner in which he paid for the same, and that he had no notice of any fraudulent intent on the part of Besson, he was asked this question, \u201c Did yon make this purchase with any object or intention of aiding or assisting him to hinder, delay or defraud his creditors % \u201d The defendant\u2019s counsel objected to this as irrelevant and incompetent, and the court overruled the objection and defendant\u2019s counsel excepted, and the witness answered, \u201c In no way whatever; I considered him perfectly good.\u201d The statute declares that every conveyance or assignment of property, made with the intent to hinder, delay or defraud creditors, shall, as against the person so hindered, delayed or defrauded, be void, except that the title of a purchaser for a valuable consideration shall not in any manner be affected or impaired unless it shall appear that such purchaser had previous notice of the fraudulent intent of his immediate grantor. (2 It. S. 137, \u00a7\u00a7 1 and 5.) To maintain the issue on the part of the defendant it was sufficient for him in the first instance to show Besson\u2019s fraudulent intent in making the sale. Then it was for the plaintiff to show that he purchased the property for a valuable consideration. His title would then be unimpeachable unless the defendant should make it appear that he had previous notice of Besson\u2019s fraudulent intent or that he participated in the fraud.\nUnder the statute, a creditor assailing a transfer of property as fraudulent may succeed by simply showing a fraudulent intent on the part of the vendor, or such intent on the part of the vendee. H, however, the vendee shows that he paid a valuable consideration for the property transferred to him, then proof of the fraudulent intent of the vendor only is not sufficient ; then there must be proof also pf a fraudulent intenifc on the part of the vendee or that he had notice of the vendor\u2019s fraudulent intent. It is believed that these rules existed and were applied at common law before the statute against fraudulent conveyances was enacted. The proof of notice on the part of the purchaser of the fraudulent intent of the vendor, when it is necessary to establish it, need not be direct and positive, but such notice may be proved like any other fact in the case by circumstances and proper and legitimate inferences to be drawn from the whole transaction. It would be sufficient for the party assailing the transfer to show that the purchaser was aiding and assisting the vendor in perpetrating a fraud, or that he himself, in making the purchase, also had the same fraudulent intent, and from such facts notice could be inferred.\nHence, in such cases, the good faith and intention of both parties is a proper subject of inquiry. In Jackson v. Mather (7 Oow. 301), it was held that a conveyance might be held to be fraudulent as to creditors upon proof of the fraudulent intent of the grantee without reference to the grantor\u2019s inten tians. In Waterbury v. Sturtevant (18 Wend. 353), it was held that the question of fraud in such a case may depend upon the motive of both parties; that the purchase must be bona fide as well as upon a valuable consideration; and that the fraudulent intent of the grantee may be inquired into was also decided in 43 Barb. 448.\nWe are, therefore, of opinion that it is proper for the purchaser to testify directly in answer to such a question as here complained of, that he did not have any fraudulent intent, and that he made the purchase in good faith. That such a question is proper to be put to the purchaser was directly decided in the case of Bedell v. Chase (34 N. Y. 386). In that case, as we find by examining the papers in the action, one of the purchasers testified that he had no intent, nor was he aware that the vendors had sold the property then in question to hinder, delay or defraud their creditors. That evidence, as to the witness\u2019 intent, was objected to by defendants\u2019 counsel, as irrelevant, immaterial and incompetent, and that it called improperly for witness to state his intent. The objection was overruled, and defendants\u2019 counsel excepted. Upon the argument of the appeal in that case in this court, the precise point was presented for consideration by the counsel for the defendant, which was brought to our attention in this case in the following language: \u201c It was error to admit the testimony of one of the purchasers as to his intent or his knowledge of the intent of the vendors. The question for the jury to determine was solely whether the vendors made the sale with intent to hinder the creditors of their lawful suits. This court have determined that an assignor may be examined as to his intent, but have never held that a purchaser could be so examined.\u201d\nIt is thus seen that the precise argument was made in that case that has been made before us in this. But the court held that it was \u201clegitimate to permit the examination of the plaintiffs as to their intention in making the purchase.\u201d\nA contrary decision was made in Hathaway v. Brown, 18 Minn. 414, where it was held that a similar question put to a purchaser from a fraudulent vendor was incompetent. It is sufficient to say that that decision does not shake our confidence in the prior decision in this court referred to.\nWhen there is evidence showing fraudulent intent on the part of the vendor and no evidence tending to show a fraudulent intent on the part of a purchaser for a valuable consideration, then the question of fact to be submitted to the jury is whether the purchaser had notice of the vendor\u2019s fraudulent intent. Even in such a ease as bearing upon that question the evidence here complained of should be received. In case the evidence is clear that he had such notice this evidence will have no important bearing upon the issue. In a case of doubt and conflict it is entitled to some weight.\nSecond. A witness called for the defendant who was present at the place where the attachment was levied, was asked these questions :\u201c State the conversation which took place between you and Mr. Livingston in regard to certain goods there ? \u201d \u201cPlease state to the jury the conversation which took place between you, Sheriff Reilly and Mr. Livingston, as to which Mr. Reilly gave his evidence yesterday % \u201d These questions were objected to on the part of the plaintiff and excluded, and defendant\u2019s counsel excepted.\nReilly was the deputy sheriff who held the attachment. Livingston was one of plaintiff\u2019s clerks in charge of the' property. The defendant had been permitted to give all the evidence he desired of any conversation he had had with Besson or the plaintiff or in the presence of either of them. Neither one of them was present at the conversation referred to in these questions. The questions were properly excluded for the reason that no declarations of Livingston could be received to affect or prejudice the plaintiff. It does not appear that he had any authority except as clerk of the plaintiff, and it is impossible to perceive how the evidence could be material or pertinent.\nThird. It appeared upon the trial that after the levy upon the property the plaintiff called two persons since dead to make an inventory and appraisal of the articles seized and the plaintiff was permitted to take the inventory thus made into his hands and answer this question : \u201c Can you tell the jury the amount at which these goods were appraised ? \u201d The objection of the defendant\u2019s counsel to the question being overruled, he answered: \u201c $7,669.42.\u201d\nThe deputy sheriff who sold the property under the attachment testified that the gross amount realized from the sale of the property was $5,795.52, and that was the precise amount for which the jury gave their verdict. It is therefore clear that the defendant was not damaged by the evidence. Besides, the same inventory and appraisement were subsequently proved by one of the persons who made them, and the inventory itself was received in evidence.\nThese are all the allegations of error to which our attention has been called, and they do not require a reversal of this judgment.\nThe judgment should be affirmed, with costs.'\nAll concur, except Andrews, Ch. J., absent.\nJudgment affirmed.",
+        "type": "majority",
+        "author": "Earl, J."
+      }
+    ],
+    "attorneys": [
+      "A. J. Vanderpoel for appellant.",
+      "William Allan for respondent."
+    ],
+    "corrections": "",
+    "head_matter": "John H. Starin, Respondent, v. John Kelly, as Sheriff, etc., Appellant.\n-\u00ae seems> that when the title of a purchaser of property is assailed as void under the statute (2 B. S. 137, \u00a7\u00a7 1-5), because made to hinder, delay and defraud creditors of the vendor, it is sufficient to show in the first instance the fraudulent intent of the vendor; if then the purchaser shows that he purchased for a valuable consideration, the party assailing his title must show that he had previous knowledge of the fraudulent intent of the vendor, or that he participated in the fraud.\nIn an action to recover for the alleged wrongful conversion of property which plaintiff had purchased of B., defendant justified as sheriff under attachments against B., and claimed that the transfer to plaintiff was fraudulent as against B.\u2019s creditors. On the trial plaintiff; as a witness in his own behalf, was asked and permitted to answer, under' objection and exception, whether he purchased with any intent to aid B. \u201cto hinder, delay or defraud his creditors.\u201d Held no error.\nHatTiimay v. Brown (18 Minn. 414), disapproved.\nA witness called for the defense was asked to state conversations which occurred at the time of the levy between himself, L., a clerk of plaintiff, who was in charge of the property, and K., the deputy sheriff, who made the levy, in regard to the goods ; neither the plaintiff nor B. was present; this was objected to and excluded. Held no error.\nIt appeared that after the levy plaintiff called two persons, who died before the trial, to make an inventory and appraisal of the articles seized. Plaintiff, as a witness, was permitted, under objection and exception, to take this inventory and state the amount at which the goods were appraised ; the inventory and appraisement were subsequently proved by one of the persons who made them, and were received in evidence. The deputy who sold the property under the attachment stated as a witness the gross amount realized from the sale; and the verdict was for this precise amount. Held, that such use of the inventory was not error authorizing a reversal.\n(Argued March 13, 1882;\ndecided March 31, 1882.)\nAppeal from judgment of the General Term of the Superior Court of the city of blew Y ark, entered upon an order made April 4, 1881, which affirmed a judgment in favor of plaintiff, entered upon a verdict. (Reported below, 15 J. & S. 288.)\nThe nature of the action and the material facts are set forth in the opinion.\nA. J. Vanderpoel for appellant.\nThe court erred in permitting the plaintiff to answer the question, whether he made the purchase with any object or intention of aiding or assisting Besson to hinder, delay or defraud his creditors. (R. S., part 2, ch. 7, tit. 3, \u00a7 5; Ray v. Birdseye, 5 Denio, 619, 626; Griffin, v. Marquardt, 17 N. Y. 28; Hathaway v. Brown, 18 Minn. 414, 423; Bridge v. Eagleston, 14 Mass. 244, 249; Twyne's Case, 1 Smith\u2019s Lead. Cas. 39; Durfee v. Paritt et al., 14 Minn. 424, 433, 434; Blackmam, v. Wheaton, 13 id. 326; Gen. Stats., chap. 41, \u00a7 20.) Transactions and conversations which took place at the time of the levy could be given in evidence against the sheriff as part of the res gestae and any admissions of the deputy would be binding upon the sheriff. (Mott v. Kipp, 10 Johns. 478; Barker v. Bininger, 14 N. Y. 270; Rouse v. Whited, 25 id. 170.) Livingston being the agent of the plaintiff and having charge of the store, his acts or omissions were competent as to a matter peculiarly in his charge. (Curtis v. Avon, etc., R. R. Co., 49 Barb. 148.)\nWilliam Allan for respondent.\nThe question to plaintiff, \u201c Did you make this purchase with any object or intention of aiding or assisting him to hinder, delay or defraud his creditors ? \u201d was relevant and competent, the issue being fraud. (3 R. S. 225, \u00a7 4 [Banks\u2019 5th ed.]; Seymour v. Wilson, 14 N. Y. 567; Kenyon v. The People, 26 id. 212; McKown v. Hunter, 30 id. 628; Foster v. Crockhite, 35 id. 147; Pope v. Hart, 35 Barb. 636.) Plaintiff had a right to refer to the inventory to refresh his recollection as to the amount at which the goods were appraised. (Russell v. H. R. R. Co., 17 N. Y. 134.) It having been shown that a consideration was given for the property, the question of fraud is one of fact for the jury to pass upon. (Thompson v. Blanchard, 4 Comst. 303.) Where there is evidence upon both sides upon a question of fact, the verdict of a jury is decisive. (Conklin v. Thompson, 29 Barb. 218, 491, 504; Heritage v. Hall, 33 id. 347; People v. Townsend, 37 id. 529.)"
+  },
+  "file_name": "0418-01",
+  "first_page_order": 446,
+  "last_page_order": 452
+}

@@ -1,0 +1,62 @@
+{
+  "id": 3555940,
+  "name": "COMMONWEALTH of Pennsylvania, Petitioner v. Gerald KIZER, Respondent",
+  "name_abbreviation": "Commonwealth v. Kizer",
+  "decision_date": "2007-04-18",
+  "docket_number": "Petition No. 919 MAL 2006",
+  "first_page": "9",
+  "last_page": "9",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "592 Pa. 9"
+    },
+    {
+      "type": "parallel",
+      "cite": "922 A.2d 874"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "912 A.2d 259",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        3852251,
+        8440436
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/590/0188-01",
+        "/a2d/912/0259-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 39,
+    "char_count": 334,
+    "ocr_confidence": 0.68,
+    "sha256": "9721571c9d0e526816c9f8aa2cf4313b314aaea98f0112fb36d839f6842967c8",
+    "simhash": "1:bd9f07b793939dff",
+    "word_count": 50
+  },
+  "last_updated": "2024-02-27T21:45:49.457734+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "file_name": "0009-01",
+  "first_page_order": 61,
+  "last_page_order": 61
+}

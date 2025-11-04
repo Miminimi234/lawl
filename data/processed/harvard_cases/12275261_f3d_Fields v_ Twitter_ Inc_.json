@@ -1,0 +1,656 @@
+{
+  "id": 12275261,
+  "name": "Tamara FIELDS, on behalf of herself, as a representative of the Estate of Lloyd Fields, Jr.; Heather Creach, on behalf of herself and as a representative of the Estate of James Damon Creach; J.C. (1), a minor; J.C. (2), a minor, Plaintiffs-Appellants v. TWITTER, INC., Defendant-Appellee",
+  "name_abbreviation": "Fields v. Twitter, Inc.",
+  "decision_date": "2018-01-31",
+  "docket_number": "No. 16-17165",
+  "first_page": "739",
+  "last_page": "750",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "881 F.3d 739"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "9th Cir.",
+    "id": 8826,
+    "name": "United States Court of Appeals for the Ninth Circuit"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "137 S.Ct. 1539",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        12604325
+      ],
+      "weight": 2,
+      "year": 2017,
+      "pin_cites": [
+        {
+          "page": "1548-49"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/s-ct/137/1539-01"
+      ]
+    },
+    {
+      "cite": "134 S.Ct. 1710",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        12706995,
+        12579853
+      ],
+      "weight": 3,
+      "year": 2014,
+      "pin_cites": [
+        {
+          "page": "1719"
+        },
+        {
+          "page": "1719"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/572/0434-01",
+        "/s-ct/134/1710-01"
+      ]
+    },
+    {
+      "cite": "134 S.Ct. 1377",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        12706985,
+        12579076
+      ],
+      "weight": 4,
+      "year": 2014,
+      "pin_cites": [
+        {
+          "page": "1390"
+        },
+        {
+          "page": "1394",
+          "parenthetical": "alteration in original"
+        },
+        {
+          "page": "1390"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/572/0118-01",
+        "/s-ct/134/1377-01"
+      ]
+    },
+    {
+      "cite": "137 S.Ct. 1296",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        12603578
+      ],
+      "weight": 3,
+      "year": 2017,
+      "pin_cites": [
+        {
+          "page": "1305",
+          "parenthetical": "alteration omitted"
+        },
+        {
+          "parenthetical": "alteration omitted"
+        },
+        {
+          "page": "1305",
+          "parenthetical": "2017"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/s-ct/137/1296-01"
+      ]
+    },
+    {
+      "cite": "18 U.S.C. \u00a7 1964",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "pin_cites": [
+        {
+          "page": "(c)",
+          "parenthetical": "the RICO Act"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "15 U.S.C. \u00a7 15",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "pin_cites": [
+        {
+          "page": "(a)",
+          "parenthetical": "the Clayton Act"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "26 Stat. 209",
+      "category": "laws:leg_session",
+      "reporter": "Stat.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "265 F.3d 890",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        9484467
+      ],
+      "year": 2001,
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/265/0890-01"
+      ]
+    },
+    {
+      "cite": "28 F.3d 971",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        10526741
+      ],
+      "year": 1994,
+      "pin_cites": [
+        {
+          "page": "977"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/28/0971-01"
+      ]
+    },
+    {
+      "cite": "18 U.S.C. \u00a7 2331",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "pin_cites": [
+        {
+          "page": "(1)"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "893 F.Supp.2d 474",
+      "category": "reporters:federal",
+      "reporter": "F. Supp. 2d",
+      "case_ids": [
+        4278489
+      ],
+      "weight": 2,
+      "year": 2012,
+      "pin_cites": [
+        {
+          "page": "522",
+          "parenthetical": "rejecting \"the contention that any reckless contribution to a terrorist group or its affiliate, no matter how attenuated, will result in civil liability, without the demonstration of a proximate causal relationship to the plaintiffs injury\""
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f-supp-2d/893/0474-01"
+      ]
+    },
+    {
+      "cite": "714 F.3d 118",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        5863898
+      ],
+      "year": 2013,
+      "pin_cites": [
+        {
+          "page": "125"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/714/0118-01"
+      ]
+    },
+    {
+      "cite": "561 U.S. 1",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        12455275,
+        3644526
+      ],
+      "weight": 5,
+      "year": 2010,
+      "pin_cites": [
+        {
+          "page": "29-36"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/l-ed-2d/177/0355-01",
+        "/us/561/0001-01"
+      ]
+    },
+    {
+      "cite": "205 F.3d 1130",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        11462779
+      ],
+      "weight": 3,
+      "year": 2000,
+      "pin_cites": [
+        {
+          "page": "1136"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/205/1130-01"
+      ]
+    },
+    {
+      "cite": "804 F.3d 1287",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        4356863
+      ],
+      "year": 2015,
+      "pin_cites": [
+        {
+          "page": "1290",
+          "parenthetical": "\"As the Court demonstrated, the phrase 'proximate cause' hides (or encompasses) interpretive problems of its own.\""
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/804/1287-01"
+      ]
+    },
+    {
+      "cite": "318 F.3d 113",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        9333761
+      ],
+      "year": 2003,
+      "pin_cites": [
+        {
+          "page": "123"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/318/0113-01"
+      ]
+    },
+    {
+      "cite": "112 S.Ct. 18",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "97 F.Supp.3d 287",
+      "category": "reporters:federal",
+      "reporter": "F. Supp. 3d",
+      "case_ids": [
+        4339587
+      ],
+      "weight": 2,
+      "year": 2015,
+      "pin_cites": [
+        {
+          "page": "324",
+          "parenthetical": "\"The tort [that the ATA] condemns is one. of secondary action, not primary action. It assumes the existence of a tort by a third, party, and then renders the defendant liable for providing support to that third party.\""
+        },
+        {
+          "page": "328",
+          "parenthetical": "alteration omitted"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f-supp-3d/97/0287-01"
+      ]
+    },
+    {
+      "cite": "459 U.S. 519",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6199687
+      ],
+      "weight": 9,
+      "year": 1983,
+      "pin_cites": [
+        {
+          "page": "534"
+        },
+        {
+          "page": "534"
+        },
+        {
+          "page": "545"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/459/0519-01"
+      ]
+    },
+    {
+      "cite": "559 U.S. 1",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        3582176
+      ],
+      "weight": 11,
+      "year": 2010,
+      "pin_cites": [
+        {
+          "page": "8-12"
+        },
+        {
+          "page": "9"
+        },
+        {
+          "page": "12"
+        },
+        {
+          "page": "12"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/559/0001-01"
+      ]
+    },
+    {
+      "cite": "547 U.S. 451",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        3275572
+      ],
+      "weight": 9,
+      "year": 2006,
+      "pin_cites": [
+        {
+          "page": "461"
+        },
+        {
+          "page": "458-59"
+        },
+        {
+          "page": "461"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/547/0451-01"
+      ]
+    },
+    {
+      "cite": "503 U.S. 258",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6226783
+      ],
+      "weight": 31,
+      "year": 1992,
+      "pin_cites": [
+        {
+          "page": "268"
+        },
+        {
+          "page": "265-70"
+        },
+        {
+          "page": "268"
+        },
+        {
+          "page": "268-70"
+        },
+        {
+          "page": "270"
+        },
+        {
+          "page": "268"
+        },
+        {
+          "page": "271"
+        },
+        {
+          "page": "268"
+        },
+        {
+          "parenthetical": "\"The tort [that the ATA] condemns is one. of secondary action, not primary action. It assumes the existence of a tort by a third, party, and then renders the defendant liable for providing support to that third party.\""
+        },
+        {
+          "page": "268-70"
+        },
+        {
+          "page": "268, 271, 274"
+        },
+        {
+          "page": "268"
+        },
+        {
+          "page": "268"
+        },
+        {
+          "page": "267"
+        },
+        {
+          "page": "268"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/503/0258-01"
+      ]
+    },
+    {
+      "cite": "708 F.3d 82",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        3541192
+      ],
+      "weight": 4,
+      "year": 2013,
+      "pin_cites": [
+        {
+          "page": "91"
+        },
+        {
+          "page": "95"
+        },
+        {
+          "page": "91"
+        },
+        {
+          "page": "96",
+          "parenthetical": "rejecting theory that proximate cause was established per se by violation of antiterrorism law because that theory would impose strict liability inconsistent with Congress's intent in using \"by reason of' language"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/708/0082-01"
+      ]
+    },
+    {
+      "cite": "824 F.3d 846",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        4323565
+      ],
+      "year": 2016,
+      "pin_cites": [
+        {
+          "page": "850"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/824/0846-01"
+      ]
+    },
+    {
+      "cite": "669 F.3d 1005",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        3722589
+      ],
+      "year": 2012,
+      "pin_cites": [
+        {
+          "page": "1014"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/669/1005-01"
+      ]
+    },
+    {
+      "cite": "870 F.3d 963",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        12275417,
+        12275421
+      ],
+      "year": 2017,
+      "pin_cites": [
+        {
+          "page": "970",
+          "parenthetical": "quoting Skilstaf, Inc. v. CVS Caremark Corp., 669 F.3d 1005, 1014 (9th Cir. 2012)"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/870/0963-01",
+        "/f3d/870/0963-02"
+      ]
+    },
+    {
+      "cite": "18 U.S.C. \u00a7 2333",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "weight": 5,
+      "pin_cites": [
+        {
+          "page": "(a)"
+        },
+        {
+          "page": "(a)"
+        },
+        {
+          "page": "(a)",
+          "parenthetical": "emphasis added"
+        },
+        {
+          "page": "(a)"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "47 U.S.C. \u00a7 230",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "pin_cites": [
+        {
+          "page": "(b)"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "18 U.S.C. \u00a7 2383",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "pin_cites": [
+        {
+          "page": "(a)"
+        }
+      ],
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 1489,
+    "char_count": 35332,
+    "ocr_confidence": 0.592,
+    "pagerank": {
+      "raw": 1.2955510123481351e-07,
+      "percentile": 0.6209846597234048
+    },
+    "sha256": "e9f76f54ff4b5f12eb6271b5fc50add2fa0f6564df492aafe9ac83f4f5d30e13",
+    "simhash": "1:f072efce4baed48b",
+    "word_count": 5517
+  },
+  "last_updated": "2024-02-27T17:59:44.301675+00:00",
+  "provenance": {
+    "date_added": "2018-10-23",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before: MILAN D. SMITH, JR. and SANDRA S. IKUTA, Circuit Judges, and STEVEN J. MCAULIFFE, District Judge."
+    ],
+    "parties": [
+      "Tamara FIELDS, on behalf of herself, as a representative of the Estate of Lloyd Fields, Jr.; Heather Creach, on behalf of herself and as a representative of the Estate of James Damon Creach; J.C. (1), a minor; J.C. (2), a minor, Plaintiffs-Appellants v. TWITTER, INC., Defendant-Appellee"
+    ],
+    "opinions": [
+      {
+        "text": "OPINION\nM. SMITH, Circuit Judge:\nAfter Lloyd \u201cCarl\u201d Fields, Jr., and James Damon Creach were killed while working as government contractors in Jordan in an attack for which ISIS claimed credit, Plaintiffs-Appellants sued Defendant-Appellee Twitter, Inc. (Twitter) pursuant to 18 U.S.C. \u00a7 2383(a), the civil remedies provision of the Anti-Terrorism Act (ATA), alleging that they were injured \u201cby reason of\u2019 Twitter\u2019s knowing provision of material support to ISIS. Twitter moved to dismiss the case, and its motion was granted. The district court held that Plaintiffs-Appellants had failed to plead that they were injured \u201cby reason of\u2019 Twitter\u2019s conduct. The district court also ruled that Twitter\u2019s liability was precluded by \u00a7 230 of the Communications Decency Act (CDA), 47 U.S.C. \u00a7 230(b), because Plaintiffs-Appellants\u2019 claims sought to treat Twitter as the publisher of ISIS\u2019s content. Plaintiffs-Appellants have appealed both holdings. We affirm on the ground that Plaintiffs-Appellants have failed to adequately plead proximate causation.\nFACTUAL AND PROCEDURAL BACKGROUND\nI. The Deaths of Lloyd \u201cCarl\u201d Fields, Jr., and James Damon Creach\nPlaintiffs-Appellants Tamara Fields and Heather Creach brought this lawsuit on behalf of themselves and as representatives of the estates of their husbands, Lloyd \u201cCarl\u201d Fields, Jr. (Fields), and James Damon Creach (Creach), respectively. They are joined as Plaintiffs-Appellants by J.C. (1) and J.C. (2), Creach\u2019s two minor sons, who are represented by their common legal guardian, Heather Creach. All Plaintiffs-Appellants are American nationals.\nThis case arises from the tragic deaths of Fields and Creach in Jordan, on November 9, 2015. Fields had \u201ctravelled to Jordan on June 12, 2015 as a government contractor through DynCorp International.\u201d \u201cCreach [had] arrived in Jordan on October 15, 2015[,] where he was working through the government contractor DECO, Inc.\u201d While in Jordan, both men were assigned to work at the International Police Training Center (the IPTC) in southeast Amman, where they \u201cboth used their years of experience as police officers to train law enforcement personnel from Jordan, Iraq and the Palestinian Territories in basic police and security skills.\u201d Fields \u201chad previously served as a Deputy Sheriff in Calcasieu Parish, Louisiana, and as a police advisor in both Iraq and Afghanistan.\u201d Creach \u201cwas a graduate of the Virginia Beach Polic[e] Academy, a former police officer in the Virginia Police Department and had trained police officers in Afghanistan, Kenya and other locations,\u201d\nOne of the students at the IPTC was Anwar Abu Zaid (Abu Zaid), a \u201c28-year old Jordanian police captain.\u201d \u201cOn November 9, 2015, Abu Zaid arrived at' [the] IPTC[,] smuggling [in] a Kalashnikov assault rifle with 120 bullets and two handguns in his car.\u201d Because he was an officer, he was not searched upon entry. \u201cAfter the noontime prayer, Abu Zaid shot a truck that was moving through the facility, killing [Creach], Abu Zaid then entered the facility\u2019s cafeteria where he killed an additional four people eating lunch, including [Fields].\u201d Israeli military intelligence ultimately determined that \u201cAbu Zaid was a graduate of al-Mutah University in al-Ka-rak, Jordan where he was part of a clandestine ... terror cell\u201d associated with the Islamic State of Iraq and Syria (al-Sham) (ISIS).\n\u201cISIS claimed responsibility for the attack, in a statement issued through [its] al-Battar Media Foundation: Tes ... we kill the Americans in Amman,\u2019 the terror group said.\u201d ISIS reiterated the' claim in its Dabiq Magazine, Issue 12:\n\u201cAnd on 9 November 2015, Anwar Abu Zeid\u2014after repenting from his former occupation\u2014attacked the American crusaders and their apostate allies, killing two American crusaders, two Jordanian apostates, and one South African crusader. These are the deeds of those upon the methodology of the revived Khil\u00e1fah. They will not let its enemies enjoy rest until enemy blood is spilled in revenge for the religion and the Ummah.\u201d\nII. Twitter\u2019s Conduct\nPlaintiffs-Appellants have sued Twitter pursuant to 18 U.S.C. \u00a7 2333(a), the ATA\u2019s civil remedies provision. Plaintiffs-Appellants accuse Twitter of violating \u00a7 2333(a) by knowingly providing material support to ISIS, in violation of 18 U.S.C. \u00a7 \u25a0 2339A and 18 U.S.C. \u00a7 2339B. Specifically, Plaintiffs-Appellants allege that Twitter (1) provided material support to ISIS, a Foreign Terrorist Organization (FTO), in the form of Twitter accounts and direct-messaging services, (2) did so knowingly and recklessly, and (3) thereby proximately caused Plaintiffs-Appellants\u2019 injuries.\nThese allegations are segregated into three sections of Plaintiffs-Appellants\u2019 Second Amended Complaint (SAC). First, in support of their material-support allegation, Plaintiffs-Appellants claim that Twitter has provided ISIS with Twitter accounts. Plaintiffs-Appellants identify three examples of ISIS-affiliated Twitter accounts with large numbers of followers, which constitute a fraction of the \u201cestimated 70,000 Twitter accounts, at least 79 of which were \u2018official,\u2019 \u201d that ISIS had as of December 2014. Plaintiffs-Appellants contend that \u201c[s]ince 2010, Twitter has provided ISIS with dozens of accounts on its social network,\u201d and until recently did nothing while \u201cthe number of ISIS accounts on Twitter grew at an astonishing rate.\u201d\nSecond, in support of their scienter allegation, Plaintiffs-Appellants assert that ISIS, is a well-known FTO that openly uses Twitter. Plaintiffs-Appellants claim that \u201c[t]he United Nations and international NGOs have condemned ISIS for war crimes and ethnic cleansing,\u201d and that the United States designated ISIS an FTO on December 17, 2004. Plaintiffs-Appellants also provide numerous examples of media reports documenting ISIS\u2019s Twitter usage, which reports have prompted many government officials and technology experts to urge Twitter to be more aggressive in combating terrorism. Only recently has Twitter responded by changing its rules to prohibit threats of violence or terrorism and terrorism promotion, and by suspending terrorism-promoting accounts.\nThird, in support of their causation allegation, Plaintiffs-Appellants allege ways in which ISIS uses Twitter. Plaintiffs-Appellants indicate that ISIS uses Twitter\u2019s Direct Messaging feature to communicate with potential recruits and \u201cfor fundraising and operational purposes.\u201d They. assert that ISIS also uses Twitter to recruit more publicly, by posting \u201cinstructional guidelines and promotional videos, referred to as \u2018mujatweets.\u2019 \u201d Plaintiffs-Appellants also claim that within the year preceding August 2016 alone, Twitter allowed ISIS to attract \u201cmore than 30,000 foreign recruits,\u201d and that ISIS uses Twitter to fun-draise and to \u201cspread propaganda-and incite fear by posting graphic photos arid videos of its terrorist feats.\u201d\nIII. Prior Proceedings\nPlaintiffs-Appellants filed their complaint on January 13, 2016. After Twitter filed its first motion to dismiss on March 10, 2016, Plaintiffs-Appellants filed an Amended Complaint on March 24, 2016. \u25a0Twitter again moved to dismiss on April 6, 2016, and its motion was granted with leave to amend on August 10, 2016. Plata-tiffs-Appellants filed the SAC on August 30, 2016, and Twitter filed a motion to dismiss it on September 13, 2016. The motion was granted with prejudice on November 18, 2016, and a final judgment was entered. This appeal timely followed.\nSTANDARD OF REVIEW\n\u201cWe review de novo the district court\u2019s grant of a motion to dismiss under Rule 12(b)(6), accepting all factual allegations in the complaint as true and constru-tag them in the light most, favorable to the nonmovtag party.\u201d Campidoglio LLC v. Wells Fargo & Co., 870 F.3d 963, 970 (9th Cir. 2017) (quoting Skilstaf, Inc. v. CVS Caremark Corp., 669 F.3d 1005, 1014 (9th Cir. 2012)). \u201cWe also review de.novo questions of statutory interpretation.\u201d Doe v. Internet Brands, Inc., 824 F.3d 846, 850 (9th Cir. 2016).\nANALYSIS\nI. The ATA\u2019s Proximate Causation Requirement\nThe civil remedies section of the ATA allows any United States national \u201cinjured in his or her person, property, or business by reason of an act of international terrorism, or his or her estate, survivors, or heirs,\u201d to sue in federal court and recover treble damages and attorney\u2019s fees. 18 U.S.C. \u00a7 2333(a).\nThe ATA also contains criminal provisions, the violation of which can provide the basis for a cause of action under \u00a7 2333(a). As relevant here, \u00a7 2339A prohibits the provision of \u201cmaterial support or resources\u201d by anyone \u201cknowing or intending that they are to be used in preparation for, or in carrying out\u201d any of several enumerated crimes. 18 U.S.C. \u00a7 2339A. Section 2339B prohibits the knowing provision of \u201cmaterial support or resources to a foreign terrorist organization.\u201d Id. \u00a7 2339B(a)(l).\nPlaintiffs-Appellants allege that Twitter violated both \u00a7 2339A and \u00a7 2339B when it knowingly provided Twitter accounts and its Direct Messaging services to ISIS, and is therefore liable under \u00a7 2338(a). Twitter argues that Plaintiffs-Appellants have failed to show that they were injured \u201cby reason of\u2019 its alleged acts, as is required for liability under that section.\nThe gravamen of the parties\u2019 disagreement is the scope of the ATA\u2019s \u201cby reason of\u2019 requirement. Appropriately, the parties do not dispute that the ATA\u2019s \u201cby reason of\u2019 language requires a showing of proximate causation. Rather, they disagree concerning what such a showing entails. Plaintiffs-Appellants contend that proximate causation is established under the ATA when a defendant\u2019s \u201cacts were a substantial factor in the sequence of responsible causation,\u201d and the injury at issue \u201cwas reasonably foreseeable or anticipated as a natural consequence.\u201d See Rothstein v. UBS AG, 708 F.3d 82, 91 (2d Cir. 2013). Twitter argues that the standard is higher, requiring Plaintiffs-Appellants to show that Twitter\u2019s conduct \u201cled directly\u201d to their injuries. The district court declined to decide the question because it concluded that Plaintiffs-Appellants\u2019 pleading was insufficient under either standard. We conclude that Twitter has the better of the argument, and hold that to satisfy the ATA\u2019s \u201cby reason of' requirement, a plaintiff must show at least some direct relationship between the injuries that he or she suffered and the defendant\u2019s acts.\nA. The ATA\u2019s \u201cBy Reason Of\u2019 Language\nWe undertake our construction of the ATA\u2019s \u201cby reason of\u2019 provision against the backdrop of two key assumptions mandated by the Supreme Court: First, we assume that Congress is familiar with the \u201c \u2018well established principle of the common law that in all cases of loss, we are to attribute it to the proximate cause, and not to any remote cause ... and does not mean to displace it sub silentio\u2019 in federal causes of action.\u201d Bank of Am. Corp. v. City of Miami, \u2014 U.S. \u2014, 137 S.Ct. 1296, 1305, 197 L.Ed.2d 678 (2017) (alteration omitted) (quoting Lexmark Int\u2019l, Inc. v. Static Control Components, Inc., \u2014 U.S. \u2014, 134 S.Ct. 1377, 1390, 188 L.Ed.2d 392 (2014)); see also Rothstein, 708 F.3d at 95 (\u201c[I]f, in creating civil liability through \u00a7 2333, Congress had intended to allow recovery upon a showing lower than proximate cause, we think it either would have so stated expressly or would at least have chosen language that had not commonly been interpreted to require proximate cause for the prior 100 years.\u201d). Second, we assume that because Congress has used \u201cthe same words\u201d\u2014\u201cby reason of\u2019\u2014in the ATA as it used previously in the Sherman, Clayton, and Racketeer Influenced and Corrupt Organizations (RICO) Acts, Congress intended these words to \u201chave the same meaning that courts had already given them\u201d in those contexts. Holmes v. Sec. Inv\u2019r Prot. Corp., 503 U.S. 258, 268, 112 S.Ct, 1311, 117 L.Ed.2d 532 (1992).\nIn light of these assumptions, we understand that the phrase \u201cby reason of\u2019 connotes some degree of directness. We begin our construction of the statutory language with the Court\u2019s decision in Holmes v. Securities Investor Protection Corporation, 503 U.S. 258, 112 S.Ct. 1311, 117 L.Ed.2d 532 (1992). In that case, the Court was charged with interpreting the \u201cby reason of\u2019 language that Congress had included in the eivil RICO statute. Id. at 265-70, 112 S.Ct. 1311. To do so, the Court looked first to the history of the language as used in the Sherman and Clayton Acts, and determined that a longstanding, central element of proximate causation in the Clayton Act context was \u201csome direct .relation between the injury asserted and the injurious conduct alleged.\u201d Id. at 268, 112 S.Ct. 1311. The Court reasoned that courts coalesced around this directness requirement because not requiring \u201csome direct relation\u201d (1) would make it more difficult to determine the amount of damages \u201cattributable to the violation, as distinct from other, independent factors\u201d; (2) would force courts to develop complicated damages-apportionment rules to avoid multiple recoveries; and (3) would create these difficulties needlessly, because requiring some direct relation would never prevent directly injured victims from utilizing the law. Id. at 268-70, 112 S.Ct. 1311. The Court then held that \u201cthese reasons applied] with equal force to suits\u201d brought under the civil RICO provision, id. at 270, 112 S.Ct. 1311, and convinced the Court to hold that civil RICO liability required a showing of \u201csome direct relation between the injury asserted and the injurious conduct alleged,\u201d id. at 268, 112 S.Ct. 1311.\nSubsequent civil RICO cases affirmed this requirement. In Anza v. Ideal Steel Supply Corp., 547 U.S. 451, 126 S.Ct. 1991, 164 L.Ed.2d 720 (2006), the Court reiterated that \u201c[w]hen a court evaluates a RICO claim for proximate causation, the central question it must ask is whether the alleged violation led directly to the plaintiffs injuries.\u201d Id. at 461, 126 S.Ct. 1991. And in Hemi Group, LLC v. City of New York, 559 U.S. 1, 130 S.Ct. 983, 175 L.Ed.2d 943 (2010), the Court emphasized that a claim would not meet RICO\u2019s direct relationship requirement if it required the Court to move beyond the first step in the causal chain. Id. at 8-12, 130 S.Ct. 983; see also Holmes, 503 U.S. at 271, 112 S.Ct. 1311 (\u201cThe general tendency of the law, in regard to damages at least, is not to go beyond the first step.\u201d (quoting Associated Gen. Contractors of Cal., Inc. v. Cal. State Council of Carpenters, 459 U.S. 519, 534, 103 S.Ct. 897, 74 L.Ed.2d 723 (1983))).\nMore recently, outside the RICO context, the Court has explored the necessity and scope of the \u201cfirst step\u201d limitation. Echoing Holmes\u2019s three concerns, the Court explained in Lexmark International that the first-step limitation was crucial in most cases because \u201cthere ordinarily is a \u2018discontinuity\u2019 between the injury to the direct victim and the injury to the indirect victim, so that the latter is not surely attributable to the former (and thus also to the defendant\u2019s conduct), but might instead have resulted from \u2018any number of [other] reasons.\u2019 \u201d 134 S.Ct. at 1394 (alteration in original) (quoting Anza, 547 U.S. at 458-59, 126 S.Ct. 1991). The Court observed that the general purpose of requiring proximate causation is to \u201cbar[ ] suits for alleged harm that is \u2018too remote\u2019 from the defendant\u2019s unlawful conduct,\u201d and limit recovery to those cases where \u201cthe harm alleged has a sufficiently close connection' to the conduct the statute prohibits.\u201d Id. at 1390.\nThe ATA presents precisely the risks with which the Court was concerned in Holmes and Lexmark. On its face, the ATA does not limit recovery to those directly injured. Rather, it allows \u201c[a]ny national of the United States injured ... by reason of an act of international terrorism, or his or her estate, survivors, or heirs\u201d to sue in federal court. 18 U.S.C. \u00a7 2333(a) (emphasis added). Thus, where an act of international terrorism causes an injury indirectly, there is inevitably a \u201cdiscontinuity\u201d between the injury and the defendant\u2019s conduct. See Lexmark Int'l, 134 S.Ct. at 1390 (explaining injuries that are \u201ctoo remote\u201d from a defendant\u2019s unlawful. conduct \u201cordinarily\u201d arise where the harm for which recovery is permitted is \u201cpurely derivative of. \u2018misfortunes visited upon a third person by the defendant\u2019s acts\u2019\u201d (quoting Holmes, 503 U.S. at 268, 112 S.Ct. 1311)); see also Linde v. Arab Bank, PLC, 97 F.Supp.3d 287, 324 (E.D.N.Y. 2015) (\u201cThe tort [that the \u00c1TA] condemns is one. of secondary action, not primary action. It assumes the existence of a tort by a third, party, and then renders the defendant liable for providing support to that third party.\u201d).\nAccordingly, the same three reasons that compelled the Holmes Court to adopt - the Clayton Act\u2019s \u201csome direct relation\u201d' requirement in the RICO context now motivate us to adopt that requirement- in the context of the ATA. As relevant here, the conduct the ATA prohibits is the provision of material support to international terrorists; See 18 U.S.C. \u00a7\u00a7 2333(a), 2339A, 2339B; see also Bank of Am. Corp., 137 S.Ct. at 1305 (2017) (identifying what alleged conduct the FHA prohibited in order to analyze proximate-cause). Not requiring that this provision-of support have some direct relation to a plaintiffs injuries (1) would make it extremely difficult to attribute damages to the provision of material support as distinct from other intervening factors, \u25a0 (2) would force courts to develop complicated damages-apportionment rules to avoid multiple recoveries, and (3) would create these difficulties needlessly, because victims injured more directly by the provision of material support, would* not be prevented from recovery by a \u201cdirect relation\u201d requirement. See Holmes, 503 U.S. at 268-70, 112 S.Ct. 18-11.\nB. Plaintiffs-Appellants\u2019 Foreseeability Argument\nPlaintiffs-Appellants urge us to break with Holmes and its progeny and adopt a different standard for proximate causation. Citing the Second Circuit\u2019s decision in R\u00f3thstein and the district court decision in Linde, Plaintiffs-Appellants argue that \u201c[pjroximate causation is established under the ATA when \u00e1 defendant\u2019s \u2018acts were a substantial f\u00e1etor in the sequence of responsible causation,\u2019 and the injury at issue \u2018was reasonably foreseeable or anticipated as a natural consequence.\u2019 \u201d\nPlaintiffs-Appellants\u2019 authorities are neither authoritative nor persuasive. With regard to R\u00f3thstein,. Plaintiffs-Appellants are correct that in distinguishing the traceability requirement of Article III standing from proximate cause in that case, the Second Circuit quoted its own prior observation that\n[cjentral to the notion of proximate cause is the idea that a person is not liable to all those who may have been injured by his conduct, but only to those with respect to whom his acts were a substantial factor in the sequence of responsible causation and whose injury was reasonably foreseeable or anticipated as a natural consequence.\n708 F.3d at 91 (quoting Lerner v. Fleet Bank, N.A., 318 F.3d 113, 123 (2d Cir. 2003), as amended (Apr. 16, 2003)). But' the Second Circuit also quoted the Supreme Court\u2019s holding in Anza that with respect to \u201cproximate causation, the central question is whether the alleged violation led directly to the plaintiffs injuries,\u201d id. at 91-92 (alteration omitted) (quoting Anza, 547 U.S. at 461, 126 S.Ct. 1991), and held that the ATA\u2019s \u201cby reason of\u2019 language should be interpreted to require a showing of \u201cproximate cause, as the term is ordinarily used,\u201d in the Sherman, Clayton, and RICO Act contexts, id. at 95. Ultimately, after considering both proximate cause standards, the Rothstein court found the plaintiffs had failed to plead proximate causation without ever' defining precisely its understanding of the concept. See id. at 95-97.\nSimilarly, while the district court in Linde denied the defendant\u2019s Rule 59 challenge to a jury instruction on causation that had focused \u201csolely on whether [the] defendant\u2019s acts were a substantial factor in causing [the] plaintiffs\u2019 injuries, and whether such injuries were a foreseeable result of those acts,\u201d the court also \u201cinstructed the jury that \u2018activities that are too remote, too indirect, or too attenuated are insufficient\u2019 to show proximate causation.\u201d 97 F.Supp.3d at 328 (alteration omitted). This language comes from Hemi Group, in which the Supreme Court instructed that\n[p]roximate cause for RICO purposes ... should be evaluated in light of its common-law foundations; proximate cause thus requires \u2022 \u201csome direct relation between the 'injury asserted- and the injurious conduct alleged.\u201d A link that is \u201ctoo remote,\u201d \u201cpurely contingent,\u201d or \u201cindirect\u201d is insufficient.\n559 U.S, at 9, 130 S.Ct. 983 (alteration omitted) (quoting Holmes, 503 U.S. at 268, 271, 274, 112 S.Ct. 1311). As was the case in Rothstein, rather than replacing a proximate cause definition based in directness with one based in foreseeability, the Linde court- blurred the two concepts. Thus, at most, Plaintiffs-Appellants\u2019 cases indicate that courts in a circuit other than ours have considered foreseeability and directness when evaluating showings of proximate cause in cases brought under the ATA. These cases do not trump Holmes and its Supreme Court progeny, and they do not establish that directness is unnecessary, or that a showing of foreseeability is sufficient on its'own to demonstrate proximate causation.' '\n. To be clear, we do not hold that a consideration of foreseeability is, irrelevant to, or never required in, a proximate cause analysis. Proximate cause is; an infamously nebulous concept .that the Court has explained is meant to serve as a generic label for \u201cthe judicial tools used to limit a person\u2019s responsibility for the-consequences of that person\u2019s , own acts.\u2019-\u2019 Holmes, 503 U.S. at 268, 112 S.Ct. 1311; see also Paroline v. United States, \u2014 U.S. \u2014 134 S.Ct. 1710, 1719, 188 L.Ed.2d 714 (2014).(\u201cThe idea of proximate cause, as distinct from actual cause or cause in fact,. defies easy summary.\u2019\u2019); United States v. Galan, 804 F.3d 1287, 1290 (9th Cir. 2015) (\u201cAs the Court demonstrated, the phrase \u2018proximate cause\u2019 hides (or encompasses) interpretive problems of its own.\u201d). We recognize that foreseeability is another- of the \u201cjudicial tools\u201d in-,the proximate cause toolshed. See Hemi Grp., 559 U.S. at 12, 130 S.Ct. 983 (\u201cThe concepts of direct relationship and foreseeability are'of course two of the \u2018many shapes proximate cause took at common law.-\u2019 \u201d (alteration omitted) (quoting Holmes, 503 U.S. at 268, 112 S.Ct. 1311).).\nHowever, for purposes of the ATA, it is a direct relationship, rather than foreseeability, that is required. \u201cThe key to the better interpretation lies in [the] statutory history,\u201d Holmes, 503 U.S. at 267, 112 S.Ct. 1311. In the ATA, Congress chose to use the phrase \u201cby reason of\u2019 to require a proximate cause showing, and the Court has consistently rejected arguments that this language requires only foreseeability. See Hemi Grp., 559 U.S. at 12, 130 S.Ct. 983 (affirming Anza\u2019s rejection of foreseeability in favor of focus \u201con the directness of the relationship between the conduct and the harm\u201d). And even in other contexts, where the Court has given foreseeability analysis more weight, the Court has still evinced a concern for the presence of some direct relationship between the defendant\u2019s acts and the injury. See, e.g., Cty. of L.A. v. Mendez, \u2014 U.S. \u2014, 137 S.Ct. 1539, 1548-49, 198 L.Ed.2d 52 (2017) (holding that \u00a7 1983 claim \u201crequired consideration of the \u2018foreseeability or the scope of the risk created by the predicate conduct,\u2019 and required the court to conclude that there was \u2018some direct relation between the injury asserted and the injurious conduct alleged\u2019 \u201d (quoting Paroline, 134 S.Ct. at 1719)). Thus, while it is true that \u201c[t]he proximate-cause inquiry is not easy to define, and over the years ... has taken various forms,\u201d we \u201chave a great deal of experience applying it, and ... a wealth of precedent for [us] to draw upon in doing so.\u201d Lexmark, 134 S.Ct. at 1390. Here, the relevant precedents analyzing the phrase \u201cby reason of\u2019 dictate that it must require a showing of at least some direct relationship between a defendant\u2019s acts and a plaintiffs injuries.\nC. Plaintiffs-Appellants\u2019 Fungibility Argument\nIn support of their alternative proximate causation definition, Plaintiffs-Appellants rely heavily on case law emphasizing the fungibility of support to terrorist organizations. For example, in Humanitarian Law Project v. Reno, 205 F.3d 1130 (9th Cir. 2000), we held that \u201call material support\u201d given to terrorist organizations \u201caids their unlawful goals.\u201d Id. at 1136. Focusing our attention on financial contributions in particular, we noted that there was no way to distinguish among those given to terrorist organizations for good versus for ill because (1) a donor has no way to tell how his donation is used; (2) \u201ceven contributions earmarked for peaceful purposes can be used to give aid to the families of those killed while carrying out terrorist acts, thus making the decision to engage in terrorism more attractive\u201d; and (3) \u201cmoney is fungible,\u201d such that \u201cgiving support intended to aid an organization\u2019s peaceful activities frees up resources that can be used for terrorist acts.\u201d Id. And, in Holder v. Humanitarian Law Project, 561 U.S. 1, 130 S.Ct. 2705, 177 L.Ed.2d 355 (2010), the Supreme Court expanded on our reasoning, holding that material support \u201cin any form\u201d could be fungible. Id. at 29-36, 130 S.Ct. 2705.\nBut these cases do not sway us to adopt Plaintiffs-Appellants\u2019 foreseeability standard. For one thing, their concern is with what constitutes \u201cmaterial support,\u201d not proximate causation. For another, their emphasis on the fungibility of support to terrorists only highlights the insufficiency of foreseeability alone as the standard for proximate causation in the ATA context. Indeed, the Court recently rejected a foreseeability standard of proximate causation for precisely this reason in Bank of America Corporation v. City of Miami, holding that in the context of the Fair Housing Act (FHA), \u201cforeseeability alone [could] not ensure the close connection that proximate cause requires.\u201d 137 S.Ct. at 1306. The Court reasoned that because \u201c[t]he housing market is interconnected with economic and social life,\u201d an FHA violation could \u201c \u2018be expected to cause ripples of harm to flow\u2019 far beyond the defendant\u2019s misconduct.\u201d Id. (quoting Associated Gen. Contractors, 459 U.S. at 534, 103 S.Ct. 897). However, the Court found \u201c[n]othing in the statute [to] suggest! ] that Congress intended to provide a remedy wherever those ripples travel,\u201d and was troubled by the risk of \u201cmassive and complex damages litigation\u201d that \u201centertaining suits to recover damages for any foreseeable result of an FHA violation\u201d would pose. Id. (quoting Associated Gen. Contractors, 459 U.S. at 545, 103 S.Ct. 897). Thus, the Court held that the FHA should be analogized to statutes with common law foundations, like the RICO Act, to which the Court has \u201crepeatedly applied directness principles\u201d and \u201crequire[d] \u2018some direct relation between the injury asserted and the injurious conduct alleged.\u2019\u201d Id. (quoting Holmes, 503 U.S. at 268, 112 S.Ct. 1311).\nWe reach the same conclusion. Communication services and equipment are highly interconnected with modern economic and social life, such that the provision of these services and equipment to terrorists could be expected to cause ripples of harm to flow far beyond the defendant\u2019s misconduct. Nothing in \u00a7 2333 indicates that Congress intended to provide a remedy to every person reached by these ripples; instead, Congress intentionally used the \u201cby reason of\u2019 language to limit recovery. Moreover, we are troubled by the seemingly boundless litigation risks that would be posed by extending the ATA\u2019s bounds as far as foreseeability may reach.\nWe also note that even where courts have accepted a fungibility theory with regard to the provision of material support to terrorists, they have emphasized that the fact of fungibility does not relieve claimants of their burden to show causation. Accepting the fungible nature of material support does not require a court to also hold that any reckless contribution to a terrorist group or affiliate, no matter its attenuation, must result in civil liability. See, e.g., Rothstein, 708 F.3d at 96 (rejecting theory that proximate cause was established per se by violation of antiterrorism law because that theory would impose strict liability inconsistent with Congress\u2019s intent in using \u201cby reason of\u2019 language); In re Terrorist Attacks on Sept. 11, 2001, 714 F.3d 118, 125 (2d Cir. 2013) (\"Although Congress clearly intended to create impediments to terrorism by \u2018the imposition of liability at any point along the causal chain of terrorism,\u2019 the \u2018by reason of language of the statute restricts the imposition of such liability to situations where plaintiffs plausibly allege that defendants!\u2019] actions proximately caused their injuries.\u201d (quoting S. Rep. No. 102-342, at 22 (1992))); Gill v. Arab Bank, PLC, 893 F.Supp.2d 474, 522 (E.D.N.Y. 2012) (rejecting \u201cthe contention that any reckless contribution to a terrorist group or its affiliate, no matter how attenuated, will result in civil liability, without the demonstration of a proximate causal relationship to the plaintiffs injury\u201d).\nThus, the fact of fungibility does not modify the causal requirement imposed by the ATA\u2019s \u201cby reason of\u2019 element. A plaintiff must show at least some direct relationship between the injuries that he or she suffered and the defendant\u2019s acts to bring a successful ATA claim.\nII. Plaintiffs-Appellants Fail to Plead Adequately Proximate Causation.\nHere, Plaintiffs-Appellants have not pleaded that Twitter\u2019s provision of communication equipment to ISIS, in the form of Twitter accounts and direct messaging services, had any direct relationship with the injuries that Plaintiffs-Appellants suffered. At most, the SAC establishes that Twitter\u2019s alleged provision of material support to ISIS facilitated the organization\u2019s growth and ability to plan and execute terrorist acts. But the SAC does not articulate any connection between Twitter\u2019s provision of this aid and Plaintiffs-Appellants\u2019 injuries. Rather, as the district court noted,\nthe allegations in the SAC do not support a plausible inference of proximate causation between Twitter\u2019s provision of \u25a0\u25a0\u2022accounts to ISIS and the deaths of Fields and Creach. Plaintiffs allege no connection between the shooter, Abu Zaid, and Twitter. There are no facts indicating that Abu Zaid\u2019s attack was in any way impacted, helped by, or the result of ISIS\u2019s presence on the social network.\nThus, proximate causation was not shown in this case. Though we do not diminish the tragedy of the events that led to this lawsuit, we hold that Plaintiffs-Appellants have not pleaded that Twitter\u2019s provision of accounts and messaging services to ISIS had any direct relation to the injuries Plaintiffs-Appellants suffered.\nCONCLUSION\n' For the foregoing r\u00e9asons, w\u00e9 affirm the district court\u2019s dismissal of Plaintiffs-Appellants\u2019 SAC. Because we have decided the case based on the insufficiency' of Plaintiffs-Appellants\u2019 pleading alone, we decline to reach the second question presented: whether Section 230 of Communications Decency Act of 1996 protects Twitter from liability. Plaintiffs-Appellants shall bear the costs on appeal.\nAFFIRMED.\n. ISIS is also known as \"the Islamic State of Iraq and the Levant,\u201d the \"Islamic State,\u201d \"ad-Dawlah al-Isl\u00e1miyah fil-Traq wash-Sham,\" and \"al-Qaeda in Iraq.\u201d\n. . \"Material support or resources\u201d is defined statutorily to include, among other things, any \"service\u201d and \"communications equipment.\u201d 18 U.S.C. \u00a7 2339A(b); . see also id. \u00a7 2339B(g)(4).\n. The term \"international terrorism\u201d is statutorily defined to include activities occurring abroad that \"(A) involve violent acts, or acts dangerous to human life that are a violation of the criminal laws of the United States or of any State\u201d and \"(B) appear to be intended\u2014 (i) to intimidate or coerce a civilian population; (ii) to influence the policy of a government by intimidation or coercion; or (iii) to affect the conduct of a government by mass destruction, assassination, or kidnapping ....\u201d 18 U.S.C. \u00a7 2331(1). Twitter does not argue that its acts do not qualify as \u201cinternational terrorism\u201d under this definition\u2014indeed, Twitter mentions this issue only' in a footnote of its brief. Therefore, \u2018 we do not address it. For purposes of this appeal, we assume, arguendo, that the SAC pleads properly the ATA\u2019s \"international terrorism\u201d element.\n. In footnotes in their briefing, the parties suggest that there might be a second dispute regarding the issue of but-for causation. However, because this dispute was not \u201cargued specifically and distinctly\u201d in either party\u2019s brief, we do not address it. Greenwood v. F.A.A., 28 F.3d 971, 977 (9th Cir. 1994); see also Rodriguez v. Airborne Express, 265 F.3d 890, 894 n.2 (9th Cir. 2001).\n. All four statutes use near identical language to create a private right of action. Compare Sherman Act, ch. 647, \u00a7 7, 26 Stat. 209, 210 (1890) (permitting \"[a]ny person who shall be injured in his business or property by any other person or corporation by reason of anything forbidden or declared to be unlawful by this act\u201d to sue in federal court and recover treble damages and attorney\u2019s fees), with 15 U.S.C. \u00a7 15(a) (the Clayton Act) (permitting \"any person who shall be injured in his business or property by reason of anything forbidden in the antitrust laws\u201d to sue in federal court and recover treble damages and attorney\u2019s fees), and 18 U.S.C. \u00a7 1964(c) (the RICO Act) (permitting \"[a]ny person injured in his business or property by reason of a violation of section 1962\u201d to sue in federal court and recover treble damages and attorney\u2019s fees).",
+        "type": "majority",
+        "author": "M. SMITH, Circuit Judge:"
+      }
+    ],
+    "attorneys": [
+      "Joshua D. Arisohn (argued), L. Timothy Fisher, and Scott A. Bursor, Bursor & Fisher P.A., Walnut Creek, California, New York, New York, for Plaintiffs-Appellants.",
+      "Seth P. Waxman (argued), Patrick J. Carome, and Ari Holtzblatt, Wilmer Cutler Pickering Hale and Dorr LLP, Washington, D.C.; Mark D. Flanagan, Wilmer Cutler Pickering Hale and Dorr LLP, Palo Alto, California; for Defendant-Appellee.",
+      "Aaron Mackey, Jamie Williams, and Sophia Cope, Electronic Frontier Foundation, San Francisco, California, for Amici Curiae Electronic Frontier Foundation and Center for Democracy & Technology.",
+      "Sonali D. Maitra, Durie Tangri LLP, San Francisco, California, for Amicus Curiae Internet Association.",
+      "Catherine R. Gellis, Sausalito, California, for Amicus Curiae Floor 64 Inc. DBA The Copia Institute."
+    ],
+    "corrections": "",
+    "head_matter": "Tamara FIELDS, on behalf of herself, as a representative of the Estate of Lloyd Fields, Jr.; Heather Creach, on behalf of herself and as a representative of the Estate of James Damon Creach; J.C. (1), a minor; J.C. (2), a minor, Plaintiffs-Appellants v. TWITTER, INC., Defendant-Appellee\nNo. 16-17165\nUnited States Court of Appeals, Ninth Circuit.\nArgued and Submitted December 6, 2017, San Francisco, California\nFiled January 31, 2018\nJoshua D. Arisohn (argued), L. Timothy Fisher, and Scott A. Bursor, Bursor & Fisher P.A., Walnut Creek, California, New York, New York, for Plaintiffs-Appellants.\nSeth P. Waxman (argued), Patrick J. Carome, and Ari Holtzblatt, Wilmer Cutler Pickering Hale and Dorr LLP, Washington, D.C.; Mark D. Flanagan, Wilmer Cutler Pickering Hale and Dorr LLP, Palo Alto, California; for Defendant-Appellee.\nAaron Mackey, Jamie Williams, and Sophia Cope, Electronic Frontier Foundation, San Francisco, California, for Amici Curiae Electronic Frontier Foundation and Center for Democracy & Technology.\nSonali D. Maitra, Durie Tangri LLP, San Francisco, California, for Amicus Curiae Internet Association.\nCatherine R. Gellis, Sausalito, California, for Amicus Curiae Floor 64 Inc. DBA The Copia Institute.\nBefore: MILAN D. SMITH, JR. and SANDRA S. IKUTA, Circuit Judges, and STEVEN J. MCAULIFFE, District Judge.\nThe Honorable Steven J. McAuliffe, Senior United States District Judge for the District of New Hampshire, sitting by designation."
+  },
+  "file_name": "0739-01",
+  "first_page_order": 777,
+  "last_page_order": 788
+}

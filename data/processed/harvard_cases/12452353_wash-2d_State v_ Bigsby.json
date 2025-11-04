@@ -1,0 +1,76 @@
+{
+  "id": 12452353,
+  "name": "State, Respondent, v. Bigsby, Petitioner",
+  "name_abbreviation": "State v. Bigsby",
+  "decision_date": "2017-03-29",
+  "docket_number": "No. 93987-0",
+  "first_page": "1025",
+  "last_page": "1025",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "187 Wash. 2d 1025"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Wash.",
+    "id": 9029,
+    "name": "Washington Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 38,
+    "name_long": "Washington",
+    "name": "Wash."
+  },
+  "cites_to": [
+    {
+      "cite": "196 Wn. App. 803",
+      "category": "reporters:state",
+      "reporter": "Wash. App.",
+      "case_ids": [
+        12461603
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-app/196/0803-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 28,
+    "char_count": 190,
+    "ocr_confidence": 0.862,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.25722542125042813
+    },
+    "sha256": "f96c80b4dfca31af207d895825f794de44b86741f241ad6a3cc4c411e934e931",
+    "simhash": "1:0499ee3d4d714cd5",
+    "word_count": 31
+  },
+  "last_updated": "2024-02-27T20:27:34.476040+00:00",
+  "provenance": {
+    "date_added": "2019-05-21",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "State, Respondent, v. Bigsby, Petitioner,"
+    ],
+    "opinions": [
+      {
+        "text": "Petition for review of a decision of the Court of Appeals, No. 73905-1-I, November 28, 2016, 196 Wn. App. 803. Granted March 29, 2017.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "State, Respondent, v. Bigsby, Petitioner,\nNo. 93987-0."
+  },
+  "file_name": "1025-03",
+  "first_page_order": 993,
+  "last_page_order": 993
+}

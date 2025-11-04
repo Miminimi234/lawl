@@ -1,0 +1,71 @@
+{
+  "id": 4271732,
+  "name": "Romiules Bonilla vs. Commonwealth",
+  "name_abbreviation": "Bonilla v. Commonwealth",
+  "decision_date": "2011-10-13",
+  "docket_number": "",
+  "first_page": "1014",
+  "last_page": "1015",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "460 Mass. 1014"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Mass.",
+    "id": 8825,
+    "name": "Massachusetts Supreme Judicial Court"
+  },
+  "jurisdiction": {
+    "id": 4,
+    "name_long": "Massachusetts",
+    "name": "Mass."
+  },
+  "cites_to": [
+    {
+      "cite": "432 Mass. 1028",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "case_ids": [
+        285258,
+        285269
+      ],
+      "year": 2000,
+      "pin_cites": [
+        {
+          "page": "1028"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mass/432/1028-02",
+        "/mass/432/1028-01"
+      ]
+    },
+    {
+      "cite": "422 Mass. 1501",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "year": 1996,
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 98,
+    "char_count": 1163,
+    "ocr_confidence": 0.908,
+    "sha256": "b1549251ac07fc3643214605fe63277bdb121adbceff04dcfa402572764287d8",
+    "simhash": "1:0d939be882f3ada3",
+    "word_count": 185
+  },
+  "last_updated": "2024-02-27T17:56:26.592595+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "file_name": "1014-02",
+  "first_page_order": 904,
+  "last_page_order": 905
+}

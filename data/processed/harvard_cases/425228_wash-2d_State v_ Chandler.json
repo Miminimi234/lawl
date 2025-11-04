@@ -1,0 +1,75 @@
+{
+  "id": 425228,
+  "name": "The State of Washington, Respondent, v. Benjamin J. Chandler, Petitioner",
+  "name_abbreviation": "State v. Chandler",
+  "decision_date": "2001-04-19",
+  "docket_number": "No. 69140-1",
+  "first_page": "485",
+  "last_page": "491",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "143 Wash. 2d 485"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Wash.",
+    "id": 9029,
+    "name": "Washington Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 38,
+    "name_long": "Washington",
+    "name": "Wash."
+  },
+  "cites_to": [
+    {
+      "cite": "734 P.2d 491",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "weight": 2,
+      "year": 1987,
+      "opinion_index": 0
+    },
+    {
+      "cite": "46 Wn. App. 882",
+      "category": "reporters:state",
+      "reporter": "Wash. App.",
+      "case_ids": [
+        1811873
+      ],
+      "weight": 2,
+      "year": 1987,
+      "pin_cites": [
+        {
+          "page": "892"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-app/46/0882-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 508,
+    "char_count": 11607,
+    "ocr_confidence": 0.753,
+    "pagerank": {
+      "raw": 6.390318350503573e-08,
+      "percentile": 0.39563349060118946
+    },
+    "sha256": "9f194637fe242fe991962dd48e21ba0d2056544e685b7595abd2445784c7ab5b",
+    "simhash": "1:31ecd7dc64c95d41",
+    "word_count": 1931
+  },
+  "last_updated": "2024-02-27T19:32:28.277612+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "file_name": "0485-01",
+  "first_page_order": 559,
+  "last_page_order": 565
+}

@@ -1,0 +1,106 @@
+{
+  "id": 4205413,
+  "name": "Jamil JOHNSON, Petitioner v. Pamela PRYOR-DEMBE of Philadelphia County Common Pleas Court, Respondent",
+  "name_abbreviation": "Johnson v. Pryor-Dembe",
+  "decision_date": "2011-10-24",
+  "docket_number": "No. 68 EM 2011",
+  "first_page": "316",
+  "last_page": "316",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "612 Pa. 316"
+    },
+    {
+      "type": "parallel",
+      "cite": "30 A.3d 1102"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "642 A.2d 453",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        775522,
+        7862821
+      ],
+      "year": 1994,
+      "pin_cites": [
+        {
+          "parenthetical": "hybrid representation not permitted"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/537/0167-01",
+        "/a2d/642/0453-01"
+      ]
+    },
+    {
+      "cite": "537 Pa. 167",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        775522
+      ],
+      "year": 1994,
+      "pin_cites": [
+        {
+          "parenthetical": "hybrid representation not permitted"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/537/0167-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 73,
+    "char_count": 602,
+    "ocr_confidence": 0.703,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.13865422269792563
+    },
+    "sha256": "8ed37a45f2f761ac61aaeb1d91afb6c420ce367b36119f709340e08e4581aa35",
+    "simhash": "1:657d963c6195723d",
+    "word_count": 95
+  },
+  "last_updated": "2024-02-27T21:06:01.025246+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Jamil JOHNSON, Petitioner v. Pamela PRYOR-DEMBE of Philadelphia County Common Pleas Court, Respondent."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nPER CURIAM.\nAND NOW, this 24th day of October, 2011, the Application for Leave to File Original Process and the Petition for Writ of Mandamus are DISMISSED. See Commonwealth v. Reid, 537 Pa. 167, 642 A.2d 453 (1994) (hybrid representation not permitted). The Prothonotary is directed to forward the filings to counsel of record. Additionally, the Prothonotary is directed to strike the jurist\u2019s name from the caption.",
+        "type": "majority",
+        "author": "PER CURIAM."
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "30 A.3d 1102\nJamil JOHNSON, Petitioner v. Pamela PRYOR-DEMBE of Philadelphia County Common Pleas Court, Respondent.\nNo. 68 EM 2011.\nSupreme Court of Pennsylvania.\nOct. 24, 2011."
+  },
+  "file_name": "0316-01",
+  "first_page_order": 360,
+  "last_page_order": 360
+}

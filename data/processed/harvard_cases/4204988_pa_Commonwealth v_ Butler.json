@@ -1,0 +1,67 @@
+{
+  "id": 4204988,
+  "name": "COMMONWEALTH of Pennsylvania v. Albert BUTLER, Petitioner",
+  "name_abbreviation": "Commonwealth v. Butler",
+  "decision_date": "2011-10-17",
+  "docket_number": "No. 66 EM 2011",
+  "first_page": "312",
+  "last_page": "312",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "612 Pa. 312"
+    },
+    {
+      "type": "parallel",
+      "cite": "30 A.3d 1101"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 40,
+    "char_count": 282,
+    "ocr_confidence": 0.706,
+    "pagerank": {
+      "raw": 4.688403287882615e-08,
+      "percentile": 0.13921729645376843
+    },
+    "sha256": "048538372950cfc01b0890db505334b193a73374cd595bcb23ccef707cfb2c4f",
+    "simhash": "1:54b4c33776d08271",
+    "word_count": 48
+  },
+  "last_updated": "2023-07-14T19:33:52.292960+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "COMMONWEALTH of Pennsylvania v. Albert BUTLER, Petitioner."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nPER CURIAM.\nAND NOW, this 17th day of October, 2011, the Petition for Leave to File Petition for Allowance of Appeal Nunc Pro Tunc is DENIED.",
+        "type": "majority",
+        "author": "PER CURIAM."
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "30 A.3d 1101\nCOMMONWEALTH of Pennsylvania v. Albert BUTLER, Petitioner.\nNo. 66 EM 2011.\nSupreme Court of Pennsylvania.\nOct. 17, 2011."
+  },
+  "file_name": "0312-02",
+  "first_page_order": 356,
+  "last_page_order": 356
+}

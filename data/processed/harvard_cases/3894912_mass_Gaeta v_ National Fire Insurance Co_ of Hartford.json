@@ -1,0 +1,90 @@
+{
+  "id": 3894912,
+  "name": "Mary Gaeta, administratrix, vs. National Fire Insurance Company of Hartford & another",
+  "name_abbreviation": "Gaeta v. National Fire Insurance Co. of Hartford",
+  "decision_date": "1991-07-09",
+  "docket_number": "",
+  "first_page": "592",
+  "last_page": "595",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "410 Mass. 592"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Mass.",
+    "id": 8825,
+    "name": "Massachusetts Supreme Judicial Court"
+  },
+  "jurisdiction": {
+    "id": 4,
+    "name_long": "Massachusetts",
+    "name": "Mass."
+  },
+  "cites_to": [
+    {
+      "cite": "383 Mass. 36",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "case_ids": [
+        813524
+      ],
+      "weight": 4,
+      "year": 1981,
+      "pin_cites": [
+        {
+          "page": "37"
+        },
+        {
+          "page": "37-38"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mass/383/0036-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 417,
+    "char_count": 7925,
+    "ocr_confidence": 0.95,
+    "pagerank": {
+      "raw": 1.4070312347011513e-07,
+      "percentile": 0.6462314984387121
+    },
+    "sha256": "bf063944aedca0c019c72c255c795a0f51ea1b19155c76cbad16bd64f5f7178a",
+    "simhash": "1:013ccf9777350b8f",
+    "word_count": 1310
+  },
+  "last_updated": "2024-02-27T17:24:21.316167+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Mary Gaeta, administratrix, vs. National Fire Insurance Company of Hartford & another."
+    ],
+    "opinions": [
+      {
+        "text": "O\u2019Connor, J.\nThe plaintiffs deceased husband sustained personal injuries and died as a result of an elevator accident. He was in the course of his employment at the time. The plaintiff, who is the deceased\u2019s widow, received workers\u2019 compensation benefits in the sum of $105,495 from the defendant insurance company (National). She also brought a tort action arising out of the same incident against Belle Elevator Company, Inc., and Michael B. Moskow in the Superior Court. Moskow had liability insurance with Integrity Insurance Company (Integrity). Because Integrity was insolvent, the intervener, Massachusetts Insurers Insolvency Fund (Fund), became obligated to satisfy Integrity\u2019s unpaid claims to the extent they were covered by G. L. c. 175D, \u00a7 5 (1) (o) (1990 ed.).\nThe tort action was settled before trial for $723,653.26. Belle Elevator Company, Inc., agreed to pay $299,148.26. Moskow agreed to pay $30,000 personally. His excess insurance carrier agreed to pay $200,000 and the Fund agreed to pay $194,505, which represented the difference between $300,000, the Fund\u2019s statutory maximum, and $105,495, which was the amount of the workers\u2019 compensation payments. National (the deceased\u2019s employer\u2019s workers\u2019 compensation carrier) was not a party to the tort action or a participant in the settlement negotiations.\nGeneral Laws c. 152, \u00a7 15 (1990 ed.), provides in relevant part that, when an employee is injured in the course of his employment, he not only is entitled to workers\u2019 compensation but he may also bring a tort action against responsible third parties. \u201cThe sum recovered shall be for the benefit of the [workers\u2019 compensation] insurer, unless such sum is greater than that paid by it to the employee, in which event the excess shall be retained by or paid to the employee.\u201d Furthermore, according to \u00a7 15, no pretrial settlement of a third-party tort action \u201cshall be made . . . without the approval of either the board, the reviewing board, or the court in which the action has been commenced after an opportunity has been afforded both the [workers\u2019 compensation] insurer and the employee to be heard on the merits of the settlement and on the amount, if any, to which the insurer is entitled out of such settlement by way of reimbursement, which amount shall be determined at the time of such approval.\u201d\nThe parties to the agreement in settlement of the Superior Court tort action sought the court\u2019s approval of the agreement. Counsel entered an appearance for National and filed an objection to the proposed settlement, contending that it was entitled under c. 152, \u00a7 15, to be reimbursed for the workers\u2019 compensation benefits it had paid the plaintiff. It was at this point that the Fund sought and received permission to intervene for the purpose of \u201coppos[ing] the objection\u201d of National. As a result, the parties entered into an amended settlement agreement, approved by a judge in the Superior Court, which provided that $51,000 would be withheld from the settlement amount and placed in escrow pending judicial resolution of the question whether National is entitled to reimbursement under c. 152, \u00a7 15. Under the agreement, if National is entitled to reimbursement, the $51,000 is to be paid to National. Otherwise, the $51,000 is to be paid to the plaintiff. For purposes of this appeal, the rationale that led to the Fund\u2019s contribution of $194,505 to the settlement, and the rationale that prompted the parties to settle on $51,000 as the proper amount to be held in escrow, is unimportant. The only question now is whether National or the plaintiff is entitled to that money.\nThe procedural mechanism for obtaining judicial resolution of the question as to who is entitled to the $51,000 was the filing by National and the Fund of cross motions for summary judgment. National\u2019s motion was allowed, and the judge ordered that the $51,000 be paid to it. The plaintiff and the Fund appealed, and we transferred the case from the Appeals Court to this court on our own initiative. Although our reasoning differs from that of the judge, we agree with his disposition of National\u2019s motion and his order. Therefore, we affirm the judgment below.\nAs a result of the insolvency of Moskow\u2019s liability insurer, Integrity, the Fund became obligated to pay \u201ccovered claims\u201d against Moskow. G. L. c. 175D, \u00a7 5 (1) (a) (1990 ed.). See Ferrari v. Toto, 383 Mass. 36, 37 (1981). \u201cCovered claims\u201d do not include claims for amounts due to insurers. G. L. c. 175D, \u00a7 1 (2). Ferrari v. Toto, supra. The Fund\u2019s position appears to be that, if National were to be paid the $51,000 held in escrow, the Fund\u2019s voluntary contribution to the total settlement would constitute payment of a claim for an amount due to an insurer contrary to the Fund\u2019s statutory mandate. The Fund concludes that, to avoid that result, the $51,000 held in escrow must be paid to the plaintiff. We disagree. The $51,000 payment pursuant to judicial order would not convert the Fund\u2019s contribution of $194,505 to a $723,653.26 settlement of a third-party tort claim into the payment of an amount due to an insurer. Nothing in Ferrari v. Toto, supra, which is relied on by the Fund but is significantly distinguishable from the present case on its facts, requires us to conclude that it would. Instead, as we pointed out in Ferrari, G. L. c. 175D was not designed to place a plaintiff in a third-party tort action, such as the plaintiff here, in a better position than she would have been in if the defendant\u2019s liability insurer had remained solvent. Id. at 37-38. Here, if Integrity had remained solvent and had contributed $194,505 to the settlement, the $51,000 held in escrow would very clearly belong to National under G. L. c. 152, \u00a7 15. Protection of the plaintiff, but no windfall in the form of double recovery, as argued for by the Fund, is called for by c. 175D.\nJudgment affirmed.\nThe Fund has filed a brief and a reply brief in this court. The plaintiff has expressed her support of the arguments presented in those briefs, but she has not filed a separate brief of her own.\nWe note that the Fund has not appealed from the judge\u2019s order approving the amended settlement agreement and the Fund does not seek to be excused from contributing its agreed $194,505 to the settlement \u201cpot.\u201d The Fund\u2019s sole contention appears to be that the plaintiff, and not National, should be paid the $51,000 held in escrow. Because there is no sug-gesti\u00f3n that the Fund stands to gain or lose by virtue of our decision, we fail to understand the reason for the Fund\u2019s appeal and active involvement at this stage of the proceedings. However, no \u201cstanding\u201d argument has been made by National, and we will consider the substantive issue.",
+        "type": "majority",
+        "author": "O\u2019Connor, J."
+      }
+    ],
+    "attorneys": [
+      "Joseph C. Tanski (John P. Connelly with him) for Massachusetts Insurers Insolvency Fund.",
+      "Terrance J. Hamilton (Gregg S. Blackburn with him) for National Fire Insurance Company of Hartford.",
+      "Neil Sugarman, for Mary Gaeta, was present but did not argue."
+    ],
+    "corrections": "",
+    "head_matter": "Mary Gaeta, administratrix, vs. National Fire Insurance Company of Hartford & another.\nSuffolk.\nFebruary 6, 1991. -\nJuly 9, 1991.\nPresent: Liacos. C.J.. Wilkins. Nolan, Lynch, & O\u2019Connor. JJ.\nWorkers' Compensation Act, Recovery from third person. Insurance, Insolvency of insurer. Massachusetts Insurers Insolvency Fund.\nGeneral Laws c. 175D, \u00a7 1 (2), did not relieve the Massachusetts Insurers Insolvency Fund from the obligation of reimbursing a workers\u2019 compensation insurer in the court-approved settlement of a third-party tort action brought under the provisions of G. L. c. 152, \u00a7 15. [594-595]\nCivil action commenced in the Superior Court Department on February 16, 1984.\nThe case was heard by John C. Cratsley, J., on motions for summary judgment.\nThe Supreme Judicial Court on its own initiative transferred the case from the Appeals Court.\nJoseph C. Tanski (John P. Connelly with him) for Massachusetts Insurers Insolvency Fund.\nTerrance J. Hamilton (Gregg S. Blackburn with him) for National Fire Insurance Company of Hartford.\nNeil Sugarman, for Mary Gaeta, was present but did not argue.\nOf the estate of Anthony J. Gaeta, III.\nMassachusetts Insurers Insolvency Fund, defendant intervener."
+  },
+  "file_name": "0592-01",
+  "first_page_order": 608,
+  "last_page_order": 611
+}

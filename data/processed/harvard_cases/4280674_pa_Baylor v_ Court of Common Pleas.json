@@ -1,0 +1,47 @@
+{
+  "id": 4280674,
+  "name": "Troy BAYLOR, Petitioner v. COURT OF COMMON PLEAS OF PHILADELPHIA COUNTY, Respondent",
+  "name_abbreviation": "Baylor v. Court of Common Pleas",
+  "decision_date": "2013-11-20",
+  "docket_number": "No. 157 EM 2013",
+  "first_page": "174",
+  "last_page": "174",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "622 Pa. 174"
+    },
+    {
+      "type": "parallel",
+      "cite": "80 A.3d 379"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 45,
+    "char_count": 332,
+    "ocr_confidence": 0.659,
+    "sha256": "96c4f373d5348ea7e3e9260767743974265fe6c65d697ca5e0711eb94cb7b4af",
+    "simhash": "1:7d03c2b6d2d11cad",
+    "word_count": 56
+  },
+  "last_updated": "2023-07-14T18:30:24.877122+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "file_name": "0174-01",
+  "first_page_order": 218,
+  "last_page_order": 218
+}

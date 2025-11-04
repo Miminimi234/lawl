@@ -1,0 +1,671 @@
+{
+  "id": 546167,
+  "name": "Michael Dalton, Respondent, v. Lewis M. Smith et al., Appellants",
+  "name_abbreviation": "Dalton v. Smith",
+  "decision_date": "1881-10-04",
+  "docket_number": "",
+  "first_page": "176",
+  "last_page": "186",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "86 N.Y. 176"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "N.Y.",
+    "id": 24653,
+    "name": "New York Court of Appeals"
+  },
+  "jurisdiction": {
+    "id": 1,
+    "name_long": "New York",
+    "name": "N.Y."
+  },
+  "cites_to": [
+    {
+      "cite": "28 N. Y. 641",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        2036855
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny/28/0641-01"
+      ]
+    },
+    {
+      "cite": "40 N. Y. 259",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        503199
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny/40/0259-01"
+      ]
+    },
+    {
+      "cite": "3 Barb. 548",
+      "category": "reporters:state",
+      "reporter": "Barb.",
+      "case_ids": [
+        8594341
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/barb/3/0548-01"
+      ]
+    },
+    {
+      "cite": "20 N. Y. 76",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        2022918
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny/20/0076-01"
+      ]
+    },
+    {
+      "cite": "23 Wend. 79",
+      "category": "reporters:state",
+      "reporter": "Wend.",
+      "case_ids": [
+        2025495
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/wend/23/0078-01"
+      ]
+    },
+    {
+      "cite": "4 Barb. 324",
+      "category": "reporters:state",
+      "reporter": "Barb.",
+      "case_ids": [
+        5778340
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/barb/4/0324-01"
+      ]
+    },
+    {
+      "cite": "25 Wend. 417",
+      "category": "reporters:state",
+      "reporter": "Wend.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "7 N. Y. 550",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "pin_cites": [
+        {
+          "page": "554"
+        }
+      ],
+      "opinion_index": -1
+    },
+    {
+      "cite": "10 Bosw. 148",
+      "category": "reporters:state",
+      "reporter": "Bosw.",
+      "case_ids": [
+        1318727
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny-super-ct/23/0148-01"
+      ]
+    },
+    {
+      "cite": "12 How. 122",
+      "category": "reporters:scotus_early",
+      "reporter": "How.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "69 N. Y. 147",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "68 N. Y. 30",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        529032
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny/68/0030-01"
+      ]
+    },
+    {
+      "cite": "1 Barb. 454",
+      "category": "reporters:state",
+      "reporter": "Barb.",
+      "case_ids": [
+        5777685
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/barb/1/0454-01"
+      ]
+    },
+    {
+      "cite": "19 Johns. 95",
+      "category": "reporters:state",
+      "reporter": "Johns.",
+      "case_ids": [
+        380587
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/johns/19/0095-01"
+      ]
+    },
+    {
+      "cite": "24 N. Y. 381",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        2029465
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny/24/0381-01"
+      ]
+    },
+    {
+      "cite": "6 Bosw. 639",
+      "category": "reporters:state",
+      "reporter": "Bosw.",
+      "case_ids": [
+        1321984
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny-super-ct/19/0639-01"
+      ]
+    },
+    {
+      "cite": "12 N. Y. 623",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "56 Barb. 435",
+      "category": "reporters:state",
+      "reporter": "Barb.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "3 N. Y. 345",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "7 Hill, 451",
+      "category": "reporters:state",
+      "reporter": "Hill,",
+      "opinion_index": -1
+    },
+    {
+      "cite": "4 N. Y. 363",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "22 Barb. 124",
+      "category": "reporters:state",
+      "reporter": "Barb.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "13 Johns. 39",
+      "category": "reporters:state",
+      "reporter": "Johns.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "11 Barb. 83",
+      "category": "reporters:state",
+      "reporter": "Barb.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "78 N. Y. 137",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        544382
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny/78/0137-01"
+      ]
+    },
+    {
+      "cite": "2 Hall, 449",
+      "category": "reporters:state",
+      "reporter": "Hall",
+      "case_ids": [
+        1361716
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny-super-ct/2/0449-01"
+      ]
+    },
+    {
+      "cite": "1 Hill, 234",
+      "category": "reporters:state",
+      "reporter": "Hill,",
+      "case_ids": [
+        8484314
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/scl/19/0234-01"
+      ]
+    },
+    {
+      "cite": "7 Lans. 511",
+      "category": "reporters:state",
+      "reporter": "Lans.",
+      "case_ids": [
+        4850896
+      ],
+      "weight": 2,
+      "opinion_index": -1,
+      "case_paths": [
+        "/lans/7/0511-01"
+      ]
+    },
+    {
+      "cite": "5 Hill, 577",
+      "category": "reporters:state",
+      "reporter": "Hill,",
+      "opinion_index": -1
+    },
+    {
+      "cite": "16 N. Y. 231",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        1297836
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny/16/0223-01"
+      ]
+    },
+    {
+      "cite": "50 N. Y. 49",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        2059663
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "107"
+        }
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny/50/0049-01"
+      ]
+    },
+    {
+      "cite": "14 N. Y. 127",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "4 Sandf. Ch. 333",
+      "category": "reporters:state",
+      "reporter": "Sand. Ch.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "17 Kans. 355",
+      "category": "reporters:state",
+      "reporter": "Kan.",
+      "case_ids": [
+        81423
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/kan/17/0355-01"
+      ]
+    },
+    {
+      "cite": "55 Ind. 341",
+      "category": "reporters:state",
+      "reporter": "Ind.",
+      "case_ids": [
+        1490971
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ind/55/0341-01"
+      ]
+    },
+    {
+      "cite": "26 Ohio, 59",
+      "category": "reporters:state",
+      "reporter": "Ohio",
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "141"
+        }
+      ],
+      "opinion_index": -1
+    },
+    {
+      "cite": "30 N. Y. 206",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "7 Hill, 391",
+      "category": "reporters:state",
+      "reporter": "Hill,",
+      "opinion_index": -1
+    },
+    {
+      "cite": "83 Penn. St. 34",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1050804
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/83/0034-01"
+      ]
+    },
+    {
+      "cite": "31 Ark. 597",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1879254
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/31/0597-01"
+      ]
+    },
+    {
+      "cite": "31 How. 1",
+      "category": "reporters:scotus_early",
+      "reporter": "How.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "40 N. Y. 181",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        503095
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "183"
+        },
+        {
+          "page": "214"
+        }
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny/40/0181-01"
+      ]
+    },
+    {
+      "cite": "23 Barb. 461",
+      "category": "reporters:state",
+      "reporter": "Barb.",
+      "case_ids": [
+        1941861
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/barb/23/0461-01"
+      ]
+    },
+    {
+      "cite": "9 Wend. 80",
+      "category": "reporters:state",
+      "reporter": "Wend.",
+      "case_ids": [
+        2011192
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/wend/9/0080-01"
+      ]
+    },
+    {
+      "cite": "5 Cow. 202",
+      "category": "reporters:state",
+      "reporter": "Cow.",
+      "case_ids": [
+        2032809
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/cow/5/0202-01"
+      ]
+    },
+    {
+      "cite": "21 Barb. 489",
+      "category": "reporters:state",
+      "reporter": "Barb.",
+      "case_ids": [
+        2422881
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/barb/21/0489-01"
+      ]
+    },
+    {
+      "cite": "19 Wend. 232",
+      "category": "reporters:state",
+      "reporter": "Wend.",
+      "case_ids": [
+        2023426
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/wend/19/0232-01"
+      ]
+    },
+    {
+      "cite": "47 N. Y. 186",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        509612
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny/47/0186-01"
+      ]
+    },
+    {
+      "cite": "1 Sweeny, 466",
+      "category": "reporters:state",
+      "reporter": "Sweeny",
+      "case_ids": [
+        1419134
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny-super-ct/31/0466-01"
+      ]
+    },
+    {
+      "cite": "2 Lans. 94",
+      "category": "reporters:state",
+      "reporter": "Lans.",
+      "case_ids": [
+        4817255
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/lans/2/0094-01"
+      ]
+    },
+    {
+      "cite": "8 Bosw. 415",
+      "category": "reporters:state",
+      "reporter": "Bosw.",
+      "case_ids": [
+        1320526
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny-super-ct/21/0415-01"
+      ]
+    },
+    {
+      "cite": "6 N. Y. 107",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        2498514
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny/6/0105-01"
+      ]
+    },
+    {
+      "cite": "10 Barb. 576",
+      "category": "reporters:state",
+      "reporter": "Barb.",
+      "case_ids": [
+        2413795
+      ],
+      "weight": 2,
+      "opinion_index": -1,
+      "case_paths": [
+        "/barb/10/0576-01"
+      ]
+    },
+    {
+      "cite": "5 Denio, 236",
+      "category": "reporters:state",
+      "reporter": "Denio",
+      "case_ids": [
+        1881449
+      ],
+      "weight": 3,
+      "opinion_index": -1,
+      "case_paths": [
+        "/denio/5/0236-01"
+      ]
+    },
+    {
+      "cite": "20 N. Y. 76",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        2022918
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny/20/0076-01"
+      ]
+    },
+    {
+      "cite": "25 Wend. 417",
+      "category": "reporters:state",
+      "reporter": "Wend.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "7 N. Y. 550",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "pin_cites": [
+        {
+          "page": "554"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "16 N. Y. 231",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        1297836
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny/16/0223-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 995,
+    "char_count": 23906,
+    "ocr_confidence": 0.486,
+    "pagerank": {
+      "raw": 3.265939534956312e-07,
+      "percentile": 0.8698097842769984
+    },
+    "sha256": "03d7329454b0361dd9c14075391e1d04a429adc625983d71f08152632cafb219",
+    "simhash": "1:2ee999a90eccd546",
+    "word_count": 4272
+  },
+  "last_updated": "2024-02-27T20:42:53.385782+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Michael Dalton, Respondent, v. Lewis M. Smith et al., Appellants."
+    ],
+    "opinions": [
+      {
+        "text": "Rapallo, J.\n'The complaint states the plaintiff\u2019s claim in two aspects. First, he alleges that he assigned a bond and mortgage of \u00a74,000 to the defendants as collateral security for a loan of $2,000. That they foreclosed the mortgage and bought in the mortgaged premises for $2,000 and afterward sold them for $5,000. That the plaintiff was not a party to the foreclosure suit and consequently still continued the equitable owner of the mortgage and of all that was realized by the defendants thereon, in excess of the $2,000 they had loaned him, with interest.\nThe ground of action secondly set forth is that the loan of $2,000, as collateral for which the bond and mortgage were assigned, was usurious. That when the defendants bought in the mortgaged premises under their, foreclosure they were worth over $5,000, and that they were afterward sold by the defendants for that sum, and the plaintiff claimed that he was entitled to recover the entire avails of the mortgage, viz.: the value of the property and certain insurance money received for buildings destroyed.\nThe defenses set up in the answer were that the defendants did not receive the assignment of the mortgage as collateral security for money loaned to the plaintiff, but made an absolute purchase thereof from the plaintiff, agreeing to pay therefor $2,000 down, and an additional $2,000 when the last installment due on the mortgage was paid (the mortgage being payable in four semi-annual installments of $1,000 each). That default being made in the payment of the first installment, the defend- \u2022 ants foreclosed it in May, 1868, and bought in the premises for $2,000 in 1869; that they were not then worth much if any more than that sum and the costs- of the foreclosure, but that afterward, under peculiar circumstances, they sold them for $5,000. That the- mortgagor was insolvent and unable to pay the deficiency, and the last installment due on the mortgage has not been paid, and nothing was received from the mortgage except $2,000.\nFor a further answer the defendants set up, that in March, 1868, the plaintiff was, upon his own petition, adjudged a bankrupt under the United States Bankrupt Act, and in April, 1868, an assignee was appointed, and the plaintiff in Hay, 1868, executed an assignment in pursuance of the act, and that consequently the plaintiff had no interest in the demand set up in the complaint, but that the title thereto, if any existed, was vested in the assignee in bankruptcy, and that the proceedings were still pending.\nOn the trial there was. a conflict in the evidence as to whether the transfer of the mortgage wa's as collateral to a loan, or upon a contract of sale, the plaintiff testifying that it was as collateral, and \u25a0 that it was agreed that the defendants should have the whole of the interest collected on the $4,000 until the last instalment should be paid, and the defendants claiming the transaction to have been as stated in their answer. It appeared in evidence, however, that at the time the transaction was closed the defendants delivered to the plaintiff a writing as follows :\u2022\n\u201c For value received, we agree to pay to Michael Dalton, $2,000 as soon as the last payment is due and paid of a certain $4,000 mortgage made by Wm. Hoekenberger and wife, to Michael Dalton, and this day assigned and guaranteed by said Dalton to us.'\nSMITH & HALL, Bankers.\u201d\nElmira, Oet. 23, 1867.\nThe plaintiff at the same time delivered to the defendants an assignment of the mortgage, absolute on its face, which contained a covenant that there was then due thereon $4,000 and interest from October 18, 1867.\nThe rights of the parties under this state of facts, laying out of view, for the moment, the effect of the proceedings in bankruptcy, are not difficult to determine. If the defendantsimaintained their claim that they were absolute purchasers of the mortgage, agreeing to pay therefor the additional $2,000 only in case the mortgagor should pay the whole of the\u2019 mortgage debt when due, that was an end of the plaintiff\u2019s case. But if, on the contrary, they merely loaned $2,000 thereon to the plaintiff and the writing was intended to provide simply for the payment to him of the surplus in case the mortgage should be paid according to its terms, leaving unprovided for the case of a foreclosure, the form in which the transaction was put did not deprive the plaintiff of his equity of redemption in the mortgage, or of his right to any surplus which might be realized from it or from the land into which it was converted by the foreclosure, before his rights, as between him and the defendants, had been cut off. These rights he would have had independently of any question of usury. The equitable interest which he retained in the mortgage attached to the land bought in by his pledgees under their foreclosure, he not having been a party thereto, or to any other proceeding to foreclose him, and when they subsequently sold the land for more than the amount of their claim against the plaintiff, they became liable to him for the surplus. (Slee v. Manhattan Co., 1 Paige, 48; Hoyt v. Martense, 16 N. Y. 231.) But if the loan was usurious, a different rule applied. The_ assignment of the mortgage was void, and the plaintiff, could hold the defendants liable for the value of the mortgage at that time, as upon a conversion, or for the proceeds realized by means thereof, as having been received to his use, without any deduction on account of the money loaned.\nThe court, however, in submitting the 'case to the jury, rested it wholly upon the question of usury, holding that no recovery could be had upon the written'contract to pay the \u00a72,000 when the last installment of the mortgage should have been paid, and omitting any reference to what the rights of the parties would be if the jury should find that the mortgage was assigned as security for a loan, free from usury (a finding which might, under the evidence, have been made); but, leaving it to the jury to say whether the transaction was a loan, and if so, whether it was usurious, and charging that, if' they found it to be a loan, and to have been usurious, the plaintiff was entitled to recover the value of the property, over and above the $2,-000 advanced, and interest. To this ruling the defendants\u2019 counsel excepted, and asked the court to charge that, if the plaintiff was entitled to recover at all, on account of a usurious loan, he was entitled to recover the whole value of the property without deduction for the amount advanced. To this \"request the court replied that if the defendants had no objection and the parties concurred in that rule of damages he would so charge the jury. The plaintiff remained silent, and to the refusal of the court to charge as requested, the defendants excepted. The jury rendered a verdict in favor of plaintiff for-$2,129.25. -\nThe point urged by the counsel for the defendants in support of this exception is that, had the jury, in deciding the ques tion of usury, been confronted with the severe consequences which would have been visited upon the defendants by a finding of usury, they would have been less likely to render a verdict to that effect, and might, in preference, have found that the transaction was a sale and not a pledge of the mortgage, and thus given their verdict for the defendants.\nWe cannot give our assent to this view. The error in the charge was in the defendants\u2019 favor, and they have no right to complain that it enabled the jury to render a smaller verdict than that to which the plaintiff was entitled. It is not a legitimate presumption that the jury were governed in them finding of the facts by the amount of the verdict. To so hold would entitle the defendants to a new trial whenever the court commits an error in their favor on the question of damages.\nThe charge was also erroneous in holding that the plaintiff was entitled to recover the value of the property at the time of the assignment of the mortgage, instead of the value of the mortgage or the amount of its proceeds; but no exception in the case is directed to -this point. On the contrary, the defendants\u2019 counsel, in his request, assumes that the value of the property is the amount involved. Furthermore, it is clear that no injury to the defendants resulted from this error. (20 N. Y. 76; Ledyard v. Jones, 7 N. Y. 550, 554; Potter v. Hopkins, 25 Wend. 417.)\nAt the beginning of the trial the plaintiff gave evidence of the value of the mortgaged premises at the time of the assignment of the mortgage, and the defendants\u2019 counsel duly objected and excepted to 'the admission of this evidence. It is difficult to see what harm could have resulted to the defendants from its admission, but however that may be, it was not so wholly irrelevant as to make its admission error. The objection was general to its competency and materiality. As the case then stood, the evidence bore upon the question of the value of the mortgage at the time of the assignment, which was one rule of damages which might have been adopted. It is true, it was not expressly offered for that purpose; but if it was, in fact, competent for any purpose, that is an answer to the general \u2022objection. It also had some slight bearing oh the question whether there was a sale or a pledge of the mortgage.\nThus far the case has been considered without reference to the proceedings in bankruptcy, and the evidence by which the plaintiff sought to obviate their effect. \u2019 They were set up as a \u2022distinct defense and were proved upon the trial.\nThe plaintiff, after a motion to nonsuit had been denied, was permitted to reopen his case and testify, under exceptions, that shortly before the institution of the proceedings in bankruptcy he turned out the claim represented by the writing received from the defendants, Oct. 23, 1861, to his wife, in payment of a debt of about $800, which he owed her. That he indorsed the paper and handed it to.her, and told her that she might take that to pay her what he owed her. That there was no other form gone through with in transferring the paper, except the passing of it over to her. He then adds, \u201c By that I surrendered my entire claim against Smith & H\u00e1lito my wife.\u201d This is simply the opinion of the witness as to the effect of the acts which he testified to. He does not pretend that any thing was said or done, except what is above stated, and we think that the position of the counsel for the defendants is correct, that the proof shows only a transfer of the agreement of the defendants to pay the surplus of $2,000 to plaintiff. Even if this transfer carried whatever right the plaintiff had to the surplus beyond the amount due from him to the defendants, it certainly did not transfer to the wife the. plaintiff\u2019s right to disaffirm the assignment on the ground of usury and recover back the mortgage or its value or proceeds. The assignment merely of an expected surplus in property subject to an usurious hypothecation, does not entitle the assignee to avoid the lien, or to claim the property free from the hen. That right, notwithstanding the assignment to the wife,-remained in the plaintiff and passed, in 1868, to his assignee in bankruptcy. The subsequent re-transfer by plaintiff \u2019s wife to him in July, 1873, purports to reassign the agreement of Oct. 23, 1867, and any claim against the defendants arising out of said agreement, or of any transaction or proceeding of the defendants in regard to the agreement, or the mortgage, or the mortgaged premises. She could not transfer any right except such as had been transferred to her, and this certainly did not include the right of action upon- which the plaintiff has recovered. It is no answer to this objection that by reason of the adoption of an erroneous rule of damages the recovery was reduced to an amount which would have been recoverable if it had been based on a claim for the surplus only. The point cannot be escaped that the plaintiff has been allowed to recover upon a cause of action. which did not belong to him, but was vested in the assignee in bankruptcy, and the recovery cannot be sustained on the ground that it does not exceed in amount what he might have recovered for a different cause of' action. But it is, to say the least, very questionable whether the transfer to the wife passed any thing except the right to claim the $2,000 under the agreement, in case of the' payment of the mortgage (an agreement upon which the court held no recovery could be had), and whether\" all other rights of the plaintiff did not pass to the assignee. But, as further facts may appear on a new trial, we will for-, bear passing finally upon that point at present.\nThe claim of the plaintiff that all Dalton\u2019s debts had been paid and the title of the assignee thus extinguished, is not sustained by the proofs.\nThe judgment should be reversed and a new trial granted, costs to abide the event.\nAll concur, except Bolgek, Oh. J., absent from argument.\nJudgment reversed.",
+        "type": "majority",
+        "author": "Rapallo, J."
+      }
+    ],
+    "attorneys": [
+      "J. McGuire for appellants.",
+      "Samuel Hand for respondent."
+    ],
+    "corrections": "",
+    "head_matter": "Michael Dalton, Respondent, v. Lewis M. Smith et al., Appellants.\nWhere a bond and mortgage are assigned as collateral for a loan, with an agreement upon the part of the lender that he will, on payment of the mortgage, pay to the borrower the excess of the principal over and above-the amount of the loan, and without any agreement as to a foreclosure, and where the mortgage is foreclosed by the lender without making the borrower a party thereto, or to any other proceedings to foreclose him,, and the mortgaged premises are bid in by the lender, the equitable interest which the borrower retained in the mortgage, attaches to the land, and he is entitled to the surplus, in case of a sale thereof by the lender for more than the amount of his claim.\nThe assignment merely of an expected surplus in property pledged to secure an usurious loan does not entitle the assignee to avoid the lien or to, claim the property free therefrom.\nPlaintiff\u2019s complaint alleged among other things, and his proof tended to show, that as security for a loan of $3,000, he assigned a $4,000 bond, and mortgage under an usurious agreement to the effect that the defendants should retain the interest on the $4,000 ; and when the full amount of the bond was paid should pay the plaintiff $3,000. Defendants foreclosed the mortgage, bid in the mortgaged premises for $3,000, and subsequently sold them for $5,000. The court charged in substance that if' the j ury should 'find that the transaction was a loan and this was usurious, the plaintiff was entitled to recover the value of the property at the time of .the assignment of the mortgage, over the $3,000 loaned and interest. Defendants\u2019 counsel excepted and requested the court to charge that if plaintiff was entitled to recover at all on account of an usurious, loan, he was entitled to the whole value of the property without any deduction for the loan. Seld, that the rule as presented in the request was correct, but that as the error was in defendants\u2019 favor, they could riot complain ; that it was not a legitimate presumption that the jury were governed in their findings of facts by the amount of their verdict. It seems, that the charge was erroneous in holding plaintiff entitled to recover the value of the property at the time of the assignment, instead of the value of the mortgage or its proceeds.\nBut held, 'that there was no exception directed to this point, as defendants\u2019 request assumed the value of the property to be the amount involved j also that no injury resulted to defendants from the error.\nDefendants alleged and proved that plaintiff was, subsequent to the assignment of the securities by him, adjudged a bankrupt, and an assignee appointed to whom he executed an assignment. Plaintiff testified under exceptions that, prior to the bankruptcy proceedings, he indorsed the instrument containing the agreement of defendants to- pay over, when collected, the surplus of the mortgage, and gave it to his wife, in payment of a debt he owed her, and she subsequently retransferred it to him. Held, that even if this transfer carried whatever right plaintiff had to the surplus beyond the amount due defendants, it did not transfer to the wife plaintiff\u2019s right to disaffirm the pledge of the securities and to recover back the mortgage, its value or proceeds, on the ground of usury, which right remained in the plaintiff and passed to his assignee in bankruptcy; and that the point that the plaintiff had been ' allowed to recover on a cause of action which did not belong to him could not be escaped and the recovery sustained, on the ground that it does not exceed the amount he might have recovered for a different cause of action.\n(Argued June 1, 1881;\ndecided October 4, 1881.)\nAppeal from' judgment of the General Term of the Supreme Court, in the third judicial department, entered upon an order made September 19, 1879, which affirmed a judgment in favor of plaintiff, entered upon a verdict, and affirmed an order denying a motion for a new trial.\nThe nature of the action and the material facts are stated in the opinion.\nJ. McGuire for appellants.\nThe court erred in receiving proof of the value of the land. (Hogan v. Cregan 6 Robt. 138.) Assuming that the plaintiff has the right to maintain this action, defendants had the right to insist upon the application of the strict rule of law regulating the damages in such cases. (Treganning v. Otterborough, 7 Bing. 97; Hargreaves v. Hutchingson, 2 Ad. & El. 12; Schroeppel v. Corning, 5 Denio, 236; 10 Barb. 576; 6 N. Y. 107.) The tendency of the charge was to improperly influence the verdict and for which a new trial should be granted. (Weber v. Kingsland, 8 Bosw. 415; Benedict v. Johnson, 2 Lans. 94; Lennox v. Hoppock, 1 Sweeny, 466.) The admission of illegal evidence or a wrong rule given by the judge to the jury is fatal if it in the least degree bear upon the result. (Baird v. Gillett 47 N. Y. 186; J\u00e6ger v. Kelly, 7 Robt. 586; Clark v. Vorce, 19 Wend. 232; Underhill v. N. Y. & H. R. R. Co., 21 Barb. 489.) An assignment of a demand carries with it all of' its accessories and incidents; thus an assignment of a debt carries with it all collaterals. (5 Cow. 202; 9 Wend. 80; 23 Barb. 461; 40 N. Y. 181; 47 id. 183; 56 id. 214; 36 id. 44; 31 How. 1; Roberts v. Jacks, 31 Ark. 597; Morris v. McCul lock, 83 Penn. St. 34.) The defense or claim to avoid a contract is personal to the borrower, and is not capable of a voluntary assignment. (Post v. Bk. of Utica, 7 Hill, 391; Rexford v. Widger, 2 Comst. 131; Bullard v. Raynor, 30 N. Y. 206-7; Cramer v. Lepper, 26 Ohio, 59; Smith v. Ex. Bk. of Pittsburg, id. 141; Studabaker v. Marguardt, 55 Ind. 341; Pritchett v. Mitchell, 17 Kans. 355; Wells v. Gibson, 4 Sandf. Ch. 333; Schermerhorn v. Talmam, 14 N. Y. 127.) An action under 1 B. S. 726, \u00a7 3, must be brought within one year. (Palen v. Johnson, 50 N. Y. 49; Schroeppel v. Corning, 6 id. 107.) In order to constitute a loan there must be a lending, and it is essential to the nature of a loan that the thing borrowed is at all events to be returned. (Tyler on Usury, 111.)\nSamuel Hand for respondent.\nThe mortgage being found to have been transferred under a usurious contract, and the defendants having subsequently foreclosed it and bought in the property themselves, they still held the property, as between themselves and the plaintiff, as security for the loan, and having sold it, were bound to account to the plaintiff for that sum as well as for the moneys received on the insurance policy assigned as collateral to the same usurious loan. (Slee v. Manhattan Co., 1 Paige, 48, 79; Hoyt v. Martense, 16 N. Y. 231; Schroeppel v. Corning, 2 Seld. 107.) The transaction being usurious, the defendants acquired no title whatever to the bond and mortgage or insurance policy, and the borrower could maintain an action to set aside the transfer, or might .at once bring trover for the securities or recover their value, or, as money had and received to his use, the price received for the land purchased in under their foreclosure, which the defendants hold, as trustees de soh\\ tort, for the plaintiff. (Schroeppel v. Corning, 5 Denio, 236; S. C., 2 Seld. 107, 115; Berly v. Taylor, 5 Hill, 577; Tryon v. Baker, 7 Lans. 511; Putnam v. Wise, 1 Hill, 234; Sturtevant v. Waterbury, 2 Hall, 449; 1 R. S. 772, \u00a7\u00a7 8, 13; Knickerbocker Co. v. Nelson, 78 N. Y. 137; Com. Exchange Co. v. Babcock, 42 id. 647; Barlow v. Scott, 24 id. 45.) If it be assumed that by the assignment to the wife, and her reassignment to him, plaintiff takes no longer as a borrower, he would still, at common law, hav\u00e9 the right to recover as purchaser, paying or leaving in the hands of the defendants the amount loaned and interest. (Schermerhorn v. Tallman, 4 Kern. 93; S. C., id. 131; Palen v. Johnson, 50 N. Y. 49; Wheelock v. Lee, 64 id. 242; Schroeppel v. Corning, 2 Seld. 107; S. C., 5 Denio, 236; Tryon v. Baker, 7 Lans. 511; Pomeroy\u2019s Remedies, etc., 569.) It was not essential to create a loan that there should be an express promise by the plaintiff to pay back the money loaned' to him; the fact that it was a loan raises in law an implied promise to repay; but the promise in the assignment, in the form of a guaranty, was an express promise. (1 R. S. 72, \u00a7\u00a7 2-5; Western Reserve Bank v. Potter, Clark\u2019s Ch. 432; Seymour v. Marvin, 11 Barb. 83; Dunham v. Dey, 13 Johns. 39; Dunham v. Gould, 16 id. 367; Pomeroy v. Ainsworth, 22 Barb. 124; Leavitt v. DeLancy, 4 N. Y. 363; 7 Paige, 557; Barber v. Ketchum, 7 Hill, 451; Dry Dock Bank v. Am. Ins. and Trust Co., 3 N. Y. 345.) The cause of action to hold the defendants for the proceeds of this bond and mortgage was assignable. (Matthews v. Coe, 56 Barb. 435; McKee v. Judd, 12 N. Y. 623; Wheelock v. Lee, 64 id. 242; Schermerhorn v. Tallman, 4 Kern. 127.) The assignment to the wife was of this precise cause of action, and transferred to her in payment of her claim, expressly, the husband\u2019s entire claim against the defendants. (Hendrickson v. Beers, 6 Bosw. 639; Sherman v. Elder, 24 N. Y. 381; Allen v. Brown, 44 id. 228.) No writing was necessary to the assignment; the chose in action passed and.all that could be was delivered at the same time. (Briggs v. Dow, 19 Johns. 95; Prescott v. Hall, 17 id. 284; Runyan v. Messereau, 11 id. 534.) No formality is n\u00e9cessary to effect a transfer. Any -transaction indicating an intention to pass the beneficial interest is sufficient. (Dickinson v. Phillips, 1 Barb. 454; Gould v. Elery, 39 id. 163; Willard\u2019s Eq. Jur. 463.) The reassignment to the plaintiff was quite full enough in form and was sufficient in fact. (Sheridan v. Mayor, 68 N. Y. 30; 25 id. 625; 2 Keyes, 488.) An exception to the whole proposition, as stated by the court, no part of it being particularized or pointed out by the exception, is unavailing if any part of the ruling be correct. (Jarvis v. Driggs, 69 N. Y. 147; Haggart v. Morgan, 5 id. 422; Caldwell v. Murphy, 11 id. 416; Walsh v. Kelly, 40 id. 556; Walsh v. Wash. Ins. Co., 32 id. 427; Wyman v. Hart, 12 How. 122; Ellis v. People, 21 id. 356; Varnum v. Taylor, 10 Bosw. 148.) An improper rule of damages will not entitle the defendants to a new trial when they are not injured by it, and it is manifest that injustice has not been done by the verdict. (Ledyard v. Jones, 7 N. Y. 550, 554; Potter v. Hopkins, 25 Wend. 417; Hunt v. Fish, 4 Barb. 324; Gardiner v. Clark, 17 id. 528; Mansfield v. Wheeler, 23 Wend. 79; Graves v. Budley, 20 N. Y. 76; Vallance v. King, 3 Barb. 548.) The rule of damages adopted by the court was not erroneous. (Schroeppel v. Corning, 2 Seld. 107; 10 Barb. 576; Valentine v. Connor, 40 N. Y. 259; Sedgwick on Damages, 473; 2 Pet. [U. S.] 37.) Whatever rule of damages be adopted, it was proper to prove the value of the premises because upon that depended the value of the mortgage. (Potter v. Merchants\u2019 Bk., 28 N. Y. 641; 56 id. 22.)"
+  },
+  "file_name": "0176-01",
+  "first_page_order": 202,
+  "last_page_order": 212
+}

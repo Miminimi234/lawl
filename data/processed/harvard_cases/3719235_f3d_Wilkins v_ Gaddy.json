@@ -1,0 +1,639 @@
+{
+  "id": 3719235,
+  "name": "Jamey Lamont WILKINS, Plaintiff-Appellant, v. Officer GADDY, Defendant-Appellee, United States of America, Intervenor",
+  "name_abbreviation": "Wilkins v. Gaddy",
+  "decision_date": "2013-11-01",
+  "docket_number": "No. 12-8148",
+  "first_page": "344",
+  "last_page": "351",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "734 F.3d 344"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "4th Cir.",
+    "id": 8954,
+    "name": "United States Court of Appeals for the Fourth Circuit"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "262 F.3d 687",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        9484786
+      ],
+      "pin_cites": [
+        {
+          "page": "691"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/262/0687-01"
+      ]
+    },
+    {
+      "cite": "131 S.Ct. 2205",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        5932835,
+        12450131
+      ],
+      "weight": 2,
+      "year": 2011,
+      "pin_cites": [
+        {
+          "page": "2216",
+          "parenthetical": "internal quotation marks omitted"
+        },
+        {
+          "parenthetical": "internal quotation marks omitted"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/563/0826-01",
+        "/l-ed-2d/180/0045-01"
+      ]
+    },
+    {
+      "cite": "496 U.S. 414",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        12123658
+      ],
+      "weight": 3,
+      "year": 1990,
+      "pin_cites": [
+        {
+          "page": "428"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/496/0414-01"
+      ]
+    },
+    {
+      "cite": "29 F.3d 422",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        1840611
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/29/0422-01"
+      ]
+    },
+    {
+      "cite": "42 F.3d 550",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        7416187
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/42/0550-01"
+      ]
+    },
+    {
+      "cite": "506 U.S. 103",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11925002
+      ],
+      "weight": 5,
+      "year": 1992,
+      "pin_cites": [
+        {
+          "page": "114-16"
+        },
+        {
+          "page": "116"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/506/0103-01"
+      ]
+    },
+    {
+      "cite": "257 F.3d 660",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        11085440
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "670"
+        },
+        {
+          "page": "669"
+        },
+        {
+          "page": "663"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/257/0660-01"
+      ]
+    },
+    {
+      "cite": "230 F.3d 840",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        1094399
+      ],
+      "pin_cites": [
+        {
+          "page": "844"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/230/0840-01"
+      ]
+    },
+    {
+      "cite": "107 F.3d 227",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        7636808
+      ],
+      "pin_cites": [
+        {
+          "page": "234"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/107/-1349-01"
+      ]
+    },
+    {
+      "cite": "331 F.3d 790",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        9113226
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "798"
+        },
+        {
+          "page": "792-93"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/331/0790-01"
+      ]
+    },
+    {
+      "cite": "662 F.3d 603",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        3850727
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "607"
+        },
+        {
+          "page": "608"
+        },
+        {
+          "page": "609"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/662/0603-01"
+      ]
+    },
+    {
+      "cite": "407 F.3d 674",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        8973080
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "676"
+        },
+        {
+          "page": "676",
+          "parenthetical": "internal quotation marks omitted"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/407/0674-01"
+      ]
+    },
+    {
+      "cite": "461 U.S. 424",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11298707
+      ],
+      "weight": 3,
+      "year": 1983,
+      "pin_cites": [
+        {
+          "page": "429",
+          "parenthetical": "internal quotation marks omitted"
+        },
+        {
+          "parenthetical": "internal quotation marks omitted"
+        },
+        {
+          "parenthetical": "internal quotation marks omitted"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/461/0424-01"
+      ]
+    },
+    {
+      "cite": "511 U.S. 809",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        1146879
+      ],
+      "weight": 3,
+      "year": 1994,
+      "pin_cites": [
+        {
+          "page": "814-15",
+          "parenthetical": "internal quotation marks omitted"
+        },
+        {
+          "parenthetical": "internal quotation marks omitted"
+        },
+        {
+          "parenthetical": "internal quotation marks omitted"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/511/0809-01"
+      ]
+    },
+    {
+      "cite": "543 U.S. 499",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        3440584
+      ],
+      "weight": 3,
+      "year": 2005,
+      "pin_cites": [
+        {
+          "page": "505-09"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/543/0499-01"
+      ]
+    },
+    {
+      "cite": "133 F.3d 459",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        22338
+      ],
+      "pin_cites": [
+        {
+          "page": "463"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/133/0459-01"
+      ]
+    },
+    {
+      "cite": "225 F.3d 36",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        11230906
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "42"
+        },
+        {
+          "page": "45"
+        },
+        {
+          "page": "38"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/225/0036-01"
+      ]
+    },
+    {
+      "cite": "339 F.3d 582",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        9103078
+      ],
+      "weight": 4,
+      "pin_cites": [
+        {
+          "page": "586"
+        },
+        {
+          "page": "594-95"
+        },
+        {
+          "page": "593-94"
+        },
+        {
+          "page": "583"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/339/0582-01"
+      ]
+    },
+    {
+      "cite": "886 F.2d 686",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        10533218
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "690"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/886/0686-01"
+      ]
+    },
+    {
+      "cite": "521 F.3d 298",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        3737132
+      ],
+      "pin_cites": [
+        {
+          "page": "303"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/521/0298-01"
+      ]
+    },
+    {
+      "cite": "539 U.S. 558",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        8898517
+      ],
+      "weight": 3,
+      "year": 2003,
+      "pin_cites": [
+        {
+          "page": "580",
+          "parenthetical": "O'Connor, J., concurring"
+        },
+        {
+          "parenthetical": "O'Connor, J., concurring"
+        },
+        {
+          "parenthetical": "O'Connor, J., concurring"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/539/0558-01"
+      ]
+    },
+    {
+      "cite": "427 U.S. 297",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6176137
+      ],
+      "weight": 3,
+      "year": 1976,
+      "pin_cites": [
+        {
+          "page": "303"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/427/0297-01"
+      ]
+    },
+    {
+      "cite": "508 U.S. 307",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11912
+      ],
+      "weight": 3,
+      "year": 1993,
+      "pin_cites": [
+        {
+          "page": "315"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/508/0307-01"
+      ]
+    },
+    {
+      "cite": "473 U.S. 432",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6200639
+      ],
+      "weight": 5,
+      "year": 1985,
+      "pin_cites": [
+        {
+          "page": "440"
+        },
+        {
+          "page": "439-43"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/473/0432-01"
+      ]
+    },
+    {
+      "cite": "509 U.S. 312",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        355778
+      ],
+      "weight": 3,
+      "year": 1993,
+      "pin_cites": [
+        {
+          "page": "319"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/509/0312-01"
+      ]
+    },
+    {
+      "cite": "517 U.S. 620",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11745985
+      ],
+      "weight": 3,
+      "year": 1996,
+      "pin_cites": [
+        {
+          "page": "631"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/517/0620-01"
+      ]
+    },
+    {
+      "cite": "42 U.S.C. \u00a7 1988",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "weight": 2,
+      "opinion_index": 0
+    },
+    {
+      "cite": "559 U.S. 34",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        3582109
+      ],
+      "weight": 5,
+      "year": 2010,
+      "pin_cites": [
+        {
+          "page": "39"
+        },
+        {
+          "page": "40"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/559/0034-01"
+      ]
+    },
+    {
+      "cite": "308 Fed.Appx 696",
+      "category": "reporters:federal",
+      "reporter": "Fed. Appx.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "42 U.S.C. \u00a7 1983",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 1200,
+    "char_count": 21966,
+    "ocr_confidence": 0.683,
+    "pagerank": {
+      "raw": 1.537732527926186e-07,
+      "percentile": 0.67230406097035
+    },
+    "sha256": "bd502b807219c07b8e5021be80cb0f6062537812fa0170b2081b7f66c07b1cb1",
+    "simhash": "1:f2ab132bbb9f125b",
+    "word_count": 3446
+  },
+  "last_updated": "2024-02-27T22:33:04.011779+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before WILKINSON, MOTZ, and FLOYD, Circuit Judges."
+    ],
+    "parties": [
+      "Jamey Lamont WILKINS, Plaintiff-Appellant, v. Officer GADDY, Defendant-Appellee, United States of America, Intervenor."
+    ],
+    "opinions": [
+      {
+        "text": "Affirmed by published opinion. Judge WILKINSON wrote the opinion, in which Judge MOTZ and Judge FLOYD joined.\nWILKINSON, Circuit Judge:\nPlaintiff is a state prisoner who challenges the constitutionality of 42 U.S.C. \u00a7 1997e(d)(2), a part of the Prison Litigation Reform Act of 1995 (PLRA), as violating his right to equal protection of the laws under the Fifth Amendment\u2019s Due Process Clause. The challenged provision caps the attorneys\u2019 fee award that a successful prisoner litigant may recover from the government in a civil rights action at 150 percent of the value of the prisoner\u2019s monetary judgment. The district court upheld the constitutionality of this provision, and we now affirm.\nI.\nA.\nJamey Wilkins, the plaintiff, was a prisoner in the custody of the North Carolina Department of Correction (now the North Carolina Department of Public Safety). On June 13, 2007, he was incarcerated at the Lanesboro Correctional Institute in Polkton, North Carolina, when Officer Alexander Gaddy, the defendant, escorted another inmate past his cell. Wilkins and Officer Gaddy became embroiled in an argument that resulted in Officer Gaddy opening Wilkins\u2019s cell and physically subduing him. According to Wilkins, Officer Gaddy lifted and then slammed him to the concrete floor where, once pinned, Officer Gaddy punched, kicked, kneed, and choked Wilkins until the officer was removed by another member of the corrections staff. Wilkins alleged that the altercation caused him a bruised heel, back and neck pains, headaches, and other health complications.\nB.\nFollowing the incident, Wilkins filed a pro se civil rights suit under 42 U.S.C. \u00a7 1983 claiming that Officer Gaddy \u201cmaliciously and sadistically\u201d assaulted him with \u201cexcessive force\u201d in violation of the Eighth Amendment. The district court dismissed the suit when it concluded that Wilkins had failed to state a claim upon which relief could be granted because he had not alleged more than a de minimis injury. We affirmed. Wilkins v. Gaddy, 308 Fed.Appx 696 (4th Cir.2009).\nThe Supreme Court granted Wilkins\u2019s petition for certiorari and reversed, holding that the \u201ccore judicial inquiry\u201d in Eighth Amendment claims is not focused on the \u201cextent of the injury\u201d sustained by the plaintiff but rather the \u201cnature of the force\u201d used in the purported assault. Wilkins v. Gaddy, 559 U.S. 34, 39, 130 S.Ct. 1175, 175 L.Ed.2d 995 (2010). Although it remanded for further proceedings, the Supreme Court \u201cexpressfed] no view on the underlying merits\u201d of Wilkins\u2019s claim and noted that \u201cthe relatively modest nature of his alleged injuries will no doubt limit the damages he may recover.\u201d Id. at 40, 130 S.Ct. 1175.\nWilkins obtained representation upon remand from North Carolina Prisoner Legal Services and proceeded to trial. The jury returned a verdict holding Officer Gaddy responsible for using excessive force against Wilkins, but declined to award compensatory or punitive damages. Instead, it awarded only nominal damages of $0.99. The district court entered judgment for Wilkins in the amount of $1. Wilkins, as the prevailing party, filed a motion under the fee-shifting provision of 42 U.S.C. \u00a7 1988 for $92,306.25 in attorneys\u2019 fees. While acknowledging that fee awards in prisoner lawsuits are capped by \u00a7 1997e(d)(2), Wilkins argued that this section of the PLRA violated the Fifth Amendment\u2019s equal protection component by irrationally treating prisoner and non-prisoner litigants differently.\nThe magistrate judge to whom the matter had been referred calculated the award pursuant to \u00a7 1997e(d)(2) and recommended that Wilkins\u2019s lawyers be awarded $1.40. Wilkins reiterated his equal protection challenge before the district court, but the court found \u00a7 1997e(d)(2) to be a constitutional exercise of legislative authority. Specifically, the district court held that the classification between prisoners and non-prisoners in \u00a7 1997e(d)(2) was rationally related to legitimate government interests, including reducing marginal prisoner lawsuits and protecting the public fisc. It further noted that the rational basis standard of review commands judicial deference to legislative acts unless the relationship of the chosen means to the desired ends is bereft of logical support. Consequently, the district court declined to strike down \u00a7 1997e(d)(2), adopted the magistrate judge\u2019s recommendation, and awarded Wilkins\u2019s counsel $1.40 in attorneys\u2019 fees. Wilkins now appeals.\nII.\nWilkins seeks the full award of $92,306.25 in attorneys\u2019 fees for his counsel. To that end, he contends that the fee cap in \u00a7 1997e(d)(2) creates a distinction between prisoner and non-prisoner litigants that cannot stand under the Fifth Amendment. First, Wilkins does admit that courts do not review classifications involving prisoners with strict scrutiny. He asserts, however, that statutes governing inmates still require a heightened standard of review because of prisoners\u2019 unique characteristics. Second, he argues that \u00a7 1997e(d)(2) fails even ordinary rational basis review because it arbitrarily and irrationally \u201cdiscriminates against prisoner civil rights litigants\u201d in that the fee cap bears \u201cno rational relationship\u201d to the admittedly legitimate governmental objectives at which it is aimed. Appellant\u2019s Br. 7. We are not persuaded by either contention.\nA.\nGovernment may not constitutionally deny to any person the equal protection of the laws. But this principle is not and cannot be absolute because it is a \u201cpractical necessity that most legislation classify] for one purpose or another, with resulting disadvantage to various groups or persons.\u201d Romer v. Evans, 517 U.S. 620, 631, 116 S.Ct. 1620, 134 L.Ed.2d 855 (1996). Indeed, unless a statute affects a fundamental right or some protected class, courts generally accord the legislation a \u201cstrong presumption of validity\u201d by applying a rational basis standard of review. Heller v. Doe, 509 U.S. 312, 319, 113 S.Ct. 2637, 125 L.Ed.2d 257 (1993).\nThis standard is quite deferential. It simply requires courts to determine whether the classification in question is, at a minimum, rationally related to legitimate governmental goals. City of Cleburne v. Cleburne Living Ctr., Inc., 473 U.S. 432, 440, 105 S.Ct. 3249, 87 L.Ed.2d 313 (1985). In other words, the fit between the enactment and the public purposes behind it need not be mathematically precise. As long as Congress has a reasonable basis for adopting the classification, which can include \u201crational speculation unsupported by evidence or empirical data,\u201d the statute will pass constitutional muster. FCC v. Beach Commc\u2019ns, Inc., 508 U.S. 307, 315, 113 S.Ct. 2096, 124 L.Ed.2d 211 (1993). The rational basis standard thus embodies an idea critical to the continuing vitality of our democracy: that courts are not empowered to \u201csit as a superlegislature to judge the wisdom or desirability of legislative policy determinations.\u201d City of New Orleans v. Dukes, 427 U.S. 297, 303, 96 S.Ct. 2513, 49 L.Ed.2d 511 (1976).\nWilkins accepts the fact that we should apply rational basis review to analyze the fee cap in \u00a7 1997e(d)(2). However, he would have us apply a \u201c \u2018more searching form of rational basis review,\u2019 \u201d Appellant\u2019s Br. 9 (quoting Lawrence v. Texas, 539 U.S. 558, 580, 123 S.Ct. 2472, 156 L.Ed.2d 508 (2003) (O\u2019Connor, J., concurring)), because he contends that the rational basis standard is in reality a \u201cspectrum\u201d and that \u201cprisoners possess certain characteristics which warrant the court to apply the rational basis review in a less rigid manner,\u201d Appellant\u2019s Br. 8-9. These include prisoners\u2019 relative inability to protect themselves in the political process and the historical discrimination against prisoners in employment, housing, and welfare programs. In effect, Wilkins asks us to give less deference to legislative classifications involving prison litigants.\nWe do not think that sliding-scale rational basis is a permissible approach here. Our precedent clearly holds that prisoners are not a \u201csuspect class.\u201d Giarratano v. Johnson, 521 F.3d 298, 303 (4th Cir.2008) (internal quotation marks omitted). The Supreme Court has only applied heightened scrutiny when it finds that a particular class is \u201cquasi-suspect\u201d in that it possesses immutable characteristics, faces historic or ongoing discrimination, or is subject to arbitrary burdens on some basis beyond its ability to control. City of Cleburne, 473 U.S. at 439-43, 105 S.Ct. 3249. Because breaking the law is a voluntary act and many prisoners will eventually be released, the \u201cstatus of incarceration is neither an immutable characteristic...., nor an invidious basis of classification.\u201d Moss v. Clark, 886 F.2d 686, 690 (4th Cir.1989). \u201cMoreover, it would be ironic for the law to confer special solicitude upon a class whose members had violated it.\u201d Id. Nor is any fundamental right of access to the courts involved, for no party possesses an entitlement to a congressional declaration that its attorneys\u2019 fees in a federal lawsuit shall be borne by the non-prevailing party. See Johnson v. Daley, 339 F.3d 582, 586 (7th Cir.2003) (en banc) (finding that there is no \u201cfundamental right to have one\u2019s adversary, or the public treasury, defray all or part of the cost of litigation\u201d).\nThese considerations militate in favor of ordinary rational basis review. Several of our sister circuits have concluded that classifications involving prisoners should not receive strict scrutiny, and their reasoning also supports the parallel conclusion that heightened scrutiny is not warranted. See, e.g., Boivin v. Black, 225 F.3d 36, 42 (1st Cir.2000) (\u201c[Prisoners are simply not a protected class.\u201d); Zehner v. Trigg, 133 F.3d 459, 463 (7th Cir.1997) (finding the argument that prisoners are a protected class \u201ccompletely unsupported\u201d). We note also that the Supreme Court has used the rational basis standard when considering the constitutionality of a statute distinguishing between jailed and non-jailed persons, (1969), and has not applied heightened scrutiny to classifications involving prisoners absent another protected characteristic, such as race, see Johnson v. California, 543 U.S. 499, 505-09, 125 S.Ct. 1141, 160 L.Ed.2d 949 (2005). Accordingly, we decline Wilkins\u2019s invitation to apply heightened equal protection scrutiny in this case.\nB.\nWe turn now to Wilkins\u2019s rational basis challenge. When a litigant files suit in a court in the United States, he or she will typically pay the costs associated with hiring an attorney. This is the \u201cAmerican Rule\u201d and it governs litigation in federal courts \u201cabsent explicit congressional authorization\u201d to the contrary. Key Tronic Corp. v. United States, 511 U.S. 809, 814-15, 114 S.Ct. 1960, 128 L.Ed.2d 797 (1994) (internal quotation marks omitted). Congress exercised its power to partially abrogate the American Rule when it enacted the Civil Rights Attorney\u2019s Fees Awards Act of 1976, 42 U.S.C. \u00a7 1988, which granted district courts the authority to award attorneys\u2019 fees from state coffers to the prevailing party in a civil rights action. By providing lawyers with a suitable award if they could achieve success in court, this fee-shifting provision encouraged them to take civil rights cases that they otherwise might not and thus ensured \u201ceffective access to the judicial process for persons with civil rights grievances.\u201d Hensley v. Eckerhart, 461 U.S. 424, 429, 103 S.Ct. 1933, 76 L.Ed.2d 40 (1983) (internal quotation marks omitted).\nBut what Congress provides, Congress can adjust or take away. It adopted the PLRA almost 20 years later in an effort to reduce the \u201cever-growing number of prison-condition lawsuits that were threatening to overwhelm the capacity of the federal judiciary.\u201d Anderson v. XYZ Correctional Health Services, Inc., 407 F.3d 674, 676 (4th Cir.2005). The legislative history of the Act is replete with statements that inmate civil rights litigation consumed an undue amount of both executive and judicial resources. See In-tervenor Br. of the United States 6-8 (compiling congressional statements). In an effort to address this problem, the PLRA included, among other things, limitations on attorneys\u2019 fees awards. Section 1997e(d)(2) states in relevant part that \u201c[i]f the award of attorney\u2019s fees is not greater than 150 percent of the judgment, the excess shall be paid by the defendant.\u201d While this language is \u201cnot a model of clarity,\u201d its import is apparent. Shepherd v. Goord, 662 F.3d 603, 607 (2d Cir.2011). Although \u00a7 1997e(d)(2) does not remove a district court\u2019s discretion to shift attorneys\u2019 fees, it caps awards at 150 percent of a prisoner\u2019s monetary judgment. See id. at 608 (noting that every circuit to consider \u00a7 1997e (d)(2) has construed it to impose a fee cap and holding the same). Wilkins does not contest this interpretation. But non-prisoner civil rights litigants are not subject to the fee cap; it is this distinction that Wilkins claims is unconstitutional.\nCongress\u2019s goals in enacting \u00a7 1997e(d)(2) include, as noted earlier, reducing marginal or frivolous prisoner civil rights lawsuits and protecting the public fisc. See Jackson v. State Bd. of Pardons and Paroles, 331 F.3d 790, 798 (11th Cir.2003). Wilkins agrees that these goals are legitimate, but contends that \u00a7 1997e (d)(2) is so poorly tailored to these ends that it could not possibly be expected to advance them. Overall, he insists the fee cap is a thoroughly irrational approach to the prison litigation problem. While the provision may not be the only or the optimal way of stemming baseless inmate lawsuits, we hold that Congress acted rationally in adopting it.\nIt was not irrational for Congress to believe that inmates have certain litigation advantages and certain incentives to file lawsuits not shared by non-prisoner plaintiffs. Inmates are provided with the necessities of life at state expense; they receive \u201cfree paper, postage, and legal assistance\u201d; and they may have greater amounts of free time in which to prepare their claims. Roller v. Gunn, 107 F.3d 227, 234 (4th Cir.1997). Furthermore, prisoners might see legal proceedings as a \u201cmeans of gaining a short sabbatical in the nearest Federal courthouse,\u201d Anderson, 407 F.3d at 676 (internal quotation marks omitted), or as a tool to \u201cin-timidat[e] members of the prison staff,\u201d Hadix v. Johnson, 230 F.3d 840, 844 (6th Cir.2000). Congress was entitled to conclude that this mix of advantages and incentives finds no analogue outside prison walls.\nOf course, the above propositions are not indisputable, and in certain respects, prison litigants may suffer some litigation disadvantages in relation to their non-prison counterparts. But under the rational basis standard, Congress could have believed that the danger of frivolous, marginal, and trivial claims was real and that a legislative solution was required to equalize prisoner and non-prisoner litigants. And although the congruence between \u00a7 1997e(d)(2) and the goal of reducing meritless and insubstantial prisoner lawsuits may not be perfect, it does exist. Walker v. Bain, 257 F.3d 660, 670 (6th Cir.2001). A cap on attorneys\u2019 fees awards requires attorneys \u201cto ask if the game is worth the candle\u201d and demand greater odds of success before agreeing to represent a prisoner. Boivin, 225 F.3d at 45. If a prisoner cannot find counsel, it may dissuade him or her from bringing such a claim at all. Or so Congress might reasonably have believed.\nWilkins argues that even more basic flaws in the provision require its invalidation. He claims there is no coherent connection between \u00a7 1997e(d)(2) and limiting frivolous lawsuits because the fee cap applies only to successful cases and Congress cannot rationally disadvantage meritorious claims of constitutional violations in the name of reducing meritless litigation. But Congress could rationally have determined that limiting an attorneys\u2019 fee award incentive ex ante, before the outcome is known, prevents the filing of at least some ultimately meritless claims. Johnson, 339 F.3d at 594-95. Moreover, even though there exist other rules that discourage attorneys from bringing frivolous claims, such as sanctions under Federal Rule of Civil Procedure 11 and \u00a7 1988\u2019s requirement that \u201creasonable attorney\u2019s fee[]\u201d awards go only to a \u201cprevailing party,\u201d nowhere in the Constitution does it say that Congress is limited to a single legislative solution to a perceived social ill. Id. at 593-94.\nIt is true, as Wilkins emphasizes, that Farrar v. Hobby already holds that district courts should decline to award attorneys\u2019 fees if the prevailing party suffers only minimal harm. 506 U.S. 103, 114-16, 113 S.Ct. 566, 121 L.Ed.2d 494 (1992). But Farrar does nothing more than direct courts to consider the prevailing party\u2019s \u201cextent of success\u201d when determining the appropriate attorneys\u2019 fee award under cases subject to the fee-shifting provision in \u00a7 1988. Id. at 116, 113 S.Ct. 566 (internal quotation marks omitted). By contrast, \u00a7 1997e(d)(2) categorically limits a district court\u2019s discretion solely in prisoner civil rights lawsuits. These rules, while overlapping, are not co-extensive. Indeed, district courts after Farrar occasionally dispensed substantial attorneys\u2019 fees awards to prevailing parties even when they received only minimal judgments. See, e.g., Wilcox v. City of Reno, 42 F.3d 550 (9th Cir.1994) (upholding an award of $66,535 in attorneys\u2019 fees because the district court properly exercised its discretion under Farrar despite a $1 judgment for the plaintiff); Jones v. Lockhart, 29 F.3d 422 (8th Cir.1994) (upholding the district court under Farrar and awarding $10,000 in attorneys\u2019 fees to a prisoner litigant who received a judgment of $2). Even if Far-rar makes the fee cap mostly redundant, as Wilkins claims, Congress is not constitutionally forbidden from enacting legislation simply because some other rule aims to resolve the same problem in a different way.\nWilkins further contends that the fee cap is fatally defective because it stands no chance of doing its job. It will not, in his view, dissuade prisoners from filing civil rights lawsuits; rather, they will simply proceed pro se, even if their claims are frivolous, marginal, or trivial. The precise extent to which the cap will accomplish the congressional purpose is not for us to decide, however, for Congress could reasonably conclude that at least some meritless and insubstantial lawsuits would go unfiled when prisoners find themselves required to \u201cshoulder the entire workload\u201d of litigating their cases. Walker, 257 F.3d at 669.\nWe need not tarry over Wilkins\u2019s final contention: that \u00a7 1997e(d)(2) is not a reasonable way to conserve public funds. Protection of the public fisc is a core responsibility of the legislative branch. Indeed, - as to federal expenditures, the Supreme Court has affirmed Congress\u2019s control of the purse strings: \u201c[The Appropriations Clause] is to assure that public funds will be spent according to the letter of the difficult judgments reached by Congress as to the common good and not according to the individual favor of Government agents or the individual pleas of litigants.\u201d Office of Pers. Mgmt. v. Richmond, 496 U.S. 414, 428, 110 S.Ct. 2465, 110 L.Ed.2d 387 (1990). The extent to which individual litigants should have their lawyers paid by the people involves the setting of priorities sufficiently akin to the appropriations process that we are loath to interfere. Wilkins sought over $92,000 in attorneys\u2019 fees on a judgment of $1. Congress was free to conclude that fee awards so disproportionate to a monetary judgment are an unwise use of public funds.\nThe Supreme Court has made clear that determining attorneys\u2019 fees awards \u201cshould not result in a second major litigation.\u201d Fox v. Vice, \u2014 U.S. -, 131 S.Ct. 2205, 2216, 180 L.Ed.2d 45 (2011) (internal quotation marks omitted). The simple, mathematical formula embodied in \u00a7 1997e(d)(2) rationally forestalls collateral fee litigation while ensuring that the incentive provided by an attorneys\u2019 fee award still attaches to the most injurious civil rights violations.\nOur ruling upholding the fee cap in \u00a7 1997e(d)(2) is anything but novel. It is in accord with every other circuit to consider this provision of the PLRA. See Parker, 581 F.3d at 200; Johnson, 339 F.3d at 583; Jackson, 331 F.3d at 792-93; Foulk v. Charrier, 262 F.3d 687, 691 (8th Cir.2001); Walker, 257 F.3d at 663; Boivin, 225 F.3d at 38. As noted in Shepherd, 662 F.3d at 609, the \u201cargument that [\u00a7 1997e(d)(2) is unconstitutional] has been uniformly rejected by the circuits in which such issues have been raised.\u201d We now join those courts and affirm the judgment of the district court upholding the constitutionality of \u00a7 1997e(d)(2).\nAFFIRMED.\nThe magistrate judge applied the fee cap in \u00a7 1997e(d)(2) and found that the maximum permissible award was $1.50. Next, because \u00a7 1997e (d)(2) also requires that some of the plaintiff's judgment apply toward his attorneys' fee award, the magistrate judge reduced Wilkins\u2019s fee award to $1.40.",
+        "type": "majority",
+        "author": "WILKINSON, Circuit Judge:"
+      }
+    ],
+    "attorneys": [
+      "ARGUED: David Alexander Strauss, North Carolina Prisoner Legal Services, Raleigh, North Carolina, for Appellant. Kimberly D. Grande, North Carolina Department of Justice, Raleigh, North Carolina, for Appellee. Jonathan Heuer Levy, United States Department of Justice, Washington, D.C., for Intervenor. ON BRIEF: Roy Cooper, North Carolina Attorney General, North Carolina Department of Justice, Raleigh, North Carolina, for Appellee. Anne Tompkins, United States Attorney, Charlotte, North Carolina, Stuart F. Delery, Principal Deputy Assistant Attorney General, Barbara L. Herwig, Civil Division, United States Department of Justice, Washington, D.C., for Intervenor."
+    ],
+    "corrections": "",
+    "head_matter": "Jamey Lamont WILKINS, Plaintiff-Appellant, v. Officer GADDY, Defendant-Appellee, United States of America, Intervenor.\nNo. 12-8148.\nUnited States Court of Appeals, Fourth Circuit.\nArgued: Sept. 18, 2013.\nDecided: Nov. 1, 2013.\nARGUED: David Alexander Strauss, North Carolina Prisoner Legal Services, Raleigh, North Carolina, for Appellant. Kimberly D. Grande, North Carolina Department of Justice, Raleigh, North Carolina, for Appellee. Jonathan Heuer Levy, United States Department of Justice, Washington, D.C., for Intervenor. ON BRIEF: Roy Cooper, North Carolina Attorney General, North Carolina Department of Justice, Raleigh, North Carolina, for Appellee. Anne Tompkins, United States Attorney, Charlotte, North Carolina, Stuart F. Delery, Principal Deputy Assistant Attorney General, Barbara L. Herwig, Civil Division, United States Department of Justice, Washington, D.C., for Intervenor.\nBefore WILKINSON, MOTZ, and FLOYD, Circuit Judges."
+  },
+  "file_name": "0344-01",
+  "first_page_order": 368,
+  "last_page_order": 375
+}

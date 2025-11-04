@@ -1,0 +1,679 @@
+{
+  "id": 4075520,
+  "name": "The State of Washington, Respondent, v. Darcus Dewayne Allen, Petitioner",
+  "name_abbreviation": "State v. Allen",
+  "decision_date": "2015-01-15",
+  "docket_number": "No. 89917-7",
+  "first_page": "364",
+  "last_page": "387",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "182 Wash. 2d 364"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Wash.",
+    "id": 9029,
+    "name": "Washington Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 38,
+    "name_long": "Washington",
+    "name": "Wash."
+  },
+  "cites_to": [
+    {
+      "cite": "176 P.3d 582",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2008,
+      "opinion_index": 0
+    },
+    {
+      "cite": "143 Wn. App. 45",
+      "category": "reporters:state",
+      "reporter": "Wash. App.",
+      "case_ids": [
+        3967150
+      ],
+      "weight": 3,
+      "year": 2008,
+      "pin_cites": [
+        {
+          "page": "64-65",
+          "parenthetical": "defendant waived misconduct when he raised it for the first time in a motion for new trial"
+        },
+        {
+          "page": "64",
+          "parenthetical": "quoting Davenport, 100 Wn.2d at 764"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-app/143/0045-01"
+      ]
+    },
+    {
+      "cite": "918 F.2d 828",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        10537620
+      ],
+      "weight": 2,
+      "year": 1990,
+      "pin_cites": [
+        {
+          "page": "830"
+        },
+        {
+          "page": "832",
+          "parenthetical": "calling the display \"guilt suggestive buttons\""
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/918/0828-01"
+      ]
+    },
+    {
+      "cite": "114 P.3d 607",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "weight": 2,
+      "year": 2005,
+      "opinion_index": 0
+    },
+    {
+      "cite": "154 Wn.2d 400",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        5629694
+      ],
+      "year": 2005,
+      "pin_cites": [
+        {
+          "page": "417-18"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/154/0400-01"
+      ]
+    },
+    {
+      "cite": "165 P.3d 1251",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2007,
+      "opinion_index": 0
+    },
+    {
+      "cite": "161 Wn.2d 276",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        3802197
+      ],
+      "year": 2007,
+      "pin_cites": [
+        {
+          "page": "280"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/161/0276-01"
+      ]
+    },
+    {
+      "cite": "475 U.S. 560",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6205476
+      ],
+      "weight": 3,
+      "year": 1986,
+      "pin_cites": [
+        {
+          "page": "570"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/475/0560-01"
+      ]
+    },
+    {
+      "cite": "379 U.S. 559",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11731648
+      ],
+      "weight": 3,
+      "year": 1965,
+      "pin_cites": [
+        {
+          "page": "562"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/379/0559-01"
+      ]
+    },
+    {
+      "cite": "682 P.2d 883",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "weight": 2,
+      "year": 1984,
+      "pin_cites": [
+        {
+          "parenthetical": "reaffirming McKim's distinction between accomplice liability for substantive crime and sentencing enhancements"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "101 Wn.2d 654",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        1139548
+      ],
+      "weight": 2,
+      "year": 1984,
+      "pin_cites": [
+        {
+          "page": "658",
+          "parenthetical": "reaffirming McKim's distinction between accomplice liability for substantive crime and sentencing enhancements"
+        },
+        {
+          "page": "658"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/101/0654-01"
+      ]
+    },
+    {
+      "cite": "886 P.2d 138",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "weight": 2,
+      "year": 1994,
+      "opinion_index": 0
+    },
+    {
+      "cite": "125 Wn.2d 472",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        437025
+      ],
+      "year": 1994,
+      "pin_cites": [
+        {
+          "page": "481"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/125/0472-01"
+      ]
+    },
+    {
+      "cite": "653 P.2d 1040",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1982,
+      "opinion_index": 0
+    },
+    {
+      "cite": "98 Wn.2d 111",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        1151219
+      ],
+      "year": 1982,
+      "pin_cites": [
+        {
+          "page": "116"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/98/0111-01"
+      ]
+    },
+    {
+      "cite": "804 P.2d 577",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1991,
+      "opinion_index": 0
+    },
+    {
+      "cite": "116 Wn.2d 51",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        1376173
+      ],
+      "year": 1991,
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/116/0051-01"
+      ]
+    },
+    {
+      "cite": "902 P.2d 673",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1995,
+      "opinion_index": 0
+    },
+    {
+      "cite": "79 Wn. App. 284",
+      "category": "reporters:state",
+      "reporter": "Wash. App.",
+      "case_ids": [
+        423532
+      ],
+      "weight": 2,
+      "year": 1995,
+      "pin_cites": [
+        {
+          "page": "293-94"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-app/79/0284-01"
+      ]
+    },
+    {
+      "cite": "96 P.3d 974",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "weight": 3,
+      "year": 2004,
+      "pin_cites": [
+        {
+          "parenthetical": "Sanders, J., dissenting"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "152 Wn.2d 333",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        1217453
+      ],
+      "year": 2004,
+      "pin_cites": [
+        {
+          "page": "342",
+          "parenthetical": "Sanders, J., dissenting"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/152/0333-01"
+      ]
+    },
+    {
+      "cite": "14 P.3d 752",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "weight": 2,
+      "year": 2000,
+      "opinion_index": 0
+    },
+    {
+      "cite": "142 Wn.2d 568",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        1361345
+      ],
+      "year": 2000,
+      "pin_cites": [
+        {
+          "page": "577"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/142/0568-01"
+      ]
+    },
+    {
+      "cite": "675 P.2d 1213",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1984,
+      "pin_cites": [
+        {
+          "parenthetical": "overruling timely and specific objection lends \"an aura of legitimacy to what was otherwise improper argument\""
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "100 Wn.2d 757",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        1142105
+      ],
+      "year": 1984,
+      "pin_cites": [
+        {
+          "page": "764",
+          "parenthetical": "overruling timely and specific objection lends \"an aura of legitimacy to what was otherwise improper argument\""
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/100/0757-01"
+      ]
+    },
+    {
+      "cite": "265 P.3d 191",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2011,
+      "opinion_index": 0
+    },
+    {
+      "cite": "164 Wn. App. 724",
+      "category": "reporters:state",
+      "reporter": "Wash. App.",
+      "case_ids": [
+        4021969
+      ],
+      "year": 2011,
+      "pin_cites": [
+        {
+          "page": "737"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-app/164/0724-01"
+      ]
+    },
+    {
+      "cite": "286 P.3d 673",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "weight": 3,
+      "year": 2012,
+      "pin_cites": [
+        {
+          "parenthetical": "plurality opinion"
+        },
+        {
+          "page": "707"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "175 Wn.2d 696",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        4024155
+      ],
+      "year": 2012,
+      "pin_cites": [
+        {
+          "page": "711",
+          "parenthetical": "plurality opinion"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/175/0696-01"
+      ]
+    },
+    {
+      "cite": "278 P.3d 653",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "weight": 3,
+      "year": 2012,
+      "pin_cites": [
+        {
+          "page": "760-61"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "174 Wn.2d 741",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        4022108
+      ],
+      "year": 2012,
+      "pin_cites": [
+        {
+          "page": "760"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/174/0741-01"
+      ]
+    },
+    {
+      "cite": "610 P.2d 1322",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1980,
+      "pin_cites": [
+        {
+          "parenthetical": "Accomplice must have actual knowledge that principal was engaging in the crime eventually charged."
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "93 Wn.2d 510",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        1167782
+      ],
+      "year": 1980,
+      "pin_cites": [
+        {
+          "page": "517",
+          "parenthetical": "Accomplice must have actual knowledge that principal was engaging in the crime eventually charged."
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/93/0510-01"
+      ]
+    },
+    {
+      "cite": "195 P.3d 940",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2008,
+      "opinion_index": 0
+    },
+    {
+      "cite": "165 Wn.2d 17",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        5751726
+      ],
+      "weight": 2,
+      "year": 2008,
+      "pin_cites": [
+        {
+          "page": "28"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/165/0017-01"
+      ]
+    },
+    {
+      "cite": "258 P.3d 43",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2011,
+      "opinion_index": 0
+    },
+    {
+      "cite": "172 Wn.2d 438",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        4018144
+      ],
+      "year": 2011,
+      "pin_cites": [
+        {
+          "page": "443"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/172/0438-01"
+      ]
+    },
+    {
+      "cite": "325 P.3d 913",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2014,
+      "opinion_index": 0
+    },
+    {
+      "cite": "180 Wn.2d 1008",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "year": 2014,
+      "opinion_index": 0
+    },
+    {
+      "cite": "119 P.3d 825",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2005,
+      "opinion_index": 0
+    },
+    {
+      "cite": "155 Wn.2d 306",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        3765944
+      ],
+      "year": 2005,
+      "pin_cites": [
+        {
+          "page": "325"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/155/0306-01"
+      ]
+    },
+    {
+      "cite": "317 P.3d 494",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2014,
+      "opinion_index": 0
+    },
+    {
+      "cite": "178 Wn. App. 893",
+      "category": "reporters:state",
+      "reporter": "Wash. App.",
+      "case_ids": [
+        4346167
+      ],
+      "weight": 5,
+      "year": 2014,
+      "pin_cites": [
+        {
+          "page": "901"
+        },
+        {
+          "page": "925",
+          "parenthetical": "Maxa, J., dissenting in part"
+        },
+        {
+          "page": "909"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-app/178/0893-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 1332,
+    "char_count": 37234,
+    "ocr_confidence": 0.742,
+    "pagerank": {
+      "raw": 7.631803955259639e-08,
+      "percentile": 0.450873004565131
+    },
+    "sha256": "0f6e156863f9f1e080f089b74b76fca1aecb2c4165fd0205099ff2a92d0cbeec",
+    "simhash": "1:51b8da6975ee118d",
+    "word_count": 6021
+  },
+  "last_updated": "2024-02-27T17:34:40.830885+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Madsen, C.J., and Johnson, Owens, Stephens, Wiggins, Gonz\u00e1lez, Gordon McCloud, and Yu, JJ., concur."
+    ],
+    "parties": [
+      "The State of Washington, Respondent, v. Darcus Dewayne Allen, Petitioner."
+    ],
+    "opinions": [
+      {
+        "text": "Fairhurst, J.\n\u00b61 In November 2009, Maurice Clemmons shot and killed four Lakewood police officers. Darcus Dewayne Allen, the petitioner in this case, drove Clemmons to and from the crime scene and was charged as an accomplice. We must decide whether the prosecuting attorney committed prejudicial misconduct by misstating the standard upon which the jury may convict an accomplice. In a divided decision, the Court of Appeals recognized that the statements were improper but ultimately held that they did not amount to prejudicial misconduct. State v. Allen, 178 Wn. App. 893, 317 P.3d 494 (2014). We reverse.\n\u00b62 This case presents two additional issues: (1) whether an accomplice is subject to a sentence outside the statutory range based on the aggravating circumstance found in RCW 9.94A.535(3)(v) and (2) whether Allen was prejudiced when the trial judge permitted spectators to wear T-shirts bearing the names of the murdered officers. Although the prejudicial misconduct issue is dispositive in this case, we address these two remaining issues because they are likely to arise on remand. Joyce v. Dep\u2019t of Corr., 155 Wn.2d 306, 325, 119 P.3d 825 (2005).\nI. FACTUAL BACKGROUND AND PROCEDURAL HISTORY\nA. Background\n\u00b63 Because accomplice liability depends on whether the defendant had knowledge the principal would commit the crime, events leading up to the murders are summarized. This tragic story began in May 2009 when officers responded to reports that Clemmons was throwing rocks through his neighbors\u2019 windows. Clemmons responded violently when officers arrived at the scene, and he was arrested for punching officers. He posted bail in November 2009, the month of the shootings.\n\u00b64 Shortly after his release, Clemmons attended Thanksgiving dinner at his aunt\u2019s house, where he expressed animosity toward the police. Specifically, he announced that if the police arrived to look for him, he would kill them and then go across the street to the elementary school and commit further acts of violence. Clemmons brandished a handgun while he described these acts. Allen, who was a friend and employee of Clemmons, was present at that dinner.\n\u00b65 Three days later, Clemmons contacted Allen and told him they were going to wash the company truck. With Allen driving, Clemmons directed him to a car wash near a coffee shop in Lakewood. Upon arriving at the car wash, Allen parked the truck, got out, and walked across the street to a minimart. During that time, Clemmons also left the car wash and entered the coffee shop, where the shootings occurred. When Allen returned to the truck, Clemmons appeared and told Allen that they had to leave. Allen claimed he drove only a few blocks until he left the truck upon discovering Clemmons was wounded. Allen also claimed that he did not know Clemmons was going to commit the murders.\n\u00b66 Clemmons eventually ended up at his aunt\u2019s house, and the truck was abandoned in a nearby parking lot. A few days later, Clemmons was killed by a Seattle police officer. Allen was arrested shortly afterward.\nB. Allen\u2019s trial\n\u00b67 Allen was charged with four counts of aggravated first degree murder. The State initially alleged multiple aggravating circumstances but eventually settled on the aggravator under RCW 9.94A.535(3)(v). That aggravator allowed the trial court to sentence Allen above the standard range if the jury found that (1) the victims were police officers who were performing their official duties at the time of the offense, (2) Allen knew the victims were police officers, and (3) the victims\u2019 status as police officers were not elements of the offense. RCW 9.94A.535(3)(v).\n\u00b68 During trial, several spectators wore T-shirts that said, \u201c Aou will not be forgotten, Lakewood Police,\u2019 \u201d followed by the names of the four murdered officers. 24 Verbatim Report of Proceedings (VRP) at 3024. Allen objected to these T-shirts and asked that the shirts be covered. The trial court denied Allen\u2019s motion, stating that \u201c[j]ustice is what this trial is all about. Sometimes [there are] competing principles. Free speech is one, public trials is another. I\u2019m going to deny your motion.\u201d Id. at 3027.\n\u00b69 The next day, spectators again arrived with the same T-shirts and Allen renewed his objection that the court bar the individuals from wearing the T-shirts in the courtroom. The trial court denied the motion, stating that it was \u201ca matter of free speech.\u201d 25 VRP at 3157.\nC. Closing argument\n\u00b610 The State was required to prove that Allen had actual knowledge that Clemmons would commit the murders. During closing argument, the prosecuting attorney initially stated the correct definition of \u201cknowledge\u201d as it was used in the jury instruction. 29 VRP at 3544. He said, \u201c[I]f a person has information that would lead a reasonable person in the same situation to believe that a fact exists, then the jury is permitted, but not required, to find that that person acted with knowledge.\u201d Id. However, immediately afterward, the prosecuting attorney stated that \u201c[f]or shorthand we\u2019re going to call that \u2018should have known.\u2019 \u201d Id. at 3544-45. The prosecuting attorney went on to repeatedly and improperly use the phrase \u201cshould have known\u201d when describing the definition of \u201cknowledge.\u201d Id. at 3545-46, 3548-49, 3566, 3570.\n\u00b611 The prosecuting attorney also presented a slide show simultaneously with his closing argument. This slide show repeatedly referred to the \u201cshould have known\u201d standard. Pl.\u2019s Ex. 352, at 1, 5-7, 12, and 14. One slide even stated, \u2018You are an accomplice if: . . . you know or should have known,\u201d with the words \u201cor should have known\u201d in bold. Id. at 6.\n\u00b612 Allen objected to this characterization of the \u201cknowledge\u201d definition, but the trial court overruled his objections, saying, \u201cIt\u2019s argument.\u201d 29 VRP at 3546. During Allen\u2019s closing argument, Allen\u2019s attorney argued his interpretation of the statute briefly. Id. at 3604 (\u201cWell, read those instructions. He needed to know.\u201d).\n\u00b613 The prosecuting attorney made several more \u201cshould have known\u201d comments in rebuttal argument. Id. at 3614 (\u201cThis is the knowledge instruction. What did he know, what should he have known. This is Instruction No. 9.\u201d). Additionally, of the four slides titled \u201cDefendant Should Have Known,\u201d none indicated that the jury was required to find actual knowledge. Pl.\u2019s Ex. 354, at 3-4. Allen\u2019s attorney objected again to the mischaracterization of the \u201cknowledge\u201d definition but was overruled. 29 VRP at 3614.\nD. Jury instructions, deliberations, and verdict\n\u00b614 The jury received instructions that correctly stated the law regarding \u201cknowledge.\u201d Clerk\u2019s Papers (CP) at 2026. Particularly, instruction 9 said:\nA person knows or acts knowingly or with knowledge with respect to a fact or circumstance when he or she is aware of that fact or circumstance.\nIf a person has information that would lead a reasonable person in the same situation to believe that a fact exists, the jury is permitted but not required to find that he or she acted with knowledge of that fact.\nId.\n\u00b615 During deliberation, the jury sent the following question to the court: \u201cIf someone \u2018should have known\u2019 does that make them an accomplice?\u201d CP at 2014. The State recommended that the court refer the jury back to its instructions, and Allen agreed. Allen did not request a more detailed instruction or a curative instruction.\n\u00b616 The jury convicted Allen of four counts of first degree murder. The jury also returned a special verdict form finding the aggravator alleged under RCW 9.94A-.535(3)(v). Based on the aggravating circumstance, the trial court imposed an exceptional sentence of 400 years.\n\u00b617 Allen appealed, and the Court of Appeals affirmed his conviction and sentence in a divided opinion. Allen, 178 Wn. App. 893. We granted review on three issues. State v. Allen, 180 Wn.2d 1008, 325 P.3d 913 (2014).\nII. ISSUES\n\u00b618 A. Did the prosecuting attorney commit prejudicial misconduct by misstating the standard upon which the jury could convict Allen?\n\u00b619 B. Does the aggravator found in RCW 9.94A-.535(3)(v), which is silent as to accomplice liability, apply to a defendant charged as an accomplice?\n\u00b620 C. Was Allen prejudiced when spectators at trial wore T-shirts bearing the names of the murdered officers?\nIII. ANALYSIS\nA. The prosecuting attorney committed prejudicial misconduct by misstating the standard upon which the jury could find Allen guilty\n\u00b621 To establish that the prosecuting attorney here committed misconduct during closing argument, Allen must prove that the prosecuting attorney\u2019s remarks were both improper and prejudicial. State v. Thorgerson, 172 Wn.2d 438, 443, 258 P.3d 43 (2011).\n1. The prosecuting attorney\u2019s statements were improper\n\u00b622 A prosecuting attorney commits misconduct by misstating the law. State v. Warren, 165 Wn.2d 17, 28, 195 P.3d 940 (2008). Here, the State concedes that the prosecuting attorney misstated the standard upon which the jury could find Allen had actual knowledge.\n\u00b623 This concession is well taken and accepted because under Washington\u2019s accomplice liability statute, the State was required to prove that Allen actually knew that he was promoting or facilitating Clemmons in the commission of first degree premeditated murder. RCW 9A.08-.020(3); see also State v. Shipp, 93 Wn.2d 510, 517, 610 P.2d 1322 (1980) (Accomplice must have actual knowledge that principal was engaging in the crime eventually charged.). While the State must prove actual knowledge, it may do so through circumstantial evidence. Thus, Washington\u2019s culpability statute provides that a person has actual knowledge when \u201che or she has information which would lead a reasonable person in the same situation to believe\u201d that he was promoting or facilitating the crime eventually charged. RCW 9A.08.010(1)(b)(ii).\n\u00b624 Although subtle, the distinction between finding actual knowledge through circumstantial evidence and finding knowledge because the defendant \u201cshould have known\u201d is critical. We have recognized that a juror could understandably misinterpret Washington\u2019s culpability statute to allow a finding of knowledge \u201cif an ordinary person in the defendant\u2019s situation would have known\u201d the fact in question, or in other words, if the defendant \u201cshould have known.\u201d Shipp, 93 Wn.2d at 514. However, such an interpretation subjects a defendant to accomplice liability under a theory of constructive knowledge and is unconstitutional. Id. at 515-16. To pass constitutional muster, the jury must find actual knowledge but may make such a finding with circumstantial evidence. Id. at 516.\n\u00b625 Here, the prosecuting attorney repeatedly misstated that the jury could convict Allen if it found that he should have known Clemmons was going to murder the four police officers. For example, the prosecuting attorney stated that \u201cunder the law, even if he doesn\u2019t actually know, if a reasonable person would have known, he\u2019s guilty.\u201d 29 VRP at 3546 (emphasis added). As noted above, the \u201cshould have known\u201d standard is incorrect; the jury must find that Allen actually knew Clemmons was going to murder the four police officers. The remarks were improper.\n2. Allen was prejudiced by the improper statements\n\u00b626 Once we find that a prosecuting attorney\u2019s statements were improper, we must then determine whether the defendant was prejudiced under one of two standards of review. State v. Emery, 174 Wn.2d 741, 760, 278 P.3d 653 (2012). \u201cIf the defendant objected at trial, the defendant must show that the prosecutor\u2019s misconduct resulted in prejudice that had a substantial likelihood of affecting the jury\u2019s verdict.\u201d Id. However, if the defendant failed to object, \u201cthe defendant is deemed to have waived any error, unless the prosecutor\u2019s misconduct was so flagrant and ill intentioned that an instruction could not have cured the resulting prejudice.\u201d Id. at 760-61. Because Allen objected at trial, we proceed under the first standard and ask whether there was a substantial likelihood that the misconduct affected the jury verdict. We answer this question in the affirmative for five reasons.\n\u00b627 First, the prosecuting attorney misstated a key issue of the case. Because the charges against Allen were based on accomplice liability, what Allen knew and did not know was critically important. The State produced no direct evidence that Allen had actual knowledge that Clemmons would commit the murders. Thus, the trial turned on whether the State produced sufficient circumstantial evidence to allow the jury to infer Allen had actual knowledge. A misstatement that the jury could find Allen guilty if he should have known of Clemmons\u2019 criminal acts was particularly likely to affect the jury\u2019s verdict.\n\u00b628 The Court of Appeals diminished the prejudicial effect of misstating the law because the State produced sufficient circumstantial evidence to allow the jury to find actual knowledge. Allen, 178 Wn. App. at 901. However, deciding whether a prosecuting attorney commits prejudicial misconduct \u201cis not a matter of whether there is sufficient evidence to justify upholding the verdicts.\u201d In re Pers. Restraint of Glasmann, 175 Wn.2d 696, 711, 286 P.3d 673 (2012) (plurality opinion). \u201cRather, the question is whether there is a substantial likelihood that the instances of misconduct affected the jury\u2019s verdict.\u201d Id. The Court of Appeals\u2019 reliance on the sufficiency of the evidence is misplaced.\n\u00b629 Second, the misstatement of law was repeated multiple times. Repetitive misconduct can have a \u201c \u2018cumulative effect.\u2019 \u201d Id. at 707 (quoting State v. Walker, 164 Wn. App. 724, 737, 265 P.3d 191 (2011)). The record reveals numerous instances where the prosecuting attorney misstated the definition of \u201cknowledge.\u201d For example, during closing arguments, the prosecuting attorney stated the incorrect standard at least five times:\n\u2022 \u201cIf a person had information and a reasonable person would have known, then he knew. Because it\u2019s really hard to get direct evidence of somebody\u2019s knowledge, right?\u201d 29 VRP at 3545.\n\u2022 \u201c[W]hat a jury should do is look at all the facts and all the circumstances surrounding it and say, well, what would a reasonable person know. And if a reasonable person would have known that Maurice Clemmons was going to go in there and kill these cops, then his getaway driver knew that, too.\u201d 29 VRP at 3545.\n\u2022 \u201cAnd under the law, even if he doesn\u2019t actually know, if a reasonable person would have known, he should have known, he\u2019s guilty. So you\u2019re an accomplice if you help another person commit a crime and you know or should have known that your actions are going to help. And Mr. Allen is an accomplice because he helped Maurice Clemmons commit these murders, and he knew or should have known that his actions were going to help those murders happen.\u201d 29 VRP at 3546 (emphasis added).\n\u2022 \u201cSo the question becomes-and really, the question in the case is did he know or should he have known. Did he know or would a reasonable person have known? Well, did he know? Should he have known?\u201d 29 VRP at 3548-49.\n\u2022 \u201cInformation that would lead a reasonable person in the same situation to believe. He knew. And he should have known.\u201d 29 VRP at 3566.\n\u00b630 In addition, the prosecuting attorney displayed a slide show that repeatedly included the \u201cshould have known\u201d standard. See, e.g., Pl.\u2019s Ex. 352, at 6 (\u201c[y]ou are an accomplice if:... you know or should have known\u201d). One particularly troubling slide was titled \u201cShould Have Known\u201d and contained a list of mental states, the last two of which were \u201cKnow\u201d and \u201cShould Have Known.\u201d Id. at 5-6. All of the mental states were crossed out \u2014 including \u201cKnow\u201d \u2014 except for \u201cShould Have Known.\u201d Id. Such visual displays may be \u201ceven more prejudicial\u201d than oral advocacy. Glasmann, 175 Wn.2d at 708.\n\u00b631 During the State\u2019s rebuttal argument, the prosecuting attorney continued to misstate the knowledge standard. 29 VRP at 3614 (\u201cThis is the knowledge instruction. What did he know, what should he have known. This is Instruction No. 9.\u201d). The rebuttal argument was also accompanied by a slide show that contained four slides titled \u201cDefendant Should Have Known.\u201d Pl.\u2019s Ex. 354, at 3-4. The sheer amount of instances where the prosecuting attorney misstated the law heavily indicates that Allen was prejudiced.\n\u00b632 The Court of Appeals and the State rely on the fact that the prosecuting attorney initially stated the correct standard for finding actual knowledge. However, as the Court of Appeals\u2019 dissent points out, \u201ccorrectly stating the law once hardly can compensate for misstating the law multiple other times.\u201d Allen, 178 Wn. App. at 925 (Maxa, J., dissenting in part). Further, immediately after stating the correct standard, the prosecuting attorney mischaracterized it as the \u201c \u2018should have known\u2019 \u201d definition of knowledge. 29 VRP at 3544-45. Thus, the jury\u2019s interpretation of the law was tainted such that the prosecuting attorney\u2019s initially correct statement has little weight in our analysis.\n\u00b633 Third, the trial court twice overruled Allen\u2019s timely objections in the jury\u2019s presence, potentially leading the jury to believe that the \u201cshould have known\u201d standard was a proper interpretation of law. See State v. Davenport, 100 Wn.2d 757, 764, 675 P.2d 1213 (1984) (overruling timely and specific objection lends \u201can aura of legitimacy to what was otherwise improper argument\u201d). The State points out that Allen was able to present and argue his interpretation of the law in closing arguments. See 29 VRP at 3604 (\u201cWell, read those instructions. He needed to know.\u201d). But so did the defendant in State v. Cronin, 142 Wn.2d 568, 577, 14 P.3d 752 (2000). There, the defense presented the proper interpretation of accomplice liability during closing argument and disputed the State\u2019s interpretation. Id. Nevertheless, we reversed the defendant\u2019s conviction because the jury was not properly instructed. Id. at 581-82. As discussed more below, the record reveals that the jury did not understand the definition of \u201cknowledge,\u201d even after Allen argued the proper interpretation.\n\u00b634 Fourth, and perhaps most important to our analysis, the record reveals that the jury was influenced by the improper statement of law during deliberations. After deliberations began, the jury sent the following question to the court: \u201cIf someone \u2018should have known\u2019 does that make them an accomplice?\u201d CP at 2014. This question indicates that the jury was unsure whether it could convict Allen using the incorrect \u201cshould have known\u201d standard. See Davenport, 100 Wn.2d at 765 (reversing conviction where, among other factors, the record revealed \u201cthat the jury was influenced, if not misled, by the prosecutor\u2019s comment\u201d). It is possible that the jury believed Allen did not know Clemmons would commit murder but nevertheless convicted him because he \u201cshould have known,\u201d which is the wrong standard.\n\u00b635 The Court of Appeals concluded that \u201c[i]n the context of the entire closing argument, the nuances of what Allen \u2018should have known\u2019 versus what a reasonable person would have known based on the information known to Allen likely had no prejudicial impact on the jury.\u201d Allen, 178 Wn. App. at 909. However, this nuance is critically important. In Shipp, we reversed the convictions of several defendants because it was \u201cpossible that the jury believed [that the accomplice lacked actual knowledge] and yet convicted him because it believed that an ordinary person would have known.\u201d Shipp, 93 Wn.2d at 517. The jury was required to find that Allen actually knew Clemmons would murder the four officers. Absent this finding, Allen\u2019s conviction cannot stand.\n\u00b636 The State argues that the jury was told the correct version of the law in the jury instructions, thus curing any improper statements by the prosecuting attorney. The jury was instructed, among other things:\nThe lawyers\u2019 remarks, statements, and arguments are intended to help you understand the evidence and apply the law. It is important, however, for you to remember that the lawyers\u2019 statements are not evidence. The evidence is the testimony and the exhibits. The law is contained in my instructions to you. You must disregard any remark, statement, or argument that is not supported by the evidence or the law in my instructions.\nCP at 2017. With regard to knowledge, the jury was instructed as follows:\nA person knows or acts knowingly or with knowledge with respect to a fact or circumstance when he or she is aware of that fact or circumstance.\nIf a person has information that would lead a reasonable person in the same situation to believe that a fact exists, the jury is permitted but not required to find that he or she acted with knowledge of that fact.\nId. at 2026.\n\u00b637 Typically, we presume that a jury follows the instructions provided by the court. Warren, 165 Wn.2d at 29. However, that presumption is rebutted where the record reflects that the jury considered an improper statement to be a proper statement of the law. Davenport, 100 Wn.2d at 763-64; see also State v. Teal, 152 Wn.2d 333, 342, 96 P.3d 974 (2004) (Sanders, J., dissenting) (\u201cJuries are presumed to follow the instructions given by the court, but that presumption is overcome when they are forced to \u2018assume\u2019 the law is different from that provided.\u201d). Here, the jury was influenced by the improper statement and the presumption is rebutted.\n\u00b638 Finally, misconduct by the State is particularly egregious. \u201cThe prosecuting attorney misstating the law of the case to the jury is a serious irregularity having the grave potential to mislead the jury.\u201d Davenport, 100 Wn.2d at 763. This is because \u201c[t]he jury knows that the prosecutor is an officer of the State.\u201d Warren, 165 Wn.2d at 27. \u201cIt is, therefore, particularly grievous that this officer would so mislead the jury\u201d regarding a critical issue in the case. Id.\n\u00b639 Based on the foregoing factors, we find that there was a substantial likelihood that the misconduct affected the jury verdict and thus prejudiced Allen.\n3. Allen was not required to request a curative instruction\n\u00b640 In response to the jury\u2019s question regarding accomplice liability, the prosecuting attorney recommended that the court refer the jury back to its instructions. Allen agreed and did not ask for a curative instruction. Although the State does not expressly argue that Allen waived his claim, the State notes that Allen could have requested a curative instruction but failed to do so. Resp\u2019t\u2019s Suppl. Br. at 9. This is not relevant to our analysis. The standard we use to assess prejudice is not whether Allen should have asked for a curative instruction but, rather, whether the prosecuting attorney\u2019s misconduct had a substantial likelihood of affecting the jury\u2019s verdict. Emery, 174 Wn.2d at 760-61. Allen is required to request a curative instruction only if he did not timely object. Id. A defendant properly preserves the issue for appeal when he objects immediately. Classen, 143 Wn. App. at 64.\n\u00b641 The State cites State v. Binkin, 79 Wn. App. 284, 902 P.2d 673 (1995), and Warren, 165 Wn.2d 17, for the proposition that \u201c[i]f a curative instruction could have cured the error and the defense failed to request one, then reversal is not required.\u201d Resp\u2019t\u2019s Suppl. Br. at 3.\n\u00b642 In Binkin, it is not clear whether the defendant objected during trial. However, the Binkin court relied on State v. Hoffman, 116 Wn.2d 51, 804 P.2d 577 (1991), which is distinguishable from the present case. Binkin, 79 Wn. App. at 293-94. In Hoffman, the defendant both failed to object and failed to request a curative instruction. 116 Wn.2d at 93. Conversely, Allen made two timely objections during the prosecuting attorney\u2019s closing and rebuttal arguments. The distinction is important because we have noted that if a \u201cdefendant fails to object or request a curative instruction at trial, the issue of misconduct is waived.\u201d Thorgerson, 172 Wn.2d at 460-61 (Chambers, J., dissenting) (emphasis added).\n\u00b643 In Warren, the prosecuting attorney misstated the burden of proof during closing argument. 165 Wn.2d at 23. After three objections by the defense, the judge gave a sua sponte curative instruction. Id. at 23-24. But for the instruction, we would not have hesitated \u201cto conclude that such a remarkable misstatement of the law by a prosecutor constitute[d] reversible error.\u201d Id. at 28. Because the defense never requested the instruction in Warren, it is difficult to use our decision there to fault Allen here.\n\u00b644 In sum, the prosecuting attorney\u2019s statements were improper. Because there was a substantial likelihood that the improper statements affected the jury\u2019s verdict, we hold that the prosecuting attorney committed prejudicial misconduct. We reverse the Court of Appeals and remand for a new trial.\n\u00b645 Although the prosecutorial misconduct committed at trial is dispositive, we address the aggravating circumstances and spectator T-shirt issues because they are likely to arise on remand. Joyce, 155 Wn.2d at 325.\nB. The aggravating circumstance in RCW 9.94A.535(3)(v) may apply to Allen\n\u00b646 A trial court may impose a sentence above the standard range if a jury finds certain aggravating circumstances. RCW 9.94A.535(3). Here, to satisfy the aggravator under RCW 9.94A.535(3)(v), the State alleged and the jury found the requisite elements, specifically, that the crimes were committed against police officers who were performing their official duties at the time of the crime and the defendant knew that the victims were police officers. As a result, the trial court imposed an exceptional sentence of 400 years.\n\u00b647 Allen argues on appeal that he is not subject to an exceptional sentence because the aggravator in RCW 9.94A-.535(3)(v) does not expressly state that it applies to accomplices. Conversely, the State argues that an accomplice is sentenced to the same extent as the principal unless the language of the particular aggravator reveals a legislative intent that the aggravator applies only to the principal.\n\u00b648 We reject both of these arguments and clarify that, on remand, Allen is subject to an exceptional sentence so long as the jury makes the requisite findings to satisfy the elements of RCW 9.94A.535(3)(v) and such findings are based on Allen\u2019s own misconduct.\n\u00b649 To determine whether an aggravator applies to an accomplice, we first look to the statute providing the aggra-vator for express triggering language. State v. McKim, 98 Wn.2d 111, 116, 653 P.2d 1040 (1982), superseded by statute, Sentencing Reform Act of 1981 (SRA), chapter 9.94A RCW, as recognized by State v. Silva-Baltazar, 125 Wn.2d 472, 481, 886 P.2d 138 (1994)). If the aggravator contains express triggering language applying it to accomplices, then it clearly applies and our analysis ends. See, e.g., RCW 9.94A.533(3) (applying enhancement to sentence if \u201cthe offender or an accomplice was armed with a firearm\u201d (emphasis added)).\n\u00b650 However, the aggravator need not contain express triggering language. If there is no express triggering language, we then look to the defendant\u2019s own actions to form the basis for the aggravator. McKim, 98 Wn.2d at 117. Under this analysis, \u201c [i] t is of no consequence whether [the accused] is a principal or an accomplice.\u201d Silva-Baltazar, 125 Wn.2d at 487 (Madsen, J., concurring). Rather, it is the defendant\u2019s own misconduct that is determinative. Id. If the defendant\u2019s own conduct satisfies the elements of the aggravator, then the aggravator applies.\n\u00b651 This approach is grounded in McKim, where we addressed whether the deadly weapon enhancement could apply to an accomplice who was not personally armed during the commission of the offense. 98 Wn.2d at 112. We first looked to Washington\u2019s accomplice liability statute and noted that unlike the prior version of the accomplice liability statute, the new statute did not explicitly provide for \u201c \u2018punishment\u2019 of an accomplice to the same extent as the principal.\u201d Id. at 116. Thus, the new accomplice liability statute did not automatically apply sentencing enhancements to accomplices. Id. Rather, because an accomplice was \u201cequally liable only for the substantive crime \u2014 any sentence enhancement must depend on the accused\u2019s own misconduct.\u201d Id. at 117. We therefore turned to the operative language of the sentencing enhancement to determine whether the enhancement applied to the defendant.\n\u00b652 The operative language of the sentencing enhancement in McKim required a finding that the accused was armed with a deadly weapon. Id. at 116. Because we determined that an accomplice could be considered armed if he was actually armed or had knowledge that the principal was armed, it followed that the accomplice\u2019s sentence could be enhanced under the operative language of the statute. Id. at 117.\n\u00b653 Following our decision in McKim, the legislature added explicit triggering language to the deadly weapon enhancement that automatically applied the enhancement to accomplices. Silva-Baltazar, 125 Wn.2d at 481. Notably, the legislature did not alter the accomplice liability statute to allow sentencing of accomplices to the same extent as principals. Thus, McKim\u2019s approach to accomplice liability for sentencing enhancements remains sound. State v. Davis, 101 Wn.2d 654, 658, 682 P.2d 883 (1984) (reaffirming McKim\u2019s distinction between accomplice liability for substantive crime and sentencing enhancements).\n\u00b654 Here, the court sentenced Allen to an exceptional sentence based on the aggravator found in RCW 9.94A-.535(3)(v). That statute contains no express triggering language automatically authorizing an exceptional sentence for accomplices. Therefore, Allen\u2019s own misconduct must form the basis upon which the exceptional sentence applies. The operative language of the statute here allows the court to sentence Allen above the standard range if \u201c[t]he offense was committed against a law enforcement officer who was performing his or her official duties at the time of the offense, the offender knew that the victim was a law enforcement officer, and the victim\u2019s status as a law enforcement officer is not an element of the offense.\u201d RCW 9.94A.535(3)(v). An exceptional sentence under RCW 9-.94A.535(3)(v) may be imposed on remand if the jury finds the required elements based on Allen\u2019s own misconduct.\nC. On remand, the trial court must ensure that any spectator display does not result in prejudice to Allen\n\u00b655 Allen claims that T-shirts worn by spectators during the trial resulted in prejudice. A defendant has a fundamental right to a fair trial. U.S. Const, amends. VI, XIV, \u00a7 1. \u201cThe constitutional safeguards relating to the integrity of the criminal process ... embrace the fundamental conception of a fair trial, and . . . exclude influence or domination by either a hostile or friendly mob.\u201d Cox v. Louisiana, 379 U.S. 559, 562, 85 S. Ct. 476, 13 L. Ed. 2d 487 (1965). When a party challenges a spectator display, we must decide whether the courtroom scene presented to the jury was so inherently prejudicial as to pose an unacceptable threat to the defendant\u2019s right to a fair trial. Holbrook v. Flynn, 475 U.S. 560, 570, 106 S. Ct. 1340, 89 L. Ed. 2d 525 (1986). Silent showings of sympathy or support do not pose an unacceptable threat to the defendant\u2019s right to a fair trial so long as the display does not advocate for guilt or innocence. State v. Lord, 161 Wn.2d 276, 280, 165 P.3d 1251 (2007).\n\u00b656 For example, in Lord, spectators wore buttons for three days of a month-long trial. Id. at 282. The buttons were approximately two and one-half inches in diameter and bore an in-life picture of the victim with no writing. Id. We determined that a juror could reasonably understand this display as a sign of loss and \u201cnot automatically find it inherently prejudicial or as urging conviction of defendant.\u201d Id. at 286. Because the buttons did not bear any message regarding guilt or innocence, they were permissible. Id. at 289. Similarly, we held in In re Personal Restraint of Woods, 154 Wn.2d 400, 417-18, 114 P.3d 607 (2005), that black and orange ribbons were not inherently prejudicial because the ribbons did not advocate for Woods\u2019 guilt or innocence. Rather, these remembrance ribbons amounted to silent showings of support. Id.\n\u00b657 Conversely, in Norris v. Risley, 918 F.2d 828, 830 (9th Cir. 1990), spectators wore buttons that said \u201c \u2018Women Against Rape\u2019 \u201d with the word \u201cRape\u201d underlined with a broad red stroke. The Ninth Circuit held that the buttons were inherently prejudicial because the wording on the buttons implied the defendant was guilty. Id. at 832 (calling the display \u201cguilt suggestive buttons\u201d).\n\u00b658 Based on the limited information in the record, it was unlikely that the T-shirts were inherently prejudicial. The T-shirts bore a message that said \u201c You will not be forgotten, Lakewood Police\u2019 \u201d followed by a list of the victims\u2019 names. 24 VRP at 3024. Similar to the buttons in Lord and the ribbons in Woods, this message does not advocate for a message of guilt or innocence. Rather, the shirts were merely a silent showing of sympathy for the victims. We \u201cpresume that the jurors we entrust with determining guilt both understand, and have the fortitude to withstand, the potential influence from spectators who show sympathy or affiliation.\u201d Lord, 161 Wn.2d at 278.\n\u00b659 Contrary to Allen\u2019s arguments, the mere presence of words does not make a spectator display inherently prejudicial. Allen attempts to distinguish Lord and Woods on the basis that the displays there did not involve text and the spectator display here contained a textual message. However, Lord and Woods did not turn on the lack of words but, rather, on the fact that the spectator display did not advocate for a message of guilt or innocence.\n\u00b660 We note that the record is not sufficiently developed to properly review the trial court\u2019s decision. Under Flynn, Lord, and Woods, we are required to consider the courtroom scene presented to the jury. On remand, we advise the trial court to look to factors such as how many spectators are wearing the shirts, the size of the font, how close the spectators were to the jury, and whether the jury could make out the writing on the shirts. Further, any message must be scrutinized to determine whether it advocates for Allen\u2019s guilt or innocence, as such a message may violate Allen\u2019s right to a fair trial.\nIV. CONCLUSION\n\u00b661 The prosecuting attorney committed prejudicial misconduct by misstating the proper standard upon which the jury could find Allen acted with knowledge. We reverse the Court of Appeals and remand for a new trial.\nMadsen, C.J., and Johnson, Owens, Stephens, Wiggins, Gonz\u00e1lez, Gordon McCloud, and Yu, JJ., concur.\nThe State relies on a footnote in State v. Classen, 143 Wn. App. 45, 65 n.13, 176 P.3d 582 (2008), for the proposition that \u201c[a] prosecutor\u2019s misstatement of law in closing argument does not warrant a new trial where the jury was properly instructed.\u201d Resp\u2019t\u2019s Suppl. Br. at 5. However, Classen was decided on waiver grounds. 143 Wn. App. at 64-65 (defendant waived misconduct when he raised it for the first time in a motion for new trial). Thus, the State relies on dictum. Further, Classen acknowledged our holding in Davenport that where a record \u201c \u2018clearly supports the conclusion that the jury had considered the improper statement during deliberation,\u2019 \u201d a misstatement of the law was prejudicial. Id. at 64 (quoting Davenport, 100 Wn.2d at 764).\nMcKim was superseded by statute when the legislature added explicit triggering language that applied the relevant sentencing enhancement to accomplices. Silva-Baltazar, 125 Wn.2d at 481. However, we have reaffirmed McKim\u2019s treatment of sentencing enhancements in the context of accomplice liability. State v. Davis, 101 Wn.2d 654, 658, 682 P.2d 883 (1984).\nThe old accomplice liability statute, Rem. & Bal. Code \u00a7 2260, provided in pertinent part, \u201cEvery person concerned in the commission of a felony... whether he directly commits the act constituting the offense, or aids or abets in its commission, and whether present or absent ... is a principal, and shall be proceeded against and punished as such.\u201d (Emphasis added.)\nThe text of the particular aggravator here refers to the \u201coffender\u201d as opposed to the \u201cdefendant.\u201d The overwhelming majority of RCW 9.94A.535 refers to \u201cdefendant,\u201d substituting the word \u201coffender\u201d only eight times. It is unclear why the legislature chose to use \u201coffender\u201d in some aggravators and \u201cdefendant\u201d in others. Nevertheless, \u201coffender\u201d is defined as \u201ca person who has committed a felony established by state law and is eighteen years of age or older\u201d and \u201cthe terms \u2018offender\u2019 and \u2018defendant\u2019 are used interchangeably\u201d throughout the SRA. RCW 9.94A.030(34). Thus, \u201coffender\u201d as used in the present case refers to Allen, not Clemmons. This reflects the jury\u2019s special verdict form, which states that \u201cthe defendant [knew] the victim was a law enforcement officer.\u201d 31 VRP at 3643 (emphasis added).",
+        "type": "majority",
+        "author": "Fairhurst, J."
+      }
+    ],
+    "attorneys": [
+      "Gregory C. Link (of Washington Appellate Project), for petitioner.",
+      "Mark E. Lindquist, Prosecuting Attorney, and Kathleen Proctor and Thomas C. Roberts, Deputies, for respondent."
+    ],
+    "corrections": "",
+    "head_matter": "[No. 89917-7.\nEn Banc.]\nArgued September 9, 2014.\nDecided January 15, 2015.\nThe State of Washington, Respondent, v. Darcus Dewayne Allen, Petitioner.\nGregory C. Link (of Washington Appellate Project), for petitioner.\nMark E. Lindquist, Prosecuting Attorney, and Kathleen Proctor and Thomas C. Roberts, Deputies, for respondent."
+  },
+  "file_name": "0364-01",
+  "first_page_order": 400,
+  "last_page_order": 423
+}

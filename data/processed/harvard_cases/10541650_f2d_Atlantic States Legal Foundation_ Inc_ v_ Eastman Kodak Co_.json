@@ -1,0 +1,129 @@
+{
+  "id": 10541650,
+  "name": "ATLANTIC STATES LEGAL FOUNDATION, INC., Plaintiff-Appellant, v. EASTMAN KODAK COMPANY, Defendant-Appellee",
+  "name_abbreviation": "Atlantic States Legal Foundation, Inc. v. Eastman Kodak Co.",
+  "decision_date": "1991-05-14",
+  "docket_number": "No. 1055, Docket 90-7931",
+  "first_page": "124",
+  "last_page": "144",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "933 F.2d 124"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "2d Cir.",
+    "id": 8778,
+    "name": "United States Court of Appeals for the Second Circuit"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "484 U.S. 49",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        600440
+      ],
+      "weight": 5,
+      "year": 1987,
+      "pin_cites": [
+        {
+          "page": "60-61"
+        },
+        {
+          "page": "382-83"
+        },
+        {
+          "page": "59-60"
+        },
+        {
+          "page": "382-83"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/484/0049-01"
+      ]
+    },
+    {
+      "cite": "33 U.S.C. \u00a7 1318",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "33 U.S.C. \u00a7 1342",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "pin_cites": [
+        {
+          "page": "(b)"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "33 U.S.C. \u00a7 1365",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "weight": 4,
+      "pin_cites": [
+        {
+          "page": "(b)(1)"
+        },
+        {
+          "page": "(b)(1)"
+        }
+      ],
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 638,
+    "char_count": 13161,
+    "ocr_confidence": 0.765,
+    "pagerank": {
+      "raw": 3.6480745395742407e-07,
+      "percentile": 0.8899509199184972
+    },
+    "sha256": "00a28a748de22939cf50af074de7c3bf4c7ece443d073ef89ae863781f90d8e6",
+    "simhash": "1:1c1e43c0a0a309f9",
+    "word_count": 2069
+  },
+  "last_updated": "2024-02-27T20:17:01.570520+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before PIERCE, WINTER and WALKER, Circuit Judges."
+    ],
+    "parties": [
+      "ATLANTIC STATES LEGAL FOUNDATION, INC., Plaintiff-Appellant, v. EASTMAN KODAK COMPANY, Defendant-Appellee."
+    ],
+    "opinions": [
+      {
+        "text": "WINTER, Circuit Judge:\nThis appeal presents the question of whether a properly commenced citizen suit under the Clean Water Act may continue after the citizen suit defendant and the appropriate state officials have reached a settlement regarding the Clean Water Act violations in issue. We hold that a citizen suit cannot proceed solely for the purpose of challenging the terms of a settlement reached by state officials so long as the settlement reasonably assures that the violations alleged in the citizen suit have ceased and will not recur. We also hold, however, that a plaintiff in a properly commenced citizen suit that is terminated because of such a settlement may be entitled to an award of attorneys\u2019 fees as a prevailing party. We vacate and remand for further proceedings consistent with this opinion.\nBACKGROUND\nAppellee, Eastman Kodak Company (\u201cKodak\u201d), operates an industrial facility in Rochester, New York that discharges wastewater into the Genesee River and Paddy Hill Creek pursuant to a state regulatory permit. Appellant, Atlantic States Legal Foundation, Inc. (\u201cAtlantic States\u201d), is a not-for-profit environmental group based in Syracuse, New York with members residing in the Rochester area who claim to be affected by Kodak\u2019s discharges.\nOn April 17, 1989, Atlantic States informed Kodak, the New York Department of Environmental Conservation (\u201cDEC\u201d) and the United States Environmental Protection Agency (\u201cEPA\u201d) that it intended to sue Kodak for violating the terms of its regulatory permit. No state or federal agency commenced an action against Kodak for the alleged violations within the statutory sixty-day period, see 33 U.S.C. \u00a7 1365(b)(1), or at any time before Atlantic States filed the complaint in the instant matter on August 11, 1989. That complaint was based on Section 505 of the Federal Water Pollution Control Act (\u201cClean Water Act\u201d or \u201cAct\u201d), 33 U.S.C. \u00a7 1365 (1988), which authorizes \u201ccitizen suits\u201d against persons who are alleged to be in violation of an \u201ceffluent standard\u201d or other limitation on the discharge of regulated pollutants. The gravamen of Atlantic States\u2019s complaint was that the DEC issued an effluent discharge permit to Kodak pursuant to Section 402(b) of the Act, 33 U.S.C. \u00a7 1342(b), and that Kodak violated that permit by discharging pollutants into the Genesee River and Paddy Hill Creek in quantities exceeding permitted levels. Section 308 of the Act, 33 U.S.C. \u00a7 1318, requires all permittees to keep records of their discharges, to install, use and maintain proper monitoring equipment, to take samples of effluents, and to file regular reports with state regulators. Kodak thus has submitted monthly reports to the DEC for the period of March 1, 1987 to May 31, 1989. According to Atlantic States, these reports reveal at least twenty-seven permit violations over that twenty-five-month period, including excessive discharges of cyanide, xylene, suspended solids, methylene chloride, lead, zinc, nickel, silver, cadmium, dichloropropane and chloroform.\nBased on these reports, the complaint alleged that Kodak \u201chas violated its permit limitations\u201d and \u201ccontinues to do so.\u201d See Complaint \u00b6 13. As relief, Atlantic States sought a declaratory judgment as to past and ongoing permit violations; an injunction against future violations; an order authorizing Atlantic States to test Kodak\u2019s discharges for one year at Kodak\u2019s expense; an order requiring Kodak, for a one-year period, to disclose to Atlantic States any report or document submitted by Kodak to the EPA or to the DEC regarding its permit; civil penalties in the maximum statutory amount; and attorneys\u2019 fees and costs as authorized by the Act.\nOn March 12, 1990, Atlantic States again contacted Kodak, the DEC and the EPA and again announced an intention to s^u\u00e9. This second notice accused Kodak of discharging pollutants in excess of permitted amounts and also of discharging pollutants for which Kodak had no discharge authorization at all. However, on April 5, 1990, after several months of private negotiations, Kodak and the DEC entered into a civil consent order \u201cin full settlement of all civil and administrative claims and liabilities that might have been asserted by the [DEC] against Kodak ... for any violations ... that occurred at [the Rochester facility] prior to the effective date of this Order.\u201d Under the terms of that order, Kodak agreed to pay a penalty of $1 million, $200,-000 of which was allocated to water pollution violations at the Rochester facility and another $200,000 of which was allocated to other violations of its permit. Kodak also agreed that it would submit a report to the DEC summarizing the history of its operations in Rochester; prepare and submit a management practices code in order to enhance public awareness of the dangers associated with the facility and inform the public of plans for responding to spills or excess releases; pay for the costs of on-site monitoring by state employees; and submit to a comprehensive environmental audit.\nOn the same day that Kodak reached this civil settlement, it also entered into a criminal plea agreement with state authorities pursuant to which it pleaded guilty to a two-count misdemeanor complaint in Rochester City Court. Under the agreement, Kodak admitted to one count of unlawful dealing in hazardous wastes and another count of failing to notify the DEC of excessive releases in a timely fashion. In addition, the company agreed to pay a fine totalling $1 million and to provide $150,000 in support for local emergency planning committees. In exchange, the state released Kodak from further criminal liability and waived its right to additional penalties for pre-April 5, 1990 environmental violations at the Rochester facility.\nAtlantic States nevertheless sent a third notice of intent to sue on May 25, 1990. This third notice reiterated the allegations set forth in the March 12 letter, and added more allegations about pollutants not authorized for discharge in any amount. Shortly thereafter, Atlantic States moved to amend its complaint to include the allegations contained in the March 12 and May 25 notices. Like the original complaint, the proposed amended complaint alleged that Kodak\u2019s violations were part of a continuing pattern. The proposed amended complaint did not include, however, specific allegations of any post-April 5, 1990 violations. We note, nonetheless, that a few months after the proposed amended complaint was filed, Atlantic States, in an affidavit submitted in support of its cross-motion for summary judgment, did make allegations of violations that occurred in April and May 1990 based on Kodak\u2019s most recently filed discharge monitoring reports.\nBefore the district court could rule on the motion to amend, both Atlantic States and Kodak moved for summary judgment on the original complaint. All three motions were argued on August 30, 1990. On September 18, 1990, the district court issued an opinion and order dismissing the complaint without ruling on the motion to amend. Atlantic States now appeals from judgment entered on that order.\nDISCUSSION\nNoting that it filed its citizen action before any formal government proceeding was commenced, Atlantic States argues that, in failing to bring an enforcement proceeding during the sixty-day statutory notice period, New York has forfeited the right to preclude citizen enforcement and that, as a result, the instant action must proceed to trial and judgment notwithstanding the state\u2019s subsequent civil and criminal compromise with Kodak. We disagree.\nSection 505(b)(1)(A) of the Clean Water Act provides that no citizen suit shall be commenced unless the plaintiff has given the EPA, the state and the alleged violator sixty days\u2019 notice. 33 U.S.C. \u00a7 1365(b)(1). Section 505(b)(1)(B), in turn, provides that no citizen suit shall be commenced if the government is \u201cdiligently prosecuting\u201d an action involving the same violations. Id. Taken together, these provisions permit a citizen suit to begin if the appropriate state or federal authorities have not acted within the sixty-day notice period. Atlantic States\u2019s action was thus properly commenced. Whether such an action may continue in the face of a dispositive administrative and criminal settlement is another matter, however.\nIf the state enforcement proceeding has caused the violations alleged in the citizen suit to cease without any likelihood of recurrence \u2014 has eliminated the basis for the citizen suit \u2014 we believe that the citizen action must be dismissed. The legal interests that can be raised by private attorneys general under the Clean Water Act are narrow. The Supreme Court has held that a citizen suit under the Act may neither be addressed wholly to past violations nor seek to recover fines and penalties that the government has elected to forego. See Gwaltney of Smithfield, Ltd. v. Chesapeake Bay Foundation, Inc., 484 U.S. 49, 60-61, 108 S.Ct. 376, 382-83, 98 L.Ed.2d 306 (1987). A citizen suit thus must be prospective in nature and must supplement, not supplant, state enforcement of the Act. Id. at 59-60, 108 S.Ct. at 382-83.\nApplying those principles, we conclude that Atlantic States may not challenge the terms of the settlement between Kodak and New York State unless there is a realistic prospect that the violations alleged in Atlantic States\u2019s complaint will continue notwithstanding the settlement. The purpose of the citizen suit is to stop violations of the Clean Water Act that are not challenged by appropriate state and federal authorities. However, we do not believe the Clean Water Act can or should be read to discourage a governmental enforcement action once a citizen suit has been commenced nor to prevent state or local authorities from achieving a settlement as to conduct that is the subject of a citizen complaint. To hold otherwise would likely lead to underenforcement of the Clean Water Act. A citizen suing pursuant to Section 505 of the Act thus may not revisit the terms of a settlement reached by competent state authorities without regard to the probability of a continuation of the violations alleged in its complaint. Nor may the citizen suit proceed merely for the purpose of further investigating and monitoring the state compromise absent some realistic prospect of the alleged violations continuing.\nNevertheless, there has been no express finding in the instant matter that the settlement between Kodak and the New York authorities has caused the violations alleged by Atlantic States to cease and eliminated any realistic prospect of their recurrence. Atlantic States takes the position on appeal that Kodak\u2019s violations are continuing, although its proposed amended complaint is ambiguous on this question. Based on the present record, therefore, we cannot state with certainty whether Atlantic States has a basis for asserting that, notwithstanding Kodak\u2019s agreements with governmental authorities, there is a realistic prospect that Kodak will continue to violate the Clean Water Act as alleged in the complaint. We therefore remand for a determination of that issue. If the district court concludes that such violations are in fact continuing or, that, after giving some deference to the judgment of the state authorities, the terms of the settlement are such that a realistic prospect of continuing violations exists, Atlantic States may continue to pursue relief under the Clean Water Act. If no such prospect exists, the action should be dismissed as moot.\nBefore dismissal, however, plaintiff may seek an award of expenses and attorneys\u2019 fees. Although the case may be subject to dismissal, the function of the citizen suit \u2014 the cessation of violations of the Clean Water Act \u2014 will have been served. We believe that when the polluter\u2019s settlement with state authorities follows the proper commencement of a citizen suit, one can, absent contrary evidence, infer that the existence of the citizen suit was a motive for the polluter\u2019s settlement and that the citizen suit plaintiff is therefore a prevailing party.\nVacated and remanded for proceedings consistent with this opinion.\n. Kodak does not challenge Atlantic States\u2019s standing to bring the instant litigation.\n. Atlantic States did not file its complaint until August 11, 1989, because in exchange for additional time during which to discuss the group\u2019s allegations, Kodak waived any defenses that it might have had relating to Atlantic States\u2019s delay in commencing its action.\n. On remand, the motion to amend the complaint can be decided according to the usual standards. sitting by designation.",
+        "type": "majority",
+        "author": "WINTER, Circuit Judge:"
+      }
+    ],
+    "attorneys": [
+      "Charles M. Tebbutt, Buffalo, N.Y. (Allen, Lippes & Shonn, Buffalo, N.Y., Alan J. Knauf, Pittsford, N.Y., of counsel), for plaintiff-appellant.",
+      "Philip H. Gitlen, Albany, N.Y. (Kathryn Girardat Hart, Whiteman, Osterman & Hanna, Albany, N.Y., of counsel), for defendant-appellee."
+    ],
+    "corrections": "",
+    "head_matter": "ATLANTIC STATES LEGAL FOUNDATION, INC., Plaintiff-Appellant, v. EASTMAN KODAK COMPANY, Defendant-Appellee.\nNo. 1055, Docket 90-7931.\nUnited States Court of Appeals, Second Circuit.\nArgued Feb. 14, 1991.\nDecided May 14, 1991.\nCharles M. Tebbutt, Buffalo, N.Y. (Allen, Lippes & Shonn, Buffalo, N.Y., Alan J. Knauf, Pittsford, N.Y., of counsel), for plaintiff-appellant.\nPhilip H. Gitlen, Albany, N.Y. (Kathryn Girardat Hart, Whiteman, Osterman & Hanna, Albany, N.Y., of counsel), for defendant-appellee.\nBefore PIERCE, WINTER and WALKER, Circuit Judges."
+  },
+  "file_name": "0124-01",
+  "first_page_order": 222,
+  "last_page_order": 242
+}

@@ -1,0 +1,66 @@
+{
+  "id": 12131462,
+  "name": "People v. Gresham",
+  "name_abbreviation": "People v. Gresham",
+  "decision_date": "2015-09-09",
+  "docket_number": "No. 150020; Court of Appeals No. 321553",
+  "first_page": "876",
+  "last_page": "876",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "498 Mich. 876"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Mich.",
+    "id": 8790,
+    "name": "Michigan Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 49,
+    "name_long": "Michigan",
+    "name": "Mich."
+  },
+  "cites_to": [
+    {
+      "cite": "497 Mich 1026",
+      "category": "reporters:state",
+      "reporter": "Mich.",
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 17,
+    "char_count": 100,
+    "ocr_confidence": 0.764,
+    "sha256": "63f51f32b28ec8b5a657096a102f090190bbefcf5582574019d4f6d2f8ceb912",
+    "simhash": "1:0ea30e0979b9cc9d",
+    "word_count": 18
+  },
+  "last_updated": "2024-02-27T16:10:26.420323+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "People v Gresham,"
+    ],
+    "opinions": [
+      {
+        "text": "Leave to appeal denied at 497 Mich 1026.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "People v Gresham,\nNo. 150020; Court of Appeals No. 321553."
+  },
+  "file_name": "0876-02",
+  "first_page_order": 822,
+  "last_page_order": 822
+}

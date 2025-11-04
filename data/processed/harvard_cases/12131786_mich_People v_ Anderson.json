@@ -1,0 +1,66 @@
+{
+  "id": 12131786,
+  "name": "People v. Robert Anderson",
+  "name_abbreviation": "People v. Anderson",
+  "decision_date": "2015-09-09",
+  "docket_number": "No. 150140; Court of Appeals No. 322500",
+  "first_page": "876",
+  "last_page": "876",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "498 Mich. 876"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Mich.",
+    "id": 8790,
+    "name": "Michigan Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 49,
+    "name_long": "Michigan",
+    "name": "Mich."
+  },
+  "cites_to": [
+    {
+      "cite": "497 Mich 1026",
+      "category": "reporters:state",
+      "reporter": "Mich.",
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 18,
+    "char_count": 108,
+    "ocr_confidence": 0.739,
+    "sha256": "830d7a1fee234636abda037497b411a1474c0b73e23f15c417f66acf685190b8",
+    "simhash": "1:255a32c070a9a093",
+    "word_count": 19
+  },
+  "last_updated": "2024-02-27T16:10:26.420323+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "People v Robert Anderson,"
+    ],
+    "opinions": [
+      {
+        "text": "Leave to appeal denied at 497 Mich 1026.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "People v Robert Anderson,\nNo. 150140; Court of Appeals No. 322500."
+  },
+  "file_name": "0876-04",
+  "first_page_order": 822,
+  "last_page_order": 822
+}

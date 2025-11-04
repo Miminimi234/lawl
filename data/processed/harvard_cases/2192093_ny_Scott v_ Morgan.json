@@ -1,0 +1,982 @@
+{
+  "id": 2192093,
+  "name": "William B. Scott et al., Appellants, v. Charles Morgan, Respondent",
+  "name_abbreviation": "Scott v. Morgan",
+  "decision_date": "1884-01-29",
+  "docket_number": "",
+  "first_page": "508",
+  "last_page": "519",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "94 N.Y. 508"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "N.Y.",
+    "id": 24653,
+    "name": "New York Court of Appeals"
+  },
+  "jurisdiction": {
+    "id": 1,
+    "name_long": "New York",
+    "name": "N.Y."
+  },
+  "cites_to": [
+    {
+      "cite": "23 Wend. 490",
+      "category": "reporters:state",
+      "reporter": "Wend.",
+      "case_ids": [
+        2025525
+      ],
+      "weight": 2,
+      "opinion_index": -1,
+      "case_paths": [
+        "/wend/23/0488-01"
+      ]
+    },
+    {
+      "cite": "51 N. Y. 515",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "28 N. Y. 45",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        2036815
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny/28/0045-01"
+      ]
+    },
+    {
+      "cite": "10 Hun, 448",
+      "category": "reporters:state",
+      "reporter": "Hun,",
+      "pin_cites": [
+        {
+          "page": "445"
+        }
+      ],
+      "opinion_index": -1
+    },
+    {
+      "cite": "14 Abb. 459",
+      "category": "reporters:federal",
+      "reporter": "Abb.",
+      "pin_cites": [
+        {
+          "page": "472"
+        }
+      ],
+      "opinion_index": -1
+    },
+    {
+      "cite": "28 Barb. 476",
+      "category": "reporters:state",
+      "reporter": "Barb.",
+      "case_ids": [
+        2424092
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "522"
+        }
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/barb/28/0476-01"
+      ]
+    },
+    {
+      "cite": "46 N. Y. 636",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        2052595
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny/46/0636-01"
+      ]
+    },
+    {
+      "cite": "15 Johns. 205",
+      "category": "reporters:state",
+      "reporter": "Johns.",
+      "case_ids": [
+        2140982
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/johns/15/0205-01"
+      ]
+    },
+    {
+      "cite": "64 N. Y. 625",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        2161802,
+        2161883,
+        2161813
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny/64/0625-01",
+        "/ny/64/0625-03",
+        "/ny/64/0625-02"
+      ]
+    },
+    {
+      "cite": "6 Hun, 4",
+      "category": "reporters:state",
+      "reporter": "Hun,",
+      "opinion_index": -1
+    },
+    {
+      "cite": "1 Cow. 175",
+      "category": "reporters:state",
+      "reporter": "Cow.",
+      "case_ids": [
+        2156615
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "176"
+        }
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/cow/1/0175-01"
+      ]
+    },
+    {
+      "cite": "8 Johns. 342",
+      "category": "reporters:state",
+      "reporter": "Johns.",
+      "case_ids": [
+        2134525
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/johns/8/0342-01"
+      ]
+    },
+    {
+      "cite": "57 How. 255",
+      "category": "reporters:scotus_early",
+      "reporter": "How.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "72 N. Y. 491",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        532815
+      ],
+      "pin_cites": [
+        {
+          "page": "495"
+        }
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny/72/0491-01"
+      ]
+    },
+    {
+      "cite": "3 Hun, 1",
+      "category": "reporters:state",
+      "reporter": "Hun,",
+      "opinion_index": -1
+    },
+    {
+      "cite": "21 N. Y. 481",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        1749984
+      ],
+      "pin_cites": [
+        {
+          "page": "484"
+        }
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny/21/0518-01"
+      ]
+    },
+    {
+      "cite": "11 Johns. 377",
+      "category": "reporters:state",
+      "reporter": "Johns.",
+      "case_ids": [
+        2137614
+      ],
+      "pin_cites": [
+        {
+          "page": "383"
+        }
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/johns/11/0377-01"
+      ]
+    },
+    {
+      "cite": "33 How. 183",
+      "category": "reporters:scotus_early",
+      "reporter": "How.",
+      "pin_cites": [
+        {
+          "page": "191"
+        }
+      ],
+      "opinion_index": -1
+    },
+    {
+      "cite": "16 Wend. 335",
+      "category": "reporters:state",
+      "reporter": "Wend.",
+      "case_ids": [
+        2149134
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/wend/16/0335-01"
+      ]
+    },
+    {
+      "cite": "35 Barb. 620",
+      "category": "reporters:state",
+      "reporter": "Barb.",
+      "case_ids": [
+        5779961
+      ],
+      "weight": 2,
+      "opinion_index": -1,
+      "case_paths": [
+        "/barb/35/0620-01"
+      ]
+    },
+    {
+      "cite": "39 Barb. 206",
+      "category": "reporters:state",
+      "reporter": "Barb.",
+      "case_ids": [
+        1943419
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/barb/39/0206-01"
+      ]
+    },
+    {
+      "cite": "28 Vt. 546",
+      "category": "reporters:state",
+      "reporter": "Vt.",
+      "case_ids": [
+        2355649
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/vt/28/0546-01"
+      ]
+    },
+    {
+      "cite": "2 Mass. 514",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "case_ids": [
+        2007315
+      ],
+      "pin_cites": [
+        {
+          "page": "516"
+        }
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/mass/2/0461-01"
+      ]
+    },
+    {
+      "cite": "74 N. Y. 400",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "27 Wis. 517",
+      "category": "reporters:state",
+      "reporter": "Wis.",
+      "case_ids": [
+        11285363
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/wis/27/0517-01"
+      ]
+    },
+    {
+      "cite": "112 Mass. 254",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "case_ids": [
+        2111260
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/mass/112/0254-01"
+      ]
+    },
+    {
+      "cite": "38 N. Y. 253",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        500790
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny/38/0253-01"
+      ]
+    },
+    {
+      "cite": "5 Denio, 580",
+      "category": "reporters:state",
+      "reporter": "Denio",
+      "opinion_index": -1
+    },
+    {
+      "cite": "27 How. 312",
+      "category": "reporters:scotus_early",
+      "reporter": "How.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "4 N. Y. 110",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        2005548
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny/4/0110-01"
+      ]
+    },
+    {
+      "cite": "3 Barb. 347",
+      "category": "reporters:state",
+      "reporter": "Barb.",
+      "case_ids": [
+        8593552
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/barb/3/0347-01"
+      ]
+    },
+    {
+      "cite": "22 Hun, 49",
+      "category": "reporters:state",
+      "reporter": "Hun,",
+      "opinion_index": -1
+    },
+    {
+      "cite": "8 Denio, 232",
+      "category": "reporters:state",
+      "reporter": "Denio",
+      "opinion_index": -1
+    },
+    {
+      "cite": "14 Johns. 213",
+      "category": "reporters:state",
+      "reporter": "Johns.",
+      "case_ids": [
+        376234
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/johns/14/0213-01"
+      ]
+    },
+    {
+      "cite": "9 Hun, 16",
+      "category": "reporters:state",
+      "reporter": "Hun,",
+      "opinion_index": -1
+    },
+    {
+      "cite": "9 Cow. 409",
+      "category": "reporters:state",
+      "reporter": "Cow.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "11 Johns. 136",
+      "category": "reporters:state",
+      "reporter": "Johns.",
+      "case_ids": [
+        2137666
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "213"
+        }
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/johns/11/0136-01"
+      ]
+    },
+    {
+      "cite": "3 Rob. 194",
+      "category": "reporters:state",
+      "reporter": "Rob.",
+      "case_ids": [
+        1423634,
+        2531347
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny-super-ct/26/0194-01",
+        "/rob/3/0194-01"
+      ]
+    },
+    {
+      "cite": "31 Barb. 62",
+      "category": "reporters:state",
+      "reporter": "Barb.",
+      "case_ids": [
+        5038617
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/barb/31/0062-01"
+      ]
+    },
+    {
+      "cite": "10 Abb. 12",
+      "category": "reporters:federal",
+      "reporter": "Abb.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "7 N. Y. 550",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "4 Sandf. 67",
+      "category": "reporters:state",
+      "reporter": "Sandf.",
+      "case_ids": [
+        1355454
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny-super-ct/6/0067-01"
+      ]
+    },
+    {
+      "cite": "1 Hill, 275",
+      "category": "reporters:state",
+      "reporter": "Hill,",
+      "opinion_index": -1
+    },
+    {
+      "cite": "6 Bosw. 674",
+      "category": "reporters:state",
+      "reporter": "Bosw.",
+      "case_ids": [
+        1321974
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny-super-ct/19/0674-01"
+      ]
+    },
+    {
+      "cite": "24 Barb. 287",
+      "category": "reporters:state",
+      "reporter": "Barb.",
+      "case_ids": [
+        4993107
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/barb/24/0287-01"
+      ]
+    },
+    {
+      "cite": "3 Abb. 82",
+      "category": "reporters:federal",
+      "reporter": "Abb.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "57 N. Y. 269",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "3 Denio, 232",
+      "category": "reporters:state",
+      "reporter": "Denio",
+      "case_ids": [
+        2187468
+      ],
+      "weight": 2,
+      "opinion_index": -1,
+      "case_paths": [
+        "/denio/3/0232-01"
+      ]
+    },
+    {
+      "cite": "37 N. Y. 526",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        2044008
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny/37/0611-01"
+      ]
+    },
+    {
+      "cite": "38 Barb. 445",
+      "category": "reporters:state",
+      "reporter": "Barb.",
+      "case_ids": [
+        5096872
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/barb/38/0445-01"
+      ]
+    },
+    {
+      "cite": "18 N. Y. 515",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        2021203
+      ],
+      "weight": 2,
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny/18/0515-01"
+      ]
+    },
+    {
+      "cite": "16 Barb. 61",
+      "category": "reporters:state",
+      "reporter": "Barb.",
+      "case_ids": [
+        4944597
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/barb/16/0061-01"
+      ]
+    },
+    {
+      "cite": "7 Pick. 542",
+      "category": "reporters:state",
+      "reporter": "Pick.",
+      "case_ids": [
+        2056650
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/mass/24/0551-01"
+      ]
+    },
+    {
+      "cite": "27 N. Y. 234",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        2035343
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny/27/0234-01"
+      ]
+    },
+    {
+      "cite": "50 N. Y. 80",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        2059666
+      ],
+      "weight": 2,
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny/50/0080-01"
+      ]
+    },
+    {
+      "cite": "50 N. Y. 128",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        2059686
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny/50/0128-01"
+      ]
+    },
+    {
+      "cite": "9 Wend. 548",
+      "category": "reporters:state",
+      "reporter": "Wend.",
+      "case_ids": [
+        2011164
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/wend/9/0548-01"
+      ]
+    },
+    {
+      "cite": "25 N. Y. 302",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        2031377
+      ],
+      "weight": 2,
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny/25/0302-01"
+      ]
+    },
+    {
+      "cite": "14 Wend. 260",
+      "category": "reporters:state",
+      "reporter": "Wend.",
+      "case_ids": [
+        2017100
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "335, 349, 350"
+        }
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/wend/14/0260-01"
+      ]
+    },
+    {
+      "cite": "12 Johns. 207",
+      "category": "reporters:state",
+      "reporter": "Johns.",
+      "case_ids": [
+        2139148
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/johns/12/0207-01"
+      ]
+    },
+    {
+      "cite": "4 Mass. 402",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "case_ids": [
+        2003899
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/mass/4/0352-01"
+      ]
+    },
+    {
+      "cite": "1 Sandf. Ch. 195",
+      "category": "reporters:state",
+      "reporter": "Sand. Ch.",
+      "case_ids": [
+        2163572
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/sand-ch/1/0195-01"
+      ]
+    },
+    {
+      "cite": "6 Wend. 562",
+      "category": "reporters:state",
+      "reporter": "Wend.",
+      "case_ids": [
+        2007497,
+        2007418
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/wend/6/0562-01",
+        "/wend/6/0562-02"
+      ]
+    },
+    {
+      "cite": "4 Cow. 417",
+      "category": "reporters:state",
+      "reporter": "Cow.",
+      "case_ids": [
+        2030910
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/cow/4/0417-01"
+      ]
+    },
+    {
+      "cite": "2 N. Y. 451",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        492094
+      ],
+      "weight": 2,
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny/2/0451-01"
+      ]
+    },
+    {
+      "cite": "5 Denio, 447",
+      "category": "reporters:state",
+      "reporter": "Denio",
+      "case_ids": [
+        1881412
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/denio/5/0447-01"
+      ]
+    },
+    {
+      "cite": "3 How. 262",
+      "category": "reporters:scotus_early",
+      "reporter": "How.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "2 Hill, 329",
+      "category": "reporters:state",
+      "reporter": "Hill,",
+      "opinion_index": -1
+    },
+    {
+      "cite": "1 Hoff. 149",
+      "category": "reporters:state",
+      "reporter": "Hoff. Ch.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "11 Wend. 125",
+      "category": "reporters:state",
+      "reporter": "Wend.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "1 Denio, 574",
+      "category": "reporters:state",
+      "reporter": "Denio",
+      "case_ids": [
+        483912
+      ],
+      "weight": 2,
+      "opinion_index": -1,
+      "case_paths": [
+        "/denio/1/0574-01"
+      ]
+    },
+    {
+      "cite": "21 N. Y. 484",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "1 Denio, 578",
+      "category": "reporters:state",
+      "reporter": "Denio",
+      "opinion_index": 0
+    },
+    {
+      "cite": "50 N. Y. 85",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "5 Denio, 594",
+      "category": "reporters:state",
+      "reporter": "Denio",
+      "opinion_index": 0
+    },
+    {
+      "cite": "1 Denio, 335",
+      "category": "reporters:state",
+      "reporter": "Denio",
+      "case_ids": [
+        483825
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/denio/1/0335-01"
+      ]
+    },
+    {
+      "cite": "25 N. Y. 304",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "9 N. Y. 173",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "3 Barb. 519",
+      "category": "reporters:state",
+      "reporter": "Barb.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "13 Am. Rep. 523",
+      "category": "reporters:state_regional",
+      "reporter": "Am. Rep.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "53 N. Y. 298",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        512966
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny/53/0298-01"
+      ]
+    },
+    {
+      "cite": "32 Barb. 171",
+      "category": "reporters:state",
+      "reporter": "Barb.",
+      "case_ids": [
+        5046750
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/barb/32/0171-01"
+      ]
+    },
+    {
+      "cite": "61 N. Y. 4",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "16 Johns. 348",
+      "category": "reporters:state",
+      "reporter": "Johns.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "1 Denio, 226",
+      "category": "reporters:state",
+      "reporter": "Denio",
+      "case_ids": [
+        484060
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/denio/1/0226-01"
+      ]
+    },
+    {
+      "cite": "5 Lans. 377",
+      "category": "reporters:state",
+      "reporter": "Lans.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "2 N. Y. 451",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        492094
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny/2/0451-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 1171,
+    "char_count": 24518,
+    "ocr_confidence": 0.502,
+    "pagerank": {
+      "raw": 1.2265283629020793e-06,
+      "percentile": 0.988170159727459
+    },
+    "sha256": "7bb2026bcb3a6e46d7d978c468176af08f88b380c16878acf0b6feb7676927bd",
+    "simhash": "1:5e8e8fe420a63082",
+    "word_count": 4344
+  },
+  "last_updated": "2024-02-27T20:26:35.672822+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "William B. Scott et al., Appellants, v. Charles Morgan, Respondent."
+    ],
+    "opinions": [
+      {
+        "text": "Ruger, Ch. J.\nThe complaint was dismissed upon the trial on the opening, upon the motion of the defendant, upotii the ground that the \u201c only remedy of the plaintiff was to sue the sheriff, and that no action would lie in favor of a judgment creditor against a third person for wrongful interference with property previously attached and levied upon by the sheriff.\u201d\nThe court granted the motion upon the ground above stated. The respondent now seeks to avail himself in support of the judgment of an additional ground for his motion appearing in the clerk\u2019s minutes printed as a part of the record, and which recites that said motion was made upon the ground that the complaint did not state facts sufficient to constitute a cause of action.\nWe think the respondent cannot refer to such minutes, although incorporated in the judgment-roll, to enlarge the grounds upon which the motion to dismiss the complaint was predicated.\nThe case, as settled by the judge who presided at the trial, must be held to be controlling as to what took place at - that time, and especially since he deliberately refused upon the settlement to incorporate in it the statement from the clerk\u2019s minutes as one of the grounds of the defendant\u2019s motion.\nIt is not the office of the clerk\u2019s minutes to indicate the legal questions raised upon a trial and determined by the court; and they cannot, therefore, be properly referred to for the purpose of ascertaining the grounds of decision.\nSo far, however, as the respondent is concerned, it is immaterial whether the ground stated in the minutes be regarded as having been taken upon the trial or not, since he has now the right in support of the judgment appealed from to do so upon any sufficient ground appearing in the record which he might have raised in the court below, provided it is such an objection as could not have been obviated upon the trial by the plaintiffs. (Beckwith v. Whalen, 5 Lans. 377; Newcomb v. Clark, 1 Denio, 226; Palmer v. Lorillard, 16 Johns. 348; Allard v. Greasert, 61 N. Y. 4; Stevens v. Hyde, 32 Barb. 171; Simar v. Canaday, 53 N. Y. 298; 13 Am. Rep. 523).\nConsequently if there existed a valid legal obstacle to a recovery by the plaintiff in the action, whether specified on the trial or not, the judgment must be sustained, if it was such an-obstacle as could not have been removed by proof.\n\u2022 We are thus brought to the question whether a cause of action could have been maintained upon the facts appearing in the complaint, and the opening, at the time the motion to dismiss was granted.\nAssuming for the purpose of the argument that a judgment creditor has a right of action against one who has dispossessed the sheriff of property seized upon execution, we think the complaint, nevertheless, lacks several allegations essential, both at common law and under the Code, to the statement of a good cause of action.\nThe following principles are deemed to be well established by the decisions of the courts of this State as the rule of the common law upon this subject. After such levy, the debtor, against whom the process issues, still remains the general owner of the property seized, and is entitled, by virtue of such ownership, to the benefit of its full value, either in its application in satisfaction of the claims of the creditor, to procure which the levy was made, or in case of a surplus resulting after such satisfaction, to a return of such surplus. (Marsh v. White, 3 Barb. 519.) He unquestionably has a right of action against any person unlawfully interfering with the property while in the possession of the sheriff, by which interference its value is impaired or diminished, and in consequence of which, he is deprived of the benefit of its application in the payment of his debt, or the return of any portion to which he may be entitled.\nThis right of action is necessarily subordinate to the right of the sheriff to maintain an action to recover damages for a loss occasioned by an injury to his special interest in the property created by a levy and possession under legal process. (Howland v. Willetts, 9 N. Y. 173; Ansonia Brass Co. v. Babbitt, 74 id. 397; Story on Bailments, \u00a7 93, e. and note.)\nSince from the very nature of such an action, any recovery by the sheriff inures to the advantage of the creditor issuing the process (People v. Reeder, 25 N. Y. 304; Cornell v. Bakin, 38 id. 259), obvious considerations of justice prevent the existence of a right of action in the creditor for the same injury. (Barker v. Mathews, 1 Denio, 335; Peak v. Tiffany, 2 N. Y. 451; Browning v. Hanford, 5 Denio, 594; 2 Hilliard on Torts, 254.) It is only through the statute that a creditor can directly enforce the application of his debtor\u2019s property to the payment of a judgment and execution, and for that purpose he can employ only those methods which are provided by the statute. (Thurber v. Blanck, 50 N. Y. 85.) The statute gives him no title to, or right in, the property, and the measure of his interest therein is the extent of the liability of the sheriff to pay over to him the proceeds realized from the sale or other disposition of the property, and is limited to the amount required to satisfy the execution. (People v. Hopson, 1 Denio, 578; Swesey v. Lott, 21 N. Y. 484; Story on Bailments, \u00a7 129 [8th ed.].) We thus arrive at the conclusion that the plaintiffs are not entitled to maintain this action unless such right is given to them by subdivision 3 of section 708 of the Code of Civil Procedure. This reads as follows: \u201c If personal property attached, belonging to the defendant, has passed out of the hands of the sheriff, without having been sold or converted into money, and the attachment has not been discharged as to that property, he must, if practicable, regain possession thereof; and, for that purpose, he has all of the authority which he had to seize the sain\u00e9 under the warrant. A person who willfully conceals or withholds such property from him is liable to double damages at the suit of the party aggrieved.\u201d Notwithstanding the time which has elapsed since this enactment, we are not aware that it has received judicial construction, and are, therefore, compelled to regard it as an original question in our courts. It was originally adopted with slightly different phraseology among the amendments to the Code included in chapter 438 of the Laws of 1849, and was afterward incorporated into the Code of Civil Procedure in the language above recited.\nIt seems to be quite clear that the legislature intended thereby to create a new remedy for the injury referred to, and to give that remedy to parties not before entitled to it. The language employed seems plainly to import that other persons than the sheriff might be aggrieved by his being dispossessed of property seized by him under attachment and execution, and to contemplate an action in their behalf for the damages suffered in consequence thereof.\nIf it had been intended by this provision to give this right of action solely to any individual party, it would have been much simpler to have said so directly, and to have thus removed all question as to its meaning. It is also difficult to discover any reason why double damages should have been given to the sheriff for the wrong described, since his damages on account thereof would have been fully compensated by a recovery of the value of the property lost. Neither is it believed that it was thereby intended to give the right of action to the debtor alone, for he might be the very party offending against the statute, and against whom the action was authorized; and, so far as his rights of property are concerned, he already had, as we have seen, ample remedies to protect himself from loss or injury. We cannot, therefore, avoid the conclusion that the provision was designed among others for the benefit of the execution creditor who is mainly interested in the application of the debtor\u2019s property to the payment of his debt, and who had, prior to the enactment of the provision, no remedy,for his injury, except by an action against the sheriff, which might sometimes prove inadequate to indemnify him.\nWhile actions in favor of creditors to set aside fraudulent transfers of the debtor\u2019s, property, and to remove obstacles in the way of the enforcement of his remedies by execution, have frequently been sustained, it is not believed that in this State, before this statute, creditors had any right of action to recover damages for any interference by third persons with the property which had been seized by the sheriff under process in their favor., This right of action exists, therefore, solely by force of the statute, and must be confined to the cases therein provided for. It is not a general right of action for any and all injuries to such property, but gives the remedy solely for the injury occasioned by a willful withholding and concealment of property from the sheriff. It exists only where the property has been once taken in execution by the sheriff, and would seem to arise solely when he was unable to regain its possession, and dispose of it under the authority conferred by the execution. \u00d1o right of action is expressly given for an injury to the property while in the possession of the wrong-doer, but the language of the act seems to contemplate only an injury to the rights of the party aggrieved by such an appropriation of the property as deprives him altogether of the benefit thereof. Such an injury cannot be shown until by a return of the process it is demonstrated that the execution remains uncollected, and the property taken from the sheriff cannot be recovered by him and its proceeds applied upon the judgment. Until this time it cannot be said with certainty that the judgment creditor is aggrieved, or, if aggrieved, what is the limit or extent of his grievance.\nThe act also expressly requires that such concealment and withholding shall be willful on the part of the wrong-doer before he can be subjected to the penalty imposed, thereby precluding the idea that one who dispossesses the sheriff under a claim of right, and detains the property under a belief that he has a superior title thereto,, can he made liable under this statute. '\nNot only does the complaint fail to allege that the taking of the property in question by the defendant was willful, but it affirmatively appears by the admission of the plaintiffs\u2019 counsel in opening, that the defendant acted under a claim, as a tax collector, and as having acquired a right to the property superior to that of the sheriff, by virtue of a levy under a tax warrant. The fact thus stated seems to show that the taking on the part of the defendant was not willful, within the meaning of this section, or such as subjected him to the penal liability of responding in damages to double the amount of those actually occasioned by his unlawful act.\nIt also conclusively appears in the case not only from plaintiffs\u2019 opening but also from the allegations of the complaint that after the alleged trespass by the defendant, the sheriff regained the possession of the property, and sold and disposed of it under the process held by him.\nThere is nothing appearing in the case to show that the plaintiffs have not had the benefit of the fair value of the property levied upon.\nFrom the circumstances stated we do not think there is any aspect of the case under which the plaintiffs can recover. The objections stated lie at the foundation of this action, and cannot be \u2018obviated on a new trial; and we, therefore, think the judgment should be affirmed.\nAll concur.\nJudgment affirmed.",
+        "type": "majority",
+        "author": "Ruger, Ch. J."
+      }
+    ],
+    "attorneys": [
+      "Henry P. Starbuck for appellants.",
+      "George J. Greenfield for respondent."
+    ],
+    "corrections": "",
+    "head_matter": "William B. Scott et al., Appellants, v. Charles Morgan, Respondent.\nIt is not the object of the clerk\u2019s minutes to indicate the legal questions raised upon a trial and determined by the court, and they cannot, therefore, be properly referred to to ascertain the grounds of decision.\nWhere, therefore, a case as settled stated the grounds upon which a motion to dismiss the complaint was made and granted, held, that this was \u25a0 controlling and respondent could not refer to the minutes, although incorporated in the record, to show that the motion was also based upon other grounds than those stated in the case.\nBut held, that respondent had the right, in support of the judgment, to urge any sufficient ground appearing from the record which he might have raised in the court below, provided it could not have been obviated had it been raised on the trial.\nThe provision of the Code of Civil Procedure (Subd. 3, \u00a7 708), declaring that a person who willfully conceals or withholds from the sheriff property which he has attached, but which has passed out of his hands, shall be liable to double damages \u201c at the suit of the party aggrieved,\u201d gives to the attachment and execution creditor a right of action when aggrieved.\nAs, however, the remedy thus given exists solely by force of the statute, it must be confined to the cases provided for, and can be resorted to only ; where injury has been occasioned to the creditor by such willful withholding and concealment. Such an injury can only be shown by a return of the process unsatisfied.\nThe right of actiqp also does not exist save where property has been once taken in execution by the sheriff, has passed out of his hands and he is unable to regain possession, and dispose of it under the authority conferred by the execution.\nWhere possession is regained, the statute does not give a remedy for an injury to the property while in possession of the wrong-doer.\nIt must appear also that the concealment and withholding was willful. One who dispossesses the sheriff under a claim of right, and detains the property under a belief that he has a superior title thereto, may not be made liable. . .\nWhere, therefore, the complaint in such an action failed to allege that the taking of the property by the defendant was willful, and plaintiff\u2019s counsel admitted in his opening on the trial that defendant acted as tax collector and by virtue of a levy under a tax warrant, by which he claimed to have acquired a right superior to that of the sheriff, and it also appeared from the complaint and the opening that after the alleged trespass by defendant, the sheriff regained possession and sold the property under his process; held, that the complaint was properly dismissed.\n(Argued December 13, 1883 ;\ndecided January 29, 1884.)\nAppeal from judgment of the General Term of the Supreme Court, in the second judicial department, entered upon an order made September 14, 1880, which affirmed a judgment in favor of defendant, entered upon an order dismissing the complaint on trial.\nThe complaint in this action alleged the commencement of an action in plaintiff\u2019s favor against one Bonner, the issuing of an attachment therein and the levy thereof upon certain specified property of the attachment debtor; the recovery of judgment in said action and the issuing of execution thereon to the sheriff, and the advertisement by him for sale of the property levied on, on February 23, 1878. The complaint then averred that on or about the day advertised for such sale, defendant wrongfully took, from the possession of the sheriff, removed and converted to his own use the said property; that on March 6,1878, defendant returned the property to the sheriff, but that the same, while in defendant\u2019s possession, and by such unlaw-i ful removal and retention, was injured and damaged; that said property was, thereafter, sold by the sheriff, but in consequence of such injuries did not bring so large a price as it would have done, and that the avails of the sales were insufficient to satisfy the execution, and the balance thereof remaining, after applying such proceeds, remains unpaid.\nThe further material facts appear in the opinion.\nHenry P. Starbuck for appellants.\nAn action lies in the name of an attachment and execution creditor against a wrongdoer for interfering with property held by the sheriff under the attachment and execution. (Code of Civil Procedure, \u00a7 708, subd. 3.) By the levy of his attachment the plaintiff acquires a conditional specific lien upon the goods attached as security for his debt. This lien is perfected and made absolute by the subsequent judgment and execution. (Rinchey v. Stryker, 28 N. Y. 45-54; Frost v. Mott, 34 id. 253-255; Thurber v. Blanck, 50 id. 80-83-86; Drake on Attachment, \u00a7\u00a7 224, 224a; M. and T. Bank v. Dakin, 51 N. Y. 515-524; Crippen v. Hudson, 13 id. 161-166; Green v. Burke, 23 Wend. 490-498; People v. Hopson, 1 Denio, 574-578.) By the wrongful act of the defendant not only has the plaintiff\u2019s security or lien for his debt been diminished in value, but the debt itself has been pro tanto satisfied and lost as between the plaintiff and his debtor in the attachment and execution. (Mickles v. Haskin, 11 Wend. 125; Holbrook v. Champlin, 1 Hoff. 149; Greens. Burke, 23 Wend. 490; Ostrander v. Walter, 2 Hill, 329; People v. Hopson, 1 Denio, 574-578; Voorhees v. Gros, 3 How. 262; Waddell v. Elmendorf, 5 Denio, 447; Peck v. Tiffany, 2 N. Y. 451; Radde v. Whitney, 4 E. D. Smith, 378; Ex parte Lawrence, 4 Cow. 417; Jackson v. Bowen, 7 id. 13; Wood v. Torrey, 6 Wend. 562; People v. Onondaga C. P., 19 id. 79; Hayden v. Agent of State Prison, 1 Sandf. Ch. 195; Ladd v. Blunt, 4 Mass. 402; Hoyt v. Hudson, 12 Johns. 207; Shepard v. Rowe, 14 Wend. 260; Miller v. Adsit, 16 id. 335, 349, 350; People v. Reeder, 25 N. Y. 302-304; Howland v. Willetts, 9 id. 170.) It is the plaintiff, and not the _ sheriff, in whose name actions lie to subject property to the levy of an execution. (McElwain v. Willis, 9 Wend. 548; O\u2019Brien v. Glenville Woolen Co., 50 N. Y. 128; M. and T. Bank v. Dakin, 51 id. 519, 525.) Sections 655, 677 and 679 of the Code, which provide for the collection by the sheriff of dioses in action attached, and for his obtaining possession of property attached, concern \u201c such actions only as might be commenced in the name of the defendant \u201d in the attachment, and relate strictly to the enforcement of the possessory rights of the sheriff acquired by the writ. (Thurber v. Blanck, 50 N. Y. 80-86; Bliss\u2019s Annotated Code, \u00a7 677, note; Throop\u2019s Code, \u00a7 677, note.) The liability of the sheriff to the plaintiff depends upon the question of negligence. He is responsible for such care only as a prudent man would take of his own property. (Moore v. Westervelt, 27 N. Y. 234.) It is no objection to the plaintiff\u2019s action to say that the defendant may also be sued by the sheriff; for a recovery by -the sheriff would be a bar to the plaintiff\u2019s recovery, and, vice versa, a recovery by the plaintiff would be a bar to the sheriff\u2019s recovery so far as the plaintiff is concerned. (Mynn v. Coughton, Cro. Car. 109; Lynne v. Coningham, Hetley, 95; Cougham\u2019s Case, Hutton, 98; Wheatley v. Stone, Hobart, 180.) The action lay in favor of the plaintiff and against the defendant at common law. (Fitzherbert\u2019s Natura Brevium, 102; Kent v. Keilway, Lane, 70; S. C., Jenk. 282, Ca. X; Mynn v. Coughton, Cro. Car. 109; Lynne v. Coningham, Hetley, 95; Cougham\u2019s Case, Hutton, 98; Wheatley v. Stone, Hobart, 180; Esp. N. P. 610; Sheather v. Holt, Strange, 531.) An action on the case also lay in the name of the plaintiff against the wrong-doer for interfering, as in the case at bar, with goods taken by the sheriff in execution. (Sheriff of Surrey v. Alderton, Hetley, 145; S. C., Lit. 296; Bacon\u2019s Abridg., title Rescue, A; Lynne v. Coningham, Hetley, 95; Yate & Alexander\u2019s Case, Godbolt, 284; Smith v. Tonstall, Carth. 3; Adams v. Paige & Grant, 7 Pick. 542.) As the case as settled stated the general grounds of motion to dismiss the complaint it was controlling, and the clerk\u2019s minutes could not be resorted to, although incorporated in the record., (Willis v. De Forrest, 16 Barb. 61; Code of Civil Procedure, \u00a7 490; Lounsbury v. Purdy, 18 N. Y. 515; Shotwell v. Mali, 38 Barb. 445; Binsse v. Wood, 37 N. Y. 526; Mallory v. Trav. Ins. Co., 47 id. 52; Thayer v. Marsh, 75 id. 340; Belknap v. Sealey, 14 id. 143.) The point is one which could have been met by amendment if it had been raised. (Gardner v. Heartt, 3 Denio, 232; Lounsbury v. Purdy, 18 N. Y. 515; Thayer v. Marsh, 75 id. 340.) Such a point is not available before this court, either to reverse or sustain a judgment. (Hofheimer v. Campbell, 57 N. Y. 269; Smith v. Bodine, 74 id. 30; Thayer v. Marsh, 75 id. 340; Cook v. Whipple, 55 id. 150, 157.) The motion to dismiss is not like a demurrer in respect of being supported on appeal upon grounds not mentioned at the trial. (Code of Civil Procedure, \u00a7 497; Englis v. Furniss, 3 Abb. 82; Brown v. Colie, 1 E. D. Smith, 265, 270; Gasper v. Adams, 24 Barb. 287; Williams v. Birch, 6 Bosw. 674; Star S. S. Co. v. Mitchell, 1 Abb. [N. S.] 396.) It was not necessary to allege in the complaint the insolvency of Bonner. (Bank of Rome v. Curtis, 1 Hill, 275; Pardee v. Robertson, 6 id. 550; Ledyard v. Jones, 4 Sandf. 67; S. C., 7 N. Y. 550; Metcalf v. Stryker, 10 Abb. 12; S. C., 31 Barb. 62; Wilson v. Gray, 6 Mod. 211; Jenk. 311; Bull. N. P. 62 a.) A plaintiff cannot be said to suffer damage from the destruction of a lien as long as his debt still remains wholly due and collectible. (Levy v. Mayor, etc., of N. Y., 3 Rob. 194; Yates v. Joyce, 11 Johns. 136; Niagara Bank v. Rosevelt, 9 Cow. 409-416; Vandemark v. Schoonmaker, 9 Hun, 16; Lane v. Hitchcock, 14 Johns. 213; Gardner v. Heartt, 8 Denio, 232; Carpenter v. Man. Life Ins. Co., 22 Hun, 49; Southworth v. Van Pelt, 3 Barb. 347; Van Pelt v. McGraw, 4 N. Y. 110; Manning v. Monaghan, 23 id. 539.)\nGeorge J. Greenfield for respondent.\nThe sheriff is the only proper person to bring this suit. (Bowe v. Knick. L. Ins. Co., 27 How. 312; Smith\u2019s Sheriffs and Constables, 340-343; People v. Ruder, 25 N. Y. 302; Browning v. Hanford, 5 Denio, 580; Cornell v. Dakin, 38 N. Y. 253; Moore v. Fargo, 112 Mass. 254; Mair v. Bell, 27 Wis. 517; Ansonia B. & C. Co. v. Babbitt, 74 N. Y. 400; Crofut v. Brandt, 58 id. 106; Story on Bailments, \u00a7\u00a7 93, 125, 128, 129; Drake on Attachments, \u00a7\u00a7 290, 297, note 2; 2 Hilliard on Torts, 254, \u00a7 47; Ladd v. North, 2 Mass. 514, 516; Giles v. Grover, 6 Bligh, 277, 290-295, 312-314, 322, 334, 335, 367, 368, 434-436, 453; 1 Walford on Parties to Actions, 164; 1 Wait\u2019s Law and Pr. 811; Crocker on Sheriffs, \u00a7 449; Braley v. French, 28 Vt. 546; Skinner v. Stewart, 39 Barb. 206; Peck v. Tiffany, 2 N. Y. 451; Steffin v. Lockwood, 17 W\u2019kly Dig. 418; Gwynne on Sheriffs, 299; Terwilliyer v. Wheeler, 35 Barb. 620; Miller v. Adsit, 16 Wend. 335; Smith v. Reeves, 33 How. 183, 191; Haro Brunt v. Scheneck, 11 Johns. 377, 383; 1 Wait\u2019s Law and Pr. 812; Sweezy v. Lott, 21 N. Y. 481, 484; Lupton v. Smith, 3 Hun, 1; Van Valkenburgh v. Bates, 14 Abb. [N. S.] 314; Thurber v. Blanck, 50 N. Y. 80; Hall v. Brooks, 2 Civ. Pro. 198.) The objection that the defendant should have demurred to the complaint for non-joinder of the sheriff is not available, as the objection goes to the foundation of the action. Such objection is not waived by not demurring or pleading. (Scofield v. Doscher, 72 N. Y. 491, 495; Goodyear D. T. Co. v. Fresselle, 57 How. 255-257.) Where the cause of action itself is created by a statute which gives the double damages, it is essential that the complaint should contain such allegations as will notify plaintiff\u2019s adversary of his claim. (Newcomb v. Butterfield, 8 Johns. 342; Livingston v. Platner, 1 Cow. 175; Brown v. Bristol, id. 176; Benton v. Dale, id. 160; Duncan v. Katen, 6 Hun, 4; 64 N. Y. 625; Terwilliger v. Wheeler, 35 Barb. 620; Sedgwick on Damages, 633, 666, 667, 690.) This action cannot be sustained by plaintiffs, as an action on the case for consequential damages to their lien under the attachment and execution. (Gardner v. Heartt, 3 Denio, 232; Yates v. Joyce, 11 Johns. 136; Lane v. Hitchcock, 14 id. 213; Peterson v. Clark, 15 Johns. 205; Brookman v. Hamill, 46 N. Y. 636; Volkening v. DeGraaf, 81 id. 268, 272.) By an amendment of the sheriff\u2019s return, an action may still be prosecuted against the defendant by the sheriff. (Barker v. Bininger, 4 Kern. 270.) Levy by attachment or execution not satisfaction. (McBride v. Farmers\u2019 B\u2019k, 28 Barb. 476; 22 id. 522.) The objection that the action should be brought in the name of the sheriff is not an objection as to his legal capacity to sue and need not be taken by demurrer. (Van Valkenburgh v. Bates, 14 Abb. 459, 472; Heffin v. Lockwood, 17 Weekly Dig. 418; Ansonia Brass & Copper Co. v. Pratt, 10 Hun, 448, 445.)"
+  },
+  "file_name": "0508-01",
+  "first_page_order": 532,
+  "last_page_order": 543
+}

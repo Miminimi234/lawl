@@ -1,0 +1,47 @@
+{
+  "id": 3556655,
+  "name": "COMMONWEALTH of Pennsylvania, Respondent, v. Stephen Joseph WINTERS, Petitioner",
+  "name_abbreviation": "Commonwealth v. Winters",
+  "decision_date": "2007-06-26",
+  "docket_number": "No. 62 MM 2007",
+  "first_page": "620",
+  "last_page": "620",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "592 Pa. 620"
+    },
+    {
+      "type": "parallel",
+      "cite": "927 A.2d 206"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 34,
+    "char_count": 255,
+    "ocr_confidence": 0.687,
+    "sha256": "f1ddbec3e2f5efd46e1fc4b31571e255a26b903499068e044d45553bb7ce9a82",
+    "simhash": "1:48f5c0f0b3074f4a",
+    "word_count": 40
+  },
+  "last_updated": "2023-07-14T20:20:44.535844+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "file_name": "0620-01",
+  "first_page_order": 672,
+  "last_page_order": 672
+}

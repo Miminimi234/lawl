@@ -1,0 +1,904 @@
+{
+  "id": 3726869,
+  "name": "David BUTLER, Plaintiff, Appellant, v. Shiraz BALOLIA, Defendant, Appellee",
+  "name_abbreviation": "Butler v. Balolia",
+  "decision_date": "2013-11-22",
+  "docket_number": "No. 13-1329",
+  "first_page": "609",
+  "last_page": "618",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "736 F.3d 609"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "1st Cir.",
+    "id": 8809,
+    "name": "United States Court of Appeals for the First Circuit"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "48 Gonz. L.Rev. 1",
+      "category": "journals:journal",
+      "reporter": "Gonz. L. Rev.",
+      "year": 2012,
+      "pin_cites": [
+        {
+          "page": "22-35",
+          "parenthetical": "describing differences between jurisdictions"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "734 F.3d 100",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        3718483
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "104"
+        },
+        {
+          "page": "103-04",
+          "parenthetical": "discussing difference in burdens at summary judgment and trial as opposed to lesser burden at Rule 12(b)(6) stage"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/734/0100-01"
+      ]
+    },
+    {
+      "cite": "850 F.2d 1217",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1792564
+      ],
+      "pin_cites": [
+        {
+          "page": "1220-21"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/850/1217-01"
+      ]
+    },
+    {
+      "cite": "597 F.3d 436",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        4219678
+      ],
+      "pin_cites": [
+        {
+          "page": "441-42"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/597/0436-01"
+      ]
+    },
+    {
+      "cite": "556 U.S. 662",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        3653744
+      ],
+      "weight": 7,
+      "year": 2009,
+      "pin_cites": [
+        {
+          "page": "678"
+        },
+        {
+          "page": "678-79"
+        },
+        {
+          "page": "678"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/556/0662-01"
+      ]
+    },
+    {
+      "cite": "351 F.3d 21",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        9046653
+      ],
+      "pin_cites": [
+        {
+          "page": "28-29"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/351/0021-01"
+      ]
+    },
+    {
+      "cite": "550 U.S. 544",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        3556136
+      ],
+      "weight": 5,
+      "year": 2007,
+      "pin_cites": [
+        {
+          "page": "570"
+        },
+        {
+          "page": "556"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/550/0544-01"
+      ]
+    },
+    {
+      "cite": "895 F.2d 830",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        10535876
+      ],
+      "pin_cites": [
+        {
+          "page": "834-35"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/895/0830-01"
+      ]
+    },
+    {
+      "cite": "302 F.3d 448",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        11437089
+      ],
+      "pin_cites": [
+        {
+          "page": "453-59"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/302/0448-01"
+      ]
+    },
+    {
+      "cite": "387 F.3d 1188",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        9155801
+      ],
+      "pin_cites": [
+        {
+          "page": "1197-1203"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/387/1188-01"
+      ]
+    },
+    {
+      "cite": "873 F.2d 155",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        10527682
+      ],
+      "pin_cites": [
+        {
+          "page": "158-60"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/873/0155-01"
+      ]
+    },
+    {
+      "cite": "670 F.Supp. 491",
+      "category": "reporters:federal",
+      "reporter": "F. Supp.",
+      "case_ids": [
+        3972799
+      ],
+      "weight": 6,
+      "pin_cites": [
+        {
+          "page": "499"
+        },
+        {
+          "page": "506"
+        },
+        {
+          "page": "497"
+        },
+        {
+          "page": "502"
+        },
+        {
+          "page": "505",
+          "parenthetical": "describing \"refus[al] to negotiate\" as incompatible with good faith"
+        },
+        {
+          "page": "498"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f-supp/670/0491-01"
+      ]
+    },
+    {
+      "cite": "707 F.2d 1566",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1862153,
+        3643502
+      ],
+      "pin_cites": [
+        {
+          "page": "1568"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/707/1566-01",
+        "/us-app-dc/228/0161-01"
+      ]
+    },
+    {
+      "cite": "120 Harv. L.Rev. 661",
+      "category": "journals:journal",
+      "reporter": "Harv. L. Rev.",
+      "weight": 2,
+      "year": 2007,
+      "pin_cites": [
+        {
+          "page": "675",
+          "parenthetical": "describing recognition of contracts to negotiate as the \"new default rule\""
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "278 F.3d 401",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        9398497
+      ],
+      "pin_cites": [
+        {
+          "page": "408-09"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/278/0401-01"
+      ]
+    },
+    {
+      "cite": "353 F.3d 1093",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        9298465
+      ],
+      "pin_cites": [
+        {
+          "page": "1097"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/353/1093-01"
+      ]
+    },
+    {
+      "cite": "807 F.Supp.2d 646",
+      "category": "reporters:federal",
+      "reporter": "F. Supp. 2d",
+      "case_ids": [
+        4173827
+      ],
+      "pin_cites": [
+        {
+          "page": "668"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f-supp-2d/807/0646-01"
+      ]
+    },
+    {
+      "cite": "875 F.2d 516",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        10530964
+      ],
+      "pin_cites": [
+        {
+          "page": "525"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/875/0516-01"
+      ]
+    },
+    {
+      "cite": "343 Or. 339",
+      "category": "reporters:state",
+      "reporter": "Or.",
+      "case_ids": [
+        3687712
+      ],
+      "weight": 4,
+      "year": 2007,
+      "pin_cites": [
+        {
+          "parenthetical": "en banc"
+        },
+        {
+          "page": "1258-60",
+          "parenthetical": "en banc"
+        },
+        {
+          "page": "1259-60"
+        },
+        {
+          "page": "1263"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/or/343/0339-01"
+      ]
+    },
+    {
+      "cite": "67 A.3d 330",
+      "category": "reporters:state_regional",
+      "reporter": "A.3d",
+      "case_ids": [
+        7307933
+      ],
+      "pin_cites": [
+        {
+          "page": "343-47"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a3d/67/0330-01"
+      ]
+    },
+    {
+      "cite": "117 Cal.Rptr.2d 875",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr. 2d",
+      "weight": 2,
+      "year": 2002,
+      "pin_cites": [
+        {
+          "page": "879-85"
+        },
+        {
+          "page": "885"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "96 Cal.App.4th 1251",
+      "category": "reporters:state",
+      "reporter": "Cal. App. 4th",
+      "case_ids": [
+        987336
+      ],
+      "year": 2002,
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-app-4th/96/1251-01"
+      ]
+    },
+    {
+      "cite": "795 F.2d 291",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1596064
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "299"
+        },
+        {
+          "page": "299"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/795/0291-01"
+      ]
+    },
+    {
+      "cite": "961 F.2d 294",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1863064
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "298-99"
+        },
+        {
+          "page": "298-99"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/961/0294-01"
+      ]
+    },
+    {
+      "cite": "96 F.3d 275",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        7649368,
+        7649370
+      ],
+      "weight": 4,
+      "pin_cites": [
+        {
+          "page": "277-78"
+        },
+        {
+          "page": "278"
+        },
+        {
+          "page": "278-79"
+        },
+        {
+          "page": "279-80",
+          "parenthetical": "discussing circumstances in which last-minute price change would be indicative of bad faith"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/96/0275-01",
+        "/f3d/96/0275-02"
+      ]
+    },
+    {
+      "cite": "420 F.3d 148",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        8934818
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "156-59"
+        },
+        {
+          "page": "153"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/420/0148-01"
+      ]
+    },
+    {
+      "cite": "248 P.3d 1067",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "weight": 3,
+      "year": 2011,
+      "pin_cites": [
+        {
+          "page": "1076"
+        },
+        {
+          "page": "1074"
+        },
+        {
+          "page": "1076-78"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "160 Wash.App. 66",
+      "category": "reporters:state",
+      "reporter": "Wash. App.",
+      "case_ids": [
+        4013322
+      ],
+      "year": 2011,
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-app/160/0066-01"
+      ]
+    },
+    {
+      "cite": "289 P.3d 638",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2012,
+      "pin_cites": [
+        {
+          "page": "644",
+          "parenthetical": "en banc"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "176 Wash.2d 198",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        4306930
+      ],
+      "year": 2012,
+      "pin_cites": [
+        {
+          "parenthetical": "en banc"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/176/0198-01"
+      ]
+    },
+    {
+      "cite": "87 Colum. L.Rev. 217",
+      "category": "journals:journal",
+      "reporter": "Colum. L. Rev.",
+      "year": 1987,
+      "pin_cites": [
+        {
+          "page": "253, 263"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "94 P.3d 945",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "weight": 14,
+      "year": 2004,
+      "pin_cites": [
+        {
+          "parenthetical": "en banc"
+        },
+        {
+          "page": "950"
+        },
+        {
+          "page": "948-49"
+        },
+        {
+          "page": "948"
+        },
+        {
+          "page": "949"
+        },
+        {
+          "page": "949"
+        },
+        {
+          "page": "949"
+        },
+        {
+          "page": "949"
+        },
+        {
+          "page": "949"
+        },
+        {
+          "page": "949-50"
+        },
+        {
+          "page": "948"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "152 Wash.2d 171",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        1217440
+      ],
+      "year": 2004,
+      "pin_cites": [
+        {
+          "parenthetical": "en banc"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/152/0171-01"
+      ]
+    },
+    {
+      "cite": "547 F.3d 48",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        6051456
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "51-52"
+        },
+        {
+          "page": "52"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/547/0048-01"
+      ]
+    },
+    {
+      "cite": "410 F.3d 100",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        8950581,
+        8960447
+      ],
+      "pin_cites": [
+        {
+          "page": "108"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/410/0100-01",
+        "/br/325/0100-01"
+      ]
+    },
+    {
+      "cite": "862 F.2d 944",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1825733
+      ],
+      "pin_cites": [
+        {
+          "page": "946"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/862/0944-01"
+      ]
+    },
+    {
+      "cite": "400 F.3d 62",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        9170485
+      ],
+      "pin_cites": [
+        {
+          "page": "67"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/400/0062-01"
+      ]
+    },
+    {
+      "cite": "637 F.3d 1",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        4198321
+      ],
+      "pin_cites": [
+        {
+          "page": "5"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/637/0001-01"
+      ]
+    },
+    {
+      "cite": "304 U.S. 64",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        10687
+      ],
+      "weight": 3,
+      "year": 1938,
+      "pin_cites": [
+        {
+          "page": "78"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/304/0064-01"
+      ]
+    },
+    {
+      "cite": "655 F.3d 61",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        3827639
+      ],
+      "pin_cites": [
+        {
+          "page": "72"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/655/0061-01"
+      ]
+    },
+    {
+      "cite": "2013 WL 752363",
+      "category": "reporters:specialty_west",
+      "reporter": "WL",
+      "weight": 9,
+      "year": 2013,
+      "pin_cites": [
+        {
+          "page": "*2"
+        },
+        {
+          "page": "*2"
+        },
+        {
+          "page": "*2"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "28 U.S.C. \u00a7\u00a7 1332",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "pin_cites": [
+        {
+          "page": "(a)"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "657 F.3d 39",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        3834918
+      ],
+      "pin_cites": [
+        {
+          "page": "46"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/657/0039-01"
+      ]
+    },
+    {
+      "cite": "711 F.3d 49",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        3804190
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "51"
+        },
+        {
+          "page": "52"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/711/0049-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 1460,
+    "char_count": 28770,
+    "ocr_confidence": 0.687,
+    "pagerank": {
+      "raw": 1.4753008121204154e-07,
+      "percentile": 0.6600570149070467
+    },
+    "sha256": "393f67f0d1360bfb26cc22d6873d9d14c27387e1f08d9f78fc4cd38ed727e2c0",
+    "simhash": "1:0446d69f20091ee9",
+    "word_count": 4609
+  },
+  "last_updated": "2024-02-27T16:55:59.249303+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before THOMPSON, SELYA and LIPEZ, Circuit Judges."
+    ],
+    "parties": [
+      "David BUTLER, Plaintiff, Appellant, v. Shiraz BALOLIA, Defendant, Appellee."
+    ],
+    "opinions": [
+      {
+        "text": "SELYA, Circuit Judge.\nThis bi-coastal case requires a Boston-based federal court to make an informed prophesy as to whether the Washington Supreme Court, if squarely confronted with the question, would recognize a cause of action for breach of a contract to negotiate. Applying the methodology that federal courts have developed to vaticinate how state courts are likely to rule on unsettled questions of state law, we find spoor for the cognoscenti and answer the question before us in the affirmative. And because the complaint plausibly states such a cause of action, we vacate the district court\u2019s order of dismissal and remand for further proceedings consistent with this opinion.\nI. BACKGROUND\nInasmuch as this is an appeal from an order of dismissal for failure to state a claim upon which relief can be granted, see Fed.R.Civ.P. 12(b)(6), we draw the facts primarily from the complaint. See Rodr\u00edguez-Reyes v. Molina-Rodr\u00edguez, 711 F.3d 49, 51 (1st Cir.2013). We may supplement those factual allegations by examining \u201cdocuments incorporated by reference into the complaint, matters of public record, and facts susceptible to judicial notice.\u201d Haley v. City of Bos., 657 F.3d 39, 46 (1st Cir.2011).\nPlaintiff-appellant David Butler is an inventor who has spent years researching and developing safety technology for cutting tools. Among the fruits of his labors is the so-called \u201cWhirlwind\u201d technology, which relies on both existing and pending patents.\nDefendant-appellee Shiraz Balolia is the president of Grizzly Industrial, Inc. He sought to purchase the Whirlwind technology from the plaintiff and, after some initial haggling, the two men signed a letter of intent (the LOI) in April of 2012.\nThe LOI is not quite three pages in length. It memorializes the parties\u2019 mutual intention \u201cto negotiate and enter into a separate Purchase Agreement by June 20, 2012,\u201d describes the technology to be purchased in some detail, and specifies a purchase price \u201cpayable upon closing.\u201d The LOI also stipulates that the parties \u201cwill use their best efforts to negotiate and attempt to agree to terms for the Purchase Agreement\u201d and that the plaintiff will refrain from negotiating with any other prospective purchasers before the signing deadline. Last \u2014 but far from least \u2014 the LOI contains a choice-of-law provision that directs the application of Washington law.\nFor reasons that are hotly disputed, the transaction fell through and no purchase agreement was ever signed. The plaintiff blames the defendant: according to the complaint, the defendant professed to have discovered deficiencies in the Whirlwind technology and used these \u201cspecious\u201d deficiency claims as a basis for attempting to renegotiate the arrangement.\nAfter the deal imploded but before the end of the exclusivity period, the plaintiff sued the defendant in a Massachusetts state court. The plaintiff sought, among other things, a declaration that the LOI was an enforceable contract, pecuniary damages for breach of contract and breach of an implied covenant of good faith and fair dealing, and damages for violation of the Massachusetts Consumer Protection Act, see Mass. Gen. Laws ch. 93A, \u00a7\u00a7 2, 11. Citing the diverse citizenship of the parties (the defendant is a citizen of Washington and the plaintiff is a citizen of Massachusetts) and the existence of a controversy in the requisite amount, the defendant removed the case to federal court. See 28 U.S.C. \u00a7\u00a7 1332(a), 1441.\nOnce the case was transplanted, the defendant filed a motion to dismiss. The plaintiff opposed this motion and, in addition, moved for leave to amend his complaint. The defendant objected to the latter motion.\nThe district court granted the motion to dismiss. See Butler v. Balolia, No. 12-11054, 2013 WL 752363, at *2 (D.Mass. Feb. 26, 2013). It reasoned that the LOI was not an enforceable contract of any kind under Washington law and, therefore, that all of the plaintiffs claims failed. Id. In the same order, the court denied the motion to amend as futile. Id. This timely appeal ensued.\nII. ANALYSIS\nWe review de novo a district court\u2019s dismissal of a complaint for failure to state a claim. Rodr\u00edguez-Reyes, 711 F.3d at 52. In conducting this tamisage, \u201cwe accept as true all well-pleaded facts alleged in the complaint and draw all reasonable inferences therefrom in the pleader\u2019s favor.\u201d Santiago v. Puerto Rico, 655 F.3d 61, 72 (1st Cir.2011).\nIn diversity jurisdiction, a federal court must draw the substantive rules of decision, including conflict of law principles, from the law of the forum state. See Erie R.R. Co. v. Tompkins, 304 U.S. 64, 78, 58 S.Ct. 817, 82 L.Ed. 1188 (1938); Artuso v. Vertex Pharm., Inc., 637 F.3d 1, 5 (1st Cir.2011). Here, however, we need not perform a full-blown conflict-of-law analysis: it is transparently clear that such an analysis would lead us to the choice-of-law provision in the LOI, which renders Washington law controlling.. See, e.g., Eureka Broadband Corp. v. Wentworth Leasing Corp., 400 F.3d 62, 67 (1st Cir.2005); see also Restatement (Second) of the Conflict of Laws \u00a7 187 (1971).\nThe district court\u2019s determination that the LOI cannot be construed as a binding contract of sale, see Butler, 2013 WL 752363, at *2, is unarguable. By its terms, the LOI expresses the parties\u2019 shared intention that the transaction, when fully negotiated, will be evidenced by a \u201cseparate Purchase Agreement\u201d \u2014 an agreement that was never executed. The critical question, then, is whether the plaintiff has plausibly alleged that the LOI is a binding contract to negotiate that the defendant breached.\nThis question depends, in the first instance, on whether Washington would recognize contracts to negotiate as enforceable. The district court concluded that it would not. In a short passage and footnote, the court anchored this conclusion on the fact that Washington has not yet recognized the enforceability of contracts to negotiate. Butler, 2013 WL 752363, at *2 n. 23. In this regard, the court stated that it would not \u201cextend\u201d a doctrine not yet explicitly adopted by the Washington Supreme Court. Id.\nA. Divining State Law.\nThe key to this puzzle is whether Washington\u2019s highest court, if squarely confronted with the question, would recognize a cause of action for breach of a contract to negotiate; that is, an action for breach of a contract that binds the parties to some course of conduct during negotiations. The most rehable guide to the interpretation of state law is the jurisprudence of the state\u2019s highest court. See, e.g., Kathios v. Gen. Motors Corp., 862 F.2d 944, 946 (1st Cir.1988). But we think that the district court erred in deeming the absence of an on-point opinion from the state\u2019s highest court dispositive. If such a lacuna exists, a federal court' sitting in diversity should not simply throw up its hands but, rather, should endeavor to predict how that court would likely decide the question. See, e.g., In re Bos. Reg\u2019l Med. Ctr., Inc., 410 F.3d 100, 108 (1st Cir.2005).\nIn fashioning such a prediction, the federal court should consult the types of sources that the state\u2019s highest court would be apt to consult, including analogous opinions of that court, decisions of lower courts in the state, precedents and trends in other jurisdictions, learned treatises, and considerations of sound public policy. See Andrew Robinson Int\u2019l, Inc. v. Hartford Fire Ins. Co., 547 F.3d 48, 51-52 (1st Cir.2008). The federal court may pay particular attention to sources cited approvingly by the state\u2019s highest court in other opinions. Id. at 52. The goal is to replicate, as well as possible, the decision that the state\u2019s highest court would be likely to reach.\nIn this instance, we agree with the district court that the Washington Supreme Court has never recognized the enforceability of contracts to negotiate. By the same token, however, that court has not repudiated such a cause of action. The closest the court has come to either of these positions is its response to a certified question from the Ninth Circuit Court of Appeals. See Keystone Land & Dev. Co. v. Xerox Corp., 152 Wash.2d 171, 94 P.3d 945 (2004) (en banc). There, the Washington Supreme Court declared that it was \u201cunnecessary to decide whether Washington will ever enforce a contract to negotiate.\u201d Id. at 950.\nAlthough Keystone left the question open, the court provided valuable insight into how it might view the issue in the future. Its approach creates a taxonomy that comprises three different types of agreements: (i) \u201cagreements to agree,\u201d which require a further meeting of the minds and are, therefore, nonbinding; (ii) \u201cagreements with open terms,\u201d in which the parties intend to be bound to key points and to have a court or other authority supply the missing terms; and (iii) \u201ccontracts to negotiate,\u201d in which the parties agree to be bound to \u201ca specific course of conduct during negotiations.\u201d Keystone, 94 P.3d at 948 (citing E. Allan Farnsworth, Precontractual Liability and Preliminary Agreements: Fair Dealing and Failed Negotiations, 87 Colum. L.Rev. 217, 253, 263 (1987)). The enforceability of this third type of agreement, the court concluded, was an open question in Washington. See id.; see also P.E. Sys., LLC v. CPI Corp., 176 Wash.2d 198, 289 P.3d 638, 644 (2012) (en banc) (referencing relevant language from Keystone).\nWe find it helpful that the Keystone court went on to enumerate certain bedrock principles of contract law that would apply to any analysis it might later make of contracts to negotiate. See Keystone, 94 P.3d at 948-49. For one thing, the court emphasized that agreements entered into by willing parties, which do not offend public policy, are generally enforceable. See id. at 948. For another thing, Keystone confirmed that \u201cWashington follows the objective manifestation test for contracts,\u201d under which parties form a contract by manifesting their mutual assent to be bound. Id. at 949. The obligations of the parties \u201cmust be sufficiently definite\u201d to allow courts to fix liability, and the exchange of promises \u201cmust be supported by consideration.\u201d Id.\nEven though the Washington Supreme Court has not spoken definitively to the issue, the state\u2019s intermediate appellate court has recently enforced a contract to negotiate. See Columbia Park Golf Course, Inc. v. City of Kennewick, 160 Wash.App. 66, 248 P.3d 1067, 1076 (2011). But the strength of this precedent is suspect because the appellant there apparently did not dispute the enforceability of such contracts but, instead, merely appealed the damages award. See id. at 1074. Consequently, we give this precedent little weight.\nThe case law elsewhere is a mixed bag. Withal, two things seem clear. First, many more jurisdictions have recognized the enforceability of contracts to negotiate than have repudiated that doctrine. Compare, e.g., Brown v. Cara, 420 F.3d 148, 156-59 (2d Cir.2005) (construing New York law), Venture Assocs. Corp. v. Zenith Data Sys. Corp., 96 F.3d 275, 277-78 (7th Cir.1996) (construing Illinois law), Newharbor Partners, Inc. v. F.D. Rich Co., 961 F.2d 294, 298-99 (1st Cir.1992) (construing Rhode Island law), Channel Home Ctrs. v. Grossman, 795 F.2d 291, 299 (3d Cir.1986) (construing Pennsylvania law), Copeland v. Baskin Robbins U.S.A., 96 Cal.App.4th 1251, 117 Cal.Rptr.2d 875, 879-85 (2002), SIGA Techs., Inc. v. PharmAthene, Inc., 67 A.3d 330, 343-47 (Del.Supr.2013), and Logan v. D.W. Sivers Co., 343 Or. 339, 169 P.3d 1255, 1258-60 (2007) (en banc), with, e.g., Knight v. Sharif, 875 F.2d 516, 525 (5th Cir.1989) (construing Mississippi law) and MidAmerican Distribution, Inc. v. Clarification Tech., Inc., 807 F.Supp.2d 646, 668 (E.D.Ky.2011) (construing Kentucky law). Second, the trend line appears to be moving steadily in favor of recognizing a cause of action for breach of a contract to negotiate. See, e.g., Keystone Land & Dev. Co. v. Xerox Corp., 353 F.3d 1093, 1097 (9th Cir.2003) (discussing the \u201cmodern trend\u201d and collecting numerous case, treatise, and law review citations); Burbach Broad. Co. of Del. v. Elkins Radio Corp., 278 F.3d 401, 408-09 (4th Cir.2002) (citing \u201cmodern trend in contract law\u201d and recognizing doctrine under West Virginia law); 1 E. Allan Farnsworth, Farnsworth on Contracts \u00a7 3.26b (3d ed.2004) (describing doctrine as having \u201cgained a substantial following\u201d); Alan Schwartz & Robert E. Scott, Precontractual Liability and Preliminary Agreements, 120 Harv. L.Rev. 661, 675 (2007) (describing recognition of contracts to negotiate as the \u201cnew default rule\u201d).\nThere is, moreover, abundant support for the enforcement of contracts to negotiate in other sources that the Washington Supreme Court would be apt to find persuasive. From first principles, a contract is merely an exchange of promises that the law will enforce. See Restatement (Second) of Contracts \u00a7 1 (1981). A contract is formed when the parties objectively manifest their intention to be bound and consideration exists. See id. at \u00a7 17; see also Keystone, 94 P.3d at 949. The baseline rule (absent some affront to public policy) is for courts to honor parties\u2019 expressed intentions in structuring their contractual affairs. See Hodge v. Evans Fin. Corp., 707 F.2d 1566, 1568 (D.C.Cir.1983) (\u201cA basic principle of contract law is the concept of freedom of contract \u2014 the right of the contracting parties to structure their transactions in accordance with their wishes.\u201d); see also Keystone, 94 P.3d at 948 (citing Farnsworth, Precontractual Liability, supra, at 267).\nA contract to negotiate, in which the parties\u2019 promises normally embody the duty to negotiate in good faith, presents no obvious exception to this baseline rule. See Newharbor, 961 F.2d at 298-99. The manifested intention of the parties is the lodestar. See Channel Home, 795 F.2d at 299; Teachers Ins. & Annuity Ass\u2019n v. Tribune Co., 670 F.Supp. 491, 499 (S.D.N.Y.1987); see also 1 Arthur L. Cor-bin, Corbin on Contracts \u00a7 2.9 (Joseph M. Perillo rev. ed.1993).\nScholarly works and case law describe compelling reasons both as to why parties may desire to exchange such binding promises and as to why courts may deem it socially beneficial to enforce them. Modern transactions often involve significant up-front investments in deal structuring and due diligence, and parties may wish to protect those investments in some measure. See Schwartz & Scott, Precontractual Liability, supra at 665-67. Without any such protection, a rapacious counter-party may attempt to take advantage of the other party\u2019s sunk investment by trying to retool the deal at the last minute. See Venture Assocs., 96 F.3d at 278.\nTo forestall such gamesmanship, parties may wish to build in safeguards that will operate early in the bargaining process. This can be accomplished by binding themselves sufficiently such that they feel comfortable investing resources into the deal, but without inextricably committing themselves to a transaction that is still inchoate. Contracts to negotiate can satisfy this need.\nTo be sure, there are some considerations that may counsel against adopting a rule that contracts to negotiate are enforceable. Three such considerations are worthy of mention.\nFirst, courts are understandably hesitant to enforce agreements whose terms are too indefinite to allow easy and objective identification of a breach. See Restatement (Second) of Contracts \u00a7 33 (1981); see also Keystone, 94 P.3d at 949. With respect to contracts to negotiate, it can be argued that courts will struggle both to define \u201cnegotiating in good faith\u201d and to identify a party\u2019s failure to do so. See 1 Corbin on Contracts, supra, \u00a7 2.8. But in the main, courts have found this obstacle surmountable. See, e.g., Teachers, 670 F.Supp. at 506; Logan, 169 P.3d at 1259-60; see also A/S Apothekemes Laboratorium for Specialpraeparater v. I.M.C. Chem. Grp., Inc., 873 F.2d 155, 158-60 (7th Cir.1989) (finding no breach of obligation to negotiate in good faith).\nMoreover, courts routinely make judgments as to parties\u2019 good faith (or the lack of it) in analogous contexts. See, e.g., O\u2019Tool v. Genmar Holdings, Inc., 387 F.3d 1188, 1197-1203 (10th Cir.2004) (discussing implied duty of good faith and fair dealing under Delaware law); Mathis v. Exxon Corp., 302 F.3d 448, 453-59 (5th Cir.2002) (discussing Uniform Commercial Code duty to act in good faith when fixing open price terms); Peckham v. Cont\u2019l Cas. Ins. Co., 895 F.2d 830, 834-35 (1st Cir.1990) (discussing insurer\u2019s duty to negotiate settlements in good faith). And with specific reference to contracts to negotiate, Professor Farnsworth has suggested that bad faith in negotiations can be separated into seven subsets: \u201crefusal to negotiate, improper tactics, unreasonable proposals, nondisclosure, negotiation with others, reneging, and breaking off negotiations.\u201d 1 Farnsworth on Contracts, supra, \u00a7 3.26c; see also Farnsworth, Precontractual Liability, supra, at 269-85. This refinement makes the definitional task easier.\nSecond, courts and scholars have quibbled about the appropriate measure of damages when a contract to negotiate has been breached. In the opinion of some, damages should be limited to the sums spent in reliance on the broken promise. See, e.g., Copeland, 117 Cal.Rptr.2d at 885; Logan, 169 P.3d at 1263. In the opinion of others, expectancy damages may be available. See, e.g., Venture Assocs., 96 F.3d at 278-79; Columbia Park, 248 P.3d at 1076-78. This uncertainty, however, does not speak to the viability of a cause of action for breach of a contract to negotiate. It speaks only to the nature of the proper remedy.\nThird, some judges have worried about the manifest need for courts charged with enforcing contracts to negotiate to tread carefully lest they \u201ctrap[ ] parties in surprise contractual obligations that they never intended.\u201d Teachers, 670 F.Supp. at 497. But this concern was noted and discounted in Keystone, where the Washington Supreme Court concluded that the state\u2019s fundamental requirements for contract formation were sufficient to address it. Keystone, 94 P.3d at 949.\nIn this case, all roads lead to Rome. After surveying the relevant legal landscape in Washington and beyond and weighing the pertinent policy considerations, we conclude that the Washington Supreme Court will in all probability recognize the enforceability of contracts to negotiate when it squarely confronts that issue.\nB. The Merits.\nHaving made our informed prophecy about Washington law, we move from the general to the specific. To survive a motion to dismiss, a complaint must \u201cstate a claim to relief that is plausible on its face.\u201d Bell Atl. Corp. v. Twombly, 550 U.S. 544, 570, 127 S.Ct. 1955, 167 L.Ed.2d 929 (2007). The question here is whether the complaint plausibly alleges the existence and breach of a contract to negotiate.\nBefore delving into plausibility, we pause to put to rest a claim of procedural default. The defendant tries to head off the plausibility inquiry by suggesting that the plaintiff did not adequately raise the \u201ccontract to negotiate\u201d theory below. As we explain in the following pages, however, the complaint adequately pleaded this theory. What is more, the plaintiff argued it in opposition to the motion to dismiss, and the district court had sufficient notice that it felt the need to address the theory squarely in its decision. Butler, 2013 WL 752363, at *2 n. 23. We therefore deem the claim of error preserved. Cf. United States v. Paradis, 351 F.3d 21, 28-29 (1st Cir.2003) (treating an issue only arguably alluded to by government as preserved when addressed by district court).\nIn the case at hand, we believe that the complaint\u2019s factual content is enough, if barely, to propel it across the plausibility threshold. Plausibility does not demand a showing that the claim is likely to succeed. It does, however, demand a showing of \u201cmore than a sheer possibility\u201d of success. Ashcroft v. Iqbal, 556 U.S. 662, 678, 129 S.Ct. 1937, 173 L.Ed.2d 868 (2009). This determination is independent of whatever unsupported conclusions may be embedded in the complaint. See id. at 678-79, 129 S.Ct. 1937. Thus, \u201c[t]hreadbare recitals of the elements of a cause of action\u201d will not suffice to show plausibility. Id. at 678, 129 S.Ct. 1937.\nWe concede that the plaintiffs complaint is not a model of clarity. Although it alleges that the LOI is a binding contract, it is less than pellucid as to whether that contract is thought to be a final contract of sale or a contract to negotiate. The allegations can be read either way \u2014 and there is nothing wrong with that. See Fed. R.Civ.P. 8(d)(2) (permitting alternative pleading).\nOn a motion to dismiss, the averments of the complaint must be taken in the light most favorable to the plaintiff. See SEC v. Tambone, 597 F.3d 436, 441-42 (1st Cir.2010) (en banc). Since the LOI plainly is not a binding agreement to purchase, we read the allegations of the complaint consistent with the plaintiffs alternative theory that the LOI is a binding contract to negotiate, which the defendant breached.\nThe LOI, which is the focal point of the complaint, can plausibly be read as a contract to negotiate. It contains a specific provision calling for the parties\u2019 \u201cbest efforts to negotiate and attempt to agree\u201d to a final transaction. It also contains covenants of confidentiality and exclusivity \u2014 covenants that fit comfortably under the carapace of a contract to negotiate. See, e.g., Feldman v. Allegheny Int\u2019l, Inc., 850 F.2d 1217, 1220-21 (7th Cir.1988).\nWhat is more, the complaint alleges facts tending to show that both parties considered the LOI binding. The complaint alleges that the plaintiff, in deference to the LOI\u2019s exclusivity provision, declined inquiries from other potential buyers. Such a course of conduct tends to indicate that the plaintiff considered the LOI to be a binding contract. See, e.g., Teachers, 670 F.Supp. at 502.\nSimilarly, the complaint alleges that the defendant sought to \u201crescind\u201d the LOI. This attempt to rescind tends to indicate that the defendant too considered the LOI to be a binding agreement. After all, a party would be unlikely to seek rescission of an agreement that he did not believe to be binding.\nThe short of it is that the LOI, construed as a contract to negotiate, is an agreement entered into between freely contracting parties. It does not offend public policy. And, finally,-there is enough in the complaint to permit an inference that the parties have objectively manifested their mutual intent to be bound. Under Washington law, as we envision it, that is enough. See Keystone, 94 P.3d at 949.\nThe plaintiff, of course, must show more than that the complaint plausibly limns the existence of a contract to negotiate. He must also show that it plausibly alleges a breach of that contract. With respect to that issue, the factual allegations of the complaint are quite amenable to the contract to negotiate theory.\nThe complaint alleges that the defendant spuriously identified deficiencies with the Whirlwind technology and used those canards as a pretext to renegotiate the price, and that the defendant failed to negotiate at all during critical periods. Accepted as true, these allegations plausibly suggest a failure to use best efforts to bring the transaction to fruition. See Venture Assocs., 96 F.3d at 279-80 (discussing circumstances in which last-minute price change would be indicative of bad faith); Teachers, 670 F.Supp. at 505 (describing \u201crefus[al] to negotiate\u201d as incompatible with good faith).\nTo cinch matters, \u201cthe plausibility inquiry properly takes into account whether discovery can reasonably be expected to fill any holes in the pleader\u2019s case.\u201d Garc\u00eda-Catal\u00e1n v. United States, 734 F.3d 100, 104 (1st Cir.2013). To clear the plausibility hurdle, a complaint must contain \u201cenough factfs] to raise a reasonable expectation that discovery will reveal evidence\u201d sufficient to flesh out a viable claim. Twombly, 550 U.S. at 556, 127 S.Ct. 1955. Here, the complaint satisfies that criterion.\nLet us be perfectly clear. We do not hold either that the LOI is an enforceable contract to negotiate or that, if it is, the defendant breached it. Those matters remain subject to proof. See Garc\u00eda-Cata-l\u00e1n, 734 F.3d at 103-04 (discussing difference in burdens at summary judgment and trial as opposed to lesser burden at Rule 12(b)(6) stage). We do hold, however, that as a matter of pleading the complaint plausibly alleges that such a contract was formed and that the defendant breached it.\nWe offer yet another caveat. There is no present need for us to determine exactly how the Washington Supreme Court would configure the contours of the cause of action asserted. The core-theory of a cause of action for breach of contract to negotiate has been more and more readily accepted by courts. That core theory inevitably hinges on whether the parties intended to enter a binding contract to negotiate and whether they objectively manifested that intention. See Keystone, 94 P.3d at 949-50. To this extent, the complaint sets forth a plausible claim.\nWe acknowledge that the contours of the \u201ccontract to negotiate\u201d theory, at the margins, differ from state to state. See generally Browning Jeffries, Preliminary Negotiations or Binding Obligations? A Framework for Determining the Intent of the Parties, 48 Gonz. L.Rev. 1, 22-35 (2012) (describing differences between jurisdictions). Here \u2014 as would be true of virtually any case at the motion to dismiss stage \u2014 the record is skeletal and many of the factual details are obscure. This undeveloped record does not enable us to give much guidance to the district court about the precise contours of the law that it must apply to the facts that are yet to be developed. If, as the case progresses, the district court concludes that it is appropriate, it remains free to certify specific questions to the Washington Supreme Court. See Wash. Rev.Code \u00a7 2.60.020.\nOur journey is not yet at an end. In addition to dismissing the breach of contract claim, the district court also dismissed the plaintiffs implied covenant of good faith and Chapter 93A claims and denied his motion for leave to amend. See Butler, 2013 WL 752363, at *2. Although these rulings implicate different legal theories and standards, the entire decision of the court below rested on its erroneous determination that no enforceable contract existed between the parties. See id. Because our holding that the complaint plausibly states a claim for breach of a contract to negotiate undermines the district court\u2019s reasoning, we believe that all the components of the decision must be revisited.\nIII. CONCLUSION\nWe need go no further. For the reasons elucidated above, we vacate the judgment below in its entirety and remand for further proceedings consistent with this opinion.\nVacated and remanded. Costs shall be taxed in favor of the plaintiff.\n. Along with the LOI, the parties executed a non-disclosure agreement. In pursuance thereof, the district court sealed all references to the amount of the purchase price.\n. The plaintiff questions whether the choice-of-law provision, as worded, extends to his Chapter 93A claim. We do not need to reach this question today, and we express no opinion on it.\n. Courts and scholars have used a variety of terms to describe contracts to negotiate. For example, some use the term Type II preliminary agreement, see, e.g., Brown v. Cara, 420 F.3d 148, 153 (2d Cir.2005), others use the term binding preliminary commitment, see, e.g., Teachers Ins. & Annuity Ass\u2019n of Am. v. Tribune Co., 670 F.Supp. 491, 498 (S.D.N.Y.1987), and still others use the term agreement to negotiate, 1 Arthur L. Corbin, Corbin on Contracts \u00a7 2.8(b) (Joseph M. Perillo rev. ed.1993). For simplicity's sake, we refer throughout to contracts to negotiate \u2014 the nomenclature employed in Keystone, 94 P.3d at 948.\n. We note, moreover, that in the proposed amended complaint, the plaintiff also alleges that the defendant wrote an e-mail to his counsel, mistakenly transmitted to the plaintiff, seeking advice about a seemingly disingenuous plan to stonewall the plaintiff as the date arrived for signing a binding agreement for sale. Similarly, the proposed amended complaint alleges that the defendant refused to waive the exclusivity provision even after negotiations broke down.",
+        "type": "majority",
+        "author": "SELYA, Circuit Judge."
+      }
+    ],
+    "attorneys": [
+      "Michael J. Lambert, with whom David Hartnagel and Sheehan Phinney Bass + Green were on brief, for appellant.",
+      "Laura L. Carroll, with whom Joseph F. Schmidt, Shefsky & Froelich Ltd., and Burns & Levinson LLP were on brief, for appellee."
+    ],
+    "corrections": "",
+    "head_matter": "David BUTLER, Plaintiff, Appellant, v. Shiraz BALOLIA, Defendant, Appellee.\nNo. 13-1329.\nUnited States Court of Appeals, First Circuit.\nNov. 22, 2013.\nMichael J. Lambert, with whom David Hartnagel and Sheehan Phinney Bass + Green were on brief, for appellant.\nLaura L. Carroll, with whom Joseph F. Schmidt, Shefsky & Froelich Ltd., and Burns & Levinson LLP were on brief, for appellee.\nBefore THOMPSON, SELYA and LIPEZ, Circuit Judges."
+  },
+  "file_name": "0609-01",
+  "first_page_order": 635,
+  "last_page_order": 644
+}

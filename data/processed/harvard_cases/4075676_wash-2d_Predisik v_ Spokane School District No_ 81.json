@@ -1,0 +1,604 @@
+{
+  "id": 4075676,
+  "name": "Anthony J. Predisik et al., Petitioners, v. Spokane School District No. 81, Respondent",
+  "name_abbreviation": "Predisik v. Spokane School District No. 81",
+  "decision_date": "2015-04-02",
+  "docket_number": "No. 90129-5",
+  "first_page": "896",
+  "last_page": "918",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "182 Wash. 2d 896"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Wash.",
+    "id": 9029,
+    "name": "Washington Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 38,
+    "name_long": "Washington",
+    "name": "Wash."
+  },
+  "cites_to": [
+    {
+      "cite": "791 P.2d 526",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1990,
+      "opinion_index": 0
+    },
+    {
+      "cite": "114 Wn.2d 788",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        1169954
+      ],
+      "year": 1990,
+      "pin_cites": [
+        {
+          "page": "795"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/114/0788-01"
+      ]
+    },
+    {
+      "cite": "748 P.2d 597",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1988,
+      "pin_cites": [
+        {
+          "parenthetical": "plurality opinion"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "109 Wn.2d 712",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        1186077
+      ],
+      "year": 1988,
+      "pin_cites": [
+        {
+          "page": "728",
+          "parenthetical": "plurality opinion"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/109/0712-01"
+      ]
+    },
+    {
+      "cite": "287 P.3d 523",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2012,
+      "pin_cites": [
+        {
+          "parenthetical": "citing Cowles Publ'g Co. v. State Patrol, 109 Wn.2d 712, 728, 748 P.2d 597 (1988) (plurality opinion)"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "175 Wn.2d 837",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        4024014
+      ],
+      "year": 2012,
+      "pin_cites": [
+        {
+          "page": "843",
+          "parenthetical": "citing Cowles Publ'g Co. v. State Patrol, 109 Wn.2d 712, 728, 748 P.2d 597 (1988) (plurality opinion)"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/175/0837-01"
+      ]
+    },
+    {
+      "cite": "580 P.2d 246",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1978,
+      "opinion_index": 0
+    },
+    {
+      "cite": "90 Wn.2d 123",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        1104348
+      ],
+      "year": 1978,
+      "pin_cites": [
+        {
+          "page": "135"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/90/0123-01"
+      ]
+    },
+    {
+      "cite": "259 P.3d 190",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2011,
+      "pin_cites": [
+        {
+          "parenthetical": "plurality opinion"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "172 Wn.2d 398",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        4017964
+      ],
+      "year": 2011,
+      "pin_cites": [
+        {
+          "page": "412-13",
+          "parenthetical": "plurality opinion"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/172/0398-01"
+      ]
+    },
+    {
+      "cite": "327 P.3d 600",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2013,
+      "opinion_index": 0
+    },
+    {
+      "cite": "177 Wn.2d 417",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        4131447
+      ],
+      "year": 2013,
+      "pin_cites": [
+        {
+          "page": "432"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/177/0417-01"
+      ]
+    },
+    {
+      "cite": "884 P.2d 592",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1994,
+      "pin_cites": [
+        {
+          "parenthetical": "plurality opinion"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "125 Wn.2d 243",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        437224
+      ],
+      "year": 1994,
+      "pin_cites": [
+        {
+          "page": "260",
+          "parenthetical": "plurality opinion"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/125/0243-01"
+      ]
+    },
+    {
+      "cite": "328 P.3d 903",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2014,
+      "opinion_index": 0
+    },
+    {
+      "cite": "180 Wn.2d 1021",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "year": 2014,
+      "opinion_index": 0
+    },
+    {
+      "cite": "319 P.3d 801",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2014,
+      "opinion_index": 0
+    },
+    {
+      "cite": "179 Wn. App. 513",
+      "category": "reporters:state",
+      "reporter": "Wash. App.",
+      "case_ids": [
+        4106779
+      ],
+      "year": 2014,
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-app/179/0513-01"
+      ]
+    },
+    {
+      "cite": "189 P.3d 139",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2008,
+      "opinion_index": 0
+    },
+    {
+      "cite": "164 Wn.2d 199",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        3996347
+      ],
+      "year": 2008,
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/164/0199-01"
+      ]
+    },
+    {
+      "cite": "142 P.3d 162",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "weight": 3,
+      "year": 2006,
+      "pin_cites": [
+        {
+          "page": "183"
+        }
+      ],
+      "opinion_index": 1
+    },
+    {
+      "cite": "158 Wn.2d 173",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        3085985
+      ],
+      "year": 2006,
+      "pin_cites": [
+        {
+          "page": "183-84"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/wash-2d/158/0173-01"
+      ]
+    },
+    {
+      "cite": "120 P.3d 616",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2005,
+      "opinion_index": 1
+    },
+    {
+      "cite": "129 Wn. App. 832",
+      "category": "reporters:state",
+      "reporter": "Wash. App.",
+      "case_ids": [
+        3682460
+      ],
+      "year": 2005,
+      "pin_cites": [
+        {
+          "page": "853"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/wash-app/129/0832-01"
+      ]
+    },
+    {
+      "cite": "845 P.2d 995",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1993,
+      "opinion_index": 1
+    },
+    {
+      "cite": "120 Wn.2d 782",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        1368172
+      ],
+      "year": 1993,
+      "pin_cites": [
+        {
+          "page": "797"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/wash-2d/120/0782-01"
+      ]
+    },
+    {
+      "cite": "213 P.3d 596",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "weight": 2,
+      "year": 2009,
+      "pin_cites": [
+        {
+          "parenthetical": "\"Unsubstantiated allegations are exempt from disclosure.\""
+        }
+      ],
+      "opinion_index": 1
+    },
+    {
+      "cite": "166 Wn.2d 747",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        4002057
+      ],
+      "year": 2009,
+      "pin_cites": [
+        {
+          "page": "756",
+          "parenthetical": "\"Unsubstantiated allegations are exempt from disclosure.\""
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/wash-2d/166/0747-01"
+      ]
+    },
+    {
+      "cite": "748 P.2d 597",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1988,
+      "pin_cites": [
+        {
+          "parenthetical": "plurality opinion"
+        }
+      ],
+      "opinion_index": 1
+    },
+    {
+      "cite": "109 Wn.2d 712",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        1186077
+      ],
+      "year": 1988,
+      "pin_cites": [
+        {
+          "page": "725",
+          "parenthetical": "plurality opinion"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/wash-2d/109/0712-01"
+      ]
+    },
+    {
+      "cite": "580 P.2d 246",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "weight": 4,
+      "year": 1978,
+      "opinion_index": 1
+    },
+    {
+      "cite": "90 Wn.2d 123",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        1104348
+      ],
+      "year": 1978,
+      "pin_cites": [
+        {
+          "page": "127"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/wash-2d/90/0123-01"
+      ]
+    },
+    {
+      "cite": "259 P.3d 190",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2011,
+      "pin_cites": [
+        {
+          "parenthetical": "plurality opinion"
+        }
+      ],
+      "opinion_index": 1
+    },
+    {
+      "cite": "172 Wn.2d 398",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        4017964
+      ],
+      "year": 2011,
+      "pin_cites": [
+        {
+          "page": "412-13",
+          "parenthetical": "plurality opinion"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/wash-2d/172/0398-01"
+      ]
+    },
+    {
+      "cite": "319 P.3d 801",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "weight": 2,
+      "year": 2014,
+      "pin_cites": [
+        {
+          "parenthetical": "citing Bellevue John Does, 164 Wn.2d at 220-21"
+        }
+      ],
+      "opinion_index": 1
+    },
+    {
+      "cite": "179 Wn. App. 513",
+      "category": "reporters:state",
+      "reporter": "Wash. App.",
+      "case_ids": [
+        4106779
+      ],
+      "weight": 3,
+      "year": 2014,
+      "pin_cites": [
+        {
+          "page": "520",
+          "parenthetical": "citing Bellevue John Does, 164 Wn.2d at 220-21"
+        },
+        {
+          "page": "520"
+        },
+        {
+          "page": "520"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/wash-app/179/0513-01"
+      ]
+    },
+    {
+      "cite": "189 P.3d 139",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "weight": 3,
+      "year": 2008,
+      "pin_cites": [
+        {
+          "page": "211",
+          "parenthetical": "\"The teachers' identities are clearly 'personal information' because they relate to particular people.\""
+        }
+      ],
+      "opinion_index": 1
+    },
+    {
+      "cite": "164 Wn.2d 199",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        3996347
+      ],
+      "year": 2008,
+      "pin_cites": [
+        {
+          "page": "209"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/wash-2d/164/0199-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 1221,
+    "char_count": 36973,
+    "ocr_confidence": 0.746,
+    "pagerank": {
+      "raw": 5.33135200572371e-08,
+      "percentile": 0.33578482760964057
+    },
+    "sha256": "7c91cf885ccbeab27be41e7ccb2b68343d7cdcb3e2cb71b0a9ab3eb8ca5d2a18",
+    "simhash": "1:113ea185739b29bc",
+    "word_count": 5887
+  },
+  "last_updated": "2024-02-27T17:34:40.830885+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Madsen, C.J., and Johnson, Stephens, and Gonz\u00e1lez, JJ., concur.",
+      "Owens, Wiggins, and Gordon McCloud, JJ., concur, with Fairhurst, J."
+    ],
+    "parties": [
+      "Anthony J. Predisik et al., Petitioners, v. Spokane School District No. 81, Respondent."
+    ],
+    "opinions": [
+      {
+        "text": "Yu, J.\n\u00b61 This case involves two public school employees who are on paid administrative leave while their employer investigates allegations of misconduct. We must decide if public records that reveal these investigations are occurring \u2014 but do not describe the allegations being investigated \u2014 implicate the employees\u2019 privacy rights under the Public Records Act (PRA), chapter 42.56 RCW. We hold they do not. Because no exemption applies to withhold the records from public inspection, we reverse and remand with instructions to order the records at issue disclosed in their entirety without redaction.\nFacts and Procedural History\n\u00b62 Anthony J. Predisik and Christopher Katke are longtime employees of Spokane School District No. 81 (District). In late 2011 and early 2012, the District began to investigate Predisik and Katke after individuals made separate, unrelated allegations against the two employees. The substance behind those allegations is not in the record, but the District\u2019s investigations are apparently ongoing and entering their fourth year. The District placed Predisik and Katke on administrative leave and has paid salaries to both employees while it investigates.\n\u00b63 In the spring of 2012, two media outlets submitted public records requests to the District. One request sought the \u201cadministrative leave letter given to Anthony Predisik, a Shadle Park High School counselor.\u201d Clerk\u2019s Papers at 50. The other request asked for \u201cinformation on all district employees currently on paid/non-paid administrative leave.\u201d Id. at 331. The requests returned three public records relevant to this dispute.\n\u00b64 The first record is Predisik\u2019s \u201cadministrative leave letter,\u201d a short letter informing Predisik that he has been placed on administrative leave \u201cpending completion of the District\u2019s investigation into allegations of inappropriate interactions with a former student.\u201d Ex. P-1. It also tells Predisik he is banned from district property and from talking with students about the matter during the investigation. The letter does not describe the allegations in any further detail and does not name Predisik\u2019s accuser.\n\u00b65 The second and third records are spreadsheets that document the amount of leave pay Predisik and Katke had accumulated through April 2012. Exs. P-2, P-3. The spreadsheets, one for each employee, contain columns for the employee\u2019s name, the date of pay, the hours paid, the rate of pay, and a position code. Id. The final column indicates the reason for leave, which is described generically for both Predisik and Katke as \u201c[a]negations currently under investigation.\u201d Id. Similar to the leave letter, the spreadsheets provide no further detail about the allegations or the accusers.\n\u00b66 Predisik and Katke separately sued the District to enjoin disclosure of the leave letter and spreadsheets, alleging each record is exempt under the \u201c[p]ersonal information\u201d and \u201cinvestigative\u201d record exemptions of RCW 42.56.230(3) and 42.56.240(1). The District opposed the injunction and argued the leave letter and spreadsheets should be disclosed. The trial court consolidated the two cases, and the parties filed cross motions for summary judgment. Citing our opinion in Bellevue John Does v. Belle-vue School District No. 405, 164 Wn.2d 199, 189 P.3d 139 (2008), the trial court found that Predisik\u2019s and Katke\u2019s identities, but not the records themselves, were exempt from disclosure under RCW 42.56.230(3). The judge ordered all three records disclosed with Predisik\u2019s and Katke\u2019s names redacted. The Court of Appeals affirmed. Predisik v. Spokane Sch. Dist. No. 81, 179 Wn. App. 513, 319 P.3d 801 (2014).\n\u00b67 We granted review to clarify when the PRA will recognize a right to privacy in the identity of a public employee who is the subject of an open investigation by his or her public employer. Predisik v. Spokane Sch. Dist. No. 81, 180 Wn.2d 1021, 328 P.3d 903 (2014).\nAnalysis\n\u00b68 The PRA requires that agencies \u201cshall make available for public inspection and copying all public records,\u201d subject only to a handful of statutory exemptions. RCW 42.56.070(1); see also Progressive Animal Welfare Soc\u2019y v. Univ. of Wash., 125 Wn.2d 243, 260, 884 P.2d 592 (1994) (plurality opinion) (PAWS II). The PRA ensures the sovereignty of the people and the accountability of the governmental agencies that serve them by providing full access to information concerning the conduct of government. PAWS II, 125 Wn.2d at 251. To effectuate that policy, we start with the presumption that all public records are subject to disclosure. Agencies can withhold a record only if it falls within one of the PRA\u2019s specific, limited exemptions. RCW 42.56.070(1). These exemptions are narrow, and we apply them in favor of partial disclosure where possible since \u201cthe PRA\u2019s purpose of open government remains paramount.\u201d Resident Action Council v. Seattle Hous. Auth., 177 Wn.2d 417, 432, 327 P.3d 600 (2013); see also RCW 42.56-.070(1) (requiring that agencies redact records only \u201c[t]o the extent required to prevent an unreasonable invasion of personal privacy interests protected by [the PRA]\u201d and produce the remainder of the record). Similarly, the PRA reminds us \u201cthat free and open examination of public records is in the public interest, even though such examination may cause inconvenience or embarrassment to public officials or others.\u201d RCW 42.56.550(3).\n\u00b69 Predisik and Katke argue that two of the PRA\u2019s exemptions independently justify withholding the leave letter and spreadsheets from disclosure. First, the employees assert the records contain personal information, the disclosure of which would violate their rights to privacy. RCW 42.56.230(3). Second, they argue the records constitute investigative records that are essential to law enforcement. RCW 42.56.240(1). We apply each exemption in turn.\nA. Personal information exemption\n\u00b610 Predisik and Katke rely principally on RCW 42.56.230(3), which exempts from disclosure \u201c[p]ersonal information in files maintained for employees ... of any public agency to the extent that disclosure would violate their right to privacy.\u201d Application of this exemption involves three separate questions: (1) whether the records contain personal information, (2) whether the employees have a privacy interest in that personal information, and (3) whether disclosure of that personal information would violate their right to privacy. Bellevue John Does, 164 Wn.2d at 210. The first question is not in dispute. The leave letter and spreadsheets, which identify Predisik and Katke by name, contain \u201c \u2018personal information\u2019 [i.e., the employees\u2019 identities] because they relate to particular people.\u201d Id. at 211.\n\u00b611 The existence of \u201cpersonal information\u201d in a public record is necessary to the exemption, but it is not sufficient alone to withhold the record. Employees must also demonstrate that they have a right to privacy in personal information contained in a record and if such a right exists that disclosure would violate it. The personal information at issue here is Predisik\u2019s and Katke\u2019s identities when they are contained in public records disclosing that the District is investigating allegations of misconduct. So we next must decide whether the PRA grants public employees under investigation a right to privacy in their identities.\n\u00b612 The statute\u2019s text offers little guidance to answer this question. Although the PRA expressly provides \u201cthe test for determining when the right to privacy is violatedi, it] does not explicitly identify when the right to privacy exists.\u201d Bainbridge Island Police Guild v. City of Puyallup, 172 Wn.2d 398, 412-13, 259 P.3d 190 (2011) (plurality opinion) (citing Bellevue John Does, 164 Wn.2d at 212). We previously used principles of tort law to fill this definitional void and define the contours of the PRA\u2019s privacy right. In Hearst Corp. v. Hoppe, 90 Wn.2d 123, 135, 580 P.2d 246 (1978), we concluded that the \u201cright of privacy,\u201d as it is used in the PRA, means \u201cwhat it meant at common law,\u201d and we adopted the definition in Restatement (Second) of Torts \u00a7 652D (Am. Law Inst. 1977) (\u00a7 652D).\n\u00b613 Therefore, a person has a right to privacy under the PRA only in \u201c \u2018matter [s] concerning the private life.\u2019 \u201d Id. at 135 (quoting \u00a7 652D). To explain how that standard is applied in practice, we looked to the Restatement\u2019s summary of the right to privacy:\n\u201cEvery individual has some phases of his life and his activities and some facts about himself that he does not expose to the public eye, but keeps entirely to himself or at most reveals only to his family or to close personal friends. Sexual relations, for example, are normally entirely private matters, as are family quarrels, many unpleasant or disgraceful or humiliating illnesses, most intimate personal letters, most details of a man\u2019s life in his home, and some of his past history that he would rather forget.\u201d\nId. at 136 (quoting \u00a7 652D cmt. b at 386). This comment \u201cillustrates what nature of facts are protected by this right to privacy,\u201d id. (emphasis added), and taken in context makes clear that the PRA will not protect everything that an individual would prefer to keep private. The PRA\u2019s \u201cright to privacy\u201d is narrower. Individuals have a privacy right under the PRA only in the types of \u201cprivate\u201d facts fairly comparable to those shown in the Restatement.\n\u00b614 Using the Restatement as a rubric, we conclude that the PRA does not recognize a right of privacy in the mere fact that a public employer is investigating an employee. In so holding, we distinguish the investigation itself from the employee\u2019s conduct giving rise to that investigation. This difference, though subtle, is very important to the Restatement\u2019s privacy interest analysis. A public employer\u2019s investigation is certainly not a private matter: it arises exclusively from the employee\u2019s public employment. The investigation is simply an administrative process. It is not akin to a \u201c \u2018family quarrel[ ]\u201d\u2019 or a \u201c \u2018humiliating illness[ ],\u2019 \u201d nor does it touch on the employee\u2019s \u201c \u2018life [at] home.\u2019 \u201d Id. (quoting \u00a7 652D cmt. b at 386). To the contrary, the investigation relates to a part of the employee\u2019s life \u2014 his or her profession \u2014 that is freely exposed to the public. A public employer\u2019s investigation is an act of the government, not a closely held private matter that gives rise to a privacy right under the PRA.\n\u00b615 We again contrast the employer\u2019s investigation, in which there is no privacy interest, with the allegations the employer is investigating. We acknowledge that such allegations may encompass some \u201cpast history that [the employee] would rather forget\u201d and could come within that example or others in the Restatement that would implicate a privacy right under the PRA. But the mere fact there is an open investigation into allegations of misconduct is not, by itself, a reason to withhold a record from disclosure. Agencies and courts must review each responsive record and discern from its four corners whether the record discloses factual allegations that are truly of a private nature, using the Restatement as a guide. Though there is an inherent degree of fact-finding in this analysis, a record-specific inquiry is the only way to adhere to the PRA\u2019s mandate that exemptions be construed narrowly. RCW 42.56.030.\n\u00b616 Applying this rule, we conclude that neither the leave letter nor the spreadsheets implicate a privacy right under the PRA. Those records disclose only that the District has opened an investigation and placed Predisik and Katke on leave during its pendency; the records do not disclose the factual allegations underlying that investigation. From these three records, the public learns only matters related to Predisik\u2019s and Katke\u2019s status as public employees and nothing about their personal lives. For the reasons we explain above, this information does not trigger a privacy interest under the PRA.\n\u00b617 Predisik and Katke argue our decision in Bellevue John Does requires we find a privacy interest here. We held in that case that teachers have a right to privacy in their identities in records related to unsubstantiated allegations, since in those instances \u201c[t]he fact of the allegation ... does not bear on the teacher\u2019s performance or activities as a public servant.\u201d 164 Wn.2d at 215. But as we explained, the existence of a privacy right under the PRA depends on the types of facts disclosed and is not amenable to a bright-line rule.\n\u00b618 We do not find Bellevue John Does dispositive when applied to the records in this case and the limited, public nature of the facts those records disclose. Again, a public employer\u2019s investigation is a governmental act and a consequence of employment with the government. Unlike the records at issue in Bellevue John Does, the leave letter and spreadsheets do not disclose any salacious facts that one might consider a private matter. Indeed, the records contain no specific allegations of misconduct at all. It makes no difference if the allegations here are eventually substantiated because the records do not describe them.\n\u00b619 We do not read Bellevue John Does to create a sweeping rule that exempts an employee\u2019s identity from disclosure any time it is mentioned in a record with some tangential relation to misconduct allegations. A rule that broad would justify withholding, or at least redacting, nearly every record created during the course of the District\u2019s investigation. Even Bellevue John Does recognizes the PRA entitles the public to \u201cdocuments concerning the nature of the allegations and reports related to the investigation and its outcome.\u201d Id. at 221.\n\u00b620 Because we hold that no right of privacy exists in the leave letter or spreadsheets, we need not decide if disclosure of those records would violate that right. See RCW 42.56.050 (providing the test for determining when disclosure violates the right to privacy if such a right exists). We observe, however, that the public has a legitimate concern in the identities of public employees who are the subject of investigations. The PRA is meant to engender the people\u2019s trust in their government. The recent unrest in Ferguson, Missouri, is an extreme example of how that trust is eroded when the public suspects the government is withholding information to protect its own. See, e.g., Tanzina Vega, Timothy Williams & Erik Eckholm, Emotions Flare in Missouri Amid Police Statements, N.Y. Times, Aug. 15, 2014, http://www.n5dimes.com/2014/08/16/us/darren-wil son-identified-as-officer-in-fatal-shooting-in-ferguson-miss ouri.html.\n\u00b621 But secrecy can breed suspicion in more subtle ways, too. For example, if we accepted Predisik\u2019s and Katke\u2019s positions, the public would never learn about an investigation unless and until the underlying allegations are substantiated at some point in the future. There would be no opportunity for the public to discover the District\u2019s ongoing three-year investigation, much less question the effectiveness of what some might consider an awfully long process. Government cannot be held accountable for actions it shields from the public\u2019s eye.\n\u00b622 Public employees are paid with public tax dollars and, by definition, are servants of and accountable to the public. The people have a right to know who their public employees are and when those employees are not performing their duties. In sum, we hold there is no privacy right under the PRA in the mere fact that a public employer is investigating a public employee or in the employee\u2019s use of administrative leave. Both are simply functions of the government. Without such a privacy right, RCW 42.56-.230(3) does not apply to exempt the leave letter or spreadsheets from disclosure.\nB. Investigative record exemption\n\u00b623 Predisik and Katke also argue that the investigative records exemption requires that the District withhold the three records. RCW 42.56.240(1). A record falling within this exemption must, among other requisites, \u201cbe essential to law enforcement or essential to the protection of privacy.\u201d Koenig v. Thurston County, 175 Wn.2d 837, 843, 287 P.3d 523 (2012) (citing Cowles Publ\u2019g Co. v. State Patrol, 109 Wn.2d 712, 728, 748 P.2d 597 (1988) (plurality opinion)). The three records here are neither.\n\u00b624 The leave letter and spreadsheets are not essential to law enforcement. Our decision in Brouillet v. Cowles Publishing Co., 114 Wn.2d 788, 795, 791 P.2d 526 (1990), is dispositive. There we considered whether the superintendent of public instruction (SPI), who actually wields disciplinary authority over teaching credentials, performed law enforcement functions. We concluded the SPI could not rely on the investigative records exemption to withhold records because \u201cit does not enforce law,\u201d and we rejected the agency\u2019s \u201cattempt to characterize its supervision of its employees as law enforcement\u201d activity under the exemption. Id. at 795-96. The District has even less investigative and disciplinary authority than the SPI, and its records similarly are not exempted under RCW 42.56.240(1).\n\u00b625 Nor are the leave letter and spreadsheets essential to the protection of privacy. The PRA is consistent in its definition of \u201cprivacy,\u201d which is the same definition we announced in Hearst Corp. and applied above. RCW 42.56-.050; Laws of 1987, ch. 403, \u00a7 1. As discussed in detail earlier, Predisik and Katke have no right to privacy in records disclosing only the fact that they are the subjects of an open investigation.\nConclusion\n\u00b626 Public employees have no privacy right in the fact that they are being investigated by their public employer. The investigation is merely a status of their public employment, not an intimate detail of their personal lives, and without such a privacy right, RCW 42.56.230(3) and .240(1) are inapplicable. We reverse the Court of Appeals and remand with instructions to order the records at issue disclosed in their entirety without redaction.\nMadsen, C.J., and Johnson, Stephens, and Gonz\u00e1lez, JJ., concur.\nThe two media entities that requested the records elected not to join this action, but the District adequately represents the public\u2019s interest in full disclosure.",
+        "type": "majority",
+        "author": "Yu, J."
+      },
+      {
+        "text": "Fairhurst, J.\n\u00b627 (dissenting) \u2014 I dissent because Anthony J. Predisik and Christopher Katke (Employees) have a right to privacy in their identities. The Employees\u2019 right to privacy is violated if the records at issue are disclosed. However, such records can be redacted to protect the Employees\u2019 privacy interest. To reach a contrary result, the majority deviates from our precedent and creates a new rule.\nANALYSIS\n\u00b628 The primary issue in this case is whether under the Public Records Act (PRA), chapter 42.56 RCW, the identities of the Employees are exempt from disclosure. The majority\u2019s holding that the Employees\u2019 identities are not exempt from disclosure is contrary to our case law. The question presented is resolved by our settled jurisprudence.\n\u00b629 We have construed the PRA as \u201ca strongly worded mandate for broad disclosure of public records.\u201d Hearst Corp. v. Hoppe, 90 Wn.2d 123, 127, 580 P.2d 246 (1978). The PRA protects the public\u2019s right to be informed of agency decisions. RCW 42.56.030. To fully protect the public\u2019s interest, the PRA requires that its provisions be construed liberally and its exemptions be construed narrowly. Id. Unless a record falls within a specific PRA exemption or other statutory exemption, the PRA requires state and local agencies to disclose all public records upon request. RCW 42.56.070(1). If a portion of a record should be redacted or remain undisclosed, \u201can agency shall delete identifying details in a manner consistent with [the PRA] when it makes available or publishes any public record.\u201d Id. The agency must justify each redaction in writing. Id.\n\u00b630 The Employees argue that two of the PRA\u2019s exemptions justify withholding the records in this case: (1) the personal information exemption, RCW 42.56.230(3), and (2) the investigative records exemption, RCW 42.56.240(1). We disagree with the majority\u2019s holding regarding the personal information exemption but agree with the majority\u2019s analysis and decision regarding the investigative records exemption.\nThe Personal Information Exemption\n\u00b631 The PRA exempts from disclosure \u201c[p]ersonal information in files maintained for employees, appointees, or elected officials of any public agency to the extent that disclosure would violate their right to privacy.\u201d RCW 42.56-.230(3). To determine if records constitute personal information exempt from disclosure, we use a three-part inquiry: (1) whether the allegations constitute personal information, (2) whether those claiming that the exemption applies have a right to privacy in their identities, and (3) whether disclosure of the personal information would violate their right to privacy. Bellevue John Does v. Bellevue Sch. Dist. No. 405, 164 Wn.2d 199, 209, 189 P.3d 139 (2008).\n\u00b632 It is undisputed that the leave letter and the spreadsheets that identify the Employees by name constitute personal information. See id. at 211 (\u201cThe teachers\u2019 identities are clearly \u2018personal information\u2019 because they relate to particular people.\u201d); majority at 904. However, personal information is exempt from disclosure only to the extent that disclosure would violate the individual\u2019s right to privacy. Bellevue John Does, 164 Wn.2d at 212.\n\u00b633 The right to privacy is intended to have the same meaning as it was given by this court in Hearst. Id. Hearst, 90 Wn.2d at 135-36, defined the \u201cright to privacy\u201d by looking to the common law tort of invasion of privacy and adopted the definition of \u201cinvasion of privacy\u201d set forth in Restatement (Second) of Torts \u00a7 652D (Am. Law Inst. 1977). According to the Restatement, \u201c \u2018[o]ne who gives publicity to a matter concerning the private life of another is subject to liability to the other for invasion of his privacy, if the matter publicized is of a kind that (a) would be highly offensive to a reasonable person and (b) is not of legitimate concern to the public.\u2019 \u201d Hearst, 90 Wn.2d at 135-36 (quoting Restatement \u00a7 652D).\nA. The Employees Have a Right to Privacy in Their Identities\n\u00b634 While the above definition describes when the right to privacy is violated, it does not define when the right to privacy exists. See Bainbridge Island Police Guild v. City of Puyallup, 172 Wn.2d 398, 412-13, 259 P.3d 190 (2011) (plurality opinion). We have stated that the right to privacy exists in \u201c \u2018matter [s] concerning the private life.\u2019 \u201d Bellevue John Does, 164 Wn.2d at 212 (alteration in original) (internal quotation marks omitted) (quoting Hearst, 90 Wn.2d at 135). We have also noted that there is a right to privacy in unsubstantiated allegations. Morgan v. City of Federal Way, 166 Wn.2d 747, 756, 213 P.3d 596 (2009) (\u201cUnsubstantiated allegations are exempt from disclosure.\u201d).\n\u00b635 In Bellevue John Does we found that if \u201ca complaint regarding misconduct during the course of public employment is substantiated or results in some sort of discipline, an employee does not have a right to privacy in the complaint.\u201d 164 Wn.2d at 215. However, \u201c[a]n unsubstantiated or false accusation of sexual misconduct is not an action taken by an employee in the course of performing public duties.\u201d Id. In Bellevue John Does, public school teachers sought to enjoin their respective school districts from releasing their names in response to a public records request. Id. at 205. The request was for all records relating to allegations of sexual misconduct by teachers in the prior 10 years. Id. at 206. We held that the teachers had a right to privacy in their identities and ordered that the records could be disclosed only if the teachers\u2019 names were redacted. Id. at 215, 227. We noted that the unsubstantiated allegations of sexual misconduct that never resulted in any form of discipline were matters concerning the teachers\u2019 private lives and were not specific instances of misconduct committed while in the course of employment. Id. at 215. In our reasoning we noted that \u201c[t]he fact of the allegation, not the underlying conduct, does not bear on the teacher\u2019s performance or activities as a public servant.\u201d Id. Moreover, we stated that \u201c[t]he mere fact of the allegation of sexual misconduct toward a minor may hold the teacher up to hatred and ridicule in the community, without any evidence that such misconduct ever occurred.\u201d Id.\n\u00b636 In Morgan, a post Bellevue John Does decision, we held that the personal information exemption did not apply to the records at issue. Morgan, 166 Wn.2d at 751-52. In Morgan, the judge argued that a report produced by the investigating attorney was exempt from disclosure because it contained unsubstantiated allegations that were highly offensive. Id. The report alleged that the judge created a hostile work environment by, among other things, angry outbursts and inappropriate gender-based comments. Id. In our reasoning, we first addressed whether the judge\u2019s right to privacy would be violated if the records were disclosed. We found that the allegations against the judge were not as offensive as allegations of sexual misconduct with a minor, like in Bellevue John Does, and would not be highly offensive if disclosed. Next, we stated that contrary to the judge\u2019s assertions, the allegations were not unsubstantiated. Id. The records at issue in Morgan evaluated the credibility of each person who made an allegation and found that the allegations were likely true. Id. We held that the judge did not have a right to privacy in the responsive records. Id.\n\u00b637 Here, the question is whether the Employees, who are the subject of unsubstantiated allegations of misconduct, have a right to privacy in their identities. The administrative leave letter informed that Predisik was placed on administrative leave \u201cpending completion of the District\u2019s investigation into allegations of inappropriate interactions with a former student.\u201d Ex. P-1. The leave slips indicate that the Employees are on leave for \u201c[a]negations currently under investigation.\u201d Exs. P-2, P-3. The documents provided no further information about the allegations or the accusers. Like Bellevue John Does and unlike Morgan, the allegations in the records are unsubstantiated and there is no evidence that the accusations resulted in any form of discipline. Because the allegations were unsubstantiated, they do not bear on the teachers\u2019 performance as public servants and do not inform the public of specific instances of misconduct during the course of employment. Therefore, the Employees have a right to privacy in their identities.\n\u00b638 The majority found that because the records did not disclose \u201csalacious facts,\u201d the records here are not comparable to those examined in Bellevue John Does. Majority at 907. The majority set forth a new rule that requires \u201c[agencies and courts [to] review each responsive record and discern from its four corners whether the record discloses factual allegations that are truly of a private nature.\u201d Id. at 906. Applying this rule, the majority found that the records do not disclose private information about the employees because the records related only to the Employees\u2019 status as public employees. Id. The majority distinguished the \u201cinvestigation itself from the employee\u2019s conduct giving rise to that investigation.\u201d Id. at 905. According to the majority, the fact that the investigation is occurring is not a private matter because it relates to a part of the Employees\u2019 lives that are freely exposed to the public. Id.\n\u00b639 In reaching its conclusion, the majority disregards the fact that in Bellevue John Does we found that unsubstantiated allegations of misconduct are not actions taken by public employees during the course of performing public duties. 164 Wn.2d at 215. Therefore, a public employee\u2019s identity when disclosed in connection with unsubstantiated allegations or evidence of pending investigations is not related to his or her status as a public employee. This principle was derived from past precedent such as Cowles Publishing Co. v. State Patrol, 109 Wn.2d 712, 725, 748 P.2d 597 (1988) (plurality opinion). In Cowles, we noted that the right to privacy is not violated when a complaint about a specific instance of misconduct is substantiated but, where an investigation is pending, disclosure would result in a more intrusive invasion of privacy. The principle was reiterated in Morgan, where we noted that unsubstantiated claims of misconduct are exempt from disclosure. 166 Wn.2d at 756.\nB. Disclosure of the Employees\u2019 Identities Would Violate Their Right to Privacy\n\u00b640 Finding that the Employees have a right to privacy in their identities in connection with unsubstantiated claims of misconduct is not the end of the analysis. We next must consider whether the Employees\u2019 right to privacy would be violated by disclosure. \u201cA person\u2019s \u2018right to privacy\u2019 ... is invaded or violated only if disclosure of information about the person: (1) Would be highly offensive to a reasonable person, and (2) is not of legitimate concern to the public.\u201d RCW 42.56.050.\n1. Highly Offensive\n\u00b641 While our cases do not define the term \u201chighly offensive,\u201d we have addressed whether the disclosure of certain records would be highly offensive in several cases. In these cases we have noted that embarrassment alone is not sufficient for a record to be considered highly offensive. Dawson v. Daly, 120 Wn.2d 782, 797, 845 P.2d 995 (1993). In Bellevue John Does we found that disclosing the identities of teachers accused of sexual misconduct is highly offensive. 164 Wn.2d at 216. Outside the context of sexual misconduct allegations, we have held that disclosure of records that discuss employee performance but that do not discuss specific instances of misconduct, are presumed highly offensive. Dawson, 120 Wn.2d at 797. However, as noted above, in Morgan we found that specific, substantiated allegations of inappropriate behavior and outbursts were not as offensive as allegations of sexual misconduct. 166 Wn.2d at 756.\nf 42 Here, the allegations were of inappropriate behavior with a former student. The spreadsheets also disclosed that both Employees were under investigation for allegations of misconduct. The records, like those in Dawson, did not state specific instances of misconduct but instead disclosed vague allegations. Unlike the allegations in Morgan, the records here did not include facts or credibility findings to substantiate the allegation of inappropriate behavior. As the Court of Appeals noted, unsubstantiated allegations of misconduct, other than sexual misconduct, can subject teachers to the same gossip and ridicule without actual evidence of wrongdoing. Predisik v. Spokane Sch. Dist. No. 81, 179 Wn. App. 513, 520, 319 P.3d 801 (2014) (citing Bellevue John Does, 164 Wn.2d at 220-21). Although the allegations against the Employees were not sexual misconduct with a minor, the disclosure of one\u2019s identity associated with vague allegations and evidence of pending investigations related to one\u2019s profession would be highly offensive to a reasonable person.\n2. Legitimate Public Concern\n\u00b643 Since disclosure would be highly offensive, we must consider if there is a legitimate public concern in the identities of the Employees such that the records must be disclosed. The application of this exemption turns on whether the concern of the public is legitimate. Dawson, 120 Wn.2d at 798. The term \u201clegitimate\u201d in the context of the PRA means \u201c \u2018reasonable.\u2019 \u201d Id. If an allegation is unsubstantiated, the matter is not of public concern. Bellevue John Does, 164 Wn.2d at 221. Here, the public does not have a legitimate interest in the names of teachers who are under investigation for unsubstantiated allegations.\n\u00b644 While there is not a legitimate public concern in the names of the teachers, the public does have a legitimate concern in the leave slip and the spreadsheet. As the Court of Appeals noted, the public has an interest in seeing that a government agency conducts itself fairly and uses funds responsibly. Predisik, 179 Wn. App. at 520.\n\u00b645 In Bellevue John Does, we found that the teachers\u2019 names could be redacted to protect their privacy interests and such redaction would not harm the public oversight of agency conduct. 164 Wn.2d at 221-23 (noting that the identities of those accused of unsubstantiated allegations of misconduct does not aid in effective government oversight by the public). Furthermore, as the Court of Appeals noted, the leave slip and spreadsheets are not highly offensive when the identifying information is redacted. Predisik, 179 Wn. App. at 520. Therefore the records should be disclosed but with the identities of the teachers redacted.\n\u00b646 The majority notes that there is a legitimate public interest in the identities of the Employees. Majority at 907. According to the majority, if we redact or withhold the records, the public would never find out about the investigation until the allegations were substantiated, and the public has a right to know about employees who are not performing their duties. Id. at 908. We generally agree. However, we can uphold both the privacy interest of the Employees and the public\u2019s interest in overseeing government actions by redacting the records. There is no evidence that the Employees were not performing their duties. See Bellevue John Does, 164 Wn.2d at 217 (\u201c \u2018[T]he public as a rule has no legitimate interest in finding out the names of people who have been falsely accused.\u2019 \u201d (quoting Bellevue John Does v. Bellevue Sch. Dist. No. 405, 129 Wn. App. 832, 853, 120 P.3d 616 (2005))). By redacting and releasing the documents, the public could learn of the ongoing investigation and question its effectiveness without violating the privacy of the Employees. See majority at 908.\n3. Redaction Is Sufficient To Protect the Employees\u2019 Privacy Interest\n\u00b647 According to the Employees, the records in their entirety are exempt under the personal information exemption, RCW 42.56.230(3). The Employees contend that redaction is not sufficient to protect their privacy interest in their identities because the public records request specifically asked for records related to Predisik, and therefore the disclosure of records in response to that request necessarily links his identity to the material.\n\u00b648 We have rejected similar arguments. See Koenig v. City of Des Moines, 158 Wn.2d 173, 183-84, 142 P.3d 162 (2006). In Koenig, we held that there is no statutory language or case law to support the argument that we should look beyond the record at issue to determine whether it is exempt from disclosure. Id. at 183. In Koenig, we created a rule that agencies apply exemptions based only on the information the record discloses on its face without regard for the request. This rule creates a uniform disclosure system because it ensures that disclosure will not depend on how the request is made, but on the individual record at issue. Id.\nCONCLUSION\n\u00b649 I would affirm the Court of Appeals. The Employees who are the subjects of unsubstantiated allegations and pending investigations have a right to privacy in their identities. This right is violated if the records at issue are disclosed in their entirety to the public. However, if the identities of the Employees are redacted from the records, the Employees will not have a right to privacy in the records. Therefore, the records should be redacted and released. Because the majority finds that the Employees do not have a right to privacy in their identities and holds that the records at issue be disclosed in their entirety, I respectfully dissent.\nOwens, Wiggins, and Gordon McCloud, JJ., concur, with Fairhurst, J.\nThe Restatement summarizes the right to privacy in comment b to \u00a7 652D, and this comment is cited on page 905 of the majority opinion.\nTo support its reasoning, the majority seems to rely on principles from the dissent in Bellevue John Does. 164 Wn.2d at 234 (Madsen, J., dissenting) (noting that the teachers did not have a right to privacy because the allegations of specific instances of misconduct occurred while the employees were performing their public duties).",
+        "type": "dissent",
+        "author": "Fairhurst, J."
+      }
+    ],
+    "attorneys": [
+      "Tyler M. Hinckley (of Montoya Hinckley PLLC), for petitioners.",
+      "Paul E. Clay and Brian E. Kistler (of Stevens Clay & Manix PS); and Philip J. Buri (of Buri Funston Mumford PLLC), for respondent.",
+      "William J. Crittenden and Patrick D. Brown on behalf of Washington Coalition for Open Government, amicus curiae.",
+      "Margaret Ji Yong Pak, Sarah A. Dunne, and Douglas B. Klunder on behalf of American Civil Liberties Union of Washington, amicus curiae.",
+      "Tyler K. Firkins and Stephanie L. Beach on behalf of Washington Education Association, amicus curiae.",
+      "Ramsey E. Ramerman on behalf of Washington Association of Sheriffs and Police Chiefs, amicus curiae."
+    ],
+    "corrections": "",
+    "head_matter": "[No. 90129-5.\nEn Banc.]\nArgued October 28, 2014.\nDecided April 2, 2015.\nAnthony J. Predisik et al., Petitioners, v. Spokane School District No. 81, Respondent.\nTyler M. Hinckley (of Montoya Hinckley PLLC), for petitioners.\nPaul E. Clay and Brian E. Kistler (of Stevens Clay & Manix PS); and Philip J. Buri (of Buri Funston Mumford PLLC), for respondent.\nWilliam J. Crittenden and Patrick D. Brown on behalf of Washington Coalition for Open Government, amicus curiae.\nMargaret Ji Yong Pak, Sarah A. Dunne, and Douglas B. Klunder on behalf of American Civil Liberties Union of Washington, amicus curiae.\nTyler K. Firkins and Stephanie L. Beach on behalf of Washington Education Association, amicus curiae.\nRamsey E. Ramerman on behalf of Washington Association of Sheriffs and Police Chiefs, amicus curiae."
+  },
+  "file_name": "0896-01",
+  "first_page_order": 932,
+  "last_page_order": 954
+}

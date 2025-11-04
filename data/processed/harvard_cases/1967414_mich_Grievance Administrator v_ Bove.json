@@ -1,0 +1,59 @@
+{
+  "id": 1967414,
+  "name": "Grievance Administrator v. Bove",
+  "name_abbreviation": "Grievance Administrator v. Bove",
+  "decision_date": "1985-03-20",
+  "docket_number": "No. 75511",
+  "first_page": "794",
+  "last_page": "794",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "421 Mich. 1202"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Mich.",
+    "id": 8790,
+    "name": "Michigan Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 49,
+    "name_long": "Michigan",
+    "name": "Mich."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 43,
+    "char_count": 356,
+    "ocr_confidence": 0.722,
+    "sha256": "3fb0f927b61d3cb8a011020842e9034a6b3750382d4245fb2f58559980999e21",
+    "simhash": "1:4fa57302e02f180d",
+    "word_count": 56
+  },
+  "last_updated": "2023-07-14T15:50:33.670399+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Grievance Administrator v Bove,"
+    ],
+    "opinions": [
+      {
+        "text": "Pursuant to MCR 7.302(F)(1), in lieu of granting leave to appeal, the suspension ordered by the Attorney Discipline Board is reduced to 120 days, the Grievance Administrator having conceded that the increase in suspension was not justified under the circumstances of the case.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Suspension Modified March 20, 1985:\nGrievance Administrator v Bove,\nNo. 75511."
+  },
+  "file_name": "0794-14",
+  "first_page_order": 946,
+  "last_page_order": 946
+}

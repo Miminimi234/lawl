@@ -1,0 +1,908 @@
+{
+  "id": 3725982,
+  "name": "UNITED STATES of America, Plaintiff-Appellee, v. Paul H. VOLKMAN, Defendant-Appellant",
+  "name_abbreviation": "United States v. Volkman",
+  "decision_date": "2013-11-21",
+  "docket_number": "No. 12-3212",
+  "first_page": "1013",
+  "last_page": "1032",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "736 F.3d 1013"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "6th Cir.",
+    "id": 8864,
+    "name": "United States Court of Appeals for the Sixth Circuit"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "639 F.3d 265",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        4202078
+      ],
+      "pin_cites": [
+        {
+          "page": "270"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/639/0265-01"
+      ]
+    },
+    {
+      "cite": "111 F.3d 482",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        11912727
+      ],
+      "pin_cites": [
+        {
+          "page": "491"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/111/0482-01"
+      ]
+    },
+    {
+      "cite": "423 U.S. 122",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6175267
+      ],
+      "weight": 3,
+      "year": 1975,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/423/0122-01"
+      ]
+    },
+    {
+      "cite": "21 U.S.C. \u00a7 823",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "(f)",
+          "parenthetical": "detailing the CSA's registration requirements"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "392 Fed.Appx. 362",
+      "category": "reporters:federal",
+      "reporter": "Fed. Appx.",
+      "pin_cites": [
+        {
+          "page": "371"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "198 F.3d 179",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        654168
+      ],
+      "pin_cites": [
+        {
+          "page": "193"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/198/0179-01"
+      ]
+    },
+    {
+      "cite": "583 F.3d 436",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        5756494
+      ],
+      "pin_cites": [
+        {
+          "page": "447"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/583/0436-01"
+      ]
+    },
+    {
+      "cite": "513 F.3d 527",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        3166146
+      ],
+      "weight": 5,
+      "pin_cites": [
+        {
+          "page": "539-40"
+        },
+        {
+          "page": "540",
+          "parenthetical": "citation omitted"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/513/0527-01"
+      ]
+    },
+    {
+      "cite": "370 F.3d 1305",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        9245109
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "parenthetical": "noting that application of the enhancement is \"highly fact-specific and must take into account the totality of the circumstances\""
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/370/1305-01"
+      ]
+    },
+    {
+      "cite": "250 Fed.Appx. 135",
+      "category": "reporters:federal",
+      "reporter": "Fed. Appx.",
+      "pin_cites": [
+        {
+          "page": "138"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "505 Fed.Appx. 478",
+      "category": "reporters:federal",
+      "reporter": "Fed. Appx.",
+      "pin_cites": [
+        {
+          "page": "479-80"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "506 Fed.Appx. 399",
+      "category": "reporters:federal",
+      "reporter": "Fed. Appx.",
+      "pin_cites": [
+        {
+          "page": "399"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "624 F.3d 348",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        3794477
+      ],
+      "pin_cites": [
+        {
+          "page": "350"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/624/0348-01"
+      ]
+    },
+    {
+      "cite": "552 U.S. 38",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        3675664
+      ],
+      "weight": 3,
+      "year": 2007,
+      "pin_cites": [
+        {
+          "page": "51"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/552/0038-01"
+      ]
+    },
+    {
+      "cite": "682 F.3d 502",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        3892563
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "510"
+        },
+        {
+          "page": "510"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/682/0502-01"
+      ]
+    },
+    {
+      "cite": "443 U.S. 307",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6182418
+      ],
+      "weight": 3,
+      "year": 1979,
+      "pin_cites": [
+        {
+          "page": "319"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/443/0307-01"
+      ]
+    },
+    {
+      "cite": "715 F.3d 975",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        6047476
+      ],
+      "pin_cites": [
+        {
+          "page": "979"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/715/0975-01"
+      ]
+    },
+    {
+      "cite": "21 C.F.R. \u00a7 1306.04",
+      "category": "laws:admin_compilation",
+      "reporter": "C.F.R.",
+      "pin_cites": [
+        {
+          "page": "(a)"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "233 Fed.Appx. 524",
+      "category": "reporters:federal",
+      "reporter": "Fed. Appx.",
+      "pin_cites": [
+        {
+          "page": "535-36"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "214 Fed.Appx. 496",
+      "category": "reporters:federal",
+      "reporter": "Fed. Appx.",
+      "pin_cites": [
+        {
+          "page": "501"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "431 F.3d 484",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        1618047
+      ],
+      "pin_cites": [
+        {
+          "page": "507"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/431/0484-01"
+      ]
+    },
+    {
+      "cite": "665 F.3d 684",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        3862637
+      ],
+      "pin_cites": [
+        {
+          "page": "692"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/665/0684-01"
+      ]
+    },
+    {
+      "cite": "357 F.3d 560",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        9058792
+      ],
+      "pin_cites": [
+        {
+          "page": "573"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/357/0560-01"
+      ]
+    },
+    {
+      "cite": "495 F.3d 259",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        3562370
+      ],
+      "pin_cites": [
+        {
+          "page": "265"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/495/0259-01"
+      ]
+    },
+    {
+      "cite": "507 F.3d 424",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        6046018
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "432"
+        },
+        {
+          "page": "432",
+          "parenthetical": "quotation omitted"
+        },
+        {
+          "parenthetical": "quotation omitted"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/507/0424-01"
+      ]
+    },
+    {
+      "cite": "21 U.S.C. \u00a7 846",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "702 F.3d 886",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        6048099
+      ],
+      "pin_cites": [
+        {
+          "page": "891"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/702/0886-01"
+      ]
+    },
+    {
+      "cite": "703 F.3d 856",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        3649491
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "882"
+        },
+        {
+          "parenthetical": "quotation omitted"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/703/0856-01"
+      ]
+    },
+    {
+      "cite": "704 F.3d 1287",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        3653657
+      ],
+      "weight": 4,
+      "pin_cites": [
+        {
+          "page": "1294"
+        },
+        {
+          "page": "1294"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/704/1287-01"
+      ]
+    },
+    {
+      "cite": "538 F.3d 693",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        4127363
+      ],
+      "weight": 8,
+      "pin_cites": [
+        {
+          "page": "697"
+        },
+        {
+          "page": "698"
+        },
+        {
+          "parenthetical": "emphasis added"
+        },
+        {
+          "page": "699"
+        },
+        {
+          "page": "698"
+        },
+        {
+          "page": "699"
+        },
+        {
+          "page": "698"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/538/0693-01"
+      ]
+    },
+    {
+      "cite": "25 F.3d 1342",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        10516050
+      ],
+      "pin_cites": [
+        {
+          "page": "1353"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/25/1342-01"
+      ]
+    },
+    {
+      "cite": "758 F.2d 147",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        311741
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "150"
+        },
+        {
+          "page": "151"
+        },
+        {
+          "page": "151"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/758/0147-01"
+      ]
+    },
+    {
+      "cite": "694 F.3d 623",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        3523507
+      ],
+      "pin_cites": [
+        {
+          "page": "631"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/694/0623-01"
+      ]
+    },
+    {
+      "cite": "563 F.3d 171",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        4237379
+      ],
+      "pin_cites": [
+        {
+          "page": "176"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/563/0171-01"
+      ]
+    },
+    {
+      "cite": "527 F.3d 517",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        3566796
+      ],
+      "pin_cites": [
+        {
+          "page": "528"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/527/0517-01"
+      ]
+    },
+    {
+      "cite": "984 F.2d 705",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        10515801
+      ],
+      "pin_cites": [
+        {
+          "page": "713"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/984/0705-01"
+      ]
+    },
+    {
+      "cite": "584 F.2d 773",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        849718
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "784"
+        },
+        {
+          "page": "784"
+        },
+        {
+          "page": "784"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/584/0773-01"
+      ]
+    },
+    {
+      "cite": "175 L.Ed.2d 44",
+      "category": "reporters:federal",
+      "reporter": "L. Ed. 2d",
+      "year": 2009,
+      "opinion_index": 0
+    },
+    {
+      "cite": "130 S.Ct. 54",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "year": 2009,
+      "opinion_index": 0
+    },
+    {
+      "cite": "558 U.S. 829",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "year": 2009,
+      "opinion_index": 0
+    },
+    {
+      "cite": "550 F.3d 382",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        5742446
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "397"
+        },
+        {
+          "page": "397"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/550/0382-01"
+      ]
+    },
+    {
+      "cite": "603 F.3d 530",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        4228071
+      ],
+      "weight": 6,
+      "pin_cites": [
+        {
+          "page": "533"
+        },
+        {
+          "page": "533-34"
+        },
+        {
+          "page": "535"
+        },
+        {
+          "page": "535"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/603/0530-01"
+      ]
+    },
+    {
+      "cite": "590 F.3d 1095",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        3503982
+      ],
+      "weight": 4,
+      "pin_cites": [
+        {
+          "page": "1100"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/590/1095-01"
+      ]
+    },
+    {
+      "cite": "415 F.3d 537",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        8946678
+      ],
+      "pin_cites": [
+        {
+          "page": "553"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/415/0537-01"
+      ]
+    },
+    {
+      "cite": "651 F.3d 578",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        3755236
+      ],
+      "pin_cites": [
+        {
+          "page": "589"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/651/0578-01"
+      ]
+    },
+    {
+      "cite": "546 U.S. 243",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        5947683
+      ],
+      "weight": 7,
+      "year": 2006,
+      "pin_cites": [
+        {
+          "page": "269-70"
+        },
+        {
+          "page": "270"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/546/0243-01"
+      ]
+    },
+    {
+      "cite": "18 U.S.C. \u00a7\u00a7 924",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "pin_cites": [
+        {
+          "page": "(c)(1) and (2)"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "21 U.S.C. \u00a7 856",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "pin_cites": [
+        {
+          "page": "(a)(1)"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "21 U.S.C. \u00a7 841",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "weight": 4,
+      "pin_cites": [
+        {
+          "page": "(a)(1)",
+          "parenthetical": "the Controlled Substances Act or \"CSA\""
+        },
+        {
+          "page": "(a)(1)"
+        },
+        {
+          "page": "(a)(1)"
+        },
+        {
+          "page": "(b)(1)(C)"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "567 F.3d 215",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        3651330
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "217"
+        },
+        {
+          "page": "217"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/567/0215-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 2021,
+    "char_count": 54162,
+    "ocr_confidence": 0.667,
+    "pagerank": {
+      "raw": 1.7227411365665894e-07,
+      "percentile": 0.7041879661710007
+    },
+    "sha256": "48869d4b3653ec0ea41f5a3bd4bf693ad260258d3ce75791b3001eb1556fda2d",
+    "simhash": "1:bafaaa04aa3be22b",
+    "word_count": 8429
+  },
+  "last_updated": "2024-02-27T16:55:59.249303+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before: McKEAGUE and DONALD, Circuit Judges; LAWSON, District Judge."
+    ],
+    "parties": [
+      "UNITED STATES of America, Plaintiff-Appellee, v. Paul H. VOLKMAN, Defendant-Appellant."
+    ],
+    "opinions": [
+      {
+        "text": "OPINION\nBERNICE BOUIE DONALD, Circuit Judge.\nWhen a doctor first enters the practice of medicine, he or she swears to abide by a prime directive of the profession: \u201cFirst, do no harm.\u201d Paul Volkman breached this sacrosanct tenet when he prescribed narcotics to addicts and individuals with physical, mental, and psychological frailties. A federal jury looked at Volkman\u2019s actions and found him guilty of breaking several laws, chief among them the law prohibiting the unlawful distribution of controlled substances. After receiving the jury\u2019s verdict, the district court sentenced Volkman to four consecutive terms of life imprisonment, to be served concurrently with a number of less-lengthy terms.\nVolkman now appeals, contending that several errors arose throughout the course of his trial and sentencing. We disagree, and we AFFIRM Volkman\u2019s convictions and sentence.\nI.\nPaul Volkman is a former doctor who cast himself as a \u201cpain management physician.\u201d Educated at the University of Chicago, Volkman holds an M.D. and Ph.D. in pharmacology from that institution. See Volkman v. United States Drug Enforcement Admin., 567 F.3d 215, 217 (6th Cir.2009). Before the events leading up to his conviction, he was board-certified in emergency medicine and was a \u201cdiplomat\u201d of the American Academy of Pain Management.\nDespite his professional pedigree, Volk-man fell into hard times in 2003. He had been sued on several occasions, settling some cases and losing others. See Volk-man, 567 F.3d at 217. By the time his legal woes were over, he had no malpractice insurance and no job.\nAs part of his effort to rectify the latter, Volkman called Denise Huffman at the Tri-State Health Care clinic, asking about job opportunities. Eventually, Denise hired him to provide the clinic\u2019s medical services. They agreed that Volkman\u2019s salary would be $5,000 per week \u2014 eventually, the amount was upped to $5,500 per week.\nTri-State operated as a cash-only clinic. Pain medication was its bread and butter. At its peak, Tri-State and its staff saw an average of eighteen to twenty patients a day.\nVolkman worked without incident during his first few months at the clinic. But approximately six months into the job, his practice encountered a major hiccup \u2014 local pharmacies refused to fill the clinic\u2019s prescriptions, citing concerns of improper dosing. Volkman\u2019s solution? Open a dispensary in the clinic. Volkman asked Denise\u2019s daughter, Alice Huffman Ball, to research the process for obtaining a license to operate a dispensary. Denise objected and raised concerns, but Volkman assured her that \u201che was a doctor[,] so he could dispense his own medication and he could take care of everything.\u201d\nVolkman submitted to the Ohio Board of Pharmacy an application for a license to distribute controlled substances. Board representatives conducted an inspection of the clinic grounds, during the course of which they found a Glock in the safe where the drugs were stored. Despite this discovery, the Board issued a license after its initial inspection.\nAgents from the Board conducted a follow-up inspection in December 2003. This time, they saw several problems with the new dispensary\u2019s practices. For instance, the dispensary logs were sloppily maintained; Volkman provided little oversight over recordkeeping processes. No licensed physician or pharmacist oversaw the actual dispensing process. Patients returned unmarked and intermixed medication.\nBy February 2004, the clinic took adequate measures to ameliorate the Board\u2019s administrative concerns. But the clinic still had its problems. Volkman was in charge of the dispensary, but did a poor job of regulating access \u2014 the drug safe\u2019s security was porous, with unauthorized personnel regularly accessing the pharmaceutical stockpile contained inside. Despite these issues, the dispensary saw much activity \u2014 it purchased 135,900 dosage units of oxycodone between July and December 2003, 457,100 dosage units for the entirety of 2004, and 414,200 dosage units between January and September 2005.\nIt eventually became clear that Volk-man\u2019s medical practice followed a' questionable pattern. Drug addicts, drug peddlers, or individuals otherwise not complaining of pain would come to see him as his \u201cpatients.\u201d Very little was done in terms of taking medical histories or conducting physical examinations. Volkman would regularly prescribe a drug cocktail consisting of opiates (such as oxycodone and hydrocone) as well as sedatives (diazepam, alprazolam, and cari-soprodol; more commonly referred to as Valium, Xanax, and Soma). He had a tendency of first resorting to narcotics, disregarding first lines of treatment for pain management such as non-steroidal anti-inflammatory drugs (NSAIDs).\nA federal investigation of Tri-State led to a search of the clinic facility on June 7, 2005. Medical personnel accompanying the investigative team saw that the clinic was in utter disarray. Urine specimen cups, filled with urine, were scattered all over the floor. The clinic had no equipment to view X-rays and MRI results. Miscellaneous pills were strewn all throughout the clinic premises.\nThree months after the investigation, Denise terminated Volkman\u2019s employment because she \u201ccould no longer get along with him\u201d and because there was \u201cno control.\u201d In her words, \u201cDr. Volkman did what Dr. Volkman wanted to do.\u201d Volk-man decided to open his own shop in Ohio \u2014 first in Portsmouth, and later in Chillicothe.\nTwelve of Volkman\u2019s patients died during his tenure at Tri-State and during the early months of his new practice. Kristi Ross, Steve Hieneman, Bryan Brigner, and Earnest Ratcliff were four of these patients.\nA grand jury returned an indictment against Volkman, Denise, and Alice, charging them with one count of conspiring to unlawfully distribute a controlled substance in violation of 21 U.S.C. \u00a7 841(a)(1) (the Controlled Substances Act or \u201cCSA\u201d), two counts of maintaining a drug-involved premises in violation of 21 U.S.C. \u00a7 856(a)(1), eight counts of unlawful distribution of a controlled substance leading to death in violation of 21 U.S.C. \u00a7\u00a7 841(a)(1) and 841(b)(1)(C), and four counts of possession of a firearm in furtherance of a drug-trafficking crime in violation of 18 U.S.C. \u00a7\u00a7 924(c)(1) and (2). Volkman was charged separately with five additional counts of unlawful distribution of a controlled substance leading to death, as well as two additional counts of maintaining a drug-involved premises. His co-defendants, Denise and Alice, entered into plea agreements with the Government and testified against their former colleague.\nAfter a thirty-five-day trial, a jury convicted Volkman on the lone conspiracy count, seven counts of unlawful distribution that did not lead to death, four counts of unlawful distribution leading to death, four counts of maintaining a drug-involved premises, and one count of possessing a firearm in furtherance of a drug-trafficking offense. The jury acquitted him on one count of unlawful distribution, as well as one count of possessing a firearm in furtherance of a drug-trafficking offense.\nThe district court sentenced Volkman to four consecutive terms of life imprisonment for the counts of unlawful distribution leading to death, to be served concurrently with a sentence of 240 months for the counts of conspiracy and unlawful distribution not leading to death, 120 months for the drug-related premises counts, and 60 months for the firearm count, followed by three years of supervised release. Volkman timely appealed.\nII.\nVolkman divides his argument into four parts. He first argues that the district court erred by denying a proposed jury instruction derived from the Supreme Court\u2019s decision in Gonzales v. Oregon, 546 U.S. 243, 126 S.Ct. 904, 163 L.Ed.2d 748 (2006). Next, he contends that the Government\u2019s expert witnesses improperly provided legal conclusions as to whether Volkman\u2019s actions had a \u201clegitimate medical purpose.\u201d Third, he claims that there was insufficient evidence to support the jury\u2019s guilty verdict on several charges. Finally, he challenges the reasonableness of his sentence on numerous grounds.\nFirst, we turn to Volkman\u2019s jury-instruction argument. We review a denial of a proposed jury instruction for an abuse of discretion. United States v. Theunick, 651 F.3d 578, 589 (6th Cir.2011). Under this standard of review, we may reverse a district court\u2019s denial only if the proposed instruction \u201cis (1) a correct statement of the law, (2) not substantially covered by the charge actually delivered to the jury, and (3) concerns a point so important in the trial that the failure to give it substantially impairs the defendant\u2019s defense.\u201d United States v. Franklin, 415 F.3d 537, 553 (6th Cir.2005) (citation and quotation marks omitted).\nVolkman sought to have the following language included in the jury charge: \u201cIn other words, in order to find the defendant guilty, you must find that he used his prescription-writing power as a means to engage in the illicit drug-dealing and trafficking as conventionally understood.\u201d As we previously noted above, this language comes directly from the Supreme Court\u2019s decision in Gonzales. See 546 U.S. at 269-70, 126 S.Ct. 904. Accordingly, Volkman contends that the proposed language \u2014 copied verbatim from Gonzales \u2014 reflected a correct statement of the law that should have been included in the district court\u2019s instructions to the jury.\nVerbatim, however, does not necessarily mean correct. Context is critical, and in the present context of federal criminal law, Gonzales provides us with little guidance.\nWe join our sister circuits in making this observation. In United States v. Lovern, 590 F.3d 1095 (10th Cir.2009), the Tenth Circuit commented on Gonzales\u2019 relevance \u2014 or lack thereof \u2014 -in the setting of a criminal prosecution. The court explained that Gonzales dealt only with the question of the Attorney General\u2019s ability to define \u201clegitimate medical purpose\u201d in light of state medical standards to the contrary. See id. at 1100. Gonzales was decided in the setting of administrative law, not criminal law. In the court\u2019s view, Gonzales was not relevant to the criminal prosecution at issue in Lovem because there was \u201cno interpretive rule seeking to define a practice as lacking any legitimate medical purpose, let alone a rule that confliet[ed] with a state\u2019s assessment of the legitimacy of that practice.\u201d Id. Instead, the Lovem court noted that the Government properly sought to prove the lack of a legitimate medical purpose by evidentiary means, leaving the question of what constitutes \u201cthe usual course of professional practice\u201d for a jury to sort out. See id.\nThe Eighth Circuit made similar observations in United States v. Kanner, 603 F.3d 530 (8th Cir.2010), where it adopted and expanded upon the Tenth Circuit\u2019s reasoning. There, a defendant argued that the indictment should have included the same language from Gonzales that Volkman relies upon now. Id. at 533. The Kanner court rejected the defendant\u2019s argument by quoting the Lovem decision. Id. at 533-34. It added to the Lovem court\u2019s conclusions by noting that \u201cGonzales did not supplant the standard for violations of the CSA.\u201d Id. at 535. \u201cRather, post-Gonzales, knowingly distributing prescriptions outside the course of professional practice is a sufficient condition to convict a defendant under the criminal statutes relating to controlled substances.\u201d Id. (quoting United States v. Armstrong, 550 F.3d 382, 397 (5th Cir.2008), cert. denied, 558 U.S. 829, 130 S.Ct. 54, 175 L.Ed.2d 44 (2009)).\nAs our sister circuits have suggested, Gonzales did not impose new requirements to prove a violation of the CSA. Instead, the statement that Volkman now quotes was merely part of the Court\u2019s commentary about statutory intent, federalism, and rulemaking authority \u2014 none of which is at issue here. See Gonzales, 546 U.S. at 270, 126 S.Ct. 904.\nIn the past, we have endorsed a broad approach to determining what conduct falls outside the accepted bounds of professional practice so as to constitute a CSA violation, eschewing a preestablished list of prohibited acts in favor of a case-by-case approach. See United States v. Kirk, 584 F.2d 773, 784 (6th Cir.1978). Simply put, Volkman\u2019s proposed instruction would have needlessly narrowed the scope of the jury\u2019s inquiry to a question of whether Volkman engaged in \u201cconventional\u201d drug dealing and trafficking by using his prescription power. By narrowing the scope of the jury\u2019s deliberation in such a manner, Volkman\u2019s instruction would have been inconsistent with our endorsement of the broad approach, improperly cabining a decision that is properly left to the jury.\nMoreover, the district court raised fair questions about the nebulousness of the proposed instruction. What does it mean for drug dealing and trafficking to be \u201cconventionally understood\u201d? If Volkman\u2019s goal was to conjure up the unsavory specter of \u201cstreet\u201d drug dealing \u2014 complete with imagery of shady characters conducting quick, suspicious handoffs \u2014 then his instruction was not an accurate statement of the law, for \u201cstreet\u201d drug dealing is not necessary to prove a violation of the CSA. It is not difficult to see, however, how a lay juror might think that proof of such \u201cstreet dealing\u201d was necessary for conviction under Volkman\u2019s proposed standard. In that respect, we agree with the district court that the instruction would have \u201cmuddied the waters,\u201d thereby providing an inaccurate statement of the law.\nGonzales did nothing to alter the reality that \u201c \u2018knowingly distributing prescriptions outside the course of professional practice is a sufficient condition to convict a defendant under the criminal statutes relating to controlled substances.\u2019 \u201d Kanner, 603 F.3d at 535 (quoting Armstrong, 550 F.3d at 397). Volkman\u2019s proposed jury instruction improperly would have cabined the scope of what the jury could consider, thereby providing an inaccurate statement of law. Therefore, the district court correctly denied Volkman\u2019s request.\nOur decision to uphold the district court\u2019s denial is reinforced by the second prong of our review: whether the jury charge issued by the district court substantially covered what Volkman sought to convey by his proposed instruction. We conclude that the jury charge was not only adequate, but an example of model instructions for cases such as this one.\nAfter reviewing the elements of a \u00a7 841(a)(1) offense and the meaning of certain terms such as \u201cdistribute,\u201d \u201cdispense,\u201d and \u201cpractitioner,\u201d the district court provided a lay explanation of the contours of the crime. It stated:\nNo one can avoid responsibility for a crime by deliberately ignoring the obvious. If you are convinced that the defendant deliberately ignored a high probability that the controlled substances as alleged in these counts were distributed or dispensed outside of the course of the professional practice and not for a legitimate medical purpose, then you may find that the defendant knew that this was the case.\n(DE 482, PagelD 8588-89.) Next, the court elaborated on the burden of proof:\nBut you must be convinced beyond a reasonable doubt that the defendant was aware of a high probability that the controlled substances were distributed or dispensed outside the course of professional practice and not for a legitimate medical purpose, and that the defendant deliberately closed his eyes to what was obvious. Carelessness or negligence or foolishness on his part are not the same as knowledge and are not enough to find him guilty on any of these counts. This of course is all for you to decide.\n(DE 482, PagelD 8589.) After explaining the textbook definition of \u201cusual course of professional practice,\u201d the trial court connected the definition to the instant case:\nA physician\u2019s own individual treatment methods do not, by themselves, establish what constitutes a \u201cusual course of professional practice.\u201d In making medical judgments concerning the appropriate treatment for an individual, however, physicians have discretion to choose among a wide range of available options.\nIt\u2019s the theory of the defense that the Doctor Volkman, Doctor Paul H. Volk-man, treated his patients in good faith. If a physician dispenses a drug in good faith in the course of medically treating a patient, then the doctor has dispensed the drug for a legitimate medical purpose in the usual course of accepted medical practice. That is, he has dispensed the drug lawfully.\n\u201cGood faith\u201d in this context means good intentions and an honest exercise of professional judgment as to a patient\u2019s medical needs. It means that the defendant acted in accordance with what he reasonably believed to be proper medical practice.\nIn considering whether the defendant acted with a legitimate medical purpose in the course of usual professional practice, you should consider all of the defendant\u2019s actions and the circumstances surrounding them.\nThe defendant does not have to prove to you that he acted in good faith; rather, the burden of proof is on the government to prove to you beyond a reasonable doubt that the defendant acted without a legitimate medical purpose outside the course of usual professional practice.\n(DE 482, PagelD 8589-90 (emphasis added).) The court capped off its explanation with a discussion about the standard of care:\nYou\u2019ve heard the phrase \u201cstandard of care\u201d used during the trial by several witnesses. When you go to see a doctor as a patient, the doctor must treat you in a manner that meets the applicable standard of care that physicians of similar training would have given to you under the same circumstances. If a doctor fails to provide you with that care, the doctor may be found neglect [sic] in a civil lawsuit.\nThis case is not about whether the defendant acted negligently or whether he committed malpractice. Rather, in order for you to find the defendant guilty, you must find that the government has proved to you beyond a reasonable doubt that the defendant\u2019s action was not for a legitimate medical purpose in the usual course of professional practice.\n(DE 482, PagelD 8590-91.)\nWe conclude that these instructions amply and accurately conveyed the meaning of \u201clegitimate medical purpose\u201d to the jury \u2014 the ultimate purpose of Volkman\u2019s proposed instruction. Not only were these instructions adequate to allay Volkman\u2019s concerns, they served as a model of clarity and comprehensiveness in defining the unlawful-distribution offense for a case involving a so-called \u201cpill mill\u201d doctor. The district court\u2019s instructions appropriately defined the contours of the offense without unduly cabining the jury\u2019s ability to consider a broad swath of evidence in determining whether Volkman\u2019s conduct had no legitimate medical purpose. See United States v. August, 984 F.2d 705, 713 (6th Cir.1992) (\u201cThere are no specific guidelines concerning what is required to support a conclusion that an accused acted outside the usual course of professional practice.\u201d). Hence, the district court properly rejected Volkman\u2019s proposed instruction.\nIII.\nNext, we address Volkman\u2019s argument that the district court improperly admitted expert testimony containing a legal conclusion. We review a district court\u2019s admission of expert testimony for an abuse of discretion. In re Scrap Metal Antitrust Litig., 527 F.3d 517, 528 (6th Cir.2008). The evidentiary admission must be upheld unless the district court \u201cbase[d] its ruling on an erroneous view of the law or a clearly erroneous assessment of the evidence.\u201d Best v. Lowe\u2019s Home Ctrs., Inc., 563 F.3d 171, 176 (6th Cir.2009) (quotation omitted).\nWe accord district courts a \u201cwide, but not unlimited, degree of discretion in admitting or excluding testimony [that] arguably contains a legal conclusion.\u201d United States v. Nixon, 694 F.3d 623, 631 (6th Cir.2012) (quoting Torres v. Cnty. of Oakland, 758 F.2d 147, 150 (6th Cir.1985)) (internal quotation marks omitted). A witness\u2019s testimony contains a legal conclusion only if \u201cthe terms used by the witness have a separate, distinct and specialized meaning in the law different from that present in the vernacular.\u201d Torres, 758 F.2d at 151. An expert may not opine on the overarching question of guilt or innocence, but he or she may \u201cstat[e] opinions that suggest the answer to the ultimate issue or that give the jury all the information from which it can draw inferences as to the ultimate issue.\u201d Berry v. City of Detroit, 25 F.3d 1342, 1353 (6th Cir.1994).\nHere, the controverted expert testimony followed a pattern. First, the Government would ask its expert witnesses about Volk-man\u2019s history with a particular patient. After some back-and-forth about a patient\u2019s condition and the prescriptions Volkman dispensed, the Government would ask the expert whether he or she had an opinion as to whether the prescriptions fell within the scope of legitimate medical practice. The answer was typically no. Consider, for example, this exchange between the prosecution and Dr. Douglas Kennedy:\nQ. Doctor, do you have an opinion as to whether or not the prescriptions received from Dr. Volkman by Mr. Ratcliff back on October 21, 2005 were written within the scope of legitimate medical practice?\nA. Absolutely not. They were not written for any legitimate medical purpose.\nVolkman asserts that this type of testimony constituted an improper legal conclusion.\nWe disagree, and join at least two of our sister circuits in doing so. The Seventh Circuit\u2019s decision in United States v. Chube II, 538 F.3d 693 (7th Cir.2008), is particularly persuasive. There, two doctors were convicted of unlawfully distributing controlled substances. The Government introduced testimony by experts who concluded that the doctors\u2019 prescription practices did not conform to the \u201cusual standards of medical practice\u201d and were devoid of a \u201clegitimate medical purpose.\u201d Id. at 697. A typical colloquy between the Government and an expert went something like this:\nQ. [by the prosecution]: Doctor, would you like me to repeat the question?\nTHE WITNESS: I believe I recall it pretty well.... It is never appropriate to write a prescription for the spouse of a patient when that prescription is intended for the patient; even more so when it\u2019s a Schedule II narcotic.... It\u2019s not consistent with the usual course of medical practice.\nQ. And that would not be for a legitimate medical purpose, correct?\nA. Correct.\nId. at 698. The court explained that \u201cwhat the jury heard was ... an opinion from the expert that no legitimate medical purpose existed for the prescription in question.\u201d Id. (emphasis added). It concluded that the district court did not abuse its discretion in allowing such testimony. Id. at 699. The Seventh Circuit was motivated by a practical consideration: it observed that \u201cit is impossible sensibly to discuss the question whether a physician was acting outside the usual course of professional practice and without a legitimate medical purpose without mentioning the usual standard of care.\u201d Id. at 698.\nIn United States v. Schneider, 704 F.3d 1287 (10th Cir.2013), the Tenth Circuit arrived at a similar conclusion. That case involved two doctors who were convicted of unlawful drug distribution and health care fraud. The Government relied on experts who testified that one of the defendants \u201cprescribed controlled substances \u2018for other than legitimate medical purposes.\u2019 \u201d Id. at 1294. Although the defendants challenged the admission of this testimony, their arguments were unavailing. After observing that an \u201cultimate-issue\u201d concern only arises when \u201can expert uses a specialized legal term and usurps the jury\u2019s function,\u201d the Tenth Circuit concluded that the experts\u2019 use of the phrase \u201cother than legitimate medical purposes\u201d posed no issue. Id.\nMuch like the Government\u2019s experts in Chube II, the experts in this case merely provided opinions suggesting that Volkman had no legitimate medical purpose for issuing a particular prescription to a specific patient. See Chube II, 538 F.3d at 699. Certainly, there is the legal question of whether a prescription had a \u201clegitimate medical purpose,\u201d but the question is hardly answered in isolation. Rather, the \u201clay\u201d or, as we have previously described it, \u201cvernacular\u201d understanding of the phrase \u2014 i.e., the phrase as used in medical parlance \u2014 naturally informs the legal question. See id. at 698. Therefore, the legal understanding of the phrase \u201clegitimate medical purpose\u201d does not carry with it a \u201cseparate, distinct and specialized meaning\u201d from its medical counterpart; instead, one elucidates the other. See Torres, 758 F.2d at 151; see also Schneider, 704 F.3d at 1294. We discern no error in the district court\u2019s admission of the expert colloquies that ended with the conclusion that certain prescriptions had no \u201clegitimate medical purpose.\u201d\nTwo exchanges, however, are worthy of separate discussion. Dr. Steven Severyn and an area pharmacist, Mark Carroll, provided a medical-purpose conclusion on the stand, despite not having been asked about a particular individual\u2019s prescriptions. But even then, the questions were appropriately limited to the standard of care and the evaluation of certain drug combinations or drug quantities. Nothing in the record suggests that the two experts sought to usurp the jury\u2019s function by drawing a legal conclusion; instead, both experts applied their understanding of the standard-of-care to a limited sample of facts. Accordingly, no error lies in the admission of their, testimony.\nIV.\nAt the' heart of Volkman\u2019s appeal lies six sufficiency-of-the-evidence challenges. He contends that there was insufficient evidence for the jury to convict him on the conspiracy and firearm charges; in addition, he argues that there was insufficient evidence to convict him of the drug-induced deaths of Kristi Ross, Steven Craig Hieneman, Bryan Brigner, and Earnest Ratcliff.\nIn reviewing these convictions, we ask whether, \u201cafter construing the evidence in favor of the Government, no rational trier of fact could have found the essential elements of a crime beyond a reasonable doubt.\u201d United States v. Ross, 703 F.3d 856, 882 (6th Cir.2012). The standard is a \u201csteep climb,\u201d id. (quotation omitted), and circumstantial evidence alone can defeat a sufficiency challenge, United States v. Washington, 702 F.3d 886, 891 (6th Cir.2012).\nA.\nWe start with Volkman\u2019s conviction under 21 U.S.C. \u00a7 846 \u2014 the conspiracy charge. To satisfy the statute\u2019s requirements, \u201cthe government must prove the existence of an agreement to violate the drug laws and that each conspirator knew of, intended to join, and participated in the conspiracy.\u201d United States v. Conrad, 507 F.3d 424, 432 (6th Cir.2007) (quotation omitted). \u201cThe connection between the defendant and the conspiracy need only be slight,\u201d United States v. Craft, 495 F.3d 259, 265 (6th Cir.2007) (quoting United States v. Crayton, 357 F.3d 560, 573 (6th Cir.2004)), and a \u201cconspiracy may be inferred from circumstantial evidence which may reasonably be interpreted as participation in a common plan,\u201d Conrad, 507 F.3d at 432 (quotation omitted). In addition, \u201c[a] tacit or material understanding among the parties to a conspiracy is sufficient to establish the agreement.\u201d Id. (quotation omitted).\nVolkman claims that he had no knowledge of the conspiracy\u2019s \u201cmain purpose\u201d\u2014 \u201cto make as much money as possible by distributing and dispensing controlled substances.\u201d Instead, he asserts that he was hired with the sole understanding that he would be serving as a pain management physician. The clinic was, in the ex-doctor\u2019s view, a legitimate medical operation\u2014 complete with in-house and hospital drug screens, pill counts, and in-clinic monitoring of patients. According to Volkman, an illicit, drug-based profit motive did not fit into the big picture.\nHis recollection of events, however, turns a blind eye to quite a bit of evidence \u2014 evidence that supports his conspiracy conviction. The conspiratorial relationship began when Denise hired Volkman and paid him $5,500 per week in exchange for seeing those who wanted pain medication. . There was evidence to suggest that, by the time area physicians began refusing to fill Volkman\u2019s prescriptions, the purported members of the conspiracy \u2014 Denise, Alice, ' and Volk-man \u2014 were aware of the reality that the prescriptions from their clinic had no legitimate medical purpose. Instead of rectifying the pharmacists\u2019 issues with Volkman\u2019s prescriptions, the trio exacerbated the problem by continuing to issue prescriptions, cutting out the middleman, and opening their own dispensary. This, by itself, was enough for a jury to find that the trio executed a plan to unlawfully distribute controlled substances with no legitimate medical purpose.'\nAnd contrary to his assertions, there was sufficient evidence to show that Volk-man was hardly the blissfully-ignorant doctor he now makes himself out to be. A rational trier of fact could have easily concluded that the entire enterprise of dispensing pills straight from the clinic was Volkman\u2019s brainchild. That same trier of fact could have determined it was highly unlikely that Volkman \u2014 a man who prided himself on knowing the inner workings of his clinic \u2014 was unaware of the clinic\u2019s profits. All this, combined with Volkman\u2019s role in rubber-stamping the distribution of prescriptions, could have easily persuaded a jury that Volkman knew of and actively participated in the charged conspiracy.\nB.\nThe same holds true for Volkman\u2019s firearm conviction. He argues that there was insufficient evidence to convict him of possessing a firearm in furtherance of a drug-trafficking crime because (1) the Government did not establish possession; and (2) it did not prove that the weapon was used in furtherance of a drug-trafficking offense. We disagree.\nFirst, we address the question of possession. For purposes of the firearms statute, \u201c[c]onstructive possession is established when a defendant \u2018knowingly has the power, and the intention at a given time to exercise dominion and control over an object, either directly or through others.\u2019 \u201d United States v. Kelsor, 665 F.3d 684, 692 (6th Cir.2011) (quoting United States v. Hadley, 431 F.3d 484, 507 (6th Cir.2005)). Here, there was evidence showing that Alice\u2019s father placed the gun in the safe containing the drugs \u201cfor security purposes.\u201d Volkman had access to the safe. The record also reveals that he had concerns about personal security, giving him a reason to use the gun should the need arise. Video evidence confirms that the Glock was in the safe in 2005; Volkman was still working at the clinic at the time. This was sufficient for a rational trier of fact to conclude that Volkman constructively possessed the firearm for which he was indicted and convicted.\nBut that does not end our inquiry, for Volkman argues that even if he constructively possessed the f\u00edr\u00e9arm, the fact that it was in a locked safe meant that the weapon was not possessed in furtherance of a drug crime, given its immediate inaccessibility. We, however, have concluded otherwise in the past. When a weapon is found in a locked safe placed alongside contraband, there is sufficient evidence for a jury to determine that a defendant is in possession of a firearm in furtherance of a drug-trafficking crime. See United States v. Mendizabal, 214 Fed.Appx. 496, 501 (6th Cir.2006); see also United States v. Cobbs, 233 Fed.Appx. 524, 535-36 (6th Cir.2007) (concluding that there was sufficient evidence for a jury to find that a locked safe with four handguns and crack cocaine nearby the safe constituted possession of a firearm in furtherance of a drug offense). Hence, Volkman\u2019s challenge to his firearm conviction must fail.\nC.\nThe most serious of Volkman\u2019s convictions are the ones for unlawful distribution of a controlled substance leading to death. Volkman contends that a rational trier of fact could not conclude that his prescription practices resulted in the deaths of Kristi Ross, Steve Hieneman, Bryan Brigner, and Earnest Ratcliff.\nA violation of the Controlled Substances Act (CSA) occurs when a physician dispenses or distributes a controlled substance in a manner that is not authorized by law \u2014 i.e., the prescription is issued by a physician without \u201ca legitimate medical purpose by an individual practitioner acting in the usual course of his professional practice.\u201d Kirk, 584 F.2d at 784 (quoting 21 C.F.R. \u00a7 1306.04(a)); see also 21 U.S.C. \u00a7 841(a)(1). To determine whether a physician has violated the CSA, the jury may undertake a \u201ccase by case analysis of evidence to determine whether a reasonable inference of guilt may be drawn from specific facts.\u201d Kirk, 584 F.2d at 784. When a physician violates the CSA in a manner that leads to the death of a patient, there is a mandatory sentence of twenty years to life in prison. See 21 U.S.C. \u00a7 841(b)(1)(C) (2000).\nWith respect to the deaths of the four individuals, there was sufficient evidence for a jury to conclude that (1) Volkman issued a prescription; (2) that had no legitimate medical purpose; (3) which resulted in death. Thus, the-Government satisfied its burden of proof under the CSA. While Volkman tries to dispute some aspect of each conviction, we are unpersuaded by his arguments.\n1.\nFirst, we have Kristi Ross. On March 8, 2004, Ross \u2014 an obese, 39-year-old woman \u2014 came into Volkman\u2019s office, complaining of low back pain, cervical myalgia, and hypertension. Her pending divorce and her husband\u2019s efforts to take custody of their daughter compounded her stress. Volkman prescribed a cocktail of Soma (carisoprodol), Lorcet (hydrocodone), oxy-codone, and Xanax (alprazolam).\nRoss, however, suffered from a number of risk factors. In addition to her hypertension and obesity, she potentially suffered from sleep apnea, as well as some form of lung disorder. In other words, she was already at risk of breathing difficulties, and Volkman\u2019s drug cocktail exposed her to a greater risk of death. A rational trier of fact, relying on expert testimony, could have found that there was no legitimate medical purpose for this combination of drugs.\nOn March 9, 2004 \u2014 a day after her last visit to Volkman \u2014 Ross was found dead, with the very drugs prescribed to her. A toxicology report revealed that, at the time of her death, Ross had benzodiazepines and opiates in her system \u2014 a toxic combination \u201cconsistent with [Volkman\u2019s] prescriptions.\u201d An expert concluded that Ross died of a multi-drug death. The trier of fact had sufficient evidence to conclude that Volkman\u2019s unlawful prescriptions led to Ross\u2019 death, thus justifying the conviction under \u00a7 841(b)(1)(C).\nVolkman takes issue with the accuracy of the post-mortem procedures used on Ross\u2019 body \u2014 specifically, he argues that fluids should have been extracted from Ross\u2019 femoral artery, as opposed to her eye. While this argument may be perfectly valid, we are not in a position to entertain it; it is for the jury to decide which evidence \u2014 scientific or otherwise \u2014 to credit in making its determination. United States v. Washington, 715 F.3d 975, 979 (6th Cir.2018) (citing Jackson v. Virginia, 443 U.S. 307, 319, 99 S.Ct. 2781, 61 L.Ed.2d 560 (1979)). It was well within the jury\u2019s ambit for it to find the methodology behind Ross\u2019 forensics reliable.\n2.\nNext, we have Steven Craig Hieneman. Hieneman was a 33-year-old man with cardiovascular problems. Hieneman had seen Volkman as a patient for quite some time \u2014 the doctor had prescribed oxyco-done in the past, mostly in five-milligram doses. Eventually, these doses of oxyco-done were ramped up to thirty-milligram doses. Hieneman saw Volkman on February 22, 2005, complaining of pain in his wrist, neck, lower back, and shoulder. Hieneman reported that, without medication, he was sleep-deprived, convulsed involuntarily in his hand and shoulder, and his pain was above average.\nThat day, Volkman prescribed Disalcid, Valium (diazepam), and Percocet (oxyco-done) to treat Hieneman\u2019s ailments. On April 19, 2005, Volkman changed Hiene-man\u2019s prescriptions \u2014 he issued prescriptions for Xanax (alprazolam), oxycodone, and Valium (diazepam). The prescriptions, particularly the one for oxycodone, were disturbing in light of the fact that Hieneman had a past addiction to Oxyeon-tin and was battling other forms of substance abuse.\nVolkman knew about Hieneman\u2019s history, yet issued prescriptions for oxycodone. In addition, the doctor knew he was prescribing these drugs to a man with severe hypertension and heart problems associated with drug use. Given these dangers, a rational trier of fact could have concluded \u2014 as one of the Government\u2019s experts did \u2014 that Volkman\u2019s prescription practices with respect to Hieneman were not within the scope of legitimate medical practice.\nIn addition, there was sufficient evidence to draw a causal connection between Hieneman\u2019s prescriptions and his death. Hieneman died twelve hours after receiving his prescriptions from Volkman. Although there was no autopsy, a deputy coroner concluded that Hieneman died an opiate drug-induced death. The signs were all there: Hieneman\u2019s right cheek was blanched, his airways were partly blocked, his eyes were hemorrhaged under the conjunctivae, and he suffered from pulmonary edema. The link to Volkman? Bottles of oxycodone, diazepam, and al-prazolam were found in Hieneman\u2019s home \u2014 i.e., the very drugs Volkman prescribed to Hieneman the day before.\nVolkman argues that those very prescription bottles undermine the case against him: the issuing doctor for one bottle of oxycodone was identified as a Dr. Lance, not Volkman. But there was sufficient evidence for the jury to discredit the theory that it was Lance, and not Volk-man, who was ultimately responsible for Hieneman\u2019s death.\nFirst, Volkman\u2019s patient notes acknowledged the existence of a Dr. Scott Lance as a prescribing physician for Hieneman, but marked that Lance had prescribed only Valium (diazepam). Relatedly, the notes indicated that Hieneman no longer had any of the medication Lance prescribed for him; it was gone at least a month prior to Hieneman\u2019s February 2005 visit to Volkman\u2019s clinic.\nSecond, while one bottle of oxycodone was labeled as having been prescribed by Dr. Lance, the other bottles found at the scene did not have a prescribing physician listed. Finally, there was a close temporal nexus between Volkman\u2019s issuing of prescriptions and Hieneman\u2019s death; the relevance of this nexus is strengthened by the fact that Hieneman was found dead with the very drugs the doctor prescribed. Therefore, we conclude that the Government provided sufficient causal evidence to link Volkman to Hieneman\u2019s death.\nWe are unpersuaded by Volkman\u2019s argument that Hieneman\u2019s underlying heart condition could have caused his death, irrespective of the drugs he consumed. The jury was free to reject this theory by crediting the testimony of one of the Government\u2019s experts, who concluded that \u201cthere was no notation of clot, no notation of infarct, scar, plaque, hemorrhage or anything like that,\u201d thereby suggesting that coronary disease was not the primary cause of Hieneman\u2019s death. Thus, we conclude that there was sufficient evidence for a rational trier of fact to find that Volkman was responsible for unlawful distribution leading to Hieneman\u2019s death.\n3.\nFollowing Hieneman, we have Bryan Brigner. On August 4, 2005, Brigner came to see Volkman for treatment of his lower back pain. Brigner was disabled and had been on disability benefits for several years. When Volkman spoke with Brigner, Brigner denied having any other health problems. In truth, however, Brig-ner suffered from hypertension and arte-riosclerotic cardiovascular disease.\nWhen the two met that August day, Brigner was already on a regimen of Lor-tab (hydrocodone), oxycodone, Valium (dia-zepam), and Soma (carisoprodol). The ox-ycodone made him sick, so Volkman tried a smaller dose \u2014 but not for long. On September 30, 2005, Volkman prescribed a similar cocktail of Soma (carisoprodol), Valium (diazepam), Disalcid (a non-steroidal anti-inflammatory drug), Lortab (hydroco-done), and a strong dose of oxycodone. The oxycodone prescription was for the same dose that made Brigner sick prior to his August visit.\nThe new cocktail made little sense, especially given Brigner\u2019s underlying cardiac condition \u2014 a condition that weakened his ability to resist opiate toxicity. Volkman\u2019s notes on Brigner were also unhelpful; as one expert noted, it appeared as if there was \u201ca lot of stuff ... but really the basics [weren\u2019t] covered in a useful, functional, medical fashion, just a bunch of stuff that\u2019s thrown up there.\u201d A rational trier of fact could have taken these facts and concluded that Volkman\u2019s prescriptions for Brigner did not bear the hallmarks of having a legitimate medical purpose.\nAs with Ross and Hieneman, Brigner was found dead a couple days after his last visit with Volkman. Two causes of death were listed on the coroner\u2019s report: acute multiple drug intoxication and cardiopulmonary arrest. Brigner\u2019s hypertension and arteriosclerotic cardiovascular disease were reported as contributing factors. A toxicology analysis revealed that Brigner had taken oxycodone, hydrocodone, diazep-am, haloperidol, and Sertraline just prior to his death. The first three \u2014 the drugs prescribed by Volkman \u2014 were enough to kill a person by respiratory depression. Put differently, there was enough for a rational jury to conclude that Volkman\u2019s drug cocktail led to Brigner\u2019s death.\nDespite this evidence, Volkman attacks his conviction on three evidentiary grounds. First, he claims that if Brigner had taken Volkman\u2019s prescribed medication as instructed, he would not have overdosed because he would have built up a tolerance. Second, he asserts that Ser-traline and haloperidol \u2014 two drugs that Volkman did not prescribe but found in Brigner\u2019s system \u2014 -could have been responsible for Brigner\u2019s death. Third, he argues that underlying heart conditions, such as cardiomegaly (an enlarged heart) or unstable plaque could have triggered the cardiac incident leading to Brigner\u2019s death.\nFor each one of these assertions, there is an evidentiary counterweight. First, a rational jury could have credited Dr. Castro\u2019s testimony that, of \u201c[t]he medications ... included with [Brigner], none of them would give him opiate tolerance.\u201d Second, while the evidence did suggest that Sertra-line and haloperidol can be lethal, they are only toxic in high doses. The trier of fact could have concluded that the levels in Brigner\u2019s bloodstream were too low to support such a theory. Finally, given the fact that there were no signs of a myocardial infarction \u2014 the usual indicator of complications arising from arteriosclerotic cardiovascular disease \u2014 a rational trier of fact was not compelled to accept Volkman\u2019s argument that an underlying condition led to Brigner\u2019s death. Hence, we affirm this conviction.\n4.\nFinally, we have Earnest Ratcliff. Rat-cliff was a 38-year-old man suffering from pain in his back, ankles, and feet. He had a history of drug addiction and minor drug dealing.\nVolkman saw Ratcliff on October 21, 2005. The doctor issued prescriptions for 240 thirty-milligram doses of oxycodone, 90 doses of Soma (carisoprodol), 240 doses of Lortab (hydrocodone), and 90 doses of Xanax (alprazolam) \u2014 660 pills in all. Given the sheer drug quantity alone, a rational trier of fact could have concluded that there was no legitimate medical purpose to the prescriptions, given the risk that Rat-cliff would not comply with drug protocol and the attendant risk of an adverse outcome.\nThe next day, Ratcliff and his wife Melissa went to pick up the drugs from a drugstore in Columbus. After obtaining the drugs, he proceeded to consume \u2014 or more exactly, snort \u2014 the pills on the way home. Ratcliff was lethargic and asleep for most of the drive. His wife found his behavior unusual, in light of his past history with the drugs.\nMrs. Ratcliff found her husband dead the next morning. He died two days after his visit to Volkman\u2019s office. No autopsy was performed, but a toxicology report revealed that oxycodone, methadone, hy-drocodone, diazepam, and nordiazepam were in his bloodstream. From this, a rational trier of fact had a sufficient evi-dentiary basis for concluding that Ratcliffs death \u2014 caused by \u201cmulti-drug intoxication\u201d \u2014 was Volkman\u2019s fault.\nVolkman argues that the methadone alone could have been lethal. Methadone, of course, was the one drug that he did not prescribe. Indeed, he points out that one of the Government\u2019s own experts testified that the methadone was \u201cvery significant\u201d in Ratcliffs death.\nThere was enough evidence, however, for a jury to disregard the possibility that methadone acted as the lone lethal agent. First, it was a cumulative effect of toxicity, not a single drug, that was responsible for Ratcliffs death. Second, Ratcliff took methadone earlier in the week \u2014 prior to taking the drugs that Volkman gave him \u2014 and was functional after consuming the methadone. A jury could have used this as the basis for excluding the possibility that methadone alone was responsible for Rat-cliffs death. Finally, a rational trier of fact could have credited the testimony of the toxicologist who examined Ratcliffs blood and agreed with her conclusion that oxycodone, not methadone, was most significant in his death. Hence, we conclude that there was sufficient evidence to support Volkman\u2019s conviction for unlawful distribution leading to the death of Earnest Ratcliff.\nV.\nThe final salvo of Volkman\u2019s appeal attacks the reasonableness of his sentence. \u201cThis Court reviews criminal sentences for both substantive and procedural reasonableness,\u201d and uses the \u201cdeferential abuse-of-discretion standard\u201d to determine the propriety of the sentence. United States v. Stubblefield, 682 F.3d 502, 510 (6th Cir.2012) (citing Gall v. United States, 552 U.S. 38, 51, 128 S.Ct. 586, 169 L.Ed.2d 445 (2007); United States v. Battaglia, 624 F.3d 348, 350 (6th Cir.2010)).\nTwo of Volkman\u2019s sentencing arguments focus on the district court\u2019s application of certain Guidelines enhancements. Volkman also disputes the district court\u2019s drug-quantity determination. We construe these contentions as procedural reasonableness challenges. See Stubblefield, 682 F.3d at 510; see also United States v. Daniels, 506 Fed.Appx. 399, 399 (6th Cir.2012) (treating a drug-quantity objection as a procedural-reasonableness issue). As for Volkman\u2019s sentencing-disparity argument, we view that as a substantive reasonableness challenge. See United States v. French, 505 Fed.Appx. 478, 479-80 (6th Cir.2012).\nA.\nVolkman first takes issue with the district court\u2019s application of the vulnerable-victim enhancement. He asserts that the district court improperly based the enhancement on his victims\u2019 status as drug addicts.\nSection 3A1.1(b) of the Sentencing Guidelines provides for a two-level enhancement in instances where \u201cthe defendant knew -or should have known that a victim of the offense was a vulnerable victim.\u201d The Application Notes, however, state that the victim must be \u201can unusually vulnerable victim.\u201d U.S. Sentencing Guidelines Manual \u00a7 3A1.1 (b) cmt. n. 2 (emphasis added).\nIn the past, we have acknowledged a tension between the Guideline language and the Application Notes. See United States v. Lukasik, 250 Fed.Appx. 135, 138 (6th Cir.2007). We need not resolve that tension today, however, because Volkman\u2019s conduct fell within the parameters of both.\nWe agree with Volkman in concluding that drug addiction, standing alone, cannot serve as the basis for applying the enhancement in cases such as this one. Drug addicts are not necessarily vulnerable victims for purposes of section 3A1.1, and we decline to categorically classify them as such. See United States v. Amedeo, 370 F.3d 1305, 1317 n. 10 (11th Cir.2004).\nBut the circumstances of this case nevertheless support application of the enhancement. See id. (noting that application of the enhancement is \u201chighly fact-specific and must take into account the totality of the circumstances\u201d). It is true that the Pre-Sentence Investigation Report, as well as the Government\u2019s arguments at sentencing, focused heavily on the victims\u2019 drug addiction. If this had been the sole basis for the district court\u2019s decision to apply the enhancement, then reversal would be warranted.\nThe court, however, made additional findings regarding specific victims\u2019 ailments. It noted the mental and emotional frailties of some of Volkman\u2019s patients by stating that \u201c[s]ome patients had serious psychiatric problems!,] [s]ome even had prior suicide attempts.\u201d The court made these observations based on statements that Volkman made during the sentencing proceedings. We will not overturn a district court\u2019s fact findings unless they are clearly erroneous. See United States v. Moon, 513 F.3d 527, 539-40 (6th Cir.2008). These fact findings were not clearly erroneous. Under either the Guideline or its accompanying note, the findings were sufficient to justify application of the vulnerable-victim enhancement. See U.S. Sentencing Guidelines Manual \u00a7 3A1.1(b) cmt. n. 2 (\u201c[Vlulnerable victim means a person ... who is unusually vulnerable due to ... mental condition[.]\u201d). Therefore, we discern no abuse of discretion here.\nB.\nBecause we conclude that application of the vulnerable-victim enhancement was proper, we must next address Volkman\u2019s argument that applying both that enhancement and the special-skill enhancement was impermissible double counting. Such double counting occurs when \u201cprecisely the same aspect of the defendant\u2019s conduct is factored into his sentence in two separate ways.\u201d United States v. Lay, 583 F.3d 436, 447 (6th Cir.2009) (quoting United States v. Farrow, 198 F.3d 179, 193 (6th Cir.1999)) (quotation marks and modifications omitted). \u201cWe review a district court\u2019s legal conclusions regarding the Sentencing Guidelines de novo.\u201d Moon, 513 F.3d at 540 (citation omitted).\nThe two enhancements at issue focus on different aspects of the case. Courts apply the special-skill enhancement when a \u201cdefendant ... use[s] a special skill, in a manner that significantly facilitate^] the commission or concealment of the offense.\u201d U.S. Sentencing Guidelines Manual \u00a7 3B1.3. A special skill is defined as \u201ca skill not possessed by members of the general public and usually requiring substantial education, training or licensing.\u201d Id. \u00a7 3B1.3 cmt. n. 4. The Guideline notes specifically list doctors as one group of individuals possessing special skills. Id. In contrast \u2014 and as the district court properly noted' \u2014 the vulnerable-victim enhancement focuses on the nature of the victim, as opposed to the offender. See id. \u00a7 3Al.l(b) cmt. n. 2.\nThe fact that a defendant is a doctor\u2014 and his victim a patient \u2014 is insufficient for applying the vulnerable-victim enhancement. See United States v. Stokes, 392 Fed.Appx. 362, 371 (6th Cir.2010) (\u201c[T]he traditional doctor-patient relationship, on its own, provides an insufficient basis for applying the vulnerable-victim enhancement.\u201d). It is, however, sufficient for applying the special-skill enhancement, especially in light of the fact that Volkman would not have been in a position to abuse his prescription power without his medical license. See 21 U.S.C. \u00a7 823(f) (detailing the CSA\u2019s registration requirements); see also id. \u00a7 802(21) (defining \u201cpractitioner\u201d); United States v. Moore, 423 U.S. 122, 140 n. 17, 96 S.Ct. 335, 46 L.Ed.2d 333 (1975). Given the differences in how the enhancements apply, we discern no impermissible double-counting here.\nC.\nWe can readily dispose of Volkman\u2019s remaining arguments. First, Volkman argues that the district court did not account for legitimate prescriptions in arriving at its drug-quantity determination. Even if we assume that the district court erred by concluding that Volkman\u2019s drug-quantity determination warranted a base offense level of 38, such an error would be harmless. Volkman\u2019s convictions for unlawful distribution leading to death, standing alone, warrant the same base offense level. See U.S. Sentencing Guidelines Manual \u00a7 2Dl.l(a)(2) (specifying a base offense level of 38 \u201cif the defendant is convicted [under \u00a7 841(b)(1)(C) ] ... and the offense of conviction establishes that death or serious bodily injury resulted from the use of the substance\u201d). Consequently, we could . not reverse on this ground. See United States v. Tandon, 111 F.3d 482, 491 (6th Cir.1997) (holding that a tax-loss calculation error was harmless because the base offense level would be unaffected).\nWe are equally unpersuaded by Volkman\u2019s sentencing-disparity argument. Four life sentences, one for each \u00a7 841(b)(1)(C) conviction, may appear relatively disparate. Other doctors in a similar position may have been sentenced to a less lengthy term of imprisonment. But each of Volkman\u2019s life sentences fell within the applicable Guidelines ranges. When a sentence is within-Guidelines, \u00a7 3553(a)(6) is an improper vehicle for challenging that sentence. See United States v. Swafford, 639 F.3d 265, 270 (6th Cir.2011). Thus, we conclude that Volkman\u2019s sentence was substantively reasonable.\nVI.\nWe AFFIRM Volkman\u2019s convictions and sentence.\n. To minimize confusion, we will refer to Denise Huffman and her daughter, Alice Huffman Ball, by their given names.",
+        "type": "majority",
+        "author": "BERNICE BOUIE DONALD, Circuit Judge."
+      }
+    ],
+    "attorneys": [
+      "ARGUED: Edwin A. Perry, Federal Public Defender\u2019s Office, Memphis, Tennessee, for Appellant. Christopher K. Barnes, United States Attorney\u2019s Office, Cincinnati, Ohio, for Appellee. ON BRIEF: Stephen B. Shankman, Federal Public Defender\u2019s Office, Memphis, Tennessee, for Appellant. Christopher K. Barnes, United States Attorney\u2019s Office, Cincinnati, Ohio, for Appellee."
+    ],
+    "corrections": "",
+    "head_matter": "UNITED STATES of America, Plaintiff-Appellee, v. Paul H. VOLKMAN, Defendant-Appellant.\nNo. 12-3212.\nUnited States Court of Appeals, Sixth Circuit.\nArgued: June 13, 2013.\nDecided and Filed: Nov. 21, 2013.\nRehearing and Rehearing En Banc Denied Jan. 23, 2014.\nARGUED: Edwin A. Perry, Federal Public Defender\u2019s Office, Memphis, Tennessee, for Appellant. Christopher K. Barnes, United States Attorney\u2019s Office, Cincinnati, Ohio, for Appellee. ON BRIEF: Stephen B. Shankman, Federal Public Defender\u2019s Office, Memphis, Tennessee, for Appellant. Christopher K. Barnes, United States Attorney\u2019s Office, Cincinnati, Ohio, for Appellee.\nBefore: McKEAGUE and DONALD, Circuit Judges; LAWSON, District Judge.\nThe Honorable David M. Lawson, United States District Judge for the Eastern District of Michigan, sitting by designation."
+  },
+  "file_name": "1013-01",
+  "first_page_order": 1039,
+  "last_page_order": 1058
+}

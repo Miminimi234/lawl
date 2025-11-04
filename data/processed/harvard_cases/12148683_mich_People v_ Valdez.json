@@ -1,0 +1,77 @@
+{
+  "id": 12148683,
+  "name": "People v. Valdez",
+  "name_abbreviation": "People v. Valdez",
+  "decision_date": "2016-12-09",
+  "docket_number": "No. 150663; Court of Appeals No. 313075",
+  "first_page": "933",
+  "last_page": "934",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "498 Mich. 933"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Mich.",
+    "id": 8790,
+    "name": "Michigan Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 49,
+    "name_long": "Michigan",
+    "name": "Mich."
+  },
+  "cites_to": [
+    {
+      "cite": "498 Mich 358",
+      "category": "reporters:state",
+      "reporter": "Mich.",
+      "case_ids": [
+        12122895
+      ],
+      "year": 2015,
+      "opinion_index": 0,
+      "case_paths": [
+        "/mich/498/0358-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 87,
+    "char_count": 844,
+    "ocr_confidence": 0.689,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.2465103177830059
+    },
+    "sha256": "92a9baa4c76c953e708e317defe0a74e77b084746bf528ffef0ce82402bb5adf",
+    "simhash": "1:c786443d03de4919",
+    "word_count": 141
+  },
+  "last_updated": "2024-02-27T16:10:26.420323+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "People v Valdez,"
+    ],
+    "opinions": [
+      {
+        "text": "Pursuant to MCR 7.305(H)(1), in lieu of granting leave to appeal, we reverse in part the judgment of the Court of Appeals, and we remand this case to the Kent Circuit Court to determine whether the court would have imposed a materially different sentence under the sentencing procedure described in People v Lockridge, 498 Mich 358 (2015). On remand, the trial court shall follow the procedure described in Part VI of our opinion. If the trial court determines that it would not have imposed the same sentence absent the unconstitutional constraint on its discretion, it shall resentence the defendant. In all other respects, leave to appeal is denied, because we are not persuaded that the remaining questions presented should be reviewed by this Court. We do not retain jurisdiction.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "People v Valdez,\nNo. 150663; Court of Appeals No. 313075."
+  },
+  "file_name": "0933-04",
+  "first_page_order": 879,
+  "last_page_order": 880
+}

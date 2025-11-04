@@ -1,0 +1,226 @@
+{
+  "id": 1370285,
+  "name": "The State of Washington, Appellant, v. Robert Paul Thornton, Respondent",
+  "name_abbreviation": "State v. Thornton",
+  "decision_date": "1992-09-03",
+  "docket_number": "No. 58273-4",
+  "first_page": "578",
+  "last_page": "583",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "119 Wash. 2d 578"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Wash.",
+    "id": 9029,
+    "name": "Washington Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 38,
+    "name_long": "Washington",
+    "name": "Wash."
+  },
+  "cites_to": [
+    {
+      "cite": "80 Wn.2d 1004",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "year": 1972,
+      "opinion_index": 0
+    },
+    {
+      "cite": "491 P.2d 1326",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1971,
+      "opinion_index": 0
+    },
+    {
+      "cite": "6 Wn. App. 153",
+      "category": "reporters:state",
+      "reporter": "Wash. App.",
+      "case_ids": [
+        1864320
+      ],
+      "year": 1971,
+      "pin_cites": [
+        {
+          "page": "156"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-app/6/0153-01"
+      ]
+    },
+    {
+      "cite": "615 P.2d 452",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1980,
+      "opinion_index": 0
+    },
+    {
+      "cite": "94 Wn.2d 99",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        1164049
+      ],
+      "year": 1980,
+      "pin_cites": [
+        {
+          "page": "101"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/94/0099-01"
+      ]
+    },
+    {
+      "cite": "445 U.S. 40",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        1777844
+      ],
+      "weight": 5,
+      "year": 1980,
+      "pin_cites": [
+        {
+          "page": "44"
+        },
+        {
+          "page": "52"
+        },
+        {
+          "page": "53"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/445/0040-01"
+      ]
+    },
+    {
+      "cite": "106 P. 165",
+      "category": "reporters:state_regional",
+      "reporter": "P.",
+      "year": 1910,
+      "opinion_index": 0
+    },
+    {
+      "cite": "56 Wash. 561",
+      "category": "reporters:state",
+      "reporter": "Wash.",
+      "case_ids": [
+        534361
+      ],
+      "year": 1910,
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash/56/0561-01"
+      ]
+    },
+    {
+      "cite": "111 P. 344",
+      "category": "reporters:state_regional",
+      "reporter": "P.",
+      "year": 1910,
+      "opinion_index": 0
+    },
+    {
+      "cite": "60 Wash. 397",
+      "category": "reporters:state",
+      "reporter": "Wash.",
+      "case_ids": [
+        529889
+      ],
+      "year": 1910,
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash/60/0397-01"
+      ]
+    },
+    {
+      "cite": "374 P.2d 149",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1962,
+      "opinion_index": 0
+    },
+    {
+      "cite": "60 Wn.2d 343",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        1031654
+      ],
+      "year": 1962,
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/60/0343-01"
+      ]
+    },
+    {
+      "cite": "564 P.2d 315",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "weight": 2,
+      "year": 1977,
+      "pin_cites": [
+        {
+          "parenthetical": "Utter, J., dissenting"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "88 Wn.2d 518",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        1111246
+      ],
+      "weight": 2,
+      "year": 1977,
+      "pin_cites": [
+        {
+          "page": "522-23"
+        },
+        {
+          "page": "532",
+          "parenthetical": "Utter, J., dissenting"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/88/0518-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 650,
+    "char_count": 10581,
+    "ocr_confidence": 0.763,
+    "pagerank": {
+      "raw": 1.9246683490791045e-07,
+      "percentile": 0.733446235668566
+    },
+    "sha256": "15637c0ce38e35eafe71da22eed207d6b330b276977beb426b8a8546dde16563",
+    "simhash": "1:882d8c51b1e53e17",
+    "word_count": 1727
+  },
+  "last_updated": "2024-02-27T20:54:39.105269+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "file_name": "0578-01",
+  "first_page_order": 612,
+  "last_page_order": 617
+}

@@ -1,0 +1,102 @@
+{
+  "id": 4272212,
+  "name": "Clyde Williams vs. Commonwealth",
+  "name_abbreviation": "Williams v. Commonwealth",
+  "decision_date": "2011-07-25",
+  "docket_number": "",
+  "first_page": "1007",
+  "last_page": "1007",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "460 Mass. 1007"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Mass.",
+    "id": 8825,
+    "name": "Massachusetts Supreme Judicial Court"
+  },
+  "jurisdiction": {
+    "id": 4,
+    "name_long": "Massachusetts",
+    "name": "Mass."
+  },
+  "cites_to": [
+    {
+      "cite": "435 Mass. 1501",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "year": 2001,
+      "opinion_index": 0
+    },
+    {
+      "cite": "432 Mass. 1003",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "case_ids": [
+        285248,
+        285250
+      ],
+      "year": 2000,
+      "pin_cites": [
+        {
+          "page": "1003",
+          "parenthetical": "relief under G. L. c. 211, \u00a7 3, properly denied where \"there are other routes by which the petitioning party may adequately seek relief\""
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mass/432/1003-01",
+        "/mass/432/1003-02"
+      ]
+    },
+    {
+      "cite": "48 Mass. App. Ct. 1108",
+      "category": "reporters:state",
+      "reporter": "Mass. App. Ct.",
+      "year": 1999,
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 206,
+    "char_count": 3069,
+    "ocr_confidence": 0.918,
+    "pagerank": {
+      "raw": 2.0446031217563963e-07,
+      "percentile": 0.7543424346361506
+    },
+    "sha256": "1da05e75c2d18a2d26ca68c9269c3bc21dabb799b15944fcc387a399db4d3aa2",
+    "simhash": "1:310885f7122ca8be",
+    "word_count": 525
+  },
+  "last_updated": "2024-02-27T17:56:26.592595+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Clyde Williams vs. Commonwealth."
+    ],
+    "opinions": [
+      {
+        "text": "The petitioner, Clyde Williams, appeals from a judgment of a single justice of this court denying his petition under G. L. c. 211, \u00a7 3. We affirm.\nIn 1997, the petitioner was convicted of possession of a class B substance with intent to distribute in violation of G. L. c. 94C, \u00a7 32A (c). The conviction was affirmed on appeal. Commonwealth v. Williams, 48 Mass. App. Ct. 1108 (1999). In July, 2010, the petitioner filed a motion for a new trial and, in November, 2010, a supplemental motion for a new trial, both of which were denied. The petitioner then filed, on December 21, 2010, a timely notice of appeal; on December 28, 2010, a motion for reconsideration of the denial of the motion for a new trial; and on January 3, 2011, a second notice of appeal. A subsequent docket entry dated January 7, 2011, states \u201cMOTION (P#55) denied.\u201d Pleading no. 55 was the petitioner\u2019s first notice of appeal. The petitioner then filed a G. L. c. 211, \u00a7 3, petition in the county court, which a single justice denied without a hearing. The denial of extraordinary relief was proper because the petitioner has an adequate alternative remedy. See Sabree v. Commonwealth, 432 Mass. 1003, 1003 (2000) (relief under G. L. c. 211, \u00a7 3, properly denied where \u201cthere are other routes by which the petitioning party may adequately seek relief\u201d).\nIn his appeal to this court the petitioner argues that he has no other avenue by which to seek relief because his notice of appeal was \u201cdenied\u201d in the trial court. Although the trial court docket, read literally, does appear to indicate that his notice of appeal was \u201cdenied,\u201d that entry is plainly a mistake. A fair reading of the docket suggests that the judge denied the petitioner\u2019s motion for reconsideration (docket entry no. 56), not his notice of appeal. The docket indicates that notice of both papers was sent to the judge at the same time; there is no other indication on the docket that the judge acted on the motion for reconsideration; and the judge would have no ground to \u201cdeny\u201d a notice of appeal. A further docket entry dated March 9, 2011, indicates that the judge referred the petitioner\u2019s motion to appoint appellate counsel to the Committee for Public Counsel Services, plainly indicating that an appeal was contemplated; there would be no need to refer the request for appointment of appellate counsel otherwise.\nThe petitioner may appeal from the denial of his motion for a new trial in the regular course, to the Appeals Court. See Mass. R. Crim. P. 30 (b), as appearing in 435 Mass. 1501 (2001). As the trial court docket erroneously reflects that the petitioner\u2019s notice of appeal was \u201cdenied,\u201d this should be corrected and the relevant record assembled forthwith.\nJudgment affirmed.\nIn light of this disposition, the petitioner\u2019s motions to dismiss filed in this court on April 22 and May 25, 2011, are denied.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "The case was submitted on briefs.",
+      "Clyde Williams, pro se."
+    ],
+    "corrections": "",
+    "head_matter": "Clyde Williams vs. Commonwealth.\nJuly 25, 2011.\nSupreme Judicial Court, Superintendence of inferior courts, Appeal from order of single justice.\nThe case was submitted on briefs.\nClyde Williams, pro se."
+  },
+  "file_name": "1007-01",
+  "first_page_order": 897,
+  "last_page_order": 897
+}

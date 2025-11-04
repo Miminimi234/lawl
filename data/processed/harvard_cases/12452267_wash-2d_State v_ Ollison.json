@@ -1,0 +1,78 @@
+{
+  "id": 12452267,
+  "name": "State, Respondent, v. Ollison, Petitioner",
+  "name_abbreviation": "State v. Ollison",
+  "decision_date": "2017-02-08",
+  "docket_number": "No. 93743-5",
+  "first_page": "1014",
+  "last_page": "1014",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "187 Wash. 2d 1014"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Wash.",
+    "id": 9029,
+    "name": "Washington Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 38,
+    "name_long": "Washington",
+    "name": "Wash."
+  },
+  "cites_to": [
+    {
+      "cite": "196 Wn. App. 1002",
+      "category": "reporters:state",
+      "reporter": "Wash. App.",
+      "case_ids": [
+        12461616,
+        12461617,
+        12461618,
+        12461615
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-app/196/1002-02",
+        "/wash-app/196/1002-03",
+        "/wash-app/196/1002-04",
+        "/wash-app/196/1002-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 28,
+    "char_count": 195,
+    "ocr_confidence": 0.852,
+    "sha256": "bd5bfd39e92ef60b8f31eaec0f797327c3322353efba246c9eab4afdafc254f1",
+    "simhash": "1:85914a232ddd57e5",
+    "word_count": 31
+  },
+  "last_updated": "2024-02-27T20:27:34.476040+00:00",
+  "provenance": {
+    "date_added": "2019-05-21",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "State, Respondent, v. Ollison, Petitioner,"
+    ],
+    "opinions": [
+      {
+        "text": "Petition for review of a decision of the Court of Appeals, No. 47351-8-II, September 20, 2016, 196 Wn. App. 1002. Denied February 8, 2017.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "State, Respondent, v. Ollison, Petitioner,\nNo. 93743-5."
+  },
+  "file_name": "1014-02",
+  "first_page_order": 982,
+  "last_page_order": 982
+}

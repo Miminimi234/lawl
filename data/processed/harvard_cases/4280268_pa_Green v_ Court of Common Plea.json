@@ -1,0 +1,63 @@
+{
+  "id": 4280268,
+  "name": "John GREEN, Sr., Petitioner v. COURT OF COMMON PLEA OF PENNSYLVANIA, Hon., Judge, Charles J. Cunningham, III, Respondents",
+  "name_abbreviation": "Green v. Court of Common Plea",
+  "decision_date": "2013-11-19",
+  "docket_number": "No. 138 EM 2013",
+  "first_page": "165",
+  "last_page": "165",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "622 Pa. 165"
+    },
+    {
+      "type": "parallel",
+      "cite": "80 A.3d 374"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 57,
+    "char_count": 450,
+    "ocr_confidence": 0.714,
+    "sha256": "0570fe7e1603401c7a9ddc760f367c3ed081eb471da463ed7c81b8c51ccd1c5a",
+    "simhash": "1:b53d92be61d20e2e",
+    "word_count": 76
+  },
+  "last_updated": "2023-07-14T18:30:24.877122+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "John GREEN, Sr., Petitioner v. COURT OF COMMON PLEA OF PENNSYLVANIA, Hon., Judge, Charles J. Cunningham, III, Respondents."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nPER CURIAM.\nAND NOW, this 19th day of November, 2013, the Application for Leave to File Original Process is GRANTED, and the Petition for Writ of Mandamus is DENIED. The Prothonotary is directed to strike the name of the jurist from the caption.",
+        "type": "majority",
+        "author": "PER CURIAM."
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "80 A.3d 374\nJohn GREEN, Sr., Petitioner v. COURT OF COMMON PLEA OF PENNSYLVANIA, Hon., Judge, Charles J. Cunningham, III, Respondents.\nNo. 138 EM 2013.\nSupreme Court of Pennsylvania.\nNov. 19, 2013."
+  },
+  "file_name": "0165-01",
+  "first_page_order": 209,
+  "last_page_order": 209
+}

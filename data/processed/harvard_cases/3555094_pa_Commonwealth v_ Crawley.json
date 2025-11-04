@@ -1,0 +1,322 @@
+{
+  "id": 3555094,
+  "name": "COMMONWEALTH of Pennsylvania, Appellee, v. Dewitt CRAWLEY, Appellant",
+  "name_abbreviation": "Commonwealth v. Crawley",
+  "decision_date": "2007-05-31",
+  "docket_number": "No. 447 CAP",
+  "first_page": "222",
+  "last_page": "232",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "592 Pa. 222"
+    },
+    {
+      "type": "parallel",
+      "cite": "924 A.2d 612"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "288 F.3d 305",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        9437141
+      ],
+      "pin_cites": [
+        {
+          "page": "307-08"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/288/0305-01"
+      ]
+    },
+    {
+      "cite": "761 A.2d 1138",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        11162866,
+        1366949
+      ],
+      "year": 2000,
+      "pin_cites": [
+        {
+          "parenthetical": "Saylor, J. concurring"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/761/1138-01",
+        "/pa/563/0400-01"
+      ]
+    },
+    {
+      "cite": "563 Pa. 400",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1366949
+      ],
+      "year": 2000,
+      "pin_cites": [
+        {
+          "parenthetical": "Saylor, J. concurring"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/563/0400-01"
+      ]
+    },
+    {
+      "cite": "813 A.2d 659",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        9380819,
+        1070133
+      ],
+      "year": 2002,
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/813/0659-01",
+        "/pa/571/0637-01"
+      ]
+    },
+    {
+      "cite": "571 Pa. 637",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1070133
+      ],
+      "year": 2002,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/571/0637-01"
+      ]
+    },
+    {
+      "cite": "536 U.S. 304",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        1255406
+      ],
+      "weight": 7,
+      "year": 2002,
+      "pin_cites": [
+        {
+          "page": "318-19"
+        },
+        {
+          "page": "317"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/536/0304-01"
+      ]
+    },
+    {
+      "cite": "514 Pa. 539",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1804600
+      ],
+      "weight": 2,
+      "year": 1987,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/514/0539-01"
+      ]
+    },
+    {
+      "cite": "888 A.2d 624",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        2473196,
+        8997708
+      ],
+      "weight": 13,
+      "year": 2005,
+      "pin_cites": [
+        {
+          "page": "631"
+        },
+        {
+          "page": "630"
+        },
+        {
+          "page": "631"
+        },
+        {
+          "page": "631"
+        },
+        {
+          "page": "630",
+          "parenthetical": "defining subaverage intellectual capability as those persons who test below the 65-75 range"
+        },
+        {
+          "page": "630"
+        },
+        {
+          "page": "630"
+        },
+        {
+          "page": "630"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/585/0144-01",
+        "/a2d/888/0624-01"
+      ]
+    },
+    {
+      "cite": "585 Pa. 144",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        2473196
+      ],
+      "year": 2005,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/585/0144-01"
+      ]
+    },
+    {
+      "cite": "536 U.S. 304",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        1255406
+      ],
+      "weight": 3,
+      "year": 2002,
+      "opinion_index": 1,
+      "case_paths": [
+        "/us/536/0304-01"
+      ]
+    },
+    {
+      "cite": "888 A.2d 624",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        2473196,
+        8997708
+      ],
+      "year": 2005,
+      "opinion_index": 1,
+      "case_paths": [
+        "/pa/585/0144-01",
+        "/a2d/888/0624-01"
+      ]
+    },
+    {
+      "cite": "585 Pa. 144",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        2473196
+      ],
+      "year": 2005,
+      "opinion_index": 1,
+      "case_paths": [
+        "/pa/585/0144-01"
+      ]
+    },
+    {
+      "cite": "536 U.S. 304",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        1255406
+      ],
+      "weight": 3,
+      "year": 2002,
+      "opinion_index": 2,
+      "case_paths": [
+        "/us/536/0304-01"
+      ]
+    },
+    {
+      "cite": "888 A.2d 624",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        2473196,
+        8997708
+      ],
+      "year": 2005,
+      "pin_cites": [
+        {
+          "page": "633",
+          "parenthetical": "Eakin, J., concurring"
+        }
+      ],
+      "opinion_index": 2,
+      "case_paths": [
+        "/pa/585/0144-01",
+        "/a2d/888/0624-01"
+      ]
+    },
+    {
+      "cite": "585 Pa. 144",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        2473196
+      ],
+      "year": 2005,
+      "pin_cites": [
+        {
+          "parenthetical": "Eakin, J., concurring"
+        }
+      ],
+      "opinion_index": 2,
+      "case_paths": [
+        "/pa/585/0144-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 827,
+    "char_count": 18940,
+    "ocr_confidence": 0.657,
+    "pagerank": {
+      "raw": 3.834768589290538e-07,
+      "percentile": 0.898924416056689
+    },
+    "sha256": "5550d18d64c8411aec84fbe882156fa3fa8658dda04fcec1ba488439531edf4c",
+    "simhash": "1:b60e97540eedb8af",
+    "word_count": 3022
+  },
+  "last_updated": "2024-02-27T21:45:49.457734+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "file_name": "0222-01",
+  "first_page_order": 274,
+  "last_page_order": 284
+}

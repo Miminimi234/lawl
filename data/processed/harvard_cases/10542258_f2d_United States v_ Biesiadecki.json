@@ -1,0 +1,561 @@
+{
+  "id": 10542258,
+  "name": "UNITED STATES of America, Plaintiff-Appellee, v. Jan BIESIADECKI, Defendant-Appellant",
+  "name_abbreviation": "United States v. Biesiadecki",
+  "decision_date": "1991-05-24",
+  "docket_number": "No. 90-1851",
+  "first_page": "539",
+  "last_page": "545",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "933 F.2d 539"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "7th Cir.",
+    "id": 9010,
+    "name": "United States Court of Appeals for the Seventh Circuit"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "894 F.2d 919",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        10537672
+      ],
+      "pin_cites": [
+        {
+          "page": "922"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/894/0919-01"
+      ]
+    },
+    {
+      "cite": "240 U.S. 391",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        3688905
+      ],
+      "weight": 3,
+      "year": 1916,
+      "pin_cites": [
+        {
+          "page": "394"
+        },
+        {
+          "page": "368"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/240/0391-01"
+      ]
+    },
+    {
+      "cite": "489 U.S. 705",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        12033146
+      ],
+      "weight": 9,
+      "year": 1989,
+      "pin_cites": [
+        {
+          "page": "721"
+        },
+        {
+          "page": "1453"
+        },
+        {
+          "page": "715"
+        },
+        {
+          "page": "1449-50"
+        },
+        {
+          "page": "710, 711"
+        },
+        {
+          "page": "1447, 1448"
+        },
+        {
+          "page": "711"
+        },
+        {
+          "page": "1447-48"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/489/0705-01"
+      ]
+    },
+    {
+      "cite": "443 U.S. 307",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6182418
+      ],
+      "weight": 3,
+      "year": 1979,
+      "pin_cites": [
+        {
+          "page": "319",
+          "parenthetical": "emphasis in original"
+        },
+        {
+          "page": "2789",
+          "parenthetical": "emphasis in original"
+        },
+        {
+          "parenthetical": "emphasis in original"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/443/0307-01"
+      ]
+    },
+    {
+      "cite": "897 F.2d 911",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        10536030
+      ],
+      "pin_cites": [
+        {
+          "page": "915"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/897/0911-01"
+      ]
+    },
+    {
+      "cite": "48 L.Ed.2d 837",
+      "category": "reporters:federal",
+      "reporter": "L. Ed. 2d",
+      "year": 1976,
+      "opinion_index": 0
+    },
+    {
+      "cite": "96 S.Ct. 2237",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "year": 1976,
+      "opinion_index": 0
+    },
+    {
+      "cite": "426 U.S. 912",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6203312,
+        6203782,
+        6203559
+      ],
+      "year": 1976,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/426/0912-01",
+        "/us/426/0912-03",
+        "/us/426/0912-02"
+      ]
+    },
+    {
+      "cite": "522 F.2d 414",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1111919
+      ],
+      "pin_cites": [
+        {
+          "page": "421"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/522/0414-01"
+      ]
+    },
+    {
+      "cite": "96 L.Ed. 701",
+      "category": "reporters:federal",
+      "reporter": "L. Ed.",
+      "year": 1952,
+      "opinion_index": 0
+    },
+    {
+      "cite": "72 S.Ct. 555",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "year": 1952,
+      "opinion_index": 0
+    },
+    {
+      "cite": "342 U.S. 943",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        641003,
+        641038,
+        640724,
+        640660,
+        640984,
+        641272,
+        641019
+      ],
+      "year": 1952,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/342/0943-04",
+        "/us/342/0943-07",
+        "/us/342/0943-06",
+        "/us/342/0943-05",
+        "/us/342/0943-02",
+        "/us/342/0943-01",
+        "/us/342/0943-03"
+      ]
+    },
+    {
+      "cite": "192 F.2d 96",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1214678
+      ],
+      "pin_cites": [
+        {
+          "page": "105"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/192/0096-01"
+      ]
+    },
+    {
+      "cite": "845 F.2d 1459",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        10551292
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "1462"
+        },
+        {
+          "page": "1462"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/845/1459-01"
+      ]
+    },
+    {
+      "cite": "851 F.2d 890",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        11355983
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "903"
+        },
+        {
+          "page": "895"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/851/0890-01"
+      ]
+    },
+    {
+      "cite": "73 L.Ed.2d 1307",
+      "category": "reporters:federal",
+      "reporter": "L. Ed. 2d",
+      "year": 1982,
+      "opinion_index": 0
+    },
+    {
+      "cite": "102 S.Ct. 2305",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "year": 1982,
+      "opinion_index": 0
+    },
+    {
+      "cite": "456 U.S. 1010",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6403714,
+        6404547,
+        6403815,
+        6403433,
+        6403640,
+        6404683,
+        6403340,
+        6403536,
+        6404404,
+        6404024,
+        6404216,
+        6403930,
+        6404123
+      ],
+      "year": 1982,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/456/1010-05",
+        "/us/456/1010-12",
+        "/us/456/1010-06",
+        "/us/456/1010-02",
+        "/us/456/1010-04",
+        "/us/456/1010-13",
+        "/us/456/1010-01",
+        "/us/456/1010-03",
+        "/us/456/1010-11",
+        "/us/456/1010-08",
+        "/us/456/1010-10",
+        "/us/456/1010-07",
+        "/us/456/1010-09"
+      ]
+    },
+    {
+      "cite": "665 F.2d 579",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        472280
+      ],
+      "pin_cites": [
+        {
+          "page": "585"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/665/0579-01"
+      ]
+    },
+    {
+      "cite": "736 F.2d 433",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        587644
+      ],
+      "pin_cites": [
+        {
+          "page": "436"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/736/0433-01"
+      ]
+    },
+    {
+      "cite": "91 L.Ed.2d 548",
+      "category": "reporters:federal",
+      "reporter": "L. Ed. 2d",
+      "year": 1986,
+      "opinion_index": 0
+    },
+    {
+      "cite": "106 S.Ct. 2919",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "year": 1986,
+      "opinion_index": 0
+    },
+    {
+      "cite": "476 U.S. 1183",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        12417,
+        13029,
+        12517,
+        12424,
+        12489,
+        12939,
+        12588,
+        12909,
+        12753,
+        12722,
+        12755,
+        12471,
+        12478
+      ],
+      "year": 1986,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/476/1183-13",
+        "/us/476/1183-06",
+        "/us/476/1183-03",
+        "/us/476/1183-04",
+        "/us/476/1183-08",
+        "/us/476/1183-02",
+        "/us/476/1183-11",
+        "/us/476/1183-10",
+        "/us/476/1183-12",
+        "/us/476/1183-01",
+        "/us/476/1183-07",
+        "/us/476/1183-09",
+        "/us/476/1183-05"
+      ]
+    },
+    {
+      "cite": "776 F.2d 678",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1516333
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "697"
+        },
+        {
+          "page": "698"
+        },
+        {
+          "page": "697-98"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/776/0678-01"
+      ]
+    },
+    {
+      "cite": "882 F.2d 1249",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1820883
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "1252"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/882/1249-01"
+      ]
+    },
+    {
+      "cite": "911 F.2d 2",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        10530433
+      ],
+      "pin_cites": [
+        {
+          "page": "6"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/911/0002-01"
+      ]
+    },
+    {
+      "cite": "17 C.F.R. \u00a7 1.55",
+      "category": "laws:admin_compilation",
+      "reporter": "C.F.R.",
+      "year": 1976,
+      "opinion_index": 0
+    },
+    {
+      "cite": "18 U.S.C. \u00a7 1962",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "(c)"
+        },
+        {
+          "page": "(d)"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "18 U.S.C. \u00a7\u00a7 1341",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 1076,
+    "char_count": 22863,
+    "ocr_confidence": 0.761,
+    "pagerank": {
+      "raw": 2.3759159074074307e-07,
+      "percentile": 0.796280400903682
+    },
+    "sha256": "99840f6646d86992cb39fc9c80d4bc093e0507c74df87bc1ead52e9c06ac02ee",
+    "simhash": "1:2efecfe1da06c4ef",
+    "word_count": 3581
+  },
+  "last_updated": "2024-02-27T20:17:01.570520+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before CUMMINGS, WOOD, Jr., and RIPPLE, Circuit Judges."
+    ],
+    "parties": [
+      "UNITED STATES of America, Plaintiff-Appellee, v. Jan BIESIADECKI, Defendant-Appellant."
+    ],
+    "opinions": [
+      {
+        "text": "HARLINGTON WOOD, Jr., Circuit Judge.\nThe government indicted sixteen former employees of the Chicago area offices of the First Commodity Corporation of Boston (\u201cFCCB\u201d) for offenses arising from their participation in a massive scheme to fraudulently induce approximately 2,600 customers to invest in commodity futures contracts. Appellant Jan Biesiadecki was among those named in the original indictment. All of the defendants, except Biesia-decki, pleaded guilty prior to trial. The grand jury then returned a superseding indictment against Biesiadecki alone alleging that he fraudulently solicited over two million dollars from 111 customers. Biesia-decki pled not guilty and following a lengthy jury trial he was found guilty on all counts, including mail and wire fraud (18 U.S.C. \u00a7\u00a7 1341, 1343), racketeering (18 U.S.C. \u00a7 1962(c)), and conspiracy to commit racketeering (18 U.S.C. \u00a7 1962(d)).\nIn a separate verdict the jury found that $85,000 of Biesiadecki\u2019s commissions were subject to forfeiture under the racketeering statute. He was sentenced to three months imprisonment and five years probation. Probation was conditioned on the first six months being served in work release. Biesiadecki was also ordered to pay $25,000 in restitution and prohibited from engaging in the sale of commodities during his probation. Biesiadecki\u2019s appeal raises issues involving evidentiary rulings and the sufficiency of the evidence supporting his conviction. We affirm.\nI. FACTS\nBiesiadecki emigrated from Poland to the United States in 1977 and later became a naturalized citizen. He held a series of jobs, including janitor, machine operator, draftsman, mechanical engineer, and \u201cconsultant,\u201d until 1983. In May 1983, Biesia-decki applied for a position as an account executive with the Chicago office of FCCB and was hired for the firm\u2019s Oak Brook office. He worked at the Chicago office until the Oak Brook office opened in late 1983.\nFCCB was a retail commodity brokerage firm headquartered in Boston and registered with the Commodity Futures Trading Commission (\u201cCFTC\u201d) as a futures commission merchant. FCCB hired account executives (also referred to as brokers), paid on a commission basis, to solicit potential investors by telephone.\nThe primary investment vehicle of FCCB was called a long term forward (\u201cLTF\u201d) account. The LTF account was a commodity futures margin account in which the investor purchased a certain number of units, paid a set commission initially and would be entitled to unlimited trading in that account for a specified period of time, usually three to six months. During Bies-iadecki\u2019s tenure at FCCB, a typical account unit cost $12,900. The first $3,900 served as a fee to FCCB and the remaining $9,000 was equity for the margin account. FCCB also offered a more traditional commodities trading account in which the customer was charged a per-trade fee of $100.\nThe brokers were trained in a telephone sales technique referred to at FCCB as the \u201cbox close.\u201d Brokers employing this technique attempted to sell four components: the company, themselves, the product (commodities futures contracts), and the potential profits (called \u201cmoney in, money out\u201d). Several former employees of FCCB testified at trial that Biesiadecki was taught the \u201cbox close\u201d sales technique and used it zealously.\nIn promoting the company, Biesiadecki and the other brokers were taught to stress the rapid growth of FCCB and its expansion from a $300,000 company to a $10,000,000 company. In reality, most of FCCB\u2019s customers were losing money. In selling themselves, the brokers said they worked long hours and constantly watched the market to protect their customers\u2019 investments. The brokers did work long hours, but their labors were focused on soliciting more customers rather than vigilantly scrutinizing market positions. Bies-iadecki and the other brokers actually spent less than 45 minutes a day analyzing the markets. Brokers who spent more than that amount of time analyzing the markets were labelled \u201cmarketheads.\u201d\nSelling the \u201cproduct\u201d component of the \u201cbox\u201d entailed creating a sense of urgency about investing. One strategy commonly employed at FCCB was to tell the customer that the price of silver was about to soar because of a particular world event. However, the world events were interchangeable as dictated by current affairs since it was irrelevant whether the particular world event actually had any impact on the silver market.\nThe fourth part of the \u201cbox\u201d \u2014 the potential for sizable profits \u2014 was expressed by the brokers at FCCB through the concept of \u201cmoney in, money out.\u201d In light of the results achieved for almost all FCCB customers, this concept would more appropriately have been labelled \u201cmoney lost.\u201d During this portion of the sales pitch the broker would determine the possible amount of the customer's investment and then discuss the profit to be made if the price of the commodity increased by a certain amount. The broker would fail to mention that these windfall profits had never actually been realized by his customers.\nPerhaps the most crucial element of the sales pitch was minimizing the risk. This was important because as part of the application process prior to investing, a prospective FCCB customer had to sign a risk disclosure statement which was required by Rule 1.55 of the CFTC. 17 C.F.R. \u00a7 1.55 (1976). The statement apprised the customer of the extremely risky nature of commodity futures trading. In addition, FCCB\u2019s compliance department located in Boston called customers who had submitted applications in order to verify the customers\u2019 responses to the application questions and the telephone call would be tape recorded. In order to prevent potential customers from wavering in their decisions to invest, FCCB brokers would tell customers that the risk disclosure statement was a mere formality and they would emphasize their skill in handling accounts.\nBiesiadecki was very adept at the \u201cbox close\u201d technique and, in fact, became one of the top producers at FCCB. The experience of Raul Fuertes, one of the witnesses for the government, is illustrative of Bies-iadecki\u2019s sales tactics. Fuertes was born in Peru and came to the United States in 1964. He worked as a headwaiter at a restaurant in Chicago. Fuertes was contemplating investing in real estate. He responded to a flyer mailed to him by FCCB and in early 1984 Biesiadecki began calling Fuertes two or three times a day attempting to persuade him to invest in commodities. Biesiadecki told Fuertes that \u201cno investment will be better than commodity [sic].\u201d He also told Fuertes that he was from Poland and had become very wealthy as a result of investment in commodities. On one occasion in the offices of FCCB, Biesiadecki showed Fuertes a computer printout which purported to represent the growth of one of his customer\u2019s accounts from $50,000 to $250,000 over a two-month period. Moreover, Biesiadecki told Fuertes that all of his customers were very pleased with him.\nFuertes finally succumbed to Biesia-decki\u2019s sales pitch and mortgaged his house in order to obtain $28,000 to invest in commodities. FCCB rules did not allow a customer to invest with borrowed funds. However, Biesiadecki circumvented this rule by instructing Fuertes not to send the loan proceeds directly to FCCB but instead to deposit the bank\u2019s check into his personal checking account and send two personal checks to FCCB. Biesiadecki also instructed Fuertes to lie about the source of the funds on his application form and during the compliance call, convincing Fuertes that he would not be able to \u201cget into the business\u201d if he gave the wrong answers.\nAfter Fuertes invested with FCCB and began rapidly losing money he attempted to call Biesiadecki but his calls were not returned. By the time Fuertes closed his account at FCCB he had lost $20,000 of his $28,000 investment and had to sell his house to repay the loan. Not surprisingly, Fuertes testified that if he had known ninety percent of Biesiadecki\u2019s customers lost money he would not have invested. At trial, other customers of Biesiadecki testified to similar ill-fated investment experiences.\nII. ANALYSIS\nBiesiadecki raises the following challenges to his conviction: (1) the conviction was improperly based on Biesiadecki\u2019s failure to disclose prior customer losses to prospective investors; (2) the trial court erred in excluding testimony from customers who believed that they had not been defrauded by Biesiadecki; (3) the trial court erred in limiting cross-examination of former customers of Biesiadecki regarding their failure to complain about misrepresentations; and (4) the mailings charged in the indictment were not in furtherance of the scheme to defraud.\nA. Failure to Disclose\nThe government elicited testimony from Biesiadecki\u2019s former customers concerning affirmative misrepresentations that his customers \u201care very pleased with him\u201d and that he \u201calways made money for his clients.\u201d Additionally, many former customers testified that Biesiadecki concealed the fact that most of his customers were losing money. Biesiadecki contends that in convicting him the jury could have improperly relied on his failure to disclose rather than relying exclusively on evidence of affirmative misrepresentations. Biesiadecki acknowledges in his reply brief that he does not attack his conviction based on insufficient evidence of affirmative misrepresentations, but he challenges the adequacy of the jury instruction regarding the failure to disclose.\nBiesiadecki argues that evidence of his nondisclosure of prior customer losses was improperly admitted by the trial judge. We will not reverse a district judge\u2019s decision to admit evidence absent an abuse of discretion. United States v. Sullivan, 911 F.2d 2, 6 (7th Cir.1990). Biesiadecki contends that \u201cmere omissions,\u201d absent affirmative misrepresentations, do not constitute fraudulent conduct under the mail and wire fraud statutes. Reynolds v. East Dyer Dev. Co., 882 F.2d 1249 (7th Cir.1989), is cited by Biesiadecki in support of this proposition; however, Reynolds is readily distinguishable from this case. In Reynolds there was no evidence that the defendant engaged in affirmative misrepresentations or half-truths and the plaintiffs\u2019 theory of fraud rested solely on nondisclosure. Id. at 1252. This was not the situation at Biesiadecki\u2019s trial \u2014 there was abundant evidence of misstatements and misrepresentations.\nBiesiadecki also asserts that since he did not stand in a fiduciary relationship with his prospective customers he did not owe them a duty of disclosure. We held in United States v. Keplinger, 776 F.2d 678, 697 (7th Cir.1985), cert. denied, 476 U.S. 1183, 106 S.Ct. 2919, 91 L.Ed.2d 548 (1986), that \u201comissions or concealment of material information can constitute fraud ... cognizable under the mail fraud statute, without proof of a duty to disclose the information pursuant to a specific statute or regulation.\u201d See United States v. Lindsey, 736 F.2d 433, 436 (7th Cir.1984); United States v. Townley, 665 F.2d 579, 585 (5th Cir.), cert. denied, 456 U.S. 1010, 102 S.Ct. 2305, 73 L.Ed.2d 1307 (1982). Fraud can arise not only through affirmative misrepresentations but also through concealment of material facts. Keplinger, 776 F.2d at 698. Biesiadecki mischaracterizes the government\u2019s case against him as one based on \u201cmere omissions.\u201d In actuality, the government presented extensive evidence of Biesiadecki\u2019s affirmative misrepresentations concerning his customers\u2019 investment successes and in conjunction with that evidence also elicited testimony that Biesiadecki failed to inform prospective investors of the losses sustained by the majority of his customers. Therefore the trial judge did not abuse her discretion in admitting testimony concerning Biesiadecki\u2019s nondisclosures.\nBiesiadecki also complains that the trial judge failed to adequately instruct the jury on the issue of material omissions and that the jury could have relied solely on evidence of nondisclosures. The trial judge instructed the jury as follows:\nUnder the mail and wire fraud statutes it is unlawful to make false or misleading statements in furtherance of the scheme. It is also unlawful to speak half truths or to omit to state facts necessary to make the statements made in light of the circumstances under which they were made not misleading. Absent such circumstances mere omissions do not constitute fraud under the mail and wire fraud statutes. The statements need not be false or fraudulent on their face and the defendant need not misrepresent any fact since all that is necessary is that the scheme be reasonably calculated to deceive those to whom the statements are made.\n... Under the rules and regulations governing the commodity markets brokers or salesmen are not required to provide prospective customers with information concerning the extent of losses or gains of their prospective customers about the profits or losses of their present or former clients.\nThis instruction comports with the law in this circuit regarding the evidentiary role of material omissions of a defendant charged with mail and wire fraud. Keplinger, 776 F.2d at 697-98. We find unconvincing Biesiadecki\u2019s argument that the jury could have improperly relied solely on mere omissions in their decision to convict him in light of the ample evidence of affirmative misrepresentations and the general assumption that the court\u2019s instructions are followed by the jury. United States v. Mealy, 851 F.2d 890, 903 (7th Cir.1988).\nB. Exclusion of Testimony of FCCB Customers\nBiesiadecki sought to introduce testimony from FCCB customers not named in the indictment who would testify that they had heard Biesiadecki\u2019s sales pitch but did not believe that they had been defrauded. The government moved in limine to exclude this testimony and the trial judge granted the motion.\nBiesiadecki argues in his brief that the testimony of the other customers was proffered for the purposes of corroborating his testimony that he had a unique sales presentation, establishing that there were individuals who were not misled, and undermining the credibility of the government\u2019s witnesses. However, at a pretrial status hearing the trial judge requested clarification from Biesiadecki\u2019s attorney concerning the specific type of evidence sought to be introduced from the other FCCB customers. The attorney indicated that the customers would testify that Biesiadecki made statements to them that were similar to the statements alleged in the indictment, but that they were not misled or deceived by these statements. Biesiadecki contends that the evidence is admissible to show that his conduct was not fraudulent and to the extent he engaged in \u201cpuffing,\u201d it was not relied on by reasonable people.\nThe district court found that the fact that some customers not named in the indictment may not have felt deceived by Biesiadecki\u2019s sales presentation was not relevant in determining whether Biesia-decki\u2019s conduct was fraudulent. \u201c[T]he mail fraud statute punishes the scheme to defraud, and does not require that the intended victim actually have been defrauded.\u201d Ward v. United States, 845 F.2d 1459, 1462 (7th Cir.1988). Those who are gullible, as well as those who are skeptical, are entitled to the protection of the mail fraud statute. United States v. Sylvanus, 192 F.2d 96, 105 (7th Cir.1951), cert. denied, 342 U.S. 943, 72 S.Ct. 555, 96 L.Ed. 701 (1952). The excluded testimony of the other FCCB customers would have improperly shifted the jury\u2019s attention away from the knowledge and intent of Biesiadecki and focused instead on the beliefs of the victims of the alleged scheme to defraud. United States v. Bryza, 522 F.2d 414, 421 (7th Cir.1975), cert. denied, 426 U.S. 912, 96 S.Ct. 2237, 48 L.Ed.2d 837 (1976). The district court is accorded wide latitude in determining the relevancy of evidence. United States v. King, 897 F.2d 911, 915 (7th Cir.1990). We find that the trial judge did not abuse her discretion in excluding the proffered testimony.\nC. Customers\u2019 Failure to Invoke Civil or Administrative Remedies\nThe district court also granted the government\u2019s motion in limine to preclude the introduction of evidence concerning the failure of FCCB customers who were named in the indictment to seek remedies through civil suit or CFTC reparation proceedings. Biesiadecki contends that the failure of the customers to complain is probative of whether they believed they had been defrauded and tends to prove the defense theory that the FBI employed coercive interview techniques when questioning FCCB customers.\nIf the customers had felt that they had been defrauded then they would have, in Biesiadecki\u2019s view, sought legal or administrative relief. The trial judge was unpersuaded by this reasoning and she found that Biesiadecki was again attempting to misdirect the jury\u2019s attention to the customers\u2019 conclusions as to whether they were the victims of fraud. The appropriate inquiry is whether Biesiadecki possessed the intent to defraud. Ward v. United States, 845 F.2d at 1462. Moreover, there are a variety of plausible reasons that would explain a customer\u2019s decision not to institute formal proceedings \u2014 embarrassment, lack of resources, lack of knowledge of available remedies.\nIt is tenuous at best to suggest that the absence of formal complaints by FCCB customers tends to prove that the FBI employed coercive interview techniques. Bies-iadecki argues that since the customers did not file formal complaints, they did not believe that they had been defrauded until the FBI somehow convinced them that they were the victims of fraud. Even assuming we could accept this scenario, it still requires the mistaken acceptance of an underlying assumption that the customer\u2019s belief or reliance is an element of mail fraud. Therefore we cannot find that the district court abused its discretion in excluding this evidence.\nD. Mailings in Furtherance of the Scheme to Defraud\nBiesiadecki attacks the sufficiency of the evidence supporting his conviction for mail fraud. In reviewing the sufficiency of the government\u2019s evidence, we review all evidence and reasonable inferences drawn therefrom in the light most favorable to the government. United States v. Mealy, 851 F.2d at 895. A verdict will not be overturned on appeal if \u201cany rational trier of fact could have found the essential elements of the crime beyond a reasonable doubt.\u201d Jackson v. Virginia, 443 U.S. 307, 319, 99 S.Ct. 2781, 2789, 61 L.Ed.2d 560 (1979) (emphasis in original). The elements required to support a conviction under the mail fraud statute are: (1) a scheme to defraud, and (2) use of the mail for the purpose of executing, or attempting to execute, the scheme to defraud. Schmuck v. United States, 489 U.S. 705, 721, 109 S.Ct. 1443, 1453, 103 L.Ed.2d 734 (1989). Biesia-decki\u2019s attack focuses on the second element. He argues that the application forms and account statements mailed to FCCB customers were not in furtherance of the scheme to defraud.\nBiesiadecki asserts that the customer application forms could not have furthered the scheme to defraud because they warned prospective investors of the risks involved and therefore \u201cundermined\u201d any fraudulent representations. The Supreme Court in Schmuck rejected this view and held that a mailing may be part of the execution of the scheme to defraud even though it may have been \u201ccounterproductive\u201d to the scheme. 489 U.S. at 715, 109 S.Ct. at 1449-50. Biesiadecki also argues that the mailing of the applications by FCCB to potential investors did not advance the scheme to defraud because it was actually the return of the applications to FCCB that was required to open the accounts. However, as the government aptly notes, this argument is patently illogical \u2014 the scheme required that the potential investors somehow receive the applications from FCCB in order to complete and return them. A rational jury could have concluded that the applications were in furtherance of the scheme to defraud.\nBiesiadecki argues that the customer account statements were not essential to the scheme to defraud because they were mailed after the scheme had come to fruition. Biesiadecki incorrectly presumes that the only fraud alleged by the government involved the up-front commissions deducted from the customer accounts. In fact, the government alleged, and presented evidence of, a continuing scheme to defraud in which customers were persuaded to reinvest remaining funds and invest additional funds into per-trade commission accounts with FCCB.\nThe trial judge found that a rational jury could conclude that the mailing of the customer account statements \u201chelped to lull customers into a sense of security by furthering the impression that FCCB was a legitimate business enterprise, and that without such statements, customers might have closed their accounts sooner, discerned that they were the victims of fraud, and taken action against FCCB.\u201d This is in accord with the reasoning of Schmuck that \u201cit is sufficient for the mailing to be \u2018incident to an essential part of the scheme\u2019 \u201d to satisfy the mailing element in a mail fraud conviction. 489 U.S. at 710, 711, 109 S.Ct. at 1447, 1448 (quoting Badders v. United States, 240 U.S. 391, 394, 36 S.Ct. 367, 368, 60 L.Ed. 706 (1916)). Schmuck involved a scheme to tamper with odometer readings and the Supreme Court held that title registration forms which were mailed after the fruition of the scheme to defraud, even though only tangentially related to the scheme, were sufficient to satisfy the mailing element of the mail fraud offense. 489 U.S. at 711, 109 S.Ct. at 1447-48. We find that a rational jury could have found that the scheme to defraud was advanced by the mailing of the customer account statements.\nIII. CONCLUSION\nFor the foregoing reasons, the conviction of Biesiadecki is\nAffirmed.\n. This explanation is not consistent with Biesia-decki's argument on appeal that the testimony of the other customers would reveal that he presented a \"unique\u201d sales pitch and we therefore find that he has waived his uniqueness argument. Manor Healthcare Corp. v. Guzzo, 894 F.2d 919, 922 (7th Cir.1990).\n. Evidence of complaints made directly to FCCB were admitted by the trial judge and only evidence concerning formal administrative or judicial remedies was excluded.",
+        "type": "majority",
+        "author": "HARLINGTON WOOD, Jr., Circuit Judge."
+      }
+    ],
+    "attorneys": [
+      "Michele E. Smith, Asst. U.S. Atty., David S. Rosenbloom, Barry R. Elden, Asst. U.S. Atty., Criminal Receiving, Appellate Div., Chicago, Ill., for U.S.",
+      "Patrick E. Deady, Lord, Bissell & Brook, Chicago, Ill., for Jan Biesiadecki."
+    ],
+    "corrections": "",
+    "head_matter": "UNITED STATES of America, Plaintiff-Appellee, v. Jan BIESIADECKI, Defendant-Appellant.\nNo. 90-1851.\nUnited States Court of Appeals, Seventh Circuit.\nArgued Oct. 24, 1990.\nDecided May 24, 1991.\nMichele E. Smith, Asst. U.S. Atty., David S. Rosenbloom, Barry R. Elden, Asst. U.S. Atty., Criminal Receiving, Appellate Div., Chicago, Ill., for U.S.\nPatrick E. Deady, Lord, Bissell & Brook, Chicago, Ill., for Jan Biesiadecki.\nBefore CUMMINGS, WOOD, Jr., and RIPPLE, Circuit Judges."
+  },
+  "file_name": "0539-01",
+  "first_page_order": 637,
+  "last_page_order": 643
+}

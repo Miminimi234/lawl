@@ -1,0 +1,826 @@
+{
+  "id": 12519762,
+  "name": "Jorge L. MEDINA, Appellant v. Matthew G. WHITAKER, Appellee",
+  "name_abbreviation": "Medina v. Whitaker",
+  "decision_date": "2019-01-18",
+  "docket_number": "No. 17-5248",
+  "first_page": "152",
+  "last_page": "161",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "913 F.3d 152"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "D.C. Cir.",
+    "id": 11448,
+    "name": "Court of Appeals of the District of Columbia"
+  },
+  "jurisdiction": {
+    "id": 56,
+    "name_long": "District of Columbia",
+    "name": "D.C."
+  },
+  "cites_to": [
+    {
+      "cite": "418 U.S. 24",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6171824
+      ],
+      "weight": 3,
+      "year": 1974,
+      "pin_cites": [
+        {
+          "page": "56",
+          "parenthetical": "upholding state felon disenfranchisement"
+        },
+        {
+          "parenthetical": "upholding state felon disenfranchisement"
+        },
+        {
+          "parenthetical": "upholding state felon disenfranchisement"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/418/0024-01"
+      ]
+    },
+    {
+      "cite": "28 U.S.C. \u00a7 1865",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "pin_cites": [
+        {
+          "page": "(b)(5)",
+          "parenthetical": "barring convicted felons from serving on a federal jury"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "95 L.Ed. 886",
+      "category": "reporters:federal",
+      "reporter": "L. Ed.",
+      "year": 1951,
+      "opinion_index": 0
+    },
+    {
+      "cite": "341 U.S. 223",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        1148002
+      ],
+      "weight": 2,
+      "year": 1951,
+      "pin_cites": [
+        {
+          "page": "229"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/341/0223-01"
+      ]
+    },
+    {
+      "cite": "62 Tenn. L. Rev. 461",
+      "category": "journals:journal",
+      "reporter": "Tenn. L. Rev.",
+      "year": 1995,
+      "pin_cites": [
+        {
+          "page": "480"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "583 F.3d 8",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        5756422
+      ],
+      "weight": 3,
+      "year": 2009,
+      "pin_cites": [
+        {
+          "page": "15",
+          "parenthetical": "quoting Glenn Harlan Reynolds, A Critical Guide to the Second Amendment , 62 Tenn. L. Rev. 461, 480 (1995) "
+        },
+        {
+          "page": "15"
+        },
+        {
+          "page": "16"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/583/0008-01"
+      ]
+    },
+    {
+      "cite": "621 F.3d 681",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        3784074
+      ],
+      "year": 2010,
+      "pin_cites": [
+        {
+          "page": "684-85"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/621/0681-01"
+      ]
+    },
+    {
+      "cite": "73 Fordham L. Rev. 487",
+      "category": "journals:journal",
+      "reporter": "Fordham L. Rev.",
+      "year": 2004,
+      "pin_cites": [
+        {
+          "page": "506"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "701 F.3d 974",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        5709241
+      ],
+      "weight": 3,
+      "year": 2012,
+      "pin_cites": [
+        {
+          "page": "980",
+          "parenthetical": "citing Saul Cornell & Nathan DeDino, A Well Regulated Right: The Early American Origins of Gun Control , 73 Fordham L. Rev. 487, 506 (2004) "
+        },
+        {
+          "page": "979"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/701/0974-01"
+      ]
+    },
+    {
+      "cite": "57 Clev. St. L. Rev. 461",
+      "category": "journals:journal",
+      "reporter": "Clev. St. L. Rev.",
+      "year": 2009,
+      "pin_cites": [
+        {
+          "page": "468, 473"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "553 U.S. 35",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        3673813
+      ],
+      "weight": 3,
+      "year": 2008,
+      "pin_cites": [
+        {
+          "page": "94",
+          "parenthetical": "Thomas, J., concurring in the judgment"
+        },
+        {
+          "parenthetical": "Thomas, J., concurring in the judgment"
+        },
+        {
+          "parenthetical": "Thomas, J., concurring in the judgment"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/553/0035-01"
+      ]
+    },
+    {
+      "cite": "279 F.Supp.3d 281",
+      "category": "reporters:federal",
+      "reporter": "F. Supp. 3d",
+      "case_ids": [
+        12272886
+      ],
+      "weight": 6,
+      "year": 2017,
+      "pin_cites": [
+        {
+          "page": "289"
+        },
+        {
+          "page": "289-91"
+        },
+        {
+          "page": "291-92"
+        },
+        {
+          "page": "291-92"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f-supp-3d/279/0281-01"
+      ]
+    },
+    {
+      "cite": "670 F.3d 1244",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        3769810,
+        5712319
+      ],
+      "year": 2011,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us-app-dc/399/0314-01",
+        "/f3d/670/1244-01"
+      ]
+    },
+    {
+      "cite": "704 F.3d 980",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        3655808,
+        3661217
+      ],
+      "weight": 12,
+      "year": 2013,
+      "pin_cites": [
+        {
+          "page": "989"
+        },
+        {
+          "page": "983"
+        },
+        {
+          "page": "984"
+        },
+        {
+          "page": "988-89"
+        },
+        {
+          "page": "989"
+        },
+        {
+          "page": "989-90"
+        },
+        {
+          "parenthetical": "internal quotations omitted"
+        },
+        {
+          "page": "984"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/704/0980-01",
+        "/us-app-dc/403/0284-01"
+      ]
+    },
+    {
+      "cite": "198 L.Ed.2d 746",
+      "category": "reporters:federal",
+      "reporter": "L. Ed. 2d",
+      "case_ids": [
+        12605106,
+        12606733,
+        12606734
+      ],
+      "year": 2017,
+      "opinion_index": 0,
+      "case_paths": [
+        "/s-ct/137/1995-01",
+        "/s-ct/137/2323-01",
+        "/s-ct/137/2323-02"
+      ]
+    },
+    {
+      "cite": "137 S. Ct. 2323",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        12606733,
+        12606734,
+        12606735,
+        12606736,
+        12606737,
+        12606738
+      ],
+      "year": 2017,
+      "opinion_index": 0,
+      "case_paths": [
+        "/s-ct/137/2323-01",
+        "/s-ct/137/2323-02",
+        "/s-ct/137/2323-03",
+        "/s-ct/137/2323-04",
+        "/s-ct/137/2323-05",
+        "/s-ct/137/2323-06"
+      ]
+    },
+    {
+      "cite": "759 F.3d 905",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        4156897
+      ],
+      "year": 2014,
+      "pin_cites": [
+        {
+          "page": "909"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/759/0905-01"
+      ]
+    },
+    {
+      "cite": "578 F.3d 1195",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        4049768
+      ],
+      "year": 2009,
+      "pin_cites": [
+        {
+          "page": "1200"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/578/1195-01"
+      ]
+    },
+    {
+      "cite": "599 F.3d 433",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        4223652
+      ],
+      "year": 2010,
+      "pin_cites": [
+        {
+          "page": "451"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/599/0433-01"
+      ]
+    },
+    {
+      "cite": "199 L.Ed.2d 384",
+      "category": "reporters:federal",
+      "reporter": "L. Ed. 2d",
+      "case_ids": [
+        12615761,
+        12615545,
+        12615546,
+        12615547,
+        12615548,
+        12615549,
+        12615551
+      ],
+      "year": 2017,
+      "opinion_index": 0,
+      "case_paths": [
+        "/s-ct/138/0533-04",
+        "/s-ct/138/0500-01",
+        "/s-ct/138/0500-02",
+        "/s-ct/138/0500-03",
+        "/s-ct/138/0500-04",
+        "/s-ct/138/0500-05",
+        "/s-ct/138/0501-01"
+      ]
+    },
+    {
+      "cite": "138 S.Ct. 500",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        12615545,
+        12615546,
+        12615547,
+        12615548,
+        12615549,
+        12615550
+      ],
+      "year": 2017,
+      "opinion_index": 0,
+      "case_paths": [
+        "/s-ct/138/0500-01",
+        "/s-ct/138/0500-02",
+        "/s-ct/138/0500-03",
+        "/s-ct/138/0500-04",
+        "/s-ct/138/0500-05",
+        "/s-ct/138/0500-06"
+      ]
+    },
+    {
+      "cite": "848 F.3d 614",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        12277595
+      ],
+      "weight": 4,
+      "year": 2017,
+      "pin_cites": [
+        {
+          "page": "626-27"
+        },
+        {
+          "page": "626"
+        },
+        {
+          "page": "624"
+        },
+        {
+          "page": "626"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/848/0614-01"
+      ]
+    },
+    {
+      "cite": "559 F.3d 348",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        5656117
+      ],
+      "year": 2009,
+      "pin_cites": [
+        {
+          "page": "352"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/559/0348-01"
+      ]
+    },
+    {
+      "cite": "573 F.3d 1037",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        6048828
+      ],
+      "year": 2009,
+      "pin_cites": [
+        {
+          "page": "1047"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/573/1037-01"
+      ]
+    },
+    {
+      "cite": "594 F.3d 1111",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        3522634
+      ],
+      "weight": 3,
+      "year": 2010,
+      "pin_cites": [
+        {
+          "page": "1115"
+        },
+        {
+          "page": "1115"
+        },
+        {
+          "page": "1118"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/594/1111-01"
+      ]
+    },
+    {
+      "cite": "616 F.3d 685",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        3767963
+      ],
+      "weight": 2,
+      "year": 2010,
+      "pin_cites": [
+        {
+          "page": "692"
+        },
+        {
+          "page": "693-94"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/616/0685-01"
+      ]
+    },
+    {
+      "cite": "598 F.3d 768",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        4222163
+      ],
+      "weight": 2,
+      "year": 2010,
+      "pin_cites": [
+        {
+          "page": "770-71"
+        },
+        {
+          "page": "770-71"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/598/0768-01"
+      ]
+    },
+    {
+      "cite": "658 F.3d 110",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        3836806
+      ],
+      "year": 2011,
+      "pin_cites": [
+        {
+          "page": "113"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/658/0110-01"
+      ]
+    },
+    {
+      "cite": "638 F.3d 581",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        4199888
+      ],
+      "year": 2011,
+      "pin_cites": [
+        {
+          "page": "586"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/638/0581-01"
+      ]
+    },
+    {
+      "cite": "666 F.3d 313",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        6051646
+      ],
+      "year": 2012,
+      "pin_cites": [
+        {
+          "page": "318"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/666/0313-01"
+      ]
+    },
+    {
+      "cite": "836 F.3d 336",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        4354472
+      ],
+      "weight": 4,
+      "year": 2016,
+      "pin_cites": [
+        {
+          "page": "348"
+        },
+        {
+          "page": "339"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/836/0336-01"
+      ]
+    },
+    {
+      "cite": "633 F.3d 168",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        4090467
+      ],
+      "year": 2011,
+      "pin_cites": [
+        {
+          "page": "175",
+          "parenthetical": "overruled on other grounds by Binderup v. Attorney General , 836 F.3d 336 (3d Cir. 2016) "
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/633/0168-01"
+      ]
+    },
+    {
+      "cite": "717 F.3d 281",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        3575001
+      ],
+      "year": 2013,
+      "pin_cites": [
+        {
+          "parenthetical": "per curiam"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/717/0281-01"
+      ]
+    },
+    {
+      "cite": "561 U.S. 742",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        12455289,
+        3644508
+      ],
+      "weight": 5,
+      "year": 2010,
+      "pin_cites": [
+        {
+          "page": "786"
+        },
+        {
+          "page": "803-04"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/l-ed-2d/177/0894-01",
+        "/us/561/0742-01"
+      ]
+    },
+    {
+      "cite": "554 U.S. 570",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        3677081
+      ],
+      "weight": 13,
+      "year": 2008,
+      "pin_cites": [
+        {
+          "page": "595"
+        },
+        {
+          "page": "626"
+        },
+        {
+          "page": "634-35"
+        },
+        {
+          "page": "626"
+        },
+        {
+          "page": "635"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/554/0570-01"
+      ]
+    },
+    {
+      "cite": "18 U.S.C. \u00a7 925",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "pin_cites": [
+        {
+          "page": "(c)"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "18 U.S.C. \u00a7 921",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "pin_cites": [
+        {
+          "page": "(a)(20)"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "18 U.S.C. \u00a7 922",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "pin_cites": [
+        {
+          "page": "(g)(1)"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "Wyo. Stat. Ann. \u00a7 23-6-202",
+      "category": "laws:leg_statute",
+      "reporter": "Wyo. Stat. Ann.",
+      "year": 1981,
+      "pin_cites": [
+        {
+          "page": "(a)(v)"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "Wyo. Stat. Ann. \u00a7 23-3-403",
+      "category": "laws:leg_statute",
+      "reporter": "Wyo. Stat. Ann.",
+      "year": 1989,
+      "opinion_index": 0
+    },
+    {
+      "cite": "18 U.S.C. \u00a7 1014",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 1251,
+    "char_count": 26502,
+    "pagerank": {
+      "raw": 6.871042690915991e-08,
+      "percentile": 0.41833906146651795
+    },
+    "sha256": "45404ba3b2b3e0d01422bbb8e0987de33c92fc233395a99cc18e0af860d7806e",
+    "simhash": "1:b9d8a8a420373561",
+    "word_count": 4233
+  },
+  "last_updated": "2024-02-27T18:46:17.308091+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "file_name": "0152-01",
+  "first_page_order": 152,
+  "last_page_order": 161
+}

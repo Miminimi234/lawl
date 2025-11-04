@@ -1,0 +1,483 @@
+{
+  "id": 3726174,
+  "name": "John DOE, Petitioner, v. Eric H. HOLDER, Jr., Attorney General, Respondent",
+  "name_abbreviation": "Doe v. Holder",
+  "decision_date": "2013-11-27",
+  "docket_number": "No. 09-72161",
+  "first_page": "871",
+  "last_page": "880",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "736 F.3d 871"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "9th Cir.",
+    "id": 8826,
+    "name": "United States Court of Appeals for the Ninth Circuit"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "629 F.3d 1083",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        4078509
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/629/1083-01"
+      ]
+    },
+    {
+      "cite": "94 F.3d 1353",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        11344585
+      ],
+      "pin_cites": [
+        {
+          "page": "1356"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/94/1353-01"
+      ]
+    },
+    {
+      "cite": "655 F.2d 920",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1262173
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/655/0920-01"
+      ]
+    },
+    {
+      "cite": "488 F.3d 1154",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        2914813
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/488/1154-01"
+      ]
+    },
+    {
+      "cite": "367 F.3d 1206",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        9250023
+      ],
+      "pin_cites": [
+        {
+          "page": "1214"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/367/1206-01"
+      ]
+    },
+    {
+      "cite": "418 F.3d 1082",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        8940816
+      ],
+      "pin_cites": [
+        {
+          "page": "1090-91"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/418/1082-01"
+      ]
+    },
+    {
+      "cite": "8 C.F.R. \u00a7 1208.13",
+      "category": "laws:admin_compilation",
+      "reporter": "C.F.R.",
+      "pin_cites": [
+        {
+          "page": "(b)(3)"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "320 F.3d 1061",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        9329323
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "1069"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/320/1061-01"
+      ]
+    },
+    {
+      "cite": "383 F.3d 1112",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        9213074
+      ],
+      "pin_cites": [
+        {
+          "page": "1115, 1121"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/383/1112-01"
+      ]
+    },
+    {
+      "cite": "399 F.3d 1148",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        1546977
+      ],
+      "pin_cites": [
+        {
+          "page": "1154"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/399/1148-01"
+      ]
+    },
+    {
+      "cite": "613 F.3d 938",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        3702876
+      ],
+      "pin_cites": [
+        {
+          "page": "941"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/613/0938-01"
+      ]
+    },
+    {
+      "cite": "184 F.3d 1029",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        11547919
+      ],
+      "year": 1999,
+      "pin_cites": [
+        {
+          "page": "1036"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/184/1029-01"
+      ]
+    },
+    {
+      "cite": "213 F.3d 1192",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        11516662
+      ],
+      "pin_cites": [
+        {
+          "page": "1198"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/213/1192-01"
+      ]
+    },
+    {
+      "cite": "103 F.3d 1482",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        1037
+      ],
+      "pin_cites": [
+        {
+          "page": "1490"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/103/1482-01"
+      ]
+    },
+    {
+      "cite": "399 F.3d 1163",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        1547106
+      ],
+      "pin_cites": [
+        {
+          "page": "1171-72"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/399/1163-01"
+      ]
+    },
+    {
+      "cite": "723 F.3d 1056",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        4065269
+      ],
+      "pin_cites": [
+        {
+          "page": "1064"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/723/1056-01"
+      ]
+    },
+    {
+      "cite": "393 F.3d 858",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        9173369
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "863-64"
+        },
+        {
+          "page": "864",
+          "parenthetical": "alteration omitted"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/393/0858-01"
+      ]
+    },
+    {
+      "cite": "8 C.F.R. \u00a7 208.13",
+      "category": "laws:admin_compilation",
+      "reporter": "C.F.R.",
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "(b)(1)"
+        },
+        {
+          "page": "(b)(1)"
+        },
+        {
+          "page": "(b)(1)(i)"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "8 U.S.C. \u00a7 1101",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "(a)(42)(A)"
+        },
+        {
+          "page": "(a)(42)(A)"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "8 U.S.C. \u00a7 1252",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "pin_cites": [
+        {
+          "page": "(b)(4)(B)",
+          "parenthetical": "in reviewing an order of removal, \"the administrative findings of fact are conclusive unless any reasonable adjudicator would be compelled to conclude to the contrary\""
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "58 F.3d 1425",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        7413925
+      ],
+      "pin_cites": [
+        {
+          "page": "1431"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/58/1425-01"
+      ]
+    },
+    {
+      "cite": "613 F.3d 924",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        3702552
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "931"
+        },
+        {
+          "page": "931",
+          "parenthetical": "internal quotation marks omitted"
+        },
+        {
+          "page": "936",
+          "parenthetical": "\"As with asylum, to show past persecution, an applicant for withholding of removal must show that government forces have either directly persecuted him or were unable or unwilling to control private persecutors.\""
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/613/0924-01"
+      ]
+    },
+    {
+      "cite": "261 F.3d 771",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        9497109
+      ],
+      "pin_cites": [
+        {
+          "page": "773"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/261/0771-01"
+      ]
+    },
+    {
+      "cite": "293 F.3d 1089",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        9419198
+      ],
+      "pin_cites": [
+        {
+          "page": "1093"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/293/1089-01"
+      ]
+    },
+    {
+      "cite": "217 F.3d 646",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        11196322
+      ],
+      "pin_cites": [
+        {
+          "page": "654"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/217/0646-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 1099,
+    "char_count": 27053,
+    "ocr_confidence": 0.681,
+    "pagerank": {
+      "raw": 2.348215233431449e-07,
+      "percentile": 0.7929400517173009
+    },
+    "sha256": "fa96cfd4aacb0e3f2d140d77fcb2815cd64e58d73bb75ebe971bb3d013e902a9",
+    "simhash": "1:63b89d3c93617b47",
+    "word_count": 4375
+  },
+  "last_updated": "2024-02-27T16:55:59.249303+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before: ARTHUR L. ALARC\u00d3N, RAYMOND C. FISHER, and MARSHA S. BERZON, Circuit Judges."
+    ],
+    "parties": [
+      "John DOE, Petitioner, v. Eric H. HOLDER, Jr., Attorney General, Respondent."
+    ],
+    "opinions": [
+      {
+        "text": "OPINION\nALARC\u00d3N, Senior Circuit Judge:\nJohn Doe has petitioned for a review by this Court of the Board of Immigration Appeals\u2019 (\u201cBIA\u201d) dismissal of his appeal from the denial of his applications for asylum, withholding of removal, and relief under the Convention Against Torture (\u201cCAT\u201d). He contends that he has a well-founded fear of future persecution if he is removed to Russia because he is a homosexual. An immigration judge (\u201cIJ\u201d) found, and the BIA did not disagree, that Doe had been subjected to past persecution in Russia by nongovernmental forces because he is a homosexual. The IJ concluded, however, that Doe failed to carry his burden of demonstrating that the Russian government was unable or unwilling to control his nongovernmental persecutors.\nThe BIA dismissed Doe\u2019s appeal from the IJ\u2019s decision based on the BIA\u2019s conclusion that Doe \u201cfailed to demonstrate that the government was unable or unwilling to control the non-governmental actors who attacked the Respondent in Russia\u201d or prove that \u201cthere is widespread persecution of homosexuals in Russia which is sponsored or condoned by the Russian government.\u201d\nWe grant the petition in this matter because we conclude that Doe met his burden of presenting evidence that the Russian government was unable or unwilling to control the nongovernmental actors who persecuted him because he is a homosexual. We also hold that in order to obtain the relief he requested, Doe was not required to demonstrate that the Russian government sponsored or condoned the persecution of homosexuals or was unwilling for that reason to control persecution of Doe. We remand with directions that the BIA determine whether the Government can meet by a preponderance of the evidence its burden of demonstrating either that changed circumstances in Russia overcome the presumption that Doe has a well-founded fear of future persecution based on the past persecution he was subjected to because he is a homosexual or that Doe reasonably can relocate to an area of safety within Russia.\nI\nA\nDoe is a Russian citizen who was born in Ulan-Ude, the capital of the Republic of Buryatia, and is ethnically a Buryat. Doe identifies his sexual orientation as homosexual or bisexual.\nAfter high school, Doe attended East Siberian Technological University in Ulan-Ude for two years. During his first year, Doe joined a club for homosexuals, called Kletka. Members of Kletka socialized and supported each other when they had problems. In April 2002, when he was eighteen years old, some of Doe\u2019s classmates from the university saw him socializing with members of Kletka and surmised that Doe was a homosexual. When Doe returned to school the following Monday, almost \u201ceverybody [he] knew\u201d \u2014 classmates, persons from Doe\u2019s wrestling club, students from his former school \u2014 began mocking him.\nIn his testimony, Doe described two violent attacks. The first occurred in September 2002 while he was walking in a park with his partner, Mark. A group of five persons, some of whom were Doe\u2019s classmates, approached Doe and Mark and asked what they were doing. Doe at first remained silent or gave short answers. The group then became enraged, pushing Mark and knocking Doe to the ground where they beat and kicked him. Doe attempted to defend himself, but he could not. His attackers\u2019 assaults injured his eye and bruised his body, but he was able to go home unassisted.\nFollowing the attack, Doe went to the police station and filed \u201can application for a complaint\u201d describing the attack and naming his assailants. The police officer on duty told Doe that he did not want to receive the report and that Doe\u2019s injuries were \u201cjust bruises, nothing.\u201d The officer then discussed Doe\u2019s complaint with his supervisor and told Doe \u201cto wait for the boss.\u201d When the officer returned, he told Doe that \u201cmaybe [he could] come back later\u201d and that his \u201ccase is not so serious.\u201d The officer further commented that Doe was a man and asked why he had not defended himself. Doe testified that the police were \u201creally busy and physically [could] not examine] [his] report.\u201d Doe eventually left, because \u201c[t]hey simply clearly let [him] know that they d[id]n\u2019t want to consider it at all.\u201d\nAfter the first incident, Doe continued to suffer harassment and was pushed and hit \u201c[a]lmost constantly.\u201d During a second attack in April 2003, Doe was beaten severely while he was at a restaurant with Mark. Between five and ten persons, three of whom Doe knew, entered the restaurant and sat near Doe and Mark. A man named Timur spoke to him in a kind tone at first, but then began to speak more rudely. Timur then hugged Doe, stuck his tongue out at him, and asked Doe, \u201c[D]o you like this? Do you like this?\u201d Timur then \u201cstarted to say dirty words.\u201d Doe pushed Timur away. Timur hit Doe, and the group joined in, beating both Doe and Mark. Doe was beaten until he lost consciousness. He regained consciousness in the ambulance on the way to the hospital.\nDoe suffered internal brain hemorrhaging and a concussion as a result of the attack. He was hospitalized for three weeks.\nWhile Doe was in the hospital, his father reported the attack on his son to the police. Law enforcement officers interviewed Doe at the hospital. Doe told the police officers what happened and provided the names of some of his attackers. Doe does not believe that police took any further action aside from conducting this initial interview, because his attackers \u201cwere just walking free.\u201d\nDoe introduced into evidence a \u201cConfirmation Paper\u201d he received from law enforcement officers. The Confirmation Paper states that his father\u2019s application for the prosecution of Doe\u2019s persecutors \u201cwas rejected on the basis of Criminal Code of the Russian Federation, Regulation 24 Chapter 1 Paragraph 2.\u201d The Confirmation Paper did not set forth the text of the regulation. No evidence was presented to the BIA by Doe or the Government regarding the contents of Regulation 24.\nAfter Doe was released from the hospital, he saw some of his attackers. At first, they ignored him, but they soon began harassing him again.\nIn July 2003, Doe moved to Moscow, where he lived for approximately four months, until November 2003. Doe testified that while he was in Moscow, he was discriminated against based on his ethnicity. Doe testified that persons he encountered said things like, \u201c[Y]ou narrow slanted eye person.\u201d He could not find work. In addition, police stopped Doe on several occasions to check his registration, but did not stop people near Doe who were ethnically Russian. On one occasion, a police officer detained Doe for several hours because the officer suspected that Doe\u2019s registration documents were false. The officer eventually released Doe after concluding that his documents were genuine. Doe believed the police stopped him because he is not ethnically Russian and he does not \u201clook like the typical Russian person.\u201d\nDoe moved from Moscow to the United States on November 11, 2003, to attend American Language Communications Center in New York on a nonimmigrant student visa.\nOn February 14, 2005, the Department of Homeland Security filed a notice to appear, which initiated removal proceedings against Doe because he violated the conditions of his nonimmigrant status when he stopped attending school. Doe admitted the factual allegations at the notice to appear hearing and conceded his removability as charged.\nDoe applied for asylum, under \u00a7 208 of the Immigration and Nationality Act (\u201cINA\u201d), and withholding of removal, under INA \u00a7 241(b)(3). Doe also sought relief under the Convention Against Torture. Alternatively, Doe requested voluntary departure. Doe argued he was eligible for asylum because he suffered past persecution on account of his membership in a particular social group, specifically, \u201cgay people, or homosexuals,\u201d and had a well-founded fear of facing future persecution if returned to Russia. He also argued that he could not reasonably relocate to Moscow, because of ethnic discrimination, including harassment and inability to find work, that he faced there. The IJ found that Doe \u201ctestified credibly and his application was credible.\u201d\nB\nOn October 29, 2007, the IJ denied Doe\u2019s application for asylum, withholding of removal, and relief under CAT. The IJ concluded that Doe suffered physical injury and persecution in April 2003 on account of a \u201ccognizable particular social group consisting of homosexuals.\u201d The IJ found, however, that \u201cthe record does not support the conclusion that the government was unable or unwilling to protect the respondent.\u201d\nIn finding that Doe failed to prove that the Russian government was unable or unwilling to protect him, the IJ stated that \u201cthe comments of the officer at the time of the first incident do indeed reflect societal prejudices.\u201d The IJ also commented, however, that while he did \u201cnot condone the police reaction to the first incident,\u201d the two incidents were \u201cbest considered together.\u201d The IJ noted that the police officers responded to Doe\u2019s father\u2019s report regarding the second violent attack by coming to the hospital to interview Doe. The IJ observed that the police rejected that report on the basis of a specific provision of Russian law, but that the record did not contain evidence of what the cited code section said. The IJ stated, \u201cWithout more the Court is unable to conclude that the police decision was based on an improper motive,\u201d because the Russian police had taken \u201caffirmative action in response to the complaint and appeared not to have rejected the complaint out of hand.\u201d As a result, the IJ held, \u201c[T]he record does not support the conclusion that the government was unable or unwilling to protect the respondent.\u201d\nThe IJ also determined that Doe \u201cwas apparently able to relocate to Moscow.\u201d While noting that Moscow was \u201cinhospitable in certain ways\u201d to ethnic minorities, the IJ reasoned that Doe should be able to relocate to Moscow because he \u201chad no serious problems during his time there.\u201d The IJ stated that he had taken notice of the \u201cbackground evidence submitted regarding the difficulties that gay people have in Russia,\u201d but determined that Doe\u2019s experiences in Moscow \u201cdemonstrate that it is possible for gay people to live there without having these things happen to them.\u201d\nThe IJ further concluded that, because Doe did not meet the lower burden of proof that is applicable to an application for asylum, he failed to meet the higher burden required for withholding of removal. The IJ also denied Doe\u2019s relief under CAT, concluding that he failed to prove that it was \u201cmore likely than not\u201d that he would be tortured if he was removed to Russia. Finally, the IJ granted Doe\u2019s application for voluntary departure.\nC\nDoe filed a notice of appeal with the BIA on November 23, 2007. In his appeal, he contended that the IJ erred in concluding that the police were unable or unwilling to protect him, and in finding that he could relocate to Moscow in light of his homosexuality and ethnicity. The BIA agreed with the IJ that Doe \u201cfailed to establish his eligibility for asylum and withholding of removal.\u201d The BIA held that Doe failed to prove that the Russian government was unable or unwilling to control his attackers. The BIA reasoned that Doe\u2019s \u201cclaim is based on isolated hate crimes which, while deplorable, do not establish his eligibility for asylum or withholding of removal.\u201d It concluded that Doe had \u201cnot shown that there is widespread persecution of homosexuals in Russia which is sponsored or condoned by the Russian government.\u201d\nThe BIA held that Doe had not demonstrated that \u201cthe police, who interviewed [him] after he was attacked in 2003, failed to conduct adequate investigations due to [his] homosexuality.\u201d The BIA stated that \u201cthe 2003 complaint was ultimately rejected based on a specific Russian law.\u201d It emphasized that Doe \u201cfailed to explain the Russian law cited in the certificate\u201d and bore \u201cthe burden of establishing foreign law on which he ... relie[d].\u201d The BIA also reasoned that Doe \u201cdid not establish that the cited law was merely a pretext for ignoring [his] complaint because of his sexual orientation.\u201d The BIA concluded that, as a result, Doe had \u201cfailed to establish that he was persecuted in the past on account of his sexual orientation, or that he faces an objectively reasonable risk of persecution on account of the same if he returns to Russia, at the hands of individuals whom the government is unable or unwilling to control.\u201d\nThe BIA further held that Doe did not demonstrate a \u201cwell-founded fear of [future] persecution on account of his ethnicity,\u201d because the problems Doe experienced in Moscow related to his ethnicity did not rise to the level of persecution. The BIA also concluded that the evidence in the record \u201cof discrimination as well as isolated incidents of violence against individuals of non-Russian ethnicity does not demonstrate that the respondent faces a realistic probability of experiencing harm rising to the level of persecution, as opposed to harassment or discrimination, upon return to Russia.\u201d\nDoe timely petitioned for review of the IJ\u2019s decision on July 13, 2009. .\nII\nA\nWe first address the question whether the BIA erred in .concluding that Doe failed to carry his burden of demonstrating that the Russian government was unable or unwilling to protect him from past persecution by nongovernmental actors. Doe seeks asylum and withholding of removal on the ground that he suffered past persecution in Russia on account of his homosexuality.\nWhere, as here, \u201cthe BIA conducted an independent review of the record and provided its own grounds for affirming the IJ\u2019s decision,\u201d we review only the BIA\u2019s opinion, Navas v. INS, 217 F.3d 646, 654 (9th Cir.2000), except to the extent the BIA expressly adopted portions of the IJ\u2019s decision, see Molina-Estrada v. INS, 293 F.3d 1089, 1093 (9th Cir.2002) (\u201cWhere, as here, the BIA has reviewed the IJ\u2019s decision and incorporated portions of it as its own, we treat the incorporated parts of the IJ\u2019s decision as the BIA\u2019s.\u201d).\nWe review the BIA\u2019s construction and application of the law de novo. See Murillo-Espinoza v. INS, 261 F.3d 771, 773 (9th Cir.2001). \u201cWe review the BIA\u2019s findings of fact for substantial evidence\u201d and \u201cgrant the petition only if the evidence compels a contrary conclusion from that adopted by the BIA.\u201d Afriyie v. Holder, 613 F.3d 924, 931 (9th Cir.2010) (citing Ghaly v. INS, 58 F.3d 1425, 1431 (9th Cir.1995)); see 8 U.S.C. \u00a7 1252(b)(4)(B) (in reviewing an order of removal, \u201cthe administrative findings of fact are conclusive unless any reasonable adjudicator would be compelled to conclude to the contrary\u201d).\nB\nTo qualify for asylum and withholding of removal, a person who is outside the country of his or her nationality must establish that he is unable or unwilling to return to it \u201cbecause of persecution or a well-founded fear of persecution on account of race, religion, nationality, membership in a particular social group, or political opinion.\u201d 8 U.S.C. \u00a7 1101(a)(42)(A).\nAn applicant can make this showing, and be eligible for asylum, in two ways. First, the applicant can show past persecution on account of a protected ground. 8 C.F.R. \u00a7 208.13(b)(1). Once past persecution is demonstrated, then fear of future persecution is presumed, and the burden shifts to the government to show, by a preponderance of the evidence, that \u201cthere has been a fundamental change in circumstances such that the applicant no longer has a well-founded fear of persecution,\u201d or \u201c[t]he applicant could avoid future persecution by relocating to another part of the applicant\u2019s country.\u201d 8 C.F.R. \u00a7 208.13(b)(1)\u00a9 & (ii).\nDeloso v. Ashcroft, 393 F.3d 858, 863-64 (9th Cir.2004).\nWe have previously held that \u201chomosexuals are a \u2018particular social group,\u2019 and therefore that homosexuality is a protected ground.\u201d Vitug v. Holder, 723 F.3d 1056, 1064 (9th Cir.2013) (citing Karouni v. Gonzales, 399 F.3d 1163, 1171-72 (9th Cir.2005)).\nTo demonstrate entitlement to asylum or withholding of removal on the basis of past persecution, an applicant must present substantial evidence of \u201c(1) an incident, or incidents, that rise to the level of persecution; (2) that is on account of one of the statutorily-protected grounds; and (3)is committed by the government or forces the government is either unable or unwilling to control.\u201d Afriyie, 613 F.3d at 931 (internal quotation marks omitted); see id. at 936 (\u201cAs with asylum, to show past persecution, an applicant for withholding of removal must show that government forces have either directly persecuted him or were unable or unwilling to control private persecutors.\u201d). The only nexus required to establish a past-persecution asylum claim is that the applicant\u2019s persecution be \u201con account of\u2019 one of the statutorily enumerated grounds. See 8 U.S.C. \u00a7 1101(a)(42)(A); Sangha v. INS, 103 F.3d 1482, 1490 (9th Cir.1997) (holding that the applicant must provide some evidence, direct or circumstantial, that the persecutor was or would be motivated to persecute him because of a protected ground). In other words, the second (\u201con account of\u2019) element modifies the \u201cpersecution\u201d clause in the first element. The third element, however, independently specifies that the source of the persecution must be the government itself or persons that the government is unable or unwilling to control. Thus, where a nongovernmental actor is the source of the persecution, an applicant must present evidence (1) that the nongovernmental actor persecuted the applicant on account of a protected ground, and (2) that the government is unable or unwilling to control that nongovernmental actor.\nNeither this Court nor the Supreme Court has required (or implied) a direct nexus between the government\u2019s inability or unwillingness to control nongovernmental persecutors and a statutorily-protected ground. The only nexus requirement is that the actual persecutors, whether governmental or nongovernmental, act on a protected ground. Indeed, we have held that \u201c[i]t does not matter that financial considerations may account for such an inability to stop elements of ethnic persecution. What matters instead is that the government \u2018is unwilling or unable to control those elements of its society\u2019 committing the acts of persecution.\u201d Avetova-Elisseva v. INS, 213 F.3d 1192, 1198 (9th Cir.2000) (quoting Mgoian v. INS 184 F.3d 1029, 1036 (1999)) (emphasis in original).\nThis Court has recognized that unwillingness or inability to control persecutors is not demonstrated simply because the police ultimately were unable to solve a crime or arrest the perpetrators, where the asylum applicant failed to provide the police with sufficiently specific information to permit an investigation or an arrest. See, e.g., Truong v. Holder, 613 F.3d 938, 941 (9th Cir.2010) (declining to conclude that the Italian government was \u201ccomplicit in or unwilling to stop\u201d the applicants\u2019 persecution, where the police dutifully made reports after each incident and indicated that they would investigate, but where the attackers\u2019 identities were completely speculative); Nahrvani v. Gonzales, 399 F.3d 1148, 1154 (9th Cir.2005) (holding that the applicant had not demonstrated the government was unable or unwilling to control the perpetrators where he contended that the police failed to investigate his reports, but \u201cadmitted that he did not give the police the names of any suspects because he did not know any specific names\u201d and his wife testified \u201cthat the police investigated the complaints, but were ultimately unable to solve the crimes\u201d).\nIn contrast, in Mashiri v. Ashcroft, 383 F.3d 1112, 1115, 1121 (9th Cir.2004), we held that evidence compelled the conclusion that the government was unable or unwilling to protect the applicant where police investigated but made no arrests after the applicant\u2019s husband was beaten and \u201cquickly closed their investigation into the attack on [her family\u2019s] apartment as simple theft, despite evidence that the attack was motivated by anti-foreigner hatred.\u201d Similarly, here, Doe presented evidence that the Russian police rejected his first complaint out of hand, questioning why he did not simply defend himself, and subsequently dismissed his second complaint without doing anything more than interviewing him at the hospital where he was being treated for his injuries. The police did so even though Doe did identify his attackers both times, and there was substantial evidence that the assaults were motivated by anti-homosexual bias.\nWe are persuaded,' after reviewing this record, that the BIA erred in concluding that Doe failed to demonstrate that the Russian government was unable or unwilling to control the persons he identified as having persecuted him on account of his homosexuality. The Government failed to present any evidence to rebut Doe\u2019s undisputed testimony that he suffered serious assaults at the hands of individuals on account of his homosexuality or to show that the Russian government was able and willing to control nongovernmental actors who attack homosexuals.\nBecause the evidence demonstrated that Doe was subjected to past persecution on account of his homosexuality and that the Russian government was unable or unwilling to control his persecutors, the BIA should have presumed that Doe has a well-founded fear of future persecution. It should then have required the Government to meet its burden to show by a preponderance of the evidence that \u201cthere has been a fundamental change in circumstances such that the applicant no longer has a well-founded fear of persecution\u201d or \u201cthe applicant could avoid future persecution by relocating to another part of the applicant\u2019s country.\u201d Deloso, 393 F.3d at 864 (alteration omitted) (quoting 8 C.F.R. \u00a7 208.13(b)(1)(i)-(ii)). Because of these errors, we remand this matter to the BIA for further evidentiary proceedings to determine whether the Government can meet this burden.\nIll\nThe BIA addressed Doe\u2019s arguments regarding the discrimination and mistreatment that he suffered in Moscow on the basis of his ethnicity as a separate claim for asylum. This was error. Doe raised these issues to support his contention that he could not reasonably relocate to Moscow, not as a separate ground for asylum.\nMoreover, although the BIA and IJ found that Doe had not suffered persecution in Moscow, a different standard applies with regard to the purpose for which Doe actually raised the ethnic discrimination issue, the reasonableness of relocation. For that purpose, it is not enough for the government to establish \u201cthat applicants could escape persecution by relocating internally.\u201d Melkonian v. Ashcroft, 320 F.3d 1061, 1069 (9th Cir.2003). Instead, it also \u201cmust be reasonable to expect them to do so.\u201d Id. The applicable regulation, 8 C.F.R. \u00a7 1208.13(b)(3), sets forth a nonexhaustive list of factors that the adjudicators should consider in determining whether internal relocation is reasonable, including \u201cwhether the applicant would face other serious harm in the place of suggested relocation; any ongoing civil strife within the country; administrative, economic, or judicial infrastructure; geographical limitations; and social and cultural constraints, such as age, gender, health, and social and familial ties.\u201d To establish such factors, it is not necessary to establish persecution on account of a protected ground; difficulties short of persecution can suffice. See Boer-Sedano v. Gonzales, 418 F.3d 1082, 1090-91(9th Cir.2005) (holding that the government had not carried its burden to show that internal relocation was reasonable where the evidence showed that the petitioner \u201cwould face significant social and cultural constraints as a gay man with AIDS in Mexico, as hostility towards and discrimination against HIV/AIDS patients is common in Mexico,\u201d and would not be able to \u201cobtain his required medication\u201d); Knezevic v. Ashcroft, 367 F.3d 1206, 1214 (9th Cir.2004) (finding age, inability to find work, lack of family connections and \u201cabysmal\u201d quality of life to weigh against a finding of reasonableness).\nThe BIA did not address the reasonable feasibility of relocation at all, with respect to ethnicity or sexual orientation, as it held that Doe had not suffered cognizable past persecution on any protected ground. We remand so that it may do so, leaving it to the agency to consider the evidence of ethnic discrimination and discrimination based on sexual orientation in Moscow under the standard applicable to the relocation question.\nConclusion\nWe GRANT the petition for review of the BIA\u2019s decision that Doe is not entitled to asylum or withholding of removal because he failed to demonstrate that he met his burden of presenting substantial evidence that he has a well-founded fear of future persecution if he is removed to Russia. We REMAND for further proceedings regarding whether there has been a change in Russia regarding the persecution of homosexuals and whether it would be reasonable for Doe to relocate within Russia.\n. Petitioner moved to have this disposition filed using a pseudonym. \"We are cognizant that the identity of the parties in any action, civil or criminal, should not be concealed except in an unusual case, where there is a need for the cloak of anonymity.\u201d United States v. Doe, 488 F.3d 1154, 1155 n. 1 (9th Cir.2007) (internal quotation marks omitted). Nevertheless, we have allowed the use of pseudonyms in exceptional cases where necessary \"to protect a person from harassment, injury, ridicule or personal embarrassment.\u201d United States v. Doe, 655 F.2d 920, 922 n. 1 (9th Cir.1981). We agree that this matter presents the \"unusual case\u201d and therefore refer to Petitioner herein as \"John Doe.\u201d\n. The IJ expressly found that Doe's testimony, and the facts set forth in his application, were credible. The BIA did not contradict that finding. We are bound by that finding. Singh v. IMS (R.J.Singh), 94 F.3d 1353, 1356 (9th Cir.1996).\n. The BIA also held that Doe waived his CAT claim by failing to raise it in his appeal. In his petition to this Court, Doe does not challenge the BIA\u2019s conclusion that he waived his CAT claim or otherwise mention CAT. Thus, his CAT claim is waived. See Rizk v. Holder, 629 F.3d 1083, 1091 n. 3 (9th Cir.2011) (stating that the applicant waived withholding-of-removal and CAT claims where the claims were not raised in the opening brief).",
+        "type": "majority",
+        "author": "ALARC\u00d3N, Senior Circuit Judge:"
+      }
+    ],
+    "attorneys": [
+      "Katherine M. Lewis (argued), Van Der Hout, Brigagliano & Nightingale, LLP, Allan A. Samson, Law Office of Allan A. Samson, San Francisco, CA, for Petitioner.",
+      "Carol Federighi (argued), Senior Litigation Counsel, and Kimberly A. Burdge, Trial Attorney, United States Department of Justice, Civil Division/Office of Immigration Litigation, Washington, D.C., for Respondent."
+    ],
+    "corrections": "",
+    "head_matter": "John DOE, Petitioner, v. Eric H. HOLDER, Jr., Attorney General, Respondent.\nNo. 09-72161.\nUnited States Court of Appeals, Ninth Circuit.\nArgued and Submitted Sept. 9, 2013.\nFiled Nov. 27, 2013.\nKatherine M. Lewis (argued), Van Der Hout, Brigagliano & Nightingale, LLP, Allan A. Samson, Law Office of Allan A. Samson, San Francisco, CA, for Petitioner.\nCarol Federighi (argued), Senior Litigation Counsel, and Kimberly A. Burdge, Trial Attorney, United States Department of Justice, Civil Division/Office of Immigration Litigation, Washington, D.C., for Respondent.\nBefore: ARTHUR L. ALARC\u00d3N, RAYMOND C. FISHER, and MARSHA S. BERZON, Circuit Judges."
+  },
+  "file_name": "0871-01",
+  "first_page_order": 897,
+  "last_page_order": 906
+}

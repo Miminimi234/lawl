@@ -1,0 +1,753 @@
+{
+  "id": 12521222,
+  "name": "UNITED STATES of America v. Rehelio D. TRANT, Appellant",
+  "name_abbreviation": "United States v. Trant",
+  "decision_date": "2019-05-15",
+  "docket_number": "No. 18-3199",
+  "first_page": "83",
+  "last_page": "94",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "924 F.3d 83"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "3rd Cir.",
+    "id": 9319,
+    "name": "United States Court of Appeals for the Third Circuit"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "777 F.3d 125",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        3985805
+      ],
+      "year": 2015,
+      "pin_cites": [
+        {
+          "page": "143"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/777/0125-01"
+      ]
+    },
+    {
+      "cite": "401 U.S. 321",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11712407
+      ],
+      "weight": 3,
+      "year": 1971,
+      "pin_cites": [
+        {
+          "page": "331-32"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/401/0321-01"
+      ]
+    },
+    {
+      "cite": "915 F.2d 865",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        10538797
+      ],
+      "year": 1990,
+      "pin_cites": [
+        {
+          "page": "876",
+          "parenthetical": "stating that ruling on a motion to reopen a suppression hearing after remand \"is similar to ... ruling on a motion by the [G]overnment to reopen\""
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/915/0865-01"
+      ]
+    },
+    {
+      "cite": "534 F. App'x 132",
+      "category": "reporters:federal",
+      "reporter": "F. App'x",
+      "case_ids": [
+        4177459
+      ],
+      "year": 2013,
+      "pin_cites": [
+        {
+          "page": "136",
+          "parenthetical": "same"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f-appx/534/0132-01"
+      ]
+    },
+    {
+      "cite": "595 F. App'x 152",
+      "category": "reporters:federal",
+      "reporter": "F. App'x",
+      "case_ids": [
+        5754194
+      ],
+      "year": 2014,
+      "pin_cites": [
+        {
+          "page": "154",
+          "parenthetical": "same"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f-appx/595/0152-01"
+      ]
+    },
+    {
+      "cite": "792 F.3d 310",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        6055410
+      ],
+      "year": 2015,
+      "pin_cites": [
+        {
+          "page": "314"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/792/0310-01"
+      ]
+    },
+    {
+      "cite": "904 F.2d 1070",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        10540818
+      ],
+      "year": 1990,
+      "pin_cites": [
+        {
+          "page": "1076",
+          "parenthetical": "\"The fact that the gun was not produced at trial or that the witnesses did not have an opportunity to examine closely the weapon does not prevent conviction of a firearm offense.\""
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/904/1070-01"
+      ]
+    },
+    {
+      "cite": "150 F.3d 269",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        1540612
+      ],
+      "year": 1998,
+      "pin_cites": [
+        {
+          "page": "273"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/150/0269-01"
+      ]
+    },
+    {
+      "cite": "363 F.3d 200",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        9265012
+      ],
+      "year": 2004,
+      "pin_cites": [
+        {
+          "page": "210-11"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/363/0200-01"
+      ]
+    },
+    {
+      "cite": "349 F.3d 109",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        9065104
+      ],
+      "year": 2003,
+      "pin_cites": [
+        {
+          "page": "123"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/349/0109-01"
+      ]
+    },
+    {
+      "cite": "99 F.3d 570",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        7650765
+      ],
+      "weight": 2,
+      "year": 1996,
+      "pin_cites": [
+        {
+          "page": "573",
+          "parenthetical": "concluding that the testimony of a witness, who saw a defendant's gun twice at a \"close\" range, provided \"sufficient evidence for a jury to conclude that the defendant utilized a firearm in the commission of his crime\""
+        },
+        {
+          "page": "571-73",
+          "parenthetical": "only a mailman testified to seeing the defendant's firearm"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/99/0570-01"
+      ]
+    },
+    {
+      "cite": "726 F.3d 418",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        4073591
+      ],
+      "year": 2013,
+      "pin_cites": [
+        {
+          "page": "430",
+          "parenthetical": "en banc"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/726/0418-01"
+      ]
+    },
+    {
+      "cite": "18 U.S.C. \u00a7 921",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "weight": 4,
+      "pin_cites": [
+        {
+          "page": "(a)(3)"
+        },
+        {
+          "page": "(a)(3)(A)"
+        },
+        {
+          "page": "(a)(3)",
+          "parenthetical": "excluding \"an antique firearm\" from the definition of a firearm"
+        },
+        {
+          "page": "(a)(3)"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "326 F.3d 210",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        9311916
+      ],
+      "year": 2003,
+      "pin_cites": [
+        {
+          "page": "219"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/326/0210-01"
+      ]
+    },
+    {
+      "cite": "475 U.S. 673",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6207521
+      ],
+      "weight": 5,
+      "year": 1986,
+      "pin_cites": [
+        {
+          "page": "680"
+        },
+        {
+          "page": "680"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/475/0673-01"
+      ]
+    },
+    {
+      "cite": "507 U.S. 725",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6237509
+      ],
+      "weight": 10,
+      "year": 1993,
+      "pin_cites": [
+        {
+          "page": "731-34"
+        },
+        {
+          "page": "734"
+        },
+        {
+          "page": "732-34",
+          "parenthetical": "internal quotation marks omitted"
+        },
+        {
+          "parenthetical": "internal quotation marks omitted"
+        },
+        {
+          "parenthetical": "internal quotation marks omitted"
+        },
+        {
+          "page": "736"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/507/0725-01"
+      ]
+    },
+    {
+      "cite": "464 F.3d 443",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        3731135
+      ],
+      "year": 2006,
+      "pin_cites": [
+        {
+          "page": "448"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/464/0443-01"
+      ]
+    },
+    {
+      "cite": "539 F.2d 697",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1039969
+      ],
+      "weight": 3,
+      "year": 1976,
+      "pin_cites": [
+        {
+          "page": "700"
+        },
+        {
+          "page": "699-700"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/539/0697-01"
+      ]
+    },
+    {
+      "cite": "751 F.3d 107",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        4070402
+      ],
+      "weight": 2,
+      "year": 2014,
+      "pin_cites": [
+        {
+          "page": "114",
+          "parenthetical": "holding that the nonmoving parties were not prejudiced by the District Court's granting a motion to reopen the record on remand because they had notice of the evidence to be offered and an opportunity to rebut the evidence"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/751/0107-01"
+      ]
+    },
+    {
+      "cite": "866 F.3d 76",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        12275339
+      ],
+      "year": 2017,
+      "pin_cites": [
+        {
+          "parenthetical": "\"Reopening may ... be permitted to allow the presentation of evidence about a technical matter overlooked by inadvertence.\" (internal quotation marks and citation omitted)"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/866/0076-01"
+      ]
+    },
+    {
+      "cite": "602 F.3d 152",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        3919909
+      ],
+      "weight": 2,
+      "year": 2010,
+      "pin_cites": [
+        {
+          "parenthetical": "noting that district courts \"have wide discretion in the management of their cases\" (internal quotation marks and citation omitted)"
+        },
+        {
+          "page": "176",
+          "parenthetical": "noting district courts have \"broad discretion\" to engage in case management during trial"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/602/0152-01"
+      ]
+    },
+    {
+      "cite": "596 F.2d 759",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        502987
+      ],
+      "year": 1979,
+      "pin_cites": [
+        {
+          "page": "778"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/596/0759-01"
+      ]
+    },
+    {
+      "cite": "775 F.2d 735",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        41865
+      ],
+      "year": 1985,
+      "pin_cites": [
+        {
+          "page": "741"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/775/0735-01"
+      ]
+    },
+    {
+      "cite": "233 F.3d 101",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        11172545
+      ],
+      "year": 2000,
+      "pin_cites": [
+        {
+          "page": "106"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/233/0101-01"
+      ]
+    },
+    {
+      "cite": "403 F.3d 1278",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        9022219
+      ],
+      "year": 2005,
+      "pin_cites": [
+        {
+          "page": "1283-88"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/403/1278-01"
+      ]
+    },
+    {
+      "cite": "432 F.3d 573",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        556273
+      ],
+      "year": 2005,
+      "pin_cites": [
+        {
+          "page": "579"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/432/0573-01"
+      ]
+    },
+    {
+      "cite": "599 F.3d 215",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        4224029
+      ],
+      "year": 2010,
+      "pin_cites": [
+        {
+          "page": "247-48"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/599/0215-01"
+      ]
+    },
+    {
+      "cite": "764 F.3d 997",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        4182398
+      ],
+      "year": 2014,
+      "pin_cites": [
+        {
+          "page": "1001"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/764/0997-01"
+      ]
+    },
+    {
+      "cite": "872 F.3d 293",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        12264471
+      ],
+      "year": 2017,
+      "pin_cites": [
+        {
+          "page": "298-99"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/872/0293-01"
+      ]
+    },
+    {
+      "cite": "218 F.3d 213",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        11193275
+      ],
+      "weight": 8,
+      "year": 2000,
+      "pin_cites": [
+        {
+          "page": "220"
+        },
+        {
+          "parenthetical": "internal quotation marks and citation omitted"
+        },
+        {
+          "page": "219",
+          "parenthetical": "internal quotation marks and citation omitted"
+        },
+        {
+          "page": "219-20"
+        },
+        {
+          "page": "219"
+        },
+        {
+          "page": "219",
+          "parenthetical": "same"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/218/0213-01"
+      ]
+    },
+    {
+      "cite": "296 F.3d 176",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        9402643
+      ],
+      "weight": 7,
+      "year": 2002,
+      "pin_cites": [
+        {
+          "page": "181",
+          "parenthetical": "quoting United States v. Kithcart , 218 F.3d 213, 220 (3d Cir. 2000) "
+        },
+        {
+          "page": "180"
+        },
+        {
+          "page": "180",
+          "parenthetical": "internal quotation marks and citation omitted"
+        },
+        {
+          "page": "182",
+          "parenthetical": "internal quotation marks and citation omitted"
+        },
+        {
+          "page": "181"
+        },
+        {
+          "page": "181"
+        },
+        {
+          "page": "180"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/296/0176-01"
+      ]
+    },
+    {
+      "cite": "28 U.S.C. \u00a7 1291",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "48 U.S.C. \u00a7 1612",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "pin_cites": [
+        {
+          "page": "(a)"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "18 U.S.C. \u00a7 3231",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "891 F.3d 93",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        12517161
+      ],
+      "weight": 2,
+      "year": 2018,
+      "pin_cites": [
+        {
+          "page": "111"
+        },
+        {
+          "page": "111"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/891/0093-01"
+      ]
+    },
+    {
+      "cite": "18 U.S.C. \u00a7 922",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "(g)(1)"
+        },
+        {
+          "page": "(g)(1)"
+        }
+      ],
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 1206,
+    "char_count": 29313,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.259319944907985
+    },
+    "sha256": "2efbdd7797a80ef045934f6e743651e9ea312f28781dab30efa8df6d2a59f2c1",
+    "simhash": "1:defa4bb72a297f6b",
+    "word_count": 4754
+  },
+  "last_updated": "2024-02-27T18:46:58.656971+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "file_name": "0083-01",
+  "first_page_order": 83,
+  "last_page_order": 94
+}

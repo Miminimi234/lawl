@@ -1,0 +1,266 @@
+{
+  "id": 1878807,
+  "name": "Robert KING, Plaintiff-Appellant, v. James W. FAIRMAN, Warden, and Joseph Galassi, Defendants-Appellees",
+  "name_abbreviation": "King v. Fairman",
+  "decision_date": "1993-06-18",
+  "docket_number": "No. 91-3080",
+  "first_page": "259",
+  "last_page": "263",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "997 F.2d 259"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "7th Cir.",
+    "id": 9010,
+    "name": "United States Court of Appeals for the Seventh Circuit"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "427 U.S. 215",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6175486
+      ],
+      "weight": 3,
+      "year": 1976,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/427/0215-01"
+      ]
+    },
+    {
+      "cite": "741 F.2d 896",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        618563
+      ],
+      "pin_cites": [
+        {
+          "page": "900"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/741/0896-01"
+      ]
+    },
+    {
+      "cite": "111 S.Ct. 2321",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        1107993
+      ],
+      "weight": 2,
+      "year": 1990,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/501/0294-01"
+      ]
+    },
+    {
+      "cite": "839 F.2d 392",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        10544005
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/839/0392-01"
+      ]
+    },
+    {
+      "cite": "897 F.2d 896",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        10535815
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/897/0896-01"
+      ]
+    },
+    {
+      "cite": "441 U.S. 520",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        1780223
+      ],
+      "weight": 3,
+      "year": 1979,
+      "pin_cites": [
+        {
+          "page": "1878"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/441/0520-01"
+      ]
+    },
+    {
+      "cite": "780 F.2d 645",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1531408
+      ],
+      "weight": 4,
+      "pin_cites": [
+        {
+          "page": "652-53"
+        },
+        {
+          "page": "653"
+        },
+        {
+          "page": "655"
+        },
+        {
+          "page": "653"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/780/0645-01"
+      ]
+    },
+    {
+      "cite": "944 F.2d 344",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        10522041
+      ],
+      "weight": 4,
+      "pin_cites": [
+        {
+          "page": "347"
+        },
+        {
+          "page": "347"
+        },
+        {
+          "page": "350"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/944/0344-01"
+      ]
+    },
+    {
+      "cite": "959 F.2d 673",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        10521218
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "677"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/959/0673-01"
+      ]
+    },
+    {
+      "cite": "915 F.2d 1141",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        10540262
+      ],
+      "pin_cites": [
+        {
+          "page": "1143"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/915/1141-01"
+      ]
+    },
+    {
+      "cite": "940 F.2d 1055",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        10527357
+      ],
+      "pin_cites": [
+        {
+          "page": "1057"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/940/1055-01"
+      ]
+    },
+    {
+      "cite": "42 U.S.C. \u00a7 1983",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 770,
+    "char_count": 13588,
+    "ocr_confidence": 0.723,
+    "pagerank": {
+      "raw": 1.630328181714551e-07,
+      "percentile": 0.6887799250072109
+    },
+    "sha256": "1406b59afae60fd59d9302f85b584858b8a1f68047a4033a6daaf2049ec437ce",
+    "simhash": "1:3ecf18b534dc9555",
+    "word_count": 2135
+  },
+  "last_updated": "2024-02-27T17:31:44.102237+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before FLAUM, MANION, and ROVNER, Circuit Judges."
+    ],
+    "parties": [
+      "Robert KING, Plaintiff-Appellant, v. James W. FAIRMAN, Warden, and Joseph Galassi, Defendants-Appellees."
+    ],
+    "opinions": [
+      {
+        "text": "FLAUM, Circuit Judge.\nRobert King was sent to the Pontiac Correctional Center in 1981 after being convicted of murder and armed robbery. He continued his longtime affiliation with the Black Gangster Disciples, acting as the chief of security for the Pontiac branch of the gang. In 1984, King and three fellow Disciples attacked two other inmates and consequently were placed in disciplinary segregation. While in segregation, King decided to sever his ties with the Disciples and, as a gesture of good faith, he turned over to a prisoner\u2019s advocate a zip gun stashed in the prison. The warden put him in protective custody to prevent retaliation by the Disciples and then transferred him to the Joliet Correctional Center.\nKing lived in Joliet for two years. Despite the presence of Disciples at Joliet, he rejected the offer of protective custody, preferring to live in the general population. In November of 1986, Joliet staff members discovered that King had engaged in a sexual relationship with Frieda Harris, a Leisure Time Activities Director. King admitted the sexual liaison, but Harris, who enjoyed the protection of her union\u2019s collective bargaining agreement, denied the affair. Faced with a potentially serious security problem, the warden at Joliet, James Fairman, began procedures to transfer King to another prison. King\u2019s security classification required that he be housed in a maximum security prison. Pontiac, Joliet, Menard, and Stateville are Illinois\u2019 maximum security prisons. For King, the only alternatives were Menard and Stateville. Neither is a particularly attractive choice; both experience inmate-to-inmate violence and both suffer from the presence of gangs including the Black Gangster Disciples. Fairman chose Menard and filed the necessary paperwork in Springfield. Joseph Galassi, the Illinois Department of Corrections Transfer Coordinator, approved King\u2019s transfer to Menard.\nWhen King heard that he was slated for transfer to Menard, he protested to an internal affairs correctional officer that he would not be safe from attack by retaliating Disciples there. King did not name any specific individuals that posed a threat. Fairman was notified of the perceived risk to King\u2019s safety at Menard. Nevertheless, he allowed the transfer to take place. King\u2019s fear of gang violence was also noted in the reports sent to Galassi, which he reviewed before approving the transfer. Upon arrival at Me-nard, King requested placement in protective custody. He chose not to speak with the inmate clerk to whom he was directed. The following day, King again requested protective custody from another officer, telling him that he was subject to a \u201cnational hit\u201d by the Disciples. The officer, Aaron Tolliver, summoned a captain, who asked King about his problem. King did not want to discuss it in the clothing room among the other inmates. The captain told King he would get back to him. In the meantime, King was left with the other inmates in the orientation unit. The next day, two days after his arrival at Menard, three inmates jumped on him as he made his way to lunch. King was struck over the eye; he received stitches for his cut and complains of early morning blurry vision. After the attack, King was placed in protective custody. He learned later that the three inmates who jumped him were Disciples.\nKing sued several officials of the Illinois Department of Corrections under 42 U.S.C. \u00a7 1983, alleging that their actions in transferring him to Menard despite the known threat to his safety amounted to cruel and unusual punishment. After a two day trial, a jury returned a verdict of $125,000 against Fairman and Galassi. The district judge granted the defendants\u2019 motion for a judgment notwithstanding the verdict, finding that the plaintiff had failed to sustain his burden of showing deliberate indifference toward the plaintiff. King appeals.\nWe review de novo a district court\u2019s decision to grant a judgment notwithstanding the verdict (JNOV). Henderson v. DeRobertis, 940 F.2d 1055, 1057 (7th Cir.1991). Viewing the evidence and all permissible inferences favorably to the party against whom the JNOV was entered and disregarding conflicting unfavorable testimony, we must decide whether the jury\u2019s verdict was reasonable. Chambers v. Maher, 915 F.2d 1141, 1143 (7th Cir.1990). If the evidence is insufficient to support the verdict, we will affirm.\nState prison officials have a duty, under the Eighth Amendment prohibition of cruel and unusual punishment, to protect inmates from each other. Duane v. Lane, 959 F.2d 673 (7th Cir.1992); McGill v. Duckworth, 944 F.2d 344 (7th Cir.1991). This duty, however, does not lead to absolute liability because the Eighth Amendment addresses only punishment. \u201cWhether an injury inflicted by fellow prisoners ... is \u2018punishment\u2019 depends on the mental state of those who cause or fail to prevent it.\u201d McGill, 944 F.2d at 347. The requisite mental state for prison officials is intent, or its functional equivalent, described as deliberate indifference or criminal recklessness. Negligence, even gross negligence, is not enough. Duckworth v. Franzen, 780 F.2d 645, 652-53 (7th Cir.1985). \u201c[T]o sustain his constitutional claim, [the inmate] must demonstrate something approaching a total unconcern for his welfare in the face of serious risks, McGill, 944 F.2d at 347, or a conscious, culpable refusal to prevent harm, Franzen, 780 F.2d at 653.\u201d Duane, 959 F.2d at 677.\nKing told the jury that, while he was in segregation at Pontiac, he observed a correctional officer open the door of a neighboring cell in order to admit another inmate who raped the segregation inmate. King reported this incident to Pontiac officials, testified about it before a grand jury in 1984 or 1985 after he was living in Joliet, and eventually gave a deposition in related civil litigation. The relevance of this testimony stems from King\u2019s belief that he was transferred for a constitutionally impermissible reason, specifically in retaliation for testifying against Illinois Department of Corrections officers. In support of his theory, King notes the discrepancies among the reclassification reports completed at Joliet. The October 7, 1986 reclassification report records King\u2019s status as a material witness for the State in that case and comments that \u201c[h]e apparently continues to have [protective custody] needs.\u201d Pl.Ex. 4. One month later, King\u2019s reclassification report requests an override to his low-medium security level, citing his admitted relationship with a Joliet corrections officer as \u201ca threat to the safety and security of this facility.\u201d Def.Ex. 1. In that November report, there is no reference to being a State\u2019s witness and the report includes the lack of protective custody needs as an additional factor for transferring King.\nThe problem with King\u2019s argument is that the reports, when read together, remove any reasonable inference that the December transfer was in retaliation for being a witness. On the contrary, Joliet was willing to recognize King\u2019s role in the litigation and accommodate him with protective custody or at least permit him to remain in the relatively protected custody of Joliet. The only change between October and November, according to the record, was King\u2019s admitted liaison with the staff member. Therefore, the only reasonable inference is that his transfer reflects a security motive by the correctional officers, in light of the sexual relationship. Prison security is certainly a valid reason for transferring King. Because there is no credible evidence of any other motive, King cannot prove that Fairman or Galassi were acting in retaliation when they approved his transfer.\nAn extension of King\u2019s argument is that Fairman and Galassi at least had a duty to notify Menard officials of King\u2019s fears. Warden Fairman testified that he did call the warden at Menard and told him that King feared gang retaliation, but perhaps the jury disbelieved him. It was undisputed that Fairman and Galassi have no control over an inmate\u2019s designation to protective custody at Menard. It was also undisputed that King\u2019s records were transferred with him to Me-nard and that his fears were noted in his reclassification report. Menard had notice, therefore, both from Joliet officials via the paperwork and from King himself. Even if Fairman and Galassi did nothing more to notify Menard officials of King\u2019s fear of Disciple retaliation, their conduct would at most amount to negligence, not intent to harm or criminal recklessness.\nNothing in the record supports the proposition that Fairman and Galassi sent King to Menard \u201cbecause of, rather than in spite of, the risk to him.\u201d McGill, 944 F.2d at 350. King admits that he had a sexual relationship with a correctional officer, yet he insists that Fairman and Galassi were required, under penalty of section 1983 liability for an Eighth Amendment violation, to keep him at Joliet. He felt Pontiac, Menard, and Stateville were too dangerous because avenging Disciples lay in wait for him. He does not, however, contradict his status as a murderer with a lengthy sentence ahead, nor the defendants\u2019 use of his length of stay as a factor classifying him as a maximum security prison inmate.\nKing may not choose the prison in which he will serve his sentence. We grant prison administrators \u201cwide-ranging deference in the adoption and execution of policies and practices that in their judgment are needed to preserve internal order and discipline and to maintain institutional security.\u201d Franzen, 780 F.2d at 655 (quoting Bell v. Wolfish, 441 U.S. 520, 99 S.Ct. 1861, 1878, 60 L.Ed.2d 447 (1979)). King\u2019s relationship with a correctional officer threatened the institutional security of Joliet, in Fairman\u2019s and Galassi\u2019s judgment. They must be allowed to transfer him to another suitable prison. Each prison houses Disciples. They did not send him back to Pontiac, where he was most likely to face retaliation. Menard, even according to King, presented only as bad and unsafe an alternative as Stateville. No specific inmate at Menard presented a threat to King. The defendants\u2019 action, transferring King to Menard with his record file despite knowing of his fear of Disciples, cannot support a finding of the requisite mental state to be considered punishment.\nAnother matter deserves attention. The district court gave a jury instruction based on the Wilks v. Young, 897 F.2d 896 (7th Cir.1990)/Richardson v. Penfold, 839 F.2d 392 (7th Cir.1988) definition of recklessness or deliberate indifference, which describes the relevant mental state according to the objective, tort version of recklessness. Tr. 301, 316-17. For reasons fully explained in McGill, at 348-49, that definition did not survive Wilson v. Seiter, - U.S. -, 111 S.Ct. 2321, 115 L.Ed.2d 271 (1990). The appropriate definition conforms to the subjective, criminal law version of recklessness. The jury should not have been instructed that it could find for the plaintiff based on what Fairman and Galassi should have known. Their consideration of the defendants\u2019 liability under the lesser standard may explain their verdict, despite the absence of sufficient evidence to support it.\nViewing the evidence and all reasonable inferences favorably to King, he still cannot meet the high standard for showing intent or its equivalent under McGill. Here as in Franzen, \u201ceven if the defendants\u2019 conduct was negligent or even grossly negligent, a reasonable and properly instructed jury could not have found it sufficiently reckless to be called punishment.\u201d Franzen, 780 F.2d at 653. Therefore, the district court properly granted a judgment notwithstanding the verdict. The judgment is\nAffirmed.\n. Although the lawsuit results from transfer to Menard, King consistently named both Stateville and Menard as unacceptable institutions because of his fear of Disciple retaliation, when he requested transfer from Pontiac, when he filed the complaint in this lawsuit, and when he testified at trial.\n. The plaintiff offers'the district court\u2019s failure to grant the defendants' motions for summary judgment and for a directed verdict in support of his argument that the JNOV is erroneous. The district judge's decision to allow the case against Fairman and Galassi to proceed to the jury is not relevant to deciding whether the plaintiff has sustained his burden of proving the prima facie case. See Selle v. Gibb, 741 F.2d 896, 900 (7th Cir.1984). Our inquiry is not affected by the denial of pre-verdict motions for judgment.\n. It is undisputed that Joliet confines typically younger, smaller prisoners and that it is considered the protective custody prison among the four maximum security prisons in Illinois.\n. The Supreme Court has held that an inmate has no liberty interest in confinement at any particular state prison and that the prison officials may effect discretionary transfers of an inmate without implicating the due process clause, even if the conditions at one prison are substantially worse than another. Meachum v. Fano, 427 U.S. 215, 96 S.Ct. 2532, 49 L.Ed.2d 451 (1976).",
+        "type": "majority",
+        "author": "FLAUM, Circuit Judge."
+      }
+    ],
+    "attorneys": [
+      "Robert E. Cummins (argued), Kidwell, Cummins, Bast & Dunst, Mattoon, IL, for plaintiff-appellant.",
+      "Gary M. Griffin, Asst. Atty. Gen., John A. Morrissey (argued), Gregory Abbott, Chicago, IL, for defendant-appellant."
+    ],
+    "corrections": "",
+    "head_matter": "Robert KING, Plaintiff-Appellant, v. James W. FAIRMAN, Warden, and Joseph Galassi, Defendants-Appellees.\nNo. 91-3080.\nUnited States Court of Appeals, Seventh Circuit.\nArgued Jan. 29, 1993.\nDecided June 18, 1993.\nRobert E. Cummins (argued), Kidwell, Cummins, Bast & Dunst, Mattoon, IL, for plaintiff-appellant.\nGary M. Griffin, Asst. Atty. Gen., John A. Morrissey (argued), Gregory Abbott, Chicago, IL, for defendant-appellant.\nBefore FLAUM, MANION, and ROVNER, Circuit Judges."
+  },
+  "file_name": "0259-01",
+  "first_page_order": 311,
+  "last_page_order": 315
+}

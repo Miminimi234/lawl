@@ -1,0 +1,878 @@
+{
+  "id": 3726977,
+  "name": "Jaenean LIGON, individually and on behalf of her minor son, J.G., Jacqueline Yates, individually and on behalf of a class of all others similarly situated, et al., Plaintiffs-Appellees, v. CITY OF NEW YORK, et al., Defendants-Appellants, Captain's Endowment Association of New York, Detectives Endowment Association, Police Department, City of New York, Inc, Lieutenants Benevolent Association of the City of New York, Inc., Patrolmen's Benevolent Association of the City of New York, Inc., Proposed Intervenors-Appellants; David Floyd, individually and on behalf of all others similarly situated, Plaintiffs-Appellees, v. City of New York, Defendant-Appellant, Sergeants Benevolent Association, Proposed Intervenor-Appelant, New York City Police Officer Rodriguez, et al., Defendants",
+  "name_abbreviation": "Ligon ex rel. J.G. v. City of New York",
+  "decision_date": "2013-11-13",
+  "docket_number": "Nos. 13-3123, 13-3088",
+  "first_page": "118",
+  "last_page": "166",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "736 F.3d 118"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "2d Cir.",
+    "id": 8778,
+    "name": "United States Court of Appeals for the Second Circuit"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "133 S.Ct. 1659",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        12697039
+      ],
+      "weight": 2,
+      "year": 2013,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/569/0108-01"
+      ]
+    },
+    {
+      "cite": "731 F.3d 189",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        6049323
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/731/0189-01"
+      ]
+    },
+    {
+      "cite": "554 U.S. 471",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        3677373
+      ],
+      "weight": 3,
+      "year": 2008,
+      "pin_cites": [
+        {
+          "page": "487",
+          "parenthetical": "quoting Singleton, 428 U.S. at 121, 96 S.Ct. 2868"
+        },
+        {
+          "parenthetical": "quoting Singleton, 428 U.S. at 121, 96 S.Ct. 2868"
+        },
+        {
+          "parenthetical": "quoting Singleton, 428 U.S. at 121, 96 S.Ct. 2868"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/554/0471-01"
+      ]
+    },
+    {
+      "cite": "312 U.S. 552",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        359248
+      ],
+      "weight": 3,
+      "year": 1941,
+      "pin_cites": [
+        {
+          "page": "557"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/312/0552-01"
+      ]
+    },
+    {
+      "cite": "428 U.S. 106",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6176317
+      ],
+      "weight": 5,
+      "year": 1976,
+      "pin_cites": [
+        {
+          "page": "121"
+        },
+        {
+          "page": "121"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/428/0106-01"
+      ]
+    },
+    {
+      "cite": "436 F.3d 125",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        939893
+      ],
+      "pin_cites": [
+        {
+          "page": "135"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/436/0125-01"
+      ]
+    },
+    {
+      "cite": "839 F.2d 18",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        10542758
+      ],
+      "pin_cites": [
+        {
+          "page": "37"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/839/0018-01"
+      ]
+    },
+    {
+      "cite": "194 F.3d 401",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        11557105
+      ],
+      "pin_cites": [
+        {
+          "page": "408"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/194/0401-01"
+      ]
+    },
+    {
+      "cite": "609 F.2d 1101",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1421720
+      ],
+      "pin_cites": [
+        {
+          "page": "1120"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/609/1101-01"
+      ]
+    },
+    {
+      "cite": "815 F.2d 575",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        519594
+      ],
+      "pin_cites": [
+        {
+          "page": "575"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/815/0575-01"
+      ]
+    },
+    {
+      "cite": "874 F.2d 1441",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1816511
+      ],
+      "pin_cites": [
+        {
+          "page": "1446"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/874/1441-01"
+      ]
+    },
+    {
+      "cite": "977 F.2d 764",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "pin_cites": [
+        {
+          "page": "798"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "1 F.3d 985",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        10515887
+      ],
+      "pin_cites": [
+        {
+          "page": "992-96"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/1/0985-01"
+      ]
+    },
+    {
+      "cite": "78 F.3d 1313",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        94444
+      ],
+      "pin_cites": [
+        {
+          "page": "1324"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/78/1313-01"
+      ]
+    },
+    {
+      "cite": "626 F.3d 356",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        6052801
+      ],
+      "pin_cites": [
+        {
+          "page": "363-65"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/626/0356-01"
+      ]
+    },
+    {
+      "cite": "650 F.3d 530",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        5873894
+      ],
+      "pin_cites": [
+        {
+          "page": "539"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/650/0530-01"
+      ]
+    },
+    {
+      "cite": "186 F.3d 136",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        857896
+      ],
+      "pin_cites": [
+        {
+          "page": "143"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/186/0136-01"
+      ]
+    },
+    {
+      "cite": "225 F.3d 136",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        11231151
+      ],
+      "pin_cites": [
+        {
+          "page": "146"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/225/0136-01"
+      ]
+    },
+    {
+      "cite": "343 F.3d 120",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        9096643
+      ],
+      "pin_cites": [
+        {
+          "page": "128"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/343/0120-01"
+      ]
+    },
+    {
+      "cite": "470 F.3d 89",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        5664359
+      ],
+      "pin_cites": [
+        {
+          "page": "113"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/470/0089-01"
+      ]
+    },
+    {
+      "cite": "503 F.3d 212",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        2919798
+      ],
+      "pin_cites": [
+        {
+          "page": "216"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/503/0212-01"
+      ]
+    },
+    {
+      "cite": "513 F.3d 55",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        3164184
+      ],
+      "pin_cites": [
+        {
+          "page": "59"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/513/0055-01"
+      ]
+    },
+    {
+      "cite": "545 F.3d 139",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        3857922
+      ],
+      "pin_cites": [
+        {
+          "page": "178-79"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/545/0139-01"
+      ]
+    },
+    {
+      "cite": "604 F.3d 48",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        6053301
+      ],
+      "pin_cites": [
+        {
+          "page": "55-56"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/604/0048-01"
+      ]
+    },
+    {
+      "cite": "664 F.3d 359",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        3860148
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "367"
+        },
+        {
+          "page": "367"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/664/0359-01"
+      ]
+    },
+    {
+      "cite": "441 F.3d 153",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        1037333
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "192-93"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/441/0153-01"
+      ]
+    },
+    {
+      "cite": "140 F.3d 415",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        1318622
+      ],
+      "pin_cites": [
+        {
+          "page": "420"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/140/0415-01"
+      ]
+    },
+    {
+      "cite": "100 F.3d 236",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        11934967
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "242"
+        },
+        {
+          "page": "242",
+          "parenthetical": "abrogated by statute on other grounds"
+        },
+        {
+          "page": "242"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/100/0236-01"
+      ]
+    },
+    {
+      "cite": "253 F.3d 34",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        1269288,
+        3678251
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "115"
+        },
+        {
+          "page": "107-117"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/253/0034-01",
+        "/us-app-dc/346/0330-01"
+      ]
+    },
+    {
+      "cite": "486 F.3d 764",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        3115986
+      ],
+      "pin_cites": [
+        {
+          "page": "775"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/486/0764-01"
+      ]
+    },
+    {
+      "cite": "946 F.2d 913",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        3493205,
+        10525037
+      ],
+      "pin_cites": [
+        {
+          "page": "914"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us-app-dc/292/0039-01",
+        "/f2d/946/0913-01"
+      ]
+    },
+    {
+      "cite": "242 F.3d 1224",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        11130021
+      ],
+      "pin_cites": [
+        {
+          "page": "1229-30"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/242/1224-01"
+      ]
+    },
+    {
+      "cite": "56 F.3d 343",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        11325245
+      ],
+      "pin_cites": [
+        {
+          "page": "347"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/56/0343-01"
+      ]
+    },
+    {
+      "cite": "998 F.2d 1344",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        10517573
+      ],
+      "pin_cites": [
+        {
+          "page": "1349"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/998/1344-01"
+      ]
+    },
+    {
+      "cite": "71 F.3d 347",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        7413996
+      ],
+      "pin_cites": [
+        {
+          "page": "352"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/71/0347-01"
+      ]
+    },
+    {
+      "cite": "244 F.3d 164",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        11117642
+      ],
+      "weight": 5,
+      "pin_cites": [
+        {
+          "page": "167"
+        },
+        {
+          "page": "169"
+        },
+        {
+          "page": "170"
+        },
+        {
+          "page": "168"
+        },
+        {
+          "page": "164"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/244/0164-01"
+      ]
+    },
+    {
+      "cite": "553 F.2d 8",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        970773
+      ],
+      "pin_cites": [
+        {
+          "page": "9-10"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/553/0008-01"
+      ]
+    },
+    {
+      "cite": "861 F.2d 1307",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        10537155
+      ],
+      "pin_cites": [
+        {
+          "page": "1313"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/861/1307-01"
+      ]
+    },
+    {
+      "cite": "486 U.S. 847",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6225235
+      ],
+      "weight": 5,
+      "year": 1988,
+      "pin_cites": [
+        {
+          "page": "860"
+        },
+        {
+          "page": "859"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/486/0847-01"
+      ]
+    },
+    {
+      "cite": "99 L.Ed. 942",
+      "category": "reporters:federal",
+      "reporter": "L. Ed.",
+      "year": 1955,
+      "pin_cites": [
+        {
+          "parenthetical": "internal quotation marks omitted"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "349 U.S. 133",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11333990
+      ],
+      "weight": 2,
+      "year": 1955,
+      "pin_cites": [
+        {
+          "page": "136",
+          "parenthetical": "internal quotation marks omitted"
+        },
+        {
+          "parenthetical": "internal quotation marks omitted"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/349/0133-01"
+      ]
+    },
+    {
+      "cite": "2013 WL 4046217",
+      "category": "reporters:specialty_west",
+      "reporter": "WL",
+      "year": 2013,
+      "opinion_index": 0
+    },
+    {
+      "cite": "2013 WL 4046209",
+      "category": "reporters:specialty_west",
+      "reporter": "WL",
+      "year": 2013,
+      "pin_cites": [
+        {
+          "page": "*7"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "2013 WL 227654",
+      "category": "reporters:specialty_west",
+      "reporter": "WL",
+      "year": 2013,
+      "pin_cites": [
+        {
+          "page": "*4"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "925 F.Supp.2d 478",
+      "category": "reporters:federal",
+      "reporter": "F. Supp. 2d",
+      "case_ids": [
+        4328781
+      ],
+      "pin_cites": [
+        {
+          "page": "485"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f-supp-2d/925/0478-01"
+      ]
+    },
+    {
+      "cite": "28 U.S.C. \u00a7 455",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "(a)"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "28 U.S.C. \u00a7\u00a7 372",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 3805,
+    "char_count": 146864,
+    "ocr_confidence": 0.683,
+    "pagerank": {
+      "raw": 1.8355550616930912e-07,
+      "percentile": 0.7213493914123951
+    },
+    "sha256": "a199c0fdb61ccfbb67a2722146c0f8c58af4ce65ec8700e4b26c62f9edec511b",
+    "simhash": "1:9c609e72b9b30461",
+    "word_count": 25035
+  },
+  "last_updated": "2024-02-27T16:55:59.249303+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Present: JOHN M. WALKER, JR., JOS\u00c9 A. CABRANES and BARRINGTON D. PARKER, Circuit Judges."
+    ],
+    "parties": [
+      "Jaenean LIGON, individually and on behalf of her minor son, J.G., Jacqueline Yates, individually and on behalf of a class of all others similarly situated, et al., Plaintiffs-Appellees, v. CITY OF NEW YORK, et al., Defendants-Appellants, Captain\u2019s Endowment Association of New York, Detectives Endowment Association, Police Department, City of New York, Inc, Lieutenants Benevolent Association of the City of New York, Inc., Patrolmen\u2019s Benevolent Association of the City of New York, Inc., Proposed Intervenors-Appellants. David Floyd, individually and on behalf of all others similarly situated, Plaintiffs-Appellees, v. City of New York, Defendant-Appellant, Sergeants Benevolent Association, Proposed Intervenor-Appelant, New York City Police Officer Rodriguez, et al., Defendants."
+    ],
+    "opinions": [
+      {
+        "text": "PER CURIAM.\nThese cases, motions of which were argued in tandem, deal with an issue of great significance: the constitutional boundaries of practices by the New York City Police Department (\u201cNYPD\u201d) that subject citizens to being stopped and frisked. On August 12, 2018, Judge Shira A. Scheind-lin, a long-serving and distinguished jurist of the United States District Court for the Southern District of New York, held that the City of New York (\u201cthe City\u201d) had violated the plaintiffs\u2019 Fourth and Fourteenth Amendment rights, and ordered the City to engage in a variety of remedial measures and activities.\nOn August 27, 2013, the City moved in the district court to stay those remedies, pending an appeal on the merits of the district court\u2019s decision. Judge Scheindlin denied the motions. On September 23, 2013, the City moved in this Court to stay the imposition of the district court\u2019s remedies. By order dated October 31, 2013, we both granted that stay and, because the appearance of impartiality had been compromised by certain statements made by Judge Scheindlin during proceedings in the district court and in media interviews, we reassigned the cases to a different district judge, to be chosen randomly. We now explain the basis for that order, which is superseded by this opinion.\nBackground\nWe emphasize that the merits of this litigation are not before us and are not at issue here. Accordingly, we neither express nor intimate any views on the merits of the underlying actions. This opinion deals only with our procedural decision to direct the reassignment of the cases and turns on how the cases came before Judge Scheindlin and the media interviews she gave during the pendency of these lawsuits.\nFor the sake of clarity, we recite the procedural history that has led us to this point. In January 2008, the plaintiffs in Floyd filed a class action alleging that the NYPD violated the Fourth and Fourteenth Amendments through a pattern and practice of stopping and frisking without reasonable suspicion. In March 2012, the plaintiffs in Lig\u00f3n filed a class action alleging that the NYPD violated the Fourth Amendment by engaging in a practice of unlawfully stopping, frisking, and arresting persons for trespass because of their presence in or near buildings enrolled by their landlords in an NYPD crime prevention program known as the Trespass Affidavit Program (\u201cTAP\u201d).\nWhen filing, the plaintiffs in Floyd marked the case on the appropriate form as related to Daniels v. City of New York, No. 99-cv-1695, an earlier case over which Judge Scheindlin presided. Likewise, the plaintiffs in Lig\u00f3n marked that case as related to Davis v. City of New York, No. 10-cv-699, over which Judge Scheindlin was also presiding. Because Daniels, although terminated a month earlier, and Davis had been assigned to Judge Scheindlin, Floyd and Lig\u00f3n were forwarded to her, pursuant to Rule 13 of the Local Rules for the Division of Business Among District Judges, and she accepted them both as related cases.\nIn a decision dated January 8, 2013, and amended on February 14, 2013, Judge Scheindlin granted the Lig\u00f3n plaintiffs\u2019 motion for a preliminary injunction, holding that they had \u201cshown a clear likelihood of proving that defendants have displayed deliberate indifference toward a widespread practice of unconstitutional trespass stops by the NYPD outside TAP buildings in the Bronx.\u201d In a separate opinion, Judge Scheindlin granted the defendants\u2019 motion to stay any remedies until after the \u201cissuance of a final decision regarding the appropriate scope of preliminary injunctive relief, and the appropriate scope of permanent injunctive relief (if any) in Floyd.\u201d\nOn August 12, 2013, following a nine-week trial in Floyd, Judge Seheindlin held that the City of New York violated the plaintiffs\u2019 rights under the Fourth Amendment and the Equal Protection Clause of the Fourteenth Amendment. The same day, Judge Seheindlin issued an opinion setting forth remedial measures in both Floyd and Ligon intended to bring the NYPD\u2019s use of stop-and-frisk into compliance with the Fourth and Fourteenth Amendments.\nOn August 16, 2013, the defendants in both cases filed notices of appeal in this court. On August 27, 2013, the City of New York moved in the district court to stay the remedies in Floyd and Lig\u00f3n, pending the outcome of the appeals process. On September 17, 2013, Judge Seheindlin denied the City\u2019s stay motions. On September 23, 2013, the City moved in this court to stay the district court\u2019s August 12, 2013 remedies order.\nFollowing oral argument, this panel, on October 31, 2013, stayed, \u201cthe District Court\u2019s January 8, 2013 \u2018Opinion and Order,\u2019 as well as the August 12, 2013 \u2018Liability Opinion\u2019 and \u2018Remedies Opinion,\u2019 each of which may or will have the effect of causing actions to be taken by defendants or designees of the District Court, or causing restraints against actions that otherwise would be taken by defendants.\u201d This panel also concluded \u201cthat, in the interest, and appearance, of fair and impartial administration of justice, UPON REMAND, these cases shall be assigned to a different District Judge, chosen randomly under the established practices of the District Court for the Southern District of New York. This newly-designated District Judge shall implement this Court\u2019s mandate staying all proceedings and otherwise await further action by the Court of Appeals on the merits of the ongoing appeals.\u201d We now explain in greater detail the basis for our decision to reassign the cases.\nDiscussion\nTitle 28, United States Code, section 455(a) provides that \u201c[a]ny justice, judge, or magistrate judge of the United States shall disqualify himself in any proceeding in which his impartiality might reasonably be questioned.\u201d This statute embodies the principle that \u201cto perform its high function in the best way justice must satisfy the appearance of justice.\u201d\nThe goal of section 455(a) is to avoid not only partiality but also the appearance of partiality. The section does so by establishing an \u201cobjective standard \u2018designed to promote public confidence in the impartiality of the judicial process.\u2019 \u201d The rule functions as a critical internal check to ensure the just operation of the judiciary. Our Court, sitting en banc, has stated that there exists \u201cunusual circumstances where both for the judge\u2019s sake and the appearance of justice, an assignment to a different judge is salutary and in the public interest, especially as it minimizes even a suspicion of partiality.\u201d And as other circuits have correctly noted, \u201c\u2018if the question of whether \u00a7 455(a) requires disqualification is a close one, the balance tips in favor of recusal.\u2019 \u201d\nWe emphasize at the outset that we make no findings of misconduct, actual bias, or actual partiality on the part of Judge Scheindlin. Following our review of the record, however, we conclude that her conduct while on the bench, which appears to have resulted in these lawsuits being filed and directed to. her, in conjunction with her statements to the media and the resulting stories published while a decision on the merits was pending and while pubr lie interest in the outcome of the litigation was high, might cause a reasonable observer to question her impartiality. For this reason, her disqualification is required by section 455(a).\nA.\nThe appearance of partiality stems in the first instance from comments made by Judge Scheindlin that a reasonable observer could interpret as intimating her views on the merits of a case that had yet to be filed, and as seeking to have that case filed and to preside over it after it was filed. These comments were made in the earlier case of Daniels v. City of New York, No. 99-cv-1695, in which the City entered into a settlement agreement requiring it, inter alia, to establish policies that prohibited racial profiling. Ten days before Judge Scheindlin\u2019s supervisory authority under the settlement agreement was set to expire, she heard argument on a motion brought by the Daniels plaintiffs to extend the settlement period. The transcript of the hearing indicates that the City had substantially complied with the relief required by the settlement and that the plaintiffs were seeking information from the City beyond that required to be furnished by the settlement agreement.\nObserving that the settlement agreement did not entitle the plaintiffs to the relief they sought, Judge Scheindlin counseled:\nTHE COURT: [ ... ] why don\u2019t you file a lawsuit\nMr. COSTELLO: We did, we are here. THE COURT: No, you are struggling with the December 31, 2007 deadline in a 1999 case. And if you got proof of inappropriate racial profiling in a good constitutional case, why don\u2019t you bring a lawsuit? You can certainly mark it as related.\nHow could it not be related to this whole long seven or eight years we have lived together in this case? Because you are trying to put a square peg in a round hole. And trying to force yourselves to argue what the settlement means, that it doesn\u2019t mean if you have a timely lawsuit \u2014 you seem to have compiled interesting arguments[.] Ms. Grossman [attorney for the City] has not rebutted\u2014 maybe she did, that\u2019s why we didn\u2019t do something, because we didn\u2019t want them to write this letter, she \u2014 let\u2019s just say she hasn\u2019t substantially responded to your letter. If one had only your letter, it would look like you have a lawsuit. So instead of struggling to telling [sic] me about a stipulation of settlement, why don\u2019t you craft a lawsuit?\n(TR 10-11) (emphasis added). She returned to the idea of bringing a suit alleging that the City had violated their racial profiling policies and suggested a basis for the suit:\nTHE COURT: what I am trying to say \u2014 I am sure I am going to get in trouble for saying it, for $65 you can bring that lawsuit. You can simply\u2014 MR. MOORE: $350\nTHE COURT: I knew I had it wrong. The [C]ity violates its oum u/ritten policy, the City has a policy that violates\u2014 they have violated their policy, here is the proof of it, please give us the remedy. Injunction or damages, or whatever lawyers ask for in compliance. So for $350 you can bring that lawsuit and it is timely.\n(TR 14, 15) (emphasis added). And again:\nTHE COURT: I don\u2019t understand why we have to potentially have, you know, months of briefing when it does fit under this stipulation or it doesn\u2019t, that Raffo applies or it doesn\u2019t that the court has the power to extend the supervision, that we want our immediate appeal to the circuit. Why do you need that if you have a lawsuit? Bring it. They have a u/ritten policy, right?\nMR. GROSSMAN: Yes, your Honor. THE COURT: If you think they are violating their u/ritten policy, sue them.\n(TR 15) (emphasis added).\nJudge Scheindlin then advised the plaintiffs that if they filed such a suit, they would successfully obtain relevant documents produced by the government:\nTHE COURT: ... There is enough in the public record to craft the suit.\nAnd then in that suit simply say, we want produced all that was produced in the 1999 lawsuit. I don\u2019t know how you could lose getting it. It may be a question of whether it is still going to be under protective order or not. But I can hardly imagine not getting it. You know what I am saying? It is so obvious to me that any Judge would require them to reproduce it to you in the same format that you have it, that you will have it again. Whether or not it remains confidential.\n(TR 18) (emphasis added). After the plaintiffs indicated their willingness to bring the new suit, she repeated her earlier suggestion that the cases were related and indicated her willingness to keep the newly filed case:\nMR. MOORE: To the extent that some of the materials have already been made public.\nTHE COURT: what\u2019s public is public,\u2014 If you cite to the Rand study, publicly, nobody can criticize you for that. If they do, they weren\u2019t acting in good faith. If I can get the Rand study on the internet, it is public\u2014\nMR. MOORE: you can go to the NYPD website, your Honor.\nTHE COURT: There you go, that\u2019s public. You can use that. And as I said before, I would accept it as a related case, which the plaintiff has the power to designate.\nI think this current motion is withdrawn. Thank you.\n(TR 42) (emphasis added).\nWe believe that a reasonable observer viewing this colloquy would conclude that the appearance of impartiality had been compromised. We do not mean to suggest that a district judge can never engage in a colloquy with a party during which the judge advises the party of its legal or procedural options. However, we think, particularly in combination with the public statements described below, that a reasonable observer could question the impartiality of the judge where the judge described a certain claim that differed from the one at issue in the case before her, urged a party to file a new lawsuit to assert the claim, suggested that such a claim could be viable and would likely entitle the plaintiffs to documents they sought, and advised the party to designate it as a related case so that the case would be assigned to her.\nB.\nThis appearance of partiality by Judge Scheindlin at the Daniels hearing was exacerbated as a result of interviews she gave to the news media during the course of the Floyd litigation. Cases involving public comment by a presiding judge, other than statements in open court, are infrequent. As the First Circuit has remarked, \u201c[jjudges are generally loath to discuss pending proceedings with the media.\u201d Of course, not every media comment made by a judge is necessarily grounds for recusal. We note that Judge Scheindlin did not specifically mention the Floyd or Ligon cases in her media interviews. .However, a judge\u2019s statements to the media may nevertheless undermine the judge\u2019s appearance of impartiality with respect to a pending proceeding, even if the judge refrains from specifically identifying that proceeding in his remarks to the media. Because context is always critical, the relevant question at all times remains whether, under the circumstances taken as a whole, a judge\u2019s impartiality may reasonably be called into question. Because there is no scienter requirement in section 455, the test is not how a judge intended his remarks to be understood, but whether, as a result of the interviews or other extra-judicial statements, the appearance of impartiality might reasonably be questioned.\nIn late May 2013, at the conclusion of the evidence in Floyd, when public interest from reporting on that trial was high, and months before she had produced a decision, Judge Scheindlin made herself available for interviews by the Associated Press, The New Yorker, and the New York Law Journal. The \u201clede\u201d of the AP article dated May 18, 2013, read \u201c[t]he federal judge presiding over civil rights challenges to the stop-and-frisk practices of the New York Police Department has no doubt where she stands with the government. T know I\u2019m not their favorite judge,\u2019 U.S. District Judge Shira A. Scheindlin said during an Associated Press interview Friday.\u201d The lengthy profile of Judge Scheindlin in The New Yorker, for which she agreed to be interviewed, was titled, \u201cRights and Wrongs: A Judge Takes on Stop-and-Frisk.\u201d The writer, implying that Judge Scheindlin was aligned with the plaintiffs, wrote,\n[t]he primary outlet for Scheindlin\u2019s judicial creativity has been an enduring battle she has fought with the N.Y.P.D. A federal judge since 1994, she has been hearing lawsuits against the police for more than a decade. In decision after decision, she has found that cops have lied, discriminated against people of col- or, and violated the rights of citizens. Now, in the midst of a mayoral race, with the Democratic candidates united in their opposition to the stop-and-frisk policies of the Bloomberg administration, the Floyd case represents Scheind-lin\u2019s greatest chance yet to rewrite the rules of engagement between the city\u2019s police and its people.\nWhile nothing prohibits a judge from giving an interview to the media, and while one who gives an interview cannot predict with certainty what the writer will say, judges who affiliate themselves with news stories by participating in interviews run the risk that the resulting stories may contribute to the appearance of partiality. It is perhaps illustrative of how such situations can get out of the control of the judge that, later in The New Yorker piece, the article quotes a former law clerk of Judge Scheindlin: \u201cAs one of her former law clerks put it, \u2018What you have to remember about the judge is that she thinks cops lie.\u2019 \u201d\nFurther, in those two articles, as well as the New York Law Journal article, Judge Scheindlin describes herself as a jurist who is skeptical of law enforcement, in contrast to certain of her colleagues, whom she characterizes as inclined to favor the government. Given the heightened and sensitive public scrutiny of these cases, interviews in which the presiding judge draws such distinctions between herself and her colleagues might lead a reasonable observer to question- the judge\u2019s impartiality. As the First Circuit put it, \u201cthe very rarity of such public statements, and the ease with which they may be avoided, make it more likely that a reasonable person will interpret such statements as evidence of bias.\u201d\nC.\nIn our previous order, we referenced the Code of Conduct for United States Judges. We now clarify that we did not intend to imply in our previous order that Judge Scheindlin engaged in misconduct cognizable either under the Code of Conduct or under the Judicial Conduct and Disability Act, 28 U.S.C. \u00a7\u00a7 372, et seq. No such finding is required under section 455, and we do not find that there was any judicial misconduct or violation of any ethical duty.\n\u201cTo reassign a case on remand, we need only find that the facts might reasonably cause an objective observer to question the judge\u2019s impartiality, or absent proof of personal bias requiring recusation [sic], that reassignment is advisable to preserve the appearance of justice.\u201d Even where there is reason to believe that a district judge would fairly conduct further proceedings on remand, \u201cin determining whether to reassign a case we consider not only whether a judge could be expected to have difficulty putting aside his previously expressed views, but also whether reassignment is advisable to preserve the appearance of justice.\u201d Such a decision \u201cdoes not imply any personal criticism of the trial judge,\u201d and none is intended here. Indeed, for example, in United States v. Quattrone, we ordered reassignment because \u201cportions of the transcript raise[d] the concern that certain comments could be viewed as rising beyond mere impatience or annoyance\u201d even though there was no \u201cevidence that the trial judge made any inappropriate statements leading us to seriously doubt his impartiality.\u201d\nReassigning a case to a different district judge, while not an everyday occurrence, is not unusual in this Circuit. Nor is reassigning a case to a different district judge an unusual occurrence in our sister Circuits. Indeed, as noted in our accompanying opinion, reassignment is simply a mechanism that allows the courts to ensure that cases are decided by judges without even an appearance of partiality.\nAlthough the possible recusal of Judge Scheindlin was not raised either by the parties or the judge herself in the district court or this court, there is no barrier to our reassigning the cases nostra sponte. Indeed, in numerous eases in recent years, we have found it appropriate to reassign a case without the issue having been raised or briefed by the parties or considered by the district judge. To be sure, in the usual case, \u201ca federal appellate court does not consider an issue not passed upon below.\u201d But as Justice Black, writing for the unanimous Supreme Court, recognized more than seventy years ago, \u201c[t]here may always be exceptional cases or particular circumstances which will prompt a reviewing or appellate court, where injustice might otherwise result, to consider questions of law which were neither pressed nor passed upon by the court ... below.\u201d More recently, Justice Souter, writing for the Court, reaffirmed that when an appellate court may consider a legal issue not raised below is a \u201cmatter \u2018left primarily to the discretion of the courts of appeals, to be exercised on the facts of individual cases,\u2019 \u201d and we recently reaffirmed the same principle. Given the importance of maintaining the judiciary\u2019s appearance of impartiality, we think that it is well within our discretion to order reassignment in these cases.\nConclusion\nThis opinion explains the basis for our order of October 31, 2013, directing the reassignment of these cases to a randomly selected district judge and supersedes that order. To reiterate, we have made no findings that Judge Scheindlin has engaged in judicial misconduct. We conclude only that, based on her conduct at the December 21, 2007 hearing and in giving the interviews to the news media in May 2013, Judge Scheindlin\u2019s appearance of impartiality may reasonably be questioned within the meaning of 28 U.S.C. \u00a7 455 and that \u201creassignment is advisable to preserve the appearance of justice.\u201d\nAPPENDIX A\nUnited States Court of Appeals\nFOR THE\nSECOND CIRCUIT\nAt a stated term of the United States Court of Appeals for the Second Circuit, held at the Thurgood Marshall United States Courthouse, 40 Foley Square, in the City of New York, on the 31st day of October, two thousand thirteen.\nPresent: John M. Walker, Jr., Jos\u00e9 A. Cabranes, Barrington D. Parker, Circuit Judges.\nJaenean Lig\u00f3n, et al., Plaintiffs-Appellees. v.\nCity of New York, et al., Defendants-Appellants,\nDavid Floyd, et al., Plaintiffs-Appellees. v.\nCity of New York, et al., Defendants-Appellants,\n13-3123 (Corrected)\n13-3088\nPending before the Court is a motion filed by Appellants City of New York et al. seeking a stay of the District Court\u2019s August 12, 2013 remedial order and preliminary injunction (\u201cRemedies Opinion\u201d).\nIt is hereby ORDERED that the District Court\u2019s January 8, 2013 \u201cOpinion and Order,\u201d as well as the August 12, 2013 \u201cLiability Opinion\u201d and \u201cRemedies Opinion,\u201d each of which may or will have the effect of causing actions to be taken by defendants or designees of the District Court, or causing restraints against actions that otherwise would be taken by defendants, are STAYED pending the disposition of these appeals.\nThe appeal by defendants in both (consolidated) actions shall continue in the normal course, under the following schedule: Defendants shall perfect their appeals by January 24, 2014.\nPlaintiffs shall file by February 28, 2014. Defendants shall reply by March 14, 2014. Oral argument shall be heard on a date after March 14, 2014, to be set by the Court in due course.\nThe cause is REMANDED to the District Court for the sole purpose of implementation of this Order, and the mandate shall otherwise remain with this Court until the completion of the appeals process.\nUpon review of the record in these cases, we conclude that the District Judge ran afoul of the Code of Conduct for United States Judges, Canon 2 (\u201cA judge should avoid impropriety and the appearance of impropriety in all activities.\u201d); see also Canon 3(C)(1) (\u201cA judge shall disqualify himself or herself in a proceeding in which the judge\u2019s impartiality might reasonably be questioned.... \u201d), and that the appearance of impartiality surrounding this litigation was compromised by the District Judge\u2019s improper application of the Court\u2019s \u201crelated case rule,\u201d see Transfer of Related Cases, S.D.N.Y. & E.D.N.Y. Local Rule 13(a), and by a series of media interviews and public statements purporting to respond publicly to criticism of the District Court.\nAccordingly, we conclude that, in the interest, and appearance, of fair and impartial administration of justice, UPON REMAND, these cases shall be assigned to a different District Judge, chosen randomly under the established practices of the District Court for the Southern District of New York. This newly-designated District Judge shall implement this Court\u2019s mandate staying all proceedings and otherwise await further action by the Court of Appeals on the merits of the ongoing appeals.\nIn taking these actions, we intimate no view on the substance or merits of the pending appeals, which have yet to be fully briefed and argued.\nThe mandate shall ISSUE FORTHWITH for the sole purpose of implementation of this Order and shall otherwise remain in this Court.\nIn the interest of judicial economy, any question, application, or further appeal regarding the scope of this Order or its implementation shall be directed to this panel, which will hear the case on the merits in due course.\nFOR THE COURT:\nCatherine O\u2019Hagan Wolfe, Clerk\nAPPENDIX B\nUNITED STATES DISTRICT COURT\nSOUTHERN DISTRICT OF NEW YORK\nDANIELS, Plaintiff,\nv.\nTHE CITY OF NEW YORK, Defendant.\nNew York, N.Y.\nDecember 21, 2007\n4:50 p.m.\nBefore: HON. SHIRA A. SCHEINDLIN, District judge\n(In open court)\nMS. GROSSMAN: Your Honor, may I just bring one issue to your attention?\nTHE COURT: Not until I reach you.\nGood afternoon, Mr. Moore.\nMR. MOORE: Good afternoon, Judge.\nTHE COURT: Good afternoon, Ms. Costello.\nMS. COSTELLO: Yes, good afternoon, your Honor.\nTHE COURT: Mr. Franklin.\nAnd who is the person in between all of you?\nMS. COSTELLO: Your Honor, this is Garrett Wright, he is a recent law graduate from our office.\nTHE COURT: And good afternoon, Ms. Grossman and Ms. Donahue.\nYes, what is it?\nMS. GROSSMAN: There may be some reference to some confidential material during our conference, and I just wanted to bring that to the Court\u2019s attention, in that we believe the courtroom might have to be sealed for a very brief moment. For now, plaintiffs counsel is not prepared to raise those issue while we have other people here in the courtroom.\nI think are fine to keep the courtroom open.\nTHE COURT: I know who two of the people are, they are here on the criminal ease. Who are the other people?\nA VOICE: We are with the Center for Constitutional Rights.\nTHE COURT: Are you both attorneys?\nA VOICE: I am an attorney.\nI am a paralegal.\nTHE COURT: They are \u2014 I understand your point. As soon as I can, I\u2019d be happy to get the criminal case out of the courtroom. As soon as I can.\nLet me get started on this matter of Daniels versus The City of New York.\nI have a letter from the plaintiffs dated December 14, 2007. And they are seeking a number of things. But I suppose on the most immediate basis they are seeking some kind of an order extending the Court supervision by no less than a few months, for the sole purpose of letting them fully brief the request for relief in this letter. So there is no rush.\nSo they are saying, the best way to have no rush and have no air is to have the defendant consent to a two-or-three month adjournment minimally, just so everybody can get these issues fully briefed and on the table. And if the Court denies all the relief, so be it.\nBut rather than have them work it out in eight or nine days, you are saying just to get some kind of interest of justice extension or something.\nSo I won\u2019t go into the rest of the relief they seek, more in terms of summarizing the letters, but the largest overall summary is that there has been a lack of compliance in various ways with the stipulation of settlement. And so the Court should modify the stipulation of settlement order, specific performance of certain aspects of the stipulation of settlement.\nAnd then they ask for the third point of relief, which is what I think you were referring to, where they think there should be a modification of the protective order as to some of the terms that have been declared confidential.\nOne reason is they say the Court will have to use some of the confidential information to determine what to do with the motion. But, secondly, they are saying some of it has been disclosed by the defendant in another context, and it is already much discussed, and you should withdraw the designation if it has been publicly disclosed.\nThen I received a letter in response dated December 19, but actually received in chambers December 20, which was yesterday. And yesterday was a relatively busy day on the bench. So the long and short of it, I haven\u2019t had a chance to study the attachments carefully. But I did have the opportunity to read the letter, which itself was long, I guess, the pages aren\u2019t numbered so I can\u2019t tell how many, there is a lot of single-spaced pages, five or six. And I did read them.\nAnd the quick summary of the defense letter is that plaintiffs want to pretend that the settlement agreement says things it doesn\u2019t say. So the alleged breaches aren\u2019t breaches at all, because the settlement doesn\u2019t require the defendant to do what the plaintiffs say is a breach.\nAnd defendants write a number of times in the letter, plaintiffs may have wanted the stipulation of settlement to say these things, but it doesn\u2019t. And there were intense and detailed settlement negotiations. And if they didn\u2019t get what they didn\u2019t get, they can\u2019t complain about it now.\nAnd so the defendant opposes all the requests for relief, opposes any modification of the stipulation, opposes any order for specific performance, opposes any extension of the December 31 deadline, and opposes the modification of the protective order.\nAll of that said, it would nonetheless be helpful to the Court and all the parties, in the nine days remaining between now and the 31st of December, to be \u2014 deny this in an orderly fashion by extending the deadline.\nIf the defendant refuses to do that, then the city is will write briefs every day for the next nine days. And if that\u2019s how you want to spend your Christmas and New Year\u2019s, that\u2019s up to you.\nYou may have the better of all the arguments, but I need to get enough of a record to figure it out. And if you want to do that much all through Christmas and New Year\u2019s.\nWho is carrying the lead?\nMR. MOORE: Ms. Costello.\nTHE COURT: Well, Ms. Costello, I think you have sought of the burden to make your oral argument the equivalent of a reply letter. I think you need to answer all the points that Ms. Grossman made in her very thorough submission point by point. Because her points, as you notice, stay closely away from the merits, so to speak. And they try not to tell me about whether or not, you know, there is a policy of discrimination, or whether your statistics show discrimination. They want to talk procedure and they want to talk about what is or isn\u2019t in the stipulation. What rights you have or don\u2019t have in the stipulation.\nAnd I understand that is a contract and they are saying, no matter how bad things may be, that\u2019s riot part of this lawsuit.\nDo you have another lawsuit to bring?\nBut they placed some interesting alliance on the Latino Officers Association of The City of New York, where they quoted the. Court as denying any further relief. And they thought that was a pretty good precedent for them. And it did seem to be a pretty good precedent for them.\nFor example, at one point the Court\u2014 now there is no guarantees in discrimination in the settlement document, and that Court said, quote, even a convincing demonstration of persistent discrimination would not mean that the defendants are violating the provisions of the settlement agreement.\nThat, sort of, is exactly the situation I may be in. You may be sort of seeing problems that are all very interesting but not part of this settlement agreement. So I think you need to give me a reply brief, if you wish, orally.\nMS. COSTELLO: Yes, your Honor. I can try my best.\nOne point that the city raises about just the fact that there are no in substantial remedies in the consent decree.\nTHE COURT: I have the consent decree. I think somebody attached it as Exhibit A.\nMS. GROSSMAN: Yes, your Honor.\nTHE COURT: So you are going to have to show me, don\u2019t tell me you disagree, show me the language.\nMS. COSTELLO: In section Cl, your Honor, in section Cl.\nLet me just back up one second, your Honor. I think there were two ways, and this is part of what we would like to brief for the Court, there are two ways that the Court could extend the life of the consent decree and also grant our request for modification. One is within the Court\u2019s equitable powers and the second is standard under Ruffo for modification.\nI think what Ms. Grossman\u2019s letter focuses on is the straight reading, the noncompliance and specific performance and contempt proceeding that would result, flow from that which the dispute resolution mechanism in the agreement itself, if you look at the standard under Ruffo, a much more flexible standard that takes into account the public interest and the change in circumstances. The city doesn\u2019t address that at all.\nTHE COURT: No, they never cite Ruf-fo, I don\u2019t think they did. I read it fairly quickly.\nMS. COSTELLO: Under the standard in Ruffo, we think that the modification would be appropriate.\nPutting that aside for the moment, and just looking at the language of the consent decree, section Cl of the stipulation re-\nquires that the NYPD shall have a written policy regarding racial or ethnic or national origin profiling, that complies with the United States Constitution and the New York State Constitution.\nAnd I think that we have shown that there is evidence of racial profiling going on.\nTHE COURT: Even if there is evidence of racial profiling, that paragraph doesn\u2019t have anything to do with that.\nIt says that the NYPD shall have a written policy that complies with the Constitution of both the United States and New York State. Okay, that\u2019s what they have to have.\nDo they have \u2014 let me give you an example, let\u2019s say they had a written policy that complies with it, and that they violated it all the time. They wouldn\u2019t have violated paragraph 1. Paragraph 1 says you have to have a written policy that complies with the\u2014\nMS. COSTELLO: \u2014 if you read paragraph Cl in connection with, which requires training on the policy, training on the officers in stop and frisk procedures, in section E there is a provision in there for palm cards which go out to individuals in the community. If they believe they have been improperly stopped and frisked they can file a complaint with the Civilian Complaint Review Board.\nWe think that all of that means there was an implication of this policy\u2014\nTHE COURT: \u2014 you are asking me to rewrite your settlement agreement. This is hypothetical, it is not a fact.\nI don\u2019t want anybody to be confused by reading the record. I am saying hypothetically if they have a written policy that complies with the Constitution of the United States and of New York State, regarding racial and ethnic origin profiling, they satisfied number 1, paragraph Cl.\nEven if there were evidence that they were violating their own policy, they still say that.\nNumber 1 only requires them to have appropriate written policy.\nThat seems to be the whole point of this notion that there is no guarantees in this agreement. Nowhere in the agreement is the city guaranteed that it will not have an inappropriate racial profiling. There is no guarantee in here. It is exactly the same thing that judge Kaplan was trying to say.\nMS. COSTELLO: If you look at section C2, which says that the NYPD may alter the policy\u2014\nTHE COURT: \u2014 let me read that.\nIt says: (Reading) The NYPD may alter the racial profiling policy at any time in compliance with paragraph Cl\nThat just means if they have the policy that isn\u2019t in compliance, and they want to make a written policy that is in compliance, I don\u2019t see that number 2 provides you the guarantee that you seem to be talking about.\nMS. COSTELLO: I think number 2 also relates to altering the policy. And I think that the intent of this agreement was not to bargain for a policy that meant nothing that the NYPD could just go out and violate people\u2019s Fourth Amendment rights and Fourteenth Amendment rights with no recourse to plaintiffs. I think that would\u2014\nTHE COURT: \u2014 maybe it is an \u2014 why don\u2019t you file a lawsuit?\nMS. COSTELLO: We did, we are here.\nTHE COURT: No, you are struggling with the December 31, 2007 deadline in a 1999 case. And if you got proof of inappropriate racial profiling in a good constitutional cast, why don\u2019t you bring a lawsuit? You can certainly mark it as related.\nHow could it not be related to this whole long seven or eight years we have lived together on this case? Because you are trying to put a square peg in a round hole. And trying to force yourselves to argue what the settlement means, that it doesn\u2019t mean if you have a timely lawsuit \u2014 you seem to have compiled interesting arguments Ms. Grossman has not rebutted maybe she did, that\u2019s why we didn\u2019t do something, because we didn\u2019t want them to write this letter, she \u2014 let\u2019s just say she hasn\u2019t substantially responded to your letter. If one had only your letter, it would look like you have a lawsuit. So instead of struggling to telling me about a stipulation of settlement, why don\u2019t you craft a lawsuit?\nMS. COSTELLO: We could, but the only other issue is\u2014\nTHE COURT: That\u2019s what would I like to turn to.\nCan we talk about the noncompliant?\nMR. MOORE: Judge, could I just say a few things, before we do that? About the notion that what we were bargaining for was simply a piece of paper that had no substance to it.\nTHE COURT: I didn\u2019t say it had no substance. But it didn\u2019t have the word guarantee. Didn\u2019t she write in her letter there were no guarantees? And Judge Kaplan talked about that in his settlement. I didn\u2019t have time to read his decision, I only read these two letters. Sometimes a Judge has some time and sometime not. I didn\u2019t have a lot of time, especially the city\u2019s letter just came in yesterday.\nMR. MOORE: To the extent that given my involvement with the case in the beginning, I can shed any light on that, on what our understanding was, about what we were bargaining for.\nWe believed that we were getting a policy that the city would put into effect. That was, it is reason why we brought the lawsuit. And certainly as ' Ms. Costello said, there were not just \u2014 they didn\u2019t just agree to change the written policy, they agreed to do several things.\nTHE COURT: But we have to find them chapter and verse, because their argument \u2014 I\u2019d like to interrupt you just for a minute, and take this criminal case.\n(Recess)\nTHE COURT: I think you were speaking, Mr. Moore.\nMR. MOORE: I had been making a general observation about my understanding in the course of our negotiating this decree.\nI find it hard to believe that The City of New York would, in effect, say to this Court, or to anybody, well, we have a policy, but we don\u2019t have to follow it.\nTHE COURT: I was saying as a hypothetical. I didn\u2019t say they said\u2014\nMR. MOORE: \u2014 I think they say that in their letter, that we can change the policy \u2014 we can \u2014 as long as we have a written policy, we can essentially do whatever we want.\nI just think that if that\u2019s, in fact, what the position of the city of New York is, it is a significant difference from what we understood we were getting, which was a policy that had some substance to it. Not just a policy on paper.\nIt\u2019s sort of like passing the Thirteenth Amendment abolishing slavery as long as we have an amendment that you can\u2019t have slavery. But in practice we still have slavery.\nIt seems to me it is a hyper technical interpretation of the words in the decree. The decree was meant to address what we believed was a serious issue with respect to racial profiling which, apparently, has not gone away. And even their own Rand study that they commissioned, suggests that at least with respect to the frisks, maybe not the stops, but even the frisks, that there is a racial disparity, that\u2019s their own expert\u2019s testimony, their own expert\u2019s report.\nSo I just find the notion that we were tying to basically engage in a law school exercise of getting a policy that had no substance\u2014\nTHE COURT: \u2014 well\u2014\nMR. MOORE: \u2014 contrary to my understanding and contrary\u2014\nTHE COURT: \u2014 I will quote from page 4 of the letter, the first full paragraph.\n(Reading) In conclusion, it is important to state that plaintiffs vigorously bargained for a provision which would create for an obligation on the part of the defendants to guarantee that there would be no racial profiling. The city refused to agree to such a term for reasons here are negotiated.\nMR. MOORE: I don\u2019t know, there is no citation to that, there is no \u2014 it is sort of, in a way, it was \u2014 maybe it was by being silent they hoped that we wouldn\u2019t say to you, say to the city, and you are going to comply with that, you are going to actually implement the policy.\nI don\u2019t think \u2014 I mean, a municipality that agrees to adopt a policy should be then saying, now that we have adopted a written policy, we don\u2019t have to implement it in practice. When, in fact, they were making \u2014 they were, you know, there was information sent out that there was a racial\u2014\nTHE COURT: \u2014 what I am trying to say \u2014 I am sure I am going to get in trouble for saying it, for $65 you can bring that lawsuit. You can simply\u2014\nMR. MOORE: $350.\nTHE COURT: I knew I had it wrong.\nThe city violates its own written policy, the city has a policy that violates \u2014 they have violated their policy, here is the proof of it, please give us the remedy. Injunction or damages, or whatever lawyers ask for in compliance.\nSo for $350 you can bring that lawsuit and it is timely.\nI don\u2019t understand why w'e have to potentially have, you know, months of briefing when it does fit under this stipulation or it doesn\u2019t, that Ruffo applies or it doesn\u2019t that the Court has the power to extend the supervision, that we want an immediate appeal to the circuit. Why do you need that if you have a lawsuit? Bring it. They have a written policy right?\nMS. GROSSMAN: Yes, your Honor.\nTHE COURT: If you think they are violating their written policy, sue them.\nMS. COSTELLO: Your Honor, just two quick points. One is about the point your Honor\u2019s raising' about just filing a new lawsuit.\nThe one issue for us in that particular scenario is that the protective order is still in effect. Once this case ends, we have to give back all of the data. So unless the Court is prepared to modify the protective order and lift it, we would not have the benefit of that data until we filed a new case and engaged in discovery and battles with the city to get that same information again, and then another battle over a protective order again.\nSo we. see it in the interests of judicial economy, if the Court would lift the protective order in this case, since under the language of the stipulation \u2014 and we pointed, if the information is otherwise made publicly available.\nTHE COURT: That\u2019s something I do want to talk to the city about.\nIf it is publicly available, then I don\u2019t understand why you can\u2019t use publiely-available information in drafting your suit, or for whatever other purpose. If something is publicly available and I can get it and anybody who is in the public library can get it, or using the Internet can get it, if anybody , calls the city\u2019s green book office, can get it, then it is public.\nCan you do this from public information or not?\nMS. COSTELLO: It is not that publicly available.\nTHE COURT: You can\u2019t have it both ways. If it is public you can use it and I don\u2019t think the city can ever argue that you can\u2019t.\nOnce you backtrack and say it is really not public, then you are making their argument.\n. MS. COSTELLO: It is public. The only problem is that the information that the city hag put out, just as Ms. Gross-man\u2019s letter said, it is our data, we can use it however we would like to. The information that\u2019s been put out by the Rand Corporation, and we have a copy of the study, is that the Rand Corporation and the NYPD\u2019s spin using magic wands about what the data means, our analysis and conversation with an expert shows us different things, that the Rand information has used benchmark and other statistical methods to explain away. So it is publicly available in the sense that the NYPD and the Rand publication has written details in the Daily News and otherwise made that information available. But in the sense the data that we have that may differ from what the city has put out, is not publicly available. Because that\u2019s our analysis and that\u2019s our impressions and our statisticians and numbers of what the patterns show.\nSo our information is different than what the city has, some of which is the same.\nRand reached some of the same conclusions about the data. But they have also ignored some of the other information, particularly racial disparities and the frisks leading to arrests and the weapons recovery that we think are indicative of racial profiling.\nMR. FRANKLIN: Your Honor, in terms how the data is collected, we have the data on discs from the city, which makes it that much easier to compute.\nThis information is public, but it is public in hard copies. And so it is public not only through the Rand study, but also through the study that they, the city, gave to the city counsel. But they are both access to the data is here, but it is in a format which is highly unusable in terms of making statistical analysis and breaking down data, which would take us months to recompile.\nTHE COURT: As I was saying earlier, Ms. Costello responded with how difficult it would be to get the material again. There is enough in the public record to craft the suit. And then in that suit simply say, we want produced all that was produced in the 1999 lawsuit.\nI don\u2019t know how you could lose getting it. It may be a question of whether it is still going to be under protective order or not. But I can hardly imagine not getting it. You know what I am saying? It is so obvious to me that any Judge would require them to reproduce it to you in the same format that you have it, that you will have it again. Whether or not it remains confidential.\nMR. FRANKLIN: We\u2019ll have it again, but we have to go through the same process we have gone through. We have to turn everything back to the city under this protective order. So if we get it back we have to again recalculate the same information that we already have.\nTHE COURT: You have to go through recalculating? Why would that be?\nMR. FRANKLIN: Because under the protective order we have to give them back that information.\nTHE COURT: Not just what they gave you?\nMR. FRANKLIN: If my reading is correct, it\u2019s what they gave us and\u2014\nMS. COSTELLO: \u2014 everything derived from the UF250 database. So it is the actual physical discs that the data is contained on, which are thousands and\u2014 tens \u2014 hundreds of thousands of entries, as well as any information that we derived. So any of the work that our statistician has done with coding, would have to be given back to the city. We couldn\u2019t retain that information.\nTHE COURT: Your attorney work product and published material, all that stuff would have to go back?\nThat seems odd to me. I don\u2019t know why it can\u2019t be stored under the terms of confidentiality. This is not practical.\nMS. COSTELLO: Your Honor, if I could, I am just going to take one minute and look at the protective order to make sure.\nMR. FRANKLIN: Unless the city disputes that.\nTHE COURT: We aren\u2019t getting too far off the substance, are we?\nMR. MOORE: Judge, the protective order\u2014\nTHE COURT: \u2014 -where is that? Do I have that?\nMR. MOORE: I don\u2019t think you have a copy.\nTHE COURT: Do you have that, Ms. Grossman? Is that attached\u2014\nMS. GROSSMAN: \u2014 your Honor\u2014\nMR. MOORE: \u2014 I can hand you up a copy, Judge.\nTHE COURT: This is June 81, 2000\u2014 I\u2019m sorry \u2014 January 31, 2000. Yes, it will be eight years this January.\nMR. MOORE: Paragraph 7, I think, is the provision that is at issue here.\nTHE COURT: Let\u2019s read it. (Reading) Within 30 days after the termination of this case, including any appeals, the confidential materials, including all copies, notes and other materials containing or referring to information derived therefrom, shall be returned to the producing party\u2019s attorneys, or upon their consent, destroyed. And all persons who possess such materials shall verify their return or destruction by affidavit furnished to the producing party\u2019s attorneys. And paragraph 8 says: (Reading) The terms of this order may be modified by further order of the Court.\nSo obviously 30 days after termination of this case is January 30, 2008, right? If the case terminates December 31\u2014\nMS. GROSSMAN: \u2014 I think, your Hon- or, the termination date was the termination when we entered into the effective date of the agreement.\nTHE COURT: It couldn\u2019t be, because\u2014 they would have owed this stuff back to you years ago.\nMS. GROSSMAN: They did. They returned all documents they were required to return when the agreement was executed, and when it was finalized by the Court.\nSo the agreement incorporates the protective order and basically says that the plaintiffs need to return the documents, maintain the confidentiality, and return them after the agreement sunsets. That\u2019s expected after the agreement terminates.\nThe protective order was, the plaintiffs were subject to the protective order, to maintain the confidentiality, but\u2014\nTHE COURT: \u2014 I am not following you at all.\nI still say they don\u2019t have to return all that They now still retain until January 30,2008, thirty days after the termination of this case.\nI am still supervising this case, that\u2019s why you are worried about my extending it even one day, because my supervision runs out on December 31, '07. So I still have this case. So, therefore, it is not 30 days after the termination of this case. They are talking about the very material they have\u2014\nMR. MOORE: We got material\u2014\nTHE COURT: \u2014 as recently as October. So, of course, you didn\u2019t return it 30 days after the case number was closed. Obviously it is not due back till January 30 or 31st of 2008.\nAll I am saying is, by then if you have a lawsuit pending and need the very same material, and I have the authority to modify the terms of this order by a further order of the Court, which the city agreed to, then I will, and I will say, you have the material, hold on to it, remains confidential, somebody says otherwise, and use it as you need to use it in your new lawsuit.\nI don\u2019t want to play games here, if there is a violation of the city\u2019s racial profiling policy \u2014 that\u2019s not what it is called.\nMR. MOORE: That\u2019s what it is called.\nTHE COURT: Okay. Strange. Kind of a\u2014\nMR. MOORE: \u2014 it should be nonracial.\nTHE COURT: Yes. If there is a violation of it, there is a violation, and that\u2019s a lawsuit, and that\u2019s that.\nIt still strikes me as making it more difficult, a square peg in a round hole, to force it into this stipulation of settlement, and got into all these questions about you tried to get a guarantee.\nYou didn\u2019t get a guarantor, you fought for it, but they stood firm and they didn\u2019t got it to you. La, la, la. But okay, this is only the beginning. We can go through their whole letter and respond to all their points. We didn\u2019t get too far. You were going to \u2014 we started with Cl.\nMR. MOORE: Just one second, Judge.\nTHE COURT: Yes.\n(Discussion off the record)\nMS. GROSSMAN: Your Honor, if I may just address the issue of the confidentiality.\nTHE COURT: Yes.\nMS. GROSSMAN: If you were to look at paragraph 4 \u2014 I\u2019m sorry, H4.\nTHE COURT: What stipulation of settlement, A4?\nMS. GROSSMAN: H4.\nTHE COURT: Yes, okay.\nMS. GROSSMAN: If you would bear with me, your Honor. If I could just walk you through the first and explain what it refers to. The first on paragraph 4 page 11 it says, all confidential documents\u2014\nTHE COURT: \u2014 wait a minute, I am on page 11 \u2014 oh, H, okay.\nMS. GROSSMAN: (Reading) All confidential documents subject to the January 31,2000 protective order, and copies made thereof, produced to plaintiffs by defendants prior to the effective date, shall be returned to the Corporation Counsel\u2019s office upon the effective date. Unless prior to that date defendants have expressly authorized the retention of specific documents itemized in writing by plaintiffs until, at the latest, the termination of the stipulation.\nNow, let me just take a break. That information was all the documents provided during the litigation. The plaintiffs complied with that provision in the agreement and returned all the documents to the city with the exception of a few items that they wrote \u2014 put in writing, and they were allowed to maintain.\nNow we move on to all documents provided to plaintiffs in any form by defendants under the terms and during the course of this stipulation shall be deemed confidential, and plaintiffs shall return to the Corporation Counsel\u2019s office all such documents, and any copies made thereof, upon the termination of this stipulation.\nSo at the very least we know that pos-teffective date of the agreement, the plaintiffs, under the terms of this agreement, which they contracted for, which we all agreed to, are to be returned to the city.\nTHE COURT: Well, that\u2019s good, but I don\u2019t think it is good enough. Because I think the Court\u2019s order is ambiguous or contradictory to that by saying that it extends to 30 days after the termination of this case.\nNow, you want to interpret the phrase termination of this case differently than I do. I don\u2019t have it in front of me, I will find it. Actually it is attached to this in the protective \u2014 the protective order\u2014\nMR. FRANKLIN: \u2014 it\u2019s the last attachment.\nTHE COURT: I have it dated January 31, 2000. Is that part of the stipulation of settlement \u2014 yes, it must be, Exhibit C to the stipulation of settlement. And the exhibit itself says, the very date of the termination of this case. So I have essentially two clauses of the same stipulation of settlement that disagree. And\u2014\nMR. MOORE: \u2014 essentially what we are talking about is 30 days.\nTHE COURT: Oh, I understand. But the city does not want you to have these then able to craft this complaint. And it also seems childish to me. It is in your letter, it is all there already.\nAs I say, I have got two conflicting clauses in front of me, they are both part of the settlement.\nMS. GROSSMAN: I believe, your Hon- or, if you were to look at paragraph 4, the plain meaning\u2014\nTHE COURT: \u2014 4?\nMS. GROSSMAN: \u2014 the same\u2014\nTHE COURT: \u2014 H4.\nMS. GROSSMAN: H4.\nTHE COURT: I know what H4 said, I don\u2019t even argue that it is wrong, but it conflicts with Exhibit C. Exhibit C tells me that within 30 days of termination of the case, and I say this case is open until the Court\u2019s supervision ends on December 31 of 2007\u2014\nMR. MOORE: Judge\u2014\nTHE COURT: \u2014 and it says that I have the power to modify that protective order at any time.\nIn terms of this \u2014 by further order of the Court.\nSo I certainty have the power to modify that protective order until December 31 of '07.\nAnd so to that extent, I surely would modify it to my own reading of it, which is 30 days after the case terminates, which is January 30, '08.\nI am happy to keep going with your letter if you want to go through chapter and verse, and try to still make your points in your letter, try to convince me. I don\u2019t like the idea of having to work on it in the next eight days under that gun. But that\u2019s what it is coming to. It does not seem to me that would be.\nMS. COSTELLO: Your Honor, putting aside the issue of the modification as it relates to the racial profiling issues.\nTHE COURT: Let\u2019s turn to something else then.\nMS. COSTELLO: The specific performance issues other than that which would include the training.\nTHE COURT: Let\u2019s talk about it. The city wrote about that too. I don\u2019t see a subheading actually called training.\nMs. Grossman can tell me where in this letter it is?\nMR. MOORE: Subsection C.\nTHE COURT: Subsection C. There it is, training, okay.\nMS. COSTELLO: Basically under the agreement section, and I will point the Court to C5, and actually section E, of the stipulation\u2014\nTHE COURT: \u2014 E is the one they refer to?\nMS. COSTELLO: Yes.\nTHE COURT: Training.\nMS. COSTELLO: We\u2019ve had several conversations with the city through letters and verbally about the fact that there has never been any verification that the training specified in section E has occurred.\nThe city\u2019s position is, as I understand it, is that we are not entitled to it. And we would disagree with that.\nTHE COURT: Let\u2019s look at the plain language of the settlement agreement.\nI don\u2019t know how much we are going to have to read, but we will read as much as we have to.\n1: The NYPD has conducted in-service training regarding the racial profiling policy, which has been presented to NYPD commands. The NYPD shall provide annual in-service training regarding the racial profiling policy.\n2: The NYPD shall maintain that portion of the police academy curriculum that pertains to training regarding the racial profiling policy.\n3: The NYPD shall continue to train police officers about the legal and factual bases for conducting and documenting stop, question and frisk activity. Continue to implement the police academy curriculum for training police officer recruits about the and factual bases for conducting and documenting stop, question and frisk activity. And continue to provide training for police academy instructors.\nMR. MOORE: \u2014 Judge\u2014\nTHE COURT: \u2014 about the legal and factual bases for conducting for and \u2014 and then all I can say is that paragraph 4 says, the NYPD shall continue to train, and 5 says the NYPD shall continue to provide training.\nNumber 6 says, the police academy will continue to consider informally, factual incidents brought to its attention for use in training.\n7 says, the NYPD is reviewing the recruit curriculum and is part of the process, the Commissioner will conduct a review.\n8 says, the NYPD will continue to provide full promoted sergeants and lieutenants with training,\n9: The municipal defendants have provided to \u2014 and 10 says: The NYPD shall continue to document training provided for in this stipulation in the same manner and consistent with existing practices and procedures employed by the NYPD.\nNow, I have read it all. Nowhere does it say they will turn anything over to class counsel or report to class counsel.\nMR. MOORE: To verify, the word verification does not appear.\nTHE COURT: Or report or turn over\u2014\nMR. MOORE: \u2014 if you look at subsection C5 of the agreement.\nTHE COURT: Okay, let me now turn to C5.\nThe NYPD shall supervise, monitor and train officers regarding the racial profiling policy as set forth below.\nMR. MOORE: So that\u2019s an affirmative duty on the NYPD.\nTHE COURT: That\u2019s true.\nMR. MOORE: To supervise, monitor and train officers regarding the racial profiling.\nIn order to determine whether they are fulfilling their duty, whether they have lived up to the terms of this agreement, we would argue that they should tell us what they are doing.\nTHE COURT: Why didn\u2019t you get that into the agreement? Why didn\u2019t you say, shall produce on a quarterly basis its training materials for counsel\u2019s review?\nThere is nothing in there. There are no obligations other than to do it. But not to let you know through documentation.\nMR. MOORE: But if they are not doing it, the only way we can know if they are not doing it is by asking them if they are doing it.\nTHE COURT: I understand.\nMR. MOORE: It seems to me that that\u2019s an inherent obligation on the part of the city.\nTHE COURT: But this thing was signed January 9,2004. I mean, that\u2019s almost four years ago. Did you ever write them a demand letter and say, please document that you are doing training? Or we believe you are \u2014 or we believe you are not doing training, we are worried about that, please send us copies\u2014\nMS. COSTELLO: \u2014 we did\u2014\nTHE COURT: \u2014 why are we doing this on December 21 of '07?\nMS. COSTELLO: We did, your Honor, asked in April, and some of those letters were provided to the Court.\nTHE COURT: '07?\nMS. COSTELLO: Yes, this year. We asked them in February, in April.\nTHE COURT: For what?\nMS. COSTELLO: For proof that they were conducting the training in accordance\u2014\nTHE COURT: \u2014 and their response was?\nMS. COSTELLO: That they did not read the stipulation to require it.\nTHE COURT: Why didn\u2019t you come to court then? It is nine days before December 31.\nMS. COSTELLO: Part of this, your Honor, is that we were attempting to work it out with the city. Ms. Grossman and I, in September, were\u2014\nTHE COURT: \u2014 I hear you. But the position you put me in is to have some kind of real brief motion, you would like to brief these issues, you would like to brief Ruffo and its progeny orally. You mint your brief due on 10 a.m. on the 26th and their brief at 10 on the 28th, and the reply on the 31st?\nMS. COSTELLO: That\u2019s what we proposed, there be six months of extension.\nTHE COURT: Haven\u2019t we been down that road once?\nMS. COSTELLO: Yes, we have, your Honor. Some of the cases that we cited before we would still say that the equitable power of the Court\u2014\nTHE COURT: Didn\u2019t I do it and undo it?\nMS. COSTELLO. You did undo it.\nTHE COURT: And wrote an opinion too.\nMS. COSTELLO: Part of that, your Honor, was that we had not followed the dispute resolution in the decree and we have\u2014\nTHE COURT: \u2014 they wrote you didn\u2019t. Didn\u2019t you write that, Ms. Grossman, they didn\u2019t follow the dispute resolution again?\nMS. GROSSMAN: That\u2019s right.\nMS. COSTELLO: We disagree\nTHE COURT: But I am not being given much time to understand that. They are saying you didn\u2019t, they' are saying something about 30 days. In what way didn\u2019t they file a dispute resolution\u2014\nMS. GROSSMAN: \u2014 they were' supposed to wait until 30 days to seek relief from the Court.\nTHE COURT: Wait until 30 days from what?\nMS. GROSSMAN: From the date that they have, gave notification to us. The notification that they are required to give is by fax and hand service.\nTHE COURT: Arid they faxed you a letter.\nMS. GROSSMAN: Friday evening.\nTHE COURT: December what?\nMS. GROSSMAN: November 30, Friday evening, 7:03 p.m. And they did not deliver a document by hand Friday for us to have notice. And it wasn\u2019t until Monday, December 3, there was no by hand delivery at all. So they haven\u2019t complied with the terms of the agreement in terms of giving proper notice, which then would bring us beyond the December 31 sunset provision in terms of when they would be able to seek relief from the Court.\nThe first time they raised the issue about the racial profiling was on November 30.\nMR. MOORE: Judge\u2014\nMS. GROSSMAN: \u2014 the first time they raised an issue about another item concerning joint community forums was on November 30.\nTHE COURT: Which falls within the 30 days. But you are saying out of the technicality, the reason that it is important was because, that\u2019s important because you weren\u2019t in the office at 7:03 on a Friday night and didn\u2019t see it until Monday.\nThe city is saying it didn\u2019t have actual notice on November 30, but on December 3.\nMR. MOORE: We were before you in April, and we were raising the issues about the fact that they hadn\u2019t produced the database. And, you know, we didn\u2019t get that until October.\nTHE COURT: I know\u2014\nMR. MOORE: \u2014 that sort of sidetracked us a little bit. And I think, though, that now that we have had the data\u2014\nTHE COURT: \u2014 but that didn\u2019t relate to things like not having proof of training, and proof of community forum, which you didn\u2019t think was going on. There were other complaints that you could have raised in time to get some real rulings on violations or not.\nI might have still said at the end of the day, with respect to training, they undertook no obligation to report to you, you would argue back, no, but they took on an obligation to do it, how are we supposed to judge compliance if we can\u2019t get discovery. But discovery is different than a reporting requirement.\nMR. MOORE: I guess it brings me to my other point which if, in fact, the city is of the opinion that all they have to do is have a written policy, and they have a written policy, what harm is there to the city in agreeing to extend this for two months, three months, whatever it may be, if in fact, as they say, are all that it requires them to do is have something on paper that says we won\u2019t engage\u2014\nTHE COURT: \u2014 you don\u2019t know if they have a written policy?\nMR. MOORE: I do know that they implemented a written policy. There was \u2014 I haven\u2019t looked at it in the last few weeks. But I do believe there is a written policy.\nMy point is that if, in fact, all they are required to do under this settlement agreement is to have a written policy, what harm is there in extending this agreement for a couple of months, for us to resolve these issues and decide, for instance, decide whether we want to just put this thing to bed and, you know, start another case. If that\u2019s what we want to do.\nIf we believe that that evidence of racial profiling is there, you make a very strong point about trying to put a square peg in a round hole, whatever that might be. But my point is, what harm would there be \u2014 I guess the answer is, it\u2019s a common-sense argument. It is not a lawyerly argument. That\u2019s the problem.\nTHE COURT: Unfortunately we all chose this profession, and some days we ask yourselves why.\nLawyers have the right to stand on technicalities. The Supreme Court issued some opinion last year that said, yes, the federal Judge \u2014 that\u2014the Supreme Court said you are time barred, you have file an appeal ten days after judgement, telling your attorney you want an appeal is not enough. You should have listened to that Federal Judge.\nThe consenting Justices were outraged, but there you have it. The other justices thought it was a fine thing to say it on the technicality. The District Judge told the prisoner you have that time. A career prisoner should have known better than a federal Judge. The law is full of technicalities.\nWhy doesn\u2019t the city agree to extend it? Because they don\u2019t want to. And if they don\u2019t have to, they don\u2019t want to. What am I going to do? Tell them, practically speaking, he\u2019s right, why don\u2019t you give us all time to brief this and decide this? They could say, that\u2019s very nice, but we decline.\nYou want me to get it on the \u2014 would you agree to extend this two to three months? We can get a briefing schedule.\nMS. GROSSMAN: Your Honor, I am not authorized to agree to that.\nMS. COSTELLO: I have one point on the training issue, Exhibit 1 to our letter, the December 4 letter that I wrote to Ms. Grossman. If you look at the third page\u2014 page 2 at the bottom\u2014\nTHE COURT: \u2014 I got a problem, the November 30 letter\u2014\nMS OSTELLO: \u2014 no, I\u2019m sorry, the letter that we delivered to the Court last Friday.\nTHE COURT: Oh, yes.\nMS. COSTELLO: Exhibit 1 to that.\nTHE COURT: Exhibit 1 is the November 30 letter.\nMS. COSTELLO: Maybe it is Exhibit 2, your Honor.\nTHE COURT: Exhibit 2 is the February 16 letter.\nMS. COSTELLO: There should be a September 4 letter, your Honor.\nTHE COURT: That\u2019s Exhibit 3. Page 2 at the bottom.\nMS. COSTELLO: On the next page we explain to the city that we think they are not in compliance with the training requirements, just as we thought they were not in compliance with the auditing of the training requirements.\nTHE- COURT: But you didn\u2019t bring it to my attention, is all I am trying to say. Of course, now what you are saying is you did satisfy the dispute resolution mechanism. Is that your argument, that by the September 4 letter you did, in fact, satisfy the dispute resolution requirement?\nMR. MOORE: Yes.\nMS. COSTELLO: As Ms. Grossman and I had conversations in which we were attempting to see.if the city would give us some documentation showing that the training had occurred.\nTHE COURT: . Ms. Grossman, did the plaintiff satisfy the dispute resolution by raising the issue on September 4?\nMS. GROSSMAN: On the training? . .\nTHE COURT: In writing.\nMS. GROSSMAN: The one piece on the training, yes. But when I mentioned that the issue about the racial profiling was first \u2014 first\u2014\nTHE COURT: \u2014 but we got lots of issues. Let\u2019s deal with training.\nSo they satisfied the dispute\u2014\nMS. GROSSMAN: \u2014 yes.\nTHE COURT: What flows from the fact that they said the dispute resolution mechanism on the training point? And you raised some kind of defense.\nMS. GROSSMAN: I\u2019m sorry, your Hon- or, were you addressing me?\nTHE COURT: I said, what flows from the fact that they satisfied the dispute resolution mechanism.\nMS. GROSSMAN: Our response to that, your Honor, was that they misinterpreted the agreement, that they are rewriting the agreement.\nTHE COURT: Meaning proeedurally, if they satisfied the dispute resolution mechanism by giving you 30 days, what flows from that, they are allowed to come to court.\nMS. GROSSMAN: Yes.\nTHE COURT: So they alluded to come to court on that one because they satisfied the dispute \u2014 and they want to say because of, in their view, of the training requirement being violated, that is a basis for this Court to extend supervision, and/or compel specific performance.\nMS. GROSSMAN: Your Honor, the agreement is very specific. It permits specific performance. And then I would submit, your Honor, that they have to provide sufficient notice to the Court to enable all parties to perform. And to give seven days. And to give notice on this schedule is not what I believe is contemplated by the agreement.\nTHE COURT: Well, I don\u2019t know. They satisfied the dispute resolution mechanism, we all agree with that, on this issue, and they, then they have the right to come to court. And they have come to court.\nI can say, based on their complaint regarding training, I need to have full briefings in order to give the Court an appropriate amount of time to decide whether there has been a violation. I have to extend the deadline to decide the motion properly.\nMS. GROSSMAN: We would submit, your Honor, that that\u2019s not the dispute\u2014 that is not a remedy available under the agreement.\nTHE COURT: The remedy you agreed to is, they can bring a dispute to court after giving you 30 days notice.\nMS. GROSSMAN: But there is no\u2014\nTHE COURT: \u2014 inherent power. I can\u2019t decide a motion that\u2019s not briefed. It is timely, it was brought before the expiration of this agreement, they satisfied the dispute resolution mechanism, the Court has the power to operate its own docket. I can\u2019t decide a motion, an important one, that\u2019s not briefed.\nIs there any other exhausted issue, so to speak, besides the training one? Should we continue with the letter since they agreed that you \u2014 what\u2019s the next one?\nMS. GROSSMAN: Your Honor, I would just add on the training piece, there is no good-faith belief given. What we just walked through of the verification that there was an absence of language\u2014\nTHE COURT: \u2014 but Mr. Moore makes some practical point. There is no point in the city agreeing to do something, there is no way to find out whether they did comply. Otherwise you have a right without a remedy. You have a meaningless agreement.\nThat cannot be the intent of the parties to say, we will provide training but ha, ha, if we don\u2019t, you can\u2019t find out and you can\u2019t take us to go task for it. That can\u2019t make sense.\nMS. GROSSMAN: Your Honor\u2014\nTHE COURT: \u2014 but I am going to run out of time and patience shortly. I would like to move right past the training to the next exhaustive claim. Is there another\u2014\nMS. GROSSMAN: \u2014 may I just be heard once on the training?\nTHE COURT: No.\nMS. GROSSMAN: To talk \u2014 we had negotiations on the document being\u2014\nTHE COURT: \u2014 no.\nMS. GROSSMAN: \u2014 bank added to the agreement and we rejected it\u2014\nTHE COURT: \u2014 no\u2014\nMS. GROSSMAN: \u2014 the plaintiffs\nwrote\u2014\nTHE COURT: \u2014 no, I don\u2019t want to hear anymore about training. I want to hear other issues that are ready for the Court.\n\"What other issues have you exhausted?\nMS. COSTELLO: We are going to concede the other two issues, they are minor. We think the training is the\u2014\nTHE COURT: \u2014 the city says they a right to stand on the technicality on the violation of the racial profiling policy, you didn\u2019t give them the notice till December 3, so you can\u2019t bring that one to court in time for the stipulation of settlement to expire. So the only one that\u2019s live is the training.\nIf that\u2019s all we have to do between now and the 31st, maybe we can brief it and decide it. It is one issue not five, not four, not six.\nI still say, putting a square peg in a round hole and all you have to do is bring a lawsuit, my interpretation of that protective order is that you have the documents till the end of January.\nMR. FRANKLIN: Your Honor, can we take two minutes?\nTHE COURT: Please.\n(Recess)\nTHE COURT: Mr. Moore.\nMR. MOORE: Judge, after consulting with my colleagues, I think we have come to a position that if we have \u2014 if the Court is willing to permit us to hold the data that we have until the end of January, 30 days after the expiration of this agreement, we would be willing to withdraw this motion at this point. And engage in this process of bringing another lawsuit or not.\nTHE COURT: I think I said it many time, on this record, that that\u2019s my interpretation of this agreement. And that is the way I am ruling, that\u2019s what it said, 30 days after the termination of this case, which to me it finally terminates, termination December 31, '07, they remain confidential. But that doesn\u2019t mean you can\u2019t use them.\nMR. MOORE: To the extent that some of the materials have already been made public,\u2014\nTHE COURT: \u2014 what\u2019s public is public. If you cite to the Rand study, publicly, nobody can criticize you for that. If they do, they weren\u2019t acting in good faith. If I can get the Rand study on the Internet, it is public\u2014\nMR. MOORE: \u2014 you can go to the NYPD website, your Honor.\nTHE COURT: There you go, that\u2019s public. You can use that. And as I said before, I would accept it as a related case, which the plaintiff has the power to designate.\nI think this current motion is withdrawn. Thank you.\nALL COUNSEL: Thank you, your Honor.\nAPPENDIX C\nTHE NEW YORKER\nANNALS OF LAW\nRIGHTS AND WRONGS\nA judge takes on stop-and-frisk.\nBY JEFFREY TOOBIN\nMAY 27, 2013\n\u2022 Print\n\u2022 More\nShare\nClose\n\u2022\n\u2022 Reddit\n\u2022 Linked In\n\u2022 Email\nHas New York City deprived citizens of their constitutional rights or created one of the great law-enforcement success stories? Photograph by Antonio Bolfo.\n\u201cI don\u2019t love trials,\u201d Judge Shira Scheindlin said recently. \u201cThey are not a good way to tell a story. They are not efficient. And they are often so tedious\u2014 you saw that today.\u201d Scheindlin was sitting at a conference table in her chambers in the Daniel Patrick Moynihan building, off Foley Square, in lower Manhattan, after a long day of presiding in Floyd v. City of New York, which is the latest legal challenge to the stop-and-frisk practices of the New York Police Department. \u201cWhat I really like to do is write opinions,\u201d the Judge said. \u201cThere you get to do what you think is right, what you believe in. You\u2019re pushing the margins of the envelope, being willing to be creative.\u201d\nIt was after seven o\u2019clock in the evening, and the courthouse was nearly empty. At sixty-six, Scheindlin is renowned for her work ethic and her demands on her staff. Her clerks work from 9 A.M. until 8 P.M. every weekday. They can get lunch at the courthouse cafeteria but must eat it in chambers. They are also expected to work six hours over the weekend. (They can choose which day.)\nIn her office, Scheindlin was relaxed and expansive, especially when she talked about her two children, a son who is a violist with the Metropolitan Opera orchestra and a daughter who is a political consultant and pollster in Israel.. (Her husband, Dr. Stanley Friedman, is an associate dean at suNY-Downstate Medical Center.) On the bench, though, she is unflaggingly rigorous. She listens to testimony, reads the transcript on her computer in real time, e-mails her clerks, and sips endless cups of Diet Coke. Lawyers who appear before her often describe her as opinionated and brusque. (\u201cI\u2019ve heard enough.\u201d \u201cMove along.\u201d \u201cI\u2019ve ruled, counsel.\u201d)\nThe primary outlet for Scheindlin\u2019s judicial creativity has been an enduring battle she has fought with the N.Y.P.D. A federal judge since 1994, she has been, hearing lawsuits against the police for more than a decade. In decision after decision, she has found that cops have lied, discriminated against people of color, and violated the rights of citizens. Now, in the midst of a mayoral race, with the Democratic candidates united in their opposition to the stop- and-frisk policies of the Bloomberg administration, the Floyd case represents Scheindlin\u2019s greatest chance yet to rewrite the rules of engagement between the city\u2019s police and its people. David Floyd, the lead plaintiff, is an African-American medical student who had been stopped and searched twice. The core allegation in the case is that the N.Y.P.D. is systematically violating the rights of its citizens with unlawful stop-and-frisks, particularly by targeting minorities. The questions before Scheindlin are profound. Crime has declined in New York in recent years, as it has in other cities around the country. But why? And at what cost to the civil liberties of its people? Has New York City conducted a long-term, racially motivated campaign to deprive thousands of its citizens of their constitutional rights? Or, as Mayor Bloomberg and others maintain, has the city created one of the great law-enforcement success stories in recent American history?\nThe concept behind stop-and-frisk, which is sometimes also called \u201cstop, question, and frisk,\u201d is a simple and venerable one. Police officers may arrest a suspect only if they have probable cause to believe that he committed a crime. What can they do if they suspect that someone is involved in criminal activity but lack sufficient grounds to make an arrest? The Supreme Court addressed the subject in Terry v. Ohio, in 1968. According to Chief Justice Earl Warren\u2019s opinion, a stop is permissible only when \u201ca police officer observes unusual conduct which leads him reasonably to conclude in light of his experience that criminal activity may be afoot.\u201d In other words, the level of certainty needed for an officer to make such a stop is less than probable cause; the standard is often described as \u201creasonable suspicion.\u201d According to the Terry decision, the judgment by the officer must be made on the basis of \u201cspecific reasonable inferences\u201d from the evidence, not \u201cinarticulate hunches.\u201d By and large, this remains the law today. Stop-and-frisk encounters are also known as \u201cTerry stops.\u201d\n\u201cStop, question, and frisk has been around forever,\u201d William Bratton, a former police commissioner in Boston, New York, and Los Angeles, told me. \u201cIt\u2019s a basic tool. It\u2019s the most fundamental practice in American policing. It is done every day, probably by every city force in America. If the police are not doing it, they are probably not doing their job.\u201d Bratton served as Mayor Rudolph Giuliani\u2019s first commissioner of the N.Y.P.D., from 1994 to 1996, and is widely credited with changing the orientation of the police from responding to crime to preventing it.\nThrough much of the second half of the twentieth century, crime and disorder, in forms ranging from graffiti to murder to a crack epidemic, plagued New York. The police appeared powerless to address these scourges. \u201cAround 1960, New York City basically stopped policing,\u201d Bratton told me. \u201cThe police were no longer engaged in controlling behavior in the streets. We changed that. If people are drinking cans of beer on the corner, you stop that behavior. If somebody is urinating against a building, or if you suspect somebody is casing a building for a burglary, you stop them. Of course police should be doing that. You make the streets safe, and, besides, a lot of these people committing these minor crimes turn out to have warrants out against them for more serious things.\u201d The approach is known as Broken Windows, after a 1982 article in the Atlantic by James Q. Wilson and George L. Kelling. Bratton\u2019s interpretation of the Broken Windows approach called for vigorous police enforcement of minor crimes like fare-beating and intrusive panhandling as a tool to preserve public order and, at the same time, to catch criminals. In addition, the N.Y.P.D. under Bratton began to make extensive use of data to identify crime-prone areas and focus resources on them \u2014 an approach sometimes called \u201chotspot policing.\u201d Aong the way, especially in high-crime neighborhoods, cops stopped people not just in the act of committing minor crimes but also for suspicious behavior.\nStop-and-frisk \u2014 indeed, aggressive policing generally \u2014 presents significant challenges for judges. Months, or even years, after a confrontation between a cop and a suspect, the judge must determine if the stop was legal and thus whether the evidence gathered can be used in court or should be suppressed. \u201cMost judges are reluctant to grant suppression motions,\u201d Erin Murphy, a professor at the New York University School of Law, said. \u201cIt\u2019s hard for judges to look a police officer in the eye and say he didn\u2019t follow the law. And of course it\u2019s only defendants who look guilty who file suppression motions. It\u2019s every judge\u2019s worst nightmare that a released defendant will show up in the newspaper the next day for committing some horrible crime. If you suppress evidence, you are making it hard or impossible to prosecute a guilty person. That\u2019s a really difficult emotional and political decision for a judge to make.\u201d\nThe matter of Antonio Fernandez presented such a dilemma for Judge Scheind-lin. On May 12, 1995, police received a 911 call reporting a gang meeting in progress at a small park in the Bronx. The caller said that one member, a Hispanic man wearing a white-and-black jacket, had a gun. The officers who responded found about fifty or sixty men, all Hispanic, milling around. The police frisked one man, who had no contraband. Then they followed a group of three or four men who had been standing to the side of the main group. One of them was Fernandez, who was stopped, frisked, and found to have a small amount of marijuana. At the station house, he was frisked again, and police said that he had a fully loaded .38-calibre revolver hidden in his crotch.\nFernandez was charged with illegal possession of a handgun, and the case was assigned to Scheindlin, who was in her early days on the federal bench. Fernandez argued that the Terry stop was illegal, and that the gun should be suppressed as illegally obtained evidence. Scheindlin agreed, writing in an opinion that, \u201cbased on the facts presented here, the police did not have reasonable suspicion to stop Defendant and his companions.\u201d In part, Scheindlin said, the stop-and-frisk was illegitimate, because the anonymous tip was too vague to lead to Fernandez, but her opinion reflected a disbelief in the officers\u2019 testimony. According to the officers, Fernandez\u2019s first frisk produced a small amount of marijuana, but the second yielded a large handgun. As Scheindlin wrote, \u201cIt is extremely difficult to believe that the same officer could have missed a bulky .38 caliber revolver hidden in Defendant\u2019s pants.\u201d\nThe case might have passed without notice, but Antonio Fernandez was not an ordinary defendant. He was better known as King Tone, the leader of the Latin Kings, one of the most notorious drug gangs in the United States, and he was being charged as part of a huge crackdown on the group by the United States Attorney\u2019s office for the Southern District of New York. \u201cScheindlin is one of the very few judges who would have had the guts to toss out a case like that one,\u201d a former prosecutor familiar with the case said. (Three years later, Fernandez was prosecuted for heroin and cocaine trafficking and sentenced, by a different judge, to twelve years.) Scheindlin\u2019s ruling in the Fernandez case set a template for her handling of criminal cases. As one of her former law clerks put it, \u201cWhat you have to remember about the Judge is that she thinks cops lie.\u201d\nAccording to a study prepared by the Mayor\u2019s office, Scheindlin suppresses evidence on the basis of illegal police searches far more than any of her colleagues \u2014 twice as often as the second-place judge. This may mean that Scheindlin is uniquely courageous \u2014 or that she is uniquely biased against cops. (Scheindlin has said that the study is misleading, because it reflects only her written opinions, rather than bench rulings, in which she almost invariably rejects motions to suppress.) Still, she embraces her maverick status. Many judges in the Southern District previously worked as prosecutors in the U.S. Attorney\u2019s office there, but she was not among them. \u201cToo many judges, especially because so many of our judges come out of that office, become government judges,\u201d Scheindlin told me. \u201cI don\u2019t think I\u2019m the favorite of the U.S. Attorney\u2019s office for the Southern District. Because I\u2019m independent. I believe in the Constitution. I believe in the Bill of Rights. These issues come up, and I take them quite seriously. I\u2019m not afraid to rule against the government.\u201d\nScheindlin grew up in Detroit. Her mother was a schoolteacher, and her father, who emigrated from the Soviet Union, ran a Jewish civic organization. \u201cWe were a political family,\u201d she told me. \u201cMy father was the official Jew for many committees in the state.\u201d For a time, the family lived in a house once owned by a brother of Walter Reuther, the United Auto Workers labor leader. \u201cThe house had a bullet hole, from where someone had taken a shot at him,\u201d she said. \u201cIt was a tough town.\u201d\nAt the University of Michigan, Scheind-lin majored in Chinese history, then continued her studies for seven years at Columbia. She never received her doctorate. \u201cThe language defeated me,\u201d - she said. \u201cThe prospect of reading original documents in Chinese was just too difficult.\u201d Scheindlin drifted into law school, graduating from Cornell in 1975. She spent her final year of law school at Columbia, where she took a class with Ruth Bader Ginsburg, who became a mentor. Ginsburg introduced her to the legal side of the women\u2019s-rights movement, and, while still a student, Scheindlin played a role in a case that brought equal pay to female academics at the City University of New York.\nFor the next two decades, Scheindlin did a little bit of everything in the law. She was in private practice, a federal prosecutor in Brooklyn, general counsel to the New York City Department of Investigation, and a magistrate (a lower-level federal judge), also in Brooklyn. In 1994, at the recommendation of Senator Daniel Patrick Moynihan, who had been encouraged by Ginsburg, President Clinton nominated Scheindlin to the federal bench in Manhattan. Her professional roots in Brooklyn, which is known as the Eastern District of New York, separated her from the start from the clubby world of the Southern District.\nA defining event of Scheindlin\u2019s tenure as a federal judge took place on February 4, 1999. On that day, four plainclothes officers shot and killed Amadou Diallo, an unarmed African immigrant, who was in the vestibule of his apartment building, in the Soundview section of the Bronx. (The officers, who thought Diallo was reaching for a gun, were charged with manslaughter. They were acquitted by a jury in Albany, where the case had been moved because of pretrial publicity in the Bronx.) The Diallo case suggested a dark side of Giuliani-era policing.- The same aggressiveness that led New York cops to arrest minor offenders could turn, in certain circumstances, into a predatory approach to non-offenders, especially racial minorities. Crime rates (for whatever reason) had fallen dramatically during the Giuliani administration, but the Diallo case raised concerns about the N.Y.P.D.\u2019s new tactics. \u201cThe idea behind proactive policing was to get guns off the street, which was fine as far as it went, but what it meant on the street was the cops tossed every young black man that they saw,\u201d Jonathan Moore, a veteran civil-rights lawyer, said. \u201cThat\u2019s what led to Diallo.\u201d\nIn response to Diallo\u2019s death, Moore and the Center for Constitutional Rights, a legal-advocacy group, filed the first class-action lawsuit challenging the city\u2019s stop- and-frisk policies. The case, Daniels v. City of New York (Kelvin Daniels was the lead plaintiff), was randomly assigned to Judge Scheindlin, and years of legal skirmishing followed. The parties settled in 2004. The city agreed to establish a written policy governing its stop-and-frisk practices and to improve the training of officers in conducting legal Terry stops.\nIn retrospect, though, the most important part of the Daniels settlement may have involved record-keeping. The city agreed to create a kind of checklist, which police officers would complete each time they conducted a stop-and-frisk. During the next decade, the police filled out more than four million of these forms, which served as indispensable evidence for the Center for Constitutional Rights and others in lawsuits against the city.\nScheindlin has a bright and airy courtroom, one floor below her chambers, and the Floyd trial, now in its third month, has settled into a routine. In jury trials, judges avoid signalling their views, so as not to influence the jurors; but in bench trials there\u2019s less reason for judges to be reticent. By this point, Judge Scheindlin\u2019s views seem etched on the faces of the lawyers before her. Moore and his colleagues bound in and greet the Judge with confident half-smiles; the team from the city\u2019s law department already look like disaster survivors, just trying to hang on. Moore and his team linger after court, chatting with spectators; the city\u2019s lawyers, led by Brenda Cooke, scurry for the door, avoiding eye contact. (Closing statements are expected this week; Scheindlin will probably render her decision within sixty days.)\nThe plaintiffs\u2019 key witness was Jeffrey Fagan, a criminologist and statistician, and a professor of law at Columbia, who has spent much of the past decade scrutinizing the city\u2019s vast database of stop-and-frisk reports. The stop-and-frisk form, known as the UF-250, contains boxes for police officers to check to explain why a suspect was stopped. Some of the boxes refer to specific behavior: a suspicious bulge in clothing, or a refusal to comply with an officer\u2019s directions. More than half of the four million UF-250 forms included checks in the box labelled \u201cFurtive movements.\u201d In his report, Fagan concluded that the furtive-movement box, without more evidence, suggested an unconstitutional Terry stop \u2014 that is, one not supported by reasonable suspicion of a crime. According to an algorithm that Fagan devised, eighty-two per cent of the stops were justifiable, twelve per cent were ambiguous, and six per cent appeared to be unjustified. Projecting that ratio over a decade, Fagan concluded that the N.Y.P.D. had made more than two hundred and sixty thousand illegal stop-and-frisks.\nThe plaintiffs have emphasized that only six per cent of stops led to arrests, just two per cent yielded seizures of eontra-band, and only a tenth of one per cent led to seizures of guns. According to Moore, \u201cWhat this means is that the stops are unjustified more than ninety per cent of the time.\u201d Moreover, the plaintiffs used Fagan\u2019s findings to support a claim that the police engaged in racial discrimination. According to Fagan\u2019s analysis, N.Y.P.D. stop-and-frisks are significantly more frequent for black and Hispanic residents\u2014 constituting eighty-four per cent of the stops \u2014 than they are for white residents, even after adjusting for local crime rates, the racial composition of the local population, and other social and economic factors. \u201cStatistics is a big part of how we are proving racial discrimination by the police,\u201d Darius Charney, who is a co-lead counsel, with Moore, in the Floyd case, said. \u201cWe don\u2019t need to find blatant racial animus. It doesn\u2019t have to be motivated by hatred of black or Hispanic people. We are looking at evidence of stereotypical thinking. We\u2019re looking for cops using race as a factor to make these decisions in a law-enforcement context. It\u2019s using race as a proxy for crime.\u201d\nIn public, police officials have a clear answer to these accusations. \u201cWe have had tremendous success,\u201d Raymond Kelly, the police commissioner since 2002, told me. \u201cCrime is down, and stop-and-frisk is an important reason why.\u201d Civil libertarians say that other factors (such as changing inner-city demographics and the end of the crack epidemic) are involved, and dispute any clear correlation between more aggressive police behavior and the falloff in crime. What is indisputable is that since Bloomberg took office, in 2002, murders have dropped twenty-eight per cent, to four hundred and nineteen in 2012, the lowest number since the city began keeping records, in 1963. Even compared with other cities where crime has also declined, New York has experienced dramatic changes. Since 2002, major crimes across the country have declined fourteen per cent; in New York, they have declined thirty-four per cent. The contrast is even more striking between New York and other big cities. If New York had Detroit\u2019s murder rate last year, there would have been forty-five hundred murders in the city \u2014 more than ten times the actual number.\nLawyers for the city tried to make the argument before Scheindlin about the effectiveness of stop-and-frisk, but she shut them down before they had the chance. In order to rebut Fagan\u2019s analysis of the UF-250 forms, they sought the testimony of Dennis Smith, a professor of public policy at New York University who is an expert on police management. In particular, the city lawyers wanted Smith to testify about his view that the stop-and-frisk policy was an important factor in what they termed \u201cthe historic crime decline achieved by New York City.\u201d\nIn a pretrial ruling, Scheindlin excluded much of Smith\u2019s proposed testimony. She said that \u201cpermitting the parties to delve into the question of whether the stop-and-frisk program actually reduces crime would risk turning the trial into a policy debate over the wisdom of the program rather than a judicial proceeding that assesses plaintiffs\u2019 constitutional claims.\u201d Still, as the trial has unfolded, city lawyers have continued to argue that stop-and-frisk has been a success \u2014 to Scheindlin\u2019s mounting irritation. When Brenda Cooke, the city\u2019s lead attorney, who was cross-examining Fagan, tried to make that point, Scheindlin cut her off.\n\u201cI got to put a stop to this,\u201d the Judge said. \u201cIt is not a good use of my time. For one thing, I\u2019ve said repeatedly that one issue that is not present here is the effectiveness of this policy, because that\u2019s not for this court. This court is only here to judge the constitutionality.... We could stop giving Miranda warnings. That would probably be exciting for reducing crimes. But we don\u2019t allow that. So there are a number of things that might reduce crime, but they\u2019re unconstitutional. This court is only concerned with the Constitution, not with the effectiveness of the policy. I\u2019ve tried and tried to explain that. This is my third or fourth try.\u201d\nEven then, the city\u2019s witnesses persisted in defending stop-and-frisk as a sure means to reduce crime. In a way, the entire conflict in the case came down to a single exchange between Moore and Joseph J. Esposito, who had just stepped down, after thirteen years, as the chief of department in the N.Y.P.D., the highest-ranked uniformed officer in the force. Chief Espo, as he is \u2022 known, was a renowned figure in the N.Y.P.D., and his demeanor on the stand suggested that he was more accustomed to giving orders than to answering questions. Esposito poorly concealed his contempt as Moore, shambling but relentless, pursued him about the propriety of stop-and-frisk. Moore noted that the number of stop-and-frisks had increased from approximately ninety-seven thousand, in 2002, to almost six hundred and eighty-five thousand, in 2011.\n\u201cSo that increase is all on your watch, correct?\u201d Moore asked.\n\u201cYes, it is,\u201d Esposito said, plainly seething. After a slight pause, he volunteered, eyes flashing, \u201cAs is the forty-per-cent decrease in crime during my time \u2014 as is the eighty-per-cent decrease in the last twenty years.\u201d\nIn the Southern District, plaintiffs in civil cases can designate new eases as related to old ones and thus guarantee that the same judge presides. Ever since the Daniels case, civil-rights and civil-liberties groups have continued to challenge the stop-and-frisk policies of the N.Y.P.D. Each time, the plaintiffs have made sure that the cases went before Judge Scheind-lin, who currently has three such class actions on her docket. The Floyd case challenges the practice citywide; Davis v. City of New York, which will go to trial later this year, involves stops at city-owned housing projects; and Lig\u00f3n v. City of New York, which is farthest along in the process, concerns searches at privately owned properties around the city.\nThe Lig\u00f3n case was initiated by the Bronx Defenders, a nonprofit organization that represents indigent defendants in the borough. The lawsuit was based on the experience of, among others, Charles Bradley, a fifty-year-old security guard from the South Bronx who went to visit his fianc\u00e9e at her apartment building, in the Parkchester neighborhood, on May 3, 2011. When he went upstairs, she didn\u2019t answer her doorbell at first \u2014 she is deaf in one ear \u2014 so Bradley went downstairs to wait. \u201cAn officer got out of an unmarked van and came up to me,\u201d Bradley recalled. \u201cI just accommodated the officer to the best of my ability, and, in'turn, what happened was, he went into my pockets.... There was nothing in my pockets except my house keys, my cell phone, my wallet. The thing about it that was so appalling was that I had spent my l\u00e1st dollar to see my loved one. And then he said, \u2018Fuck that, you\u2019re going in.\u2019 \u201d Bradley was arrested for trespassing, a misdemeanor, and strip-searched.\nAt the local precinct, Bradley was given a Desk Appearance Ticket, a common first step in the legal process for minor offenses in New York City. He was instructed to appear in criminal court on July 19th, but he faced a more immediate problem. \u201cThere was a domino effect from being arrested,\u201d Bradley said. The arrest would be reported to a New York State licensing agency for security guards, and that might mean the loss of Bradley\u2019s job. \u201cI need a license to be a security guard, and I would have lost it if they pressed charges,\u201d he said. \u201cIf I lose my license, I lose my income. I could have been put into homelessness for all this.\u201d\n. Bradley took the ticket to the offices of the Defenders, who have pioneered what they call \u201cholistic defense,\u201d a method based on recognizing that, for criminal defendants like Bradley, deportation, eviction, or the loss of parental rights may be more ruinous than conviction or jail. Bradley met with two lawyers \u2014 an employment specialist and a criminal-defense attorney. \u201cCharles was freaking out,\u201d Molly Kovel, the employment lawyer, said. \u201cWe had seen it before. Many of our clients are security guards or cabdrivers, and both are licensed by the government. For a lot of minor crimes, the bigger threat to their lives is losing them jobs, rather than getting convicted.\u201d Kovel kept the licensing authorities at bay while a colleague, Cara Suvall, dealt -with the criminal case. \u201cI had the problem of how to prove his innocence,\u201d Suvall said. \u201cSo we went and got a notarized letter from his fianc\u00e9e saying that he really was visiting her. I took it to the district attorney, and they agreed to drop the charges.\u201d\nStill, the experience of Bradley and others prompted the Bronx Defenders to file a class-action suit against the city. The case focussed on the N.Y.P.D.\u2019s Operation Clean Halls program, through which private landlords give the police advance permission to patrol their property. This led to Lig\u00f3n v. City of New York, in which the Defenders were joined by the New York Civil Liberties Union, the public-interest group Latino Justice, and the law firm of Shearman & Sterling. (Jaenon Lig\u00f3n, the lead plaintiff in that class action, had also claimed to be the victim of an unlawful stop-and-frisk.) They charged that the police were using Operation Clean Halls to conduct unconstitutional stop-and-frisk searches of innocent citizens like Bradley.\nAt a hearing in October, 2012, Scheind-lin listened to testimony from both Bradley and Miguel Santiago, the officer who placed the cuffs on him. Santiago testified that Bradley was in a \u201cdrug-prone location\u201d in a high-crime neighborhood and was \u201csuspiciously walking back and forth\u201d outside the building. Santiago said that he approached Bradley by saying, \u201cExcuse me, sir, could you come over here?\u201d and that Bradley' could not tell him his girlfriend\u2019s name 'or produce any identification. But Judge Scheindlin noted that Santiago\u2019s paperwork contradicted his account in several ways \u2014 he had written, for example, that he approached Bradley inside the building.\nIn a hundred-and-fifty-seven-page opinion, handed down on January 8th this year, Scheindlin gave the Defenders a resounding victory. \u201cOfficer Santiago claimed that he was able to see Bradley\u2019s suspicious behavior even though he was inside a police van parked across the street, twenty or thirty feet. from - the door, separated from Bradley not only by the street but by the windows of the front door, a vestibule, the windows of an inner door, and the hallway,\u201d Judge Scheindlin observed. \u201cI find Bradley\u2019s account credible.\u201d She was especially moved by Bradley\u2019s story. \u201cIf an unjustified stop, happens to lead to an unjustified arrest for trespassing, as it did in Charles Bradley\u2019s case, not every overburdened public defender will have the wherewithal to obtain a notarized letter from the defendant\u2019s host explaining that the defendant was invited, as Bronx Defender Cara Suvall did on behalf of Bradley,\u201d she wrote. \u201cWhen considering the relative hardships faced by the parties, it is important to consider the potentially dire and long-lasting consequences that can follow from unconstitutional stops.\u201d Scheindlin concluded that a \u201cvery large number of constitutional violations took place\u201d as a result of Operation Clean Halls.\nScheindlin had found the city liable in the Lig\u00f3n ease, but what was the remedy? Here the Judge sprang a surprise. She wrote that she was going to decide the city\u2019s punishment in the Lig\u00f3n case (which the city had already lost) at the end of the Floyd trial (which had not even taken place). In other words, it looked as though Scheindlin were scheduling her remedies hearing as if she had already ruled against the city in Floyd. In a footnote, Scheindlin added, \u201cI emphasize that this ruling should in no way be taken to indicate that I have already concluded that plaintiffs will prevail in Floyd.\u201d But the city lawyers in the Floyd case are skeptical that the Judge\u2019s mind is open. \u201cIt\u2019s like she has scheduled our sentencing before she\u2019s even found us guilty,\u201d one said.\nPolitically, the verdict on stop-and-frisk seems already clear. The Democratic mayoral candidates running to succeed Michael Bloomberg all criticize stop-and-frisk, differing only in the intensity of their complaints. Christine Quinn, the City Council speaker, said recently, at Barnard College, \u201cI want to leave it as a tool in police officers\u2019 toolboxes,\u201d but she noted, \u201cWe need to put an infrastructure of reform around stop-and-frisk.\u201d Bill de Bla-sio, the public advocate, said at a mayoral forum, \u201cWe need to send a message to every young man of color that they are beloved, they are valuable, they are our future. You can\u2019t do that if you\u2019re constantly treating people as suspects.\u201d John Liu, the comptroller, has gone even further. \u201cStop-and-frisk doesn\u2019t have to be amended, it has to be ended,\u201d he said at the forum.\nIn response, Bloomberg took the unusual step last month of giving a speech to the leadership of the N.Y.P.D. in which he both celebrated his record in reducing crime and addressed the allegations in the Floyd case. \u201cAs the ongoing federal court case is now demonstrating for any objective observer to see,\u201d the Mayor said, \u201cthe N.Y.P.D. conducts stops based on seeing something suspicious, or witnesses\u2019 descriptions of suspects, not on any preconceived notions, or on demographic data that would have you stopping old women as often as you stop young men.\u201d Commissioner Kelly, for his part, is dismissive of the mayoral candidates\u2019 criticism. \u201cThis is just pandering. This is what goes on in New York polities,\u201d he told me. \u201cThey try and get as far left as they can for the primary, where it\u2019s just a tiny number of people who are voting. Then the challenge is to get to the center for the general election. That\u2019s all that\u2019s going on here.\u201d\nIn the courtroom, before Judge Scheind-lin, the city is attempting to put on a defense. The lawyers are pushing back on the plaintiffs\u2019 most incendiary claim \u2014 that the stop-and-frisk policy has been applied in a racially discriminatory manner. \u201cIt\u2019s close to a perfect correlation between who is committing crime and who is being stopped,\u201d Celeste Koeleveld, the deputy Corporation Counsel who is supervising the defense, said. \u201cThat\u2019s true in minority neighborhoods, and also in predominantly white areas, like Staten Island.\u201d She noted that more than half of the N.Y.P.D. consists of racial minorities. Kelly goes further, asserting that stop-and-frisk protects, rather than oppresses, the African-American community. In a speech last month before Al Sharpton\u2019s National Action Network, Kelly said, \u201cAfrican-Americans, who represent twenty-three per cent of the city\u2019s population, made up sixty-four per cent of the murder victims and seventy-one per cent of the shooting victims in this city last year.\u201d He added, \u201cAfrican-American men between the ages of sixteen and thirty-seven, who are just four per cent of the city\u2019s population, comprise forty per cent of those murdered citywide; eighty-two per cent of these young men were killed with a firearm. As a city, as a society, we cannot stand idly by in the face of these facts.\u201d He said, \u201cI believe that this tactic is lifesaving,\u201d and, referring to Terry v. Ohio, he added, \u201cIt is also lawful and constitutional as upheld by the U.S. Supreme Court in 1968.\u201d\nNevertheless, it appears that public criticism \u2014 and Scheindlin\u2019s rulings \u2014 has already changed the behavior of the police. In March, just as the Floyd trial was beginning, the N.Y.P.D. revised its instructions to officers in filling out the stop-and-frisk reports, demanding that they provide narrative details on their reasons for the confrontations. More significant, perhaps, in the first quarter of this year the number of police stops dropped by fifty-one per cent.\nIn both the Floyd and the Lig\u00f3n cases, the plaintiffs are asking for Scheindlin to appoint an independent monitor, to make sure that the police comply with the Constitution. They want the Judge to impose a sort of receivership on the police, creating a dual internal authority as a check on the existing leadership. As a model, the plaintiffs\u2019 lawyers cite a case in Cincinnati a decade ago, in which the city agreed to fund an independent monitor who filed regular reports on the local cops\u2019 compliance with the law. (Bloomberg called this notion a recipe for chaos.) The idea of the independent monitor, like the lawsuits themselves, is rooted in the hope that a single judge can diagnose a complex problem and reform a huge organization like the New York Police Department based on the imperfect medium of trial testimony. Scheindlin\u2019s dedication to protecting citizens\u2019 rights is beyond question; it is less clear that she has the wisdom, or even the ability, to impose her vision in the real world of New York.\nScheindlin\u2019s confidence in her understanding of the Constitution remains unshaken. Back in her chambers, after a long day of testimony from a plaintiffs expert on police procedures, Scheindlin talked about another celebrated case of hers. Shortly after the terrorist attacks of September 11, 2001, investigators found the name and phone number of Osama Awa-dallah on a scrap of paper in a car rented by one of the hijackers. On September 21, 2001, F.B.I. agents in California arrested Awadallah. He was not charged with any crime but was held as a material witness. On October 10th, he testified before a grand jury in New York that he was acquainted with one of the hijackers but denied knowing another who lived in the San Diego area. He was indicted for perjury, but on April 20, 2002, before the trial had even begun, Scheindlin threw out the case against him.\nIn a pair of lengthy opinions, Scheindlin said that the government had violated the material-witness law, by holding Awadal-lah too long and under unduly harsh conditions. She quoted the famous Supreme Court case of Ex Parte Milligan, in 1866: \u201cThe Constitution of the United States is a law for rulers and people, equally in war and in peace, and covers with the shield of its protection all classes of men, at all times, and under all circumstances.\u201d The Court of Appeals reversed Scheindlin\u2019s ruling and ordered her to bring Awadallah to trial. The trial ended in a hung jury; in a second trial, he was acquitted.\n\u201cThat case was just an enormously satisfying experience,\u201d Scheindlin told me. \u201cWhat I did was gutsy, because it was so close to 9/11. For me to suppress that evidence stunned people, because there was no question that he did know the hijackers. You saw the world changing in how each jury saw the case. The first jury was eleven-to-one to convict. But by the time of the second trial the Bush policies were unpopular, and he was acquitted. That was a vindication.\u201d\nEach day, before Scheindlin goes to court, the last thing she sees in her chambers is a framed copy of an article she co-wrote with Brian Lehman, a former law clerk, in the New York Law Journal. Headlined \u201cone day in September,\u201d and published in September of 2006, it was, like many stories published around that time, a commemoration of an anniversary. \u201cIt was a day in September that changed America forever,\u201d she wrote. But her story wasn\u2019t about September 11, 2001. It was about September 25, 1789, the day that Congress passed the Bill of Rights. Thanks to that document, the authors wrote, \u201cIf a judge decides that a defendant\u2019s rights have been violated and the case is dismissed, a remarkable thing happens: the government bows to the rule of law.\u201d\nPHOTOGRAPH: REPORTAGE BY GETTY IMAGES\n\u2022 Print\n\u2022 More\nShare\nClose\n\u2022\n\u2022 Reddit\n\u2022 Linked In\n\u2022 Email Subscribe now to get more of The New Yorker\u2019s signature mix of politics, culture, and the arts.\nAPPENDIX D\nNY \u2018frisk\u2019 judge calls criticism \u2018below-the-belt\u2019\nBy LARRY NEUMEISTER May 19, 2013 2:44 PM\nNEW YORK (AP) \u2014 The federal judge presiding over civil rights challenges to the stop-and-frisk practices of the New York Police Department has no doubt where she stands with the government.\n\u201cI know I\u2019m not their favorite judge,\u201d U.S. District Judge Shira A. Scheindlin said during an Associated Press interview Friday. It was another moment of candor for a judge known for her eall-it-as-she-sees-it manner and willingness to confront government lawyers in a courthouse where many judges \u2014 former federal prosecutors themselves \u2014 seem less inclined.\n\u201cI do think that I treat the government as only one more litigant,\u201d she said during the interview that proceeded with a single rule: no questions about the trial over police tactics that reaches closing arguments Monday.\nThe trial has put the NYPD and City Hall on the defensive as they justify a long-running policy of stopping, questioning and frisking some residents to deter crime. Critics say it discriminates against blacks and Hispanies. Scheindlin is not being asked to ban the tactic, since it has been found to be legal, but she does have the power to order reforms in how it is implemented.\nDuring the trial, she\u2019s shown an impatience with lawyers on both sides when they stray from the topic at hand, and a willingness to directly question witnesses \u2014 including police supervisors\u2014 about the nuts and bolts of trying to keep streets safe.\n\u201cI don\u2019t think they\u2019re entitled to deference,\u201d she said of government attorneys. \u201cI think some of the judges are a- little more timid to maybe disagree with the U.S. attorney\u2019s office.... They have to prove their case like anybody else. I don\u2019t give them special respect. Maybe some judges do because they came from the office, they know the people there, whatever. I try not to do that.\u201d\nScheindlin, 66, appointed by President Bill Clinton, has had plenty of high-profile cases in 19 years in federal court, including three trials of John \u201cJunior\u201d Gotti, the son of the late legendary mob boss John Gotti, two trials of a California student who knew two of the Sept. 11 hijackers and the trial of international arms dealer Viktor Bout. The AP interview came after a New York Daily News article revealed that the staff of Mayor Michael Bloomberg had reviewed her record to show that 60 percent of her 15 written \u201csearch-and-seizure\u201d rulings since she took the bench in 1994 had gone against law enforcement.\nThe judge called it a \u201cbelow-the-belt attack\u201d on judicial independence. She said it was rare when any judge grants a request to suppress evidence in a law enforcement case and that inclusion of the numerous times when she rejected the requests with oral rulings from the bench would likely reduce the total to less than 5 percent.\nShe said reports that the mayor\u2019s office was behind the study made it worse.\n\u201cIf that\u2019s true, that\u2019s quite disgraceful,\u201d Scheindlin said. \u201cIt was very discouraging and upsetting. I can\u2019t say it has no toll.\u201d Of such criticism, she said: \u201cIt\u2019s very painful. Judges can\u2019t really easily defend themselves.... To attack the judge personally is completely inappropriate and intimidates judges or it is intended to intimidate judges or it has an effect on other judges and that worries me.\u201d\nA Bloomberg spokesman said Saturday, \u201cWe did a simple search of publicly available written decisions, as the media is also free to do.\u201d\nThe New York County Lawyers\u2019 Association called the report meaningless because it sampled so few Scheindlin rulings.\nScheindlin has faced heat before, most notably a decade ago when she presided over the trials of Osama Awadallah and one newspaper labeled her \u201cOsama\u2019s best friend,\u201d a reference that some could misinterpret to refer to Osama bin Laden.\n\u201cYou could be in danger, physically,\u201d she said.\nThe Awadallah case is memorable to Scheindlin for how it reflected the mood of the attitude across the country after the Sept. 11 attacks. Awadallah, born in Venezuela and raised in Jordan, was a young immigrant in San Diego who was picked up as a material witness after his telephone number was found in a car that one of the hijackers drove to the airport on Sept. 11. Prosecutors agreed he was no terrorist but claimed he intentionally misled grand jurors about how well he knew one of the terrorists. Defense attorneys said he was left confused after 20 days in detention.\nShe said she learned in talking to jurors after Awadallah\u2019s first trial that they came within one vote of convicting him of false statements. At the next trial, he was exonerated.\n\u201cSame evidence. Same prosecutor. Same defense lawyers. Jury goes from 11-to-l to 12-zip,\u201d she recalled. \u201cSo I asked what happened. The answer is the country had turned in a new direction.\u201d\nShe said immediately after Sept. 11, \u201cpeople were so worried and so terrified that the next attack was around the corner that they were willing to cede many of their civil liberties.\u201d\nShe added: \u201cThe second half of the (President George W.) Bush term, Bush policies were not popular any longer. People were much more distant from the event of 9/11. Now they were more concerned with civil liberties and less concerned with the security threat.... I thought it was dramatically shown by what happened in that case.\u201d\nIn choosing law clerks, Scheindlin looks for varied experience like her own. She has been a prosecutor and a defense lawyer and was once politically active.\n\u201cI don\u2019t want a kid who\u2019s just done seven straight years of A\u2019s at Harvard,\u201d she said. \u201cI want to know that they\u2019ve done something, worked somewhere. Some experience. Some work. Some life. That makes for a rounded person.\u201d\nAnd should they someday become a judge, it makes them well prepared for the rare case of impact.\n\u201cThat\u2019s the day you live for, to do something that you believe is right and that is upheld as right and has a national impact, that\u2019s great,\u201d Scheindlin said. \u201cThat\u2019s why people want to be judges, I think, so they can make a difference.\u201d\nAssociated Press writers Tom Hays and Colleen Long contributed to this report.\nAPPENDIX E\nNew York Law Journal\nALM Properties, Inc.\nPage printed from: New York Law Journal\nBack to Article\nStop-and-Frisk Judge Relishes Her Independence\nMark Hamblett\nNew York Law Journal\n2013-05-20 00:00:00.0\nThe judge presiding over one of the most politically charged cases in recent New York City history says her 20 years on the bench have taught her to \u201cappreciate more than ever the words \u2018judicial independence.\u2019 \u201d\nShira Scheindlin, in a recent interview during the nine-week bench trial over the constitutionality of the New York City Police Department\u2019s anti-crime stop, question and frisk policies, said there are too many judges who don\u2019t want to take chances and deliver controversial rulings.\n\u201cThey are fearful or they want a promotion or whatever it is, they don\u2019t exercise the independence they should have. State court judges of course face re-election, which is a terrible thing, but federal judges, who are appointed for life, don\u2019t appreciate how much independence they have \u2014 many of them are a little cautious, more cautious than they should be.\u201d\nFew court observers would describe Scheindlin as cautious and the judge spoke freely when she sat down recently with the Law Journal to discuss some of her prior decisions and her views on being a federal judge. The only subject off the table was the ongoing trial, expected to wrap up on May 20 with closing arguments.\nThe judge, who already has made some rulings critical of the city for stop-and-frisk, has not been reluctant to make controversial decisions in the realm of civil liberties and constitutional law that have drawn the ire of police and prosecutors.\n\u201cI do think judges have a duty to protect individual rights because that\u2019s what the Bill of Rights is all about,\u201d she said. \u201cIt\u2019s the responsibility of the judiciary to protect those rights granted by our Founders. Now, does that make me an activist? No. Some people have said I\u2019m conservative because I go back to what the Founders wrote and what they meant. I see it as abiding by my constitutional duty and our oath.\u201d\nAmong her other matters, Scheindlin (See Profile) has issued a series of groundbreaking opinions on e-discovery in Zubulake v. UBS Warburg, which she regards as her most significant case. (See, for example, NYLJ, May 13, 2003, and July 25, 2003).\nShe has presided over multi-district litigation on conflicts of interest at investment banks in initial public offerings, and has presided over the trials of mobster John Gotti Jr. and Police Officer Francis Livoti in the use of a deadly chokehold on Anthony Baez.\nScheindlin has held parts of New York\u2019s anti-harassment statute unconstitutional; found police in contempt for continuing to enforce a law against loitering for the purposes of begging for money or cruising for sex that had long been ruled unconstitutional; held the National Football League was violating the antitrust laws by preventing underclassman Maurice Clarett from participating in the league draft (later reversed); and compelled the Metropolitan Transportation Authority to reinstate subway advertising that mocked Mayor Rudolph Giuliani.\n\u201cWhat I\u2019ve learned is do what you think is right, follow the law, do what you think you can do,\u201d she said. \u201cSometimes there is no precedent that constrains you and you can really strike out and write what you think is the right answer.\u201d\nScheindlin, 66, has earned a reputation as a hard-working judge and has kept up a full docket since taking senior status last year. She takes an average of 15 new cases a month and has a pending caseload of 132, not including related cases in multi-district litigation. Her workload is in the upper half of senior judges in the district.\nShe sets a quick pace in her courtroom, with little tolerance for lawyers who obfuscate or belabor a point. She often asks questions herself when things slow down, although she said, \u201cI don\u2019t think I\u2019ve committed the sin of taking over trials.\u201d\n\u201cShe is a judge who runs a very, very strong courtroom and has a clear idea of how she wants to do it,\u201d said one veteran Southern District practitioner.\n\u201cI think sometimes people can be critical of her because she can sometimes be sharp to litigants, put people down and be critical. But from my experience, when she comes on the bench, she\u2019s prepared, she has strong views and she has the courage of her convictions,\u201d he added. \u201cHer ideas can sometimes be idiosyncratic. She\u2019s not afraid to think independently.\u201d\nScheindlin \u201cruns a very orderly courtroom, dignified, and as a jurist she\u2019s not only smart but she\u2019s creative,\u201d said Robert Swift of Kohn Swift & Graf in Philadelphia, who has appeared before her. \u201cShe asks good questions and is polite to counsel, but, by the same token, she doesn\u2019t let counsel argue silly motions or make silly requests \u2014 she\u2019s well in control of her courtroom. She\u2019s certainly been reversed, but that\u2019s also indicative of a judge being certain of what the law should be \u2014 not just what it is.\u201d\nLike other judges, Scheindlin said she expects lawyers who appear before her to be well prepared.\n\u201cThey need to be familiar with the facts and the law on the spot and not say, \u2018Oh sorry, I have to go look that up, or \u2018I\u2019m sorry, I have to ask a colleague,\u2019 \u201d she said.\nUnusual Path to the Law\nScheindlin was born in Washington, D.C., raised in Detroit, and educated at the University of Michigan, Columbia University and Cornell Law School.\nShe was working at Columbia as a graduate student in Far Eastern studies, but she said the language requirements were so rigorous \u2014 years of Chinese and Japanese included \u2014 \u201cthat I knew I would never finish my dissertation. So I said, \u2018What\u2019s next?\u201d\n\u201cI really didn\u2019t know much about the law but I knew it offered a broad education that gives you lots of possibilities of what you might do with it afterward,\u201d she said.\n\u201cI think at that point I thought I was going to be doing divorces and house closings and DWIs,\u201d she said. \u201cI thought I\u2019d be a local town lawyer married to a professor on the campus.\u201d\nAfter graduating from Cornell in 1975, she spent a year at Stroock & Stroock & La-van, then clerked for Southern District Judge Charles Brieant and was hired by David Trager, who was then the U.S. attorney in the Eastern District. She rose from general prosecutions to handling political corruption cases before being named deputy chief of the Economic Crimes Unit while working as Trager\u2019s administrative assistant U.S. attorney.\nScheindlin counts Trager, along with Brieant and Eastern District Judge Jack Weinstein, as mentors.\nTrager, she said, \u201cwas funny, he would speak in the imperative \u2014 \u2018you will get a clerkship, you will apply to be a magistrate.\u201d\nShe spent a year as general counsel at the New York City Department of Education and then returned to the Eastern District as a magistrate judge from 1982 to 1986, where she was also appointed as special master by Weinstein in the Agent Orange cases and litigation over asbestos.\nScheindlin returned to private practice in 1986 as a partner with Budd, Larner, Gross, Rosenbaum, Greenberg & Sade and then Herzfeld & Rubin, where she worked as a commercial litigator until she was named a federal judge by President Bill Clinton in 1994, part of a wave of new judges who sometimes refer to themselves as the \u201cClass of '94.\u201d\nIt is rare for magistrates to be promoted to Article III judgeships, and Scheindlin said her experience as a special master and magistrate \u2014 the first woman magistrate judge or district judge in the Eastern District \u2014 helped her hit the ground running when she took the bench in Manhattan.\n\u201cI just took that bench and I knew what I was doing,\u201d she said. \u201cAnd I got feedback right away like, \u2018Boy you look like you\u2019ve been doing this forever\u2019 and I would make a joke, \u2018Well, that\u2019s because I have.\u2019 \u201d\nShe added, \u201cI was incredibly fortunate \u2014 it is not easy for those who have not had any judicial experience.\u201d\nScheindlin said she never had any interest in moving to the U.S. Court of Appeals for the Second Circuit because cases are built at the district court level.\nDistrict judges \u201chave a much more exciting job than the Court of Appeals, because we shape the case in the first instance. We shape the issue \u2014 the case comes in the door and we are the first judge on the line, with the first crack at giving an answer and shaping a ruling, shaping the whole future of that case, right?\n\u201cThe Court of Appeals has to use what we\u2019ve done \u2014 we have the tough job \u2014 all they can do is review it and say \u2018You got it right or you got it wrong.\u2019 \u201d\nScheindlin said the problem with the appellate court is that \u201cthere you\u2019ve got to negotiate and get votes and there\u2019s three of you and you can end up in dissent when you really don\u2019t want to. To me, this is the best of all worlds.\u201d\nOne case where the circuit said Scheindlin \u201cgot it wrong\u201d was an opinion she remains proud of \u2014 her ruling that the government had abused the material witness statute by detaining Osama Awadallah in the 9/11 investigation and then prosecuting him for perjury. Awadallah had known two of the 9/11 hijackers in California (N.Y.L.J, April SO, 2002).\nScheindlin dismissed the charges, calling it a \u201cperjury trap\u201d and holding the material witness statute was intended to be used only for trial witnesses, not people being interviewed in connection with an investigation.\nThe Second Circuit reversed and sent it back for trial (N.Y.L.J, Nov. 10, 2003). The first jury hung 11 to 1 for conviction. The second, the judge recalled, \u201cwas 12-zip for acquittal.\u201d\n\u201cWhat happened in between?\u201d Scheindlin asked. \u201cIt was exactly the same evidence, the same lawyers, and it was word for word the same trial record. What happened is that, it was later in the Bush administration and his policies were no longer as popular and people had pulled back ... and were now looking at some of the consequences of the event that they didn\u2019t really like.\u201d But the judge also said that the jury in the second trial was subjected to a \u201cmuch stronger voir dire.\u201d\n\u201cThe second questionnaire worked much harder to probe bias \u2014 \u2018did you know anybody even indirectly, who was injured that day?\u2019 \u201d\n\u201cWe know that the first jury was in tears, people were crying, telling about their neighbor who had lost a son, which was not at all the point of the prosecution.\u201d\n\u2018Judges Are Human Beings\u2019\nScheindlin\u2019s ruling in the Awadallah case drew criticism that she said found hard to take.\n\u201cJudges are human beings and it always hurts to be attacked when you can\u2019t defend yourself \u2014 that\u2019s a very painful thing,\u201d she said. \u201cOver the years I have read editorials such as the famous \u2018Osama\u2019s Best Friend\u2019 after the Awadallah decision, it was hurtful.\n\u201cI would have liked to have been able to explain the decision so that the public understood it so I was not wrongly attacked but a judge doesn\u2019t have that ability,\u201d she said. \u201cIn recent years the bar associations have really stepped up to the plate and tried to defend judges, not on the merits of their decisions but by explaining their job, that the judge is a neutral and does the best they can. To attack them personally when it\u2019s not a matter of dishonesty, just disagreement, is a terrible thing.\u201d\nWith her involvement in the stop-and-frisk litigation Scheindlin has had to cope with sharp criticism from city officials like Police Commissioner Raymond Kelly, who has accused her of being in the thrall of a few civil rights lawyers.\nThe New York County Lawyers\u2019 Association wrote to the New York Daily News on May 15 to protest an article reporting that an \u201cinternal report\u201d by the mayor\u2019s office purporting to show that Scheindlin is biased against law enforcement because she has ruled against the police in nine of 15 written search-and-seizure opinions she has issued since 1994.\nIn its letter, NYCLA argued that the report was misleading because it did not consider her suppression decisions from the bench. Moreover, NYCLA wrote, \u201cJudges are not supposed to grade on the curve. They are supposed to decide cases on their merits,\u201d and the report didn\u2019t consider the merits of Scheindlin\u2019s rulings.\n\u201cI think it\u2019s inappropriate to label any judge as liberal or conservative,\u201d Scheind-lin said in the interview. \u201cI like to think of myself as a fair-minded neutral who calls the case outcomes the way that the law and justice require.\u201d\nImproved Atmosphere\nScheindlin said she thinks Americans\u2019 attitude toward civil liberties has changed since the Sept. 11, 2001, terrorist attacks.\n\u201cI think it\u2019s better \u2014 I think the worst time was around 9/11. People just didn\u2019t want to hear about the rights of anybody when they felt their security was threatened \u2014 so I think, actually its been slowly better for the last decade as 9/11 has receded,\u201d she said. \u201cOne worries again, though, with the Boston Marathon bombers and whether public opinion shifts back, but I don\u2019t think anybody was particularly outraged [the surviving suspect] wasn\u2019t read Miranda rights.\n\u201cIt\u2019s events like this that test people\u2019s commitments to civil liberties ... I think the atmosphere has been much better because more of the population has been critical of what I might call the Bush-era policies \u2014 the torture memo, the Guantanamo issue, the military courts, the detention without charges.\u201d\nShe said she thinks that President Barack Obama would like to close the detention center at Guantanamo but cannot get Congress to go along.\n\u201cIt\u2019s deeply troubling to hold people in perpetuity without charging them,\u201d Scheindlin said. \u201cWe like to think we don\u2019t do that.\u201d\nScheindlin said that politics influences the selection of federal judges, but that is mainly on the appellate court level.\n\u201cLet\u2019s be realistic, these are political appointments and the makeup of the circuit judges in this circuit is slowly changing now that President Obama has been here five years,\u201d she said.\nBut she said that the Southern District had been \u201cextraordinarily lucky\u201d in avoiding political polarization.\n\u201cI\u2019m saying that it\u2019s not partisan, she said. \u201cAll through the Bush years, all through the Obama years we have had really high quality people. We are so lucky here we don\u2019t have political hacks. We have well-qualified judges virtually across the board.\u201d\nScheindlin said that she was disappointed in the U.S. Supreme Court\u2019s ruling last month on the Alien Tort Claims Act, Kio-bel v. Royal Dutch Petroleum, 569 U.S. -, 133 S.Ct. 1659, 185 L.Ed.2d 671 (2013), determining that there was no extraterritorial application of the law.\nIn 2009, Scheindlin had recognized aiding and abetting liability for corporations on human rights violations in South Africa, the case along with Awadallah that has given her the greatest pride (N.Y.L.J, April 9, 2009). But her ruling was put on hold while the Supreme Court considered the issue.\nScheindlin said Justice Samuel Alito \u201creached out\u201d and skirted the aiding and abetting question just to strike down the law on extraterritoriality grounds, and \u201cthat was sad.\u201d\nScheindlin observed that new technologies had changed the law since she joined the bench, as evidenced by her own e-discovery rulings in Zubulake and other cases. \u201cThis is what lawyers really talk about\u2014 social media, GPS, cell sites, data collection, technology-assisted review,\u201d she said. \u201cThe biggest change in the law is that all these issues that have arisen out of the new world we live in.\n\u201cNow, the civil side is very advanced, the criminal side is just beginning to catch up, but all data is electronic data, all discovery is e-discovery,\u201d she said.\nAnd, like many judges, she worries about the impact of social media on juries.\nIn the case of arms trafficker Viktor Bout, she made the jury sign a \u201cpledge\u201d not to go on Facebook, Twitter, Linkedln or other outlets and promise they would not communicate that way, and if they did, \u201cthey understood they would be subjected to prosecution which was supposed to be an in terrorem effect,\u201d she said.\nThey signed, but one juror in the whole selection process said, \u201c T can\u2019t sign that\u2019 and I said\u2019 Well, thank you for telling me, you\u2019re off,\u201d Scheindlin said. \u201cIt really is threatening to the jury system \u2014 the ease of obtaining evidence outside the courtroom. This has happened again and again.\u201d\nScheindlin has been married for almost 30 years to Stanley Friedman, the associate dean of education at SUNY Downstate Medical Center. She has two grown children.\nShe admits to having virtually no outside interests.\n\u201cI love to work,\u201d she said. \u201cThe only other way I know how to enjoy myself is exercise. Otherwise, I\u2019m a great reader. I love audio books.\u201d\nShe said she\u2019s at the courthouse most days from 10 a.m to 8 p.m., \u201creally living here.\u201d She also works all weekend and requires her clerks to work one weekend day.\n\u201cThis is sort of my home away from home,\u201d she said.\n@ | Mark Hamblett can be contacted at mhamblett@alm.com.\nCopyright 2013. ALM Media Properties, LLC. All rights reserved.\n. See Appendix A.\n. On November 8, 2013, Judge Scheindlin moved in this court through counsel for \"leave in the nature of an order under Rule 21(b)(4) of the Federal Rules of Appellate Procedure governing mandamus proceedings providing for appellate review of motions for judicial disqualification pursuant to 28 U.S.C. \u00a7 455, authorizing counsel to appear on behalf of the District Judge in order to address the factual and legal sufficiency of the Motion Panel's sua sponte order of removal.\u201d We address this motion by the district judge to appear in support of retaining authority over these cases in a separate opinion published contemporaneously with this one.\n. Prior to Lig\u00f3n being filed, Judge Scheindlin had accepted Davis as related to Floyd, so in that sense, Lig\u00f3n also descends directly from Daniels via Floyd and Davis.\n. In relevant part, Rule 13 provides:\n(c) Assignment of cases and proceedings that are designated as related.\n(i) Disclosure of contention of relatedness.\nWhen a civil case is filed or removed or a bankruptcy appeal or motion to withdraw the reference of an adversary proceeding from the bankruptcy court is filed, the person filing or removing shall disclose on form JSC44C any contention of relatedness. A copy of that form shall be served with the complaint, notice of removal, appeal or motion.\n(ii) Civil cases that are designated as related.\nA case designated as related shall be forwarded to the judge before whom the earlier-filed case is then pending who has the sole discretion to accept or reject the case. Cases rejected by the judge as not related shall be assigned by random selection.\n.Ligon v. City of New York, 925 F.Supp.2d 478, 485 (S.D.N.Y.2013).\n. Ligon v. City of New York, Nos. 12-cv-2274, 08-cv-1034, 2013 WL 227654, at *4 (S.D.N.Y. Jan. 22, 2013).\n. See Floyd v. City of New York,-F.Supp.2d -, No. 08-cv-1034, 2013 WL 4046209, at *7 (S.D.N.Y. Aug. 12, 2013).\n. See Floyd v. City of New York,-F.Supp.2d -, Nos. 08-cv-1034, 12-cv-2274, 2013 WL 4046217 (S.D.N.Y. Aug. 12, 2013).\n. Id. at *13.\n. .See Appendix A, at 3.\n. In re Murchison, 349 U.S. 133, 136, 75 S.Ct. 623, 99 L.Ed. 942 (1955) (internal quotation marks omitted).\n. See Liljeberg v. Health Servs. Acquisition Corp., 486 U.S. 847, 860, 108 S.Ct. 2194, 100 L.Ed.2d 855 (1988).\n. SEC v. Drexel Burnham Lambert Inc. (In re Drexel Burnham Lambert Inc.), 861 F.2d 1307, 1313 (2d Cir.1988) (quoting H.R.Rep. No. 1453, reprinted in 1974 U.S.C.C.A.N. 6351, 6354-55).\n. United States v. Robin, 553 F.2d 8, 9-10 (2d Cir.1977) (en banc) (internal quotation marks and citations omitted).\n. In re Boston\u2019s Children First, 244 F.3d 164, 167 (1st Cir.2001) (quoting Nichols v. Alley, 71 F.3d 347, 352 (10th Cir.1995)); see also United States v. Dandy, 998 F.2d 1344, 1349 (6th Cir.1993).\n.See Appendix B (transcript of hearing).\n.The designation by parties, and acceptance by district judges, of cases as related to other pending matters pursuant to Rule 13 of the Local Rules for the Division of Business Among District Judges', is a routine practice that promotes judicial efficiency and economy. Our decision in this opinion should not be construed as casting doubt on the proper designation and acceptance of cases as \"related\u201d in the normal course \u2014 that is, when a district judge does not invite the filing of a suit and encourage its direction to their Court. We also note that, for civil matters, the Rule explicitly anticipates cases being marked as related to \"earlier-filed case[s] ... then pending,\u201d see Rule 13(c), which is \"designed to reduce litigants' costs by informally consolidating proceedings in related cases,\u201d Chase Manhattan Bank, N.A. v. Celotex Corp., 56 F.3d 343, 347 (2d Cir.1995). Here, at the time Floyd was filed in January 2008, Daniels, to which it was accepted as \"related,\u201d was closed.\nJudge Scheindlin's motion, the subject of the separate opinion we file today, contends that the \u201cDistrict Court\u2019s recognition that judicial economy would be served by the invocation of the related case doctrine codified in Local Rule 13 is analogous to the decision of the Motion Panel to issue an order retaining jurisdiction over the appeal herein in the name of judicial economy.\u201d To be sure, both Local Rule 13 dealing with related cases in the district court, and the practice in this court by which a motion panel may choose to hear the appeal on the merits, are designed to conserve judicial resources. However, in the court of appeals, because the case is the same case and not just a related case, and no litigant is involved with the decision, there can be no forum-shopping.\nIn any event, the gravamen of why reassignment of these cases is necessary is not simply the use of Local Rule 13. It is the appearance of partiality that was created by Judge Scheindlin\u2019s conduct throughout the December 21, 2007 hearing in suggesting that the plaintiffs bring a lawsuit, outlining the basis for the suit, intimating her view of its merit, stating how she would rule on the plaintiffs\u2019 document request in that suit, and telling the plaintiffs that she would take it as a related case, as well as the media interviews she gave during the Floyd proceedings.\n. In re Boston\u2019s Children First, 244 F.3d at 169.\n. See, e.g., United States v. Fortier, 242 F.3d 1224, 1229-30 (10th Cir.2001) (superseded by statute on other grounds); In re Barry, 946 F.2d 913, 914 (D.C.Cir.1991).\n. See United States v. Amico, 486 F.3d 764, 775 (2d Cir.2007).\n. See Liljeberg, 486 U.S. at 859, 108 S.Ct. 2194.\n. Jeffrey Toobin, Rights and Wrongs: A Judge Takes on Stop-and-Frisk, The New Yorker, May 27, 2013 (attached hereto as Appendix C); Larry Neumeister, NY \"Frisk\" Judge Calles Criticism \u201cBelow-the-Belt\", The Associated Press, May 19, 2013 (attached hereto as Appendix D); Mark Hamblett, Stop- and-Frisk Judge Relishes her Independence, N.Y. Law Journal, May 20, 2013 (attached hereto as Appendix E).\n. In re Boston's Children First, 244 F.3d at 170; see also United States v. Microsoft Corp., 253 F.3d 34, 115 (D.C.Cir.2001) (\u201cJudges who covet publicity, or convey the appearance that they do, lead any objective observer to wonder whether their judgments \u00e1re being influenced by the prospect of favorable coverage in the media.\u201d).\n. See In re Boston\u2019s Children First, 244 F.3d at 168.\n. United States v. Londono, 100 F.3d 236, 242 (2d Cir.1996) (internal quotation marks and citations omitted) (abrogated on other grounds).\n. United States v. Campo, 140 F.3d 415, 420 (2d Cir.1998) (internal quotation marks omitted).\n. United States v. Quattrone, 441 F.3d 153, 192-93 (2d Cir.2006) (internal quotation marks omitted).\n. Id.\n. See, e.g., United States v. Steppello, 664 F.3d 359, 367 (2d Cir.2011); United States v. Hernandez, 604 F.3d 48, 55-56 (2d Cir.2010); United States v. Al-Moayad, 545 F.3d 139, 178-79 (2d Cir.2008); United States v. De-Mott, 513 F.3d 55, 59 (2d Cir.2008); United States v. Hirliman, 503 F.3d 212, 216 (2d Cir.2007); Armstrong v. Guccione, 470 F.3d 89, 113 (2d Cir.2006); Chase Manhattan Bank v. Affiliated FM Ins. Co., 343 F.3d 120, 128 (2d Cir.2003); Mackler Prods., Inc. v. Cohen, 225 F.3d 136, 146 (2d Cir.2000); United States v. Padilla, 186 F.3d 136, 143 (2d Cir.1999) (\"In view of the district judge\u2019s statements, particularly regarding Padilla\u2019s counsel, the appearance of justice would best be preserved by reassignment.\u201d). Additionally, it bears noting that in none of these cases was the affected district judge afforded \"an opportunity to be heard\u201d prior to the disqualification action of the Court of Appeals, much less did the affected district judge ever seek to participate in the appellate proceedings involving the district judge's decisions.\n. See, e.g., United States v. Clawson, 650 F.3d 530, 539 (4th Cir.2011); John v. Goetz, 626 F.3d 356, 363-65 (6th Cir.2010); In re United States, 614 F:3d 661, 666 (7th Cir.2010) (\"No reasonable person would fail to perceive a significant risk that the judge\u2019s rulings in the case might be influenced by his unreasonable fury toward the prosecutors.\u201d); Microsoft Corp., 253 F.3d at 107-117; In re Boston\u2019s Children First, 244 F.3d at 164; United States v. Tucker, 78 F.3d 1313, 1324 (8th Cir.1996) (stating that courts of appeals in the first instance are empowered to reassign cases where, under 28 U.S.C. \u00a7 455(a), the district judge\u2019s \u201cimpartiality might reasonable be questioned\u201d); United States v. Cooley, 1 F.3d 985, 992-96 (10th Cir.1993); In re School Asbestos Litig., 977 F.2d 764, 798 (3d Cir.1992); United States v. Torkington, 874 F.2d 1441, 1446 (11th Cir.1989) (\"We have the authority to order reassignment of a criminal case to another district judge as part of our supervisory authority over the district courts in this Circuit.\u201d); Brown v. Baden, 815 F.2d 575, 575 (9th Cir.1987); Potashnick v. Port City Const. Co., 609 F.2d 1101, 1120 (5th Cir.1980).\n. See, e.g., Steppello, 664 F.3d at 367; Cullen v. United States, 194 F.3d 401, 408 (2d Cir.1999); Londono, 100 F.3d at 242 (abrogated by statute on other grounds); Sobel v. Yeshiva Univ., 839 F.2d 18, 37 (2d Cir.1988); see also United States v. Awadallah, 436 F.3d 125, 135 (2d Cir.2006) (noting that in some reassignment cases, the reassignment has been \u201cinitiated sua sponte by the court on the defendant's behalf\u201d).\n. Singleton v. Wulff, 428 U.S. 106, 121, 96 S.Ct. 2868, 49 L.Ed.2d 826 (1976).\n. Hormel v. Helvering, 312 U.S. 552, 557, 61 S.Ct. 719, 85 L.Ed. 1037 (1941).\n. Exxon Shipping Co. v. Baker, 554 U.S. 471, 487, 128 S.Ct. 2605, 171 L.Ed.2d 570 (2008) (quoting Singleton, 428 U.S. at 121, 96 S.Ct. 2868).\n. See United States v. Sum of $185,336.07 United States Currency Seized from Citizen's Bank Account L7N01967, 731 F.3d 189, 195 n. 6 (2d Cir.2013).\n. Londono, 100 F.3d at 242.\n. In a proceeding on December 21, 2007 involving the parties in Daniels v. City of New York, No. 99 Civ. 1695 (S.D.N.Y. filed Mar. 8, 1999), the District Judge stated, \"[I]f you got proof of inappropriate racial profiling in a good constitutional case, why don't you bring a lawsuit? You can certainly mark it as related.'' She also stated, \"[W]hat I am trying to say, I am sure I am going to get in trouble for saying it, for $65 you can bring that lawsuit.\u201d She concluded the proceeding by noting, \"And as I said before, I would accept it as a related case, which the plaintiff has the power to designate.\u201d Two of the attorney groups working on behalf of plaintiffs in Daniels, a case challenging the New York Police Department's stop-and-frisk practices, helped file Floyd the next month. See generally Joseph Goldstein, A Court Rule Directs Cases Over Friskings to One Judge, N.Y. Times, May 5, 2013.\n. See, e.g., Mark Hamblett, Stop-and-Frisk Judge Relishes her Independence, N.Y. Law Journal, May 5, 2013; Larry Neumeister, NY \u201cFrisk\" Judge Calls Criticism \u201cBelow-the-Belt,\" The Associated Press, May 19, 2013; Jeffrey Toobin, A Judge Takes on Stop-and-Frisk, The New Yorker, May 27, 2013.",
+        "type": "majority",
+        "author": "PER CURIAM."
+      }
+    ],
+    "attorneys": [
+      "Alex B. Karteron, Christopher Thomas Dunn, Daniel Mullkoff, New York Civil Liberties Union, New York, NY; Juan Cartagena, Roberto Concepcion, Jr., Latino Justice, New York, NY; Michael Grun-fel, John A. Nathanson, Jeffrey J. Resetar-its, Shearman & Sterling LLP, New York, NY; Mariana Louise Kovel, The Bronx Defenders, New York, NY; J. McGregor Smyth, New York Lawyers for the Public Interest, New York NY, for Jaenean Li-g\u00f3n, et al.",
+      "Darius Charney, Sunita Patel, Center for Constitutional Rights, New York, NY; Jennifer Rolnick Borchetta, Jonathan Clifford Moore, Beldock Levine & Hoffman LLP, New York, NY; Eric Hellerman, Kasey Lynn Martini, Covington & Burling LLP, New York, NY, for David Floyd, et al.",
+      "Celeste L. Koeleveld, Deborah A. Brenner, Kathy H. Chang, Heidi Grossman, Fay Sue Ng, New York City Law Department, Michael A. Cardozo, Corporation Counsel, New York, NY, for City of New York, et al.",
+      "Anthony P. Coles, Courtney Gilligan Sa-leski, DLA Piper, Philadelphia, PA, New York, NY, For Sergeants Benevolent Association.",
+      "Steven A. Engel, Dechert LLP, Washington D.C., Elisa Wiygul, Dechert LLP, Philadelphia, PA, for Captain\u2019s Endowment Association of New York, Detectives Endowment Association, Police Department, City of New York, Inc., Lieutenants Benevolent Association of the City of New York, Inc., Patrolmen\u2019s Benevolent Association of the City of New York, Inc.",
+      "Burt Neuborne, for movant Shira A. Scheindlin."
+    ],
+    "corrections": "",
+    "head_matter": "Jaenean LIGON, individually and on behalf of her minor son, J.G., Jacqueline Yates, individually and on behalf of a class of all others similarly situated, et al., Plaintiffs-Appellees, v. CITY OF NEW YORK, et al., Defendants-Appellants, Captain\u2019s Endowment Association of New York, Detectives Endowment Association, Police Department, City of New York, Inc, Lieutenants Benevolent Association of the City of New York, Inc., Patrolmen\u2019s Benevolent Association of the City of New York, Inc., Proposed Intervenors-Appellants. David Floyd, individually and on behalf of all others similarly situated, Plaintiffs-Appellees, v. City of New York, Defendant-Appellant, Sergeants Benevolent Association, Proposed Intervenor-Appelant, New York City Police Officer Rodriguez, et al., Defendants.\nNos. 13-3123, 13-3088.\nUnited States Court of Appeals, Second Circuit.\nNov. 13, 2013.\nAlex B. Karteron, Christopher Thomas Dunn, Daniel Mullkoff, New York Civil Liberties Union, New York, NY; Juan Cartagena, Roberto Concepcion, Jr., Latino Justice, New York, NY; Michael Grun-fel, John A. Nathanson, Jeffrey J. Resetar-its, Shearman & Sterling LLP, New York, NY; Mariana Louise Kovel, The Bronx Defenders, New York, NY; J. McGregor Smyth, New York Lawyers for the Public Interest, New York NY, for Jaenean Li-g\u00f3n, et al.\nDarius Charney, Sunita Patel, Center for Constitutional Rights, New York, NY; Jennifer Rolnick Borchetta, Jonathan Clifford Moore, Beldock Levine & Hoffman LLP, New York, NY; Eric Hellerman, Kasey Lynn Martini, Covington & Burling LLP, New York, NY, for David Floyd, et al.\nCeleste L. Koeleveld, Deborah A. Brenner, Kathy H. Chang, Heidi Grossman, Fay Sue Ng, New York City Law Department, Michael A. Cardozo, Corporation Counsel, New York, NY, for City of New York, et al.\nAnthony P. Coles, Courtney Gilligan Sa-leski, DLA Piper, Philadelphia, PA, New York, NY, For Sergeants Benevolent Association.\nSteven A. Engel, Dechert LLP, Washington D.C., Elisa Wiygul, Dechert LLP, Philadelphia, PA, for Captain\u2019s Endowment Association of New York, Detectives Endowment Association, Police Department, City of New York, Inc., Lieutenants Benevolent Association of the City of New York, Inc., Patrolmen\u2019s Benevolent Association of the City of New York, Inc.\nBurt Neuborne, for movant Shira A. Scheindlin.\nPresent: JOHN M. WALKER, JR., JOS\u00c9 A. CABRANES and BARRINGTON D. PARKER, Circuit Judges."
+  },
+  "file_name": "0118-01",
+  "first_page_order": 144,
+  "last_page_order": 192
+}

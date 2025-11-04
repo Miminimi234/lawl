@@ -1,0 +1,942 @@
+{
+  "id": 12275412,
+  "name": "Seanlim YITH; Seak Leang Yith, Plaintiffs-Appellants, v. Kirstjen NIELSEN, in her Capacity as Secretary for Department of Homeland Security; Leon Rodriguez, in his Capacity as Assistant Secretary for Department of Homeland Security and Director for Citizenship and Immigration Services; Mari-Carmen Jordan, in her Capacity as District Director for Department of Homeland Security and Director for Citizenship and Immigration Services; Jonathan Crawford, in his Capacity as Director of the Fresno Sub-Office of Citizenship and Immigration Services; Jefferson B. Sessions III, Attorney General, Defendants-Appellees",
+  "name_abbreviation": "Yith v. Nielsen",
+  "decision_date": "2018-02-07",
+  "docket_number": "No. 16-15858",
+  "first_page": "1155",
+  "last_page": "1169",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "881 F.3d 1155"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "9th Cir.",
+    "id": 8826,
+    "name": "United States Court of Appeals for the Ninth Circuit"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "8 U.S.C. \u00a7 1447",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "pin_cites": [
+        {
+          "page": "(b)"
+        }
+      ],
+      "opinion_index": -1
+    },
+    {
+      "cite": "665 F.3d 1037",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        3863073
+      ],
+      "weight": 8,
+      "year": 2011,
+      "pin_cites": [
+        {
+          "parenthetical": "en banc"
+        },
+        {
+          "page": "1040-41"
+        },
+        {
+          "page": "1041",
+          "parenthetical": "quoting Webster's Third New International Dictionary 121 (1993)"
+        },
+        {
+          "page": "1041-42",
+          "parenthetical": "second alteration in original"
+        },
+        {
+          "page": "1038-39"
+        },
+        {
+          "page": "1041",
+          "parenthetical": "footnotes omitted"
+        },
+        {
+          "page": "1042"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/665/1037-01"
+      ]
+    },
+    {
+      "cite": "137 S.Ct. 1718",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        12604742
+      ],
+      "weight": 3,
+      "year": 2017,
+      "pin_cites": [
+        {
+          "page": "1725"
+        },
+        {
+          "parenthetical": "alteration in original"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/s-ct/137/1718-01"
+      ]
+    },
+    {
+      "cite": "8 C.F.R. \u00a7 236.2",
+      "category": "laws:admin_compilation",
+      "reporter": "C.F.R.",
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "(a)",
+          "parenthetical": "\"[T]he notice to appear, and the warrant of arrest, if issued, shall be served in the manner prescribed....\""
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "546 U.S. 481",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        5991514
+      ],
+      "weight": 3,
+      "year": 2006,
+      "pin_cites": [
+        {
+          "page": "486"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/546/0481-01"
+      ]
+    },
+    {
+      "cite": "533 U.S. 167",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        9312991
+      ],
+      "weight": 3,
+      "year": 2001,
+      "pin_cites": [
+        {
+          "page": "174"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/533/0167-01"
+      ]
+    },
+    {
+      "cite": "180 L.Ed.2d 1",
+      "category": "reporters:federal",
+      "reporter": "L. Ed. 2d",
+      "case_ids": [
+        12450128,
+        5925792
+      ],
+      "year": 2011,
+      "pin_cites": [
+        {
+          "parenthetical": "alteration in original"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/l-ed-2d/180/0001-01",
+        "/us/563/0776-01"
+      ]
+    },
+    {
+      "cite": "563 U.S. 776",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        5925792,
+        12450128
+      ],
+      "weight": 2,
+      "year": 2011,
+      "pin_cites": [
+        {
+          "page": "788",
+          "parenthetical": "alteration in original"
+        },
+        {
+          "parenthetical": "alteration in original"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/563/0776-01",
+        "/l-ed-2d/180/0001-01"
+      ]
+    },
+    {
+      "cite": "8 C.F.R. \u00a7 1239.1",
+      "category": "laws:admin_compilation",
+      "reporter": "C.F.R.",
+      "pin_cites": [
+        {
+          "page": "(a)",
+          "parenthetical": "\"Every removal proceeding conducted under section 240 of the Act (8 U.S.C. 1229a) to determine the deportability or inadmissibility of an alien is commenced by the filing of a notice to appear with the immigration court.\""
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "8 U.S.C. \u00a7 1229",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "pin_cites": [
+        {
+          "page": "(a)"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "534 F.3d 1053",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        4064563
+      ],
+      "year": 2008,
+      "pin_cites": [
+        {
+          "page": "1058"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/534/1053-01"
+      ]
+    },
+    {
+      "cite": "8 U.S.C. \u00a7 1226",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "(a)"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "518 U.S. 470",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        1730146
+      ],
+      "weight": 3,
+      "year": 1996,
+      "pin_cites": [
+        {
+          "page": "512",
+          "parenthetical": "\"Where the language of the statute is clear, resort to the agency's interpretation is improper.\""
+        },
+        {
+          "parenthetical": "\"Where the language of the statute is clear, resort to the agency's interpretation is improper.\""
+        },
+        {
+          "parenthetical": "\"Where the language of the statute is clear, resort to the agency's interpretation is improper.\""
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/518/0470-01"
+      ]
+    },
+    {
+      "cite": "529 U.S. 120",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        9508268
+      ],
+      "weight": 3,
+      "year": 2000,
+      "pin_cites": [
+        {
+          "page": "133"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/529/0120-01"
+      ]
+    },
+    {
+      "cite": "353 F.3d 1051",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        9298348
+      ],
+      "weight": 2,
+      "year": 2003,
+      "pin_cites": [
+        {
+          "page": "1060",
+          "parenthetical": "quoting FDA v. Brown & Williamson Tobacco Corp., 529 U.S. 120, 133, 120 S.Ct. 1291, 146 L.Ed.2d 121 (2000)"
+        },
+        {
+          "page": "1059"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/353/1051-01"
+      ]
+    },
+    {
+      "cite": "475 F.3d 1080",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        3753931
+      ],
+      "year": 2007,
+      "pin_cites": [
+        {
+          "page": "1088"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/475/1080-01"
+      ]
+    },
+    {
+      "cite": "444 U.S. 37",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11304612
+      ],
+      "weight": 3,
+      "year": 1979,
+      "pin_cites": [
+        {
+          "page": "42"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/444/0037-01"
+      ]
+    },
+    {
+      "cite": "545 U.S, 967",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        8210237
+      ],
+      "weight": 6,
+      "year": 2005,
+      "pin_cites": [
+        {
+          "page": "986"
+        },
+        {
+          "parenthetical": "alteration in original"
+        },
+        {
+          "page": "986"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/545/0967-01"
+      ]
+    },
+    {
+      "cite": "467 U.S. 837",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6209106
+      ],
+      "weight": 15,
+      "year": 1984,
+      "pin_cites": [
+        {
+          "page": "842-44"
+        },
+        {
+          "page": "843"
+        },
+        {
+          "page": "842-43"
+        },
+        {
+          "page": "843"
+        },
+        {
+          "page": "843"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/467/0837-01"
+      ]
+    },
+    {
+      "cite": "697 F.3d 666",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        3622964
+      ],
+      "weight": 4,
+      "year": 2012,
+      "pin_cites": [
+        {
+          "page": "670"
+        },
+        {
+          "page": "670"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/697/0666-01"
+      ]
+    },
+    {
+      "cite": "8 C.F.R. \u00a7 318.1",
+      "category": "laws:admin_compilation",
+      "reporter": "C.F.R.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "107 S.Ct. 1391",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        1131066
+      ],
+      "weight": 2,
+      "year": 1987,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/480/0522-01"
+      ]
+    },
+    {
+      "cite": "480 U.S. 622",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "year": 1987,
+      "pin_cites": [
+        {
+          "page": "526"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "582 F.3d 403",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        4061033
+      ],
+      "year": 2009,
+      "pin_cites": [
+        {
+          "page": "410",
+          "parenthetical": "\"The statutory scheme aims to provide USCIS with an incentive to decide applications in a timely fashion or risk losing jurisdiction to decide those applications in the first instance.\""
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/582/0403-01"
+      ]
+    },
+    {
+      "cite": "368 F.3d 902",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        9246802
+      ],
+      "year": 2004,
+      "pin_cites": [
+        {
+          "page": "905-06"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/368/0902-01"
+      ]
+    },
+    {
+      "cite": "507 F.3d 337",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        6045825
+      ],
+      "year": 2007,
+      "pin_cites": [
+        {
+          "page": "340"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/507/323-337-01"
+      ]
+    },
+    {
+      "cite": "104 Stat. 4978",
+      "category": "laws:leg_session",
+      "reporter": "Stat.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "66 Stat. 163",
+      "category": "laws:leg_session",
+      "reporter": "Stat.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "99 L.Ed. 624",
+      "category": "reporters:federal",
+      "reporter": "L. Ed.",
+      "year": 1955,
+      "opinion_index": 0
+    },
+    {
+      "cite": "348 U.S. 540",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6932008
+      ],
+      "weight": 2,
+      "year": 1955,
+      "pin_cites": [
+        {
+          "page": "544"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/348/0540-01"
+      ]
+    },
+    {
+      "cite": "99 L.Ed. 615",
+      "category": "reporters:federal",
+      "reporter": "L. Ed.",
+      "year": 1955,
+      "pin_cites": [
+        {
+          "parenthetical": "\"It is our duty to give effect, if possible, to every clause and word of a statute[.]\""
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "348 U.S. 528",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6931991
+      ],
+      "weight": 2,
+      "year": 1955,
+      "pin_cites": [
+        {
+          "page": "538-39",
+          "parenthetical": "\"It is our duty to give effect, if possible, to every clause and word of a statute[.]\""
+        },
+        {
+          "parenthetical": "\"It is our duty to give effect, if possible, to every clause and word of a statute[.]\""
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/348/0528-01"
+      ]
+    },
+    {
+      "cite": "402 F.3d 881",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        9180314
+      ],
+      "year": 2005,
+      "pin_cites": [
+        {
+          "page": "885",
+          "parenthetical": "en banc"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/402/0881-01"
+      ]
+    },
+    {
+      "cite": "499 F.3d 1078",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        3655001
+      ],
+      "year": 2007,
+      "pin_cites": [
+        {
+          "page": "1084"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/499/1078-01"
+      ]
+    },
+    {
+      "cite": "28 U.S.C. \u00a7 1291",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "378 F.3d 1042",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        9216121
+      ],
+      "weight": 10,
+      "year": 2004,
+      "pin_cites": [
+        {
+          "page": "1046",
+          "parenthetical": "holding that - commencement of removal proceedings does not affect a district court's jurisdiction to review an immigration officer's denial of a naturalization application under \u00a7 1421(c) "
+        },
+        {
+          "page": "1045"
+        },
+        {
+          "page": "1045"
+        },
+        {
+          "page": "1045"
+        },
+        {
+          "page": "1045"
+        },
+        {
+          "page": "1045"
+        },
+        {
+          "page": "1045"
+        },
+        {
+          "page": "1045-46"
+        },
+        {
+          "page": "1045"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/378/1042-01"
+      ]
+    },
+    {
+      "cite": "809 F.3d 1059",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        4059532
+      ],
+      "year": 2015,
+      "pin_cites": [
+        {
+          "page": "1064"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/809/1059-01"
+      ]
+    },
+    {
+      "cite": "545 F.3d 229",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        3859326
+      ],
+      "weight": 8,
+      "year": 2008,
+      "pin_cites": [
+        {
+          "page": "241"
+        },
+        {
+          "page": "231-32"
+        },
+        {
+          "page": "233"
+        },
+        {
+          "page": "240-41"
+        },
+        {
+          "page": "240"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/545/0229-01"
+      ]
+    },
+    {
+      "cite": "359 F.3d 1144",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        9287080
+      ],
+      "weight": 2,
+      "year": 2004,
+      "pin_cites": [
+        {
+          "page": "1162-63"
+        },
+        {
+          "page": "1163"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/359/1144-01"
+      ]
+    },
+    {
+      "cite": "8 U.S.C. \u00a7 1446",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "(b)"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "497 F.3d 927",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        3617907
+      ],
+      "year": 2007,
+      "pin_cites": [
+        {
+          "page": "933",
+          "parenthetical": "noting transfer of authority"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/497/0927-01"
+      ]
+    },
+    {
+      "cite": "8 U.S.C. \u00a7 1421",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "weight": 10,
+      "pin_cites": [
+        {
+          "page": "(a)"
+        },
+        {
+          "page": "(a)(1994)"
+        },
+        {
+          "page": "(c)"
+        },
+        {
+          "page": "1044"
+        },
+        {
+          "page": "1045"
+        },
+        {
+          "page": "(c)"
+        },
+        {
+          "page": "1046-47"
+        },
+        {
+          "page": "(c)"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "6 U.S.C. \u00a7\u00a7 202",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "pin_cites": [
+        {
+          "page": "(3)"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "8 U.S.C. \u00a7 1429",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "weight": 12,
+      "pin_cites": [
+        {
+          "parenthetical": "providing that \"no application for naturalization shall be considered by the Attorney General if there is pending against the applicant a removal proceeding pursuant to a warrant of arrest issued under the provisions of this chapter or any other Act\""
+        },
+        {
+          "parenthetical": "emphasis added"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "8 U.S.C. \u00a7 1447",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "weight": 11,
+      "pin_cites": [
+        {
+          "page": "(b)"
+        },
+        {
+          "page": "(b)"
+        },
+        {
+          "page": "(b)"
+        },
+        {
+          "page": "(b)",
+          "parenthetical": "stating that \"the applicant may apply to the United States district court ... for a hearing on the matter\" and \"[s]uch court has jurisdiction over the matter and may either determine the matter or remand the matter, with appropriate instructions, to the [USCIS] to determine the matter\""
+        },
+        {
+          "page": "(b)"
+        },
+        {
+          "page": "241"
+        },
+        {
+          "page": "239-40"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "862 F.3d 786",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "year": 2004,
+      "pin_cites": [
+        {
+          "page": "799",
+          "parenthetical": "Roberts, J., concurring in part and concurring in the judgment"
+        }
+      ],
+      "opinion_index": 1
+    },
+    {
+      "cite": "8 U.S.C. \u00a7 1447",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "pin_cites": [
+        {
+          "page": "(b)"
+        }
+      ],
+      "opinion_index": 1
+    }
+  ],
+  "analysis": {
+    "cardinality": 1385,
+    "char_count": 41326,
+    "ocr_confidence": 0.599,
+    "pagerank": {
+      "raw": 5.916146141896101e-08,
+      "percentile": 0.3697215551949168
+    },
+    "sha256": "49b242a04e4776dc9d2f25dfc60ea21c415c5989d5877c8daa731b71998420e9",
+    "simhash": "1:b0d2f249db651163",
+    "word_count": 6669
+  },
+  "last_updated": "2024-02-27T17:59:44.301675+00:00",
+  "provenance": {
+    "date_added": "2018-10-23",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before: Milan D. Smith, Jr. and Sandra S. Ikuta, Circuit Judges, and John D. Bates, District Judge."
+    ],
+    "parties": [
+      "Seanlim YITH; Seak Leang Yith, Plaintiffs-Appellants, v. Kirstjen NIELSEN, in her Capacity as Secretary for Department of Homeland Security; Leon Rodriguez, in his Capacity as Assistant Secretary for Department of Homeland Security and Director for Citizenship and Immigration Services; Mari-Carmen Jordan, in her Capacity as District Director for Department of Homeland Security and Director for Citizenship and Immigration Services; Jonathan Crawford, in his Capacity as Director of the Fresno Sub-Office of Citizenship and Immigration Services; Jefferson B. Sessions III, Attorney General, Defendants-Appellees."
+    ],
+    "opinions": [
+      {
+        "text": "OPINION\nIKUTA, Circuit Judge\nSeanlim and Seak Leang Yith appeal from the district court\u2019s dismissal of their complaint requesting adjudication of their naturalization applications pursuant to 8 U.S.C. \u00a7 1447(b). Relying on 8 U.S.C. \u00a7 1429, the district court concluded that the Yiths were precluded from obtaining any relief because they were concurrently in removal proceedings. See 8 U.S.C. \u00a7 1429 (providing that \u201cno application for naturalization shall be considered by the Attorney General if there is pending against the applicant a removal proceeding pursuant to a warrant of arrest issued under the provisions of this chapter or any other Act\u201d). The court therefore dismissed their complaint for failure to state a claim. We reverse, because the limitation imposed by \u00a7 1429 applies only to the executive branch\u2019s adjudication of naturalization applications, and only when removal proceedings are pending pursuant to an arrest warrant, neither of which is applicable here.\nI\nWe begin by providing the relevant legal framework. In 2002, Congress transferred the functions of the Immigration and Naturalization Service to the Department of Homeland Security (DHS), and transferred the function of adjudicating naturalization petitions to the United States Citizenship and Immigration Services (USCIS), a component of DHS. 6 U.S.C. \u00a7\u00a7 202(3), 251(2), 271(b)(2). As a result, although 8 U.S.C. \u00a7 1421(a) states that \u201c[t]he sole authority to naturalize persons as citizens of the United States is conferred upon the Attorney General,\u201d courts interpret this reference, as well as references to the Attorney General in 8 U.S.C. \u00a7\u00a7 1421, 1429, 1445, and 1447, as referring to the authority of the USCIS. See Hernandez de Anderson v. Gonzales, 497 F.3d 927, 933 (9th Cir. 2007) (noting transfer of authority).\nA person seeking naturalization must file an application -with the USCIS. A US-CIS employee is designated to \u201cconduct examinations upon applications for naturalization,\u201d including taking testimony, administering oaths, and requiring the attendance and testimony of witnesses. 8 U.S.C. \u00a7 1446(b). After such an examination, the USCIS employee must \u201cmake a determination as to whether the application should be granted or denied, with reasons therefor.\u201d Id. \u00a7 1446(d). If the application for naturalization is denied following the USCIS employee\u2019s examination under \u00a7 1446, \u201cthe applicant may request a hearing before an immigration officer.\u201d Id. \u00a7 1447(a).\nOnce applicants have exhausted administrative remedies, they may appeal to a district court. The statutes provide for an appeal in two distinct circumstances. See United States v. Hovsepian, 359 F.3d 1144, 1162-63 (9th Cir. 2004). First, if a USCIS employee fails to make a determination \u201cas to whether the application should be granted or denied\u201d pursuant to \u00a7 1446(d) \u201cbefore the end of the 120-day period after the date on which the examination is con-\nducted,\u201d then the applicant \u201cmay apply to the United States district court for the district in which the applicant resides for a hearing on the matter,\u201d 8 U.S.C. \u00a7 1447(b). The district court \u201chas jurisdiction over the matter and may either determine the matter or remand the matter, with appropriate instructions, to the [US-CIS] to determine the matter.\u201d Id. Second, if the applicant had a hearing before an immigration officer pursuant to \u00a7 1447(a), and the immigration officer- denied the application, the applicant \u201cmay seek review of such denial\u201d before a district court. Id. \u00a7 1421(c). \u201cSuch review shall be de novo, and the court shall make its own findings of fact and conclusions of law and shall, at the request of the petitioner, conduct a hearing de novo on the application.\u201d Id.\nCertain applicants are not eligible for naturalization. First, neither the USCIS nor the district court may naturalize a person \u201cagainst whom there is outstanding a final finding of deportability pursuant to a warrant of arrest issued under the provisions of this chapter or any other Act.\u201d Id. \u00a7 1429. Second, the USCIS may not consider an application for naturalization \u201cif there is pending against the applicant a removal proceeding pursuant .to a warrant of arrest issued under the provisions of this chapter or any other Act.\u201d Id,\nII\nWe now turn to the facts of this cas\u00e9. Seanlim and Seak Leang Yith are siblings and citizens of Cambodia who were admitted as lawful permanent residents in March 2006, based on approved immigrant visa petitions filed * by their stepmother, Sarin Meas, a U.S. citizen. Seanlim Yith filed an application for' naturalization with USCIS in February 2011, and Seak Yith filed an application in December 2012. Both siblings were scheduled to appear for naturalization examinations in June 2013, but the USCIS cancelled the interviews and did not reschedule them. In 2014, the Yiths repeatedly contacted the USCIS regarding the status of. their application; they were told that the adjudication was \u201cdelayed\u201d or that their cases were \u201cpending,\u201d but that the USCIS could not determine when the review process for their applications would be completed.\nThe Yiths subsequently filed a complaint in district court, seeking to compel the USCIS to adjudicate their applications. While the government\u2019s motion to dismiss was pending, the USCIS scheduled the examination, for the Yiths\u2019 naturalization applications. The parties stipulated to hold the court proceedings in abeyance pending the USCIS examination. \u2019*\nThe examinations took place as scheduled on March 10, 2015.' For the first time, the USCIS told the Yiths that their stepmother, whos\u00e9 petition had' been the basis for legal permanent resident status, had testified that her marriage to their father was fraudulent, and therefore they had been ineligible for a visa when they entered the United States. After the examination, the USCIS issued notices of intent to deny the Yiths\u2019 applications. The notices stated that the Yiths were not eligible for naturalization because they had not been lawfully admitted for permanent residence. The deadline for issuing a final decision on the Yiths\u2019 application was July 8, 2015, the 120th day after the examination. Instead, on July 7, 2015, the USCIS issued notices to appear, thus commencing removal proceedings.\nReturning to district court, the Yiths moved to amend their original complaint and the government filed a new motion to dismiss. According to the government, 8 U.S.C. \u00a7 1429 precluded a court from considering a naturalization application when the applicant had been placed in removal proceedings. Therefore, the government argued, either the district court lacked subject matter jurisdiction over the complaint or the Yiths failed to state a claim upon which' relief could be granted.\n\u25a0 The district court dismissed the Yiths\u2019 complaint without prejudice on the ground that it failed to state a claim. Relying on \u00a7 1429 and the Second Circuit\u2019s decision in Ajlani v. Chertoff, 545 F.3d 229 (2d Cir. 2008), the court held that it could not adjudicate the Yiths\u2019 naturalization applications or order the USCIS to adjudicate them while removal proceedings remained pending. The court stated that the Yiths could refile their complaint if removal proceedings concluded in the Yiths\u2019 favor.\nThe Yiths timely appealed. We review the dismissal of a complaint for failure to state a claim de novo. Morrison v. Peterson, 809 F.3d 1059, 1064 (9th Cir. 2015). Because the USCIS did not issue final decisions on the Yiths\u2019' naturalization applications within 120 days after their examinations, the district 'court had jurisdiction to adjudicate 'their naturalization applications under 8 U.S.C. \u00a7 1447(b) and correctly rejected the government\u2019s'argument that the commencement of removal proceedings stripped the district court of subject matter jurisdiction. Cf De Lara Bellajaro v. Schiltgen, 378 F.3d 1042, 1046 (9th Cir. 2004) (holding that - commencement of removal proceedings does not affect a district court\u2019s jurisdiction to review an immigration officer\u2019s denial of a naturalization application under \u00a7 1421(c) ). We have jurisdiction under 28 U.S.C. \u00a7 1291.\nIll\nOn appeal, the Yiths argue that the district court erred in dismissing their complaint for failure to state a claim. They contend that \u00a7 1429 does not apply for two reasons: (1) it prevents only the executive branch, not the federal courts, from adjudicating'naturalization'applications; and (2) it applies only if \u201ca removal proceeding pursuant to a' warrant of arrest issued under the provisions of this chapter or any other Act\u201d is pending against the applicant. We examine these arguments in turn.\nA\nWe begin by considering the language in \u00a7 1429 that \u201cno application for naturalization shall be considered by the Attorney General.\u201d (emphasis added). According to the Yiths, because this language applies only to the Attorney General, it does not preclude a district court from considering a naturalization application that is properly before the court pursuant to \u00a7 1447(b).\nWe agr\u00e9e. As a general rule, we d\u00f3 not look beyond the unambiguous language of a statute. \u201c[W]hen a statute designates certain persons ... all omissions should be understood as exclusions[.-]\u201d Webb v. Smart Document Sols., LLC, 499 F.3d 1078, 1084 (9th Cir. 2007)' (quoting Silvers v. Sony Pictures Entm\u2019t, Inc., 402 F.3d 881, 885 (9th Cir. 2005) (en banc)). Here, the statute refers only to the Attorney General and provides no indication that the language applies to the courts. Therefore, on its face, \u00a7 1429 restricts only the Attorney General and does not limit the district court\u2019s power to naturalize an applicant while removal proceedings are pending.\nThis reading of the pertinent language in \u00a7 1429 is supported by the context. Section 1429 addresses two situations: (1) when \u201cthere is outstanding a final finding of deportability\u201d and (2) when \u201cthere is pending against the applicant a removal proceeding.\u201d 8 U.S.C. \u00a7 1429. For the former, \u00a7 1429 provides that \u201cno person shall be naturalized.\u201d Id. But for the latter, it states only that \u201cno application for naturalization shall be considered by the Attorney General.\u201d Id. In other words, \u00a7 1429 precludes-both the executive branch and the courts from naturalizing applicants \u201cagainst whom there is outstanding a final finding of deportability\u201d but prohibits only the Attorney General from naturalizing applicants against whom a removal proceeding is pending. Id. Interpreting the narrower limitation that \u201cno application for naturalization shall be considered by the Attorney General\u201d to mean the same as \u201cno person shall be naturalized\u201d would read out the reference to the Attorney General and treat distinct clauses as identical. See United States v. Menasche, 348 U.S. 528, 538-39, 75 S.Ct. 513, 99 L.Ed. 615 (1955) (\u201cIt is our duty to give effect, if possible, to every clause and word of a statute[.]\u201d).\nOur reading of the statute is also supported by considering it in its historical context. \u201cBefore 1990, district courts had authority to naturalize, while authority to deport ... aliens was vested in the Attorney General. This differentiation of function gave rise to a \u2018race between the alien to gain citizenship and the Attorney General to deport[.]\u2019\u201d Bellajaro, 378 F.3d at 1045 (quoting Shomberg v. United States, 348 U.S. 540, 544, 75 S.Ct. 509, 99 L.Ed. 624 (1955)). In 1952, to end this race, Congress enacted \u00a7 1429, which provided that \u201cno petition for naturalization shall be finally heard by a naturalization court if there is pending against the petitioner a deportation proceeding.\u201d Immigration and Nationality Act, Pub. L. No. 414, \u00a7 318, 66 Stat. 163, 244 (1952) (codified at 8 U.S.C. \u00a7 1429 (1952)) (emphasis added); see also Bellajaro, 378 F.3d at 1045.\nThen, in 1990, Congress amended the law to vest naturalization authority in the Attorney General. Immigration Act of 1990, Pub. L. No. 101-649, \u00a7 401(a), 104 Stat. 4978, 5038 (1990) (codified at 8 U.S.C. \u00a7 1421(a)(1994)) (\u201cThe sole authority to naturalize persons as citizens of the United States is conferred upon the Attorney General.\u201d); see Bellajaro, 378 F.3d at 1045. At that time, Congress amended \u00a7 1429, replacing \u201ca naturalization court\u201d with \u201cthe Attorney General.\u201d Immigration Act of 1990 \u00a7 407(d)(3) (codified at 8 U.S.C. \u00a7 1429); see also Bellajaro, 378 F.3d at 1045. Congress also provided for judicial review of a denied naturalization application in \u00a7 1421(c), Immigration Act of 1990 \u00a7 401(c), and judicial review of a delayed application in \u00a7 1447(b), id. \u00a7 407(d)(14); see also Bellajaro, 378 F.3d at 1045.\nTherefore, the history of \u00a7 1429 shows that Congress initially barred courts from considering naturalization applications during removal proceedings, but subsequently removed any reference to courts. Nothing in the 1990 amendments suggests, that Congress intended to preserve the 1952 act\u2019s bar on a district court naturalizing applicants while removal proceedings are pending, and Congress\u2019s decision to remove the provision suggests it wanted to end such a bar.\nOur decision in Bellajaro is not to the contrary. Bellajaro concerned the district court\u2019s authority under \u00a7 1421(c), which provides that \u201c[a] person whose application for naturalization under this subchapter is denied, after a hearing before an immigration officer under section 1447(a) of this Title, may seek review of such denial before the United States district court.\u201d 378 F.3d at 1045 (quoting 8 U.S.C. \u00a7 1421(c)). In Bellajaro, the INS denied an application for naturalization under \u00a7 1429 because removal proceedings were pending against the applicant and \u00a7 1429 prevented the agency, from considering his application while removal proceedings were pending. Id. at 1044. The applicant sued in district court, seeking a de novo hearing on the merits of his application. Id. Because \u00a7 1421(c) allows an applicant whose application for naturalization has been denied to \u201cseek review of such denial before the United States district court,\u201d id. at 1045 (quoting 8 U.S.C. \u00a7 1421(c)), we concluded that a district court had jurisdiction to determine whether the agency had erred in denying the application, id: at 1043. Because the agency in Bellajaro had correctly applied \u00a7 1429 and denied the application because removal proceedings were pending, we affirmed the district court\u2019s decision to uphold the agency\u2019s denial. Id. at 1046-47.\nUnlike \u00a7 1421(c), which applies when an agency denies an application, \u00a7 1447(b) applies when the government fails to make a determination within a 120-day period and gives the district court jurisdiction over the entire \u201cmatter.\u201d 8 U.S.C. \u00a7 1447(b) (stating that \u201cthe applicant may apply to the United States district court ... for a hearing on the matter\u201d and \u201c[s]uch court has jurisdiction over the matter and may either determine the matter or remand the matter, with appropriate instructions, to the [USCIS] to determine the matter\u201d). Here, the USCIS did not deny the Yiths\u2019 naturalization applications, and so the district court\u2019s review is not limited to the reason for the agency\u2019s denial, but extends to the entire matter (i.e,, the application for naturalization) that was pending before the agency.\nIn arguing against this conclusion, the government primarily relies on the Second Circuit\u2019s decision in Ajlani, which held that \u00a7 1429 does not permit an alien to state a claim for relief under \u00a7 1447(b) while removal proceedings are pending against him. 545 F.3d at 241. In Ajlani, the USCIS granted an alien\u2019s application for naturalization, then, when it discovered the alien\u2019s prior convictions, revoked the application and initiated removal proceedings. Id. at 231-32. The applicant filed a complaint requesting the district court grant his application or remand to the agency with instructions. Id. at 233. The district court dismissed the action, holding that, \u201cin light of the pending removal proceedings,\u201d the applicant could not state a claim for relief. Id. The Second Circuit affirmed, holding that the pendency of removal, proceedings precludes an applicant \u201cfrom stating a claim for relief under'8 U.S.C. \u00a7 1447(b).\u201d Id. at 241.\nAlthough Ajlani identified several reasons for its decision, none of them are persuasive in light of the statutory language. First, Ajlani reasoned that because \u00a7 1429 limits a district court\u2019s ability to grant relief under \u00a7 1421(c), by analogy, \u00a7 1429 also limits a district court\u2019s ability to grant relief under \u00a7 1447(b). Id. at 239-40 (first citing Saba-Bakare v. Chertoff, 507 F.3d 337, 340 (5th Cir. 2007); then citing Bellajaro, 378 F.3d at 1045-46; and then citing Zayed v. United States, 368 F.3d 902, 905-06 (6th Cir. 2004)). But this analysis ignores the different language in \u00a7 1421(c),- which authorizes a district court to review only the agency\u2019s denial, while \u00a7 1447(b) authorizes a district court to determine the \u201cmatter\u201d of the naturalization application. Therefore, Ajlani\u2019s reliance on Bellajaro and other decisions analyzing \u00a7 1421(c) is misplaced.\nNext, Ajlani concluded that because \u00a7 1447(b) applies only if \u201cthere is a failure to make a determination\u201d on the naturalization application, and such a condition precedent cannot occur when removal proceedings ar\u00e9 pending, then \u00a7 1447(b) does not authorize a district court to determine an alien\u2019s naturalization application in those circumstances. Id. at 240. Ajlani reasoned that the word \u201cfailure\u201d means \u201cthe omission of an expected action, occurrence, or performance,\u201d id. (quoting Black\u2019s Law Dictionary 631 (8th ed. 2004)), and \u201can action cannot be \u2018expected\u2019 when it is proscribed by law,\u201d id. Because \u00a7 1429 precludes the USCIS from making a naturalization determination when.removal proceedings are pending,\u00bb Ajlcmi concluded that the USCIS cannot be deemed to have failed to make such a determination under \u00a7 1447(b). Id.\nWe reject this strained reading of the statute.' When the USCIS has undertaken ah examination of a person who has submitted a naturalization application, and then does not make a determination on the application within 120 days, it has failed to make a determination regardless whether it decides to commence removal proceedings and thereby prevent itself from making the determination. Under a commonsense usage of the word \u201cfailure,\u2019* \u00e1 person fails to accomplish a requirement even when the failure was caused by the person\u2019s self-sabotage or other intentional efforts to make it impossible to accomplish the goal. \u25a0\nIndeed, the error in Ajlani\u2019s interpreta-' t\u00edon of failure is epitomized by the facts of this c\u00e1se. Congress enacted \u00a7 1447(b)\u2019 to' prevent \"undue delay in making naturalization determinations. See Hovsepian, 359 F.3d at 1163 (\u201cA central purpose of [\u00a7 1447(b) ] was to reduce the'waiting time for naturalization applicants.\u201d); Bustamante v. Napolitano, 582 F.3d 403, 410 (2d Cir. 2009) (\u201cThe statutory scheme aims to provide USCIS with an incentive to decide applications in a timely fashion or risk losing jurisdiction to decide those applications in the first instance.\u201d). The facts in this case indicate that the USCIS, after first delaying the Yiths\u2019 examinations, intentionally attempted to avoid the deadline set by \u00a7 1447(b) for determining a naturalization application, The USCIS had the ability to make a timely determination within 120 days, and even informed the-Yiths that it intended to deny their applications. Nevertheless, the USCIS issued the notice to appear on the 119th day in order to avoid the statutory deadline, and does not argue that the notices operated as functional denials, Ajlani\u2019s strained interpretation of \u00a7 1447(b), which \u25a0 would authorize the USCIS to avoid making a determination within the 120-day deadline, would defeat Congress\u2019s intent. Therefore, we adopt the straightforward reading of the statute that the USCIS fails to make a determination under \u00a7 1447(b) when it fails to deny the applications before the statutory deadline.\nFinally, Ajlani justified its interpretation of \u00a7 1447(b) based on a mistaken construction of-the overall statutory framework and interpretation of Congress\u2019s goals. 545 F.3d at 240-41. The Second Circuit reasoned that \u201cdistrict court authority to grant naturalization relief while removal proceedings are pending cannot be greater than that of the Attorney General.\u201d Id. at 240. Therefore, it explained, \u201c[a]s much as the statutory framework permits district courts under \u00a7 1447(b) to evaluate naturalization petitions where the USCIS improperly neglects to do so, it would seem to work against the framework set forth in \u00a7\u00a7 1447 and 1429 for the district court to undertake such an evaluation where Congress has expressly prohibited the Attorney General from doing so.\u201d Id. We disagree, because Ajlani substituted its own views of Congressional purpose for the actual language of the statute. \u201c[I]t is never our job to rewrite a constitutionally valid statutory text.\u201d Henson v. Santander Consumer USA Inc., \u2014 U.S. \u2014, 137 S.Ct. 1718, 1725, 198 L.Ed.2d 177 (2017). \u201cIndeed it is quite mistaken to assume\u201d as Ajlani does, \u201cthat \u201cwhatever\u2019 might appear to \u201cfurther[] the statute\u2019s primary objective must be the law.\u2019 \u201d Id. (alteration in original) (quoting Rodriguez v. United States, 480 U.S. 622, 526, 107 S.Ct. 1391, 94 L.Ed.2d 533 (1987)). Contrary to Ajlani\u2019reasoning, the legislative history raises the opposite inference: When Congress amended \u00a7 1429, it chose to replace \u201cnaturalization court\u201d with \u201cAttorney General,\u201d Immigration Act of 1990, \u00a7 407(d)(3); see also Bellajaro, 378 F.3d at 1045, and did not add \u201cdistrict court\u201d to the statute, strongly suggesting Congressional intent to limit \u00a7 1429 to decisions by the executive branch.\nBecause the statutory language compels us to conclude that \u00a7 1429 applies only to the Attorney General, not the district court, the district court erred in concluding that the reference to the Attorney General in \u00a7 1429 prevented it from granting relief under \u00a7 1447(b).\nB\nWe next consider the language in \u00a7 1429 that the government may not consider an applicant\u2019s naturalization application \u201cif there is pending against the applicant a removal proceeding pursuant to a warrant of arrest issued under the provisions of this chapter or any other Act.\u201d 8 U.S.C. \u00a7 1429 (emphasis added). The Yiths argue that \u00a7 1429 does not apply to them by its terms because their removal proceeding was not pursuant to a warrant of arrest. The government argues that we must defer to the DHS\u2019s regulatory interpretation of \u201cwarrant,\u201d which states: \u201cFor the purposes of [8 U.S.C. \u00a7 1429], a notice to appear issued under 8 CFR part 239 (including a charging document issued to eomm\u00e9nce proceedings under sections 236 or 242 of the Act prior to April 1, 1997) shall be regarded as a warrant of arrest.\u201d 8 C.F.R. \u00a7 318.1. Because the DHS issued notices to appear to the Yiths, the government contends, \u201ca removal proceeding pursuant to a warrant of arrest\u201d was pending against them, for purposes of \u00a7 1429. The government relies on a Seventh Circuit decision which upheld this interpretation of \u201cwarrant,\u201d on the ground that an agency \u201ccan define its own vocabulary,\u201d and \u201c[sjince \u2018arrest\u2019 does not imply custody even in police parlance (full custodial arrests are a subset of all arrests), there\u2019s no logical problem with an agency calling its official process a \u2018notice to appear\u2019 and a \u201cwarrant of arrest\u2019 at the same time, without needing to issue two separate documents.\u201d Klene v. Napolitano, 697 F.3d 666, 670 (7th Cir. 2012).\nWe review an agency\u2019s construction of the statute it administers under the formula set forth in Chevron, U.S.A., Inc. v, Nat. Res. Def. Council, Inc., 467 U.S. 837, 842-44, 104 S.Ct. 2778, 81 L.Ed.2d 694 (1984). \u201cChevron established a familiar two-step procedure for evaluating whether. an agency\u2019s interpretation of a statute is lawful.\u201d Nat\u2019l Cable & Telecomms. Ass\u2019n v. Brand X Internet Servs., 545 U.S, 967, 986, 125 S.Ct. 2688, 162 L.Ed.2d 820 (2005). \u201cAt the first step, we ask whether the statute\u2019s plain terms \u2018directly addres[s] the precise question at issue.\u2019 \u201d Id. (alteration in original) (quoting Chevron, 467 U.S. at 843, 104 S.Ct. 2778). \u201cIf a court, employing traditional tools of statutory construction, ascertains that Congress had an intention on the precise question at issue, that intention is the law and must be given effect.\u201d Chevron, 467 U.S. at 843 n.9, 104 S.Ct. 2778. \u201c[T]he court, as well as the agency, must give effect to the unambiguously expressed intent of Congress.\u201d Id. at 842-43, 104 S.Ct. 2778.\nUnder these tools of statutory interpretation, \u201cunless otherwise defined, words will be interpreted as taking their ordinary, contemporary, common meaning.\u201d Perrin v. United States, 444 U.S. 37, 42, 100 S.Ct. 311, 62 L.Ed.2d 199 (1979). \u201cWhen determining the plain meaning of language, we may consult dictionary definitions,\u201d Af-Cap, Inc. v. Chevron Overseas (Congo) Ltd., 475 F.3d 1080, 1088 (9th Cir. 2007). \u201cIt is also \u2018a fundamental canon that the words of a - statute must be read in their context and with a view to their place in the overall statutory scheme.\u2019 \u201d The Wilderness Soc\u2019y v. U.S. Fish & Wildlife Serv., 353 F.3d 1051, 1060 (9th Cir. 2003) (quoting FDA v. Brown & Williamson Tobacco Corp., 529 U.S. 120, 133, 120 S.Ct. 1291, 146 L.Ed.2d 121 (2000)). \u201cIf, under these canons, or other traditional means of determining Congress\u2019s intentions,\u201d we can determine that Congress clearly defined \u201cwarrant of arrest,\u201d then we may not defer to DHS\u2019s contrary interpretation. See id.; see also Medtronic, Inc. v. Lohr, 518 U.S. 470, 512, 116 S.Ct. 2240, 135 L.Ed.2d 700 (1996) (\u201cWhere the language of the statute is clear, resort to the agency\u2019s interpretation is improper.\u201d). Only \u201cif a statute is silent or ambiguous with respect to the issue at hand\u201d do courts move to the second step of the Chevron framework, and ask whether \u201cthe agency\u2019s answer is based on a permissible construction of the statute.\u201d The Wilderness Soc\u2019y, 353 F.3d at 1059 (quoting Chevron, 467 U.S. at 843, 104 S.Ct. 2778).\nHere, the \u201cplain terms\u201d of \u00a7 1429 \u201cdirectly addres[s] the precise question at issue.\u201d Brand X Internet Servs., 545 U.S. at 986, 125 S.Ct. 2688 (alteration in original) (quoting Chevron, 467 U.S. at 843, 104 S.Ct. 2778). Section 1429 provides that the government\u2019s consideration of an application is precluded only if a \u201cremoval proceeding\u201d is pending \u201cpursuant to\u201d (1) \u201ca warrant of arrest\u201d that (2) has been \u201cissued under the provisions of this chapter or any other Act.\u201d\nThe meaning of \u201cwarrant of arrest\u201d in \u00a7 1429 is unambiguous. According to the dictionary, a \u201cwarrant\u201d means \u201c[a] writ directing or authorizing someone to do an act, esp. one directing a law enforcer to make an arrest, a search, or a seizure.\u201d See Black\u2019s Law Dictionary (10th ed. 2014). The term \u201carrest\u201d means \u201c[a] seizure or forcible restraint\u201d or \u201c[t]he taking or keeping of a person in custody by legal-authority, esp. in response to a criminal charge; specif., the apprehension of someone for the purpose of securing the administration of the law, esp. of bringing that person before a court.\u201d Id. And the term \u201cwarrant of arrest\u201d means \u201c[a] warrant issued by a disinterested magistrate after a showing of probable cause, directing a law-enforcement officer to arrest and take a person into custody.\u201d Id. In other words, the plain meaning of the term \u201cwarrant of arrest\u201d is an order authorizing law enforcement to seize and detain a person as necessary for the administration of law.\nFurther, \u00a7 1429 states that the \u201cwarrant of arrest\u201d must be one issued under the provisions of Chapter 12 of the Immigration and Nationality Act (where \u00a7 1429 is located), or any other federal act. Chapter 12 provides for the issuance of warrants of arrest in 8 U.S.C. \u00a7 1226(a), which states that \u201c[o]n a warrant issued by the Attorney General, an alien may be arrested and detained pending a decision on whether the alien is to be removed from the United States.\u201d After arresting the alien, the Attorney General \u201cmay continue to detain the arrested alien\u201d or \u201cmay release the alien\u201d if certain criteria are met. Id. In short, a \u201cwarrant of arrest\u201d for purposes of \u00a7 1429 is a writ issued under \u00a7 1226 authorizing law enforcement personnel to arrest and detain an alien pending the results of removal proceedings.\nGiven this interpretation of \u201cwarrant of arrest,\u201d we conclude it is a distinct document from a \u201cnotice to appear.\u201d See Prieto-Romero v. Clark, 534 F.3d 1053, 1058 (9th Cir. 2008) (indicating that the two documents are distinct, and the Attorney\nGeneral \u201cmay issue a warrant of arrest concurrently with the notice to appear\u201d). \u201cNotice to appear\u201d is defined in 8 U.S.C. \u00a7 1229(a) as a \u201cwritten notice\u201d that is \u201cgiven in person to the alien (or, if personal service is not practicable, through service by mail to the alien or to the alien\u2019s counsel of record, if any)\u201d providing specified information, including the time and place at which removal proceedings will be held. In short, a notice to appear is akin to a summons that provides an alien with specified information regarding removal proceedings; it does not direct law enforcement to arrest and detain the alien. Further, unlike warrants of arrest, notices to appear are required in all removal proceedings. See id.) 8 C.F.R. \u00a7 1239.1(a) (\u201cEvery removal proceeding conducted under section 240 of the Act (8 U.S.C. 1229a) to determine the deportability or inadmissibility of an alien is commenced by the filing of a notice to appear with the immigration court.\u201d). If Congress intended to preclude the government\u2019s consideration of a naturalization petition whenever the applicant was in removal proceedings, then it would have had no need to state that \u00a7 1429 is applicable only when a removal proceeding is \u201cpursuant to a warrant of arrest.\u201d DHS\u2019s interpretation would make \u201cpursuant to a warrant of arrest\u201d unnecessary, which \u201cis contrary to our general \u2018reluctan[ce] to treat statutory terms as surplusage.\u2019 \u201d Bd. of Trs. of Leland Stanford Junior Univ. v. Roche Molecular Sys., Inc., 563 U.S. 776, 788, 131 S.Ct. 2188, 180 L.Ed.2d 1 (2011) (alteration in original) (quoting Duncan v. Walker, 533 U.S. 167, 174, 121 S.Ct. 2120, 150 L.Ed.2d 251 (2001)).\nThe government argues that the phrase \u201cwarrant of arrest\u201d is ambiguous because \u201cthere is no universal definition of the term \u2018arrest.\u2019 \u201d In making this argument, the government relies on our previous decision in United States v. Leal-Felix, 665 F.3d 1037 (9th Cir. 2011) (en banc). We reject this argument. Leal-Felix required us to interpret \u00a7 4A1.2 of the U.S. Sentencing Guidelines, which provides that \u201c[p]rior sentences always are counted separately if the sentences were imposed for offenses that were separated by an intervening arrest (i.e., the defendant is arrested for the first offense prior to committing the second offense),\u201d but \u201c[i]f there is no intervening arrest, prior sentences are counted separately\u201d with certain exceptions. United States Sentencing Guidelines Manual \u00a7 4A1.2(a)(2) (U.S. Sentencing Comm\u2019n 2016). The defendant in Leal-Fe-lix argued that his presentence report erred by counting his two citations for driving with a suspended license as two separate offenses even though there was no \u201cintervening arrest\u201d because he had been cited, not arrested. Leal-Felix, 665 F.3d at 1040-41. We agreed, explaining that \u201c[ajrrest is commonly used as it is defined: \u2018the taking or detainment (of a person) in custody by authority of law; legal restraint of the person; custody; imprisonment.\u2019 \u201d Id. at 1041 (quoting Webster\u2019s Third New International Dictionary 121 (1993)). We noted that \u201cthis common understanding creates a clear and usable definition,\u201d but \u201cis not necessarily controlling in statutory construction\u201d because the \u201c[interpretation of a word or phrase [in a statute] depends upon reading the whole statutory text, considering the purpose and context of the statute, and consulting any precedents or authorities that inform the analysis.\u201d Id. at 1041-42 (second alteration in original) (citations omitted). Using the tools of statutory construction, we interpreted \u201carrest\u201d as requiring \u201cthat the individual be formally arrested; the mere issuance of a citation, even if considered an arrest under state law, is insufficient.\u201d Id. at 1038-39. We noted that \u201c[a] formal arrest may be indicated by .informing = the' suspect that he is under arrest, transporting the suspect to the police station, and/or booking the suspect into jail.\u201d Id. at 1041 (footnotes omitted).\nLeal-Felix\u215b analysis of \u201carrest\u201d for purposes of the Sentencing Guidelines is consistent with our interpretation here. As in Leal-Felix, we have concluded that the common\u2019meaning of the word \u201carrest\u201d does not include merely issuing a citation, but requires a \u201cformal arrest\u201d that involves taking a suspect into custody. See id. Moreover, as noted in Leal-Felix, statutory interpretation always \u201cdepends upon reading the whole statutory text, considering the purpose and context of the statute.\u201d Id. at 1042 (quoting Dolan v. U.S. Postal Serv, 546 U.S. 481, 486, 126 S.Ct. 1252, 163 L.Ed.2d 1079 (2006)). Here, when read in context, a \u201cwarrant of arrest\u201d cannot mean a \u201cnotice to appear.\u201d See supra at 1165 - 67.\nBecause we determine that Congress clearly defined \u201cwarrant of arrest\u201d as a writ that issues to arrest and detain an alien, and is not the same as a notice to appear, we disagree with the Seventh Circuit\u2019s decision in Kle\u00f1e. Klene did not use the tools of statutory interpretation to determine whether \u201cwarrant of arrest\u201d has an unambiguous meaning in the context of \u00a7 1429. 697 F.3d at 670. . Nor did it consider whether a warrant of arrest \u201cissued under the provisions of this- chapter or any other Act\u201d included arresting and detaining an alien. Id. Rather Klene merely stated, without citation or reasoning, that the word arrest \u201cdoes not imply custody even in police parlance (full custodial arrests are a subset of all arrests).\u201d Id. Because our analysis compels a different conclusion, we reject Klene\u2019s acceptance of DHS\u2019s interpretation in \u00a7 318.1.\nAlthough the Yiths received a notice to appear, they were not subject to \u201ca warrant of arrest issued under the provisions\u201d of Chapter 12 of the INA. Accordingly, their removal proceedings were not pursuant to such a warrant of arrest, and this portion of \u00a7 1429 was inapplicable to their case.\nIV.\nThe district, court erred in dismissing the Yiths\u2019 complaint for failure to state a claim under the authority of \u00a7\u25a0 1429. By its terms,- \u00a7 1429 precludes only the executive branch from considering an applicant\u2019s naturalization application, and only when there is pending against the applicant a removal proceeding pursuant to a warrant of arrest. Because the district court is not the executive branch and there was no pending removal proceeding pursuant to a warrant of arrest, \u00a7 1429 was not applicable. We reverse the district court and remand for further proceedings consistent with this opinion.\nREVERSED and REMANDED,\n. In full, 8 U.S.C. \u00a7 1421(c) reads:\nA person whose application for naturalization under this subchapter is denied, after a hearing before an immigration officer under section 1447(a) of this Title, may seek review of such denial before the United States district court for the district in which such person resides in accordance with chapter 7 of title 5. Such review shall be de novo, and the court shall make its own findings of fact and conclusions of law and shall, at the request of the petitioner, conduct a hearing de novo on the application.\n.In full, 8 U.S.C. \u00a7 1429 reads:\n-Except as otherwise provided in this sub-chapter, no person shall be naturalized unless he has been lawfully admitted to the United States for permanent residence in accordance with all applicable provisions of this chapter. The burden of proof shall be upon such person to show that he entered the United States lawfully, and the time, place, and manner of such entry into the United States, but in presenting such proof he shall be entitled to the production of his immigrant visa, if any, or of other entry document, if any, and of any other documents and records, not considered by the Attorney General to be confidential, pertaining to such entry, in the custody of the Service. Notwithstanding the provisions of section 405(b), and except as provided in sections 1439- and 1440 of this title no person shall be naturalized against whom there is outstanding a final finding of de-portability pursuant to a warrant of arrest issued under the provisions of this chapter or any other Act; and no application for naturalization shall be considered by the Attorney General if there is pending against the. applicant a removal proceeding pursuant to a warrant of arrest issued under the provisions of this chapter or any other Act; Provided, That the findings of the Attorney General in terminating removal proceedings or in canceling the removal of an alien pursuant to the provisions of this chapter, shall not be deemed binding in any way upon the Attorney General with respect to the question of whether such person has established his eligibility for naturalization as required by this subchapter.\n. The government does not renew this argument on appeal.\n. The government does not argue that \u00a7 1429 may refer to a warrant of arrest issued under any other provision in Chapter 12 or any other federal act.\n. DHS has likewise interpreted a \"warrant of arrest\u201d as distinct from a \"notice to appear\u201d in regulations other than \u00a7 318.1. See 8 C.F.R. \u00a7 236.2(a) (\"[T]he notice to appear, and the warrant of arrest, if issued, shall be served in the manner prescribed....\u201d) (emphasis added); id. \u00a7 236.1(b) (\"At the time of issuance of the notice to appear, or at any time thereafter and up to the time removal proceedings are completed, the respondent may be arrested and taken into custody under the authority of Form 1-200, Warrant of Arrest.\u201d) (emphasis added); id.% 238.1(g) (same). Indeed, DHS's Form 1-200, entitled \"Warrant of Arrest, United States Department of Homeland Security,\u201d is distinct from Form 1-862, entitled \"Notice to Appear, United States Department of Homeland Security.\u201d Form 1-200 even identifies \"the pendency of ongoing removal proceedings\u201d as sufficient probable cause to arrest an alien, further showing that the forms are not equivalent.\n. In light of this decision, we need not address the Yiths\u2019 arguments that the district court abused its discretion by denying th\u00e9m leave to amend their complaint and violated their procedural due process rights by not holding oral argument.",
+        "type": "majority",
+        "author": "IKUTA, Circuit Judge"
+      },
+      {
+        "text": "BATES, Senior District Judge,\nconcurring in part and concurring in the judgment: ,\nI agree that 8 TJ.S.C. \u00a7 1429 does not apply to -the Yiths because their removal proceedings were not pursuant to a warrant of arrest. Because this is a sufficient ground to decide the case\u2014rand, indeed, is a conclusion that \u00a7 1429 has no application here\u2014I would reverse on this basis alone and do not .think it' necessary to decide whether \u00a7 1429\u2014if it did apply\u2014would preclude the district court from considering a naturalization application under 8 U.S.C. \u00a7 1447(b).. PDK Labs., Inc. v. DEA, 862 F.3d 786, 799 (D.C. Cir. 2004) (Roberts, J., concurring in part and concurring in the judgment) (\u201c[I]f it is not necessary to decide more, it is necessary not to decide more....\u201d).",
+        "type": "concurring-in-part-and-dissenting-in-part",
+        "author": "BATES, Senior District Judge,"
+      }
+    ],
+    "attorneys": [
+      "Bruce Leichty (argued), Bruce Leichty PC, Escondido, California, for Plaintiffs-Appellants.",
+      "Timothy M. Belsan (argued), Senior Litigation Counsel; Jeffrey S. Robins, Assistant Director; William C. Peachey, Director; Audrey B. Hemesath, Assistant United States Attorney; Phillip A. Talbert, United States Attorney; District Court Section, Office of Immigration Litigation, United States Department of Justice, Washington, D.C.; for Defendants-Appel-lees."
+    ],
+    "corrections": "",
+    "head_matter": "Seanlim YITH; Seak Leang Yith, Plaintiffs-Appellants, v. Kirstjen NIELSEN, in her Capacity as Secretary for Department of Homeland Security; Leon Rodriguez, in his Capacity as Assistant Secretary for Department of Homeland Security and Director for Citizenship and Immigration Services; Mari-Carmen Jordan, in her Capacity as District Director for Department of Homeland Security and Director for Citizenship and Immigration Services; Jonathan Crawford, in his Capacity as Director of the Fresno Sub-Office of Citizenship and Immigration Services; Jefferson B. Sessions III, Attorney General, Defendants-Appellees.\nNo. 16-15858\nUnited States Court of Appeals, Ninth Circuit.\nArgued and Submitted December 5, 2017, San Francisco, California\nFiled February 7, 2018\nBruce Leichty (argued), Bruce Leichty PC, Escondido, California, for Plaintiffs-Appellants.\nTimothy M. Belsan (argued), Senior Litigation Counsel; Jeffrey S. Robins, Assistant Director; William C. Peachey, Director; Audrey B. Hemesath, Assistant United States Attorney; Phillip A. Talbert, United States Attorney; District Court Section, Office of Immigration Litigation, United States Department of Justice, Washington, D.C.; for Defendants-Appel-lees.\nBefore: Milan D. Smith, Jr. and Sandra S. Ikuta, Circuit Judges, and John D. Bates, District Judge.\nThe Honorable John D. Bates, United States District Judge for the District of Columbia, sitting by designation.\n. 8 U.S.C. \u00a7 1447(b) states, in full:\nIf there is a failure to make a determination under section 1446 of this title before the end of the 120-day period after the date on which the examination is conducted under such section, the applicant may apply to the United States district court for the district in which the applicant resides for a hearing on the matter. Such court has jurisdiction over the matter and may either determine the matter or remand the matter, with appropriate instructions, to the Service to determine the matter."
+  },
+  "file_name": "1155-01",
+  "first_page_order": 1183,
+  "last_page_order": 1197
+}

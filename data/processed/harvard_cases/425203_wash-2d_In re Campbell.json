@@ -1,0 +1,92 @@
+{
+  "id": 425203,
+  "name": "In the Matter of the Petition of Gordon McLean Campbell, an Attorney at Law",
+  "name_abbreviation": "In re Campbell",
+  "decision_date": "2001-05-03",
+  "docket_number": "No. 68431-6",
+  "first_page": "504",
+  "last_page": "506",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "143 Wash. 2d 504"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Wash.",
+    "id": 9029,
+    "name": "Washington Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 38,
+    "name_long": "Washington",
+    "name": "Wash."
+  },
+  "cites_to": [
+    {
+      "cite": "444 P.2d 784",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1968,
+      "opinion_index": 0
+    },
+    {
+      "cite": "74 Wn.2d 276",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        1086731
+      ],
+      "year": 1968,
+      "pin_cites": [
+        {
+          "page": "281"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/74/0276-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 237,
+    "char_count": 3460,
+    "ocr_confidence": 0.734,
+    "pagerank": {
+      "raw": 5.35774271545867e-08,
+      "percentile": 0.33650726355088656
+    },
+    "sha256": "3e58cdb22180d903c1ef9faad0a694f5772de29c1f08d14851e041dd3291f721",
+    "simhash": "1:8ad00c16aedad6cc",
+    "word_count": 578
+  },
+  "last_updated": "2024-02-27T19:32:28.277612+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In the Matter of the Petition of Gordon McLean Campbell, an Attorney at Law."
+    ],
+    "opinions": [
+      {
+        "text": "Per Curiam\nIn 1968, this court held that Gordon M. Campbell was mentally incompetent to practice law. We, therefore, placed him on disability inactive status \u201cuntil such time as he can establish that he is again mentally competent to practice law.\u201d In re Campbell, 74 Wn.2d 276, 281, 444 P.2d 784 (1968). Since that time Campbell has sought, on several occasions, to obtain reinstatement to active status as a member of the Washington State Bar Association (WSBA). On each of these occasions, the Disciplinary Board of the WSBA (Board) has denied his petition for reinstatement.\nWhen a lawyer has been transferred to disability inactive status, the lawyer may petition the Board for reinstatement. The disabled lawyer bears the burden of showing that the disability has been removed. RLD 10.3(a). Consequently, the lawyer\u2019s petition is to set forth facts demonstrating that the disability has been removed, i.e., that the lawyer is now mentally competent to practice law. RLD 10.3(b). The Board must review the petition, but it may deny it without a hearing if it determines that the petition does not set forth a prima facie case for reinstatement. RLD 10.3(e)(4). A decision of the Board that is adverse to the petitioner may be appealed to this court. RLD 10.3(g).\nCampbell\u2019s most recent petition to the Board for reinstatement, and the one that has led to this appeal, was filed on January 25, 1999. After reviewing the petition, the Board dismissed it, without a hearing, based on its conclusion that Campbell failed to set forth facts showing that the disability has been removed. Campbell then appealed the Board\u2019s decision to this court. We have considered the appeal without argument pursuant to RLD 7.4 and RAP 11.6.\nAfter reviewing Campbell\u2019s petition, we conclude that the Board did not err in dismissing Campbell\u2019s petition. We reach this conclusion because Campbell has, as the Board determined, failed to set forth in the petition a single fact demonstrating that his disability has been removed.\nThe Board\u2019s decision is further buttressed by the results of an independent mental evaluation of Campbell that was obtained by the Board in an attempt to determine whether his disability has been removed. Although the Board was not required to obtain such an evaluation, it wisely directed the evaluation of Campbell by Stephen R. Feldman, J.D., Ph.D. The report that was furnished to the Board contained Dr. Feldman\u2019s opinion that Campbell suffers from \u201cDSM IV \u00a7 279.1 Delusional Disorder\u201d as well as his conclusion that Campbell\u2019s mental health has not changed since 1968.\nIn light of the above, we affirm the decision of the Board. Our decision is, of course, without prejudice to Campbell to petition the Board for reinstatement in the event he is able to marshal evidence showing that he has regained the ability to practice law.\nAffirmed.\nRLD 10.3(b) vests the Board with the power to direct that \u201can examination of the lawyer be conducted by a qualified expert\u201d for the purpose of determining whether the disability has been removed. The Board is also empowered to take actions that it \u201cdeems necessary or proper to determine whether the disability has been removed.\u201d RLD 10.3(e)(2).",
+        "type": "majority",
+        "author": "Per Curiam"
+      }
+    ],
+    "attorneys": [
+      "Gordon M. Campbell, pro se.",
+      "Julie A. Shankland and Joy B. McLean, for the Washington State Bar Association."
+    ],
+    "corrections": "",
+    "head_matter": "[No. 68431-6.\nEn Banc.]\nConsidered April 12, 2001.\nDecided May 3, 2001.\nIn the Matter of the Petition of Gordon McLean Campbell, an Attorney at Law.\nGordon M. Campbell, pro se.\nJulie A. Shankland and Joy B. McLean, for the Washington State Bar Association."
+  },
+  "file_name": "0504-01",
+  "first_page_order": 578,
+  "last_page_order": 580
+}

@@ -1,0 +1,60 @@
+{
+  "id": 1967399,
+  "name": "Bannan v. City of Saginaw",
+  "name_abbreviation": "Bannan v. City of Saginaw",
+  "decision_date": "1985-03-15",
+  "docket_number": "Nos. 70703-70705",
+  "first_page": "794",
+  "last_page": "794",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "421 Mich. 1202"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Mich.",
+    "id": 8790,
+    "name": "Michigan Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 49,
+    "name_long": "Michigan",
+    "name": "Mich."
+  },
+  "cites_to": [
+    {
+      "cite": "420 Mich 376",
+      "category": "reporters:state",
+      "reporter": "Mich.",
+      "case_ids": [
+        1968443
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/mich/420/0376-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 12,
+    "char_count": 70,
+    "ocr_confidence": 0.651,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.07114256468234248
+    },
+    "sha256": "4f3362e0d0def15941d930724117bde2f2e51ee2bac139a3ca69994862a8db45",
+    "simhash": "1:33451459ccf72b98",
+    "word_count": 12
+  },
+  "last_updated": "2024-02-27T19:29:49.154056+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "file_name": "0794-04",
+  "first_page_order": 946,
+  "last_page_order": 946
+}

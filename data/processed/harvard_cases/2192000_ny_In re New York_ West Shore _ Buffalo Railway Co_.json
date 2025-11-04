@@ -1,0 +1,62 @@
+{
+  "id": 2192000,
+  "name": "In the Matter of the Application of the New York, West Shore and Buffalo Railway Company to acquire Title to Lands of Theophilia G. Townsend et al.",
+  "name_abbreviation": "In re New York, West Shore & Buffalo Railway Co.",
+  "decision_date": "1883-12-11",
+  "docket_number": "",
+  "first_page": "639",
+  "last_page": "639",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "94 N.Y. 639"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "N.Y.",
+    "id": 24653,
+    "name": "New York Court of Appeals"
+  },
+  "jurisdiction": {
+    "id": 1,
+    "name_long": "New York",
+    "name": "N.Y."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 45,
+    "char_count": 320,
+    "ocr_confidence": 0.526,
+    "sha256": "c97e70c5f53dd7e8b3a7ba5ff0e40ced482d1bffd379f2bf852f931226a64b83",
+    "simhash": "1:40d0c222c0228d69",
+    "word_count": 54
+  },
+  "last_updated": "2023-07-14T18:55:18.857986+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In the Matter of the Application of the New York, West Shore and Buffalo Railway Company to acquire Title to Lands of Theophilia G. Townsend et al."
+    ],
+    "opinions": [
+      {
+        "text": "Agree to affirm; no opinion.\nAll concur.\nOrder affirmed.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "D. P. Barnard for appellant.",
+      "F. L. Westbrook for respondent."
+    ],
+    "corrections": "",
+    "head_matter": "In the Matter of the Application of the New York, West Shore and Buffalo Railway Company to acquire Title to Lands of Theophilia G. Townsend et al.\n(Argued December 4, 1883;\ndecided December 11, 1883.)\nD. P. Barnard for appellant.\nF. L. Westbrook for respondent."
+  },
+  "file_name": "0639-02",
+  "first_page_order": 663,
+  "last_page_order": 663
+}

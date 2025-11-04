@@ -1,0 +1,67 @@
+{
+  "id": 4205449,
+  "name": "COMMONWEALTH of Pennsylvania Eric Johnson # JG-1080, Petitioner v. Gerald L. ROZRUM [sic] Warden, Somerset Prison Somerset Pennsylvania 155-10, Respondent",
+  "name_abbreviation": "Commonwealth v. Rozrum",
+  "decision_date": "2011-11-02",
+  "docket_number": "No. 72 EM 2011",
+  "first_page": "479",
+  "last_page": "480",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "612 Pa. 479"
+    },
+    {
+      "type": "parallel",
+      "cite": "31 A.3d 289"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 55,
+    "char_count": 453,
+    "ocr_confidence": 0.682,
+    "pagerank": {
+      "raw": 4.688403287882615e-08,
+      "percentile": 0.13925252236896518
+    },
+    "sha256": "1306729385dca208146758b07168717414a2e987322f2aa958d9f194156b815f",
+    "simhash": "1:1a2d21bea3c8062d",
+    "word_count": 71
+  },
+  "last_updated": "2023-07-14T19:33:52.292960+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "COMMONWEALTH of Pennsylvania Eric Johnson # JG-1080, Petitioner v. Gerald L. ROZRUM [sic] Warden, Somerset Prison Somerset Pennsylvania 155-10, Respondent."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nPER CURIAM.\nAND NOW, this 2nd day of November, 2011, the Application for Leave to File Original Process is GRANTED, and the Petition for Writ of Habeas Corpus and the Application for Appointment of Counsel are DENIED.",
+        "type": "majority",
+        "author": "PER CURIAM."
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "31 A.3d 289\nCOMMONWEALTH of Pennsylvania Eric Johnson # JG-1080, Petitioner v. Gerald L. ROZRUM [sic] Warden, Somerset Prison Somerset Pennsylvania 155-10, Respondent.\nNo. 72 EM 2011.\nSupreme Court of Pennsylvania.\nNov. 2, 2011."
+  },
+  "file_name": "0479-02",
+  "first_page_order": 523,
+  "last_page_order": 524
+}

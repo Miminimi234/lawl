@@ -1,0 +1,78 @@
+{
+  "id": 12452387,
+  "name": "State, Respondent, v. Bunn, Petitioner",
+  "name_abbreviation": "State v. Bunn",
+  "decision_date": "2017-03-29",
+  "docket_number": "No. 93998-5",
+  "first_page": "1029",
+  "last_page": "1029",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "187 Wash. 2d 1029"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Wash.",
+    "id": 9029,
+    "name": "Washington Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 38,
+    "name_long": "Washington",
+    "name": "Wash."
+  },
+  "cites_to": [
+    {
+      "cite": "197 Wn. App. 1004",
+      "category": "reporters:state",
+      "reporter": "Wash. App.",
+      "case_ids": [
+        12453208,
+        12453209,
+        12453210,
+        12453211
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-app/197/1004-01",
+        "/wash-app/197/1004-02",
+        "/wash-app/197/1004-03",
+        "/wash-app/197/1004-04"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 28,
+    "char_count": 188,
+    "ocr_confidence": 0.867,
+    "sha256": "40f83a984a0a7344c445505b8b3bbcfafd854f5c1ce4632e98a7d8b1c6b7bf93",
+    "simhash": "1:a1b1fa3a2d712df8",
+    "word_count": 31
+  },
+  "last_updated": "2024-02-27T20:27:34.476040+00:00",
+  "provenance": {
+    "date_added": "2019-05-21",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "State, Respondent, v. Bunn, Petitioner,"
+    ],
+    "opinions": [
+      {
+        "text": "Petition for review of a decision of the Court of Appeals, No. 48813-2-II, December 6, 2016, 197 Wn. App. 1004. Denied March 29, 2017.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "State, Respondent, v. Bunn, Petitioner,\nNo. 93998-5."
+  },
+  "file_name": "1029-05",
+  "first_page_order": 997,
+  "last_page_order": 997
+}

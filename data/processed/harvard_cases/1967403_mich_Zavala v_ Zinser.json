@@ -1,0 +1,70 @@
+{
+  "id": 1967403,
+  "name": "Zavala v. Zinser",
+  "name_abbreviation": "Zavala v. Zinser",
+  "decision_date": "1985-03-15",
+  "docket_number": "No. 71266",
+  "first_page": "794",
+  "last_page": "794",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "421 Mich. 1202"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Mich.",
+    "id": 8790,
+    "name": "Michigan Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 49,
+    "name_long": "Michigan",
+    "name": "Mich."
+  },
+  "cites_to": [
+    {
+      "cite": "420 Mich 567",
+      "category": "reporters:state",
+      "reporter": "Mich.",
+      "case_ids": [
+        1968430
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/mich/420/0567-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 10,
+    "char_count": 54,
+    "ocr_confidence": 0.742,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.07114275774379124
+    },
+    "sha256": "1c83142f6fbff098ba21a2a565e47145e5842dca709d075441d592f82a58d9ca",
+    "simhash": "1:992238618c432891",
+    "word_count": 10
+  },
+  "last_updated": "2024-02-27T19:29:49.154056+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Zavala v Zinser,"
+    ],
+    "opinions": [],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Zavala v Zinser,\nNo. 71266.\nReported at 420 Mich 567."
+  },
+  "file_name": "0794-07",
+  "first_page_order": 946,
+  "last_page_order": 946
+}

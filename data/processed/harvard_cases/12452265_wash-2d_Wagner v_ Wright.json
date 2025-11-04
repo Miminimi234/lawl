@@ -1,0 +1,78 @@
+{
+  "id": 12452265,
+  "name": "In re Estate of Wagner. Wagner, Appellant, v. Wright, as Personal Representative, et al., Respondents",
+  "name_abbreviation": "Wagner v. Wright",
+  "decision_date": "2017-02-08",
+  "docket_number": "No. 93738-9",
+  "first_page": "1013",
+  "last_page": "1013",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "187 Wash. 2d 1013"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Wash.",
+    "id": 9029,
+    "name": "Washington Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 38,
+    "name_long": "Washington",
+    "name": "Wash."
+  },
+  "cites_to": [
+    {
+      "cite": "195 Wn. App. 1058",
+      "category": "reporters:state",
+      "reporter": "Wash. App.",
+      "case_ids": [
+        12454481,
+        12454482,
+        12454483,
+        12454484
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-app/195/1058-01",
+        "/wash-app/195/1058-02",
+        "/wash-app/195/1058-03",
+        "/wash-app/195/1058-04"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 36,
+    "char_count": 253,
+    "ocr_confidence": 0.831,
+    "sha256": "7be90f50e16293efb8a9c01cbe1cd8986a3ba2272494ec5adc6acbf99b903624",
+    "simhash": "1:bbf142107d195822",
+    "word_count": 41
+  },
+  "last_updated": "2024-02-27T20:27:34.476040+00:00",
+  "provenance": {
+    "date_added": "2019-05-21",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In re Estate of Wagner. Wagner, Appellant, v. Wright, as Personal Representative, et al., Respondents,"
+    ],
+    "opinions": [
+      {
+        "text": "Petition for review of a decision of the Court of Appeals, No. 73629-9-I, September 6, 2016, 195 Wn. App. 1058. Denied February 8, 2017.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "In re Estate of Wagner. Wagner, Appellant, v. Wright, as Personal Representative, et al., Respondents,\nNo. 93738-9."
+  },
+  "file_name": "1013-07",
+  "first_page_order": 981,
+  "last_page_order": 981
+}

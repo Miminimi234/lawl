@@ -1,0 +1,335 @@
+{
+  "id": 10541716,
+  "name": "Agnes JONES and Raymond Jones, Appellants, v. KEENE CORPORATION, Keene Corporation, successor to Baldwin Hill Co., Ehret Magnesia Manufacturing Co., Baldwin Ehret Hill, Inc. and Keene Building Products, Eagle-Picher Industries, Inc., Garlock, Inc., Raymark Industries, Inc., Individually and as successor to Raybestos Manhattan, Inc., Raymark Corporation, Individually and as successor to Raybestos Manhattan, Inc., Raytech Composites, Inc., Celotex Corporation, Celotex Corporation, successor to the Philip Carey Corporation, Philip Carey Company, Inc., Xpru Corporation, Briggs Manufacturing Company, Panacon Corporation and Smith and Kanzler, Inc., Owens-Illinois Glass Company, Owens-Corning Fiberglas, U.S. Gypsum Company, GAF Corporation, GAF Corporation, successor to The Ruberoid Company, Atlas Turner, Inc., formerly known as Atlas Asbestos Company, Babcock and Wilcox Co., Individually and as successor to B & W Refractories Limited, Standard Refractories Limited, and Holmes Blunt, Ltd., The Flintkote Company, The Anchor Packing Company, Condenser Specialities and Repairs, Inc., Condenser Specialties and Repairs, Inc., successor to Condenser Service and Engineering, Fibreboard Corporation, successor to Fibreboard Paper Products Corporation, Pabco Products, Inc., and Plant Rubber & Asbestos Works, Inc., United Conveyor Corporation, A.P. Green Refractories, Inc., Individually and as successor to A.P. Green Fire Brick Company, Metropolitan Refractories Co., Quigley Co., Inc., General Electric Company, Worthington Corporation, Diamond Power Specialty Company, Inc., Arcy Manufacturing Company, Inc., Metallo Gasket Company, Flexitallic Gasket Company, Inc., Combustion Engineering, Inc., Individually and as successor to M.H. Detrick Company, Walsh Refractory Corporation and Refractory and Insulation Corporation, now known as C & E Refractories, Alltite Gasket Company, Empire Ace Insulation Mfg. Corp., Individually and as successor to Empire Asbestos Co. and Ace Asbestos Co., Ingersoll-Rand, Turner & Newall, Ltd., and Manville Corporation Asbestos Disease Compensation Fund, Appellees",
+  "name_abbreviation": "Jones v. Keene Corp.",
+  "decision_date": "1991-05-21",
+  "docket_number": "No. 90-5364",
+  "first_page": "209",
+  "last_page": "215",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "933 F.2d 209"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "3d Cir.",
+    "id": 8840,
+    "name": "United States Court of Appeals for the Third Circuit"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "102 Stat. 4642",
+      "category": "laws:leg_session",
+      "reporter": "Stat.",
+      "weight": 2,
+      "opinion_index": 0
+    },
+    {
+      "cite": "402 U.S. 637",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11735156
+      ],
+      "weight": 3,
+      "year": 1971,
+      "pin_cites": [
+        {
+          "page": "652",
+          "parenthetical": "holding that a debt discharged in a federal bankruptcy proceeding could not be protected by state law"
+        },
+        {
+          "page": "1712",
+          "parenthetical": "holding that a debt discharged in a federal bankruptcy proceeding could not be protected by state law"
+        },
+        {
+          "parenthetical": "holding that a debt discharged in a federal bankruptcy proceeding could not be protected by state law"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/402/0637-01"
+      ]
+    },
+    {
+      "cite": "11 U.S.C.A. \u00a7 1141",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "year": 1990,
+      "pin_cites": [
+        {
+          "page": "(a)"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "11 U.S.C.A. \u00a7 101",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "weight": 2,
+      "year": 1979,
+      "pin_cites": [
+        {
+          "page": "(4)"
+        },
+        {
+          "page": "(5)"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "36 B.R. 743",
+      "category": "reporters:specialty",
+      "reporter": "B.R.",
+      "case_ids": [
+        6120462
+      ],
+      "year": 1984,
+      "pin_cites": [
+        {
+          "page": "744-45"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/br/36/0743-01"
+      ]
+    },
+    {
+      "cite": "78 B.R. 407",
+      "category": "reporters:specialty",
+      "reporter": "B.R.",
+      "case_ids": [
+        6536504
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/br/78/0407-01"
+      ]
+    },
+    {
+      "cite": "68 B.R. 618",
+      "category": "reporters:specialty",
+      "reporter": "B.R.",
+      "case_ids": [
+        6114075
+      ],
+      "pin_cites": [
+        {
+          "page": "624"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/br/68/0618-01"
+      ]
+    },
+    {
+      "cite": "52 B.R. 940",
+      "category": "reporters:specialty",
+      "reporter": "B.R.",
+      "case_ids": [
+        6120297
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "941"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/br/52/0940-01"
+      ]
+    },
+    {
+      "cite": "843 F.2d 636",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        10545201,
+        6125407
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "639"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/843/0636-01",
+        "/br/84/0636-02"
+      ]
+    },
+    {
+      "cite": "110 S.Ct. 1570",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        5295
+      ],
+      "weight": 2,
+      "year": 1990,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/494/0827-01"
+      ]
+    },
+    {
+      "cite": "865 F.2d 566",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        10528491
+      ],
+      "year": 1989,
+      "pin_cites": [
+        {
+          "page": "570"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/865/0566-01"
+      ]
+    },
+    {
+      "cite": "551 F.2d 918",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        980366
+      ],
+      "year": 1977,
+      "pin_cites": [
+        {
+          "page": "922",
+          "parenthetical": "order that ends the litigation is a final order"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/551/0918-01"
+      ]
+    },
+    {
+      "cite": "28 U.S.C.A. \u00a7 1291",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "year": 1990,
+      "opinion_index": 0
+    },
+    {
+      "cite": "920 F.2d 121",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        6121536,
+        10542180
+      ],
+      "weight": 4,
+      "pin_cites": [
+        {
+          "page": "123"
+        },
+        {
+          "page": "122-23"
+        },
+        {
+          "page": "123-24"
+        },
+        {
+          "page": "124"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/br/121/0121-01",
+        "/f2d/920/0121-01"
+      ]
+    },
+    {
+      "cite": "120 B.R. 648",
+      "category": "reporters:specialty",
+      "reporter": "B.R.",
+      "case_ids": [
+        6111511
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "652"
+        },
+        {
+          "page": "652"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/br/120/0648-01"
+      ]
+    },
+    {
+      "cite": "11 U.S.C.A. \u00a7\u00a7 1101-1174",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "pin_cites": [
+        {
+          "parenthetical": "West 1979 & Supp.1990"
+        }
+      ],
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 1014,
+    "char_count": 21966,
+    "ocr_confidence": 0.781,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.23535619258111187
+    },
+    "sha256": "4b7e00d65008aebc80a7531f0b80bb1525a081c18a79aedcb81defb027956da2",
+    "simhash": "1:f56ee133b877c78d",
+    "word_count": 3512
+  },
+  "last_updated": "2024-02-27T20:17:01.570520+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before BECKER and HUTCHINSON, Circuit Judges, and ATKINS, District Judge ."
+    ],
+    "parties": [
+      "Agnes JONES and Raymond Jones, Appellants, v. KEENE CORPORATION, Keene Corporation, successor to Baldwin Hill Co., Ehret Magnesia Manufacturing Co., Baldwin Ehret Hill, Inc. and Keene Building Products, Eagle-Picher Industries, Inc., Garlock, Inc., Raymark Industries, Inc., Individually and as successor to Raybestos Manhattan, Inc., Raymark Corporation, Individually and as successor to Raybestos Manhattan, Inc., Raytech Composites, Inc., Celotex Corporation, Celotex Corporation, successor to the Philip Carey Corporation, Philip Carey Company, Inc., Xpru Corporation, Briggs Manufacturing Company, Panacon Corporation and Smith and Kanzler, Inc., Owens-Illinois Glass Company, Owens-Corning Fiberglas, U.S. Gypsum Company, GAF Corporation, GAF Corporation, successor to The Ruberoid Company, Atlas Turner, Inc., formerly known as Atlas Asbestos Company, Babcock and Wilcox Co., Individually and as successor to B & W Refractories Limited, Standard Refractories Limited, and Holmes Blunt, Ltd., The Flintkote Company, The Anchor Packing Company, Condenser Specialities and Repairs, Inc., Condenser Specialties and Repairs, Inc., successor to Condenser Service and Engineering, Fibreboard Corporation, successor to Fibreboard Paper Products Corporation, Pabco Products, Inc., and Plant Rubber & Asbestos Works, Inc., United Conveyor Corporation, A.P. Green Refractories, Inc., Individually and as successor to A.P. Green Fire Brick Company, Metropolitan Refractories Co., Quigley Co., Inc., General Electric Company, Worthington Corporation, Diamond Power Specialty Company, Inc., Arcy Manufacturing Company, Inc., Metallo Gasket Company, Flexitallic Gasket Company, Inc., Combustion Engineering, Inc., Individually and as successor to M.H. Detrick Company, Walsh Refractory Corporation and Refractory and Insulation Corporation, now known as C & E Refractories, Alltite Gasket Company, Empire Ace Insulation Mfg. Corp., Individually and as successor to Empire Asbestos Co. and Ace Asbestos Co., Ingersoll-Rand, Turner & Newall, Ltd., and Manville Corporation Asbestos Disease Compensation Fund, Appellees."
+    ],
+    "opinions": [
+      {
+        "text": "OPINION OF THE COURT\nHUTCHINSON, Circuit Judge.\nRaymond Jones (Raymond) and his wife Agnes Jones (collectively \u201cthe Joneses\u201d) appeal from the district court\u2019s denial of post-judgment interest on the portion of their asbestos-disease award due them from the Manville Corporation Asbestos Disease Fund (the Fund). The Joneses had won a $20,000.00 verdict. The Fund was responsible for $5000.00. We will affirm the district court\u2019s decision.\nI.\nThe Joneses filed suit against numerous defendants on January 18, 1989, in the United States District Court for the Middle District of Pennsylvania for damages resulting from an asbestos-related disease that Raymond suffers from. The Fund was brought into the litigation as a third-party defendant on March 23, 1989. At the start of trial, the only defendants that had not settled with or been voluntarily dismissed from the Joneses' action were the Fund and Celotex Corporation (Celotex). After a jury trial, a verdict in favor of the Joneses in the amount of $20,000.00 was given on special interrogatories against the Fund, Celotex and two defendants who had previously settled with the Joneses, Owens-Corning Fiberglas Corporation and Combustion Engineering, Incorporated. Celotex also settled with the Joneses shortly after trial. The Fund was responsible for $5000.00 of the judgment which was filed on February 13, 1990.\nOn February 28, 1990, recognizing that it was liable for post-judgment interest under Pennsylvania law, the Fund filed a Motion to Alter or Amend the Judgment, pursuant to Federal Rules of Civil Procedure 59(e) and 60(b)(6). Over the Joneses\u2019 opposition, the Fund claimed that the Second Amended and Restated Plan of Reorganization of Manville (the Plan) precluded an award of post-judgment interest. The district court granted the Fund's motion and ordered that the \u201cFund shall not be liable for post-judgment interest on its $5,000.00 share of the judgment.\u201d Appendix (App.) at 88.\nThe Joneses moved for reconsideration of the Order Amending Judgment. The district court denied the motion and the Joneses then filed this timely appeal.\nII.\nOn August 26, 1982, Johns-Manville Corporation and fourteen related entities (collectively \u201cManville\u201d) filed petitions for reorganization under Chapter 11 of the Bankruptcy Code, 11 U.S.C.A. \u00a7\u00a7 1101-1174 (West 1979 & Supp.1990), in the United States Bankruptcy Court for the Southern District of New York. On December 22, 1986, the bankruptcy court confirmed the Plan. In re Joint Eastern and Southern Districts Asbestos Litigation, 120 B.R. 648, 652 (E.D.N.Y and S.D.N.Y.1990) [hereinafter Asbestos Litigation ]. On January 23, 1987, while the order confirming the Plan was on appeal, Raymond was diagnosed with an asbestos-related disease. The Confirmation Date, the date on which the order confirming the Plan became final, was October 28, 1988.\nThe assumptions on which the Fund was created have proven wrong. It has failed its purpose and its recent performance is particularly alarming.\nIt was assumed that the [Fund] would have adequate funds to satisfy all asbestos health claims as they became liquidated if the process occurred over a period of time coinciding with the Plan\u2019s long-term funding provisions. In fact, the number of claims, the rate at which they were filed and their average liquidated value far exceeded the projected amounts. For example, as of March 30, 1990, the [Fund] had received more than 150,000 claims, a fifty percent increase over the highest number estimated when the Plan was approved. The [Fund] has settled 22,386 of those claims at an average liquidated value of $42,000 \u2014 far above the predicted average \u2014 leaving roughly 130,000 claims pending. The cost of satisfying those claims is anticipated to exceed by fifty percent the value Manville had extrapolated from its earlier pre-petition experience. By the Spring of 1990, the [Fund] was effectively out of money to pay its current and short term obligations.\nAsbestos Litigation, 120 B.R. at 652. Besides the Fund, which was established to satisfy asbestos-related personal injury claims against Manville, a second trust was established to \u201cresolve asbestos-related property damages claims against [Man-ville].\u201d In re Johns Manville Corp., 920 F.2d 121, 123 (2d Cir.1990). The facility that was established to process property damage claims will be closed on October 31, 1992, id. at 122-23, because it needs an influx of funds from Manville and that influx will not be available until the Fund no longer needs Manville funds to pay its claims, id. at 123-24. It is believed that the Fund may require additional Manville funds until the year 2024. Id. at 124. Because of Manville\u2019s overwhelming fiscal difficulties, the Joneses have no prospect of immediate payment of the Fund\u2019s share of their judgment.\nIII.\nThe jurisdiction of the district court was based on the diverse citizenship of the parties and the Joneses\u2019 allegation of the required jurisdictional amount. See 28 U.S. C.A. \u00a7 1332(a)(1) (West Supp.1990). The Joneses are citizens of Pennsylvania. None of the defendants are citizens of that state. The Joneses alleged that the amount in controversy was in excess of $150,000.00. We have jurisdiction to review the district court decision because the disposition of the motion for reconsideration was a final order. See 28 U.S.C.A. \u00a7 1291 (West Supp.1990); see also Richerson v. Jones, 551 F.2d 918, 922 (3d Cir. 1977) (order that ends the litigation is a final order).\nThe issue the Joneses raise concerning the award of post-judgment interest is a legal one. Our scope of review is plenary. See Bonjorno v. Kaiser Aluminum & Chem. Corp., 865 F.2d 566, 570 (3d Cir. 1989), rev\u2019d in part on other grounds, \u2014 U.S. -, 110 S.Ct. 1570, 108 L.Ed.2d 842 (1990).\nIV.\nThe Joneses\u2019 basic contention is that any restriction on the payment of interest in the Plan does not apply to their claim. They begin by noting that Pennsylvania law provides for post-verdict interest. See 42 Pa.Con.Stat.Ann. \u00a7 8101 (Purdon 1982). They first identify their cause of action as a \u201cfuture claim.\u201d They imply the term \u201cfuture claim\u201d into the Plan\u2019s text and, apparently defining \u201cfuture\u201d in its common sense, argue that Section 3.4 of the Plan, which bars the payment of post-judgment interest, is not applicable to them because their claim is a \u201cfuture claim\u201d and Section 3.4 does not cover \u201cfuture claims.\u201d They go on to assert that the relevant date for determining whether a claim is a future one is August 26, 1982, the date of the Chapter 11 filing. So defined, their claim, haec verba, becomes a future claim as Raymond was not diagnosed with an asbestos-related disease until early 1987. In support of this proposition they cite Kane v. Johns-Manville Corp., 843 F.2d 636, 639 (2d Cir.1988), In re Johns-Manville Corp., 52 B.R. 940, 941 (S.D.N.Y.1985), In re Johns-Manville Corp., 68 B.R. 618, 624 (Bankr.S.D.N.Y.1986), aff'd in part, 78 B.R. 407 (S.D.N.Y.1987), aff'd sub nom. Kane v. Johns-Manville Corp., 843 F.2d 636 (2d Cir.1988) and In re Johns-Manville Corp., 36 B.R. 743, 744-45 (Bankr.S.D.N.Y. 1984), aff'd, 52 B.R. 940 (S.D.N.Y.1985).\nIn the alternative, the Joneses argue that Section 3.4 is ambiguous and as such should be construed against the drafter of the Plan. The ambiguities they see are whether the word \u201cinterest\u201d includes post-judgment interest and whether the phrase \u201cwith respect to interest\u201d is modified so that it applies only to interest accruing before the consummation of the Plan. Their interpretations would exclude post-judgment interest from the Plan's ban on interest and therefore exclude their claim from the section banning interest because they believe the Plan\u2019s restriction on interest ended when the Plan was consummated, an event that occurred before they filed their suit.\nThe Fund\u2019s argument is straightforward. It starts by identifying the Joneses\u2019 inappropriate use of the term \u201cfuture claim\u201d and then alternatively identifies their cause of action as an \u201cAsbestos Health\u201d Claim under the Plan. An Asbestos Health Claim is categorized as a Class 4 Claim and the plain language of Section 3.4 of the Plan states that \u201c[n]o amounts shall be paid to the holders of Class 4 Claims with respect to interest after the Filing Date.\u201d Second Amended & Restated Plan of Reorg. of Manville at M-96 (Bankr. S.D.N.Y. Aug. 22, 1986) [hereinafter Reorg. Plan] reprinted in App. at 217. Because the Plan prohibits the assessment of interest on a judgment rendered against the Fund and the Plan supersedes state law by virtue of the Supremacy Clause, the Fund concludes that the Joneses are not entitled to post-judgment interest.\nIn deciding this case, we must first determine if the Joneses\u2019 claim is covered by the Plan. If it is, we must then determine what restrictions the Plan places on the awarding of post-judgment interest. The first question requires consideration of the meaning of the term \u201cClaim\u201d as used in the Plan.\nWe begin our analysis by examining the broad definition of the term \u201cclaim\u201d in the Bankruptcy Code. In bankruptcy practice, the term claim means:\n(A) right to payment, whether or not such right is reduced to judgment, liquidated, unliquidated, fixed, contingent, matured, unmatured, disputed, undisputed legal, equitable, secured, or unsecured; or\n(B) right to an equitable remedy for breach of performance if such breach gives rise to a right to payment, whether or not such right to an equitable remedy is reduced to judgment, fixed, contingent, matured, unmatured, disputed, undisputed, secured, or unsecured[.]\n11 U.S.C.A. \u00a7 101(4) (West 1979) (recodified at 11 U.S.C.A. \u00a7 101(5) (West Supp.1991)). The Code\u2019s definition is of special importance because it was incorporated into the definition of \u201cClaim\u201d in the Plan. The relevant portion of the definition of \u201cClaim\u201d in the Plan is:\n[A] claim against one or more of the Debtors within the meaning of Section 101(4) of the Code that arose prior to the Confirmation Date....\nReorg. Plan at M-146, reprinted in App. at 233.\nComparing these two definitions, it is clear that the Joneses\u2019 claim, brought against the Fund as a cross-claim, is covered by the Plan. Their action is a claim under the Code because it is a disputed legal right to the payment of money. Thus, it is also a Claim under the Plan as long as it meets the two additional criteria in the Plan\u2019s definition: (1) the claim is brought against the Debtor; and (2) the claim arose prior to the Confirmation Date. The first of these requirements is met because the claim was brought against the Fund via cross-claim. The second requirement is also met because the claim arose on January 23, 1987, when Jones was diagnosed with an asbestos-related disease, over twenty-one months before the October 28, 1988 Confirmation Date. Therefore, the Joneses\u2019 suit is covered by the Plan.\nHaving established that the Joneses\u2019 action is subject to the limitations of the Plan, we now determine within what classification of Claims it falls. Under the Plan, Asbestos Health Claims are:\n[A]ll claims (under any theory of law, equity, or admiralty) for death, personal injuries or personal damages (whether physical, emotional or otherwise) to the extent caused or allegedly caused, directly or indirectly, by exposure to asbestos (alone or as contained in asbestos-containing products) and arising or allegedly arising, directly or indirectly, from acts or omissions ... of one or more of the Debtors....\nReorg. Plan at M-144, reprinted in App. at 231. Raymond\u2019s illness was a personal injury that resulted from exposure to products manufactured by the Debtor (Man-ville). As such it was an Asbestos Health Claim. The Plan subsequently classifies all Asbestos Health Claims as Class 4 Claims. In fact, before the district court, the Jones-es themselves admitted that their claim was a Class 4 Claim.\nWe now must determine whether Class 4 Claims are entitled to post-judgment interest. This also requires us to parse the language of the Plan, specifically Section 3.4.\nSection 3.4 outlines the extent to which Class 4 Claims are impaired. In relevant part it reads:\nNo amounts shall be paid to the holders of Class 4 Claims with respect to interest after the Filing Date....\nReorg. Plan at M-96, reprinted in App. at 217. It is in the phrase \u201cafter the Filing Date\u201d that the Joneses see an ambiguity. They argue it leaves an ambiguity as to whether the restriction on interest is to continue in perpetuity after the Filing Date or only until the reorganization was consummated in November of 1988.\nWe do not share the double vision of the Joneses. The language of Section 3.4 prohibits the payment of interest after the Filing Date. The filing date was August 26, 1982. Neither the language concerning interest nor that concerning the Filing Date is modified. Thus, that section prohibits the payment of any interest to Class 4 claimants after August 26, 1982.\nThe Plan\u2019s restriction on interest does squarely conflict with the Pennsylvania post-judgment interest statute which would grant interest in this case. See 42 Pa.Cons.Stat.Ann. \u00a7 8101. However, it is the Plan that controls. Under the Bankruptcy Code, \u201cthe provisions of a confirmed plan bind the debtor ... and any creditor....\u201d 11 U.S.C.A. \u00a7 1141(a) (West Supp. 1990). If a provision of the Plan, a creature of federal law, conflicts with the law of a state and the state law \u201cfrustrates the full effectiveness of federal law [the state law] is rendered invalid by the Supremacy Clause.\u201d Perez v. Campbell, 402 U.S. 637, 652, 91 S.Ct. 1704, 1712, 29 L.Ed.2d 233 (1971) (holding that a debt discharged in a federal bankruptcy proceeding could not be protected by state law). Pennsylvania law in conflict with the Plan cannot be applied. Here the conflict is stark: while the Plan prohibits post-judgment interest, Pennsylvania law would allow it. Accordingly, the Plan precludes application of the state law and governs the Joneses\u2019 claim to prohibit post-judgment interest.\nWe recognize the seeming harshness of this result. It deprives all asbestos sufferers who have claims against the Fund of interest while they wait for the Fund to accumulate monies to pay them. The Joneses\u2019 loss is, however, no greater than that of any person who has a claim against someone who is unable to pay. Indeed, a common result of bankruptcy is a conversion of the bankrupt\u2019s creditors\u2019 present rights to payment to speculative paper promises of future payment. The problem the Joneses face results from the inaccuracy of the assumptions the draftsmen of the Manville Plan made about the number, size and rate of the asbestos-related claims outstanding against Johns-Manville and the acceptance of those assumptions by the Bankruptcy Court that confirmed the Plan and so created the Fund. Because these assumptions failed, the Fund is incapable of paying the Joneses\u2019 claim now. If interest accrues on that claim while the Joneses and others are waiting for the Fund itself to accrue enough income to pay them off, the Fund may never be able to meet future claims. This unhappy state of affairs is a product of the difficulties inherent in predicting the value the legal system will assign to asbestos-disease related claims as yet unreported and unknown. The Plan from which the Fund arose was confirmed in the belief that it could pay claims for asbestos-related disease as they came due, or that at the worst, there would be short delays in making payment of legitimate claims and therefore any interest restriction would not create serious problems. That belief has been proven unfounded. The Joneses and other claimants awaiting payment are the unfortunate losers.\nV.\nWe conclude that the terms of the Plan cover the Joneses\u2019 Claim. We also conclude that the district court correctly decided that the Joneses may not recover post-judgment interest under the Plan. Therefore, we will affirm the district court\u2019s decision.\n. The amount in controversy requirement applicable to the Joneses\u2019 case is $10,000.00 because it was filed prior to May 18, 1989. See Judicial Improvements And Access To Justice Act, Pub.L. No. 100-702 \u00a7 201, 102 Stat. 4642, 4646 (1988).\n. The Joneses initially argued that the Fund had waived any argument barring the application of post-judgment interest because it filed its Motion to Alter or Amend the Judgment in an untimely manner. They maintained that the motion was due on February 26, 1990, but was dated the 27th and not filed until the 28th.\nThis argument lacks merit. Federal Rule of Civil Procedure 59(e) allows \"[a] motion to alter or amend the judgment [to] be served not later than 10 days after the entry of the judgment.\u201d Because judgment was entered on the 13th of February (App. at 61) we begin counting the ten days on February 14 which was a Wednesday. See Fed.R.Civ.P. 59(e). We must remember that when a period of time for filing \"is less than 11 days, intermediate Saturdays, Sundays, and legal holidays shall be excluded in the computation.\" Fed.R.Civ.P. 6(a). Washington\u2019s Birthday is such a holiday. Id.\nThe first three days, the 14th through the 16th, take us to a weekend, the 17th and 18th. Excluding those two days and Monday the 19th because it was Washington's Birthday, we resume counting on the 20th. Counting the 20th through the 23rd brings the total to seven days as we reach another weekend, the 24th and 25th. Thus, our last three days are the 26th, 27th and 28th and the Fund\u2019s motion, filed on the 28th, was clearly timely.\n. Under the terms of the Plan, the Consummation Date is:\nthe thirtieth day after the day on which the Confirmation Order becomes a Final Order, unless such thirtieth day is not a Business Day in which case the Consummation Date shall be the first Business Day after such thirtieth day, provided that in no event shall the Consummation Date occur prior to January 1, 1987.\nSecond Amended & Restated Plan of Reorg. of Manville at M-147 (Bankr. S.D.N.Y. Aug. 22, 1986) [hereinafter Reorg. Plan], reprinted in App. at 234.\n. When capitalized, a term takes on the special meaning assigned to it in the glossary of the Plan. App. at 230. Thus, \"claim\u201d would refer to that term as defined in the Bankruptcy Code while \"Claim\u201d would refer to that term as defined in the glossary.\n. The Joneses see a number of other ambiguities that rest on their characterization of their claim as a \"future claim.\u201d This term is neither included in the Plan nor defined in the glossary. Their action falls squarely under the definition of the defined term \"Claim.\u201d We therefore reject those other arguments. At oral argument, for the first time, the Joneses contended that the Manville Fund's broad definition of \u00a7 101(5)\u2019s term \"claim\u201d violates due process. That issue was never briefed, and it would be inappropriate for us to consider it here. We note that no court, to our knowledge, has held that due process is offended if a claimant who has both suffered symptoms of an asbestos related injury and been diagnosed as having such an injury before final confirmation of the Manville plan is deemed to have a \"claim\u201d under \u00a7 101(5) subject to the plan of reorganization.",
+        "type": "majority",
+        "author": "HUTCHINSON, Circuit Judge."
+      }
+    ],
+    "attorneys": [
+      "Gene Locks (argued), Martin Greitzer, Jonathan W. Miller, and Michael B. Leh, Greitzer & Locks, Philadelphia, Pa., for appellants.",
+      "R. Bruce Morrison, Marshall, Dennehey, Warner, Coleman & Goggin, Philadelphia, Pa., and George R. Kucik and Joel D. Rubin (argued), Arent, Fox, Kintner, Plot-kin & Kahn, Washington, D.C., for appellee Manville Corp. Asbestos Disease Compensation Fund."
+    ],
+    "corrections": "",
+    "head_matter": "Agnes JONES and Raymond Jones, Appellants, v. KEENE CORPORATION, Keene Corporation, successor to Baldwin Hill Co., Ehret Magnesia Manufacturing Co., Baldwin Ehret Hill, Inc. and Keene Building Products, Eagle-Picher Industries, Inc., Garlock, Inc., Raymark Industries, Inc., Individually and as successor to Raybestos Manhattan, Inc., Raymark Corporation, Individually and as successor to Raybestos Manhattan, Inc., Raytech Composites, Inc., Celotex Corporation, Celotex Corporation, successor to the Philip Carey Corporation, Philip Carey Company, Inc., Xpru Corporation, Briggs Manufacturing Company, Panacon Corporation and Smith and Kanzler, Inc., Owens-Illinois Glass Company, Owens-Corning Fiberglas, U.S. Gypsum Company, GAF Corporation, GAF Corporation, successor to The Ruberoid Company, Atlas Turner, Inc., formerly known as Atlas Asbestos Company, Babcock and Wilcox Co., Individually and as successor to B & W Refractories Limited, Standard Refractories Limited, and Holmes Blunt, Ltd., The Flintkote Company, The Anchor Packing Company, Condenser Specialities and Repairs, Inc., Condenser Specialties and Repairs, Inc., successor to Condenser Service and Engineering, Fibreboard Corporation, successor to Fibreboard Paper Products Corporation, Pabco Products, Inc., and Plant Rubber & Asbestos Works, Inc., United Conveyor Corporation, A.P. Green Refractories, Inc., Individually and as successor to A.P. Green Fire Brick Company, Metropolitan Refractories Co., Quigley Co., Inc., General Electric Company, Worthington Corporation, Diamond Power Specialty Company, Inc., Arcy Manufacturing Company, Inc., Metallo Gasket Company, Flexitallic Gasket Company, Inc., Combustion Engineering, Inc., Individually and as successor to M.H. Detrick Company, Walsh Refractory Corporation and Refractory and Insulation Corporation, now known as C & E Refractories, Alltite Gasket Company, Empire Ace Insulation Mfg. Corp., Individually and as successor to Empire Asbestos Co. and Ace Asbestos Co., Ingersoll-Rand, Turner & Newall, Ltd., and Manville Corporation Asbestos Disease Compensation Fund, Appellees.\nNo. 90-5364.\nUnited States Court of Appeals, Third Circuit.\nArgued Jan. 24, 1991.\nDecided May 21, 1991.\nGene Locks (argued), Martin Greitzer, Jonathan W. Miller, and Michael B. Leh, Greitzer & Locks, Philadelphia, Pa., for appellants.\nR. Bruce Morrison, Marshall, Dennehey, Warner, Coleman & Goggin, Philadelphia, Pa., and George R. Kucik and Joel D. Rubin (argued), Arent, Fox, Kintner, Plot-kin & Kahn, Washington, D.C., for appellee Manville Corp. Asbestos Disease Compensation Fund.\nBefore BECKER and HUTCHINSON, Circuit Judges, and ATKINS, District Judge .\nHon. C. Clyde Atkins, Senior District Judge of the United States District Court for the Southern District of Florida, sitting by designation."
+  },
+  "file_name": "0209-01",
+  "first_page_order": 307,
+  "last_page_order": 313
+}

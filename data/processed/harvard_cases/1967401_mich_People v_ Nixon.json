@@ -1,0 +1,853 @@
+{
+  "id": 1967401,
+  "name": "PEOPLE v. NIXON",
+  "name_abbreviation": "People v. Nixon",
+  "decision_date": "1984-12-28",
+  "docket_number": "Docket No. 71862",
+  "first_page": "79",
+  "last_page": "92",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "421 Mich. 79"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Mich.",
+    "id": 8790,
+    "name": "Michigan Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 49,
+    "name_long": "Michigan",
+    "name": "Mich."
+  },
+  "cites_to": [
+    {
+      "cite": "337 NW2d 33",
+      "category": "reporters:state_regional",
+      "reporter": "N.W.2d",
+      "year": 1983,
+      "opinion_index": -1
+    },
+    {
+      "cite": "125 Mich App 807",
+      "category": "reporters:state",
+      "reporter": "Mich. App.",
+      "case_ids": [
+        2226041
+      ],
+      "year": 1983,
+      "opinion_index": -1,
+      "case_paths": [
+        "/mich-app/125/0807-01"
+      ]
+    },
+    {
+      "cite": "92 ALR3d 442",
+      "category": "reporters:specialty",
+      "reporter": "A.L.R. 3d",
+      "opinion_index": -1
+    },
+    {
+      "cite": "415 Mich 615",
+      "category": "reporters:state",
+      "reporter": "Mich.",
+      "case_ids": [
+        1976713
+      ],
+      "weight": 2,
+      "year": 1982,
+      "opinion_index": -1,
+      "case_paths": [
+        "/mich/415/0615-01"
+      ]
+    },
+    {
+      "cite": "459 US 860",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6357505,
+        6357250,
+        6355681,
+        6357030,
+        6355470,
+        6356435,
+        6355062,
+        6356790,
+        6356250,
+        6356091,
+        6357758,
+        6356607
+      ],
+      "year": 1982,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/459/0860-11",
+        "/us/459/0860-10",
+        "/us/459/0860-03",
+        "/us/459/0860-09",
+        "/us/459/0860-02",
+        "/us/459/0860-06",
+        "/us/459/0860-01",
+        "/us/459/0860-08",
+        "/us/459/0860-05",
+        "/us/459/0860-04",
+        "/us/459/0860-12",
+        "/us/459/0860-07"
+      ]
+    },
+    {
+      "cite": "459 NYS2d 540",
+      "category": "reporters:state",
+      "reporter": "N.Y.S.2d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "86 Mich App 728",
+      "category": "reporters:state",
+      "reporter": "Mich. App.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "273 NW2d 539",
+      "category": "reporters:state_regional",
+      "reporter": "N.W.2d",
+      "year": 1978,
+      "pin_cites": [
+        {
+          "parenthetical": "statements made by a defendant while under hypnosis are inadmissible to prove the truth of the matters asserted therein or to bolster his credibility"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "86 Mich App 718",
+      "category": "reporters:state",
+      "reporter": "Mich. App.",
+      "case_ids": [
+        2183514
+      ],
+      "weight": 2,
+      "year": 1978,
+      "pin_cites": [
+        {
+          "parenthetical": "statements made by a defendant while under hypnosis are inadmissible to prove the truth of the matters asserted therein or to bolster his credibility"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mich-app/86/0718-01"
+      ]
+    },
+    {
+      "cite": "459 NYS2d 528",
+      "category": "reporters:state",
+      "reporter": "N.Y.S.2d",
+      "year": 1983,
+      "pin_cites": [
+        {
+          "page": "543"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "117 Misc 2d 737",
+      "category": "reporters:state",
+      "reporter": "Misc. 2d",
+      "case_ids": [
+        806597
+      ],
+      "weight": 2,
+      "year": 1983,
+      "opinion_index": 0,
+      "case_paths": [
+        "/misc2d/117/0737-01"
+      ]
+    },
+    {
+      "cite": "137 Cal App 3d 352",
+      "category": "reporters:state",
+      "reporter": "Cal. App. 3d",
+      "year": 1983,
+      "opinion_index": 0
+    },
+    {
+      "cite": "59 NY2d 546",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "132 Ariz 210",
+      "category": "reporters:state",
+      "reporter": "Ariz.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "31 Cal 3d 66",
+      "category": "reporters:state",
+      "reporter": "Cal. 3d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "684 P2d 651",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1984,
+      "pin_cites": [
+        {
+          "page": "656"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "101 Wash 2d 713",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        1139559
+      ],
+      "year": 1984,
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/101/0713-01"
+      ]
+    },
+    {
+      "cite": "294 Pa Super 171",
+      "category": "reporters:state",
+      "reporter": "Pa. Super.",
+      "case_ids": [
+        178391
+      ],
+      "weight": 2,
+      "year": 1982,
+      "pin_cites": [
+        {
+          "page": "175"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa-super/294/0171-01"
+      ]
+    },
+    {
+      "cite": "82 L Ed 2d 831",
+      "category": "reporters:federal",
+      "reporter": "L. Ed. 2d",
+      "year": 1984,
+      "opinion_index": 0
+    },
+    {
+      "cite": "104 S Ct 3524",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "year": 1984,
+      "opinion_index": 0
+    },
+    {
+      "cite": "677 P2d 1080",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "case_ids": [
+        10428174
+      ],
+      "year": 1984,
+      "pin_cites": [
+        {
+          "page": "1085"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/p2d/677/1080-01"
+      ]
+    },
+    {
+      "cite": "319 SE2d 188",
+      "category": "reporters:state_regional",
+      "reporter": "S.E.2d",
+      "year": 1984,
+      "opinion_index": 0
+    },
+    {
+      "cite": "453 NE2d 484",
+      "category": "reporters:state_regional",
+      "reporter": "N.E.2d",
+      "year": 1983,
+      "opinion_index": 0
+    },
+    {
+      "cite": "466 NYS2d 255",
+      "category": "reporters:state",
+      "reporter": "N.Y.S.2d",
+      "year": 1983,
+      "opinion_index": 0
+    },
+    {
+      "cite": "59 NY2d 523",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        4391040
+      ],
+      "weight": 2,
+      "year": 1983,
+      "pin_cites": [
+        {
+          "page": "544"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/59/0523-01"
+      ]
+    },
+    {
+      "cite": "213 Neb 686",
+      "category": "reporters:state",
+      "reporter": "Neb.",
+      "case_ids": [
+        2981501
+      ],
+      "weight": 2,
+      "year": 1983,
+      "pin_cites": [
+        {
+          "page": "690"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/neb/213/0686-01"
+      ]
+    },
+    {
+      "cite": "312 NW2d 110",
+      "category": "reporters:state_regional",
+      "reporter": "N.W.2d",
+      "case_ids": [
+        10677024
+      ],
+      "year": 1983,
+      "opinion_index": 0,
+      "case_paths": [
+        "/nw2d/312/0110-01"
+      ]
+    },
+    {
+      "cite": "447 NE2d 1193",
+      "category": "reporters:state_regional",
+      "reporter": "N.E.2d",
+      "year": 1983,
+      "opinion_index": 0
+    },
+    {
+      "cite": "464 A2d 1028",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "year": 1983,
+      "opinion_index": 0
+    },
+    {
+      "cite": "296 Md 670",
+      "category": "reporters:state",
+      "reporter": "Md.",
+      "case_ids": [
+        1987811
+      ],
+      "year": 1983,
+      "pin_cites": [
+        {
+          "page": "702"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/md/296/0670-01"
+      ]
+    },
+    {
+      "cite": "659 P2d 710",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "case_ids": [
+        10430569
+      ],
+      "year": 1982,
+      "pin_cites": [
+        {
+          "page": "711"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/p2d/659/0710-01"
+      ]
+    },
+    {
+      "cite": "644 P2d 1295",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1982,
+      "opinion_index": 0
+    },
+    {
+      "cite": "132 Ariz 209",
+      "category": "reporters:state",
+      "reporter": "Ariz.",
+      "year": 1982,
+      "opinion_index": 0
+    },
+    {
+      "cite": "415 Mich 627",
+      "category": "reporters:state",
+      "reporter": "Mich.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "415 Mich 626",
+      "category": "reporters:state",
+      "reporter": "Mich.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "132 Ariz 189",
+      "category": "reporters:state",
+      "reporter": "Ariz.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "395 US 213",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        1772012
+      ],
+      "weight": 3,
+      "year": 1969,
+      "pin_cites": [
+        {
+          "page": "218"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/395/0213-01"
+      ]
+    },
+    {
+      "cite": "125 Ariz 547",
+      "category": "reporters:state",
+      "reporter": "Ariz.",
+      "case_ids": [
+        1597296
+      ],
+      "weight": 2,
+      "year": 1980,
+      "opinion_index": 0,
+      "case_paths": [
+        "/ariz/125/0547-01"
+      ]
+    },
+    {
+      "cite": "128 Ariz 226",
+      "category": "reporters:state",
+      "reporter": "Ariz.",
+      "case_ids": [
+        1534510
+      ],
+      "weight": 2,
+      "year": 1981,
+      "opinion_index": 0,
+      "case_paths": [
+        "/ariz/128/0226-01"
+      ]
+    },
+    {
+      "cite": "312 NW2d 108",
+      "category": "reporters:state_regional",
+      "reporter": "N.W.2d",
+      "case_ids": [
+        10676998
+      ],
+      "weight": 2,
+      "year": 1981,
+      "pin_cites": [
+        {
+          "page": "110"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/nw2d/312/0108-01"
+      ]
+    },
+    {
+      "cite": "319 SE2d 177",
+      "category": "reporters:state_regional",
+      "reporter": "S.E.2d",
+      "year": 1984,
+      "pin_cites": [
+        {
+          "page": "188-189"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "311 NC 515",
+      "category": "reporters:state",
+      "reporter": "N.C.",
+      "case_ids": [
+        4685492
+      ],
+      "weight": 2,
+      "year": 1984,
+      "opinion_index": 0,
+      "case_paths": [
+        "/nc/311/0515-01"
+      ]
+    },
+    {
+      "cite": "447 NE2d 1190",
+      "category": "reporters:state_regional",
+      "reporter": "N.E.2d",
+      "year": 1983,
+      "pin_cites": [
+        {
+          "page": "1198"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "388 Mass 519",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "case_ids": [
+        911058
+      ],
+      "weight": 2,
+      "year": 1983,
+      "opinion_index": 0,
+      "case_paths": [
+        "/mass/388/0519-01"
+      ]
+    },
+    {
+      "cite": "183 Cal Rptr 498",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr.",
+      "year": 1982,
+      "opinion_index": 0
+    },
+    {
+      "cite": "132 Cal App 3d 920",
+      "category": "reporters:state",
+      "reporter": "Cal. App. 3d",
+      "case_ids": [
+        2086889
+      ],
+      "year": 1982,
+      "pin_cites": [
+        {
+          "page": "923-926"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-app-3d/132/0920-01"
+      ]
+    },
+    {
+      "cite": "187 Cal Rptr 505",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr.",
+      "year": 1982,
+      "opinion_index": 0
+    },
+    {
+      "cite": "137 Cal App 3d 346",
+      "category": "reporters:state",
+      "reporter": "Cal. App. 3d",
+      "case_ids": [
+        2097405
+      ],
+      "weight": 2,
+      "year": 1982,
+      "pin_cites": [
+        {
+          "page": "350-353"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-app-3d/137/0346-01"
+      ]
+    },
+    {
+      "cite": "74 L Ed 2d 114",
+      "category": "reporters:federal",
+      "reporter": "L. Ed. 2d",
+      "year": 1982,
+      "opinion_index": 0
+    },
+    {
+      "cite": "103 S Ct 133",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "year": 1982,
+      "opinion_index": 0
+    },
+    {
+      "cite": "641 P2d 775",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1982,
+      "opinion_index": 0
+    },
+    {
+      "cite": "181 Cal Rptr 243",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr.",
+      "year": 1982,
+      "opinion_index": 0
+    },
+    {
+      "cite": "31 Cal 3d 18",
+      "category": "reporters:state",
+      "reporter": "Cal. 3d",
+      "case_ids": [
+        1980023
+      ],
+      "weight": 2,
+      "year": 1982,
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-3d/31/0018-01"
+      ]
+    },
+    {
+      "cite": "132 Ariz 180",
+      "category": "reporters:state",
+      "reporter": "Ariz.",
+      "case_ids": [
+        741368
+      ],
+      "weight": 4,
+      "year": 1982,
+      "pin_cites": [
+        {
+          "page": "189-191"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ariz/132/0180-01"
+      ]
+    },
+    {
+      "cite": "415 Mich 624",
+      "category": "reporters:state",
+      "reporter": "Mich.",
+      "year": 1982,
+      "opinion_index": 0
+    },
+    {
+      "cite": "187 NW2d 404",
+      "category": "reporters:state_regional",
+      "reporter": "N.W.2d",
+      "year": 1971,
+      "opinion_index": 0
+    },
+    {
+      "cite": "384 Mich 669",
+      "category": "reporters:state",
+      "reporter": "Mich.",
+      "case_ids": [
+        1918499
+      ],
+      "year": 1971,
+      "pin_cites": [
+        {
+          "page": "674"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mich/384/0669-01"
+      ]
+    },
+    {
+      "cite": "388 US 293",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6168284
+      ],
+      "weight": 3,
+      "year": 1967,
+      "pin_cites": [
+        {
+          "page": "297"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/388/0293-01"
+      ]
+    },
+    {
+      "cite": "418 Mich 897",
+      "category": "reporters:state",
+      "reporter": "Mich.",
+      "year": 1983,
+      "opinion_index": 0
+    },
+    {
+      "cite": "330 NW2d 855",
+      "category": "reporters:state_regional",
+      "reporter": "N.W.2d",
+      "year": 1983,
+      "opinion_index": 0
+    },
+    {
+      "cite": "417 Mich 932",
+      "category": "reporters:state",
+      "reporter": "Mich.",
+      "year": 1983,
+      "opinion_index": 0
+    },
+    {
+      "cite": "114 Mich App 237",
+      "category": "reporters:state",
+      "reporter": "Mich. App.",
+      "year": 1983,
+      "opinion_index": 0
+    },
+    {
+      "cite": "318 NW2d 655",
+      "category": "reporters:state_regional",
+      "reporter": "N.W.2d",
+      "year": 1982,
+      "opinion_index": 0
+    },
+    {
+      "cite": "114 Mich App 233",
+      "category": "reporters:state",
+      "reporter": "Mich. App.",
+      "case_ids": [
+        2208988
+      ],
+      "year": 1982,
+      "pin_cites": [
+        {
+          "page": "235-236"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mich-app/114/0233-01"
+      ]
+    },
+    {
+      "cite": "336 NW2d 751",
+      "category": "reporters:state_regional",
+      "reporter": "N.W.2d",
+      "year": 1983,
+      "opinion_index": 0
+    },
+    {
+      "cite": "417 Mich 968",
+      "category": "reporters:state",
+      "reporter": "Mich.",
+      "year": 1983,
+      "opinion_index": 0
+    },
+    {
+      "cite": "329 NW2d 743",
+      "category": "reporters:state_regional",
+      "reporter": "N.W.2d",
+      "weight": 2,
+      "year": 1982,
+      "opinion_index": 0
+    },
+    {
+      "cite": "337 NW2d 33",
+      "category": "reporters:state_regional",
+      "reporter": "N.W.2d",
+      "year": 1983,
+      "opinion_index": 0
+    },
+    {
+      "cite": "125 Mich App 807",
+      "category": "reporters:state",
+      "reporter": "Mich. App.",
+      "case_ids": [
+        2226041
+      ],
+      "year": 1983,
+      "pin_cites": [
+        {
+          "page": "809-810"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mich-app/125/0807-01"
+      ]
+    },
+    {
+      "cite": "92 ALR3d 442",
+      "category": "reporters:specialty",
+      "reporter": "A.L.R. 3d",
+      "pin_cites": [
+        {
+          "page": "\u00a7\u00a7 6-7, pp 455-461"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "415 Mich 615",
+      "category": "reporters:state",
+      "reporter": "Mich.",
+      "case_ids": [
+        1976713
+      ],
+      "weight": 3,
+      "year": 1982,
+      "opinion_index": 0,
+      "case_paths": [
+        "/mich/415/0615-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 1161,
+    "char_count": 26264,
+    "ocr_confidence": 0.824,
+    "pagerank": {
+      "raw": 2.678133261656821e-07,
+      "percentile": 0.8264250155124874
+    },
+    "sha256": "14e7d230bf4c80567f0c90356cca778d7664c54ea19a0f8b940163a9d735227d",
+    "simhash": "1:9e5efac203b6ddfb",
+    "word_count": 4199
+  },
+  "last_updated": "2024-02-27T19:29:49.154056+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "file_name": "0079-01",
+  "first_page_order": 231,
+  "last_page_order": 244
+}

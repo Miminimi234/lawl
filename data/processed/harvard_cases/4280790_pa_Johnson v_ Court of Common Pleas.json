@@ -1,0 +1,47 @@
+{
+  "id": 4280790,
+  "name": "Darren JOHNSON, Petitioner v. COURT OF COMMON PLEAS OF PHILADELPHIA COUNTY, Respondent",
+  "name_abbreviation": "Johnson v. Court of Common Pleas",
+  "decision_date": "2013-11-20",
+  "docket_number": "No. 145 EM 2013",
+  "first_page": "172",
+  "last_page": "173",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "622 Pa. 172"
+    },
+    {
+      "type": "parallel",
+      "cite": "80 A.3d 378"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 48,
+    "char_count": 378,
+    "ocr_confidence": 0.677,
+    "sha256": "7ef1c57e54737d0758a29f28e0011587d6d246d4c84733617a7dee9f069068ab",
+    "simhash": "1:543382bed3d11cef",
+    "word_count": 62
+  },
+  "last_updated": "2023-07-14T18:30:24.877122+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "file_name": "0172-02",
+  "first_page_order": 216,
+  "last_page_order": 217
+}

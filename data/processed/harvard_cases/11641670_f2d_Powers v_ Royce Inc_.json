@@ -1,0 +1,215 @@
+{
+  "id": 11641670,
+  "name": "In re Keith Alan POWERS, Debtor. Keith Alan POWERS, Appellant, v. ROYCE INC., d/b/a Royce Rentals, Appellee",
+  "name_abbreviation": "Powers v. Royce Inc.",
+  "decision_date": "1993-01-07",
+  "docket_number": "No. 92-1678",
+  "first_page": "88",
+  "last_page": "92",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "983 F.2d 88"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "7th Cir.",
+    "id": 9010,
+    "name": "United States Court of Appeals for the Seventh Circuit"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "780 F.2d 1482",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        6123001,
+        1531109
+      ],
+      "pin_cites": [
+        {
+          "page": "1485"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/br/56/1482-01",
+        "/f2d/780/1482-01"
+      ]
+    },
+    {
+      "cite": "946 F.2d 1258",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        10528215
+      ],
+      "pin_cites": [
+        {
+          "page": "1260-1261"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/946/1258-01"
+      ]
+    },
+    {
+      "cite": "88 B.R. 194",
+      "category": "reporters:specialty",
+      "reporter": "B.R.",
+      "case_ids": [
+        11929146
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/br/88/0194-01"
+      ]
+    },
+    {
+      "cite": "863 F.2d 541",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        10528511
+      ],
+      "pin_cites": [
+        {
+          "page": "543"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/863/0541-01"
+      ]
+    },
+    {
+      "cite": "35 B.R. 929",
+      "category": "reporters:specialty",
+      "reporter": "B.R.",
+      "case_ids": [
+        6126950
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/br/35/0929-01"
+      ]
+    },
+    {
+      "cite": "674 F.2d 1139",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        6557258,
+        1150770
+      ],
+      "weight": 4,
+      "year": 1982,
+      "pin_cites": [
+        {
+          "page": "1142-1143"
+        },
+        {
+          "page": "1143"
+        },
+        {
+          "page": "1145"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/br/19/1139-01",
+        "/f2d/674/1139-01"
+      ]
+    },
+    {
+      "cite": "11 U.S.C. \u00a7 101",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "pin_cites": [
+        {
+          "page": "(51)"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "440 U.S. 48",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6179364
+      ],
+      "weight": 3,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/440/0048-01"
+      ]
+    },
+    {
+      "cite": "138 B.R. 916",
+      "category": "reporters:specialty",
+      "reporter": "B.R.",
+      "case_ids": [
+        6508784
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/br/138/0916-01"
+      ]
+    },
+    {
+      "cite": "11 U.S.C. \u00a7 365",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 616,
+    "char_count": 12642,
+    "ocr_confidence": 0.757,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.24217280621379855
+    },
+    "sha256": "075738ce8515caadbeab9c6aaa9f2fcd59cdfecf9ec5ff78fd8914764d375eb8",
+    "simhash": "1:01a98371593d4e42",
+    "word_count": 2043
+  },
+  "last_updated": "2024-02-27T16:11:36.444292+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before CUMMINGS and MANION, Circuit Judges, and WOOD, Jr., Senior Circuit Judge."
+    ],
+    "parties": [
+      "In re Keith Alan POWERS, Debtor. Keith Alan POWERS, Appellant, v. ROYCE INC., d/b/a Royce Rentals, Appellee."
+    ],
+    "opinions": [
+      {
+        "text": "CUMMINGS, Circuit Judge.\nKeith Alan Powers (\u201cDebtor\u201d) and Royce, Inc. (\u201cRoyce\u201d), a rental company, dispute whether certain contracts are \u201ctrue leases\u201d or installment sales contracts under Section 1-201(37) of the Uniform Commercial Code (UCC). If the contracts are true leases, Royce will be able to repossess certain household goods from the bankrupt Debtor. If the contracts are installment sales, Debtor will retain possession of the goods and Royce will only receive partial payment for the goods\u2019 value. For reasons stated below, we find that the agreements are true leases.\nFacts\nOn September 29, 1989, and July 7 and July 9, 1990, Debtor rented used household goods from Royce under three written contracts (\u201cAgreements\u201d). The Agreements provide for an initial two-week rental period with a series of optional two-week rental periods thereafter. There is no obligation to rent the property beyond the initial two-week rental period. The option to rent the property for an additional two-week period is exercised by paying a designated rental payment to Royce. The Agreements are terminable at any time by the lessee Debt- or without penalty or further obligation. With two exceptions, the Debtor rented used property from Royce. Under the Agreements, the Debtor could purchase the used household goods (1) immediately for cash, (2) for the cash price at any time within 90 days of taking possession (\u201c90 days same as cash\u201d), (3) for a sliding-scale price that may be exercised after 90 days (\u201cEarly Buy-Out Option Price\u201d), or (4) by making the total number of rental payments to acquire ownership with no additional consideration.\nDebtor filed a Chapter 13 bankruptcy proceeding on May 22, 1991. At the time of the bankruptcy filing, he had possession of the property under the Agreements and had been making rental payments. In the Chapter 13 proceedings, Debtor\u2019s schedules listed Royce as a secured creditor to the claim of $3,041-$1,000 of which was secured by the goods, and $2,041 of which was unsecured. Under Debtor\u2019s plan Royce was to be paid $1,000 secured, and the balance as unsecured, with unsecured creditors receiving approximately 30%. Royce filed an objection to the confirmation of the plan and sought return of the property leased to Debtor. Royce also filed a motion to lift the automatic stay and for judgment on the pleadings. The Debtor requested that the bankruptcy court permit him to retain possession of the property.\nRoyce took the position that the Royce Agreements were true leases rather than disguised security agreements and were therefore subject to assumption or rejection under Section 365 of the Bankruptcy Code (11 U.S.C. \u00a7 365). Royce asserted that in order to retain possession of the property, the Debtor (here Powers) was required to assume the leases under Section 365, cure existing rental defaults and thereafter make the rental payments stated in the Agreements or exercise one of the purchase options. No such assumption occurred, and in its absence Royce asserted that under Section 365, the leases would be deemed rejected, the Debtor\u2019s right to possession would be terminated, and Royce would be entitled to have the property returned. The Debtor countered that the Agreements were disguised installment sales that gave Royce a security interest in the goods, and thus that the Debtor could keep the property without assuming the leases under Section 365 or without paying Royce the amounts necessary to purchase the property under the options provided in the Agreements.\nThe bankruptcy judge denied Royce\u2019s objection to the plan as well as its motion to lift the automatic stay and confirmed the Debtor's Chapter 13 plan, finding that the Agreements were security agreements for installment sales under the definition of UCC \u00a7 1-201(37). Royce appealed. The district court held that the bankruptcy court erroneously interpreted \u00a7 1-201(37) and that the Royce Agreements were true leases, and therefore reversed the decision of the bankruptcy court and remanded for further proceedings consistent with the district court\u2019s opinion. 138 B.R. 916. We affirm. \u2022\nDiscussion\nOrdinarily the existence, nature and extent of a security interest in property is governed by state law. Butner v. United States, 440 U.S. 48, 99 S.Ct. 914, 59 L.Ed.2d 136. The bankruptcy code defines a \u201csecurity interest\u201d as a lien created by an agreement. 11 U.S.C. \u00a7 101(51). While the bankruptcy court did not define the term \u201clease,\u201d the legislative history states that \u201cwhether a consignment or a lease constitutes a security interest under the bankruptcy code will depend on whether it constitutes a security interest under applicable State or local law.\u201d Under Illinois law, the issue is determined by an analysis of the definition of \u201csecurity interest\u201d as codified in UCC \u00a7 1-201(37), which provides in pertinent part:\n\u201cSecurity interest\u201d means an interest in personal property or fixtures which secures payment or performance of an obligation. * * * Whether a lease is intended as security is to be determined by the facts of each case; however, (a) the inclusion of an option to purchase does not of itself make the lease one intended for security, and (b) an agreement that upon compliance with the terms of the lease the lessee shall become or has the option to become the owner of the property for no additional consideration or for a nominal consideration does make the lease one intended for security. Ill.Rev.Stat.1989, Ch. 26, para. 1-201(37).\nThis case is controlled by our decision in Matter of Marhoefer Packing Co., Inc., 674 F.2d 1139 (1982), where we held that an agreement similar to the Royce Agreements that included two options to purchase the equipment in question was a true lease. Judge Pell concluded that, as here, where a lessee has the right to terminate the lease before the option arises to purchase the property for no additional or nominal consideration, the lease is a true lease and cannot be a conditional sale. Id. at 1142-1143. In re Loop Hospital Partnership, 35 B.R. 929 (Bkrtcy.N.D.IIl.1983), established an identical requirement under Illinois law. The Debtor in this case could terminate the Royce Agreements at any time after the initial two-week rental period, making the Agreements true leases under Marhoefer.\nMarhoefer reviewed a contract between two companies for the lease of a commercial meat-processing machine. Like the Royce Agreements, the Marhoefer contract provided the lessee with more than one purchase option. The lessee in Marhoefer argued that because his contract contained an option to acquire the goods for nominal consideration at the end of the lease\u2019s term, his contract was an installment sale under the conclusive presumption established by clause (b) of UCC \u00a7 1-201(37). Although this contract did not involve the leasing of goods to unsophisticated consumers, as in the present case, the Marhoefer contract resembles the Royce Agreements in one critical respect: under both agreements, the lessee was under no obligation to make the installment payments that would ultimately allow the lessee to exercise or refuse the option to own the goods. This feature of the contract lead\u2018this Court to conclude that clause (b) of UCC \u00a7 1-201(37) did not apply. Marhoefer, 674 F.2d at 1143. In other words, because the lessee could terminate the lease at any time, the presence of an option to acquire the goods for a nominal price did not convert the leases into installment sales. The same conclusion applies to the Royce Agreements: even though the lessee can acquire the goods at the end of the lease\u2019s term, the lessee is under no obligation to make the payments that will allow him to exercise the option.\nAs in Marhoefer, this conclusion does not end our inquiry. This Court must determine whether the rest of the agreement supports the conclusion that the parties intended it to be a true lease. Marhoefer, 674 F.2d at 1145. Here, the fact that the Royce Agreements relate primarily to used furniture tends to show they are true leases. The Agreements are studded with terms like Renter, Lessor, rental period and Rental Payments. They also state that Debtor will not own the property until \u201c(1) * * * [he] will have made the number of rental payments and the total amount of rental payments necessary to acquire ownership of the property; or (2) * * * exercised the early purchase option as provided in this agreement.\u201d In sum, the Debtor was renting the goods and would never own them unless he fulfilled either condition. Other factors outlined in Marhoefer indicate that the Royce Agreements are leases. First, the initial rental period and each optional rental period is short (two weeks) in relation to the length of time that must elapse before a lessee who does not exercise an early purchase option will own the goods (two or more years). Second, the amount of each rental period payment is small in relation to the amount necessary to purchase the goods under any of the purchase options. Finally, the purchase price in the Royce Agreements was much less than the total amount of rental payments.\nWe recognize, of course, that for lessees who rent furniture intending eventually to own it, these Agreements function as secured installment sales (provided the lessee makes all the payments). But unlike buyers in standard installment sales, Royce\u2019s hybrid \u201crental-buyers\u201d are not obligated to make payments, and they can change their minds and return their furniture at any time. This flexibility is not worthless, and in return Royce earns the benefits of a lease when some of its renter-buyers become insolvent. Unlike conventional retailers who sell new furniture, Royce both rents and sells new and used furniture. Conventional retailers cannot use Royce\u2019s contract forms to avoid the laws applicable to installment sales unless they plan to start renting and selling used goods. If the facts of this case were different, and in particular if Royce were not in fact a rental company, our result might be different even if the contracts were very similar, because on this issue the UCC asks a court to look at the substance of the underlying transaction, not at the technical language of the agreement.\nOn the facts of this case, however, we adhere to Marhoefer and conclude that the Royce Agreements were true leases. Therefore the district court\u2019s judgment is affirmed with directions to order the return of the goods to Royce.\n. The only new items rented were a Whirlpool washer and a three-piece table set (Debtor\u2019s brief, 28-29).\n. This provision was amended in 1991 but not effective until January 1, 1992. These three lease agreements were executed in 1989 and 1990. Therefore this opinion does not discuss the amendment.\n. Marhoefer was decided under Indiana\u2019s version of \u00a7 1-201(37). Since the Indiana and Illinois versions of this statute were identical, Marhoefer controls our analysis of the analogous Illinois provision.\n. See TKO Equipment Co. v. C & G Coal Co., 863 F.2d 541, 543 (7th Cir.1988), where this Court found that a lease with an unusual buy-out option was a true lease in part because the buyer could have returned the goods without obligation before the opportunity to exercise the option arose.\n.In the bankruptcy court, Bankruptcy Judge Altenberger relied on In re Fogelsong, 88 B.R. 194 (Bkrtcy.C.D.Ill.1988), to hold that the agreements in question were security agreements rather than true leases. To the extent that Fo-gelsong is inconsistent with this Court\u2019s Marhoe-fer opinion, it fails to support Powers\u2019 position.\n. See Orix Credit Alliance, Inc. v. Pappas, 946 F.2d 1258, 1260-1261 (7th Cir.1991), where this Court first concluded that the defaulting buyer remained obligated for the balance due on the contract before analyzing the intent of the parties to determine that the contract was an installment sale and not a true lease. See also In re Pacific Express, Inc., 780 F.2d 1482, 1485 (9th Cir.1986) (finding that buyer was \"unconditionally obligated\u201d to make installment payments before concluding that contract was an installment sale).",
+        "type": "majority",
+        "author": "CUMMINGS, Circuit Judge."
+      }
+    ],
+    "attorneys": [
+      "Thomas L. Perkins (argued), Kavanagh, Scully, Sudow, White & Frederick, Peoria, IL, Douglas D. Mustain, Mustain & Lind-strom, Galesburg, IL, for appellee.",
+      "Pamela S. Wilcox (argued), Barash, Stoerzbach & Henson, Galesburg, IL, for debtor, appellant."
+    ],
+    "corrections": "",
+    "head_matter": "In re Keith Alan POWERS, Debtor. Keith Alan POWERS, Appellant, v. ROYCE INC., d/b/a Royce Rentals, Appellee.\nNo. 92-1678.\nUnited States Court of Appeals, Seventh Circuit.\nArgued Nov. 3, 1992.\nDecided Jan. 7, 1993.\nThomas L. Perkins (argued), Kavanagh, Scully, Sudow, White & Frederick, Peoria, IL, Douglas D. Mustain, Mustain & Lind-strom, Galesburg, IL, for appellee.\nPamela S. Wilcox (argued), Barash, Stoerzbach & Henson, Galesburg, IL, for debtor, appellant.\nBefore CUMMINGS and MANION, Circuit Judges, and WOOD, Jr., Senior Circuit Judge."
+  },
+  "file_name": "0088-01",
+  "first_page_order": 214,
+  "last_page_order": 218
+}

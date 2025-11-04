@@ -1,0 +1,78 @@
+{
+  "id": 12452310,
+  "name": "State, Respondent, v. Curran, Petitioner",
+  "name_abbreviation": "State v. Curran",
+  "decision_date": "2017-03-08",
+  "docket_number": "No. 93811-3",
+  "first_page": "1019",
+  "last_page": "1019",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "187 Wash. 2d 1019"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Wash.",
+    "id": 9029,
+    "name": "Washington Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 38,
+    "name_long": "Washington",
+    "name": "Wash."
+  },
+  "cites_to": [
+    {
+      "cite": "196 Wn. App. 1018",
+      "category": "reporters:state",
+      "reporter": "Wash. App.",
+      "case_ids": [
+        12461675,
+        12461676,
+        12461677,
+        12461678
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-app/196/1018-01",
+        "/wash-app/196/1018-02",
+        "/wash-app/196/1018-03",
+        "/wash-app/196/1018-04"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 28,
+    "char_count": 187,
+    "ocr_confidence": 0.863,
+    "sha256": "8ed9fb63dc11325b1c65c59be75b2d5d542b49890cb7bea515ff4ccfcf2adb21",
+    "simhash": "1:05b1060b7d5d8fa0",
+    "word_count": 31
+  },
+  "last_updated": "2024-02-27T20:27:34.476040+00:00",
+  "provenance": {
+    "date_added": "2019-05-21",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "State, Respondent, v. Curran, Petitioner,"
+    ],
+    "opinions": [
+      {
+        "text": "Petition for review of a decision of the Court of Appeals, No. 73590-0-I, October 3, 2016, 196 Wn. App. 1018. Denied March 8, 2017.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "State, Respondent, v. Curran, Petitioner,\nNo. 93811-3."
+  },
+  "file_name": "1019-07",
+  "first_page_order": 987,
+  "last_page_order": 987
+}

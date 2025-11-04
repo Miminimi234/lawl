@@ -1,0 +1,76 @@
+{
+  "id": 12452354,
+  "name": "Schnitzer W., LLC, Petitioner, v. City of Puyallup et al., Respondents",
+  "name_abbreviation": "Schnitzer W., LLC v. City of Puyallup",
+  "decision_date": "2017-03-29",
+  "docket_number": "No. 94005-3",
+  "first_page": "1025",
+  "last_page": "1025",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "187 Wash. 2d 1025"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Wash.",
+    "id": 9029,
+    "name": "Washington Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 38,
+    "name_long": "Washington",
+    "name": "Wash."
+  },
+  "cites_to": [
+    {
+      "cite": "196 Wn. App. 434",
+      "category": "reporters:state",
+      "reporter": "Wash. App.",
+      "case_ids": [
+        12461581
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-app/196/0434-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 33,
+    "char_count": 220,
+    "ocr_confidence": 0.885,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.25722561431187685
+    },
+    "sha256": "e6d7e53182ea53a00f6dc1cc675d27e8131c37cbd59f3bccc78c89254befbe2d",
+    "simhash": "1:a691eab37d487ea5",
+    "word_count": 37
+  },
+  "last_updated": "2024-02-27T20:27:34.476040+00:00",
+  "provenance": {
+    "date_added": "2019-05-21",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Schnitzer W., LLC, Petitioner, v. City of Puyallup et al., Respondents,"
+    ],
+    "opinions": [
+      {
+        "text": "Petition for review of a decision of the Court of Appeals, No. 47900-1-II, October 18, 2016, 196 Wn. App. 434. Granted March 29, 2017.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Schnitzer W., LLC, Petitioner, v. City of Puyallup et al., Respondents,\nNo. 94005-3."
+  },
+  "file_name": "1025-04",
+  "first_page_order": 993,
+  "last_page_order": 993
+}

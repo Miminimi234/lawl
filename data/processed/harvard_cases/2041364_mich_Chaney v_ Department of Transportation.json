@@ -1,0 +1,1983 @@
+{
+  "id": 2041364,
+  "name": "CHANEY v. DEPARTMENT OF TRANSPORTATION",
+  "name_abbreviation": "Chaney v. Department of Transportation",
+  "decision_date": "1994-08-31",
+  "docket_number": "Docket No. 96282",
+  "first_page": "145",
+  "last_page": "216",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "447 Mich. 145"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Mich.",
+    "id": 8790,
+    "name": "Michigan Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 49,
+    "name_long": "Michigan",
+    "name": "Mich."
+  },
+  "cites_to": [
+    {
+      "cite": "499 NW2d 29",
+      "category": "reporters:state_regional",
+      "reporter": "N.W.2d",
+      "year": 1993,
+      "opinion_index": -1
+    },
+    {
+      "cite": "198 Mich App 728",
+      "category": "reporters:state",
+      "reporter": "Mich. App.",
+      "case_ids": [
+        1862600
+      ],
+      "year": 1993,
+      "opinion_index": -1,
+      "case_paths": [
+        "/mich-app/198/0728-01"
+      ]
+    },
+    {
+      "cite": "420 Mich 567",
+      "category": "reporters:state",
+      "reporter": "Mich.",
+      "case_ids": [
+        1968430
+      ],
+      "year": 1984,
+      "opinion_index": -1,
+      "case_paths": [
+        "/mich/420/0567-01"
+      ]
+    },
+    {
+      "cite": "434 Mich 619",
+      "category": "reporters:state",
+      "reporter": "Mich.",
+      "case_ids": [
+        1984715
+      ],
+      "year": 1990,
+      "opinion_index": -1,
+      "case_paths": [
+        "/mich/434/0619-01"
+      ]
+    },
+    {
+      "cite": "444 Mich 900",
+      "category": "reporters:state",
+      "reporter": "Mich.",
+      "year": 1993,
+      "opinion_index": 0
+    },
+    {
+      "cite": "188 NW2d 33",
+      "category": "reporters:state_regional",
+      "reporter": "N.W.2d",
+      "year": 1971,
+      "opinion_index": 0
+    },
+    {
+      "cite": "32 Mich App 37",
+      "category": "reporters:state",
+      "reporter": "Mich. App.",
+      "case_ids": [
+        2097894
+      ],
+      "year": 1971,
+      "opinion_index": 0,
+      "case_paths": [
+        "/mich-app/32/0037-01"
+      ]
+    },
+    {
+      "cite": "458 NW2d 619",
+      "category": "reporters:state_regional",
+      "reporter": "N.W.2d",
+      "year": 1990,
+      "opinion_index": 0
+    },
+    {
+      "cite": "435 Mich 307",
+      "category": "reporters:state",
+      "reporter": "Mich.",
+      "case_ids": [
+        1982784
+      ],
+      "weight": 4,
+      "year": 1990,
+      "pin_cites": [
+        {
+          "page": "316"
+        },
+        {
+          "page": "314"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mich/435/0307-01"
+      ]
+    },
+    {
+      "cite": "408 NW2d 783",
+      "category": "reporters:state_regional",
+      "reporter": "N.W.2d",
+      "year": 1987,
+      "opinion_index": 0
+    },
+    {
+      "cite": "428 Mich 330",
+      "category": "reporters:state",
+      "reporter": "Mich.",
+      "case_ids": [
+        1995048
+      ],
+      "weight": 4,
+      "year": 1987,
+      "pin_cites": [
+        {
+          "page": "341"
+        },
+        {
+          "page": "341"
+        },
+        {
+          "page": "340"
+        },
+        {
+          "page": "341",
+          "parenthetical": "emphasis added"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mich/428/0330-01"
+      ]
+    },
+    {
+      "cite": "483 NW2d 844",
+      "category": "reporters:state_regional",
+      "reporter": "N.W.2d",
+      "year": 1992,
+      "opinion_index": 0
+    },
+    {
+      "cite": "439 Mich 370",
+      "category": "reporters:state",
+      "reporter": "Mich.",
+      "case_ids": [
+        2017469
+      ],
+      "year": 1992,
+      "opinion_index": 0,
+      "case_paths": [
+        "/mich/439/0370-01"
+      ]
+    },
+    {
+      "cite": "363 NW2d 641",
+      "category": "reporters:state_regional",
+      "reporter": "N.W.2d",
+      "year": 1984,
+      "opinion_index": 0
+    },
+    {
+      "cite": "456 NW2d 66",
+      "category": "reporters:state_regional",
+      "reporter": "N.W.2d",
+      "weight": 2,
+      "year": 1990,
+      "opinion_index": 0
+    },
+    {
+      "cite": "499 NW2d 29",
+      "category": "reporters:state_regional",
+      "reporter": "N.W.2d",
+      "weight": 2,
+      "year": 1993,
+      "opinion_index": 0
+    },
+    {
+      "cite": "198 Mich App 728",
+      "category": "reporters:state",
+      "reporter": "Mich. App.",
+      "case_ids": [
+        1862600
+      ],
+      "weight": 2,
+      "year": 1993,
+      "opinion_index": 0,
+      "case_paths": [
+        "/mich-app/198/0728-01"
+      ]
+    },
+    {
+      "cite": "420 Mich 567",
+      "category": "reporters:state",
+      "reporter": "Mich.",
+      "case_ids": [
+        1968430
+      ],
+      "year": 1984,
+      "opinion_index": 0,
+      "case_paths": [
+        "/mich/420/0567-01"
+      ]
+    },
+    {
+      "cite": "434 Mich 619",
+      "category": "reporters:state",
+      "reporter": "Mich.",
+      "case_ids": [
+        1984715
+      ],
+      "weight": 3,
+      "year": 1990,
+      "opinion_index": 0,
+      "case_paths": [
+        "/mich/434/0619-01"
+      ]
+    },
+    {
+      "cite": "13 Mich 127",
+      "category": "reporters:state",
+      "reporter": "Mich.",
+      "case_ids": [
+        1949625
+      ],
+      "year": 1865,
+      "pin_cites": [
+        {
+          "page": "167"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/mich/13/0127-01"
+      ]
+    },
+    {
+      "cite": "1964 PA 170",
+      "category": "reporters:neutral",
+      "reporter": "PA",
+      "year": 1987,
+      "opinion_index": 1
+    },
+    {
+      "cite": "1887 PA 264",
+      "category": "reporters:neutral",
+      "reporter": "PA",
+      "opinion_index": 1
+    },
+    {
+      "cite": "1879 PA 244",
+      "category": "reporters:neutral",
+      "reporter": "PA",
+      "opinion_index": 1
+    },
+    {
+      "cite": "4 Mich 557",
+      "category": "reporters:state",
+      "reporter": "Mich.",
+      "case_ids": [
+        1930316
+      ],
+      "year": 1857,
+      "opinion_index": 1,
+      "case_paths": [
+        "/mich/4/0557-01"
+      ]
+    },
+    {
+      "cite": "235 NW 221",
+      "category": "reporters:state_regional",
+      "reporter": "N.W.",
+      "weight": 2,
+      "year": 1931,
+      "opinion_index": 1
+    },
+    {
+      "cite": "253 Mich 465",
+      "category": "reporters:state",
+      "reporter": "Mich.",
+      "case_ids": [
+        1839771
+      ],
+      "year": 1931,
+      "pin_cites": [
+        {
+          "page": "468"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/mich/253/0465-01"
+      ]
+    },
+    {
+      "cite": "7 NW 815",
+      "category": "reporters:state_regional",
+      "reporter": "N.W.",
+      "year": 1881,
+      "opinion_index": 1
+    },
+    {
+      "cite": "45 Mich 263",
+      "category": "reporters:state",
+      "reporter": "Mich.",
+      "case_ids": [
+        1405268
+      ],
+      "year": 1881,
+      "pin_cites": [
+        {
+          "page": "265"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/mich/45/0263-01"
+      ]
+    },
+    {
+      "cite": "97 NW2d 804",
+      "category": "reporters:state_regional",
+      "reporter": "N.W.2d",
+      "year": 1959,
+      "opinion_index": 1
+    },
+    {
+      "cite": "356 Mich 641",
+      "category": "reporters:state",
+      "reporter": "Mich.",
+      "case_ids": [
+        1863841
+      ],
+      "year": 1959,
+      "pin_cites": [
+        {
+          "page": "649"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/mich/356/0641-01"
+      ]
+    },
+    {
+      "cite": "503 NW2d 435",
+      "category": "reporters:state_regional",
+      "reporter": "N.W.2d",
+      "year": 1993,
+      "opinion_index": 1
+    },
+    {
+      "cite": "443 Mich 59",
+      "category": "reporters:state",
+      "reporter": "Mich.",
+      "case_ids": [
+        2010347
+      ],
+      "year": 1993,
+      "pin_cites": [
+        {
+          "page": "65"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/mich/443/0059-01"
+      ]
+    },
+    {
+      "cite": "235 NW 217",
+      "category": "reporters:state_regional",
+      "reporter": "N.W.",
+      "year": 1931,
+      "opinion_index": 1
+    },
+    {
+      "cite": "253 Mich 453",
+      "category": "reporters:state",
+      "reporter": "Mich.",
+      "case_ids": [
+        1839874
+      ],
+      "year": 1931,
+      "pin_cites": [
+        {
+          "page": "456"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/mich/253/0453-01"
+      ]
+    },
+    {
+      "cite": "114 NW 350",
+      "category": "reporters:state_regional",
+      "reporter": "N.W.",
+      "year": 1907,
+      "opinion_index": 1
+    },
+    {
+      "cite": "150 Mich 563",
+      "category": "reporters:state",
+      "reporter": "Mich.",
+      "case_ids": [
+        1560293
+      ],
+      "year": 1907,
+      "pin_cites": [
+        {
+          "page": "567"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/mich/150/0563-01"
+      ]
+    },
+    {
+      "cite": "132 NW 1037",
+      "category": "reporters:state_regional",
+      "reporter": "N.W.",
+      "year": 1911,
+      "opinion_index": 1
+    },
+    {
+      "cite": "167 Mich 444",
+      "category": "reporters:state",
+      "reporter": "Mich.",
+      "case_ids": [
+        1611612
+      ],
+      "year": 1911,
+      "pin_cites": [
+        {
+          "page": "450"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/mich/167/0444-01"
+      ]
+    },
+    {
+      "cite": "389 NW2d 686",
+      "category": "reporters:state_regional",
+      "reporter": "N.W.2d",
+      "year": 1986,
+      "opinion_index": 1
+    },
+    {
+      "cite": "425 Mich 313",
+      "category": "reporters:state",
+      "reporter": "Mich.",
+      "case_ids": [
+        1999896
+      ],
+      "year": 1986,
+      "pin_cites": [
+        {
+          "page": "317"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/mich/425/0313-01"
+      ]
+    },
+    {
+      "cite": "20 Mich 148",
+      "category": "reporters:state",
+      "reporter": "Mich.",
+      "case_ids": [
+        1939935
+      ],
+      "year": 1870,
+      "pin_cites": [
+        {
+          "page": "154-155"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/mich/20/0148-01"
+      ]
+    },
+    {
+      "cite": "405 NW2d 850",
+      "category": "reporters:state_regional",
+      "reporter": "N.W.2d",
+      "year": 1982,
+      "pin_cites": [
+        {
+          "parenthetical": "Coleman, J."
+        }
+      ],
+      "opinion_index": 1
+    },
+    {
+      "cite": "415 Mich 708",
+      "category": "reporters:state",
+      "reporter": "Mich.",
+      "case_ids": [
+        1976701
+      ],
+      "year": 1982,
+      "pin_cites": [
+        {
+          "page": "716",
+          "parenthetical": "Coleman, J."
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/mich/415/0708-01"
+      ]
+    },
+    {
+      "cite": "458 NW2d 619",
+      "category": "reporters:state_regional",
+      "reporter": "N.W.2d",
+      "weight": 2,
+      "year": 1990,
+      "pin_cites": [
+        {
+          "parenthetical": "\"The people reserve to themselves . . . the power to approve or reject laws enacted by the legislature, called the referendum\""
+        }
+      ],
+      "opinion_index": 1
+    },
+    {
+      "cite": "435 Mich 307",
+      "category": "reporters:state",
+      "reporter": "Mich.",
+      "case_ids": [
+        1982784
+      ],
+      "year": 1990,
+      "pin_cites": [
+        {
+          "page": "316"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/mich/435/0307-01"
+      ]
+    },
+    {
+      "cite": "408 NW2d 783",
+      "category": "reporters:state_regional",
+      "reporter": "N.W.2d",
+      "weight": 2,
+      "year": 1987,
+      "opinion_index": 1
+    },
+    {
+      "cite": "428 Mich 330",
+      "category": "reporters:state",
+      "reporter": "Mich.",
+      "case_ids": [
+        1995048
+      ],
+      "weight": 3,
+      "year": 1987,
+      "pin_cites": [
+        {
+          "page": "339"
+        },
+        {
+          "page": "336-338"
+        },
+        {
+          "page": "331"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/mich/428/0330-01"
+      ]
+    },
+    {
+      "cite": "456 NW2d 66",
+      "category": "reporters:state_regional",
+      "reporter": "N.W.2d",
+      "year": 1990,
+      "opinion_index": 1
+    },
+    {
+      "cite": "434 Mich 619",
+      "category": "reporters:state",
+      "reporter": "Mich.",
+      "case_ids": [
+        1984715
+      ],
+      "weight": 3,
+      "year": 1990,
+      "pin_cites": [
+        {
+          "page": "630-631"
+        },
+        {
+          "page": "632"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/mich/434/0619-01"
+      ]
+    },
+    {
+      "cite": "443 NW2d 410",
+      "category": "reporters:state_regional",
+      "reporter": "N.W.2d",
+      "year": 1989,
+      "pin_cites": [
+        {
+          "parenthetical": "affirming dismissal of the case on the ground of governmental immunity where the plaintiff alleged that she had slipped and fallen in an alley"
+        }
+      ],
+      "opinion_index": 2
+    },
+    {
+      "cite": "178 Mich App 319",
+      "category": "reporters:state",
+      "reporter": "Mich. App.",
+      "case_ids": [
+        2312650
+      ],
+      "year": 1989,
+      "pin_cites": [
+        {
+          "parenthetical": "affirming dismissal of the case on the ground of governmental immunity where the plaintiff alleged that she had slipped and fallen in an alley"
+        }
+      ],
+      "opinion_index": 2,
+      "case_paths": [
+        "/mich-app/178/0319-01"
+      ]
+    },
+    {
+      "cite": "415 Mich 715",
+      "category": "reporters:state",
+      "reporter": "Mich.",
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "721"
+        }
+      ],
+      "opinion_index": 2
+    },
+    {
+      "cite": "185 NW2d 111",
+      "category": "reporters:state_regional",
+      "reporter": "N.W.2d",
+      "year": 1970,
+      "opinion_index": 2
+    },
+    {
+      "cite": "29 Mich App 51",
+      "category": "reporters:state",
+      "reporter": "Mich. App.",
+      "case_ids": [
+        2066294
+      ],
+      "year": 1970,
+      "opinion_index": 2,
+      "case_paths": [
+        "/mich-app/29/0051-01"
+      ]
+    },
+    {
+      "cite": "215 NW2d 599",
+      "category": "reporters:state_regional",
+      "reporter": "N.W.2d",
+      "year": 1974,
+      "opinion_index": 2
+    },
+    {
+      "cite": "51 Mich App 415",
+      "category": "reporters:state",
+      "reporter": "Mich. App.",
+      "case_ids": [
+        2100717
+      ],
+      "year": 1974,
+      "opinion_index": 2,
+      "case_paths": [
+        "/mich-app/51/0415-01"
+      ]
+    },
+    {
+      "cite": "168 NW2d 246",
+      "category": "reporters:state_regional",
+      "reporter": "N.W.2d",
+      "year": 1969,
+      "opinion_index": 2
+    },
+    {
+      "cite": "16 Mich App 365",
+      "category": "reporters:state",
+      "reporter": "Mich. App.",
+      "case_ids": [
+        2045642
+      ],
+      "weight": 2,
+      "year": 1969,
+      "pin_cites": [
+        {
+          "page": "381"
+        }
+      ],
+      "opinion_index": 2,
+      "case_paths": [
+        "/mich-app/16/0365-01"
+      ]
+    },
+    {
+      "cite": "122 NW 618",
+      "category": "reporters:state_regional",
+      "reporter": "N.W.",
+      "year": 1909,
+      "opinion_index": 2
+    },
+    {
+      "cite": "158 Mich 279",
+      "category": "reporters:state",
+      "reporter": "Mich.",
+      "case_ids": [
+        1585827
+      ],
+      "year": 1909,
+      "opinion_index": 2,
+      "case_paths": [
+        "/mich/158/0279-01"
+      ]
+    },
+    {
+      "cite": "106 NW2d 538",
+      "category": "reporters:state_regional",
+      "reporter": "N.W.2d",
+      "year": 1960,
+      "opinion_index": 2
+    },
+    {
+      "cite": "362 Mich 19",
+      "category": "reporters:state",
+      "reporter": "Mich.",
+      "case_ids": [
+        1886205
+      ],
+      "year": 1960,
+      "opinion_index": 2,
+      "case_paths": [
+        "/mich/362/0019-01"
+      ]
+    },
+    {
+      "cite": "252 NW2d 799",
+      "category": "reporters:state_regional",
+      "reporter": "N.W.2d",
+      "year": 1977,
+      "opinion_index": 2
+    },
+    {
+      "cite": "400 Mich 50",
+      "category": "reporters:state",
+      "reporter": "Mich.",
+      "case_ids": [
+        1926700
+      ],
+      "year": 1977,
+      "opinion_index": 2,
+      "case_paths": [
+        "/mich/400/0050-01"
+      ]
+    },
+    {
+      "cite": "523 NW2d 791",
+      "category": "reporters:state_regional",
+      "reporter": "N.W.2d",
+      "year": 1994,
+      "opinion_index": 2
+    },
+    {
+      "cite": "447 Mich 130",
+      "category": "reporters:state",
+      "reporter": "Mich.",
+      "case_ids": [
+        2041386
+      ],
+      "year": 1994,
+      "pin_cites": [
+        {
+          "page": "136, n 6"
+        }
+      ],
+      "opinion_index": 2,
+      "case_paths": [
+        "/mich/447/0130-01"
+      ]
+    },
+    {
+      "cite": "330 NW2d 64",
+      "category": "reporters:state_regional",
+      "reporter": "N.W.2d",
+      "year": 1982,
+      "opinion_index": 2
+    },
+    {
+      "cite": "415 Mich 708",
+      "category": "reporters:state",
+      "reporter": "Mich.",
+      "case_ids": [
+        1976701
+      ],
+      "year": 1982,
+      "pin_cites": [
+        {
+          "page": "715"
+        }
+      ],
+      "opinion_index": 2,
+      "case_paths": [
+        "/mich/415/0708-01"
+      ]
+    },
+    {
+      "cite": "458 NW2d 619",
+      "category": "reporters:state_regional",
+      "reporter": "N.W.2d",
+      "year": 1990,
+      "opinion_index": 2
+    },
+    {
+      "cite": "435 Mich 307",
+      "category": "reporters:state",
+      "reporter": "Mich.",
+      "case_ids": [
+        1982784
+      ],
+      "year": 1990,
+      "pin_cites": [
+        {
+          "page": "316"
+        }
+      ],
+      "opinion_index": 2,
+      "case_paths": [
+        "/mich/435/0307-01"
+      ]
+    },
+    {
+      "cite": "408 NW2d 783",
+      "category": "reporters:state_regional",
+      "reporter": "N.W.2d",
+      "year": 1987,
+      "opinion_index": 2
+    },
+    {
+      "cite": "428 Mich 330",
+      "category": "reporters:state",
+      "reporter": "Mich.",
+      "case_ids": [
+        1995048
+      ],
+      "year": 1987,
+      "pin_cites": [
+        {
+          "page": "331"
+        }
+      ],
+      "opinion_index": 2,
+      "case_paths": [
+        "/mich/428/0330-01"
+      ]
+    },
+    {
+      "cite": "363 NW2d 641",
+      "category": "reporters:state_regional",
+      "reporter": "N.W.2d",
+      "year": 1984,
+      "opinion_index": 2
+    },
+    {
+      "cite": "456 NW2d 66",
+      "category": "reporters:state_regional",
+      "reporter": "N.W.2d",
+      "year": 1990,
+      "opinion_index": 2
+    },
+    {
+      "cite": "420 Mich 567",
+      "category": "reporters:state",
+      "reporter": "Mich.",
+      "case_ids": [
+        1968430
+      ],
+      "year": 1984,
+      "pin_cites": [
+        {
+          "page": "618"
+        }
+      ],
+      "opinion_index": 2,
+      "case_paths": [
+        "/mich/420/0567-01"
+      ]
+    },
+    {
+      "cite": "434 Mich 619",
+      "category": "reporters:state",
+      "reporter": "Mich.",
+      "case_ids": [
+        1984715
+      ],
+      "year": 1990,
+      "opinion_index": 2,
+      "case_paths": [
+        "/mich/434/0619-01"
+      ]
+    },
+    {
+      "cite": "523 NW2d 791",
+      "category": "reporters:state_regional",
+      "reporter": "N.W.2d",
+      "year": 1994,
+      "opinion_index": 3
+    },
+    {
+      "cite": "447 Mich 130",
+      "category": "reporters:state",
+      "reporter": "Mich.",
+      "case_ids": [
+        2041386
+      ],
+      "year": 1994,
+      "opinion_index": 3,
+      "case_paths": [
+        "/mich/447/0130-01"
+      ]
+    },
+    {
+      "cite": "235 NW 221",
+      "category": "reporters:state_regional",
+      "reporter": "N.W.",
+      "year": 1931,
+      "pin_cites": [
+        {
+          "parenthetical": "statutes imposing liability in derogation of the common law are to be strictly construed"
+        }
+      ],
+      "opinion_index": 3
+    },
+    {
+      "cite": "253 Mich 465",
+      "category": "reporters:state",
+      "reporter": "Mich.",
+      "case_ids": [
+        1839771
+      ],
+      "year": 1931,
+      "pin_cites": [
+        {
+          "page": "468",
+          "parenthetical": "statutes imposing liability in derogation of the common law are to be strictly construed"
+        }
+      ],
+      "opinion_index": 3,
+      "case_paths": [
+        "/mich/253/0465-01"
+      ]
+    },
+    {
+      "cite": "363 NW2d 641",
+      "category": "reporters:state_regional",
+      "reporter": "N.W.2d",
+      "year": 1984,
+      "opinion_index": 3
+    },
+    {
+      "cite": "420 Mich 567",
+      "category": "reporters:state",
+      "reporter": "Mich.",
+      "case_ids": [
+        1968430
+      ],
+      "year": 1984,
+      "pin_cites": [
+        {
+          "page": "596"
+        }
+      ],
+      "opinion_index": 3,
+      "case_paths": [
+        "/mich/420/0567-01"
+      ]
+    },
+    {
+      "cite": "317 US 424",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        304215
+      ],
+      "weight": 3,
+      "year": 1943,
+      "pin_cites": [
+        {
+          "page": "431",
+          "parenthetical": "Frankfurter, J., dissenting"
+        },
+        {
+          "parenthetical": "Frankfurter, J., dissenting"
+        },
+        {
+          "parenthetical": "Frankfurter, J., dissenting"
+        }
+      ],
+      "opinion_index": 4,
+      "case_paths": [
+        "/us/317/0424-01"
+      ]
+    },
+    {
+      "cite": "521 NW2d 488",
+      "category": "reporters:state_regional",
+      "reporter": "N.W.2d",
+      "year": 1994,
+      "opinion_index": 4
+    },
+    {
+      "cite": "67 Mich 443",
+      "category": "reporters:state",
+      "reporter": "Mich.",
+      "case_ids": [
+        1325151
+      ],
+      "year": 1887,
+      "opinion_index": 4,
+      "case_paths": [
+        "/mich/67/0443-01"
+      ]
+    },
+    {
+      "cite": "43 NW 1012",
+      "category": "reporters:state_regional",
+      "reporter": "N.W.",
+      "year": 1889,
+      "opinion_index": 4
+    },
+    {
+      "cite": "77 Mich 448",
+      "category": "reporters:state",
+      "reporter": "Mich.",
+      "case_ids": [
+        1355150
+      ],
+      "year": 1889,
+      "opinion_index": 4,
+      "case_paths": [
+        "/mich/77/0448-01"
+      ]
+    },
+    {
+      "cite": "42 NW 50",
+      "category": "reporters:state_regional",
+      "reporter": "N.W.",
+      "year": 1889,
+      "opinion_index": 4
+    },
+    {
+      "cite": "74 Mich 458",
+      "category": "reporters:state",
+      "reporter": "Mich.",
+      "case_ids": [
+        1360806
+      ],
+      "year": 1889,
+      "opinion_index": 4,
+      "case_paths": [
+        "/mich/74/0458-01"
+      ]
+    },
+    {
+      "cite": "244 NW2d 98",
+      "category": "reporters:state_regional",
+      "reporter": "N.W.2d",
+      "year": 1976,
+      "opinion_index": 4
+    },
+    {
+      "cite": "397 Mich 105",
+      "category": "reporters:state",
+      "reporter": "Mich.",
+      "case_ids": [
+        1932846
+      ],
+      "year": 1976,
+      "pin_cites": [
+        {
+          "page": "109"
+        }
+      ],
+      "opinion_index": 4,
+      "case_paths": [
+        "/mich/397/0105-01"
+      ]
+    },
+    {
+      "cite": "49 L Ed 2d 406",
+      "category": "reporters:federal",
+      "reporter": "L. Ed. 2d",
+      "year": 1974,
+      "pin_cites": [
+        {
+          "parenthetical": "Stewart, J., dissenting"
+        }
+      ],
+      "opinion_index": 4
+    },
+    {
+      "cite": "416 US 600",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        84376
+      ],
+      "weight": 2,
+      "year": 1974,
+      "pin_cites": [
+        {
+          "page": "634, 636",
+          "parenthetical": "Stewart, J., dissenting"
+        },
+        {
+          "parenthetical": "Stewart, J., dissenting"
+        }
+      ],
+      "opinion_index": 4,
+      "case_paths": [
+        "/us/416/0600-01"
+      ]
+    },
+    {
+      "cite": "1909 PA 283",
+      "category": "reporters:neutral",
+      "reporter": "PA",
+      "weight": 4,
+      "opinion_index": 4
+    },
+    {
+      "cite": "438 NW2d 233",
+      "category": "reporters:state_regional",
+      "reporter": "N.W.2d",
+      "weight": 2,
+      "year": 1989,
+      "opinion_index": 4
+    },
+    {
+      "cite": "432 Mich 1",
+      "category": "reporters:state",
+      "reporter": "Mich.",
+      "case_ids": [
+        87205
+      ],
+      "weight": 3,
+      "year": 1989,
+      "pin_cites": [
+        {
+          "page": "p 18"
+        }
+      ],
+      "opinion_index": 4,
+      "case_paths": [
+        "/mich/432/0001-01"
+      ]
+    },
+    {
+      "cite": "324 NW2d 755",
+      "category": "reporters:state_regional",
+      "reporter": "N.W.2d",
+      "weight": 2,
+      "year": 1982,
+      "opinion_index": 4
+    },
+    {
+      "cite": "414 Mich 377",
+      "category": "reporters:state",
+      "reporter": "Mich.",
+      "case_ids": [
+        1978335
+      ],
+      "weight": 3,
+      "year": 1982,
+      "pin_cites": [
+        {
+          "page": "p 389"
+        }
+      ],
+      "opinion_index": 4,
+      "case_paths": [
+        "/mich/414/0377-01"
+      ]
+    },
+    {
+      "cite": "277 NW2d 627",
+      "category": "reporters:state_regional",
+      "reporter": "N.W.2d",
+      "weight": 2,
+      "year": 1979,
+      "opinion_index": 4
+    },
+    {
+      "cite": "406 Mich 235",
+      "category": "reporters:state",
+      "reporter": "Mich.",
+      "case_ids": [
+        1954542
+      ],
+      "weight": 3,
+      "year": 1979,
+      "pin_cites": [
+        {
+          "page": "236"
+        },
+        {
+          "page": "p 238"
+        }
+      ],
+      "opinion_index": 4,
+      "case_paths": [
+        "/mich/406/0235-01"
+      ]
+    },
+    {
+      "cite": "243 NW2d 244",
+      "category": "reporters:state_regional",
+      "reporter": "N.W.2d",
+      "weight": 2,
+      "year": 1976,
+      "opinion_index": 4
+    },
+    {
+      "cite": "397 Mich 44",
+      "category": "reporters:state",
+      "reporter": "Mich.",
+      "case_ids": [
+        1932826
+      ],
+      "weight": 2,
+      "year": 1976,
+      "pin_cites": [
+        {
+          "page": "45-46"
+        },
+        {
+          "page": "45-46"
+        }
+      ],
+      "opinion_index": 4,
+      "case_paths": [
+        "/mich/397/0044-01"
+      ]
+    },
+    {
+      "cite": "38 Mich 96",
+      "category": "reporters:state",
+      "reporter": "Mich.",
+      "case_ids": [
+        1337723,
+        1337574
+      ],
+      "year": 1878,
+      "pin_cites": [
+        {
+          "page": "100-101"
+        }
+      ],
+      "opinion_index": 4,
+      "case_paths": [
+        "/mich/38/0096-02",
+        "/mich/38/0096-01"
+      ]
+    },
+    {
+      "cite": "56 NW 837",
+      "category": "reporters:state_regional",
+      "reporter": "N.W.",
+      "year": 1893,
+      "opinion_index": 4
+    },
+    {
+      "cite": "97 Mich 361",
+      "category": "reporters:state",
+      "reporter": "Mich.",
+      "case_ids": [
+        1529183
+      ],
+      "year": 1893,
+      "pin_cites": [
+        {
+          "page": "368"
+        }
+      ],
+      "opinion_index": 4,
+      "case_paths": [
+        "/mich/97/0361-01"
+      ]
+    },
+    {
+      "cite": "212 NW2d 918",
+      "category": "reporters:state_regional",
+      "reporter": "N.W.2d",
+      "year": 1973,
+      "opinion_index": 4
+    },
+    {
+      "cite": "390 Mich 621",
+      "category": "reporters:state",
+      "reporter": "Mich.",
+      "case_ids": [
+        1905582
+      ],
+      "year": 1973,
+      "pin_cites": [
+        {
+          "page": "627"
+        }
+      ],
+      "opinion_index": 4,
+      "case_paths": [
+        "/mich/390/0621-01"
+      ]
+    },
+    {
+      "cite": "185 NW2d 111",
+      "category": "reporters:state_regional",
+      "reporter": "N.W.2d",
+      "year": 1970,
+      "opinion_index": 4
+    },
+    {
+      "cite": "29 Mich App 51",
+      "category": "reporters:state",
+      "reporter": "Mich. App.",
+      "case_ids": [
+        2066294
+      ],
+      "year": 1970,
+      "pin_cites": [
+        {
+          "page": "59"
+        }
+      ],
+      "opinion_index": 4,
+      "case_paths": [
+        "/mich-app/29/0051-01"
+      ]
+    },
+    {
+      "cite": "168 NW2d 246",
+      "category": "reporters:state_regional",
+      "reporter": "N.W.2d",
+      "year": 1969,
+      "opinion_index": 4
+    },
+    {
+      "cite": "16 Mich App 365",
+      "category": "reporters:state",
+      "reporter": "Mich. App.",
+      "case_ids": [
+        2045642
+      ],
+      "year": 1969,
+      "pin_cites": [
+        {
+          "page": "375"
+        }
+      ],
+      "opinion_index": 4,
+      "case_paths": [
+        "/mich-app/16/0365-01"
+      ]
+    },
+    {
+      "cite": "252 NW2d 799",
+      "category": "reporters:state_regional",
+      "reporter": "N.W.2d",
+      "weight": 2,
+      "year": 1977,
+      "opinion_index": 4
+    },
+    {
+      "cite": "400 Mich 50",
+      "category": "reporters:state",
+      "reporter": "Mich.",
+      "case_ids": [
+        1926700
+      ],
+      "weight": 2,
+      "year": 1977,
+      "pin_cites": [
+        {
+          "page": "63"
+        },
+        {
+          "page": "63"
+        }
+      ],
+      "opinion_index": 4,
+      "case_paths": [
+        "/mich/400/0050-01"
+      ]
+    },
+    {
+      "cite": "523 NW2d 791",
+      "category": "reporters:state_regional",
+      "reporter": "N.W.2d",
+      "year": 1994,
+      "opinion_index": 4
+    },
+    {
+      "cite": "447 Mich 130",
+      "category": "reporters:state",
+      "reporter": "Mich.",
+      "case_ids": [
+        2041386
+      ],
+      "year": 1994,
+      "opinion_index": 4,
+      "case_paths": [
+        "/mich/447/0130-01"
+      ]
+    },
+    {
+      "cite": "330 NW2d 64",
+      "category": "reporters:state_regional",
+      "reporter": "N.W.2d",
+      "year": 1982,
+      "opinion_index": 4
+    },
+    {
+      "cite": "1964 PA 170",
+      "category": "reporters:neutral",
+      "reporter": "PA",
+      "weight": 5,
+      "year": 1987,
+      "pin_cites": [
+        {
+          "page": "\u00a7 2"
+        },
+        {
+          "page": "\u00a7 2"
+        },
+        {
+          "page": "\u00a7 2"
+        },
+        {
+          "page": "\u00a7 2"
+        },
+        {
+          "page": "\u00a7 2"
+        }
+      ],
+      "opinion_index": 4
+    },
+    {
+      "cite": "1887 PA 264",
+      "category": "reporters:neutral",
+      "reporter": "PA",
+      "weight": 2,
+      "opinion_index": 4
+    },
+    {
+      "cite": "1879 PA 244",
+      "category": "reporters:neutral",
+      "reporter": "PA",
+      "weight": 2,
+      "opinion_index": 4
+    },
+    {
+      "cite": "415 Mich 708",
+      "category": "reporters:state",
+      "reporter": "Mich.",
+      "case_ids": [
+        1976701
+      ],
+      "year": 1982,
+      "opinion_index": 4,
+      "case_paths": [
+        "/mich/415/0708-01"
+      ]
+    },
+    {
+      "cite": "458 NW2d 619",
+      "category": "reporters:state_regional",
+      "reporter": "N.W.2d",
+      "year": 1990,
+      "opinion_index": 4
+    },
+    {
+      "cite": "435 Mich 307",
+      "category": "reporters:state",
+      "reporter": "Mich.",
+      "case_ids": [
+        1982784
+      ],
+      "weight": 3,
+      "year": 1990,
+      "pin_cites": [
+        {
+          "page": "315"
+        },
+        {
+          "page": "p 317",
+          "parenthetical": "Griffin, J., dissenting"
+        },
+        {
+          "page": "p 308",
+          "parenthetical": "Riley, C.J., dissenting"
+        }
+      ],
+      "opinion_index": 4,
+      "case_paths": [
+        "/mich/435/0307-01"
+      ]
+    },
+    {
+      "cite": "408 NW2d 783",
+      "category": "reporters:state_regional",
+      "reporter": "N.W.2d",
+      "year": 1987,
+      "opinion_index": 4
+    },
+    {
+      "cite": "428 Mich 330",
+      "category": "reporters:state",
+      "reporter": "Mich.",
+      "case_ids": [
+        1995048
+      ],
+      "year": 1987,
+      "opinion_index": 4,
+      "case_paths": [
+        "/mich/428/0330-01"
+      ]
+    },
+    {
+      "cite": "456 NW2d 66",
+      "category": "reporters:state_regional",
+      "reporter": "N.W.2d",
+      "year": 1990,
+      "opinion_index": 4
+    },
+    {
+      "cite": "499 NW2d 29",
+      "category": "reporters:state_regional",
+      "reporter": "N.W.2d",
+      "weight": 2,
+      "year": 1993,
+      "opinion_index": 4
+    },
+    {
+      "cite": "198 Mich App 728",
+      "category": "reporters:state",
+      "reporter": "Mich. App.",
+      "case_ids": [
+        1862600
+      ],
+      "weight": 2,
+      "year": 1993,
+      "pin_cites": [
+        {
+          "page": "730"
+        },
+        {
+          "page": "729-730"
+        }
+      ],
+      "opinion_index": 4,
+      "case_paths": [
+        "/mich-app/198/0728-01"
+      ]
+    },
+    {
+      "cite": "434 Mich 619",
+      "category": "reporters:state",
+      "reporter": "Mich.",
+      "case_ids": [
+        1984715
+      ],
+      "weight": 5,
+      "year": 1990,
+      "pin_cites": [
+        {
+          "page": "p 623"
+        },
+        {
+          "page": "p 623"
+        },
+        {
+          "page": "p 632, n 23",
+          "parenthetical": "opinion of Riley, J."
+        },
+        {
+          "page": "p 627"
+        }
+      ],
+      "opinion_index": 4,
+      "case_paths": [
+        "/mich/434/0619-01"
+      ]
+    },
+    {
+      "cite": "446 Mich 99",
+      "category": "reporters:state",
+      "reporter": "Mich.",
+      "case_ids": [
+        2004204
+      ],
+      "year": 1994,
+      "pin_cites": [
+        {
+          "page": "115"
+        }
+      ],
+      "opinion_index": 4,
+      "case_paths": [
+        "/mich/446/0099-01"
+      ]
+    },
+    {
+      "cite": "504 NW2d 710",
+      "category": "reporters:state_regional",
+      "reporter": "N.W.2d",
+      "year": 1993,
+      "opinion_index": 4
+    },
+    {
+      "cite": "200 Mich App 572",
+      "category": "reporters:state",
+      "reporter": "Mich. App.",
+      "case_ids": [
+        1860232
+      ],
+      "year": 1993,
+      "opinion_index": 4,
+      "case_paths": [
+        "/mich-app/200/0572-01"
+      ]
+    },
+    {
+      "cite": "158 NW2d 905",
+      "category": "reporters:state_regional",
+      "reporter": "N.W.2d",
+      "year": 1968,
+      "opinion_index": 4
+    },
+    {
+      "cite": "381 Mich 82",
+      "category": "reporters:state",
+      "reporter": "Mich.",
+      "case_ids": [
+        1889109
+      ],
+      "year": 1968,
+      "opinion_index": 4,
+      "case_paths": [
+        "/mich/381/0082-01"
+      ]
+    },
+    {
+      "cite": "116 NW 390",
+      "category": "reporters:state_regional",
+      "reporter": "N.W.",
+      "year": 1908,
+      "opinion_index": 4
+    },
+    {
+      "cite": "152 Mich 486",
+      "category": "reporters:state",
+      "reporter": "Mich.",
+      "case_ids": [
+        1556664
+      ],
+      "year": 1908,
+      "opinion_index": 4,
+      "case_paths": [
+        "/mich/152/0486-01"
+      ]
+    },
+    {
+      "cite": "148 NW 212",
+      "category": "reporters:state_regional",
+      "reporter": "N.W.",
+      "year": 1914,
+      "opinion_index": 4
+    },
+    {
+      "cite": "181 Mich 335",
+      "category": "reporters:state",
+      "reporter": "Mich.",
+      "case_ids": [
+        1652739
+      ],
+      "year": 1914,
+      "opinion_index": 4,
+      "case_paths": [
+        "/mich/181/0335-01"
+      ]
+    },
+    {
+      "cite": "337 NW2d 444",
+      "category": "reporters:state_regional",
+      "reporter": "N.W.2d",
+      "year": 1983,
+      "opinion_index": 4
+    },
+    {
+      "cite": "126 Mich App 159",
+      "category": "reporters:state",
+      "reporter": "Mich. App.",
+      "case_ids": [
+        2224510
+      ],
+      "year": 1983,
+      "pin_cites": [
+        {
+          "page": "163"
+        }
+      ],
+      "opinion_index": 4,
+      "case_paths": [
+        "/mich-app/126/0159-01"
+      ]
+    },
+    {
+      "cite": "153 NW2d 660",
+      "category": "reporters:state_regional",
+      "reporter": "N.W.2d",
+      "year": 1967,
+      "opinion_index": 4
+    },
+    {
+      "cite": "379 Mich 568",
+      "category": "reporters:state",
+      "reporter": "Mich.",
+      "case_ids": [
+        1891490
+      ],
+      "year": 1967,
+      "pin_cites": [
+        {
+          "page": "572"
+        }
+      ],
+      "opinion_index": 4,
+      "case_paths": [
+        "/mich/379/0568-01"
+      ]
+    },
+    {
+      "cite": "98 NW 1006",
+      "category": "reporters:state_regional",
+      "reporter": "N.W.",
+      "year": 1904,
+      "pin_cites": [
+        {
+          "parenthetical": "Grant, J., dissenting"
+        }
+      ],
+      "opinion_index": 4
+    },
+    {
+      "cite": "136 Mich 172",
+      "category": "reporters:state",
+      "reporter": "Mich.",
+      "case_ids": [
+        1468474
+      ],
+      "year": 1904,
+      "pin_cites": [
+        {
+          "page": "183",
+          "parenthetical": "Grant, J., dissenting"
+        }
+      ],
+      "opinion_index": 4,
+      "case_paths": [
+        "/mich/136/0172-01"
+      ]
+    },
+    {
+      "cite": "198 NW 912",
+      "category": "reporters:state_regional",
+      "reporter": "N.W.",
+      "year": 1924,
+      "opinion_index": 4
+    },
+    {
+      "cite": "227 Mich 355",
+      "category": "reporters:state",
+      "reporter": "Mich.",
+      "case_ids": [
+        1688870
+      ],
+      "year": 1924,
+      "opinion_index": 4,
+      "case_paths": [
+        "/mich/227/0355-01"
+      ]
+    },
+    {
+      "cite": "140 NW 1009",
+      "category": "reporters:state_regional",
+      "reporter": "N.W.",
+      "year": 1913,
+      "opinion_index": 4
+    },
+    {
+      "cite": "175 Mich 77",
+      "category": "reporters:state",
+      "reporter": "Mich.",
+      "case_ids": [
+        1672547
+      ],
+      "year": 1913,
+      "opinion_index": 4,
+      "case_paths": [
+        "/mich/175/0077-01"
+      ]
+    },
+    {
+      "cite": "99 NW 790",
+      "category": "reporters:state_regional",
+      "reporter": "N.W.",
+      "year": 1904,
+      "opinion_index": 4
+    },
+    {
+      "cite": "136 Mich 621",
+      "category": "reporters:state",
+      "reporter": "Mich.",
+      "case_ids": [
+        1468569
+      ],
+      "year": 1904,
+      "opinion_index": 4,
+      "case_paths": [
+        "/mich/136/0621-01"
+      ]
+    },
+    {
+      "cite": "62 NW 401",
+      "category": "reporters:state_regional",
+      "reporter": "N.W.",
+      "year": 1895,
+      "opinion_index": 4
+    },
+    {
+      "cite": "104 Mich 320",
+      "category": "reporters:state",
+      "reporter": "Mich.",
+      "case_ids": [
+        1514139
+      ],
+      "year": 1895,
+      "pin_cites": [
+        {
+          "page": "324"
+        }
+      ],
+      "opinion_index": 4,
+      "case_paths": [
+        "/mich/104/0320-01"
+      ]
+    },
+    {
+      "cite": "35 NW 67",
+      "category": "reporters:state_regional",
+      "reporter": "N.W.",
+      "year": 1887,
+      "opinion_index": 4
+    }
+  ],
+  "analysis": {
+    "cardinality": 2528,
+    "char_count": 142494,
+    "ocr_confidence": 0.777,
+    "pagerank": {
+      "raw": 2.9006742909138945e-07,
+      "percentile": 0.8450479159209668
+    },
+    "sha256": "f70e5a8d242210597898ac559cf4521dca1a21c56accbc059fb5f2353f7dc6a4",
+    "simhash": "1:f4b1a69fcdd490a8",
+    "word_count": 22906
+  },
+  "last_updated": "2024-02-27T18:11:16.460176+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Griffin, J., concurred with Riley, J.",
+      "Mallett, J., concurred with Levin, J."
+    ],
+    "parties": [
+      "CHANEY v DEPARTMENT OF TRANSPORTATION"
+    ],
+    "opinions": [
+      {
+        "text": "Brickley, J.\nThis case asks us to decide whether the highway exception to governmental immunity encompasses a concrete bridge abutment and adjoining guardrail adjacent to, but beyond the shoulder of, a state trunk line entrance ramp and overpass. The Court of Appeals relied upon our plurality opinion in Scheurman v Dep\u2019t of Transportation, 434 Mich 619; 456 NW2d 66 (1990), to reverse the Court of Claims denial of defendant\u2019s motion for summary disposition. While we agree with the result reached by the Court of Appeals, we do not fully endorse its rationale. 198 Mich App 728; 499 NW2d 29 (1993). We hold that because the abutment and guardrail are neither part of \"the improved portion of the highway designed for vehicular travel,\u201d nor installations integrally and directly affecting safe vehicular travel upon the improved portion, governmental immunity bars the cause of action set forth in plaintiff\u2019s complaint.\ni\nPlaintiff was injured when his motorcycle left the roadway of a highway entrance ramp and overpass, crossed the shoulder, and struck either a metal guardrail or concrete abutment immediately adjacent to, but beyond, the shoulder. Plaintiff was thrown over the bridge railing and landed next to a median barrier on the highway below, incurring a number of injuries.\nPlaintiff filed suit in the Court of Claims, alleging that the entrance ramp was owned by the state and under the jurisdiction and control of defendant who, plaintiff maintained, had responsibility for the design, construction, and maintenance of those bridge railings on the entrance ramp. Plaintiff\u2019s complaint specifically alleged that defendant had failed to properly design and construct the bridge railing, failed to inspect the entrance ramp for dangerous conditions, and failed to provide adequate warnings of dangers on the entrance ramp. The complaint further alleged that these negligent acts and omissions were the direct and proximate cause of plaintiff\u2019s injuries.\nDefendant moved for summary disposition and, relying upon our decision in Scheurman, supra, argued that because of governmental immunity it was under no duty to maintain bridge railings \"which fall outside the traveled and paved portion of the roadbed actually designed for public vehicular travel.\u201d The Court of Claims denied summary disposition, concluding that guardrails are \"designed to affect the way vehicles travel down the road.\u201d Invoking stare decisis and explaining that it was bound to \"follow\u201d our holding in Scheurman, the Court of Appeals reversed in a per curiam opinion. Specifically, the Court of Appeals concluded that because the bridge railing \"was neither 'roadbed\u2019 nor 'designed for vehicular travel,\u2019 governmental immunity applies and defendant should not be held liable for plaintiff\u2019s injuries\u201d (citing Scheurman).\nii\nA\nAs a general rule, governmental agencies are immune from tort liability for actions taken in furtherance of a governmental function. MCL 691.1407; MSA 3.996(107). The Legislature has articulated limited exceptions to this general rule, including the highway exception, which mandates that a governmental agency having jurisdiction over any highway\nshall maintain the highway in reasonable repair so that it is reasonably safe and convenient for public travel. [MCL 691.1402(1); MSA 3.996(102X1).]\nNotably, for activities undertaken to fulfill this mandate, both the government\u2019s duty and its liability are limited to that \"improved portion of the highway designed for vehicular travel.\u201d It is this limiting language which we interpret and apply in the instant case.\nAs this Court explained in Ross v Consumers Power (On Rehearing), 420 Mich 567; 363 NW2d 641 (1984), the statutory grant of governmental immunity is broad, and its exceptions are narrowly drawn. We are mindful, however, that like all judicial interpretations of statutory provisions, this Court is bound by the well-established rule that our primary goal is to give effect to the controlling intent of the Legislature. Lorencz v Ford Motor Co, 439 Mich 370; 483 NW2d 844 (1992). Accordingly, while we address our efforts in the shadow of a narrowly drawn statutory exception, our analysis inextricably proceeds toward the light of legislative intent.\nThe legislative purpose for the highway exception is, we believe, a clear one: to enhance the safety of public travel upon state-owned highways. This interpretation of the highway exception was first articulated in Roy v Dep\u2019t of Transportation, 428 Mich 330, 341; 408 NW2d 783 (1987), and was most recently reaffirmed in Gregg v Dep\u2019t of State Hwys, 435 Mich 307, 316; 458 NW2d 619 (1990). We expressly reiterate and adopt it today.\nAs was first explained in Roy, the legislative purpose underlying the highway exception is fulfilled by requiring certain governmental agencies to \"repair and maintain the highway so that the improved portion designed for vehicular travel is reasonably safe and convenient for public travel.\u201d Roy, supra at 341. Although this duty to \"repair and maintain\u201d is a limited one\u2014extending only to that \"improved portion of the highway designed for vehicular travel\u201d\u2014within this conceptual boundary the statutory goal of maintaining safe highways is clear and unambiguous. Because we are obligated to give effect to the controlling legislative intent of this exception, it. is against the backdrop of this statutory purpose that we today interpret and apply the limiting language of MCL 691.1402; MSA 3.996(102).\nB\n1. ROY v dep\u2019t OF TRANSPORTATION\nThe highway exception, and its limiting language, was first examined by this Court in Roy. There we held that a bicycle path adjacent to, but separate and detached from, a highway was not part of the improved portion of that highway designed for vehicular travel. Id. at 340. In reaching this conclusion, we focused primarily on the location of the allegedly defective installation. Specifically, we explained that \"the [highway exception] does not offer general protection to pedestrians or motorists without regard to location,\u201d and that \"[t]he criterion used by the Legislature was not based on the class of travelers, but the road on which they travel.\u201d Id. at 341 (emphasis added). Because the bicycle path in Roy was located beyond the improved portion designed for vehicular travel, we concluded that governmental immunity from suit was not abrogated by the highway exception.\n2. SCHEURMAN v DEP\u2019t OF TRANSPORTATION\nThe location of allegedly defective installations was again emphasized by this Court in Scheurman. There we held that the failure to install lighting along a state trunk line did not subject the government to potential liability because \"the physical structure of the lights falls outside the traveled or paved portion of the roadbed actually designed for public vehicular travel.\u201d Id. at 633. Notably, while four justices in Scheurman joined in the rationale and result of the lead opinion, only three justices expressly subscribed to its holding that the limiting language of MCL 691.1402; MSA 3.996(102) \"refers only to the traveled portion, paved or unpaved, of the roadbed actually designed for vehicular travel.\u201d Id. at 623. Con-versely, four justices specifically expressed their desire for an interpretation of the limiting language that would include installations\u2014even those located outside the improved portion of a highway designed for vehicular travel\u2014that integrally affected safe travel on the improved portion.\nWe interpret Scheurman as reiterating the general rule, first articulated by this Court in Roy, that the highway exception does not normally include installations physically separate and detached from the paved or traveled portion of a highway. As is explained below, this interpretation is consistent with Gregg, supra, this Court\u2019s most recent majority interpretation of the highway exception. This interpretation of Scheurman is also consistent with the position we take in the instant case.\n3. GREGG v dep\u2019t OF STATE HWYS\nIn Gregg, supra, a majority of this Court again affirmed that location is a key determinant for properly defining and applying the highway exception. There we held that a bicycle path running between the traveled portion of a highway and its paved shoulder comprised part of the improved highway \"designed for vehicular travel.\u201d In reaching this conclusion, we explained that highway shoulders, while not part of the normally traveled roadbed, were nevertheless intended and designed for vehicular travel. Id. at 314, citing Johnson v Michigan, 32 Mich App 37; 188 NW2d 33 (1971). We held that the highway exception must be tempered by common experience, and that certain installations located beyond the traveled or paved roadway \"are essential to a safe modern highway\u201d so as not to be excluded from the highway exception. Id. at 315. This interpretation of the highway exception, we concluded, was more consistent with the exception\u2019s express purpose of protecting vehicular travelers by mandating the safe repair and maintenance of highways. Id. at 316.\nc\nThe rule that can be derived from these decisions is clear, and we confirm it today: The limiting language of MCL 691.1402; MSA 3.996(102), creating liability only for \"the improved portion of a highway designed for vehicular travel,\u201d encompasses (1) installations physically located within that traveled or paved portion of a highway designed for vehicular travel, or (2) some installations, even those physically located beyond the traveled or paved portion of a highway, that directly and integrally affect safe vehicular travel on this improved portion.\nThis conclusion is consistent with our prior interpretations of the highway exception articulated in Roy and Gregg, supra. Furthermore, this conclusion incorporates the position, advocated by a majority of the justices in Scheurman, that the highway exception should not preclude potential governmental liability in \"cases alleging a failure to 'repair and maintain\u2019 installations that are integral to, if not part of, the 'improved portion of the highway designed for vehicular travel,\u2019 such as traffic lights and signs.\u201d Id. at 637 (opinion of Boyle, J., and dissenting opinion of Brickley, J., joined by Levin and Archer, JJ.).\nMore importantly, this interpretation of the highway exception is consistent with the overriding legislative intent that guides our inquiry today, namely, the assurance of safe, reliable highways to protect public vehicular travel. As we recognized in Roy and Gregg, this intent is manifestly evident from the plain language of MCL 691.1402; MSA 3.996(102), which commands highway authorities to repair and maintain highways for safe public travel.\nDefendant asks us to adopt an interpretation of the highway exception that would limit liability exclusively to alleged defects arising on \"part of the physical structure of the roadbed\u201d or \"relat[ing] to conditions arising out of the roadbed.\u201d While we conclude in this case that a physical installation off the improved portion does not escape immunity, in view of the expressions of a majority of this Court in the above-referenced opinions, we respectfully decline defendant\u2019s request for such a limited interpretation of the highway exception. Even the most minimalist assurances of vehicular safety demand more than simply decreeing that potholes be repaired, and proper striping applied, to those state-owned highway's so greatly relied upon by both citizens and guests of this state. We do not interpret the limiting language of MCL 691.1402; MSA 3.996(102) in a manner so clearly inconsistent with, and damaging to, the highway exceptibn\u2019s clear and overriding legislative mandate demanding safe highways.\nNevertheless, it must be emphasized that the scope of liability under the highway exception is not all-encompassing. Indeed, potential liability is expressly limited to that \"improved portion of a highway designed for vehicular travel.\u201d MCL 691.1402; MSA 3.996(102). This limiting phrase, of course, necessarily defines the scope of duties and liabilities sanctioned by the highway exception. In this respect, the restrictive phrase is a spatial limitation: all duties, and all liabilities, must accomplish the purpose of promoting safe vehicular travel on the improved portion.\nTo summarize: in light of the clear legislative purpose that we must uphold, we interpret the limiting language of the highway exception as including only installations physically located on, or deemed to integrally affect, those properties comprising \"the improved portion of a highway designed for vehicular travel.\u201d This interpretation adequately fulfills the legislative goals of the provision, while recognizing that it is also a narrowly defined exception to a broad grant of immunity.\nm\nTurning now to the facts of this instant case we conclude, albeit for different reasons, that the Court of Appeals did not err in reversing the Court of Claims denial of defendant\u2019s motion for summary disposition. Accordingly, we affirm the decision of the Court of Appeals.\nThe Court of Appeals read our decision in Scheurman as having interpreted the statutory phrase \"improved portion of the highway designed for vehicular travel\u201d to encompass only \"the traveled portion of a roadbed actually designed for public vehicular travel.\u201d Chaney, supra at 730. We note that this narrow reading does not comport with our interpretation of the limiting language. Rather, and as explained above, we have interpreted this statutory phrase as including installations physically located within that traveled or paved portion of a highway designed for vehicular travel (including that \"traveled portion of a roadbed actually designed for public vehicular travel\u201d), as well as, in some narrowly defined circumstances, installations located beyond this improved portion that directly and integrally affect safe vehicular travel on the highway.\nApplying this interpretation of the limiting language, we conclude that governmental immunity precludes liability for the bridge railing at issue in this instant case. First, it is clear that this bridge railing\u2014lying outside both the curb and the shoulder of the highway\u2014is not physically located within that improved portion of the highway designed for vehicular travel. Unlike the bicycle path in Gregg, this bridge railing is not part of the highway shoulder. Rather, like the bike path in Roy, this bridge railing is physically separate and \"detached\u201d from the improved portion of this highway.\nSecond, the bridge railing does not directly and integrally affect vehicular travel along the improved portion of this highway. Neither a guardrail nor a concrete abutment, located beyond the shoulder of a highway, has any effect upon the safe and convenient passage of vehicles while on the improved portion. In this respect, the bridge railing here is markedly different from the traffic lights and signs alluded to by Justice Boyle in Scheurman, supra. Traffic signals and signs are purposely designed to directly affect the flow of vehicular traffic on the improved portion of a highway. If these installations fail, traffic on the improved portion of a highway is directly and integrally affected: the likelihood of accidents increases, as does the related probability of injury to vehicular passengers.\nIn contrast, a guardrail or concrete abutment permanently located beyond the shoulder of a highway simply cannot cause an accident that originates on the improved portion of a highway. Indeed, the sole purpose and effect of the bridge railing here\u2014i.e., to prevent vehicles from accidentally leaving the highway\u2014is only implicated after a vehicle has left the improved portion. Accordingly, barriers such as guardrails and concrete abutments are not directly and integrally related to safe travel along the highway\u2014the barrier is simply not necessary for safe vehicular travel on and along the improved portion.\niv\nBecause the bridge railing at issue here was not physically located within the improved portion of a highway designed for vehicular travel, and because it did not directly and integrally affect safe vehicular travel on the improved portion of the highway, we conclude that the highway exception is inapplicable and that governmental immunity is available to defendant. Accordingly, we affirm the decision of the Court of Appeals.\nMCL 691.1402(1); MSA 3.996(102)(1) provides, in pertinent part, that:\nEach governmental agency having jurisdiction over any highway shall maintain the highway in reasonable repair so that it is reasonably safe and convenient for public travel. Any person sustaining bodily injury or damage to his or her property by reason of failure of any governmental agency to keep any highway under its jurisdiction in reasonable repair, and in condition reasonably safe and fit for travel, may recover the damages suffered by him or her from the governmental agency. . . . The duty of the state and the county road commissions to repair and maintain highways, and the liability therefor, shall extend only to the improved portion of the highway designed for vehicular travel and shall not include sidewalks, crosswalks, or any other installation outside of the improved portion of the highway designed for vehicular travel.\nPlaintiff does not recall whether he struck the metal guardrail or concrete abutment. Plaintiff\u2019s original complaint and the brief filed with this Court describe the guardrail and abutment collectively as a \"bridge railing.\u201d It appears from a photograph included in both plaintiff\u2019s and defendant\u2019s appendices that the guardrail merges into the concrete abutment at that point where the entrance ramp becomes a bridge overpass spanning the highway below. Plaintiff has not contested the accuracy of this photograph.\nBecause any distinction between the guardrail and abutment is irrelevant for purposes of our decision, like the plaintiff, we will, unless otherwise noted, hereinafter refer to this guardrail and abutment collectively as a \"bridge railing.\u201d Additionally, and unless otherwise noted, we will refer to both the entrance ramp and the overpass as an \"entrance ramp.\u201d\n198 Mich App 728; 499 NW2d 29 (1993), lv gtd 444 Mich 900 (1993).\nSimilarly, in a companion case decided with Scheurman, this Court held that a hedge growing on private property that obstructed the view of highway travelers \"cannot be categorized as a defective condition upon 'the improved portion of the highway designed for vehicular travel ....\u2019\u201d Id. at 635. Accordingly, it concluded that liability could not be imposed, per the highway exception, upon the defendant road commission because of the hedge.\nChief Justice Riley authored, and Justices Griffin and Cavanagh joined, the plurality opinion in Scheurman.\nSpecifically, three dissenting justices concluded that the plurality opinion, by limiting liability to the traveled or paved portion of a roadbed actually designed for vehicular travel, \"negate[d] the fundamental legislative purpose underlying the highway exception to immunity\u201d: \"a clear legislative purpose and policy to compensate persons injured because of a governmental agency\u2019s failure to maintain highways in a condition safe for public travel.\u201d Id. at 640 (Brickley, J., dissenting, joined by Justices Levin and Archer); see also id. at 648 (the dissent\u2019s argument that the majority holding \"seriously undermines the legislative mandate of \u00a7 2 to maintain safe highways\u201d). The dissenting justices would have held that\nthe \"improved portion\u201d language of [MCL 691.1402; MSA 3.996(102)] does not distinguish the surface of the highway as opposed to conditions other than the surface of the highway which may well foreclose the highway from being \"reasonably safe.\u201d [Id. at 641.]\nAdditionally, while concurring in both the rationale and result of the lead opinion, Justice Boyle also indicated a preference for interpreting the limiting language to include installations \"integral to\u201d safe passage along the improved portion of a highway. Specifically, Justice Boyle expressly concurred in the lead opinion:\n[W]ith the understanding that it does not preclude the application of MCL 691.1402; MSA 3.996(102) in cases alleging a failure to \"repair and maintain\u201d installations that are integral to, if not part of, the \"improved portion of the highway designed for vehicular travel,\u201d such as traffic lights and signs. [Id. at 637.]\nBecause I stand alone on my position concerning the highway exception to governmental immunity, and thus have contributed to this Court\u2019s badly fractured view of what the Legislature has divined in its effort to provide this exception, I wish to offer\u2014for whatever value it might be to the bench and bar\u2014my individual view of where I think the fracture lines are formed.\n.There are, in my view, three basic positions represented by the various opinions in this and previous cases. The first viewpoint is that because the state\u2019s liability is limited to the \"improved portion of the highway designed for vehicular travel,\u201d and because the plain meaning of this statutory language can only be interpreted to encompass the roadbed on which vehicles travel, only those accidents that are caused by a condition directly on this roadbed qualify for the exception to immunity. Post at 168, Riley, J. Scheurman v Dep\u2019t of Transportation, 434 Mich 619; 456 NW2d 66 (1990).\nAnother viewpoint, represented by Justice Levin\u2019s writings, is that any accident that results from the use of the improved portion of the highway, whether or not it occurs thereon or is caused by a condition thereon, is subject to potential liability. Post at 196-198, Levin, J.\nI distinguish my position from the foregoing views in that I read the statute as creating liability for an accident that occurs on the improved portion of the highway caused by a condition that affects that improved portion, regardless of the ultimate location of that cause. Hence, this and my prior decisions allow for recovery when, and only when, the occurrence is on the improved portion and is caused by a condition directly affecting vehicular travel on the improved portion, even though that condition may have been occasioned by an act or an omission outside the improved portion of the highway.\nAs expressed herein, it is my view that this latter interpretation best captures the essence of a statute that provides liability for mishaps occurring on the improved portion of the highway, but which does so without any direct reference to the location of their causality. This interpretation also protects the stated purpose of the statute to avoid liability for accidents that occur outside the improved portion of the highway, regardless of their cause.",
+        "type": "majority",
+        "author": "Brickley, J."
+      },
+      {
+        "text": "Riley, J.\n(concurring in part and dissenting in part). While I agree that the state is immune from liability in the instant case, because I find that it may not be liable for damages arising from installations directly and integrally affecting vehicular safety on the improved portion of the highway unless the highway is unreasonably unsafe because of physical disrepair of the improved portion of the roadbed designed fo\" vehicular travel, I write separately.\ni\nAt issue in the instant case is whether defendant may be held liable for injuries to a motorcyclist that allegedly occurred because of defendant\u2019s failure to properly design, construct, and maintain a bridge railing. The majority holds that defendant is immune from liability from such allegations because bridge railings are neither installations physically located within the traveled or paved portion of the highway designed for vehicular travel nor installations directly and integrally affecting the vehicular safety on the improved portion of the highway. Ante at 161. While I concur with this result, the majority impermissibly expands liability by misconstruing the plain meaning of the statute at issue.\nA\nThe State of Michigan and its subdivisions are not insurers of passengers on Michigan public highways. Salvati v Dep\u2019t of State Hwys, 415 Mich 708, 716; 405 NW2d 850 (1982) (Coleman, J.). The culmination of nearly a century of legislative reform, MCL 691.1402; MSA 3.996(102) crafts a narrow exception to the general common-law principle that the government is immune for injuries arising from the use of public highways:\nEach governmental agency having jurisdiction over any highway shall maintain the highway in reasonable repair so that it is reasonably safe and convenient for public travel. Any person sustaining bodily injury or damage to his or her property for reason of failure of any governmental agency to keep any highway under its jurisdiction in reasonable repair, and in condition reasonably safe and fit for travel, may recover the damages by him or her from the governmental agency. . . . The duty of the state and the county road commissions to repair and maintain highways, and the liability therefor, shall extend only to the improved portion of the highway designed for vehicular travel and shall not include sidewalks, crosswalks, or any other installation outside of the improved portion of the highway designed for vehicular travel.\nThis Court has long held that the fundamental purpose of statutory construction is to determine the intention of the Legislature in enacting the statute. Leoni Twp v Taylor, 20 Mich 148, 154-155 (1870). Because the Legislature is presumed to understand the meaning of the language it places into law, \"[statutory analysis necessarily begins with the wording of the statute itself.\u201d Carr v General Motors Corp, 425 Mich 313, 317; 389 NW2d 686 (1986). Hence, each word of \u00a1an act is \"presumed to be made use of for some purpose,\u201d and \"so far as possible, effect must be\u2019 given to every clause and sentence.\u201d Univ of Michigan Bd of Regents v Auditor General, 167 Mich 444, 450; 132 NW 1037 (1911). Accordingly, the Court may not substitute or redefine a word, People v Crucible Steel Co of America, 150 Mich 563, 567; 114 NW 350 (1907), or assume that the Legislature mistakenly utilized one word or phrase instead of another. Detroit v Redford Twp, 253 Mich 453, 456; 235 NW 217 (1931). Thus, \"'[a] fundamental principle guiding this Court is that a clear and unambiguous statute leaves no room for judicial construction or interpretation.\u201d Coleman v Gurwin, 443 Mich 59, 65; 503 NW2d 435 (1993). In other words, \"[a] statute is not open to construction as a matter of course, but only where the language used in the statute requires interpretation\u2014where it is ambiguous or where 2 or more constructions can be placed upon it, where it is of such doubtful or obscure meaning that reasonable minds might be uncertain or disagree as to its meaning.\u201d Lansing v Lansing Twp, 356 Mich 641, 649; 97 NW2d 804 (1959). These rules of statutory construction are especially appropriate in the instant case because, historically, Michigan has strictly construed statutes imposing liability on the state in derogation of the common-law rule of sovereign immunity. See, e.g., Detroit v Putnam, 45 Mich 263, 265; 7 NW 815 (1881); Johnson v Ontonagon Co Bd of Co Rd Comm\u2019rs, 253 Mich 465, 468; 235 NW 221 (1931).\nB\nThe majority finds that the statute permits liability when injuries arise from \"(1) installations physically located within that traveled or paved portion of a highway designed for vehicular travel, or (2) some installations, even those physically located beyond the traveled or paved portion of a highway, that directly and integrally affect safe vehicular travel on this improved portion.\u201d Ante at 158. The majority reasons that such an interpretation of the statute is consistent with both precedent and the legislative intent of the statute. Id.\nContrary to the conclusion of the majority, the clear and unambiguous language of the statute imposes liability only when the physical highway is unreasonably unsafe because of physical disrepair of the improved portion of the road designed for vehicular travel. The language is not so doubtful or obscure that reasonable minds need to search behind its words to find its meaning. This Court has explained:\n[T]he duty imposed by the statute upon the state and county road commissions is restricted to the \"improved portion of the highway designed for vehicular travel . . . In Roy [v Dep\u2019t of Transportation, 428 Mich 330, 339; 408 NW2d 783 (1987)], we observed that the limited scope of the term \"highway\u201d found in \u00a7 2 parallels the common understanding of the word. We are in accord with the conclusion reached in Roy. Therefore, we hold today that the phrase \"improved portion of the highway designed for vehicular travel\u201d refers only to the traveled portion, paved or unpaved, of the roadbed actually designed for public vehicular travel. Roy, supra.\nThe purpose of the highway exception is not to place upon the state or counties an unrealistic duty to ensure that travel upon the highways will always be safe. Looking to the language of the statute, we discern that the true intent of the Legislature is to impose a duty to keep the physical portion of the traveled roadbed in reasonable repair. [Scheurman v Dep\u2019t of Transportation, 434 Mich 619, 630-631; 456 NW2d 66 (1990).]\nHence, \"compliance with the conditions and restrictions of the highway exception statute negates the inclusion of street lighting within the duty of the state because the physical structure of the lights falls outside the traveled or paved portion of the roadbed actually designed for public vehicular travel.\u201d Id. at 633. Similarly, a county is not liable for obstructions of the highway caused by private hedges because it lacks any \"connection to the traveled portion of the roadbed designed for public vehicular traffic.\u201d Id. at 636.\nThe plain language of the statute, therefore, simply does not permit liability for injuries arising from a bridge railing. A bridge railing is not an \"improved portion of the highway designed for vehicular travel.\u201d While a bridge railing is designed for vehicular safety, it is not a portion of the highway on which motor vehicles were designed to travel. Nor does the statute expressly impose liability for bridge railings. To the contrary, the bridge railings, separated from the roadbed by a raised curb and a paved shoulder, are akin to \"sidewalks, crosswalks, or any other instal- \u2018 lation outside the improved portion of the highway . . . .\u201d Generally, bridge railings, not unlike lighting or vegetation, exist outside the improved portion of the highway designed for vehicular travel and are not a part of the roadbed. Nor are there allegations that this particular bridge railing posed a danger to those traveling on the improved portion of the highway. Thus, the unambiguous language of the statute excludes injuries arising from the bridge railing._\nIn Scheurman, supra at 632, the Court noted that necessity of lighting for safety purposes was not the issue before it, but whether lighting was an improved portion of the highway designed for vehicular travel. Similarly, contrary to the conclusion of the majority, the issue in the instant case is not whether bridge railings are necessary for safety, but whether an exception to common-law immunity has been provided for accidents arising from the failure to properly design, maintain, and repair such installations. The majority, however, ignores the narrow issue presented and expands - the sovereign immunity exception to include all injuries arising from any installation that \"directly and integrally affecfjsj safe vehicular travel on\u201d the improved portion of the highway in contradiction of the clear language of the statute. Ante at 158. While the obvious purpose undergirding the section is to compensate injured persons when the highway is unsafe for vehicular travel, it does so only in very limited circumstances. The statute does not provide blanket liability for all injuries that deprive drivers of conditions essential to safety on the highway itself. The statute only provides for liability if the injuries arise from the failure to repair or maintain the improved portion of the highway designed for vehicular travel. The majority attempts to reconcile this holding with precedent and legislative intent, but ignores the proper focus of the inquiry: the plain language of the statute.\nFurthermore, the holding is inconsistent with Scheurman. The majority explains that liability may arise from those installations \"deemed to integrally affect, those properties comprising 'the improved portion of a highway designed for vehicular travel.\u2019 \u201d Ante at 160. Thus, installations beyond the roadbed, but which affect traffic on it, may give rise to liability. This Court, however, has rejected liability arising from blocked vision caused by overhanging hedges or inadequate lighting, both of which are located outside the roadbed, but which also affect traffic on the roadbed. Id. In effect, the majority overrules Scheurman because hedges and lighting that block drivers\u2019 vision certainly affect s\u00ed ,'efy on the highway. Indeed, adequate lighting and unobstructed views are more essential to the proper and safe flow of traffic because bridge railings, as the majority notes, have no \"effect upon the safe and convenient passage of vehicles while on the improved portion.\u201d Ante at 161.\nThe majority\u2019s holding appears to be based on the conclusion that the Legislature could not have been so unwise as to have intended a result inconsistent with the majority\u2019s. Yet, the wisdom, fairness, or incongruity of the statute is not our concern. The judiciary may not amend statutes to conform with its policy preferences. The Legislature, not the Court, is the lawmaking authority within our constitutional order of separate powers. Unless the constitution invalidates a legislative enactment, the propriety and wisdom of such enactments are not for this Court to question. Unwise legislative enactments must be rectified by the democratic safeguards and checks in the constitution: ballot box, initiative, referendum, or constitutional amendment. Finding itself wiser than the Legislature and the people, the majority reaches beyond the plain language of the act and crafts a new statute reflective of its sensibilities. Because this is not our role in the constitutional order, I concur solely with the result reached by the majority.\nGriffin, J., concurred with Riley, J.\nAt common law, local governments were immune from suits arising from the negligent upkeep of highways. Nile Twp Hwys Comm\u2019rs v Martin, 4 Mich 557 (1857). With the passage of 1879 PA 244, 1 How Stat 1442, however, the Legislature provided for broad liability for bodily injury arising from the negligent upkeep of public highways, bridges, crosswalks, and culverts. 1887 PA 264, 3 How Stat 1446c, expanded liability to include sidewalks. Liability remained essentially the same until 1964 PA 170 restored governmental immunity in some areas and expanded it in others; the act also provided greater uniformity. For a thorough history of sovereign immunity with regard to public highways, see Roy v Dep\u2019t of Transportation, 428 Mich 330, 336-338; 408 NW2d 783 (1987).\nAs Justice Cooley explained, \"the courts have nothing to do but to obey\u201d a clear statute. People ex rel Twitchell v Blodgett, 13 Mich 127, 167 (1865).\nSimilarly, the Court has rejected the imposition of liability for bicycle paths that are detached from, but parallel to, the traveled portion of the highway, Roy, supra at 331, while imposing liability for such paths that are part of the paved portion of the highway. Gregg v Dep\u2019t of State Hwys, 435 Mich 307, 316; 458 NW2d 619 (1990).\nJustice Levin, however, finds:\nIn providing, in the fourth sentence of the highway exception, that the duty \"to repair and maintain highways, and the liability therefor\u201d shall not extend to \"any other installation outside of the improved portion of the highway designed for vehicular travel,\u201d the Legislature did not relieve the moot of its duty, and liability therefor, under the first two sentences of the highway exception, to repair and maintain the improved portion of the highway designed for vehicular travel in condition reasonably safe and fit for travel, including installation of guardrails reasonably necessary to maintain the improved portion reasonably safe and fit for travel. [Post at 193-194.J\nYet, Justice Levin\u2019s conclusion that the first and second sentences of the provision impose duties and liabilities for damages beyond the \"improved portion of the highway designed for vehicular travel\u201d is belied by the language of the statute. While the first two sentences of the statute impose general duties and liability on defendant to \"maintain the highway in reasonable repair,\u201d the fourth sentence explicitly limits such liability \"to-the improved portion of the highway designed for vehicular travel\u201d and exempts from liability \"sidewalks, crosswalks, or any other installation outside of the improved portion of the highway designed for. vehicular travel.\u201d While Justice Levin repeatedly criticizes members of the Court for ignoring statutory language and for so-called \"myopic\u201d interpretations of the statute at issue, his interpretation blatantly misconstrues the statute by making meaningless the fourth sentence of the provision.\nThus, injuries arising from crumbling roads or collapsing bridges, for instance, are clearly compensable.\nArt 2, \u00a7 8 (\"Laws shall be enacted to provide for the recall of all elective officers except judges of courts of record\u201d); art 4, \u00a7 2 (senators are to be elected every four years); art 4, \u00a7 3 (representatives are to be elected every two years); art 5, \u00a7 21 (the Governor is to be elected every four years).\nArt 2, \u00a7 9 (\"The people reserve to themselves the power to propose laws and to enact and reject laws, called the initiative\u201d).\nId. (\"The people reserve to themselves . . . the power to approve or reject laws enacted by the legislature, called the referendum\u201d).\nArt 12, \u00a7\u00a7 1-3 (outlining three methods to amend the state constitution).",
+        "type": "concurring-in-part-and-dissenting-in-part",
+        "author": "Riley, J."
+      },
+      {
+        "text": "Boyle, J.\n(concurring). I agree with Justice Brickley\u2019s conclusion that the defendant is immune from liability for accidents that are allegedly caused by its failure to properly repair, maintain, or construct concrete bridge abutments or guardrails that are beyond the shoulder of a state trunk line. I write separately because I do not agree that the highway exception encompasses accidents arising out of any installation that \"directly and integrally affect[sj safe vehicular travel on this improved portion.\u201d Ante at 158.\nBy statute, governmental agencies are immune from tort liability while engaging in a governmental function, except activities that fall within one of the narrowly drawn exceptions. See MCL 691.1407; MSA 3.996(107); Ross v Consumers Power Co (On Rehearing), 420 Mich 567, 618; 363 NW2d 641 (1984). The outcome of this case hinges on the highway exception found in MCL 691.1402(1); MSA 3.996(102)(1).\nUnder the highway exception, the state\u2019s duly to maintain and repair the highway and its liability for failure to do so are restricted to the \"improved portion of the highway designed for vehicular travel\u201d:\nThe duty of the state and county road commissions to repair and maintain highways, and the liability therefor, shall extend only to the improved portion of the highway designed for vehicular travel and shall not include sidewalks, crosswalks, or any other installation outside of the improved portion of the highway designed for vehicular travel. [MCL 691.1402(1); MSA 3.996(102)(1).]\nThe difficulty is that the phrase \"improved portion of the highway designed for vehicular travel\u201d draws no obvious line. We know, because the statute tells us, that it does not include sidewalks and crosswalks, which are for pedestrian travel. However, the contrast between the improved portion and \"any other installation outside of the improved portion\u201d is not helpful because, in this context, the word \"outside\u201d does not seem to denote a spatial relationship. \"Crosswalks,\u201d one example of an \"installation outside of the improved portion,\u201d are not physically outside the highway, but are instead part of the pavement and are shared with vehicular traffic.\nIt seems to be generally agreed that the improved portion includes the paved surface as well as bicycle paths that are part of the paved portion. See Gregg v Dep\u2019t of State Hwys, 435 Mich 307, 316; 458 NW2d 619 (1990). On the other hand, it does not include bicycle paths that are detached from, but parallel to, the traveled portion of the roadway. Roy v Dep\u2019t of Transportation, 428 Mich 330, 331; 408 NW2d 783 (1987).\nIt also seems to be agreed that, as a general rule, the \"improved portion of the highway designed for vehicular travel\u201d does not include installations outside the edges of the roadway. The limiting sentence was the subject of this Court\u2019s decision in Scheurman v Dep\u2019t of Transportation, 434 Mich 619; 456 NW2d 66 (1990). In that case, we held that governmental agencies are immune from liability for failing to install lighting next to a freeway because \"the physical structure of the lights falls outside the traveled or paved portion of the roadbed actually designed for public vehicular travel.\u201d Id. at 633. In a companion case, we held that a hedge growing on private property that allegedly interfered with a driver\u2019s vision was not part of the improved portion of the highway. Id. at 635.\nI cannot agree, however, with Justice Brickley\u2019s statement that the highway exception includes \"some installations, even those physically located beyond the traveled or paved portion of a highway, that directly and integrally affect safe vehicular travel on this improved portion.\u201d Ante at 158. The test is less helpful than the statute itself. I am now persuaded that the test is so imprecise that it would foster litigation with no clear countervailing benefit. Governmental agencies attempting to avoid liability by fulfilling their duty cannot know with certainty what it is that they are required to do. Injured persons seeking advice regarding litigation could not be given reasonable evaluation of the parameters of the government\u2019s responsibility, and trial judges would be left without standards to determine the question of the scope of the duty to maintain. In the end, the phrase would mean that governmental agencies will be liable whenever this Court, at the end of a long and expensive road of appellate litigation, deems it reasonable.\nAlthough the language of the statute is far from clear, I think the best course for this Court is clear. We should reaffirm the precedents of this Court that construed the exception after its adoption and say that the state (and counties) may be liable under the highway exception only when it falls to repair and maintain the paved surface of the roadway, including objects on and structures supporting that surface, or traffic signs or traffic signals necessary for safe vehicular travel.\nOf course, given this clarification, it will not follow that all variations of the above-listed defects will come within the exception. Because the issue is not squarely presented in the case before us, we cannot say with certainty that there can be any liability for given signs and signals. However, traffic signs and traffic signals in general are improvements that are designed for vehicular travel, as opposed to pedestrian traffic, and are essential to safe and efficient vehicular travel. Moreover, there is textual support for the conclusion that governmental agencies may be liable for failing to repair or maintain signs and signals. By the early eighties, it was established that \"the duty to maintain a highway in reasonable repair encompasses the maintenance of traffic signs.\u201d Salvati v Dep\u2019t of State Hwys, 415 Mich 708, 715; 330 NW2d 64 (1982). In 1986, the Legislature narrowed liability under the highway exception by excluding trees and utility poles from the definition of \"highway\u201d as that term is used in the highway exception. MCL 691.1401(e); MSA 3.996(101)(e). Before the amendment, this section had stated merely that \"[t]he term 'highway\u2019 shall not be deemed' to include alleys.\u201d Because, at that time, governmental units could be liable for failing to repair and maintain traffic lights and signs, and because the Legislature restricted liability without mentioning signs and traffic lights, it is reasonable to infer that it intended that governmental units should be liable for failing to repair and maintain signs and signals.\nIn this case, I would affirm the decision of the Court of Appeals. The plaintiff\u2019s claim is barred by governmental immunity because he does not allege a failure to repair and maintain the paved surface of the roadway or a traffic sign or signal.\nEach governmental agency having jurisdiction over any high.way shall maintain the highway in reasonable repair so that it \u25a0is reasonably safe and convenient for public travel. Any person sustaining bodily injury or damage to his or her property by reason of failure of any governmental agency to keep any highway under its jurisdiction in reasonable repair, and in condition reasonably safe and fit for travel, may recover the damages suffered by him or her from the governmental agency. The liability, procedure and remedy as to county roads under the jurisdiction of a county road commission shall be as provided in section 21 of chapter IV of Act No. 283 of the Public Acts of 1909, as amended, being section 224.21 of the Michigan Compiled Laws. The duty of the state and county road commissions to repair and maintain highways, and the liability therefor, shall extend only to the improved portion of the highway designed for vehicular travel and shall not include sidewalks, crosswalks, or any other installation outside of the improved portion of the highway designed for vehicular travel. No action shall be brought against the state under this section except for injury or loss suffered on or after July 1, 1965. Any judgment against the state based on a claim arising under this section from acts or omissions of the state transportation department shall be payable only from restricted funds appropriated to the state transportation department or funds provided by its insurer.\nThe duty to maintain and repair sidewalks and crosswalks falls on local governments, including cities, villages, and townships. See Mason v Wayne Co Bd of Comm\u2019rs, 447 Mich 130, 136, n 6; 523 NW2d 791 (1994).\nSee Mason, n 2 supra, p 136, n 5.\nIn Scheurman, the plaintiff\u2019s decedent was killed attempting to cross Eight Mile Road in the City of Detroit after dark. The plaintiff sued the Department of Transportation, alleging negligence on the ground that it had failed to keep the road in a condition safe and fit for public travel. More specifically, it had not installed streetlights on that portion of Eight Mile Road.\nIn a companion case, Prokop v Wayne Co Bd of Ed Comm\u2019rs, the plaintiff sued the Wayne County Road Commission on the grounds that it had failed to keep the road reasonably safe for travel because it failed to trim or remove a hedge that grew on private property. The plaintiff had been riding her bicycle westbound on Schoolcraft Road toward the intersection with Columbia Street. The trafile light turned green, and she proceeded into the intersection. At the same time, a van traveling northbound on Columbia Street approached the intersection. It was a T-type intersection that forced him to turn. As the van began to turn east on Schoolcraft, it struck the plaintiff. The driver claimed that he, too, had the green light. The visibility of both drivers, however, had been obstructed by a six-foot hedge growing on the southeast corner of the intersection.\nWe have held that this duty includes the duty to repair defects in design or construction. See Peters v Dep\u2019t of State Hwys, 400 Mich 50; 252 NW2d 799 (1977).\nIn this regard, see Mason, n 2 supra, holding that governmental agencies cannot be liable for failing to install signs that do not warn of danger to vehicular trafile.\nIn Salvati, Justice Coleman, joined by Chief Justice Fitzgerald and Justice Ryan, summarized the duty as follows:\nA governing unit may incur liability under the broad concept of \"trafiic sign maintenance\u201d in the following ways: for failing to properly maintain a sign placed on the roadway, O\u2019Hare v Detroit, 362 Mich 19; 106 NW2d 538 (1960); for failing to erect any sign or warning device at a point of hazard, Bonneville v Alpena, 158 Mich 279; 122 NW 618 (1909); Mullins v Wayne County, 16 Mich App 365; 168 NW2d 246 (1969); for positioning an improper system of signs on the roadway, National Bank of Detroit v Dep\u2019t of State Highways, 51 Mich App 415; 215 NW2d 599 (1974); or for placing a sign which inadequately informs approaching motorists of a hazard, Lynes v St Joseph County Road Comm, 29 Mich App 51; 185 NW2d 111 (1970). While the highway authority has discretion in the erection of traffic control signs, MCL 257.608; MSA 9.2308, this discretion may not be capitalized upon to shield the authority from liability for highway defects, see Mullins, supra, 381, nor should compliance with standard manual specifications similarly act wholly to absolve the highway authority from liability. However, National Bank of Detroit, supra, suggests that compliance with traffic manual standards is a factor to consider in determining the reasonableness of the state\u2019s actions at the time of the accident. [415 Mich 715.]\nJustice Levin, joined by Justices Kavanagh and Williams, would have found a duty at least as expansive. See id. at 721.\nCf. Dettloff v Royal Oak, 178 Mich App 319; 443 NW2d 410 (1989) (affirming dismissal of the case on the ground of governmental immunity where the plaintiff alleged that she had slipped and fallen in an alley).\nWe concede that tho inference is, at best, approximate. The Legislature\u2019s failure to exclude signs or lights from the definition of a highway does not necessarily show that it intended to include them. The necessary votes may not have been available for either proposal. Cognizant of the difficulties presented by the limited information available to us, we remain convinced that this is the most reasonable interpretation of what occurred.",
+        "type": "concurrence",
+        "author": "Boyle, J."
+      },
+      {
+        "text": "Cavanagh, C.J.\n(concurring). I agree that the defendant is immune from liability. In Ross v Consumers Power Co (On Rehearing), 420 Mich 567, 596; 363 NW2d 641 (1984), this Court sought \"to create a cohesive, uniform, and workable set of rules which . . . readily define the injured party\u2019s rights and the governmental agency\u2019s liability.\u201d It was against this backdrop and our goal of remaining \"faithful to the statutory language and legislative intent\u201d of the government tort liability act that this Court recognized broad governmental immunity with narrowly drawn exceptions. Because Justice Riley\u2019s offering remains faithful to these premises, I reluctantly join her opinion.\nAdmittedly, Justice Riley\u2019s plain interpretation of the highway exception results in harsh consequences. Her interpretation, however, is defensible because it is in accord with the plain language of the statute and Ross\u2019 command of broad governmental immunity with narrowly drawn exceptions. Furthermore, Justice Riley\u2019s interpretation provides an exact standard, defining not only an injured party\u2019s rights but the government\u2019s potential liability. None of the other separate opinions satisfies each of these components.\nAlthough I find Justices Brickley\u2019s and Boyle\u2019s interpretations preferable from a policy standpoint, I cannot in good conscience join either opinion. Justice Brickley\u2019s interpretation does not provide a standard with which to guide both the bench and bar. The test is vulnerable to endless interpretation, encouraging recurrent appellate litigation. Justice Boyle\u2019s interpretation, while more limited in scope, is not supported by the statutory language or post-Ross case law.\nFinally, Justice Levin\u2019s interpretation, while sympathetic to the plight of injured plaintiffs, effectively abrogates governmental immunity within the realm of highway transportation. While the Legislature obviously intended to except certain situations from the shield of governmental immunity, it certainly did not intend to provide limitless application of the highway exception.\nI find it inconceivable that liability under the highway exception should be so severely limited, nevertheless for the reasons stated above, I am compelled to strictly construe the statute. The badly fractured opinions seen in this case and Mason v Wayne Co Bd of Comm\u2019rs, 447 Mich 130; 523 NW2d 791 (1994), scream for legislative action. I urge the Legislature to provide a more exhaustive list of exclusions or revise the statute, illustrating the extent of the highway exception.\nMCL 691.1401 et seq.; MSA 3.996(101) et seq.\nSee also Johnson v Ontonagon Co Bd of Co Rd Comm\u2019rs, 253 Mich 465, 468; 235 NW 221 (1931) (statutes imposing liability in derogation of the common law are to be strictly construed).\nThe statute explicitly states the duty and liability of the responsible government agencies:\nThe duty of the state and the county road commissions to repair and maintain highways, and the liability therefor, shall extend only to the improved portion of the highway designed for vehicular travel and shall not include sidewalks, crosswalks, or any other installation outside of the improved portion of the highway designed for vehicular travel. [MCL 691.1402(1); MSA 3.996(102X1).]\nThe legal profession, government agencies, and potential plaintiffs would benefit greatly if the Legislature defined the term \"other installation outside of the improved portion of the highway designed for vehicular travel.\u201d MCL 691.1402(1); MSA 3.996(102X1).",
+        "type": "concurrence",
+        "author": "Cavanagh, C.J."
+      },
+      {
+        "text": "Levin, J.\n(dissenting). Ray Chaney was operating his motorcycle on Michigan Avenue in Dearborn onto a two-lane entrance ramp leading to 1-94. He claims that as he was moving to the right of the ramp he saw an automobile approaching from the rear, and that while attempting to straighten the motorcycle he hit the curb and concrete wall or metal guardrail. He was catapulted over the ramp and landed next to a median barrier on I-94.\nThe question presented is whether the Michigan Department of Transportation is relieved from liability under the highway exception to governmental immunity from tort liability for a defect in design or construction of the concrete wall or guardrail because they were erected immediately beyond and thus \"outside of the improved portion of the highway designed for vehicular travel.\u201d\nThe Court of Appeals, relying on Scheurman v Dep\u2019t of Transportation, 434 Mich 619; 456 NW2d 66 (1990), held that the circuit judge should have granted the mdot\u2019s motion for summary disposition for two reasons: because the Legislature intended to impose only a duty to keep \"the traveled roadbed in reasonable repair,\u201d and also because \"the concrete wall, while part of the overpass structure, was not designed for vehicular travel, but instead constituted an 'other installation outside of the improved portion of the highway designed for vehicular travel\u2019 [within the meaning of the 'any-other-installation\u2019 clause of the highway exception set forth in n 3]. Because the barrier was neither 'roadbed\u2019 nor 'designed for vehicular travel,\u2019 Scheurman, supra, governmental immunity applies and defendant should not be held liable for plaintiff\u2019s injuries.\u201d\ni\nWe would reverse the Court of Appeals and remand for trial.\nA\nScheurman is not precedentially binding under the doctrine of stare decisis.\nThree justices signed the plurality opinion in Scheurman. A fourth justice joined in the \"rationale and result\u201d of the plurality opinion \"with the understanding that it does not preclude the application\u201d of the highway exception \"in cases alleging a failure to 'repair and maintain\u2019 installations that are integral to, if not part of, the 'improved portion of the highway designed for vehicular travel,\u2019 such as traffic lights and signs.\u201d\n\"Since neither opinion [in Scheurman] obtained four signatures, neither is binding under the doctrine of stare decisis.\u201d People v Jackson, 390 Mich 621, 627; 212 NW2d 918 (1973).\nB\nEven if four justices had unqualifiedly signed the plurality opinion in Scheurman\u2014and we acknowledge in this connection that the concurring justice joined \"in both the rationale and result\u201d of the concurring opinion\u2014the analysis and rationale of the plurality opinion does not govern disposition of this case.\n\"It has often been said by this and other courts that the language of a decision must be construed with reference to and confined to the facts of that case.\u201d Wolcott v Holcomb, 97 Mich 361, 368; 56 NW 837 (1893). Justice Marston\u2019s statement for the Court in Larzelere v Starkweather, 38 Mich 96, 100-101 (1878), is again in point:\nNo such question was involved or decided in [the cited] case. Nor were the facts in that case such as would justify the court in coming to and announcing such a conclusion. Some expression may be found in the reasoning in the opinion delivered in that case, which taken alone might give color to such an idea. The reasoning in an opinion is not that of the court, but of the judge who prepares and delivers it. It may or may not be considered sound and unanswerable, and as such is the subject of criticism. The conclusion arrived at and announced upon the several questions discussed and essential to a proper disposition of the case, is that of the court, and in concurring in such conclusions it is not generally supposed or understood that everything contained or said in the opinion is thereby unquali\u00f1edly and unquestionably adopted as the opinion of the court. In preparation of an opinion, the facts of the case are in mind. It is prepared with reference to such facts, and when considered in connection therewith, will generally be found satisfactory. When, however, an attempt is made to pick out particular parts or sentences, and apply them indiscriminately in other cases, nothing but confusion and disaster will be likely to follow. In other words, the opinion and decision of a court must be read and examined as a whole in the light of the facts upon which it was based. They are the foundation of the entire structure which cannot with safety be used without reference to them. [Emphasis added.]\nThe fundamental issues in Chaney\u2014whether the mdot is subject to liability for failure of design or construction of the concrete wall and metal barrier\u2014and in its companion case, Mason v Wayne Co Bd of Comm\u2019rs, 447 Mich 130; 523 NW2d 791 (1994)\u2014whether Wayne County is subject to liability for failure to erect school warning signs\u2014were not decided in Scheurman. Nor could they have been. Neither a barrier issue, such as is presented in Chaney, nor a warning issue, such as is presented in Mason, were present in Scheurman or in its companion case, Prokop v Wayne Co Bd of Rd Comm\u2019rs.\nFurther, the statement in the plurality opinion in Scheurman that the \"true intent of the Legislature is to impose a duty to keep the physical portion of the traveled road in reasonable repair\u201d (emphasis added) is obiter dictum. Scheurman and Prokop could have been decided with either the first or the second \"plain meaning\u201d of the highway exception put forth in the plurality opinion in Scheurman.\nWe all agreed in Scheurman that the mdot was not subject to liability for failure to install lighting on state highways. A majority in the companion case, Prokop, held that the county\u2019s obligation under the highway exception does not require it to remove or trim hedges located on private property that obscure the line of vision at an intersection. A design or construction defect of the barrier in Chaney could have been corrected without intruding on private property. A warning sign could have been erected in Mason within the right of way.\nThe issues presented in Chaney and Mason thus do not require reconsideration of or overruling Scheurman, Nor should Scheurman be overruled. If one focuses on what was decided in Scheurman/ Prokop, the results are defensible. The Legislature had indicated that the state is not required to provide nighttime lighting of state highways. The question whether a county should be subject to liability for failure to remove obstructions on private property is close, and reasonable persons might differ regarding whether the duty and liability to keep roadways in condition reasonably safe and fit for travel requires such intervention.\nThe majority\u2019s response to the issues here presented, in contrast with its decisions on the issues actually presented in Scheurman/Prokop, has not been, and cannot be, defended._\nC\nThe first two sentences of the highway exception impose a duty to keep \"the traveled roadbed in reasonable repair,\u201d and also a duty, and liability for failure to discharge that duty, to \"maintain\u201d the highway \"in condition reasonably safe and fit for travel.\u201d\nThis Court has, until today, consistently ruled, for over one hundred years\u2014both before and after the 1964 reenactment, in those two sentences of the governmental tort liability act, of language first enacted in 1879 and 1887\u2014that the liability for failure to discharge the duty to maintain the highway in condition reasonably safe and fit for travel extends to failures of design or construction, including failures to install guardrails as reasonably necessary to maintain the improved portion of the highway designed for vehicular travel in condition reasonably safe and fit for travel.\nDuring the seventy-five years before the 1964 reenactment of the 1879/1887 language in the highway exception of the go\\ernmental tort liability act, and also during the thirty years after the 1964 reenactment, governmental agencies have been held subject to liability\n\u2022 for failures to warn of hazards that might not be expected,\n\u2022 for failures to erect barriers to prevent vehicles from leaving a roadway, and\n\u2022 for failures of design that created hazards making roads less than reasonably safe and fit for travel.\nThe Legislature, surely aware of the consistent judicial construction, extending for seventy-five years from 1889, nevertheless reenacted in 1964 the same language in the governmental tort liability act.\nWe all have been the beneficiaries. New roads were designed, and old roads have been redesigned, by the state highway department and county road commissions to reduce the risk of accidents, and to reduce the hazard of accidents that do occur, in compliance with the standard first declared by the Legislature over one hundred years ago, and reiterated thirty years ago, requiring governmental agencies to keep highways in \"reasonable repair, and in condition reasonably safe and fit for travel.\u201d\nD\nIn 1889, this Court held that liability could be imposed because of the absence of barriers or railings for a death resulting when a horse-drawn passenger wagon left a well-worn path of a road in midwinter. The Court said that the trier of fact could find, on the basis of a statutory obligation to keep highways \"in good repair, and in a condition reasonably safe and fit for travel,\u201d that a township was subject to liability for wrongful death resulting from a failure \"to provide barriers or railings along the sides\u201d of an embankment.\nRay Chaney similarly claims that liability should be imposed for injuries he claims resulted from the mdot\u2019s failure to provide a properly designed and constructed barrier along the side of an embankment.\nIn cases decided thereafter, this Court held that the trier of fact may impose liability for failure to provide railings or barriers needed to keep a road reasonably safe and convenient for public travel.\nAlso relevant\u2014here as in Mason\u2014this Court, also in 1889, held that the City of Detroit was subject to liability for injuries suffered by a woman when her carriage encountered, in the nighttime, a pile of sand that had been lying for over a month in the middle of a street on the basis that the city had failed to place lights or other suitable warning of the obstruction.\nThis Court said that the City of Detroit was subject to liability not only \"for injuries occurring through neglect to keep the streets in repair, but also for such as occur by reason of the neglect of the city to keep its streets in a condition reasonably safe and;Gt for travel.\u201d (Emphasis added.)\nThis Court thus rejected in 1889 the view\u2014one of three \"plain meanings\u201d of the highway exception\u2014set forth in the plurality opinion in Scheurman, that the only statutory duty imposed by the words \"in reasonable repair, and in condition reasonably safe and fit for travel,\u201d is to keep roadways \"in repair.\u201d\nThis Court\u2019s rejection in 1889 \u2022 of the \"repairs only\u201d view was reaffirmed by this Court in 1904, and reiterated in 1967.\nE\nThe plurality opinion in Scheurman essentially ignored all prior decisions of this Court. The majority in Chaney and in Mason, similarly ignores this Court\u2019s early decisions and its decisions between 1977 and 1989 construing the first two sentences as incorporated in the 1964 reenactment.\nIn the first case to reach this Court after the 1964 reenactment of the 1879/1887 language, as the first two sentences of the highway exception, Tuttle v Dep\u2019t of State Hwys, 397 Mich 44, 45-46; 243 NW2d 244 (1976), this Court held that the Department of State Highways was subject to liability for \"inadequate signalization. \u201d\nThe following year, in Peters v Dep\u2019t of State Hwys, 400 Mich 50, 63; 252 NW2d 799 (1977), the plaintiff\u2019s decedent was a passenger in an automobile that encountered a body of water that covered the north half of westbound 1-94 at a depth of up to ten or twelve inches. The driver lost control of the vehicle, which went into a skid and was struck broadside by a truck. The defect in Peters was not a failure to repair, but a design defect, an insufficiency in the sewer drainage system, that permitted water to accumulate on the Edsel Ford Expressway.\nThis Court said that \"the duty of the defendant[] is to keep the highway in a condition reasonably safe and \u00f1t for travel,\u201d id., p 58 (emphasis added), and that the department was subject to liability whether the defect was in the \"design\u201d of the highway, or in the \"construction\u201d of the highway, or in the \"maintenance\u201d of the highway. Id., p 61.\nTwo years later, in Arnold v Dep\u2019t of State Hwys, 406 Mich 235, 236; 277 NW2d 627 (1979), the claimed defect was in the design, construction, and maintenance of a guardrail separating the east and westbound lanes of 1-94. The driver of the automobile in which the plaintiff was riding as a passenger swerved to avoid hitting an automobile directly in front of him, \"struck the 10-inch high median curb which effectively catapulted the vehicle over the 20-inch guardrail and into the path of westbound traffic.\u201d This Court declared that it is enough if the plaintiff establishes that the defect \"rendered the highway not reasonably safe and fit for travel.\u201d\nArnold was followed three years later by Endykiewicz v State Hwy Comm, 414 Mich 377; 324 NW2d 755 (1982), and ten years later by Killeen v Dep\u2019t of Transportation, 432 Mich 1; 438 NW2d 233 (1989).\nIn Endykiewicz, factually similar to Arnold, this Court held that the State Highway Commission, was subject to liability for a failure of design or construction of a guardrail separating the north and southbound lanes of the South\u00f1eld Expressway.\nFinally, in Killeen, this Court, just five years ago, held that the mdot was subject to liability for failure of design and construction of a \"superelevation\u201d at an expressway interchange resulting in injuries when a motor vehicle crossed the center of a highway and rolled down an embankment.\nAlthough this Court, in the thirty years since the enactment of the governmental tort liability act in 1964, has, until today, been true, without dissent, to the well-established precedents consistently applied since 1889, holding governmental agencies subject to liability for failures to warn, for failures to erect barriers, and for failures of design, the Legislature has not changed the statutory standard subjecting governmental agencies to liability for failure to keep highways in reasonable repair, and in condition reasonably safe and fit for travel.\nii\nIn providing, in the fourth sentence of the highway exception, that the duty \u201dto repair and maintain highways, and the liability therefor\u201d shall not extend to \"any other installation outside of the improved portion of the highway designed for vehicular travel,\u201d the Legislature did not relieve the mdot of its duty, and liability therefor, under the first two sentences of the highway exception, to repair and maintain the improved portion of the highway designed for vehicular travel in condition reasonably safe and fit for travel, including installation of guardrails reasonably necessary to maintain the improved portion reasonably safe and fit for travel.\nA\nAlthough plaintiff\u2019s claim in Endykiewicz was for fatal injuries suffered when a vehicle traveled through a guardrail dividing the northbound and southbound lanes of the Southfield Expressway, and Justice Coleman\u2019s opinion for the Court referred to the fourth sentence of the highway exception, none of the justices then on the Court suggested that that language relieved the State Highway Commission of its duty and liability respecting the guardrail.\nB\nThe concededly narrow, I would say myopic; view of the meaning of the \"any-other-installation\u201d clause set forth in the plurality opinion in Scheurman was not urged by the Attorney General in Scheurman. The Attorney General acknowledged in his brief in Scheurman: \"Guardrails are within the improved portion of the highway in the same sense as shoulders, to wit: use as an adjunct to the paved portion of the highway.\u201d (Emphasis added.)\nNone of the cases spanning one hundred years, 1889-1989, in which this Court held that the obligation to maintain a highway in condition reasonably safe and fit for travel includes liability for failures of design or construction, including failures to install and maintain reasonably necessary guardrails, were discussed in the plurality opinion.\nThe Attorney General, representing the mdot and its predecessor highway authorities during the twenty-two-year period, 1964-1987, did not contend in Arnold or Endykiewicz that the any-other-installation clause relieved the mdot of the duty to provide barriers necessary to maintain the improved portion of a highway in condition reasonably safe and fit for travel.\nThe Attorney General\u2019s failure to so assert following the 1964 reenactment of the 1879/1887 language suggests that it was undoubted that the Legislature intended that the construction placed on the words \"in condition reasonably safe and fit for travel\u201d for over seventy-five years by this Court was incorporated in the highway exception when those words were reenacted with the result that the obligation to provide necessary barriers and warning signs, as required by the 1889 cases of Malloy and Joslyn, was so incorporated.\nc\nThe fourth sentence of the highway exception is set forth in its entirety in n 43. There are two clauses, the repair-and-maintain clause and the any-other-installation clause:\n\u2022 The repair-and-maintain clause:\nThe duty of the state and the county road commissions to repair and maintain highways, and the liability therefor, shall extend only to the improved portion of the highway designed for vehicular travel [emphasis added]; '\n\u2022 The any-other-installation clause:\nand shall not include sidewalks, crosswalks or any other installation outside of the improved portion of the highway designed for vehicular travel. [1964 PA 170, \u00a7 2, MCL 691.1402; MSA 3.996(102). Emphasis added.]\nD\nReading the highway exception as a whole, the duty and liability, so expressly \"extended\u201d in the repair-and-maintain clause to the improved portion of the highway designed for vehicular travel, is for failure \"to repair and maintain\u201d the improved portion. The scope of the obligation to \"repair and maintain\u201d is to keep the improved portion \"in reasonable repair, and in condition reasonably safe and fit for travel.\u201d (Emphasis added.)\nState and county liability under the repair-and-maintain clause indeed extends \"only to the improved portion of the highway designed for vehicular travel.\u201d (Emphasis added.) The obligation to keep highways in \"reasonable repair, and in condition reasonably safe and fit for travel,\u201d nevertheless clearly and expressly does so extend to such improved portion of the highway. That obligation and liability, under the consistent case law before and after the 1964 reenactment going back over a hundred years, extends to a failure of design or construction, including a failure to warn or to erect suitable barriers.\nWe agree with the view set forth in the opinion concurring in part and dissenting in part in Scheurman that the highway exception\nexpresses the Legislature\u2019s intent to impose a duty on state and county highway authorities to maintain the improved portion of a highway in a condition safe and fit for travel and to provide liability for the failure to do so. Although the Legislature clearly did not intend liability for a failure to maintain the unimproved portion of the highway in a condition safe and fit for travel, nothing in the wording of \u00a72 [the highway exception] suggests an intent to limit the liability of governmental agencies to only certain factors that are necessary to safely maintain the improved portion of the highway. [Emphasis in originalj[]\nill\nWe agree with the Court of Appeals in the instant case that the Legislature, in providing in the any-other-installation clause that the duty to repair and maintain highways and the liability therefor shall not include \"any other installation outside of the improved portion of the highway designed' for vehicular travel,\u201d relieved the mdot of the duty and liability to keep the concrete wall \u2014in the words of the Court of Appeals, \"neither 'roadbed\u2019 nor 'designed for vehicular travel\u2019 \u201d\u2014in reasonable repair and in condition reasonably safe and fit for travel. 198 Mich App 728, 730; 499 NW2d 29 (1993).\nWe so agree with the Court of Appeals, not simply because the concrete wall and metal barrier were located immediately beyond, \"outside of the improved portion of the highway designed for vehicular travel,\u201d but also because the concrete wall and metal barrier were not, as the Court of Appeals observed, designed for vehicular travel. And, thus, the duty to repair and maintain in condition reasonably safe and fit for travel could not extend to an \"other installation\u201d such as a concrete wall and metal barrier.\nThe plaintiff in Chaney is not complaining that the concrete wall that was erected was not in reasonable repair, or in a condition reasonably safe and fit for travel on the concrete wall.\nThe Chaney plaintiff complains, rather, under the repair-and-maintain clause, of the failure of the mdot to design and construct the concrete wall and metal barrier as reason\u00e1bly necessary to maintain the improved portion of the highway \"designed for vehicular travel\u201d in condition reasonably safe and fit for travel.\nA barrier or, as in Mason, a sign needed to maintain a highway in condition reasonably safe and fit for travel is not itself an \"installation\u201d that can be repaired and maintained in condition reasonably safe and fit for travel. \u2022\nA literal or \"plain\u201d reading\u2014the majority prides itself on \"plain\u201d meanings\u2014of the any-other-installation clause, relieving the state and counties of the duty and liability to keep \"any other installation outside of the improved portion of the highway designed for vehicular travel\u201d in condition reasonably safe and fit for travel, does not relieve the state and counties of their obligation under the repair-and-maintain clause to keep the \"improved portion designed for vehicular travel,\u201d not only in reasonable repair, but also in condition reasonably safe and fit for travel. That obligation, as the words \"in condition reasonably safe and fit for travel\u201d have been construed by this Court, subjects the state and counties to liability for failures of design or construction, including a failure to warn, or to erect suitable barriers.\nIV\nThe repair-and-maintain and any-other-installation clauses need not be read as in conflict. The any-other-installation clause should be read in harmony with the repair-and-maintain clause.\nA sign or barrier, to be sure, is an installation. Signs and barriers, indeed, generally are located outside the improved portion of the highway designed for vehicular travel. But not always. School warning signs often, in some parts of the state generally, are stenciled with the word school from left to right on the highway itself.\nThe words \"any other installation,\u201d read in the context of the highway exception as a whole, and not in isolation or in the abstract, are at least ambiguous.\nI acknowledge that my reading of \"any other installation\u201d deprives it of some of the absolute meaning that might be ascribed to it if one were to read \"any other installation\u201d in isolation and in the abstract. However, holding that there is no duty or liability, on the part of the state or counties, to maintain the improved portion of the highway in condition reasonably safe and fit for travel \u2014as those words have been consistently construed by this Court, requiring the installation of necessary barriers and signs\u2014deprives the words \"and maintain\u201d in the repair-and-maintain cl\u00e1use of any meaning.\nThe words \"reasonably safe and convenient for public travel,\u201d in the first sentence of the highway exception, and the words \"in condition reasonably safe and fit for travel,\u201d in the second sentence, are stricken of all meaning. The words, in the third sentence, reaffirming the \"liability\u201d of and \"remedy\u201d against counties for failure to keep county roads \"in reasonable repair, so that they shall be reasonably safe and convenient for public travel\u201d under 1909 PA 283, as amended, are changed by judicial fiat to mean \"in reasonable repair.\u201d The words \"and maintain\u201d in the first and fourth sentences are stricken of all meaning.\nv\nThe plurality opinion in Scheurman sets forth the history of the fourth sentence of the highway exception. There, not in plain meaning, is to be found the source of the \"true intent of the Legislature . . . ,\u201d\nA\nCounties, while subject to liability for failure to keep \"county roads, bridges and culverts\u201d in \"reasonable repair, so that they shall be reasonably safe and convenient for public travel,\u201d were not subject to liability for failure to keep sidewalks in reasonable repair, and reasonably safe for pedestrian travel.\nThe responsibility for repair and maintenance of sidewalks and crosswalks, under the 1879/1887 and subsequent statutes, had been imposed on townships and cities.\nThe state had not, before 1964, been subject to any statutory liability for failure to keep state highways in reasonable repair and in condition reasonably safe and fit for travel.\nBecause \"highway\u201d was defined in the 1964 reenactment to include sidewalks and crosswalks, thereby continuing the responsibility therefor of townships and cities, for the maintenance of which neither the state nor the counties had been subject to liability, it was necessary, to preserve the status quo, to exclude state and county responsibility for \"sidewalks and crosswalks.\u201d\nReading the any-other-installation clause in light of that history, it becomes clear that at least the exclusion for sidewalks and crosswalks is unremarkable and sought merely to preserve the status quo so that the state and county would not be responsible for the maintenance and repair of sidewalks and crosswalks. The legislative purpose was not to create an artificial distinction, regarding the duty to erect warning signs and barriers, between highways under the jurisdiction of the state and counties and roads and streets under the jurisdiction of the cities and townships.\nB\nTo be sure, the any-other-installation clause excludes responsibility for the repair and maintenance not only of sidewalks and crosswalks, but also of \"any other installation outside of the improved portion of the highway designed for vehicular travel.\u201d (Emphasis added.)_\nThe any-other-installation language appears to have been added to cover a case such as Roy v Dep\u2019t of Transportation, 428 Mich 330; 408 NW2d 783 (1987), in which we all agreed that a bicycle path adjacent to 1-275 was an \"other installation outside of the improved portion of the highway designed for vehicular travel,\u201d and that, therefore, the mdot was not subject to liability for injuries suffered on the bicycle path.\n\"Installations\u201d that, like sidewalks, crosswalks, and bicycle paths, can be traveled upon and that, but for the any-other-installation clause, might give rise to claims against the state and counties for failures to repair and maintain, include city and township road and street bridges traversing state and county roads, highways, and expressways, pedestrian bridges, railroad bridges, grassy and other areas beyond the shoulders rising or sloping away from expressway lanes, the median between expressway lanes, truck stops and weigh stations, rest areas, scenic overlooks, overlooks from schoolyards and other public and private lands, and drains and ditches.\nVI\nThe author of the concurring opinion in Chaney concludes that \"the bridge railing [in Chaney] does not directly and integrally affect vehicular travel along the improved portion of this highway. Neither a guardrail nor a concrete abutment, located beyond the shoulder of a highway, has any affect upon the safe and convenient passage of vehicles while on the improved portion.\u201d\nIf Ray Chaney had been catapulted onto the improved portion of the highway below, rather than onto the median, it would, I think, have had an \"affect upon the safe and convenient passage of vehicles while on the improved portion.\u201d Most motorists would seek to steer clear of, some would even stop, to render assistance to, a man lying injured in the middle of an expressway. One can easily visualize the potential for catastrophe._\nArnold and Endykiewicz show that the absence of properly designed and constructed guardrails, separating the east and westbound lanes of 1-94 in Arnold and the north and southbound lanes of Southfield in Endykiewicz, affects the safe and convenient passage of vehicles while on the improved portion.\nMetal barriers were erected between the north and southbound lanes of the early stages of the Lodge Expressway after innumerable accidents that injured or killed not only drivers and passengers in vehicles that crossed the center line into the opposite lane, but also drivers and passengers traveling in the opposite direction. Neither lane of an expressway is in \"condition reasonably safe and fit for travel\u201d without barriers between the lanes, barriers which, over the years, have been modernized from the skimpy metal barriers first mounted on wood stakes on the Lodge to sturdy concrete barriers.\nIn Gregg v Dep\u2019t of State Hwys, 435 Mich 307, 315; 458 NW2d 619 (1990), decided after Scheu'rman, the majority held that Gregg could maintain an action for injuries received when his bicycle struck a pothole located within two white lines demarking a bicycle path between the traveled portion of the highway and its paved shoulder. The alleged defect in this case occurred on a bicycle path that the majority concluded, quoting from the syllabus, \"unquestionably comprised part of the improved portion of the highway designed for vehicular travel and not on an installation separated and detached from the improved portion.\u201d The majority in Gregg said that the contention that the Legislature did not intend to include the shoulder of a highway within the highway exception\nhas an obvious flaw: it flies in the face of common experience. Any motorist who has ever experienced a highway emergency understands that shoulders are essential to a safe modern highway. To get on or off a shoulder to stop, park, or leave standing a vehicle, motorists must travel on the shoulder.\nAt the high speeds of modern vehicles, such an endeavor often results in significant travel, \"in the ordinary sense,\u201d on the shoulder of a highway. Indeed, it seems quite extraordinary, if not fictional, to assume that vehicles do not travel on shoulders or that shoulders are not designed for vehicular travel, albeit of a temporary sort. [Id., p 315.]_\nThe author of Scheurman dissented, stating that while a plain reading of the definition of shoulder in the Motor Vehicle Code precluded the extension of the government\u2019s duty to maintain highways pursuant to the highway exception to road shoulders, quoting again from the syllabus, \"the definition is logically inconsistent and does not comport with the realities of highway driving,\u201d and the Legislature should amend the statute.\nThe argument that the Legislature did not intend to include a concrete wall or barrier running alongside the shoulder of a highway within the highway exception has a similarly obvious flaw. A motorist who, like the driver in Arnold, has experienced a highway emergency necessitating that he move onto the shoulder understands that where the far side of a shoulder is a precipice, as in the instant case where the ramp was an overpass of 1-94, a barrier on the far side of the shoulder is as \"essential to a safe modern highway\u201d as the shoulder itself.\nThe majority slices the bologna far too thin in holding that the Legislature intended that a shoulder be included within the highway exception but not a barrier alongside the shoulder.\nThis is not a case where the mdot saw no need to install a barrier. We are long past the day when highway authorities might ordinarily ignore the need for barriers when designing a highway. Manifestly a barrier is essential wherever the improved portion of the highway is a bridge, overpass, or otherwise like a cliff in the sense that without a barrier a motorist forced off the improved portion of the highway would be heading straight down to his doom.\nThose of us who drive on Michigan\u2019s highways know from experience that, especially during inclement weather, automobiles not infrequently spin out immediately in front of other motorists. The choice, to be made in a split second, is to drive straight ahead\u2014assuring what in effect will be a head-on collision\u2014or to turn to the left or right, like the driver in Arnold. Unless the area to the left or right is gradually graded, a barrier immediately beyond the shoulder is essential to maintain the improved portion of the highway in condition reasonably safe and fit for travel.\nVII\nThe statement in the plurality opinion in Scheurman, \u2014that the state and counties (and it would appear, by necessary implication, townships and cities) are subject to liability only for a failure to repair whatever highway, road, or installation has been constructed, however hazardous, as a result of defects in design or construction, the highway, road, or installation may be\u2014removes all meaning from most of the operative language of the highway exception, and renders most of the operative language superfluous.\nIf that reading were correct, the Legislature would not have reenacted the highway exception without first striking, rather than enacting, the words indicated in the following:_\nEach governmental agency having jurisdiction over any highway shall maintain the highway in reasonable repair \u00e9\u00e9/fh\u00e1f/it/WiAAi\u00e9\u00c1\u00e9Mf/\u00e1\u00e9l\u00e9/\u00e1i\u00edd \u00e9\u00e9\u00faMM\u00e9M/i\u00e9t/^iMi\u00e9/titM\u00e9l. Any person sustaining bodily injury or damage to his property by reason of failure of any governmental agency to keep any highway under its jurisdiction in reasonable repair, \u00e1\u00faA/i\u00c1/\u00e9\u00f3\u00c1AM\u00f3\u00e1/M\u00e1\u00e9\u00f3\u00fa\u00e1Wf/\u00bf\u00bff\u00e9/\u00e1\u00c1d fit/tdiltiM\u20acUJmay recover the damages suffered by him from such governmental agency. The EA\u00a5>Eltf{ procedure \u00e1i\u00edd/f\u00e9rfu\u00e1d^/as to county roads under the jurisdiction of a county road commission shall be as provided in section 21, chapter 4 of Act No. 283 of the Public Acts of 1909, as amended, being section 224.21 of the Compiled Laws of 1948. The duty of the state and the county road commissions to repair \u00e1\u00f1dM\u00e1MfdM/highways, and the liability therefor, shall extend only to the improved portion of the highway designed for vehicular travel and shall not include sidewalks, crosswalks or any other installation outside of the improved portion of the highway designed for vehicular travel[]\nIf that reading were correct, the Legislature\n\u2022 would have stopped with the words \"reasonable repair\u201d when writing the first and second sentences of the highway exception, and\n\u2022 would not have, in the third sentence, reaffirmed the \"liability\u201d and \"remedy\u201d against the county under 1909 PA 283, as amended, and\n\u2022 would have stopped with the word \"repair\u201d in the first clause of the fourth sentence, and would not have added the words \"and maintain\u201d immediately thereafter.\nVIII\nThe plurality opinion in Scheurman discerned that the \"plain meaning\u201d of the highway exception is that the \"true intent of the Legislature is to impose a duty to keep the physical portion of the traveled roadbed in reasonable repair\u201d\nA\nThat \"true intent\u201d\u2014liability arises under the highway exception only for failure to keep the physical portion of the roadbed in repair\u2014so discerned in the plurality opinion in Scheurman is the third \"plain meaning\u201d of the highway exception set forth in Scheurman.\nThe second \"plain meaning,\u201d possibly portending the third \"plain meaning,\u201d precludes recovery unless the defective condition is \"part of the improved portion of the highway designed for vehicular travel.\u201d The second \"plain meaning\u201d does not preclude recovery for defective conditions of design or construction. It is not until the obiter dictum of the third \"plain meaning,\u201d limiting recovery to loss resulting from a failure to keep the \"physical portion\u201d of the roadbed in reasonable \"repair,\u201d that recovery for design or construction defects of the roadbed, by that obiter dictum, is precluded.\nThe \u00f1rst of the three \"plain meanings\u201d set forth in the plurality opinion in Scheurman\u2014stating that the fourth sentence of the highway exception \"refers only to the traveled portion, paved or unpaved, of the roadbed actually designed for public vehicular travel,\u201d\u2014mandates no Thermidorian obliteration of the highway exception.\nAs a postscript, it is once again clear that \"[t]he notion that because the words of the statute are plain, its meaning is also plain, is merely pernicious oversimplification.\u201d\nB\nThe three \"plain meanings\u201d derived by the plurality in Scheurman, I expect, are attributable to a failure to read all the words of the highway exception together. There is no recognition in the plurality opinion in Scheurman that the fourth sentence of the highway exception does not appear in isolation. There is no reference to or any discussion whatsoever of \"in condition reasonably safe and \u00f1t for travel\u201d set forth in the second sentence of the highway exception.\nScheurman selectively quotes the highway exception. The opinion quotes, on page 630, the first sentence of the highway exception and omits the second sentence which provides for governmental liability. The opinion thus fails to set forth all the pertinent words of the highway exception. It' focuses in isolation on the first and fourth sentences of the highway exception.\nOmitted\u2014dismissed without reference, as all prior precedent is dismissed\u2014is the operative statutory language, set forth in the second sentence, requiring that the highway be kept both \"in reasonable repair, and in condition reasonably safe and fit for travel.\u201d (Emphasis added.) Those words \u2014the statutory standard\u2014do not appear anywhere in the plurality opinion in Scheurman.\nIX\nIn conclusion, the majority misreads the legislative purpose in adding the any-other-installation clause in the fourth sentence.\nThat sentence was crafted to avoid state and county responsibility for the repair and maintenance of sidewalks and crosswalks, traditionally the responsibility of townships and cities, and also crafted to eliminate state and county responsibility for the repair and maintenance of installations like bicycle paths, bridges, and medians adjacent to, traversing, or running alongside, state and county highways.\nThat sentence was not crafted to eliminate the liability of the state and counties, and by implication cities and townships, for design and construction defects and for all other failures to maintain, as distinguished from repair, highways in condition reasonably safe and fit for travel._\nA\nThe new meaning developed by the new majority purposefully ignores one hundred years of adjudication by this Court. Not one case decided by this Court before the advent of the new majority, during the over one-hundred-year history of \"in reasonable repair, and in condition reasonably safe and fit for travel,\u201d is distinguished.\nA substantial departure from precedent can only be justified, I had thought, in the light of experience with the application of the rule to be abandoned or in the light of an altered historic environment.\nA basic change in the law upon a ground no firmer than a change in our membership invites the popular misconception that this institution is little different from the two political branches of the Government. No misconception could do more lasting injury to this Court and to the system of law which it is our abiding mission to serve. [Mitchell v WT Grant Co, 416 US 600, 634, 636; 94 S Ct 1895; 49 L Ed 2d 406 (1974) (Stewart, J., dissenting).]\nThe new majority indulges itself, masked by \"plain meaning\u201d and \"strict construction\u201d in heavy-handed judicial legislation, rendering the highway exception devoid of practical meaning.\nB\nIt is noteworthy that the view expressed in the plurality opinion in Scheurman, based on the fourth sentence of the highway exception, was not set forth in dissent in Killeen, where another analysis reaching the same conclusion was proffered. It is remarkable that the law of the highway exception has been transformed by an afterthought that was not urged by the Attorney General in behalf of the mdot before it was thrust upon the profession in the plurality opinion in Scheurman.\nThe situation sense that intuitively guides the author of Scheurman was not informed by any consideration in Scheurman of the second sentence of the highway exception, imposing liability for failure to keep a highway \"in reasonable repair, and in condition reasonably safe and fit for travel,\u201d or by any consideration in Scheurman of the prior decisions of this Court that were essentially ignored.\nx\nI would remand in Chaney to the circuit court for trial to determine the evidentiary support for Chaney\u2019s claims of design and construction failure, and for his other claims.\nMallett, J., concurred with Levin, J.\nImmediately beyond the paved roadway there is a paved curb and a narrow shoulder, and then a concrete wall where the ramp bridges the expressway. Immediately before and after the concrete wall is a metal railing.\nChaney could not recall whether he struck the metal guardrail or the concrete wall. His motorcycle did not leave the ramp.\nThe highway exception reads:\nEach governmental agency having jurisdiction over any highway shall maintain the highway in reasonable repair so that it is reasonably safe and convenient for public travel. Any person sustaining bodily injury or damage to his property by reason of failure of any governmental agency to keep any highway under its jurisdiction in reasonable repair, and in condition reasonably safe and \u00f1t for travel, may recover the damages suffered by him from such governmental agency. The liability, procedure and remedy as to county roads under the jurisdiction of a county road commission shall be as provided in section 21, chapter 4 of Act No. 283 of the Public Acts of 1909, as amended, being section 224.21 of the Compiled Laws of 1948. The duty of the state and the county road commissions to repair and maintain highways, and the liability therefor, shall extend only to the improved portion of the highway designed for vehicular travel and shall not include sidewalks, crosswalks or any other installation outside of the improved portion of the highway designed for vehicular travel. No action shall be brought against the state under this section except for injury or loss suffered on or after July 1, 1965. Any judgment against the state based on a claim arising under this section from acts or omissions of the state highway department shall be payable only from restricted funds appropriated to the state highway department or funds provided by its insurer. [1964 PA 170, \u00a7 2, MCL 691.1402; MSA 3.996(102). Emphasis added.]\nThe text of the portion of 1909 PA 283, concerning county liability, is set forth in n 55. 1948 CL 224.21 carries forward, without change, the operative language of the 1909 act:\nIt is hereby made the duty of the counties to keep in reasonable repair, so that they shall be reasonably safe and convenient for public travel, all county roads, bridges and culverts that are within their jurisdiction and under their care and control and which are open to public travel.\nSee text following n 48 and preceding n 49.\n198 Mich App 728, 729-730; 499 NW2d 29 (1993).\nId., p 637. The concurring opinion concluded with: \"See ante, p 637, n 29,\u201d thereby adverting to n 29 of the plurality opinion in which it was acknowledged that in Tuttle v Dep\u2019t of State Hwys, 397 Mich 44, 45-46; 243 NW2d 244 (1976), \"this Court found the defendant-liable for a newly opened intersection that 'was not \"reasonably safe and fit for travel\u201d by reason of inadequate signalization.\u2019 \u201d The plurality opinion also there adverted to Salvati v Dep\u2019t of State Hwys, 415 Mich 708; 330 NW2d 64 (1982), and stated:\n[T]he plurality decision [in Salvati] indicates a willingness by the Court to include the duty to post and maintain traffic signs within the highway exception statute. Again [as in Tuttle], however, neither of the two opinions, nor any of the cited cases within them, address the issue whether traffic signs fall within the \"improved portion of the highway designed for vehicular travel.\u201d\nNotwithstanding our decision today, we feel it is inappropriate to express an opinion as to the validity of Tuttle or Salvati at this time.\nSee also Negri v Slotkin, 397 Mich 105, 109; 244 NW2d 98 (1976).\nBoth Scheurman and Prokop were decided with one (plurality, concurring, and dissenting) opinion.\nId., p 631. This was the third \"plain meaning\u201d of the highway exception put forth in the plurality opinion in Scheurman. See ns 70-74.\nScheurman, concerning street lighting, and Prokop, concerning trimming hedges at an intersection, involved installations that were not \"part of the improved portion of the highway designed for vehicular travel\u201d (the second \"plain meaning,\u201d Scheurman, supra, p 623) or \"the traveled portion, paved or unpaved, of the roadbed actually designed for public vehicular travel\u201d (the first \"plain meaning,\u201d Scheurman, supra, p 623). See ns 67-70 and accompanying text.\nSee ns 70-74.\nThe author of Scheurman states that the formulation set forth in the concurring opinion \"is inconsistent with Scheurman,\u201d and its adoption would \"[i]n effect\u201d overrule Scheurman. Ante, pp 169, 170 (opinion of Riley, J.). Scheurman, however, could only be overruled by a decision of this Court holding that the highway exception requires the installation of lighting on state highways or the state or county to remove hedges located on private property that obscure the line of vision at an intersection.\nA decision of this Court deciding another case, with different facts, especially a decision that, like Scheurman, finds that the state is not subject to liability under the highway exception, would not overrule Scheurman merely because the analysis of the later decision holds out the possibility that in some other case the state or the county might be subject to liability under the highway exception for maintenance failures other than failure to repair.\nScheurman, supra, p 632, n 23 (opinion of Riley, J.), pp 651-652 (opinion of Brickley, J.).\nThe first two sentences of the highway exception read:\nEach governmental agency having jurisdiction over any highway shall maintain the highway in reasonable repair so that it is reasonably safe and convenient for public travel. Any person sustaining bodily injury or damage to his property by reason of failure of any governmental agency to keep any highway under its jurisdiction in reasonable repair, and in condition reasonably safe and \u00f1t for travel, may recover the damages suffered by him from such governmental agency. [1964 PA 170, \u00a7 2, MCL 691.1402; MSA 3.996(102). Emphasis added.]\nSee n 3 for the full text of \u00a7 2, the highway exception of the governmental tort liability act.\nThe 1879 act read as follows:\nThat any person or persons sustaining bodily injury upon any of the public highways or streets in this state, by reason of neglect to keep such public highways or streets, and all bridges, crosswalks and culverts on the same in good repair, and in a condition reasonably safe and \u00f1t for travel, by the township, village, city, or corporation whose corporate authority extends over such public highway, street, bridge, crosswalk or culvert, and whose duty it is to keep the same in good repair, such township, village, city, or corporation shall be liable to, and shall pay to the person or persons so injured or disabled, just damages, to be recovered- in an action of trespass on the case, before any court of competent jurisdiction. [1879 PA 244. Emphasis added.]\nThe 1887 act read as follows:\nThat any person or persons sustaining bodily injury upon any of the public highways or streets in this State, by reason of neglect to keep such public highways or streets, and all bridges, sidewalks, cross-walks and culverts on the same in reasonable repair, and in condition reasonably safe and \u00f1t for travel by the township, village, city or corporation whose corporate authority extends over such public highway, street, bridge, sidewalk, cross-walk or culvert, and whose duty it is to keep the same in reasonable repair, such township, village, city or corporation shall be liable to and shall pay to the person or persons so injured or disabled just damages, to be recovered in an action of trespass on the case before any court of competent jurisdiction. [1887 PA 264. Emphasis added.]\nJoslyn v Detroit, 74 Mich 458; 42 NW 50 (1889); Salvati v Dep\u2019t of State Hwys, n 6 supra.\nMalloy v Walker Twp, 77 Mich 448; 43 NW 1012 (1889); Arnold v Dep\u2019t of State Hwys, 406 Mich 235; 277 NW2d 627 (1979); Endykiewicz v State Hwy Comm, 414 Mich 377; 324 NW2d 755 (1982).\nMalloy v Walker Twp, n 17 supra; Peters v Dep\u2019t of State Hwys, 400 Mich 50, 63; 252 NW2d 799 (1977); Arnold v Dep\u2019t of State Hwys, n 17 supra; Tuttle v Dep\u2019t of State Hwys, n 6 supra; Killeen v Dep\u2019t of Transportation, 432 Mich 1; 438 NW2d 233 (1989).\nSee cases cited in notes 16-18.\nSee n 3.\nDefined as including roads and streets. See n 57.\nSee ns 3 and 15 for text of statutes.\nThe report does not state the. speed of the horse-drawn conveyance, but the speed of the conveyance was surely far less than the speed of automobiles on state and county highways and roads under the jurisdiction of townships, cities, and other municipal corporations.\nSee n 15 for the full text of the 1879 act.\nMalloy v Walker Twp, n 17 supra, p 455.\nSharp v Evergreen Twp, 67 Mich 443; 35 NW 67 (1887); Ross v Ionia Twp, 104 Mich 320, 324; 62 NW 401 (1895); Hannon v City of Gladstone, 136 Mich 621; 99 NW 790 (1904); Lamb v Clam Lake Twp, 175 Mich 77; 140 NW 1009 (1913); Carpenter v Bloomingdale Twp, 227 Mich 355; 198 NW 912 (1924).\nJoslyn v Detroit, n 16 supra, p 460.\nThe Court continued:\nThe duty is imposed in both cases, and the necessity for it exists in the one case just as much as in the other, and the liability is the same, and it is very manifest that the Legislature intended to make it so.\nThe Court said that the statute\nrequires everything to be done by the city necessary to make travel upon its streets reasonably safe. If in so doing it becomes necessary to place signals or other safeguards at given points, or give other proper warning, it is the duty .of the city to see that it is done or that the street is closed to travel; and that duty is imposed by the express language of the statute, and the injury arising from the neglect of such duty to the citizen will make the municipality responsible to the party injured. [Id., p 461.]\nSee n 9 and ns 70-74 and the accompanying text.\nJoslyn v Detroit, n 16 supra, p 462 (Campbell, J., dissenting); Malloy v Walker Twp, n 17 supra, p 466 (Campbell, J., dissenting); McEvoy v Sault Ste Marie, 136 Mich 172, 183; 98 NW 1006 (1904) (Grant, J., dissenting).\nMcEvoy v Sault Ste Marie, n 29 supra.\nKowalczyk v Bailey, 379 Mich 568, 572; 153 NW2d 660 (1967), in which this Court said:\nIn both Joslyn [n 16 supra] and McEvoy [n 29 supra] dissenting opinions were filed but the views of the two dissenters never have prevailed in this Court. We are not persuaded that we should abandon the carefully considered opinions of this Court in Joslyn and McEvoy, in favor of the dissenters\u2019 views, in applying now the relevantly similar provisions of PA 1909, No 283. It is our conclusion, therefore, that the statute imposed upon cities liability for injuries caused by their negligent failure to remove obstructions in their streets after notice thereof.\nThe accident in Kowalczyk occurred before the enactment of the governmental tort liability act, but the language dealt with in the 1889, 1904 and 1967 cases was carried forward in the 1964 enactment of the governmental tort liability act without substantive change.\nWith the exception referred to in n 6. See also n 77.\nThe dissenting opinion in Killeen v Dep\u2019t of Transportation, n 18 supra, p 20, n 5, but not the plurality opinion in Scheurman, adverted to Mullins v Wayne Co, 16 Mich App 365, 375; 168 NW2d 246 (1969), and the citation there of Joslyn (see n 16) and Malloy (see n 17). Mullins was distinguished on the basis that it involved a \"county\u2019s duty to repair county roads under MCL 224.21; MSA 9.121, whereas, here this Court is construing a governmental agency\u2019s duty to maintain highways under\u201d the highway exception of the governmental tort liability act, and additionally on the basis that the state and not a county was the governmental agency in Killeen. Joslyn and Malloy were distinguished on the basis that they \"were both decided twenty years before the effective date of MCL 224.21; MSA 9.121.\u201d See n 3 for the text of MCL 224.21; MSA 9.121.\nThe dissenting opinion in Killeen also adverted to Endykiewicz, and expressed disagreement with statements concerning the rules of statutory construction in that opinion. Endykiewicz, n 17 supra, was not adverted to in the plurality opinion in Scheurman.\nSee n 15 for the text of the 1879/1887 language. See n 3 for the text of the 1964 reenactment.\nA predecessor of the mdot.\nThe issue in Tuttle was whether the Court of Claims judge clearly erred in finding that the highway department was not negligent when the undisputed facts showed that it failed to carry out its own work orders to add flashing lights and other signals at an intersection after its traffic engineers had determined that the existing stop control devices were not sufficiently noticeable. This Court ruled that the Court of Claims judge clearly erred.\nDepartment of State Highways, now Michigan Department Of Transportation.\nThe statement in Peters that the duty under the highway exception is \"to keep the highway in a condition reasonably safe and fit for travel,\u201d and the recognition that the department is subject to liability whether the defect was in design, construction or maintenance, is at odds with the statement in the companion case of Mason that the highway exception is limited to repair.\nId., pp 236-238.\nThe Court rejected the contention of the State Highway Department that a plaintiff must show that a highway defect was \"flagrant\u201d or \"palpably dangerous.\u201d Id., p 238.\nThe Court reiterated the statement in Peters that the \" 'duty of the defendant is to keep the highway in a condition reasonably safe and fit for travel.\u2019 \u201d Arnold, supra, p 238. (Emphasis in original.)\nA predecessor of the mdot.\nThe issue in Endykiewicz was whether the State Highway Commission was liable for damages for loss of society and companionship in a wrongful death action arising out of the failure of the commission to maintain a highway in a condition reasonably safe and fit for travel. This Court rejected the contentions that the plaintiff could not recover for the loss of society and companionship because \"this statute must be strictly construed,\u201d and the courts should \"defer to the Legislature\u2019s intent to confine narrowly the state\u2019s tort liability in highway defect cases.\u201d Id., p 384. Contrast the plurality opinion in Scheurman, supra, p 627.\nIn Killeen v Dep\u2019t of Transportation, supra, p 5, the issue did not concern the meaning of \"in reasonable repair, and in condition reasonably safe and fit for travel.\u201d The issue was whether the mdot was subject to liability when it assumes jurisdiction of a county road, and redesigns and reconstructs the road and then returns jurisdiction to the county road commission, for injuries sustained in accidents caused by failures in design or construction while it had jurisdiction, although the accident did not occur until after the department had relinquished jurisdiction. This Court held that the mdot was subject to liability in such a case for failures in design or construction.\nThe majority said:\nThe question presented is whether the highway department is subject to liability under the governmental tort liability act to a person sustaining injury by reason of defects in design or construction of a county road made while the highway department has assumed jurisdiction of the county road where the accident occurs after the highway department has returned jurisdiction to the county road commission. We hold that the highway department is subject to liability for loss suffered as a result of design and construction defects made while it has jurisdiction, and that it is not absolved from responsibility by a retransfer of jurisdiction of the defective road to the county road commission. [Id., pp 4-5.]\nSee ns 32 and 77 for discussion of the dissenting opinion in Killeen.\nExcepting only the view expressed in dissent by the author of Scheurman in Killeen v Dep\u2019t of Transportation, supra, p 18 (Riley, C.J., dissenting). See ns 32 and 77.\nThe fourth sentence of the highway exception reads:\nThe duty of the state and the county road commissions to repair and maintain highways, and the liability therefor, shall extend only to the improved portion of the highway designed for vehicular travel and shall not include sidewalks, crosswalks or any other installation outside of the improved portion of the highway designed for vehicular travel. [1964 PA 170, \u00a7 2, MCL 691.1402; MSA 3.996(102). Emphasis added.]\nSee n 3 for the full text of \u00a7 2, the highway exception.\nThe highway provision states that \"liability . . . shall extend only to the improved portion of the highway\u201d .... [Endykiewicz, supra, p 389.]\nScheurman, p 627.\nThe Attorney General said that the courts of this state have \"found items to be within the improved portion where they are \u2019an integral part of the improved portion\u2019 and which 'directly relate to the statutory duty imposed upon the defendant to maintain the highway in a condition safe and fit for travel,\u2019 Lynes v St Joseph Rd Comm, 29 Mich App 51, 59; 185 NW2d 111 (1970).\u201d\nThe Attorney General continued in Scheurman: \" 'Essentially, anything intimately connected with vehicular travel and making it safe for travel has been said to be within the ambit of the abrogation of governmental immunity.\u2019 Tibor v Dep\u2019t of State Hwys, 126 Mich App 159, 163; 337 NW2d 444 (1983).\u201d\nIn Tuttle, Endykiewicz, and Killeen, the plaintiffs recovered on the basis that the mdot and its predecessor state highway authorities had failed to keep the roadways in condition reasonably safe and fit for travel.\nThe mdot did not, I acknowledge, assert that the duty and liability set forth in the first and second sentences of the highway exception to keep roadways in condition reasonably safe and fit for travel was superseded by the any-other-installation clause of the fourth sentence.\nExcept as noted in n 6. See also ns 32 and 77.\nSee ns 16-18.\nI write that the words and sentences of the highway exception should be read as a whole because the fourth sentence does not stand by itself. All the pertinent language of the highway exception reads as follows:\nEach governmental agency having jurisdiction over any highway shall maintain the highway in reasonable repair so that it is reasonably safe and convenient for public travel. Any person sustaining bodily injury or damage to his property by reason of failure of any governmental agency to keep any highway under its jurisdiction in reasonable repair, and in condition reasonably s\u00e1fe and \u00f1t for travel, may recover the damages suffered by him from such governmental agency. The liability, procedure and remedy as to county roads under the jurisdiction of a county road commission shall be as provided in section 21, chapter 4 of Act No. 283 of the Public Acts of 1909, as amended, being section 224.21 of the Compiled Laws of 1948. The duty of the state and the county road commissions to repair and maintain highways, and the liability therefor, shall extend only to the improved portion of the highway designed for vehicular travel and shall not include sidewalks, crosswalks or any other installation outside of the improved portion of the highway designed for vehicular travel. [1964 PA 170, \u00a7 2, MCL 691.1402; MSA 3.996(102). Emphasis added.]\nThe highway exception, reading all the words together, subjects a governmental agency to liability for failure to keep \"the improved portion of the highway designed for vehicular travel\u201d \"in reasonable repair, and in condition reasonably safe and fit for travel.\u201d\nThe \"improved portion\u201d of the highway is redescribed in the Scheurman plurality opinion as the \u201cphysical portion\u201d and \"traveled portion.\u201d The redescription of the \"improved portion\u201d as the \"physical\u201d or \"traveled\u201d portion is inconsequential. Id., p 623.\nSee notes 16-18.\nId., p 639 (Brickley, J., concurring in part and dissenting in part).\nThe plaintiff in Mason is not complaining of a failure of Wayne County to repair and maintain in condition reasonably safe and fit for travel school warning signs that were not erected. He does not complain that he was unable to travel on an imaginary road traversing the tops of school warning signs that should have been erected and located outside the improved portion of the highway. The Mason plaintiff complains of the failure of Wayne County to erect school warning signs.\nChaney does not complain that the barrier was not of suitable width or design for ordinary or daredevil driving.\nId., p 631.\nFerguson v Muskegon Co, 181 Mich 335; 148 NW 212 (1914).\nThe statute provided:\nIt is hereby made the duty of the counties to keep in reasonable repair, so that they shall be reasonably safe and convenient for public travel, all county roads, bridges and culverts that are within their jurisdiction and under their care and control and which are open to public travel. The provisions of law respecting the liability of townships, cities, villages and corporations for damages for injuries resulting from a failure in the performance of the same duty respecting roads under their control, shall apply to counties adopting such county road system. [1909 PA 283, ch 4, \u00a7 21.]\nAs set forth in the plurality opinion, 1879 PA 244 (see n 15 for text) subjected townships and cities to liability for failure to keep bridges, crosswalks, and culverts, as well as public highways or streets, in good repair, and in condition reasonably safe and fit for travel, and this liability was expanded to include sidewalks in 1887. See n 15. \"Good repair\u201d was changed to \"reasonable repair\u201d by the same act, 1887 PA 264, see n 15 for text. See Welton v Crystal Twp, 152 Mich 486; 116 NW 390 (1908); Ferguson v Muskegon Co, n 55 supra; Union Twp v Mt Pleasant, 381 Mich 82; 158 NW2d 905 (1968).\n\"Highway\u201d means every public highway, road, and street which is open for public travel and shall include bridges, sidewalks, crosswalks, and culverts on any highway. The term \"highway\u201d does not include alleys, trees, and utility poles. [MCL 691.1401(e); MSA 3.996(101)(e).]\nTo be sure, as a practical matter, the state and the counties, when they repair and maintain a state or county road, probably also repair and maintain crosswalks traversing such roads.\nSidewalks may or may not be an \"installation outside of the improved portion of the highway.\u201d Crosswalks are, by definition, part of the highway.\nBut the responsibility of the state and counties is to maintain roadways in reasonable repair, and in condition reasonably safe and fit for travel by vehicles authorized to use the roads. It would appear \u2014but because this is not an issue in this case, I do not formally address it\u2014that, to the extent that that standard is less than what would constitute reasonable repair, and in condition reasonably safe and fit for travel by pedestrians, the townships and city continue to be responsible.\nRoy was decided by per curiam opinion. We all agreed that the highway exception \"does not extend to injuries which arise from detached, ancillary installations, such as sidewalks, crosswalks, and bicycle paths.\u201d Id., p 331.\nRoy was riding his bicycle on a bicycle path adjacent to a portion of 1-275. The complaint alleged that there was a \" 'substantial asphalt bump,\u2019 \u201d and that the mdot\u2019s agents had cut weeds and piled them over the area of the bump, and, as a result, he was unable to see the bump and was thrown from his bicycle when he encountered it. Id., p 332.\nThe improved portion of the roadway leading to and from rest stops and truck stops, and possibly the parking areas, are improved portions of the highway designed for vehicular travel. The remainder of the areas between the roadway of the expressway and the outer boundaries of rest stops and truck stops would be an installation outside the improved portion of the highway designed for vehicular travel.\nThe state and the counties have not been subject to liability for the repair and maintenance of drains and ditches paralleling the right of way of a highway even if they were located within the boundaries of the right of way.\nI have made these observations with regard to a median, rest stops, truck stops, drains and ditches, and other installations with some, reluctance because the issues in the instant case do not concern such installations, and there has been no briefing or argument. I make these observations because the construction placed by the majority on the fourth sentence attributes a meaning to \"any other installation\u201d that, in my judgment, is clearly wrong, and I feel obliged to show that there is another reading that gives those words substantial meaning.\nAnte, p 161 (opinion of Brickley, J.).\nThe opinion declares that it reads Scheurman as reiterating the general rule that the \"highway exception does not normally include installations physically separate and detached from the paved or traveled portion of a highway.\u201d Id., p 157 (emphasis added). The opinion continues that the limiting language of the fourth sentence of the highway exception \"creating liability only for 'the improved portion of a highway designed for vehicular travel,\u2019 encompasses (1) installations physically located within that traveled or paved portion of a highway designed for vehicular travel, or (2) some installations, even those physically located beyond the traveled or paved portion of a highway, that directly and integrally affect safe vehicular travel on this improved portion.\u201d Id., p 158.\nThe language in (2) above parallels the \"integral\u201d language in the concurring opinion in Scheurman. See text accompanying n 5 for the text of that opinion.\nIn Fogarty v Dep\u2019t of Transportation, 200 Mich App 572; 504 NW2d 710 (1993), formal abeyance for Mason, February 28, 1994 (Docket No. 97248), the plaintiff\u2019s decedent was killed when his automobile was struck head on by an automobile being driven by the defendant\u2019s decedent, Mancini. Mancini was traveling southbound on 1-75 when he lost control of his vehicle, passed through a grassy median, and entered the northbound lanes in which the plaintiff\u2019s decedent was traveling. The plaintiff claims that the mdot failed to adequately design, construct, and repair the median.\nThe Court of Appeals held that th'e grassy median is not part of the highway designed for vehicular travel. While the mdot is not required to repair and maintain the median in condition reasonably safe and fit for travel, and as set forth in text accompanying n 60, the median is generally an \"other installation,\u201d that does not relieve the mdot of the obligation to erect barriers necessary to maintain the improved portion of a highway, such as expressway lanes moving in opposite directions, in condition reasonably safe and fit for travel.\nSee also Sinishtaj v Dep\u2019t of State Hwys, unpublished opinion per curiam of the Court of Appeals, issued April 30, 1993 (Docket No. 135368), formal abeyance for Chaney, December 3, 1993 (Docket No. 96641). The plaintiff is the guardian of a woman who was hurt when her automobile went over a guardrail on M-59 near Adams Road. She claims the mdot breached its duty to keep M-59 in a manner reasonably safe and fit for public travel. The woman\u2019s automobile struck a guardrail, went over the guardrail, and rolled down a steep embankment. The Court of Appeals granted summary disposition on the basis of its decision in Chaney and Scheurman.\nOne justice dissented, stating that a shoulder of a highway is not within the highway exception because it is not designed for vehicular travel but rather for the temporary accommodation of disabled or stopped vehicles. Gregg, supra, p 317 (Griffin, J., dissenting).\nGregg, supra, p 308 (Riley, C.J., dissenting).\nSee text accompanying n 38.\nId., p 631.\nIn a recent opinion, construing the gross negligence exception to employee governmental immunity, MCL 691.1407(2)(c); MSA 3.996(\u00cd07)(2)(c), a majority observed:\nIt defies common sense and the responsible exercise of our authority to conclude that the Legislature would have provided protection tantamount to eliminating liability without having commented on it. [Dedes v Asch, 446 Mich 99, 115; 521 NW2d 488 (1994).]\nThe plurality opinion in Scheurman reads out from the highway exception the words stricken in the foregoing text, and in effect renders the highway exception almost no exception at all.\nId., p 631.\nId., p 623.\nNeither Scheurman itself nor its companion case, Prokop, concerned allegations of design or construction defects. The third \"plain meaning\u201d set forth in the plurality opinion in Scheurman, stating that the \"true intent of the Legislature is to impose a duty to keep the physical portion of the traveled roadbed in reasonable repair,\" went beyond what was necessary to decide either Scheurman or Prokop. Both cases could have been decided with the same conclusion of no governmental liability under either the first or second \"plain meanings\u201d set forth in the plurality opinion in Scheurman. Id., p 631.\nId., p 623.\nThis first \"plain meaning\u201d of the fourth sentence, read, as it must be read, in conjunction with the language of the second sentence, \"in reasonable repair, and in condition reasonably safe and fit for travel,\u201d means that a governmental agency is subject to liability, in the words of the plurality opinion in Scheurman, for a failure to keep \"the traveled portion, paved or unpaved, of the roadbed actually designed for public vehicular travel\u201d in reasonable repair, and in condition reasonably safe and fit for travel. That is the correct meaning of the fourth sentence. Id., p 623.\nUnited States v Monia, 317 US 424, 431; 63 S Ct 409; 87 L Ed 376 (1943) (Frankfurter, J., dissenting).\nThe plurality opinion quoted only the first sentence of the highway exception, obligating a governmental agency to \"maintain the highway in reasonable repair so that it is reasonably safe and convenient for public travel.\u201d Those words, standing alone, might have been read\u2014they were not (see ns 16-18)\u2014-by this Court when it first confronted the issue over a hundred years ago as requiring only reasonable repairs.\nIn Killeen, supra, p 18, the author of Scheurman dissented stating:\nIt is my opinion that the highway exception to Michigan\u2019s governmental immunity statute encompasses only a duty of maintenance and does not include liability for the negligent design and construction of highways.\nThat statement in Killeen was not based on the any-other-installation clause in the fourth sentence of the highway exception. Indeed, the thought that the fourth sentence might provide a basis for holding that there is no governmental liability for \"negligent design and construction of highways\u201d was so far out of mind that the fourth sentence was not quoted in the dissenting opinion. The quotation of the highway exception set forth in the dissenting opinion concluded with the third sentence. Id., p 20 (Riley, C.J., dissenting).\nThe view expressed in the dissenting opinion was based, rather, on the first sentence of the highway exception. The dissenting justice expressed her position in the following language:\nIn my view, the Legislature\u2019s choice of the words, \"shall maintain the highway in reasonable repair,\u201d indicates its intention merely to impose a duty of maintenance upon the governmental agency having jurisdiction over a highway. Furthermore, I interpret \"maintain ... in reasonable repair\u201d as encompassing only those repairs necessary as a result of normal highway usage. The statute does not impose a duty to repair defects in design or construction. [Id. Emphasis in original.]\nLlewellyn, Common Law Tradition, Deciding Appeals, p 206.\nSee n 76 and accompanying text.\nExcept as noted in n 6. See also ns 32 and 77.\nSee ante, pp 152-153 (opinion of Brickley, J.).",
+        "type": "dissent",
+        "author": "Levin, J."
+      }
+    ],
+    "attorneys": [
+      "Gittleman, Paskel, Tashman & Blumberg, P.C. (by Clifford Paskel); Bendure & Thomas, of counsel (by Mark R. Bendure and Sidney A. Klingler), for the plaintiff.",
+      "Frank J. Kelley, Attorney General, Thomas L. Casey, Solicitor General, and Brenda E. Turner, Assistant Attorney General, for the defendant.",
+      "Amicus Curiae:",
+      "Robert A. Koory and Elizabeth A. Givens for Michigan Trial Lawyers Association."
+    ],
+    "corrections": "",
+    "head_matter": "CHANEY v DEPARTMENT OF TRANSPORTATION\nDocket No. 96282.\nArgued March 9, 1994\n(Calendar No. 9).\nDecided August 31, 1994.\nRehearing denied post, 1216.\n\u2022 Ray Chaney brought an action in the Court of Claims against the Department of Transportation, seeking damages for injuries sustained when his motorcycle left the roadway of a highway entrance ramp and overpass, crossed the shoulder, and struck a bridge railing immediately adjacent to, but beyond,, the shoulder. The court, James R. Giddings, J., denied summary disposition, rejecting the defendant\u2019s claim of governmental immunity and concluding that guardrails are designed to affect the way vehicles travel. The Court of Appeals, Sullivan, P.J., and Mackenzie and I. B. Torres, JJ., citing Scheurman v Transportation Dep\u2019t, 434 Mich 619 (1990), reversed in an opinion per curiam, concluding that because the bridge railing was neither roadbed nor designed for vehicular travel, governmental immunity applied (Docket No. 131092). The plaintiff appeals.\nIn separate opinions, the Supreme Court held the defendant to be immune from liability, and affirmed the judgment of the Court of Appeals.\nJustice Brickley, stated that because the bridge railing was not physically located within the improved portion of the highway designed for vehicular travel, and because it did not integrally and directly affect safe vehicular travel on the improved portion of the highway, the highway exception to governmental immunity is inapplicable.\n1. The statutory grant of governmental immunity is broad, and its exceptions are narrowly drawn. The legislative purpose underlying the highway exception is fulfilled by requiring certain governmental agencies to repair and maintain the highway so that the improved portion designed for vehicular travel is reasonably safe and convenient for public travel. The highway exception normally does not include installations that are physically separate from the paved or traveled portion of a highway. Rather, the limiting language creating liability under MCL 691.1402; MSA 3.996(102) encompasses installations physically located within the traveled or paved portion of a highway designed for vehicular travel or some installations, even those physically located beyond the traveled or paved portion of a highway, that directly and integrally affect safe vehicular travel on the improved portion.\n2. In this case, governmental immunity precludes liability for the bridge railing because it is not physically located within the improved portion of the highway designed for vehicular travel and does not directly and integrally affect vehicular travel along the improved portion of the highway.\nJustice Riley, joined by Justice Griffin, concurring in part and dissenting in part, stated that the majority impermissibly expands liability by misconstruing the plain meaning of the statute at issue. The state is not liable for damages arising from installations directly and integrally affecting vehicular safety on the improved portion of the highway unless the highway is unreasonably unsafe because of physical disrepair of the improved portion of the roadbed designed for vehicular travel.\nA bridge railing is not an improved portion of a highway designed for vehicular travel. While a bridge railing is designed for vehicular safety, it is not a portion of the highway on which motor vehicles were designed to travel. The governmental statute does not expressly impose liability for bridge railings. To the contrary, bridge railings, separated from the roadbed by a reused curb and a paved shoulder are akin to sidewalks, crosswalks, or any other installation outside the improved portion of the highway. The unambiguous language of the statute excludes injuries involving the bridge railing.\nThe majority ignores the narrow issue presented and expands the sovereign immunity exception to include all injuries arising from any installation that directly and integrally affects safe vehicular travel on the improved portion of the highway, in contradiction of the clear language of the statute. While the obvious purpose undergirding the section is to compensate injured persons when the highway is unsafe for vehicular travel, it does so only in very limited circumstances. The statute does not provide blanket liability for all injuries that deprive drivers of conditions essential to safety on the highway itself. It only imposes liability if the injuries arise from the failure to repair or maintain the improved portion of the highway designed for vehicular travel.\nThe judiciary may not amend statutes to conform to its policy preferences. The Legislature, not the Court, is the lawmaking authority within the constitutional order of separate powers. Unless the constitution invalidates a legislative enactment, the propriety and wisdom of an enactment is not for the Supreme Court to question.\nJustice Boyle, concurring, stated that the highway exception to governmental immunity does not encompass accidents arising out of any installation that directly and integrally affects safe vehicular travel on the improved portion of a highway designed for vehicular travel.\nUnder the highway exception, both the state\u2019s duty to maintain and repair the highway and its liability for failure to do so are restricted to the improved portion of the highway designed for vehicular travel. However, the phrase \"improved portion of the highway designed for vehicular travel\u201d draws no obvious line. Including in the highway exception some installations, even those physically located beyond the traveled or paved portion of a highway, that directly and integrally affect safe vehicular traffic on the improved portion, is less helpful than the statute, and is so imprecise that it would foster litigation with no clear benefit. Rather, the state and counties should be liable under the highway exception only when they fail to repair and maintain the paved surface of a roadway, including objects on and structures supporting that surface, or traffic signs or signals necessary for safe vehicular travel.\nIn this case, the plaintiff\u2019s claim is barred by governmental immunity because he does not allege a failure to repair and maintain the paved surface of the roadway or a traffic sign or signal.\nChief Justice Cavanagh, concurring, stated that while Justices Brickley\u2019s and Boyle\u2019s interpretations of the highway exception to the governmental immunity statute are preferable from a policy standpoint, Justice Riley\u2019s interpretation is in accord with the plain language of the statute and the command of Ross v Consumers Power (On Rehearing), 420 Mich 567 (1984), of broad governmental immunity with narrowly drawn exceptions. In addition, her interpretation provides an exact standard, defining not only an injured party\u2019s rights but the government\u2019s potential liability. None of the other separate opinions satisfies each of these components.\nBecause it is inconceivable that liability under the highway exception should be so severely limited, the Legislature is urged to provide a more exhaustive list of exclusions or revise the statute, illustrating the extent of the highway exception.\nAffirmed.\nJustice Levin, joined by Justice Mallett, dissenting, stated that the question presented is whether the Michigan Department of Transportation is relieved from liability, under the highway exception to governmental immunity from tort liability, for a defect in design or construction of the concrete wall or guardrail involved in the accident at issue because they were erected immediately beyond, and thus outside, the improved portion of the highway designed for vehicular travel. The Court of Appeals, relying on Scheurman, held that the circuit judge should have granted the department\u2019s motion for summary disposition because the Legislature intended to impose only a duty to keep the traveled roadbed in reasonable repair, and because the concrete wall, while part of the overpass structure, was not designed for vehicular travel, but instead constituted an other installation outside the improved portion of the highway designed for vehicular travel within the meaning of the any-other-installation clause of the highway exception of MCL 691.1402; MSA 3.996(102). It further held that, because the barrier was neither a roadbed nor designed for vehicular travel, governmental immunity applied and the defendant should not be held liable for the plaintiff\u2019s injuries. However Scheurman is not precedentially binding under the doctrine of stare decisis, because no opinion obtained four signatures. In addition, the fundamental issues in this case were not decided in Scheurman. Further, the statement in the plurality opinion in Scheurman that the true intent of the Legislature was to impose a duty only to keep the physical portion of the traveled road in reasonable repair is obiter dictum.\nThe first two sentences of the highway exception impose a duty to keep the traveled roadbed in reasonable repair and a duty, and liability for failure to discharge that duty, to maintain the highway in condition reasonably safe and fit for travel. Case law has consistently held that the liability for failure to discharge the duty to maintain the highway in condition reasonably safe and fit for travel extends to failures of design or construction, including failures to install guardrails as reasonably necessary to maintain the improved portion of the highway designed for vehicular travel in condition reasonably safe and fit for travel. The view that the only statutory duty imposed by the words \"in reasonable repair, and in condition reasonably safe and fit for travel\u201d is to keep roadways in repair was repeatedly rejected. The Legislature, surely aware of the consistent judicial construction, extending for seventy-five years from 1889, nevertheless reenacted in 1964 the same language in the governmental tort liability act. Although the Supreme Court, in the thirty years since the enactment of the governmental tort liability act in 1964, has been true, without dissent, to the well-established precedents holding governmental agencies subject to liability for failures to warn, failures to erect barriers, and failures of design, the Legislature has not changed the statutory standard subjecting governmental agencies to liability for failure to keep highways in reasonable repair, and in condition reasonably safe and fit for travel.\nIn providing, in the fourth sentence of the highway exception, that the duty \"to repair and maintain highways, and the liability therefor\u201d shall not extend to \"any other installation outside of the improved portion of the highway designed for vehicular travel,\u201d the Legislature did not relieve the department of its duty and liability under the first two sentences of the highway exception to repair and maintain the improved portion of the highway designed for vehicular travel in condition reasonably safe and fit for travel, including installation of guardrails reasonably necessary to maintain the improved portion reasonably safe and fit for travel.\nThe fourth sentence of the highway exception contains two clauses: the repair-and-maintain clause and the any-other-installation clause. Reading the highway exception as a whole, the duty and liability expressly extended in the repair-and-maintain clause to the improved portion of the highway designed for vehicular travel concerns the repair and maintenance of the improved portion. The scope of the obligation is to keep the improved portion in reasonable repair and in condition reasonably safe and fit for travel. That obligation and liability for failure to repair and maintain, under the consistent case law before and after the 1964 reenactment, extends to a failure of design or construction, including a failure to warn or to erect suitable barriers. Although the Legislature clearly did not intend liability for a failure to maintain the unimproved portion of the highway in a condition safe and fit for travel, nothing in the wording of the highway exception suggests an intent to limit the liability of governmental agencies only to certain factors that are necessary to safely maintain the improved portion of the highway.\nThe Legislature, in providing in the any-other-installation clause that the duty to repair and maintain highways and the liability for failure to do so did not include any other installation outside the improved portion of the highway designed for vehicular travel, relieved the department of the duty and liability to keep the concrete wall in reasonable repair and in condition reasonably safe and fit for travel, not simply because the concrete wall and metal barrier were located immediately beyond and outside the improved portion of the highway designed for vehicular travel, but also because the concrete wall and metal barrier were not designed for vehicular travel. However the plaintiff is not complaining that the concrete wall that was erected was not in reasonable repair or in a condition reasonably safe and fit for travel on the concrete wall. Rather, he asserts that, under the repair-and-maintain clause, the department failed to design and construct the concrete wall and metal barrier as reasonably necessary to maintain the improved portion of the highway designed for vehicular travel in condition reasonably safe and fit for travel.\nA literal or \"plain\u201d reading of the any-other-installation clause does not relieve the state and counties of their obligation under the repair-and-maintain clause to keep the improved portion designed for vehicular travel not only in reasonable repair, but also in condition reasonably safe and fit for travel. That obligation, as construed by the Supreme Court, subjects the state and counties to liability for failures of design or construction, including a failure to warn or to erect suitable barriers. The any-other-installation clause should be read in harmony with the repair-and-maintain clause. To hold that there is no duty or liability on the part of the state or counties to maintain the improved portion of the highway in condition reasonably safe and fit for travel deprives the words \"and maintain\u201d in the repair-and-maintain clause of any meaning.\nThe majority misreads the legislative purpose in adding the any-other-installation clause in the fourth sentence. That sentence was crafted to avoid state and county responsibility for the repair and maintenance of sidewalks and crosswalks, traditionally the responsibility of townships and cities, and also to eliminate state and county responsibility for the repair and maintenance of installations like bicycle paths, bridges and medians adjacent to, traversing, or running alongside, state and county highways. It was not crafted to eliminate the liability of the state and counties, and by implication cities and townships, for design and construction defects and for all other failures to maintain, as distinguished from repair, highways in condition reasonably safe and fit for travel. Read as the majority reads it, the highway exception is not a meaningful exception to governmental immunity. The new meaning developed by the majority purposefully ignores one hundred years of adjudication by the Supreme Court. In holding that the highway exception requires nothing more than keeping even a hazardous road in reasonable repair, with liability arising only for accidents resulting from failures to fix potholes, the majority indulges in heavy-handed judicial. legislation, rendering the highway exception devoid of any practical meaning.\n198 Mich App 728; 499 NW2d 29 (1993) affirmed.\nGittleman, Paskel, Tashman & Blumberg, P.C. (by Clifford Paskel); Bendure & Thomas, of counsel (by Mark R. Bendure and Sidney A. Klingler), for the plaintiff.\nFrank J. Kelley, Attorney General, Thomas L. Casey, Solicitor General, and Brenda E. Turner, Assistant Attorney General, for the defendant.\nAmicus Curiae:\nRobert A. Koory and Elizabeth A. Givens for Michigan Trial Lawyers Association."
+  },
+  "file_name": "0145-01",
+  "first_page_order": 371,
+  "last_page_order": 442
+}

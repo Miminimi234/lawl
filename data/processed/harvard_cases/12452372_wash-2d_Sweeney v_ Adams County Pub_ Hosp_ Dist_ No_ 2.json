@@ -1,0 +1,76 @@
+{
+  "id": 12452372,
+  "name": "Sweeney et al., Petitioners, v. Adams County Pub. Hosp. Dist. No. 2 et al., Respondents",
+  "name_abbreviation": "Sweeney v. Adams County Pub. Hosp. Dist. No. 2",
+  "decision_date": "2017-03-29",
+  "docket_number": "No. 93951-9",
+  "first_page": "1027",
+  "last_page": "1027",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "187 Wash. 2d 1027"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Wash.",
+    "id": 9029,
+    "name": "Washington Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 38,
+    "name_long": "Washington",
+    "name": "Wash."
+  },
+  "cites_to": [
+    {
+      "cite": "196 Wn. App. 1040",
+      "category": "reporters:state",
+      "reporter": "Wash. App.",
+      "case_ids": [
+        12461760,
+        12461761,
+        12461759
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-app/196/1040-02",
+        "/wash-app/196/1040-03",
+        "/wash-app/196/1040-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 35,
+    "char_count": 238,
+    "ocr_confidence": 0.882,
+    "sha256": "8e43f245e0d77755321b3f9e8e4c3494437a5b0326eabc6e88b65a73f6a0459a",
+    "simhash": "1:a3910ab34565f9e9",
+    "word_count": 41
+  },
+  "last_updated": "2024-02-27T20:27:34.476040+00:00",
+  "provenance": {
+    "date_added": "2019-05-21",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Sweeney et al., Petitioners, v. Adams County Pub. Hosp. Dist. No. 2 et al., Respondents,"
+    ],
+    "opinions": [
+      {
+        "text": "Petition for review of a decision of the Court of Appeals, No. 32486-9-III, October 25, 2016, 196 Wn. App. 1040. Denied March 29, 2017.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Sweeney et al., Petitioners, v. Adams County Pub. Hosp. Dist. No. 2 et al., Respondents,\nNo. 93951-9."
+  },
+  "file_name": "1027-06",
+  "first_page_order": 995,
+  "last_page_order": 995
+}

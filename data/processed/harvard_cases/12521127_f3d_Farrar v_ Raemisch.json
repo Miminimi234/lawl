@@ -1,0 +1,822 @@
+{
+  "id": 12521127,
+  "name": "Charles FARRAR, Petitioner - Appellant, v. Rick RAEMISCH, Executive Director, Colorado Department of Corrections; Cynthia Coffman, Attorney General, State of Colorado ; James Falk, Warden, Sterling Correctional Facility, Respondents - Appellees. Scholars of Federal Habeas Corpus, Amicus Curiae.",
+  "name_abbreviation": "Farrar v. Raemisch",
+  "decision_date": "2019-05-21",
+  "docket_number": "No. 18-1005",
+  "first_page": "1126",
+  "last_page": "1134",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "924 F.3d 1126"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "10th Cir.",
+    "id": 8771,
+    "name": "United States Court of Appeals for the Tenth Circuit"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "502 U.S. 62",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6218248
+      ],
+      "weight": 3,
+      "year": 1991,
+      "pin_cites": [
+        {
+          "page": "67"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/502/0062-01"
+      ]
+    },
+    {
+      "cite": "277 F.3d 1235",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        9452969
+      ],
+      "year": 2002,
+      "pin_cites": [
+        {
+          "page": "1243",
+          "parenthetical": "\"In order to establish a due process violation [under Napue ], the [defendants] must show that ... the prosecution knew [the witness's testimony] to be false.\""
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/277/1235-01"
+      ]
+    },
+    {
+      "cite": "793 F.3d 1194",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        4277298
+      ],
+      "year": 2015,
+      "pin_cites": [
+        {
+          "page": "1207",
+          "parenthetical": "\"[T]his court has repeatedly spoken of Napue claims as requiring perjury by the witness and the prosecutor's knowledge of the falsity.\" (internal citations omitted)"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/793/1194-01"
+      ]
+    },
+    {
+      "cite": "239 F.3d 1156",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        11077504
+      ],
+      "year": 2001,
+      "pin_cites": [
+        {
+          "page": "1175"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/239/1156-01"
+      ]
+    },
+    {
+      "cite": "167 F.2d 661",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1198185
+      ],
+      "year": 1948,
+      "pin_cites": [
+        {
+          "page": "662",
+          "parenthetical": "stating that introduction of perjured testimony would not void a criminal judgment unless the government \"knowingly, willfully, and intentionally\" used the perjured testimony"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/167/0661-01"
+      ]
+    },
+    {
+      "cite": "183 F.2d 581",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1238500
+      ],
+      "year": 1950,
+      "pin_cites": [
+        {
+          "page": "581",
+          "parenthetical": "per curiam"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/183/0581-01"
+      ]
+    },
+    {
+      "cite": "187 F.2d 409",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1222610
+      ],
+      "year": 1951,
+      "pin_cites": [
+        {
+          "page": "410",
+          "parenthetical": "\"[A] writ of habeas corpus should not be granted upon the grounds that false and perjured testimony was used unless it is shown that it was knowingly used against the defendant by the prosecuting officers in the criminal case.\""
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/187/0409-01"
+      ]
+    },
+    {
+      "cite": "446 F.2d 229",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        813670
+      ],
+      "year": 1971,
+      "pin_cites": [
+        {
+          "page": "232",
+          "parenthetical": "\"While use of perjured testimony to obtain a conviction may be grounds for vacation of a conviction, the petitioner has the burden of establishing that ... it was knowingly and intentionally used by the government to obtain a conviction.\""
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/446/0229-01"
+      ]
+    },
+    {
+      "cite": "828 F.2d 656",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1747920
+      ],
+      "year": 1987,
+      "pin_cites": [
+        {
+          "page": "659",
+          "parenthetical": "\"In our habeas corpus consideration of the introduction of false or mistaken testimony, the question of error turns not on the witness' knowledge of falsity, but on the government 's knowledge.\" (emphasis in original)"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/828/0656-01"
+      ]
+    },
+    {
+      "cite": "55 F.3d 414",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        7413746
+      ],
+      "weight": 2,
+      "year": 1995,
+      "pin_cites": [
+        {
+          "parenthetical": "\"To the extent petitioner attempts to couch his actual innocence claim in terms of a due process violation based upon the state court's denial of his motion for a new trial, petitioner does not allege an 'independent' constitutional violation.\""
+        },
+        {
+          "page": "520"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/55/0414-01"
+      ]
+    },
+    {
+      "cite": "11 F.3d 1518",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        11330871
+      ],
+      "year": 1993,
+      "pin_cites": [
+        {
+          "page": "1524",
+          "parenthetical": "holding that a challenge to state post-conviction procedures \"would fail to state a federal constitutional claim cognizable in a federal habeas proceeding\""
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/11/1518-01"
+      ]
+    },
+    {
+      "cite": "469 U.S. 387",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11959535
+      ],
+      "weight": 3,
+      "year": 1985,
+      "pin_cites": [
+        {
+          "page": "393"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/469/0387-01"
+      ]
+    },
+    {
+      "cite": "153 U.S. 684",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        3576671
+      ],
+      "weight": 3,
+      "year": 1894,
+      "pin_cites": [
+        {
+          "page": "687-88"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/153/0684-01"
+      ]
+    },
+    {
+      "cite": "2 Vill. L. Rev. 293",
+      "category": "journals:journal",
+      "reporter": "Vill. L. Rev.",
+      "year": 1957,
+      "pin_cites": [
+        {
+          "page": "305",
+          "parenthetical": "stating that in light of the Constitution's silence on the right to a new trial in criminal cases, \"there seems to be no constitutional right to a new trial\""
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "156 U.S. 51",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        1488088
+      ],
+      "weight": 3,
+      "year": 1895,
+      "pin_cites": [
+        {
+          "page": "175",
+          "parenthetical": "Gray, J., dissenting"
+        },
+        {
+          "parenthetical": "Gray, J., dissenting"
+        },
+        {
+          "parenthetical": "Gray, J., dissenting"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/156/0051-01"
+      ]
+    },
+    {
+      "cite": "153 U.S. 308",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        3577051
+      ],
+      "weight": 3,
+      "year": 1894,
+      "pin_cites": [
+        {
+          "page": "312",
+          "parenthetical": "\"The overruling of the motion for new trial is next assigned for error. We had supposed that it was well understood by the bar that the refusal of a court of the United States to grant a new trial cannot be reviewed upon writ of error.\" (citing cases)"
+        },
+        {
+          "parenthetical": "\"The overruling of the motion for new trial is next assigned for error. We had supposed that it was well understood by the bar that the refusal of a court of the United States to grant a new trial cannot be reviewed upon writ of error.\" (citing cases)"
+        },
+        {
+          "parenthetical": "\"The overruling of the motion for new trial is next assigned for error. We had supposed that it was well understood by the bar that the refusal of a court of the United States to grant a new trial cannot be reviewed upon writ of error.\" (citing cases)"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/153/0308-01"
+      ]
+    },
+    {
+      "cite": "7 L.Ed. 732",
+      "category": "reporters:federal",
+      "reporter": "L. Ed.",
+      "case_ids": [
+        3305738
+      ],
+      "year": 1830,
+      "pin_cites": [
+        {
+          "parenthetical": "discussing the unavailability of appellate jurisdiction over the denial of a new trial, which would have required reexamination of the jury's factual findings"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/28/0433-01"
+      ]
+    },
+    {
+      "cite": "28 U.S. 3",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "year": 1830,
+      "pin_cites": [
+        {
+          "parenthetical": "discussing the unavailability of appellate jurisdiction over the denial of a new trial, which would have required reexamination of the jury's factual findings"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "624 F.2d 973",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1273083
+      ],
+      "year": 1980,
+      "pin_cites": [
+        {
+          "page": "974",
+          "parenthetical": "\"It is well established that there is no constitutional right to an appeal.\""
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/624/0973-01"
+      ]
+    },
+    {
+      "cite": "431 U.S. 651",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        1917
+      ],
+      "weight": 3,
+      "year": 1977,
+      "pin_cites": [
+        {
+          "page": "656",
+          "parenthetical": "\"[I]t is well settled that there is no constitutional right to an appeal.\""
+        },
+        {
+          "parenthetical": "\"[I]t is well settled that there is no constitutional right to an appeal.\""
+        },
+        {
+          "parenthetical": "\"[I]t is well settled that there is no constitutional right to an appeal.\""
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/431/0651-01"
+      ]
+    },
+    {
+      "cite": "343 F.3d 976",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        9097832
+      ],
+      "year": 2003,
+      "pin_cites": [
+        {
+          "page": "981-85"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/343/0976-01"
+      ]
+    },
+    {
+      "cite": "360 U.S. 264",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        9052
+      ],
+      "weight": 3,
+      "year": 1959,
+      "pin_cites": [
+        {
+          "page": "269"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/360/0264-01"
+      ]
+    },
+    {
+      "cite": "405 U.S. 150",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11721534
+      ],
+      "weight": 3,
+      "year": 1972,
+      "pin_cites": [
+        {
+          "page": "153-54"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/405/0150-01"
+      ]
+    },
+    {
+      "cite": "28 U.S.C. \u00a7 2241",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "(c)(3)"
+        },
+        {
+          "page": "(c)(3)"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "135 F.3d 1333",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        11878636
+      ],
+      "weight": 2,
+      "year": 1998,
+      "pin_cites": [
+        {
+          "page": "1339",
+          "parenthetical": "\"[T]he claim of innocence ... itself is not a basis for federal habeas corpus no matter how convincing the evidence.\""
+        },
+        {
+          "page": "1339"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/135/1333-01"
+      ]
+    },
+    {
+      "cite": "238 F.3d 1263",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        11148308
+      ],
+      "year": 2001,
+      "pin_cites": [
+        {
+          "parenthetical": "\"[A]n assertion of actual innocence ... does not, standing alone, support the granting of the writ of habeas corpus.\""
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/238/1263-01"
+      ]
+    },
+    {
+      "cite": "906 F.3d 866",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        12518960
+      ],
+      "year": 2018,
+      "pin_cites": [
+        {
+          "parenthetical": "denying a certificate of appealability because freestanding assertions of actual innocence cannot support habeas relief"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/906/0866-01"
+      ]
+    },
+    {
+      "cite": "506 U.S. 390",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11925317
+      ],
+      "weight": 22,
+      "year": 1993,
+      "pin_cites": [
+        {
+          "page": "400"
+        },
+        {
+          "page": "401"
+        },
+        {
+          "page": "407-08"
+        },
+        {
+          "page": "408"
+        },
+        {
+          "page": "408-11"
+        },
+        {
+          "page": "407-08, 411",
+          "parenthetical": "concluding that a state's refusal to consider newly discovered evidence eight years after the conviction did not result in a denial of due process"
+        },
+        {
+          "parenthetical": "concluding that a state's refusal to consider newly discovered evidence eight years after the conviction did not result in a denial of due process"
+        },
+        {
+          "parenthetical": "concluding that a state's refusal to consider newly discovered evidence eight years after the conviction did not result in a denial of due process"
+        },
+        {
+          "page": "417"
+        },
+        {
+          "page": "408"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/506/0390-01"
+      ]
+    },
+    {
+      "cite": "557 U.S. 52",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        3658152
+      ],
+      "weight": 6,
+      "year": 2009,
+      "pin_cites": [
+        {
+          "page": "71"
+        },
+        {
+          "page": "71",
+          "parenthetical": "declining to resolve whether actual innocence justifies habeas relief in a non-capital case"
+        },
+        {
+          "parenthetical": "declining to resolve whether actual innocence justifies habeas relief in a non-capital case"
+        },
+        {
+          "parenthetical": "declining to resolve whether actual innocence justifies habeas relief in a non-capital case"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/557/0052-01"
+      ]
+    },
+    {
+      "cite": "547 U.S. 518",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        3275461
+      ],
+      "weight": 6,
+      "year": 2006,
+      "pin_cites": [
+        {
+          "page": "554"
+        },
+        {
+          "page": "554-55",
+          "parenthetical": "declining to resolve this issue in a capital case"
+        },
+        {
+          "parenthetical": "declining to resolve this issue in a capital case"
+        },
+        {
+          "parenthetical": "declining to resolve this issue in a capital case"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/547/0518-01"
+      ]
+    },
+    {
+      "cite": "513 U.S. 298",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        1333576
+      ],
+      "weight": 3,
+      "year": 1995,
+      "pin_cites": [
+        {
+          "page": "314-15"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/513/0298-01"
+      ]
+    },
+    {
+      "cite": "569 U.S. 383",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        12697052
+      ],
+      "weight": 8,
+      "year": 2013,
+      "pin_cites": [
+        {
+          "page": "386"
+        },
+        {
+          "page": "392-93"
+        },
+        {
+          "page": "392",
+          "parenthetical": "again declining to resolve whether actual innocence justifies habeas relief in a non-capital case"
+        },
+        {
+          "parenthetical": "again declining to resolve whether actual innocence justifies habeas relief in a non-capital case"
+        },
+        {
+          "parenthetical": "again declining to resolve whether actual innocence justifies habeas relief in a non-capital case"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/569/0383-01"
+      ]
+    },
+    {
+      "cite": "184 F.3d 1206",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        11549277
+      ],
+      "weight": 2,
+      "year": 1999,
+      "pin_cites": [
+        {
+          "page": "1223"
+        },
+        {
+          "page": "1223"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/184/1206-01"
+      ]
+    },
+    {
+      "cite": "645 F.3d 1159",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        5651850
+      ],
+      "year": 2011,
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/645/1159-01"
+      ]
+    },
+    {
+      "cite": "689 F.3d 1148",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        3500456
+      ],
+      "year": 2012,
+      "pin_cites": [
+        {
+          "page": "1163"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/689/1148-01"
+      ]
+    },
+    {
+      "cite": "28 U.S.C. \u00a7 2254",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "weight": 4,
+      "pin_cites": [
+        {
+          "page": "(d)"
+        },
+        {
+          "page": "(d)"
+        },
+        {
+          "page": "(d)(1)"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "208 P.3d 702",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "case_ids": [
+        7334125
+      ],
+      "weight": 5,
+      "year": 2009,
+      "pin_cites": [
+        {
+          "page": "709-10"
+        },
+        {
+          "page": "707-08",
+          "parenthetical": "internal citations omitted"
+        },
+        {
+          "page": "706-10"
+        },
+        {
+          "page": "706"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/p3d/208/0702-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 1012,
+    "char_count": 21486,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.2593072028523671
+    },
+    "sha256": "4adca2deb5cc653e2f108ab02321e25ef128f6184a01380b5be9609f36c4d894",
+    "simhash": "1:f6eff30c5d3c561f",
+    "word_count": 3453
+  },
+  "last_updated": "2024-02-27T18:46:58.656971+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "file_name": "1126-01",
+  "first_page_order": 1126,
+  "last_page_order": 1134
+}

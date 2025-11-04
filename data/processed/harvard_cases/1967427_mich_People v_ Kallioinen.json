@@ -1,0 +1,118 @@
+{
+  "id": 1967427,
+  "name": "People v. Kallioinen",
+  "name_abbreviation": "People v. Kallioinen",
+  "decision_date": "1985-03-06",
+  "docket_number": "No. 75514",
+  "first_page": "793",
+  "last_page": "794",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "421 Mich. 1201"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Mich.",
+    "id": 8790,
+    "name": "Michigan Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 49,
+    "name_long": "Michigan",
+    "name": "Mich."
+  },
+  "cites_to": [
+    {
+      "cite": "417 Mich 1052",
+      "category": "reporters:state",
+      "reporter": "Mich.",
+      "year": 1983,
+      "opinion_index": 0
+    },
+    {
+      "cite": "333 NW2d 11",
+      "category": "reporters:state_regional",
+      "reporter": "N.W.2d",
+      "year": 1982,
+      "opinion_index": 0
+    },
+    {
+      "cite": "122 Mich App 695",
+      "category": "reporters:state",
+      "reporter": "Mich. App.",
+      "case_ids": [
+        2231048
+      ],
+      "year": 1982,
+      "opinion_index": 0,
+      "case_paths": [
+        "/mich-app/122/0695-01"
+      ]
+    },
+    {
+      "cite": "415 Mich 851",
+      "category": "reporters:state",
+      "reporter": "Mich.",
+      "year": 1982,
+      "opinion_index": 0
+    },
+    {
+      "cite": "305 NW2d 275",
+      "category": "reporters:state_regional",
+      "reporter": "N.W.2d",
+      "year": 1981,
+      "opinion_index": 0
+    },
+    {
+      "cite": "104 Mich App 636",
+      "category": "reporters:state",
+      "reporter": "Mich. App.",
+      "case_ids": [
+        2190268
+      ],
+      "year": 1981,
+      "opinion_index": 0,
+      "case_paths": [
+        "/mich-app/104/0636-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 80,
+    "char_count": 701,
+    "ocr_confidence": 0.726,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.07114333692813751
+    },
+    "sha256": "7fa4a0bfef0c22eeb20da9718c120056a71d92ada0cd0ca9206777dbf50e5972",
+    "simhash": "1:ede85f32343f964a",
+    "word_count": 130
+  },
+  "last_updated": "2024-02-27T19:29:49.154056+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "People v Kallioinen,"
+    ],
+    "opinions": [
+      {
+        "text": "The certification by the Court of Appeals pursuant to Administrative Order No. 1984-2 that its decision in this case is in conflict with its decisions in People v Coyle, 104 Mich App 636; 305 NW2d 275 (1981), lv den 415 Mich 851 (1982), and People v Nieto, 122 Mich App 695; 333 NW2d 11 (1982), lv den 417 Mich 1052 (1983), is considered. In light of the fact that no application for leave to appeal has been filed and the fact that the Court has granted leave to appeal in People v Prieskorn, Docket No. 75370, ante, 859, in which this same issue is to be argued, the Court declines to take any further action. Court of Appeals No. 71094.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Order Entered March 6, 1985:\nPeople v Kallioinen,\nNo. 75514."
+  },
+  "file_name": "0793-05",
+  "first_page_order": 945,
+  "last_page_order": 946
+}

@@ -1,0 +1,173 @@
+{
+  "id": 12521189,
+  "name": "UNITED STATES of America, Plaintiff - Appellee, v. Zachery King Edward CONNER, Defendant - Appellant.",
+  "name_abbreviation": "United States v. Conner",
+  "decision_date": "2019-05-09",
+  "docket_number": "No. 18-1032",
+  "first_page": "464",
+  "last_page": "467",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "924 F.3d 464"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "8th Cir.",
+    "id": 8821,
+    "name": "United States Court of Appeals for the Eighth Circuit"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "863 F.3d 781",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        12275998
+      ],
+      "year": 2017,
+      "pin_cites": [
+        {
+          "page": "783-84"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/863/0781-01"
+      ]
+    },
+    {
+      "cite": "250 F.3d 653",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        11100203
+      ],
+      "year": 2001,
+      "pin_cites": [
+        {
+          "page": "659"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/250/0653-01"
+      ]
+    },
+    {
+      "cite": "483 F.3d 871",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        5742634
+      ],
+      "year": 2007,
+      "pin_cites": [
+        {
+          "page": "875",
+          "parenthetical": "internal quotation and brackets omitted"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/483/0871-01"
+      ]
+    },
+    {
+      "cite": "122 F.3d 514",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        302280
+      ],
+      "year": 1997,
+      "pin_cites": [
+        {
+          "page": "517"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/122/0514-01"
+      ]
+    },
+    {
+      "cite": "971 F.2d 157",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        10513539
+      ],
+      "year": 1992,
+      "pin_cites": [
+        {
+          "page": "158"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/971/0157-01"
+      ]
+    },
+    {
+      "cite": "789 F.3d 923",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        4234012
+      ],
+      "year": 2015,
+      "pin_cites": [
+        {
+          "page": "929"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/789/0923-01"
+      ]
+    },
+    {
+      "cite": "18 U.S.C. \u00a7 924",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "pin_cites": [
+        {
+          "page": "(c)"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "18 U.S.C. \u00a7\u00a7 1951",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 497,
+    "char_count": 9404,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.2593149253103173
+    },
+    "sha256": "f9f9f86c507cd45872ca7ddf50ceda342c2aa997ce0bbe72555bb3d64bc776eb",
+    "simhash": "1:8acdcba0caa3bf53",
+    "word_count": 1571
+  },
+  "last_updated": "2024-02-27T18:46:58.656971+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "file_name": "0464-01",
+  "first_page_order": 464,
+  "last_page_order": 467
+}

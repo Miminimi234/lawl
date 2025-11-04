@@ -1,0 +1,73 @@
+{
+  "id": 4271642,
+  "name": "Care and Protection of Helena",
+  "name_abbreviation": "Care & Protection of Helena",
+  "decision_date": "2011-06-21",
+  "docket_number": "",
+  "first_page": "1001",
+  "last_page": "1001",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "460 Mass. 1001"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Mass.",
+    "id": 8825,
+    "name": "Massachusetts Supreme Judicial Court"
+  },
+  "jurisdiction": {
+    "id": 4,
+    "name_long": "Massachusetts",
+    "name": "Mass."
+  },
+  "cites_to": [
+    {
+      "cite": "454 Mass. 1010",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "case_ids": [
+        3670009
+      ],
+      "year": 2009,
+      "pin_cites": [
+        {
+          "page": "1010"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mass/454/1010-01"
+      ]
+    },
+    {
+      "cite": "434 Mass. 1301",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "year": 2001,
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 148,
+    "char_count": 1752,
+    "ocr_confidence": 0.951,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.14320680472104744
+    },
+    "sha256": "e044921a0412775c049bbd767256eb9799fa609470a490a02dfbefcde9e16a2d",
+    "simhash": "1:f5db589f9263d0b5",
+    "word_count": 287
+  },
+  "last_updated": "2024-02-27T17:56:26.592595+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "file_name": "1001-01",
+  "first_page_order": 891,
+  "last_page_order": 891
+}

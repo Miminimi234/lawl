@@ -1,0 +1,677 @@
+{
+  "id": 4204527,
+  "name": "COMMONWEALTH of Pennsylvania, Appellee v. Freeman MAY, Appellant",
+  "name_abbreviation": "Commonwealth v. May",
+  "decision_date": "2011-11-23",
+  "docket_number": "No. 600 CAP",
+  "first_page": "505",
+  "last_page": "519",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "612 Pa. 505"
+    },
+    {
+      "type": "parallel",
+      "cite": "31 A.3d 668"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "104 F.3d 566",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        7635846
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "570"
+        },
+        {
+          "parenthetical": "citations omitted"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/104/0566-01"
+      ]
+    },
+    {
+      "cite": "15 A.3d 345",
+      "category": "reporters:state_regional",
+      "reporter": "A.3d",
+      "case_ids": [
+        4201010,
+        7338275
+      ],
+      "weight": 2,
+      "year": 2011,
+      "pin_cites": [
+        {
+          "page": "373"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/609/0128-01",
+        "/a3d/15/0345-01"
+      ]
+    },
+    {
+      "cite": "609 Pa. 128",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        4201010
+      ],
+      "year": 2011,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/609/0128-01"
+      ]
+    },
+    {
+      "cite": "466 U.S. 668",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6204802
+      ],
+      "weight": 3,
+      "year": 1984,
+      "pin_cites": [
+        {
+          "page": "687"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/466/0668-01"
+      ]
+    },
+    {
+      "cite": "980 A.2d 35",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7292570,
+        4194886
+      ],
+      "weight": 9,
+      "year": 2009,
+      "pin_cites": [
+        {
+          "page": "59"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/980/0035-01",
+        "/pa/602/0224-01"
+      ]
+    },
+    {
+      "cite": "602 Pa. 224",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        4194886
+      ],
+      "weight": 2,
+      "year": 2009,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/602/0224-01"
+      ]
+    },
+    {
+      "cite": "813 A.2d 726",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        9381173,
+        716471
+      ],
+      "year": 2002,
+      "pin_cites": [
+        {
+          "page": "738"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/813/0726-01",
+        "/pa/572/0048-01"
+      ]
+    },
+    {
+      "cite": "572 Pa. 48",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        716471
+      ],
+      "year": 2002,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/572/0048-01"
+      ]
+    },
+    {
+      "cite": "512 U.S. 967",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        39795
+      ],
+      "weight": 5,
+      "year": 1994,
+      "pin_cites": [
+        {
+          "page": "979"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/512/0967-01"
+      ]
+    },
+    {
+      "cite": "530 U.S. 466",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        9413911
+      ],
+      "weight": 3,
+      "year": 2000,
+      "pin_cites": [
+        {
+          "page": "482-83"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/530/0466-01"
+      ]
+    },
+    {
+      "cite": "537 U.S. 101",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        9190761
+      ],
+      "weight": 4,
+      "year": 2003,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/537/0101-01"
+      ]
+    },
+    {
+      "cite": "536 U.S. 584",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        1254507
+      ],
+      "weight": 4,
+      "year": 2002,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/536/0584-01"
+      ]
+    },
+    {
+      "cite": "642 A.2d 453",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        775522,
+        7862821
+      ],
+      "year": 1994,
+      "pin_cites": [
+        {
+          "page": "458",
+          "parenthetical": "internal citations omitted"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/537/0167-01",
+        "/a2d/642/0453-01"
+      ]
+    },
+    {
+      "cite": "537 Pa. 167",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        775522
+      ],
+      "year": 1994,
+      "pin_cites": [
+        {
+          "parenthetical": "internal citations omitted"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/537/0167-01"
+      ]
+    },
+    {
+      "cite": "985 A.2d 915",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        4196433,
+        7293131
+      ],
+      "weight": 3,
+      "year": 2009,
+      "pin_cites": [
+        {
+          "page": "927-28"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/604/0176-01",
+        "/a2d/985/0915-01"
+      ]
+    },
+    {
+      "cite": "604 Pa. 176",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        4196433
+      ],
+      "year": 2009,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/604/0176-01"
+      ]
+    },
+    {
+      "cite": "504 Pa. 485",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1787724
+      ],
+      "weight": 2,
+      "year": 1984,
+      "pin_cites": [
+        {
+          "page": "737"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/504/0485-01"
+      ]
+    },
+    {
+      "cite": "512 Pa. 298",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1800478
+      ],
+      "weight": 2,
+      "year": 1986,
+      "pin_cites": [
+        {
+          "parenthetical": "\"significant history\" phrase in aggravating circumstances portion of death penalty statute is not unconstitutionally vague or overbroad"
+        },
+        {
+          "page": "697-98",
+          "parenthetical": "\"significant history\" phrase in aggravating circumstances portion of death penalty statute is not unconstitutionally vague or overbroad"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/512/0298-01"
+      ]
+    },
+    {
+      "cite": "644 A.2d 710",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7873409,
+        775554
+      ],
+      "year": 1994,
+      "pin_cites": [
+        {
+          "page": "719"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/644/0710-01",
+        "/pa/537/0394-01"
+      ]
+    },
+    {
+      "cite": "537 Pa. 394",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        775554
+      ],
+      "year": 1994,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/537/0394-01"
+      ]
+    },
+    {
+      "cite": "721 A.2d 786",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        11795144,
+        766006
+      ],
+      "year": 1998,
+      "pin_cites": [
+        {
+          "page": "792-93"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/721/0786-01",
+        "/pa/554/0378-01"
+      ]
+    },
+    {
+      "cite": "554 Pa. 378",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        766006
+      ],
+      "year": 1998,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/554/0378-01"
+      ]
+    },
+    {
+      "cite": "868 A.2d 505",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "year": 2004,
+      "pin_cites": [
+        {
+          "page": "521",
+          "parenthetical": "citations omitted"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "581 Pa. 57",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1140687
+      ],
+      "year": 2004,
+      "pin_cites": [
+        {
+          "parenthetical": "citations omitted"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/581/0057-01"
+      ]
+    },
+    {
+      "cite": "526 Pa. 578",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1825890
+      ],
+      "weight": 2,
+      "year": 1991,
+      "pin_cites": [
+        {
+          "parenthetical": "internal citations omitted"
+        },
+        {
+          "page": "1378-79",
+          "parenthetical": "internal citations omitted"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/526/0578-01"
+      ]
+    },
+    {
+      "cite": "985 A.2d 886",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7293029,
+        4196886
+      ],
+      "year": 2009,
+      "pin_cites": [
+        {
+          "page": "903",
+          "parenthetical": "quoting Commonwealth v. Chester, 526 Pa. 578, 587 A.2d 1367, 1378-79 (1991) (internal citations omitted)"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/985/0886-01",
+        "/pa/604/0126-01"
+      ]
+    },
+    {
+      "cite": "604 Pa. 126",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        4196886
+      ],
+      "year": 2009,
+      "pin_cites": [
+        {
+          "parenthetical": "quoting Commonwealth v. Chester, 526 Pa. 578, 587 A.2d 1367, 1378-79 (1991) (internal citations omitted)"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/604/0126-01"
+      ]
+    },
+    {
+      "cite": "898 A.2d 559",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8417917,
+        3467135
+      ],
+      "weight": 5,
+      "year": 2006,
+      "pin_cites": [
+        {
+          "parenthetical": "May III"
+        },
+        {
+          "parenthetical": "emphasis added"
+        },
+        {
+          "page": "571-72"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/898/0559-01",
+        "/pa/587/0184-01"
+      ]
+    },
+    {
+      "cite": "587 Pa. 184",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        3467135
+      ],
+      "year": 2006,
+      "pin_cites": [
+        {
+          "parenthetical": "May III"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/587/0184-01"
+      ]
+    },
+    {
+      "cite": "710 A.2d 44",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        11827134,
+        507783
+      ],
+      "year": 1998,
+      "pin_cites": [
+        {
+          "parenthetical": "May II"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/710/0044-01",
+        "/pa/551/0286-01"
+      ]
+    },
+    {
+      "cite": "551 Pa. 286",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        507783
+      ],
+      "year": 1998,
+      "pin_cites": [
+        {
+          "parenthetical": "May II"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/551/0286-01"
+      ]
+    },
+    {
+      "cite": "656 A.2d 1335",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7889297,
+        472159
+      ],
+      "year": 1995,
+      "pin_cites": [
+        {
+          "parenthetical": "May I"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/656/1335-01",
+        "/pa/540/0237-01"
+      ]
+    },
+    {
+      "cite": "540 Pa. 237",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        472159
+      ],
+      "year": 1995,
+      "pin_cites": [
+        {
+          "parenthetical": "May I"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/540/0237-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 1078,
+    "char_count": 23996,
+    "ocr_confidence": 0.712,
+    "pagerank": {
+      "raw": 1.0077447752113449e-07,
+      "percentile": 0.5412278862590059
+    },
+    "sha256": "6b55e47a3733d3b92510398f0c9495f53b5ffbaf6cf702e63315b85c2cdf0296",
+    "simhash": "1:81d59e12e34feb08",
+    "word_count": 3716
+  },
+  "last_updated": "2024-02-27T21:06:01.025246+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "CASTILLE, C.J., SAYLOR, EAKIN, BAER, TODD, McCAFFERY, ORIE MELVIN, JJ.",
+      "Chief Justice CASTILLE, Justices SAYLOR, BAER, TODD, McCAFFERY, and ORIE MELVIN join the opinion."
+    ],
+    "parties": [
+      "COMMONWEALTH of Pennsylvania, Appellee v. Freeman MAY, Appellant."
+    ],
+    "opinions": [
+      {
+        "text": "OPINION\nJustice EAKIN.\nFreeman May appeals from the judgment of sentence of death imposed following his third penalty phase. For the following reasons, we affirm.\nThe facts and procedural history herein are taken in large part from our opinions in appellant\u2019s first direct appeal, Commonwealth v. May, 540 Pa. 237, 656 A.2d 1335 (1995) (May I), the direct appeal following his second penalty phase hearing, Commonwealth v. May, 551 Pa. 286, 710 A.2d 44 (1998) (May II), and the direct appeal following his third penalty phase hearing, Commonwealth v. May, 587 Pa. 184, 898 A.2d 559 (2006) (May III). In 1988, in a remote, wooded location in Lebanon County, a man discovered human skeletal remains buried under logs, brush, and leaves. A forensic pathologist determined the remains were those of Kathy Lynn Fair, whose sister had reported her missing September 4, 1982, when she failed to appear for an outing. The forensic pathologist concluded the cause of death was multiple stab wounds inflicted by a short, single-edged weapon, most likely a knife.\nThe police arrested appellant in 1990, and charged him with Fair\u2019s murder. At trial, a police detective testified that when Fair\u2019s remains were discovered, he remembered a December, 1982 incident in which two girls, GS and SS, had accepted rides from appellant. The girls were stabbed with a short, folding, single-edged knife and left for dead not far from the place where Fair\u2019s remains were ultimately discovered; one of the young women had also been raped, but both survived the attack. A jury convicted appellant of two counts each of attempted murder, aggravated assault, reckless endangerment of another person, and one count of rape in connection with the 1982 assaults.\nAnother jury convicted appellant of first degree murder of Fair. After a penalty hearing, the jury found one aggravating circumstance, that the killing was committed while appellant was perpetrating a felony, namely rape, and one mitigating circumstance, that he had no significant history of prior criminal convictions. The jury determined the aggravating circumstance outweighed the mitigating circumstance, and appellant was sentenced to death. 42 Pa.C.S. \u00a7 9711(c)(l)(iv). On direct appeal, this Court affirmed the conviction, but reversed the sentence, concluding the jury could not properly consider whether appellant committed murder while in the perpetration of rape because the trial court never instructed the jury on the elements of rape. May I, at 1344-45. Accordingly, the matter was remanded for a new penalty phase.\nAt the second penalty phase, a new jury found one aggravating circumstance, a significant history of felony convictions involving the use or threat of violence to the person, and no mitigating circumstances. Accordingly, the sentence was death. On direct appeal, we affirmed both the conviction and death sentence. May II, at 48.\nAppellant initiated PCRA proceedings by filing a pro se petition, motions for stay of execution, and appointment of counsel. Appointed counsel subsequently filed an amended PCRA petition, raising more than a dozen substantive issues. The PCRA court denied relief on all of appellant\u2019s issues, but granted an evidentiary hearing for his contention that trial counsel was ineffective for failing to investigate, develop, and present mitigating evidence of appellant\u2019s allegedly traumatic childhood. May III, at 564. Following the hearing, the PCRA court denied relief on this sole remaining issue and dismissed the PCRA petition. On appeal, we determined trial counsel was ineffective for failing to object to the trial court\u2019s ruling concerning the introduction of mitigating evidence, and appellate counsel was ineffective for failing to raise the claim on direct appeal. Accordingly, we vacated appellant\u2019s sentence and remanded the matter for a third penalty phase. May III, at 576-77.\nUpon remand, appellant litigated several pre-trial motions, which the trial court denied. At the conclusion of appellant\u2019s third penalty phase, the jury found one aggravating circumstance outweighed two mitigating circumstances, and sentenced appellant to death. Appellant filed a timely post-sentence motion, which the trial court denied. With the Commonwealth\u2019s agreement, appellant was granted permission to appeal his sentence, nunc pro tunc. Appellant then filed a concise statement of matters complained of on appeal. His issues in this appeal may be summarized as: (1) whether appellant was denied due process because he was shackled during a portion of the penalty phase hearing; (2) whether the trial court\u2019s jury instruction regarding the possibility of parole violated appellant\u2019s due process and Eighth Amendment rights; (3) whether the \u201csignificant history\u201d aggravating circumstance is unconstitutionally vague and violates the ex post facto and due process clauses of the United States and Pennsylvania Constitutions; and (4) whether appellant\u2019s death sentence was the result of passion, prejudice, or arbitrariness.\nAppellant claims he is entitled to a new penalty phase because the trial court required him to be shackled for a portion of the hearing without cause or justification. Appellant was not shackled during any of the initial proceedings, including opening arguments. N.T. Sentencing, 10/10/08, at 305-06. However, at the trial court\u2019s instruction, appellant was shackled on the second day and throughout the duration of the hearing. Id. Defense counsel noted the shackling on the third day of the hearing and requested a curative instruction be given to the jury. Id. The discussion was as follows:\n[Defense Counsel]: Yesterday I noticed that [appellant] had been re-shackled. I made some comment in the opening about him not being shackled and how\u2014\nThe Court: They spoke to me and frankly his unshackling occurred without my permission. Okay.\n[Defense Counsel]: No.\nThe Court: He was re-shackled at my direction.\n[Defense Counsel]: I just wanted the jury to be informed it wasn\u2019t because of some misconduct that he had done. That\u2019s all.\nThe Court: I am not even sure if they ever noticed. And for me to say something might interject something that\u2019s not there.\n[Defense Counsel]: Considering I talked about it in my opening.\nThe Court: I didn\u2019t remember that you had said that to be honest with you.\n[Defense Counsel]: He was not shackled during any of the proceedings starting with our opening.\nThe Court: He was shackled throughout the jury selection. [Defense Counsel]: No, he wasn\u2019t. He was not shackled to anything in this courtroom until yesterday.\nThe Court: Well, that\u2019s my mistake because, frankly, he really should have been.\n[Defense Counsel]: I want you to relate that that was a mix-up between the Sheriffs Office and not something he may have done to get punished for.\nThe Court: I can tell them that.\n[Defense Counsel]: They have seen these things on television where\u2014\nThe Court: I can tell them that.\n[Defense Counsel]: Thank you.\nId. (emphasis added). We have previously held:\n\u201c[w]hile it is true that the presumption of innocence is removed once guilt has been determined, it cannot be said that the appearance of a defendant in shackles could not influence the jury at the penalty phase. An integral part of the jury\u2019s determination whether a defendant should be sentenced to death is the threat of danger the defendant poses to the community. Viewing the defendant in handcuffs and shackles during the penalty phase could have the effect of creating in the minds of the jurors the presumption that the defendant is dangerous and therefore worthy of the death sentence.\u201d Nevertheless, ... a judge has the responsibility and authority to maintain a courtroom atmosphere which is conducive to the fair and orderly disposition of the issues presented, and this includes the right to restrain the defendant, if the circumstances so warrant.\nCommonwealth v. Smith, 604 Pa. 126, 985 A.2d 886, 903 (2009) (quoting Commonwealth v. Chester, 526 Pa. 578, 587 A.2d 1367, 1378-79 (1991) (internal citations omitted)).\nAs revealed by the record, trial counsel never objected to appellant\u2019s shackling. Instead, counsel requested the trial court provide an explanation to the jury for appellant\u2019s shackling. He raised this due process claim for the first time on appeal. See Trial Court Opinion, 11/30/09, at 6. Thus, the claim is waived. Pa.R.A.P. 302(a) (\u201cIssues not raised in the lower court are waived and cannot be raised for the first time on appeal.\u201d).\nAppellant next claims the trial court erred in instructing the jury about the possibility of parole from a life sentence because the court\u2019s instructions misled the jury as to its responsibility in imposing the death sentence and implied an increased frequency in the occurrence of commutations. During trial, the jury returned with a question inquiring if life imprisonment meant life without the possibility of parole. The court granted the jury\u2019s request and instructed the jury accordingly. N.T. Sentencing, 10/15/08, at 871-74. Appellant did not object to the judge\u2019s instructions when given the opportunity. Id., at 874. Thus, this claim is waived. Pa. R.A.P. 302(a).\nNext, appellant claims the trial court erred in permitting the prosecution to seek application of the \u201csignificant history\u201d aggravating circumstance because it is unconstitutionally vague as applied to this case. Appellant specifically contends the Eighth and Fourteenth Amendments to the United States and Pennsylvania Constitutions have been violated because the prosecution\u2019s presentation of the \u201csignificant history\u201d aggravator arose from a single criminal episode that occurred after the homicide in question, which is distinguishable from current precedent. We have continuously upheld the \u201csignificant history\u201d aggravator against unconstitutionally vague challenges. See May III, 898 A.2d at 571-72; Commonwealth v. Williams, 581 Pa. 57, 868 A.2d 505, 521 (2004) (citations omitted); Commonwealth v. Rompilla, 554 Pa. 378, 721 A.2d 786, 792-93 (1998); Commonwealth v. Rivers, 537 Pa. 394, 644 A.2d 710, 719 (1994); see also Commonwealth v. Fahy, 512 Pa. 298, 516 A.2d 689, 697-98 (1986) (\u201csignificant history\u201d phrase in aggravating circumstances portion of death penalty statute is not unconstitutionally vague or overbroad). Further, this Court has previously determined the \u201csignificant history\u201d aggravator is not unconstitutionally vague, as to invite arbitrary and capricious imposition of the death penalty. Commonwealth v. Beasley, 504 Pa. 485, 475 A.2d 730, 737 (1984).\nAppellant\u2019s contention that this case is different from the aforementioned cases is meritless. Appellant cites numerous cases favorable to his purported distinction while failing to cite relevant precedent that addresses a similar factual situation. In Commonwealth v. Johnson, 604 Pa. 176, 985 A.2d 915 (2009), we held the fact the defendant\u2019s convictions arose from a single incident and occurred after the murder at issue did not reduce the convictions\u2019 significance or relevance with regard to the \u201csignificant history\u201d aggravating circumstance. Id., at 927-28. Thus, as the facts in both this case and Johnson arose from a single criminal episode that occurred after the homicide at issue, appellant\u2019s case is not distinguishable from current precedent, and his previous convictions were properly considered in determining whether the \u201csignificant history\u201d aggravator applied. Appellant\u2019s argument is merit-less.\nAppellant further contends the inconsistent jury verdicts in his penalty phases confirm the unconstitutional vagueness that plagues the \u201csignificant history\u201d aggravating circumstance. Appellant points out his first penalty phase jury found no \u201csignificant history\u201d mitigator, but his second and third penalty phase juries found the \u201csignificant history\u201d aggravator. Numerous factors contributed to each jury\u2019s determination, and appellant fails to provide any correlation between opposing aggravating and mitigating circumstances and unconstitutional vagueness of the \u201csignificant history\u201d aggravator. There is no doubt different information was presented to the juries in appellant\u2019s case. Trial Court Opinion, 8/29/08, at 19. Appellant was represented by different counsel, and different aggravating factors were presented to the juries. The jury in the first penalty phase was not presented with the \u201csignificant history\u201d aggravating circumstance, whereas the juries in the second and third penalty phases were. Each jury made independent credibility determinations. Id. Appellant fails to explain how different juries finding different aggravating and mitigating circumstances constitutes unconstitutional vagueness. As appellant presents little more than a bald assertion, his argument fails.\nAppellant argues the ex post facto and due process clauses of the United States Constitution have been violated because at the time he committed the murder, he did not have a significant history of convictions involving violence. He specifically contends a defendant can only be eligible for the death penalty if the factual basis that makes out the aggravating circumstance was in existence at the time the offense was committed.\nThis Court has held:\n[njothing contained in [42 Pa.C.S. \u00a7 9711(d)(9) ] would lead us to believe that the Legislature intended to limit the scope of prior convictions for purposes of aggravating sentence to only those arising from acts occurring prior to the instant offense. The term \u201csignificant history\u201d refers to [appellant's status at the time of sentencing, not at the time he committed the crime for which he is being sentenced. The function of the penalty phase is to focus upon the aspects of a defendant\u2019s character, which is properly reflected in his prior convictions, regardless of when the acts leading to those convictions occurred.\nCommonwealth v. Reid, 537 Pa. 167, 642 A.2d 453, 458 (1994) (internal citations omitted).\nAppellant concedes \u201cthis Court has interpreted [the significant history aggravator] to include convictions for crimes committed after the homicide in question.\u201d Appellant\u2019s Brief, at 53. However, he contends the United States Supreme Court has made it clear that aggravating circumstances must be treated as elements of the crime, and basing a death penalty prosecution on facts that were not in existence at the time of the crime violates the ex post facto and due process clauses of the United States Constitution. In support of his argument, he purports the holding in Reid conflicts with United States Supreme Court precedent, culminating with Ring v. Arizona, 536 U.S. 584, 122 S.Ct. 2428, 153 L.Ed.2d 556 (2002), and Sattazahn v. Pennsylvania, 537 U.S. 101, 123 S.Ct. 732, 154 L.Ed.2d 588 (2003).\nContrary to appellant\u2019s arguments, those cases stand for the proposition that all aggravating circumstances must be found by a jury, not a judge. See Sattazahn, at 112, 123 S.Ct. 732 (\u201cIf a jury unanimously concludes that a State has failed to meet its burden of proving the existence of one or more aggravating circumstances, double-jeopardy protections attach to that \u2018acquittal\u2019 of the offense of \u2018murder plus aggravating circumstance(s).\u2019 \u201d); Ring, at 602, 122 S.Ct. 2428 (citing Apprendi v. New Jersey, 530 U.S. 466, 482-83, 120 S.Ct. 2348, 147 L.Ed.2d 435 (2000)) (\u201cIf a State makes an increase in a defendant\u2019s authorized punishment contingent on the finding of a fact, that fact ... must be found by a jury beyond a reasonable doubt.\u201d). Thus, Reid has not been overruled or abrogated by United States Supreme Court precedent.\nMoreover, the United States Supreme Court upheld a similar aggravating circumstance in Tuilaepa v. California, 512 U.S. 967, 979, 114 S.Ct. 2630, 129 L.Ed.2d 750 (1994). Tuilaepa held \u201c[b]oth a backward-looking and forward-looking inquiry are a permissible part of the sentencing process ... and the States have considerable latitude in determining how to guide the sentencer\u2019s decision in this respect.\u201d Tuilaepa, at 977, 114 S.Ct. 2630. Therefore, by giving states \u201cconsiderable latitude\u201d in governing their aggravating circumstances, the United States Supreme Court considers a defendant\u2019s criminal history relevant, regardless of when the underlying facts occurred. Accordingly, appellant\u2019s claim is meritless.\nLastly, pursuant to the Sentencing Code, 42 Pa.C.S. \u00a7 9711(h)(3), this Court is required to conduct a statutory review of the death sentence. We must affirm the sentence unless it is determined: \u201c(i) the sentence of death was the product of passion, prejudice or any other arbitrary factor; or (ii) the evidence fails to support the finding of at least one aggravating circumstance----\u201d Id. Although this review is mandatory, appellate counsel raises four discrete issues under \u00a7 9711(h)(3), contending each demonstrates passion, prejudice, and arbitrariness were introduced into the jury\u2019s determination. Appellant specifically contends the prosecutor\u2019s comments on appellant\u2019s lack of remorse, the prosecutor\u2019s labeling of appellant\u2019s mitigating evidence as \u201cexcuses,\u201d the trial court\u2019s instruction regarding the possibility of the law changing in the future, and appellant\u2019s shackling during his penalty phase, directly involve passion, prejudice, and arbitrariness, and thus are presently reviewable under our automatic, statutory review.\nAppellant fails to acknowledge that these issues were never objected to below and presumptively fall under the rubric of ineffective assistance of counsel. \u201c[A]s a general rule, a petitioner should wait to raise claims of ineffective assistance of trial counsel until collateral review.\u201d Commonwealth v. Grant, 572 Pa. 48, 813 A.2d 726, 738 (2002). In Commonwealth v. Chambers, 602 Pa. 224, 980 A.2d 35 (2009), we declined to review waived issues that derived from strategic decisions of the defendant\u2019s trial counsel under the guise of an \u201carbitrary factor\u201d for the purposes of 42 Pa.C.S. \u00a7 9711(h)(3)\u2019s statutory review. Chambers, at 58-59.\nAlthough appellant acknowledges this Court\u2019s recent decision in Chambers, he baldly asserts this case is distinguishable. See Appellant\u2019s Brief, at 31 n. 9 (\u201c[a]ppellant notes here this Court\u2019s recent decision in Commonwealth v. Chambers, 602 Pa. 224, 980 A.2d 35, 59 (2009)____Here, by contrast, the challenged occurrences ... all directly involve passion, prejudice, and/or arbitrariness.\u201d). In a nearly identical fashion as Chambers, appellant relies on multiple string cites that predate our holding in Grant, as well as this Court\u2019s abrogation of the capital direct appeal relaxed waiver doctrine in Freeman. See Chambers, at 60-61. All of appellant\u2019s claims involve instances that could have been objected to by trial counsel. For instance, the prosecutor\u2019s labeling of appellant\u2019s mitigating evidence as excuses could have been objected to immediately following the prosecutor\u2019s comments. The trial court then would have had the opportunity to sustain the objection and issue a charge. Having failed to object, appellant must now defer these issues to collateral review as ineffective assistance of counsel claims.\nAccordingly, appellant\u2019s issues do not implicate an \u201carbitrary factor\u201d for the purposes of 42 Pa.C.S. \u00a7 9711(h)(3). The waived claims, thus, are unreviewable, and we dismiss them without prejudice to appellant\u2019s right to pursue them as ineffectiveness claims under the PCRA.\nRegarding the mandatory review we must conduct under \u00a7 9711(h)(3), upon review of the facts and the record, and excepting those claims deferred to collateral review, we conclude the sentence of death was not the product of passion, prejudice, or any other arbitrary factor; rather, it was based on sufficient evidence that appellant intentionally killed Fair. We also conclude the evidence was sufficient to support the finding of at least one aggravating circumstance, that appellant has a significant history of felony convictions involving the use or threat of violence to the person. See 42 Pa.C.S. \u00a7 9711(d)(9).\nThe sentence of death is affirmed.\nChief Justice CASTILLE, Justices SAYLOR, BAER, TODD, McCAFFERY, and ORIE MELVIN join the opinion.\n. At trial, appellant\u2019s brother testified appellant always carried a folding buck knife, which is a short, sturdy, single-edged knife.\n. 18 Pa.C.S. \u00a7\u00a7 901, 2502.\n. Id., \u00a7 2702.\n. Id., \u00a7 2705.\n. Id., \u00a7 3121.\n. Id., \u00a7 2502(a).\n. 42 Pa.C.S. \u00a7 9711(d)(6).\n. Id., \u00a7 9711(e)(1).\n. 42 Pa.C.S. \u00a7 9711(d)(9).\n. 42 Pa.C.S. \u00a7 971 l(c)(l)(iv).\n. Appellant raised the following pre-trial motions:\n1. Motion in Limine to Bar the Commonwealth from Producing Evidence of or Question Witnesses about Allegations of Prior Uncharged Criminal Conduct;\n2. Motion to Compel the Jury to Consider and Weigh the Mitigating Circumstance of no Significant History of Criminal Convictions;\n3. Motion to Bar Use of the Significant History Aggravator Because it is Unconstitutionally Vague as Applied in this Case;\n4. Motion to Bar Use of the Significant History Aggravator Because it Violates the Due Process and Ex Post Facto Clauses as Applied in this Case; and\n5. Motion to Bar Death Penalty.\nTrial Court Opinion, 8/29/08, at 2.\n. \"The defendant has a significant history of felony convictions involving the use or threat of violence to the person.\" 42 Pa.C.S. \u00a7 9711(d)(9).\n. \"The defendant was under the influence of extreme mental or emotional disturbance,\u201d id., \u00a7 9711(e)(2), and \"[a]ny other evidence of mitigation concerning the character and record of the defendant and the circumstances of his offense.\u201d Id., \u00a7 9711(e)(8).\n. 42Pa.C.S. \u00a7 9711(d)(9).\n. Appellant's issues have been reorganized for ease of discussion.\n. 42 Pa.C.S. \u00a7 9711(d)(9) (\"The defendant has a significant history of felony convictions involving the use or threat of violence to the person.\u201d).\n. The California statute is similar to Pennsylvania\u2019s \"significant history\u201d aggravating circumstance, providing: \u201cin determining the penalty, the trier of fact shall take into account ... [t]he presence or absence of criminal activity by the defendant which involved the use or attempted use of force or violence or the express or implied threat to use force or violence.\u201d Cal.Penal Code Ann. \u00a7 190.3(b).\n. \"In order to obtain relief based on a claim of ineffectiveness, a [Post Conviction Relief Act (PCRA), 42 Pa.C.S. \u00a7\u00a7 9541-9546,] petitioner must satisfy the performance and prejudice test set forth in Strickland v. Washington, 466 U.S. 668, 687, 104 S.Ct. 2052, 80 L.Ed.2d 674 (1984).\u201d Commonwealth v. Lesko, 609 Pa. 128, 15 A.3d 345, 373 (2011).\n. \"Many of these claims are based on omissions, which, by their very nature, do not appear on die record and thus, require further fact-finding, extra-record investigation and where necessary, an evidentiary hearing.\u201d Grant, at 736 (citations omitted). \"Waiting to raise the claims on collateral review 'affords the opportunity to develop a factual basis for the claim that counsel\u2019s performance did not meet the standard for effective assistance of counsel.\u2019 \" Id. (quoting United States v. Cocivera, 104 F.3d 566, 570 (3d Cir.1996)). \"By requiring ineffectiveness claims to be raised on direct appeal ..., the trial court is eliminated from the process, leaving the appellate court in an awkward position as to the manner in which these claims can be assessed. Appellate courts rarely function as fact-finders and do not have the resources to do so.\u201d Id. (citations omitted).\n. The Prothonotary of the Supreme Court is directed to transmit the complete record of this case to the Governor of Pennsylvania. See 42 Pa.C.S. \u00a7 971 l(i).",
+        "type": "majority",
+        "author": "Justice EAKIN."
+      }
+    ],
+    "attorneys": [
+      "Jules Epstein, Kairys, Rudovsky, Messing & Feinberg, Philadelphia, John Roger Kelsey III, Lebanon, for Freeman May.",
+      "Robert William McAteer, Amy Zapp, PA Office of Attorney General, David J. Arnold Jr., for Commonwealth of Pennsylvania."
+    ],
+    "corrections": "",
+    "head_matter": "31 A.3d 668\nCOMMONWEALTH of Pennsylvania, Appellee v. Freeman MAY, Appellant.\nSupreme Court of Pennsylvania.\nArgued Sept. 15, 2010.\nDecided Nov. 23, 2011.\nJules Epstein, Kairys, Rudovsky, Messing & Feinberg, Philadelphia, John Roger Kelsey III, Lebanon, for Freeman May.\nRobert William McAteer, Amy Zapp, PA Office of Attorney General, David J. Arnold Jr., for Commonwealth of Pennsylvania.\nCASTILLE, C.J., SAYLOR, EAKIN, BAER, TODD, McCAFFERY, ORIE MELVIN, JJ."
+  },
+  "file_name": "0505-01",
+  "first_page_order": 549,
+  "last_page_order": 563
+}

@@ -1,0 +1,66 @@
+{
+  "id": 12131625,
+  "name": "People v. John Marshall",
+  "name_abbreviation": "People v. Marshall",
+  "decision_date": "2015-09-09",
+  "docket_number": "No. 150165; Court of Appeals No. 313814",
+  "first_page": "876",
+  "last_page": "876",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "498 Mich. 876"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Mich.",
+    "id": 8790,
+    "name": "Michigan Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 49,
+    "name_long": "Michigan",
+    "name": "Mich."
+  },
+  "cites_to": [
+    {
+      "cite": "497 Mich 1023",
+      "category": "reporters:state",
+      "reporter": "Mich.",
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 16,
+    "char_count": 103,
+    "ocr_confidence": 0.749,
+    "sha256": "48eaed2bbc8cf04e8ab6988656d0f2a00814c63ecb75b1b9faf853dd96807339",
+    "simhash": "1:e39a729a1b0b93c9",
+    "word_count": 17
+  },
+  "last_updated": "2024-02-27T16:10:26.420323+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "People v John Marshall,"
+    ],
+    "opinions": [
+      {
+        "text": "Summary disposition at 497 Mich 1023.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "People v John Marshall,\nNo. 150165; Court of Appeals No. 313814."
+  },
+  "file_name": "0876-03",
+  "first_page_order": 822,
+  "last_page_order": 822
+}

@@ -1,0 +1,82 @@
+{
+  "id": 4271693,
+  "name": "Gerald Sarantakis vs. Commonwealth",
+  "name_abbreviation": "Sarantakis v. Commonwealth",
+  "decision_date": "2011-11-15",
+  "docket_number": "",
+  "first_page": "1019",
+  "last_page": "1020",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "460 Mass. 1019"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Mass.",
+    "id": 8825,
+    "name": "Massachusetts Supreme Judicial Court"
+  },
+  "jurisdiction": {
+    "id": 4,
+    "name_long": "Massachusetts",
+    "name": "Mass."
+  },
+  "cites_to": [
+    {
+      "cite": "26 Mass. App. Ct. 10",
+      "category": "reporters:state",
+      "reporter": "Mass. App. Ct.",
+      "case_ids": [
+        1156991
+      ],
+      "year": 1988,
+      "pin_cites": [
+        {
+          "parenthetical": "sentence previously imposed on guilty plea revoked on judge's motion; defendant resentenced to longer prison term"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mass-app-ct/26/0010-01"
+      ]
+    },
+    {
+      "cite": "434 Mass. 1301",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "weight": 2,
+      "year": 2001,
+      "opinion_index": 0
+    },
+    {
+      "cite": "378 Mass. 899",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "weight": 2,
+      "year": 1979,
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 280,
+    "char_count": 3699,
+    "ocr_confidence": 0.93,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.14320950758133003
+    },
+    "sha256": "7a4daed107de288ddd39c938d25a439285700db8d723925f09df3f79ab9406c4",
+    "simhash": "1:b242ddf010290523",
+    "word_count": 599
+  },
+  "last_updated": "2024-02-27T17:56:26.592595+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "file_name": "1019-01",
+  "first_page_order": 909,
+  "last_page_order": 910
+}

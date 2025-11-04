@@ -1,0 +1,118 @@
+{
+  "id": 1967405,
+  "name": "BANDFIELD v. WOOD",
+  "name_abbreviation": "Bandfield v. Wood",
+  "decision_date": "1985-03-19",
+  "docket_number": "Docket No. 67682",
+  "first_page": "774",
+  "last_page": "776",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "421 Mich. 774"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Mich.",
+    "id": 8790,
+    "name": "Michigan Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 49,
+    "name_long": "Michigan",
+    "name": "Mich."
+  },
+  "cites_to": [
+    {
+      "cite": "288 NW2d 609",
+      "category": "reporters:state_regional",
+      "reporter": "N.W.2d",
+      "year": 1979,
+      "opinion_index": 0
+    },
+    {
+      "cite": "94 Mich App 93",
+      "category": "reporters:state",
+      "reporter": "Mich. App.",
+      "case_ids": [
+        2171717
+      ],
+      "year": 1979,
+      "pin_cites": [
+        {
+          "page": "101"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mich-app/94/0093-01"
+      ]
+    },
+    {
+      "cite": "301 NW2d 1",
+      "category": "reporters:state_regional",
+      "reporter": "N.W.2d",
+      "year": 1980,
+      "opinion_index": 0
+    },
+    {
+      "cite": "100 Mich App 809",
+      "category": "reporters:state",
+      "reporter": "Mich. App.",
+      "case_ids": [
+        2196440
+      ],
+      "year": 1980,
+      "pin_cites": [
+        {
+          "page": "816"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mich-app/100/0809-01"
+      ]
+    },
+    {
+      "cite": "363 NW2d 641",
+      "category": "reporters:state_regional",
+      "reporter": "N.W.2d",
+      "year": 1984,
+      "opinion_index": 0
+    },
+    {
+      "cite": "420 Mich 567",
+      "category": "reporters:state",
+      "reporter": "Mich.",
+      "case_ids": [
+        1968430
+      ],
+      "year": 1984,
+      "opinion_index": 0,
+      "case_paths": [
+        "/mich/420/0567-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 277,
+    "char_count": 3959,
+    "ocr_confidence": 0.821,
+    "pagerank": {
+      "raw": 2.737523909619826e-07,
+      "percentile": 0.8316423081036771
+    },
+    "sha256": "a6c0c241d982b0cb034803f750889ec6ac4c5e953a6849047b8c6624299b59ae",
+    "simhash": "1:2894e2a2eab5ab59",
+    "word_count": 602
+  },
+  "last_updated": "2024-02-27T19:29:49.154056+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "file_name": "0774-01",
+  "first_page_order": 926,
+  "last_page_order": 928
+}

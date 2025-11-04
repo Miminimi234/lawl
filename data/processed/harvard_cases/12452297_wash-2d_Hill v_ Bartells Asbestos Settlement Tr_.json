@@ -1,0 +1,78 @@
+{
+  "id": 12452297,
+  "name": "Hill, Petitioner, v. Bartells Asbestos Settlement Tr. et al., Respondents",
+  "name_abbreviation": "Hill v. Bartells Asbestos Settlement Tr.",
+  "decision_date": "2017-03-08",
+  "docket_number": "No. 92869-0",
+  "first_page": "1018",
+  "last_page": "1018",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "187 Wash. 2d 1018"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Wash.",
+    "id": 9029,
+    "name": "Washington Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 38,
+    "name_long": "Washington",
+    "name": "Wash."
+  },
+  "cites_to": [
+    {
+      "cite": "191 Wn. App. 1027",
+      "category": "reporters:state",
+      "reporter": "Wash. App.",
+      "case_ids": [
+        12461081,
+        12461082,
+        12461083,
+        12461084
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-app/191/1027-01",
+        "/wash-app/191/1027-02",
+        "/wash-app/191/1027-03",
+        "/wash-app/191/1027-04"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 33,
+    "char_count": 222,
+    "ocr_confidence": 0.872,
+    "sha256": "9722c782468126e39115c81ad927e79dd5c15227ead583d99d3687f29916a3f9",
+    "simhash": "1:b5f5fc332fda6ceb",
+    "word_count": 36
+  },
+  "last_updated": "2024-02-27T20:27:34.476040+00:00",
+  "provenance": {
+    "date_added": "2019-05-21",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Hill, Petitioner, v. Bartells Asbestos Settlement Tr. et al., Respondents,"
+    ],
+    "opinions": [
+      {
+        "text": "Petition for review of a decision of the Court of Appeals, No. 73960-3-I, November 23, 2015, 191 Wn. App. 1027. Denied March 8, 2017.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Hill, Petitioner, v. Bartells Asbestos Settlement Tr. et al., Respondents,\nNo. 92869-0."
+  },
+  "file_name": "1018-02",
+  "first_page_order": 986,
+  "last_page_order": 986
+}

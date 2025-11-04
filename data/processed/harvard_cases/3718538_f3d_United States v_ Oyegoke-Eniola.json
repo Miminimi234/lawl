@@ -1,0 +1,264 @@
+{
+  "id": 3718538,
+  "name": "UNITED STATES of America, Plaintiff-Appellee, v. Eni OYEGOKE-ENIOLA, Defendant-Appellant",
+  "name_abbreviation": "United States v. Oyegoke-Eniola",
+  "decision_date": "2013-11-14",
+  "docket_number": "No. 12-3314",
+  "first_page": "1262",
+  "last_page": "1268",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "734 F.3d 1262"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "10th Cir.",
+    "id": 8771,
+    "name": "United States Court of Appeals for the Tenth Circuit"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "457 Fed.Appx. 549",
+      "category": "reporters:federal",
+      "reporter": "Fed. Appx.",
+      "pin_cites": [
+        {
+          "page": "551"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "180 F.3d 1217",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        11670620
+      ],
+      "pin_cites": [
+        {
+          "page": "1224"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/180/1217-01"
+      ]
+    },
+    {
+      "cite": "560 F.3d 888",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        3430019
+      ],
+      "pin_cites": [
+        {
+          "page": "892"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/560/0888-01"
+      ]
+    },
+    {
+      "cite": "708 F.3d 879",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        3541382
+      ],
+      "pin_cites": [
+        {
+          "page": "883-84"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/708/0879-01"
+      ]
+    },
+    {
+      "cite": "754 F.2d 314",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        288542
+      ],
+      "pin_cites": [
+        {
+          "page": "317"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/754/0314-01"
+      ]
+    },
+    {
+      "cite": "776 F.2d 878",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1516262
+      ],
+      "pin_cites": [
+        {
+          "page": "884"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/776/0878-01"
+      ]
+    },
+    {
+      "cite": "526 U.S. 314",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11133167
+      ],
+      "weight": 3,
+      "year": 1999,
+      "pin_cites": [
+        {
+          "page": "326-27"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/526/0314-01"
+      ]
+    },
+    {
+      "cite": "406 U.S. 441",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6171486
+      ],
+      "weight": 3,
+      "year": 1972,
+      "pin_cites": [
+        {
+          "page": "459-62"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/406/0441-01"
+      ]
+    },
+    {
+      "cite": "681 F.3d 1143",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        3885410
+      ],
+      "pin_cites": [
+        {
+          "page": "1169"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/681/1143-01"
+      ]
+    },
+    {
+      "cite": "632 F.3d 686",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        4088456
+      ],
+      "pin_cites": [
+        {
+          "page": "693"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/632/0686-01"
+      ]
+    },
+    {
+      "cite": "18 U.S.C. \u00a7 1546",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "28 U.S.C. \u00a7 1291",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "18 U.S.C. \u00a7 1341",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "weight": 12,
+      "pin_cites": [
+        {
+          "page": "70-71"
+        },
+        {
+          "page": "76"
+        }
+      ],
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 880,
+    "char_count": 18046,
+    "ocr_confidence": 0.656,
+    "pagerank": {
+      "raw": 5.657524242833003e-08,
+      "percentile": 0.3527516469106886
+    },
+    "sha256": "b4f978abb7f56dab68ddce90abc172cad2291078edbccfeaa941861c35bc579d",
+    "simhash": "1:e3c93534a71a231c",
+    "word_count": 2883
+  },
+  "last_updated": "2024-02-27T22:33:04.011779+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before HARTZ, BALDOCK, and EBEL, Circuit Judges."
+    ],
+    "parties": [
+      "UNITED STATES of America, Plaintiff-Appellee, v. Eni OYEGOKE-ENIOLA, Defendant-Appellant."
+    ],
+    "opinions": [
+      {
+        "text": "HARTZ, Circuit Judge.\nDefendant Eni Oyegoke-Eniola challenges his sentence following his guilty plea to charges of mail fraud, see 18 U.S.C. \u00a7 1341, and making a false statement on an immigration document, see id. \u00a7 1546. Defendant asserts four errors: (1) that the district court improperly imposed enhancements under the Sentencing Guidelines; (2) that Defendant\u2019s statements made under an immunity agreement should have been stricken from the Presentence Investigation Report (PSR); (3) that the court imposed a substantively unreasonable sentence; and (4) that the court failed to rule on some of Defendant\u2019s objections to the PSR. We have jurisdiction under 28 U.S.C. \u00a7 1291. We hold that Defendant\u2019s first claim is meritorious with respect to two enhancements and we therefore vacate the sentence and remand for further proceedings. We also discuss the use of the statements made by Defendant under an immunity agreement because the issue will arise again on remand. We need not address Defendant\u2019s other claims, which may be mooted at resentencing.\nWe discuss Defendant\u2019s first two issues in turn, setting forth the facts necessary to resolve each.\nI. GUIDELINES ENHANCEMENTS\nWe vacate Defendant\u2019s sentence because the district court\u2019s calculation of his total offense level improperly included two enhancements. The prosecution conceded that there was no evidence to support one of the enhancements, and the court declined to make the finding necessary for the other.\nA. Background\nAfter Defendant pleaded guilty, the probation office prepared a PSR. Unchallenged portions of the PSR set forth the following: Defendant is a citizen of Nigeria who had resided in Great Britain before coming to this country. In Great Britain he had been convicted of several felonies involving fraud and deception. He entered the United States in 2009 on a visa by falsely stating in his visa application that he had not been convicted of a crime. In 2011 he submitted an application for status as a permanent resident, again falsely answering that he had no criminal convictions. The 2011 false statement was the basis for his conviction under 18 U.S.C. \u00a7 1546. Defendant\u2019s mail-fraud conviction under 18 U.S.C. \u00a7 1341 was based on his use of the mails to engage in an identity-theft scheme. He would purchase merchandise with credit cards issued to other persons and have the merchandise delivered to him.\nTo calculate Defendant\u2019s total offense level, the PSR began with a base offense level of 7 under USSG \u00a7 2B1.1(a)(1) (the guideline for theft, fraud, and similar crimes). It then added four enhancements: (1) a 2-level increase because Defendant possessed five or more stolen-identity documents, see id. \u00a7 2B1.1(b)(11)(C)(ii); (2) a 2-level increase because Defendant\u2019s offense used sophisticated means, see id. \u00a7 2B1.1(b)(10)(C); (3) an 8-level increase because the intended loss was between $70,000 and $120,000, see id. \u00a7 2B1.1(b)(1)(E); and (4) a 2-level increase because there were 10 or more victims, see id. \u00a7 2B1.1(b)(2)(A)(i). The PSR then reduced the offense level by 3 because Defendant accepted responsibility and assisted authorities, see id. \u00a7 3E1.1, leading to a total offense level of 18. He had no criminal-history points (the convictions abroad did not count), so the PSR gave him a criminal-history category of I. The resulting guideline sentencing range was 27 to 33 months\u2019 incarceration. The PSR also suggested that Defendant be ordered to pay $9,480 as restitution to the company he had defrauded.\nDefendant filed objections to the recommended enhancements. The government responded that it lacked evidence that he possessed five or more stolen-identity documents and it would not seek that enhancement. The district court then wrote the parties a letter stating that \u201cit would appear that defendant\u2019s recalculated guideline sentence is 21-27 months,\u201d R., Vol. I at 87, which is the sentencing range that would result from eliminating the enhancement, see USSG ch. 5, pt. A.\nAt the sentencing hearing, the government called a Secret Service agent to testify about the sophisticated means employed by Defendant. After the agent\u2019s testimony, the district court expressed doubt about its sufficiency. The court said:\n[I]f the agent had had more evidence about how you are able to access the [credit card] account and get out information that was not automatically reported immediately and that he did it, that Defendant did it, then I would say that\u2019s sophisticated based on my knowledge of those things, but ... I didn\u2019t hear that.\nR., Vol. Ill at 61. In response the government said that Defendant\u2019s conduct went beyond ordinary credit-card fraud where an individual steals a card from the mail or from a billfold, because he went so far as to buy information regarding legitimate credit cards and then changed billing addresses. It also argued that Defendant employed sophisticated means when he used fictitious company names to hide his assets. Defense counsel countered that the evidence of fictitious names was unrelated to the offense of conviction and could not support enhancement of Defendant\u2019s sentence.\nThe court concluded that it would not impose the enhancement:\nSo I\u2019m not going to make a finding one way or another about whether there was sophisticated means. It certainly seems to me that whether it would meet the definition of the guidelines, which I, of course, give respectful consideration to at all times, his conduct does seem to demonstrate more knowledge about how computers and particularly billing type situations operate. But that is consistent, as I understand it, with the education that he received in England. So if that was a basis for the sophisticated enhancement, yeah, but the guidelines don\u2019t talk about that, so I don\u2019t think it\u2019s necessary.\nId. at 70-71.\nThe court announced that it was incorporating by reference its earlier correspondence (specifically including its letter rejecting the enhancement for multiple stolen-identity documents) and that it would not make a finding on the use of sophisticated means. It then proceeded to explain how it proposed to sentence Defendant. It discussed at length Defendant\u2019s history of fraudulent conduct and its view that an upward variance from the guidelines would be necessary to impose an appropriate sentence that would deter him and protect the public. After this explanation the court offered Defendant an opportunity to raise objections. None were forthcoming.\nThe court then stated, \u201cThe Court determines that the presentence investigation and the previously stated findings in the presentence report are accurate and orders them to be incorporated into the following sentence.\u201d Id. at 76. The court imposed a 60-month sentence and ordered $9,480 in restitution. Other than the reference to the PSR, it did not specify the offense level or guideline range used in reaching this sentence. The court concluded the hearing by asking Defendant if he had questions (he had none) or wanted to say something (he did not).\nEleven days after the hearing the district court filed its amended Statement of Reasons to accompany the judgment. On the document the court had checked off the box stating, \u201cThe court adopts the presentence investigation report without change.\u201d Id., Vol. II at 75. Also, in the section reciting the court\u2019s determination of the advisory guideline range, the court had typed in the total offense level as \u201c18,\u201d id., which was the level calculated by the PSR after including the enhancements for the use of sophisticated means and possession of five or more stolen-identity documents, and it had typed in a sentencing range of 27 to 33 months, which was what the PSR had calculated.\nB. Discussion\n1. Standard of Review\nWe first address our standard of review. The government argues that we should review only for plain error because Defendant did not object at the sentencing hearing to the district court\u2019s imposition of enhancements for the use of sophisticated means and possession of multiple stolen-identity documents. But there is no need to raise an objection when the court agrees with you. Defendant had no reason to argue that there was insufficient evidence of sophisticated means when the court said that it would not make a finding on the enhancement. And there was certainly no reason to say anything about the possession of stolen-identity documents when the court had sent a letter adopting the Defendant\u2019s view. Fed.R.Crim.P. 51 is in point. It provides: \u201cIf a party does not have an opportunity to object to a ruling or order, the absence of an objection does not later prejudice that party.\u201d Fed.R.Crim.P. 51(b). For example, if the first time that the sentencing court announces a condition of release is in its written judgment, the failure of counsel to object at the sentencing hearing does not require plain-error review of a challenge to the condition. See United States v. Mike, 632 F.3d 686, 693 (10th Cir.2011).\nWe recognize that before pronouncing sentence the district court stated: \u201cThe Court determines that the presentence investigation and the previously stated findings in the presentence report are accurate and orders them to be incorporated into the following sentence.\u201d R., Vol. Ill at 76. Ordinarily, an attorney who had any objection to the PSR would need to raise the objection at that time (if not raised earlier) to preserve it for appeal. But the context here was not ordinary. What had occurred immediately before this statement would signal to those present that the statement was not intended to alter any of what the court had said previously. The court had made a lengthy statement (it occupies six pages of the transcript) summarizing its rulings on the parties\u2019 arguments and explaining why it thought that an upward variance from the guideline sentencing range was necessary. After making that statement, the court asked for objections. Defense counsel said that he had none. It was quite reasonable for defense counsel to assume that this request for objections was not just a feint by the court and that it would not now proceed to renege on its rulings of a few moments earlier. Of course, it would have been better if defense counsel had clarified the court\u2019s intention. But we cannot fault him for letting pass an apparently inconsequential slip. He properly could have thought (and apparently did think) that the court was adopting only the parts of the PSR that it had not just rejected. It would be hard to believe that the court was directly contradicting what it had pronounced only moments before, without any explanation of why it had changed its mind. Thus, we apply abuse-of-discretion review.\nUnder that standard, the district court erred in its Statement of Reasons when it adopted the PSR and calculated the total offense level as 18. As the government concedes on appeal, there was no factual support for the enhancement for possession of five or more stolen-identity documents, and the court did not make the findings necessary to impose the sophisticated-means enhancement.\nMoreover, the error was not harmless. We have held that \u201cunless the district court indicated at sentencing that the sentence imposed would be the same under multiple sentencing approaches, one of which was the correct approach, we are compelled to remand for resentencing when we find that an improper offense level or criminal history category was applied.\u201d United, States v. Kieffer, 681 F.3d 1143, 1169 (10th Cir.2012) (ellipsis, brackets, and internal quotation marks omitted). The district court gave no such indication. Bound by this precedent, we must reverse.\nBecause we must remand for resentenc-ing anyway, we need not address Defendant\u2019s arguments that the sentence was substantively unreasonable and that the district court failed to rule on his other objections to the PSR. We add, however, that the court should clarify on remand whether it not only varied from the guideline range but also departed from Defendant\u2019s criminal-history classification, a matter on which the parties disagree.\nII. IMMUNITY AGREEMENT\nThere is, however, an additional matter that we should address because it will arise on resentencing. It concerns the use in the PSR of Defendant\u2019s statements to federal agents.\nThe government cannot compel a person to testify over his invocation of the privilege against self-incrimination unless it promises to immunize him against use of the testimony in any criminal prosecution against him. See Kastigar v. United States, 406 U.S. 441, 459-62, 92 S.Ct. 1653, 32 L.Ed.2d 212 (1972). Such use includes use in sentencing proceedings. See Mitchell v. United States, 526 U.S. 314, 326-27, 119 S.Ct. 1307, 143 L.Ed.2d 424 (1999). But absent compulsion, the government and the person can enter into a contract providing for whatever scope of immunity they agree to, and set conditions on the grant of immunity. See United States v. Fountain, 776 F.2d 878, 884 (10th Cir.1985); United States v. Hembree, 754 F.2d 314, 317 (10th Cir.1985) (immunity agreement breached by giving false testimony); 3 Wayne R. LaFave et al., Criminal Procedure \u00a7 8.11(e), at 296 (3d ed.1999) (\u201cFor informal immunity, unlike statutory use/derivative-use immunity, issues relating to the scope of the immunity cannot be answered by reference to the commensurate protection provided under the self-incrimination privilege. Here, scope may be broader or narrower than what would be required to supplant the privilege, and the crucial question is what scope was agreed to by the parties.\u201d).\nIt is undisputed that when Defendant was interviewed after his arrest, defense counsel orally agreed with the prosecutor that Defendant would later receive a \u201cstandard Kastigar\u201d letter. R., Vol. I at 72 (internal quotation marks omitted). The letter delivered after the interview provided that \u201cno statements made by or other information provided by your client during the proffer or discussion will be used against him in the government\u2019s case-in-chief.\u201d Id. at 58.\nThe PSR included information from the interview. Defendant moved to strike this information from the PSR. Although he did not argue that the prosecutor\u2019s Kasti-gar letter departed from the terms of standard Kastigar letters used by the United States attorney\u2019s office in that district, he contended that the bar against use of the statements in the government\u2019s case-in-chief encompassed use at sentencing. The court disagreed and denied the motion to strike. We agree with the district court\u2019s interpretation of the letter.\nThe term case-in-chief does not encompass sentencing. Black\u2019s Law Dictionary defines it as \u201c1. The evidence presented at trial by a party between the time the party calls the first witness and the time the party rests. 2. The part of a trial in which a party presents evidence to support the claim or defense.\u201d Black\u2019s Law Dictionary 244 (9th ed.2009). We have been pointed to no use of the term that extends to sentencing. And we note that Kastigar agreements quoted in appellate decisions distinguish between the case-in-chief and sentencing. See, e.g., United States v. Bennett, 708 F.3d 879, 883-84 (7th Cir.2013) (\u201c[N]o direct use will be made of his statements, or any information provided by him, in the government\u2019s case-in-chief at trial, or in aggravation of his sentence .... \u201d (internal quotation marks omitted)); United States v. Al-Esawi, 560 F.3d 888, 892 (8th Cir.2009) (\u201c[TJhe government will not offer in its case-in-chief, or in connection with any sentencing proceeding for the purpose of determining the applicable guideline range, any oral statements made by you at the meeting....\u201d (internal quotation marks omitted)).\nNevertheless, use of the Defendant\u2019s interview is problematic even if the government\u2019s interpretation of the Kastigar letter is correct. USSG \u00a7 lB1.8(a) states:\nWhere a defendant agrees to cooperate with the government by providing information concerning unlawful activities of others, and as part of that cooperation agreement the government agrees that self-incriminating information provided pursuant to the agreement will not be used against the defendant, then such information shall not be used in determining the applicable guideline range, except to the extent provided in the agreement.\nApplying that provision in United States v. Fortier, 180 F.3d 1217, 1224 (10th Cir.1999), we held: \u201cThe language and spirit of section 1B1.8 require the agreement to specifically mention the court\u2019s ability to consider the defendant\u2019s disclosures in calculating the appropriate sentence range.\u201d The Kastigar letter here contains no such specific mention. An Application Note states that \u201c[although the guideline itself affects only the determination of the guideline range, the policy of the Commission, as a corollary, is that information prohibited from being used to determine the applicable guideline range shall not be used to depart upward.\u201d USSG \u00a7 1B1.8, cmt. n. 1. On the other hand, neither the guidelines nor our cases address the use of immunized statements to vary upwards, and at least one court has suggested that \u00a7 IB 1.8(a) does not apply to variances. See United States v. Patel, 457 Fed.Appx. 549, 551 (6th Cir.2012).\nWe leave to the district court in the first instance whether it can (or wishes to) use Defendant\u2019s statements for sentencing purposes. The court should, however, make a record of whether it is doing so.\nIII. CONCLUSION\nWe VACATE Defendant\u2019s sentence and REMAND for resentencing.",
+        "type": "majority",
+        "author": "HARTZ, Circuit Judge."
+      }
+    ],
+    "attorneys": [
+      "Stephen K. Christiansen (Kelley M. Marsden, with him on the briefs), Yan Cott, Bagley, Cornwall & McCarthy, Salt Lake City, UT, for Defendant-Appellant.",
+      "James A. Brown, Assistant United States Attorney, (Barry R. Grissom, United States Attorney, with him on the brief), District of Kansas, Topeka, KS, for Plaintiff \u2014 Appellee."
+    ],
+    "corrections": "",
+    "head_matter": "UNITED STATES of America, Plaintiff-Appellee, v. Eni OYEGOKE-ENIOLA, Defendant-Appellant.\nNo. 12-3314.\nUnited States Court of Appeals, Tenth Circuit.\nNov. 14, 2013.\nStephen K. Christiansen (Kelley M. Marsden, with him on the briefs), Yan Cott, Bagley, Cornwall & McCarthy, Salt Lake City, UT, for Defendant-Appellant.\nJames A. Brown, Assistant United States Attorney, (Barry R. Grissom, United States Attorney, with him on the brief), District of Kansas, Topeka, KS, for Plaintiff \u2014 Appellee.\nBefore HARTZ, BALDOCK, and EBEL, Circuit Judges."
+  },
+  "file_name": "1262-01",
+  "first_page_order": 1284,
+  "last_page_order": 1290
+}

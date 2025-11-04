@@ -1,0 +1,912 @@
+{
+  "id": 3726547,
+  "name": "Pavel IVANOV; Irina Kozochkina, Petitioners, v. Eric H. HOLDER, Jr., Attorney General, Respondent",
+  "name_abbreviation": "Ivanov v. Holder",
+  "decision_date": "2013-11-15",
+  "docket_number": "No. 11-1814",
+  "first_page": "5",
+  "last_page": "23",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "736 F.3d 5"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "1st Cir.",
+    "id": 8809,
+    "name": "United States Court of Appeals for the First Circuit"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "168 F.3d 565",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        11640190
+      ],
+      "pin_cites": [
+        {
+          "page": "572"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/168/0565-01"
+      ]
+    },
+    {
+      "cite": "577 F.3d 49",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        4043156
+      ],
+      "pin_cites": [
+        {
+          "page": "54"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/577/0049-01"
+      ]
+    },
+    {
+      "cite": "522 F.3d 32",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        3761820
+      ],
+      "pin_cites": [
+        {
+          "page": "41"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/522/0032-01"
+      ]
+    },
+    {
+      "cite": "390 F.3d 110",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        9138190
+      ],
+      "pin_cites": [
+        {
+          "page": "126"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/390/0110-01"
+      ]
+    },
+    {
+      "cite": "493 F.3d 46",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        3511473
+      ],
+      "pin_cites": [
+        {
+          "page": "49"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/493/0046-01"
+      ]
+    },
+    {
+      "cite": "18 F.3d 1017",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        10512670
+      ],
+      "pin_cites": [
+        {
+          "page": "1028"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/18/1017-01"
+      ]
+    },
+    {
+      "cite": "175 F.3d 732",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        1719967
+      ],
+      "pin_cites": [
+        {
+          "page": "735-36"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/175/0732-01"
+      ]
+    },
+    {
+      "cite": "283 F.3d 664",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        9511107
+      ],
+      "pin_cites": [
+        {
+          "page": "667"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/283/0664-01"
+      ]
+    },
+    {
+      "cite": "329 F.3d 157",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        9124260
+      ],
+      "pin_cites": [
+        {
+          "page": "170"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/329/0157-01"
+      ]
+    },
+    {
+      "cite": "416 F.3d 567",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        8940214
+      ],
+      "pin_cites": [
+        {
+          "page": "570"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/416/0567-01"
+      ]
+    },
+    {
+      "cite": "450 F.3d 142",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        3089838
+      ],
+      "pin_cites": [
+        {
+          "page": "148"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/450/0142-01"
+      ]
+    },
+    {
+      "cite": "524 F.3d 302",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        3823504
+      ],
+      "pin_cites": [
+        {
+          "page": "308-09"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/524/0302-01"
+      ]
+    },
+    {
+      "cite": "492 F.3d 1223",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        3506308
+      ],
+      "pin_cites": [
+        {
+          "page": "1232-33"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/492/1223-01"
+      ]
+    },
+    {
+      "cite": "21 I. & N. Dec. 486",
+      "category": "reporters:federal",
+      "reporter": "I. & N. Dec.",
+      "weight": 3,
+      "year": 1996,
+      "pin_cites": [
+        {
+          "page": "490"
+        },
+        {
+          "page": "490"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "533 F.3d 63",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        4039515
+      ],
+      "weight": 4,
+      "pin_cites": [
+        {
+          "page": "69"
+        },
+        {
+          "page": "69"
+        },
+        {
+          "parenthetical": "alteration in original"
+        },
+        {
+          "page": "69"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/533/0063-01"
+      ]
+    },
+    {
+      "cite": "505 F.3d 39",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        5861087
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "42"
+        },
+        {
+          "page": "42"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/505/0039-01"
+      ]
+    },
+    {
+      "cite": "568 F.3d 251",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        3655976
+      ],
+      "pin_cites": [
+        {
+          "page": "255"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/568/0251-01"
+      ]
+    },
+    {
+      "cite": "526 F.3d 48",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        3577861
+      ],
+      "weight": 4,
+      "pin_cites": [
+        {
+          "page": "54"
+        },
+        {
+          "page": "54",
+          "parenthetical": "six events occurring over the course of four years, considered together, suggested a pattern of abuse, where the most serious incident involved a three-day detention"
+        },
+        {
+          "page": "53"
+        },
+        {
+          "page": "56, 58"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/526/0048-01"
+      ]
+    },
+    {
+      "cite": "469 F.3d 188",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        3756771
+      ],
+      "pin_cites": [
+        {
+          "page": "191"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/469/0188-01"
+      ]
+    },
+    {
+      "cite": "693 F.3d 87",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        3518868
+      ],
+      "pin_cites": [
+        {
+          "page": "92"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/693/0087-01"
+      ]
+    },
+    {
+      "cite": "8 C.F.R. \u00a7 1208.13",
+      "category": "laws:admin_compilation",
+      "reporter": "C.F.R.",
+      "pin_cites": [
+        {
+          "page": "(b)(1)"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "421 F.3d 64",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        8927580
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "67"
+        },
+        {
+          "page": "68"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/421/0064-01"
+      ]
+    },
+    {
+      "cite": "8 U.S.C. \u00a7 1101",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "pin_cites": [
+        {
+          "page": "(a)(42)"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "8 U.S.C. \u00a7 1158",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "pin_cites": [
+        {
+          "page": "(b)(1)(A)"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "8 U.S.C. \u00a7 1252",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "(b)(4)(b)"
+        },
+        {
+          "page": "(b)(4)(b)"
+        },
+        {
+          "page": "76"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "649 F.3d 72",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        5714843
+      ],
+      "weight": 4,
+      "pin_cites": [
+        {
+          "page": "75"
+        },
+        {
+          "page": "76"
+        },
+        {
+          "page": "75"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/649/0072-01"
+      ]
+    },
+    {
+      "cite": "582 F.3d 96",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        4061933
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "105"
+        },
+        {
+          "page": "105-06"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/582/0096-01"
+      ]
+    },
+    {
+      "cite": "502 U.S. 478",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6229213
+      ],
+      "weight": 3,
+      "year": 1992,
+      "pin_cites": [
+        {
+          "page": "481"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/502/0478-01"
+      ]
+    },
+    {
+      "cite": "494 F.3d 213",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        3541095
+      ],
+      "weight": 5,
+      "pin_cites": [
+        {
+          "page": "217"
+        },
+        {
+          "page": "217"
+        },
+        {
+          "page": "217"
+        },
+        {
+          "page": "217-18"
+        },
+        {
+          "page": "219"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/494/0213-01"
+      ]
+    },
+    {
+      "cite": "608 F.3d 105",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        3687960
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "107"
+        },
+        {
+          "page": "107"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/608/0105-01"
+      ]
+    },
+    {
+      "cite": "8 U.S.C. \u00a7 1227",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "pin_cites": [
+        {
+          "page": "(a)(1)(B)"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "584 F.3d 13",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        5891353
+      ],
+      "pin_cites": [
+        {
+          "page": "19-20"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/f3d/584/0013-01"
+      ]
+    },
+    {
+      "cite": "503 F.3d 8",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        2921613
+      ],
+      "pin_cites": [
+        {
+          "page": "11"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/f3d/503/0008-01"
+      ]
+    },
+    {
+      "cite": "702 F.3d 504",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        3646486
+      ],
+      "pin_cites": [
+        {
+          "page": "524"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/f3d/702/0504-01"
+      ]
+    },
+    {
+      "cite": "8 C.F.R. \u00a7 1240.26",
+      "category": "laws:admin_compilation",
+      "reporter": "C.F.R.",
+      "pin_cites": [
+        {
+          "page": "(i)"
+        }
+      ],
+      "opinion_index": 1
+    },
+    {
+      "cite": "412 F.3d 257",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        8968464
+      ],
+      "pin_cites": [
+        {
+          "page": "261-63"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/f3d/412/0257-01"
+      ]
+    },
+    {
+      "cite": "417 F.3d 128",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        8938130
+      ],
+      "pin_cites": [
+        {
+          "page": "129-32"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/f3d/417/0128-01"
+      ]
+    },
+    {
+      "cite": "572 F.3d 29",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        3670122
+      ],
+      "pin_cites": [
+        {
+          "page": "34"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/f3d/572/0029-01"
+      ]
+    },
+    {
+      "cite": "533 F.3d 63",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        4039515
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "70"
+        },
+        {
+          "page": "70"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/f3d/533/0063-01"
+      ]
+    },
+    {
+      "cite": "568 F.3d 251",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        3655976
+      ],
+      "weight": 4,
+      "pin_cites": [
+        {
+          "page": "255"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/f3d/568/0251-01"
+      ]
+    },
+    {
+      "cite": "8 C.F.R. \u00a7 1208.13",
+      "category": "laws:admin_compilation",
+      "reporter": "C.F.R.",
+      "pin_cites": [
+        {
+          "page": "(b)(1)(i)(B)"
+        }
+      ],
+      "opinion_index": 1
+    },
+    {
+      "cite": "421 F.3d 64",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        8927580
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "68"
+        },
+        {
+          "page": "68"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/f3d/421/0064-01"
+      ]
+    },
+    {
+      "cite": "8 U.S.C. \u00a7 1252",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "pin_cites": [
+        {
+          "page": "(b)(4)(B)"
+        }
+      ],
+      "opinion_index": 1
+    },
+    {
+      "cite": "649 F.3d 72",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        5714843
+      ],
+      "pin_cites": [
+        {
+          "page": "75"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/f3d/649/0072-01"
+      ]
+    },
+    {
+      "cite": "502 U.S. 478",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6229213
+      ],
+      "weight": 5,
+      "year": 1992,
+      "pin_cites": [
+        {
+          "page": "483"
+        },
+        {
+          "page": "481"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/us/502/0478-01"
+      ]
+    },
+    {
+      "cite": "494 F.3d 213",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        3541095
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "218"
+        },
+        {
+          "page": "218"
+        },
+        {
+          "page": "219"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/f3d/494/0213-01"
+      ]
+    },
+    {
+      "cite": "608 F.3d 105",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        3687960
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "107"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/f3d/608/0105-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 1964,
+    "char_count": 54876,
+    "ocr_confidence": 0.697,
+    "pagerank": {
+      "raw": 1.2556232867175792e-07,
+      "percentile": 0.6112238589971848
+    },
+    "sha256": "f1cafa166f1c5661ed1ae2f204f9e8ff8659b331fc0fa944c6e9b1ad49249369",
+    "simhash": "1:b340574491686043",
+    "word_count": 8654
+  },
+  "last_updated": "2024-02-27T16:55:59.249303+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before TORRUELLA, THOMPSON, and KAYATTA, Circuit Judges."
+    ],
+    "parties": [
+      "Pavel IVANOV; Irina Kozochkina, Petitioners, v. Eric H. HOLDER, Jr., Attorney General, Respondent."
+    ],
+    "opinions": [
+      {
+        "text": "THOMPSON, Circuit Judge.\nPetitioners Pavel Ivanov and Irina Ko-zochkina seek review of a final order of removal. They say the immigration courts erred by finding that the persecution Iva-nov experienced in Russia was not \u201con account of\u2019 his Pentecostal faith. We agree. After careful consideration of the decision and the record, we vacate and remand for additional proceedings.\nFacts and Procedural History\nPetitioners are natives and citizens of Russia. Ivanov is a long-standing member of the Pentecostal Church, which Kozochk-ina, a Baptist, now attends.\nPetitioners entered the United States in May 2003 on five-month educational exchange visas. Having heard from family and fellow Pentecostals in Russia of ongoing threats and violence against persons of their faith, Petitioners overstayed their visas and applied for asylum, withholding of removal, and relief under the Convention Against Torture (CAT) in September 2004. Petitioners were married in Newport, Rhode Island in October 2004.\nIn August 2005, the Department of Homeland Security (DHS) served Petitioners with Notices to Appear, charging them with removability under the Immigration and Nationality Act. See 8 U.S.C. \u00a7 1227(a)(1)(B). Petitioners filed amended applications for asylum, withholding of removal, and CAT relief in June 2007. They appeared before an Immigration Judge (IJ) in a series of hearings between 2006 and 2009. Because the IJ found Ivanov credible, we recount the facts here as Iva-nov presented them in his documentation and testimony.\nIvanov was born in Chelyabinsk, Russia on November 21,1983. His parents raised him in the Pentecostal faith, practicing in secret during the anti-religious Soviet regime, then joining a church in 1995 as Russia began to open up to religion after the fall of communism.\nPentecostals represent a religious minority in Russia. Though the Russian Constitution provides for freedom of religion, \u201c[mjany citizens firmly believe that adherence to the Russian Orthodox Church ... is at the heart of their national identity,\u201d and \u201cmembers of minority and \u2018non-traditional\u2019 religions,\u201d including Pentecostals, \u201ccontinue to encounter prejudice, societal discrimination, and in some cases physical attacks.\u201d Local authorities reportedly do not adequately respond to such attacks. For example, prior to 2005, Evangelicals and Pentecostals in various regions reported the vandalizing and burning of prayer houses, including in Iva-nov\u2019s hometown of Chelyabinsk, where authorities made no arrests.\nIvanov\u2019s memories of problems for his church date back to March 1996, when he learned that members of the Russian Orthodox Church intercepted Pentecostal literature sent from France. Then, on January 7, 1997 (Orthodox Christmas), he heard that a group of \u201cBarkashovtsy\u201d\u2014 Russian nationalist, neo-Nazi \u201cskinheads\u201d \u2014had burned his church\u2019s office and beat up the night watchman. Later, on May 30, 1999, while Ivanov and his parents were visiting their pastor\u2019s home for Pentecost, a mob led by a disgraced Russian Orthodox priest attacked the home, beating the pastor\u2019s wife, looting the premises, and burning religious literature.\nIvanov testified that he was personally mistreated because of his religious beliefs on several occasions. First, on November 21, 1999, during Ivanov\u2019s baptism into the Pentecostal faith on his sixteenth birthday, bystanders heckled and threw bottles at celebrants during the initial ceremony at a public pool. That evening, while rites continued at the prayer house, skinheads burst in, shot rubber bullets, confiscated literature, and ransacked the house.\nSecond, on April 20, 2002, the anniversary of Hitler\u2019s birth, skinheads attacked Ivanov as he left the church-run drug rehabilitation center where he volunteered. His church operated the center as part of its mission of public service. Patients received medical treatment and followed a strict regimen of daily bible study.\nThat night, as Ivanov left the center, four young skinheads \u201cknocked [him] down and dragged [him] 3 blocks\u201d to a basement where he was \u201cchained and beaten with full plastic water bottles.\u201d They \u25a0 handcuffed him, then-applied an electric shock to one hand and put cigarettes out on the other. They told him he had two days to figure out how to close the' church\u2019s \u201c \u2018satanic\u2019 dispensary.\u201d The skinheads then left Ivanov for nearly three \u2019 days without food and water. His parents filed a police report, but to their knowledge no action was taken. Fortunately, the skinheads released Ivanov of their own accord a few days later. It was only after Iva-nov\u2019s. release that he realized the drug rehabilitation center\u2019s work interfered with the skinheads\u2019 lucrative drug trade.\nThird, in February 2003, Ivanov \u201cwas summoned to the local police department.\u201d There, a federal security service officer identified as Major Kozlov ordered Ivanov to provide false testimony in the prosecution of his pastor. Prosecutors accused the pastor of using hypnosis to extort a ten-percent tithe from congregants. Major Kozlov told Ivanov he \u201cwould be sorry for not cooperating\u201d with the prosecution.\nA few days later, in early March 2003, four skinheads attacked Ivanov in the lobby of his apartment building. They beat him with batons while wearing rubber gloves, bruising his legs so severely that he missed school for a week. Although they wore no uniforms, Ivanov knew they were skinheads by the weapons they used. Because the beating occurred shortly after Ivanov\u2019s conversation with Major Kozlov, Ivanov believes the skinheads were retaliating against him for his refusal to testify against his pastor. Ivanov called the police when he got back to his apartment, but no one ever came. Ivanov did not seek further police assistance or medical attention because he thought it would be futile.\nFourth, on April 22, 2003, unknown assailants threw Molotov cocktails at Iva-nov\u2019s home in the middle of the night. Ivanov, his father, and his mother were home. Fortunately, Ivanov\u2019s mother was awake and the family was able to put out the resulting fire. That same night, the church\u2019s drug rehabilitation center also was set on fire. Ivanov did not see the people who threw the Molotov cocktails, but based on the perpetrators\u2019 precision and the familiar timing of the attacks\u2014 almost exactly one year after skinheads accosted him as he left the center and just two days after \u201cHitler\u2019s Birthday\u201d \u2014 he believes the skinheads were again responsible. Petitioners left Russia and came to the United States roughly one month after this incident.\nIn his asylum application, Ivanov stated that he feared if he returned to Russia, skinheads would \u201csever[e]ly harm[] or kill[ ]\u201d him, or the federal security service would imprison him on \u201ctrumped-up\u201d charges or confine him to a mental facility under a false diagnosis, because of his membership in a \u201cnon-traditional\u201d sect and his refusal to testify falsely against his pastor. At a hearing before the IJ in July 2007, after recounting his past mistreatment, Ivanov said he feared if he returned to Russia, \u201cthe same thing would [happen].\u201d He also said he would \u201ccontinue to be [subject] to the same lawlessness that [he] felt before.\u201d\nWhen Ivanov\u2019s attorney asked if he had any fear of the government, Ivanov explained that it was \u201ca well-known and established fact that ... the skinheads ... are connected to the government structure.\u201d He elaborated that because he \u201clook[ed] like [a] Russian\u201d and his religious beliefs were not outwardly apparent, the only way the \u201cyoung kids\u201d who attacked him would know that he did not fit then-view of a \u201cpure nation [or] pure race in Russia\u201d is by the guidance or influence of \u201csomebody from above.\u201d\nIn July 2009, the IJ delivered an oral decision denying Petitioners relief. Although the IJ found Ivanov\u2019s testimony to be credible and generally consistent, he determined that Ivanov \u201cfell short of credibility\u201d where he drew \u201cconclusions ... from the facts\u201d and engaged in \u201cspeculation ... with regard to the abusive activity of the skinheads.\u201d Accepting for the sake of discussion that Ivanov\u2019s experiences amounted to past persecution, the IJ dismissed Ivanov\u2019s assertion that the skinheads were connected to government authorities as mere supposition without record support. He further concluded that Ivanov\u2019s admission that \u201cthe skinheads wanted to close the [church\u2019s] drug rehabilitation center because it was having a negative effect on their drug trade\u201d meant that \u201c[t]he motivation of the skinheads was an intention to profit by criminal activity, rather than to punish [Ivanov] and others for engaging in the Pentecostal faith.\u201d Finally, he found that Ivanov\u2019s fear of return to Russia was based on \u201cthe general lawlessness of the place,\u201d rather than abuse due to his religion.\nAs a result, the IJ found that Ivanov had not shown he experienced persecution \u201con account of\u2019 a protected ground, and thus he failed to qualify for asylum. Iva-nov therefore also fell short of the more stringent standard for withholding of removal. Finally, Ivanov\u2019s claim for CAT relief failed because there was no evidence that Ivanov had been or would be tortured at the hands of public officials or with the government\u2019s acquiescence if he returned to Russia. The IJ consequently denied Petitioners\u2019 applications but granted them voluntary departure.\nPetitioners appealed. On review, the Board of Immigration Appeals (BIA) affirmed the IJ\u2019s decision without opinion. This appeal followed.\nStandard of Review\nOrdinarily, we review decisions of the BIA, not the IJ. Larios v. Holder, 608 F.3d 105, 107 (1st Cir.2010). However, where, as here, \u201cthe BIA summarily affirms the IJ\u2019s asylum determination, ... we review the IJ\u2019s decision as if it were the decision of the BIA.\u201d Id.\nWe review an IJ\u2019s findings of fact, including the determination of whether persecution occurred on account of a protected ground, under the familiar and deferential substantial evidence standard. Lopez de Hincapie v. Gonzales, 494 F.3d 213, 217 (1st Cir.2007). Under this rule, we respect the IJ\u2019s findings if \u201csupported by reasonable, substantial, and probative evidence on the record considered as a whole.\u201d Larios, 608 F.3d at 107 (quoting Immigration & Naturalization Serv. v. Elias-Zacarias, 502 U.S. 478, 481, 112 S.Ct. 812, 117 L.Ed.2d 38 (1992)). However, \u201cour deference is not unlimited,\u201d and \u201cwe may not affirm [the IJ\u2019s findings]\u201d if \u201cwe cannot conscientiously find that the evidence supporting [them] is substantial, when viewed in the light that the record in its entirety furnishes, including the body of evidence opposed to the [IJ\u2019s] view.\u201d Kartasheva v. Holder, 582 F.3d 96, 105 (1st Cir.2009) (citations omitted) (internal quotation marks omitted). Indeed, we are obligated to reject the IJ\u2019s findings if a \u201creasonable adjudicator would be compelled to conclude to the contrary.\u201d Precetaj v. Holder, 649 F.3d 72, 75 (1st Cir.2011) (quoting 8 U.S.C. \u00a7 1252(b)(4)(b)).\nDiscussion\nWe begin with a brief overview of pertinent asylum law. To qualify for asylum, an alien must establish that he is a refugee. 8 U.S.C. \u00a7 1158(b)(1)(A). A refugee is a person who is -unable or unwilling to return to his homeland \u201cbecause of persecution or a well-founded fear of persecution on account of race, religion, nationality, -membership in a particular social group, or political \u25a0 opinion.\u201d 8 U.S.C. \u00a7 1101(a)(42). Proof of past persecution creates a presumption of a well-founded fear of future persecution that the government may rebut. Harutyunyan v. Gonzales, 421 F.3d 64, 67 (1st Cir.2005); see also 8 C.F.R. \u00a7 1208.13(b)(1).\nPersecution is not defined by statute, but we know that it requires \u201cmore than ordinary harassment, mistreatment, or suffering.\u201d Lopez de Hincapie, 494 F.3d at 217. To constitute persecution, abuse \u201cmust have reached a fairly high threshold of seriousness, as well as some regularity and frequency.\u201d Rebenko v. Holder, 693 F.3d 87, 92 (1st Cir.2012) (quoting Alibeaj v. Gonzales, 469 F.3d 188, 191 (1st Cir.2006)) (internal quotation marks omitted).\nPersecution also \u201calways implies some connection to government action or inaction,\u201d whether in the form of direct government action, \u201cgovernment-supported action, or government\u2019s unwillingness or inability to control private conduct.\u201d Sok v. Mukasey, 526 F.3d 48, 54 (1st Cir.2008) (citations omitted) (internal quotation marks omitted); see also Burbiene v. Holder, 568 F.3d 251, 255 (1st Cir.2009). Local authorities\u2019 failure to respond to prior persecution may demonstrate a government\u2019s unwillingness or inability to control persecutors. Cf. Ortiz-Araniba v. Keisler, 505 F.3d 39, 42 (1st Cir.2007) (quoting Harutyunyan, 421 F.3d at 68) (\u201cIn determining whether a government is willing and able to control persecutors, ... a prompt response by local authorities to prior incidents is \u2018the most telling datum.\u2019 \u201d).\nFor purposes of asylum, an alien must also demonstrate that the persecution he experienced occurred \u201con account of\u2019 a statutorily-protected ground. Lopez de Hincapie, 494 F.3d at 217. To meet this \u201cnexus\u201d requirement, an alien must provide sufficient evidence of an actual connection between the harm he suffered and his protected trait. Id. at 217-18. This does not require him \u201cto identify [his] antagonists with absolute certainty,\u201d id. at 219, or \u201cto show that the impermissible motivation was the sole motivation for the persecution,\u201d Sompotan v. Mukasey, 533 F.3d 63, 69 (1st Cir.2008) (citing In re S-P-, 21 I. & N. Dec. 486, 490 (BIA 1996)) (emphasis added). Rather, he must demonstrate only \u201cthat the persecution was based, \u2018at least in part,\u2019 on an impermissible motivation.\u201d Id. (quoting Sanchez Jimenez v. U.S. Att\u2019y Gen., 492 F.3d 1223, 1232-33 (11th Cir.2007)).\nIn many asylum cases, the central issue is whether the applicant\u2019s story of past abuse is credible. Precetaj, 649 F.3d at 76. The IJ has \u201cconsiderable latitude in evaluating credibility,\u201d and its assessment receives substantial weight. Id.\nIn this case, the IJ found that Iva-nov\u2019s testimony about the mistreatment he experienced was credible, generally internally consistent, and consistent with the record. Based on this testimony, the IJ observed it was \u201ca close question\u201d as to whether Ivanov established past persecution, but assumed for the purpose of discussion that he had done so. Relying on the IJ\u2019s credibility determination, we find that Ivanov met the past persecution threshold.\nAs outlined above, Ivanov testified about four specific occasions of mistreatment because of his Pentecostal faith within a four-year period: (1) when skinheads violently interrupted his baptism ceremony at a prayer house in November 1999; (2) when skinheads attacked him as he left the church-run drug rehabilitation center where he volunteered, beat him up, handcuffed and shocked him, and left him in a basement for three days without food and water in April 2002; (3) when skinheads attacked him in his apartment lobby a few days after he refused to comply with a federal security officer\u2019s forceful request that he testify against his pastor in March 2003; and (4) when unidentified assailants launched Molotov cocktails at his home in April 2003.\nIvanov also testified to a history of mistreatment of his congregation reaching back to his youth, including the repeated confiscation of religious literature, looting and burning of prayer houses, and violence against church members. Ivanov\u2019s testimony was consistent with U.S. State Department human rights reports describing the mistreatment of Pentecostals and persons of other minority religions in Russia, including incidents occurring on or around the anniversary of Hitler\u2019s birth.\nConsidered together, these events suggest a pattern of escalating abuse directed at Ivanov beginning the day he was baptized and continuing until he left the country. The harm Ivanov suffered, particularly during his three-day detention in April 2002, rose above \u201cordinary harassment, mistreatment, or suffering.\u201d See Sok, 526 F.3d at 54 (six events occurring over the course of four years, considered together, suggested a pattern of abuse, where the most serious incident involved a three-day detention). Ivanov\u2019s mistreatment occurred regularly and with some frequency for four years. Viewed within the broader context of intolerance and abuse of Pentecostals in Russia as docu: mented in the U.S. .State Department human rights reports, these incidents reach the \u201cfairly high threshold of seriousness\u201d required of persecution. See Pulisir v. Mukasey, 524 F.3d 302, 308-09 (1st Cir.2008) (\u201cCommon sense suggests that larger social, cultural, and political forces can lend valuable context to particular incidents and, thus, can influence the weight that a factfinder may assign to those incidents.\u201d).\nSeen in this context, these abuses also demonstrate the requisite nexus to government action or inaction. Here, Ivanov testified that his parents contacted the police when skinheads kidnapped him for three days in April 2002, but no follow-up action was taken. There is nothing in the record to suggest that Ivanov\u2019s abusers were ever apprehended, punished, or even looked for, in spite of having severely beaten and detained him for three days. This is consistent with reports that local authorities do not adequately respond to attacks against members of minority religious communities, including Pentecostals.\nFurthermore, skinheads attacked Ivanov in March 2003 only days after a federal security officer tried to intimidate him into testifying against his pastor. This fits with accounts that members of the federal security service \u201cincreasingly treat[] the leadership of some minority religious groups as security threats.\u201d It also aligns with religious leaders\u2019 apprehensions \u201cthat Russian government officials provide tacit or active support to a view held by many ethnic Russians that Orthodoxy is the country\u2019s so-called \u2018true religion.\u2019 \u201d Moreover, it shows that local authorities have significant opportunities to restrict individuals\u2019 religious freedoms, leading to great variation between the laws on the books and national policies on the one hand, and the on-the-ground reality on the other.\nIvanov contacted the police immediately after the March 2003 attack, but again no one came to his aid. As in April 2002, there is no evidence that the police made any efforts to apprehend or punish Iva-nov\u2019s attackers. It is no wonder Ivanov thought further attempts to elicit police assistance would be \u201cfutile.\u201d\nAlthough the IJ did not credit Ivanov\u2019s assertion that skinheads were \u201cused by the police as surrogates\u201d or \u201caided and abetted by the authorities,\u201d Ivanov was not required to make such a showing to qualify for asylum. Ivanov had only to establish that the government was unable or unwilling to control the skinheads\u2019 actions, see Sok, 526 F.3d at 53, and it appears clear from the record that this is the case. Local authorities either failed to take action against, or perhaps even supported, Iva-nov\u2019s persecutors. Their failure to respond signals their unwillingness or inability to control Ivanov\u2019s persecutors. Cf. Ortiz-Araniba, 505 F.3d at 42. Accordingly, we make explicit what the IJ assumed and hold that Ivanov demonstrated past persecution linked to government action or inaction.\nWe next turn to the question of nexus to a protected ground. Although the IJ was willing to accept that Ivanov proved past persecution, he found that Ivanov did not establish a sufficient connection between the abuse he suffered and his religion. As set out above, the IJ provided two reasons for his finding: (1) he interpreted Ivanov\u2019s admission that skinheads opposed the drug rehabilitation center because of its negative impact on their drug trade as an indication that they were not punishing Ivanov for engaging in his Pentecostal faith; and (2) he concluded that Ivanov\u2019s fear of return to Russia was based on \u201cthe general lawlessness of the place, rather than mistreatment on account of\u2019 his religion. Considering the record as a whole, we are unable to find that either of these rationales or the IJ\u2019s ultimate determination was \u201csupported by reasonable, substantial, and probative evidence.\u201d\nFirst, the IJ\u2019s fixation on the skinheads\u2019 drug trade to the exclusion of any other motivation is misguided on principle and on fact. As a matter of principle, we do not require an alien to show that an impermissible motivation was the sole motivation for his persecution. Sompotan, 533 F.3d at 69. We have noted that aliens \u201cseldom know the \u2018exact motivation[s]\u2019 of their persecutors and, of course, persecutors may often have more than one motivation.\u201d Id. (alteration in original) (quoting In re S-P-, 21 I. & N. Dec. at 490). Our sister circuits agree. See, e.g., Menghesha v. Gonzales, 450 F.3d 142, 148 (4th Cir.2006); Mohideen v. Gonzales, 416 F.3d 567, 570 (7th Cir.2005); Lukwago v. Ashcroft, 329 F.3d 157, 170 (3d Cir.2003); Girma v. Immigration & Naturalization Serv., 283 F.3d 664, 667 (5th Cir.2002); Borja v. Immigration & Naturalization Serv., 175 F.3d 732, 735-36 (9th Cir.1999) (en banc); Osorio v. Immigration & Naturalization Serv., 18 F.3d 1017, 1028 (2d Cir.1994).\nThe facts of this case illustrate the need for this principle. The IJ\u2019s determination that the skinheads were motivated only by their \u201cintention to profit by criminal activity\u201d ignores both the skinheads\u2019 overarching mission and the greater pattern of religiously-motivated abuse that Ivanov suffered. As Ivanov noted, the skinheads\u2019 raison d\u2019etre is to \u201cpurify the Russian nation.\u201d They are notoriously xenophobic, racist, anti-Muslim, anti-Semitic, and, most relevantly here, intolerant of \u201cadherents of \u2018foreign\u2019 religions.\u201d The skinheads who attacked Ivanov in April 2002 may indeed have had an economic interest in closing the church\u2019s drug rehabilitation center. But they also, at their core, undoubtedly opposed the center\u2019s religious mission and methods. The center\u2019s religious message was inseparable from the service it performed: church volunteers operated the center and rigorous bible study was integral to patients\u2019 treatment: Indeed, it appears that Ivanov\u2019s skinhead assailants recognized this and gave voice to their anti-religious motivation when they told Ivanov to find a way to close the \u201csatanic\u201d center. That those skinheads may have had an additional motive for attacking Iva-nov cannot reasonably be read to refute that they were also acting upon the central motive underlying their group identity.\nThis is especially true given the other abuse that Ivanov suffered. Remember, the April 2002 attack is only one of four events supporting Ivanov\u2019s asylum claim. In the other instances, Ivanov provided specific evidence of his attackers\u2019 anti-Pentecostal motivation. For example, in November 1999, skinheads attacked his baptism ceremony at a prayer house. In March 2003, skinheads attacked him a few days after he refused to testify against his pastor. In April 2003, unknown assailants threw Molotov cocktails at his house the same night that. someone attacked the church\u2019s drug rehabilitation center. Considered in view of the history of attacks against members of his church community and religious intolerance in Russia at-large, a reasonable adjudicator would be compelled to conclude that each of the attacks, including the attack in April 2002, was based, \u201cat least in part,\u201d on the impermissible motivation of Ivanov\u2019s Pentecostal faith. See Sompotan, 533 F.3d at 69.\nSecond, the IJ\u2019s interpretation of Iva-nov\u2019s testimony that he feared \u201cthe same lawlessness\u201d if he returned to Russia to mean that Ivanov feared \u201cgeneral lawlessness\u201d in Russia runs counter to the record. The IJ appears to have construed Ivanov\u2019s statement out of context: Ivanov said he feared \u201cthe same lawlessness\u201d immediately after he described the specific instances of abuse discussed above, but the IJ took him to mean he feared \u201clawlessness\u201d in Russia generally. To the contrary, Ivanov consistently maintained in his application and testimony that he feared if he returned to Russia skinheads .or government authorities would harm him due to his religious beliefs. The IJ\u2019s monocular focus on Iva-nov\u2019s remark, to the exclusion of the balance of Ivanov\u2019s statements alleging specific fears of targeted persecution, is not supported by the record as a whole.\nIn sum, viewing the record in its entirety, including the evidence the IJ ignored or misconstrued, and relying on the IJ\u2019s own finding that Ivanov\u2019s testimony was generally credible, we cannot conscientiously find the IJ\u2019s determination that Ivanov did not establish the requisite nexus between the persecution he suffered and his Pentecostal faith is supported by substantial evidence. While we are mindful of the deferential nature of our standard of review, we are also cognizant of our obligation to reject the IJ\u2019s findings if, as here, a \u201creasonable adjudicator would be compelled to conclude to the contrary.\u201d See Precetaj, 649 F.3d at 75 (quoting 8 U.S.C. \u00a7 1252(b)(4)(b)). It is not the first time we have rejected an IJ\u2019s findings under this standard. See, e.g., id. at 76; Kartasheva, 582 F.3d at 105-06; Sok, 526 F.3d at 56, 58; Heng v. Gonzales, 493 F.3d 46, 49 (1st Cir.2007); Mukamusoni v. Ashcroft, 390 F.3d 110, 126 (1st Cir.2004). And so long as our review is not \u201ca hollow exercise in rubber-stamping,\u201d we doubt it will be the last. See Cuko v. Mukasey, 522 F.3d 32, 41 (1st Cir.2008) (Cyr, J., dissenting).\nWe therefore find that Ivanov has established his eligibility for asylum. Accordingly, we have no need to proceed to Petitioners\u2019 requests for withholding of removal or relief under CAT, and we do not reach them here.\nConclusion\nThe order of the BIA affirming the IJ\u2019s decision is vacated and the matter is remanded for proceedings consistent with this decision.\n. Petitioners\u2019 claims derive from Ivanov\u2019s experiences as a Pentecostal in Russia in the 1990s and early 2000s. Given that Kozochki-na\u2019s claims are derivative of Ivanov\u2019s, we will discuss only Ivanov\u2019s entitlement to relief.\n. Petitioners' visas list September 2003 as their expiration date. However, because Petitioners never entered the educational programs for which their visas were issued, the government asserts that their status actually expired in June 2003, thirty days after their entry. This discrepancy is not relevant to this appeal.\n. Because Petitioners missed the one-year filing deadline for asylum by only three months, the Immigration Judge gave Petitioners \"the benefit of the doubt\u201d and treated their claim as timely.\n. United States Department of State, Bureau of Democracy, Human Rights and Labor, Russia: Country Reports on Human Rights Practices 20 (Mar.2007), available at http:// www.state.gov/j/drl/rls/hrrpl/2006/78835 .htm [hereinafter 2006 Country Report ].\n. United States Department of State, Bureau of Democracy, Human Rights and Labor, Russia: International Religious Freedom Report 1 (Sept.2006), available at http://www. state.gov/j/drl/rls/irf/2006/71403 .htm [hereinafter 2006 Religious Freedom Report ].\n. 2006 Country Report at 1.\n. United States Commission on International Religious Freedom, Policy Focus on Russia 14 (Fall 2006) [hereinafter Policy Focus ].\n. 2006 Religious Freedom Report at 15.\n. Henceforth, \u201cskinheads,\u201d for ease of reference.\n. Ivanov recounts that the skinheads were often more aggressive around the time of \"Hitler\u2019s Birthday.\u201d He cites April 20, 2000, as another example of when skinheads attacked a Pentecostal prayer house. They wreaked havoc and covered the walls with insulting slurs and swastika graffiti. Luckily, no parishioners were present or harmed..\nIvanov's assertion that skinheads commemorate \"Hitler\u2019s Birthday\u201d is confirmed by the 2006 Country Report, which highlighted a display of Nazi posters on April 20, 2005 as occurring \u201con the anniversary of Hitler's birth.\u201d 2006 Country Report at 21. It also reported the firebombing of a Baptist church in Chelyabinsk and the arson of an Adventist church in another region during that same month (though it did not specify whether those events also occurred on April 20). Id. at 20.\n. See 2006 Country Report at 1, 18-22; 2006 Religious Freedom Report at 9-15.\n. We do not, as the dissent suggests, fault the police for not finding Ivanov during the days he was detained. We are certainly aware that even the best police work will not always enable police to halt a criminal in the act. However, here, there is no evidence of the police either seeking Ivanov while he was kidnapped or contacting Ivanov after he was released to try to find his attackers or to ensure his protection from future violence. We consider this to be the very definition of police inaction.\n. Policy Focus at 14 (citing, inter alia, an attack by youths following a Pentecostal service in 2006 where authorities failed to act). Indeed, one of the U.S. Commission on Religious Freedom\u2019s key concerns about Russia is \u201c[t]he rise in xenophobia and ethnic and religious intolerance, resulting in an increased number of violent attacks and hate crimes, and the government's failure to address this serious problem adequately.\u201d Id. at 3. Their report details a range of attacks motivated by religious or ethnic hatred and the authorities\u2019 lackluster responses, such as classifying hate crimes as mere \"hooliganism.\u201d Id. at 3-6. The 2006 Country Report likewise noted that while \"[a]uthorities usually investigated incidents of religious vandalism and violence, ... arrests of suspects were extremely infrequent and convictions were rare.\u201d 2006 Country Report at 20.\n.2006 Religious Freedom Report at 1.\n. Policy Focus at 4.\n. 2006 Country Report at 18-19.\n. The dissent goes out of its way and far beyond the record to say we are assuming that only actual arrests by government authorities \u2014 in Russia or the United States\u2014 demonstrate their willingness or ability to control religious persecutors. We said no such thing. The evidence here not only shows a failure to arrest, but a total failure to investigate or follow up with Ivanov on any of the occasions he was attacked. This utter lack of intervention or action compels us to conclude Ivanov cannot live safely in Russia without facing persecution.\n.Though the IJ did not point this out as a concern, we note preliminarily that Ivanov identified his antagonists with sufficient certainty. Ivanov\u2019s use of the term \u201cskinheads\u201d to describe his attackers implies that they shared the common appearance symbolic of their group membership. Though they did not wear uniforms, Ivanov could also identify them by their choice of weapons: rubber batons and gloves in March 2003 and Molotov cocktails in April 2003.\n. See 2006 Country Report at 33.\n. There is also nothing in the record to indicate that Russia is awash in the type of general civil strife or violence that we have held would not qualify an applicant for asylum. See, e.g., L\u00f3pez-Castro v. Holder, 577 F.3d 49, 54 (1st Cir.2009) (\"A country-wide risk of victimization through economic terrorism is not the functional equivalent of a statutorily protected ground....\u201d); Aguilar-Solis v. Immigration & Naturalization Serv., 168 F.3d 565, 572 (1st Cir.1999) (\u201cDanger resulting from participation in general civil strife, without more, does not constitute persecution.\u201d).",
+        "type": "majority",
+        "author": "THOMPSON, Circuit Judge."
+      },
+      {
+        "text": "KAYATTA, Circuit Judge,\ndissenting.\nI respectfully dissent because the record does not compel us to reject the factual findings of the immigration judge. The immigration judge found that the serious abuse and harassment to which Ivanov credibly established he was subjected was not \u201con account of\u2019 his religion. Rather, the immigration judge concluded, Ivanov faced persecution on account of his association with a drug rehab center that posed a threat to the skinheads\u2019 illicit drug trade. The immigration judge also found that Iva-nov failed to establish the required nexus to government acquiescence manifest through its action or inaction. Either of these findings, unless reversed, means that Ivanov has failed to establish an entitlement to asylum. See L\u00f3pez de Hincapie v. Gonzales, 494 F.3d 213, 218 (1st Cir.2007) (\u201c[S]howing a linkage to one of the five statutorily protected grounds [including religion] is \u2018critical\u2019 to a successful asylum claim.\u201d (quoting INS v. Elias-Zacarias, 502 U.S. 478, 483, 112 S.Ct. 812, 117 L.Ed.2d 38 (1992))); Harutyunyan v. Gonzales, 421 F.3d 64, 68 (1st Cir.2005) (\u201c[P]ersecution always implies some connection to government action or inaction.\u201d).\nAs we have previously held, the question of the persecutor\u2019s motivation generates a \u201cfact-specific\u201d inquiry. L\u00f3pez de Hincapie, 494 F.3d at 218. Similarly, the question of whether Ivanov established a connection between the government and his abuse is also a finding of fact. See Harutyunyan, 421 F.3d at 68. Our review of both findings is therefore limited by the \u201chighly deferential\u201d substantial evidence test. Larios v. Holder, 608 F.3d 105, 107 (1st Cir.2010). That test requires that we defer to the immigration judge\u2019s findings of fact as long as those findings are \u201csupported by reasonable, substantial, and probative evidence on the record considered as a whole.\u201d Id. (quoting Elias-Zacarias, 502 U.S. at 481, 112 S.Ct. 812). As we observed more recently, in practical terms, the test turns on whether we are \u201ccompelled to conclude to the contrary.\u201d Precetaj v. Holder, 649 F.3d 72, 75 (1st Cir.2011) (quoting 8 U.S.C. \u00a7 1252(b)(4)(B)).\nA. There Is Substantial Evidence to Support the Finding of Fact That Ivanov Was Not Persecuted on Account of His Religion and Has Not Established a Realistic Risk of Such Persecution in the Future.\nI begin by reviewing Ivanov\u2019s testimony, which supports the factual finding that the abuse visited on (or feared by) him was not on account of his religion. I then address the arguments advanced by the majority for finding this evidence insubstantial.\n1. Ivanov\u2019s Own Testimony Directly Supports the Finding.\nThis is not a case in which the immigration judge stretched to draw inferences to support a conclusion in the face of direct evidence to the contrary. Instead, this is a case in which the direct evidence substantially and heavily supported the finding that Ivanov was not persecuted on account of his religion. That evidence is as follows:\nThe skinheads who assaulted Ivanov in 2002 and 2003 were in the illegal drug trade, while Ivanov worked at a drug rehab center that, he claims, possessed evidence of the skinheads\u2019 illegal activity and, in any event, cut into their business. When the skinheads kidnapped Ivanov in April of 2002 they did so as he left the rehab center. They never demanded that he change his religion, or stop going to his church. To the contrary, their demands focused exclusively on the rehab center.\nOn direct exam, Ivanov volunteered the following explanation of why the skinheads locked him up: \u201cthey wanted me to shut down the operation of this rehab and because of that they locked me up in the basement.\u201d On cross, Ivanov both reinforced his testimony that the skinheads wanted the drug rehab center closed because it hurt their business, and unreservedly agr\u00e9ed that the center\u2019s Pentecostal affiliation was not what garnered the skinheads\u2019 opposition:\nQ: Sir, you testified that the skinheads that you say assaulted you when you were leaving the rehabilitation center wanted you to close the clinic or the center and you say in your asylum application that these skinheads had a very lucrative drug business, drug sale business and you also testified today that these skinheads were losing money because of the drug rehabilitation center. That was because the goal of the center was to try and help people get off drugs. Is that correct?\nA: Yes.\nQ: So they didn\u2019t want the center shut down because it was a Pentecostal center. They wanted it shut down because they were losing drug sales, correct?\nA: That is absolutely correct because these people have not a single notion about religion, but any church whether it be Protestant or Catholic it will also be on opposite side against the drugs.\n2. The Evidence Relied on by the Majority is Either Conjectural or, In Any Event, Insufficient to Compel Reversal.\nThe foregoing evidence should be enough by itself to support the decision of the immigration judge, even if the evidence to the contrary cited by the majority were as substantial as described. In fact, for the following reasons, much of that contrary evidence is based on conjecture and is otherwise reasonably viewed as not especially substantial.\nThe majority points to a second attack on Ivanov that occurred almost a year after the skinheads delivered their narrowly-focused demand that the rehab center be shut down. There is no evidence (much less compelling evidence) that the attack was on account of Ivanov\u2019s religion. The majority nevertheless guesses that the attack was at the behest of the police, who had told Ivanov \u201cdays\u201d previously that he would regret not providing testimony to support charges that his pastor was hypnotizing his parishioners into tithing ten percent of their income to the Pentecostal church.\nThis conjecture falters on two levels. First, if conjecture is the game, then it would be equally plausible to suggest that the skinheads attacked Ivanov when they did because it was almost one year after they delivered their own unmet demand that he close the rehab center. In short, the skinheads had \u2014 and expressed \u2014 then-own reasons and there is no need to imagine that the police put them up to their crime. Additionally, even if one were to assume that the police officer and the skinheads were in cahoots, there is no reason that one must also assume that religious animus played any role in the relationship. Certainly the gains of an illicit drug trade would provide an equally if not more customary and plausible motivation. The pastor, after all, actually ran the rehab center. Ivanov himself plainly implied such a drug-centered nexus:\nPit\u2019s a well-known and established fact that, you know, all the skinheads and similar organizations are connected to the government structure. For example, you know, our attempt to run this rehab for drug addicts, you know, was met with such resistence on their part and it\u2019s a well-known fact also that, you know, they profit from selling drugs....\nWhile Ivanov\u2019s statement is not dispositive, it leans towards suggesting that money, rather than religious animus, was a common interest shared by the skinheads and the police. Certainly the immigration judge was not required to speculate to the contrary.\nThe majority also points to the final attack on Ivanov, the 2003 firebombing of the apartment he shared with his parents. There is nothing about this attack to compel the conclusion that it was motivated by religious animus. It actually coincided with an attack on the rehab center that same day. The rehab center and Ivanov (the person the skinheads knew worked there) were therefore again the common factor in the skinheads\u2019 selection of targets.\nThis is not to say that there was no evidence at all in Ivanov\u2019s favor. The majority notes that the skinheads once referred to the rehab center as \u201csatanic\u201d when they held him prisoner. But a single use of a religiously-charged word does not, on these facts, compel us to find the skinheads\u2019 abuse of Ivanov was on account of his religion. See Sompotan v. Mukasey, 533 F.3d 63, 70 (1st Cir.2008). In Sompotan we rejected the argument that the immigration judge was compelled to conclude that \u201chooligans\u201d who robbed the petitioners and their restaurant yelling \u201cChinese bastard, crazy Christian, crazy Chinese\u201d were motivated by religious and racial animus rather than by a desire to rob, noting that \u201c[t]he fact that hooligans would stoop to the level of using racial slurs is, unfortunately, not surprising.\u201d Id. at 70. Indeed, as noted above, Ivanov himself did not regard his kidnapping as religiously motivated. How then can a court say that the immigration judge was compelled to disagree?\nThe majority also correctly notes that there is evidence in the record of earlier attacks not limited in their apparent focus to rehab center activities and personnel. These attacks occurred in 1997 (on the congregation\u2019s office), 1999 (on a Pentecost service at Ivanov\u2019s pastor\u2019s house and on Ivanov\u2019s baptism), and 2000 (on a Pentecostal prayer house).. The majority\u2019s view presumes that the abuse of Ivanov several years later was a refocusing of these earlier, religiously-motivated attacks directed at the church. Under this view, the skinheads attacked the rehab center because it was both a visible symbol of the church and a threat to their drug trade. This view is certainly plausible. I am at a loss, though, to see how it is so compelling that it requires rejection of the alternative view adopted by the immigration judge.\nThere is no evidence compelling us even to conclude that the same individuals were behind the earlier and later attacks, much less that their motivations remained constant. Indeed, there is no evidence that the \u201cskinheads\u201d involved in these various incidents are all part of a single group with a unified and disciplined mission and motivation. As chronicled above, those individuals behind the later attacks expressly limited their demands to ending the drug rehab activity. And certainly Ivanov\u2019s experience in dealing with those assailants persecuting him suggested that greed was their monocular focus. As we held before, where the evidence suggests a plausible motivation not within the ambit of the statute\u2019s protection, we defer to the choice made by the immigration judge to deny asylum on that basis. See L\u00f3pez de Hincapie v. Gonzales, 494 F.3d 213, 219 (1st Cir.2007).\nThe majority also relies on evidence that skinheads in Russia often possessed and acted on religious animus and that their activities often spiked on the anniversary of Hitler\u2019s birth. But if the skinheads who kidnapped and later beat Ivanov shared that religious animus, for some unknown reason they were remarkably reluctant to voice such views to Ivanov, while nevertheless making forcefully clear their strong desire to profit from and protect their drug trade. The factual finding that the abuse here, directed at the rehab center and its worker, was motivated only by the latter desire is a type of choosing among plausible scenarios that is within the purview of the immigration judge, not a reviewing court. See Amouri v. Holder, 572 F.3d 29, 34 (1st Cir.2009) (\u201cThe mere fact that the extortionists were associated with an extremist group [did] not compel\u201d us, on its own, to reverse a finding that petitioner\u2019s persecution was not on account of a protected characteristic because \u201cfanaticism and a love of money are not mutually exclusive.\u201d).\nThe immigration judge who heard this case was hardly out to get Ivanov. He expressly found Ivanov credible in his recounting of events he had witnessed. The immigration judge was also willing to assume that the instances of abuse to which Ivanov was subjected over seven years rose to the very high level of actual persecution. Cf. Topalli v. Gonzales, 417 F.3d 128, 129-32 (1st Cir.2005) (no persecution where petitioner was arrested, detained, and beaten over the course of three years but never required medical attention and was not abused for three years before leaving the country); Bocova v. Gonzales, 412 F.3d 257, 261-63 (1st Cir.2005), superseded in unrelated part by 8 C.F.R. \u00a7 1240.26(i), as described in Garfias-Rodriguez v. Holder, 702 F.3d 504, 524 (9th Cir.2012) (two beatings twenty-five months apart, one of which caused petitioner to lose consciousness and require hospitalization, insufficient to compel a finding of persecution). The majority readily adopts the immigration judge\u2019s assumption of persecution and his finding that Ivanov was credible in relating facts, but then proceeds to criticize the immigration judge\u2019s reasoning simply because he also chose to believe Ivanov\u2019s testimony that the particular people who attacked him \u201chave not a single notion about religion,\u201d and were instead motivated by protecting their drug trade. The immigration judge witnessed the testimony, heard Ivanov\u2019s tone, saw his facial expressions, and concluded that the testimony I have quoted above was due great weight.\nNor can the State Department\u2019s Country and Religious Freedom Reports perform the work assigned to them by the majority. One would think from reading the majority\u2019s description of the reports that Pentecostals could live nowhere in Russia without facing a realistic risk of actual persecution. The majority presumably proffers such a description because the absence of such a country-wide hazard could by itself defeat Ivanov\u2019s asylum request. Tendean v. Gonzales, 503 F.3d 8, 11 (1st Cir.2007) (asylum application will be denied \u201cif it is shown by a preponderance of the evidence that \u2018[t]he applicant could avoid future persecution by relocating to another part of the applicant\u2019s country ... and under all the circumstances, it would be reasonable to expect the applicant to do so.\u2019 \u201d (quoting 8 C.F.R. \u00a7 1208.13(b)(1)(i)(B)) (alteration in original)).\nThe 2006 Country Report, however, reports no acts of actual persecution of Pentecostals throughout all of Russia in the previous year. Even reports of lesser degrees of harassment of Pentecostals decreased during 2006, following the appointment of Pentecostal Bishop Sergey Ryak-hovskiy to Russia\u2019s Public Chamber. United States Department of State, Bureau of Democracy, Human Rights, and Labor, Country Report on Human Rights Practices in Russia at 20 (Mar.2007), available at http://www.state.g0v/j/ dr]/ rls/hrrpt/2006/78835.htm [hereinafter 2006 Country Report ]. These reports belie the notion that Ivanov, merely because he is Pentecostal, cannot live in Russia without a risk of actual persecution.\nB. There Is Sufficient Evidence to Support the Finding of Fact That There Was an Insufficient Nexus between the Russian Government and the Abuse of Ivanov.\nThe law also requires that Ivanov prove that the persons who persecuted him were \u201caligned with the government\u201d or that the government was \u201cunwilling or unable to control [the violence.]\u201d Burbiene v. Holder, 568 F.3d 251, 255 (1st Cir.2009). .The majority\u2019s conclusion that Ivanov made such a showing is based partly on conjecture, appears to be the product of stereotypical thinking about Russian law enforcement bereft of any sense of context, and certainly fails to provide a compelling case for rejecting the contrary conclusion of the immigration judge, who found Iva-nov\u2019s claims in this regard to rest on \u201cspeculation.\u201d\nFirst, the majority implies that the kidnapping of Ivanov was aided by the police merely because the kidnapping occurred some uncertain number of days after the police told him that he would be sorry for refusing to accede to a police officer\u2019s demand that he provide incriminating testimony in an investigation of his pastor. I addressed this conjecture in Part A2 of this opinion.\nSecond, the majority cites excerpts from State Department reports recounting other incidents in Russia (a country of roughly 143 million people, 2006 Country Report at 1) where the authorities were, in the majority\u2019s words, \u201clackluster\u201d in their responses to reports of religious attacks and that arrests were \u201cextremely infrequent and convictions rare.\u201d, 2006 Country Report at 20. The majority\u2019s use of such excerpts is selective, omitting, for example, the fact that the 2006 and 2007 Religious Freedom Reports describe in detail only a single incident, in a nation containing approximately 1,500 Pentecostal groups, 2006 Religious Freedom Report at 1, of violence against individual Pentecostals which could plausibly rise to the serious level of abuse sufficient to support an asylum claim. That incident was an attack by \u201cyouths\u201d in early 2005 on Pentecostals holding a protest in Moscow. 2006 Country Report at 20. There is no indication in the record of whether this incident was investigated expeditiously. Id. There are no reports of individual Evangelicals, or any Christians, suffering abuse comparable to that which Ivanov described being directed at him personally, let alone evidence that government officials acquiesced to such abuse.\nThe same report also states that in February of 1997 Russian authorities obtained the convictions of five skinheads for an anti-Semitic murder, and that \u201c[fjederal and regional officials participated actively in, and in many cases strongly supported, a range of government and NGO-organized programs to promote tolerance.\u201d United States Department of State, Bureau Democracy, Human Rights, and Labor, International Religious Freedom Report for Russia at 9 (Sept.2007), available at http://www.state.gOv/j/ drl/ rls/irf/2007/90196.htm. The same report further relates that in late 2006 a Russian court ruled in favor of the Pentecostal Church\u2019s ability to register its property, and the group reported no further harassment. Id.\nThird, the majority\u2019s heavy reliance on the fact that Ivanov was unaware of any investigations or arrests arising out of the crimes he described evidences a lack of perspective and context. Certainly the failure of the police to interview Ivanov after he was released by his captors could support a finding that their investigation after the fact was lackluster. On the other hand, the actual record is that the police told Ivanov\u2019s parents that they would look for him when his parents reported him missing. The fact that they did not find him within two days in a city of over one million people, Library of Congress, Russia: A Country Study (1998), available at http://lcweb2.loc.gov/frd/cs/rutoc.html, hardly proves anything. And the unstated assumption that Ivanov would have been aware of investigations concerning the other events he described is not compelling. All in all, this is not a record that compels a finding that the police were aligned with the people who attacked Ivanov or unwilling or unable to do their jobs.\nTo put all of the foregoing in perspective and provide the context missing from the majority\u2019s discussion, one need only look at this country. According to the October 1998 Report of the National Church Arson Task Force, in less than four years there were 670 arsons, bombings or attempted bombings of houses of worship in the United States. National Church Arson Task Force, Second Year Report for the President (Oct.1998), available at http://www. justice.gov/crt/church_arson/arson98.php. Even in the wake of a nationally coordinated investigative effort, arrests were made in connection with only 230 of the 670 incidents (a higher rate than typical for similar crimes, according to the Task Force). Id.\nI do not presume from these facts that churchgoers in the United States face persecution with government acquiescence. To the contrary, if Ivanov cited these facts to suggest that he could not safely live in the United States without facing persecution, I hope that we would reject such a suggestion. And when we have a record reporting no higher rates of bombing or unsolved bombings in Russia, and an unsolved incident of abuse of a drug rehab worker by drug dealers in Chelyabinsk (a city of more than 1 million people), I do not see why an immigration judge cannot find as a matter of fact that Ivanov does not face the requisite risk of government related persecution should he return to Russia.\nOf course, I am now arguing the weight of the facts, which I need not do. All I need show is that the facts are not so hefty and one-sided as to compel the conclusion that they must be weighed as the majority weighs them.\nC. Conclusion\nAt base, the majority appears to act on a conviction that if many so-called skinheads possess a strong animus against Pentecostals as manifest in prior acts of harassment and abuse, and Pentecostals operate a rehab center for religious reasons using religious methods, then any skinheads\u2019 later abuse of operators of that center must necessarily be, at least in part, on account of the skinheads\u2019 religious animus. I fear that such a conviction under-appreciates the complexities of human behavior, and substitutes stereotypical thinking for allegiance to the actual facts as described by Ivanov himself. Similarly, the majority fills holes in Ivanov\u2019s case with conjecture about what the police did and did not do, all resting in part on what seems to be an unrealistic assumption about the aims and efficiency of police work in Russia. More importantly, even accepting that conviction as plausible, on this record it is not so compelling as to overbear the deference due to the amply supported findings of fact by an immigration judge who decided that Ivanov could practice his faith in Russia without persecution on account of that faith. I must therefore conclude that, notwithstanding our shared sympathy for Iva-nov\u2019s desire to remain in this country, the record contains substantial enough evidence to require that we defer to the findings of the immigration judge.\n. Ivanov spoke with the police officer in the \u201cend of February\u201d and was beaten on March 1st.\n. Indeed, Ivanov described the skinheads who kidnapped him as \"very young kids\u201d and said that \"some of them\u201d were \"around 16.\u201d This suggests that they may well not have been personally involved in incidents several years before.\n. Nor can the majority\u2019s citations to country reports containing evidence that religious animus sometimes motivates persecution in Russia compel a finding that it did so in this case, where the petitioner has described a different motivation. See Seng v. Holder, 584 F.3d 13, 19-20 (1st Cir.2009) (\"Without some specific, direct, and credible evidence relative to her own situation, there is an insufficient nexus between the petitioner and the general unrest depicted in the country conditions reports.\u201d).\n. The Public Chamber was established to represent civil society and to foster tolerance. It was directed by President Putin. United States Department of State, Bureau of Democracy, Human Rights, and Labor, International Religious Freedom Report for Russia at 13 (Sept.2006), available at http://www.state. gov/ j/drl/rls/irP2006/71403.htm [hereinafter 2006 Religious Freedom Report ].",
+        "type": "dissent",
+        "author": "KAYATTA, Circuit Judge,"
+      }
+    ],
+    "attorneys": [
+      "Randy Olen, with whom Robert D. Watt, Jr. was on brief, for petitioners.",
+      "Andrew Nathan O\u2019Malley, with whom Stuart F. Delery, Acting Assistant Attorney General, Civil Division, Ernesto H. Molina, Jr., Assistant Director, Office of Immigration Litigation, and D. Nicholas Harling, Attorney, Office of Immigration Litigation, were on brief, for respondent."
+    ],
+    "corrections": "",
+    "head_matter": "Pavel IVANOV; Irina Kozochkina, Petitioners, v. Eric H. HOLDER, Jr., Attorney General, Respondent.\nNo. 11-1814.\nUnited States Court of Appeals, First Circuit.\nNov. 15, 2013.\nRandy Olen, with whom Robert D. Watt, Jr. was on brief, for petitioners.\nAndrew Nathan O\u2019Malley, with whom Stuart F. Delery, Acting Assistant Attorney General, Civil Division, Ernesto H. Molina, Jr., Assistant Director, Office of Immigration Litigation, and D. Nicholas Harling, Attorney, Office of Immigration Litigation, were on brief, for respondent.\nBefore TORRUELLA, THOMPSON, and KAYATTA, Circuit Judges."
+  },
+  "file_name": "0005-01",
+  "first_page_order": 31,
+  "last_page_order": 49
+}

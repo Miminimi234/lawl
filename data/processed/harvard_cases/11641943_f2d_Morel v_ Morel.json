@@ -1,0 +1,141 @@
+{
+  "id": 11641943,
+  "name": "In re Richard J. MOREL, Debtor. Kathryn E. MOREL, Appellant, v. Richard J. MOREL, Appellee",
+  "name_abbreviation": "Morel v. Morel",
+  "decision_date": "1992-12-30",
+  "docket_number": "No. 91-1152",
+  "first_page": "104",
+  "last_page": "106",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "983 F.2d 104"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "8th Cir.",
+    "id": 8821,
+    "name": "United States Court of Appeals for the Eighth Circuit"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "693 F.2d 48",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        10587768,
+        6552649
+      ],
+      "pin_cites": [
+        {
+          "page": "49"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/693/0048-01",
+        "/br/24/0048-02"
+      ]
+    },
+    {
+      "cite": "969 F.2d 699",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        6517169,
+        10517430
+      ],
+      "pin_cites": [
+        {
+          "page": "700"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/br/143/0699-01",
+        "/f2d/969/0699-01"
+      ]
+    },
+    {
+      "cite": "703 F.2d 1055",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1851553,
+        6127012
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "1057-58"
+        },
+        {
+          "page": "1058"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/703/1055-01",
+        "/br/28/1055-01"
+      ]
+    },
+    {
+      "cite": "11 U.S.C. \u00a7 523",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "(a)(5)"
+        },
+        {
+          "page": "(a)(5)"
+        }
+      ],
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 364,
+    "char_count": 5248,
+    "ocr_confidence": 0.749,
+    "sha256": "f94d82ac44e4261e7e469239e161ab21318ebc0dd41e3d4e5d2509a25e43fe88",
+    "simhash": "1:8d39db02ea2cb6e3",
+    "word_count": 887
+  },
+  "last_updated": "2024-02-27T16:11:36.444292+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before RICHARD S. ARNOLD, Chief Judge, LAY, Senior Circuit Judge, and LOKEN, Circuit Judge."
+    ],
+    "parties": [
+      "In re Richard J. MOREL, Debtor. Kathryn E. MOREL, Appellant, v. Richard J. MOREL, Appellee."
+    ],
+    "opinions": [
+      {
+        "text": "RICHARD S. ARNOLD, Chief Judge.\nThis appeal is brought by Kathryn E. Morel, former wife of Richard J. Morel, against her former husband, who is now in bankruptcy. The question presented is whether the unpaid portion of a property settlement embodied in the parties\u2019 divorce decree is dischargeable in bankruptcy. The Bankruptcy Court held in favor of the debtor, finding that the obligation in question was not in the nature of alimony, maintenance, or support, within the meaning of 11 U.S.C. \u00a7 523(a)(5). The District Court affirmed, and so do we.\nThe issue turns on the intention of the parties, which is a question of fact. Williams v. Williams, 703 F.2d 1055, 1057-58 (8th Cir.1983). Our review, like that of the District Court on the initial appeal, must be conducted according to the clearly-erroneous standard. Mrs. Morel argues for a different standard of review, but the Williams case states clearly that \u201c[a] finding of fact on [the question of support] may be set aside by the District Court or by us only if clearly erroneous.\u201d Id. at 1058. This holding binds this panel. We have no power to change it.\nUnder the statute, the question is whether the debt was \u201cfor alimony to, maintenance for, or support of\u201d the debt- or\u2019s former wife. 11 U.S.C. \u00a7 523(a)(5). The opinion of the Bankruptcy Court fully explains why the debt does not fall within this category. The decree of dissolution of marriage contains a separate provision for alimony, payable until the death of either party, or until the remarriage of the former wife. The obligation to pay the property settlement was partly in a lump sum and partly periodic, but it was unconditional. That is, the obligation did not cease upon the death or remarriage of either spouse. These factors, along with others mentioned in the opinion of the Bankruptcy Court, point clearly towards the conclusion that Court reached.\nMoreover, we note our usual practice of according special deference to a finding of fact as to which two lower courts have concurred. Such a finding has already received one appellate review as of right, and it comes to this Court doubly fortified. See Judge v. Production Credit Assoc., 969 F.2d 699, 700 (8th Cir.1992) (per curiam); In Re Schwen\u2019s, Inc., 693 F.2d 48, 49 (8th Cir.1982) (per curiam).\nThe former wife also argues that the statute authorizing discharge of property-settlement agreements is unconstitutional under the Due Process and Takings Clauses of the Fifth Amendment. As to due process, her argument is procedural. She says she did not get adequate notice in the Bankruptcy Court of her former husband\u2019s efforts to secure a discharge. We disagree. Ample notice of the request for discharge was given to Mrs. Morel. A trial of the facts was held. Legal arguments were made and considered.\nAs to the Takings Clause issue, the argument is that contracts arising out of the dissolution of a marriage should be given a special status, different from that of other contracts. We agree that the former spouse\u2019s interest can easily be categorized as property, and that, in a sense, it has been taken from her. The effect of the discharge is to destroy the interest, to reduce it to nothing. The taking, however, is not for public use. The government does not get the property. It simply disappears, as a result of long standing policy, expressly authorized by the Constitution, Article I, Section 8, cl. 4. The existence of this power has been long accepted and widely known. It can rightly be regarded as a condition that inheres in every contract creating a debt. And, in any event, even if the Takings Clause argument should succeed, it would not prevent the discharge. It would merely give the former wife an action against the United States to recover the fair market value of her former property interest.\nAffirmed.\n. The Hon. William L. Edmonds, United States Bankruptcy Judge for the Northern District of Iowa.\n. The Hon. David R. Hansen, United States District Judge for the Northern District of Iowa. Judge Hansen is now a United States Circuit Judge for the Eighth Circuit.\n. The decree in Williams was based upon an agreement by the parties to the divorce proceeding that was approved by the divorce court. In this case, the decree was the culmination of contested divorce proceedings. Although the inquiry must necessarily focus more upon the intent of the court in a contested proceeding, the issue for the Bankruptcy Court under \u00a7 523(a)(5) remains one of intent.\n.The state trial court ordered child support of $200 a month, alimony for eight months at $500 a month, and a property settlement of $175,000. The Iowa Court of Appeals increased the property settlement to $200,000. It also increased the alimony from $500 to $1,000 a month and made it payable until Kathryn\u2019s remarriage or the death of Kathryn or Richard.",
+        "type": "majority",
+        "author": "RICHARD S. ARNOLD, Chief Judge."
+      }
+    ],
+    "attorneys": [
+      "Peter D. Kerth and David J. Harris, St. Louis, MO, argued, for appellant.",
+      "Philip L. Garland, Garner, IA, argued for appellee."
+    ],
+    "corrections": "",
+    "head_matter": "In re Richard J. MOREL, Debtor. Kathryn E. MOREL, Appellant, v. Richard J. MOREL, Appellee.\nNo. 91-1152.\nUnited States Court of Appeals, Eighth Circuit.\nSubmitted Nov. 9, 1992.\nDecided Dec. 30, 1992.\nPeter D. Kerth and David J. Harris, St. Louis, MO, argued, for appellant.\nPhilip L. Garland, Garner, IA, argued for appellee.\nBefore RICHARD S. ARNOLD, Chief Judge, LAY, Senior Circuit Judge, and LOKEN, Circuit Judge."
+  },
+  "file_name": "0104-01",
+  "first_page_order": 230,
+  "last_page_order": 232
+}

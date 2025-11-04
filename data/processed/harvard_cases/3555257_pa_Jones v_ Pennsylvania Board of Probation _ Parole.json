@@ -1,0 +1,47 @@
+{
+  "id": 3555257,
+  "name": "George JONES, Appellant, v. PENNSYLVANIA BOARD OF PROBATION AND PAROLE, Appellee",
+  "name_abbreviation": "Jones v. Pennsylvania Board of Probation & Parole",
+  "decision_date": "2007-05-31",
+  "docket_number": "Appeal No. 39 WAP 2006",
+  "first_page": "65",
+  "last_page": "65",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "592 Pa. 65"
+    },
+    {
+      "type": "parallel",
+      "cite": "922 A.2d 906"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 30,
+    "char_count": 244,
+    "ocr_confidence": 0.622,
+    "sha256": "821dd92d0e9c88509381b8eead8ef6f77cc78a00cd77266e8e1fae70df9cbcee",
+    "simhash": "1:ddb8eafad2eba672",
+    "word_count": 40
+  },
+  "last_updated": "2023-07-14T20:20:44.535844+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "file_name": "0065-01",
+  "first_page_order": 117,
+  "last_page_order": 117
+}

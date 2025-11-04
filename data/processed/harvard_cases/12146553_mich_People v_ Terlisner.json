@@ -1,0 +1,66 @@
+{
+  "id": 12146553,
+  "name": "People v. Terlisner",
+  "name_abbreviation": "People v. Terlisner",
+  "decision_date": "2015-11-24",
+  "docket_number": "No. 150297; Court of Appeals No. 315670",
+  "first_page": "923",
+  "last_page": "923",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "498 Mich. 923"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Mich.",
+    "id": 8790,
+    "name": "Michigan Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 49,
+    "name_long": "Michigan",
+    "name": "Mich."
+  },
+  "cites_to": [
+    {
+      "cite": "497 Mich 1035",
+      "category": "reporters:state",
+      "reporter": "Mich.",
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 17,
+    "char_count": 102,
+    "ocr_confidence": 0.721,
+    "sha256": "2ddf631bcf5422fa59a8563351b731698df868974e79b15e56a7d2de760d1e66",
+    "simhash": "1:09c9b88871270c0b",
+    "word_count": 18
+  },
+  "last_updated": "2024-02-27T16:10:26.420323+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "People v Terlisner,"
+    ],
+    "opinions": [
+      {
+        "text": "Leave to appeal denied at 497 Mich 1035.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "People v Terlisner,\nNo. 150297; Court of Appeals No. 315670."
+  },
+  "file_name": "0923-01",
+  "first_page_order": 869,
+  "last_page_order": 869
+}

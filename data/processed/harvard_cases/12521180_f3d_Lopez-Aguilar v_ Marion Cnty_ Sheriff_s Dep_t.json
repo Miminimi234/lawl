@@ -1,0 +1,979 @@
+{
+  "id": 12521180,
+  "name": "Antonio LOPEZ-AGUILAR, Plaintiff-Appellee, v. MARION COUNTY SHERIFF'S DEPARTMENT, et al., Defendants-Appellees. Appeal of: State of Indiana, Proposed Intervenor.",
+  "name_abbreviation": "Lopez-Aguilar v. Marion Cnty. Sheriff's Dep't",
+  "decision_date": "2019-05-09",
+  "docket_number": "No. 18-1050",
+  "first_page": "375",
+  "last_page": "398",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "924 F.3d 375"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "7th Cir.",
+    "id": 9010,
+    "name": "United States Court of Appeals for the Seventh Circuit"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "159 F.3d 1016",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        1615459
+      ],
+      "year": 1998,
+      "pin_cites": [
+        {
+          "page": "1019"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/159/1016-01"
+      ]
+    },
+    {
+      "cite": "396 F.3d 843",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        9036924
+      ],
+      "weight": 5,
+      "year": 2005,
+      "pin_cites": [
+        {
+          "page": "848, 851"
+        },
+        {
+          "page": "851"
+        },
+        {
+          "page": "859"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/396/0843-01"
+      ]
+    },
+    {
+      "cite": "1994 WL 390144",
+      "category": "reporters:specialty_west",
+      "reporter": "WL",
+      "year": 1994,
+      "pin_cites": [
+        {
+          "parenthetical": "unpublished"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "8 U.S.C. \u00a7 1357",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "pin_cites": [
+        {
+          "page": "(g)(10)(B)"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "567 U.S. 387",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        12407266
+      ],
+      "weight": 11,
+      "year": 2012,
+      "pin_cites": [
+        {
+          "page": "410"
+        },
+        {
+          "page": "407"
+        },
+        {
+          "page": "408"
+        },
+        {
+          "page": "410"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/567/0387-01"
+      ]
+    },
+    {
+      "cite": "824 F.3d 919",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        4321795
+      ],
+      "weight": 2,
+      "year": 2016,
+      "pin_cites": [
+        {
+          "page": "940",
+          "parenthetical": "en banc"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/824/0919-01"
+      ]
+    },
+    {
+      "cite": "24 F.3d 958",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        10511944
+      ],
+      "year": 1994,
+      "pin_cites": [
+        {
+          "page": "961",
+          "parenthetical": "noting that, \"[u]ntil the district judge issued his opinion,\" the intervenor \"could not have known that this otherwise-mundane case included an issue affecting international relations\""
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/24/0958-01"
+      ]
+    },
+    {
+      "cite": "724 F.2d 1224",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1920259
+      ],
+      "year": 1984,
+      "pin_cites": [
+        {
+          "page": "1229"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/724/1224-01"
+      ]
+    },
+    {
+      "cite": "426 F.3d 745",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        8917990
+      ],
+      "year": 2005,
+      "pin_cites": [
+        {
+          "page": "755"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/426/0745-01"
+      ]
+    },
+    {
+      "cite": "367 U.S. 643",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        1785580
+      ],
+      "weight": 3,
+      "year": 1961,
+      "pin_cites": [
+        {
+          "page": "655"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/367/0643-01"
+      ]
+    },
+    {
+      "cite": "38 F.3d 1514",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        1852419
+      ],
+      "weight": 5,
+      "year": 1994,
+      "pin_cites": [
+        {
+          "page": "1517"
+        },
+        {
+          "page": "1518"
+        },
+        {
+          "page": "1519"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/38/1514-01"
+      ]
+    },
+    {
+      "cite": "173 F.3d 630",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        11621935
+      ],
+      "year": 1999,
+      "pin_cites": [
+        {
+          "page": "633"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/173/0630-01"
+      ]
+    },
+    {
+      "cite": "9 F.3d 638",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        10511967
+      ],
+      "year": 1993,
+      "pin_cites": [
+        {
+          "page": "641"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/9/0638-01"
+      ]
+    },
+    {
+      "cite": "851 F.3d 734",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        12277568
+      ],
+      "weight": 7,
+      "year": 2017,
+      "pin_cites": [
+        {
+          "page": "736"
+        },
+        {
+          "page": "736-37"
+        },
+        {
+          "page": "738"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/851/0734-01"
+      ]
+    },
+    {
+      "cite": "998 F.2d 1405",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        10517740
+      ],
+      "year": 1993,
+      "pin_cites": [
+        {
+          "page": "1413",
+          "parenthetical": "denying Knox's claim for injunctive relief because \"the mere possibility that Knox may sometime in the future be returned to the [prison] segregation unit [did] not establish a real and immediate case or controversy\""
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/998/1405-01"
+      ]
+    },
+    {
+      "cite": "222 F.3d 309",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        11240777
+      ],
+      "year": 2000,
+      "pin_cites": [
+        {
+          "page": "313"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/222/0309-01"
+      ]
+    },
+    {
+      "cite": "373 F.3d 834",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        9234560
+      ],
+      "year": 2004,
+      "pin_cites": [
+        {
+          "page": "836"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/373/0834-01"
+      ]
+    },
+    {
+      "cite": "868 F.2d 959",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        10532208
+      ],
+      "year": 1989,
+      "pin_cites": [
+        {
+          "page": "966"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/868/0959-01"
+      ]
+    },
+    {
+      "cite": "423 U.S. 362",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6177293
+      ],
+      "weight": 8,
+      "year": 1976,
+      "pin_cites": [
+        {
+          "page": "366-67"
+        },
+        {
+          "page": "372"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/423/0362-01"
+      ]
+    },
+    {
+      "cite": "414 U.S. 488",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11716177
+      ],
+      "weight": 24,
+      "year": 1974,
+      "pin_cites": [
+        {
+          "page": "493"
+        },
+        {
+          "page": "495-96"
+        },
+        {
+          "page": "502"
+        },
+        {
+          "page": "502"
+        },
+        {
+          "page": "499"
+        },
+        {
+          "page": "497"
+        },
+        {
+          "page": "495-96"
+        },
+        {
+          "page": "502"
+        },
+        {
+          "page": "499"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/414/0488-01"
+      ]
+    },
+    {
+      "cite": "69 F.3d 1377",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        7414144
+      ],
+      "year": 1995,
+      "pin_cites": [
+        {
+          "page": "1381"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/69/1377-01"
+      ]
+    },
+    {
+      "cite": "683 F.2d 201",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        534050
+      ],
+      "year": 1982,
+      "pin_cites": [
+        {
+          "page": "204"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/683/0201-01"
+      ]
+    },
+    {
+      "cite": "578 F.3d 569",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        4048160
+      ],
+      "weight": 5,
+      "year": 2009,
+      "pin_cites": [
+        {
+          "page": "571"
+        },
+        {
+          "page": "573"
+        },
+        {
+          "page": "572"
+        },
+        {
+          "page": "573"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/578/0569-01"
+      ]
+    },
+    {
+      "cite": "101 F.3d 503",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        7635865
+      ],
+      "weight": 4,
+      "year": 1996,
+      "pin_cites": [
+        {
+          "page": "506"
+        },
+        {
+          "page": "506"
+        },
+        {
+          "page": "507",
+          "parenthetical": "observing that \"[t]he strongest case for intervention\" is \"where the intervenor-aspirant has no claim against the defendant yet a legally protected interest that could be impaired by the suit\""
+        },
+        {
+          "page": "508"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/101/0503-01"
+      ]
+    },
+    {
+      "cite": "28 U.S.C. \u00a7 2403",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "(b)",
+          "parenthetical": "requiring a district court to notify a state's attorney general and permit the state to intervene whenever the constitutionality of a state statute is at stake"
+        },
+        {
+          "page": "(b)"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "31 F.3d 435",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        10524281
+      ],
+      "weight": 3,
+      "year": 1994,
+      "pin_cites": [
+        {
+          "page": "438"
+        },
+        {
+          "page": "439",
+          "parenthetical": "quoting 7C Charles Alan Wright et al., Federal Practice & Procedure: Civil \u00a7 1916 (2d ed. 1986)"
+        },
+        {
+          "page": "439",
+          "parenthetical": "concluding that the intervenor's \"delay\" did not cause the type of prejudice advanced by the plaintiff, since the plaintiff \"would have been burdened in precisely the same manner had [the movant's] motion to intervene been filed in July rather than October\""
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/31/0435-01"
+      ]
+    },
+    {
+      "cite": "64 F.3d 316",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        7412926
+      ],
+      "weight": 7,
+      "year": 1995,
+      "pin_cites": [
+        {
+          "page": "321",
+          "parenthetical": "quoting Nissei Sangyo America, Ltd. v. United States , 31 F.3d 435, 438 (7th Cir. 1994) "
+        },
+        {
+          "page": "321"
+        },
+        {
+          "page": "322"
+        },
+        {
+          "page": "322"
+        },
+        {
+          "page": "322"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/64/0316-01"
+      ]
+    },
+    {
+      "cite": "214 F.3d 941",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        9970523
+      ],
+      "weight": 4,
+      "year": 2000,
+      "pin_cites": [
+        {
+          "page": "949"
+        },
+        {
+          "page": "949"
+        },
+        {
+          "page": "945-46"
+        },
+        {
+          "page": "949"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/214/0941-01"
+      ]
+    },
+    {
+      "cite": "824 F.2d 531",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1730504
+      ],
+      "weight": 3,
+      "year": 1987,
+      "pin_cites": [
+        {
+          "page": "534",
+          "parenthetical": "internal quotation marks omitted"
+        },
+        {
+          "page": "536"
+        },
+        {
+          "page": "537"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/824/0531-01"
+      ]
+    },
+    {
+      "cite": "947 F.2d 246",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        10521259
+      ],
+      "year": 1991,
+      "pin_cites": [
+        {
+          "page": "252"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/947/0246-01"
+      ]
+    },
+    {
+      "cite": "759 F.3d 639",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        4155931
+      ],
+      "weight": 9,
+      "year": 2014,
+      "pin_cites": [
+        {
+          "page": "641"
+        },
+        {
+          "page": "642"
+        },
+        {
+          "page": "643"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/759/0639-01"
+      ]
+    },
+    {
+      "cite": "477 U.S. 131",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6204804
+      ],
+      "weight": 7,
+      "year": 1986,
+      "pin_cites": [
+        {
+          "page": "137"
+        },
+        {
+          "page": "137"
+        },
+        {
+          "page": "137"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/477/0131-01"
+      ]
+    },
+    {
+      "cite": "426 U.S. 26",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6174426
+      ],
+      "weight": 3,
+      "year": 1976,
+      "pin_cites": [
+        {
+          "page": "41"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/426/0026-01"
+      ]
+    },
+    {
+      "cite": "504 U.S. 555",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11730070
+      ],
+      "weight": 6,
+      "year": 1992,
+      "pin_cites": [
+        {
+          "page": "560"
+        },
+        {
+          "parenthetical": "internal quotation marks omitted"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/504/0555-01"
+      ]
+    },
+    {
+      "cite": "481 F.3d 977",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        3869707
+      ],
+      "year": 2007,
+      "pin_cites": [
+        {
+          "page": "982"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/481/0977-01"
+      ]
+    },
+    {
+      "cite": "212 F.3d 995",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        1747534
+      ],
+      "weight": 8,
+      "year": 2000,
+      "pin_cites": [
+        {
+          "page": "996"
+        },
+        {
+          "page": "997-98"
+        },
+        {
+          "page": "998"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/212/0995-01"
+      ]
+    },
+    {
+      "cite": "860 F.3d 480",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        12276215
+      ],
+      "weight": 10,
+      "year": 2017,
+      "pin_cites": [
+        {
+          "page": "481"
+        },
+        {
+          "page": "483"
+        },
+        {
+          "page": "482"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/860/0480-01"
+      ]
+    },
+    {
+      "cite": "461 U.S. 95",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11298204
+      ],
+      "weight": 35,
+      "year": 1983,
+      "pin_cites": [
+        {
+          "page": "101"
+        },
+        {
+          "page": "97"
+        },
+        {
+          "page": "98"
+        },
+        {
+          "page": "101"
+        },
+        {
+          "page": "101-02"
+        },
+        {
+          "page": "102"
+        },
+        {
+          "page": "105"
+        },
+        {
+          "page": "105"
+        },
+        {
+          "page": "111"
+        },
+        {
+          "page": "105"
+        },
+        {
+          "page": "108"
+        },
+        {
+          "page": "111"
+        },
+        {
+          "page": "102"
+        },
+        {
+          "page": "112"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/461/0095-01"
+      ]
+    },
+    {
+      "cite": "96 F.3d 955",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        7649636
+      ],
+      "year": 1996,
+      "pin_cites": [
+        {
+          "page": "960",
+          "parenthetical": "quoting Local No. 93 , 478 U.S. at 525, 106 S.Ct. 3063 "
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/96/0955-01"
+      ]
+    },
+    {
+      "cite": "478 U.S. 501",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6209292
+      ],
+      "weight": 9,
+      "year": 1986,
+      "pin_cites": [
+        {
+          "page": "525"
+        },
+        {
+          "page": "522"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/478/0501-01"
+      ]
+    },
+    {
+      "cite": "Ind. Code \u00a7 5-2-18.2",
+      "category": "laws:leg_statute",
+      "reporter": "Ind. Code",
+      "weight": 4,
+      "opinion_index": 0
+    },
+    {
+      "cite": "42 U.S.C. \u00a7 1983",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "weight": 9,
+      "pin_cites": [
+        {
+          "page": "*2"
+        },
+        {
+          "page": "*3"
+        }
+      ],
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 2028,
+    "char_count": 69651,
+    "pagerank": {
+      "raw": 4.392552054677732e-08,
+      "percentile": 0.2758454257371762
+    },
+    "sha256": "3d095e9e44f44025e7e8a7a4ade85db074ad8a0f2e53d5dd20b600c9a9b933fd",
+    "simhash": "1:db0be332ea1b1309",
+    "word_count": 10990
+  },
+  "last_updated": "2024-02-27T18:46:58.656971+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "file_name": "0375-01",
+  "first_page_order": 375,
+  "last_page_order": 398
+}

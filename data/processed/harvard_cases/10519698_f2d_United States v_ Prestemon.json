@@ -1,0 +1,127 @@
+{
+  "id": 10519698,
+  "name": "UNITED STATES of America, Appellee, v. Damon Rae PRESTEMON, Appellant",
+  "name_abbreviation": "United States v. Prestemon",
+  "decision_date": "1992-01-09",
+  "docket_number": "No. 91-2553",
+  "first_page": "1089",
+  "last_page": "1090",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "953 F.2d 1089"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "8th Cir.",
+    "id": 8821,
+    "name": "United States Court of Appeals for the Eighth Circuit"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "116 L.Ed.2d 178",
+      "category": "reporters:federal",
+      "reporter": "L. Ed. 2d",
+      "weight": 2,
+      "year": 1991,
+      "pin_cites": [
+        {
+          "parenthetical": "Prestem-on I"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "112 S.Ct. 220",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "year": 1991,
+      "pin_cites": [
+        {
+          "parenthetical": "Prestem-on I"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "929 F.2d 1275",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        10547699
+      ],
+      "pin_cites": [
+        {
+          "page": "1276"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/929/1275-01"
+      ]
+    },
+    {
+      "cite": "18 U.S.C. \u00a7 2113",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "pin_cites": [
+        {
+          "page": "(a)"
+        }
+      ],
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 273,
+    "char_count": 4082,
+    "ocr_confidence": 0.773,
+    "pagerank": {
+      "raw": 1.326881274347065e-07,
+      "percentile": 0.6281072757523701
+    },
+    "sha256": "cd3ab4d71bb887c19ad5f60b68de54e68b2442df8bf31ac5d35925b83408906d",
+    "simhash": "1:d142cd0e78f30e83",
+    "word_count": 624
+  },
+  "last_updated": "2024-02-27T21:21:35.589357+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before McMILLIAN, Circuit Judge, HEANEY, Senior Circuit Judge, and ARNOLD, Circuit Judge."
+    ],
+    "parties": [
+      "UNITED STATES of America, Appellee, v. Damon Rae PRESTEMON, Appellant."
+    ],
+    "opinions": [
+      {
+        "text": "McMILLIAN, Circuit Judge.\nDamon Rae Prestemon appeals from the final judgment entered in the District Court for the District of Minnesota upon resentencing after he pleaded guilty to armed bank robbery, 18 U.S.C. \u00a7 2113(a), (d). The district court previously sentenced Prestemon under the Sentencing Guidelines to twenty-four months imprisonment, which represented a downward departure from the applicable Guideline range of 33 to 41 months. We vacated the sentence and remanded for resentencing in United States v. Prestemon, 929 F.2d 1275, 1276 (8th Cir.), cert. denied, \u2014 U.S. -, 112 S.Ct. 220, 116 L.Ed.2d 178 (1991) (Prestem-on I). For reversal, Prestemon argues that the district court was under the mistaken belief that we had completely limited the district court\u2019s authority to depart downward from the Guidelines on resen-tencing. For the reasons discussed below, we affirm Prestemon\u2019s sentence.\nThe district court\u2019s initial downward departure was based on Prestemon\u2019s status as a bi-racial individual who had been adopted by white parents, and on the disparity between the sentencing range applicable to Prestemon and the lower range applicable to a defendant in a bank fraud case pending before the court. The district court had also noted that Prestemon was only twenty-one years old at the time of the offense, had been an honor student in high school, and had successfully completed one year of vocational training. Id.\nWe concluded in Prestemon I that the district court had abused its discretion in departing downward based on Prestemon\u2019s status as a bi-racial adopted child, and that the court should not have relied on the perceived disparity between the sentencing ranges applicable in Prestemon\u2019s case and in another bank case. Id. at 1277-78. We stated that the district court \u201con remand should consider [Prestemon\u2019s status as a biracial adopted child], as well as [Prestem-on\u2019s] excellent academic record and other factors, in deciding the sentence to be imposed within the applicable guideline sentencing range.\u201d We remanded \u201cfor resen-tencing within the applicable guideline sentencing range.\u201d Id. at 1278.\nOn remand, Prestemon argued that this court had not directed the district court to impose any specific sentence and urged other bases for a downward departure, including such factors as Prestemon\u2019s drug rehabilitation in prison. At the resentenc-ing hearing, the district court stated that, pursuant to this court\u2019s mandate, it would sentence Prestemon within the applicable Guideline range to thirty-three months imprisonment and five years supervised release.\nPrestemon\u2019s argument that the court was under the mistaken belief that we had completely limited its authority to depart downward is foreclosed by the mandate of this court in Prestemon I, which was to resentence Prestemon within the \u201capplicable guideline sentencing range,\u201d giving due consideration to his status as a bi-racial adopted child, excellent academic record, and \u201cother factors.\u201d Id. at 1278. Accordingly, we affirm Prestemon\u2019s sentence.\n. The Honorable Donald D. Alsop, Chief Judge, United States District Court for the District of Minnesota.",
+        "type": "majority",
+        "author": "McMILLIAN, Circuit Judge."
+      },
+      {
+        "text": "HEANEY, Senior Circuit Judge,\ndissenting.\nI believe that this court erred in reversing Judge Donald Alsop. We constantly encourage district court judges to exercise their discretion in sentencing, and then reverse them when they do. On remand, Judge Alsop did the only thing he could. He complied with this court\u2019s order. As a result, a promising young man is facing a long prison sentence; and according to recent statistics published by the U.S. Bureau of Prisons, he will probably come out more inclined to commit crime than before he went in.",
+        "type": "dissent",
+        "author": "HEANEY, Senior Circuit Judge,"
+      }
+    ],
+    "attorneys": [
+      "Scott Tilsen, Minneapolis, Minn., for appellant.",
+      "Denise Reilly, Asst. U.S. Atty., Minneapolis, Minn., for appellee."
+    ],
+    "corrections": "",
+    "head_matter": "UNITED STATES of America, Appellee, v. Damon Rae PRESTEMON, Appellant.\nNo. 91-2553.\nUnited States Court of Appeals, Eighth Circuit.\nSubmitted Nov. 12, 1991.\nDecided Jan. 9, 1992.\nScott Tilsen, Minneapolis, Minn., for appellant.\nDenise Reilly, Asst. U.S. Atty., Minneapolis, Minn., for appellee.\nBefore McMILLIAN, Circuit Judge, HEANEY, Senior Circuit Judge, and ARNOLD, Circuit Judge."
+  },
+  "file_name": "1089-01",
+  "first_page_order": 1165,
+  "last_page_order": 1166
+}

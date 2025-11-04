@@ -1,0 +1,747 @@
+{
+  "id": 10519793,
+  "name": "Henry Lee McCOY, Petitioner-Appellant, v. Lansom NEWSOME, Warden, Respondent-Appellee",
+  "name_abbreviation": "McCoy v. Newsome",
+  "decision_date": "1992-01-29",
+  "docket_number": "No. 89-8117",
+  "first_page": "1252",
+  "last_page": "1265",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "953 F.2d 1252"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "11th Cir.",
+    "id": 9031,
+    "name": "United States Court of Appeals for the Eleventh Circuit"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "159 U.S. 673",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        5700382
+      ],
+      "weight": 3,
+      "year": 1895,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/159/0673-01"
+      ]
+    },
+    {
+      "cite": "634 F.2d 862",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1304167
+      ],
+      "year": 1981,
+      "pin_cites": [
+        {
+          "page": "865"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/634/0862-01"
+      ]
+    },
+    {
+      "cite": "796 F.2d 1366",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1619882
+      ],
+      "pin_cites": [
+        {
+          "page": "1369"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/796/1366-01"
+      ]
+    },
+    {
+      "cite": "529 F.2d 397",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        10590353
+      ],
+      "pin_cites": [
+        {
+          "page": "401"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/529/0397-01"
+      ]
+    },
+    {
+      "cite": "658 F.2d 337",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        474318
+      ],
+      "year": 1981,
+      "pin_cites": [
+        {
+          "page": "340",
+          "parenthetical": "quoting Hills v. Henderson, 529 F.2d 397, 401 (5th Cir.1976)"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/658/0337-01"
+      ]
+    },
+    {
+      "cite": "695 F.2d 528",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1492031
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "530"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/695/0528-01"
+      ]
+    },
+    {
+      "cite": "385 U.S. 554",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11341302
+      ],
+      "weight": 4,
+      "year": 1967,
+      "pin_cites": [
+        {
+          "page": "560"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/385/0554-01"
+      ]
+    },
+    {
+      "cite": "646 F.2d 1048",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1217959
+      ],
+      "year": 1981,
+      "pin_cites": [
+        {
+          "page": "1050"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/646/1048-01"
+      ]
+    },
+    {
+      "cite": "169 S.E.2d 787",
+      "category": "reporters:state_regional",
+      "reporter": "S.E.2d",
+      "year": 1969,
+      "opinion_index": 0
+    },
+    {
+      "cite": "225 Ga. 529",
+      "category": "reporters:state",
+      "reporter": "Ga.",
+      "case_ids": [
+        1112204
+      ],
+      "year": 1969,
+      "opinion_index": 0,
+      "case_paths": [
+        "/ga/225/0529-01"
+      ]
+    },
+    {
+      "cite": "623 F.2d 929",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1277789
+      ],
+      "pin_cites": [
+        {
+          "page": "937"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/623/0929-01"
+      ]
+    },
+    {
+      "cite": "856 F.2d 129",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        10526088
+      ],
+      "pin_cites": [
+        {
+          "page": "132"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/856/0129-01"
+      ]
+    },
+    {
+      "cite": "474 U.S. 104",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6199234
+      ],
+      "weight": 4,
+      "year": 1985,
+      "pin_cites": [
+        {
+          "page": "117"
+        },
+        {
+          "page": "453"
+        },
+        {
+          "page": "112"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/474/0104-01"
+      ]
+    },
+    {
+      "cite": "378 U.S. 368",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6166505
+      ],
+      "weight": 3,
+      "year": 1964,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/378/0368-01"
+      ]
+    },
+    {
+      "cite": "462 U.S. 862",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6195530
+      ],
+      "weight": 3,
+      "year": 1983,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/462/0862-01"
+      ]
+    },
+    {
+      "cite": "684 F.2d 794",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        529497
+      ],
+      "pin_cites": [
+        {
+          "page": "805"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/684/0794-01"
+      ]
+    },
+    {
+      "cite": "693 F.2d 1243",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        10595826
+      ],
+      "year": 1982,
+      "pin_cites": [
+        {
+          "page": "1257"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/693/1243-01"
+      ]
+    },
+    {
+      "cite": "466 U.S. 668",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6204802
+      ],
+      "weight": 5,
+      "year": 1984,
+      "pin_cites": [
+        {
+          "page": "688"
+        },
+        {
+          "page": "2064"
+        },
+        {
+          "page": "694"
+        },
+        {
+          "page": "2068"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/466/0668-01"
+      ]
+    },
+    {
+      "cite": "83 L.Ed.2d 148",
+      "category": "reporters:federal",
+      "reporter": "L. Ed. 2d",
+      "weight": 2,
+      "year": 1984,
+      "opinion_index": 0
+    },
+    {
+      "cite": "105 S.Ct. 218",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "weight": 2,
+      "year": 1984,
+      "opinion_index": 0
+    },
+    {
+      "cite": "469 U.S. 870",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        12020416,
+        12020198,
+        12020263,
+        12020297,
+        12020235,
+        12020333,
+        12020178,
+        12020370,
+        12020213
+      ],
+      "weight": 2,
+      "year": 1984,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/469/0870-09",
+        "/us/469/0870-02",
+        "/us/469/0870-05",
+        "/us/469/0870-06",
+        "/us/469/0870-04",
+        "/us/469/0870-07",
+        "/us/469/0870-01",
+        "/us/469/0870-08",
+        "/us/469/0870-03"
+      ]
+    },
+    {
+      "cite": "725 F.2d 608",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1924690
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "615"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/725/0608-01"
+      ]
+    },
+    {
+      "cite": "456 U.S. 152",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6184490
+      ],
+      "weight": 3,
+      "year": 1982,
+      "pin_cites": [
+        {
+          "page": "170"
+        },
+        {
+          "page": "1595"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/456/0152-01"
+      ]
+    },
+    {
+      "cite": "404 U.S. 226",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6171947
+      ],
+      "weight": 3,
+      "year": 1971,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/404/0226-01"
+      ]
+    },
+    {
+      "cite": "28 U.S.C. \u00a7 2244",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "(b)"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "881 F.2d 949",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        11291981
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "954"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/881/0949-01"
+      ]
+    },
+    {
+      "cite": "372 U.S. 391",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        1765582
+      ],
+      "weight": 4,
+      "year": 1963,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/372/0391-01"
+      ]
+    },
+    {
+      "cite": "223 S.E.2d 145",
+      "category": "reporters:state_regional",
+      "reporter": "S.E.2d",
+      "year": 1976,
+      "opinion_index": 0
+    },
+    {
+      "cite": "236 Ga. 168",
+      "category": "reporters:state",
+      "reporter": "Ga.",
+      "case_ids": [
+        1144912
+      ],
+      "year": 1976,
+      "opinion_index": 0,
+      "case_paths": [
+        "/ga/236/0168-01"
+      ]
+    },
+    {
+      "cite": "876 F.2d 1461",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        10540518
+      ],
+      "pin_cites": [
+        {
+          "page": "1465"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/876/1461-01"
+      ]
+    },
+    {
+      "cite": "894 F.2d 1268",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        10540128
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "1275"
+        },
+        {
+          "page": "1275"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/894/1268-01"
+      ]
+    },
+    {
+      "cite": "477 U.S. 478",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6209907
+      ],
+      "weight": 9,
+      "year": 1986,
+      "pin_cites": [
+        {
+          "page": "488"
+        },
+        {
+          "page": "2645"
+        },
+        {
+          "page": "487"
+        },
+        {
+          "page": "2644"
+        },
+        {
+          "page": "494"
+        },
+        {
+          "page": "2648"
+        },
+        {
+          "page": "494"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/477/0478-01"
+      ]
+    },
+    {
+      "cite": "111 S.Ct. 2546",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        1108153
+      ],
+      "weight": 7,
+      "year": 1991,
+      "pin_cites": [
+        {
+          "page": "2565"
+        },
+        {
+          "page": "2567"
+        },
+        {
+          "page": "2565"
+        },
+        {
+          "page": "2563"
+        },
+        {
+          "page": "2565"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/501/0722-01"
+      ]
+    },
+    {
+      "cite": "433 U.S. 72",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6177021
+      ],
+      "weight": 7,
+      "year": 1977,
+      "pin_cites": [
+        {
+          "page": "91"
+        },
+        {
+          "page": "2508"
+        },
+        {
+          "page": "86"
+        },
+        {
+          "page": "2506"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/433/0072-01"
+      ]
+    },
+    {
+      "cite": "626 F.Supp. 374",
+      "category": "reporters:federal",
+      "reporter": "F. Supp.",
+      "case_ids": [
+        3831123
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/f-supp/626/0374-01"
+      ]
+    },
+    {
+      "cite": "310 S.E.2d 2",
+      "category": "reporters:state_regional",
+      "reporter": "S.E.2d",
+      "weight": 4,
+      "year": 1983,
+      "pin_cites": [
+        {
+          "page": "3"
+        },
+        {
+          "page": "3"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "168 Ga.App. 598",
+      "category": "reporters:state",
+      "reporter": "Ga. App.",
+      "case_ids": [
+        610771
+      ],
+      "year": 1983,
+      "opinion_index": 0,
+      "case_paths": [
+        "/ga-app/168/0598-01"
+      ]
+    },
+    {
+      "cite": "386 U.S. 738",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6182629
+      ],
+      "weight": 5,
+      "year": 1967,
+      "pin_cites": [
+        {
+          "page": "745"
+        },
+        {
+          "page": "744"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/386/0738-01"
+      ]
+    },
+    {
+      "cite": "28 U.S.C. \u00a7 2254",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 1465,
+    "char_count": 44738,
+    "ocr_confidence": 0.751,
+    "pagerank": {
+      "raw": 3.636420006361323e-07,
+      "percentile": 0.889392586208694
+    },
+    "sha256": "f5a972a038cabf550081d5dc969771e45efc66e3137d09892885225a955fc765",
+    "simhash": "1:957e7dae36e43af3",
+    "word_count": 7376
+  },
+  "last_updated": "2024-02-27T21:21:35.589357+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before COX, Circuit Judge, HENDERSON and CLARK , Senior Circuit Judges."
+    ],
+    "parties": [
+      "Henry Lee McCOY, Petitioner-Appellant, v. Lansom NEWSOME, Warden, Respondent-Appellee."
+    ],
+    "opinions": [
+      {
+        "text": "PER CURIAM:\nHenry Lee McCoy appeals the denial by the United States District Court for the Middle District of Georgia of his petition for a writ of habeas corpus brought pursuant to 28 U.S.C. \u00a7 2254. The district court dismissed six allegations of error after finding that they were barred by procedural default in state habeas corpus court. Reaching the merits on the remaining grounds for relief, the court held that 1) McCoy\u2019s claim that his confession was involuntary lacked merit; 2) the evidence of his prior conviction for armed robbery did not affect the fundamental fairness of his trial; 3) his status as a recidivist was properly determined under state law; and 4) he was not denied effective assistance of counsel in his state criminal trial. We affirm the judgment of the district court.\nL\nA. FACTUAL BACKGROUND\nShortly after 11:00 p.m. on June 2, 1981, two men pulled into the Interstate gas station near Tifton, Georgia. As the station attendant pumped gas into their car, one of the men pressed the barrel of a pistol against the attendant\u2019s neck and demanded the keys to the station\u2019s cash box. While rummaging through the cash box, they noticed a Tifton police car pass by the station. Alarmed by the police officer\u2019s presence, the two assailants shoved the station attendant into the back seat of their automobile and sped away. In an attempt to elude the police, they accidentally drove off the road shortly after leaving the station and escaped on foot, abandoning the wrecked car and the unharmed attendant. When the police officer arrived a few minutes later, he found the wrecked car and the station employee standing nearby.\nFurther investigation revealed that the wrecked vehicle belonged to Henry Lee McCoy. The ear was dusted for finger prints, but none of the prints matched those of McCoy. However, the police later established that some of the prints found in the abandoned car belonged to McCoy\u2019s codefendant, Mercer Mallory, Jr.\nMcCoy was arrested at his home in Albany, Georgia a few days later. He and Mallory were subsequently transported to the Tifton jail. The police began questioning McCoy at 11:55 that evening. Within fifteen minutes, he signed a confession admitting his guilt and Mallory\u2019s complicity in the crime. During McCoy\u2019s commitment hearing and trial, the gas station employee positively identified McCoy as one of the men who had robbed and abducted him on June 2, 1981.\nMcCoy was indicted on four counts. In count one, he was accused of armed robbery. He was charged in count two with the offense of kidnapping. In counts three and four, he was prosecuted as a recidivist. He was charged in count five with possession of a firearm by a convicted felon. Despite his jailhouse confession, McCoy maintained his innocence during his trial in the Superior Court of Tift County, Georgia. He was found guilty by the jury of all charges. The trial court sentenced McCoy to life imprisonment on the armed robbery charge, twenty years with twelve years to serve on the kidnapping count to run consecutively to the armed robbery sentence, and five years on the firearm possession charge to run concurrently with the armed robbery sentence. Because he was also convicted as a recidivist, the maximum sentence was imposed on each of the substantive charges.\nB. PROCEDURAL BACKGROUND\nDavid Perry was appointed to represent McCoy in his state court trial. After the judgment of conviction, Perry filed a notice of appeal in the Court of Appeals of Georgia. Perry soon thereafter filed a motion to withdraw as counsel in compliance with Anders v. California, 386 U.S. 738, 87 S.Ct. 1396, 18 L.Ed.2d 493 (1967).\nThe Georgia Court of Appeals granted Perry\u2019s motion to withdraw and affirmed McCoy\u2019s convictions. McCoy v. State, 168 Ga.App. 598, 310 S.E.2d 2 (1983). With the assistance of another attorney, McCoy petitioned the court for rehearing, contending that he was improperly convicted and sentenced as a recidivist. The court denied the motion after finding that he was properly sentenced as a second offender under O.C.G.A. \u00a7 17-10-7.\nOn May 23, 1984, McCoy filed a petition for a writ of habeas corpus in the Superior Court of Wayne County, Georgia. That petition alleged four grounds for relief: 1) ineffective assistance of counsel arising from his attorney\u2019s failure to conduct an adequate investigation of the case; 2) error by the Georgia Court of Appeals in affirming his conviction as a recidivist; 3) refusal of the trial court to direct a verdict of acquittal; and 4) failure by the trial court to conduct a pretrial investigation to determine whether he was a recidivist. The state habeas corpus court conducted evi-dentiary hearings on June 16, 1984 and July 17, 1984. On August 21, 1984, the court entered an order denying relief on the merits of the petition.\nSome three months later, on November 20, 1984, McCoy filed an amendment to the May 23, 1984 petition. The amendment alleged eleven grounds for relief: 1) denial of the right to present all his habeas corpus claims in the Georgia state courts; 2) denial of the right to a fair and impartial jury because his attorney ignored his direction to strike three jurors; 3) denial of the right to compulsory process because his attorney refused to subpoena certain defense witnesses; 4) admission of an illegally obtained statement into evidence; 5) ineffective assistance of counsel because his trial attorney (a) failed to conduct an adequate investigation of the circumstances of his case, (b) failed to interview alibi witnesses, (c) failed to subpoena crucial witnesses, (d) failed to conduct an adequate voir dire of the jury, (e) refused to allow him to participate in the jury selection process, (f) conspired with the court reporter to exclude portions of the trial from the transcript and (g) failed to challenge the constitutionality of the recidivist count of the indictment; 6) improper jury instruction on the recidivism count; 7) unconstitutional trial, conviction and sentence as a recidivist; 8) improper admission of the records of his prior felony conviction; 9) conviction as a recidivist under an unconstitutional indictment; 10) inadequate appellate review because the record before the Georgia Court of Appeals was incomplete; and 11) ineffective assistance of counsel because his trial attorney failed to raise crucial issues on appeal.\nThe state moved to dismiss the amendment, citing the prior entry of a final order on the original May 23, 1984 petition. In an order dated January 7, 1985, the state habeas corpus court noted McCoy\u2019s objection that he was denied his right to appeal because he had not received a copy of the August 21,1984 order denying relief on his original state habeas corpus petition. However, it ordered that \u201c[t]he petitioner\u2019s motion to amend is dismissed as there has previously been a final order terminating the within habeas corpus petition.\u201d McCoy v. Green, Civ. No. 84-11961 (Sup.Ct. Wayne Co. January 7, 1985). The court also extended the time to appeal the denial of relief under the original habeas corpus petition out of concern that McCoy had not received a copy of the August 21, 1984 order. The Supreme Court of Georgia denied the application for a certificate of probable cause to appeal the state habeas corpus court\u2019s order on May 1, 1985.\nMcCoy next filed the present pro se petition for a federal writ of habeas corpus in the United States District Court for the Middle District of Georgia. The federal petition alleged the identical grounds for relief as the disallowed amendment to his state habeas corpus petition. The district court referred the petition to a magistrate for a report and recommendation.\nThe state initially moved to dismiss the federal habeas corpus petition for the reason that several of the grounds had not been exhausted in state court. In an order dated January 23, 1986, the district court found that grounds two through eleven were exhausted when the Georgia Court of Appeals conducted an independent examination of the trial record for any reversible error pursuant to the Anders petition. McCoy v. Newsome, 626 F.Supp. 374 (M.D.Ga.1986). It found that ground one alleged an error occurring after the review of the Anders petition by the state court of appeals, and thus was not exhausted. Id. McCoy subsequently elected to delete this ground from his federal petition.\nThe state then objected to McCoy\u2019s motion for an evidentiary hearing on grounds two, three, four, five (c)-(f), eight, and ten. The state contended that those issues were raised for the first time in the disallowed state amendment, and therefore were barred from review in federal court under the doctrine of procedural default. The state argued that the remaining grounds for relief, specifically those concerning ineffective assistance of counsel (grounds five (a)-(b) and eleven) and the prosecution of McCoy as a recidivist (grounds five (g), six, seven, and nine), did not warrant an evidentiary hearing.\nThe magistrate issued a partial recommendation, adopted by the district court in its November 29, 1989 order, holding that grounds two, three, five (c)-(f), and ten were barred from review in federal court under the doctrine of procedural default. Because it found that McCoy had not shown cause or prejudice for the default, the magistrate recommended that those grounds be dismissed from the complaint.\nThe magistrate also found that grounds four and eight were not barred by procedural default, even though they had been raised for the first time in the disallowed state habeas corpus amendment. Additionally, the magistrate determined that all grounds other than five (a) and (b) that were not procedurally defaulted could be resolved on the record without an eviden-tiary hearing.\nThe magistrate conducted an evidentiary hearing on the allegations of ineffective assistance of counsel contained in grounds five (a) and (b). At the hearing, McCoy testified that he was with friends at the New Image Club in Albany, Georgia, at the time of the robbery. The robbery occurred in Tifton, Georgia, approximately forty miles from Albany. McCoy stated that he informed Perry, his trial counsel, of this alibi defense. He also testified that he provided Perry with the names of several witnesses who could have placed him at the New Image Club. He claimed, however, that Perry never talked to any of the witnesses and, consequently, did not pursue the alibi defense during the trial.\nThe magistrate\u2019s final report, also adopted in its entirety by the district court, held that 1) McCoy\u2019s claim that his confession was involuntary was without merit (ground four); 2) the evidence of his prior conviction did not affect the fundamental fairness of his trial in light of the overwhelming evidence of his guilt (ground eight); 3) his status as a recidivist was properly determined under Georgia state law (grounds six, seven, and nine); and 4) the allegations of ineffective assistance of counsel were not supported by the evidence (grounds five (a)-(b) and (g) and eleven).\nII.\nA. PROCEDURAL DEFAULT\nOn appeal, McCoy does not contend that the district court erred when it found that grounds two, three, five (c)-(f), and ten were barred by procedural default in the state habeas corpus court. He does argue, though, that the district court was wrong when it held that he had not met the cause and prejudice standard for procedural default. See Wainwright v. Sykes, 433 U.S. 72, 97 S.Ct. 2497, 53 L.Ed.2d 594 (1977).\nA federal court is barred from a review of a state prisoner\u2019s federal claims where there is a failure to comply with an independent and adequate state procedural rule, unless the prisoner can show either 1) cause for the default and actual prejudice growing out of the alleged violation of federal law or 2) a resulting fundamental miscarriage of justice if the federal court does not consider the claims. Coleman v. Thompson, 501 U.S. -, 111 S.Ct. 2546, 2565, 115 L.Ed.2d 640 (1991).\n1. Cause.\nThe \u201ccause\u201d excusing the procedural default must result from some objective factor external to the defense that prevented the prisoner from raising the claim and which cannot be fairly attributable to his own conduct. Murray v. Carrier, 477 U.S. 478, 488, 106 S.Ct. 2639, 2645, 91 L.Ed.2d 397 (1986).\nIn an attempt to satisfy this burden, McCoy first claims that his lack of legal education constitutes cause for his procedural default. He alleges that, with a proper legal education, he would have known what grounds for relief would have been available to him, and that he would have raised them all in his initial state habeas corpus petition.\nA pro se petitioner is not exempted from the cause and prejudice requirement of Sykes. He must still show either that an objective factor external to himself caused him to default his claim, or that the defaulted claim raises an issue that was \u201cintrinsically beyond [a] pro se petitioner\u2019s ability to present.\u201d Harmon v. Barton, 894 F.2d 1268, 1275 (11th Cir.1990). A petitioner\u2019s \u201cfailure to act or think like a lawyer cannot be cause for failing to assert a claim\u201d since he has no constitutional right to counsel during habeas corpus proceedings. Harmon v. Barton, 894 F.2d at 1275 (quoting Smith v. Newsome, 876 F.2d 1461, 1465 (11th Cir.1989)).\nMcCoy\u2019s degree of education is not an external impediment to his defense. We find that the claims that McCoy defaulted did not raise issues which were intrinsically beyond a pro se petitioner\u2019s ability to present, especially in light of the fact that he did present them while still proceeding pro se. He simply asserted them too late. In essence, McCoy claims nothing more than that he would have acted like a lawyer if he had been trained in the law. We conclude that his lack of legal education does not constitute cause for his procedural default.\nMcCoy next complains that he did not have the benefit of legal counsel to assist him in drafting his initial state habeas corpus petition. He alleges that the law does not attribute a lawyer\u2019s knowledge to a pro se petitioner, and consequently that his pro se status should lower the showing that he must make to demonstrate cause. McCoy asks us to decide whether a petitioner\u2019s status-counseled or not counseled-can properly be considered when determining cause for a procedural default.\nWe noted earlier that a petitioner in state post-conviction proceedings has no constitutional right to counsel. \u201cWhere the State has no responsibility to ensure that the petitioner was represented by competent counsel ... it is the petitioner who must bear the burden of a failure to follow state procedural rules.\u201d Coleman, 111 S.Ct. at 2567. Thus, absent a constitutional guarantee to counsel, a state prisoner-whether counseled or not counseled-must accept responsibility for his procedural default.\nGeorgia has imposed a procedural rule requiring any state prisoner collaterally attacking his sentence by way of a petition for writ of habeas corpus to present all grounds for relief in the petition or amendment thereto. O.C.G.A. \u00a7 9-14-51. The purpose of the section is to preclude successive habeas corpus petitions resulting from a single conviction. Hunter v. Brown, 236 Ga. 168, 223 S.E.2d 145 (1976). The state habeas corpus court dismissed McCoy\u2019s federal claims asserted for the first time in the amendment after finding that a final order had already been issued on his original petition. It thus held that McCoy\u2019s amendment was in fact a successive petition as defined in O.C.G.A. \u00a7 9-14-51. Since McCoy had no sixth amendment right to counsel, he bears the burden of his failure to act in compliance with O.C.G.A. \u00a7 9-14-51.\nThe Georgia procedural default rule does not provide an exception to its requirements for pro se prisoners. Because the rule is equally applicable to any state prisoner who wants to collaterally attack his conviction, Georgia\u2019s ability to enforce O.C.G.A. \u00a7 9-14-51 is undercut by McCoy\u2019s procedural default in the same way as by an inadvertent default by a counseled prisoner or a deliberate strategy. See Coleman, 111 S.Ct. at 2566 (citing Carrier, 477 U.S. at 487, 106 S.Ct. at 2644).\nThe cause and prejudice requirement embodies concerns of comity and finality. Coleman declared that the Syke\u2019s requirement is applicable \u201c[i]n all cases in which a federal habeas petitioner has defaulted his federal claims in state court pursuant to an independent and adequate state procedural rule.\u201d Coleman, 111 S.Ct. at 2565. In doing so, the Court analyzed and rejected the \u201cdeliberate bypass\u201d standard applied in Fay v. Noia, 372 U.S. 391, 83 S.Ct. 822, 9 L.Ed.2d 837 (1963). It stated that the two \u201cincompatible rules are based on very different conceptions of comity and of the importance of finality in state criminal litigation.\u201d Id. 111 S.Ct. at 2563. The Court declared that the cause and prejudice requirement, unlike the deliberate bypass standard, pays proper respect to the vital interests served by a state\u2019s procedural rules. These state interests include \u201cchanneling the resolution of claims to the most appropriate forum, in finality, and in having an opportunity to correct its own error.\u201d Coleman, 111 S.Ct. at 2565.\nTherefore, comity requires that we give due deference to state procedural rules, both in determining whether a default has occurred and whether a prisoner has shown cause and prejudice for the default. Since McCoy\u2019s violation of O.C.G.A. \u00a7 9-14-51 carries with it the same costs to the state as a violation by a counseled prisoner, we conclude that McCoy\u2019s status as a pro se petitioner, standing alone, cannot be considered when determining whether he has shown cause for the default.\nHowever, McCoy analogizes his status as a petitioner in a federal habeas corpus petition to instances involving abuse of the writ. See Gunn v. Newsome, 881 F.2d 949 (11th Cir.1989) (en banc). The court in Gunn examined whether a federal petitioner abused the writ under 28 U.S.C. \u00a7 2244 and Rule 9 of the Rules Governing Section 2254 cases in the United States District Courts. It noted that a court can dismiss a successive federal petition when the petitioner has \u201cdeliberately withheld the newly asserted ground or otherwise abused the writ.\u201d 28 U.S.C. \u00a7 2244(b). The focus of the court\u2019s inquiry in determining whether it should decline to entertain a successive federal petition is therefore on the conduct of the petitioner himself. See Gunn, 881 F.2d at 954. Gunn held that a pro se petitioner abuses the writ when he raises a claim in a successive petition that is based on facts he knew when he filed the original petition, but only if he knew or reasonably should have known that those facts constituted a ground for federal habeas corpus relief.\nMcCoy urges that Gunn is equally applicable when a federal court examines whether a pro se petitioner has established cause for a procedural default of a federal claim in state court. However, the considerations that motivated Gunn are very different from those underpinning the procedural default bar. An abuse of the writ occurs solely in a federal context when a federal petitioner brings successive federal petitions. The federal statute governing dismissal of the successive petition because of abuse of the writ itself requires the court to examine the petitioner\u2019s conduct. When a federal court declines to entertain a federal claim that a state habe-as corpus court has held to be barred by procedural default, though, its concern is with the effect that federal review would have on the state\u2019s ability to enforce its procedural rules. The procedural default bar is a judicially developed doctrine grounded in concerns of comity and federalism. As we have stated, the cost of a procedural default to the state\u2019s interest is the same regardless of the petitioner\u2019s status. Therefore, we find no reason to conclude that the considerations motivating the Gunn decision are controlling in the context of the procedural default bar on federal habeas corpus review.\nMcCoy also asserts that his lack of a trial transcript at the time he prepared his initial state habeas corpus petition is a sufficient reason to excuse his failure to raise all his grounds for relief at that time. He apparently claims that he would have been aware of more grounds for relief in time to include them in his original petition if he had been able to review the transcript.\nAs pointed out earlier, a federal habeas corpus petitioner bears the burden of demonstrating cause for his procedural default in state court. Before consideration can be given to this argument, McCoy must establish that an objective impediment, not of his own making, denied him the opportunity of examining the trial transcript in the preparation of his petition.\nIn response to the magistrate's order of July 21, 1988 to show cause and prejudice, McCoy alleged that he \u201cwould not have had the trial transcript\u201d to aid him in his preparatory efforts because his direct appeal was still in progress. However, he has not alleged or made any showing that the state denied a request for the transcript or that there were not available to him alternative devices that would have fulfilled the same functions as the transcript. See Britt v. North Carolina, 404 U.S. 226, 92 S.Ct. 431, 30 L.Ed.2d 400 (1971). Thus, he has not met his burden in showing that he was denied access to the transcript by a factor beyond his control.\nFinally, McCoy alleges that his lack of access to a law library while preparing his initial state habeas corpus petition constitutes adequate cause for his procedural default. He states that he prepared his initial petition while incarcerated at Wayne State Institution, which did not provide legal materials or a law library. He claims that he was unaware of some of the grounds of relief alleged in the disallowed amendment until after his transfer to Georgia State Prison, which does have legal research resources. However, the final order had already been entered on his original petition by the time he had access to a law library. For this reason, he argues that the denial of his right to access to a law library is an objective factor not attributable to him that impeded his compliance with the state procedural rule.\nThe magistrate noted that McCoy\u2019s lack of access to a law library could possibly constitute cause. Nonetheless, he did not proceed to examine McCoy\u2019s claim that he had been deprived of access to a law library. Instead, the magistrate concluded that whether McCoy had shown cause was irrelevant since he had failed to demonstrate how any of the errors alleged in the grounds barred by procedural default had prejudiced the outcome of his trial.\nBecause both cause and prejudice must be shown to excuse a procedural default, Carrier, 477 U.S. at 494, 106 S.Ct. at 2648, the magistrate bypassed the issue of whether McCoy\u2019s alleged lack of access to a law library constituted cause for his default and proceeded directly to the question of whether he suffered actual prejudice. In light of this approach followed by the magistrate, we will proceed to review whether MeCoy established that the alleged errors at trial in fact prejudiced his defense.\n2. Prejudice.\nUnder the prejudice prong of Wainwright v. Sykes, McCoy must show that the errors at trial actually and substantially disadvantaged his defense so that he was denied fundamental fairness. Carrier, 477 U.S. at 494, 106 S.Ct. at 2648 (citing United States v. Frady, 456 U.S. 152, 170, 102 S.Ct. 1584, 1595, 71 L.Ed.2d 816 (1982)).\nThe alleged specific errors we examine are those contained in the claims that the state habeas and district court found were barred by procedural default, and which McCoy pursues on appeal that 1) his attorney ignored McCoy\u2019s direction to strike three jurors (grounds two and five (e)); 2) the record before the Georgia Court of Appeals was incomplete (ground ten); and 3) his attorney failed to subpoena alibi witnesses (grounds three and five (c)).\nMcCoy first alleges that three jurors gave answers during the voir dire examination that indicated they were prejudiced against him. He claims that he told his trial counsel, Perry, that he wanted to strike these three jurors. Instead, Perry announced that the jury was accepted by the defense. McCoy asserts that he voiced his objection to the state trial court, but was admonished that only his attorney could address matters of this nature to the court.\nThe substance of this argument is that his objection to the three jurors, standing alone, should have been respected by his attorney and the trial court. He urges that he was deprived of his constitutional right to an impartial jury when these three allegedly prejudiced jurors were impanelled, and that this error impaired the fundamental fairness of his trial.\nThe voir dire proceedings are not part of the record before this court. Consequently, McCoy\u2019s allegations that the three challenged jurors gave answers that indicated their prejudice against him are not substantiated. He also fails to provide the substance of the juror\u2019s answers or to indicate in what way the jurors were prejudiced against him.\nThe bare allegations that three jurors were prejudiced against him cannot establish that he was denied a fundamentally fair trial. He has not met his burden of showing that he suffered actual and substantial prejudice as a result of his attorney\u2019s acceptance of the jury.\nMcCoy next maintains that he was denied a full, fair, and impartial appellate review of his case because the voir dire proceedings were not transcribed. He contends that the Georgia Court of Appeals could not adequately review his complaints that three jurors were prejudiced against him and that his attorney failed to preserve his objection by neglecting to request that the voir dire proceeding be transcribed.\nA mere possibility of actual prejudice resulting from an error at trial will not waive the procedural default bar where other substantial evidence of guilt is present. Sykes, 433 U.S. at 91, 97 S.Ct. at 2508. Here, McCoy\u2019s car was found near the crime scene the night of the robbery. He confessed his guilt to the police officers the night of his arrest. Additionally, the victim positively identified McCoy as one of the robbers and kidnappers. We conclude that any possibility of actual prejudice to McCoy resulting from the lack of a transcript of the voir dire proceedings is negated by the other overwhelming evidence of his guilt presented at the trial.\nFinally, McCoy alleges that there were seven persons who could testify that he was forty miles away from the crime scene at the time the robbery and kidnapping took place. He claims that these witnesses were crucial to his defense, and that he had a constitutional right to obtain their testimony. In his view, he was denied this right by his attorney\u2019s failure to subpoena the seven witnesses at trial.\nIn our later discussion of McCoy\u2019s claims of ineffective assistance of counsel, we state that Perry determined after investigating the alibi defense that the alibi witnesses could not state specifically when they saw McCoy on the night of the robbery. Perry made the decision not to subpoena these witnesses after learning that their testimony was not as reliable as McCoy had related to him. We again conclude that the other substantial evidence of McCoy\u2019s guilt negates any possibility of prejudice resulting from his attorney\u2019s failure to subpoena the alibi witnesses.\n3. Fundamental Miscarriage of Justice.\nWe also hold that McCoy has not produced evidence showing that he is \u201cactually innocent\u201d of the crimes for which he was convicted. Accordingly, the facts of his case do not support a conclusion that there will be a fundamental miscarriage of justice if we do not consider his federal claims.\nFor these reasons, we decline to review the merits,of his federal claims contained in grounds two, three, five (c)-(f), and ten.\nB. INEFFECTIVE ASSISTANCE OF COUNSEL\nIn grounds five (a) and (b), McCoy alleges that his trial attorney provided ineffective assistance of counsel. He says that he provided Perry with the names of the persons who would provide an alibi for his whereabouts at the time of the robbery, and that Perry failed to interview these possible alibi witnesses or to call them to testify at the trial.\nThe magistrate held an evidentiary hearing on these two grounds for relief. McCoy, Perry and one of the possible alibi witnesses, Adolph Piper Chapman, testified at the hearing.\nChapman stated that he did not remember Perry ever contacting him. He also claimed that he went to the trial to testify on McCoy\u2019s behalf, but that Perry sent him home without calling him to the stand.\nPerry, on the other hand, testified that he talked to Chapman and another possible alibi witness, but chose not to call them because they could not swear to the exact time they had seen McCoy on the night of the robbery. Perry conceded that he probably would have pursued an alibi defense if Chapman\u2019s testimony was more specific as to the time he saw McCoy in Albany, Georgia.\nThe finder of fact is the ultimate judge of the credibility and demeanor of witnesses. Depending on how these two factors are weighed, he must believe one witness over the other when the testimony is in conflict. We are bound by that assessment unless it is clearly erroneous. Here, the magistrate obviously credited the testimony of Perry over that of Chapman. The magistrate\u2019s conclusion is supported by the fact that Chapman\u2019s testimony concerning the hour that he saw McCoy on the night of the robbery was not as precise or clear as McCoy would have us believe. It is not our function to make credibility determinations on a cold record. Therefore, we conclude that the magistrate\u2019s decision to credit Perry\u2019s testimony over that of Chapman\u2019s is not clearly erroneous.\nWhether there is ineffective assistance of counsel is a mixed question of law and fact. Thus, we must next determine whether the magistrate and the district court correctly applied the pertinent legal' principles to the factual findings. Questions of law are subject to de novo review.\nAn ineffective assistance of counsel claim is examined under the \u201ctotality of the circumstances.\u201d House v. Balkcom, 725 F.2d 608, 615 (11th Cir.), cert. denied, Balkcom v. House, 469 U.S. 870, 105 S.Ct. 218, 83 L.Ed.2d 148 (1984). To prevail, a habeas corpus petitioner must show that his attorney\u2019s performance \u201cfell below an objective standard of reasonableness.\u201d Strickland v. Washington, 466 U.S. 668, 688, 104 S.Ct. 2052, 2064, 80 L.Ed.2d 674 (1984). He must also demonstrate there exists a reasonable chance that the outcome of the case would have been different but for the attorney\u2019s mistakes. Id. at 694, 104 S.Ct. at 2068.\nEffective assistance of counsel embraces adequate pretrial investigation. \u201c[W]hen a lawyer fails to conduct a substantial investigation into any of his client\u2019s plausible lines of defense, the lawyer has failed to render effective assistance of counsel.\u201d House, 725 F.2d at 617-18 (citing Washington v. Strickland, 693 F.2d 1243, 1257 (5th Cir. Unit B 1982), cert. denied, 469 U.S. 870, 105 S.Ct. 218, 83 L.Ed.2d 148 (1984)). Failure to investigate evidence that would be helpful to the defense is also an indication of ineffective assistance of counsel. Goodwin v. Balkcom, 684 F.2d 794, 805 (11th Cir.1982), disapproved on other grounds by Zant v. Stephens, 462 U.S. 862, 103 S.Ct. 2733, 77 L.Ed.2d 235 (1983).\nIt is evident from the record that Perry did investigate the possibility of an alibi defense. Whether he could have done a better job is a matter of subjective inquiry. It was not unreasonable for him to assume, after he interviewed at least two possible witnesses, that an alibi defense would not be feasible since neither witness could state affirmatively the time they last saw McCoy the night of the robbery. This tactical decision is reinforced in light of the signed confession, the fact that McCoy\u2019s wrecked car was found near the scene and the victim\u2019s positive identification of McCoy as one of the participants in the crimes. Therefore, we hold as a matter of law that Perry\u2019s representation was not ineffective under these circumstances.\nC. VOLUNTARINESS OF THE CONFESSION\nGround four alleges that McCoy\u2019s confession was involuntary. McCoy maintains that he was held for an unreasonable time before making his cbnfession, that he signed the confession because the police threatened him with a life sentence, and that he was under the influence of alcohol and marijuana at the time he allegedly confessed. He also charges that he was tired and hungry during .the time he was being questioned by the officers.\nThe state trial court conducted an eviden-tiary hearing to determine the voluntariness of the confession. See Jackson v. Denno, 378 U.S. 368, 84 S.Ct. 1774, 12 L.Ed.2d 908 (1964). The state presented evidence to refute each of McCoy\u2019s contentions. It disclosed that McCoy was arrested at 3:00 p.m. on June 16, 1982, in Albany and was transferred later that-evening to the Tifton jail. The interrogation of McCoy began at 11:55 p.m. on June 16th, and that he confessed to the crime between 11:55 p.m. on June 16th and 12:10 a.m. on June 17th. The Tifton police officers who conducted the interrogation denied threatening him and one officer testified that McCoy did not appear hungry or under the influence of drugs or alcohol before and during the time he was questioned.\nBased on the evidence produced by the state, the trial court found that McCoy was not coerced or threatened into making his confession. It also found that the police had not promised any reward or benefit to McCoy in return for his inculpatory statement. Finally, the court found that McCoy was not under the influence of drugs or alcohol, nor was he otherwise mentally impaired, at the time he made his confession. Consequently, it held McCoy\u2019s confession to be voluntary.\nThe state trial court\u2019s findings of fact concerning the circumstances of McCoy\u2019s confinement and interrogation^ his mental condition at the time of his confession, and the actions of the police officers reflected its resolution of the conflicting testimony. These subsidiary findings are entitled to a presumption of correctness if fairly supported by the record. Miller v. Fenton, 474 U.S. 104, 117, 106 S.Ct. 445, 453, 88 L.Ed.2d 405 (1985). However, the \u201cultimate question whether, under the totality of the circumstances, the challenged confession was obtained in a manner compatible with the requirements of the Constitution is a matter for independent federal determination.\u201d Fenton, 474 U.S. at 112, 106 S.Ct. at 450. A confession is voluntary if the defendant \u201c \u2018made an independent and informed choice of his own free will, possessing the capability to do so, his will not being overborne by the pressures and circumstances swirling around him.\u2019 \u201d Moore v. Dugger, 856 F.2d 129, 132 (11th Cir.1988) (citing Jurek v. Estelle, 623 F.2d 929, 937 (5th Cir.1980)).\nWe conclude after undertaking a plenary review of the record that the state court\u2019s findings of fact are fairly supported by the evidence and that the totality of the circumstances show that McCoy made his confession voluntarily and without coercion.\nD. REMAINING CLAIMS FOR RELIEF\nMcCoy raises five other grounds for relief. Four of these center on his conviction as a recidivist. Additionally, McCoy claims that his attorney was ineffective in pressing his appeal.\nUnder Georgia law, a person who commits a felony after having been previously convicted and sentenced to prison for a prior felony must be given the maximum sentence for the second offense. O.C.G.A. \u00a7 17-10-7(a). The trial judge has the discretion to probate or suspend the maximum sentence. A person who has been convicted and sentenced for at least three other felonies must be given the maximum sentence without eligibility for parole for any subsequent felony convictions. O.C.G.A. \u00a7 17-10-7(b). A prior conviction must be final before it can be considered for purposes of O.C.G.A. \u00a7 17-10-7. Croker v. Smith, 225 Ga. 529, 169 S.E.2d 787 (1969).\nCount three of McCoy\u2019s indictment alleged that he had pleaded guilty in 1977 to armed robbery, and had served three years of a six year sentence. It further alleged that the primary charges contained in counts one, two, and four of the indictment constituted his third felony offense for purposes of O.C.G.A. \u00a7 17-10-7.\nIn ground six of his federal habeas corpus petition, McCoy alleges that the trial court failed to charge the jury on the recidivist count. He claims that the court\u2019s failure to charge properly the jury deprived him of his right to due process and the equal protection of the laws.\nThe Georgia Court of Appeals declared in its order on McCoy\u2019s motion for rehearing that \u201cthe state ... established without objection that [McCoy] had been convicted and sentenced to confinement for a 1977 robbery, and this fact was properly alleged in the indictment.\u201d McCoy, 310 S.E.2d at 3. It held that this proof \u201cboth authorized and required\u201d the trial court to sentence McCoy as a second offender under O.C.G.A. \u00a7 17-10-7(a).\nA federal habeas corpus court may not interfere with a state court\u2019s interpretation of state law absent a constitutional violation. Bronstein v. Wainwright, 646 F.2d 1048, 1050 (5th Cir. Unit B June 1981). Thus, we are bound by the Georgia Court of Appeals\u2019 interpretation of O.C.G.A. \u00a7 17-10-7 in this case unless it breached a constitutional mandate. The Georgia Court of Appeals treated O.C.G.A. \u00a7 17-10-7(a) as a guideline to sentencing, not as a provision under which the jury had convicted McCoy of recidivism. The states are generally free to allocate responsibility between court and jury in recidivist trial procedure. Spencer v. Texas, 385 U.S. 554, 87 S.Ct. 648, 17 L.Ed.2d 606 (1967). Therefore, the trial court was not required by the constitution to instruct the jury on the elements of recidivism.\nIn ground seven of his federal habeas corpus petition, McCoy alleges that he was unconstitutionally indicted, tried, convicted and sentenced as a recidivist. He asserts that the recidivist count of the indictment was premised upon the primary charges of armed robbery, kidnapping and possession of a firearm by a convicted felon. Since these charges were contained in the indictment and thus were not final convictions as required by O.C.G.A. \u00a7 17-10-7(b), he contends that the state and trial court\u2019s application of this \u201cclearly erroneous\u201d theory of O.C.G.A. \u00a7 17-10-7(b) unconstitutionally tainted his conviction and sentence.\nThe Georgia Court of Appeals agreed with McCoy that \u201cthe trial court improperly sentenced him as a recidivist because in doing so it considered convictions not yet final.\u201d McCoy, 310 S.E.2d at 3. Again, however, it also found that the state\u2019s unchallenged proof of McCoy\u2019s prior conviction for armed robbery \u201cboth authorized and required [the trial court] to sentence [him] as a second offender pursuant to O.C.G.A. \u00a7 17-10-7....\u201d Id. The Georgia Court of Appeals\u2019 interpretation of the distinctions between \u00a7 17-10-7(a) and \u00a7 17-10-7(b) is binding upon this court. McCoy\u2019s claim that the Georgia Court of Appeals\u2019 interpretation of state law runs afoul of the constitution is without merit.\nIn ground eight of his federal habeas corpus petition, McCoy alleges that the state trial court erred in admitting his prior felony conviction into evidence. He argues that his 1977 conviction for armed robbery was not pertinent to the kidnapping or armed robbery charges, even if it was relevant to the charges of possession of a firearm by a convicted felon and recidivism. McCoy claims that this evidence improperly placed his character into evidence, and that the lack of a limiting instruction by the court violated his due process rights.\nThe Georgia Court of Appeals found that no objection was made to the introduction of the robbery conviction into evidence, and held that it was relevant to McCoy\u2019s status as a second offender. McCoy, 310 S.Ed.2d at 3. Under Georgia\u2019s contemporaneous objection rule, McCoy was required to object at the time the evidence w*as offered at trial. O.C.G.A. \u00a7 5-5-22. His failure to do so constitutes a procedural default barring review by this court unless he satisfies the cause and prejudice standard, which he has not attempted to do in this case. Sykes, 433 U.S. at 86, 97 S.Ct. at 2506.\nIn any event, we generally do not review a state trial court\u2019s admission of evidence. Shaw v. Boney, 695 F.2d 528, 530 (11th Cir.1983). Federal habeas corpus relief based on evidentiary rulings will not be granted unless it goes to the fundamental fairness of the trial. Id. Introduction of erroneous prior conviction evidence \u201ccan lead to federal habeas corpus relief if it is \u201c \u2018material in the sense of a crucial, critical, highly significant factor.\u2019 \u201d Panzavecchia v. Wainwright, 658 F.2d 337, 340 (1981) (quoting Hills v. Henderson, 529 F.2d 397, 401 (5th Cir.1976)). \u201c[Pjrior conviction evidence is not crucial, critical and highly significant when other evidence of guilt is overwhelming.\u201d Stone v. Green, 796 F.2d 1366, 1369 (11th Cir.1986) (citing Bryson v. Alabama, 634 F.2d 862, 865 (5th Cir. Unit B 1981)). In light of the overwhelming evidence of McCoy\u2019s guilt cited earlier, we cannot say that the evidence of his prior conviction was prejudicial to his convictions for kidnapping and armed robbery. Consequently, it cannot serve as grounds for federal habeas corpus relief.\nIn ground nine, McCoy complains that his indictment as a recidivist violates the double jeopardy clause. This claim of a constitutional violation is' patently without merit. See Spencer, 385 U.S. at 560, 87 S.Ct. at 651; Moore v. Missouri, 159 U.S. 673, 16 S.Ct. 179, 40 L.Ed. 301 (1895).\nFinally, McCoy alleges in ground eleven that he received ineffective assistance of counsel on appeal. As we noted before, McCoy\u2019s trial attorney filed a notice of appeal, motion to withdraw and supporting brief pursuant to Anders. Perry alluded to four possible errors in the Anders brief, two of which McCoy pursued in his habeas corpus petitions. Perry pointed out that the confession was possibly coerced and that the court may have erred in allowing into evidence the 1977 conviction prior to a finding of guilt on all of the charges except the firearm possession count. Anders Brief, Exhibit 4. The Georgia Court of Appeals conducted an independent review of the record and, on a motion for rehearing, addressed the recidivist charge. These actions sufficed to secure McCoy\u2019s right to an effective appeal. Anders, 386 U.S. at 745, 87 S.Ct. at 1400.\nAccordingly, for the foregoing reasons, the judgment of the district court is\nAFFIRMED.\n. McCoy and Mallory were indicted jointly but tried separately. McCoy testified against Mallory at Mallory\u2019s trial. His testimony was consistent with the statements he made in his signed confession.\n. Anders directs a court appointed attorney who determines that there is no merit to the first direct appeal from a criminal conviction to advise the appellate court of this conclusion and to request permission to withdraw as counsel. Anders, 386 U.S. at 744, 87 S.Ct. at 1400. After providing the indigent defendant the opportunity to raise any points in his favor, the court then makes a full examination of the trial proceedings to determine whether the appeal is frivolous. Id. If it so finds, the court may grant the attorney\u2019s request to withdraw and dismiss the appeal subject to any state requirement that directs the court to reach the merits. Id. The court must provide the indigent defendant the assistance of counsel to appeal any legal issues that are arguable on their merits. Id.\n. O.C.G.A. \u00a7 9-14-51 states that ''[a]Il grounds for relief claimed by a petitioner for a writ of habeas corpus shall be raised by a petitioner in his original or amended petition. Any grounds not so raised are waived unless the Constitution of the United States or of this state otherwise requires or unless any judge to whom the petition is assigned, on considering a subsequent petition, finds grounds for relief asserted therein which could not reasonably have been raised in the original or amended petition.\u201d",
+        "type": "majority",
+        "author": "PER CURIAM:"
+      }
+    ],
+    "attorneys": [
+      "Floyd M. Buford, Jr., Buford & Buford, Macon, Ga., for petitioner-appellant.",
+      "Susan V. Boleyn, Asst. Atty. Gen., Atlanta, Ga., for respondent-appellee."
+    ],
+    "corrections": "",
+    "head_matter": "Henry Lee McCOY, Petitioner-Appellant, v. Lansom NEWSOME, Warden, Respondent-Appellee.\nNo. 89-8117.\nUnited States Court of Appeals, Eleventh Circuit.\nJan. 29, 1992.\nFloyd M. Buford, Jr., Buford & Buford, Macon, Ga., for petitioner-appellant.\nSusan V. Boleyn, Asst. Atty. Gen., Atlanta, Ga., for respondent-appellee.\nBefore COX, Circuit Judge, HENDERSON and CLARK , Senior Circuit Judges.\nSee Rule 34 \u2014 2(b), Rules of the U.S. Court of Appeals for the Eleventh Circuit."
+  },
+  "file_name": "1252-01",
+  "first_page_order": 1324,
+  "last_page_order": 1337
+}

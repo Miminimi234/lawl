@@ -1,0 +1,201 @@
+{
+  "id": 1878799,
+  "name": "UNITED STATES of America, Appellant, v. Joseph SCLAMO, Jr., Defendant, Appellee",
+  "name_abbreviation": "United States v. Sclamo",
+  "decision_date": "1993-07-07",
+  "docket_number": "No. 93-1089",
+  "first_page": "970",
+  "last_page": "974",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "997 F.2d 970"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "1st Cir.",
+    "id": 8809,
+    "name": "United States Court of Appeals for the First Circuit"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "930 F.2d 1486",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        10548199
+      ],
+      "pin_cites": [
+        {
+          "page": "1495"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/930/1486-01"
+      ]
+    },
+    {
+      "cite": "964 F.2d 124",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        42787
+      ],
+      "pin_cites": [
+        {
+          "page": "129"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/964/0124-01"
+      ]
+    },
+    {
+      "cite": "874 F.2d 43",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1816620
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "49"
+        },
+        {
+          "page": "50"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/874/0043-01"
+      ]
+    },
+    {
+      "cite": "936 F.2d 41",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        10521874
+      ],
+      "pin_cites": [
+        {
+          "page": "43"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/936/0041-01"
+      ]
+    },
+    {
+      "cite": "932 F.2d 67",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        10541633
+      ],
+      "pin_cites": [
+        {
+          "page": "72"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/932/0067-01"
+      ]
+    },
+    {
+      "cite": "21 U.S.C. \u00a7 841",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "(a)(1)"
+        },
+        {
+          "page": "22"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "994 F.2d 942",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        10516472
+      ],
+      "weight": 7,
+      "pin_cites": [
+        {
+          "page": "949"
+        },
+        {
+          "page": "949"
+        },
+        {
+          "page": "950",
+          "parenthetical": "emphasis omitted"
+        },
+        {
+          "page": "951"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/994/0942-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 680,
+    "char_count": 11759,
+    "ocr_confidence": 0.718,
+    "pagerank": {
+      "raw": 3.555980943656513e-07,
+      "percentile": 0.8855506633784441
+    },
+    "sha256": "5ee9aac53ad052cd6202b8af40aa7abe880eb8288472ac0c674dd8035d0b646e",
+    "simhash": "1:19c0c9258a002ff2",
+    "word_count": 1816
+  },
+  "last_updated": "2024-02-27T17:31:44.102237+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before BOUDIN, Circuit Judge, COFFIN, Senior Circuit Judge, and STAHL, Circuit Judge."
+    ],
+    "parties": [
+      "UNITED STATES of America, Appellant, v. Joseph SCLAMO, Jr., Defendant, Appellee."
+    ],
+    "opinions": [
+      {
+        "text": "COFFIN, Senior Circuit Judge.\nThis is a governmental appeal from a sentence in which the district court departed downward from the Sentencing Guidelines. The court determined that defendant\u2019s family situation revealed an aggravating circumstance making this an \u201cunusual case\u201d not contemplated by the Guidelines. Applying the modified standard of review for such cases recently announced in United States v. Rivera, 994 F.2d 942 (1st Cir.1993), we affirm.\nDefendant Joseph Sclamo, Jr. was arrested for attempting to deliver nine and one-half ounces of cocaine to undercover agents. He pled guilty to a single count of possession with intent to distribute, in violation of 21 U.S.C. \u00a7 841(a)(1). Under the Guidelines, Sclamo\u2019s offense level was 17, and his criminal history category was II. The district court, however, treated Sclamo\u2019s criminal history category as I because it considered the higher category to overrepresent the severity of defendant\u2019s criminal history. The government recommended a 28-month sentence, with 36 months of supervised release, and an assessment of $50.\nSclamo requested a downward departure based on his domestic situation. For some three years, he had been living with a woman and her two children and had developed a special and crucially important relationship with the twelve-year-old son, James. Sclamo urged that his presence at home was vital to James, who was in need of his continuing companionship and guidance. Two letters from James\u2019s psychologist were submitted with Sclamo\u2019s motion.\nAccording to the first letter, written in April, 1992, since age 5, James continually had been abused physically by his alcoholic biological father. James began to display aggressive and disruptive behavior at home and in school and was placed in a behavior disorder class. Eventually, he was diagnosed as possessing \u201cattention deficit hyperactivity disorder\u201d and was referred to the psychologist for individual psychotherapy on a weekly outreach basis to help him develop \u201cmore effective coping skills.\u201d\nJames\u2019s mother divorced his father in 1989. In the same year Sclamo began to live with James\u2019s family. The psychologist saw Sclamo weekly, giving him and James\u2019s mother instruction in parenting skills and behavior modification techniques. The psychologist praised Sclamo as \u201cvery supportive, concerned, and mature in his judgement and follow through.\u201d The psychologist stated that James now views Sclamo as his stepfather, with whom he has developed a \u201cwarm and trusting relationship ... resulting in a dramatic reduction in aggressive acting out,\u201d an absence of school suspensions, and improved grades.\nThe psychologist concluded that Sclamo played a major positive role in James\u2019s therapy and that his continued presence was \u201cnecessary for James\u2019s increasing progress.\u201d The psychologist warned that Sclamo\u2019s \u201cremoval from the family would rob all members of a critical source of affection and positive care and clinically could trigger a major regression in James\u2019s stability and emotional development.\u201d\nSix months later, a month before the sentencing hearing, the psychologist reported in a second letter that James\u2019s progress both at home and at school was continuing. James was now in a \u201cmain stream class.\u201d The psychologist credited Sclamo\u2019s \u201congoing and persistent efforts ... to set clear and firm limits with James.\u201d Noting that Sclamo \u201chas played a tremendous role in James\u2019s progress and continues to be the only available resource for positive male bonding,\u201d the psychologist recommended that defendant be allowed to continue to live at home, where he could serve as a \u201cpositive father surrogate for this 12 year old boy who is most needy for continued positive guidance and companionship to insure appropriate maturational development.\u201d\nBased on this information, the court concluded that a downward departure was appropriate. It recognized \u201cthat ordinarily family circumstances do not constitute a basis for downward departure\u201d but felt that precedents in which courts have departed downward \u201care very much like this one in which there is evidence of an exceptional kind of relationship and an exceptional risk of harm to a child if that relationship is broken.\u201d Tr. at 22-23. The court further credited the two reports from the psychologist as constituting\na very compelling set of evidence about a personal relationship that I don\u2019t think there\u2019s any reason to believe arose with any purpose of escaping criminal responsibility but has occurred independently of that, and it is, I think, a circumstance beyond in degree and nature those that were taken into account in the guidelines.\nId. at 22. It accordingly sentenced Sclamo to three years\u2019 probation, with confinement at home for six months, subject to permission from the Chief Probation Officer to leave home for work, shopping, and medical attention.\nOn appeal, the government contends that family relationships are not a basis for departure. It notes that imprisonment necessarily disrupts such relationships and that the sentencing guidelines provide that \u201c[fjamily ties and responsibilities ... are not ordinarily relevant\u201d in determining whether departure is appropriate. See USSG \u00a7 5H1.6. The government further cites a number of cases in which this court has refused to allow downward departures based on family circumstances. See, e.g., United States v. Carr, 932 F.2d 67, 72 (1st Cir.1991).\nThe government also alleges that, even if departure is permitted based on family ties, Selamo\u2019s situation is not sufficiently compelling to warrant leniency. The government points out that Sclamo is not James\u2019s biological father and that their relationship has not been longstanding. Additionally, it urges that defendant\u2019s involvement in distributing cocaine in the fall of 1989 justified the recommended sentence of 28 months\u2019 incarceration.\nThe resolution of this appeal is governed by our recent pronouncements in United States v. Rivera. As Rivera makes clear, the Guidelines say only that family circumstances do not ordinarily warrant departure. See 994 F.2d at 948 (citing U.S.S.G. Ch. 5, Pt. H). Thus, while discouraging departures on this ground, the Guidelines recognize that \u201cspecial, unusual or other-than-ordinary circumstances,\u201d id, at 948, may be considered as a basis for departure. Indeed, our earlier cases do not hold that district courts lack authority to depart on this ground but merely illustrate circumstances not sufficiently extraordinary to warrant departure. See, e.g., United States v. Rushby, 936 F.2d 41, 43 (1st Cir.1991).\nWe briefly recapitulate the approach Rivera suggests when a departure from the Guidelines is requested. The district court first should ask: \u201cWhat features of this case, potentially, take it outside the Guidelines\u2019 \u2018heartland\u2019 and make of it a special, or unusual, case?\u201d Rivera, 994 F.2d at 949. In cases like this, where the special features are discouraged, the court should \u201cgo on to decide whether the case is nonetheless not \u2018ordinary,\u2019 i.e., whether the case differs from the ordinary case in which those features are present.\u201d Id. If the case is not ordinary, the court then may consider departure, deriving whatever guidance it can from the Guidelines, but, ultimately, \u201cdrawing upon experience and informed judgment,\u201d id. at 949. If the court decides to depart, \u201cit must explain how the case (compared to other cases where the reason is present) is special-\u201d Id. at 950 (emphasis omitted).\nAs for our role in reviewing such departure decisions, Rivera modified our prescriptions in United States v. Diaz-Villafane, 874 F.2d 43 (1st Cir.1989). In Diaz-Villafane, we said that review of the district judge\u2019s determination that circumstances were \u201cof a kind or degree that they may appropriately be relied upon to justify departure\u201d was \u201cessentially plenary,\u201d id. at 49. Following Rivera, however, we now \u201creview the district court\u2019s determination of unusualness with full awareness of, and respect for, the trier\u2019s superior feel for the ease, ... not with the understanding that review is plenary.\u201d Rivera, 994 F.2d at 951 (quoting Diaz-Villafane, 874 F.2d at 50) (internal quotation marks omitted).\nWith this background and without repeating the essential facts in the two reports credited by the district court, we see a number of special factors that transform Sclamo\u2019s situation into an extraordinary one meriting the downward departure. See, e.g., United States v. Johnson, 964 F.2d 124, 129 (2d Cir.1992) (affirming departure for defendant who \u201cfaced more than the responsibilities of an ordinary parent, more even than those of an ordinary single parent\u201d as sole caregiver of 4 very young children); United States v. Pena, 930 F.2d 1486, 1495 (10th Cir.1991) (affirming departure to avoid placing infant children at risk).\nAs an initial matter, we cannot fault the district court\u2019s conclusion that the psychological treatment and observations of James were not contrived or fabricated to assist Sclamo. James\u2019s referral for individual psychotherapy, made by a case worker with no connection to defendant, predated the circumstances giving rise to this case. Moreover, the psychologist\u2019s reports are based on a long history of personal observation, interaction, and treatment not only of James but of defendant as well. The district court, therefore, was entitled to credit the psychologist\u2019s professional judgment of the critical and unique role played by defendant in James\u2019s treatment.\nTurning to the family ties at issue, we think that Sclamo\u2019s situation is readily distinguished from ordinary cases, where one can only speculate about the stresses that incarceration of a family member might cause. In this case, there is evidence not only that James already suffers from a clinical disorder, but that his condition will deteriorate if defendant is incarcerated. Sclamo has a track record of steady and effective support and guidance of James over a lengthy period during which Sclamo was both instructed and monitored by a psychologist. The psychologist\u2019s prognosis that James would risk regression and harm if defendant were incarcerated amply supports the district court\u2019s determination that Sclamo\u2019s relationship to James is sufficiently extraordinary to sustain a downward departure.\nWe therefore think that, under our present more restricted standard of review, the decision made by the district court must be affirmed. We acknowledge that our own analysis of the circumstances setting this case apart from the ordinary case is more lengthy and detailed than that of the district court. In future cases we would expect, in line with our general discussion in Rivera, a very deliberate discussion of the factors making the case unusual. But we see no purpose served in this case, decided below without the benefit of our recent guidance, in remanding to make explicit what was implicit.\nAffirmed.\n. Sclamo\u2019s arrest stemmed from his involvement in a DEA operation targeting his father. The father was charged with two counts of drug offenses, to which he pled guilty, and was sentenced with defendant. The father received a sentence of 54 months of imprisonment, 36 months of supervised release, and an assessment of $100.\n. James's father eventually was subjected to a restraining order and then given a two-year suspended sentence for abuse.",
+        "type": "majority",
+        "author": "COFFIN, Senior Circuit Judge."
+      }
+    ],
+    "attorneys": [
+      "Brien T. O\u2019Connor, Asst. U.S. Atty., with whom A. John Pappalardo, U.S. Atty., Boston, MA, was on brief, for appellant.",
+      "James R. Lemire, Holden, MA, for appel-lee."
+    ],
+    "corrections": "",
+    "head_matter": "UNITED STATES of America, Appellant, v. Joseph SCLAMO, Jr., Defendant, Appellee.\nNo. 93-1089.\nUnited States Court of Appeals, First Circuit.\nHeard May 7, 1993.\nDecided July 7, 1993.\nBrien T. O\u2019Connor, Asst. U.S. Atty., with whom A. John Pappalardo, U.S. Atty., Boston, MA, was on brief, for appellant.\nJames R. Lemire, Holden, MA, for appel-lee.\nBefore BOUDIN, Circuit Judge, COFFIN, Senior Circuit Judge, and STAHL, Circuit Judge."
+  },
+  "file_name": "0970-01",
+  "first_page_order": 1022,
+  "last_page_order": 1026
+}

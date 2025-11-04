@@ -1,0 +1,97 @@
+{
+  "id": 4280357,
+  "name": "ALLEGHENY COUNTY DEPUTY SHERIFFS' ASSOCIATION, Petitioner v. PENNSYLVANIA LABOR RELATIONS BOARD, Respondent",
+  "name_abbreviation": "Allegheny County Deputy Sheriffs' Ass'n v. Pennsylvania Labor Relations Board",
+  "decision_date": "2013-11-26",
+  "docket_number": "No. 236 WAL 2013",
+  "first_page": "349",
+  "last_page": "350",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "622 Pa. 349"
+    },
+    {
+      "type": "parallel",
+      "cite": "80 A.3d 772"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "68 A.3d 6",
+      "category": "reporters:state_regional",
+      "reporter": "A.3d",
+      "case_ids": [
+        7306947
+      ],
+      "pin_cites": [
+        {
+          "page": "12"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a3d/68/0006-01"
+      ]
+    },
+    {
+      "cite": "41 A.3d 839",
+      "category": "reporters:state_regional",
+      "reporter": "A.3d",
+      "case_ids": [
+        4208668,
+        7314974
+      ],
+      "year": 2012,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/615/0126-01",
+        "/a3d/41/0839-01"
+      ]
+    },
+    {
+      "cite": "615 Pa. 126",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        4208668
+      ],
+      "year": 2012,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/615/0126-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 138,
+    "char_count": 1646,
+    "ocr_confidence": 0.693,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.14368019139339783
+    },
+    "sha256": "8e16422648026112d9cff7024cbfa25762663e878fe86c913ad88c3d43a17824",
+    "simhash": "1:d1cf3ae606000c3f",
+    "word_count": 257
+  },
+  "last_updated": "2024-02-27T16:59:34.878718+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "file_name": "0349-01",
+  "first_page_order": 393,
+  "last_page_order": 394
+}

@@ -1,0 +1,66 @@
+{
+  "id": 12519847,
+  "name": "UNITED STATES of America, Plaintiff-Appellee, v. Ira Vincent SPEARMAN, Defendant-Appellant.",
+  "name_abbreviation": "United States v. Spearman",
+  "decision_date": "2019-01-18",
+  "docket_number": "No. 16-55177",
+  "first_page": "958",
+  "last_page": "959",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "913 F.3d 958"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "9th Cir.",
+    "id": 18869,
+    "name": "United States Court of Appeals for the Ninth"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "28 U.S.C. \u00a7 2255",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "21 U.S.C. \u00a7 841",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "pin_cites": [
+        {
+          "page": "(b)(1)(B)"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "124 Stat. 2372",
+      "category": "laws:leg_session",
+      "reporter": "Stat.",
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 171,
+    "char_count": 1741,
+    "sha256": "d2b15e69366f53b9ef3c1c99786c2c155173a7d4663ad0867c33f0f9146976ee",
+    "simhash": "1:bda2c5c011108b27",
+    "word_count": 279
+  },
+  "last_updated": "2024-02-27T18:46:17.308091+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "file_name": "0958-01",
+  "first_page_order": 958,
+  "last_page_order": 959
+}

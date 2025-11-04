@@ -1,0 +1,63 @@
+{
+  "id": 4205499,
+  "name": "COMMONWEALTH of Pennsylvania, Respondent v. Vincent A. COLLIER, Petitioner",
+  "name_abbreviation": "Commonwealth v. Collier",
+  "decision_date": "2011-09-30",
+  "docket_number": "No. 44 EM 2011",
+  "first_page": "4",
+  "last_page": "5",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "612 Pa. 4"
+    },
+    {
+      "type": "parallel",
+      "cite": "29 A.3d 762"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 56,
+    "char_count": 492,
+    "ocr_confidence": 0.69,
+    "sha256": "228b57b8e3d480220c370edda375c05d0580279f074042a517302701631c2e45",
+    "simhash": "1:c42c1227f1c29b34",
+    "word_count": 81
+  },
+  "last_updated": "2023-07-14T19:33:52.292960+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "COMMONWEALTH of Pennsylvania, Respondent v. Vincent A. COLLIER, Petitioner."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nPER CURIAM.\nAnd now this 30th day of September, 2011, the Petition for Leave to File Petition for Allowance of Appeal Nunc Pro Tunc is GRANTED. See Pa.R.Crim.P. 122 (a defendant is entitled to a counsel-prepared Petition for Allowance of Appeal on direct appeal). Counsel is directed to file the petition within 14 days of this order.",
+        "type": "majority",
+        "author": "PER CURIAM."
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "29 A.3d 762\nCOMMONWEALTH of Pennsylvania, Respondent v. Vincent A. COLLIER, Petitioner.\nNo. 44 EM 2011.\nSupreme Court of Pennsylvania.\nSept. 30, 2011."
+  },
+  "file_name": "0004-02",
+  "first_page_order": 48,
+  "last_page_order": 49
+}

@@ -1,0 +1,994 @@
+{
+  "id": 12519777,
+  "name": "UNITED STATES of America v. William HIRD, Appellant at No. 14-4754 United States of America v. Thomasine Tynes, Appellant at No. 14-4804 United States of America v. Robert Mulgrew, Appellant at No. 14-4812 United States of America v. Michael Lowry, Appellant at No. 15-1344 United States of America v. Willie Singletary, Appellant at No. 15-1739 United States of America v. Henry P. Alfano, aka Ed, aka Eddie, Henry P. Alfano, Appellant at No. 15-3765",
+  "name_abbreviation": "United States v. Hird",
+  "decision_date": "2019-01-18",
+  "docket_number": "Nos. 14-4754; 14-4804; 14-4812; 15-1344; 15-1739; 15-3765",
+  "first_page": "332",
+  "last_page": "356",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "913 F.3d 332"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "3rd Cir.",
+    "id": 9319,
+    "name": "United States Court of Appeals for the Third Circuit"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "18 U.S.C. \u00a7 1001",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "617 F.3d 233",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        3772784
+      ],
+      "year": 2010,
+      "pin_cites": [
+        {
+          "page": "239"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/617/0233-01"
+      ]
+    },
+    {
+      "cite": "276 F.3d 131",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        9451776
+      ],
+      "year": 2002,
+      "pin_cites": [
+        {
+          "page": "148"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/276/0131-01"
+      ]
+    },
+    {
+      "cite": "658 F.3d 333",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        3837832
+      ],
+      "year": 2011,
+      "pin_cites": [
+        {
+          "page": "337"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/658/0333-01"
+      ]
+    },
+    {
+      "cite": "665 F.3d 560",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        3863162
+      ],
+      "year": 2012,
+      "pin_cites": [
+        {
+          "page": "575-577"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/665/0560-01"
+      ]
+    },
+    {
+      "cite": "232 F.2d 334",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        3765445,
+        87402,
+        87621,
+        3765110
+      ],
+      "year": 1955,
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/232/0334-01",
+        "/f2d/232/0334-02"
+      ]
+    },
+    {
+      "cite": "127 F.Supp. 405",
+      "category": "reporters:federal",
+      "reporter": "F. Supp.",
+      "case_ids": [
+        4256850
+      ],
+      "pin_cites": [
+        {
+          "page": "410"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f-supp/127/0405-01"
+      ]
+    },
+    {
+      "cite": "782 F.2d 367",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1552310
+      ],
+      "year": 1986,
+      "pin_cites": [
+        {
+          "page": "375",
+          "parenthetical": "quoting United States v. Lattimore , 127 F.Supp. 405, 410 (D. D.C.), aff'd , 232 F.2d 334 (D.C. Cir. 1955) "
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/782/0367-01"
+      ]
+    },
+    {
+      "cite": "90 F.Supp.2d 574",
+      "category": "reporters:federal",
+      "reporter": "F. Supp. 2d",
+      "year": 2000,
+      "pin_cites": [
+        {
+          "page": "583",
+          "parenthetical": "Discretionary civil fines and penalties \"may be too speculative to constitute a valid property interest.\""
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "885 F.3d 1090",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        12516267
+      ],
+      "year": 2018,
+      "pin_cites": [
+        {
+          "page": "1094"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/885/1090-01"
+      ]
+    },
+    {
+      "cite": "529 U.S. 848",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        9509211
+      ],
+      "weight": 3,
+      "year": 2000,
+      "pin_cites": [
+        {
+          "page": "858"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/529/0848-01"
+      ]
+    },
+    {
+      "cite": "18 U.S.C. \u00a7 3742",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "pin_cites": [
+        {
+          "page": "(a)"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "18 U.S.C. \u00a7 3231",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "736 F.2d 87",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        587826
+      ],
+      "weight": 2,
+      "year": 1984,
+      "pin_cites": [
+        {
+          "page": "91"
+        },
+        {
+          "page": "91"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/736/0087-01"
+      ]
+    },
+    {
+      "cite": "530 F.3d 137",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        6054134
+      ],
+      "year": 2008,
+      "pin_cites": [
+        {
+          "page": "191-92"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/530/0137-01"
+      ]
+    },
+    {
+      "cite": "284 U.S. 390",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        5718921
+      ],
+      "weight": 3,
+      "year": 1932,
+      "pin_cites": [
+        {
+          "page": "393"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/284/0390-01"
+      ]
+    },
+    {
+      "cite": "469 U.S. 57",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11958569
+      ],
+      "weight": 4,
+      "year": 1984,
+      "pin_cites": [
+        {
+          "page": "63",
+          "parenthetical": "quoting Dunn v. United States , 284 U.S. 390, 393, 52 S.Ct. 189, 76 L.Ed. 356 (1932) "
+        },
+        {
+          "parenthetical": "quoting Dunn v. United States , 284 U.S. 390, 393, 52 S.Ct. 189, 76 L.Ed. 356 (1932) "
+        },
+        {
+          "parenthetical": "quoting Dunn v. United States , 284 U.S. 390, 393, 52 S.Ct. 189, 76 L.Ed. 356 (1932) "
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/469/0057-01"
+      ]
+    },
+    {
+      "cite": "126 F.2d 151",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1081704
+      ],
+      "weight": 3,
+      "year": 1942,
+      "pin_cites": [
+        {
+          "page": "153"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/126/0151-01"
+      ]
+    },
+    {
+      "cite": "33 F.3d 1396",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        10533783
+      ],
+      "year": 1994,
+      "pin_cites": [
+        {
+          "page": "1416"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/33/1396-01"
+      ]
+    },
+    {
+      "cite": "577 F.2d 194",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        879584
+      ],
+      "weight": 2,
+      "year": 1978,
+      "pin_cites": [
+        {
+          "page": "198"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/577/0194-01"
+      ]
+    },
+    {
+      "cite": "519 U.S. 482",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11596238
+      ],
+      "weight": 3,
+      "year": 1997,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/519/0482-01"
+      ]
+    },
+    {
+      "cite": "828 F.2d 1010",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1747973
+      ],
+      "weight": 2,
+      "year": 1987,
+      "pin_cites": [
+        {
+          "page": "1015"
+        },
+        {
+          "page": "1015"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/828/1010-01"
+      ]
+    },
+    {
+      "cite": "548 F.2d 75",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        993409
+      ],
+      "year": 1977,
+      "pin_cites": [
+        {
+          "page": "86"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/548/0075-01"
+      ]
+    },
+    {
+      "cite": "157 F.3d 1042",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        11683488
+      ],
+      "year": 1998,
+      "pin_cites": [
+        {
+          "page": "1043"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/157/1042-01"
+      ]
+    },
+    {
+      "cite": "167 F.3d 812",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        11597764
+      ],
+      "weight": 8,
+      "year": 1999,
+      "pin_cites": [
+        {
+          "page": "823",
+          "parenthetical": "quoting United States v. DeZarn , 157 F.3d 1042, 1043 (6th Cir. 1998) "
+        },
+        {
+          "page": "820"
+        },
+        {
+          "page": "822"
+        },
+        {
+          "page": "821"
+        },
+        {
+          "page": "821"
+        },
+        {
+          "page": "821"
+        },
+        {
+          "page": "821"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/167/0812-01"
+      ]
+    },
+    {
+      "cite": "409 U.S. 352",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6175655
+      ],
+      "weight": 7,
+      "year": 1973,
+      "pin_cites": [
+        {
+          "page": "362"
+        },
+        {
+          "page": "361-62"
+        },
+        {
+          "page": "359"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/409/0352-01"
+      ]
+    },
+    {
+      "cite": "527 F.3d 54",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        3566569
+      ],
+      "weight": 4,
+      "year": 2008,
+      "pin_cites": [
+        {
+          "page": "75",
+          "parenthetical": "quoting U.S. Sentencing Guidelines Manual \u00a7 3C1.1 cmt. n.2 (U.S. Sentencing Comm'n 2003) "
+        },
+        {
+          "page": "78"
+        },
+        {
+          "page": "78"
+        },
+        {
+          "page": "77"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/527/0054-01"
+      ]
+    },
+    {
+      "cite": "18 U.S.C. \u00a7 1623",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "weight": 2,
+      "opinion_index": 0
+    },
+    {
+      "cite": "443 U.S. 307",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6182418
+      ],
+      "weight": 3,
+      "year": 1979,
+      "pin_cites": [
+        {
+          "page": "319"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/443/0307-01"
+      ]
+    },
+    {
+      "cite": "763 F.3d 304",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        4181827
+      ],
+      "year": 2014,
+      "pin_cites": [
+        {
+          "page": "316",
+          "parenthetical": "emphasis in original"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/763/0304-01"
+      ]
+    },
+    {
+      "cite": "726 F.3d 418",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        4073591
+      ],
+      "year": 2013,
+      "pin_cites": [
+        {
+          "page": "430",
+          "parenthetical": "en banc"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/726/0418-01"
+      ]
+    },
+    {
+      "cite": "76 L.Ed. 1289",
+      "category": "reporters:federal",
+      "reporter": "L. Ed.",
+      "year": 1932,
+      "opinion_index": 0
+    },
+    {
+      "cite": "52 S.Ct. 579",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "year": 1932,
+      "opinion_index": 0
+    },
+    {
+      "cite": "286 U.S. 554",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        3916037,
+        3916520,
+        3916683,
+        3915467,
+        3915103
+      ],
+      "year": 1932,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/286/0554-05",
+        "/us/286/0554-01",
+        "/us/286/0554-04",
+        "/us/286/0554-02",
+        "/us/286/0554-03"
+      ]
+    },
+    {
+      "cite": "56 F.2d 747",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1803051
+      ],
+      "pin_cites": [
+        {
+          "page": "749"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/56/0747-01"
+      ]
+    },
+    {
+      "cite": "527 U.S. 1",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        1248184
+      ],
+      "weight": 3,
+      "year": 1999,
+      "pin_cites": [
+        {
+          "page": "25",
+          "parenthetical": "In the criminal context, the court focuses on the objective of the scheme rather than its actual outcome; what operatives intended to do, not whether they were successful in doing it."
+        },
+        {
+          "parenthetical": "In the criminal context, the court focuses on the objective of the scheme rather than its actual outcome; what operatives intended to do, not whether they were successful in doing it."
+        },
+        {
+          "parenthetical": "In the criminal context, the court focuses on the objective of the scheme rather than its actual outcome; what operatives intended to do, not whether they were successful in doing it."
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/527/0001-01"
+      ]
+    },
+    {
+      "cite": "108 S.Ct. 316",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        601099
+      ],
+      "weight": 9,
+      "pin_cites": [
+        {
+          "page": "25"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/484/0019-01"
+      ]
+    },
+    {
+      "cite": "544 U.S. 349",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        5907297
+      ],
+      "weight": 18,
+      "year": 2005,
+      "pin_cites": [
+        {
+          "page": "353"
+        },
+        {
+          "page": "355-56"
+        },
+        {
+          "page": "356"
+        },
+        {
+          "page": "355"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/544/0349-01"
+      ]
+    },
+    {
+      "cite": "35 U.S.C. \u00a7 261",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "7 A.2d 466",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "year": 1939,
+      "pin_cites": [
+        {
+          "page": "472"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "336 Pa. 17",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1195570
+      ],
+      "year": 1939,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/336/0017-01"
+      ]
+    },
+    {
+      "cite": "29 F.3d 112",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        1840528
+      ],
+      "weight": 6,
+      "year": 1994,
+      "pin_cites": [
+        {
+          "page": "115",
+          "parenthetical": "\"a grant of a right of exclusion\""
+        },
+        {
+          "page": "115"
+        },
+        {
+          "page": "115"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/29/0112-01"
+      ]
+    },
+    {
+      "cite": "531 U.S. 12",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        9505346
+      ],
+      "weight": 37,
+      "year": 2000,
+      "pin_cites": [
+        {
+          "page": "22"
+        },
+        {
+          "page": "26-27"
+        },
+        {
+          "page": "21"
+        },
+        {
+          "page": "21-22"
+        },
+        {
+          "page": "22"
+        },
+        {
+          "page": "23"
+        },
+        {
+          "page": "23-24"
+        },
+        {
+          "page": "24"
+        },
+        {
+          "page": "22"
+        },
+        {
+          "page": "20-21"
+        },
+        {
+          "page": "23"
+        },
+        {
+          "page": "24-25"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/531/0012-01"
+      ]
+    },
+    {
+      "cite": "483 U.S. 350",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        28213
+      ],
+      "weight": 8,
+      "year": 1987,
+      "pin_cites": [
+        {
+          "page": "360"
+        },
+        {
+          "page": "358"
+        },
+        {
+          "page": "358"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/483/0350-01"
+      ]
+    },
+    {
+      "cite": "442 U.S. 330",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        1531959
+      ],
+      "weight": 3,
+      "year": 1979,
+      "pin_cites": [
+        {
+          "page": "338"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/442/0330-01"
+      ]
+    },
+    {
+      "cite": "908 F.2d 278",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        10534472
+      ],
+      "year": 1990,
+      "pin_cites": [
+        {
+          "page": "280"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/908/0278-01"
+      ]
+    },
+    {
+      "cite": "2013 WL 3305217",
+      "category": "reporters:specialty_west",
+      "reporter": "WL",
+      "weight": 2,
+      "year": 2013,
+      "pin_cites": [
+        {
+          "page": "*7",
+          "parenthetical": "quoting United States v. Granberry , 908 F.2d 278, 280 (8th Cir. 1990) "
+        },
+        {
+          "page": "*7"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "392 F.3d 580",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        9189231
+      ],
+      "weight": 2,
+      "year": 2004,
+      "pin_cites": [
+        {
+          "page": "583"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/392/0580-01"
+      ]
+    },
+    {
+      "cite": "793 F.3d 350",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        4278605
+      ],
+      "year": 2015,
+      "pin_cites": [
+        {
+          "page": "352"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/793/0350-01"
+      ]
+    },
+    {
+      "cite": "18 U.S.C. \u00a7 1343",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "18 U.S.C. \u00a7 1341",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "weight": 5,
+      "pin_cites": [
+        {
+          "page": "18"
+        },
+        {
+          "page": "185",
+          "parenthetical": "Indictment \u00b6 1"
+        },
+        {
+          "page": "9"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "18 U.S.C. \u00a7 1349",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 2256,
+    "char_count": 69709,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.25916047615131227
+    },
+    "sha256": "1b4fe01d0a200f903bad1abe2e132cf4c2113e95f440764f169a38fbdd23b120",
+    "simhash": "1:bce3e427c64b9413",
+    "word_count": 11442
+  },
+  "last_updated": "2024-02-27T18:46:17.308091+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "file_name": "0332-01",
+  "first_page_order": 332,
+  "last_page_order": 356
+}

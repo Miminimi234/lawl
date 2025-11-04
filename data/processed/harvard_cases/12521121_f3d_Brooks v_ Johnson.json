@@ -1,0 +1,915 @@
+{
+  "id": 12521121,
+  "name": "Altony BROOKS, Plaintiff - Appellant, v. Lieutenant JOHNSON; Captain Jacumin; Officer Fludd, Defendants - Appellees, and Hill Finklea Detention Center; Officer John Doe; Nurse John Doe; Officer John Doe; Officer Greene; Officer Johnson; Berkeley County Sheriff's Office, Defendants. Altony Brooks, Plaintiff - Appellant, v. Lieutenant Johnson; Captain Jacumin; Officer Fludd, Defendants - Appellees, and Hill Finklea Detention Center; Officer John Doe; Nurse John Doe; Officer John Doe; Officer Greene; Officer Johnson; Berkeley County Sheriff's Office, Defendants.",
+  "name_abbreviation": "Brooks v. Johnson",
+  "decision_date": "2019-05-10",
+  "docket_number": "No. 17-7261; No. 17-7448",
+  "first_page": "104",
+  "last_page": "122",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "924 F.3d 104"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "4th Cir.",
+    "id": 8954,
+    "name": "United States Court of Appeals for the Fourth Circuit"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "357 F.3d 197",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        9056796
+      ],
+      "year": 2004,
+      "pin_cites": [
+        {
+          "page": "205"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/357/0197-01"
+      ]
+    },
+    {
+      "cite": "357 F. App'x 532",
+      "category": "reporters:federal",
+      "reporter": "F. App'x",
+      "case_ids": [
+        3850464,
+        3845790
+      ],
+      "year": 2009,
+      "pin_cites": [
+        {
+          "page": "536",
+          "parenthetical": "per curiam"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f-appx/357/0532-01",
+        "/f-appx/357/0532-02"
+      ]
+    },
+    {
+      "cite": "85 F.3d 1113",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        571839
+      ],
+      "year": 1996,
+      "pin_cites": [
+        {
+          "page": "1118",
+          "parenthetical": "en banc"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/85/1113-01"
+      ]
+    },
+    {
+      "cite": "131 F.3d 1092",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        11889989
+      ],
+      "year": 1997,
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/131/1092-01"
+      ]
+    },
+    {
+      "cite": "135 S. Ct. 2466",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        12590968
+      ],
+      "weight": 2,
+      "year": 2015,
+      "pin_cites": [
+        {
+          "page": "2473"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/s-ct/135/2466-01"
+      ]
+    },
+    {
+      "cite": "43 F.3d 922",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        11312710
+      ],
+      "year": 1995,
+      "pin_cites": [
+        {
+          "page": "929"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/43/0922-01"
+      ]
+    },
+    {
+      "cite": "285 F. App'x 5",
+      "category": "reporters:federal",
+      "reporter": "F. App'x",
+      "case_ids": [
+        3423196
+      ],
+      "year": 2008,
+      "pin_cites": [
+        {
+          "page": "7",
+          "parenthetical": "finding that plaintiff demonstrated \"good cause\" under Rule 4(m), despite failing to submit the proper form to the Marshals, when he did not receive Service of Process forms and made substantial attempts to comply with the service rules"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f-appx/285/0005-01"
+      ]
+    },
+    {
+      "cite": "583 F.3d 1284",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        5757345
+      ],
+      "year": 2009,
+      "pin_cites": [
+        {
+          "page": "1287",
+          "parenthetical": "collecting cases"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/583/1284-01"
+      ]
+    },
+    {
+      "cite": "919 F.3d 789",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        12520592
+      ],
+      "year": 2019,
+      "pin_cites": [
+        {
+          "page": "809"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/919/0789-01"
+      ]
+    },
+    {
+      "cite": "372 F.3d 267",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        9231380
+      ],
+      "year": 2004,
+      "pin_cites": [
+        {
+          "page": "279",
+          "parenthetical": "in applying the \"clearly established\" qualified immunity standard, we look \"ordinarily to the decisions of the Supreme Court, this court of appeals, and the highest court of the state in which the case arose\" (internal quotation marks omitted)"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/372/0267-01"
+      ]
+    },
+    {
+      "cite": "828 F.3d 227",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        4336908
+      ],
+      "weight": 2,
+      "year": 2016,
+      "pin_cites": [
+        {
+          "page": "238",
+          "parenthetical": "internal quotation marks omitted"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/828/0227-01"
+      ]
+    },
+    {
+      "cite": "737 F.2d 368",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        669816
+      ],
+      "year": 1984,
+      "pin_cites": [
+        {
+          "page": "372",
+          "parenthetical": "\"Even when a prisoner's conduct warrants some form of response, evolving norms of decency require prison officials to use techniques and procedures that are both humane and restrained.\""
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/737/0368-01"
+      ]
+    },
+    {
+      "cite": "709 F.3d 563",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        3546692
+      ],
+      "year": 2013,
+      "pin_cites": [
+        {
+          "page": "569",
+          "parenthetical": "explaining that \"[d]irect evidence ... is not necessary\" to prevail on the subjective element of an Eighth Amendment claim"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/709/0563-01"
+      ]
+    },
+    {
+      "cite": "536 U.S. 730",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        1255220
+      ],
+      "weight": 3,
+      "year": 2002,
+      "pin_cites": [
+        {
+          "page": "738"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/536/0730-01"
+      ]
+    },
+    {
+      "cite": "878 F.3d 89",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        12263542
+      ],
+      "weight": 13,
+      "year": 2017,
+      "pin_cites": [
+        {
+          "page": "99, 102",
+          "parenthetical": "force applied against inmate \"in retaliation for filing grievances\" is used \"maliciously and sadistically to cause harm\" under Whitley (internal quotation marks omitted)"
+        },
+        {
+          "page": "106",
+          "parenthetical": "applying qualified immunity analysis to excessive force claim under Whitley standard"
+        },
+        {
+          "page": "99",
+          "parenthetical": "internal quotation marks omitted"
+        },
+        {
+          "page": "106",
+          "parenthetical": "\"For claims where intent is an element, an official's state of mind is a reference point by which she can reasonably assess conformity to the law because the case law is intent-specific.\""
+        },
+        {
+          "page": "102"
+        },
+        {
+          "page": "103"
+        },
+        {
+          "page": "97-98",
+          "parenthetical": "discussing Whitley 's subjective component"
+        },
+        {
+          "page": "102"
+        },
+        {
+          "page": "105"
+        },
+        {
+          "page": "106"
+        },
+        {
+          "page": "102"
+        },
+        {
+          "page": "106",
+          "parenthetical": "discussing deliberate indifference and excessive force claims together"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/878/0089-01"
+      ]
+    },
+    {
+      "cite": "859 F.2d 534",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        10529183
+      ],
+      "year": 1988,
+      "pin_cites": [
+        {
+          "page": "547",
+          "parenthetical": "in employment discrimination context, evidence of improper motive for one action can support inference that other actions close in time also were improperly motivated"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/859/0534-01"
+      ]
+    },
+    {
+      "cite": "690 F.3d 490",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        3503751
+      ],
+      "year": 2012,
+      "pin_cites": [
+        {
+          "page": "497-98",
+          "parenthetical": "holding that jury could find taser shock unreasonable under Fourth Amendment where suspect \"disoriented\" from prior taser deployment was given only 30 seconds to comply with officer's order"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/690/0490-01"
+      ]
+    },
+    {
+      "cite": "537 F. App'x 283",
+      "category": "reporters:federal",
+      "reporter": "F. App'x",
+      "case_ids": [
+        3631355
+      ],
+      "weight": 5,
+      "year": 2013,
+      "pin_cites": [
+        {
+          "page": "285-86"
+        },
+        {
+          "page": "286, 294",
+          "parenthetical": "finding that use of force against detainee after \" 'abrasive' and inappropriate language\" - including profanity and threats of violence - was \"provoked by the detainee's verbal tirade and/or his intransigence\" rather than by good faith effort to compel cooperation with picture-taking"
+        },
+        {
+          "page": "294"
+        },
+        {
+          "page": "290",
+          "parenthetical": "internal quotation marks omitted"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f-appx/537/0283-01"
+      ]
+    },
+    {
+      "cite": "736 F.2d 963",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        587652
+      ],
+      "year": 1984,
+      "pin_cites": [
+        {
+          "page": "970",
+          "parenthetical": "rejecting rule that use of mace against recalcitrant inmate may be justified only by threat to physical safety"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/736/0963-01"
+      ]
+    },
+    {
+      "cite": "490 U.S. 386",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        605535
+      ],
+      "weight": 3,
+      "year": 1989,
+      "pin_cites": [
+        {
+          "page": "397-98",
+          "parenthetical": "contrasting standards and emphasizing focus on \"subjective motivations of the individual officers\" under the Eighth Amendment"
+        },
+        {
+          "parenthetical": "contrasting standards and emphasizing focus on \"subjective motivations of the individual officers\" under the Eighth Amendment"
+        },
+        {
+          "parenthetical": "contrasting standards and emphasizing focus on \"subjective motivations of the individual officers\" under the Eighth Amendment"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/490/0386-01"
+      ]
+    },
+    {
+      "cite": "523 F.3d 442",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        3784171
+      ],
+      "weight": 15,
+      "year": 2008,
+      "pin_cites": [
+        {
+          "page": "446",
+          "parenthetical": "internal quotation marks omitted"
+        },
+        {
+          "page": "447",
+          "parenthetical": "discussing importance of motive to excessive force claims under Whitley "
+        },
+        {
+          "page": "444-46"
+        },
+        {
+          "page": "446"
+        },
+        {
+          "page": "446-47",
+          "parenthetical": "internal quotation marks omitted"
+        },
+        {
+          "page": "447",
+          "parenthetical": "officer's \"verbal attempts to secure order\" do not \"lessen the unreasonableness of his subsequent actions\""
+        },
+        {
+          "page": "445-46",
+          "parenthetical": "distinguishing Fourth Amendment objective reasonableness standard from Whitley 's subjective inquiry"
+        },
+        {
+          "page": "445",
+          "parenthetical": "\"I'm suing everybody, you mother fucker.\""
+        },
+        {
+          "page": "445"
+        },
+        {
+          "page": "446-47"
+        },
+        {
+          "page": "447",
+          "parenthetical": "relying in part on violation of taser policy to support inference that taser was deployed maliciously"
+        },
+        {
+          "page": "450",
+          "parenthetical": "internal quotation marks omitted"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/523/0442-01"
+      ]
+    },
+    {
+      "cite": "535 F.3d 225",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        5896808
+      ],
+      "weight": 6,
+      "year": 2008,
+      "pin_cites": [
+        {
+          "page": "239",
+          "parenthetical": "quoting Whitley , 475 U.S. at 322, 106 S.Ct. 1078 "
+        },
+        {
+          "page": "239-40"
+        },
+        {
+          "page": "239"
+        },
+        {
+          "page": "239"
+        },
+        {
+          "page": "239-40",
+          "parenthetical": "internal quotation marks omitted"
+        },
+        {
+          "page": "240",
+          "parenthetical": "relying in part on violation of \"Use of Force Directive\" to support inference that pepper spray was administered for improper and malicious purpose"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/535/0225-01"
+      ]
+    },
+    {
+      "cite": "77 F.3d 756",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        7641618
+      ],
+      "weight": 11,
+      "year": 1996,
+      "pin_cites": [
+        {
+          "page": "761"
+        },
+        {
+          "page": "765",
+          "parenthetical": "summary judgment to prison officials improper where evidence \"supports an inference that the guards were acting to punish, rather than to quell the disturbance\""
+        },
+        {
+          "page": "764"
+        },
+        {
+          "page": "765",
+          "parenthetical": "finding that the infliction of continued pain after initial use of force supports an inference of impermissible punitive motive under Whitley "
+        },
+        {
+          "page": "765",
+          "parenthetical": "internal quotation marks omitted"
+        },
+        {
+          "page": "765",
+          "parenthetical": "internal quotation marks omitted"
+        },
+        {
+          "page": "765"
+        },
+        {
+          "page": "764"
+        },
+        {
+          "page": "766"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/77/0756-01"
+      ]
+    },
+    {
+      "cite": "810 F.3d 892",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        4060327
+      ],
+      "weight": 2,
+      "year": 2016,
+      "pin_cites": [
+        {
+          "page": "902",
+          "parenthetical": "internal quotation marks and alterations omitted"
+        },
+        {
+          "page": "903"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/810/0892-01"
+      ]
+    },
+    {
+      "cite": "559 U.S. 34",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        3582109
+      ],
+      "weight": 3,
+      "year": 2010,
+      "pin_cites": [
+        {
+          "page": "39",
+          "parenthetical": "per curiam"
+        },
+        {
+          "parenthetical": "per curiam"
+        },
+        {
+          "parenthetical": "per curiam"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/559/0034-01"
+      ]
+    },
+    {
+      "cite": "503 U.S. 1",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6219215
+      ],
+      "weight": 9,
+      "year": 1992,
+      "pin_cites": [
+        {
+          "page": "10"
+        },
+        {
+          "page": "6-7"
+        },
+        {
+          "page": "6"
+        },
+        {
+          "page": "6"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/503/0001-01"
+      ]
+    },
+    {
+      "cite": "780 F.3d 562",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        4073945
+      ],
+      "year": 2015,
+      "pin_cites": [
+        {
+          "page": "568",
+          "parenthetical": "internal quotation marks omitted"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/780/0562-01"
+      ]
+    },
+    {
+      "cite": "352 F.3d 896",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        9298332
+      ],
+      "year": 2003,
+      "pin_cites": [
+        {
+          "page": "899"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/352/0896-01"
+      ]
+    },
+    {
+      "cite": "302 F.3d 188",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        11435651
+      ],
+      "weight": 3,
+      "year": 2002,
+      "pin_cites": [
+        {
+          "page": "203"
+        },
+        {
+          "page": "203"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/302/0188-01"
+      ]
+    },
+    {
+      "cite": "28 U.S.C. \u00a7 1915",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "pin_cites": [
+        {
+          "page": "(d)"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "42 U.S.C. \u00a7 1983",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "2017 WL 3307648",
+      "category": "reporters:specialty_west",
+      "reporter": "WL",
+      "weight": 15,
+      "year": 2017,
+      "pin_cites": [
+        {
+          "page": "*3"
+        },
+        {
+          "page": "*1"
+        },
+        {
+          "page": "*3"
+        },
+        {
+          "page": "*2"
+        },
+        {
+          "page": "*3-4"
+        },
+        {
+          "page": "*3"
+        },
+        {
+          "page": "*2"
+        },
+        {
+          "page": "*3"
+        },
+        {
+          "page": "*3"
+        },
+        {
+          "page": "*3"
+        },
+        {
+          "page": "*3-4"
+        },
+        {
+          "page": "*3"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "652 F.3d 524",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        3759662
+      ],
+      "weight": 2,
+      "year": 2011,
+      "pin_cites": [
+        {
+          "page": "527",
+          "parenthetical": "en banc"
+        },
+        {
+          "page": "531"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/652/0524-01"
+      ]
+    },
+    {
+      "cite": "475 U.S. 312",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6202378
+      ],
+      "weight": 32,
+      "year": 1986,
+      "pin_cites": [
+        {
+          "page": "320-21",
+          "parenthetical": "internal quotation marks omitted"
+        },
+        {
+          "parenthetical": "internal quotation marks omitted"
+        },
+        {
+          "parenthetical": "internal quotation marks omitted"
+        },
+        {
+          "page": "320"
+        },
+        {
+          "page": "320-21"
+        },
+        {
+          "page": "320-21"
+        },
+        {
+          "page": "322"
+        },
+        {
+          "page": "320-21"
+        },
+        {
+          "page": "320-21"
+        },
+        {
+          "page": "322"
+        },
+        {
+          "parenthetical": "in employment discrimination context, evidence of improper motive for one action can support inference that other actions close in time also were improperly motivated"
+        },
+        {
+          "page": "321"
+        },
+        {
+          "page": "321"
+        },
+        {
+          "page": "321"
+        },
+        {
+          "page": "322-26"
+        },
+        {
+          "page": "321"
+        },
+        {
+          "page": "322"
+        },
+        {
+          "page": "320-21"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/475/0312-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 1714,
+    "char_count": 56893,
+    "pagerank": {
+      "raw": 4.4916476050659184e-08,
+      "percentile": 0.28182415268226063
+    },
+    "sha256": "74f25824235f7304720e2b472b955f0aa8d0a40bf70085cb381837a58185f999",
+    "simhash": "1:7c42e903ab3bf78f",
+    "word_count": 9169
+  },
+  "last_updated": "2024-02-27T18:46:58.656971+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "file_name": "0104-01",
+  "first_page_order": 104,
+  "last_page_order": 122
+}

@@ -1,0 +1,67 @@
+{
+  "id": 10521376,
+  "name": "UNITED STATES of America, Plaintiff-Appellee, v. Gene Ellis WILLIAMS, a/k/a Glenn, Defendant-Appellant",
+  "name_abbreviation": "United States v. Williams",
+  "decision_date": "1991-09-11",
+  "docket_number": "No. 91-6758",
+  "first_page": "199",
+  "last_page": "199",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "944 F.2d 199"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "4th Cir.",
+    "id": 8954,
+    "name": "United States Court of Appeals for the Fourth Circuit"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "21 U.S.C. \u00a7\u00a7 846",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "weight": 2,
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 82,
+    "char_count": 927,
+    "ocr_confidence": 0.726,
+    "sha256": "d34788952591b9822d09bf3b2b326a04dc68f35520c3b3a367328f21adf33065",
+    "simhash": "1:228696ed30f9400b",
+    "word_count": 142
+  },
+  "last_updated": "2024-02-27T20:11:57.694237+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "UNITED STATES of America, Plaintiff-Appellee, v. Gene Ellis WILLIAMS, a/k/a Glenn, Defendant-Appellant."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nUpon reconsideration of appellant\u2019s petition for rehearing, supplemental petition for rehearing, and suggestion for rehearing in banc, and upon consideration of ap-pellee\u2019s response, the panel is of the opinion that the supplemental petition should be granted insofar as it challenges the imposition of multiple convictions and sentences under 21 U.S.C. \u00a7\u00a7 846 and 848.\nIT IS THEREFORE ORDERED that the conviction and sentence imposed on count one charging conspiracy under 21 U.S.C. \u00a7 846 is vacated.\nIT IS FURTHER ORDERED that the petition for rehearing and supplemental petition for rehearing are otherwise denied. No member of this Court or the panel has requested a poll on the suggestion for rehearing in banc, and it also is denied.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "UNITED STATES of America, Plaintiff-Appellee, v. Gene Ellis WILLIAMS, a/k/a Glenn, Defendant-Appellant.\nNo. 91-6758.\nUnited States Court of Appeals, Fourth Circuit.\nSept. 11, 1991."
+  },
+  "file_name": "0199-01",
+  "first_page_order": 287,
+  "last_page_order": 287
+}

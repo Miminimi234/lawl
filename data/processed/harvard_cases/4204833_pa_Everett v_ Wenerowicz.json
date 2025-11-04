@@ -1,0 +1,63 @@
+{
+  "id": 4204833,
+  "name": "Maurice EVERETT, Petitioner v. Mike WENEROWICZ, Warden SCI Graterford Department of Corrections, Respondent",
+  "name_abbreviation": "Everett v. Wenerowicz",
+  "decision_date": "2011-09-27",
+  "docket_number": "No. 58 EM 2011",
+  "first_page": "3",
+  "last_page": "3",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "612 Pa. 3"
+    },
+    {
+      "type": "parallel",
+      "cite": "29 A.3d 761"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 49,
+    "char_count": 362,
+    "ocr_confidence": 0.683,
+    "sha256": "f66adbdcb1c3b721ea243590652e087d8b3443f42d454507b2e28df994744a8a",
+    "simhash": "1:5f3b633e97d00971",
+    "word_count": 58
+  },
+  "last_updated": "2023-07-14T19:33:52.292960+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Maurice EVERETT, Petitioner v. Mike WENEROWICZ, Warden SCI Graterford Department of Corrections, Respondent."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nPER CURIAM.\nAND NOW, this 27th day of September, 2011, the Application for Leave to File Original Process is GRANTED, and the Petition for Writ of Habeas Corpus is DENIED.",
+        "type": "majority",
+        "author": "PER CURIAM."
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "29 A.3d 761\nMaurice EVERETT, Petitioner v. Mike WENEROWICZ, Warden SCI Graterford Department of Corrections, Respondent.\nNo. 58 EM 2011.\nSupreme Court of Pennsylvania.\nSept. 27, 2011."
+  },
+  "file_name": "0003-01",
+  "first_page_order": 47,
+  "last_page_order": 47
+}

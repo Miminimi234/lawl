@@ -1,0 +1,77 @@
+{
+  "id": 12149145,
+  "name": "People v. Temelkoski",
+  "name_abbreviation": "People v. Temelkoski",
+  "decision_date": "2015-12-18",
+  "docket_number": "No. 150643; Court of Appeals No. 313670",
+  "first_page": "942",
+  "last_page": "942",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "498 Mich. 942"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Mich.",
+    "id": 8790,
+    "name": "Michigan Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 49,
+    "name_long": "Michigan",
+    "name": "Mich."
+  },
+  "cites_to": [
+    {
+      "cite": "495 Mich 33",
+      "category": "reporters:state",
+      "reporter": "Mich.",
+      "case_ids": [
+        4293587
+      ],
+      "year": 2014,
+      "opinion_index": 0,
+      "case_paths": [
+        "/mich/495/0033-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 179,
+    "char_count": 2005,
+    "ocr_confidence": 0.708,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.2465261488218039
+    },
+    "sha256": "738d52aa2f8bc276f00ac084ec5b4e68b2d101f4734c758882ee60db3ca93e15",
+    "simhash": "1:4fb3374625accfa5",
+    "word_count": 328
+  },
+  "last_updated": "2024-02-27T16:10:26.420323+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "People v Temelkoski,"
+    ],
+    "opinions": [
+      {
+        "text": "The parties shall include among the issues to be briefed: (1) whether the requirements of the Sex Offenders Registration Act (SORA), MCL 28.721 et seq., amount to \u201cpunishment,\u201d see People v Earl, 495 Mich 33 (2014); (2) whether the answer to that question is different when applied to the class of individuals who have successfully completed probation under the Holmes Youthful Trainee Act (HYTA), MCL 762.11 et seq.; (3) whether MCL 28.722(b) (defining HYTA status to be a \u201cconviction\u201d for purposes of SORA) provides the defendant constitutionally sufficient due process where the defendant is required to register pursuant to SORA as if he had been convicted of an offense, notwithstanding that upon successful completion of HYTA the court is required to \u201cdischarge the individual and dismiss the proceedings\u201d without entering an order of conviction for the crime; MCL 762.14(1); US Const, Am XIV; Const 1963, art 1, \u00a7 17; (4) whether, assuming that the requirements of SORA do not amount to \u201cpunishment\u201d as applied to the defendant, application of the civil regulatory scheme established by SORA to the defendant otherwise violates guarantees of due process; (5) whether requiring the defendant to register under SORA is an ex post facto punishment, where the registry has been made public, and other requirements enacted, only after the defendant committed the instant offense and pled guilty under HYTA, US Const, art I, \u00a7 10; Const 1963, art 1, \u00a7 10; and (6) whether it is cruel and/or unusual punishment to require the defendant to register under SORA, US Const, Am VIII; Const 1963, art 1, \u00a7 16.\nThe Criminal Defense Attorneys of Michigan and the Prosecuting Attorneys Association of Michigan are invited to file briefs amicus curiae. Other persons or groups interested in the determination of the issues presented in this case may move the Court for permission to file briefs amicus curiae.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Leave to Appeal Granted December 18, 2015:\nPeople v Temelkoski,\nNo. 150643; Court of Appeals No. 313670."
+  },
+  "file_name": "0942-01",
+  "first_page_order": 888,
+  "last_page_order": 888
+}

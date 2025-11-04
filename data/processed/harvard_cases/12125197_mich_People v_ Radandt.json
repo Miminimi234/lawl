@@ -1,0 +1,92 @@
+{
+  "id": 12125197,
+  "name": "People v. Radandt",
+  "name_abbreviation": "People v. Radandt",
+  "decision_date": "2015-07-01",
+  "docket_number": "No. 150906; Court of Appeals No. 314337",
+  "first_page": "859",
+  "last_page": "859",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "498 Mich. 859"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Mich.",
+    "id": 8790,
+    "name": "Michigan Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 49,
+    "name_long": "Michigan",
+    "name": "Mich."
+  },
+  "cites_to": [
+    {
+      "cite": "569 US 1",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        12696458
+      ],
+      "weight": 3,
+      "year": 2013,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/569/0001-01"
+      ]
+    },
+    {
+      "cite": "468 US 897",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11340969
+      ],
+      "weight": 3,
+      "year": 1984,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/468/0897-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 105,
+    "char_count": 889,
+    "ocr_confidence": 0.704,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.24568710376550912
+    },
+    "sha256": "b0d801f1338089014de00239ecf32ba425568652ecb61a952d3a1d31d8139928",
+    "simhash": "1:6d19196266e199e1",
+    "word_count": 153
+  },
+  "last_updated": "2024-02-27T16:10:26.420323+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "People v Radandt,"
+    ],
+    "opinions": [
+      {
+        "text": "The parties shall include among the issues to he briefed: (1) whether the police officers unlawfully expanded a \u201cknock and talk\u201d procedure by entering the defendant\u2019s back yard and walking onto a wooden deck, which was attached to the home, see Florida v Jardines, 569 US 1; 133 S Ct 1409; 185 L Ed 2d 495 (2013); and (2) if a constitutional violation occurred, whether the good-faith exception to the exclusionary rule applies under the facts of this case. See United States v Leon, 468 US 897; 104 S Ct 3405; 82 L Ed 2d 677 (1984).\nThe Prosecuting Attorneys Association of Michigan and the Criminal Defense Attorneys of Michigan are invited to file briefs amicus curiae. Other persons or groups interested in the determination of the issues presented in this case may move the Court for permission to file briefs amicus curiae.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "People v Radandt,\nNo. 150906; Court of Appeals No. 314337."
+  },
+  "file_name": "0859-03",
+  "first_page_order": 805,
+  "last_page_order": 805
+}

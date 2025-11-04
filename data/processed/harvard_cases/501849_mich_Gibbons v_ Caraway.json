@@ -1,0 +1,754 @@
+{
+  "id": 501849,
+  "name": "GIBBONS v. CARAWAY; MARIIN v. FLEUR, INC",
+  "name_abbreviation": "Gibbons v. Caraway",
+  "decision_date": "1997-07-22",
+  "docket_number": "Docket Nos. 102190, 102191, 102388",
+  "first_page": "314",
+  "last_page": "341",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "455 Mich. 314"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Mich.",
+    "id": 8790,
+    "name": "Michigan Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 49,
+    "name_long": "Michigan",
+    "name": "Mich."
+  },
+  "cites_to": [
+    {
+      "cite": "528 NW2d 218",
+      "category": "reporters:state_regional",
+      "reporter": "N.W.2d",
+      "year": 1995,
+      "opinion_index": -1
+    },
+    {
+      "cite": "208 Mich App 631",
+      "category": "reporters:state",
+      "reporter": "Mich. App.",
+      "case_ids": [
+        1878225
+      ],
+      "year": 1995,
+      "opinion_index": -1,
+      "case_paths": [
+        "/mich-app/208/0631-01"
+      ]
+    },
+    {
+      "cite": "456 Mich 1201",
+      "category": "reporters:state",
+      "reporter": "Mich.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "439 Mich 191",
+      "category": "reporters:state",
+      "reporter": "Mich.",
+      "pin_cites": [
+        {
+          "page": "n 4"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "429 Mich 378",
+      "category": "reporters:state",
+      "reporter": "Mich.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "439 Mich 193",
+      "category": "reporters:state",
+      "reporter": "Mich.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "1988 PA 125",
+      "category": "reporters:neutral",
+      "reporter": "PA",
+      "opinion_index": 0
+    },
+    {
+      "cite": "439 Mich 189",
+      "category": "reporters:state",
+      "reporter": "Mich.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "439 Mich 194",
+      "category": "reporters:state",
+      "reporter": "Mich.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "429 Mich 368",
+      "category": "reporters:state",
+      "reporter": "Mich.",
+      "weight": 5,
+      "pin_cites": [
+        {
+          "page": "369"
+        },
+        {
+          "page": "370"
+        },
+        {
+          "page": "371"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "429 Mich 366",
+      "category": "reporters:state",
+      "reporter": "Mich.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "308 Md 432",
+      "category": "reporters:state",
+      "reporter": "Md.",
+      "case_ids": [
+        2066354
+      ],
+      "weight": 2,
+      "year": 1987,
+      "pin_cites": [
+        {
+          "page": "447"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/md/308/0432-01"
+      ]
+    },
+    {
+      "cite": "347 NW2d 642",
+      "category": "reporters:state_regional",
+      "reporter": "N.W.2d",
+      "case_ids": [
+        10672223
+      ],
+      "year": 1984,
+      "pin_cites": [
+        {
+          "page": "645"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/nw2d/347/0642-01"
+      ]
+    },
+    {
+      "cite": "97 Nev 425",
+      "category": "reporters:state",
+      "reporter": "Nev.",
+      "case_ids": [
+        4818232
+      ],
+      "weight": 2,
+      "year": 1981,
+      "pin_cites": [
+        {
+          "page": "427"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/nev/97/0425-01"
+      ]
+    },
+    {
+      "cite": "429 Mich 371",
+      "category": "reporters:state",
+      "reporter": "Mich.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "450 Mich 964",
+      "category": "reporters:state",
+      "reporter": "Mich.",
+      "weight": 2,
+      "year": 1996,
+      "opinion_index": 0
+    },
+    {
+      "cite": "482 NW2d 696",
+      "category": "reporters:state_regional",
+      "reporter": "N.W.2d",
+      "year": 1992,
+      "opinion_index": 0
+    },
+    {
+      "cite": "439 Mich 186",
+      "category": "reporters:state",
+      "reporter": "Mich.",
+      "case_ids": [
+        2017503
+      ],
+      "weight": 2,
+      "year": 1992,
+      "opinion_index": 0,
+      "case_paths": [
+        "/mich/439/0186-01"
+      ]
+    },
+    {
+      "cite": "415 NW2d 178",
+      "category": "reporters:state_regional",
+      "reporter": "N.W.2d",
+      "year": 1987,
+      "opinion_index": 0
+    },
+    {
+      "cite": "429 Mich 347",
+      "category": "reporters:state",
+      "reporter": "Mich.",
+      "case_ids": [
+        1993212
+      ],
+      "weight": 3,
+      "year": 1987,
+      "pin_cites": [
+        {
+          "page": "372"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mich/429/0347-01"
+      ]
+    },
+    {
+      "cite": "528 NW2d 218",
+      "category": "reporters:state_regional",
+      "reporter": "N.W.2d",
+      "year": 1995,
+      "opinion_index": 0
+    },
+    {
+      "cite": "208 Mich App 631",
+      "category": "reporters:state",
+      "reporter": "Mich. App.",
+      "case_ids": [
+        1878225
+      ],
+      "year": 1995,
+      "opinion_index": 0,
+      "case_paths": [
+        "/mich-app/208/0631-01"
+      ]
+    },
+    {
+      "cite": "491 US 58",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6210401
+      ],
+      "weight": 3,
+      "year": 1989,
+      "pin_cites": [
+        {
+          "parenthetical": "a state official sued in his official capacity for retroactive relief is not a \"person\" for purposes of a damage suit under \u00a7.1983"
+        },
+        {
+          "parenthetical": "a state official sued in his official capacity for retroactive relief is not a \"person\" for purposes of a damage suit under \u00a7.1983"
+        },
+        {
+          "parenthetical": "a state official sued in his official capacity for retroactive relief is not a \"person\" for purposes of a damage suit under \u00a7.1983"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/us/491/0058-01"
+      ]
+    },
+    {
+      "cite": "410 NW2d 749",
+      "category": "reporters:state_regional",
+      "reporter": "N.W.2d",
+      "year": 1987,
+      "opinion_index": 1
+    },
+    {
+      "cite": "428 Mich 540",
+      "category": "reporters:state",
+      "reporter": "Mich.",
+      "case_ids": [
+        1995081
+      ],
+      "year": 1987,
+      "opinion_index": 1,
+      "case_paths": [
+        "/mich/428/0540-01"
+      ]
+    },
+    {
+      "cite": "487 NW2d 106",
+      "category": "reporters:state_regional",
+      "reporter": "N.W.2d",
+      "year": 1992,
+      "pin_cites": [
+        {
+          "parenthetical": "negligence does not amount to deliberate indifference for purposes of 42 USC 1983"
+        }
+      ],
+      "opinion_index": 1
+    },
+    {
+      "cite": "439 Mich 408",
+      "category": "reporters:state",
+      "reporter": "Mich.",
+      "case_ids": [
+        2017467
+      ],
+      "year": 1992,
+      "pin_cites": [
+        {
+          "page": "428",
+          "parenthetical": "negligence does not amount to deliberate indifference for purposes of 42 USC 1983"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/mich/439/0408-01"
+      ]
+    },
+    {
+      "cite": "34 F3d 345",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        10523227
+      ],
+      "year": 1994,
+      "pin_cites": [
+        {
+          "parenthetical": "injury caused by negligence does not constitute deprivation of a constitutionally protected interest for purposes of 42 USC 1983"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/f3d/34/0345-01"
+      ]
+    },
+    {
+      "cite": "894 F Supp 310",
+      "category": "reporters:federal",
+      "reporter": "F. Supp.",
+      "case_ids": [
+        7830599
+      ],
+      "year": 1995,
+      "pin_cites": [
+        {
+          "parenthetical": "government officials performing discretionary functions are shielded from civil liability where their conduct does not violate clearly established statutory or constitutional rights"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/f-supp/894/0310-01"
+      ]
+    },
+    {
+      "cite": "482 NW2d 696",
+      "category": "reporters:state_regional",
+      "reporter": "N.W.2d",
+      "year": 1992,
+      "opinion_index": 1
+    },
+    {
+      "cite": "439 Mich 186",
+      "category": "reporters:state",
+      "reporter": "Mich.",
+      "case_ids": [
+        2017503
+      ],
+      "year": 1992,
+      "opinion_index": 1,
+      "case_paths": [
+        "/mich/439/0186-01"
+      ]
+    },
+    {
+      "cite": "415 NW2d 178",
+      "category": "reporters:state_regional",
+      "reporter": "N.W.2d",
+      "year": 1987,
+      "opinion_index": 1
+    },
+    {
+      "cite": "429 Mich 347",
+      "category": "reporters:state",
+      "reporter": "Mich.",
+      "case_ids": [
+        1993212
+      ],
+      "weight": 4,
+      "year": 1987,
+      "pin_cites": [
+        {
+          "page": "372"
+        },
+        {
+          "page": "372"
+        },
+        {
+          "page": "372"
+        },
+        {
+          "page": "366"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/mich/429/0347-01"
+      ]
+    },
+    {
+      "cite": "520 NW2d 633",
+      "category": "reporters:state_regional",
+      "reporter": "N.W.2d",
+      "year": 1994,
+      "pin_cites": [
+        {
+          "parenthetical": "rehearing"
+        }
+      ],
+      "opinion_index": 2
+    },
+    {
+      "cite": "206 Mich App 83",
+      "category": "reporters:state",
+      "reporter": "Mich. App.",
+      "case_ids": [
+        1881283
+      ],
+      "year": 1994,
+      "pin_cites": [
+        {
+          "parenthetical": "rehearing"
+        }
+      ],
+      "opinion_index": 2,
+      "case_paths": [
+        "/mich-app/206/0083-01"
+      ]
+    },
+    {
+      "cite": "514 NW2d 508",
+      "category": "reporters:state_regional",
+      "reporter": "N.W.2d",
+      "year": 1994,
+      "pin_cites": [
+        {
+          "parenthetical": "Weaver, P.J., dissenting"
+        }
+      ],
+      "opinion_index": 2
+    },
+    {
+      "cite": "204 Mich App 53",
+      "category": "reporters:state",
+      "reporter": "Mich. App.",
+      "case_ids": [
+        2339996
+      ],
+      "year": 1994,
+      "pin_cites": [
+        {
+          "parenthetical": "Weaver, P.J., dissenting"
+        }
+      ],
+      "opinion_index": 2,
+      "case_paths": [
+        "/mich-app/204/0053-01"
+      ]
+    },
+    {
+      "cite": "11 ALR4th 597",
+      "category": "reporters:specialty",
+      "reporter": "A.L.R. 4th",
+      "weight": 2,
+      "opinion_index": 2
+    },
+    {
+      "cite": "32 NE 182",
+      "category": "reporters:state_regional",
+      "reporter": "N.E.",
+      "year": 1892,
+      "opinion_index": 2
+    },
+    {
+      "cite": "143 Ill 182",
+      "category": "reporters:state",
+      "reporter": "Ill.",
+      "case_ids": [
+        3082185
+      ],
+      "year": 1892,
+      "opinion_index": 2,
+      "case_paths": [
+        "/ill/143/0182-01"
+      ]
+    },
+    {
+      "cite": "482 NW2d 696",
+      "category": "reporters:state_regional",
+      "reporter": "N.W.2d",
+      "year": 1992,
+      "pin_cites": [
+        {
+          "parenthetical": "applying the firemen's rule to bar a tort lawsuit arising from injury sustained by a police officer in a public street"
+        }
+      ],
+      "opinion_index": 2
+    },
+    {
+      "cite": "439 Mich 186",
+      "category": "reporters:state",
+      "reporter": "Mich.",
+      "case_ids": [
+        2017503
+      ],
+      "year": 1992,
+      "pin_cites": [
+        {
+          "parenthetical": "applying the firemen's rule to bar a tort lawsuit arising from injury sustained by a police officer in a public street"
+        }
+      ],
+      "opinion_index": 2,
+      "case_paths": [
+        "/mich/439/0186-01"
+      ]
+    },
+    {
+      "cite": "415 NW2d 178",
+      "category": "reporters:state_regional",
+      "reporter": "N.W.2d",
+      "year": 1987,
+      "opinion_index": 2
+    },
+    {
+      "cite": "429 Mich 347",
+      "category": "reporters:state",
+      "reporter": "Mich.",
+      "case_ids": [
+        1993212
+      ],
+      "weight": 2,
+      "year": 1987,
+      "pin_cites": [
+        {
+          "page": "359"
+        }
+      ],
+      "opinion_index": 2,
+      "case_paths": [
+        "/mich/429/0347-01"
+      ]
+    },
+    {
+      "cite": "528 NW2d 218",
+      "category": "reporters:state_regional",
+      "reporter": "N.W.2d",
+      "year": 1995,
+      "opinion_index": 2
+    },
+    {
+      "cite": "208 Mich App 631",
+      "category": "reporters:state",
+      "reporter": "Mich. App.",
+      "case_ids": [
+        1878225
+      ],
+      "year": 1995,
+      "opinion_index": 2,
+      "case_paths": [
+        "/mich-app/208/0631-01"
+      ]
+    },
+    {
+      "cite": "482 NW2d 696",
+      "category": "reporters:state_regional",
+      "reporter": "N.W.2d",
+      "year": 1992,
+      "opinion_index": 3
+    },
+    {
+      "cite": "439 Mich 186",
+      "category": "reporters:state",
+      "reporter": "Mich.",
+      "case_ids": [
+        2017503
+      ],
+      "year": 1992,
+      "pin_cites": [
+        {
+          "page": "190"
+        }
+      ],
+      "opinion_index": 3,
+      "case_paths": [
+        "/mich/439/0186-01"
+      ]
+    },
+    {
+      "cite": "415 NW2d 178",
+      "category": "reporters:state_regional",
+      "reporter": "N.W.2d",
+      "year": 1987,
+      "opinion_index": 3
+    },
+    {
+      "cite": "429 Mich 347",
+      "category": "reporters:state",
+      "reporter": "Mich.",
+      "case_ids": [
+        1993212
+      ],
+      "weight": 11,
+      "year": 1987,
+      "pin_cites": [
+        {
+          "page": "358"
+        },
+        {
+          "page": "372"
+        },
+        {
+          "page": "372"
+        },
+        {
+          "page": "373",
+          "parenthetical": "emphasis added"
+        },
+        {
+          "page": "368",
+          "parenthetical": "emphasis added"
+        },
+        {
+          "page": "367"
+        },
+        {
+          "page": "368"
+        },
+        {
+          "page": "372"
+        },
+        {
+          "page": "368"
+        },
+        {
+          "page": "371"
+        }
+      ],
+      "opinion_index": 3,
+      "case_paths": [
+        "/mich/429/0347-01"
+      ]
+    },
+    {
+      "cite": "528 NW2d 218",
+      "category": "reporters:state_regional",
+      "reporter": "N.W.2d",
+      "year": 1995,
+      "opinion_index": 3
+    },
+    {
+      "cite": "208 Mich App 631",
+      "category": "reporters:state",
+      "reporter": "Mich. App.",
+      "case_ids": [
+        1878225
+      ],
+      "year": 1995,
+      "pin_cites": [
+        {
+          "page": "636-637"
+        }
+      ],
+      "opinion_index": 3,
+      "case_paths": [
+        "/mich-app/208/0631-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 1492,
+    "char_count": 49484,
+    "ocr_confidence": 0.711,
+    "pagerank": {
+      "raw": 1.8776046471345815e-07,
+      "percentile": 0.7271474128414437
+    },
+    "sha256": "33e925d55b7bec229af487c97de954f6a05f898d1eb5a8d236f5ad5f2a1f8d5f",
+    "simhash": "1:3f62319320ab2d4a",
+    "word_count": 8066
+  },
+  "last_updated": "2024-02-27T17:45:28.850794+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Mallett, C.J., and Kelly, J., concurred with Cavanagh, J.",
+      "Brickley, j., concurred with Boyle, J."
+    ],
+    "parties": [
+      "GIBBONS v CARAWAY MARIIN v FLEUR, INC"
+    ],
+    "opinions": [
+      {
+        "text": "Cavanagh, J.\nIn these consolidated cases, we are required to further explicate the scope of the fireman\u2019s rule. In Gibbons, we are also required to determine whether the exemption from liability afforded by \u00a7 401(2) of the civil liability act, MCL 257.401(2); MSA 9.2101(2), applies to defendant Elmer Simko.\ni\nGIBBONS v CARAWAY\nThe incident at issue in this case occurred on November 12, 1990. Plaintiff, a Bloomfield Township police officer, was dispatched to the scene of an accident that had occurred at the intersection of Adams Road and the entrance/exit ramp of 1-75. During the relevant period, plaintiff was directing traffic while other on-scene personnel were sweeping up debris that had scattered across the four lanes of Adams Road. Plaintiff was standing near the center line in the northbound left-hand lane.\nDefendant Caraway was driving a 1990 Lincoln Town Car owned by defendant Simko, which he had leased to defendant Mound Steel & Supplies, Inc. She was driving southbound on Adams Road and, as she approached the intersection, she swerved (for an as yet undetermined reason) and struck plaintiff.\nPlaintiff filed suit against all three defendants. His claim against defendant Caraway alleged that she operated the vehicle in a wanton, reckless, careless, negligent, or grossly negligent manner. Plaintiff also alleged that defendants Simko and Mound Steel & Supplies were liable on the basis of their ownership of the vehicle.\nFollowing discovery, all defendants moved for summary disposition pursuant to MCR 2.116(C)(10), claiming that plaintiff\u2019s suit was barred by the fireman\u2019s rule as set forth by this Court in Kreski v Modern Wholesale Electric Supply Co, 429 Mich 347; 415 NW2d 178 (1987), and Woods v City of Warren, 439 Mich 186; 482 NW2d 696 (1992). Defendant Simko also argued that he was exempt from liability, pursuant to MCL 257.401(2); MSA 9.2101(2), because he was engaged in the business of leasing motor vehicles. The circuit court denied all motions.\nIn an unpublished memorandum opinion, the Court of Appeals reversed the circuit court, holding that plaintiff\u2019s claims were barred by the fireman\u2019s rule. Citing this Court\u2019s opinion in Woods, the Court of Appeals reasoned that plaintiff was on duty when he was struck by the automobile driven by defendant Caraway, that the risk of being struck by a negligent motorist is inherent in the activity of directing traffic, that there are no exceptions to the fireman\u2019s rule, and that the circumstances of this case fall within the rationale of the fireman\u2019s rule. The Court of Appeals did not address defendant Simko\u2019s alleged exemption from liability.\nWe granted leave, 450 Mich 964 (1996), and now reverse.\nMARIIN v FLEUR, INC\nOn February 27, 1991, plaintiff, a police officer for the City of Gladstone, was socializing and drinking beer with friends at Wally\u2019s Bar. It is undisputed that plaintiff was off duty and dressed in civilian clothes. At some point, William Tardiff, whom plaintiff had arrested several years previously, entered the bar and recognized plaintiff. Tardiff, whose animosity toward plaintiff and other Gladstone police officers had been publicly expressed on numerous occasions, verbally threatened plaintiff and then grabbed plaintiff by the shirt. As plaintiff attempted to get away from Tardiff, he fell backwards over a bar stool and injured his shoulder, which injury rendered plaintiff unable to work for a period of six months.\nPlaintiff filed an action against Tardiff and Fleur, Inc. Defendant Fleur, Inc., moved for summary disposition pursuant to MCR 2.116(C)(8) and (10), and the motion was granted by the circuit court.\nThe Court of Appeals reversed the circuit court. 208 Mich App 631; 528 NW2d 218 (1995). It reasoned that the fireman\u2019s rule is not applicable in this case in light of\nthe basic formulation of the fireman\u2019s rule, namely, that there cannot be liability for injuries arising out of the inherent dangers of the profession where the cause of the injury arises from the reason for the officer\u2019s presence. In the case at bar, it might be said that it is an inherent danger of law enforcement that an arrestee may harbor ill will against the arresting officer and, at some point thereafter, attack the officer. However, what is missing in the present case is a showing that the officer\u2019s presence at the scene of the injury was occasioned by his duties as a police officer. That is, plaintiff was not at Wally\u2019s Bar because he was answering a police call. Rather, he was socializing there while off duty. [Id. at 636.]\nWe granted leave, 450 Mich 964 (1996), and now affirm.\nn\nIn Kreski, supra, this Court adopted a fireman\u2019s rule \u201con the basis of public policy,\u201d 429 Mich 371, expressly \u201cdeclinfing] to adopt the fireman\u2019s rule on the basis of the doctrine [of assumption of risk].\u201d Id. at 365. We explained that \u201c[t]he policy arguments for adopting a fireman\u2019s rule stem from the nature of the service provided by firefighters and police officers, as well as the relationship between these safety officers and the public they are employed to protect,\u201d id., and we approvingly noted the public policy rationales adopted by three of our sister jurisdictions, which provide:\n\u201cThe [fireman\u2019s] rule developed from the notion that taxpayers employ firemen and policemen, at least in part, to deal with future damages that may result from the taxpayers\u2019 own negligence. To allow actions by policemen and firemen against negligent taxpayers would subject them to multiple penalties for the protection. [Steelman v Lind, 97 Nev 425, 427; 634 P2d 666 (1981).]\n* * *\n\u201c[S]ince government entities employ and train firefighters and policemen, at least in part, to deal with those hazards that may result from the actions or inaction of an uncircumspect citizenry, it offends public policy to say that a citizen invites private liability merely because he happens to create a need for those public services. [Pottebaum v Hinds, 347 NW2d 642, 645 (Iowa, 1984).]\n\u201c[A]s a matter of public policy, firemen and police officers generally cannot recover for injuries attributable to the negligence that requires their assistance.\u201d [Flowers v Rock Creek Terrace, 308 Md 432, 447; 520 A2d 361 (1987), quoted in Kreski, 429 Mich 366-367.]\nIn Kreski, we also noted other policy arguments relied on by other jurisdictions, such as \u201cthe purpose of safety professions is to confront danger,\u201d 429 Mich 368, and \u201cworkers\u2019 compensation benefits are available to police officers and fire fighters injured in the course of their employment.\u201d Id. at 369. We ultimately adopted a fireman\u2019s rule in light of all these policy rationales, without giving dispositive weight to any one (or any combination) of them. The most importaut overarching principle to be drawn from the Kreski opinion is contained in our statement, \u201c[W]e are not attempting to delineate the precise parameters of the rule in this opinion. Several exceptions involving factual situations not presented here have developed in the states employing a fireman\u2019s rule.\u201d Id. at 370. As examples of factual situations considered by other courts in allowing exceptions to their states\u2019 fireman\u2019s rules, we noted the following: cases where there are \u201callegations of wrongdoing or negligence after plaintiffs [i.e., safety officers] were on the scene\u201d; cases where there are allegations of \u201cnegligence rising to the level of wilful, wanton, or intentional misconduct\u201d; and cases \u201cin which the injuries occurred when the [premises] were open to the public for business.\u201d Id. at 371. To clarify further that we did not envision the opinion as a bright-line statement of the precise parameters of the fireman\u2019s rule we were adopting, we stated: \u201cBy adopting a fireman\u2019s rule on the basis of public policy, we also will be able to flexibly address the different fact patterns as they are presented.\u201d Id.\nWe next addressed the application of the fireman\u2019s rule in Woods, supra. In that opinion we dealt with two aspects of the fireman\u2019s rule that are directly relevant to the cases at bar: whether there are, or can be, any exceptions to the fireman\u2019s rule, and the scope of the risks for which the fireman\u2019s rule bars a safety officer\u2019s tort claims.\nIn response to the plaintiff\u2019s argument that Kreski established several exceptions to the fireman\u2019s rule, we stated:\nIt did not. The Kreski Court did indicate that the rationale of the fireman\u2019s rule might not apply in every circumstance involving an injury to a safety officer. It suggested, for instance, that buildings open to the public might justify a different result and that injuries resulting from intentional torts might also justify disregarding the fireman\u2019s rule. The Court did not, however, establish that those circumstances prevented application of the fireman\u2019s rule. It merely used them to indicate its willingness to apply the rule flexibly as circumstances required. That the Kreski Court chose this language to avoid rigid and formalistic adjudication does not mean it intended to defeat application of the fireman\u2019s rule when otherwise justified._\n[Woods, 439 Mich 194.]\nThis passage represents the Woods Court\u2019s recognition that Kreski did not establish any bright-line, categorical exceptions to the fireman\u2019s rule, but that indeed there can be individual exceptions in appropriate situations.\nWith regard to the scope of the risks encompassed by the fireman\u2019s rule, the Woods Court addressed the plaintiff\u2019s argument relative to the following excerpt from Kreski:\n\u201c[A]s a matter of public policy, we hold that fire fighters or police officers may not recover for injuries occasioned by the negligence which caused their presence on the premises in their professional capacities. This includes injuries arising from the normal, inherent, and foreseeable risks of the chosen profession.\u201d [Woods, supra at 194, quoting Kreski at 372.]\nThe plaintiff\u2019s argument was that the first sentence is a necessary predicate for the applicability of the second sentence. In dismissing this argument, we noted that the plaintiff had overlooked a subsequent, relevant statement in the Kreski opinion: \u201c \u2018The scope of the rule . . . includes negligence in causing the incident requiring a safety officer\u2019s presence and those risks inherent in fulfilling the police or fire fighting duties.\u2019 \u201d Woods, supra at 195, quoting Kreski at 372 (emphasis added by the Woods Court). This additional quotation from the Kreski opinion was sufficient under the specific facts of Kreski (and Reetz, its companion case), but it is insufficient for the case at bar. Immediately following the sentence quoted by the Woods Court were the following two sentences, which are of great significance in the factual situations presented by the instant cases: \u201cOf course, this does not include all risks encountered by the safety officer. The fireman\u2019s rule is not a license to act with impunity, without regard for the safety officer\u2019s well-being.\u201d Kreski, supra at 372.\nWith this fuller understanding of the principles underlying the application of the fireman\u2019s rule, we turn now to the cases at bar.\nm\nGIBBONS v CARAWAY\nA\nIn concluding that defendants were entitled to summary disposition, the Court of Appeals noted that \u201c[t]here is no dispute that Officer Gibbons was on duty directing traffic around an accident scene when he was struck by an automobile driven by defendant Caraway,\u201d and, citing Woods, concluded that \u201c[t]here are no exceptions to the [fireman\u2019s] rule . . . .\u201d Slip op at 1.\nAs already explained, this Court has not established any categorical exceptions to the fireman\u2019s rule. But the notion underlying the Court of Appeals ruling (i.e., that there can be no exceptions to the rule) is an erroneous reading of the Kreski and Woods opinions, as evidenced by our review of those cases in part n.\nIn Woods, the plaintiff police officer, Sergeant Woods, spotted a car that had been reported stolen and gave chase. The driver of the stolen car attempted to outrun Sergeant Woods, who engaged in high-speed pursuit. Ultimately, both drivers crashed into the same house because of icy road conditions. Sergeant Woods suffered injuries to his pelvis and hip. 439 Mich 189.\nIn engaging in the high-speed pursuit of a stolen vehicle, a pursuit he was compelled to undertake in the performance of his duty, Sergeant Woods exposed himself to certain dangers. Among those dangers was the risk of losing control of his vehicle, particularly under unsafe road conditions such as glaze ice. There were no allegations of wrongdoing or negligence after Sergeant Woods was on the scene, nor were there any allegations of negligence rising to the level of wilful, wanton, or intentional misconduct.\nIn the case at bar, the risks inherent in Officer Gibbons\u2019 fulfillment of his police duties did not include all possible risks that could arise in that situation. Because \u201c[t]he fireman\u2019s rule is not a license to act with impunity, without regard for the safety officer\u2019s well-being,\u201d Kreski at 372, the allegedly negligent operation of her automobile by defendant Caraway, which occurred after Officer Gibbons was on the scene and which is alleged to have been wanton, reckless, careless, negligent, or grossly negligent, precludes any ruling as a matter of law at this stage of the proceedings that Officer Gibbons\u2019 claims are barred by the fireman\u2019s rule. In light of the relevant principles underlying our adoption of the fireman\u2019s rule, we would hold that application of the rule under these circumstances is unjustified.\nB\nWe now turn briefly to defendant Elmer Simko\u2019s claim that he is exempt from liability under MCL 257.401(2); MSA 9.2101(2), which provides:\nA person engaged in the business of leasing motor vehicles who is the lessor of a motor vehicle under a lease providing for the use of the motor vehicle by the lessee for a period that is greater than 30 days is not liable at common law for damages for injuries to either person or property resulting from the operation of the leased motor vehicle.\nThere is no dispute that the leases at issue here all satisfy the \u201cfor a period that is greater than 30 days\u201d requirement of the statute. The question presented by this issue is whether defendant Simko is \u201cin the business of leasing motor vehicles.\u201d We would hold that he is not.\nAs a general matter, we note that when the Legislature was considering the act that added subsection 2 to \u00a7 401 of the civil liability act, the stated concern was the requirement of the Insurance Code then in effect that owners of motor vehicles were required to carry certain no-fault insurance coverages. It was argued that banks, credit unions, and other financial enterprises were unduly burdened by this requirement, resulting in the inability of these financial institutions to engage in the business of leasing motor vehicles, which activity, it was argued, they needed in order to compete against the subsidized financing arrangements provided by the automobile manufacturing companies. Ultimately, two tie-barred bills were enacted as 1988 PA 125, which, relevant to this appeal, exempted from ownership liability those who are engaged in the business of leasing motor vehicles.\nWe make no attempt in this opinion to set forth a definitive and all-encompassing standard by which to determine what constitutes being engaged in the business of leasing motor vehicles. We merely hold that an individual owner of a business who leases three cars to that business over a period of seventeen years is not engaged in the business of leasing motor vehicles.\nMARIIN v FLEUR, INC\nA\nThe further refinement of the fireman\u2019s rule set forth in part n is not necessary for our decision in this case. Under any formulation of a fireman\u2019s rule, we would hold that such a rule is inapplicable to the facts presented here because plaintiff\u2019s performance of his duty as a police officer relative to William Tardiff was fully and completely discharged some two years before the incident in issue occurred.\nIf we were to adopt defendant Fleur\u2019s argument that the attack on Officer Mariin was directly related to his status as a police officer, we would expand the scope of the fireman\u2019s rule far beyond any justifiable policy rationale.\nWe would hold that the connection between Officer Mariin\u2019s initial arrest of William Tardiff and Tardiff\u2019s injury-causing attack on Officer Mariin is too attenuated to support a conclusion that \u201cthe injury stems directly from [the] officer\u2019s police functions,\u201d as required by Kreski and Woods. See Woods, 439 Mich 193.\nB\nDefendant Fleur also argues that because plaintiff received worker\u2019s compensation benefits, which required a finding that plaintiff\u2019s injury arose out of and in the course of his employment, MCL 418.301; MSA 17.237(301), his claims must be barred by the fireman\u2019s rule. We disagree.\nThe \u201ccourse of employment\u201d standard is much broader than the requirement of the fireman\u2019s rule that for a claim to be barred it must stem directly from the performance of police or firefighting duties in the context of the relevant incident. The two standards are not mutually exclusive, as defendant would have it. Therefore, we would hold that plaintiff\u2019s receipt of worker\u2019s compensation benefits is not dis-positive of the issue of the applicability of the fireman\u2019s rule.\nIV\nIn Gibbons, we would reverse the decision of the Court of Appeals in regard to the fireman\u2019s rule, and we would affirm the decision of the circuit court in regard to defendant Simko\u2019s claim of exemption from ownership liability. In Mariin, we would affirm the decision of the Court of Appeals. And in both cases, we would remand the matters to the trial court for proceedings consistent with this opinion.\nMallett, C.J., and Kelly, J., concurred with Cavanagh, J.\nApparently, plaintiff\u2019s traffic-directing activity was supplemental to the still-operative traffic light at the intersection.\nDefendant Simko is the owner of Mound Steel & Supplies, Inc. Defendant Caraway, who is Simko\u2019s daughter, is an employee of Mound Steel & Supplies, Inc.\nThere is conflicting deposition testimony on this and other factual issues, which will be resolved by the trial court on remand.\nIssued January 20, 1995 (Docket Nos. 163560, 163605).\nDefendant Fleur, Inc., owns and operates Wally\u2019s Bar.\nAt the motion hearing, plaintiffs counsel informed the court that Tardiff had been served but had not responded, and that a default against him had been filed. Plaintiff\u2019s counsel averred that Tardiff\u2019s whereabouts were unknown. In any event, Tardiff was not a relevant party in this case in the Court of Appeals, nor is he a relevant party in this Court.\nThe trial court did not specify the basis of its grant of summary disposition, but our review of the motion hearing transcript shows that factual evidence in addition to the pleadings was considered. Therefore, we view the motion as having been granted pursuant to MCR 2.116(C)(10).\nOf course, this statement should not be taken to prevent application of these \u201cexceptions\u201d when Kreski\u2019s fundamental policy rationale is inapplicable.\nIn this regard, Sergeant Woods\u2019 situation was very much like that of the plaintiff police officer in Reetz (the companion case to Kreski). In the Reetz portion of the opinion, we stated: \u201cIt was plaintiff\u2019s duty to investigate the burglary, despite the inherent dangers. In performance of her duty, plaintiff took the premises as she found them, with no representations being made regarding their safety.\u201d Kreski, 429 Mich 378, quoted in Woods, 439 Mich 191, n 4.\nWe reiterate that the relevant facts are in dispute. Therefore, in the context of this (C)(10) motion, we view the facts in the light most favorable to the nonmoving party, i.e, plaintiff.\nThe relevant bills were HB 4685 and HB 4721.\nWe decide this issue as a matter of statutory interpretation \u2014 i.e., as a question of law \u2014 and therefore fmd it unnecessary to address defendant Simko\u2019s arguments relying on MCR 2.116(G)(4) and (H)(1).",
+        "type": "majority",
+        "author": "Cavanagh, J."
+      },
+      {
+        "text": "Boyle, J.\n(concurring). I concur in the conclusion of the lead opinion that the scope of the risks encompassed by the fireman\u2019s rule does not extend to Gibbons\u2019 claims. The fireman\u2019s rule can fairly be limited to afford a cause of action for injuries sustained as a result of the alleged subsequent gross negligence of an independent third party unconnected to the situation that brought the officer to the scene. Although I recognize this approach limits the rationale of Woods v City of Warren, 439 Mich 186; 482 NW2d 696 (1992), the limitation is appropriate because it affords a remedy for independent and intervening acts that injure an officer while preserving the core rationale of the rule. The logical consequence of defining the rule to extend to \u201cthe normal risks of the safety officer\u2019s profession\u201d would mean that even injuries like those allegedly sustained by plaintiff Mariin would be noncompensable although there is no direct relationship between the act that caused the injury and the act that occasioned the officer\u2019s presence. Id. at 196. I write separately to state my belief that, under the particular facts of this case, the fireman\u2019s rule does not bar a claim for damages for injuries caused by the subsequent wrongdoing of a third party uninvolved with the original act, where the wrongdoing resulted from wanton, reckless, or grossly negligent behavior. In regard to carelessness or ordinary negligence, however, the fireman\u2019s rule bars the claim.\ni\nWhen a police officer steps into the roadway to direct oncoming traffic around an accident scene, the officer runs the risk of being struck by a vehicle. This is a normal, inherent, and foreseeable risk of the profession just as it was foreseeable that a disgruntled person would attack Officer Mariin. However, unless we conclude that by virtue of his profession an officer assumes the risk of injury from every irresponsible act, a line must be drawn. Officer Gibbons did not assume the risk of being injured by a subsequent wanton, reckless, or grossly negligent act of a third party by virtue of the fact that he was dispatched to the scene of an automobile accident anymore than he assumed the risk of being intentionally run down by a vindictive driver with a score to settle who happened to pass by as the officer was directing traffic. Therefore, I agree that injury from the alleged wanton, reckless, or grossly negligent behavior of defendant Caraway, where Caraway was uninvolved with the original act of negligence and where her alleged misconduct occurred after the officer arrived at the scene, was not a \u201cnormal, inherent, and foreseeable risk[] of the chosen profession.\u201d Kreski v Modern Wholesale Electric Supply Co, 429 Mich 347, 372; 415 NW2d 178 (1987).\nlimiting this exception to acts of wanton, reckless, or grossly negligent misconduct also appropriately balances the policy concerns underlying the rule. Emergency situations and conditions such as those Officer Gibbons encountered are replete with distractions. At this particular accident site, during evening rush hour traffic, one police cruiser and two tow trucks were at the scene with emergency lights flashing, two vehicles involved in the original accident were disabled, debris was being swept from the roadway, and Officer Gibbons was standing with a flashlight in the intersection directing traffic in conjunction with an operating traffic light. Faced with these circumstances, it is not unusual for traffic to come to a sudden stop or for cars to swerve to avoid obstructions in the roadway. Although arguably negligent, such activity is a foreseeable risk of an officer\u2019s profession and, indeed, is often the very reason for which officers are dispatched to the scene of an accident. Officers are trained at taxpayer expense to handle these very situations. Under the circumstances of this case, public policy considerations support shielding citizens from a damage claim for injuries suffered by an officer as a result of the carelessness or ordinary negligence of an individual. They do not support shielding citizens from damage claims for injuries arising from their reckless, wanton, or grossly negligent conduct.\nThis result also addresses the contention that the fireman\u2019s rule places officers at a disadvantage when compared to the ordinary citizen. It is true that the ordinary citizen has a remedy for injuries inflicted through ordinary negligence as well as gross negligence. The average citizen may also be sued for injuries caused through simple or gross negligence. In contrast, police officers are immunized from liability by state statute unless their conduct is grossly negligent, MCL 691.1407; MSA 3.996(107), and are not liable under federal law for injuries caused by ordinary or gross negligence that does not involve a violation of a statute or a clearly established constitutional right. Moreover, it has not been disputed here that even where liability is individually imposed, the governmental employer actually pays the judgment. Thus, while the nature of the police officer\u2019s employment exposes him to risks for which compensation in damages is not available, the Legislature has determined that the nature of the employment justifies shielding the employee against exposure to liability for negligently inflicted injury. Arguments regarding adjustments to the rights and responsibilities of police and safety officers should be directed to the Legislature.\nTo summarize, although I believe Officer Gibbons is barred from seeking damages for the carelessness or ordinary negligence of defendant Caraway, I also believe that the same public policy considerations that supported the adoption of the fireman\u2019s rule do not support insulating Caraway from liability for her alleged wanton, reckless, or grossly negligent behavior. Since the rule is not \u201ca license to act with impunity,\u201d it should not shield individuals from the consequences of their reckless acts. Rather, the rule was designed, in part, to protect citizens from incurring multiple costs for those acts that themselves created the need for public protection services.\nn\nMichigan\u2019s fireman\u2019s rule bars tort claims by safety officers against persons whose negligence created the reason for the officer\u2019s presence and for injuries stemming from the normal risks of the officer\u2019s profession. Kreski, supra at 372; Woods, supra at 196. While the alleged reckless, wanton, and grossly negligent conduct of defendant Caraway is not shielded from liability under the rule, mere negligence or carelessness on the part of a third party, which takes place after the safety officer arrives at the scene of the original incident and which is unconnected to the original incident, does not, in my opinion, under the particular facts of this case, create an exception to the fireman\u2019s rule. Consistent with this opinion, I would reverse the Court of Appeals decision in regard to the fireman\u2019s rule in Gibbons. In all other respects, I concur with the lead opinion.\nBrickley, j., concurred with Boyle, J.\nFor the purposes of this appeal, we will assume that the facts as alleged in plaintiff\u2019s complaint and in deposition testimony are true. Any disputes regarding factual issues should be resolved by the trial court on remand.\nSee Michigan\u2019s governmental immunity act, MCL 691.1407; MSA 3.996(107) (liability against government employees will be barred unless their conduct is grossly negligent); Nemeckay v Rule, 894 F Supp 310 (ED Mich, 1995) (government officials performing discretionary functions are shielded from civil liability where their conduct does not violate clearly established statutory or constitutional rights); Lewellen v Metropolitan Gov\u2019t of Nashville & Davidson Co, Tenn, 34 F3d 345 (CA 6, 1994) (injury caused by negligence does not constitute deprivation of a constitutionally protected interest for purposes of 42 USC 1983); Hickey v Zezulka (On Resubmission), 439 Mich 408, 428; 487 NW2d 106 (1992) (negligence does not amount to deliberate indifference for purposes of 42 USC 1983); Smith v Dep\u2019t of Public Health, 428 Mich 540; 410 NW2d 749 (1987), aff\u2019d Will v Michigan Dep\u2019t of State Police, 491 US 58; 109 S Ct 2304; 105 L Ed 2d 45 (1989) (a state official sued in his official capacity for retroactive relief is not a \u201cperson\u201d for purposes of a damage suit under \u00a7.1983).\nKreski, supra at 372.\nId. at 366.",
+        "type": "concurrence",
+        "author": "Boyle, J."
+      },
+      {
+        "text": "Weaver, J.\n(concurring in the result only). I concur with the result of the lead opinion. I agree that we should reverse the Court of Appeals in Gibbons v Caraway, affirm the Court of Appeals in Mariin v Fleur, Inc, and remand both matters to the trial court for further proceedings. However, I write separately because I would limit the fireman\u2019s rule to premises liability. I believe such a limitation is consonant with the rule\u2019s original purpose of preventing an undue burden on property owners.\nIn Kreski v Modern Wholesale Electric Supply Co, this Court provided a history of the development of the fireman\u2019s rule. The Kreski Court noted that firefighters and police are \u201cdifferent\u201d and do not fit neatly into any of the three traditional premises liability categories. Some of these differences include: (1) firemen and police officers often enter an owner or occupier\u2019s land at unexpected times or places, (2) they often enter portions of the premises not open to the public, and (3) generally, their presence is mandated by emergency. In light of these factors, Kreski concluded it would be unreasonably burdensome to require landowners to maintain their premises in a suitable manner for the potential arrival of firemen and police officers.\nHowever, when Kreski adopted the fireman\u2019s rule, the scope of its holding reached beyond owners and occupiers of land. In Kreski, the plaintiff firefighter was precluded from suing the electric company that was allegedly responsible for the fire that caused the roof to collapse on him. The electric company was neither an occupier nor an owner of the premises. This Court further expanded the rule in Woods v City of Warren to encompass public spaces.\nWhile on the Court of Appeals, I was bound to follow the law established by this Court in Kreski and expanded in Woods. However, I would now, given the opportunity, limit application of this judicially created rule to the facts in Reetz v Tipit, Inc, the companion case to Kreski, thus tailoring the rule\u2019s application to defendants who are owners or occupiers of land.\nAgain, I believe such a limitation is consistent with the rule\u2019s original and most compelling purpose of preventing the imposition of an undue, unreasonable burden on possessors of land. Accordingly, I concur with the result of the lead opinion because it does not apply the fireman\u2019s rule to the facts in Gibbons or Mariin.\nDocket Nos. 163560, 163605, issued January 20, 1995.\n208 Mich App 631; 528 NW2d 218 (1995).\n429 Mich 347; 415 NW2d 178 (1987). In particular, this Court traced the rule\u2019s origin to Gibson v Leonard, 143 Ill 182; 32 NE 182 (1892), an Illinois case in which the plaintiff firefighter was classified as a licensee, one of the three traditional premises liability categories, which also includes invitees and trespassers. Several jurisdictions have analyzed the duty owed a firefighter by an owner or occupier of land within these three categories. See Kreski, supra at 359, citing anno: Liability of owner or occupant of premises to fireman coming thereon in discharge of his duty, 11 ALR4th 597. Post-Gibson, courts in other jurisdictions have vacillated considerably regarding in which category firefighters should be classified. Id.\nAlthough Kreski did not envision a categorical rule, this Court held that, \u201cfire fighters or police officers may not recover for injuries occasioned by the negligence which caused their presence on the premises in their professional capacities.\u201d Id. at 372.\nId. at 367-368.\nId. at 368.\nId.\nId. at 374-376.\nId.\n439 Mich 186; 482 NW2d 696 (1992) (applying the firemen\u2019s rule to bar a tort lawsuit arising from injury sustained by a police officer in a public street).\nSee Stehlik v Johnson, 204 Mich App 53; 514 NW2d 508 (1994) (Weaver, P.J., dissenting) (applying the fireman\u2019s rule established by this Court); 206 Mich App 83; 520 NW2d 633 (1994) (rehearing) (adopting reasoning similar to the Weaver dissent for the majority opinion).\nIn Reetz, the plaintiff police officer, responding to a breaking and entering call, entered a closed bar through the window. The premises were dark when the plaintiff unknowingly stepped into a trap door, fell ten feet below, and sustained serious injuries. Reetz illustrates the unique circumstances in which firefighters and police officers arrive on premises as this Court noted in Kreski and as discussed. Kreski, supra at 355.",
+        "type": "concurrence",
+        "author": "Weaver, J."
+      },
+      {
+        "text": "Riley, J.\n(concurring in part and dissenting in part). Because I do not agree with the decision of the plurality and concurrence that the fireman\u2019s rule does not apply to Officer Martin Gibbons\u2019 action against an allegedly grossly negligent driver in Gibbons v Caraway, I respectfully dissent. However, I concur with the decision of this Court to affirm the Court of Appeals decision in Mariin v Fleur holding that the fireman\u2019s rule did not bar Officer David Mariin\u2019s cause of action.\nANALYSIS\n1. FIREMAN\u2019S RULE\nAs adopted from the common law, the fireman\u2019s rule prevents police officers and firefighters from recovering for injuries sustained during the course of their duty. Woods v City of Warren, 439 Mich 186, 190; 482 NW2d 696 (1992), citing Kreski v Modern Wholesale Electric Supply Co, 429 Mich 347, 358; 415 NW2d 178 (1987). As the plurality notes, see ante, pp 320-321, we first adopted the common-law rule in Kreski in 1987 on the basis of considerations of fairness and good policy. Id. at 370. We stated that the rule in Michigan bars recovery for two types of injuries:\n[1] Those deriving from the negligence causing the safety officer\u2019s presence and [2] those stemming from the normal risks of the safety officer\u2019s profession. [Woods, supra at 196.]\nIn Woods, we relied on Kreski by concluding that the scope of the rule included not only injuries that arose from the negligence that caused the incident requiring the safety officers\u2019 presence, but also applied to injuries arising from the normal, inherent, and foreseeable risks of the chosen profession. See Woods, supra at 195, citing Kreski, supra at 372.\nThe plurality recognized this point, but notes that, in Kreski, we limited it by stating that not all risks that a safety officer encounters are subject to this rule. See Cavanagh, J., ante, pp 323-324, citing Kreski, supra at 372. However, we further clarified that the fireman\u2019s rule \u201conly insulates a defendant from liability for injuries arising out of the inherent dangers of the profession.\u201d Kreski, supra at 373 (emphasis added). Thus, we limited the rule to those risks that were inherent in the profession. Contrary to the conclusion of the plurality, see Cavanagh, J., ante, pp 325-326, I fail to see how the danger of injury from a negligent or grossly negligent driver for a police officer directing traffic at the scene of an accident is not inherent in the risks that the profession presents. The concurrence by Justice Boyle similarly relies on this fiction that the risk of injury for Officer Gibbons was not inherent in his work as a police officer. See Boyle, J., ante, p 330.\nMoreover, under the facts of Gibbons, the fundamental rationale of the rule as articulated in both Kreski and Woods is applicable. The preeminent reason we deny a police officer or firefighter the right to bring an action in the two types of circumstances identified in Woods, supra at 196, is that these professionals should expect to encounter these dangers and should not seek redress from members of the public when they are injured while confronting them:\n[T\\he foundational policy rationale [is] that the purpose of safety professions is to confront danger and, therefore, the public should not be liable for damages for injuries occurring in the performance of the very function police officers and fire fighters are intended to fulfill. [Kreski, supra at 368 (emphasis added); see also Woods, supra at 190-191.]\nThis is the most basic rationale. Woods, supra at 190-191. There is a fundamental difference between a safety officer and other occupations that involve danger:\nThe very nature of police work and fire fighting is to confront danger. The purpose of these professions is to protect the public. It is this relationship between police officers, fire fighters, and society which distinguishes safety officers from other employees. [Kreski, supra at 367.]\nThe analytic focus in examining whether a danger is unique to the police officer is whether the injury stems directly from the officer\u2019s police functions. Woods, supra at 193.\nH. GIBBONS v CARAWAY\nIn Gibbons, the police officer\u2019s injury resulted from an accident. Defendant Linda Caraway was allegedly guilty of gross negligence as well as simple negligence in her failure to observe blinking lights, by speeding, and ignoring the traffic directions. Officer Gibbons was acting in his capacity as a police officer while he was directing traffic, and the danger of injury was inherent in his duty to protect the safety of others after a traffic accident. Because the public should not be liable for damages for injuries that occur during the performance of a police officer\u2019s duties, see Kreski, supra at 368, the Court of Appeals rightly concluded that Officer Gibbons\u2019 cause of action was barred by the fireman\u2019s rule. On the basis of the considerations of policy and fairness that persuaded us to adopt the common-law fireman\u2019s rule, I would conclude that the fireman\u2019s rule bars Officer Gibbons\u2019 claim of negligence. I would affirm the Court of Appeals decision.\nIII. MARIIN v FLEUR, INC\nIn Mariin, the question is whether the hazard to Officer Mariin arose from the normal risks of a police officer\u2019s profession. See Woods, supra at 193, 196; Kreski, supra at 372. In other words, we must determine if the officer\u2019s injury was directly related to his police functions. Woods, supra at 193. Under the facts of Mariin, I do not believe that the injury arose from the exercise of Officer Mariin\u2019s police function. As the Court of Appeals noted, Officer Mariin was off duty, not in uniform, and not exercising his authority as a police officer when he was injured while socializing at a bar. 208 Mich App 631, 636-637; 528 NW2d 218 (1995). He was not performing the very function that a police officer is intended to fulfill. See Woods, supra at 190-191; Kreski, supra at 368. Consequently, I concur in the Court\u2019s decision to affirm the Court of Appeals decision.\nCONCLUSION\nIn Gibbons, Officer Gibbons was exercising his duty as a police officer while directing traffic when he was injured. In refusing to admit that this injury arose from the normal risks inherent in his profession, the plurality and concurrence ignore one of the basic reasons Michigan adopted this common-law rule. I would affirm the Court of Appeals decision in Gibbons to bar his action under the fireman\u2019s rule. In Mariin, Officer Mariin was not performing the very function that a police officer is intended to fulfill when he was injured. Consequently, I concur in the decision to affirm the Court of Appeals decision to reverse the trial court\u2019s grant of summary disposition in favor of defendant Fleur, Inc. I agree that the trial court erred when it concluded that the fireman\u2019s rule barred the action.\nThe plurality quotes from Kreski, supra at 372:\nOf course, this does not include all risks encountered by the safety officer. The fireman\u2019s rule is not a license to act with impunity, without regard for the safety officer\u2019s well-being.\nThe concurrence by Justice Boyle argues as follows at ante, p 330:\nI agree [with the plurality] that [the] injury from the alleged wanton, reckless, or grossly negligent behavior of defendant Caraway, where Caraway was uninvolved with the original act of negligence and where her alleged misconduct occurred after the officer arrived at the scene, was not a \u201cnormal, inherent, and foreseeable risk[] of the chosen profession.\u201d\nBecause the fireman\u2019s rule was adopted by this Court as a common-law rule, if we decide to rework the doctrine, we should not be reluctant to expressly redefine when the rule applies, rather than attempt to fit these facts into the preexisting rules established by Kreski and Woods.\nBecause we did not define the precise parameters of the rule and recognized that there were exceptions to the rule in Kreski, we stated that we would address different possible exceptions as they arise where the underlying policy is not applicable. See Woods, supra at 194, n 8; Kreski, supra at 371. This point is not relevant to Officer Gibbons\u2019 case because the underlying policy applies to the facts of his case.\nThe Court of Appeals reasoned:\n[W]e believe it is important to return to the basic formulation of the fireman\u2019s rule, namely, that there cannot be liability for injuries arising out of the inherent dangers of the profession where the cause of the injury arises from the reason for the officer\u2019s presence. In the case at bar, it might be said that it is an inherent danger of law enforcement that an arrestee may harbor ill will against the arresting officer and, at some point thereafter, attack the officer. However, what is missing in the present case is a showing that the officer\u2019s presence at the scene of the injury was occasioned, by his duties as a police officer. That is, plaintiff was not at Wally\u2019s Bar because he was answering a police call. Rather, he was socializing there while off duty. It might be appropriate to apply the fireman\u2019s rule had plaintiff been injured while responding on duty to a bar brawl at Wally\u2019s Bar or, for example, while rendering assistance to the bar in an attempt to eject Tardiff because of his intoxicated condition and his refusal to leave. However, that is not what happened here. Plaintiff was not summoned to Wally\u2019s Bar to act as a police officer. He was present at the bar as a private citizen and it is merely fortuitous that there was also present someone at the bar who harbored ill will toward plaintiff because of his profession. [Emphasis added.]\nThe hearing referee\u2019s decision that Officer Maxiin\u2019s injury arose out of and in the course of his employment rests on the principles of the worker\u2019s compensation act, which are separate from those that govern the application of the fireman\u2019s rule.",
+        "type": "concurring-in-part-and-dissenting-in-part",
+        "author": "Riley, J."
+      }
+    ],
+    "attorneys": [
+      "Raymond L. Krell, RC. (by Derek A. Hurt), for plaintiffs Gibbons.",
+      "Stupak & Bergman, P.C. (by Martin F. Fittante, on behalf of Frank A. Stupak, Jr.), for plaintiff Mariin.",
+      "Kohl, Secrest, Wardle, Lynch, Clark & Hampton (by Michael L. Updike) for defendants Caraway, Simko, and Mound Steel & Supplies, Inc.",
+      "McGinty, Jakubiak, Frankland, Hitch & Henderson, P.C. (by Vittorio E. Porco), for defendant-appellant Fleur, Inc.",
+      "Amici Curiae:",
+      "Frank A. Guido and Peter W. Cravens for Police Officers Association of Michigan.",
+      "William J. Johnson for National Law Enforcement Officers Rights Center.",
+      "Sinas, Dramis, Brake, Boughton, McIntyre & Reisig, RC. (by Lawrence P. Schneider), for Michigan State Police Troopers Association, Inc."
+    ],
+    "corrections": "",
+    "head_matter": "GIBBONS v CARAWAY MARIIN v FLEUR, INC\nDocket Nos. 102190, 102191, 102388.\nArgued March 4, 1997\n(Calendar Nos. 1-2).\nDecided July 22, 1997.\nRehearing denied in Gibbons, 456 Mich 1201.\nMartin W. Gibbons and Janice Gibbons, for themselves and as next friends of Timothy and Erin Gibbons, minors, brought an action in the Oakland Circuit Court against Linda F. Caraway, Mound Steel & Supplies, Inc., and Elmer Simko, for injuries sustained by Martin Gibbons, a Bloomfield Township police officer, while directing traffic at the scene of an accident. Gibbons was struck by a vehicle, driven by Caraway and owned by Simko, that Simko had leased to Mound Steel. Defendants\u2019 motions for summary judgment on the grounds that the suit was barred by the fireman\u2019s rule and that Simko was exempt from liability because he was engaged in the business of leasing motor vehicles were denied, Jessica R. Cooper, J. The Court of Appeals, Corrigan, P.J., and Cavanagh and L. C. Root, JJ., reversed in an unpublished memorandum opinion, holding that the claims were barred by the fireman\u2019s rule, reasoning that the plaintiff was on duty when he was struck and that the risk of being struck by a negligent motorist is inherent in the activity of directing traffic. The Court further found that there are no exceptions to the fireman\u2019s rule (Docket Nos. 163560, 163605). The plaintiffs appeal.\nDavid P. Mariin, a police officer for the City of Gladstone, brought an action in the Delta Circuit Court against Fleur, Inc., doing business as Wally\u2019s Bar, and against William Tardiff, alleging that, while Mariin was off duty and dressed in civilian clothes, Tardiff, whom he had arrested several years previously, assaulted him at the bar, causing him to fall and injure his shoulder. The court, Dean J. Ship-man, J., granted summary disposition for Fleur, Inc. The Court of Appeals, Griffin, P.J., and Sawyer and R. L. Ziolkowsh, JJ., reversed, reasoning that the fireman\u2019s rule was not applicable because the plaintiff was not on duty (Docket No. 168486). The defendant appeals.\nIn an opinion by Justice Cavanagh, joined by Chief Justice Mallett and Justice Kelly, and an opinion by Justice Boyle, joined by Justice Brickley, the Supreme Court held,-.\nThe fireman\u2019s rule, precluding liability for injuries arising out of the dangers inherent in a police officer\u2019s or fireman\u2019s profession, does not bar the plaintiffs\u2019 claims in these cases.\n1. The fireman\u2019s rule was adopted on the basis of public policy, and subsequent development of case law has not delineated its precise parameters. While the scope of the rule includes negligence in causing an incident requiring a safety officer\u2019s presence and those risks inherent in fulfilling police or firefighting duties, all risks encountered by a safety officer are not included. The notion that there can be no exceptions to the rule is an erroneous reading of the case law.\n2. In Gibbons, the fireman\u2019s rule does not apply. In Mariin, the fireman\u2019s rule is inapplicable because the plaintiff\u2019s performance of his duty as a police officer relative to Tardiff was fully and completely discharged two years before the incident occurred and is too attenuated to support a conclusion that the injury stems directly from a police function. Also, the plaintiff\u2019s receipt of worker\u2019s compensation benefits is not dispositive of the issue of the applicability of the fireman\u2019s rule.\nJustice Cavanagh, joined by Chief Justice Mallett and Justice Kelly, would further hold in Gibbons, that the risks inherent in the fulfillment of the officer\u2019s duties did not include all possible risks that could arise in that situation. The circumstances of the allegedly negligent operation of the automobile by Caraway preclude any ruling as a matter of law that the officer\u2019s claims are barred by the fireman\u2019s rule. Further, defendant Simko is not immune from liability under the civil liability act because, on the basis of the record, he was not engaged in the business of leasing motor vehicles.\nJustice Boyle, joined by Justice Brickley, concurring, stated that under the particular facts of this case, the fireman\u2019s rule does not bar a claim for damages for injuries caused by the subsequent wrongdoing of a third party uninvolved with the original act, where the wrongdoing resulted from wanton, reckless, or grossly negligent behavior. In regard to carelessness or ordinary negligence, however, the fireman\u2019s rule bars the claim.\nThe fireman\u2019s rule bars tort claims by safety officers against persons whose negligence created the reason for the officer\u2019s presence and for injuries stemming from the normal risks of the officer\u2019s profession. While the alleged reckless, wanton, and grossly negligent conduct of defendant Caraway is not shielded from liability under the rule, mere negligence or carelessness on the part of a third party, which takes place after the safety officer arrives at the scene of the original incident and that is unconnected to the original incident, does not, under the particular facts of this case, create an exception to the fireman\u2019s rule. The decision of the Court of Appeals in Gibbons should be reversed.\nJustice Weaver, concurring in the result only, stated that the fireman\u2019s rule should be limited to premises liability, i.e., to defendants who are owners or occupiers of land. Such a limitation is consonant with the rule\u2019s original purpose of preventing an undue burden on property owners. Accordingly, the rule should not be applied in Gibbons or Mariin.\nJustice Riley, concurring in part and dissenting in part, stated that in Gibbons, the officer was exercising his duty as a police officer while directing traffic when he was injured. To refuse to admit that this injury arose from the normal risks inherent in his profession is to ignore one of the basic reasons Michigan adopted this common-law rule. In Mariin, the officer was not performing the very function that a police officer is intended to fulfill when he was injured. Consequently, the trial court erred when it concluded that the fireman\u2019s rule barred the action.\nGibbons, affirmed in part, reversed in part, and remanded.\nMariin, affirmed and remanded.\n208 Mich App 631; 528 NW2d 218 (1995) affirmed.\nRaymond L. Krell, RC. (by Derek A. Hurt), for plaintiffs Gibbons.\nStupak & Bergman, P.C. (by Martin F. Fittante, on behalf of Frank A. Stupak, Jr.), for plaintiff Mariin.\nKohl, Secrest, Wardle, Lynch, Clark & Hampton (by Michael L. Updike) for defendants Caraway, Simko, and Mound Steel & Supplies, Inc.\nMcGinty, Jakubiak, Frankland, Hitch & Henderson, P.C. (by Vittorio E. Porco), for defendant-appellant Fleur, Inc.\nAmici Curiae:\nFrank A. Guido and Peter W. Cravens for Police Officers Association of Michigan.\nWilliam J. Johnson for National Law Enforcement Officers Rights Center.\nSinas, Dramis, Brake, Boughton, McIntyre & Reisig, RC. (by Lawrence P. Schneider), for Michigan State Police Troopers Association, Inc."
+  },
+  "file_name": "0314-01",
+  "first_page_order": 400,
+  "last_page_order": 427
+}

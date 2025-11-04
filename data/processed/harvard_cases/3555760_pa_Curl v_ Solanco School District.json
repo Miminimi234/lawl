@@ -1,0 +1,81 @@
+{
+  "id": 3555760,
+  "name": "Dr. Shirley K. CURL, Respondent v. SOLANCO SCHOOL DISTRICT, Petitioner",
+  "name_abbreviation": "Curl v. Solanco School District",
+  "decision_date": "2007-04-04",
+  "docket_number": "Petition No. 983 MAL 2006",
+  "first_page": "4",
+  "last_page": "4",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "592 Pa. 4"
+    },
+    {
+      "type": "parallel",
+      "cite": "922 A.2d 871"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "671 A.2d 302",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7860588
+      ],
+      "pin_cites": [
+        {
+          "page": "305"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/671/0302-01"
+      ]
+    },
+    {
+      "cite": "850 A.2d 802",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        9230227
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/850/0802-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 79,
+    "char_count": 730,
+    "ocr_confidence": 0.67,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.1003041103940809
+    },
+    "sha256": "5a6d9407bde8a81914ed14ac8eaf078d7f74e930c285bce1c9c2d0c6168f9c6b",
+    "simhash": "1:753ba89ea9d12e36",
+    "word_count": 119
+  },
+  "last_updated": "2024-02-27T21:45:49.457734+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "file_name": "0004-01",
+  "first_page_order": 56,
+  "last_page_order": 56
+}

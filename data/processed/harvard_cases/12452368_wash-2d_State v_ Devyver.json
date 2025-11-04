@@ -1,0 +1,78 @@
+{
+  "id": 12452368,
+  "name": "State, Respondent, v. Devyver, Petitioner",
+  "name_abbreviation": "State v. Devyver",
+  "decision_date": "2017-03-29",
+  "docket_number": "No. 93937-3",
+  "first_page": "1027",
+  "last_page": "1027",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "187 Wash. 2d 1027"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Wash.",
+    "id": 9029,
+    "name": "Washington Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 38,
+    "name_long": "Washington",
+    "name": "Wash."
+  },
+  "cites_to": [
+    {
+      "cite": "196 Wn. App. 1037",
+      "category": "reporters:state",
+      "reporter": "Wash. App.",
+      "case_ids": [
+        12461747,
+        12461748,
+        12461749,
+        12461750
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-app/196/1037-01",
+        "/wash-app/196/1037-02",
+        "/wash-app/196/1037-03",
+        "/wash-app/196/1037-04"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 28,
+    "char_count": 191,
+    "ocr_confidence": 0.85,
+    "sha256": "15e666cf25ca95d11c75c2eb5776c770862347f7dd02ca470ea59b5057ca0d5d",
+    "simhash": "1:8091283b554123c8",
+    "word_count": 31
+  },
+  "last_updated": "2024-02-27T20:27:34.476040+00:00",
+  "provenance": {
+    "date_added": "2019-05-21",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "State, Respondent, v. Devyver, Petitioner,"
+    ],
+    "opinions": [
+      {
+        "text": "Petition for review of a decision of the Court of Appeals, No. 47547-2-II, October 25, 2016, 196 Wn. App. 1037. Denied March 29, 2017.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "State, Respondent, v. Devyver, Petitioner,\nNo. 93937-3."
+  },
+  "file_name": "1027-02",
+  "first_page_order": 995,
+  "last_page_order": 995
+}

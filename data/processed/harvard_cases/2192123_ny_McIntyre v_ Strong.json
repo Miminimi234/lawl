@@ -1,0 +1,62 @@
+{
+  "id": 2192123,
+  "name": "Ewen McIntyre, Respondent, v. William E. Strong, Appellant",
+  "name_abbreviation": "McIntyre v. Strong",
+  "decision_date": "1884-01-22",
+  "docket_number": "",
+  "first_page": "648",
+  "last_page": "648",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "94 N.Y. 648"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "N.Y.",
+    "id": 24653,
+    "name": "New York Court of Appeals"
+  },
+  "jurisdiction": {
+    "id": 1,
+    "name_long": "New York",
+    "name": "N.Y."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 34,
+    "char_count": 273,
+    "ocr_confidence": 0.567,
+    "sha256": "10e0efb2622c29fb0379caed5d764a248b33e0dd749ce2c5180caa3ae69c1094",
+    "simhash": "1:7a1ae6279a1ebe4b",
+    "word_count": 39
+  },
+  "last_updated": "2023-07-14T18:55:18.857986+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Ewen McIntyre, Respondent, v. William E. Strong, Appellant."
+    ],
+    "opinions": [
+      {
+        "text": "Agree to affirm ; no opinion.\nAll concur except Danforth, J., dissenting.\nJudgment affirmed.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Henry S. Bennett for appellant.",
+      "William J. Gilson for respondent."
+    ],
+    "corrections": "",
+    "head_matter": "Ewen McIntyre, Respondent, v. William E. Strong, Appellant.\n(Argued December 14, 1883;\ndecided January 22, 1884.)\nHenry S. Bennett for appellant.\nWilliam J. Gilson for respondent."
+  },
+  "file_name": "0648-01",
+  "first_page_order": 672,
+  "last_page_order": 672
+}

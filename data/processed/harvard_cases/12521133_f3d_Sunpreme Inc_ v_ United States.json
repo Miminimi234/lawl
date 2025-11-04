@@ -1,0 +1,616 @@
+{
+  "id": 12521133,
+  "name": "SUNPREME INC., Plaintiff-Appellant v. UNITED STATES, SolarWorld Americas, Inc., Defendants-Cross-Appellants",
+  "name_abbreviation": "Sunpreme Inc. v. United States",
+  "decision_date": "2019-05-16",
+  "docket_number": "2018-1116; 2018-1117; 2018-1118",
+  "first_page": "1198",
+  "last_page": "1220",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "924 F.3d 1198"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Fed. Cir.",
+    "id": 8955,
+    "name": "United States Court of Appeals for the Federal Circuit"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "19 U.S.C. \u00a7 1677",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "pin_cites": [
+        {
+          "page": "(9)"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "19 C.F.R. \u00a7 159.1",
+      "category": "laws:admin_compilation",
+      "reporter": "C.F.R.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "19 C.F.R. \u00a7 165.16",
+      "category": "laws:admin_compilation",
+      "reporter": "C.F.R.",
+      "pin_cites": [
+        {
+          "parenthetical": "in the context of investigating claims of evasion of antidumping and countervailing duties, requiring referrals to Commerce in certain circumstances"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "19 U.S.C. \u00a7 1500",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "weight": 4,
+      "pin_cites": [
+        {
+          "page": "(c)"
+        },
+        {
+          "page": "(c)"
+        },
+        {
+          "page": "(c)"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "669 F.2d 692",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        6091368,
+        1161571
+      ],
+      "year": 1982,
+      "opinion_index": 0,
+      "case_paths": [
+        "/ccpa/69/0061-01",
+        "/f2d/669/0692-01"
+      ]
+    },
+    {
+      "cite": "507 F. Supp. 1007",
+      "category": "reporters:federal",
+      "reporter": "F. Supp.",
+      "case_ids": [
+        6097003,
+        5555126
+      ],
+      "year": 1980,
+      "opinion_index": 0,
+      "case_paths": [
+        "/ct-intl-trade/1/0080-01",
+        "/f-supp/507/1007-01"
+      ]
+    },
+    {
+      "cite": "44 F.3d 973",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        7415547
+      ],
+      "weight": 4,
+      "year": 1994,
+      "pin_cites": [
+        {
+          "page": "977"
+        },
+        {
+          "page": "977"
+        },
+        {
+          "page": "977"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/44/0973-01"
+      ]
+    },
+    {
+      "cite": "284 F.3d 1261",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        9509933
+      ],
+      "year": 2002,
+      "pin_cites": [
+        {
+          "page": "1269"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/284/1261-01"
+      ]
+    },
+    {
+      "cite": "296 F.3d 1087",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        9406448
+      ],
+      "weight": 5,
+      "year": 2002,
+      "pin_cites": [
+        {
+          "page": "1097"
+        },
+        {
+          "page": "1089"
+        },
+        {
+          "page": "1095"
+        },
+        {
+          "page": "1095, 1098"
+        },
+        {
+          "page": "1089"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/296/1087-01"
+      ]
+    },
+    {
+      "cite": "725 F.3d 1295",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        4071377
+      ],
+      "weight": 5,
+      "year": 2013,
+      "pin_cites": [
+        {
+          "page": "1302"
+        },
+        {
+          "page": "1301",
+          "parenthetical": "emphasis omitted"
+        },
+        {
+          "page": "1300"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/725/1295-01"
+      ]
+    },
+    {
+      "cite": "305 U.S. 197",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6139848
+      ],
+      "weight": 4,
+      "year": 1938,
+      "pin_cites": [
+        {
+          "page": "217"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/305/0197-01"
+      ]
+    },
+    {
+      "cite": "164 F.3d 596",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        1381217
+      ],
+      "weight": 6,
+      "year": 1998,
+      "pin_cites": [
+        {
+          "page": "600"
+        },
+        {
+          "page": "600",
+          "parenthetical": "emphasis added"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/164/0596-01"
+      ]
+    },
+    {
+      "cite": "674 F.3d 1343",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        6049389
+      ],
+      "year": 2012,
+      "pin_cites": [
+        {
+          "page": "1348",
+          "parenthetical": "quoting Sandvik Steel Co. v. United States , 164 F.3d 596, 600 (Fed. Cir. 1998) "
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/674/1343-01"
+      ]
+    },
+    {
+      "cite": "744 F.2d 1556",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        598831
+      ],
+      "year": 1984,
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/744/1556-01"
+      ]
+    },
+    {
+      "cite": "802 F.3d 1339",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        4341667
+      ],
+      "weight": 4,
+      "year": 2015,
+      "pin_cites": [
+        {
+          "page": "1348"
+        },
+        {
+          "page": "1348"
+        },
+        {
+          "page": "1348"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/802/1339-01"
+      ]
+    },
+    {
+      "cite": "28 U.S.C. \u00a7 1295",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "pin_cites": [
+        {
+          "page": "(a)(5)"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "256 F. Supp. 3d 1265",
+      "category": "reporters:federal",
+      "reporter": "F. Supp. 3d",
+      "case_ids": [
+        12273888
+      ],
+      "weight": 5,
+      "year": 2017,
+      "pin_cites": [
+        {
+          "page": "1278, 1292, 1294"
+        },
+        {
+          "page": "1278-91"
+        },
+        {
+          "page": "1291-94"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f-supp-3d/256/1265-01"
+      ]
+    },
+    {
+      "cite": "776 F.3d 1351",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        6892970
+      ],
+      "weight": 3,
+      "year": 2015,
+      "pin_cites": [
+        {
+          "page": "1354"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/776/1351-01"
+      ]
+    },
+    {
+      "cite": "19 C.F.R. \u00a7 351.225",
+      "category": "laws:admin_compilation",
+      "reporter": "C.F.R.",
+      "weight": 14,
+      "pin_cites": [
+        {
+          "page": "(k)"
+        },
+        {
+          "page": "(a)"
+        },
+        {
+          "page": "(k)(1)"
+        },
+        {
+          "page": "(k)(2)"
+        },
+        {
+          "page": "(l)(3)"
+        },
+        {
+          "page": "(b)"
+        },
+        {
+          "page": "(l)(1)"
+        },
+        {
+          "page": "(l)(1)"
+        },
+        {
+          "page": "(l)(3)"
+        },
+        {
+          "page": "(b)"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "467 F.3d 1324",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        3805098
+      ],
+      "weight": 2,
+      "year": 2006,
+      "pin_cites": [
+        {
+          "page": "1327"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/467/1324-01"
+      ]
+    },
+    {
+      "cite": "892 F.3d 1186",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        12517187
+      ],
+      "weight": 6,
+      "year": 2018,
+      "pin_cites": [
+        {
+          "page": "1192-94",
+          "parenthetical": "\" Section 1581(i"
+        },
+        {
+          "page": "1192",
+          "parenthetical": "stating that the parties dispute the scope and application of the Orders"
+        },
+        {
+          "page": "1192"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/892/1186-01"
+      ]
+    },
+    {
+      "cite": "289 F.3d 792",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        9435676
+      ],
+      "weight": 15,
+      "year": 2002,
+      "pin_cites": [
+        {
+          "page": "794"
+        },
+        {
+          "page": "794"
+        },
+        {
+          "page": "795"
+        },
+        {
+          "page": "795"
+        },
+        {
+          "page": "794"
+        },
+        {
+          "page": "794",
+          "parenthetical": "\"When merchandise may be subject to an antidumping duty order, Customs makes factual findings to ascertain what the merchandise is, and whether it is described in an order.\""
+        },
+        {
+          "page": "795"
+        },
+        {
+          "page": "793-95"
+        },
+        {
+          "page": "795"
+        },
+        {
+          "page": "794"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/289/0792-01"
+      ]
+    },
+    {
+      "cite": "737 F.3d 1338",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        3732459
+      ],
+      "weight": 7,
+      "year": 2013,
+      "pin_cites": [
+        {
+          "page": "1340-41"
+        },
+        {
+          "page": "1344"
+        },
+        {
+          "page": "1344",
+          "parenthetical": "\"Importers cannot circumvent antidumping orders by contending that their products are outside the scope of existing orders when such orders are clear as to their scope. Our precedent evinces this understanding.\""
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/737/1338-01"
+      ]
+    },
+    {
+      "cite": "145 F. Supp. 3d 1271",
+      "category": "reporters:federal",
+      "reporter": "F. Supp. 3d",
+      "case_ids": [
+        4263512
+      ],
+      "weight": 2,
+      "year": 2016,
+      "pin_cites": [
+        {
+          "page": "1282",
+          "parenthetical": "opinion granting preliminary injunction"
+        },
+        {
+          "page": "1283-92"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f-supp-3d/145/1271-01"
+      ]
+    },
+    {
+      "cite": "28 U.S.C. \u00a7 1581",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "(i)"
+        },
+        {
+          "page": "(i)"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "190 F. Supp. 3d 1185",
+      "category": "reporters:federal",
+      "reporter": "F. Supp. 3d",
+      "case_ids": [
+        12140170
+      ],
+      "weight": 5,
+      "year": 2016,
+      "pin_cites": [
+        {
+          "page": "1191-92, 1199"
+        },
+        {
+          "page": "1191, 1195-96"
+        },
+        {
+          "page": "1190, 1195, 1200"
+        },
+        {
+          "page": "1203"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f-supp-3d/190/1185-01"
+      ]
+    },
+    {
+      "cite": "77 Fed. Reg. 73,018",
+      "category": "reporters:federal",
+      "reporter": "Fed. Reg.",
+      "weight": 2,
+      "year": 2012,
+      "opinion_index": 0
+    },
+    {
+      "cite": "77 Fed. Reg. 73,017",
+      "category": "reporters:federal",
+      "reporter": "Fed. Reg.",
+      "year": 2012,
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 1698,
+    "char_count": 71386,
+    "pagerank": {
+      "raw": 7.935490221578448e-08,
+      "percentile": 0.4620149668957534
+    },
+    "sha256": "6beb50c2a95e593954f6ae8ebc5b2631f432aecde86ea04c7245337c2ce99542",
+    "simhash": "1:b3aeb3cee7999ed7",
+    "word_count": 11207
+  },
+  "last_updated": "2024-02-27T18:46:58.656971+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "file_name": "1198-01",
+  "first_page_order": 1198,
+  "last_page_order": 1220
+}

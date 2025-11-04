@@ -1,0 +1,43 @@
+{
+  "id": 1967445,
+  "name": "Peisner v. The Detroit Free Press, Inc",
+  "name_abbreviation": "Peisner v. Detroit Free Press, Inc.",
+  "decision_date": "1985-03-15",
+  "docket_number": "No. 66849",
+  "first_page": "794",
+  "last_page": "794",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "421 Mich. 1202"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Mich.",
+    "id": 8790,
+    "name": "Michigan Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 49,
+    "name_long": "Michigan",
+    "name": "Mich."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 12,
+    "char_count": 70,
+    "ocr_confidence": 0.743,
+    "sha256": "a3ac438b0d2bbe3222b256ebd649e9b1aea84b40ac08baa45114916c88008acd",
+    "simhash": "1:6330aac4ad082920",
+    "word_count": 12
+  },
+  "last_updated": "2023-07-14T15:50:33.670399+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "file_name": "0794-10",
+  "first_page_order": 946,
+  "last_page_order": 946
+}

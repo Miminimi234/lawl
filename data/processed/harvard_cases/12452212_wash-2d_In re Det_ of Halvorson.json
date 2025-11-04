@@ -1,0 +1,78 @@
+{
+  "id": 12452212,
+  "name": "In re Det. of Halvorson",
+  "name_abbreviation": "In re Det. of Halvorson",
+  "decision_date": "2017-01-04",
+  "docket_number": "No. 93641-2",
+  "first_page": "1006",
+  "last_page": "1006",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "187 Wash. 2d 1006"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Wash.",
+    "id": 9029,
+    "name": "Washington Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 38,
+    "name_long": "Washington",
+    "name": "Wash."
+  },
+  "cites_to": [
+    {
+      "cite": "195 Wn. App. 1039",
+      "category": "reporters:state",
+      "reporter": "Wash. App.",
+      "case_ids": [
+        12454408,
+        12454409,
+        12454410,
+        12454411
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-app/195/1039-01",
+        "/wash-app/195/1039-02",
+        "/wash-app/195/1039-03",
+        "/wash-app/195/1039-04"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 27,
+    "char_count": 174,
+    "ocr_confidence": 0.867,
+    "sha256": "8806a10ac0e2a0acd5661567da264dc24771a0a73ec0216bb0e754372bb5cee5",
+    "simhash": "1:0139be381b5df4fd",
+    "word_count": 31
+  },
+  "last_updated": "2024-02-27T20:27:34.476040+00:00",
+  "provenance": {
+    "date_added": "2019-05-21",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In re Det. of Halvorson,"
+    ],
+    "opinions": [
+      {
+        "text": "Petition for review of a decision of the Court of Appeals, No. 32762-1-III, August 11, 2016, 195 Wn. App. 1039. Denied January 4, 2017.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "In re Det. of Halvorson,\nNo. 93641-2."
+  },
+  "file_name": "1006-08",
+  "first_page_order": 974,
+  "last_page_order": 974
+}

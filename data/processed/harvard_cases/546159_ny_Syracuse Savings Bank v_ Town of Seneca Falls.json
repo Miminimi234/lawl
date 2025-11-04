@@ -1,0 +1,710 @@
+{
+  "id": 546159,
+  "name": "Syracuse Savings Bank, Respondent, v. The Town of Seneca Falls, Appellant",
+  "name_abbreviation": "Syracuse Savings Bank v. Town of Seneca Falls",
+  "decision_date": "1881-10-11",
+  "docket_number": "",
+  "first_page": "317",
+  "last_page": "323",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "86 N.Y. 317"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "N.Y.",
+    "id": 24653,
+    "name": "New York Court of Appeals"
+  },
+  "jurisdiction": {
+    "id": 1,
+    "name_long": "New York",
+    "name": "N.Y."
+  },
+  "cites_to": [
+    {
+      "cite": "2 Barb. 316",
+      "category": "reporters:state",
+      "reporter": "Barb.",
+      "case_ids": [
+        1933790
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/barb/2/0316-01"
+      ]
+    },
+    {
+      "cite": "25 How. Pr. 416",
+      "category": "reporters:state",
+      "reporter": "How. Pr.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "18 Abb. 143",
+      "category": "reporters:federal",
+      "reporter": "Abb.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "17 Hun, 457",
+      "category": "reporters:state",
+      "reporter": "Hun,",
+      "pin_cites": [
+        {
+          "page": "462"
+        }
+      ],
+      "opinion_index": -1
+    },
+    {
+      "cite": "71 N. Y. 371",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        2168031
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny/71/0371-01"
+      ]
+    },
+    {
+      "cite": "54 N. Y. 226",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        514580
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "332"
+        }
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny/54/0226-01"
+      ]
+    },
+    {
+      "cite": "57 N. Y. 433",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        5136714
+      ],
+      "pin_cites": [
+        {
+          "page": "437"
+        }
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny/57/0433-01"
+      ]
+    },
+    {
+      "cite": "17 Hun, 374",
+      "category": "reporters:state",
+      "reporter": "Hun,",
+      "pin_cites": [
+        {
+          "page": "378"
+        }
+      ],
+      "opinion_index": -1
+    },
+    {
+      "cite": "43 N. Y. 130",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        2048155
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "132"
+        },
+        {
+          "page": "132"
+        }
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny/43/0130-01"
+      ]
+    },
+    {
+      "cite": "24 Barb. 427",
+      "category": "reporters:state",
+      "reporter": "Barb.",
+      "case_ids": [
+        4992444
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/barb/24/0427-01"
+      ]
+    },
+    {
+      "cite": "94 U. S. 429",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        5646369
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/us/94/0429-01"
+      ]
+    },
+    {
+      "cite": "10 Wall. 676",
+      "category": "reporters:scotus_early",
+      "reporter": "Wall.",
+      "case_ids": [
+        3436848
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/us/77/0676-01"
+      ]
+    },
+    {
+      "cite": "19 N. J. Eq. 412",
+      "category": "reporters:state",
+      "reporter": "N.J. Eq.",
+      "case_ids": [
+        8878242
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/nj-eq/19/0412-01"
+      ]
+    },
+    {
+      "cite": "20 Md. 1",
+      "category": "reporters:state",
+      "reporter": "Md.",
+      "case_ids": [
+        1817597
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/md/20/0001-01"
+      ]
+    },
+    {
+      "cite": "20 Cal. 96",
+      "category": "reporters:state",
+      "reporter": "Cal.",
+      "case_ids": [
+        2281285
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/cal/20/0096-01"
+      ]
+    },
+    {
+      "cite": "2 Cranch, 127",
+      "category": "reporters:scotus_early",
+      "reporter": "Cranch,",
+      "case_ids": [
+        1411944
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/us/6/0071-01"
+      ]
+    },
+    {
+      "cite": "21 Penn. St. 37",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        411527
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/21/0037-01"
+      ]
+    },
+    {
+      "cite": "5 Wall. 541",
+      "category": "reporters:scotus_early",
+      "reporter": "Wall.",
+      "case_ids": [
+        3457468
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/us/72/0541-01"
+      ]
+    },
+    {
+      "cite": "10 Wend. 547",
+      "category": "reporters:state",
+      "reporter": "Wend.",
+      "case_ids": [
+        2012882,
+        2012914
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/wend/10/0547-02",
+        "/wend/10/0547-01"
+      ]
+    },
+    {
+      "cite": "7 Ind. 570",
+      "category": "reporters:state",
+      "reporter": "Ind.",
+      "case_ids": [
+        1469141
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ind/7/0570-01"
+      ]
+    },
+    {
+      "cite": "92 U. S. 625",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        8769
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/us/92/0625-01"
+      ]
+    },
+    {
+      "cite": "69 N. Y. 491",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        530629
+      ],
+      "weight": 2,
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny/69/0491-01"
+      ]
+    },
+    {
+      "cite": "7 Hun, 499",
+      "category": "reporters:state",
+      "reporter": "Hun,",
+      "opinion_index": -1
+    },
+    {
+      "cite": "5 Hun, 485",
+      "category": "reporters:state",
+      "reporter": "Hun,",
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "499"
+        }
+      ],
+      "opinion_index": -1
+    },
+    {
+      "cite": "55 N. Y. 135",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        517437
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny/55/0135-01"
+      ]
+    },
+    {
+      "cite": "4 Lans. 530",
+      "category": "reporters:state",
+      "reporter": "Lans.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "37 Cal. 11",
+      "category": "reporters:state",
+      "reporter": "Cal.",
+      "case_ids": [
+        2225049
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/cal/37/0011-01"
+      ]
+    },
+    {
+      "cite": "52 Mo. 578",
+      "category": "reporters:state",
+      "reporter": "Mo.",
+      "case_ids": [
+        972157
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/mo/52/0578-01"
+      ]
+    },
+    {
+      "cite": "38 Conn. 397",
+      "category": "reporters:state",
+      "reporter": "Conn.",
+      "case_ids": [
+        760045
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/conn/38/0397-01"
+      ]
+    },
+    {
+      "cite": "20 Mich. 398",
+      "category": "reporters:state",
+      "reporter": "Mich.",
+      "case_ids": [
+        1939958
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/mich/20/0398-01"
+      ]
+    },
+    {
+      "cite": "7 Johns. 477",
+      "category": "reporters:state",
+      "reporter": "Johns.",
+      "case_ids": [
+        369188
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/johns/7/0477-01"
+      ]
+    },
+    {
+      "cite": "57 N. Y. 473",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        5139485
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny/57/0473-01"
+      ]
+    },
+    {
+      "cite": "45 Me. 53",
+      "category": "reporters:state",
+      "reporter": "Me.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "30 Vt. 344",
+      "category": "reporters:state",
+      "reporter": "Vt.",
+      "case_ids": [
+        741827
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/vt/30/0344-01"
+      ]
+    },
+    {
+      "cite": "20 N. J. Eq. 360",
+      "category": "reporters:state",
+      "reporter": "N.J. Eq.",
+      "case_ids": [
+        526167
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/nj-eq/20/0360-01"
+      ]
+    },
+    {
+      "cite": "36 Conn. 357",
+      "category": "reporters:state",
+      "reporter": "Conn.",
+      "case_ids": [
+        782565
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/conn/36/0357-01"
+      ]
+    },
+    {
+      "cite": "55 Penn. St. 136",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "11 Wall. 88",
+      "category": "reporters:scotus_early",
+      "reporter": "Wall.",
+      "case_ids": [
+        3412726
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/us/78/0088-01"
+      ]
+    },
+    {
+      "cite": "48 Vt. 24",
+      "category": "reporters:state",
+      "reporter": "Vt.",
+      "case_ids": [
+        11266601
+      ],
+      "weight": 2,
+      "opinion_index": -1,
+      "case_paths": [
+        "/vt/48/0024-01"
+      ]
+    },
+    {
+      "cite": "18 Wall. 478",
+      "category": "reporters:scotus_early",
+      "reporter": "Wall.",
+      "case_ids": [
+        3427381
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/us/85/0478-01"
+      ]
+    },
+    {
+      "cite": "17 Wis. 631",
+      "category": "reporters:state",
+      "reporter": "Wis.",
+      "case_ids": [
+        8709972
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/wis/17/0631-01"
+      ]
+    },
+    {
+      "cite": "36 Barb. 447",
+      "category": "reporters:state",
+      "reporter": "Barb.",
+      "case_ids": [
+        2430774
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/barb/36/0447-01"
+      ]
+    },
+    {
+      "cite": "49 N. Y. 332",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        2057507
+      ],
+      "weight": 2,
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny/49/0332-01"
+      ]
+    },
+    {
+      "cite": "5 Lans. 173",
+      "category": "reporters:state",
+      "reporter": "Lans.",
+      "case_ids": [
+        4838142
+      ],
+      "weight": 2,
+      "opinion_index": -1,
+      "case_paths": [
+        "/lans/5/0173-01"
+      ]
+    },
+    {
+      "cite": "15 N. Y. 595",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        2018079
+      ],
+      "weight": 2,
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny/15/0595-01"
+      ]
+    },
+    {
+      "cite": "37 Conn. 412",
+      "category": "reporters:state",
+      "reporter": "Conn.",
+      "case_ids": [
+        742318
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/conn/37/0412-01"
+      ]
+    },
+    {
+      "cite": "10 Watts, 351",
+      "category": "reporters:state",
+      "reporter": "Watts",
+      "case_ids": [
+        1850924
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/watts/10/0351-01"
+      ]
+    },
+    {
+      "cite": "6 Pick. 501",
+      "category": "reporters:state",
+      "reporter": "Pick.",
+      "case_ids": [
+        2011517
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/mass/23/0503-01"
+      ]
+    },
+    {
+      "cite": "4 Minn. 545",
+      "category": "reporters:state",
+      "reporter": "Minn.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "4 Ala. 48",
+      "category": "reporters:state",
+      "reporter": "Ala.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "5 Blackf. 195",
+      "category": "reporters:state",
+      "reporter": "Blackf.",
+      "case_ids": [
+        1379391
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/blackf/5/0195-01"
+      ]
+    },
+    {
+      "cite": "19 Penn. St. 329",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        970650
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/19/0329-01"
+      ]
+    },
+    {
+      "cite": "14 Ill. 334",
+      "category": "reporters:state",
+      "reporter": "Ill.",
+      "case_ids": [
+        2586784
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ill/14/0334-01"
+      ]
+    },
+    {
+      "cite": "102 Mass. 386",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "case_ids": [
+        2142946
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/mass/102/0386-01"
+      ]
+    },
+    {
+      "cite": "1 Hill, 324",
+      "category": "reporters:state",
+      "reporter": "Hill,",
+      "opinion_index": -1
+    },
+    {
+      "cite": "21 Hun, 304",
+      "category": "reporters:state",
+      "reporter": "Hun,",
+      "opinion_index": -1
+    },
+    {
+      "cite": "17 Hun, 374",
+      "category": "reporters:state",
+      "reporter": "Hun,",
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 798,
+    "char_count": 14885,
+    "ocr_confidence": 0.522,
+    "pagerank": {
+      "raw": 3.648228834596584e-07,
+      "percentile": 0.8899565187005111
+    },
+    "sha256": "392e49d81c340f5d8d4f0096f181008c8b00bc8c34aa1f64cf534fec5af4c26e",
+    "simhash": "1:41edca88a05ede7d",
+    "word_count": 2733
+  },
+  "last_updated": "2024-02-27T20:42:53.385782+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Syracuse Savings Bank, Respondent, v. The Town of Seneca Falls, Appellant."
+    ],
+    "opinions": [
+      {
+        "text": "Earl, J.\nThis action was brought to recover the amount due upon interest coupons of certain bonds issued by the defendant. The defendant answered, and there was a demurrer to the answer, which presents the questions of law now to be considered.\nIt appears from the complaint and answer that proceedings were regularly taken to bond the town to aid in the construetion of the Pennsylvania and Sodus Bay railroad, under the act chapter 907 of the Laws of 1869. The proceedings were carried to a termination in August, 1870, when the county judge of Seneca County made the adjudication and record, and appointed three commissioners, as provided in sections 2 and 3 of that act. The commissioners thus appointed took no action until after the 12th day of May, 1871, when they subscribed for stock to the amount of $200,000 in the Pennsylvania and Sodus Bay Bailroad Company and, to pay for such stock, issued and delivered to the company bonds of the town to the amount of $200,000, all dated July 1, 1871, and payable at the expiration of thirty years from their date, and the coupons in suit are for the interest upon some of such bonds.\nThe defense is based upon the effect of the act chapter 925 of the Laws of 1871, passed May 12 of that year, before the stock was subscribed for or the bonds issued, and it is two-fold: First, that the act of May 12 so far repealed the act of 1869 as to nullify and destroy the judgment of the county judge under that act, and to deprive the commissioners of any power to subscribe for stock and issue bonds under or in pursuance (of that judgment; and second, that even if they could lawfully have issued any bonds they could not issue bonds all payable at the expiration of thirty years from their date. As to the first ground the able opinion of Smith, J., in Angel v. Town of Hume, 17 Hun, 374, leaves but little more to be said now. The act of 1871 did not totally repeal the act of 1869. If it had done so then no bonds could have been issued under the judgment which had been rendered by the county judge. It did not in terms annul of arrest incomplete proceedings taken under the prior act, but it recognized the existence and possible validity of such proceedings by providing in section 4 for their review by a writ of certiorari, thus evincing the legislative intention that a judgment rendered by the county judge under the act of 1869, before the passage of the act of 1871, should be valid and remain in force unless reversed upon certiorari. We can perceive no good reason for thwarting the intention thus manifested. The act of 1871 was amendatory of the prior act and it undoubtedly repealed some of the provisions contained in the prior act, but its main purpose was to enable municipal corporations to he bonded in aid of railroads, and that purpose was still to be accomplished by a petition of tax payers and through an adjudication of the county, judge and commissioners to he appointed by him. Those portions of the act of 1869 which authorized the commissioners when appointed to subscribe for stock and issue the bonds were not repealed but remained in force.\nThe petition of the tax payers under the act of 1869 was strictly regular and sufficient when presented to the county judge, and after his judgment thereon was rendered it was fumctus officio. Both statutes make the judgment as conclusive as the judgments of courts of record. The act of 1871 cannot have retroactive effect. It did not in terms or by necessary implication nullify judgments rendered under the act of 1869. That judgment cannot be assailed on the ground that it was not based upon a proper petition, because it was based upon a petition entirely proper and sufficient at the time it was acted upon; and for the conclusion we thus reach the case of Wood v. Oakley (11 Paige, 400) is also an authority.\nThe act of 1871 furnished the rule of action from the time of its passage, and it only remains to he considered whether the action of the commissioners in subscribing for the stock and issuing the bonds was justified by the act, and the only allegation against such action is that the bonds were all made payable at the expiration of thirty years from their date.\nIn section 4 of the act of 1869 it was provided that the bonds to be issued by the commissioners \u201c shall become due and payable at the expiration of thirty years from their date.\u201d That section was amended by chapter 789 of the Laws of 1870 and again by chapter 283, passed April 4, 1871, the whole section being each time re-enacted as amended; and the provision as to the time when the bonds should be payable remained unaltered. Then followed the act of May 12, 1871, which again amended section 4 as it then stood by adding at the end thereof as follows: \u201c The said commissioners may issue the said bonds, payable at any time they may elect less than thirty years, any law heretofore passed to the contrary; but they shall not so issue said bonds that more than ten per cent of the principal.of the whole amount of bonds issued shall become due or payable in any one year.\u201d The claim on the part of the defendant is, that, after the last amendment, bonds could not be issued all payable at one time, but that they were required to be so issued that not more than ten per cent of the whole amount should become due or papable in any one year.\nThe legislative intent is not free from doubt, but we are constrained to believe, after careful consideration,, that the two provisions as to the payment of the bonds can stand together. They are both contained in the same section as amended... It had been three times enacted that the bonds should all be payable at the expiration of thirty years, the last enactment being about a month previous to the act of Hay 12, and provision was made for a sinking fund to redeem the bonds at the expiration of the period of thirty years, which remained unrepealed by the last amendment. The two provisions as to the time of payment must be permitted to stand, if they can; and it is plain that they can. The commissioners could still make the bonds payable at the expiration of thirty years, but if they elected to make them payable - in less than thirty years, then they were required to be so arranged that not more than the ten per cent should become due and payable in any one year. In this way full effect can be given to all parts of the section as amended.\nWe conclude, therefore, that the judgment should be affirmed.\nAll concur, except Daneorth, J., taking no part.\nJudgment affirmed.",
+        "type": "majority",
+        "author": "Earl, J."
+      }
+    ],
+    "attorneys": [
+      "H. L. Comstock for appellant.",
+      "Geo. F. Comstock for respondent."
+    ],
+    "corrections": "",
+    "head_matter": "Syracuse Savings Bank, Respondent, v. The Town of Seneca Falls, Appellant.\nWhere, under the act of 1869 (Chap. 907, Laws of 1869), authorizing municipal corporations to aid in the construction of railroads, and prior to the passage of the amendatory act of 1871 (Chap. 925, Laws of 1871) proceedings had been regularly taken to bond a town in aid of a railroad, and the county judge had made his adjudication and record and had appointed commissioners, held, that the proceedings were not invalidated by said amendatory act, and that the commissioners had authority, after its passage , to subscribe for stock and issue bonds under and in pursuance of the judgment of the county judge.\nAlso held, that the commissioners had authority to issue bonds, all payable at the expiration of thirty years from date; that the provision of said act of 1871, amending section 4 of the original act by adding thereto a clause authorizing the commissioners to issue bonds payable in less than thirty years, but requiring they shall not so issue them that more than ten per cent shall be payable in any one year, simply gave to the commissioners an option either to make them all payable at the expiration of thirty years or to make them payable in a shorter time; if they chose the latter, they were to be made payable in installments.\n(Argued June 21, 1881;\ndecided October 11, 1881.)\nAppeal from judgment of the General Term of the Supreme Court, in the fourth judicial department, entered upon an order made the second Tuesday of June, 1880, which affirmed a judgment in favor of plaintiff, entered upon an order sustaining a demurrer to defendant\u2019s answer herein. (Reported below, 21 Hun, 304.)\nThe nature of the action and the substance of the pleadings are set forth in the opinion.\nH. L. Comstock for appellant.\nWhere jurisdiction or authority is conferred by statute, the repeal of the statute arrests and puts an end to all proceedings under it, which are not fully completed so that they can stand alone without the exercise of any further power under the repealed' statute, unless there is a saving clause in the repealing statute exempting such proceedings from its operation. (Kay v. Goodwin, 4 M. & P. 341; Surtees v. Ellison, 9 B. & C. 750; Regina v. Denton, 18 Q. B. [N. S.] 761; Rex v. Justices, etc., of London, 3 Burr. 1456; Buller v. Palmer, 1 Hill, 324; N. L., etc., R. Co. v. Boston, etc., R. Co., 102 Mass. 386; Ill., etc., Canal v. Chicago, 14 Ill. 334; Covington, etc., R. Co. v. Kenton Co. Ct., 12 B. M. 144; Hampden v. Com., 19 Penn. St. 329; Hunt v. Jennings, 5 Blackf. 195; McQuilkin v. Doe, 8 id. 581; Pope v. Lewis, 4 Ala. 48; Baily v. Mason, 4 Minn. 545; Springfield v. Commrs. of Hamden, 6 Pick. 501; North Canal St. Road, 10 Watts, 351; Veats v. Danbury, 37 Conn. 412.) Section 1 of the act of 1869 was repealed by section 1 of the act of 1871, by necessary implication. (Ely v. Holton, 15 N. Y. 595; Moore v. Manssert, 5 Lans. 173 ; S. C., 49 N. Y. 332; Bay v. Gage, 36 Barb. 447; State v. Ingersoll, 17 Wis. 631; Steamboat Co. v. The Collector, 18 Wall. 478; Kelsey v. Kendall, 48 Vt. 24.) A subsequent statute, repugnant to a prior one, repeals such prior statute by necessary implication, and if the latter statute was intended as a substitute for the prior one, and was intended to prescribe the only rule which should govern in the cases provided for, it repeals the original act as absolutely as if the repeal were expressly declared. (U. S. v. Tyner, 11 Wall. 88; Norris v. Crocker, 13 How. [U. S.] 429; Davies v. Fairbairn, 3 id. 636; Gwinner v. Lehigh, etc., R. R. Co., 55 Penn. St. 136; Phillips v. Pickford, 9 Man., Gr. & S. 459; Warren v. Phillips, 36 Conn. 357; Jersey City v. R. R. Co,, 20 N. J. Eq. 360; Ind. School Dist. v. Whitehead, 2 Beas. Ch. 291; Farr v. Becket, 30 Vt. 344; Pingree v. Snell, 45 Me. 53.) The bonds could not - be issued under the act of 1871 because that act had no retroactive effect, and does not apply to proceedings commenced before its enactment. (N. Y. & O. M. R. Co. v. Van Horn, 57 N. Y. 473; Burton v. Wickwire, 54 id. 226; The People v. Supervisors, 43, id. 130; Sandford v.Bennett, 24 id. 20; Dash v. Vam Kleeck, 7 Johns. 477; Kelsey v. Kendall, 48 Vt. 24; Smith v. Humphrey, 20 Mich. 398; The State v. Smith, 38 Conn. 397; The State v. Blakemam, 52 Mo. 578; Sandford v. Barclay, 37 Cal. 11.) They could not be issued under the act of 1869 after the act of 1871 took effect because there was no longer any authority to issue bonds under that act, or according to its provisions, except as it was amended by the act of 1871. (The People v. Peck, 4 Lans. 530; The People v. Smith, 55 N. Y. 135; Aspinwall v. Com. of D. Co., 22 How. [U. S.] 364; The C., etc., R. Co. v. Kenton Co. Ct., 12 B. Monr. 144; Matter of B., etc., P. Co., 5 Hun, 485; Falconer v. B., etc., R. Co., 7 Hun, 499; S. C., 69 N. Y. 491; Town of Concord v. Portsmouth Sav. Bk., 92 U. S. 625.) The act of 1871 entirely destroyed the force and effect of the judgment of the county judge. (Aspinwall v. Commrs. of D. Co., 22 How. [U. S.] 364; The C., etc., R. Co. v. Kenton Co., Ct., 12 B. Monr. 144; Matter of Buffalo, etc. R. Co., 5 Hun, 485; Falconer v. Buffalo, etc., R. Co., 7 id. 499; 69 N. Y. 491.) The bonds are all void because made payable at one time and thirty years from their date. (Bacon\u2019s Abr\u2019t, Lit. St. D.; Quick v. Whitewater Township, 7 Ind. 570; Harrington v. Trustees of R., 10 Wend. 547; Ins. Co. v. Ritchie, 5 Wall. 541; Brown v. Commissioners, 21 Penn. St. 37.) The mode in which the commissioners are authorized to contract in behalf of the town being specifically and plainly pointed out and limited by the statute, that mode is exclusive and must be pursued or the contract will not bind the town. (Dillon on Mun. Corp., \u00a7 373; Frend v. Dennett, 4 C. B. [N. S.] 576; Head v. Ins. Co., 2 Cranch, 127; Zottman v. Sam Framcisco, 20 Cal. 96; Baltimore v. Reynolds, 20 Md. 1; Dey v. Jersey City, 19 N. J. Eq. 412.) The plaintiff can claim no protection as a bona fide holder of the bonds or coupons. (Marsh v. Fulton Co., 10 Wall. 676; McClure v. Township of Oxford, 94 U. S. 429; Smith v. City of Williamsburg, 24 Barb. 427.)\nGeo. F. Comstock for respondent.\nThe court in construing statutes should place itself in the situation of the legislature and ascertain the necessity and probable object of the statute, and then give such construction to the language used as to carry the intention of the legislature into effect, so far as it can be ascertained from, the terms of the statute itself. (People, ex rel. Peake, v. Bd. of Suffers of Col. Co., 43 N. Y. 130, 132; Sedgwick on Statutory and Constitutional Law, 325; Ind. School Dist. v. Whitehead, 2 Beasl. Ch. [N. J.] 290.) There is no such repugnancy between the Laws of 1871 and of 1869 as works an entire repeal of the latter by the former. (Angle, Rec'r, etc., v. Tome of Hume, 17 Hun, 374, 378; Fitzpatrick v. Boylan, 57 N. Y. 433, 437.) The proceedings in the different-towns and cities under the act of 1869, being necessarily, in different stages at the time the amendment thereof, by the act of 1871, was passed, the legislature would naturally intend to let what had been so done stand. (Benton v. Wickwire, 54 N. Y. 226; Sedgwick on Statutory and Constitutional Law, 252, 325; People, ex rel Peake, v. Bd. of Sup'vrs of. Col. Co., 43 N. Y. 130, 132.) In ascertaining the intention of the legislature the court may, in construing the act of 1871, consider its title. (People v. Wood, 71 N. Y. 371.) In affirmative statutes such parts of the prior one as may be incorporated into the subsequent one as consistent with it, must be considered in force. (Ely v. Holton, 15 N. Y. 595; Wood v. Oakley, 11 Paige, 403; Benton v. Wickwire, 54 N. Y. 226; Moore v. Mansert et al., 49 id. 332; Hill v. Nye, Admr., 17 Hun, 457, 462; Trist v. Calezas, 18 Abb. 143; 25 How. Pr. 416.) The amendment of the previous law by the act of 1871, as to the time of making said town bonds payable, is not repugnant to, nor does it repeal the provision of said previous law allowing them to be made payable in thirty years. (Ind. School Dist. v. Whitehead, 2 Beasl. Ch. 290, 291; Williams v. Potter, 2 Barb. 316; Moore v. Mansert, 5 Lans. 173; 49 N. Y. 332; Sedgwick on Statutory and Constitutional Law, 319, 365; Daviesse v. Fairbairn, 3 How. [U. S.] 636.)"
+  },
+  "file_name": "0317-01",
+  "first_page_order": 343,
+  "last_page_order": 349
+}

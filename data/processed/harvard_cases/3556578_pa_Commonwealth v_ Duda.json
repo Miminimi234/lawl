@@ -1,0 +1,1552 @@
+{
+  "id": 3556578,
+  "name": "COMMONWEALTH of Pennsylvania, Appellant, v. Bradley G. DUDA, Appellee",
+  "name_abbreviation": "Commonwealth v. Duda",
+  "decision_date": "2007-05-31",
+  "docket_number": "No. 24 WAP 2005",
+  "first_page": "164",
+  "last_page": "194",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "592 Pa. 164"
+    },
+    {
+      "type": "parallel",
+      "cite": "923 A.2d 1138"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "856 A.2d 806",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        1370938,
+        9212308
+      ],
+      "year": 2004,
+      "pin_cites": [
+        {
+          "page": "814"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/579/0490-01",
+        "/a2d/856/0806-01"
+      ]
+    },
+    {
+      "cite": "579 Pa. 490",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1370938
+      ],
+      "year": 2004,
+      "pin_cites": [
+        {
+          "page": "504"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/579/0490-01"
+      ]
+    },
+    {
+      "cite": "838 A.2d 566",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        9298712,
+        630377,
+        9298628,
+        630455
+      ],
+      "weight": 2,
+      "year": 2003,
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/838/0566-02",
+        "/pa/575/0541-01",
+        "/a2d/838/0566-01",
+        "/pa/575/0542-01"
+      ]
+    },
+    {
+      "cite": "575 Pa. 542",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        630455
+      ],
+      "year": 2003,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/575/0542-01"
+      ]
+    },
+    {
+      "cite": "414 Pa.Super. 124",
+      "category": "reporters:state",
+      "reporter": "Pa. Super.",
+      "case_ids": [
+        909420
+      ],
+      "weight": 2,
+      "year": 1992,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa-super/414/0124-01"
+      ]
+    },
+    {
+      "cite": "422 Pa.Super. 455",
+      "category": "reporters:state",
+      "reporter": "Pa. Super.",
+      "case_ids": [
+        923464
+      ],
+      "weight": 2,
+      "year": 1993,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa-super/422/0455-01"
+      ]
+    },
+    {
+      "cite": "423 Pa.Super. 112",
+      "category": "reporters:state",
+      "reporter": "Pa. Super.",
+      "case_ids": [
+        924726
+      ],
+      "weight": 2,
+      "year": 1993,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa-super/423/0112-01"
+      ]
+    },
+    {
+      "cite": "425 Pa.Super. 527",
+      "category": "reporters:state",
+      "reporter": "Pa. Super.",
+      "case_ids": [
+        927767
+      ],
+      "weight": 2,
+      "year": 1993,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa-super/425/0527-01"
+      ]
+    },
+    {
+      "cite": "644 A.2d 193",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        943104,
+        7863922
+      ],
+      "year": 1994,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa-super/434/0501-01",
+        "/a2d/644/0193-01"
+      ]
+    },
+    {
+      "cite": "434 Pa.Super. 501",
+      "category": "reporters:state",
+      "reporter": "Pa. Super.",
+      "case_ids": [
+        943104
+      ],
+      "year": 1994,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa-super/434/0501-01"
+      ]
+    },
+    {
+      "cite": "700 A.2d 1281",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        11908610
+      ],
+      "year": 1997,
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/700/1281-01"
+      ]
+    },
+    {
+      "cite": "712 A.2d 761",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        11818859
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/712/0761-01"
+      ]
+    },
+    {
+      "cite": "715 A.2d 1213",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        11711025
+      ],
+      "year": 1998,
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/715/1213-01"
+      ]
+    },
+    {
+      "cite": "663 A.2d 669",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7874275,
+        470806
+      ],
+      "year": 1995,
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/663/0669-01",
+        "/pa/541/0393-01"
+      ]
+    },
+    {
+      "cite": "541 Pa. 393",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        470806
+      ],
+      "year": 1995,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/541/0393-01"
+      ]
+    },
+    {
+      "cite": "681 A.2d 710",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        465104,
+        7861921
+      ],
+      "year": 1996,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/545/0347-01",
+        "/a2d/681/0710-01"
+      ]
+    },
+    {
+      "cite": "545 Pa. 347",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        465104
+      ],
+      "year": 1996,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/545/0347-01"
+      ]
+    },
+    {
+      "cite": "392 Pa.Super. 489",
+      "category": "reporters:state",
+      "reporter": "Pa. Super.",
+      "case_ids": [
+        875850
+      ],
+      "weight": 2,
+      "year": 1990,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa-super/392/0489-01"
+      ]
+    },
+    {
+      "cite": "386 Pa.Super. 363",
+      "category": "reporters:state",
+      "reporter": "Pa. Super.",
+      "case_ids": [
+        469371
+      ],
+      "weight": 2,
+      "year": 1989,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa-super/386/0363-01"
+      ]
+    },
+    {
+      "cite": "373 Pa.Super. 298",
+      "category": "reporters:state",
+      "reporter": "Pa. Super.",
+      "case_ids": [
+        696044
+      ],
+      "weight": 2,
+      "year": 1988,
+      "pin_cites": [
+        {
+          "parenthetical": "en banc"
+        },
+        {
+          "parenthetical": "en banc"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa-super/373/0298-01"
+      ]
+    },
+    {
+      "cite": "352 Pa.Super. 36",
+      "category": "reporters:state",
+      "reporter": "Pa. Super.",
+      "case_ids": [
+        651092
+      ],
+      "weight": 2,
+      "year": 1986,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa-super/352/0036-01"
+      ]
+    },
+    {
+      "cite": "231 A.2d 743",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "year": 1967,
+      "pin_cites": [
+        {
+          "page": "746"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "426 Pa. 254",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1908605
+      ],
+      "year": 1967,
+      "pin_cites": [
+        {
+          "page": "259-60"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/426/0254-01"
+      ]
+    },
+    {
+      "cite": "461 Pa. 68",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        483794
+      ],
+      "weight": 2,
+      "year": 1975,
+      "pin_cites": [
+        {
+          "page": "84"
+        },
+        {
+          "page": "644"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/461/0068-01"
+      ]
+    },
+    {
+      "cite": "168 Ariz. 114",
+      "category": "reporters:state",
+      "reporter": "Ariz.",
+      "case_ids": [
+        1459016
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "370"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ariz/168/0114-01"
+      ]
+    },
+    {
+      "cite": "880 A.2d 578",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        687762,
+        8937483
+      ],
+      "year": 2005,
+      "pin_cites": [
+        {
+          "page": "583"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/583/0636-01",
+        "/a2d/880/0578-01"
+      ]
+    },
+    {
+      "cite": "583 Pa. 636",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        687762
+      ],
+      "year": 2005,
+      "pin_cites": [
+        {
+          "page": "644"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/583/0636-01"
+      ]
+    },
+    {
+      "cite": "519 Pa. 450",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1813568
+      ],
+      "weight": 2,
+      "year": 1988,
+      "pin_cites": [
+        {
+          "page": "473",
+          "parenthetical": "summarizing, in terms of over-breadth, the defendant's challenge to one of the aggravating circumstances enumerated in Pennsylvania's death penalty statute"
+        },
+        {
+          "page": "92",
+          "parenthetical": "summarizing, in terms of over-breadth, the defendant's challenge to one of the aggravating circumstances enumerated in Pennsylvania's death penalty statute"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/519/0450-01"
+      ]
+    },
+    {
+      "cite": "527 U.S. 41",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        1248042
+      ],
+      "weight": 3,
+      "year": 1999,
+      "pin_cites": [
+        {
+          "page": "79"
+        },
+        {
+          "page": "1870"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/527/0041-01"
+      ]
+    },
+    {
+      "cite": "114 Nev. 142",
+      "category": "reporters:state",
+      "reporter": "Nev.",
+      "case_ids": [
+        11495730
+      ],
+      "weight": 5,
+      "year": 1998,
+      "pin_cites": [
+        {
+          "parenthetical": "rejecting a vagueness challenge to a similar statute, and noting that it was not apparent why anticipating one's blood alcohol level up to two hours after driving would be any more difficult than forecasting such level at the time of driving"
+        },
+        {
+          "page": "177",
+          "parenthetical": "rejecting a vagueness challenge to a similar statute, and noting that it was not apparent why anticipating one's blood alcohol level up to two hours after driving would be any more difficult than forecasting such level at the time of driving"
+        },
+        {
+          "page": "180",
+          "parenthetical": "citation omitted"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/nev/114/0142-01"
+      ]
+    },
+    {
+      "cite": "973 F.Supp. 975",
+      "category": "reporters:federal",
+      "reporter": "F. Supp.",
+      "case_ids": [
+        914384
+      ],
+      "weight": 2,
+      "year": 1997,
+      "pin_cites": [
+        {
+          "page": "980"
+        },
+        {
+          "page": "980-81",
+          "parenthetical": "rejecting a claim of potential arbitrary or discriminatory enforcement as to a similar Washington State DUI statute"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f-supp/973/0975-01"
+      ]
+    },
+    {
+      "cite": "269 Ga. 130",
+      "category": "reporters:state",
+      "reporter": "Ga.",
+      "case_ids": [
+        1699044
+      ],
+      "weight": 2,
+      "year": 1998,
+      "opinion_index": 0,
+      "case_paths": [
+        "/ga/269/0130-01"
+      ]
+    },
+    {
+      "cite": "720 A.2d 1139",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        11814127
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "1148-49"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/720/1139-01"
+      ]
+    },
+    {
+      "cite": "639 P.2d 1320",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1982,
+      "pin_cites": [
+        {
+          "page": "1324"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "96 Wash.2d 816",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        1157668
+      ],
+      "year": 1982,
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/96/0816-01"
+      ]
+    },
+    {
+      "cite": "528 P.2d 805",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "case_ids": [
+        10476633
+      ],
+      "year": 1974,
+      "pin_cites": [
+        {
+          "page": "807-08"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/p2d/528/0805-01"
+      ]
+    },
+    {
+      "cite": "323 S.E.2d 339",
+      "category": "reporters:state_regional",
+      "reporter": "S.E.2d",
+      "year": 1984,
+      "pin_cites": [
+        {
+          "page": "341-42"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "312 N.C. 441",
+      "category": "reporters:state",
+      "reporter": "N.C.",
+      "case_ids": [
+        4758398
+      ],
+      "year": 1984,
+      "opinion_index": 0,
+      "case_paths": [
+        "/nc/312/0441-01"
+      ]
+    },
+    {
+      "cite": "253 Ga. 235",
+      "category": "reporters:state",
+      "reporter": "Ga.",
+      "case_ids": [
+        1201139
+      ],
+      "weight": 3,
+      "year": 1984,
+      "pin_cites": [
+        {
+          "page": "144"
+        },
+        {
+          "page": "144"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ga/253/0235-01"
+      ]
+    },
+    {
+      "cite": "329 So.2d 296",
+      "category": "reporters:state_regional",
+      "reporter": "So. 2d",
+      "case_ids": [
+        9647183
+      ],
+      "pin_cites": [
+        {
+          "page": "297"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/so2d/329/0296-01"
+      ]
+    },
+    {
+      "cite": "673 P.2d 732",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1983,
+      "pin_cites": [
+        {
+          "page": "739-42"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "198 Cal.Rptr. 145",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr.",
+      "year": 1983,
+      "opinion_index": 0
+    },
+    {
+      "cite": "35 Cal.3d 257",
+      "category": "reporters:state",
+      "reporter": "Cal. 3d",
+      "case_ids": [
+        4471739
+      ],
+      "year": 1983,
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-3d/35/0257-01"
+      ]
+    },
+    {
+      "cite": "139 Ariz. 590",
+      "category": "reporters:state",
+      "reporter": "Ariz.",
+      "case_ids": [
+        720018
+      ],
+      "weight": 2,
+      "year": 1983,
+      "pin_cites": [
+        {
+          "page": "129"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ariz/139/0590-01"
+      ]
+    },
+    {
+      "cite": "927 P.2d 1129",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1996,
+      "pin_cites": [
+        {
+          "page": "1132",
+          "parenthetical": "holding that, in spite of the two-hour rule, the statutorily prohibited conduct is driving after ingesting alcohol"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "130 Wash.2d 747",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        72852
+      ],
+      "year": 1996,
+      "pin_cites": [
+        {
+          "parenthetical": "holding that, in spite of the two-hour rule, the statutorily prohibited conduct is driving after ingesting alcohol"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/130/0747-01"
+      ]
+    },
+    {
+      "cite": "492 N.W.2d 591",
+      "category": "reporters:state_regional",
+      "reporter": "N.W.2d",
+      "case_ids": [
+        10620005
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "594"
+        },
+        {
+          "page": "594-95",
+          "parenthetical": "citation and footnote omitted"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/nw2d/492/0591-01"
+      ]
+    },
+    {
+      "cite": "832 A.2d 418",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        9086721
+      ],
+      "weight": 2,
+      "year": 2003,
+      "pin_cites": [
+        {
+          "page": "422"
+        },
+        {
+          "page": "425"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/832/0418-01"
+      ]
+    },
+    {
+      "cite": "574 Pa. 460",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        587978
+      ],
+      "weight": 2,
+      "year": 2003,
+      "pin_cites": [
+        {
+          "page": "467"
+        },
+        {
+          "page": "471"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/574/0460-01"
+      ]
+    },
+    {
+      "cite": "461 U.S. 352",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11298570
+      ],
+      "weight": 3,
+      "year": 1983,
+      "pin_cites": [
+        {
+          "page": "357"
+        },
+        {
+          "page": "1858"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/461/0352-01"
+      ]
+    },
+    {
+      "cite": "913 A.2d 207",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        3851211,
+        8436668
+      ],
+      "weight": 2,
+      "year": 2006,
+      "pin_cites": [
+        {
+          "page": "212",
+          "parenthetical": "quoting Kolender v. Lawson, 461 U.S. 352, 357, 103 S.Ct. 1855, 1858, 75 L.Ed.2d 903 (1983)"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/590/0480-01",
+        "/a2d/913/0207-01"
+      ]
+    },
+    {
+      "cite": "590 Pa. 480",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        3851211
+      ],
+      "weight": 2,
+      "year": 2006,
+      "pin_cites": [
+        {
+          "page": "488",
+          "parenthetical": "quoting Kolender v. Lawson, 461 U.S. 352, 357, 103 S.Ct. 1855, 1858, 75 L.Ed.2d 903 (1983)"
+        },
+        {
+          "page": "491"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/590/0480-01"
+      ]
+    },
+    {
+      "cite": "828 A.2d 1079",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        588041,
+        9108060
+      ],
+      "weight": 3,
+      "year": 2003,
+      "pin_cites": [
+        {
+          "page": "1087"
+        },
+        {
+          "page": "1088"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/574/0121-01",
+        "/a2d/828/1079-01"
+      ]
+    },
+    {
+      "cite": "574 Pa. 121",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        588041
+      ],
+      "weight": 2,
+      "year": 2003,
+      "pin_cites": [
+        {
+          "page": "135"
+        },
+        {
+          "page": "136"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/574/0121-01"
+      ]
+    },
+    {
+      "cite": "896 A.2d 566",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        5653674,
+        8427002
+      ],
+      "year": 2006,
+      "pin_cites": [
+        {
+          "page": "573",
+          "parenthetical": "\"When the words of a statute are clear and free from all ambiguity, their plain language is generally the best indication of legislative intent.\""
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/586/0624-01",
+        "/a2d/896/0566-01"
+      ]
+    },
+    {
+      "cite": "586 Pa. 624",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        5653674
+      ],
+      "year": 2006,
+      "pin_cites": [
+        {
+          "page": "636",
+          "parenthetical": "\"When the words of a statute are clear and free from all ambiguity, their plain language is generally the best indication of legislative intent.\""
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/586/0624-01"
+      ]
+    },
+    {
+      "cite": "735 A.2d 681",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        11537033,
+        838561,
+        11537061,
+        838549
+      ],
+      "weight": 4,
+      "year": 1999,
+      "pin_cites": [
+        {
+          "page": "685"
+        },
+        {
+          "page": "685-86"
+        },
+        {
+          "page": "686",
+          "parenthetical": "emphasis added"
+        },
+        {
+          "parenthetical": "\"[T]he import of subsection (a)(5) was merely to permit the jury to rest its finding of a driving under the influence violation upon blood alcohol evidence bearing a temporal connection to the offense.\""
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/735/0681-01",
+        "/pa/558/0065-01",
+        "/a2d/735/0681-02",
+        "/pa/558/0064-01"
+      ]
+    },
+    {
+      "cite": "558 Pa. 65",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        838561
+      ],
+      "weight": 2,
+      "year": 1999,
+      "pin_cites": [
+        {
+          "page": "73"
+        },
+        {
+          "page": "73"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/558/0065-01"
+      ]
+    },
+    {
+      "cite": "681 A.2d 162",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7859172,
+        465078
+      ],
+      "weight": 6,
+      "year": 1996,
+      "pin_cites": [
+        {
+          "page": "166"
+        },
+        {
+          "page": "166"
+        },
+        {
+          "page": "166"
+        },
+        {
+          "page": "163-64"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/681/0162-01",
+        "/pa/545/0297-01"
+      ]
+    },
+    {
+      "cite": "545 Pa. 297",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        465078
+      ],
+      "weight": 6,
+      "year": 1996,
+      "pin_cites": [
+        {
+          "page": "307"
+        },
+        {
+          "page": "305-06"
+        },
+        {
+          "page": "307"
+        },
+        {
+          "page": "301"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/545/0297-01"
+      ]
+    },
+    {
+      "cite": "529 Pa. 101",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1831171
+      ],
+      "weight": 2,
+      "year": 1992,
+      "pin_cites": [
+        {
+          "parenthetical": "filed the same day as Jarman, and similarly finding the evidence insufficient to sustain an (a)(4"
+        },
+        {
+          "parenthetical": "filed the same day as Jarman, and similarly finding the evidence insufficient to sustain an (a)(4"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/529/0101-01"
+      ]
+    },
+    {
+      "cite": "529 Pa. 92",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1831179
+      ],
+      "weight": 3,
+      "year": 1992,
+      "pin_cites": [
+        {
+          "page": "99-100"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/529/0092-01"
+      ]
+    },
+    {
+      "cite": "376 Pa.Super. 121",
+      "category": "reporters:state",
+      "reporter": "Pa. Super.",
+      "case_ids": [
+        702785
+      ],
+      "weight": 2,
+      "year": 1988,
+      "pin_cites": [
+        {
+          "page": "128"
+        },
+        {
+          "page": "352-53"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa-super/376/0121-01"
+      ]
+    },
+    {
+      "cite": "518 A.2d 266",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        660250,
+        1800486
+      ],
+      "pin_cites": [
+        {
+          "page": "269"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa-super/358/0531-01",
+        "/pa/512/0641-01"
+      ]
+    },
+    {
+      "cite": "358 Pa.Super. 531",
+      "category": "reporters:state",
+      "reporter": "Pa. Super.",
+      "case_ids": [
+        660250
+      ],
+      "pin_cites": [
+        {
+          "page": "536"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa-super/358/0531-01"
+      ]
+    },
+    {
+      "cite": "519 Pa. 116",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1813572
+      ],
+      "weight": 2,
+      "year": 1988,
+      "pin_cites": [
+        {
+          "page": "125-34",
+          "parenthetical": "discussing the difficulty of relating BAC test results back to the time of driving"
+        },
+        {
+          "page": "30-35",
+          "parenthetical": "discussing the difficulty of relating BAC test results back to the time of driving"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/519/0116-01"
+      ]
+    },
+    {
+      "cite": "752 A.2d 384",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        11509602,
+        93698
+      ],
+      "weight": 2,
+      "year": 2000,
+      "pin_cites": [
+        {
+          "page": "388",
+          "parenthetical": "summarizing, in terms of overbreadth, the trial court's basis for invalidating a prior DUI statute"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/752/0384-01",
+        "/pa/561/0571-01"
+      ]
+    },
+    {
+      "cite": "561 Pa. 571",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        93698
+      ],
+      "weight": 2,
+      "year": 2000,
+      "pin_cites": [
+        {
+          "page": "579",
+          "parenthetical": "summarizing, in terms of overbreadth, the trial court's basis for invalidating a prior DUI statute"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/561/0571-01"
+      ]
+    },
+    {
+      "cite": "509 A.2d 1263",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        1796946,
+        1796995,
+        569973
+      ],
+      "weight": 2,
+      "year": 1986,
+      "pin_cites": [
+        {
+          "page": "1266"
+        },
+        {
+          "page": "1267"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/510/0503-01",
+        "/pa/510/0502-02",
+        "/pa-super/353/0258-01"
+      ]
+    },
+    {
+      "cite": "353 Pa.Super. 258",
+      "category": "reporters:state",
+      "reporter": "Pa. Super.",
+      "case_ids": [
+        569973
+      ],
+      "weight": 2,
+      "year": 1986,
+      "pin_cites": [
+        {
+          "page": "263-64"
+        },
+        {
+          "page": "266"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa-super/353/0258-01"
+      ]
+    },
+    {
+      "cite": "504 Pa. 244",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1787672
+      ],
+      "weight": 8,
+      "year": 1983,
+      "pin_cites": [
+        {
+          "page": "256"
+        },
+        {
+          "page": "1345"
+        },
+        {
+          "page": "252-56"
+        },
+        {
+          "page": "1343-45"
+        },
+        {
+          "page": "248-49"
+        },
+        {
+          "page": "1341"
+        },
+        {
+          "page": "254"
+        },
+        {
+          "page": "1344",
+          "parenthetical": "emphasis in original"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/504/0244-01"
+      ]
+    },
+    {
+      "cite": "276 Pa.Super. 36",
+      "category": "reporters:state",
+      "reporter": "Pa. Super.",
+      "case_ids": [
+        142613
+      ],
+      "weight": 2,
+      "year": 1980,
+      "pin_cites": [
+        {
+          "page": "40"
+        },
+        {
+          "page": "84"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa-super/276/0036-01"
+      ]
+    },
+    {
+      "cite": "203 A.2d 386",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "year": 1964,
+      "pin_cites": [
+        {
+          "page": "387"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "204 Pa.Super. 145",
+      "category": "reporters:state",
+      "reporter": "Pa. Super.",
+      "case_ids": [
+        769964
+      ],
+      "year": 1964,
+      "pin_cites": [
+        {
+          "page": "148"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa-super/204/0145-01"
+      ]
+    },
+    {
+      "cite": "100 Dick L.Rev. 441",
+      "category": "journals:journal",
+      "reporter": "Dick. L. Rev.",
+      "year": 1996,
+      "pin_cites": [
+        {
+          "page": "465-66"
+        }
+      ],
+      "opinion_index": 1
+    },
+    {
+      "cite": "735 A.2d 681",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        11537033,
+        838561,
+        11537061,
+        838549
+      ],
+      "year": 1999,
+      "pin_cites": [
+        {
+          "page": "687",
+          "parenthetical": "Zappala, J., concurring, joined by Nigro, J."
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/a2d/735/0681-01",
+        "/pa/558/0065-01",
+        "/a2d/735/0681-02",
+        "/pa/558/0064-01"
+      ]
+    },
+    {
+      "cite": "558 Pa. 65",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        838561
+      ],
+      "year": 1999,
+      "pin_cites": [
+        {
+          "parenthetical": "Zappala, J., concurring, joined by Nigro, J."
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/pa/558/0065-01"
+      ]
+    },
+    {
+      "cite": "681 A.2d 162",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7859172,
+        465078
+      ],
+      "year": 1996,
+      "opinion_index": 1,
+      "case_paths": [
+        "/a2d/681/0162-01",
+        "/pa/545/0297-01"
+      ]
+    },
+    {
+      "cite": "545 Pa. 297",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        465078
+      ],
+      "year": 1996,
+      "opinion_index": 1,
+      "case_paths": [
+        "/pa/545/0297-01"
+      ]
+    },
+    {
+      "cite": "752 A.2d 384",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        11509602,
+        93698
+      ],
+      "weight": 2,
+      "year": 2000,
+      "pin_cites": [
+        {
+          "parenthetical": "noting that absorption takes up to ninety minutes after consumption"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/a2d/752/0384-01",
+        "/pa/561/0571-01"
+      ]
+    },
+    {
+      "cite": "561 Pa. 571",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        93698
+      ],
+      "year": 2000,
+      "pin_cites": [
+        {
+          "parenthetical": "noting that absorption takes up to ninety minutes after consumption"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/pa/561/0571-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 1947,
+    "char_count": 58249,
+    "ocr_confidence": 0.675,
+    "pagerank": {
+      "raw": 1.1732329739334268e-06,
+      "percentile": 0.9871737695904279
+    },
+    "sha256": "b572cdc3f7566e42c7fc8ecc58200213336dea96b7da2209fee70386307cec5d",
+    "simhash": "1:867787a6f30dca27",
+    "word_count": 9530
+  },
+  "last_updated": "2024-02-27T21:45:49.457734+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "file_name": "0164-01",
+  "first_page_order": 216,
+  "last_page_order": 246
+}

@@ -1,0 +1,598 @@
+{
+  "id": 3718435,
+  "name": "DELIVERMED HOLDINGS, LLC, et al., Plaintiffs-Appellants, v. Michael SCHALTENBRAND, Joey Siddle, and Medicate Pharmacy, Inc., Defendants-Appellees",
+  "name_abbreviation": "DeliverMed Holdings, LLC v. Schaltenbrand",
+  "decision_date": "2013-10-07",
+  "docket_number": "Nos. 12-3773, 12-3774",
+  "first_page": "616",
+  "last_page": "629",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "734 F.3d 616"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "7th Cir.",
+    "id": 9010,
+    "name": "United States Court of Appeals for the Seventh Circuit"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "11 U.S.C. \u00a7 362",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "pin_cites": [
+        {
+          "page": "(c)(2)(A)"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "397 F.3d 524",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        9036082,
+        9032034
+      ],
+      "pin_cites": [
+        {
+          "page": "527"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/397/0524-01",
+        "/br/320/0524-01"
+      ]
+    },
+    {
+      "cite": "302 F.3d 725",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        11438721,
+        11356979
+      ],
+      "pin_cites": [
+        {
+          "page": "732"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/302/0725-01",
+        "/br/283/0725-01"
+      ]
+    },
+    {
+      "cite": "781 F.2d 613",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1536068
+      ],
+      "pin_cites": [
+        {
+          "page": "617"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/781/0613-01"
+      ]
+    },
+    {
+      "cite": "52 F.3d 1439",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        7415573
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "1443-44"
+        },
+        {
+          "page": "1444"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/52/1439-01"
+      ]
+    },
+    {
+      "cite": "412 F.3d 845",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        8970854
+      ],
+      "pin_cites": [
+        {
+          "page": "848"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/412/0845-01"
+      ]
+    },
+    {
+      "cite": "451 F.3d 424",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        3270701
+      ],
+      "pin_cites": [
+        {
+          "page": "448"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/451/0424-01"
+      ]
+    },
+    {
+      "cite": "94 F.3d 353",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        11328700
+      ],
+      "pin_cites": [
+        {
+          "page": "355"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/94/0353-01"
+      ]
+    },
+    {
+      "cite": "525 N.E.2d 94",
+      "category": "reporters:state_regional",
+      "reporter": "N.E.2d",
+      "weight": 2,
+      "year": 1988,
+      "pin_cites": [
+        {
+          "page": "102"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "121 Ill.Dec. 288",
+      "category": "reporters:state",
+      "reporter": "Ill. Dec.",
+      "year": 1988,
+      "opinion_index": 0
+    },
+    {
+      "cite": "170 Ill.App.3d 643",
+      "category": "reporters:state",
+      "reporter": "Ill. App. 3d",
+      "case_ids": [
+        3584990
+      ],
+      "year": 1988,
+      "opinion_index": 0,
+      "case_paths": [
+        "/ill-app-3d/170/0643-01"
+      ]
+    },
+    {
+      "cite": "963 N.E.2d 968",
+      "category": "reporters:state_regional",
+      "reporter": "N.E.2d",
+      "year": 2011,
+      "pin_cites": [
+        {
+          "page": "981"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "357 Ill.Dec. 570",
+      "category": "reporters:state",
+      "reporter": "Ill. Dec.",
+      "year": 2011,
+      "opinion_index": 0
+    },
+    {
+      "cite": "2011 IL App (1st) 101849",
+      "category": "reporters:neutral",
+      "reporter": "IL App (1st)",
+      "year": 2011,
+      "opinion_index": 0
+    },
+    {
+      "cite": "510 U.S. 517",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        230153
+      ],
+      "weight": 3,
+      "year": 1994,
+      "pin_cites": [
+        {
+          "parenthetical": "listing \"the need in particular circumstances to advance considerations of compensation and deterrence\" among factors courts should consider when considering whether to award fees under \u00a7 505"
+        },
+        {
+          "parenthetical": "listing \"the need in particular circumstances to advance considerations of compensation and deterrence\" among factors courts should consider when considering whether to award fees under \u00a7 505"
+        },
+        {
+          "parenthetical": "listing \"the need in particular circumstances to advance considerations of compensation and deterrence\" among factors courts should consider when considering whether to award fees under \u00a7 505"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/510/0517-01"
+      ]
+    },
+    {
+      "cite": "361 F.3d 434",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        645544
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "437"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/361/0434-01"
+      ]
+    },
+    {
+      "cite": "482 F.3d 910",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        3866449
+      ],
+      "pin_cites": [
+        {
+          "page": "920"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/482/0910-01"
+      ]
+    },
+    {
+      "cite": "17 U.S.C. \u00a7 505",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "2010 U.S. Dist. LEXIS 143590",
+      "category": "reporters:specialty_lexis",
+      "reporter": "U.S. Dist. LEXIS",
+      "year": 2010,
+      "pin_cites": [
+        {
+          "parenthetical": "noting section 411(b)(2)'s potential as a \"weapon to delay the proceedings in district court\""
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "2010 WL 3505100",
+      "category": "reporters:specialty_west",
+      "reporter": "WL",
+      "year": 2010,
+      "pin_cites": [
+        {
+          "parenthetical": "noting section 411(b)(2)'s potential as a \"weapon to delay the proceedings in district court\""
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "195 F.3d 299",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        1738149
+      ],
+      "pin_cites": [
+        {
+          "page": "310"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/195/0299-01"
+      ]
+    },
+    {
+      "cite": "531 U.S. 230",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        9505549
+      ],
+      "weight": 3,
+      "year": 2001,
+      "pin_cites": [
+        {
+          "page": "241",
+          "parenthetical": "noting Congress's use of the word \" 'shall' to impose discretionless obligations\""
+        },
+        {
+          "parenthetical": "noting Congress's use of the word \" 'shall' to impose discretionless obligations\""
+        },
+        {
+          "parenthetical": "noting Congress's use of the word \" 'shall' to impose discretionless obligations\""
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/531/0230-01"
+      ]
+    },
+    {
+      "cite": "37 C.F.R. \u00a7 202.3",
+      "category": "laws:admin_compilation",
+      "reporter": "C.F.R.",
+      "pin_cites": [
+        {
+          "page": "(c)",
+          "parenthetical": "\"An application for copyright registration may be submitted by ... the owner of any exclusive right in a work, or the duly authorized agent of any such ... owner\""
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "122 Stat. 4256",
+      "category": "laws:leg_session",
+      "reporter": "Stat.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "649 F.3d 1276",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        5715257
+      ],
+      "pin_cites": [
+        {
+          "page": "1295"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/649/1276-01"
+      ]
+    },
+    {
+      "cite": "559 U.S. 154",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        12446768,
+        3582065
+      ],
+      "weight": 3,
+      "year": 2010,
+      "pin_cites": [
+        {
+          "page": "157"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/l-ed-2d/176/0018-01",
+        "/us/559/0154-01"
+      ]
+    },
+    {
+      "cite": "17 U.S.C. \u00a7 411",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "weight": 14,
+      "pin_cites": [
+        {
+          "page": "(a)"
+        },
+        {
+          "page": "(b)(1)(A)"
+        },
+        {
+          "page": "(b)(1)(A)"
+        },
+        {
+          "page": "(b)(2)"
+        },
+        {
+          "page": "(b)(2)"
+        },
+        {
+          "page": "(b)(2)"
+        },
+        {
+          "page": "(b)(2)"
+        },
+        {
+          "page": "(b)(2)"
+        },
+        {
+          "page": "(b)(2)"
+        },
+        {
+          "page": "(b)(2)"
+        },
+        {
+          "page": "(b)(2)"
+        },
+        {
+          "page": "(b)(1)(A)"
+        },
+        {
+          "page": "(b)(2)"
+        },
+        {
+          "page": "(b)(1)(A)"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "839 F.2d 302",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        10543857
+      ],
+      "pin_cites": [
+        {
+          "page": "309"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/839/0302-01"
+      ]
+    },
+    {
+      "cite": "266 F.3d 622",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        9499229
+      ],
+      "pin_cites": [
+        {
+          "page": "630"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/266/0622-01"
+      ]
+    },
+    {
+      "cite": "317 F.3d 729",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        9340980
+      ],
+      "pin_cites": [
+        {
+          "page": "735"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/317/0729-01"
+      ]
+    },
+    {
+      "cite": "712 F.3d 988",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        3554820
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "992"
+        },
+        {
+          "page": "992"
+        },
+        {
+          "page": "992"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/712/0988-01"
+      ]
+    },
+    {
+      "cite": "218 F.3d 725",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        11197737
+      ],
+      "pin_cites": [
+        {
+          "page": "729"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/218/0725-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 1492,
+    "char_count": 40393,
+    "ocr_confidence": 0.662,
+    "pagerank": {
+      "raw": 2.1697585793269866e-07,
+      "percentile": 0.7709084583695807
+    },
+    "sha256": "49bafcbb0f36ed1c633c8cb47b25ddb22e8f89e24227da8f75e89ea897ed4e26",
+    "simhash": "1:2b4d6ee6789d0daf",
+    "word_count": 6214
+  },
+  "last_updated": "2024-02-27T22:33:04.011779+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before EASTERBROOK, WILLIAMS, and HAMILTON, Circuit Judges."
+    ],
+    "parties": [
+      "DELIVERMED HOLDINGS, LLC, et al., Plaintiffs-Appellants, v. Michael SCHALTENBRAND, Joey Siddle, and Medicate Pharmacy, Inc., Defendants-Appellees."
+    ],
+    "opinions": [
+      {
+        "text": "WILLIAMS, Circuit Judge.\nMark Swift, Michael Schaltenbrand, and Joey Siddle entered into an informal partnership arrangement in which they agreed to operate a mailorder pharmacy and to divide any profits they earned among themselves according to agreed-upon percentages. Over the next four years, the partners used this lack of structure to conceal their efforts to enrich themselves at the expense of their business. When the partners had a fundamental disagreement over the direction of their venture, one partner, Swift, caused two lawsuits to be filed against his other partners, Schal-tenbrand and Siddle. The cases were consolidated and over the next two-and-a-half years, lawyers for the partners racked up attorneys\u2019 fees attempting to sort out the precise parameters of the oral agreement among the partners. Ultimately, the district court listened to fourteen days of testimony before ruling against Swift on most of his claims.\nSwift and his allies (whom he paid to file suit against his partners) now appeal the trial court\u2019s ruling. They contend that the district court erred in issuing a declaratory judgment invalidating a copyright registration that Swift\u2019s marketing company, Deli-verMed Holdings, LLC, obtained for a logo used by the partnership. We must agree with Swift on this issue. We have no problem with the district court\u2019s finding that Swift misrepresented a material fact in DeliverMed\u2019s application to register a copyright in the logo. But the district court erred in invalidating DeliverMed\u2019s copyright registration without first consulting the Register of Copyrights as to the significance of the inaccurate information Swift knowingly provided. Because the Copyright Act requires courts to perform this curious procedure before invalidating a registration because of a fraud on the Copyright Office, we reverse this part of the court\u2019s judgment and remand for further proceedings.\nWe affirm the remainder of the district court\u2019s judgment. We are not persuaded by DeliverMed\u2019s challenge to the district court\u2019s award of attorneys\u2019 fees to Schal-tenbrand and Siddle for their successful defense of DeliverMed\u2019s copyright infringement claim. Infringement defendants are presumptively entitled to such fees and Swift\u2019s deliberate efforts to deceive the Copyright Office serve only to solidify the case for the court\u2019s award. Furthermore, we will not overturn the district court\u2019s finding that Swift failed to prove Schaltenbrand and Siddle breached their obligation to provide him with a share of the partnership\u2019s profits. Although Swift maintains that he was entitled to more than the over $1 million he received in distributions from an unprofitable venture, he has not provided any reliable basis to show a deficiency between what he received and what he was owed. Finally, Swift raises a number of fraud claims on appeal but he waived them by declining to include them in the final pretrial order in this case.\nI. BACKGROUND\nMark Swift had an idea. Swift\u2019s marketing firm, DeliverMed Holdings LLC, specialized in helping pharmacies attract new customers for their mail-order pharmacy services. With the marketing skills he used to help DeliverMed\u2019s clients, Swift believed he could create his own successful mailorder pharmacy business. But Swift could not do this alone. He needed a partner, a pharmacy that would service the customers that he identified and solicited. This joint venture would then, Swift hoped, secure a lucrative contract with the State of Illinois to provide mail-order pharmacy services to Medicaid patients.\nSwift eventually found a pharmacy willing to partner with him. In spring 2005, Swift got in touch with an acquaintance of his named Joey Siddle. Siddle told Swift that Siddle\u2019s boss, Michael Schaltenbrand, was interested in a business relationship. Schaltenbrand was the president and owner of Medicate Pharmacy, Inc., a retail pharmacy company with two Southern Illinois locations. In discussions with Schal-tenbrand, Swift outlined his vision for Medicate and DeliverMed. Essentially, Swift suggested that Medicate would deliver mail-order services to customers that DeliverMed found using various marketing strategies.\nIn July 2005, Swift, Schaltenbrand, and Siddle entered into an oral general partnership agreement creating a joint venture along the lines Swift proposed. The partnership had a specific purpose: to develop a list of mail-order pharmacy customers, provide services to those customers, divide the profits from that business, and eventually sell the book of customers to another pharmacy. The partners agreed to use income from the business to reimburse DeliverMed and Medicate for any costs resulting from pursuing the partnership\u2019s business. Any remaining profits were to be split among the partners according to agreed-upon percentages.\nThe partnership enjoyed early success as its partners worked together for the good of their new venture. Just as Swift hoped, the partnership secured a contract with the State of Illinois to provide mail-order services to Medicaid patients. With Swift\u2019s consent, Medicate began using the DeliverMed name to identify the mail-order services that the pharmacy provided to Illinois Medicaid patients and other customers on behalf of the partnership.\nSoon after the partnership started gaining steam, however, the partners began exploiting their informal arrangement for personal gain. Swift, Siddle, and Schal-tenbrand repeatedly requested (and received) profit distributions that far exceeded the amounts to which they were entitled under the agreement. Despite the fact that the partnership was a money-losing enterprise, the partners continually found the funds for distributions. For example, evidence presented to the district court indicated that, from 2005 to 2009, the partnership operated at a net loss of over $400,000. During this same period, however, Swift, Schaltenbrand, and Siddle received nearly $4 million in combined distributions. Swift even persuaded Schaltenbrand to take out loans to facilitate these unjustified payments to the partners. For his part, Swift concealed his excessive demands (which he knew had no basis in the actual profitability of the partnership) by commingling them with DeliverMed\u2019s requests for cost reimbursements. \u25a0 Swift and Schaltenbrand each became aware of the other\u2019s excessive distributions, but neither of them cared. So long as each partner was able to obtain his own unjustified share of partnership funds, no one made a fuss.\nIn between raids of partnership coffers, the partners occasionally found time to tend to their mail-order pharmacy business. In 2008, Swift decided that the partnership needed a logo to market its services. Swift retained an advertising company, Deeter Associates, for help in designing the logo. After discussing the matter with Swift, Linda Deeter, the Executive Vice President of Deeter Associates, asked an independent graphic designer, Allan Kovin, to design the logo. Deeter entered into an oral agreement with Kovin to design the logo as an independent contractor. The agreement did not contemplate a transfer of copyright in the logo to Swift, DeliverMed, or the partnership. Although Swift and Linda Deeter provided some direction and ideas as to the logo design, Kovin was the sole creator of the DeliverMed logo, a graphic depiction of a house and a pestle. Beginning in summer 2008, Medicate began using the house and pestle logo to identify the mail-order services it provided on behalf of the partnership.\nAfter an intra-rpartnership dispute over the direction of the business, relations among the partners reached a breaking point in summer 2009. A split formed within the partnership: DeliverMed and Swift had one plan for the joint venture while Medicate, Schaltenbrand, and Siddle had another. The two sides attempted to resolve their differences but were unsuccessful.\nAnticipating the partnership\u2019s demise, Swift began taking steps to secure a resolution that was favorable to his interests. On September 1, 2009, Swift\u2019s attorney sent a letter to Schaltenbrand indicating that Swift was amenable to a purported request from Schaltenbrand to dissolve the partnership. When Schaltenbrand and Siddle declined to initiate dissolution proceedings in response to the letter, Swift set out to destroy the partnership\u2019s mail-order operation and force his partners to the bargaining table. For example, Swift diverted incoming customer calls away from the partnership\u2019s phone lines. At Swift\u2019s direction, callers were connected either to Swift\u2019s personal cell phone or to a rival mailorder pharmacy. Swift later jeopardized the partnership\u2019s financing by falsely informing its lender that he and DeliverMed had initiated involuntary bankruptcy proceedings against Medicate. In addition, Swift also arranged for the partnership\u2019s customers to be contacted and encouraged to fill their prescriptions with other pharmacies.\nOn February 2, 2010, Swift filed suit against Schaltenbrand, Siddle, and Medicate (collectively, \u201cDefendants\u201d), asserting a litany of federal and state-law claims (\u201cSwift Action\u201d). Among other claims, Swift alleged that his partners breached the partnership agreement by failing to provide Swift with the share of the partnership\u2019s profits to which he was entitled. A month later, DeliverMed, Deeter Associates, and Linda Deeter (collectively, \u201cDeliverMed Plaintiffs\u201d) filed suit against Defendants asserting several trademark infringement claims arising out of Medicate\u2019s use of the DeliverMed name and the \u201chouse and pestle\u201d logo (\u201cDeliverMed Action\u201d). The DeliverMed Plaintiffs filed suit at Swift\u2019s behest \u2014 Deeter Associates and Linda Deeter signed a contract with Swift in which they agreed to file suit in exchange for a cash payment and reimbursement of litigation expenses.\nSometime after causing the DeliverMed Action to be filed, Swift attempted to enlist the help of the United States Copyright Office in this dispute. On April 1, 2011, DeliverMed, at Swift\u2019s direction, submitted an application to register a copyright in the \u201chouse and pestle\u201d logo used by the partnership. The application stated that Linda Deeter was the author of the logo and that she transferred her copyright to DeliverMed by written agreement. But Swift knew that no such agreement existed at the time he filed the application. Although Linda Deeter did sign a transfer of ownership agreement, she only did so on April 8, 2011, a week after Swift filed DeliverMed\u2019s registration application. The Copyright Office issued a certificate of registration in the logo listing DeliverMed as the copyright owner by virtue of a written transfer. Soon after, DeliverMed amended its complaint to add a claim for copyright infringement. In response, Defendants filed a counterclaim seeking a declaratory judgment invalidating Deli-verMed\u2019s copyright registration.\nAfter conducting a fourteen-day bench trial of the consolidated cases, the district court issued a 64-page recitation of its findings of fact and conclusions of law. In the DeliverMed Action, the court found against the DeliverMed Plaintiffs on all causes of action, including their claim for copyright infringement.. With respect to the copyright action, the- court concluded that DeliverMed, Linda Deeter, and Deeter Associates had not shown that they owned a copyright in the logo. Without this showing, the court ruled they could not maintain a suit for infringement as a matter of law. Alternatively, the court found that the actual owner of the copyright, graphic designer Kovin, had transferred a nonexclusive license to Defendants to use the logo in connection with providing mail-order pharmacy services on behalf of the partnership.\nThe district court also awarded Defendants a declaratory judgment invalidating DeliverMed\u2019s copyright registration for the log\u00f3. In invalidating the logo registration, the court relied upon its factual findings that Swift made knowing material misrepresentations in DeliverMed\u2019s registration application to the Copyright Office. The court further ordered DeliverMed to pay Defendants\u2019 attorneys\u2019 fees that they incurred in litigating the copyright infringement claim.\nIn the Swift Action, the court ruled against Swift on most of his claims. With respect to Swift\u2019s breach of contract claim related to his profit distributions,'the court concluded that Swift failed to satisfy his burden of proof regarding \u201cthe magnitude of any profits the [partnership] had, the distributions made to Swift ... or the insufficiency of those distributions when compared to those promised in \"the [ ] partnership agreement.\u201d Alternatively, the court concluded that Swift was not entitled to any partnership profits after September 1, 2009, because Swift wrongfully dissociated himself from the partnership on that date. In ruling against Swift, the court cited its \u201cserious[ ] question[s]\u201d regarding his \u201ccredibility in all areas of his testimony.\u201d\nThe DeliverMed Plaintiffs and Swift now appeal certain aspects of the district court\u2019s ruling.\nII. ANALYSIS\nOn appeal, Swift and the DeliverMed Plaintiffs present a number of issues for our review. The DeliverMed Plaintiffs contend that the district court erred in invalidating DeliverMed\u2019s copyright registration based on findings that Swift knowingly misrepresented facts in DeliverMed\u2019s application for registering a copyright in the \u201chouse and pestle\u201d logo. The Deli-verMed Plaintiffs also maintain that the district court erred by awarding attorneys\u2019 fees to Defendants for their successful defense of the copyright infringement claim. In the Swift Action, Swift argues that the district court erred in concluding that Defendants did not breach the partnership agreement by failing to pay Swift his appropriate share of the partnership\u2019s profits. Swift also challenges the district court\u2019s conclusion that he abandoned other fraud claims by failing to include them in the final pretrial order. We discuss each of these issues in turn below.\nA. District Court Erred in Invalidating DeliverMed\u2019s Copyright Registration\nThe DeliverMed Plaintiffs challenge the district court\u2019s invalidation of DeliverMed\u2019s copyright registration based on a finding that Swift knowingly misrepresented material facts in his registration application. When reviewing a bench trial, we review de novo the district court\u2019s legal conclusions. See Johnson v. West, 218 F.3d 725, 729 (7th Cir.2000). A district court\u2019s findings of fact, and its application of the law to those facts, are reviewed for clear error. Furry v. United States, 712 F.3d 988, 992 (7th Cir.2013). \u201cA finding is clearly erroneous only when this court \u2018is left with a definite and firm conviction that a mistake has been committed.\u2019 \u201d Cohen Dev. Co. v. JMJ Props., 317 F.3d 729, 735 (7th Cir.2003) (quoting Bowles v. Quantum Chem. Co., 266 F.3d 622, 630 (7th Cir.2001)). Clear error may be found if \u201cthe trial judge\u2019s interpretation of the facts is implausible,- illogical, internally inconsistent or contradicted by documentary or other extrinsic evidence.\u201d Furry, 712 F.3d at 992 (quoting EEOC v. Sears Roebuck & Co., 839 F.2d 302, 309 (7th Cir.1988)).\nAs a general matter, and with exceptions not relevant here, the Copyright Act provides that a copyright holder must register its copyright in a work with the United . States Copyright Office before filing suit for infringement. 17 U.S.C. \u00a7 411(a); Reed Elsevier, Inc. v. Muchnick, 559 U.S. 154, 157, 130 S.Ct. 1237, 176 L.Ed.2d 18 (2010). But an infringement plaintiff cannot satisfy this precondition .by duping the Copyright Office into issuing a certificate of registration based on a false claim of copyright ownership. To prevent plaintiffs from abusing the registration process in this way, the Copyright Act allows for the invalidation of registrations obtained by knowing misrepresentations of material facts. See 17 U.S.C. \u00a7 411(b)(1)(A)-(B). As stated in the statute, a registration will not support the pursuit of an infringement action if (1) the registrant included \u201cinaccurate information ... on the application for copyright registration with knowledge that it was inaccurate;\u201d and (2) \u201cthe inaccuracy of the information, if known, would have caused the Register of Copyrights to refuse registration.\u201d Id.; see also Therasense, Inc. v. Becton, Dickinson & Co., 649 F.3d 1276, 1295 (Fed.Cir.2011).\nFollowing the bench trial of the Deli-verMed Action, the district court invalidated DeliverMed\u2019s copyright registration for the \u201chouse and pestle\u201d logo because the company (at Swift\u2019s direction) knowingly made material misrepresentations in its registration application. The court identified two such misstatements: (1) that Linda Deeter was the author of the logo (and thus owner of a valid copyright interest in it); and (2) that Linda Deeter transferred her copyright in the logo to DeliverMed by written agreement.\nThe DeliverMed Plaintiffs now argue that the district court clearly erred in finding that Swift deliberately misrepresented these facts. In briefing this issue, the parties focus their attention on whether Swift knew that Linda Deeter was not the author of the logo when submitting his application. Given Swift\u2019s limited knowledge of the process used to create the logo and his minimal understanding of copyright principles, the DeliverMed Plaintiffs maintain, the evid\u00e9nce did not support such a finding.\nBut even if we agree that Swift did not knowingly misrepresent that Linda Deeter was the author, we would still uphold the trial court\u2019s finding that Swift knowingly included inaccurate information in Deli-verMed\u2019s registration application. ' The DeliverMed Plaintiffs have not provided any evidence to contradict the court\u2019s determination that Swift knowingly lied about the existence of a written ownership transfer agreement between DeliverMed and Linda Deeter. Although they eventually executed a transfer agreement, this happened a week after DeliverMed filed its registration application. The fact that the parties later entered into an agreement does not transform Swift\u2019s earlier misrepresentation into a true statement. See, e.g., Ass\u2019n Benefit Servs. v. Caremark Rx, Inc., 493 F.Bd 841, 853 (7th Cir.2007) (\u201cA claim for fraud ... requires a showing that, at the time the fraudulent statement was made, it was an intentional misrepresentation.\u201d) (emphasis in original). \u2019\nAlthough we have no problem upholding the trial court\u2019s ultimate factual finding, we asked the parties to file supplemental briefing on whether the\u2019 district court made a legal error when invalidating DeliverMed\u2019s copyright registration. Among other innovations, the most recent amendments to the Copyright Act instituted a new procedure for courts confronted with a registration allegedly obtained by knowing misstatements in an application. See generally Prioritizirig Resources and Organization for Intellectual Property Act of 2008 (\u201cPRO IP Act\u201d), Pub.L. No. 110-403, \u00a7 101, 122 Stat. 4256, 4257-58. Recall that the Copyright Act provides for the invalidation of registrations where the registrant knowingly misrepresented information in his application and \u201cthe' inaccuracy of the information, if known, would have caused the Register of Copyrights to refuse registration.\u201d 17 U.S.C. \u00a7 411(b)(1)(A)-(B). Instead of relying solely on the court\u2019s own assessment of the Register\u2019s response to an inaccuracy, the statute obligates courts to obtain an opinion from the Register on the matter:\nIn any case in which inaccurate information ... is alleged, the court shall request the Register of Copyrights to advise the court whether the inaccurate information, if known, would have caused the Register of Copyrights to refuse registration.\n17 U.S.C. \u00a7 411(b)(2). In one of the few instances in which it was called upon to deliver its opinion to a federal court, the Register described the purpose of this mechanism:\n17 U.S.C. \u00a7 411(b)(2) was amended to ensure that no court holds that a certifi- . cate is invalid due to what it considers to be a misstatement on an application without first obtaining the input of the Register as to whether the application was properly filed or, in the words of \u00a7 411(b)(2), \u201cwhether the inaccurate information, if known, would have caused the Register of Copyrights to refuse registration.\u201d\nResponse of the Register of Copyrights to Request Pursuant to 17 U.S.C. \u00a7 411(b)(2) at 10-11, Olem Shoe Corp. v. Wash. Shoe Co., No. 1:09-cv-23494 (S.D.Fla. Oct. 14, 2010); see also United States Copyright Office, Annual Report of the Register of Copyrights: Fiscal Year Ending September 30, 2009, 34 (2009) available at http:// www.copyright.gov/reports/annual/2009/ar 2009.pdf (\u201cThe [PRO IP] Act ... amended section 411 ... by adding subsection (b) to create a new procedure ... that requires courts to seek the advice of the Copyright Office on issues that may involve fraud on the Copyright Office.\u201d).\nIn this case, the parties did not ask the district court to consult the Register before invalidating DeliverMed\u2019s registration. Instead, the court relied upon its own speculation that \u201chad the application contained truthful information as to ... the facts supporting DeliverMed\u2019s claim to ownership, the Copyright Office would have rejected DeliverMed\u2019s application.\u201d The district court\u2019s reasoning seems consistent with the Register\u2019s practice. See 37 C.F.R. \u00a7 202.3(c) (\u201cAn application for copyright registration may be submitted by ... the owner of any exclusive right in a work, or the duly authorized agent of any such ... owner\u201d); U.S. Copyright Office, Compendium II: Copyright Office Practices, \u00a7 606.03 (1988) (\u201cThe Copyright Office will refuse to register a claim when it has knowledge that the applicant is not authorized to submit the claim.\u201d). But under section 411(b)(2), a court still must request a response from the Register before coming to 'a conclusion as to the materiality of a particular misrepresentation. See generally Lopez v. Davis, 531 U.S. 230, 241, 121 S.Ct. 714, 148 L.Ed.2d 635 (2001) (noting Congress\u2019s use of the word \u201c \u2018shall\u2019 to impose discretionless obligations\u201d). By granting a declaratory judgment invalidating DeliverMed\u2019s copyright registration without following the statutorily mandated procedure, the district court made a legal error.\nGiven that the parties did not raise this provision at trial (or on appeal, at least until we asked for supplemental briefing on the matter), this was an understandable oversight. Ordinarily, we would decline to address this issue because the DeliverMed Plaintiffs failed to raise it in their opening brief. See, e.g., United States v. Hook, 195 F.3d 299, 310 (7th Cir.1999). But ignoring a clear statutory directive due to the inadvertence of the parties would defeat the purpose of 17 U.S.C. \u00a7 411(b)(2) and deprive the Register' of its right to weigh in on precisely this issue. See 17 U.S.C. \u00a7 411(b)(2); Response of the Register of Copyrights to Request Pursuant to 17 U.S.C. \u00a7 411(b)(2) at 10-11, Olem Shoe, No. 1:09-cv-23494 (\u201c17 U.S.C. \u00a7 411(b)(2) was amended to ensure that no court holds that a certificate is invalid due to what it, considers to be a misstatement on an application without first obtaining the input of the Register.\u201d).\nUnder these unique circumstances, we vacate the court\u2019s declaratory judgment invalidating DeliverMed\u2019s copyright registration in the \u201chouse and pestle\u201d logo and remand for further proceedings. On remand, if Defendants desire to pursue the declaratory judgment action further, the district court must ask the Register whether it would have refused DeliverMed\u2019s application had it been aware that DeliverMed had no written ownership transfer agreement at the time of its application. After receiving that advisory opinion, the court may then determine whether to invalidate DeliverMed\u2019s registration for the logo.\nGiven its obvious potential for abuse, we must strongly caution both courts and litigants to be wary of using this device in the future. See, e.g., Olem Shoe Corp. v. Wash. Shoe Co., No. 09-cv-23494, 2010 WL 3505100, at *3 n. 4, 2010 U.S. Dist. LEXIS 143590, at *6 n. 4 (S.D.Fla. Sep. 3, 2010) (noting section 411(b)(2)\u2019s potential as a \u201cweapon to delay the proceedings in district court\u201d). Although the statute appears to mandate that the Register get involved \u201c[i]n any case in which inaccurate information [in an application for copyright registration] is alleged,\u201d 17 U.S.C. \u00a7 411(b)(2), input need not be sought immediately after a party makes such a claim. Instead, courts can demand that the party seeking invalidation first establish that the other preconditions to invalidity are satisfied before obtaining the Register\u2019s advice on materiality. ' In other words, a litigant should demonstrate that (1) the registration application included inaccurate information; and (2) the registrant knowingly included the inaccuracy in his submission to the Copyright Office. 17 U.S.C. \u00a7 411(b)(1)(A). Once these requirements are met, a court may question the Register as to whether the inaccuracy would have resulted in the application\u2019s refusal. Aside from minimizing the risk that parties would use this provision as a delay tactic, this approach has the added benefit of an endorsement from the Register. See Response of the Register of Copyrights to Request Pursuant to 17 U.S.C. \u00a7 411(b)(2) at 12, Olem Shoe, No. 1:09-cv-23494 (\u201c[Bjefore asking the Register whether she would have refused to register a copyright ... a court should feel free to determine whether there is in fact a misstatement of fact.\u201d). When faced with this situation in the future, courts should tread carefully and employ this mechanism only when necessary.\nB. District Court Did Not Err in Awarding Attorneys\u2019 Fees to Defendants\nDeliverMed also challenges the district court\u2019s award of attorneys\u2019 fees to Defendants in connection with their successful defense of the DeliverMed Plaintiffs\u2019 copyright claim. The Copyright Act grants district courts the discretion to award attorneys\u2019 fees to the prevailing party in a copyright infringement suit. 17 U.S.C. \u00a7 505. We review attorneys\u2019 fees awards under an abuse of discretion standard. JCW Invs., Inc. v. Novelty, Inc., 482 F.3d 910, 920 (7th Cir.2007).\nWe see no abuse of discretion here. As a consequence of their successful defense of an infringement suit, Defendants are entitled to a \u201cvery strong\u201d presumption in favor of receiving attorneys\u2019 fees. Assessment Techs. of Wis., LLC v. WIREdata, Inc., 361 F.3d 434, 437 (7th Cir.2004). This presumption is designed to ensure that an infringement defendant does not abandon a meritorious defense in situations in which \u201cthe cost of vindication exceeds the private benefit to the party.\u201d Id. \u201cFor without the prospect of such an award, [an infringement defendant] might be forced into a nuisance settlement or deterred altogether from exercising [its] rights.\u201d Id. DeliverMed has not provided us with any reason to rebut this presumption. Indeed, the fact that Swift deliberately lied to the Copyright Office lends additional support to the court\u2019s award. See Fogerty v. Fantasy, Inc., 510 U.S. 517, 539 n. 19, 114 S.Ct. 1023, 127 L.Ed.2d 455 (1994) (listing \u201cthe need in particular circumstances to advance considerations of compensation and deterrence\u201d among factors courts should consider when considering whether to award fees under \u00a7 505). We affirm the district court\u2019s order requiring DeliverMed to pay Defendants\u2019 reasonable attorneys\u2019 fees incurred in defending against the DeliverMed Plaintiffs\u2019 copyright suit.\nC. Swift Did Not Satisfy Burden of Proof on Breach of Contract Claim Related to Distributions\nWe turn now to the Swift Action. Swift argues that the district court erred in ruling against him on his breach of contract claim arising out of Defendants\u2019 purported failure to pay Swift his rightful share of the partnership\u2019s profits. We review the district court\u2019s findings on this issue for clear error. Furry, 712 F.3d at 992.\nUnder Illinois law, a plaintiff asserting a breach of contract claim \u201cmust plead and prove: (1) the existence of a contract, (2) the performance of its conditions by the plaintiff, (3) a breach by the defendant, and (4) damages as a result of the breach.\u201d Law Offices of Colleen M. McLaughlin v. First Star Fin. Corp., 2011 IL App (1st) 101849, 357 Ill.Dec. 570, 963 N.E.2d 968, 981 (2011). For Swift, the last two elements blend into one. To establish a breach, he has to show a deficiency between his rightful share of the partnership\u2019s profits and the amount of profits he actually received. The resulting deficiency, if any, would more or less equal his damages. So to succeed on both elements, Swift has to \u201cestablish a reasonable basis\u201d for determining the amount of profits that Defendants denied him. See Kohlmeier v. Shelter Ins. Co., 170 Ill.App.3d 643, 121 Ill.Dec. 288, 525 N.E.2d 94, 102 (1988). Swift could not satisfy his burden \u201con the basis of speculation or conjecture.\u201d Id.\nAfter evaluating the evidence Swift presented, the district court concluded that Swift had not met his burden of proof that Defendants breached their obligation to pay him distributions. The court found Swift\u2019s evidence on this point to be:\nunclear, inconsistent, unreliable, and often incredible. The preponderance of the evidence does not demonstrate the magnitude of any profits the [partnership] had, the distributions made to Swift ..., or the insufficiency of those distributions when compared to those promised in the JV partnership agreement.\nSwift maintains that, \u201cdespite the inconsistencies\u201d in the financial records he provided, the district court had a reasonable basis to find a breach of Defendants\u2019 obligation to pay him his share of the profits from 2005 until 2011. Appellant Br. at 51.\nWe think the district court has it right. Swift has not provided any reasonable basis to conclude that he received less than his share of the partnership\u2019s profits. For example, to show that Defendants breached the agreement by paying him roughly $600,000 in distributions from 2005-2007, Swift refers us to some informal financial statements. The individual that prepared them, Larry Schaltenbrand, Jr. (\u201cLarry Jr.\u201d), testified that the records did not present an accurate depiction of the partnership\u2019s profits. Instead, they were prepared \u201cto keep track of the \u2014 some income and expense for DeliverMed mail order.\u201d Tr. at 2536. Larry Jr. did not prepare these reports based upon his own examination of the partnership\u2019s business records. Instead, Larry Jr. received a document from Medicate\u2019s bookkeeper that listed the revenue for the mail-order operation and about ten categories of expenses. Tr. at 2542-43. But Larry Jr. testified that the reports he received from Medicate did not include all of the partnership\u2019s expenses. In his words, there were \u201cmany, many more expenses than just the few that are listed on that set of financial statements.\u201d Tr. at 2584. Moreover, other evidence suggested that the revenues Larry Jr. used were overstated. The partnership\u2019s other accountant, Larry Schaltenbrand, Sr. (\u201cLarry Sr.\u201d), testified that Medicate\u2019s bookkeeper had repeatedly overstated the partnership\u2019s mail-order account receivables. Tr. at 2589-91. Specifically, Larry Sr. testified that sales were overestimated by $160,000 in 2005, by $608,000 in 2006, and by $805,000 in 2007. Tr. at 2593-94.\nBecause the information Larry Jr. received to determine the partnership\u2019s profits from 2005-2007 was inaccurate, his resulting calculations could not serve as a reasonable basis to find that Defendants breached the contract. See, e.g., Wohl v. Spectrum Mfg., 94 F.3d 353, 355 (7th Cir.1996) (\u201cIf the information that the employee enters is inaccurate, the output data will be inaccurate. Garbage in, garbage out.\u201d). Without more, we have no reason to disagree with the district court\u2019s finding that Defendants satisfied their distribution obligations under the agreement from 2005-2007. See Def. Ex. 247.\nNor did Swift present a reliable basis to establish a distribution shortfall from 2008-2011. Instead of dividing the profits among the partners, Swift posits that in 2008 the partners adopted a different method to calculate distributions. According to Swift, the partners agreed to give each partner a distribution that equaled a pro-rated share of whatever distributions Schaltenbrand received for a given year based on each partner\u2019s percentage of ownership in the partnership. So to calculate his share, Swift divided the amount of Schaltenbrand\u2019s distributions by the percentage value of Schaltenbrand\u2019s ownership stake (in this case, .511) to arrive at the total amount of distributions that the partners would receive for that year. After calculating the total distributions, Swift simply multiplied it by his purported share in the company (.359) to discover his share of the profits. In Swift\u2019s mind, the amount of profits obtained by the partnership was irrelevant to calculating the distributions to which he is entitled from 2008 to 2011. So rather than introduce evidence of the partnership\u2019s profits during this .period, Swift relied on Schaltenbrand\u2019s distributions to show that Defendants did not pay him his fair share.\nBut Swift has not presented any credible evidence to support his contention that the partners agreed to provide distributions in this manner. Instead, the evidence at trial supported the district court\u2019s finding that the agreement provided for distributions based on the partnership\u2019s net profits, with each partner receiving a predetermined percentage of those profits. In his closing argument, Swift directed the district court to email correspondence among the partners to demonstrate the existence of this arrangement. See, e.g., Pl.Ex. 6 at 42, 105, 128-132, 149-151. These documents do not mention a distribution system along the lines Swift suggests nor do they imply that such a system was in place. Without any supporting documents, all that remains is Swift\u2019s own say-so on the matter. Given the district court\u2019s serious concerns with Swift\u2019s credibility in all aspects of his testimony and the deference we afford this finding, we decline to overturn the court\u2019s construction of the partners\u2019 distribution agreement based solely on Swift\u2019s authority. See generally Gaffney v. Riverboat Servs., 451 F.3d 424, 448 (7th Cir.2006) (\u201c[W]e have stated that a trial court\u2019s credibility determination can virtually never amount to clear error.\u201d (quoting Carnes Co. v. Stone Creek Mech., Inc., 412 F.3d 845, 848 (7th Cir.2005))). Swift was only entitled to a share of the partnership\u2019s profits from 2008-2011 under the agreement. His failure to present evidence of the partnership\u2019s income during this period dooms his claim. Without some indication of the partnership\u2019s income, we have no basis to find that Swift was due more than the nearly $800,000 he received in distributions.\nSwift did not provide the trial court with a reliable basis to find that he did not receive his share of the distributions. We agree with the district court that Swift has not met his burden of proving that Defendants breached their distribution obligation under the partnership agreement.\nD. Swift Waived Fraud Claims Not Asserted in Final Pretrial Order\nSwift\u2019s other argument relates to his fraud claim against Defendants. He contends that the district court erred by failing to consider an additional thirteen fraud claims that Swift chose to omit from the final pretrial order. Quite the contrary: The district court\u2019s refusal to consider these claims was a prudent exercise of its responsibility to narrow the issues for trial. \u201cBecause the parties rely on the pretrial conference to inform them precisely what is in controversy, the pretrial order is treated as superseding the pleadings and establishes the issues to be considered at trial.\u201d Gorlikowski v. Tolbert, 52 F.3d 1439, 1443-44 (7th Cir.1995) (quoting Erff v. MarkHon Indus., Inc., 781 F.2d 613, 617 (7th Cir.1986)). In order to preserve the pretrial order\u2019s usefulness in focusing the parties\u2019 efforts, \u201ca claim or theory not raised in the pretrial order should not be considered by the fact-finder.\u201d SNA Nut Co. v. Haagen-Dazs Co., Inc., 302 F.3d 725, 732 (7th Cir.2002) (quoting Gorlikowski, 52 F.3d at 1444). The district court correctly prohibited Swift from pursuing fraud theories other than the two that he identified in the final pretrial order. Swift\u2019s mere assertion of a fraud claim does not entitle him to the court\u2019s consideration of a litany of different fraud theories that Swift deemed unworthy of consideration before trial. To conclude otherwise would undermine the vital function that pretrial conferences and orders serve in conserving judicial resources. Indeed, we shudder to think of how much longer this fourteen-day bench trial would have lasted in the absence of an effective pretrial order that narrowed the claims and theories.\nIII. CONCLUSION\nWe ReveRse the district court\u2019s award of declaratory judgment invalidating Deli-verMed Holdings, LLC\u2019s Certificate of Copyright Registration VA-1-766-676 for the \u201chouse and pestle\u201d logo and Remand for further proceedings consistent with this opinion. We Affirm the district court\u2019s judgment in all other respects.\n. A short time before oral argument in this case, Defendants filed a Suggestion of Bankruptcy alerting us to the fact that DeliverMed Holdings, LLC had filed for Chapter 7 bankruptcy. According to the docket sheet, DeliverMed\u2019s bankruptcy case closed on August 15, 2013. Order Closing Case and Discharging Trustee, In re DeliverMed Holdings, LLC, No. 13-17744 (Bankr.N.D.Ill. Aug. 15, 2013), ECF No. 16; see also In re Consol. Indus. Corp., 397 F.3d 524, 527 (7th Cir.2005) (federal court may take judicial notice of bankruptcy court orders). Because the automatic stay of actions against the debtor ends at the close of its bankruptcy case, 11 U.S.C. \u00a7 362(c)(2)(A), we are confident that DeliverMed\u2019s bankruptcy has no effect on the disposition of this appeal.\n. In addition, the district court should ensure the Register is aware of its ruling (unchallenged by the parties) that Linda Deeter had no copyright in the logo that she could transfer to DeliverMed. Instead, the court determined that Kovin, as designer of the logo, was the sole copyright owner and did not transfer his interest to Deeter or any of the other DeliverMed Plaintiffs.\n. The DeliverMed Plaintiffs also argue that the district court erred by failing to assess the degree of prejudice Defendants suffered as a result of Swift\u2019s misrepresentation to the Copyright Office. Prejudice has no relevance to the fraud on the Copyright Office inquiry. Section 411(b)(1) only directs courts to consider whether the registrant knowingly misstated a material fact in his application. 17 U.S.C. \u00a7 411(b)(1)(A)-(B).\n. The need to deter Swift from lying to the Copyright Office does not necessarily depend upon whether the Register would have refused registration had it known of his deliberate misrepresentation. Courts have an interest in preventing litigants from making any knowing misstatements to the Copyright Office in an effort to secure a litigation advantage.\n. In addition, we note that the district court could not reasonably rely upon the amount of Schaltenbrand's distributions to determine Swift's share of the profits. The evidence showed that Schaltenbrand withdrew money from the partnership without regard for the partnership's profits and received far more than his rightful share of distributions under the agreement.\n. In light of our holding that Swift has not met his burden of proving a deficiency between the amount of distributions he was entitled to receive and what he actually received, we decline to address Swift\u2019s alternative arguments regarding his purported dissociation from the partnership.",
+        "type": "majority",
+        "author": "WILLIAMS, Circuit Judge."
+      }
+    ],
+    "attorneys": [
+      "Aud Courtney Cox, Attorney, Sandberg Phoenix & Von Gontard, Carbondale, IL, for Plaintiffs-Appellants.",
+      "Kevin J. Stine, Attorney, Laura Schrick, Attorney, Mathis Marifian & Richter, Ltd., Belleville, IL, for Defendants-Appellees."
+    ],
+    "corrections": "",
+    "head_matter": "DELIVERMED HOLDINGS, LLC, et al., Plaintiffs-Appellants, v. Michael SCHALTENBRAND, Joey Siddle, and Medicate Pharmacy, Inc., Defendants-Appellees.\nNos. 12-3773, 12-3774.\nUnited States Court of Appeals, Seventh Circuit.\nArgued May 28, 2013.\nDecided Oct. 7, 2013.\nAud Courtney Cox, Attorney, Sandberg Phoenix & Von Gontard, Carbondale, IL, for Plaintiffs-Appellants.\nKevin J. Stine, Attorney, Laura Schrick, Attorney, Mathis Marifian & Richter, Ltd., Belleville, IL, for Defendants-Appellees.\nBefore EASTERBROOK, WILLIAMS, and HAMILTON, Circuit Judges."
+  },
+  "file_name": "0616-01",
+  "first_page_order": 640,
+  "last_page_order": 653
+}

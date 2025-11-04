@@ -1,0 +1,86 @@
+{
+  "id": 4272460,
+  "name": "In the Matter of a Request for an Investigation of Attorneys",
+  "name_abbreviation": "In re Request for an Investigation of Attorneys",
+  "decision_date": "2011-11-21",
+  "docket_number": "",
+  "first_page": "1025",
+  "last_page": "1026",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "460 Mass. 1025"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Mass.",
+    "id": 8825,
+    "name": "Massachusetts Supreme Judicial Court"
+  },
+  "jurisdiction": {
+    "id": 4,
+    "name_long": "Massachusetts",
+    "name": "Mass."
+  },
+  "cites_to": [
+    {
+      "cite": "449 Mass. 1013",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "case_ids": [
+        3816845
+      ],
+      "year": 2007,
+      "pin_cites": [
+        {
+          "page": "1014"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mass/449/1013-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 133,
+    "char_count": 1606,
+    "ocr_confidence": 0.909,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.1432550700832365
+    },
+    "sha256": "a6f7408aec635bedf17d39439b2baec09581222939f9821f36b51085f6ee45bc",
+    "simhash": "1:1664d2cbbcab7e53",
+    "word_count": 259
+  },
+  "last_updated": "2024-02-27T17:56:26.592595+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In the Matter of a Request for an Investigation of Attorneys."
+    ],
+    "opinions": [
+      {
+        "text": "The petitioner appeals from a judgment of a single justice of this court dismissing her petition for relief in the nature of mandamus. She sought an order compelling the Board of Bar Overseers to cause the Office of the Bar Counsel to reopen disciplinary proceedings against several attorneys as to whom she had filed one or more grievances. Her petition was correctly dismissed for the reason stated by the single justice: \u201cA complainant . . . cannot commence a judicial action challenging bar counsel\u2019s decision and seek a judicial order compelling bar counsel to act in a certain way. There simply is no such private right of action.\u201d Matter of a Request for an Investigation of an Attorney, 449 Mass. 1013, 1014 (2007).\nThe case was submitted on the papers filed, accompanied by a memorandum of law.\nJulia M. Heath, pro se.\nMichael Fredrickson for Board of Bar Overseers.\nJudgment affirmed.\nThe petitioner also requested investigation and disbarment of the assistant bar counsel who advised her that the proceedings would not be reopened. Such a request should be brought to the Board of Bar Overseers, see Rule 2.4 of the Rules of the Board of Bar Overseers (2011) (\u201cComplaints against . . . Assistant Bar Counsel . . . involving alleged violations of the Rules of Professional Conduct shall be submitted directly to the Board for disposition\u201d), and is not a proper subject of a petition to a single justice.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "The case was submitted on the papers filed, accompanied by a memorandum of law.",
+      "Julia M. Heath, pro se.",
+      "Michael Fredrickson for Board of Bar Overseers."
+    ],
+    "corrections": "",
+    "head_matter": "In the Matter of a Request for an Investigation of Attorneys.\nNovember 21, 2011.\nSupreme Judicial Court, Superintendence of inferior courts. Board of Bar Overseers. Practice, Civil, Standing."
+  },
+  "file_name": "1025-01",
+  "first_page_order": 915,
+  "last_page_order": 916
+}

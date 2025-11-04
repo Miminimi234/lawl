@@ -1,0 +1,634 @@
+{
+  "id": 3726279,
+  "name": "HA VAN NGUYEN, Petitioner-Appellant, v. Ben CURRY, Respondent-Appellee",
+  "name_abbreviation": "Ha Van Nguyen v. Curry",
+  "decision_date": "2013-12-04",
+  "docket_number": "No. 11-56792",
+  "first_page": "1287",
+  "last_page": "1298",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "736 F.3d 1287"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "9th Cir.",
+    "id": 8826,
+    "name": "United States Court of Appeals for the Ninth Circuit"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "186 L.Ed.2d 215",
+      "category": "reporters:federal",
+      "reporter": "L. Ed. 2d",
+      "case_ids": [
+        12696674,
+        12696675,
+        12696679,
+        12696681,
+        12696683
+      ],
+      "year": 2013,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/569/1015-02",
+        "/us/569/1015-01",
+        "/us/569/1015-06",
+        "/us/569/1015-08",
+        "/us/569/1015-10"
+      ]
+    },
+    {
+      "cite": "133 S.Ct. 2767",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        12696704,
+        12696736,
+        12696683,
+        12696734,
+        12696735
+      ],
+      "year": 2013,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/569/1017-11",
+        "/us/569/1019-14",
+        "/us/569/1015-10",
+        "/us/569/1019-12",
+        "/us/569/1019-13"
+      ]
+    },
+    {
+      "cite": "133 S.Ct. 1911",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        12697053
+      ],
+      "weight": 9,
+      "year": 2013,
+      "pin_cites": [
+        {
+          "page": "1915"
+        },
+        {
+          "page": "1921"
+        },
+        {
+          "page": "1918",
+          "parenthetical": "alterations in original"
+        },
+        {
+          "page": "1921"
+        },
+        {
+          "page": "1921"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/569/0413-01"
+      ]
+    },
+    {
+      "cite": "548 F.3d 1133",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "pin_cites": [
+        {
+          "page": "1139"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "545 U.S. 644",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        8209728
+      ],
+      "weight": 7,
+      "year": 2005,
+      "pin_cites": [
+        {
+          "page": "664"
+        },
+        {
+          "page": "650"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/545/0644-01"
+      ]
+    },
+    {
+      "cite": "564 F.3d 1133",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        4238557
+      ],
+      "pin_cites": [
+        {
+          "page": "1142"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/564/1133-01"
+      ]
+    },
+    {
+      "cite": "727 F.3d 517",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        4077340
+      ],
+      "pin_cites": [
+        {
+          "page": "531"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/727/0517-01"
+      ]
+    },
+    {
+      "cite": "682 F.3d 711",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        3890376
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "728-29"
+        },
+        {
+          "page": "729"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/682/0711-01"
+      ]
+    },
+    {
+      "cite": "692 F.3d 1133",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        3514826
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "1148"
+        },
+        {
+          "page": "1148"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/692/1133-01"
+      ]
+    },
+    {
+      "cite": "372 U.S. 353",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        1765282
+      ],
+      "weight": 3,
+      "year": 1963,
+      "pin_cites": [
+        {
+          "page": "357",
+          "parenthetical": "appellate counsel"
+        },
+        {
+          "parenthetical": "appellate counsel"
+        },
+        {
+          "parenthetical": "appellate counsel"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/372/0353-01"
+      ]
+    },
+    {
+      "cite": "469 U.S. 387",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11959535
+      ],
+      "weight": 3,
+      "year": 1985,
+      "pin_cites": [
+        {
+          "page": "396",
+          "parenthetical": "appellate counsel"
+        },
+        {
+          "parenthetical": "appellate counsel"
+        },
+        {
+          "parenthetical": "appellate counsel"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/469/0387-01"
+      ]
+    },
+    {
+      "cite": "287 U.S. 45",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        369864
+      ],
+      "weight": 3,
+      "year": 1932,
+      "pin_cites": [
+        {
+          "page": "69",
+          "parenthetical": "trial counsel"
+        },
+        {
+          "parenthetical": "trial counsel"
+        },
+        {
+          "parenthetical": "trial counsel"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/287/0045-01"
+      ]
+    },
+    {
+      "cite": "372 U.S. 335",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        1765333
+      ],
+      "weight": 3,
+      "year": 1963,
+      "pin_cites": [
+        {
+          "page": "344",
+          "parenthetical": "trial counsel"
+        },
+        {
+          "parenthetical": "trial counsel"
+        },
+        {
+          "parenthetical": "trial counsel"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/372/0335-01"
+      ]
+    },
+    {
+      "cite": "623 F.3d 731",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        3790341
+      ],
+      "pin_cites": [
+        {
+          "page": "735"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/623/0731-01"
+      ]
+    },
+    {
+      "cite": "456 U.S. 152",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6184490
+      ],
+      "weight": 3,
+      "year": 1982,
+      "pin_cites": [
+        {
+          "page": "170"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/456/0152-01"
+      ]
+    },
+    {
+      "cite": "477 U.S. 478",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6209907
+      ],
+      "weight": 3,
+      "year": 1986,
+      "pin_cites": [
+        {
+          "page": "494",
+          "parenthetical": "quoting United States v. Frady, 456 U.S. 152, 170, 102 S.Ct. 1584, 71 L.Ed.2d 816 (1982)"
+        },
+        {
+          "parenthetical": "quoting United States v. Frady, 456 U.S. 152, 170, 102 S.Ct. 1584, 71 L.Ed.2d 816 (1982)"
+        },
+        {
+          "parenthetical": "quoting United States v. Frady, 456 U.S. 152, 170, 102 S.Ct. 1584, 71 L.Ed.2d 816 (1982)"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/477/0478-01"
+      ]
+    },
+    {
+      "cite": "181 L.Ed.2d 398",
+      "category": "reporters:federal",
+      "reporter": "L. Ed. 2d",
+      "case_ids": [
+        12444392,
+        12444393,
+        12444394,
+        12444395,
+        12444396,
+        12444397,
+        12444398,
+        12444399
+      ],
+      "year": 2011,
+      "opinion_index": 0,
+      "case_paths": [
+        "/l-ed-2d/181/0398-01",
+        "/l-ed-2d/181/0398-02",
+        "/l-ed-2d/181/0398-03",
+        "/l-ed-2d/181/0398-04",
+        "/l-ed-2d/181/0398-05",
+        "/l-ed-2d/181/0398-06",
+        "/l-ed-2d/181/0398-07",
+        "/l-ed-2d/181/0398-08"
+      ]
+    },
+    {
+      "cite": "132 S.Ct. 558",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        12444392,
+        12444393,
+        12444434,
+        12444435,
+        12444436,
+        12444437
+      ],
+      "year": 2011,
+      "opinion_index": 0,
+      "case_paths": [
+        "/l-ed-2d/181/0398-01",
+        "/l-ed-2d/181/0398-02",
+        "/l-ed-2d/181/0403-03",
+        "/l-ed-2d/181/0403-04",
+        "/l-ed-2d/181/0403-05",
+        "/l-ed-2d/181/0403-06"
+      ]
+    },
+    {
+      "cite": "641 F.3d 322",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        4207406
+      ],
+      "pin_cites": [
+        {
+          "page": "326-27"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/641/0322-01"
+      ]
+    },
+    {
+      "cite": "28 U.S.C. \u00a7 2244",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "(d)"
+        },
+        {
+          "page": "(d)"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "501 U.S. 722",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        1108153
+      ],
+      "weight": 11,
+      "year": 1991,
+      "pin_cites": [
+        {
+          "page": "753"
+        },
+        {
+          "page": "754"
+        },
+        {
+          "page": "727"
+        },
+        {
+          "page": "754"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/501/0722-01"
+      ]
+    },
+    {
+      "cite": "131 S.Ct. 1120",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        6028249,
+        12457250
+      ],
+      "weight": 2,
+      "year": 2011,
+      "pin_cites": [
+        {
+          "page": "1126"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/562/0307-01",
+        "/l-ed-2d/179/0062-01"
+      ]
+    },
+    {
+      "cite": "855 P.2d 729",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1998,
+      "opinion_index": 0
+    },
+    {
+      "cite": "21 Cal.Rptr.2d 509",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr. 2d",
+      "year": 1998,
+      "opinion_index": 0
+    },
+    {
+      "cite": "5 Cal.4th 750",
+      "category": "reporters:state",
+      "reporter": "Cal. 4th",
+      "case_ids": [
+        1998547
+      ],
+      "year": 1998,
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-4th/5/0750-01"
+      ]
+    },
+    {
+      "cite": "Cal. Health & Safety Code \u00a7 11350",
+      "category": "laws:leg_statute",
+      "reporter": "Cal. Code",
+      "pin_cites": [
+        {
+          "page": "(a)",
+          "parenthetical": "\"Count One\""
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "132 S.Ct. 1309",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        12188233
+      ],
+      "weight": 11,
+      "year": 2012,
+      "pin_cites": [
+        {
+          "page": "1313"
+        },
+        {
+          "page": "1314"
+        },
+        {
+          "page": "1317"
+        },
+        {
+          "page": "1316-17"
+        },
+        {
+          "page": "1316",
+          "parenthetical": "emphasis added"
+        },
+        {
+          "page": "1320",
+          "parenthetical": "citations omitted"
+        },
+        {
+          "page": "1313"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/566/0001-01"
+      ]
+    },
+    {
+      "cite": "28 U.S.C. \u00a7 2254",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "weight": 2,
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 991,
+    "char_count": 31124,
+    "ocr_confidence": 0.652,
+    "pagerank": {
+      "raw": 2.853447879974253e-07,
+      "percentile": 0.8408555865612243
+    },
+    "sha256": "90f880e7df4aa236aeb246144ec6ceca2b17b6bd6f37b5dfe19496aabdfdb129",
+    "simhash": "1:b16a66ec67455cb5",
+    "word_count": 4870
+  },
+  "last_updated": "2024-02-27T16:55:59.249303+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before: STEPHEN S. TROTT and WILLIAM A. FLETCHER, Circuit Judges, and SIDNEY H. STEIN, District Judge."
+    ],
+    "parties": [
+      "HA VAN NGUYEN, Petitioner-Appellant, v. Ben CURRY, Respondent-Appellee."
+    ],
+    "opinions": [
+      {
+        "text": "OPINION\nW. FLETCHER, Circuit Judge:\nHa Van Nguyen appeals the district court\u2019s denial of his petition for a writ of habeas corpus under 28 U.S.C. \u00a7 2254. The district court denied two of his three claims as procedurally defaulted. Nguyen contends that his procedural default should be excused under the standard for \u201ccause\u201d articulated in Martinez v. Ryan, \u2014 U.S. -, 132 S.Ct. 1309, 182 L.Ed.2d 272 (2012). The Supreme Court in Martinez established an equitable rule under which the failure of an ineffective counsel or pro se petitioner to raise, in a state court initial-review collateral proceeding, a claim of ineffective assistance .of counsel (\u201cIAC\u201d) at trial can be \u201ccause\u201d to excuse a state-court. procedural default. The question before us is whether Martinez applies to the failure to raise not only a claim of trial-counsel IAC, but also a claim of appellate-counsel IAC. We conclude that it does. We remand to allow the district court to determine in the first instance whether Nguyen\u2019s state-court procedural default should be excused under Martinez.\nI. Background\nOn February 26, 2003, Orange County Sheriff Department deputies found Nguyen asleep behind the wheel of his car, stopped at a green traffic light. After he was awakened, Nguyen identified himself to the deputies using a false name and false identification. Nguyen consented to a search of the car. The officers found two pieces of rock cocaine that Nguyen was hiding in his fist. They also found a social security card bearing the name \u201cKevin Lu,\u201d as well as three driver\u2019s licenses bearing different names, including that of Lu.\nNguyen was convicted after a jury trial in California Superior Court of felony cocaine possession, Cal. Health & Safety Code \u00a7 11350(a) (\u201cCount One\u201d); felony possession of a forged driver\u2019s license with intent to facilitate forgery, CaLPenal Code \u00a7 470b (\u201cCount Two\u201d); and misdemeanor false identification to a peace officer, CaLPenal Code \u00a7 148.9(a) (\u201cCount Three\u201d). The trial court found that Nguyen had previously been convicted of six qualifying felonies and was therefore eligible to be sentenced pursuant to California\u2019s three-strikes law. See CaLPenal Code \u00a7 667. The court imposed a three-strikes sentence of 25 years to life on the forgery conviction, Count Two. The court struck the prior convictions for the felony cocaine possession conviction, Count One, and imposed a three-year concurrent sentence on that count. The misdemeanor conviction, Count Three, was irrelevant to the three-strikes sentence.\nOn appeal, Nguyen\u2019s counsel argued that the prosecution had presented insufficient evidence at trial to support a conviction on Count Two. The California Court of Appeal agreed. It reduced Nguyen\u2019s conviction on Count Two to misdemeanor display of a fraudulent driver\u2019s license, Cal. Veh.Code \u00a7 14610(a)(1), and remanded for resentencing. On remand, the trial court reversed its earlier decision to strike Nguyen\u2019s prior convictions for purposes of sentencing under Count One. The court then resentenced Nguyen under Count One to a three-strikes sentence of 25 years to life. At the time of his resentencing under Count One, Nguyen had already served the three-year concurrent sentence previously imposed for that count. The trial court suspended Nguyen\u2019s sentence for Counts Two and Three, both of which were now misdemeanor convictions. Nguyen\u2019s trial counsel objected that the new sentence on Count One was a \u201cviolation of the Fifth, Sixth and Fourteenth Amendments ... in that ... it increases the original punishment on Count One.\u201d\nNguyen appealed again. Nguyen\u2019s court-appointed counsel on his second appeal argued that the trial court\u2019s decision to reinstate his prior felony convictions for purposes of resentencing under Count One was an abuse of discretion under state law. She also argued that a 25-years-to-life sentence for Count One \u2014 felony possession of cocaine \u2014 was grossly disproportionate to the crime, constituting cruel and unusual punishment under the Eighth Amendment. She did not make a double jeopardy argument under the Fifth Amendment. The California Court of Appeal affirmed Nguyen\u2019s sentence, and the California Supreme Court denied his petition for review.\nNguyen\u2019s counsel on his second appeal sent a letter to Nguyen after the California Supreme Court denied his petition. She wrote that her \u201cappointment as [his] attorney ha[d] now come to an end.\u201d She informed Nguyen that if he \u201cwish[ed] to go on to federal court [he] must do so on [his] own.\u201d She did not mention the possibility of filing a state habeas petition.\nNow without counsel, Nguyen did not file a petition for habeas corpus in state court. Instead, he filed a timely pro se habeas petition in federal court under 28 U.S.C. \u00a7 2254. Nguyen asserted two claims: (1) his new sentence violated the Eighth Amendment\u2019s prohibition against cruel and unusual punishment, and (2) his new sentence on Count One violated his Fifth Amendment right to be free from double jeopardy. The first claim had been exhausted in state court; the second claim had not. The magistrate judge granted a stay and abeyance of his federal habeas proceedings to allow Nguyen to exhaust his double jeopardy claim. The magistrate judge also granted a stay and abeyance for an additional claim that appellate counsel on his second appeal had been ineffective in failing to raise a double jeopardy claim. The magistrate judge characterized both the double jeopardy claim and the additional appellate-counsel IAC claim based on the failure to raise the double jeopardy claim as \u201cpotentially meritorious.\u201d\nNguyen filed a petition for habeas corpus directly with the California Supreme Court, seeking review of these two unexhausted claims. The California Supreme Court summarily denied the petition, citing In re Clark, 5 Cal.4th 750, 21 Cal.Rptr.2d 509, 855 P.2d 729 (1998). A summary denial citing Clark indicates that the California Supreme Court rejects a petition as untimely rather than on the merits. Walker v. Martin, \u2014 U.S.-, 131 S.Ct. 1120, 1126, 179 L.Ed.2d 62 (2011).\nNguyen then filed an amended federal habeas petition, after the expiration of the statute of limitations, asserting three claims for relief: (1) the non-defaulted cruel and unusual punishment claim; (2) the procedurally defaulted double jeopardy claim, and (3) the procedurally defaulted appellate-counsel IAC claim based on the failure to raise the double jeopardy claim. Claims (1) and (2) had been contained in the original, timely filed federal habeas petition. Claim (3) had not been contained in the original petition. The magistrate judge recommended denial of Nguyen\u2019s petition with prejudice. He concluded that the state court\u2019s determination that Nguyen\u2019s sentence did not violate the prohibition against cruel and unusual punishment was not contrary to, or an unreasonable application of, clearly established Supreme Court law. He also concluded that Nguyen had not shown cause and prejudice under Coleman v. Thompson, 501 U.S. 722, 111 S.Ct. 2546, 115 L.Ed.2d 640 (1991), to excuse either the state-court procedural default of his double jeopardy claim, or of his appellate-counsel IAC claim for failure to raise the double jeopardy claim. The magistrate judge did not address the State\u2019s argument that Nguyen\u2019s appellate-counsel IAC claim was untimely under the one-year statute of limitations of 28 U.S.C. \u00a7 2244(d). The district court adopted the recommendation in full and dismissed the petition with prejudice. Nguyen timely appealed the denial of his procedurally defaulted double jeopardy claim, and of his procedurally defaulted appellate-counsel IAC claim based on the failure to raise the double jeopardy claim.\nII. Discussion\nWhile Nguyen\u2019s appeal was pending in this court, the Supreme Court decided Martinez. Nguyen argues in light of Martinez that the procedural default of his appellate-counsel IAC claim should have been excused. The State argues that Martinez does not apply to an underlying appellate-counsel IAC claim. The State also argues that Nguyen\u2019s appellate-counsel IAC claim was time-barred because he filed it after the limitations period of 28 U.S.C. \u00a7 2244(d) had expired and it did not relate back to the original, timely petition.\nA. Martinez and Appellate-counsel IAC\nAn application for a federal writ of habeas corpus cannot be granted unless the petitioner has exhausted state court remedies or is excused from doing so. 28 TJ.S.C. \u00a7 2254(b)(1)(A). A petitioner exhausts a claim by clearly presenting \u201cto the highest court of the state ... the federal basis and federal nature of the claim, along with relevant facts.\u201d Cooper v. Neven, 641 F.3d 322, 326-27 (9th Cir.2011), cert. denied, \u2014 U.S. -, 132 S.Ct. 558, 181 L.Ed.2d 398 (2011). If a petitioner tries to present a claim to the state court but is prevented from doing so by his failure to comply with a state procedural rule, the claim is \u201ctechnically exhausted\u201d but procedurally defaulted. Id. at 327.\nIn the ordinary case, a state-court procedural default may be excused only if a habeas petitioner can demonstrate both \u201ccause\u201d for the default and resulting \u201cprejudice\u201d under Coleman v. Thompson.\n\u201c[C]ause\u201d under the cause and prejudice test must be something external to the petitioner, something that cannot fairly be attributed to him: We think that the existence of cause for a procedural default must ordinarily turn on whether the prisoner can show that some objective factor external to the defense impeded counsel\u2019s efforts to comply with the State\u2019s procedural rule.\nColeman, 501 U.S. at 753, 111 S.Ct. 2546 (internal quotation marks omitted). To show \u201cprejudice\u201d under Coleman, the \u201chabeas petitioner must show \u2018not merely that the errors at ... trial created a possibility of prejudice, but that they worked to his actual and substantial disadvantage, infecting his entire trial with error of constitutional dimensions.\u2019 \u201d Murray v. Carrier, 477 U.S. 478, 494, 106 S.Ct. 2639, 91 L.Ed.2d 397 (1986) (quoting United States v. Frady, 456 U.S. 152, 170, 102 S.Ct. 1584, 71 L.Ed.2d 816 (1982)) (omission and emphasis in original).\nIn Martinez, the Supreme Court relaxed the Coleman cause-and-prejudice standard for excuse from procedural default in a narrow category of cases. Martinez had been convicted in Arizona, which categorically forbade a prisoner to raise a trial-counsel IAC claim on direct appeal. Martinez, 132 S.Ct. at 1313. The first time a claim of trial-counsel IAC could be raised was on initial state-court collateral review. Id. Martinez\u2019s state postconviction counsel failed to raise a claim of trial-counsel IAC in initial-review state-court collateral proceedings. Id. This failure resulted in procedural default of the IAC claim. Id. at 1314. Our court applied Coleman\u2019s cause- and-prejudice standard for excuse from procedural default. Martinez v. Schriro, 623 F.3d 731, 735 (9th Cir.2010). The Supreme Court reversed.\nThe Court in Martinez did not distinguish between trial-counsel and appellate-counsel IAC. In the introduction to its opinion, the Court framed the question as \u201cwhether a federal habeas court may excuse a procedural default of an ineffective-assistance claim when the claim is not properly presented in state court due to an attorney\u2019s errors in an initial-review proceeding.\u201d Martinez, 132 S.Ct. at 1313. The Court\u2019s answer was that procedural default of \u201can ineffective-assistance claim\u201d by postconviction counsel in an initial-review state-court collateral proceeding should be excused under a more lenient standard than cause and prejudice under Coleman. Id. at 1318-19.\nThe centerpiece of the Court\u2019s analysis in Martinez is the fundamental importance of effective assistance of counsel guaranteed by the Sixth Amendment. In Martinez\u2019s case, his Sixth Amendment claim was trial-counsel IAC. The Court wrote:\nThe right to the effective assistance of counsel at trial is a bedrock principle in our justice system.... Indeed, the right to counsel is the foundation for our adversary system. Defense counsel tests the prosecution\u2019s case to ensure that the proceedings serve the function of adjudicating guilt or innocence, while protecting the rights of the person charged.... Effective trial counsel preserves claims to be considered on appeal, and in federal habeas proceedings.\nId. at 1317-18 (citations omitted).\nThe Court pointed out that, in Arizona, the first state-court opportunity to raise a claim of trial-counsel IAC was on initial collateral review. The Court declined to hold that a criminal defendant has a constitutional right to effective assistance of posteonviction counsel. But it recognized, as a practical matter, that if a constitutional claim of ineffective assistance of counsel could not be raised on direct appeal, the initial collateral review proceeding was the functional \u201cequivalent\u201d of a direct appeal. Id. at 1317. The Court therefore established, as an equitable rule, that the procedural default of Martinez\u2019s underlying trial-counsel IAC claim by his ineffective posteonviction counsel could be excused under a more lenient standard than the Coleman cause-and-prejudice standard. Id. at 1318-19.\nThe Court reaffirmed Martinez a year later in Trevino v. Thaler, \u2014 U.S.-, 133 S.Ct. 1911, 185 L.Ed.2d 1044 (2013). In Martinez, Arizona law had categorically forbidden a criminal defendant from raising a claim of trial-counsel IAC on direct appeal, requiring instead that such a claim be raised in an initial-review collateral proceeding. In Trevino, Texas law did not categorically forbid a criminal defendant from raising a claim of trial-counsel IAC on direct appeal. Trevino, 133 S.Ct. at 1915. But the Court recognized that it was \u201chighly unlikely\u201d that appellate counsel would have a \u201cmeaningful opportunity\u201d to raise such a claim. Id. at 1921. The Court held that, in this circumstance, a procedural default of an underlying trial-counsel IAC claim by posteonviction counsel could be excused upon a finding of \u201ccause\u201d under the standard articulated in Martinez. Id.\nThe Court in Martinez established a four-part test for excuse of a procedural default of a trial-counsel IAC claim by an ineffective posteonviction counsel. The procedural default may be excused if there is \u201ccause\u201d for the default. \u201cCause\u201d under Martinez has a different meaning than under Coleman. \u201cCause\u201d is established under Martinez where\n(1) the claim of \u201cineffective assistance of trial counsel\u201d was a \u201csubstantial\u201d claim; (2) the \u201ccause\u201d consisted of there being \u201cno counsel\u201d or only \u201cineffective\u201d counsel during the state collateral review proceeding; (3) the state collateral review proceeding was the \u201cinitial\u201d review proceeding in respect to the \u201cineffective-assistance-of-trial-eounsel claim\u201d; and (4) state law requires that an \u201cineffective assistance of trial counsel [claim] ... be raised in an initial-review collateral review proceeding.\u201d\nTrevino, 133 S.Ct. at 1918 (alterations in original). As described above, Trevino slightly modified the fourth requirement to allow a finding of \u201ccause\u201d where it is \u201chighly unlikely\u201d that an IAC claim can be raised on direct appeal. Id. at 1921.\nThe question before us is whether the standard for \u201ccause\u201d articulated in Martinez and reaffirmed in Trevino applies in a case where the underlying IAC is by appellate counsel rather than trial counsel. We conclude that it does.\nThe Sixth Amendment right to effective counsel applies equally to both trial and appellate counsel. Compare Gideon v. Wainwright, 372 U.S. 335, 344, 83 S.Ct. 792, 9 L.Ed.2d 799 (1963) (trial counsel) (\u201c[A]ny person haled into court, who is too poor to hire a lawyer, cannot be assured a fair trial unless counsel is provided for him.\u201d), and Powell v. Alabama, 287 U.S. 45, 69, 53 S.Ct. 55, 77 L.Ed. 158 (1932) (trial counsel) (\u201c[The defendant] requires the guiding hand of counsel at every step in the proceedings against him. Without it, though he be not guilty, he faces the danger of conviction because he does not know how to establish his innocence.\u201d), with Evitts v. Lucey, 469 U.S. 387, 396, 105 S.Ct. 830, 83 L.Ed.2d 821 (1985) (appellate counsel) (\u201cA first appeal as of right ... is not adjudicated in accord with due process of law if the appellant does not have the effective assistance of an attorney.\u201d), and Douglas v. California, 372 U.S. 353, 357, 83 S.Ct. 814, 9 L.Ed.2d 811 (1963) (appellate counsel) (\u201c[W]here the merits of the one and only appeal an indigent has as of right are decided without benefit of counsel, we think an unconstitutional line has been drawn between rich and poor.\u201d).\nThere is nothing in our jurisprudence to suggest that the Sixth Amendment right to effective counsel is weaker or less important for appellate counsel than for trial counsel. The Court in Coleman made clear that the dividing line between cases in which state-court procedural default should, or should not, be forgiven was the line between constitutionally ineffective and merely negligent counsel: \u201cWhere a petitioner defaults a claim as a result of the denial of the right to effective assistance of counsel, the State, which is responsible for the denial as a constitutional matter, must bear the cost of any resulting default and the harm to state interests that federal habeas review entails.\u201d Coleman, 501 U.S. at 754, 111 S.Ct. 2546. The Court in Coleman did not distinguish between ineffective assistance by trial and appellate counsel. In Martinez itself, the Court emphasized the importance of effective appellate counsel. It wrote:\nAs Coleman recognized, an attorney\u2019s errors during an appeal on direct review may provide cause to excuse a procedural default; for if the attorney appointed by the State to pursue the direct appeal is ineffective, the prisoner has been denied fair process and the opportunity to comply with the State\u2019s procedures and obtain an adjudication on the merits of his claims.\nMartinez, 132 S.Ct. at 1317.\nThe Court\u2019s central point in Martinez is that a \u201csubstantial\u201d IAC claim deserves one chance to be heard on initial review in a state postconviction proceeding. The Court wrote:\nWhen an attorney errs in initial-review collateral proceedings, it is likely that no state court at any level will hear the prisoner\u2019s claim.... [I]f counsel\u2019s errors in an initial-review collateral proceeding do not establish cause to excuse the procedural default in a federal habeas proceeding, no court will review the prisoner\u2019s claims.\nThe same is not true when counsel errs in other kinds of postconviction proceedings ....\n... [T]he initial-review collateral proceeding ... is in many ways the equivalent of a prisoner\u2019s direct appeal ... because ... no other court has addressed the claim.\nId. at 1316-17.\nWhat the Court wrote with respect to procedural default of a claim of trial-counsel IAC is equally true of a claim of appellate-counsel IAC. Trial-counsel IAC typically cannot be raised on appeal because of the necessity to develop and rely on evidence that is not in the trial-court record. Appellate-counsel IAC cannot be raised on appeal because the appeal was the proceeding in which the constitutionally ineffective assistance occurred. In either case, the initial-review state-court collateral proceeding is the first time an IAC claim can be made. If a procedural default by an ineffective postconviction counsel forfeits an underlying trial-counsel or an appellate-counsel IAC claim, no court will ever hear that underlying IAC claim.\nThe procedural default in Coleman was the result of ineffective assistance by appellate counsel, who had failed to bring a timely appeal of the trial court\u2019s denial of the state habeas petition. Coleman, 501 U.S. at 727, 111 S.Ct. 2546. The Court in Martinez made clear that the cause-and-prejudice rule was appropriate in Coleman because the petitioner had been able to present his claims in an initial-review state-court postconviction proceeding. The Court in Martinez distinguished Coleman, but not on the ground that the underlying claim was appellate-counsel IAC. Rather, the Court emphasized that Coleman\ndid not present the occasion to apply [its holding] to determine whether attorney errors in initial-review collateral proceedings may qualify as cause for a procedural default. The alleged failure of counsel in Coleman was on appeal from an initial-review collateral proceeding, and in that proceeding the prisoner\u2019s claims had been addressed by the state habeas trial court.\nMartinez, 132 S.Ct. at 1316 (emphasis added).\nThe Court in Martinez was careful to restrict its holding to ineffective assistance in the initial-review collateral proceeding in state court. The Court wrote:\nThe rule of Coleman governs in all but the limited circumstances recognized here. The holding in this case does not concern attorney errors in other kinds of proceedings, including appeals from initial-review collateral proceedings, second or successive collateral proceedings, and petitions for discretionary review in a State\u2019s appellate courts. It does not extend to attorney errors in any proceeding beyond the first occasion the State allows a prisoner to raise a claim of ineffective assistance at trial, even though that initial-review collateral proceeding may be deficient for other reasons.\nId. at 1320 (citations omitted). This passage specifies that the Martinez standard for cause applies only in the \u201climited circumstances recognized here.\u201d We read the passage to limit application of the Martinez \u201ccause\u201d standard to procedural default by postconviction counsel at the initial-review collateral proceeding, by specifying that the Martinez standard does not apply to other kinds of defaults by postconviction counsel. We do not read the passage to limit application of the Martinez standard to only one kind of Sixth Amendment ineffective-assistance violation.\nOur reading is consistent with the question the Court asked at the beginning of its opinion in Martinez: \u201cwhether a federal habeas court may excuse a procedural default of an ineffective assistance claim when the claim was not properly presented in state court due to an attorney\u2019s errors in an initial-review collateral proceeding.\u201d Id. at 1313. That question was not limited to a claim of ineffective assistance by trial counsel. It encompassed, without qualification, \u201can ineffective assistance claim.\u201d We therefore conclude that the Martinez standard for \u201ccause\u201d applies to all Sixth Amendment ineffective-assistance claims, both trial and appellate, that have been procedurally defaulted by ineffective counsel in the initial-review state-court collateral proceeding.\nWe recognize that several of our sister circuits have held otherwise. In 2012, before the Court decided Trevino, the Eighth and Tenth Circuits understood Martinez to be limited to the circumstance where state law categorically forbade raising claims of trial-counsel IAC on direct appeal. See Banks v. Workman, 692 F.3d 1133, 1148 (10th Cir.2012); Dansby v. Norris, 682 F.3d 711, 728-29 (8th Cir.2012), vacated sub nom. Dansby v. Hobbs, \u2014 U.S.-, 133 S.Ct. 2767, 186 L.Ed.2d 215 (2013). In rejecting that understanding of Martinez, the Court in Trevino made clear that the \u201climited-circumstances\u201d language in Martinez did not limit its holding to the circumstance where a state law categorically forbids claims of trial-counsel IAC on direct appeal. Trevino, 133 S.Ct. at 1921. The Court held that the \u201ccause\u201d standard articulated in Martinez also applied in the circumstance where a prisoner was merely \u201chighly unlikely\u201d as a practical matter to have a \u201cmeaningful opportunity\u201d to raise a claim of trial-counsel IAC on direct appeal. Id.\nThe Eighth and Tenth Circuits also understood Martinez to be limited to claims of trial-counsel IAC. Banks, 692 F.3d at 1148; Dansby, 682 F.3d at 729; see also Hodges v. Colson, 727 F.3d 517, 531 (6th Cir.2013). We believe those courts are wrong in reading into Martinez the limitation to trial-counsel IAC, for the same reason they were wrong in reading into Martinez the limitation to state statutes categorically forbidding IAC claims on direct appeal. The fundamental principle of Martinez is that a criminal defendant deserves a chance to assert a Sixth Amendment claim of ineffective-assistance of counsel. Because an ineffective-assistance claim cannot as a practical matter be made on direct appeal, the Court formulated an equitable rule that allows excuse of procedural default by ineffective counsel at the initial-review collateral proceeding. The Martinez rule is limited to an underlying Sixth Amendment ineffective-assistance claim, and to a procedural default by ineffective counsel in an initial-review collateral proceeding. But, as the Court held in Trevino, it is not limited to cases in which a state statute categorically prohibits raising a Sixth Amendment IAC claim on direct review. Similarly, as we hold here, it is not limited to Sixth Amendment claims of trial-counsel IAC. It also extends to Sixth Amendment claims of appellate-counsel IAC.\nB. Statute of Limitations and Relation Back\nNguyen was required to file his habeas petition on or before May 27, 2008. He filed his original petition in February 2008, well within the limitations period. He alleged two claims in his original petition: an exhausted Eighth Amendment cruel and unusual punishment claim, and an unexhausted Fifth Amendment double jeopardy claim. Nguyen then filed an amended petition after the expiration of the statute of limitations in which he realleged his Eighth Amendment claim and his now-exhausted double jeopardy claim and alleged, for the first time, his appellate-counsel IAC claim.\nThe State contended in the district court, and contends before us, that Nguyen\u2019s appellate-counsel IAC claim is untimely. The district court did not reach that question. But the question has been briefed and presented to us, and we see no reason not to decide it now.\nA claim added to a timely filed habeas petition after the expiration of the statute of limitations is timely only if the new claim relates back to a properly filed claim contained in the original petition. To be properly filed, a claim must have been exhausted at the time of filing. King v. Ryan, 564 F.3d 1133, 1142 (9th Cir.2009). Nguyen\u2019s double jeopardy claim was not exhausted when he included it in his original habeas petition. His appellate-counsel IAC claim was not included in the original habeas petition at all. Therefore, neither of these claims was timely filed unless it relates back.\nIn Mayle v. Felix, 545 U.S. 644, 125 S.Ct. 2562, 162 L.Ed.2d 582 (2005), the Court held that a late-filed claim in an amended federal habeas petition relates back under Rule 15(c) if the timely claim and the late-filed claim \u201care tied to a common core of operative facts.\u201d Id. at 664, 125 S.Ct. 2562. The State made no timeliness objection, either in the district court or here, to Nguyen\u2019s double jeopardy claim in his amended petition. It wrote in its brief to us that it declined to object because the double jeopardy claim \u201cshared a common core of operative facts\u201d with Nguyen\u2019s timely filed cruel and unusual punishment claim. The double jeopardy claim therefore related back to the date of filing Nguyen\u2019s original habeas petition. However, the State contends that Nguyen\u2019s appellate-counsel IAC claim for failure to raise a double jeopardy claim does not relate back and is therefore untimely. The State argues that Nguyen\u2019s appellate-counsel IAC claim does not relate back because it concerned events that occurred after the resentencing hearing. The question before us is thus whether the fact that the IAC claim arose later in time means that it may not relate back.\nThe Court wrote in Mayle, \u201cAn amended habeas petition ... does not relate back (and thereby escape AEDPA\u2019s one-year time limit) when it asserts a new ground for relief supported by facts that differ in both time and type from those the original pleading sets forth.\u201d Id. at 650, 125 S.Ct. 2562. It is true, as the State points out, that Nguyen\u2019s claims \u201cdiffer in ... time.\u201d His cruel and unusual punishment and double jeopardy claims arose at resentenc-ing, when he was sentenced to twenty-five-years-to-life on Count One after he had already served all of the three-year sentence originally imposed under that count. His appellate-counsel IAC claim for failure to raise the double jeopardy claim arose later, when his counsel failed to raise that claim on appeal. It is also true that Nguyen\u2019s claims \u201cdiffer in ... type.\u201d One is an Eighth Amendment cruel and unusual punishment claim, one is a Fifth Amendment double jeopardy claim, and one is a Sixth Amendment IAC claim.\nBut the \u201ctime and type\u201d language in Mayle refers not to the claims, or grounds for relief. Rather, it refers to the facts that support those grounds. All of Nguyen\u2019s asserted grounds for relief \u2014 cruel and unusual punishment, double jeopardy, and appellate-counsel IAC for failing to raise double jeopardy \u2014 are supported by a common core of facts. Those facts are simple, straightforward, and uncontrovert-ed. And they were clearly alleged in the original pleading. They are, first, that Nguyen fully served the sentence originally imposed for Count One; and, second, that the court thereafter resentenced Nguyen to imprisonment for twenty-five-years-to-life on the same count. Compare Heb-ner v. McGrath, 548 F.3d 1133, 1139 (9th Cir.2008) (finding no relation back where the two claims were a challenge to the admission of testimony and a challenge to a jury instruction).\nWe therefore conclude that Nguyen\u2019s appellate-counsel IAC claim relates back under Rule 15(c).\nConclusion\nBecause the district court decided this case before the Supreme Court decided Martinez, it has not had the opportunity to apply the Martinez standard for \u201ccause\u201d to determine whether Nguyen\u2019s procedural default may be excused. We therefore remand to give the district court the opportunity to apply in the first instance Martinez\u2019s standard for \u201ccause\u201d to Nguyen\u2019s procedural default. If the district court concludes that Nguyen\u2019s procedural default of his appellate counsel\u2019s IAC may be excused, and if the district court also concludes that Nguyen\u2019s second appellate counsel provided constitutionally ineffective assistance in failing to raise his double jeopardy claim on direct appeal, the procedural default of Nguyen\u2019s second appellate counsel may also be excused. See Coleman, 501 U.S. at 754, 111 S.Ct. 2546.\nREVERSED and REMANDED.",
+        "type": "majority",
+        "author": "W. FLETCHER, Circuit Judge:"
+      }
+    ],
+    "attorneys": [
+      "Gia Kim. (briefed), Patricia A. Young (argued), Federal Public Defender\u2019s Office, Los Angeles, CA, for Petitioner-Appellant.",
+      "Matthew Mulford (argued), Office of the California Attorney General, San Diego, CA, for Respondent-Appellee."
+    ],
+    "corrections": "",
+    "head_matter": "HA VAN NGUYEN, Petitioner-Appellant, v. Ben CURRY, Respondent-Appellee.\nNo. 11-56792.\nUnited States Court of Appeals, Ninth Circuit.\nArgued and Submitted June 4, 2013.\nFiled Dec. 4, 2013.\nGia Kim. (briefed), Patricia A. Young (argued), Federal Public Defender\u2019s Office, Los Angeles, CA, for Petitioner-Appellant.\nMatthew Mulford (argued), Office of the California Attorney General, San Diego, CA, for Respondent-Appellee.\nBefore: STEPHEN S. TROTT and WILLIAM A. FLETCHER, Circuit Judges, and SIDNEY H. STEIN, District Judge.\nThe Honorable Sidney H. Stein, District Judge for the U.S. District Court for the Southern District of New York, sitting by designation."
+  },
+  "file_name": "1287-01",
+  "first_page_order": 1313,
+  "last_page_order": 1324
+}

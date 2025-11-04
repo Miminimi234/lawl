@@ -1,0 +1,63 @@
+{
+  "id": 3555111,
+  "name": "In re NOMINATION PETITION OF Mike L. KRANCER (for Justice of the Supreme Court). Appeal of Jaime J. Hughes-Harbson (a/k/a Jamie J. Hughes Harbson)",
+  "name_abbreviation": "In re Nomination Petition of Krancer",
+  "decision_date": "2007-05-02",
+  "docket_number": "Appeal No. 38 MAP 2007",
+  "first_page": "99",
+  "last_page": "99",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "592 Pa. 99"
+    },
+    {
+      "type": "parallel",
+      "cite": "923 A.2d 1099"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 55,
+    "char_count": 485,
+    "ocr_confidence": 0.68,
+    "sha256": "d41fbc20878d249240a375fd9accbd64883c034666938fb9a73c7b9e39361c26",
+    "simhash": "1:e55197efc5149563",
+    "word_count": 80
+  },
+  "last_updated": "2023-07-14T20:20:44.535844+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In re NOMINATION PETITION OF Mike L. KRANCER (for Justice of the Supreme Court). Appeal of Jaime J. Hughes-Harbson (a/k/a Jamie J. Hughes Harbson)."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nPER CURIAM.\nThe Order of the Commonwealth Court granting the Motion for Protective Order and to Quash Petitioner\u2019s Subpoena Duces Tecum and quashing the Petition to Set Aside is AFFIRMED. Given this disposition, we did not consider the merits of the Petition to Set Aside.",
+        "type": "majority",
+        "author": "PER CURIAM."
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "923 A.2d 1099\nIn re NOMINATION PETITION OF Mike L. KRANCER (for Justice of the Supreme Court). Appeal of Jaime J. Hughes-Harbson (a/k/a Jamie J. Hughes Harbson).\nSupreme Court of Pennsylvania.\nMay 2, 2007."
+  },
+  "file_name": "0099-01",
+  "first_page_order": 151,
+  "last_page_order": 151
+}

@@ -1,0 +1,1720 @@
+{
+  "id": 2192058,
+  "name": "Daniel M. Porter, Appellant, v. Isidor Wormser et al., Respondents",
+  "name_abbreviation": "Porter v. Wormser",
+  "decision_date": "1884-01-15",
+  "docket_number": "",
+  "first_page": "431",
+  "last_page": "451",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "94 N.Y. 431"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "N.Y.",
+    "id": 24653,
+    "name": "New York Court of Appeals"
+  },
+  "jurisdiction": {
+    "id": 1,
+    "name_long": "New York",
+    "name": "N.Y."
+  },
+  "cites_to": [
+    {
+      "cite": "81 N. Y. 25",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        2175335
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny/81/0025-01"
+      ]
+    },
+    {
+      "cite": "2 Johns. Cas. 424",
+      "category": "reporters:state",
+      "reporter": "Johns. Cas.",
+      "case_ids": [
+        1890611
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/johns-cas/2/0423-01"
+      ]
+    },
+    {
+      "cite": "12 Johns. 300",
+      "category": "reporters:state",
+      "reporter": "Johns.",
+      "case_ids": [
+        2139167
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/johns/12/0300-01"
+      ]
+    },
+    {
+      "cite": "1 Wend. 490",
+      "category": "reporters:state",
+      "reporter": "Wend.",
+      "case_ids": [
+        2003352
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/wend/1/0490-01"
+      ]
+    },
+    {
+      "cite": "6 Johns. 69",
+      "category": "reporters:state",
+      "reporter": "Johns.",
+      "case_ids": [
+        2132783
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/johns/6/0069-01"
+      ]
+    },
+    {
+      "cite": "1 Pick. 343",
+      "category": "reporters:state",
+      "reporter": "Pick.",
+      "case_ids": [
+        2070885
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/mass/18/0350-01"
+      ]
+    },
+    {
+      "cite": "7 Mass. 36",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "case_ids": [
+        1999555
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/mass/7/0031-01"
+      ]
+    },
+    {
+      "cite": "5 Hill, 439",
+      "category": "reporters:state",
+      "reporter": "Hill,",
+      "opinion_index": -1
+    },
+    {
+      "cite": "20 Barb. 29",
+      "category": "reporters:state",
+      "reporter": "Barb.",
+      "case_ids": [
+        4971769
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/barb/20/0029-01"
+      ]
+    },
+    {
+      "cite": "13 Abb. Pr. 142",
+      "category": "reporters:state",
+      "reporter": "Abb. Pr.",
+      "case_ids": [
+        4620943
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/abb-pr/13/0142-01"
+      ]
+    },
+    {
+      "cite": "19 N. Y. 170",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        497701
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny/19/0170-01"
+      ]
+    },
+    {
+      "cite": "5 Johns. 68",
+      "category": "reporters:state",
+      "reporter": "Johns.",
+      "case_ids": [
+        2131485
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/johns/5/0068-01"
+      ]
+    },
+    {
+      "cite": "38 Barb. 375",
+      "category": "reporters:state",
+      "reporter": "Barb.",
+      "case_ids": [
+        5096951
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "476"
+        }
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/barb/38/0375-01"
+      ]
+    },
+    {
+      "cite": "15 Johns. 247",
+      "category": "reporters:state",
+      "reporter": "Johns.",
+      "case_ids": [
+        2141003
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "389"
+        }
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/johns/15/0247-01"
+      ]
+    },
+    {
+      "cite": "75 N. Y. 491",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        536740
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny/75/0491-01"
+      ]
+    },
+    {
+      "cite": "2 Edw. Ch. 1",
+      "category": "reporters:state",
+      "reporter": "Edw. Ch.",
+      "case_ids": [
+        1986387
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/edw-ch/2/0001-01"
+      ]
+    },
+    {
+      "cite": "11 N. Y. 170",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        2014729,
+        2014533
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny/11/0162-01",
+        "/wend/11/0171-01"
+      ]
+    },
+    {
+      "cite": "45 Barb. 490",
+      "category": "reporters:state",
+      "reporter": "Barb.",
+      "case_ids": [
+        5145127
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/barb/45/0490-01"
+      ]
+    },
+    {
+      "cite": "6 Cow. 445",
+      "category": "reporters:state",
+      "reporter": "Cow.",
+      "case_ids": [
+        12139399
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/cow/6/0445-01"
+      ]
+    },
+    {
+      "cite": "36 N. Y. 307",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        498887
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny/36/0307-01"
+      ]
+    },
+    {
+      "cite": "3 Daly, 495",
+      "category": "reporters:state",
+      "reporter": "Daly",
+      "opinion_index": -1
+    },
+    {
+      "cite": "2 Sandf. Ch. 143",
+      "category": "reporters:state",
+      "reporter": "Sand. Ch.",
+      "case_ids": [
+        2164685
+      ],
+      "pin_cites": [
+        {
+          "page": "144"
+        }
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/sand-ch/2/0143-01"
+      ]
+    },
+    {
+      "cite": "5 Hill, 303",
+      "category": "reporters:state",
+      "reporter": "Hill,",
+      "opinion_index": -1
+    },
+    {
+      "cite": "55 Barb. 534",
+      "category": "reporters:state",
+      "reporter": "Barb.",
+      "case_ids": [
+        2251951
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/barb/55/0534-01"
+      ]
+    },
+    {
+      "cite": "40 N. Y. 562",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        503192
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny/40/0562-01"
+      ]
+    },
+    {
+      "cite": "50 N. Y. 1",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        2059727
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "108"
+        }
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny/50/0001-01"
+      ]
+    },
+    {
+      "cite": "2 Barb. 586",
+      "category": "reporters:state",
+      "reporter": "Barb.",
+      "case_ids": [
+        1933868
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/barb/2/0586-01"
+      ]
+    },
+    {
+      "cite": "2 Johns. Ch. 217",
+      "category": "reporters:state",
+      "reporter": "Johns. Ch.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "15 Wend. 83",
+      "category": "reporters:state",
+      "reporter": "Wend.",
+      "case_ids": [
+        2018884
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/wend/15/0083-01"
+      ]
+    },
+    {
+      "cite": "7 N. Y. 357",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "85 N. Y. 625",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        2182441
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny/85/0625-01"
+      ]
+    },
+    {
+      "cite": "13 How. Pr. 363",
+      "category": "reporters:state",
+      "reporter": "How. Pr.",
+      "case_ids": [
+        2201997
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/how-pr/13/0363-01"
+      ]
+    },
+    {
+      "cite": "79 N. Y. 575",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        2171420
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny/79/0575-01"
+      ]
+    },
+    {
+      "cite": "4 Sandf. 646",
+      "category": "reporters:state",
+      "reporter": "Sandf.",
+      "case_ids": [
+        1355368
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny-super-ct/6/0646-01"
+      ]
+    },
+    {
+      "cite": "54 N. Y. 481",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "11 Hun, 471",
+      "category": "reporters:state",
+      "reporter": "Hun,",
+      "opinion_index": -1
+    },
+    {
+      "cite": "11 C. B. 326",
+      "category": "reporters:specialty",
+      "reporter": "C.B.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "72 N. Y. 595",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        532831
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny/72/0595-01"
+      ]
+    },
+    {
+      "cite": "84 N. C. 696",
+      "category": "reporters:state",
+      "reporter": "N.C.",
+      "case_ids": [
+        8698608
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/nc/84/0696-01"
+      ]
+    },
+    {
+      "cite": "47 N. Y. 449",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        509453
+      ],
+      "weight": 2,
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny/47/0449-01"
+      ]
+    },
+    {
+      "cite": "3 Johns. 419",
+      "category": "reporters:state",
+      "reporter": "Johns.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "2 Hill, 352",
+      "category": "reporters:state",
+      "reporter": "Hill,",
+      "case_ids": [
+        11254020,
+        11254031
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/scl/20/0352-01",
+        "/scl/20/0352-02"
+      ]
+    },
+    {
+      "cite": "4 Cush. 498",
+      "category": "reporters:state",
+      "reporter": "Cush.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "13 Johns. 508",
+      "category": "reporters:state",
+      "reporter": "Johns.",
+      "case_ids": [
+        374481
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/johns/13/0508-01"
+      ]
+    },
+    {
+      "cite": "39 Barb. 621",
+      "category": "reporters:state",
+      "reporter": "Barb.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "50 Ind. 145",
+      "category": "reporters:state",
+      "reporter": "Ind.",
+      "case_ids": [
+        1415948
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ind/50/0145-01"
+      ]
+    },
+    {
+      "cite": "65 N. Y. 484",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        1952921
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny/65/0484-01"
+      ]
+    },
+    {
+      "cite": "42 N. Y. 493",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        505057
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny/42/0493-01"
+      ]
+    },
+    {
+      "cite": "7 Hill, 497",
+      "category": "reporters:state",
+      "reporter": "Hill,",
+      "weight": 2,
+      "opinion_index": -1
+    },
+    {
+      "cite": "4 Abb. N. C. 178",
+      "category": "reporters:state",
+      "reporter": "Abb. N. Cas.",
+      "case_ids": [
+        1949196
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/abbn-cas/4/0178-01"
+      ]
+    },
+    {
+      "cite": "46 N. Y. 449",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        2052686
+      ],
+      "weight": 2,
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny/46/0449-01"
+      ]
+    },
+    {
+      "cite": "4 Johns. Ch. 490",
+      "category": "reporters:state",
+      "reporter": "Johns. Ch.",
+      "case_ids": [
+        1978836
+      ],
+      "pin_cites": [
+        {
+          "page": "491"
+        }
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/johns-ch/4/0490-01"
+      ]
+    },
+    {
+      "cite": "42 Barb. 117",
+      "category": "reporters:state",
+      "reporter": "Barb.",
+      "pin_cites": [
+        {
+          "page": "185"
+        }
+      ],
+      "opinion_index": -1
+    },
+    {
+      "cite": "11 N. Y. 35",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        2014756,
+        2014429
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny/11/0027-01",
+        "/wend/11/0036-01"
+      ]
+    },
+    {
+      "cite": "26 Barb. 472",
+      "category": "reporters:state",
+      "reporter": "Barb.",
+      "case_ids": [
+        5006086
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/barb/26/0472-01"
+      ]
+    },
+    {
+      "cite": "32 N. Y. 417",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        16280
+      ],
+      "pin_cites": [
+        {
+          "page": "421"
+        }
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny/32/0417-01"
+      ]
+    },
+    {
+      "cite": "46 How. Pr. 452",
+      "category": "reporters:state",
+      "reporter": "How. Pr.",
+      "case_ids": [
+        4466125
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/how-pr/46/0452-01"
+      ]
+    },
+    {
+      "cite": "6 Hun, 80",
+      "category": "reporters:state",
+      "reporter": "Hun,",
+      "opinion_index": -1
+    },
+    {
+      "cite": "53 N. Y. 298",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        512966
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny/53/0298-01"
+      ]
+    },
+    {
+      "cite": "16 How. Pr. 87",
+      "category": "reporters:state",
+      "reporter": "How. Pr.",
+      "case_ids": [
+        2205630
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/how-pr/16/0087-01"
+      ]
+    },
+    {
+      "cite": "62 N. Y. 651",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        2160473,
+        2160396,
+        2160485
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny/62/0651-01",
+        "/ny/62/0651-02",
+        "/ny/62/0651-03"
+      ]
+    },
+    {
+      "cite": "1 Hun, 303",
+      "category": "reporters:state",
+      "reporter": "Hun,",
+      "opinion_index": -1
+    },
+    {
+      "cite": "57 Barb. 453",
+      "category": "reporters:state",
+      "reporter": "Barb.",
+      "case_ids": [
+        2255192
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/barb/57/0453-01"
+      ]
+    },
+    {
+      "cite": "42 N. Y. 118",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        505034
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny/42/0118-01"
+      ]
+    },
+    {
+      "cite": "65 N. Y. 352",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        1953002
+      ],
+      "weight": 3,
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny/65/0352-01"
+      ]
+    },
+    {
+      "cite": "19 N. Y. 330",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        497750
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "332"
+        },
+        {
+          "page": "333, 340"
+        },
+        {
+          "page": "352"
+        }
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny/19/0330-01"
+      ]
+    },
+    {
+      "cite": "13 Wend. 114",
+      "category": "reporters:state",
+      "reporter": "Wend.",
+      "case_ids": [
+        2015685
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "218"
+        }
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/wend/13/0114-01"
+      ]
+    },
+    {
+      "cite": "24 Barb. 9",
+      "category": "reporters:state",
+      "reporter": "Barb.",
+      "case_ids": [
+        4992545
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/barb/24/0009-01"
+      ]
+    },
+    {
+      "cite": "90 N. Y. 660",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        2186304
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny/90/0660-01"
+      ]
+    },
+    {
+      "cite": "10 Hun, 26",
+      "category": "reporters:state",
+      "reporter": "Hun,",
+      "opinion_index": -1
+    },
+    {
+      "cite": "83 N. Y. 67",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        2179295
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny/83/0067-01"
+      ]
+    },
+    {
+      "cite": "85 N. Y. 365",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        2182421
+      ],
+      "weight": 5,
+      "pin_cites": [
+        {
+          "page": "386"
+        },
+        {
+          "page": "386"
+        },
+        {
+          "page": "370"
+        }
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny/85/0365-01"
+      ]
+    },
+    {
+      "cite": "10 Bosw, 337",
+      "category": "reporters:state",
+      "reporter": "Bosw.",
+      "case_ids": [
+        1318763
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny-super-ct/23/0337-01"
+      ]
+    },
+    {
+      "cite": "74 N. Y. 568",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        534650
+      ],
+      "pin_cites": [
+        {
+          "page": "572"
+        }
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny/74/0568-01"
+      ]
+    },
+    {
+      "cite": "115 Mass. 536",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "130 Mass. 285",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "case_ids": [
+        2128171
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/mass/130/0285-01"
+      ]
+    },
+    {
+      "cite": "2 Hall, 252",
+      "category": "reporters:state",
+      "reporter": "Hall",
+      "case_ids": [
+        1361787
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny-super-ct/2/0252-01"
+      ]
+    },
+    {
+      "cite": "26 Wend. 192",
+      "category": "reporters:state",
+      "reporter": "Wend.",
+      "case_ids": [
+        2028397
+      ],
+      "pin_cites": [
+        {
+          "page": "221"
+        }
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/wend/26/0192-01"
+      ]
+    },
+    {
+      "cite": "28 N. Y. 261",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        2036812
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny/28/0261-01"
+      ]
+    },
+    {
+      "cite": "50 Barb. 288",
+      "category": "reporters:state",
+      "reporter": "Barb.",
+      "case_ids": [
+        1948656
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/barb/50/0288-01"
+      ]
+    },
+    {
+      "cite": "89 Mass. 29",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "case_ids": [
+        2123074
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/mass/89/0029-01"
+      ]
+    },
+    {
+      "cite": "49 N. Y. 464",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        2057418
+      ],
+      "pin_cites": [
+        {
+          "page": "471, 473"
+        }
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny/49/0464-01"
+      ]
+    },
+    {
+      "cite": "52 Barb. 217",
+      "category": "reporters:state",
+      "reporter": "Barb.",
+      "case_ids": [
+        1950220
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/barb/52/0217-01"
+      ]
+    },
+    {
+      "cite": "60 N. Y. 614",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        523197,
+        523134
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny/60/0614-01",
+        "/ny/60/0614-02"
+      ]
+    },
+    {
+      "cite": "1 Hun, 217",
+      "category": "reporters:state",
+      "reporter": "Hun,",
+      "opinion_index": -1
+    },
+    {
+      "cite": "100 Mass. 382",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "case_ids": [
+        2141777
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/mass/100/0382-01"
+      ]
+    },
+    {
+      "cite": "21 Wall. 138",
+      "category": "reporters:scotus_early",
+      "reporter": "Wall.",
+      "case_ids": [
+        3411073
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/us/88/0138-01"
+      ]
+    },
+    {
+      "cite": "3 Duer, 660",
+      "category": "reporters:state",
+      "reporter": "Duer",
+      "case_ids": [
+        1326219
+      ],
+      "weight": 2,
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny-super-ct/10/0660-01"
+      ]
+    },
+    {
+      "cite": "91 N. Y. 74",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        2188475
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny/91/0074-01"
+      ]
+    },
+    {
+      "cite": "32 Md. 169",
+      "category": "reporters:state",
+      "reporter": "Md.",
+      "case_ids": [
+        1772565
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/md/32/0169-01"
+      ]
+    },
+    {
+      "cite": "1 N. Y. Leg. Obs. 25",
+      "category": "reporters:state",
+      "reporter": "N.Y. Leg. Obs.",
+      "weight": 2,
+      "opinion_index": -1
+    },
+    {
+      "cite": "65 N. Y. 158",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        1953009
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny/65/0158-01"
+      ]
+    },
+    {
+      "cite": "3 Hill, 389",
+      "category": "reporters:state",
+      "reporter": "Hill,",
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "497"
+        }
+      ],
+      "opinion_index": -1
+    },
+    {
+      "cite": "12 Barb. 103",
+      "category": "reporters:state",
+      "reporter": "Barb.",
+      "case_ids": [
+        1937849
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/barb/12/0103-01"
+      ]
+    },
+    {
+      "cite": "16 N. Y. 892",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "40 Barb. 648",
+      "category": "reporters:state",
+      "reporter": "Barb.",
+      "case_ids": [
+        5103937
+      ],
+      "weight": 2,
+      "opinion_index": -1,
+      "case_paths": [
+        "/barb/40/0648-01"
+      ]
+    },
+    {
+      "cite": "8 Duer, 660",
+      "category": "reporters:state",
+      "reporter": "Duer",
+      "opinion_index": -1
+    },
+    {
+      "cite": "4 Duer, 29",
+      "category": "reporters:state",
+      "reporter": "Duer",
+      "case_ids": [
+        6761460
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny-super-ct/11/0029-01"
+      ]
+    },
+    {
+      "cite": "25 Md. 242",
+      "category": "reporters:state",
+      "reporter": "Md.",
+      "case_ids": [
+        1758643
+      ],
+      "weight": 2,
+      "opinion_index": -1,
+      "case_paths": [
+        "/md/25/0242-01"
+      ]
+    },
+    {
+      "cite": "4 Metc. 325",
+      "category": "reporters:state",
+      "reporter": "Metc.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "5 Fed. 483",
+      "category": "reporters:federal",
+      "reporter": "F.",
+      "case_ids": [
+        3751060
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/f/5/0483-01"
+      ]
+    },
+    {
+      "cite": "4 Sandf. Ch. 37",
+      "category": "reporters:state",
+      "reporter": "Sand. Ch.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "5 N. Y. 256",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        6097816
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny/5/0246-01"
+      ]
+    },
+    {
+      "cite": "26 How. Pr. 404",
+      "category": "reporters:state",
+      "reporter": "How. Pr.",
+      "case_ids": [
+        2218900
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/how-pr/26/0404-01"
+      ]
+    },
+    {
+      "cite": "100 Mass. 416",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "case_ids": [
+        2141844
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/mass/100/0416-01"
+      ]
+    },
+    {
+      "cite": "33 Barb. 578",
+      "category": "reporters:state",
+      "reporter": "Barb.",
+      "case_ids": [
+        5062152
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/barb/33/0578-01"
+      ]
+    },
+    {
+      "cite": "22 N. Y. 327",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        2026270
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny/22/0327-01"
+      ]
+    },
+    {
+      "cite": "32 Barb. 9",
+      "category": "reporters:state",
+      "reporter": "Barb.",
+      "case_ids": [
+        5049199
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/barb/32/0009-01"
+      ]
+    },
+    {
+      "cite": "39 N. Y. 117",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        502246
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny/39/0117-01"
+      ]
+    },
+    {
+      "cite": "34 Barb. 276",
+      "category": "reporters:state",
+      "reporter": "Barb.",
+      "case_ids": [
+        5072916
+      ],
+      "weight": 2,
+      "opinion_index": -1,
+      "case_paths": [
+        "/barb/34/0276-01"
+      ]
+    },
+    {
+      "cite": "36 N. Y. 427",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        498915
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny/36/0427-01"
+      ]
+    },
+    {
+      "cite": "3 Sandf. Ch. 60",
+      "category": "reporters:state",
+      "reporter": "Sand. Ch.",
+      "case_ids": [
+        2166657
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/sand-ch/3/0060-01"
+      ]
+    },
+    {
+      "cite": "7 Hill, 260",
+      "category": "reporters:state",
+      "reporter": "Hill,",
+      "opinion_index": -1
+    },
+    {
+      "cite": "8 N. H. 504",
+      "category": "reporters:state",
+      "reporter": "N.H.",
+      "case_ids": [
+        6756663
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/nh/8/0504-01"
+      ]
+    },
+    {
+      "cite": "103 Mass. 306",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "case_ids": [
+        2146202
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/mass/103/0306-01"
+      ]
+    },
+    {
+      "cite": "16 Hun, 337",
+      "category": "reporters:state",
+      "reporter": "Hun,",
+      "opinion_index": -1
+    },
+    {
+      "cite": "52 N. Y. 312",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        510913
+      ],
+      "pin_cites": [
+        {
+          "page": "319"
+        }
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny/52/0312-01"
+      ]
+    },
+    {
+      "cite": "132 Mass. 129",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "case_ids": [
+        2131609
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/mass/132/0129-01"
+      ]
+    },
+    {
+      "cite": "103 U. S. 651",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        1522287
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/us/103/0651-01"
+      ]
+    },
+    {
+      "cite": "81 N. Y. 308",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        2175293
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "333"
+        }
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny/81/0308-01"
+      ]
+    },
+    {
+      "cite": "56 N. Y. 285",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        519147
+      ],
+      "weight": 5,
+      "pin_cites": [
+        {
+          "page": "288"
+        },
+        {
+          "page": "327, 343-349"
+        },
+        {
+          "page": "288"
+        },
+        {
+          "page": "327, 343-349"
+        },
+        {
+          "page": "288"
+        }
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny/56/0285-01"
+      ]
+    },
+    {
+      "cite": "49 N. Y. 301",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        2057480
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "425"
+        }
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny/49/0301-01"
+      ]
+    },
+    {
+      "cite": "63 N. Y. 653",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        527166
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "655"
+        },
+        {
+          "page": "655"
+        },
+        {
+          "page": "655"
+        }
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny/63/0653-01"
+      ]
+    },
+    {
+      "cite": "1 Wash. C. C. 274",
+      "category": "reporters:federal",
+      "reporter": "Wash. C. C.",
+      "pin_cites": [
+        {
+          "page": "276"
+        }
+      ],
+      "opinion_index": -1
+    },
+    {
+      "cite": "8 Wend. 495",
+      "category": "reporters:state",
+      "reporter": "Wend.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "18 Johns. 363",
+      "category": "reporters:state",
+      "reporter": "Johns.",
+      "case_ids": [
+        8710647
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/johns/18/0363-01"
+      ]
+    },
+    {
+      "cite": "4 Daly, 218",
+      "category": "reporters:state",
+      "reporter": "Daly",
+      "opinion_index": -1
+    },
+    {
+      "cite": "57 N. Y. 676",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        5139220
+      ],
+      "weight": 2,
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny/57/0676-01"
+      ]
+    },
+    {
+      "cite": "18 N. Y. 363",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        2021210
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny/18/0363-01"
+      ]
+    },
+    {
+      "cite": "49 N. Y. 555",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        2057514
+      ],
+      "weight": 2,
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny/49/0555-01"
+      ]
+    },
+    {
+      "cite": "2 Johns. 48",
+      "category": "reporters:state",
+      "reporter": "Johns.",
+      "case_ids": [
+        6771307
+      ],
+      "weight": 2,
+      "opinion_index": -1,
+      "case_paths": [
+        "/johns/2/0047-01"
+      ]
+    },
+    {
+      "cite": "6 Tenn. 591",
+      "category": "reporters:state",
+      "reporter": "Tenn.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "2 La. Ann. 639",
+      "category": "reporters:state",
+      "reporter": "La. Ann.",
+      "case_ids": [
+        335159
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/la-ann/2/0639-01"
+      ]
+    },
+    {
+      "cite": "1 Sandf. 297",
+      "category": "reporters:state",
+      "reporter": "Sandf.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "30 N. Y. 549",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        2040667
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny/30/0549-01"
+      ]
+    },
+    {
+      "cite": "86 N. Y. 418",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        546211
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny/86/0418-01"
+      ]
+    },
+    {
+      "cite": "28 Am. Rep. 190",
+      "category": "reporters:state_regional",
+      "reporter": "Am. Rep.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "44 N. Y. 72",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        507309
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny/44/0072-01"
+      ]
+    },
+    {
+      "cite": "81 N. Y. 25",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        2175335
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny/81/0025-01"
+      ]
+    },
+    {
+      "cite": "2 Sandf. Ch. 143",
+      "category": "reporters:state",
+      "reporter": "Sand. Ch.",
+      "case_ids": [
+        2164685
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/sand-ch/2/0143-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 1744,
+    "char_count": 44741,
+    "ocr_confidence": 0.536,
+    "pagerank": {
+      "raw": 1.6940939498953792e-06,
+      "percentile": 0.9933316575599581
+    },
+    "sha256": "d7c0e649e1491a4d8ac2cd00f9a332c4ed334ef9706a97a5884fa3c4fb4aef86",
+    "simhash": "1:8ed72bab2a2c4e88",
+    "word_count": 8100
+  },
+  "last_updated": "2024-02-27T20:26:35.672822+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Daniel M. Porter, Appellant, v. Isidor Wormser et al., Respondents."
+    ],
+    "opinions": [
+      {
+        "text": "Andrews, J.\nThis action is brought to open and review an account between the parties, commencing July, 1878, and ending August, 1879, of transactions in the purchase and sale of stocks and government bonds. The defendants were stockbrokers, and also dealers in government bonds on then own account. They purchased and sold upon the orders and for .the account of the plaintiff from time to time during the period mentioned, stocks to a large amount, upon which the plaintiff realized a profit of $30,000 or thereabouts, which was credited to him by the defendants in his account.\nThe particular transaction between the parties, which is the subject of controversy upon this appeal, originated in an ex-ecutory agreement made on or about the 22d of May, 1879, for the purchase by the plaintiff of the defendants of $1,000,000 United States four per cent bonds at the average price of about 103T9y, and the sale of bonds to that amount by the defendants on account of the plaintiff on the 13th, 14th and 15th days of August, 1879, at an aggregate sum, which, after charging interest on the purchase-price at the rate of three per cent per annum, and commissions on the sale, and crediting the July coupons, was $24,637.55 less than the sum the plaintiff was to pay for the bonds under the agreement of Hay. previous. This sum the defendants charged to the plaintiff in their account as the loss sustained by him in the transaction, and the right to charge this loss to the plaintiff is the only point now in controversy.\nThe written evidence of the contract for the purchase of the bonds is contained in several sale notes delivered by the defendants to the plaintiff, dated the 22d and 23d of Hay, 1879, commencing \u201c Sold to D. H. Porter, Esq., by I. and S. Wormser,\u201d and specifying the amount of the bonds sold, the, price, and stating that they were to be carried by the defendants for sixty days at three per cent interest per annum. Contemporaneously with the several transactions the cashier or bookkeeper of the defendants entered in their book of sales of bonds a statement, under appropriate headings, of the name of the plaintiff as buyer, the dates, the amount, the description and the price. These entries followed an entry of a sale to another person, in which the bonds sold to him were described as four per cent C\u2019p. B\u2019s,\u201d and the bonds sold to the plaintiff were described in the entry by the abbreviation \u201c do.\u201d written under the preceding description. On June 20, 1879, just prior to the departure of the plaintiff for Europe, the defendants gave to the plaintiff a writing, by which they agreed to carry the bonds, if not sold at the expiration of the sixty days\u2019 arrangement, for \u201c further thirty days \u201d at three per cent interest per annum. The plaintiff in his complaint impeaches the item in the account of $24,637.55 first, upon the ground of fraud of the defendants, actual and constructive, in the origin of the transaction, by reason of which the plaintiff alleged, he was entitled to, and did, immediately on learning the facts, on the 6th day of September, 1879, rescind the contract of purchase; and second, that the sale of the bonds on his account on the 13th, 14th and 15th days of August, 1879, was unauthorized and constituted a breach of the defendants\u2019 agreement to carry the bonds for ninety days, which time did not expire until August 21,1879. There is no suggestion in the complaint of any objection to the charge in question, except upon the grounds just stated.\nThe plaintiff failed on the trial to prove the fraud alleged in the complaint. The evidence shows that the transaction was, in its origin, an executory agreement by the defendants, as vendors, to sell to the plaintiff, as vendee, $1,000,000 of government bonds at the prices mentioned in the sale notes, and to carry them for the time and at the rate of interest specified. The allegations of fraud were not only unproved, but' were disproved, and the first ground alleged in the complaint for impeaching the account may be dismissed without further consideration.\nUpon the facts hitherto stated, the sale of the bonds on the 13th, 14th and 15th days of August, 1879, was unauthorized, and furnished no foundation for charging the plaintiff with the difference between the purchase-price of the bonds and the amount for which they were sold. The plaintiff at the time of the sale was not in default. The contract to carry had not expired, and the sale cannot be regarded as the exercise by a vendor of personal property of a right to resell on account of the vendee, and to charge the latter for the loss, for the plain reason that such right in any given case does not come into existence, and can be exercised only after default by the vendee. (See Dustan v. McAndrew, 44 N. Y. 72; Mason v. Decker, 72 id. 595; 28 Am. Rep. 190.) If, therefore, there were no facts in the case except as so far stated, it would follow that the item of $24,637.55 should be expunged from the account. But the defendants rely for their authority for the sale of the bonds prior to the expiration of the time for which they were to be carried, and before the plaintiff was in default, upon a \u201c stop order,\u201d so called, given, by the plaintiff on the 20th of June, 1869. This was. an order, in writing, directing the defendants to sell for account of the plaintiff and at his risk \u201c $500,000 United States four per cent bonds at 103, ex. July coupons and accrued interest; $500,000 do. at 103-\u00bf-do. do.; or at your (their) discretion, \u2018 stop order,\u2019 \u00a7500,000 United States four per cent bond at lOOf, ex. July coupons and accrued interest; $500,000 do. at lOOf- do. do.\u201d The construction of this order presents one of the principal questions in the case. When this order was given, the contract made in Hay for the purchase and sale of the bonds had not matured and was still in full force. The market price of government bonds had declined, and the plaintiff was about leaving New York, where he resided, for Europe. He procured the extension of the time for which the defendants were to carry the bonds, as before stated, and concurrently therewith gave the \u201c stop order\u201d in question. It is not controverted that the order related to the same bonds which the plaintiff had previously contracted to purchase.\nThe definition of a \u201c stop order \u201d was given by Nathan, one of the defendants, in his evidence on the trial and was not controverted. He said, \u201c the meaning of a \u2018 stop order \u2019 is to await a certain figure, and whenever this figure is reached, to stop the transaction by then selling or buying, as the case may be, as well as possible,\u2019 \u2019 and was explained by another witness as follows, \u201c for instance, if you give a stop order at 109 or 110, you must sell as soon as the stock or bonds have sold at that price by some one else. If you \u00abcan sell at that price you must do it, but if you cannot, you must sell at whatever the price is after they have sold at that price.\u201d The market price of government bonds continued to decline after June 20, and on the 13th of August they sold at the Stock Exchange for 101. This was the fiat price, carrying the accrued interest from July 1, when the last due coupons were payable. The defendants thereupon on the same day, acting upon the assumption that the \u201c stop-order \u201d price for $500,000 of the bonds, viz.: \u201c lOOf ex. July coupons and accrued interest,\u201d had been reached, sold $200,000 of bonds on account of the plaintiff at 101. The next day (Aug. 14), government bonds sold at the Exchange for 10Of, and the defendants on the same day sold $300,000 of bonds on account of the plaintiff at 101 and lOOf. On the 15th of August they sold the remaining $500,000 at lOOf, which, was the lowest market price of the day. The defendants construed the \u201c stop order \u201d as requiring them to .sell when the market price of the bonds should decline to 101-|- or 101J without the July coupons, or if sold after July 1, when the market price should equal 100j- and 100J plus the accrued interest from that date. The plaintiff on the other hand insists that the \u201c stop-order \u201d price referred to the flat price, and that the words \u201cex. July coupons and accrued interest,\u201d mean \u201c without taking the July coupons and the accrued interest into consideration in fixing the price; that is when the bonds were selling for 100|- (or 100^) flat, as it is called.\u201d\nIt is apparent that the authority of the defendants to sell the bonds under the \u201c stop order \u201d did not become operative until either the upper or the lower limits fixed therein were reached in the market, and that it did not authorize a sale at any intermediate price. The latter proposition, however, is subject to the qualification resulting from the technical meaning of the words \u201c stop order,\u201d as explained on the trial, that after a sale of similar bonds in the market in a transaction between third persons at the \u201c stop-order \u201d price, the power to sell under the \u201c stop order \u201d would immediately attach, and the defendants might then proceed to sell the bonds at such price as could be obtained, either above or below the price limited. It seems to be a decisive reason for rejecting the construction of the \u201c stop order \u201d insisted upon by the plaintiff, viz.: that the bonds were to be sold when they declined to 100J and 100\u00a3, or in other words, that the flat price was intended, that such construction deprives the qualifying words \u201c ex. July coupons and accrued interest\u201d of any significance. A direction to sell at 100|-or 100j-, without more, would have expressed the exact meaning which the plaintiff attributes to the whole phrase \u201c 100-J or 100J ex. July coupons and accrued interest.\u201d It is not we think difficult to understand the general purpose of the plaintiff in adding the words \u201c ex. July coupons and accrued interest \u201d to the price named in the order. This purpose plainly was to qualify the limit of lOO^or lOO-j-, so that the power of sale should not become operative until the bonds should sell for these prices without the July coupons and without the accrued interest, or in other words, not until they had fallen to 100-J and 100J, the seller reserving the July coupons and the accrued interest. A sale of bonds \u201cex. July coupons,\u201d means a sale reserving the coupons, that is, a sale in which the seller receives in addition to the purchase-price, the benefit of the coupons, which benefit he may realize either by detaching them or receiving from the buyer an equivalent consideration. In this case the bonds not having been sold until after July 1, the plaintiff presumably had the benefit of the coupons falling due on that day, and they were credited to him in his account. A sale at 100|- or lOCtj- with the accrued interest added -is precisely equivalent to a sale at 100|- or 100-j-, the seller reserving the accrued interest. In the one case the seller would receive the accrued interest as a part of the price of the bonds, and in the other he would retain an interest in the bonds, and the transaction would ordinarily be adjusted either by the seller cutting off the current coupon and retaining thereout the amount of interest accrued at the time of the sale, or the buyer, on delivery of the bonds, would pay the seller an equivalent amount in addition to the purchase-price. We think the first descending limit of the \u201c stop order \u201d was reached when government bonds of the description embraced in the contract, had sold in the market for a flat price, which after deducting therefrom the accrued interest, would leave 100\u00a3.\nThe further point is taken by the plaintiff, that the limit of the \u201c stop order \u201d had not been reached August 13tli, when the first sale of $200,000 of bonds was made, assuming the defendants\u2019 construction of the order to be the correct one. The lowest price for which government bonds sold on that day, according to the evidence, was 101. The highest of the descending limits in the \u201c stop order \u201d was 100\u00a3 and accrued interest from July lst\u00a1 The accrued interest on government bonds from July 1st to August 13th (the day of the sale) was a very little less than one-half of one per cent, and by this difference the limit had not been, reached. The question therefore arises as to the effect of this transaction upon the rights of the parties. It is important to bear in mind the relation in which the parties stood to each other at this time and the capacity in which the defendants were acting in making the sale. The defendants were vendors of the bonds. But in executing the authority conferred by the \u201c stop order \u201d they were agents of the plaintiff. They had no right to sell the bonds as vendors, until some default had occurred on the part of the plaintiff, but in selling the bonds they did not assume to act by virtue of any right as vendors, but only as agents under the \u201c stop order.\u201d The sale when fully completed, in accordance with the order, would necessarily determine the state of the account between the parties, and show the loss or profit on the transaction. But this does not alter the fact, that in making the sale the defendants assumed to act as agents of the plaintiff under the \u201c stop order,\u201d and not as vendors or owners of the bonds. It is the case then of an agent authorized to sell property for his principal, making a sale not strictly within his authority. Such a transaction gives the principal a right of action against the agent for any damages sustained by the former from the agent\u2019s act. But if no damages have resulted nothing can be recovered, because both wrong and damage must occur to sustain the action. In this case not only were no damages shown, but on the contrary it affirmatively apjjears that the plaintiff was not injured by the sale on the 13th. On the next day (the 14th) government bonds declined in the market to- 100-| and the \u201cstop order\u2019\u2019 limit was then reached, which entitled the defendants to sell the whole $1,000,000 of bonds, and they then proceeded to sell on the 14th and 15th of August the remaining $800,000. In Gruman v. Smith (81 N. Y. 25), which was an action by a broker to recover an alleged balance on a stock transaction, ascertained by a sale of stock without notice to the customer,, it was held that the plaintiff was entitled to recover such balance, subject to a counter-claim for any damages resulting to the defendants from the unauthorized and irregular sale, but that the customer could claim no greater benefit than would have accrued to him if the sale had not been made. (See also Capron v. Thompson, 86 N. Y. 418; Story on Agency, \u00a7\u00a7 222, 236.)\nIt is further claimed that the sale of the bonds should have been made at the Stock Exchange, whereas they were sold between the calls at private sale. It is not claimed that they were sold under the market price. On the contrary they were sold at as high, and some of them at a higher price than similar bonds brought at public sale on the 14th and 15th. The \u201c stop order\u201d contained no direction as to the manner of sale, and an agent authorized to sell the property of his principal, may, in the absence of special restrictions, sell in any usual or ordinary way. It'was shown that the bulk of sales of government bonds were made outside of the public board, at private sale, and nothing having been shown to impeach the fairness of the sale in question, the fact that it was a private and not a public sale was not a ground of objection. (See Pollen v. Le Roy, 30 N. Y. 549; Crooks v. Moore, 1 Sandf. 297; White v. Kearney, 2 La. Ann. 639.)\nIt is claimed, however, that the defendants were themselves the purchasers of the bonds, and that the transaction was void for that reason. The principle is undeniable that an agent to sell cannot sell to himself, for the obvious reason that the two relations of agent and purchaser are inconsistent, and such a transaction will be set aside without proof of fraud. The claim that the defendants purchased the bonds themselves, is based upon certain notices in writing, sent by the defendants to the plaintiff, of the several alleged sales, headed \u201c Bought of D. M. Porter, Esq., by I. and S. Wormser,\u201d containing a statement of the particular amount of bonds sold and the price and accompanied in each instance except one, by a letter signed by the defendants, referring to the notice inclosed. The defendant Hath an testified that the bonds were sold by the defendants, between the calls, at the offices of the different dealers in government bonds, and there is no evidence to the contrary, except the notices referred to, which the witness said, in answer to a general question, represented the transaction therein referred to. It is insisted that these notices, which the counsel characterizes as \u201c purchase notes,\u201d conclusively determine the point that the defendants were the purchasers of the bonds, and that parol evidence was inadmissible to show that they sustained any other relation to the transaction, or that in fact the bonds were sold to third persons. We think the defendants were not precluded from showing the real transaction, and that the rule that parol evidence is inadmissible to change or vary written contracts has no application. The notices were simply reports by an agent to his principal of his proceedings in the execution of the agency. The plaintiff impeaches the agent\u2019s transaction, because upon the face of the reports the agent appears to have undertaken to execute an agency to sell, by selling to himself. It was, we think, admissible for the defendants to show the actual transaction, and that by mistake or inadvertence it was misrepresented in the written advices. The plaintiff was not prejudiced by the mistake, and the proof simply relieved the defendants from the charge of misconduct in executing the authority intrusted to them.\nBut the plaintiff raised on the argument another question which, if it had been properly raised on the trial, would not be free from difficulty. It is now claimed that the original transaction in Hay, 1879, was the purchase and sale of coupon, as distinguished from registered bonds, and that the sale made by the defendants of $200,000 of bonds, August 13th, on account of the plaintiff, was of registered bonds, and that at least a portion of the bonds subsequently sold were of the same character. The sale of registered bonds it is insisted was not a sale of the same kind of bonds which the plaintiff bought of the defendants, or which they were by the \u201c stop order \u201d authorized to sell, and that the order, therefore, has never been executed, and that, except on the basis of such execution, no loss can be charged to the plaintiff. In respect to the character of bonds, contemplated in the original agreement of purchase, whether registered or coupon, the oral negotiation and the sale notes, gave no intimation. The evidence is that there was no specification of the particular kind of bonds in the oral negotiation, but simply an agreement of the plaintiff to buy, and of the defendant to sell $1,000,000 four per cent government bonds, and the sale notes described them with no greater particularity. It was probably not at the time deemed material to which of the two descriptions of bonds the contract related. The evidence is that registered and coupon bonds have the same market value, and the reports of sales at the Stock Exchange, introduced in evidence, while they show fluctuations in the price of the same description of bonds on the same day, and also that registered bonds sometimes sold higher and sometimes lower than coupon bonds, they do not contradict the oral evidence. The defendants, however, entered the transaction in their books as we have stated, and in their account credited the plaintiff with the July coupons, and the plaintiff in the \u201c stop order \u201d refers to the bonds as coupon bonds.\nThere is force in the claim that the contract of purchase, although indefinite when made, was made definite by the subsequent acts of the parties. The only evidence in respect to the character of bonds sold under the \u201c stop order \u201d is contained in the advice of the sale of $200,000 of the bonds on the 13th of August, in which they are described as registered bonds, and which concludes, \u201c shall endeavor to sell remaining 300 M.\u201d The other advices refer to bonds sold without specification, whether registered or coupon. Upon these facts the court is asked to reverse the judgment on the ground that a sale of registered bonds was not a sale of the plaintiff\u2019s bonds and furnishes no basis for charging him with any loss in the transaction. But this point was not raised by the pleadings or by any exception, nor so far as it appears was it suggested until the argument of the appeal. The plaintiff, before the action was commenced, had knowledge of all the facts bearing upon this question. He sets out in his complaint the particular grounds of objection to the account, but gives no hint of the objection now taken. He was silent upon this point during the progress of the trial. He made no requests for findings designed or calculated to raise this question. His requests for findings in respect of transactions subsequent to the original purchase were made with exclusive reference to the claim put forth in his proposed conclusions of law that the August sales were void, first, because they were not made at the price or prices limited in the \u201c stop order; \u201d second, because not made at the Stock Exchange; and third, because the defendants were the purchasers, or, having so represented themselves, were estopped from alleging to the contrary. Under these circumstances we are of opinion that the plaintiff is not in a situation to raise the point now suggested.\nThe plaintiff further insists that the original contract of pur. chase was void by the statute of frauds, there being no note or memorandum of the contract signed by him. This ground was not taken in the complaint, and was raised for the first time in the requests for findings. The complaint in substance alleges the existence of a contract for the purchase of the bonds, and seeks to avoid the loss charged thereon on the ground of fraud in the inception of the contract, and be-' cause the sale under the \u201c stop order \u201d was made in disregard of the price limited therein. The general rule is that the defense of the statute of frauds must be pleaded, except where the complaint on its face discloses a case within the statute. It cannot be doubted that if the defendants had brought an action to recover a balance claimed to be due on the contract for the purchase of the bonds without disclosing whether the contract was oral or written, the plaintiff would have been bound to plead the statute to avail himself of its protection. The plaintiff having become an actor, and brought an action to impeach the account on grounds which implied the existence \u00f3f a formal contract, is not in a position to question the validity of the contract under the statute. (See Cozine v. Graham, 2 Paige, 177; Vaupell v. Woodward, 2 Sandf. Ch. 143; 2 Story\u2019s Eq., \u00a7 755.)\nThis conclusion renders it unnecessary to determine whether the various writings put in evidence are sufficient to satisfy the requirements of the statute, and constitute a note or memorandum of the contract signed by the purchaser.\nThese are the principal questions in the, case. We find no error in the record, and the judgment should therefore be affirmed.\nAll concur.\nJudgment affirmed.",
+        "type": "majority",
+        "author": "Andrews, J."
+      }
+    ],
+    "attorneys": [
+      "George F. Comstock and D. M Porter for appellant.",
+      "John E. Parsons for respondents."
+    ],
+    "corrections": "",
+    "head_matter": "Daniel M. Porter, Appellant, v. Isidor Wormser et al., Respondents.\nAn agent authorized to sell the property of his principal may, in the absence of special restrictions, sell in any usual and ordinary way.\nWhere a vendee brings an action to impeach the account of his vendor, on grounds which imply the existence of a formal contract of sale, he cannot question the validity of the contract under the statute of frauds.\nIn May, 1869, plaintiff contracted to purchase of defendants, who were stock-brokers and dealers in government bonds, 81,000,000 United States four per cent bonds, which the latter agreed to carry for a specified time. Sale notes were delivered by defendants to plaintiff for the amount contracted for, and cotemporaneously therewith entries were made of the sales, on defendants\u2019 books of sales of bonds; the bonds were described therein as coupon bonds. In June, 1869, plaintiff gave to defendants a \u201cstop order\u2019\u2019 to sell \u201c8500,000 at 100.1-4, ex. July coupons and accrued interest $500,000 do. at 100.1-3 do. do.\" The stop order authorized a sale at the market price whenever bonds were bought and sold by other parties at the price fixed. On August 18, bonds sold at the Stock. Exchange at 101 \u201c flat,\" i. e., carrying the accrued interest from July 1 ; thereupon defendants sold $300,000 at that price on plaintiff\u2019s account; the accrued interest at that time was less than one-half percent; next day bonds sold at 100.5-8, and defendants sold $800,000 at 101 and 100.7-8, and on August 15 they sold $500,000 at 100.7-8, the lowest price on that day. The losses on the transaction were charged in plaintiff\u2019s account. In an action to open and review the account, held, that the first limit of the stop order was reached and a sale was authorized after July 1, when bonds of the description of those in question had sold in the market for a flat price, which, after deducting therefrom the accrued interest from that date, would leave 100.1-3 ; that as the decline had not reached that point when the first sale was made it was unauthorized ; but that plaintiff was only entitled to the damages ; and, as it appeared that plaintiff was not injured by the sale, and that the stop-order limit was reached the next day, that he was entitled to nothing more than the proceeds of the sale.\nThe stop order contained no directions as to the manner of sale; the bonds were sold between the calls at the Stock Exchange at private sale; they were sold as high as, and some higher than the market price, and it appeared that the bulk of the sales of government bonds were made in this way. Held, that, in the absence of evidence to impeach the fairness of the sale, the manner in which it was made was not a ground of objection.\nThe headings to the notices of sale sent by defendants to plaintiff indicated that the bonds were bought of plaintiff by defendants; plaintiff claimed that defendants, as his agents, could not purchase, and so that the sales were void ; defendants, however, proved that the sales were in fact made to others Held, that defendants were not precluded by the notices from showing the real transactions.\nIt appeared by the notice of sale that the bonds sold August 13 were registered bonds. It was claimed by plaintiff here that this was not a sale of plaintiff\u2019s bonds, and furnished no basis for charging him with a loss. Held, that as this'point was not raised by the pleadings, or by any exception appearing in the case, it was not available here.\nPlaintiff\u2019s counsel also claimed the original contract of purchase to be void under the statute of frauds, as there was no written note or memorandum signed by him. This objection was not taken in the complaint, and was raised for the first time in the requests for findings. Held, that plaintiff was not in a position to question the validity of the contract under the statute. y\n(Argued December 12,1883;\ndecided January 15, 1884)\nAppeal from judgment of the General Term of the Superior Court of the city of New York, entered upon an order made April 3, 1882, which affirmed a judgment in favor of defendants, entered upon the report of a referee.\nThe nature of the action and the facts, so far as material, are stated in the opinion.\nGeorge F. Comstock and D. M Porter for appellant.\nWhen an agency is created or conferred by a written instrument, and grows wholly out of it, the nature and extent of the authority must be ascertained from the instrument itself, and camuqt be changed or enlarged by usage. (Gardner v. Smith, 6 Tenn. 591; Hogg v. Snaith, 1 Taunt. 347; Potter v. Everett, Ired. Eq. 152; Batly v. Carswell, 2 Johns. 48; Martin v. Farnsworth, 49 N. Y. 555; Nixon v. Palmer, 8 id. 398; Bertram v. Godfrey, 1 Knapp\u2019s P. C. C. 381; Westcott v. Thompson, 18 N. Y. 363; Ledyard v. Hibbard, 26 Alb. L. J. 414.) The question of the power of a stock-broker, buying on margins, to sell, if it depends upon the construction of writings between the parties, is a question of law merely. (Davis v. Gwynne, 57 N. Y. 676; 4 Daly, 218.) The bonds sold by defendants on August 13 and 14,1879, were not plaintiffs bonds. This being so, their failure under their contract to deliver entitles the plaintiff to recover. (Kimber v. Barber, L. R., 8 Ch. App. 56; Evans on Ag. 14; Beals v. Allen, 18 Johns. 363; Rossiter v. Rossiter, 8 Wend. 495; Allen v. Ogden, 1 Wash. C. C. 274, 276.) The alleged, sales of the bonds on August 13,14, and 15, 1879, were no sales, because defendants sold the bonds to themselves. (Salmon Mfg. Co. v. Goddard, 14 How. [U. S.] 446-456; Saunderson v. Jackson, 2 B. & P. 238; Thornton v. Meux, M. & M. 43; Higgins v. Senior, 8 M. & W. 834; Ind. P. & C. R. R. Co. v. Tyng, 63 N. Y. 653, 655; Benj. on Sales, \u00a7 239; Taussig v. Hart, 49 N. Y. 301; 58 id. 425; Pearson v. C. R. R. Co., 28 Alb. L. J. 366, 368-371; Bain v. Brown, 56 N. Y. 285, 288; Gardner v. Ogden, 22 id. 327, 343-349; Brookman v. Rothschild, 3 Simons, 153; Rothschild v. Brookman, 5 Bligh [N. S.], 165; Whitackre v. Whitackre, Macnaughton\u2019s Select Cases, 53, 45; Crull v. Dodson, id. 105, 114; Bennett v. Austin, 81 N. Y. 308, 333; Robinson v. Mollett, L. R., 7. L. H. Eng. & Ir. App. Cas. 802-808; Ex parte Moore, 45 L. T. [N. S.] 558; Ex parte Dyster, 1 Mer. 155, 175; Thacker v. Hardy, L. R., 4 Q. B. Div. 685; Wardell v. U. P. R. R. Co., 103 U. S. 651; Lowther v. Lowther, 13 Vesey, Jr., 95, 103; Langton v. Wait, L. R., 6 Eq. 165; Lincoln v. Erie Co., 132 Mass. 129; Dutton v. Willner, 52 N. Y. 312, 319; Duden v. Waitsfelder, 16 Hun, 337; Story on Bailment, \u00a7 319; Day v. Holmes, 103 Mass. 306; Duane v. English, L. R., 18 Eq. 524; Martin v. Moulton, 8 N. H. 504; 4 Kent\u2019s Com. [7th ed.] 475; Schouler on Bailments, 209; Tyler on Usury, 585; Edw. on Bailments, \u00a7 283; B\u2019k of N. O. v. Torry, 7 Hill, 260; S. C., 9 Paige, 649; Dobson v. Racey, 3 Sandf. Ch. 60; Conkey v. Bond, 36 N. Y. 427; 34 Barb. 276; Fellows v. Northrup, 39 N. Y. 117; 1 Parsons on Contracts, 87; Bridenbecker v. Lowell, 32 Barb. 9; Gardner v. Ogden, 22 N. Y. 327-341; Abbott v. Am. Co., 33 Barb. 578; Pickering v. Deweritt, 100 Mass. 416; McDonald v. Lord, 2 Robt. 7; 26 How. Pr. 404; Moore v. Moore, 5 N. Y. 256; 4 Sandf. Ch. 37; Marye v. Strouse, 5 Fed. 483; Bentley v. Craven, 18 Beavan, 76; Trevelyan v. Charles, 9 id. 140.) If the \u201c stop-order \u201d price had been reached, then at that moment defendants became plaintiff\u2019s brokers, and they could not purchase for themselves when employed to sell. (Bain v. Brown, 56 N. Y. 285, 288; Gardner v. Ogden, 22 id. 327, 343-349; Brookman v. Rothschild, 3 Simons, 153; Robinson v. Mollett, L. R., 7 H. L. Eng. & Ir. App. Cases, 802-808; Thacker v. Hardy, L. R., 4 Q. B. Div. 685; Langton v. Waite, L. R., 6 Eq. 165; Copeland v. Insurance Co., 6 Pick. [Mass.] 198; Reed v. Warner, 5 Paige, 650; Torry v. Bk. of N. O., 9 id. 648-663; Lowther v. Lowther, 13 Vesey, 95; Story\u2019s Eq. Jur., \u00a7\u00a7 315, 321, 323; Story on Bailments, \u00a7 319; Middlesex B\u2019k v. Menot, 4 Metc. 325; The Bank v. D. R. R. Co., 8 Clarke [Iowa], 277; Maryland Ins. Co. v. Dalrymple, 25 Md. 242-265; Sanderson v. Walker, 13 Vesey, 601; Langton v. Waite, L. R., 6 Eq. 165; Morse v. Royal, 12 Vesey, 355; Bain v. Brown, 56 N. Y. 285, 288.) Defendants properly claim that the sales notes of May are conclusive as to the plaintiff, and that he could not offer parol evidence to vary them ; that being true defendants cannot be allowed to offer evidence to vary these notes, rendered in August, much less can they imgeaeh them without testimony. (Magee v. Atkinson, 2 M. & W. 439, 441; 2 Parsons on Contracts [5th ed.], 548; Benjamin on Sales, \u00a7 219; Higgins v. Senior, 8 M. & W. 834; Williams v. Christie, 4 Duer, 29; Ind. P. & C. R. R. Co. v. Tyng, 63 N. Y. 653, 655; Dos Passos on Stockbrokers, etc., 682; Ford v. Williams, 21 How. [U. S.] 287, 289.) Ho names being given of the purchasers other than the defendants, or of the place where the bonds were alleged to have been sold, or the numbers of the bonds, the transactions amount to nothing more than purported sales on paper. (Dos Passos on Stock-brokers, etc., 224, note 2, 682, 683; Royal Exchange Ins. Co. v. More, 11 Weekly Rep. 592.) The alleged sales were illegal, improper and unwarranted, because the bonds were not sold at public sale, or at public mart for such commodities, to-wit, the Stock Exchange, but were without any authorization therefor sold at private sale, whilst all the previous dealings of the parties had been made at the Stock Exchange. (Brown v. Ward, 8 Duer, 660; Brass v. Worth, 40 Barb. 648; Wheeler v. Newbold, 16 N. Y. 892; Rankin v. McCullough, 12 Barb. 103; Willoughby v. Comstock, 3 Hill, 389; Dykers v. Allery,7 id. 497; Ogden v. Lathrop, 65 N. Y. 158: Maryland Fire Ins. Co. v. Dalrymple, 25 Md. 242-265; Costello v. City B\u2019k 1 N. Y. Leg. Obs. 25; Edwards on Bailments, 283, notes 2, 3; Rosenstock v. Forney, 32 Md. 169.) Even if it was customary to make such sales outside the Stock Exchange, in the absence of express agreement, it would be illegal. (Corn Exchange B\u2019k v. Nassau B\u2019k, 91 N. Y. 74; Robinson v. Mollett, L. R., 7 H. L. Eng. and Ir. App. Cas. 802, 816; Brown v. Ward, 3 Duer, 660; Costello v. City B\u2019k, 1 N. Y. Leg. Obs. 25; Vermilye v. Adams\u2019 Ex. Co., 21 Wall. 138; Shaw v. Spencer, 100 Mass. 382; Boardman v. Gaillard, 1 Hun, 217; 60 N. Y. 614; M. C. R. R. Co. v. Morgan, 52 Barb. 217; Walls v. Bailey, 49 N. Y. 464, 471, 473; Dickinson v. Gray, 89 Mass. 29; Duguid v. Edwards, 50 Barb. 288; Tilley v. County of Cook, 13 Otto, 155, 162; Nat. B\u2019k v. Burkhardt, 10 id. 686-692; Bush v. Cole, 28 N. Y. 261; Delafield v. State of Illinois, 26 Wend. 192, 221; Gardner v. Bailey, 6 Term R. 591; Hogg v. Smith, 1 Taunt. 349; Potter v. Everett, 2 Hall, 252; Batty v. Carswell, 2 Johns. 48; Martin v. Farnsworth, 49 N. Y. 555; Nixon v. Palmer, 8 id. 398; Bertram v. Godfrey, 1 Knapp\u2019s P. C. C. 381; Commw. v. Cooper, 130 Mass. 285; S. C., 15 Am. Law. Rev. 360; Haskins v. Warren, 115 Mass. 536; F. & M. B\u2019k v. Logan, 74 N. Y. 568, 572; Diflock v. Blackburn, 3 Camp. 43; Gibson v. Crick, 1 H. & C 142, 147; Wharton on Agency, \u00a7 244, note 1.) Where a party who was to perform a condition precedent by a certain time disables himself before that time from performing it, the other party may immediately abandon the contract. (Chitty on Contracts [6th Am. ed.], 731, 732, 742; 2 Parsons on Contracts [6th ed.], 678.) Even if defendants had been brokers instead of being vendors, and had not imposed additional conditions on offering to repurchase, liability for selling without authority would not be barred by a subsequent offer to repurchase. (Clark v. Meigs, 10 Bosw, 337.) Plaintiff cannot be held to have ratrfied'the alleged sales because he did not know at the time that defendants were the purchasers, or sold the wrong bonds or sold them at private sale. (Levy v. Loeb, 85 N. Y. 365; S. C., 89 id. 386; Story on Agency, \u00a7 243.) The referee erroneously admitted evidence to explain the stop order. The language was plain, and the agreement must be learned from the contract. (Davis v. Gwynne, 57 N. Y. 676; Westcott v. Thompson, 18 id. 363; Norton v. Woodruff, 2 Comst. 153; Canaday v. Krum, 83 N. Y. 67; Hill v. Hibernia Ins. Co., 10 Hun, 26; Paine v. Howells, 90 N. Y. 660; Deyo v. Bleakley, 24 Barb. 9; Rogers v. Kneeland, 13 Wend. 114; 10 id. 218.) The previous relations between the parties having been that of broker and customer, if while the account was still running plaintiff gave an order for the purchase of government bonds defendants could not sell their own bonds to plaintiff without a plain and explicit statement that this was what they were doing. (Story\u2019s Eq. Jur. [12th ed.], \u00a7\u00a7 316, 311, 315, 316 a; Kimberly v. Patchin, 19 N. Y. 330, 332; Benjamin on Sales [3d Am. ed.], 317, \u00a7 352; Cooke v. Millard, 65 N. Y. 352; Foot v. Marsh, 51 id. 288; White v. Wilks, 5 Taunt. 176; Russell v. Carrington, 42 N. Y. 118; Conkey v. Bond, 36 id. 427; Robinson v. Mollett, L. R, 7 Eng. & Ir. App. Cas. 802; Proctor v. Brain, 2 M. & P. 284; 3 C. & P. 536; Clark v. Powell, 1 N. & M. 492, 504; Comstock v. Comstock, 57 Barb. 453; Brown v. Post, 1 Hun, 303; 62 N. Y. 651; Conkey v. Bond, 36 id. 427; 34 Barb. 276; Voris v. McCredy, 16 How. Pr. 87; Simar v. Canaday, 53 N. Y. 298; Mitchell v. Read, 61 id. 123; Ross v. Ross, 6 Hun, 80; Burling v. King, 46 How. Pr. 452; Hoffman v. Treadwell, 2 T. & C. 57; Andrew v. Newcomb, 32 N. Y. 417, 421; Comfort v. Kiersted, 26 Barb. 472; Andrews v. Durant, 11 N. Y. 35; Whitcomb v. Hungerford, 42 Barb. 117, 185.) As between principal and broker an arrangement that the broker is to carry the stocks or bonds which he is directed to buy, he himself furnishing their cost or a part of it, means that the broker may use the stocks for the purpose of borrowing on them the money needed to carry the loan. Nourse v. Prime, 4 Johns. Ch. 490, 491; 7 id. 81; Stewart v. Drake, 46 N. Y. 449; Horton v. Morgan, 19 id. 170; Chamberlain v. Greenleaf, 4 Abb. N. C. 178.) Where the parties are vendor and vendee there is, unless something further is added, no relation of agency, and there is no reason in the fact that the sale is on credit why the rule of law that property sold out of a common mass must be set apart and identified, should not be adhered to. (Benjamin on Sales, \u00a7 352; Kimberly v. Patchin, 19 N. Y. 330, 333, 340; Cooke v. Millard, 65 id. 352; Bryan v. Baldwin, 52 id. 232; Gildersleeve v. Landon, 73 id. 609; Dykers v. Allen, 7 Hill, 497.) The arrangement, though in form an executed sale, may be treated as an executory contract, (Cooke v. Millard, 65 N. Y. 352; 3 R. S. [6th ed.] 142, \u00a7\u00a7 2, 3; Justice v. Lang, 42 N. Y. 493; S. C., 52 id. 323; Mason v. Decker, 72 id. 595; Benjamin on Sales [3d Am. ed.], \u00a7 222, p. 198; \u00a7 211, p. 190; Newberry v. Wall, 65 N. Y. 484; Hunter v. Wetsell, 57 id. 375; Wright v. Weeks, 25 id. 153; Ridgway v. Ingram, 50 Ind. 145; Pierce v. C. L. R., 9 Q. B. 210; Boydell v. Drummond, 11 East, 142; Cooper v. Smith, 15 id. 103; Clinan v. Cook, 1 S. & L. 22; Calkins v. Falk, 39 Barb. 621; Dodge v. Lean, 13 Johns. 508; Whitman v. Meigs, 4 Cush. 498; Dilworth v. Bostwick, 1 Sweeney, 581; Sieverwright v. Archibald, 17 A. & E. [N. S.] 104; 17 Q. B. 103; Rollin v. Pickett, 2 Hill, 352; Marshall v. Lynn, 6 M. & W. 109; Bailey v. Ogdens, 3 Johns. 419; Caulkins v. Hellman, 47 N. Y. 449.) If there is any contract as to the government bonds between the plaintiff and defendants under the statute of frauds the defendants could only change their position from vendors to that of agents, having the right to sell when the price reached the limit named in the stop order. (Brookman v. Rothschild, 3 Simon, 153; Rothschild v. Brookman, 5 Bligh [N. S.], 165, 195, 197; Crull v. Dodson, Mac. Sel. Cas. 114; Whitackre v. Whitackre, id. 45 ; 3 Simons, 153, 214, 218; Gillett v. Peppercorne, 3 Beav. 78; Ex parte Moore, 45 L. T. [N. S.] 558; Pegram v. C. C. & A. R. R. Co., 84 N. C. 696; Brunhild v. Freeman, 77 id. 128; Pendle ton v. Jones, 82 id. 249; Story on Agency, \u00a7 3211; Ringo v. Binns, 10 Peters, 269; Bennett v. Austin, 81 N. Y. 308; Fulton v. Whitney, 66 id. 548.) But if, for any reason, the case is taken out of the statute of frauds, the defendants cannot charge the plaintiff with the proceeds, because a sale to fix the damages on a refusal to deliver must be of the same goods which the vendor agreed to sell; there must be some proof equivalent to a tender of the specific bonds. (Mason v. Decker, 72 N. Y. 595; Griesewood v. Blane, 11 C. B. 326; Yerkes v. Salomon, 11 Hun, 471; Levy v. Loeb, 85 N. Y. 365; S. C., 89 id. 386.) Plaintiff was entitled to have an accounting. (Stenton v. Jerome, 54 N. Y. 481; Volkening v. DeGraaf, 81 id. 268; Wiggins v. Gaus, 4 Sandf. 646; Cook v. Jenkins, 79 N. Y. 575; Carr v. Thompson, 87 id. 160; Harrington v. Bruce, 84 id. 103; Sparmam v. Keim, 83 id. 245; Byxbie v. Wood, 24 id. 607; Conkey v. Bond, 36 id. 427; Tugman v. N. S. S. Co., 76 id. 207; Conaughty v. Nichols, 42 id. 83; Knapp v. Roche, 5 J. & S. 395, 404; 1 Daniel\u2019s Ch. Pr. and Pl. [4th Am. ed.] 856; Palmer v. Palmer, 13 How. Pr. 363; Story v. Brown, 4 Paige\u2019s Ch. 111; Green v. Weaver, 1 Sim. 404; S. C., 6 L. J. C. 1; Benedict v. Benedict, 85 N. Y. 625; Conaughty v. Nichols, 42 id. 83; Greentree v. Rosenstock, 61 id. 583.) The sale was merely executory. (Cooke v. Millard, 65 N. Y. 352; Foote v. Marsh, 51 id. 288; Benjamin on Sales [3d Am. ed.], \u00a7 352; White v. Wilks, 5 Taunt. 176; Gardiner v. Suydam, 7 N. Y. 357-362.) When defendants reported to the plaintiff, under the \u201c stop order,\u201d they defined unmistakably their relations with him as that of purchasers, in the form of the purchase-contracts, by which they are concluded. (Thornton v. Meux, M. & M. 43; Higgins v. Senior, 8 M. & W. 834; I. P. & C. R. R. Co. v. Tyng, 63 N. Y. 653, 655; Magee v. Atkinson, 2 M. & W. 439, 440; Benjamin on Sales, \u00a7\u00a7 219, 239, 285, 286.)\nJohn E. Parsons for respondents.\nIf the action were for an account strictly, it was an entire defense that the defendants had accounted, unless the plaintiff could show that the account was inaccurate in respects and for reasons specified in the complaint. (Weed v. Small, 7 Paige, 573; Leycroft v. Dempsey, 15 Wend. 83; Stoughton v. Lynch, 2 Johns. Ch. 217; Bruen v. Hove, 2 Barb. 586; Towsley v. Dennison, 45 id. 490.) When fraud is alleged in a complaint, it must be proved, and proved as alleged. (Degraw v. Elmore, 50 N. Y. 1; Ross v. Matoer, 51 id. 108; Barnhard v. Seligman, 54 id. 661; Dudley v. Scranton, 57 id. 424; Barnes v. Quigley, 59 id. 265.) The plaintiff\u2019s claim upon the reference, that the defendants as members of the syndicate received some benefit of interest from the government; that they did not inform Mr. Porter of this, and that for this reason the sale was fraudulent, is untenable. (Marsh v. Falker, 40 N. Y. 562; Myer v. Amedon, 45 id. 169; Weed v. Case, 55 Barb. 534; Starr v. Bennett, 5 Hill, 303; Starr v. Peck, 1 id. 270.) The contracts for the sale of the bonds cannot be impeached either for insufficiency or under'-the statute of frauds. (Cozine v. Graham, 2 Paige, 177; Vanpelt v. Woodward, 2 Sandf. Ch. 143, 144; 3 Parsons on Contracts, 389; Spear v. Hart, 3 Robt. 420; Passaic Mfg. Co. v. Hoffman, 3 Daly, 495; Trevor v. Wood, 36 N. Y. 307; Gale v. Nixon, 6 Cow. 445; Towsley v. Dennison, 45 Barb. 490; Dows v. Durfee, 10 id. 213; Lockwood v. Thorne, 11 N. Y. 170; Philips v. Belden, 2 Edw. Ch. 1; Hodge v. Hoppock, 75 N. Y. 491.) It was not necessary that the contract should specify either the denomination or the number of the bonds, or should state whether they were registered or coupon. (Burdick v. Green, 15 Johns. 247; Putnam v. Lewis, 8 id. 389; Pegueno v. Taylor, 38 Barb. 375; East River B\u2019k v. Butterworth, 45 id. 476; Tobey v. Barber, 5 Johns. 68.) It being a part of the agreement of purchase that the defendants should carry the bonds, this permitted them to do what they chose, merely keeping themselves ready to deliver as the plaintiff directed, or to sell when directed. (Horton v. Morgan, 19 N. Y. 170; Whitehouse v. Moore, 13 Abb. Pr. 142; Outwater v. Nelson, 20 Barb. 29; Hinton v. Locke, 5 Hill, 439; Stewart v. Drake, 46 N. Y. 449; Dykers v. Allen, 7 Hill, 497; Levy v. Loeb, 15 J. & S. 61; 85 N. Y. 365, 370.) The defendants sold the bonds, as brokers for the plaintiff, and under the direction of the stop order, it was proper for them, to make the sale at any usual place and in any usual maimer. (Goodenow v. Tyler, 7 Mass. 36; Clark v. Van Northwick, 1 Pick. 343; Van Allen v. Vanderpool, 6 Johns. 69; Douglas v. Leland, 1 Wend. 490; Brass v. Worth, 40 Barb. 648; Rankin v. McCullough, 2 id. 103; Brown v. Ward, 3 Duer, 660.) If the bonds had been sold by the defendants before the stop-order price was reached, and if they themselves had been the purchasers, the plaintiff ratified the sale and cannot now object. (Carnes v. Bleecker, 12 Johns. 300; Armstrong v. Gilchrist, 2 Johns. Cas. 424; Towle v. Stevenson, 1 id. 110.) If the defendants made an improper sale of the bonds, it constituted a conversion of them, and for the damages sustained by the \u00a1Dla-intif\u00ed they would be liable to him, but' the plaintiff would not be relieved from the original purchase. (Gruman v. Smith, 81 N. Y. 25; Baker v. Drake, 53 id. 211.)"
+  },
+  "file_name": "0431-01",
+  "first_page_order": 455,
+  "last_page_order": 475
+}

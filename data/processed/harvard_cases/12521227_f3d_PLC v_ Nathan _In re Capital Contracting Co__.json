@@ -1,0 +1,916 @@
+{
+  "id": 12521227,
+  "name": "IN RE: CAPITAL CONTRACTING COMPANY, Debtor. Carl F. Schier PLC, Appellant, v. Kenneth A. Nathan, Trustee, Appellee.",
+  "name_abbreviation": "PLC v. Nathan (In re Capital Contracting Co.)",
+  "decision_date": "2019-05-21",
+  "docket_number": "No. 18-2219",
+  "first_page": "890",
+  "last_page": "899",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "924 F.3d 890"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "6th Cir.",
+    "id": 21296,
+    "name": "United States Court of Appeals for the Six Circuit"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "719 F. App'x 502",
+      "category": "reporters:federal",
+      "reporter": "F. App'x",
+      "year": 2018,
+      "pin_cites": [
+        {
+          "page": "506"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "823 F.3d 872",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        5917139
+      ],
+      "year": 2016,
+      "pin_cites": [
+        {
+          "page": "886"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/823/0872-01"
+      ]
+    },
+    {
+      "cite": "454 U.S. 464",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6189548
+      ],
+      "weight": 3,
+      "year": 1982,
+      "pin_cites": [
+        {
+          "page": "473",
+          "parenthetical": "citation omitted"
+        },
+        {
+          "parenthetical": "citation omitted"
+        },
+        {
+          "parenthetical": "citation omitted"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/454/0464-01"
+      ]
+    },
+    {
+      "cite": "490 U.S. 605",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        605746
+      ],
+      "weight": 5,
+      "year": 1989,
+      "pin_cites": [
+        {
+          "page": "617-18"
+        },
+        {
+          "page": "617"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/490/0605-01"
+      ]
+    },
+    {
+      "cite": "292 F.3d 895",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        3699384,
+        9418085
+      ],
+      "year": 2002,
+      "pin_cites": [
+        {
+          "page": "899"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us-app-dc/352/0191-01",
+        "/f3d/292/0895-01"
+      ]
+    },
+    {
+      "cite": "753 F.3d 1258",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        5918243
+      ],
+      "year": 2014,
+      "pin_cites": [
+        {
+          "page": "1261",
+          "parenthetical": "citing Sierra Club v. EPA , 292 F.3d 895, 899 (D.C. Cir. 2002) "
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/753/1258-01"
+      ]
+    },
+    {
+      "cite": "476 U.S. 54",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        12645
+      ],
+      "weight": 5,
+      "year": 1986,
+      "pin_cites": [
+        {
+          "page": "62"
+        },
+        {
+          "page": "62"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/476/0054-01"
+      ]
+    },
+    {
+      "cite": "570 U.S. 693",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        12698480
+      ],
+      "weight": 7,
+      "year": 2013,
+      "pin_cites": [
+        {
+          "page": "705",
+          "parenthetical": "quoting Arizonans for Official English , 520 U.S. at 64, 117 S.Ct. 1055 "
+        },
+        {
+          "parenthetical": "quoting Arizonans for Official English , 520 U.S. at 64, 117 S.Ct. 1055 "
+        },
+        {
+          "parenthetical": "quoting Arizonans for Official English , 520 U.S. at 64, 117 S.Ct. 1055 "
+        },
+        {
+          "page": "704"
+        },
+        {
+          "page": "704"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/570/0693-01"
+      ]
+    },
+    {
+      "cite": "828 F.3d 602",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        4337417,
+        4343436
+      ],
+      "weight": 3,
+      "year": 2016,
+      "pin_cites": [
+        {
+          "page": "605"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/828/0602-01",
+        "/br/555/0602-01"
+      ]
+    },
+    {
+      "cite": "754 F. App'x 590",
+      "category": "reporters:federal",
+      "reporter": "F. App'x",
+      "year": 2019,
+      "pin_cites": [
+        {
+          "page": "591"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "2017 WL 8236168",
+      "category": "reporters:specialty_west",
+      "reporter": "WL",
+      "year": 2017,
+      "pin_cites": [
+        {
+          "page": "*1"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "851 F.3d 619",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        12272942,
+        12277479
+      ],
+      "year": 2017,
+      "pin_cites": [
+        {
+          "page": "623-24"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/br/566/0619-01",
+        "/f3d/851/0619-01"
+      ]
+    },
+    {
+      "cite": "532 U.S. 275",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        9301210
+      ],
+      "weight": 3,
+      "year": 2001,
+      "pin_cites": [
+        {
+          "page": "286-87"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/532/0275-01"
+      ]
+    },
+    {
+      "cite": "5 L.Ed. 257",
+      "category": "reporters:federal",
+      "reporter": "L. Ed.",
+      "case_ids": [
+        11730243
+      ],
+      "year": 1821,
+      "pin_cites": [
+        {
+          "parenthetical": "Marshall, C.J."
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/19/0264-01"
+      ]
+    },
+    {
+      "cite": "707 F.2d 441",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1861908,
+        6124573
+      ],
+      "year": 1983,
+      "pin_cites": [
+        {
+          "page": "443"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/707/0441-01",
+        "/br/30/0441-01"
+      ]
+    },
+    {
+      "cite": "1986 WL 17769",
+      "category": "reporters:specialty_west",
+      "reporter": "WL",
+      "year": 1986,
+      "pin_cites": [
+        {
+          "page": "*2"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "28 U.S.C. \u00a7 158",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "pin_cites": [
+        {
+          "page": "(a)"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "286 F.3d 359",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        9425962,
+        940851
+      ],
+      "weight": 2,
+      "year": 2002,
+      "pin_cites": [
+        {
+          "page": "364"
+        },
+        {
+          "page": "364-65"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/br/276/0359-01",
+        "/f3d/286/0359-01"
+      ]
+    },
+    {
+      "cite": "351 F.2d 139",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        808027
+      ],
+      "year": 1965,
+      "pin_cites": [
+        {
+          "page": "143"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/351/0139-01"
+      ]
+    },
+    {
+      "cite": "304 F.2d 429",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        6810863
+      ],
+      "year": 1962,
+      "pin_cites": [
+        {
+          "page": "431"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/304/0429-01"
+      ]
+    },
+    {
+      "cite": "514 U.S. 122",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        1339840
+      ],
+      "weight": 3,
+      "year": 1995,
+      "pin_cites": [
+        {
+          "page": "126"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/514/0122-01"
+      ]
+    },
+    {
+      "cite": "52 Stat. 840",
+      "category": "laws:leg_session",
+      "reporter": "Stat.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "11 U.S.C. \u00a7 67",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "year": 1976,
+      "pin_cites": [
+        {
+          "page": "(c)"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "527 U.S. 815",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        1248131
+      ],
+      "weight": 3,
+      "year": 1999,
+      "pin_cites": [
+        {
+          "page": "831"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/527/0815-01"
+      ]
+    },
+    {
+      "cite": "863 F.3d 521",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        12270320,
+        12275886
+      ],
+      "year": 2017,
+      "pin_cites": [
+        {
+          "page": "525-27"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/br/570/0521-01",
+        "/f3d/863/0521-01"
+      ]
+    },
+    {
+      "cite": "803 F.3d 450",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        4346600,
+        4350045
+      ],
+      "year": 2015,
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/803/0450-01",
+        "/br/540/0450-01"
+      ]
+    },
+    {
+      "cite": "645 F.3d 201",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        5652513,
+        4180308
+      ],
+      "year": 2011,
+      "pin_cites": [
+        {
+          "page": "211"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/645/0201-01",
+        "/br/453/0201-02"
+      ]
+    },
+    {
+      "cite": "293 F.3d 1332",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        9420956,
+        9415534
+      ],
+      "weight": 3,
+      "year": 2002,
+      "pin_cites": [
+        {
+          "page": "1337"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/293/1332-01",
+        "/br/280/1332-01"
+      ]
+    },
+    {
+      "cite": "11 U.S.C. \u00a7 1109",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "(b)"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "750 F.3d 659",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        4300059,
+        4066229
+      ],
+      "weight": 2,
+      "year": 2014,
+      "pin_cites": [
+        {
+          "page": "660"
+        },
+        {
+          "page": "661"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/br/511/0659-01",
+        "/f3d/750/0659-01"
+      ]
+    },
+    {
+      "cite": "896 F.3d 382",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        12517731
+      ],
+      "year": 2018,
+      "pin_cites": [
+        {
+          "page": "385"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/896/0382-01"
+      ]
+    },
+    {
+      "cite": "520 U.S. 43",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11651034
+      ],
+      "weight": 5,
+      "year": 1997,
+      "pin_cites": [
+        {
+          "page": "64"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/520/0043-01"
+      ]
+    },
+    {
+      "cite": "504 U.S. 555",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11730070
+      ],
+      "weight": 5,
+      "year": 1992,
+      "pin_cites": [
+        {
+          "page": "560"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/504/0555-01"
+      ]
+    },
+    {
+      "cite": "698 F. App'x 300",
+      "category": "reporters:federal",
+      "reporter": "F. App'x",
+      "case_ids": [
+        12269468,
+        12396870
+      ],
+      "year": 2017,
+      "pin_cites": [
+        {
+          "page": "303"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/br/576/0300-01",
+        "/f-appx/698/0300-01"
+      ]
+    },
+    {
+      "cite": "439 B.R. 761",
+      "category": "reporters:specialty",
+      "reporter": "B.R.",
+      "case_ids": [
+        3780929
+      ],
+      "year": 2010,
+      "opinion_index": 0,
+      "case_paths": [
+        "/br/439/0761-01"
+      ]
+    },
+    {
+      "cite": "131 S.Ct. 2594",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        12450496,
+        6049563,
+        4332163
+      ],
+      "weight": 2,
+      "year": 2011,
+      "opinion_index": 0,
+      "case_paths": [
+        "/l-ed-2d/180/0475-01",
+        "/br/449/2594-01",
+        "/us/564/0462-01"
+      ]
+    },
+    {
+      "cite": "564 U.S. 462",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        12450496,
+        4332163
+      ],
+      "weight": 3,
+      "year": 2011,
+      "pin_cites": [
+        {
+          "page": "469"
+        },
+        {
+          "page": "500-01"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/l-ed-2d/180/0475-01",
+        "/us/564/0462-01"
+      ]
+    },
+    {
+      "cite": "468 U.S. 737",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11340114
+      ],
+      "weight": 7,
+      "year": 1984,
+      "pin_cites": [
+        {
+          "page": "751"
+        },
+        {
+          "page": "751"
+        },
+        {
+          "page": "754"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/468/0737-01"
+      ]
+    },
+    {
+      "cite": "136 S. Ct. 1540",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        12596653
+      ],
+      "weight": 4,
+      "year": 2016,
+      "pin_cites": [
+        {
+          "page": "1547"
+        },
+        {
+          "page": "1548"
+        },
+        {
+          "page": "1548",
+          "parenthetical": "citation omitted"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/s-ct/136/1540-01"
+      ]
+    },
+    {
+      "cite": "523 U.S. 83",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11503308
+      ],
+      "weight": 9,
+      "year": 1998,
+      "pin_cites": [
+        {
+          "page": "101-04"
+        },
+        {
+          "page": "93-101"
+        },
+        {
+          "page": "106"
+        },
+        {
+          "page": "107"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/523/0083-01"
+      ]
+    },
+    {
+      "cite": "2018 WL 4492240",
+      "category": "reporters:specialty_west",
+      "reporter": "WL",
+      "weight": 4,
+      "year": 2018,
+      "pin_cites": [
+        {
+          "page": "*2",
+          "parenthetical": "internal quotation marks omitted"
+        },
+        {
+          "page": "*2"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "737 F.3d 372",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        3667248,
+        3732115
+      ],
+      "year": 2013,
+      "pin_cites": [
+        {
+          "page": "376-77"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/br/503/0372-01",
+        "/f3d/737/0372-01"
+      ]
+    },
+    {
+      "cite": "11 U.S.C. \u00a7 704",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "pin_cites": [
+        {
+          "page": "(a)(9)"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "134 S.Ct. 1377",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        12706985,
+        12579076
+      ],
+      "weight": 11,
+      "year": 2014,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/572/0118-01",
+        "/s-ct/134/1377-01"
+      ]
+    },
+    {
+      "cite": "572 U.S. 118",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        12706985
+      ],
+      "weight": 5,
+      "year": 2014,
+      "pin_cites": [
+        {
+          "page": "125"
+        },
+        {
+          "page": "128"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/572/0118-01"
+      ]
+    },
+    {
+      "cite": "546 U.S. 500",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        5937941
+      ],
+      "weight": 5,
+      "year": 2006,
+      "pin_cites": [
+        {
+          "page": "510",
+          "parenthetical": "citation omitted"
+        },
+        {
+          "parenthetical": "citation omitted"
+        },
+        {
+          "parenthetical": "citation omitted"
+        },
+        {
+          "page": "510-12"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/546/0500-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 1177,
+    "char_count": 22814,
+    "pagerank": {
+      "raw": 4.947487136851577e-08,
+      "percentile": 0.31224175617960737
+    },
+    "sha256": "8275201bb48213c296d6199e6483df711959508f8cc8032aa294a1a24cda0621",
+    "simhash": "1:73518f0a8a8898c6",
+    "word_count": 3718
+  },
+  "last_updated": "2024-02-27T18:46:58.656971+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "file_name": "0890-01",
+  "first_page_order": 890,
+  "last_page_order": 899
+}

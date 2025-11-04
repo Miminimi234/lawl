@@ -1,0 +1,66 @@
+{
+  "id": 12126285,
+  "name": "Lorillard Tobacco Company v. Department of Treasury",
+  "name_abbreviation": "Lorillard Tobacco Co. v. Department of Treasury",
+  "decision_date": "2015-07-28",
+  "docket_number": "No. 150664; Court of Appeals No. 313256",
+  "first_page": "864",
+  "last_page": "864",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "498 Mich. 864"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Mich.",
+    "id": 8790,
+    "name": "Michigan Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 49,
+    "name_long": "Michigan",
+    "name": "Mich."
+  },
+  "cites_to": [
+    {
+      "cite": "2014 PA 282",
+      "category": "reporters:neutral",
+      "reporter": "PA",
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 42,
+    "char_count": 334,
+    "ocr_confidence": 0.701,
+    "sha256": "41ff1b49ada6494dc997a65caea2ee3d8aebf5854e9c1656dd068d98e6739ac1",
+    "simhash": "1:383fe76b1506069b",
+    "word_count": 59
+  },
+  "last_updated": "2024-02-27T16:10:26.420323+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Lorillard Tobacco Company v Department of Treasury,"
+    ],
+    "opinions": [
+      {
+        "text": "Pursuant to MCR 7.302(H)(1), in lieu of granting leave to appeal, we vacate the judgment of the Court of Appeals and we remand this case to the Court of Appeals for reconsideration in light of 2014 PA 282.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Summary Disposition July 28, 2015:\nLorillard Tobacco Company v Department of Treasury,\nNo. 150664; Court of Appeals No. 313256."
+  },
+  "file_name": "0864-02",
+  "first_page_order": 810,
+  "last_page_order": 810
+}

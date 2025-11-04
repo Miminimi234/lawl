@@ -1,0 +1,103 @@
+{
+  "id": 2192103,
+  "name": "Everett B. Sanders, Respondent, v. The Lake Shore and Michigan Southern Railway Company, Appellant",
+  "name_abbreviation": "Sanders v. Lake Shore & Michigan Southern Railway Co.",
+  "decision_date": "1883-12-14",
+  "docket_number": "",
+  "first_page": "641",
+  "last_page": "643",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "94 N.Y. 641"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "N.Y.",
+    "id": 24653,
+    "name": "New York Court of Appeals"
+  },
+  "jurisdiction": {
+    "id": 1,
+    "name_long": "New York",
+    "name": "N.Y."
+  },
+  "cites_to": [
+    {
+      "cite": "18 N. Y. 35",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        2021156
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny/18/0035-01"
+      ]
+    },
+    {
+      "cite": "1 Hoff. Ch. 294",
+      "category": "reporters:state",
+      "reporter": "Hoff. Ch.",
+      "case_ids": [
+        490634
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/hoff-ch/1/0294-01"
+      ]
+    },
+    {
+      "cite": "84 N. Y. 157",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        2180975
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny/84/0157-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 234,
+    "char_count": 2800,
+    "ocr_confidence": 0.517,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.07703808214301297
+    },
+    "sha256": "b9995d096e949fd4ee46cb14c1804d96e9cc03d5b8c21fb6cf9ff5f2cf715325",
+    "simhash": "1:d8e2da227e42a650",
+    "word_count": 479
+  },
+  "last_updated": "2024-02-27T20:26:35.672822+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Everett B. Sanders, Respondent, v. The Lake Shore and Michigan Southern Railway Company, Appellant."
+    ],
+    "opinions": [
+      {
+        "text": "Earl, J.,\nreads for modification as above, and for affirmance as modified.\nAll concur.\nJudgment accordingly.",
+        "type": "majority",
+        "author": "Earl, J.,"
+      }
+    ],
+    "attorneys": [
+      "Edward S. Rapallo for appellant.",
+      "Birdseye, Cloyd & Bayliss for respondent."
+    ],
+    "corrections": "",
+    "head_matter": "Everett B. Sanders, Respondent, v. The Lake Shore and Michigan Southern Railway Company, Appellant.\nWhere interest is allowed, not by virtue of any contract to pay it, but simply as damages because of default in the discharge of an obligation the legal rate of interest must govern.\nWhere, therefore, in an action to require defendant to declare and pay dividends on certain preferred and guaranteed stock, it appeared that the dividends were due and payable prior to January 1, 1880, when the act (Chap. 538, Laws of 1879) fixing the rate of interest at six per cent went into effect, held, that plaintiff was entitled to interest at the rate of seven per cent up to that date, and six per cent thereafter.\n(Submitted December 6, 1883;\ndecided December 14, 1883.)\nThis action was brought to compel defendant to declare dividends upon certain shares of preferred and guaranteed stock issued by a railroad corporation which was consolidated and merged in the corporation defendant, and whose obligations defendant assumed.\nThe mem. of opinion is as follows:\n\u201cWe think the evidence sufficient to show plaintiff\u2019s title to the dividends awarded to him. Prior adjudications in this court have settled all the questions in this case affecting the general merits. (Boardman v. Lake Shore and Michigan Southern Railway Co., 84 N. Y. 157; Jermain v. Same, 91 id. 483.)\n\u201c The court below allowed plaintiff interest on the dividends from the time they were payable to the date of its decision, June 7, 1881, at the rate of seven per cent. The learned counsel for the defendant claims that the interest should have been computed at the legal rate, to-wit, at seven percent to January 1, 1880, and then at six per cent from that time to January 7, 1881, and we think the claim well founded.- This interest was allowed, not by virtue of any'contract to pay interest, but simply as damages because the defendant was in default in the discharge of its obligation to-the plaintiff, and wrongfully withheld money due him. In such a case, where interest is allowed as damages, it is well settled that the legal rate piust govern. (Bullock v. Boyd, 1 Hoff. Ch. 294; Bell v. Mayor, etc., 10 Paige, 49; Brainard v. Jones, 18 N. Y. 35; Hamilton v. Van Rensselaer, 43 id. 244; Ritter v. Phillips, 53 id. 586; First Nat. B\u2019k v. Fourth Nat. B\u2019k, 89 id. 412; Wilson v. Cobh, 31 N. J. Eq. [4 Stewart] 91; Southerland on Damages, 581, 666.)\n\u201c The judgment should, therefore, be modified by striking therefrom the sum of $24.90 for excess of interest allowed, and as so modified, should be affirmed without costs to either party in this court.\u201d\nEdward S. Rapallo for appellant.\nBirdseye, Cloyd & Bayliss for respondent."
+  },
+  "file_name": "0641-02",
+  "first_page_order": 665,
+  "last_page_order": 667
+}

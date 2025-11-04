@@ -1,0 +1,63 @@
+{
+  "id": 4205432,
+  "name": "Earl HOWARD, Petitioner v. BOARD OF PROBATION AND PAROLE, Louis S. Folino, Superintendent, Respondent",
+  "name_abbreviation": "Howard v. Board of Probation & Parole",
+  "decision_date": "2011-10-03",
+  "docket_number": "No. 38 EM 2011",
+  "first_page": "470",
+  "last_page": "470",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "612 Pa. 470"
+    },
+    {
+      "type": "parallel",
+      "cite": "31 A.3d 284"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 53,
+    "char_count": 400,
+    "ocr_confidence": 0.645,
+    "sha256": "31c6c852f7381994ebf0768e8dfc9b5b3234dda8358fe661c206a31b18c359c0",
+    "simhash": "1:642943b6d4d90c0f",
+    "word_count": 67
+  },
+  "last_updated": "2023-07-14T19:33:52.292960+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Earl HOWARD, Petitioner v. BOARD OF PROBATION AND PAROLE, Louis S. Folino, Superintendent, Respondent."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nPER CURIAM.\nAND NOW, this 3rd day of October, 2011, the Application for Leave to File Original Process is GRANTED, and the Petition for Writ of Habeas Corpus is DENIED. The Application to Dismiss is DISMISSED AS MOOT.",
+        "type": "majority",
+        "author": "PER CURIAM."
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "31 A.3d 284\nEarl HOWARD, Petitioner v. BOARD OF PROBATION AND PAROLE, Louis S. Folino, Superintendent, Respondent.\nNo. 38 EM 2011.\nSupreme Court of Pennsylvania.\nOct. 3, 2011."
+  },
+  "file_name": "0470-01",
+  "first_page_order": 514,
+  "last_page_order": 514
+}

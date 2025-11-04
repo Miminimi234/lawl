@@ -1,0 +1,764 @@
+{
+  "id": 3718302,
+  "name": "WELLS FARGO BUSINESS CREDIT, Plaintiff-Appellee, v. Donald J. HINDMAN, Defendant-Appellant",
+  "name_abbreviation": "Wells Fargo Business Credit v. Hindman",
+  "decision_date": "2013-10-30",
+  "docket_number": "No. 12-1208",
+  "first_page": "657",
+  "last_page": "673",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "734 F.3d 657"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "7th Cir.",
+    "id": 9010,
+    "name": "United States Court of Appeals for the Seventh Circuit"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "975 F.2d 1312",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        10518871
+      ],
+      "pin_cites": [
+        {
+          "page": "1314"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/975/1312-01"
+      ]
+    },
+    {
+      "cite": "724 F.3d 957",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        4068155
+      ],
+      "pin_cites": [
+        {
+          "page": "961"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/724/0957-01"
+      ]
+    },
+    {
+      "cite": "433 F.3d 952",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        881041
+      ],
+      "pin_cites": [
+        {
+          "page": "955"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/433/0952-01"
+      ]
+    },
+    {
+      "cite": "111 Wis.2d 431",
+      "category": "reporters:state",
+      "reporter": "Wis. 2d",
+      "case_ids": [
+        8674063
+      ],
+      "weight": 2,
+      "year": 1983,
+      "pin_cites": [
+        {
+          "page": "346"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wis-2d/111/0431-01"
+      ]
+    },
+    {
+      "cite": "580 F.3d 587",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        4057424
+      ],
+      "pin_cites": [
+        {
+          "page": "598"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/580/0587-01"
+      ]
+    },
+    {
+      "cite": "237 Wis.2d 173",
+      "category": "reporters:state",
+      "reporter": "Wis. 2d",
+      "case_ids": [
+        11113248
+      ],
+      "weight": 2,
+      "year": 2000,
+      "pin_cites": [
+        {
+          "parenthetical": "Sykes, J., concurring"
+        },
+        {
+          "page": "476",
+          "parenthetical": "Sykes, J., concurring"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wis-2d/237/0173-01"
+      ]
+    },
+    {
+      "cite": "330 Wis.2d 340",
+      "category": "reporters:state",
+      "reporter": "Wis. 2d",
+      "case_ids": [
+        4005314
+      ],
+      "weight": 2,
+      "year": 2010,
+      "pin_cites": [
+        {
+          "page": "484"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wis-2d/330/0340-01"
+      ]
+    },
+    {
+      "cite": "81 Wis.2d 423",
+      "category": "reporters:state",
+      "reporter": "Wis. 2d",
+      "case_ids": [
+        8672673
+      ],
+      "weight": 2,
+      "year": 1978,
+      "pin_cites": [
+        {
+          "page": "782"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wis-2d/81/0423-01"
+      ]
+    },
+    {
+      "cite": "926 N.E.2d 934",
+      "category": "reporters:state_regional",
+      "reporter": "N.E.2d",
+      "weight": 2,
+      "year": 2010,
+      "pin_cites": [
+        {
+          "page": "942",
+          "parenthetical": "citation omitted"
+        },
+        {
+          "page": "942-43"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "339 Ill.Dec. 459",
+      "category": "reporters:state",
+      "reporter": "Ill. Dec.",
+      "weight": 2,
+      "year": 2010,
+      "pin_cites": [
+        {
+          "parenthetical": "citation omitted"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "399 Ill.App.3d 965",
+      "category": "reporters:state",
+      "reporter": "Ill. App. 3d",
+      "case_ids": [
+        4300049
+      ],
+      "year": 2010,
+      "pin_cites": [
+        {
+          "parenthetical": "citation omitted"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ill-app-3d/399/0965-01"
+      ]
+    },
+    {
+      "cite": "725 F.3d 753",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        4070681
+      ],
+      "pin_cites": [
+        {
+          "page": "763"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/725/0753-01"
+      ]
+    },
+    {
+      "cite": "73 N.W.2d 482",
+      "category": "reporters:state_regional",
+      "reporter": "N.W.2d",
+      "year": 1955,
+      "pin_cites": [
+        {
+          "page": "488",
+          "parenthetical": "\"One cannot accept the benefits of a contract over a long period of time and then successfully contend that the contract is not binding.\""
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "271 Wis. 261",
+      "category": "reporters:state",
+      "reporter": "Wis.",
+      "case_ids": [
+        8677407
+      ],
+      "year": 1955,
+      "pin_cites": [
+        {
+          "parenthetical": "\"One cannot accept the benefits of a contract over a long period of time and then successfully contend that the contract is not binding.\""
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wis/271/0261-01"
+      ]
+    },
+    {
+      "cite": "86 Wis.2d 445",
+      "category": "reporters:state",
+      "reporter": "Wis. 2d",
+      "case_ids": [
+        8673212
+      ],
+      "weight": 2,
+      "year": 1979,
+      "pin_cites": [
+        {
+          "parenthetical": "finding acceptance where offeree accepted benefits of offer but never expressly accepted and, in fact, said he would not accept"
+        },
+        {
+          "parenthetical": "finding acceptance where offeree accepted benefits of offer but never expressly accepted and, in fact, said he would not accept"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wis-2d/86/0445-01"
+      ]
+    },
+    {
+      "cite": "151 N.W.2d 654",
+      "category": "reporters:state_regional",
+      "reporter": "N.W.2d",
+      "year": 1967,
+      "pin_cites": [
+        {
+          "page": "658",
+          "parenthetical": "apparent agency requires \"[r]eliance ... by the plaintiff, consistent with ordinary care and prudence\""
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "35 Wis.2d 567",
+      "category": "reporters:state",
+      "reporter": "Wis. 2d",
+      "case_ids": [
+        8671717
+      ],
+      "year": 1967,
+      "pin_cites": [
+        {
+          "parenthetical": "apparent agency requires \"[r]eliance ... by the plaintiff, consistent with ordinary care and prudence\""
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wis-2d/35/0567-01"
+      ]
+    },
+    {
+      "cite": "550 N.E.2d 1132",
+      "category": "reporters:state_regional",
+      "reporter": "N.E.2d",
+      "year": 1990,
+      "pin_cites": [
+        {
+          "page": "1138"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "141 Ill.Dec. 86",
+      "category": "reporters:state",
+      "reporter": "Ill. Dec.",
+      "year": 1990,
+      "opinion_index": 0
+    },
+    {
+      "cite": "194 Ill.App.3d 147",
+      "category": "reporters:state",
+      "reporter": "Ill. App. 3d",
+      "case_ids": [
+        8498195
+      ],
+      "year": 1990,
+      "opinion_index": 0,
+      "case_paths": [
+        "/ill-app-3d/194/0147-01"
+      ]
+    },
+    {
+      "cite": "125 F.3d 468",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        910592
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/125/0468-01"
+      ]
+    },
+    {
+      "cite": "153 F.3d 489",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        11705565
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/153/0489-01"
+      ]
+    },
+    {
+      "cite": "84 F.2d 67",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        928165
+      ],
+      "pin_cites": [
+        {
+          "page": "70"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/84/0067-01"
+      ]
+    },
+    {
+      "cite": "156 N.E. 258",
+      "category": "reporters:state_regional",
+      "reporter": "N.E.",
+      "year": 1927,
+      "pin_cites": [
+        {
+          "page": "267"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "325 Ill. 114",
+      "category": "reporters:state",
+      "reporter": "Ill.",
+      "case_ids": [
+        5181277
+      ],
+      "year": 1927,
+      "opinion_index": 0,
+      "case_paths": [
+        "/ill/325/0114-01"
+      ]
+    },
+    {
+      "cite": "674 F.3d 743",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        6049162
+      ],
+      "pin_cites": [
+        {
+          "page": "754"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/674/0743-01"
+      ]
+    },
+    {
+      "cite": "639 N.E.2d 922",
+      "category": "reporters:state_regional",
+      "reporter": "N.E.2d",
+      "year": 1994,
+      "pin_cites": [
+        {
+          "page": "928"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "203 Ill.Dec. 363",
+      "category": "reporters:state",
+      "reporter": "Ill. Dec.",
+      "year": 1994,
+      "opinion_index": 0
+    },
+    {
+      "cite": "266 Ill.App.3d 154",
+      "category": "reporters:state",
+      "reporter": "Ill. App. 3d",
+      "case_ids": [
+        887290
+      ],
+      "year": 1994,
+      "opinion_index": 0,
+      "case_paths": [
+        "/ill-app-3d/266/0154-01"
+      ]
+    },
+    {
+      "cite": "632 N.E.2d 1015",
+      "category": "reporters:state_regional",
+      "reporter": "N.E.2d",
+      "year": 1994,
+      "pin_cites": [
+        {
+          "page": "1017"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "198 Ill.Dec. 404",
+      "category": "reporters:state",
+      "reporter": "Ill. Dec.",
+      "year": 1994,
+      "opinion_index": 0
+    },
+    {
+      "cite": "158 Ill.2d 166",
+      "category": "reporters:state",
+      "reporter": "Ill. 2d",
+      "case_ids": [
+        780296
+      ],
+      "year": 1994,
+      "opinion_index": 0,
+      "case_paths": [
+        "/ill-2d/158/0166-01"
+      ]
+    },
+    {
+      "cite": "27 F.3d 268",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        10524415
+      ],
+      "pin_cites": [
+        {
+          "page": "272"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/27/0268-01"
+      ]
+    },
+    {
+      "cite": "63 F.3d 609",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        7415170
+      ],
+      "pin_cites": [
+        {
+          "page": "612"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/63/0609-01"
+      ]
+    },
+    {
+      "cite": "153 Wis.2d 135",
+      "category": "reporters:state",
+      "reporter": "Wis. 2d",
+      "case_ids": [
+        8667976
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "463"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wis-2d/153/0135-01"
+      ]
+    },
+    {
+      "cite": "189 Wis.2d 237",
+      "category": "reporters:state",
+      "reporter": "Wis. 2d",
+      "case_ids": [
+        8665212
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "318"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wis-2d/189/0237-01"
+      ]
+    },
+    {
+      "cite": "131 F.Supp. 121",
+      "category": "reporters:federal",
+      "reporter": "F. Supp.",
+      "case_ids": [
+        4259112
+      ],
+      "year": 1954,
+      "pin_cites": [
+        {
+          "page": "123-24"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f-supp/131/0121-01"
+      ]
+    },
+    {
+      "cite": "833 N.W.2d 634",
+      "category": "reporters:state_regional",
+      "reporter": "N.W.2d",
+      "year": 2013,
+      "pin_cites": [
+        {
+          "page": "649"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "349 Wis.2d 84",
+      "category": "reporters:state",
+      "reporter": "Wis. 2d",
+      "case_ids": [
+        4038398
+      ],
+      "year": 2013,
+      "opinion_index": 0,
+      "case_paths": [
+        "/wis-2d/349/0084-01"
+      ]
+    },
+    {
+      "cite": "847 F.2d 1295",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1778284
+      ],
+      "pin_cites": [
+        {
+          "page": "1296"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/847/1295-01"
+      ]
+    },
+    {
+      "cite": "219 F. 353",
+      "category": "reporters:federal",
+      "reporter": "F.",
+      "case_ids": [
+        3889946
+      ],
+      "pin_cites": [
+        {
+          "page": "356"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f/219/0353-01"
+      ]
+    },
+    {
+      "cite": "533 F.2d 290",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1003902
+      ],
+      "pin_cites": [
+        {
+          "page": "296-97"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/533/0290-01"
+      ]
+    },
+    {
+      "cite": "477 U.S. 317",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6207800
+      ],
+      "weight": 3,
+      "year": 1986,
+      "pin_cites": [
+        {
+          "page": "322-23"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/477/0317-01"
+      ]
+    },
+    {
+      "cite": "477 U.S. 242",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6206897
+      ],
+      "weight": 3,
+      "year": 1986,
+      "pin_cites": [
+        {
+          "page": "255"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/477/0242-01"
+      ]
+    },
+    {
+      "cite": "705 F.3d 706",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        3660440
+      ],
+      "pin_cites": [
+        {
+          "page": "713"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/705/0706-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 1685,
+    "char_count": 48342,
+    "ocr_confidence": 0.685,
+    "pagerank": {
+      "raw": 5.0335258143574e-08,
+      "percentile": 0.3164404565671589
+    },
+    "sha256": "30c0b76a26c469e62ec32674425ee04e979af118a78471535ac075f0af6b362a",
+    "simhash": "1:bbc6f9c32e5dfe02",
+    "word_count": 7796
+  },
+  "last_updated": "2024-02-27T22:33:04.011779+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before BAUER, MANION, and TINDER, Circuit Judges."
+    ],
+    "parties": [
+      "WELLS FARGO BUSINESS CREDIT, Plaintiff-Appellee, v. Donald J. HINDMAN, Defendant-Appellant."
+    ],
+    "opinions": [
+      {
+        "text": "TINDER, Circuit Judge.\nWells Fargo Business Credit sued Donald J. Hindman under diversity jurisdiction for breach of contract. Wells Fargo and Hindman were both creditors of Clark National, Inc., whose president and CEO was Hindman\u2019s son, and several related companies. Wells Fargo agreed to make loans and extend credit to the companies only if Hindman agreed to become a subordinated creditor. Hindman agreed and subsequently executed a series of sub ordination agreements with Wells Fargo, which subordinated all present and future debts, liabilities, and obligations that the companies owed to Hindman to any amounts they owed to Wells Fargo.\nIn January 2010, a series of events occurred resulting in Hindman authorizing a wire transfer of $750,000 from his personal investment account at Wells Fargo to Clark at the request of his son. By that time, however, his son purportedly had been stripped of the authority to make business decisions by Clark\u2019s board of directors. When the authorized decision makers learned about the purported loan, they ordered Hindman\u2019s son to reject the funds. Hindman\u2019s son promptly instructed the Wells Fargo Bank vice-president in charge of Hindman\u2019s personal investment account to stop the transaction. For reasons that are not clear, the transaction was not stopped before the $750,000 hit Clark\u2019s accounts and was automatically used to pay down its Wells Fargo line of credit. A few days later, however, the same Wells Fargo Bank vice-president who had attempted to stop the transaction transferred $750,000 from Clark\u2019s account to Hindman\u2019s account at a bank in Florida at Hindman\u2019s request.\nWells Fargo claims that Hindman\u2019s receipt of the $750,000 constitutes a clear violation of the subordination agreements because Clark repaid a debt to Hindman while it had outstanding obligations to Wells Fargo. Hindman, on the other hand, maintains that a valid loan was never consummated between him and Clark because his son had been stripped of authority to make business decisions and thus could not bind the company. Furthermore, the authorized decision makers rejected the proposed loan once they learned about it; that is, there was never an authorized acceptance, and so a valid loan contract never existed. Wells Fargo ignores most of Hindman\u2019s arguments and maintains that the transfer of funds completed the loan because Hindman\u2019s son had signed a subordinated debenture and Clark used the funds to pay down its line of credit and take subsequent cash advances. Hindman responds that even if a valid loan existed, he did not breach the subordination agreements, either because the loan was properly rescinded by the parties thereto, or because Wells Fargo consented to return of the funds. Wells Fargo says that rescission of the loan agreement would place Hindman in breach of the subordination agreements unless it had given proper consent, and it argues that the vice-president who returned the money to Hindman lacked authority to give consent under the subordination agreements.\nThe district court granted Wells Fargo\u2019s motion for summary judgment and denied Hindman\u2019s cross-motion. It rejected Hindman\u2019s arguments concerning rejection and rescission as irrelevant. The court reasoned that Hindman\u2019s transfer of $750,000 to Clark created a debt, liability, or obligation and that returning the funds to Hindman before Wells Fargo had been paid in full constituted a breach of the subordination agreements because Wells Fargo had not consented. This was the extent of the court\u2019s reasoning. It did not explain why Hindman\u2019s arguments were irrelevant, and it did not acknowledge the dispute over the issue of consent. The court subsequently awarded damages of $750,000 plus interest to Wells Fargo, which Hindman also challenges.\nWe vacate the judgment and remand for further proceedings. The arguments raised by Hindman in the district court and on appeal are not baseless and should have been addressed by both the district court and Wells Fargo. By failing to address Hindman\u2019s plausible arguments, Wells Fargo has failed to carry its burden in showing that there are no genuine issues of material fact and that it is entitled to judgment as a matter of law. See Fed. R.Civ.P. 56. It may well turn out that Hindman\u2019s facially plausible arguments are not persuasive, but based on this record and Wells Fargo\u2019s seeming refusal to acknowledge those arguments, we cannot make that determination without performing Wells Fargo\u2019s tasks for it, which we will not do.\nI. Background\nHindman owned and operated Clark and three related companies (collectively, \u201cBorrowers\u201d) for a number of years. When Hindman retired around 2005, his son Donald D. Hindman (\u201cD.D.H.\u201d) assumed control of the family businesses and became president and CEO of Clark. While Hindman ceased participating in day-today operations, he remained involved by routinely making loans to Borrowers to initiate capital-raising campaigns and by serving as chairman of Clark\u2019s board of directors. (Appellant\u2019s Separate App. 51; Appellee\u2019s Supp.App. 46.)\nWells Fargo Business Credit is a secured lender that loaned money and extended credit to Borrowers. The business line of credit provided funds as working capital to cover expenses while incoming accounts receivable were pending. The amount of advances Borrowers could take on their line of credit depended on the accounts receivable and inventory they reported on their daily collateral reports. Wells Fargo closely monitored those reports and adjusted Borrowers\u2019 line of credit accordingly. All incoming cash (including loans) was reported on the daily collateral report and deposited into a cash-collateral account held by Wells-Fargo for Borrowers\u2019 benefit. Wells Fargo used the incoming funds to pay down Borrowers\u2019 line of credit, which created available credit on which Borrowers could take additional advances. All advances approved by Wells Fargo then would be deposited into Borrowers\u2019 master-funding account. (Ap-pellee\u2019s SuppApp. 68-69.)\nBefore agreeing to provide this line of credit, Wells Fargo required that any debts Borrowers owed or would owe to Hindman be subordinated to ensure that Wells Fargo would get paid before he would. Accordingly, Wells Fargo and Hindman entered into a series of subordination agreements under which Hindman became a subordinated creditor. There were three largely identical subordination agreements in total. (Appellant\u2019s Separate App. 1-7; Appellee\u2019s Supp.App. 1-8, 27-33, \u25a0 36-42.) As Wells Fargo alleges breach of all three, and none of the parties\u2019 arguments rely on any differences in the wording of the agreements, we simply refer to them as the subordination agreements.\nThe subordination agreements subordinated payment of \u201cSubordinated Indebtedness\u201d to payment in full of Borrowers\u2019 indebtedness to Wells Fargo, and that term is defined in relevant part as \u201ceach and every ... debt, liability and obligation of every type and description which any Borrower may now or at any time hereafter owe to [Hindman], whether such debt, liability or obligation now exists or is hereafter created or incurred.\u201d (Appellant\u2019s Separate App. 2.) Hindman agreed that he would not, absent Wells-Fargo\u2019s prior written consent, \u201cdemand, receive or accept any payment (whether of principal, interest or otherwise)\u201d from Borrowers until their, indebtedness to Wells Fargo had been paid in full and Wells Fargo had released its lien on any collateral (subject to a few narrow exceptions not relevant here). (Id. at 3.) In the event Hindman received an unauthorized payment, the subordination agreements provided that he would \u201chold the amount so received in trust for [Wells Fargo] and [would] forthwith turn over such payment to [Wells Fargo].\u201d (Id.)\nToward the end of 2009, D.D.H. informed Wells Fargo in face-to-face meetings that Clark needed additional capital and that a majority of this capital would likely come from Hindman. To protect Wells Fargo\u2019s status as senior creditor, its representatives discussed with D.D.H. a form of subordinated debenture that would be used for all future subordinated loans.' (Appellee\u2019s Supp.App. 47, 51.)\nOn January 6, 2010, Hindman emailed Tom Bassett, a vice-president of Wells Fargo Bank (not Business Credit) who handled Hindman\u2019s personal investment account, instructing Bassett to go ahead and sell some of Hindman\u2019s stock to provide $1 million in working capital for Clark and requesting that it be done promptly. (Appellant\u2019s Separate App. 27.) On January 7, D.D.H. emailed Bassett instructing him to hold the funds from the sale of equities in Hindman\u2019s account until D.D.H. provided wiring instructions, which D.D.H. expected to do the following day. (Id. at 49.)\nOn January 8, Clark\u2019s board of directors held a meeting. It is unclear from the record how many directors Clark had, but the minutes reflect that a quorum was present, consisting of the following three directors: Hindman, D.D.H., and Robert Early. Hindman served as chairman and D.D.H. served as secretary. Also in attendance were Clark CFO Mark Bruno; Kevin Cleary, a member of Clark\u2019s board of advisors and the president of Dearborn Partners, which had been retained by Clark to provide financial advisory services; and T.D. Decker, Clark\u2019s full-time turn-around consultant and financial advis- or. (Id. at 51.) At this meeting, the board agreed to Cleary\u2019s suggestion that D.D.H. \u201cwould step aside from corporate decision-making and focus on new sales, preserving existing customer relationships and assisting, as needed, in the sales of assets.\u201d (Id. at 52.) At the same time, the board agreed that Decker and CFO Bruno \u201cwould be responsible for all corporate business decisions and would operate [Clark] in the best interests of the creditors.\u201d (Id. at 52.) Also during this meeting, Hindman discussed the possibility of loaning another $750,000 to Clark, but no commitment was made. (Id. at 13, 19, 52.)\nShortly before the board meeting, Cleary had expressed his opinion that Clark required at least $3 million in new capital to continue operating. (Id. at 13, 50.) By January 14, it had become clear to Early that even $3 million would be insufficient. (Id. at 22.) Given the dire straits Clark was in, Bruno was of the view that a $750,000 loan from Hindman to Clark would not be prudent because Hind-man would simply be throwing away his money. (Id. at 19.)\nShortly after noon on January 12, Bas-sett emailed D.D.H. to inform him that Bassett was ready to make a transfer out of Hindman\u2019s investment account and into Clark\u2019s account. (Id. at 27, 46.) A few minutes later, D.D.H. wrote back that he was trying to obtain Wells Fargo Business Credit\u2019s approval for the funds to come in as secured. (Id. at 28, 46.) Soon thereafter, D.D.H. spoke on the phone with Kathryn D. Williams, a vice-president of Wells Fargo Business Credit who was primarily responsible for the business-lending relationship with Clark, about the loan Hindman was going to make. (Id. at 46; Appellee\u2019s Supp.App. 57.) At 1:04 p.m., Williams requested a copy of the note so that she could prepare a subordinated debt agreement. (Appellee\u2019s Supp.App. 57.) At 1:46 p.m., D.D.H. sent Williams an email with a copy of the note attached. {Id. at 58.) Bruno, Decker, and Cleary were copied on the email. {Id.) At 2:49 p.m., Decker sent D.D.H. an email that read: \u201cAfter discussions ..., [Cleary] thinks we should talk with you about the timing of receiving and spending the $[7]50,000. Before we accept the funds, we should discuss.\u201d (Appellant\u2019s Separate App. 47.)\nOn the morning of January 13, D.D.H. called Hindman and asked him to call Bas-sett to release the funds from Hindman\u2019s investment account. {Id. at 16, 44.) Hind-man made the call, and at 10:58 a.m., Bassett emailed D.D.H. to inform him that the order had been placed and would post to Clark\u2019s account that day. {Id. at 44.) Bruno, Decker, Cleary, and Early were not aware that D.D.H. was doing this. {Id. at 13, 20, 22.)\nAlso, at 11:55 a.m. that day, D.D.H. emailed a revision of the executed debenture to Williams. (Appellee\u2019s Supp.App. 55-56.) The debenture reflected that Hindman would loan $750,000 to Clark to be repaid by November 1, 2011. {Id. at 56.) D.D.H. signed the debenture as president and CEO of Clark and dated it (though dated January 12, 2009, there is no dispute that it was actually signed on January 12, 2010); Hindman did not sign it. {Id.)\nOn January 14, Maria Preston, Clark\u2019s A/R (accounts receivable) and Cash Manager, contacted Bassett and another Wells Fargo representative to tell them that the wire transfer could not be deposited into the specified account. (Appellant\u2019s Separate App. 36.) Apparently, Bassett had directed the $750,000 to be credited to Clark\u2019s payroll account, when it should have been credited to either the cash-collateral or master-funding account. {Id. at 37, 38, 59; Appellee\u2019s SuppApp. 99.) Af-t\u00e9r a series of email exchanges, on which Bruno had been copied, the funds were deposited into Clark\u2019s cash-collateral account. \u25a0\u2019 (Appellant\u2019s Separate App. 34-38.)\nWhile all of this was going on, there was a conference among Cleary, D.D.H., Decker, Bruno, and Early, during which D.D.H. was' directed by the others to contact Wells Fargo immediately and stop or reverse the transfer of funds. {Id. at 16, 20.) D.D.H. contacted Bassett and told him to stop or reverse the transaction, and D.D.H. believes that he gave this instruction before the $750,000 hit Clark\u2019s cash-collateral account.\" {Id. at 16.) But for reasons that are unknown, the transfer was neither stopped nor reversed that day, and the statement for Clark\u2019s cash-collateral account shows that $750,000 was received from Hindman on January 14. (Ap-pellee\u2019s Supp.App.109.)\nOn the morning of January 15, Maria Preston sent an email to Bassett (D.D.H. and Bruno were copied), informing him that Clark had received $750,000 the previous day but that it appeared \u201cthat the originator is trying to reverse payment.\u201d (Appellant\u2019s Separate App. 34.) A few minutes later, D.D.H. emailed the following to Bassett and Preston (Bruno and Decker were copied): \u201cTB: Please hold the wire on your end if possible \u2014 thanks. Left you a VM.\u201d {Id. at 71.) Fifteen minutes later, Bassett emailed Preston (D.D.H. and Bruno were copied), saying that he was \u201cvery confused\u201d as to what was going -on: \u201cI was told that the first $750k transfer \u2018suspended\u2019 because we used the incorrect account [number] \u2014 as they were retrieving that transfer, they made a second $750k transfer to the correct account \u2014 are they trying to reverse that one, too? I have a call into those people so we can get this matter resolved \u2014 I am sorry for the confusion.\u201d {Id. at 33.) About two hours later, D.D.H. emailed Bassett, stating \u201cplease reverse if it hit our account.\u201d {Id. at 32.) Then at 1:12 p.m., Bassett responded to D.D.H. with an email, which simply read, \u201cDone!\u201d {Id. at 32.) According to Hindman\u2019s bank statement, the $750,000 was back in his account by the close of business. {Id. at 70.) The next day, January 16, Bruno emailed Early to inform him that the $750,000 was held back and that, as a result, Hindman had not loaned any money that week. {Id. at 23.)\nBut this fiasco was by no means over. On the same day that D.D.H. and Bassett were trying to stop or reverse the wire transfer, Wells Fargo Business Credit received Clark\u2019s daily collateral report, which had been signed by Clark\u2019s treasurer and reported $751,847.49 as non-A/R cash. (Appellee\u2019s Supp.App. 64.) Accordingly, Wells Fargo used the $750,000 to pay down Clark\u2019s line of credit. {Id. at 127.) According to Wells Fargo, Clark used Hindman\u2019s $750,000 and other funds to draw advances totaling $3,036,089.96 between January 15 and January 21. The statement for Clark\u2019s master-funding account reflects the following advances:\n\u2022 January 15: $ 471,668.95\n\u2022 January 19: $ 910,793.56\n\u2022 January 20: $ 592,208.82\n\u2022 January 21: $1,061,418.63\n(Id. at 132.)\nHindman\u2019s personal account statement reflects that the $750,000 that purportedly had been returned to his account on January 15 was withdrawn from his account on January 19. (Appellant\u2019s Separate App. 70.) Hindman did not authorize this. The account statement includes a note that the original transaction could not be reversed. {Id. at 70.) Upon discovering this, Hind-man contacted Bassett and asked him to wire the funds to Hindman\u2019s account at Gibraltar Bank in Florida; Bassett did so on January 21. (Appellee\u2019s SuppApp. 139.) Thus, $750,000 of the $1,061,418.63 placed into Clark\u2019s master-funding account on January 21 was wired to Hindman\u2019s personal account at another bank.\nAccording to Williams, after January 15, the day the funds appeared in Clark\u2019s account, she spoke with Hindman over the phone and informed him that repayment of the loan would violate the subordination agreements. She also phoned Bruno and informed him that payment from Clark to Hindman of the $750,000 would violate not only the subordination agreements but the credit and security agreement between Wells Fargo and Clark. {Id. at 52.) While monitoring Clark\u2019s accounts, she noticed that $750,000 had been wired to Hindman\u2019s account at Gibraltar Bank in Florida. {Id. at 53.) On February 2, 2010, Williams sent a letter to Hindman notifying him that Clark\u2019s payment to him on January 21 was a breach of the subordination agreements and a default of Clark\u2019s credit and security agreement. {Id. at 65-66.) On April 7, Wells Fargo made a written demand to Hindman and Clark ordering that Hindman return the $750,000 to Clark; Hindman refused. {Id. at 48.)\nShortly after the money was returned to Hindman, Clark went belly up and began liquidating its assets. {Id.) As of March 25, 2011, Clark still owed Wells Fargo $7,306,098.34. (Id. at49.)\nOn April 22, 2010, Wells Fargo filed this diversity suit in the Eastern District of Wisconsin, asserting claims of breach of contract and promissory estoppel. The parties subsequently filed cross-motions for summary judgment as to liability. On June 21, 2011, the district court issued its decision and order granting Wells Fargo\u2019s motion and denying Hindman\u2019s motion. In response to Hindman\u2019s primary contention that he never actually loaned money to Borrowers because the transaction had been rejected or rescinded, the district court concluded: \u201cThis distinction is irrelevant. It is undisputed that Hindman transferred $750,000.00 to Borrowers, which created a \u2018debt, liability and obligation\u2019 owed to Hindman as the Subordinated Creditor.\u201d Wells Fargo subsequently filed a motion for a determination of damages. On January 11, 2012, the district court issued its decision and order granting Wells Fargo\u2019s motion and entered judgment against Hindman in the amount of $750,000.00, plus prejudgment interest. Hindman now appeals the district court\u2019s grant of summary judgment to Wells Fargo on both liability and damages.\nII. Discussion\nWe review a district court\u2019s grant of summary judgment de novo, Abbott v. Sangamon Cnty., Ill., 705 F.3d 706, 713 (7th Cir.2013), construing all facts and inferences in favor of the nonmovant, Anderson v. Liberty Lobby, Inc., 477 U.S. 242, 255, 106 S.Ct. 2505, 91 L.Ed.2d 202 (1986). Summary judgment is proper only \u201cif the movant shows that there is no genuine dispute as to any material fact and the movant is entitled to judgment as a matter of law.\u201d Fed.R.Civ.P. 56(a); see also Celotex Corp. v. Catrett, 477 U.S. 317, 322-23, 106 S.Ct. 2548, 91 L.Ed.2d 265 (1986).\nA. Liability\nWells Fargo maintains that Hindman clearly breached the subordination agreements because he transferred $750,000 to Clark, which created a \u201cdebt, liability, or obligation\u201d on Clark\u2019s part (i.e., \u201cSubordinated Indebtedness\u201d), and because he then accepted repayment of those funds without prior written consent and while Clark had outstanding obligations to Wells Fargo. It argues that we need not concern ourselves with any other facts because the subordination agreements and the subordinated debenture executed by D.D.H. are clear and unambiguous.\nHindman, on the other hand, argues that there are genuine issues of material fact as to whether the funds he transferred were accepted by Clark. In his view, if there was no acceptance then there was not a valid loan because a loan is a contract, and if there was not a valid loan then Clark incurred no \u201cdebt, liability, or obligation\u201d to Hindman under the subordination agreements. Alternatively, even if there were a valid loan, Hindman contends that it was either rescinded by agreement between him and Clark or repaid with Wells Fargo\u2019s consent.\n1. Creation of Subordinated Indebtedness\nIn order for Hindman to have breached the subordination agreements, it must be established that his wire transfer created a \u201cdebt, liability, or obligation.\u201d The parties seem to agree that for this to happen there must have been a valid loan \u2014 i.e., they do not argue that the term \u201cSubordinated Indebtedness\u201d is ambig\u00faous. A loan is\na contract by which one delivers a sum of money to another and the latter agrees to return at a future time a sum equivalent to that which he borrows. In order to constitute a loan there must be a contract whereby, in substance one party transfers to the other a sum of money which that other agrees to repay absolutely, together with such additional sums as may be agreed upon for its use. If such be the intent of the parties, the transaction will be considered a loan without regard to its form.\nCalcasieu-Marine Nat\u2019l Bank v. Am. Emp\u2019rs Ins. Co., 533 F.2d 290, 296-97 (5th Cir.1976) (emphases added) (internal quotation marks omitted) (citing In re Grand Union Co., 219 F. 353, 356 (2d Cir.1914); accord United States v. Kristofic, 847 F.2d 1295, 1296 (7th Cir.1988)). Accordingly, whether the transaction at issue created Subordinated Indebtedness depends on whether a valid loan contract was created between Hindman and Clark.\nThe basic elements of a contract are offer, acceptance, and consideration. In re F.T.R., 349 Wis.2d 84, 833 N.W.2d 634, 649 (2013). Hindman\u2019s arguments focus on the element of acceptance. But Wells Fargo suggests that, even though a loan is a contract, acceptance is not a prerequisite to its formation. This is a curious argument, particularly because it comes from a bank. Suppose A walks into a branch of Wells Fargo, plops $10,000 down on the counter, and says, \u201cI am loaning this to you and you will pay me double next week.\u201d Under Wells Fargo\u2019s view, it would be stuck with the money and owe $20,000 to A the following week, even if the banker to whom A had tendered the money immediately had said \u201cno, thank you,\u201d and refused to take the cash. But there clearly would not be an enforceable contract in that scenario. See Nat\u2019l Bank of Paulding v. Fid. & Cas. Co., 131 F.Supp. 121, 123-24 (S.D.Ohio 1954) (\u201cIn order to have a loan, there must be an agreement, either expressed or implied, whereby one person advances money to the other and the other agrees to repay it upon such terms as to time and rate of interest, or without interest, as the parties may agree. In order to have a contract, there must be a meeting of minds.\u201d); Restatement (Second) of Contracts \u00a7 55 illus. 2 (1981) (\u201cA offers to lend B $100 on specified terms and tenders the money to B. B\u2019s acceptance of the tender forms a contract on the terms specified.\u201d); cf. Goossen v. Estate ofStandaert, 189 Wis.2d 237, 525 N.W.2d 314, 318 (Wis.Ct.App.1994) (valid loan contract existed between borrower and lender, where borrower offered to borrow money, lender accepted offer by processing the loan, and borrower provided consideration by paying lender\u2019s loan fee). We thus consider Hindman\u2019s arguments that there was never a valid loan due to lack of acceptance.\nUnder Wisconsin law, \u201cwhether an offer was accepted is a question of fact.\u201d Hoeft v. U.S. Fire Ins. Co., 153 Wis.2d 135, 450 N.W.2d 459, 463 (Wis.Ct.App.1989). For \u201cacceptance of a contract to occur, there must be a meeting of the minds, a factual condition that can be demonstrated by word or deed.\u201d Zeige Distrib. Co. v. All Kitchens, Inc., 63 F.3d 609, 612 (7th Cir.1995) (Wisconsin law). Objective manifestations of assent, rather than subjective intentions, are controlling. See Associated Milk Producers, Inc. v. Meadow Gold Dairies, Inc., 27 F.3d 268, 272 (7th Cir.1994) (Wisconsin law).\nHindman does not dispute that he transferred money to Clark with the intent to make a loan, but he argues that the anticipated loan never came into existence because there was no acceptance by Clark, given that D.D.H. had already been stripped of his authority to make business decisions for Clark when he signed the subordinated debenture. Wells Fargo ignores Hindman\u2019s argument and contends that the subordinated debenture unambiguously reflects that Hindman made a loan of $750,000 to Clark and that Clark had agreed to repay the loan. It relies on the fact that D.D.H. notified it in late-2009 (before he was stripped of his authority) that Hindman would be making a loan to Clark.\nA corporation is a legal entity separate from its directors, officers, and shareholders, In re Rehab. of Centaur Ins. Co., 158 Ill.2d 166, 198 Ill.Dec. 404, 632 N.E.2d 1015, 1017 (1994), but it can act only through \u201cits officers and directors and is bound by their actions when performed within the scope of their authority,\u201d Ahlgren v. Blue Goose Supermarket, Inc., 266 Ill.App.3d 154, 203 Ill.Dec. 363, 639 N.E.2d 922, 928 (1994). Under Illinois law, which governs the internal affairs of an Illinois corporation such as Clark, see, e.g., Wachovia Sec., LLC v. Banco Panamericano, Inc., 674 F.3d 743, 754 (7th Cir.2012), \u201cthe business and affairs of the corporation shall be managed by or under the direction of the board of directors,\u201d 805 ILCS 5/8.05(a); see also Hall v. Woods, 325 Ill. 114, 156 N.E. 258, 267 (1927). The board, therefore, \u201cis the true agent of a corporation, and the actions of the directors of the board, if within the scope of the corporate charter, are binding upon it.\u201d Baltimore & Ohio R.R. Co. v. Foar, 84 F.2d 67, 70 (7th Cir.1936).\nWells Fargo offers no evidence to contradict Hindman\u2019s evidence that Clark\u2019s board of directors stripped D.D.H. of his authority to make business decisions on January 8, 2010, which was four days before the subordinated debenture was executed and five days before the wire transfer. There is no evidence that a loan agreement was completed before January 8. It does not matter that negotiations may have been ongoing since late-2009, when D.D.H. still had authority. See Perritt Ltd. P\u2019ship v. Kenosha Unified Sch. Dist. No. 1, 153 F.3d 489 (7th Cir.1998) (no contract formed for purchase of real estate where, midway through extended negotiations, the school district\u2019s status under Wisconsin law changed in a manner divesting the school board of authority to purchase real estate and no agreement had been finalized before the status change). The only evidence in the record shows that D.D.H. lacked actual authority to bind Clark when the purported loan was executed.\nWe acknowledge that this is a strange case because D.D.H. was not some low-level employee but rather Clark\u2019s president and CEO. Generally, a corporation\u2019s highest-ranking officers\u2019 duties are outlined in the corporation\u2019s bylaws, and while the board may alter an officer\u2019s authority by resolution, it may do so only if the resolution is consistent with the bylaws. 805 ILCS 5/8.50. However, Clark\u2019s bylaws are not part of the record, and Wells Fargo has made no attempt to argue that the board was prohibited from stripping its president and CEO of business-decision-making authority without removing him from his office. Therefore, Wells Fargo cannot prevail on the theory that D.D.H. retained actual authority to bind Clark in contract.\nNor can Wells Fargo prevail on the ground that D.D.H. had apparent authority, which \u201c \u2018exists where a principal through his words or conduct, creates a reasonable impression that the agent has been granted the authority to perform certain acts,\u2019 \u201d Orix Credit Alliance, Inc. v. Taylor Mach. Works, Inc., 125 F.3d 468, 474 n. 1 (7th Cir.1997) (quoting Wasleff v. Dever, 194 Ill.App.3d 147, 141 Ill.Dec. 86, 550 N.E.2d 1132, 1138 (1990)). It is true that \u201c[t]he existence and scope of an agency relationship are questions of fact.\u201d Id. at 474. But Hindman was present at the meeting where the board stripped D.D.H. of his authority. Thus, he had actual knowledge that D.D.H. could not make business decisions, and he could not have reasonably believed that D.D.H. had authority to enter into a loan agreement on behalf of Clark.\nOn the other hand, Wells Fargo probably held a reasonable belief that D.D.H. had authority. Indeed, there is no evidence that Clark ever notified Wells Fargo that D.D.H. had been stripped of his authority, and he signed the debenture as president and CEO. But this does not help Wells Fargo for two reasons. First, it was not a party to the purported loan agreement between Clark and Hindman, and we have found no cases in which a plaintiff was able to invoke the doctrine of apparent authority to enforce a contract to which it was not a party. Second, even if Wells Fargo could invoke that doctrine, it would be required to show that it took some action in reliance upon D.D.H.\u2019s apparent authority. See Harris v. Knutson, 35 Wis.2d 567, 151 N.W.2d 654, 658 (1967) (apparent agency requires \u201c[r]eliance ... by the plaintiff, consistent with ordinary care and prudence\u201d). And as discussed below, there is a genuine dispute of fact as to whether Wells Fargo allowed Clark to take additional cash advances or otherwise acted in reliance on the $750,000 transfer from Hindman.\nBecause D.D.H. lacked authority to bind Clark under ordinary principles of agency, the fact that he executed the subordinated debenture does not establish that Hindman and Clark had a valid loan agreement. Looking for another reason to bind Clark, one might posit that Clark\u2019s board of directors ratified the loan, given that D.D.H. and Hindman constituted a majority of the directors who had previously voted to strip D.D.H. of authority. However, under Illinois law, a board of directors cannot act informally (without a meeting) unless it has the written consent of all directors. 805 ILCS 5/8.45. It is unclear how many directors Clark had, but we do know that at least one director (Robert Early) did not consent to the loan. Thus, the actions of D.D.H. and Hindman did not constitute actions by the board and could not serve to bind Clark to a loan agreement.\nAlternatively, Clark may be deemed to have accepted the loan agreement through its actions, for example, if it put the loan proceeds to use. See Hoffman v. Ralston Purina Co., 86 Wis.2d 445, 273 N.W.2d 214 (1979) (finding acceptance where offeree accepted benefits of offer but never expressly accepted and, in fact, said he would not accept); Phillips Petroleum Co. v. Taggart, 271 Wis. 261, 73 N.W.2d 482, 488 (1955) (\u201cOne cannot accept the benefits of a contract over a long period of time and then successfully contend that the contract is not binding.\u201d).\nHindman argues that Clark never took any advances based on the $750,000 and that the people with authority to bind Clark took immediate action to reject the purported loan by instructing D.D.H. to stop the wire transfer. For its part, Wells Fargo maintains that Clark accepted the loan through its conduct and points to three facts: (1) $750,000 appeared on Clark\u2019s daily collateral report for January 15, which had been signed by Clark\u2019s treasurer, Robert Sears; (2) once Wells Fargo received that report, Williams spoke with another Clark representative, Maria Preston, who informed her that the influx of cash was another capital loan from Hind-man (Appellee\u2019s Supp.App. 52); and (3) Clark used the $750,000 to pay down its line of credit and took $3,036,089.96 in advances between January 15 and January 21.\nWe conclude that there are genuine issues of material fact that need to be resolved before determining whether Clark accepted through its actions. Hind-man has designated evidence showing that the people with authority to make business decisions acted swiftly in attempting to reject his loan once \u25a0 they found out about it. There is no dispute that, despite those efforts, the wire transfer went through and the funds hit Clark\u2019s account. Though not entirely clear, it appears that the daily collateral reports were accounting ledgers showing what money was coming in and that all incoming funds had to be reported. In other words, it is not clear from the record that Clark had the option of not reporting the funds on the daily collateral report' once they hit its account. That Preston informed Williams that the cash influx was another capital loan from Hind-man is not dispositive. There is nothing to support the notion that Preston had authority to bind Clark to a loan obligation or that she was even purporting to do so; rather, all that can be said is that she believed a valid loan had been made and relayed that information to Williams, but Preston was not in the loop of decision makers.\nFinally, there is a disputed question of fact as to whether Clark actually used the $750,000 to take cash advances. Although the record shows that $3,036,089.96 was advanced between January 15 and January 21, when the $750,000 (which is included in that figure) was wired to Gibraltar Bank by Bassett, Wells Fargo has failed to demonstrate that those advances could not have been taken but for the influx of $750,000 on January 15. The daily collateral report for January 15 shows that Clark had $2,727,430.26 available for borrowing. (Appellee\u2019s Supp.App. 64.) Set aside Hindman\u2019s $750,000 for the moment and the total available for borrowing becomes $1,977,430.26, which was more than enough to cover the $471,668.95 in ad-vanees taken on January 15, and even the additional advances of $910,793.56 and $592,208.82 taken on January 19 and 20, respectively (as the advances for those three days total $1,974,671.33). Of course, the total advances between January 15 and 21 exceed the borrowing availability reflected on the January 15 daily collateral report (which includes the $750,000) by $308,659.70. The problem with concluding that this shows Clark to have drawn on the $750,000 is that, although all advances between January 15 and 21 are accounted for, there is no evidence as to how much incoming cash Clark received on January 19, 20, and 21 with which it paid down its line of credit. The only daily collateral report included in the record is for January 15.\nWe agree with Wells Fargo that if Clark in fact took advances that it could not have taken but for the influx of $750,000 from Hindman, then Clark accepted the loan as a matter of law, notwithstanding the fact that the authorities at Clark were attempting to have the loan funds rejected. If, on the other hand, Clark took only advances that it could have taken without Hindman\u2019s funds, then it is difficult to see how Clark accepted the loan given the wealth of evidence that those with decision-making authority promptly took steps to reject the funds, though a trier of fact might find otherwise after gauging witness credibility and examining the documentary evidence. The record developed thus far does not provide an answer either way.\nThis is a very peculiar case. The district court erred in casting aside Hind-man\u2019s arguments as irrelevant. There may be grounds for rejecting Hindman\u2019s theory, but relevance is not one of them. We need not explore what those other grounds may be because Wells Fargo has not bothered to raise them and instead has largely ignored Hindman\u2019s specific contentions concerning D.D.H.\u2019s authority. Although Clark may have accepted through its conduct, there are too many factual uncertainties in this record to warrant summary judgment in either party\u2019s favor.\nBecause the record is unclear as to whether Clark accepted Hindman\u2019s purported loan, thereby creating Subordinated Indebtedness, we cannot say that Hindman breached the subordination agreements as a matter of law. This problem alone requires that the district court\u2019s judgment be vacated and the cause remanded for further proceedings. The parties, however, quarrel over several other issues that are likely to reappear on remand if Clark is found to have accepted Hindman\u2019s loan. We will address those issues in the interest of judicial economy. See, e.g., Stollings v. Ryobi Techs., Inc., 725 F.3d 753, 763 (7th Cir.2013).\n2. Rescission\nAssuming a valid loan agreement was created, Hindman contends that he still is not liable for breach because he and Clark rescinded the loan agreement and the subordination agreements did not prevent them from doing so. Both parties use Illinois law to establish the test for rescission: \u201cA claim for rescission is sufficient if it alleges: (1) substantial nonperformance or breach by the defendant; and (2) that the parties can be restored to the status quo ante.\u201d Horwitz v. Sonnenschein Nath & Rosenthal LLP, 399 Ill.App.3d 965, 339 Ill.Dec. 459, 926 N.E.2d 934, 942 (2010) (citation omitted). Wells Fargo argues that rescission was not permitted under Horwitz because it would not be restored to the status quo ante. But Wells Fargo is neither a party nor a third-party beneficiary to the putative loan agreement between Hindman and Clark, and Horwitz speaks of the parties being restored to their previous positions. Moreover, the test articulated in Horwitz applies only where the parties disagree and the party seeking rescission is doing so on the basis of the other party\u2019s nonperformance (hence the prong dealing with substantial nonperformance or breach). See 339 Ill.Dec. 459, 926 N.E.2d at 942-43. Here, however, Hindman claims that he and Clark agreed to rescind the purported loan agreement, see, e.g., St. Norbert Coll. Found., Inc. v. McCormick, 81 Wis.2d 423, 260 N.W.2d 776, 782 (1978), so it is not clear how Horwitz is applicable.\nIn any event, we agree with Wells Fargo that the subordination agreements prohibited Hindman and Clark from rescinding the loan agreement without prior written consent. Hindman accurately points out that the subordination agreements contain no express language on- the issue of rescission. But rescission becomes a possibility only once a contract is formed, that is, once a \u201cdebt, liability or obligation\u201d has been created. The subordination agreements prohibited Hindman from accepting repayment from Clark on those debts, liabilities, and obligations while Clark remained indebted to Wells Fargo (absent consent). Allowing Hind-man and Clark to agree to rescind their purported loan agreement would render the subordination agreements useless. Under Hindman\u2019s theory, Clark could use all loans from Hindman to pay down its line of credit, take more' advances from Wells Fargo, and then turn around and agree with Hindman to rescind the loan agreements, resulting in Hindman receiving payment before Wells Fargo, which is precisely what the subordination agreements were intended to prevent. Thus, assuming a valid loan agreement was created in the first place, Hindman cannot escape liability for breach under-a theory of rescission.\n3. Consent\nParagraph 3 of the subordination agreements provides in relevant part that Hindman \u201cshall not, without the Lender\u2019s prior written consent, demand, receive or accept any payment (whether of principal, interest or otherwise) from any Borrower in respect of the Subordinated Indebtedness.\u201d (Emphasis added.) Hindman argues that he did not breach the subordination agreements because Wells Fargo consented to the repayment through its representative, Thomas Bassett. Wells Fargo says that Bassett had.no authority to give consent and, in any event, that the evidence is undisputed that Bassett did not consent.\nWe think there are genuine issues of material fact concerning this issue. It is true that Bassett was a vice-president of Wells Fargo Bank with responsibility over Hindman\u2019s personal accounts, whereas responsibility for Clark\u2019s business accounts rested with Wells Fargo Business Credit. But the subordination agreements recite that they are \u201cfor the benefit of WELLS FARGO BANK, NATIONAL ASSOCIATION (the \u2018Lender\u2019.), acting through its Wells Fargo Business Credit operating division.\u201d\nThat the subordination agreements define \u201cLender\u201d as Wells Fargo Bank and require prior written consent to come from the Lender makes them susceptible to the interpretation that consent from Wells Fargo Bank was sufficient. However, the \u201cacting through\u201d language gives rise to another reasonable interpretation, i.e., that consent must come from Wells Fargo Business Credit. Because the agreements are \u201csusceptible to more than one reasonable interpretation,\u201d they are ambiguous, and extrinsic evidence may be considered to resolve the ambiguity. See Town Bank v. City Real Estate Dev., LLC, 330 Wis.2d 340, 793 N.W.2d 476, 484 (2010). If extrinsic evidence does not resolve the ambiguity, the agreements should be construed against the drafter, Wells Fargo. See Roth v. City of Glendale, 237 Wis.2d 173, 614 N.W.2d 467, 476 (2000) (Sykes, J., concurring) (explaining that default rules, such as construction against the drafter, are tie-breakers that are applied only after extrinsic evidence has been examined).\nJust as they did before the district court, the parties all but ignore this controlling provision and make unsupported assertions that Bassett either did or did not have authority to consent. The district court, for its part, did not discuss the issue of consent at all. Thus, it is unclear whether Wells Fargo could point to extrinsic evidence showing that the parties intended for consent to be obtained from Wells Fargo Business Credit. If not, the provision should be construed against Wells Fargo such that consent from Wells Fargo Bank would suffice. But we simply cannot tell from this record.\nMoreover, even assuming the requisite consent could come from Bassett, Hind-man is not necessarily entitled to summary judgment. Curiously, Wells Fargo makes little of the fact that the subordination agreements require \u201cprior written consent.\u201d It is debatable whether the January 15 email from Bassett to D.D.H. reading \u201cDone!\u201d amounts to prior written consent or is merely an after-the-fact confirmation of the failed reversal. A fact finder, however, might reasonably view it as written consent to support the eventual transfer to the Florida bank on January 21. The subordination agreements, after all, do not define the parameters of the term \u201cprior written consent.\u201d\nAll this goes to show that at this point there is a genuine dispute of fact as to the issue of consent. But further development of the record and the parties\u2019 legal arguments on remand may add sufficient clarity that it can be decided as a matter of law.\nB. Damages\nIn the event of a breach, the subordination agreements provide that the amount of unauthorized payment received by Hindman shall be held in trust and turned over to Wells Fargo. Hindman argues that this \u201cProhibited Payments Clause\u201d is an unenforceable liquidated-damages clause. Wells Fargo maintains that this is a moot point because its actual damages were $750,000.\nWe agree with Wells Fargo and the district court that, if Hindman breached, the proper award of damages is $750,000. \u201cIn a breach of contract action, the fundamental idea is to put the injured party in as satisfactory a position as the party would have been in had the contract been performed.\u201d Int\u2019l Prod. Specialists, Inc. v. Schwing Am., Inc., 580 F.3d 587, 598 (7th Cir.2009) (citing Thorp Sales Corp. v. Gyuro Grading Co., 111 Wis.2d 431, 331 N.W.2d 342, 346 (1983)). Had Hindman not breached the subordination agreements by accepting payment of $750,000, there would have been $750,000 more in assets available for Clark to use in paying down its unpaid debt to Wells Fargo (its most senior creditor), which as of March 25, 2011, was $7,306,098.34.\nHindman argues that Wells Fargo\u2019s actual damages are limited to the amount of additional advances taken against the $750,000. He posits that if it can be shown that Clark took, for example, only $100,000 in additional advances, then Wells Fargo\u2019s actual damages are only $100,000. In other words, if Wells Fargo relied on the $750,000 only to the extent of the $100,000 it allowed Clark to take, it would provide a windfall of $650,000 to award Wells Fargo $750,000.\nWe disagree. The subordination agreements between Hindman and Wells Fargo were intended to ensure that Clark paid off its debts to Wells Fargo before paying off its debts to Hindman. Wisconsin law callb for placing the non-breaching party in the position it would have been in had the contract been performed instead of simply restoring the parties to their original positions. Assuming that Hindman breached, the only way to place Wells Fargo in the position that it would have been in had Hindman not breached would be to award the full $750,000. As Wells Fargo\u2019s actual damages are $750,000 (again, assuming breach), the enforceability of the \u201cProhibited Payments Clause\u201d is immaterial.\nIII. Conclusion\nFor the foregoing reasons, the district court\u2019s judgment is Vacated and the cause is Remanded for further proceedings consistent with this opinion.\n. Classifying the funds as \"non-A/R cash\u201d allowed Clark to take up to 100% of the loan as additional advances. Had it been classified as \"A/R cash,\u201d then Clark would have been able to take additional advances equal to 15% of the loan; this is because, with regard to pending accounts receivable, Wells Fargo would loan 85% of the invoice amount to Clark before the cash came in, with the remaining 15% available once the invoice had been paid in full. (Appellee\u2019s Supp.App. 144.)\n. As a fallback, Hindman does raise the possibility that the term is ambiguous, suggesting that an overly broad reading of \"each and every ... debt, liability and obligation of every type and description\u201d might include pensions, travel-expense reimbursements, director's fees, or health-insurance premiums but that, when the commercial context is restored, the subordinated agre\u00e9ments clearly would not apply to such \"payments\u201d from Clark to Hindman. See ConFold Pac., Inc. v. Polaris Indus., Inc., 433 F.3d 952, 955 (7th Cir.2006) (discussing latent ambiguity). Given our resolution of Hindman's primary argument, we need not address his alternative contention, which in any event is waived because it was raised for the first time on appeal. See, e.g., Williams v. Dieball, 724 F.3d 957, 961 (7th Cir.2013).\n. Wisconsin law applies to the parties' dispute (with one caveat, noted later) by virtue of a choice-of-law provision in the subordination agreements. But most, if not all, of the legal principles involved in this appeal are well-established rules that are largely uniform throughout the country, which the parties implicitly acknowledge by their heavy reliance on Illinois law.\n. It is important to distinguish between the fundamental contractual element of acceptance and accepting loan proceeds. They are not necessarily the same; it depends on how the parties structure their transaction. Cf. Restatement (Second) of Contracts, supra, \u00a7 62. Consider the following: A says to B, \u201cif you loan me $10, I promise to pay you $15 a week later.\" If B subsequently tenders $10 to A, a valid contract is formed upon B's performance and A\u2019s refusal of the loan proceeds would constitute a breach. This is a classic example of a unilateral contract. See, e.g., Patel v. Am. Bd. of Psychiatry & Neurology, Inc., 975 F.2d 1312, 1314 (7th Cir.1992).\n. That the total advances taken over those four days exceeds the borrowing availability reflected on the January 15 daily collateral report suggests that there was incoming cash, because otherwise Wells Fargo would have been allowing an overdraft of $308,659.70.",
+        "type": "majority",
+        "author": "TINDER, Circuit Judge."
+      }
+    ],
+    "attorneys": [
+      "Sherry D. Coley, Godfrey & Kahn S.C., Green Bay, WI, for Plaintiff-Appellee.",
+      "Donald V. Jernberg, Jernberg Law Group, Arlington Heights, IL, for Defen-danL-Appellant."
+    ],
+    "corrections": "",
+    "head_matter": "WELLS FARGO BUSINESS CREDIT, Plaintiff-Appellee, v. Donald J. HINDMAN, Defendant-Appellant.\nNo. 12-1208.\nUnited States Court of Appeals, Seventh Circuit.\nArgued Sept. 5, 2012.\nDecided Oct. 30, 2013.\nSherry D. Coley, Godfrey & Kahn S.C., Green Bay, WI, for Plaintiff-Appellee.\nDonald V. Jernberg, Jernberg Law Group, Arlington Heights, IL, for Defen-danL-Appellant.\nBefore BAUER, MANION, and TINDER, Circuit Judges."
+  },
+  "file_name": "0657-01",
+  "first_page_order": 681,
+  "last_page_order": 697
+}

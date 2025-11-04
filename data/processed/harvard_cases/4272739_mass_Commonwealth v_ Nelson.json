@@ -1,0 +1,647 @@
+{
+  "id": 4272739,
+  "name": "Commonwealth vs. Joseph Nelson",
+  "name_abbreviation": "Commonwealth v. Nelson",
+  "decision_date": "2011-09-15",
+  "docket_number": "",
+  "first_page": "564",
+  "last_page": "581",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "460 Mass. 564"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Mass.",
+    "id": 8825,
+    "name": "Massachusetts Supreme Judicial Court"
+  },
+  "jurisdiction": {
+    "id": 4,
+    "name_long": "Massachusetts",
+    "name": "Mass."
+  },
+  "cites_to": [
+    {
+      "cite": "405 Mass. 238",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "case_ids": [
+        3882001
+      ],
+      "year": 1989,
+      "pin_cites": [
+        {
+          "page": "246",
+          "parenthetical": "allowing testimony implies prior determination of witness's expertise"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mass/405/0238-01"
+      ]
+    },
+    {
+      "cite": "399 Mass. 514",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "case_ids": [
+        3795275
+      ],
+      "pin_cites": [
+        {
+          "page": "524-526"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mass/399/0514-01"
+      ]
+    },
+    {
+      "cite": "442 Mass. 1518",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "year": 2004,
+      "opinion_index": 0
+    },
+    {
+      "cite": "455 Mass. 752",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "case_ids": [
+        3665190
+      ],
+      "year": 2010,
+      "pin_cites": [
+        {
+          "parenthetical": "testimony concerning dissociative amnesia and recovered memory"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mass/455/0752-01"
+      ]
+    },
+    {
+      "cite": "457 Mass. 300",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "case_ids": [
+        4268554
+      ],
+      "year": 2010,
+      "opinion_index": 0,
+      "case_paths": [
+        "/mass/457/0300-01"
+      ]
+    },
+    {
+      "cite": "509 U.S. 579",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        355769
+      ],
+      "year": 1993,
+      "pin_cites": [
+        {
+          "page": "592-593",
+          "parenthetical": "if challenged, judge must make \"prehminary assessment of whether the reasoning or methodology underlying [expert] testimony is scientifically valid\""
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/509/0579-01"
+      ]
+    },
+    {
+      "cite": "419 Mass. 15",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "case_ids": [
+        823726
+      ],
+      "year": 1994,
+      "pin_cites": [
+        {
+          "page": "25-27"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mass/419/0015-01"
+      ]
+    },
+    {
+      "cite": "42 Ohio St. 2d 473",
+      "category": "reporters:state",
+      "reporter": "Ohio St. 2d",
+      "case_ids": [
+        1794950
+      ],
+      "year": 1975,
+      "pin_cites": [
+        {
+          "page": "480"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ohio-st-2d/42/0473-01"
+      ]
+    },
+    {
+      "cite": "459 Mass. 148",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "case_ids": [
+        4271568
+      ],
+      "weight": 6,
+      "year": 2011,
+      "pin_cites": [
+        {
+          "page": "156"
+        },
+        {
+          "page": "158"
+        },
+        {
+          "page": "156-157"
+        },
+        {
+          "page": "156-157"
+        },
+        {
+          "page": "150"
+        },
+        {
+          "page": "150-153"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mass/459/0148-01"
+      ]
+    },
+    {
+      "cite": "76 Mass. App. Ct. 236",
+      "category": "reporters:state",
+      "reporter": "Mass. App. Ct.",
+      "case_ids": [
+        3835801
+      ],
+      "year": 2010,
+      "pin_cites": [
+        {
+          "page": "239-240",
+          "parenthetical": "admission of drug certificate identifying heroin not harmless beyond reasonable doubt where no expert offered opinion as to its nature"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mass-app-ct/76/0236-01"
+      ]
+    },
+    {
+      "cite": "75 Mass. App. Ct. 235",
+      "category": "reporters:state",
+      "reporter": "Mass. App. Ct.",
+      "case_ids": [
+        3833889
+      ],
+      "year": 2009,
+      "pin_cites": [
+        {
+          "page": "244-245",
+          "parenthetical": "where officer not asked to identify marijuana based on his experience as narcotics officer, admission of drug certificate not harmless beyond reasonable doubt"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mass-app-ct/75/0235-01"
+      ]
+    },
+    {
+      "cite": "454 Mass. 808",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "case_ids": [
+        3670324
+      ],
+      "weight": 2,
+      "year": 2009,
+      "pin_cites": [
+        {
+          "page": "831",
+          "parenthetical": "field test conducted on substance that tested positive for cocaine"
+        },
+        {
+          "page": "831-832",
+          "parenthetical": "experienced officer as well as jurors may determine whether cocaine weighed more than four ounces"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mass/454/0808-01"
+      ]
+    },
+    {
+      "cite": "76 Mass. App. Ct. 296",
+      "category": "reporters:state",
+      "reporter": "Mass. App. Ct.",
+      "case_ids": [
+        3835320
+      ],
+      "weight": 4,
+      "year": 2010,
+      "pin_cites": [
+        {
+          "page": "297"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mass-app-ct/76/0296-01"
+      ]
+    },
+    {
+      "cite": "508 U.S. 275",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        12227
+      ],
+      "year": 1993,
+      "pin_cites": [
+        {
+          "page": "279"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/508/0275-01"
+      ]
+    },
+    {
+      "cite": "455 Mass. 676",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "case_ids": [
+        3665125
+      ],
+      "year": 2010,
+      "opinion_index": 0,
+      "case_paths": [
+        "/mass/455/0676-01"
+      ]
+    },
+    {
+      "cite": "456 Mass. 350",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "case_ids": [
+        3668331
+      ],
+      "weight": 5,
+      "year": 2010,
+      "pin_cites": [
+        {
+          "page": "352, 362"
+        },
+        {
+          "page": "361"
+        },
+        {
+          "page": "362"
+        },
+        {
+          "page": "364"
+        },
+        {
+          "page": "361",
+          "parenthetical": "standard of harmlessness is \"stringent\""
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mass/456/0350-01"
+      ]
+    },
+    {
+      "cite": "129 S. Ct. 2527",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        3657952
+      ],
+      "weight": 2,
+      "year": 2009,
+      "pin_cites": [
+        {
+          "page": "2532, 2542"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/557/0305-01"
+      ]
+    },
+    {
+      "cite": "434 Mass. 1",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "case_ids": [
+        1080046
+      ],
+      "year": 2001,
+      "pin_cites": [
+        {
+          "page": "5",
+          "parenthetical": "where warrant not returned, suppression not warranted because terms of warrant established by secondary means, allowing defendant opportunity to challenge warrant"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mass/434/0001-01"
+      ]
+    },
+    {
+      "cite": "365 Mass. 519",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "case_ids": [
+        292034
+      ],
+      "year": 1974,
+      "opinion_index": 0,
+      "case_paths": [
+        "/mass/365/0519-01"
+      ]
+    },
+    {
+      "cite": "468 U.S. 897",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11340969
+      ],
+      "year": 1984,
+      "pin_cites": [
+        {
+          "page": "920-921"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/468/0897-01"
+      ]
+    },
+    {
+      "cite": "456 Mass. 708",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "case_ids": [
+        3667851
+      ],
+      "weight": 2,
+      "year": 2010,
+      "pin_cites": [
+        {
+          "page": "715"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mass/456/0708-01"
+      ]
+    },
+    {
+      "cite": "394 Mass. 381",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "case_ids": [
+        385087
+      ],
+      "weight": 7,
+      "year": 1985,
+      "pin_cites": [
+        {
+          "page": "388",
+          "parenthetical": "Sheppard"
+        },
+        {
+          "page": "381, 382, 385-387"
+        },
+        {
+          "page": "389"
+        },
+        {
+          "page": "388, 391"
+        },
+        {
+          "page": "389"
+        },
+        {
+          "page": "390, 391"
+        },
+        {
+          "page": "389-391"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mass/394/0381-01"
+      ]
+    },
+    {
+      "cite": "248 Wis. 2d 530",
+      "category": "reporters:state",
+      "reporter": "Wis. 2d",
+      "case_ids": [
+        9401997
+      ],
+      "year": 2001,
+      "pin_cites": [
+        {
+          "page": "540-541",
+          "parenthetical": "purpose of oath is to remind magistrate and investigator of importance and solemnity of process and to protect target of search by creating liability for perjury"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wis-2d/248/0530-01"
+      ]
+    },
+    {
+      "cite": "943 F.2d 547",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1855913
+      ],
+      "year": 1991,
+      "pin_cites": [
+        {
+          "parenthetical": "where warrant based solely on oral testimony over telephone, violation of Fourth Amendment where magistrate could not recall whether he used the word \"swear\" when he asked officer if his statements were true and correct"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/943/0547-01"
+      ]
+    },
+    {
+      "cite": "7 Gray 332",
+      "category": "reporters:state",
+      "reporter": "Gray",
+      "case_ids": [
+        1996188
+      ],
+      "year": 1856,
+      "pin_cites": [
+        {
+          "page": "337",
+          "parenthetical": "magistrate's signature on jurat is \"certificate of the magistrate that the requisite oath has been taken\""
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mass/73/0332-01"
+      ]
+    },
+    {
+      "cite": "451 Mass. 370",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "case_ids": [
+        3789147
+      ],
+      "year": 2008,
+      "pin_cites": [
+        {
+          "page": "381"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mass/451/0370-01"
+      ]
+    },
+    {
+      "cite": "394 Mass. 363",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "case_ids": [
+        385187
+      ],
+      "year": 1985,
+      "pin_cites": [
+        {
+          "page": "366"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mass/394/0363-01"
+      ]
+    },
+    {
+      "cite": "351 Mass. 327",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "case_ids": [
+        3861584
+      ],
+      "year": 1966,
+      "pin_cites": [
+        {
+          "page": "330"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mass/351/0327-01"
+      ]
+    },
+    {
+      "cite": "450 Mass. 818",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "case_ids": [
+        3778621
+      ],
+      "weight": 3,
+      "year": 2008,
+      "pin_cites": [
+        {
+          "parenthetical": "court may supplement judge's findings if uncontroverted and judge explicitly or implicitly credited witnesses' testimony"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mass/450/0818-01"
+      ]
+    },
+    {
+      "cite": "448 Mass. 334",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "case_ids": [
+        3855974
+      ],
+      "year": 2007,
+      "pin_cites": [
+        {
+          "page": "337"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mass/448/0334-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 1384,
+    "char_count": 42216,
+    "ocr_confidence": 0.922,
+    "pagerank": {
+      "raw": 1.5229874137074263e-07,
+      "percentile": 0.6696152941735213
+    },
+    "sha256": "40205ff4e414b6cddb47e108890ff7d4bd15b250d0a87d94482c352e091e537f",
+    "simhash": "1:861489a861cc16cb",
+    "word_count": 6734
+  },
+  "last_updated": "2024-02-27T17:56:26.592595+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Commonwealth vs. Joseph Nelson."
+    ],
+    "opinions": [
+      {
+        "text": "Ireland, C.J.\nThe defendant was convicted of possession of a class C substance, clonazepam, and a class E substance, traz-odone, in violation of G. L. c. 94C, \u00a7 34; possession with intent to distribute a class D substance, marijuana, in violation of G. L. c. 94C, \u00a7 32C (a); and a drug violation near a school or park in violation of G. L. c. 94C, \u00a7 32J. He appealed, and we granted his application for direct appellate review to consider the first impression issue whether the judge erred in denying his motion to suppress because the police officer who applied for a search warrant did not personally appear before the judge who issued the warrant. He also argues that the officer\u2019s requisite oath was not properly administered, in violation of G. L. c. 276, \u00a7 2B. As to his trial, he argues that the admission of drug certificates without the testimony of the analyst violated his constitutional rights, and that there were errors concerning the testimony of the Commonwealth\u2019s expert and the prosecutor\u2019s opening statement and closing argument. Because we conclude that the erroneous admission of the drug certificates was not harmless beyond a reasonable doubt, we reverse the defendant\u2019s convictions and remand the case for further proceedings consistent with this opinion.\nFacts and background. We present the essential facts, reserving details for our discussion of the issues raised.\nOn January 20, 2008, Sergeant Timothy Lima of the Stow police department obtained a search warrant for an apartment where the eighteen year old defendant lived with his mother. The apartment is 833.9 feet from a middle school. Lima and other police officers conducted a search of the defendant\u2019s bedroom, which was occupied at the time by the defendant and two other individuals. Inside the bedroom, Lima found a backpack on the floor that contained marijuana packaged inside plastic baggies and white pills in a prescription bottle labeled \u201ctrazodone.\u201d Lima found several individual pills on a night stand and an assortment of drug paraphernalia in the room, including four compact digital scales, cut plastic baggies, \u201cbongs,\u201d marijuana pipes with residue, \u201cgrinding instruments,\u201d rolling papers, a razor blade, and an air pump used for smoking marijuana.\nAt trial the Commonwealth called Detective Charles Robert Mercer of the suburban Middlesex County drug task force as an expert on the distribution of marijuana. He examined the evidence that was seized and testified that the quantity and packaging of the marijuana, as well as the paraphernalia, was consistent with possession with intent to distribute.\nThe drugs were admitted in evidence along with certificates of analyses from the State laboratory identifying them as marijuana, trazodone, and clonazepam. The chemical analyst did not testify; instead Lima read the results from each certificate to the jury as part of his testimony.\nThe defendant did not testify or call any witnesses. Through argument and cross-examination of the Commonwealth\u2019s witnesses, the defense was that the defendant was a \u201cpothead,\u201d that the marijuana and pills belonged to one of the other individuals in his room, and that the police never saw the defendant sell drugs to anyone.\nDiscussion. 1. Motion to suppress. We set forth the relevant facts as found by the motion judge supplemented with uncontroverted evidence from the motion hearing. Commonwealth v. Isaiah I., 448 Mass. 334, 337 (2007), S.C., 450 Mass. 818 (2008) (court may supplement judge\u2019s findings if uncontroverted and judge explicitly or implicitly credited witnesses\u2019 testimony).\nLima was the sole witness at the hearing on the motion. His testimony and the affidavit he prepared in support of his application for a search warrant were as follows.\nOn the evening of Saturday, January 19, 2008, the defendant\u2019s mother telephoned the Stow police department to inform them that she had found a large quantity of marijuana and cocaine inside the defendant\u2019s bedroom. Sergeant Lima went to her residence where the mother told him that the defendant had been selling drugs out of the house; that she had detected the odor of marijuana coming from inside his bedroom; and that she found marijuana and cocaine in a large backpack located in the bedroom. She informed Lima that the defendant was in Fall River that evening, presumably purchasing drugs.\nThe following morning Lima applied for a search warrant that would authorize him to search the defendant\u2019s bedroom. Because it was a Sunday, Lima followed a protocol to contact an \u201con-call\u201d judge. After three or four unsuccessful attempts that involved, inter alia, communicating with the State police, Lima received a telephone call from a Superior Court judge (warrant judge) who was visiting family in New Jersey.\nThe warrant judge then went to a nearby police station and telephoned Lima at the Stow police station. Through telephone communication and documents exchanged by facsimile transmission, Lima\u2019s application and affidavit were reviewed, and the warrant judge signed a properly witnessed warrant and transmitted a facsimile to Lima. Lima had signed his affidavit under the pains and penalties of perjury, and the warrant judge signed that Lima had \u201cmade oath that the foregoing affidavit by him subscribed is true.\u201d The warrant issued no later than 11:33 a.m.\nAt the conclusion of his testimony detailing these exchanges, Lima stated that the warrant judge \u201csigned the [application for the warrant] and swore me in over the phone.\u201d The motion judge further questioned Lima concerning the sequence of events. In his written findings, the motion judge stated: \u201c[The warrant judge] swore [Lima] over the telephone [and] read [from the facsimile] the affidavit page by page. [The warrant judge] . . . then faxed back a signed search warrant.\u201d (Emphases added.)\nLima and other police officers executed the warrant at approximately noon that day. Police seized drugs and drug paraphernalia, as set forth above.\nThe defendant argues that the motion judge should have allowed the motion to suppress because the warrant was obtained without the proper oath, and Sergeant Lima did not personally appear before a neutral magistrate.\nThe Fourth Amendment to the United States Constitution and art. 14 of the Massachusetts Declaration of Rights require that a warrant be issued only on probable cause, supported by oath or affirmation. General Laws c. 276, \u00a7\u00a7 1 and 2B, require an affidavit and an oath. The purpose of G. L. c. 276, \u00a7\u00a7 1-2C, is to ensure that the Commonwealth can demonstrate by a writing (i.e., affidavit) that any given search was reasonable and supported by probable cause. Commonwealth v. Monosson, 351 Mass. 327, 330 (1966). In addition, G. L. c. 276, \u00a7 2B, is a statutory prohibition against the admission of evidence without probable cause. Commonwealth v. Upton, 394 Mass. 363, 366 (1985).\n\u201cIn reviewing the denial of a motion to suppress, we accept the motion judge\u2019s subsidiary findings of fact absent clear error, and conduct an independent review of the judge\u2019s ultimate findings and conclusions of law.\u201d Commonwealth v. Stephens, 451 Mass. 370, 381 (2008).\na. Propriety and timing of oath. The defendant claims that there is no evidence that Lima was given the proper oath, and even if he was, it was not administered until after the warrant issued, in violation of the Fourth Amendment, art. 14, and G. L. c. 276, \u00a7\u00a7 1 and 2B. This argument is waived. At the hearing, the defendant asked whether it was proper for someone to be sworn over the telephone. However, because the defendant did not raise the issue of the actual words Lima used to \u201cmake oath\u201d or its timing, Lima was not questioned in this regard, and the motion judge made no findings addressing these issues in detail.\nNevertheless we conclude that the motion judge found that a proper oath was given over the telephone before the warrant issued. His findings are supported by the record, recited supra, i.e., Lima\u2019s testimony; his signature on the affidavit averring it was signed under the pains and penalties of perjury; the warrant judge\u2019s signature on that affidavit confirming that Lima \u201cmade oath that [his affidavit] is true\u201d; and that the warrant judge also crossed out the introductory statutory language, \u201cThen personally appeared before me,\u201d accurately to reflect the conditions under which he took Lima\u2019s oath. See note 4, supra. See also Commonwealth v. Keefe, 7 Gray 332, 337 (1856) (magistrate\u2019s signature on jurat is \u201ccertificate of the magistrate that the requisite oath has been taken\u201d). Cf. United States v. Richardson, 943 F.2d 547, 548 & n.1, 549 (5th Cir. 1991) (where warrant based solely on oral testimony over telephone, violation of Fourth Amendment where magistrate could not recall whether he used the word \u201cswear\u201d when he asked officer if his statements were true and correct). Moreover, Lima\u2019s signature under the pains and penalties of perjury, although not required by the statute, would subject him to a potential charge of perjury, just as an oral oath would. See generally State v. Tye, 248 Wis. 2d 530, 540-541 (2001) (purpose of oath is to remind magistrate and investigator of importance and solemnity of process and to protect target of search by creating liability for perjury).\nb. Requirement to appear personally before magistrate. Because the warrant judge was in New Jersey, Lima did not \u201cappear personally\u201d before him when the warrant issued, in violation of the directive of G. L. c. 276, \u00a7 2B (person seeking warrant \u201cshall appear personally before [an authorized] court or justice\u201d). Moreover, the warrant was constitutionally infirm because art. 14 requires, in pertinent part, that \u201cno warrant ought to be issued but in cases, and with the formalities prescribed by the laws\u201d (here, G. L. c. 276, \u00a7 2B). See Commonwealth v. Sheppard, 394 Mass. 381, 388 (1985) (Sheppard).\nThe motion judge considered the propriety of the warrant and found it valid, noting, \u201cAlthough the authorization was unusual, the combination of [facsimile transmission] and telephone was sufficient to provide the neutral magistrate\u2019s involvement [as] constitutionally required.\u201d He elaborated further on this finding at the hearing:\n\u201cWhile it is confusing and certainly irregular, under the circumstances I find that the Commonwealth\u2019s efforts to obtain a valid search warrant were both reasonable, consistent with the law, and ultimately satisfactory to meet the constitutional minimum of demonstrating probable cause to a neutral magistrate who had an adequate time to review and make [an] independent determination. I find those requirements were met.\u201d\nThe defendant argues, in essence, that because he was prejudiced by the violation of his statutory and constitutional rights, the exclusionary rule should apply to the evidence seized under the warrant. We do not agree.\nThe exclusionary rule is a remedy to an illegal search; its purpose is to deter police misconduct and preserve judicial integrity by dissociating courts from unlawful conduct. Commonwealth v. Brown, 456 Mass. 708, 715 (2010), and cases cited. See United States v. Leon, 468 U.S. 897, 920-921 (1984). Rigid adherence to a rule of exclusion is unnecessary in situations where these purposes are not furthered. Commonwealth v. Brown, supra.\nIn Sheppard, supra at 381, 382, 385-387, this court refused to apply the exclusionary rule to the execution of a search warrant that failed to meet the particularity requirement of both G. L. c. 276, \u00a7 2, and art. 14. The court stated that the Legislature\u2019s intent in enacting G. L. c. 276 was to track the particularity requirement of art. 14 in order to protect individuals from a general search and to have a writing by which the defendant could challenge the scope of the officers\u2019 authority to search. Id. at 389. The court noted that neither art. 14 nor the statute specifies that exclusion is the remedy for a violation of their requirements. Id. at 388, 391.\nSheppard recognized that, in cases where there was a violation of the probable cause requirement for a warrant to issue, the exclusionary rule applied because the defendant suffered prejudice either because of his right to be free from unreasonable searches and seizures, or because the defendant could not challenge the warrant and thus the violation was substantial. Sheppard, supra at 389, and cases cited. However, the court stated that the facts in Sheppard were distinguishable from those probable cause cases because the violation of the particularity requirement was technical rather than substantial. It further concluded that the defendant was not prejudiced where police conducted the search within the limits of the warrant and, because there was a writing, the defendant was able to challenge the scope of the search. Sheppard, supra at 390, 391.\nWe must first decide whether the defendant was prejudiced by the circumstances here because, if he were, it obviates the need for further analysis of the appropriate remedy for the officer\u2019s violation of the statute.\nHere, the defendant argues that he was prejudiced because there were no procedural safeguards to ensure that the warrant was properly issued. In particular, he claims that he was prejudiced because the warrant returned and certified by the clerk did not have the warrant judge\u2019s signature and that there was no specific authorization for how the search must be executed.\nIt is apparent from the record that copies of the documents with the warrant judge\u2019s signature (or with details about the scope of the search) were not in the clerk\u2019s folder and, therefore, the defendant was not provided with a signed copy of the actual warrant. However, Lima testified that he returned all the documents, including copies with the warrant judge\u2019s signature, to the clerk when he returned the warrant. The motion judge credited this testimony and found that Lima \u201cfiled the [facsimile transmission] and signed warrant.\u201d It follows, therefore, that the error in the warrant return procedure is ministerial and not a ground to void a valid warrant. Commonwealth v. Cromer, 365 Mass. 519, 521 n.3 (1974), and cases cited. See generally Commonwealth v. Ocasio, 434 Mass. 1, 5 (2001) (where warrant not returned, suppression not warranted because terms of warrant established by secondary means, allowing defendant opportunity to challenge warrant).\nHere, Lima testified that he searched the defendant\u2019s bedroom as specified by the warrant, and because a writing exists, the defendant was able to challenge the scope of the search. In the circumstances here, there was no prejudice. See Sheppard, supra at 389-391.\nOur conclusion that the defendant suffered no prejudice does not end the inquiry. Under art. 14 and G. L. c. 276, \u00a7 2B, the oath and personal appearance are required to support the affidavit that establishes probable cause for the warrant. See notes 3 and 4, supra. We conclude that, in the rare case where an officer must rely on communication by telephone and facsimile transmission to obtain an otherwise valid search warrant, the motion judge must make an express finding that the officer exhausted all reasonable efforts to find a judge before whom he could personally appear. Requiring such a finding ensures that an officer, whose attempt to obtain a proper warrant is thwarted by a failure of the system of on-call judges, is not penalized, while acting as a deterrent to police misconduct so that warrants are issued on probable cause. We hold that, if the motion judge finds that the officer did not make every reasonable effort, the evidence seized must be suppressed.\nIn this case, Lima testified that the nearest judge was in the Roxbury section of Boston, but he was not asked why he did not bring the warrant application before that judge. He also was not asked details about all the other efforts he made. Therefore, before any retrial may take place, the trial judge must have further findings from the motion judge concerning whether Lima exhausted all reasonable efforts to find a judge before whom he could appear.\n2. Admission of drug certificates. The defendant\u2019s trial occurred shortly before the United States Supreme Court issued Melendez-Diaz v. Massachusetts, 129 S. Ct. 2527 (2009). The defendant argues, and the Commonwealth does not dispute, that the admission of drug certificates identifying clonazepam, tra-zodone, and marijuana, without the testimony of the chemical analysts, violated the defendant\u2019s right to confrontation. Id. at 2532, 2542. The issue, then, is whether their admission was harmless beyond a reasonable doubt; that is, the court must be satisfied that the Commonwealth proved beyond a reasonable doubt that the certificate had \u201clittle or no effect on the verdicts.\u201d Commonwealth v. Vasquez, 456 Mass. 350, 352, 362 (2010). The inquiry is whether the Commonwealth\u2019s circumstantial evidence is so \u201coverwhelming\u201d as to \u201cnullify any effect\u201d that the admission of the certificate might have had on the verdict. Id.., quoting Commonwealth v. Tyree, 455 Mass. 676, 704 n.44 (2010). The burden on the Commonwealth is a \u201cstringent one\u201d; we must be certain that the verdict is \u201cunattributable to the error.\u201d Commonwealth v. Vasquez, supra at 361, quoting Sullivan v. Louisiana, 508 U.S. 275, 279 (1993).\na. Clonazepam. Because the Commonwealth concedes that the admission of the certificate identifying clonazepam was not harmless beyond a reasonable doubt, we vacate the defendant\u2019s conviction on that possession charge and discuss the effect of the certificates identifying trazodone and marijuana.\nb. Trazodone. The white pills that were identified in the certificate were in a prescription bottle with the defendant\u2019s mother\u2019s name and address on it and labeled \u201ctrazodone.\u201d The pills and bottle were admitted in evidence but were not sent to the jury room. The judge explained that \u201cwe don\u2019t typically send in . . . drugs [but] [w]e will send in the certificates of analysis.\u201d\nCiting Commonwealth v. Greco, 76 Mass. App. Ct. 296 (2010), the Commonwealth argues that the circumstantial evidence introduced at trial rendered the admission of the certificate harmless beyond a reasonable doubt. We disagree.\nIn the Greco case, not only did the Commonwealth have a prescription bottle with the label matching the drug that was identified by the certificate, but also each pill was stamped with the name of the drug. Id. at 297. In addition, the prescription bottle had the defendant\u2019s name on it and was from a pharmacy the defendant was standing in front of when he was seen handing some of the pills from the bottle to another individual. Id. Further, when he was being questioned, the defendant stated that the other individual \u201cgave me ten bucks for the pills\u201d; police found a ten dollar bill when the defendant was searched. Id.\nHere, there was no additional evidence other than the pills and the prescription bottle. In these circumstances we cannot say that the certificate had little or no effect on the verdict. Commonwealth v. Vasquez, supra at 362. The defendant\u2019s conviction of possession of trazodone is reversed.\nc. Marijuana. The Commonwealth argues that there is enough circumstantial evidence that the vegetable substance that Lima seized was marijuana to make the admission of the drug certificate of analysis harmless beyond a reasonable doubt.\nAt trial, Lima read the conclusion from the drug certificate that \u201cthe vegetable matter\u201d was marijuana. He also testified that, at the police academy, he was exposed to the sight and odor of burnt and unburnt marijuana, and that, over the course of his twenty-three year career, he had taken some courses in basic narcotics investigation. He stated that he found \u201ca large amount of marijuana\u201d in the defendant\u2019s bedroom, packaged in plastic baggies, as well as several instruments associated with smoking marijuana: \u201cbongs,\u201d rolling papers, and a \u201cmarijuana pipe with residue.\u201d\nIn addition, the Commonwealth\u2019s expert witness, Detective Mercer, testified that through his training and experience he was familiar with marijuana and had seen it, and he described it as \u201cdried out . . . vegetable matter.\u201d He also stated that he spoke with Lima, examined all the evidence that Lima had seized, read Lima\u2019s police report, and listened to Lima\u2019s trial testimony. He stated that marijuana was seized by Lima and it \u201cappeared to be eight [one] ounce packages\u201d of marijuana. He stated that it could be smoked in a variety of ways, including \u201cby marijuana joints, by pipes, or by bongs,\u201d and that the drug \u201chas been eaten.\u201d\nFurther, the drug certificate of analysis was admitted in evidence; the judge stated that he would not be sending the drugs into the jury room but would \u201csend in the certificates of analysis\u201d; and the judge had instructed the jury that they \u201cmay consider\u201d but were \u201cnot required to accept [the certificates].\u201d The prosecutor did not rely on the drug certificate in closing argument.\nAs the defendant points out, Lima was not asked to identify any of the drugs based on his experience as a narcotics officer or whether he had conducted independent field tests. See generally Commonwealth v. Connolly, 454 Mass. 808, 831 (2009) (field test conducted on substance that tested positive for cocaine); Commonwealth v. Rodriguez, 75 Mass. App. Ct. 235, 244-245 (2009) (where officer not asked to identify marijuana based on his experience as narcotics officer, admission of drug certificate not harmless beyond reasonable doubt). The defendant also argues that Mercer\u2019s expert testimony related solely to the charge of possession with intent to distribute and therefore his testimony was merely circumstantial evidence that the substance was marijuana. See Commonwealth v. Pimentel, 76 Mass. App. Ct. 236, 239-240 (2010) (admission of drug certificate identifying heroin not harmless beyond reasonable doubt where no expert offered opinion as to its nature). To support his argument he relies particularly on Commonwealth v. Vasquez, supra at 364 (erroneous admission of drug certificates of analysis not harmless beyond reasonable doubt where Commonwealth relied on testimony of several police officers, who did not testify to any expertise or training in chemical analysis and who relied on drug certificates in determining substance was cocaine).\nMercer was called to testify concerning the charge of possession with intent to distribute; the identification of the substance he examined in the plastic baggies as marijuana was merely implicit in that testimony. See note 14, supra. In Commonwealth v. MacDonald, 459 Mass. 148, 156 (2011), this court discussed an expert\u2019s visual (and tactile) identification of marijuana. At trial, the expert examined the substance through a clear plastic bag and stated that the seeds were \u201cconsistent with\u201d marijuana. Id. at 158. We stated that our jurisprudence allowed proof of a substance solely through the testimony of individuals who were familiar with it. Id. at 156-157, and cases cited. We distinguished the identification of marijuana from compounds such as cocaine stating that, because marijuana consists \u201cof the dried leaves, stems, and seeds of a plant which anyone reasonably familiar therewith should be able to identify by appearance,\u201d the risk of misidentification by an expert was lower as compared to the identification of drug compounds. Id. at 156-157, quoting State v. Maupin, 42 Ohio St. 2d 473, 480 (1975).\nThe identification of marijuana makes this case distinguishable from the Vasquez case, where the identity of cocaine was at issue. However, the MacDonald case also is distinguishable from this case, because it concerned the sufficiency of the evidence, whereas here, the issue is whether the admission of a drug certificate of analysis was harmless beyond a reasonable doubt. In addition, the expert in the MacDonald case was called to identify the substance as marijuana. Commonwealth v. MacDonald, supra at 150. Here, Mercer was called as an expert concerning the charge of intent to distribute and thus was never asked directly to identify the marijuana. See note 14, supra. Because neither Mercer nor Lima was asked to identify the marijuana based on his training and experience, we cannot conclude that the admission of the drug certificate identifying the marijuana was harmless beyond a reasonable doubt. See Commonwealth v. Vasquez, supra at 361 (standard of harmlessness is \u201cstringent\u201d).\nAccordingly, we must reverse all the defendant\u2019s convictions.\n3. Other issues. Because the Commonwealth may choose to retry the defendant, we consider other issues raised by his claims of error that may be material to a retrial.\na. Expert\u2019s testimony, i. Before trial, the Commonwealth provided the defendant with Mercer\u2019s curriculum vitae, which included a list of training programs Mercer conducted for police officials, and which noted as well his twenty years of experience. The defendant moved to exclude Mercer\u2019s testimony on the ground that the Commonwealth failed to provide, through discovery, copies of the books, journal articles, and police reports on which he was going to base his opinion. He also moved to conduct a voir dire of Mercer to determine whether his opinion was based on reliable methodology. Commonwealth v. Lanigan, 419 Mass. 15, 25-27 (1994), discussing and quoting Daubert v. Merrell Dow Pharms., Inc., 509 U.S. 579, 592-593 (1993) (if challenged, judge must make \u201cprehminary assessment of whether the reasoning or methodology underlying [expert] testimony is scientifically valid\u201d). The judge denied both motions, stating that the defendant could conduct his cross-examination based on Mercer\u2019s curriculum vitae. The defendant claims that this was error.\nThere is no merit to the defendant\u2019s argument that, because he was not allowed to conduct a voir dire, his cross-examination was rendered ineffective. A \u201cDaubert-Lanigan hearing may not be necessary where the expert\u2019s methodology has previously been accepted as rehable in the relevant field[; however,] a party [may request] a hearing on the belief that the science in a particular field has advanced to the point where previously accepted expert testimony would no longer be considered rehable.\u201d Commonwealth v. Sliech-Brodeur, 457 Mass. 300, 327 & n.39 (2010). Mercer\u2019s opinion evidence is of a type that has been routinely admitted in drug cases. See, e.g., Commonwealth v. MacDonald, supra at 150-153. See also Commonwealth v. Shanley, 455 Mass. 752, 763 n.15 (2010) (testimony concerning dissociative amnesia and recovered memory). The defendant makes no claim that new methods or understandings exist. Moreover, the judge instructed the jury that they need not credit expert testimony. There was no error.\nConcerning the defendant\u2019s argument that he was not provided with mandatory discovery, Mass. R. Crim. P. 14 (a) (1) (A) (vi), as appearing in 442 Mass. 1518 (2004), requires the Commonwealth to disclose to the defense \u201c[ijntended expert opinion evidence [including] the identity, current curriculum vitae, and list of [the expert\u2019s] publications and all reports prepared by the expert that pertain to the case.\u201d The Commonwealth states that it did comply with this mandate. The defendant does not challenge the Commonwealth\u2019s statement or provide copies of what he was given to support his claim of its inadequacy. There was no error. Furthermore, there is no merit to the defendant\u2019s suggestion that the Commonwealth also violated G. L. c. 218, \u00a7 26A, second par., which allows the defense to examine documents in the Commonwealth\u2019s possession, where the defendant does not assert that he was prevented from conducting such examination.\nii. The defendant also claims that Mercer\u2019s trial testimony concerning the Commonwealth\u2019s theory that the defendant intended to distribute the marijuana was improper.\nMercer testified as follows. Marijuana dealers buy larger amounts of the drug because they get it at a cheaper price; they then package it in smaller quantities, typically one ounce, and sell it. The purchasers then break up the ounce into even smaller packages. To avoid retribution, the dealer uses scales to weigh it as precisely as possible. When a dealer buys a large amount of marijuana, it is unlikely that it will be kept for personal use because as it dries out it loses its potency and is less pleasurable to smoke. Mercer noted, \u201cIt bums and gets hotter and it\u2019s more irritating to smoke.\u201d The street value of one-eighth of one ounce of low-grade marijuana is forty dollars, whereas one-eighth of one ounce of \u201cvery high grade marijuana\u201d would be sold for seventy-five to eighty dollars.\nAlthough Mercer did not weigh it, he testified that the marijuana Lima seized was packaged in eight individual one-ounce packages, and that the four scales Lima seized were consistent with the type of scales dealers used to weigh drags.\nAt the conclusion of his testimony, Mercer had the following exchange with the prosecutor:\nThe prosecutor: \u201cIn examining this evidence, did you form an opinion as to whether the dmgs in this case are or are not consistent with drug distribution or possession with intent to distribute, rather.\u201d\nThe witness: \u201cYes.\u201d\nThe prosecutor: \u201cWhat was that opinion?\u201d\nThe witness:\n\u201cThat it was \u2014 that the drugs are possession with intent. The person that possessed the drugs had the intent to sell them.\u201d\nThe prosecutor: \u201cYour opinion is that the evidence seized is consistent with a person possessing to distribute?\u201d\nThe witness: \u201cYes, as a result of all of the different\npieces of evidence.\u201d\n\u2022 We note that the Commonwealth concedes that it was error to admit Mercer\u2019s opinion testimony, \u201cthat the drugs are possession with intent. The person that possessed the drugs had the intent to sell them.\u201d We assume that the Commonwealth will not repeat this error at retrial.\nThe defendant claims that Mercer\u2019s testimony concerning the weight of the marijuana was not an independent assessment. It is true that the prosecutor asked whether Mercer heard Lima\u2019s testimony that Lima seized eight ounces of marijuana, but in fact, Lima did not so testify. However, Mercer\u2019s later testimony that he did not weigh it but that it \u201cappeared to be\u201d eight one-ounce packages of marijuana was an independent assessment of its weight, based on Mercer\u2019s expertise. See Commonwealth v. Connolly, 454 Mass. 808, 831-832 (2009) (experienced officer as well as jurors may determine whether cocaine weighed more than four ounces).\nThere is no merit to the defendant\u2019s argument that it was error to admit Mercer\u2019s testimony about the value of high-grade and low-grade marijuana because it was irrelevant. This testimony was relevant (contrast Commonwealth v. Kozec, 399 Mass. 514, 524-526 [1987]), to demonstrate the defendant\u2019s intent to sell the marijuana rather than to possess it for personal use.\nb. Prosecutor\u2019s statements. In his opening statement the prosecutor stated, in relevant part: \u201cThis case is about a business, . . . [the defendant] sells [his] product for money, a lot of money. . . . The officers found approximately eight ounces of marijuana, a value of at least around $5,000 in cash on the street.\u201d He reiterated this point in his closing argument, stating:\n\u201cThis was a business. We heard that one person would be hard pressed to smoke an ounce of weed. There were eight ounces of weed. We heard that a person buying marijuana for their personal use buys it in small bags. There were eight large one ounce bags. Around $5,000 worth of weed if you sold it individually.\u201d\nThe remarks about the $5,000 value were not based on Mercer\u2019s evaluation of the actual street value of the marijuana in the defendant\u2019s possession. The defendant argues that the prosecutor\u2019s opening statement and closing argument were improper and the prejudicial effect on the defendant was magnified by the improper admission of Mercer\u2019s testimony. We have concluded that Mercer\u2019s testimony was properly admitted. At a retrial, should the prosecutor wish to argue the street value of the marijuana that was seized, testimony to that effect should be elicited from the expert.\nConclusion. For the reasons set forth above, we reverse the defendant\u2019s convictions, set aside the verdicts, and remand the case to the District Court, where the motion judge shall make further findings whether Sergeant Lima exhausted all reasonable efforts to find a judge before whom he would personally appear when he obtained the search warrant. The trial judge, when furnished with further findings on the motion to suppress, shall proceed consistent with this opinion.\nSo ordered.\nAlthough there was no testimony concerning this issue, we note that this Saturday fell on the weekend leading up to the Monday Dr. Martin Luther King, Jr., Day holiday.\nAs discussed infra, these particular grounds for challenging the warrant were not asserted, if at all, until the motion hearing. The defendant\u2019s written motions to suppress challenged the warrant on the grounds that Lima did not verify the identity of the informant (the defendant\u2019s mother), that there was insufficient probable cause supporting the warrant, and that officers did not adequately knock and announce their presence. He does not renew these arguments on appeal.\nThe Fourth Amendment to the United States Constitution provides: \u201c[N]o Warrants shall issue, but upon probable cause, supported by oath or affirmation . . . .\u201d\nArticle 14 of the Massachusetts Declaration of Rights requires that \u201c[a]ll warrants\u201d must be \u201cpreviously supported by oath or affirmation.\u201d\nGeneral Laws c. 276, \u00a7 1, provides that a warrant may issue \u201cupon complaint on oath.\u201d\nGeneral Laws c. 276, \u00a7 2B, requires the person seeking a warrant to \u201cappear personally before [an authorized] court or justice\u201d and give an affidavit. The statute shows the form the affidavit should take, and the form requires that a \u201cJustice or Special Justice, Clerk or Assistant Clerk of the [Court]\u201d sign the following statement: \u201cThen personally appeared the above named [the affiant] . . . and made oath that the foregoing affidavit by him subscribed is true.\u201d\nThe defendant refers to a statement by the motion judge, \u201cI suppose you could make the argument that [the warrant judge] has no authority to give oaths in New Jersey,\u201d as evidence that earlier he had raised the oath requirement issues he now asserts. The defendant has taken the statement out of context. The defendant was arguing whether one could rely on the fact the person signing the warrant was really who he claimed to be (i.e., a Massachusetts judge), an argument he does not renew on appeal. The statement on which the defendant relies was injected by the motion judge as a \u201claw school pointerQ.\u201d\nBecause of this conclusion, we do not address the defendant\u2019s argument that a warrant that is signed before an oath is given is invalid.\nWe agree with the defendant that he raised the personal appearance issue, however briefly, at the motion hearing. The motion judge was the first to mention that Lima did not personally appear before the warrant judge. We interpret counsel\u2019s subsequent question whether one could be sworn over the telephone as raising the issue whether Lima had to appear personally before the judge.\nThere is no merit to the defendant\u2019s argument, made without citation to authority, that because there was a violation of art. 14 and the statute, the exclusionary rule applies whether or not he was prejudiced.\nGeneral Laws c. 276, \u00a7 2, in pertinent part, states: \u201cSearch warrants shall designate and describe the building, house, place, vessel or vehicle to be searched and shall particularly describe the property or articles to be searched for.\u201d\nWe note that, because the documents were prepared through facsimile transmission, there is no \u201coriginal\u201d copy of the signed warrant.\nThere is no merit to the defendant\u2019s argument that he was prejudiced because he was unable to verify signatures or obtain testimony from the warrant judge. When counsel received the copies of the unsigned documents, she could have requested the originals or could have included the apparently insufficient warrant as a ground for the motion to suppress, thereby putting the Commonwealth and the motion judge on notice. Alternatively, once this issue was called to counsel\u2019s attention by the motion judge, and she questioned whether the signature was the warrant judge\u2019s, she could have requested a continuance of the hearing.\nIn any event, the motion judge did not err in concluding that the warrant judge signed the warrant. Lima testified that he contacted the State police and the judge telephoned him thereafter. It would be incredible that a complete stranger who was in New Jersey would have telephoned Lima at that particular time, identified himself using the correct name of a judge of the Massachusetts Superior Court, and then would have gone to a New Jersey police station to continue a ruse. Moreover, the individual also had to have the knowledge that the warrant needed to be witnessed properly and that the jurat needed modification to reflect that Lima did not personally appear.\nThe defendant also claims that he was prejudiced because Lima never testified that he had had a copy of the warrant with him when the search was executed. We place no emphasis on this argument, as the defendant did not raise it below where such testimony could have been elicited.\nThe certificate stated: \u201c[This material] has been examined with the following results: The vegetable matter was found to contain marijuana, as defined in Chapter 94C, Controlled Substance Act, Section 31, Class D.\u201d\nMercer\u2019s exchange with the prosecutor was as follows:\nThe prosecutor: \u201cDetective, you previously testified that you observed the marijuana that was seized \u2014\u201d\nThe witness: \u201cYes.\u201d\nThe prosecutor: \u201c\u2014 by Sergeant Lima in this case. Can you describe how these drugs were packaged?\u201d\nThe witness: \u201cI did not weigh them myself, but they appeared to be eight individual [one] ounce packages.\u201d\nWe need not recite Mercer\u2019s education and experience, because that is not what the defendant challenged.\nFor these reasons, the defendant\u2019s claim that the judge did not independently validate the bases of Mercer\u2019s expertise, apart from the Commonwealth\u2019s presentation of it through Mercer\u2019s testimony, also has no merit. See Commonwealth v. Cantres, 405 Mass. 238, 246 (1989) (allowing testimony implies prior determination of witness\u2019s expertise).",
+        "type": "majority",
+        "author": "Ireland, C.J."
+      }
+    ],
+    "attorneys": [
+      "Kathryn Hayne Barnwell for the defendant.",
+      "Shirley Xiao Li Cantin, Special Assistant District Attorney (Bethany Stevens, Assistant District Attorney, with her) for the Commonwealth."
+    ],
+    "corrections": "",
+    "head_matter": "Commonwealth vs. Joseph Nelson.\nMiddlesex.\nMay 5, 2011.\n- September 15, 2011.\nPresent: Ireland, C.J., Spina, Cordy, Botsford, Gants, & Duffly, JJ.\nPractice, Criminal, Motion to suppress, Harmless error, Confrontation of witnesses, Discovery. Search and Seizure, Warrant, Probable cause. Constitutional Law, Search and seizure, Harmless error, Confrontation of witnesses. Probable Cause. Controlled Substances. Error, Harmless. Evidence, Certificate of drug analysis, Expert opinion, Relevancy and materiality.\nThe denial by a Superior Court judge (motion judge) of a criminal defendant\u2019s motion to suppress drugs and drug paraphernalia discovered during a search conducted pursuant to a search warrant that was issued by a judge (warrant judge) through telephone communication with the police officer affiant and with documents exchanged by facsimile transmission, required remand, where, although the record supported the motion judge\u2019s finding that the officer gave a proper oath over the telephone before the issuance of the warrant [568-570]; and although the exclusionary rule did not apply, given that the defendant suffered no prejudice due to the issuance of the warrant without the officer appearing personally before the warrant judge, in violation of G. L. c. 276, \u00a7 2B, and art. 14 of the Massachusetts Declaration of Rights [570-573], further findings were required concerning whether the officer exhausted all reasonable efforts to find a judge before whom he could personally appear [573].\nStatement that in the rare case where a police officer must rely on communication by telephone and facsimile transmission to obtain an otherwise valid search warrant, the allowance of a motion to suppress evidence requires an express finding that the officer exhausted all reasonable efforts to find a judge before whom he could personally appear. [573]\nAt a criminal trial, the erroneous admission of certificates of drug analysis of two kinds of pills without accompanying testimony by the analysts who created them could not be said to have been harmless beyond a reasonable doubt. [573-575]\nAt a criminal trial, the erroneous admission of a certificate of drug analysis identifying vegetable matter as marijuana, without accompanying testimony by the analyst who created it, could not be said to have been harmless beyond a reasonable doubt, where neither police officer who testified (the officer who seized the material and an expert witness) was asked to identify the material as marijuana based on his training and experience. [575-577] At a criminal trial, there was no error in the denial of the defendant\u2019s motion to conduct voir dire of a police officer who was expected to testify as an expert witness, where the officer\u2019s opinion evidence was of a type that has been routinely admitted in drug cases, and where the judge instructed the jury that they need not credit expert testimony [577-578]; further, there was no merit to the defendant\u2019s argument that he was not provided with mandatory discovery, his suggestion that he was prevented from examining documents in the Commonwealth\u2019s possession, or his claims of error regarding certain aspects of the officer\u2019s actual testimony [578-580],\nDiscussion of issues likely to arise at retrial concerning a prosecutor\u2019s opening and closing statements. [580-581]\nComplaint received and sworn to in the Concord Division of the District Court Department on March 14, 2008.\nA pretrial motion to suppress evidence was heard by Stephen S. Ostrach, J., and the case was tried before David W Cunis, J.\nThe Supreme Judicial Court granted an application for direct appellate review.\nKathryn Hayne Barnwell for the defendant.\nShirley Xiao Li Cantin, Special Assistant District Attorney (Bethany Stevens, Assistant District Attorney, with her) for the Commonwealth."
+  },
+  "file_name": "0564-01",
+  "first_page_order": 590,
+  "last_page_order": 607
+}

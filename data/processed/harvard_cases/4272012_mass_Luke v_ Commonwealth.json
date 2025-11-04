@@ -1,0 +1,149 @@
+{
+  "id": 4272012,
+  "name": "Keith Luke vs. Commonwealth",
+  "name_abbreviation": "Luke v. Commonwealth",
+  "decision_date": "2011-06-23",
+  "docket_number": "",
+  "first_page": "1002",
+  "last_page": "1003",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "460 Mass. 1002"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Mass.",
+    "id": 8825,
+    "name": "Massachusetts Supreme Judicial Court"
+  },
+  "jurisdiction": {
+    "id": 4,
+    "name_long": "Massachusetts",
+    "name": "Mass."
+  },
+  "cites_to": [
+    {
+      "cite": "437 Mass. 1008",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "case_ids": [
+        734988,
+        734975
+      ],
+      "year": 2002,
+      "pin_cites": [
+        {
+          "page": "1009"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mass/437/1008-02",
+        "/mass/437/1008-01"
+      ]
+    },
+    {
+      "cite": "453 Mass. 1014",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "case_ids": [
+        3657951
+      ],
+      "year": 2009,
+      "pin_cites": [
+        {
+          "page": "1015"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mass/453/1014-01"
+      ]
+    },
+    {
+      "cite": "408 Mass. 419",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "case_ids": [
+        3889987
+      ],
+      "year": 1990,
+      "pin_cites": [
+        {
+          "page": "429-432",
+          "parenthetical": "reviewing, after conviction, denial of motion to disqualify district attorney's office"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mass/408/0419-01"
+      ]
+    },
+    {
+      "cite": "455 Mass. 1008",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "case_ids": [
+        3666031
+      ],
+      "year": 2009,
+      "pin_cites": [
+        {
+          "page": "1008"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mass/455/1008-01"
+      ]
+    },
+    {
+      "cite": "434 Mass. 1301",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "year": 2001,
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 202,
+    "char_count": 2455,
+    "ocr_confidence": 0.917,
+    "pagerank": {
+      "raw": 6.770845263994211e-08,
+      "percentile": 0.4128806351258317
+    },
+    "sha256": "5c468d3dc901a7f6d07c5a8a3332a3565a9ab148785f29ce890e12342d48eb19",
+    "simhash": "1:1d40f49a103f9fb7",
+    "word_count": 415
+  },
+  "last_updated": "2024-02-27T17:56:26.592595+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Keith Luke vs. Commonwealth."
+    ],
+    "opinions": [
+      {
+        "text": "Keith Luke appeals from a judgment of a single justice of this court denying his petition for relief under G. L. c. 211, \u00a7 3. Luke, indicted on charges of murder in the first degree and other offenses, challenges two interlocutory rulings in the Superior Court: the denial of his motion to dismiss the indictments, and the denial, by a second judge, of his motion to disqualify the district attorney for the Plymouth district from prosecuting him. We affirm the judgment of the single justice.\nThe case is before us on Luke\u2019s memorandum and appendix pursuant to S.J.C. Rule 2:21, as amended, 434 Mass. 1301 (2001), which requires him to \u201cset forth the reasons why review of the trial court decision cannot adequately be obtained on appeal from any final adverse judgment in the trial court or by other available means.\u201d \u201cAt this juncture, our focus is not on the merits of any ruling made by [a Superior] Court judge, but on the availability of other remedies.\u201d Muckle v. Commonwealth, 455 Mass. 1008, 1008 (2009). Luke has not carried his burden under the rule. His memorandum argues primarily that he is entitled to relief on the merits (as to which we express no view) and does not address any alternative remedies. The single justice expressly identified other available remedies, which Luke has failed to address. Rulings such as those at issue here are routinely reviewed on appeal from conviction of a crime. See, e.g., Commonwealth v. Colon, 408 Mass. 419, 429-432 (1990) (reviewing, after conviction, denial of motion to disqualify district attorney\u2019s office). With a limited exception not applicable here, \u201c[t]he denial of a motion to dismiss in a criminal case is not appealable until after trial, and we have indicated many times that G. L. c. 211, \u00a7 3, may not be used to circumvent that rule. Unless a single justice decides the matter on the merits or reserves and reports it to the full court, neither of which occurred here, a defendant cannot receive review under G. L. c. 211, \u00a7 3, from the denial of his motion to dismiss.\u201d Fitzpatrick v. Commonwealth, 453 Mass. 1014, 1015 (2009), quoting Jackson v. Commonwealth, 437 Mass. 1008, 1009 (2002). The single justice properly denied relief.\nThe case was submitted on the papers filed, accompanied by a memorandum of law.\nJoseph F. Krowski, Jr., for the petitioner.\nJudgment affirmed.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "The case was submitted on the papers filed, accompanied by a memorandum of law.",
+      "Joseph F. Krowski, Jr., for the petitioner."
+    ],
+    "corrections": "",
+    "head_matter": "Keith Luke vs. Commonwealth.\nJune 23, 2011.\nSupreme Judicial Court, Appeal from order of single justice."
+  },
+  "file_name": "1002-01",
+  "first_page_order": 892,
+  "last_page_order": 893
+}

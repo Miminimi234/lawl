@@ -1,0 +1,51 @@
+{
+  "id": 3556204,
+  "name": "Andrew PENMAN, Appellant, v. PENNSYLVANIA BOARD OF PROBATION PAROLE, Appellee",
+  "name_abbreviation": "Penman v. Pennsylvania Board of Probation Parole",
+  "decision_date": "2007-06-20",
+  "docket_number": "Appeal No. 4 WAP 2007",
+  "first_page": "606",
+  "last_page": "606",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "592 Pa. 606"
+    },
+    {
+      "type": "parallel",
+      "cite": "927 A.2d 198"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 38,
+    "char_count": 261,
+    "ocr_confidence": 0.709,
+    "pagerank": {
+      "raw": 4.688403287882615e-08,
+      "percentile": 0.09900436903157443
+    },
+    "sha256": "2d4cd602e4a55817091be6c996e9a95b687ce68c7901304beb299231c40ff9e0",
+    "simhash": "1:11f6aa3a938dac03",
+    "word_count": 43
+  },
+  "last_updated": "2023-07-14T20:20:44.535844+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "file_name": "0606-01",
+  "first_page_order": 658,
+  "last_page_order": 658
+}

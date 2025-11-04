@@ -1,0 +1,86 @@
+{
+  "id": 4271511,
+  "name": "William Statkiewicz vs. Domenic Zermani",
+  "name_abbreviation": "Statkiewicz v. Zermani",
+  "decision_date": "2011-11-09",
+  "docket_number": "",
+  "first_page": "1018",
+  "last_page": "1018",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "460 Mass. 1018"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Mass.",
+    "id": 8825,
+    "name": "Massachusetts Supreme Judicial Court"
+  },
+  "jurisdiction": {
+    "id": 4,
+    "name_long": "Massachusetts",
+    "name": "Mass."
+  },
+  "cites_to": [
+    {
+      "cite": "30 Mass. App. Ct. 968",
+      "category": "reporters:state",
+      "reporter": "Mass. App. Ct.",
+      "case_ids": [
+        1418755
+      ],
+      "year": 1991,
+      "pin_cites": [
+        {
+          "page": "970"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mass-app-ct/30/0968-01"
+      ]
+    },
+    {
+      "cite": "428 Mass. 1013",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "case_ids": [
+        651216,
+        651179
+      ],
+      "year": 1998,
+      "pin_cites": [
+        {
+          "page": "1013"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mass/428/1013-01",
+        "/mass/428/1013-02"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 116,
+    "char_count": 1178,
+    "ocr_confidence": 0.927,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.14319869614019967
+    },
+    "sha256": "cf896d35ecf47bfca05233c871ebc3a06dbf669bf04aa9619830589ae118244b",
+    "simhash": "1:3d6dff7770136de5",
+    "word_count": 199
+  },
+  "last_updated": "2024-02-27T17:56:26.592595+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "file_name": "1018-01",
+  "first_page_order": 908,
+  "last_page_order": 908
+}

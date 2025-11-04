@@ -1,0 +1,813 @@
+{
+  "id": 12275207,
+  "name": "Rashad B. SWANIGAN, Plaintiff-Appellant. v. CITY OF CHICAGO, Defendant-Appellee",
+  "name_abbreviation": "Swanigan v. City of Chicago",
+  "decision_date": "2018-02-02",
+  "docket_number": "No. 16-1568",
+  "first_page": "577",
+  "last_page": "587",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "881 F.3d 577"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "7th Cir.",
+    "id": 9010,
+    "name": "United States Court of Appeals for the Seventh Circuit"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "134 S.Ct. 2334",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        12581581
+      ],
+      "weight": 2,
+      "year": 2014,
+      "pin_cites": [
+        {
+          "page": "2341",
+          "parenthetical": "quoting Clapper v. Amnesty Int'l USA, 568 U.S. 398, 414 n.5, 133 S.Ct. 1138, 185 L.Ed.2d 264 (2013)"
+        },
+        {
+          "parenthetical": "quoting Clapper v. Amnesty Int'l USA, 568 U.S. 398, 414 n.5, 133 S.Ct. 1138, 185 L.Ed.2d 264 (2013)"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/s-ct/134/2334-01"
+      ]
+    },
+    {
+      "cite": "886 F.2d 848",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        10535179
+      ],
+      "year": 1989,
+      "pin_cites": [
+        {
+          "parenthetical": "holding that claims for declaratory relief, like claims for injunctive relief, require ongoing or impending harm"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/886/0848-01"
+      ]
+    },
+    {
+      "cite": "128 F.3d 1074",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        978037
+      ],
+      "year": 1997,
+      "pin_cites": [
+        {
+          "page": "1082",
+          "parenthetical": "quotation marks omitted"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/128/1074-01"
+      ]
+    },
+    {
+      "cite": "424 U.S. 693",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        12027375
+      ],
+      "weight": 3,
+      "year": 1976,
+      "pin_cites": [
+        {
+          "page": "712"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/424/0693-01"
+      ]
+    },
+    {
+      "cite": "872 F.2d 190",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        10527473
+      ],
+      "year": 1989,
+      "pin_cites": [
+        {
+          "page": "194"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/872/0190-01"
+      ]
+    },
+    {
+      "cite": "550 U.S. 372",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        3555943
+      ],
+      "weight": 3,
+      "year": 2007,
+      "pin_cites": [
+        {
+          "page": "381",
+          "parenthetical": "quotation marks omitted"
+        },
+        {
+          "parenthetical": "quotation marks omitted"
+        },
+        {
+          "parenthetical": "quotation marks omitted"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/550/0372-01"
+      ]
+    },
+    {
+      "cite": "818 F.2d 646",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1716623
+      ],
+      "year": 1987,
+      "pin_cites": [
+        {
+          "page": "649"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/818/0646-01"
+      ]
+    },
+    {
+      "cite": "432 U.S. 98",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6177400
+      ],
+      "weight": 3,
+      "year": 1977,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/432/0098-01"
+      ]
+    },
+    {
+      "cite": "565 U.S, 228",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        12186177,
+        12445445
+      ],
+      "weight": 3,
+      "year": 2012,
+      "pin_cites": [
+        {
+          "page": "238-40",
+          "parenthetical": "synthesizing cases"
+        },
+        {
+          "parenthetical": "synthesizing cases"
+        },
+        {
+          "parenthetical": "synthesizing cases"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/565/0228-01",
+        "/l-ed-2d/181/0694-01"
+      ]
+    },
+    {
+      "cite": "433 F.3d 550",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        881098
+      ],
+      "year": 2006,
+      "pin_cites": [
+        {
+          "page": "555"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/433/0550-01"
+      ]
+    },
+    {
+      "cite": "461 U.S. 95",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11298204
+      ],
+      "weight": 3,
+      "year": 1983,
+      "pin_cites": [
+        {
+          "page": "111"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/461/0095-01"
+      ]
+    },
+    {
+      "cite": "414 U.S, 488",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11716177
+      ],
+      "weight": 3,
+      "year": 1974,
+      "pin_cites": [
+        {
+          "page": "497"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/414/0488-01"
+      ]
+    },
+    {
+      "cite": "851 F.3d 734",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        12277568
+      ],
+      "year": 2017,
+      "pin_cites": [
+        {
+          "page": "738",
+          "parenthetical": "quotation marks omitted"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/851/0734-01"
+      ]
+    },
+    {
+      "cite": "568 U.S. 398",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        12407550
+      ],
+      "weight": 3,
+      "year": 2013,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/568/0398-01"
+      ]
+    },
+    {
+      "cite": "504 U.S. 555",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11730070
+      ],
+      "weight": 3,
+      "year": 1992,
+      "pin_cites": [
+        {
+          "page": "560"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/504/0555-01"
+      ]
+    },
+    {
+      "cite": "849 F.3d 372",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        12277402
+      ],
+      "year": 2017,
+      "pin_cites": [
+        {
+          "page": "379"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/849/0372-01"
+      ]
+    },
+    {
+      "cite": "836 F.2d 271",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        10543277
+      ],
+      "year": 1987,
+      "pin_cites": [
+        {
+          "page": "281",
+          "parenthetical": "\"[Ojnce the plaintiff has been fully compensated for his injuries by one or more of the tortfeasors, he may not thereafter recover any additional compensation from any of the remaining .tortfeasors.\""
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/836/0271-01"
+      ]
+    },
+    {
+      "cite": "604 F.3d 293",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        6054108
+      ],
+      "year": 2010,
+      "pin_cites": [
+        {
+          "page": "305",
+          "parenthetical": "observing that a municipality cannot be found liable under Monell when \"such a finding would create an inconsistent verdict\""
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/604/0293-01"
+      ]
+    },
+    {
+      "cite": "475 U.S. 796",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6209107
+      ],
+      "weight": 3,
+      "year": 1986,
+      "pin_cites": [
+        {
+          "page": "799"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/475/0796-01"
+      ]
+    },
+    {
+      "cite": "832 F.3d 770",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        4350937
+      ],
+      "year": 2016,
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/832/0770-01"
+      ]
+    },
+    {
+      "cite": "436 U.S. 658",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        1490618
+      ],
+      "weight": 3,
+      "year": 1978,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/436/0658-01"
+      ]
+    },
+    {
+      "cite": "550 U.S. 544",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        3556136
+      ],
+      "weight": 3,
+      "year": 2007,
+      "pin_cites": [
+        {
+          "page": "570"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/550/0544-01"
+      ]
+    },
+    {
+      "cite": "843 F.3d 285",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        12172103
+      ],
+      "year": 2016,
+      "pin_cites": [
+        {
+          "page": "289"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/843/0285-01"
+      ]
+    },
+    {
+      "cite": "849 F.3d 342",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        12277380
+      ],
+      "year": 2017,
+      "pin_cites": [
+        {
+          "page": "345"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/849/0342-01"
+      ]
+    },
+    {
+      "cite": "500 U.S. 44",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6216695
+      ],
+      "weight": 6,
+      "year": 1991,
+      "pin_cites": [
+        {
+          "parenthetical": "holding that a detention lasting longer than 48 hours without a judicial determination of probable cause is presumptively unreasonable under the Fourth Amendment"
+        },
+        {
+          "parenthetical": "holding that a detention lasting longer than 48 hours without a judicial determination of probable cause is presumptively unreasonable under the Fourth Amendment"
+        },
+        {
+          "parenthetical": "holding that a detention lasting longer than 48 hours without a judicial determination of probable cause is presumptively unreasonable under the Fourth Amendment"
+        },
+        {
+          "page": "56"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/500/0044-01"
+      ]
+    },
+    {
+      "cite": "775 F.3d 953",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        4340381
+      ],
+      "year": 2015,
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/775/0953-01"
+      ]
+    },
+    {
+      "cite": "42 U.S.C. \u00a7 1983",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "weight": 2,
+      "opinion_index": 0
+    },
+    {
+      "cite": "134 S.Ct. 2334",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        12581581
+      ],
+      "weight": 2,
+      "year": 2014,
+      "pin_cites": [
+        {
+          "page": "2341",
+          "parenthetical": "\"allegation of future injury may suffice if the threatened injury is 'certainly impending,' or there is a '\"substantial risk\" the harm will occur' \"."
+        },
+        {
+          "parenthetical": "\"allegation of future injury may suffice if the threatened injury is 'certainly impending,' or there is a '\"substantial risk\" the harm will occur' \"."
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/s-ct/134/2334-01"
+      ]
+    },
+    {
+      "cite": "574 F.3d 361",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        3675181
+      ],
+      "year": 2009,
+      "pin_cites": [
+        {
+          "page": "365-66",
+          "parenthetical": "police acted reasonably in tackling man they mistakenly believed was armed and dangerous felon who had announced his intention to flee or fight rather than be arrested"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/f3d/574/0361-01"
+      ]
+    },
+    {
+      "cite": "555 U.S. 135",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        3679252
+      ],
+      "weight": 6,
+      "year": 2009,
+      "pin_cites": [
+        {
+          "page": "146",
+          "parenthetical": "exclusionary rule not applicable to arrest based on mistaken information about active warrant"
+        },
+        {
+          "parenthetical": "exclusionary rule not applicable to arrest based on mistaken information about active warrant"
+        },
+        {
+          "parenthetical": "exclusionary rule not applicable to arrest based on mistaken information about active warrant"
+        },
+        {
+          "page": "146"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/us/555/0135-01"
+      ]
+    },
+    {
+      "cite": "447 F.3d 1008",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        5383449
+      ],
+      "year": 2006,
+      "pin_cites": [
+        {
+          "page": "1011-12",
+          "parenthetical": "use of deadly force was reasonable based in -part on officer's knowledge of suspect's history of.violence and weapons"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/f3d/447/1008-01"
+      ]
+    },
+    {
+      "cite": "480 U.S. 421",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        1131295
+      ],
+      "weight": 3,
+      "year": 1987,
+      "pin_cites": [
+        {
+          "page": "431",
+          "parenthetical": "applicant for asylum facing ten percent chance of persecution in country of origin would have \"well-founded fear of being persecuted\" for purposes of immigration law"
+        },
+        {
+          "parenthetical": "applicant for asylum facing ten percent chance of persecution in country of origin would have \"well-founded fear of being persecuted\" for purposes of immigration law"
+        },
+        {
+          "parenthetical": "applicant for asylum facing ten percent chance of persecution in country of origin would have \"well-founded fear of being persecuted\" for purposes of immigration law"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/us/480/0421-01"
+      ]
+    },
+    {
+      "cite": "999 F.2d 284",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        11954496
+      ],
+      "year": 1993,
+      "pin_cites": [
+        {
+          "page": "288-89",
+          "parenthetical": "affirming finding that prolonged post-arrest detention for investigation, before Robinson was decided, violated Fourth Amendment"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/f2d/999/0284-01"
+      ]
+    },
+    {
+      "cite": "464 F.3d 711",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        3728845
+      ],
+      "year": 2006,
+      "pin_cites": [
+        {
+          "page": "721-22",
+          "parenthetical": "reversing dismissal of claim for prolonged post-arrest detention for investigation"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/f3d/464/0711-01"
+      ]
+    },
+    {
+      "cite": "868 F.2d 969",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        10532247
+      ],
+      "year": 1989,
+      "pin_cites": [
+        {
+          "page": "962"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/f2d/868/0969-01"
+      ]
+    },
+    {
+      "cite": "424 U.S. 693",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        12027375
+      ],
+      "weight": 3,
+      "year": 1976,
+      "pin_cites": [
+        {
+          "page": "697"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/us/424/0693-01"
+      ]
+    },
+    {
+      "cite": "461 U.S. 95",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11298204
+      ],
+      "weight": 3,
+      "year": 1983,
+      "pin_cites": [
+        {
+          "page": "105"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/us/461/0095-01"
+      ]
+    },
+    {
+      "cite": "568 U.S. 398",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        12407550
+      ],
+      "weight": 7,
+      "year": 2013,
+      "opinion_index": 1,
+      "case_paths": [
+        "/us/568/0398-01"
+      ]
+    },
+    {
+      "cite": "500 U.S. 44",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6216695
+      ],
+      "weight": 3,
+      "year": 1991,
+      "pin_cites": [
+        {
+          "page": "56"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/us/500/0044-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 1328,
+    "char_count": 25969,
+    "ocr_confidence": 0.586,
+    "pagerank": {
+      "raw": 7.083420942932948e-08,
+      "percentile": 0.42622156735778804
+    },
+    "sha256": "da7e2d200351dc2e418a5ec1c12714119af4af9583b0fc4c599843a653636d5e",
+    "simhash": "1:d071b212eb59132b",
+    "word_count": 4181
+  },
+  "last_updated": "2024-02-27T17:59:44.301675+00:00",
+  "provenance": {
+    "date_added": "2018-10-23",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before Kanne, Sykes, and Hamilton, Circuit Judges."
+    ],
+    "parties": [
+      "Rashad B. SWANIGAN, Plaintiff-Appellant. v. CITY OF CHICAGO, Defendant-Appellee."
+    ],
+    "opinions": [
+      {
+        "text": "Sykes, Circuit Judge.\nWhile on the lookout for a serial bank robber, Chicago police officers misidentified Rashad Swanigan as the perpetrator, arrested him, and detained him for approximately 51 hours without a probable-cause hearing. He was released when the state prosecutor decided not to press charges, and police later found the true culprit.\nSwanigan sued the officers involved in his arrest and detention under 42 U.S.C. \u00a7 1983 alleging various constitutional violations. He later filed a related suit against the City raising Monell claims. The suits were consolidated but maintained separate case numbers and dockets, and the district judge stayed the Monell suit to allow the suit against the officers to proceed on its own. A jury found for Swanigan on a single claim\u2014for unconstitutionally prolonging his detention\u2014and awarded $60,000 in damages. Swanigan then moved to lift the stay on his suit against the City. The judge denied the motion and dismissed the suit entirely, ruling that Swanigan waived most of his claims and that the others were not justiciable. We vacated the dismissal order as premature and remanded with instructions to allow Swanigan to amend his complaint. Swanigan v. City of Chicago, 775 F.3d 953 (7th Cir. 2015).\nWith the stay lifted, Swanigan filed an amended complaint alleging constitutional injuries stemming from three police-department policies: (1) a \u201chold\u201d policy by which the officers kept him in custody; (2) a policy of requiring detainees to participate in police lineups; and (3) a policy regarding the contents of the closed case file that continued to label him as the bank robber. The judge dismissed the Monell suit in its entirety.\nWe affirm. Swanigan cannot recover twice for the prolonged detention, and his other claims have no basis in federal law. The Constitution has nothing to say about unreliable police lineups that don\u2019t taint a trial. Neither does the Constitution address reputational harm from false or misleading police reports. And Swanigan lacks standing to pursue injunctive or declaratory relief because the challenged policies are unlikely to harm him in the future.\nI. Background\nOur earlier opinion contains a more complete description of the facts and procedural history of the case; the following is a condensed version. After cashing checks at a Chicago bank in August 2006, Swanigan was stopped by two Chicago police officers looking for the \u201cHard Hat Bandit,\u201d who was known to rob banks while wearing a yellow hard hat. After learning that Swani-gan\u2019s automobile registration was suspended, the officers searched the car and found a knife\u2014and a yellow hard hat. (Swanigan kept the knife in his car to peel produce, and the hard hat was required for his job as a construction worker.) Thinking Swani-gan was the Hard Hat Bandit, the officers arrested him for traffic violations and unlawful use of a weapon and took him to the police station.\nThree hours into the detention, officers placed a \u201chold\u201d on Swanigan in order to keep him at the station while detectives investigated him for a robbery linked to the Hard Hat Bandit. While in custody the police used Swanigan as a filler in lineups for other investigations and as the target in lineups investigating the Hard Hat Bandit robbery. Several witnesses identified Swanigan as the robber.\nOn the second full day after Swanigan\u2019s arrest, a state prosecutor assessed the case. She decided not to charge Swanigan for the robbery after concluding that the identifications were suspect. After 51 hours of detention without a probable-cause hearing, Swanigan was released.\nA month later police entered a final notation into Swanigan\u2019s case file: \u201cCleared\u2014closed other exceptional.\u201d Swanigan contends that because the police department assigns the cleared-closed notation to the offender\u2019s file after solving a crime, the designation labels him as the Hard Hat Bandit. Although \u201cother exceptional\u201d conveys that he wasn\u2019t prosecuted, the file\u2019s narrative account lists the reasons that the police initially thought he was the perpetrator. And no change was made to Swanigan\u2019s file after the police arrested the real Hard Hat Bandit. Swani-gan contends that the case file continues to cast suspicion on him as the Hard Hat Bandit, giving rise to possible reputational harm and police bias against him.\nSwanigan\u2019s first lawsuit named 20 officers and the City as defendants and alleged nine separate constitutional and state-law claims. Late in the litigation Swanigan tried to add a Monell claim against the City, but the judge wouldn\u2019t allow the amendment. So he filed a new freestanding Monell action against the City, which was promptly consolidated with the first suit and stayed pending the disposition of the claims against the officers. Partial summary judgment narrowed the scope of the litigation, and a jury eventually found that the officers had probable cause to arrest Swanigan at the bank but that they unconstitutionally prolonged his detention. See County of Riverside v. McLaughlin, 500 U.S. 44, 111 S.Ct. 1661, 114 L.Ed.2d 49 (1991) (holding that a detention lasting longer than 48 hours without a judicial determination of probable cause is presumptively unreasonable under the Fourth Amendment). In the end, seven officers were held liable for the unduly long detention. The jury awarded $60,000 in compensatory damages.\nIn the related Monell suit against the City, Swanigan alleged constitutional injuries arising from nine separate policies. After our remand, Swanigan trimmed his complaint in light of the jury\u2019s verdict. The amended version centered on the police department\u2019s hold policy, its lineup policy, and its policy regarding cleared-closed case reports. The City moved to dismiss under Rules 12(b)(1) and 12(b)(6), of the Federal Rules of Civil Procedure. The judge granted the motion, and the case now returns to us for further review.\n. II. Discussion\nWe review the judge\u2019s dismissal order de novo. Roake v. Forest Pres. Dist. of Cook Cty., 849 F.3d 342, 345 (7th Cir. 2017). Questions of standing are appropriately addressed via a motion, to dismiss under Rule 12(b)(1) for lack of subject-matter jurisdiction. Berger v. NCAA, 843 F.3d 285, 289 (7th Cir. 2016). A case is properly dismissed under Rule 12(b)(6) if the complaint does not \u201cstate' a claim to relief that is plausible on its face.\u201d Bell Atl. Corp. v. Twombly, 550 U.S. 544, 570, 127 S.Ct. 1955, 167 L.Ed.2d 929 (2007).\nSection 1983 provides a claim against a person acting under color of law who deprives another of a federal right. 42 U.S.C. \u00a7 1983. A municipality is subject to \u00a7 1983 liability if one of its policies caused the plaintiffs harm. Monell v. Dep\u2019t of Soc. Servs. of New York, 436 U.S. 658, 98 S.Ct. 2018, 56 L.Ed.2d 611 (1978).\nA. Hold Policy\nFederal common law prevents \u00a7 1983 plaintiffs from recovering twice for the same injury. Janusz v. City of Chicago, 832 F.3d 770, 774 & n.1 (7th Cir. 2016). That means Swanigan cannot recover from the City for the prolonged detention because he was compensated for that constitutional violation in his suit against the officers.\n\u25a0 Attempting to evade the double-recovery rule, Swanigan contends that his detention occurred in three distinct stages: (1) the arrest; (2) the three hours at the police- station before the hold was issued; and (3) the two'days at the station after the hold was-placed. Because the seven officers found liable for the detention each arrived during the third stage, Swanigan argues that he hasn\u2019t been compensated for the arrest and first three hours.\nThat argument falls flat. First, a jury found that the officers lawfully arrested Swanigan, and the City can\u2019t be liable \u201cbased on the actions of one of its officers when in fact the jury has concluded that the officer inflicted no constitutional harm.\u201d City of Los Angeles v. Heller, 475 U.S. 796, 799, 106 S.Ct. 1571, 89 L.Ed.2d 806 (1986); see also Thomas v. Cook Cty. Sheriff\u2019s Dep\u2019t, 604 F.3d 293, 305 (7th Cir. 2010) (observing that a municipality cannot be found liable under Monell when \u201csuch a finding would create an inconsistent verdict\u201d) (emphasis omitted).\nThe City isn\u2019t liable for the first three hours at the station either. Swanigan cannot carve out particular hours from his detention as separately compensable. He faced a single detention, not multiple detentions, and he\u2019s entitled to only one recovery though different constitutional theories support liability and different officers were involved. See Bosco v. Serhant, 836 F.2d 271, 281 (7th Cir. 1987) (\u201c[Ojnce the plaintiff has been fully compensated for his injuries by one or more of the tortfeasors, he may not thereafter recover any additional compensation from any of the remaining .tortfeasors.\u201d) (quotation marks omitted).\nMoreover, even if Swanigan could split the detention into separate segments, he\u2019d still encounter two problems. First, nothing suggests that the City\u2019s hold policy caused the prehold detention. That\u2019s fatal: In a Monell case, \u201c[t]he central question is always whether an official policy ... caused the constitutional deprivation.\u201d Glisson v. Ind. Dep\u2019t of Corr., 849 F.3d 372, 379 (7th Cir. 2017). Second, McLaughlin establishes that detentions lasting less than 48 hours are presumptively lawful and cannot be challenged on the basis of the timespan alone. 500 U.S. at 56, 111 S.Ct. 1661. Some additional factor, like animus toward the detainee, must be present to rebut the presumption. Id. No additional factor is present here, so even if we considered the first three hours in isolation, the claim is doomed.\nThat rules out monetary relief, but Swanigan also seeks an injunction against the hold policy. That request additionally fails for lack of standing, which is \u201can essential and unchanging' part of the case-or-controversy requirement of Article III.\u201d Lujan v. Defenders of Wildlife, 504 U.S. 555, 560, 112 S.Ct. 2130, 119 L.Ed.2d 351 (1992); see U.S. CONST, art. III, \u00a7 2, cl. 1. Because an injunction is a forward-looking remedy, a plaintiff seeking this form of relief has standing to sue for an alleged future injury only if \u201cthe threatened injury is \u2018certainly impending,\u2019 or there is a \u2018substantial risk\u2019 that the harm will occur.\u201d Susan B. Anthony List v. Driehaus, \u2014 U.S. \u2014, 134 S.Ct. 2334, 2341, 189 L.Ed.2d 246 (2014) (quoting Clapper v. Amnesty Int\u2019l USA, 568 U.S. 398, 414 n.5, 133 S.Ct. 1138, 185 L.Ed.2d 264 (2013)) (internal quotation marks omitted). \u201c[P]ast injury alone is insufficient,\u201d as is a threat of injury that is \u201cmerely conjectural or hypothetical.\u201d Simic v. City of Chicago, 851 F.3d 734, 738 (7th Cir. 2017) (quotation marks omitted).\nThe injury Swanigan forecasts\u2014 he says he might be pulled over, arrested, and again subjected to an unconstitutionally long detention\u2014is layered with hypothetical and nowhere near certain. That\u2019s particularly true because we assume that Swanigan will conform his conduct to the requirements of the law and avoid arrest altogether. See O\u2019Shea v. Littleton, 414 U.S, 488, 497, 94 S.Ct. 669, 38 L.Ed.2d 674 (1974). Without a showing of \u201ca sufficient likelihood that he will again be, wronged in a similar way, [Swanigan] is no more entitled to an injunction than any other citizen.\u201d City of Los Angeles v. Lyons, 461 U.S. 95, 111, 103 S.Ct. 1660, 75 L.Ed.2d 675 (1983).\nB. Lineup Policy\nDuring \u2019 his detention, Swanigan was placed in several lineups, and four eyewitnesses misidentified him as the' Hard Hat Bandit. His claim for damages against the City rests on the Due Process Clause of the Fourteenth Amendment. He alleges that the lineups were conducted improperly and led to unreliable identifications.\nThis argument goes nowhere because the mistaken identifications were never admitted in a trial. \u201c[T]he constitutional interest implicated in challenges to police identification procedures is eviden-tiary in nature.\u201d Alexander v. City of South Bend, 433 F.3d 550, 555 (7th Cir. 2006). Specifically, .the due-process right to a fair trial requires exclusion of unreliable eyewitness identifications procured through police misconduct. Perry v. New Hampshire, 565 U.S, 228, 238-40, 132 S.Ct. 716, 181 L.Ed.2d 694 (2012) (synthesizing cases). But a misidentification \u201cdoes not in itself intrude upon a constitutionally protected interest.\u201d Manson v. Brathwaite, 432 U.S. 98, 113 n.13, 97 S.Ct. 2243, 53 L.Ed.2d 140 (1977). In this case Swani-gan \u201ccould not possibly have been deprived of his right to a fair trial since he was never tried.\u201d Hensley v. Carey, 818 F.2d 646, 649 (7th Cir. 1987).\nTrying a different route, Swan-igan inventively describes his coerced participation in lineups as an unconstitutional \u201cseizure within a seizure.\u201d There\u2019s no such thing. A Fourth Amendment seizure occurs \u201cwhen there is a governmental termination of freedom of movement through means intentionally applied.\u201d Scott v. Harris, 550 U.S. 372, 381, 127 S.Ct. 1769, 167 L.Ed.2d 686 (2007) (quotation marks omitted). Being placed in a lineup while in custody \u201cdoes not curtail a person\u2019s freedom of action\u201d because he has \u201calready lost that freedom.\u201d Wilkins v. May, 872 F.2d 190, 194 (7th Cir. 1989). Suspects are given any number of compulsory instructions while seized, and Swanigan\u2019s logic would turn each command into a new seizure. That\u2019s plainly wrong. A person can\u2019t be seized while seized any more than he can jump while jumping. He\u2019s either seized or not; he isn\u2019t extra seized when forced to sit in a police car or stand in a lineup.\nC. Cleared-Closed Case Policy\nFinally, Swanigan claims that the police department\u2019s policy regarding cleared-closed case files violates his constitutional rights by continuing to label him as the Hard Hat Bandit. He alleges that the policy harms him in two ways. First, because the public can access the record with a Freedom of Information Act request, he might suffer reputational harm. Second, if he is stopped by police, even for a routine traffic matter, the officer might use the misleading case report against him. Swanigan grounds this claim in the Due Process Clause and seeks damages and an injunction expunging the record.\nThe City responds that the case file doesn\u2019t actually label Swanigan as the Hard Hat Bandit because it accurately reports that the prosecutor declined to pursue charges based on the unreliable identifications. This argument overlooks the difference between \u201cnot guilty\u201d and \u201cinnocent.\u201d If Swanigan is correct that the record could be read as continuing to link him to the Hard Hat Bandit robbery, a reader could reasonably surmise that he committed the crime but the prosecutor simply couldn\u2019t prove it beyond a reasonable doubt. That, of course, isn\u2019t the truth.\nSwanigan\u2019s real problem is that the claim has no legal anchor. The potential for public stigma isn\u2019t cognizable as a due-process violation because reputa-tional harm doesn\u2019t deprive a person of life, liberty, or property. See Paul v. Davis, 424 U.S. 693, 712, 96 S.Ct. 1155, 47 L.Ed.2d 405 (1976). And it\u2019s entirely speculative to suggest that a police officer might use the cleared-closed file to violate Swanigan\u2019s rights in some unknown way in some hypothetical future traffic stop. For these reasons, Swanigan has neither a legal hook for this claim nor standing to seek an injunction.\nAffirmed.\n. We reject Swanigan\u2019s contention that the judge abused her discretion by taking judicial notice of the facts recited in our first Swani-gan opinion. Our factual narrative rested on the trial record, and Swanigan doesn't dispute any part of it. If \"the finding taken from the prior proceeding is not subject to reasonable dispute, then the court has satisfied the evidentiary criteri[on] for judicial notice.\u201d Gen. Elec. Capital Corp. v. Lease Resolution Corp., 128 F.3d 1074, 1082 (7th Cir. 1997) (quotation marks omitted).\n. Swanigan\u2019s claim for declaratory relief fails for the same reason. See Feit v. Ward, 886 F.2d 848, 857 & n.11 (7th Cir. 1989) (holding that claims for declaratory relief, like claims for injunctive relief, require ongoing or impending harm).",
+        "type": "majority",
+        "author": "Sykes, Circuit Judge."
+      },
+      {
+        "text": "Hamilton, Circuit Judge,\nconcurring in part and dissenting in part.\nThe good news for plaintiff Swanigan came several years ago, when a jury awarded him $60,000 for the violation of his constitutional rights by his prolonged detention after his arrest, which had been lawful but mistaken. The issue in this separate Monell suit is whether Swanigan should be allowed to seek further relief in the form of additional damages or an injunction. I agree with my colleagues that Swanigan is not entitled to additional damages based on what has been called the \u201chold past court call\u201d policy or on his having been included in line-ups while he was in custody.\nI also agree that Swanigan does not have standing to seek an injunction against the \u201chold past court call\u201d policy. Versions of this policy have been under constitutional attack for a generation. After a district judge declared the policy unconstitutional in 1986, the city immediately rescinded the policy, at least formally. Robinson v. City of Chicago, 868 F.2d 969, 962 (7th Cir. 1989). Yet cases involving the same practice continue, as in Swanigan\u2019s case. See, e.g., Lopez v. City of Chicago, 464 F.3d 711, 721-22 (7th Cir. 2006) (reversing dismissal of claim for prolonged post-arrest detention for investigation); Willis v. City of Chicago, 999 F.2d 284, 288-89 (7th Cir. 1993) (affirming finding that prolonged post-arrest detention for investigation, before Robinson was decided, violated Fourth Amendment), citing County of Riverside v. McLaughlin, 500 U.S. 44, 56, 111 S.Ct. 1661, 114 L.Ed.2d 49 (1991).\nSwanigan cannot obtain an injunction against future application of the \u201chold past court call\u201d policy or practice to him. He has not shown a substantial risk that the city will apply this policy or practice to him in the future, at least not without relying on an \u201cattenuated chain of inferences\u201d that impermissibly assumes future illegal state action. See Clapper v. Amnesty Int\u2019l USA, 568 U.S. 398, 414 n.5, 133 S.Ct. 1138, 185 L.Ed.2d 264 (2013); City of Los Angeles v. Lyons, 461 U.S. 95, 105, 103 S.Ct. 1660, 75 L.Ed.2d 675 (1983).\nI respectfully dissent, however, from the decision to affirm dismissal of Swanigan\u2019s challenge to the \u201ccleared-closed case\u201d policy. He alleges that the Chicago Police Department maintains a file on him that effectively\u2014but falsely\u2014identifies him as the \u201cHard Hat Bandit.\u201d This is not a case where the police suspected him of those crimes but were unable to prove guilt beyond a reasonable doubt. There is no doubt here, as my colleagues acknowledge. Swanigan was not the Hard Hat Bandit. In my view, he has standing to raise this claim, and on the merits he should be allowed to proceed past the pleadings.\nOn this issue of standing, Swanigan can show that he is at \u201csubstantial risk\u201d of being harmed by the \u201ccleared-closed\u201d policy. \u201cSubstantial risk\u201d is the correct standard. See Susan B. Anthony List v. Driehaus, \u2014 U.S. \u2014, 134 S.Ct. 2334, 2341, 189 L.Ed.2d 246 (2014) (\u201callegation of future injury may suffice if the threatened injury is \u2018certainly impending,\u2019 or there is a \u2018\u201csubstantial risk\u201d the harm will occur\u2019 \u201d.), quoting Clapper v. Amnesty Int\u2019l USA, 568 U.S. 398, 414 n.5, 133 S.Ct. 1138, 185 L.Ed.2d 264 (2013). On standing, the majority asserts that \u201cit\u2019s entirely speculative to suggest that a police officer might use the cleared-closed file to violate Swanigan\u2019s rights in some unknown way in some hypothetical future traffic stop.\u201d Ante at 584.1 respectfully disagree. There remains a substantial risk that harm will befall Swanigan, and, unlike with his challenge to the \u201chold past court call\u201d practice, without having to assume intentional wrongdoing by either Swanigan or police officers.\nTo begin with, the chances that Swani-gan will be subjected to just a routine traffic stop are actually quite high. Over a period of several years, the same is true for any random civilian driver. In just one year, police stopped more than ten percent of all drivers nationwide. U.S. Dep\u2019t of Justice, Bureau of Justice Statistics, Police Behavior During Traffic and Street Stops, 2011, at 3, tbl. 1, https://www.bjs.gov/content/pub/pdf/pbtssll.pdf. For all black drivers, that percentage was higher, at 12.8 percent. Id. Over a five-year period, the chance that a given black driver will be pulled over is approximately 50 percent. (0.8725 = .504). Over ten years, the chance increases to about 75 percent. (0.87210 - 0.254). Cf. I.N.S. v. Cardoza-Fonseca, 480 U.S. 421, 431, 107 S.Ct. 1207, 94 L.Ed.2d 434 (1987) (applicant for asylum facing ten percent chance of persecution in country of origin would have \u201cwell-founded fear of being persecuted\u201d for purposes of immigration law).\nNext, consider how any traffic stop of Swanigari in Chicago is likely to unfold as long as the false information is in his police file. When the police carry out a traffic stop, they are entitled to demand the driver\u2019s identification, of course, and it is routine to check the driver\u2019s record for active warrants, driving history, and criminal history. Those checks are done for important reasons, including officer safety.\nIf the files are. checked, the officer checking Swanigan may well be told that the police department believes he committed a series of armed robberies. At that point, an officer\u2019s normal caution will give way immediately to extreme caution, putting Swanigan at a much higher risk that any movement might be misinterpreted as dangerous. And note that this scenario assumes lawful and reasonable actions by both Swanigan and a police officer. How many cases have we seen in this country of unarmed subjects, especially men of color, being shot and even killed by police based on hair-trigger responses to innocent actions? In my view, these risks for Swani-gan\u2014today\u2014are not speculative but substantial. He has alleged, and should be allowed to prove, that he has standing to challenge the \u201ccleared-closed case\u201d policy as applied to him.\nOn the merits of this claim, Swanigan would face a challenge. Ordinarily a civilian has no cognizable legal interest in what police investigative files say about him. Paul v. Davis, 424 U.S. 693, 697, 96 S.Ct. 1155, 47 L.Ed.2d 405 (1976), held that even a public accusation by the police that a civilian was an \u201cactive shoplifter \u201d did not' violate the due process clause of the Fourteenth Amendment. But what Swanigan alleges here is an extreme case with substantial risk of tangible harm not present in that case. And there is virtually nothing to be said here.for the integrity of the police files. At .this point, after the conviction of the real Hard Hat Bandit, the police refusal to correct the files falsely labelling Swanigan the Hard Hat Bandit is arbitrary and capricious\u2014and dangerous.\nConstitutional law (not to mention common sense) establishes that the police are entitled to rely on such information in their files, e.g., DeLuna v. City of Rockford, 447 F.3d 1008, 1011-12 (7th Cir. 2006) (use of deadly force was reasonable based in -part on officer\u2019s knowledge of suspect\u2019s history of.violence and weapons), even if it turns out to be mistaken. See, e.g., Herring v. United States, 555 U.S. 135, 146, 129 S.Ct. 695, 172 L.Ed.2d 496 (2009) (exclusionary rule not applicable to arrest based on mistaken information about active warrant); Catlin v. City of Wheaton, 574 F.3d 361, 365-66 (7th Cir. 2009) (police acted reasonably in tackling man they mistakenly believed was armed and dangerous felon who had announced his intention to flee or fight rather than be arrested). Note, however, that in Herring the Supreme Court assumed that police reliance on knowingly false, or even recklessly or systematically mistaken, informa-, tion would not be reasonable. 555 U.S. at 146,129 S.Ct. 695.\nBased on Swanigan\u2019s allegations, it is hard to understand how the false information that is still in his police file is the product of anything other than knowing falsity or deliberate indifference to the truth. Why not allow a civilian who faces substantial risk of harm due to false police information an opportunity to have that information corrected?\nAnd on the other side of the scales, what harm would the Chicago police or public suffer if the plainly false, information were corrected? Again, that information is not just unproven or contestable\u2014it is false. I cannot think of any harm such a correction would cause the police, and it might well help avoid a tragedy. I would allow Swani-gan to pursue this claim on .the merits beyond the pleadings so that the courts could address it and its potential ramifications based on real evidence rather than allegations and theoretical arguments.\n. These rough calculations assume that no variable would cause certain drivers to be pulled over more than others. I am under no illusions that these ''ideal\" conditions prevail in the real world, but I doubt that any such variables would alter these estimates so dramatically as to make Swanigan\u2019s risks insubstantial.\n. In Chicago, the racial disparity may be . higher. According to a State of Illinois study of traffic stop data, more than 76 percent of all traffic stops conducted by Chicago police involve minority ' drivers, Illinois Dep\u2019t of Transp., Illinois Traffic Stop Study Statewide & Agency Reports 2015, at 146, https://idot. \u25a0illinois.gov/transportation-system/local-transportationpartners/law-enforcement/ illinois-traffic-stop-study. Nearly half of all traffic stops in the city involve black drivers. Id.",
+        "type": "concurring-in-part-and-dissenting-in-part",
+        "author": "Hamilton, Circuit Judge,"
+      }
+    ],
+    "attorneys": [
+      "Irene K. Dymkar, Attorney, LAW OFFICE OF IRENE K. DYMKAR, Chicago, IL, for Plaintiff-Appellant.",
+      "Julian Nunes Henriques, Jr., Attorney, CITY OF CHICAGO LAW DEPARTMENT, Chicago, IL, for Defendant-Appel-lee."
+    ],
+    "corrections": "",
+    "head_matter": "Rashad B. SWANIGAN, Plaintiff-Appellant. v. CITY OF CHICAGO, Defendant-Appellee.\nNo. 16-1568\nUnited States Court of Appeals, Seventh Circuit.\nArgued May 31, 2017\nDecided February 2, 2018\nIrene K. Dymkar, Attorney, LAW OFFICE OF IRENE K. DYMKAR, Chicago, IL, for Plaintiff-Appellant.\nJulian Nunes Henriques, Jr., Attorney, CITY OF CHICAGO LAW DEPARTMENT, Chicago, IL, for Defendant-Appel-lee.\nBefore Kanne, Sykes, and Hamilton, Circuit Judges."
+  },
+  "file_name": "0577-01",
+  "first_page_order": 615,
+  "last_page_order": 625
+}

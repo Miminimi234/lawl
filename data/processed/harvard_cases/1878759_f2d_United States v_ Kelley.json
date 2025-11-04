@@ -1,0 +1,154 @@
+{
+  "id": 1878759,
+  "name": "UNITED STATES of America, Plaintiff-Appellee, v. Robert K. KELLEY, Defendant, Danbury, USA, Inc., Applicant in Intervention-Appellant",
+  "name_abbreviation": "United States v. Kelley",
+  "decision_date": "1993-07-01",
+  "docket_number": "No. 92-1130",
+  "first_page": "806",
+  "last_page": "808",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "997 F.2d 806"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "10th Cir.",
+    "id": 8771,
+    "name": "United States Court of Appeals for the Tenth Circuit"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "18 U.S.C. \u00a7 495",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "916 F.2d 788",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        10537806,
+        6119119
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "791-93"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/916/0788-01",
+        "/br/120/0788-01"
+      ]
+    },
+    {
+      "cite": "983 F.2d 216",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        11643309
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "218"
+        },
+        {
+          "page": "221"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/983/0216-01"
+      ]
+    },
+    {
+      "cite": "18 U.S.C. \u00a7 3663",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "pin_cites": [
+        {
+          "parenthetical": "VWPA"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "110 S.Ct. 1979",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        633998
+      ],
+      "weight": 2,
+      "year": 1990,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/495/0411-01"
+      ]
+    },
+    {
+      "cite": "496 U.S. 411",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "year": 1990,
+      "opinion_index": 0
+    },
+    {
+      "cite": "18 U.S.C. \u00a7 1014",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 482,
+    "char_count": 8941,
+    "ocr_confidence": 0.722,
+    "pagerank": {
+      "raw": 7.815464784137529e-08,
+      "percentile": 0.45776240236399884
+    },
+    "sha256": "db21611628575121b8160d467d90cb7a11872e227db3247020c294c87e24c65b",
+    "simhash": "1:ba6ec767601cee09",
+    "word_count": 1444
+  },
+  "last_updated": "2024-02-27T17:31:44.102237+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before TACHA, Circuit Judge, and McWILLIAMS and BARRETT, Senior Circuit Judges."
+    ],
+    "parties": [
+      "UNITED STATES of America, Plaintiff-Appellee, v. Robert K. KELLEY, Defendant, Danbury, USA, Inc., Applicant in Intervention-Appellant."
+    ],
+    "opinions": [
+      {
+        "text": "McWILLIAMS, Senior Circuit Judge.\nDanbury, USA, Inc. (Danbury), the appellant, seeks review and reversal of an order of the district court wherein Danbury\u2019s request for restitution in a criminal proceeding was denied.. The United States, the appellee, has filed a motion to dismiss the appeal on the grounds that Danbury has no standing to appeal the district court\u2019s restitution order, and then argues, alternatively, that the district court did not err in declining to enter a restitution order in favor of Danbury. Though the facts are not disputed, recital thereof is necessary to focus the precise issue.\nIn March, 1988, Robert K. Kelley (Kelley) obtained a personal loan in the amount of $150,000 from Great West Savings Bank (Great West) in Craig, Colorado. In his loan application, Kelley pledged as collateral for the loan his family residence, which he represented as being free of encumbrances, when in fact the property was already encumbered to the Citizens Bank of Glendale (Colorado) for $164,000.\nIn June, 1989, Kelley, as president of Dan-bury, obtained a second loan in the amount of $150,000 from Great West. Again, Kelley pledged his family home as collateral for the loan. In addition, Kelley pledged a promissory note in the amount of $745,000, which was owned and held by Danbury. Somato-gen, Inc., a business concern located in Boulder, Colorado, was the maker of the note (hereinafter the Somatogen Note).\nBy January, 1990, Kelley had defaulted in his payments to Great West on both loans. Great West, then under the supervision of Resolution Trust Company (RTC), sent a letter to Somatogen, Inc., requesting that payments on the Somatogen Note be made directly to Great West. As a result of this letter, Somatogen, Inc. made subsequent payments on its note to Great West, and ultimately Great West\u2019s successor, RTC, rather than to Danbury. Such payments were divided to pay on the second loan, i.e. the loan which Kelley negotiated on behalf of Danbury, and to bring the first loan up to date. We are advised that payments on the Somatogen Note applied to the first loan approximated $100,000.\nOn January 16, 1992, the United States filed a one-count information charging Kelley with making a false statement to Great West in his application for the first loan from Great West, in violation of 18 U.S.C. \u00a7 1014. The government filed no criminal charge against Kelley based on the second loan made by Great West, concluding that Kelley had the apparent authority to negotiate the second loan and pledge the Somatogen Note.\nOn March 6,1992, Kelley, after negotiating with the government, pleaded guilty to the one count information based on the first loan with Great West. Prior to sentencing, counsel for Danbury, by letter, requested that the United States Attorney seek restitution for it from Kelley in the amount of the monies from the Somatogen Note which were applied on the first loan. This the government declined to do, asserting that under Hughey v. United States, 496 U.S. 411, 110 S.Ct. 1979, 109 L.Ed.2d 408 (1990), any restitution order would be limited to losses caused by the specific conduct underlying the offense of conviction, i.e. the first loan.\nThe presentenee report, in line with the plea bargain, recommended that by way of restitution Kelley be ordered to pay RTC $147,980. This sum apparently represented the amount still due on the first note, after crediting payments from the Somatogen Note to the first loan. The report did not recommend that Kelley pay any amount to Danbury, and such is the core of the present controversy.\nAt the sentencing hearing, counsel for Danbury was allowed to address the court and he urged the district court to enter an order commanding Kelley to make restitution to Danbury for approximately $100,000. This the district court declined to do. Instead, the district court placed Kelley on probation, with home confinement for a period of six months, and ordered him to pay $147,980 in restitution to RTC.\nNine days after sentencing, Danbury filed a Motion to Intervene in Regard to Restitution, nunc pro tunc to the date of sentencing. That motion was denied by the district court by minute order. The present appeal followed.\nAs indicated, the government\u2019s initial response to the present appeal was a motion to dismiss for lack of jurisdiction, to which Dan-bury filed a response. By order, this court reserved its judgment \u201con the question of jurisdiction\u201d and referred that matter \u201cto the panel selected to determine the appeal on the merits.\u201d Thereafter, in their briefs, both parties again addressed the question of whether Danbury has standing to appeal the district court\u2019s restitution order, as well as the merits of the order itself.\nDanbury\u2019s basic position is that it is a \u201cvictim\u201d of a federal crime for which restitution is warranted under the Victim and Witness Protection Act, 18 U.S.C. \u00a7 3663 (VWPA), and that it has \u201cimplicit standing\u201d to appeal the district court\u2019s order that Kelley make restitution only to RTC. We disagree and hold that Danbury has no standing to prosecute this appeal. In support of our holding, see United States v. Johnson, 983 F.2d 216 (11th Cir.1993) and United States v. Grundhoefer, 916 F.2d 788 (2d Cir.1990).\nIn Johnson, the defendant in a criminal proceeding pleaded guilty to several counts based on her forging endorsements and cashing Social Security checks made payable to a deceased relative, in violation of 18 U.S.C. \u00a7 495. The defendant was ordered, inter alia, to make restitution to the victim bank in the amount of $18,273, in monthly installments. When the defendant became delinquent in her restitution payments, the district court held a revocation hearing, at which time the victim bank was present. At the conclusion of the revocation hearing, the district court revoked probation, sentenced her to six months imprisonment, and rescinded the restitution. The victim bank then filed an appeal. The Eleventh Circuit framed the sole issue as follows: \u201cThe sole issue we address is whether Bank, an intervenor, has standing to appeal the district court\u2019s rescission of the restitution order.\u201d Johnson, 983 F.2d at 218. After a thorough discussion of the various issues involved, the Eleventh Circuit concluded as follows:\nWe find that the legislative history and the Act\u2019s plain language do not indicate that Congress, either explicitly or implicitly, intended to provide a private cause of action to victims. Consequently, Bank has no standing under either Article III of the United States Constitution or the Victim and Witness Protection Act to challenge the district court\u2019s revocation of its restitution order. Because Bank has no standing to contest the district court\u2019s revocation of the restitution order, this appeal is dismissed.\nId. at 221.\nIn Grundhoefer, the defendants operated a computer training school which received federal monies. After pleading guilty to charges of conspiracy and fraud, the defendants were, inter alia, ordered to make restitution by payment of an amount agreed upon by the government and the defendants into a fund for the benefit of the school\u2019s former students. The trustee in bankruptcy for the school objected to the restitution order, believing that restitution should be in his favor for the benefit of the school\u2019s unsecured creditors. The trustee\u2019s objections were overruled, and the trustee appealed the district court\u2019s restitution order in favor of the school\u2019s former students. On appeal, the Second Circuit concluded that the VWPA did not provide a private remedy for victims denied restitution in a criminal proceeding, and in dismissing the appeal held that the trustee did not have standing under Article III to appeal the restitution order. Grundhoefer, 916 F.2d at 791-93.\nWe are in accord with the result and reasoning of both Johnson and Grundhoefer. Therefore, the present appeal is dismissed.\n. Apparently, as a result of the application of payments on the Somatogen Note to the first loan, Danbury brought a civil suit against Great West in the United States District Court for the District of Colorado, which was settled in an agreement with RTC. Danbury also sued Kelley in an action brought in a Colorado state court. This action was also apparently settled, although the settlement agreement was sealed by order of court.",
+        "type": "majority",
+        "author": "McWILLIAMS, Senior Circuit Judge."
+      }
+    ],
+    "attorneys": [
+      "William R. Lucero, Asst. U.S. Atty. (Michael J. Norton, U.S. Atty., with him on the brief), Denver, CO, for plaintiff-appellee.",
+      "Denis H. Mark (William C. Waller and C. Bradley Rupert of Vinton, Waller, Slivka & Panasci, with him on the brief), Denver, CO, for Danbury, USA, Inc., applicant in intervention-appellant."
+    ],
+    "corrections": "",
+    "head_matter": "UNITED STATES of America, Plaintiff-Appellee, v. Robert K. KELLEY, Defendant, Danbury, USA, Inc., Applicant in Intervention-Appellant.\nNo. 92-1130.\nUnited States Court of Appeals, Tenth Circuit.\nJuly 1, 1993.\nWilliam R. Lucero, Asst. U.S. Atty. (Michael J. Norton, U.S. Atty., with him on the brief), Denver, CO, for plaintiff-appellee.\nDenis H. Mark (William C. Waller and C. Bradley Rupert of Vinton, Waller, Slivka & Panasci, with him on the brief), Denver, CO, for Danbury, USA, Inc., applicant in intervention-appellant.\nBefore TACHA, Circuit Judge, and McWILLIAMS and BARRETT, Senior Circuit Judges."
+  },
+  "file_name": "0806-01",
+  "first_page_order": 858,
+  "last_page_order": 860
+}

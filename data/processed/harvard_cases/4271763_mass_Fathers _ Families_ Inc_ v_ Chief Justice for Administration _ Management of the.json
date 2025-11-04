@@ -1,0 +1,175 @@
+{
+  "id": 4271763,
+  "name": "Fathers and Families, Inc., & others vs. Chief Justice for Administration and Management of the Trial Court & others",
+  "name_abbreviation": "Fathers & Families, Inc. v. Chief Justice for Administration & Management of the Trial Court",
+  "decision_date": "2011-09-01",
+  "docket_number": "",
+  "first_page": "508",
+  "last_page": "510",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "460 Mass. 508"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Mass.",
+    "id": 8825,
+    "name": "Massachusetts Supreme Judicial Court"
+  },
+  "jurisdiction": {
+    "id": 4,
+    "name_long": "Massachusetts",
+    "name": "Mass."
+  },
+  "cites_to": [
+    {
+      "cite": "448 Mass. 15",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "case_ids": [
+        3856585
+      ],
+      "weight": 2,
+      "year": 2006,
+      "pin_cites": [
+        {
+          "page": "27",
+          "parenthetical": "Sullivan"
+        },
+        {
+          "page": "24"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mass/448/0015-01"
+      ]
+    },
+    {
+      "cite": "537 U.S. 1189",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        9374146,
+        9374116,
+        9374245,
+        9374085,
+        9374021,
+        9374216,
+        9374060,
+        9373965,
+        9374190,
+        9374001,
+        9374035,
+        9374168,
+        9373981
+      ],
+      "year": 2003,
+      "pin_cites": [
+        {
+          "parenthetical": "addressing constitutionality of G. L. c. 119, \u00a7 39D, in action that originated before the Probate and Family Court"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/537/1189-09",
+        "/us/537/1189-08",
+        "/us/537/1189-13",
+        "/us/537/1189-07",
+        "/us/537/1189-04",
+        "/us/537/1189-12",
+        "/us/537/1189-06",
+        "/us/537/1189-01",
+        "/us/537/1189-11",
+        "/us/537/1189-03",
+        "/us/537/1189-05",
+        "/us/537/1189-10",
+        "/us/537/1189-02"
+      ]
+    },
+    {
+      "cite": "437 Mass. 649",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "case_ids": [
+        735018
+      ],
+      "year": 2002,
+      "pin_cites": [
+        {
+          "page": "651-665"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mass/437/0649-01"
+      ]
+    },
+    {
+      "cite": "8 Mass. App. Ct. 937",
+      "category": "reporters:state",
+      "reporter": "Mass. App. Ct.",
+      "case_ids": [
+        3957320
+      ],
+      "year": 1974,
+      "pin_cites": [
+        {
+          "page": "937",
+          "parenthetical": "citing G. L. c. 231 A, \u00a7 2, in support of conclusion that \"[t]he declaratory judgment procedure does not apply to the judicial department\""
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mass-app-ct/8/0937-01"
+      ]
+    },
+    {
+      "cite": "413 Mass. 377",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "case_ids": [
+        3902128
+      ],
+      "year": 1992,
+      "pin_cites": [
+        {
+          "parenthetical": "concluding that declaratory relief not available against Governor pursuant to G. L. c. 231 A, \u00a7 2"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mass/413/0377-01"
+      ]
+    },
+    {
+      "cite": "365 Mass. 754",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "year": 1974,
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 391,
+    "char_count": 6758,
+    "ocr_confidence": 0.921,
+    "pagerank": {
+      "raw": 5.939678117725295e-08,
+      "percentile": 0.370511948766125
+    },
+    "sha256": "84fe93871b7a6e7be85eeaa8c66e2ef943abfb8b2fc2e02d163cbe853e01dd07",
+    "simhash": "1:98697eeb404d3f0d",
+    "word_count": 1082
+  },
+  "last_updated": "2024-02-27T17:56:26.592595+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "file_name": "0508-01",
+  "first_page_order": 534,
+  "last_page_order": 536
+}

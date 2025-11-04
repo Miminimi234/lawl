@@ -1,0 +1,2404 @@
+{
+  "id": 4281018,
+  "name": "COMMONWEALTH of Pennsylvania, Appellee v. Ian CUNNINGHAM, Appellant",
+  "name_abbreviation": "Commonwealth v. Cunningham",
+  "decision_date": "2013-10-30",
+  "docket_number": "No. 38 EAP 2012",
+  "first_page": "543",
+  "last_page": "580",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "622 Pa. 543"
+    },
+    {
+      "type": "parallel",
+      "cite": "81 A.3d 1"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "387 So.2d 922",
+      "category": "reporters:state_regional",
+      "reporter": "So. 2d",
+      "case_ids": [
+        9586857
+      ],
+      "pin_cites": [
+        {
+          "page": "929"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/so2d/387/0922-01"
+      ]
+    },
+    {
+      "cite": "499 U.S. 467",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11319331
+      ],
+      "weight": 3,
+      "year": 1991,
+      "pin_cites": [
+        {
+          "page": "491",
+          "parenthetical": "\"One of the law's very objects is the finality of its judgments.\""
+        },
+        {
+          "page": "1468",
+          "parenthetical": "\"One of the law's very objects is the finality of its judgments.\""
+        },
+        {
+          "parenthetical": "\"One of the law's very objects is the finality of its judgments.\""
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/499/0467-01"
+      ]
+    },
+    {
+      "cite": "523 U.S. 538",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11503916
+      ],
+      "weight": 3,
+      "year": 1998,
+      "pin_cites": [
+        {
+          "page": "556",
+          "parenthetical": "\"Only with real finality can the victims of crime move forward knowing the moral judgment will be carried out.\""
+        },
+        {
+          "page": "1501",
+          "parenthetical": "\"Only with real finality can the victims of crime move forward knowing the moral judgment will be carried out.\""
+        },
+        {
+          "parenthetical": "\"Only with real finality can the victims of crime move forward knowing the moral judgment will be carried out.\""
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/523/0538-01"
+      ]
+    },
+    {
+      "cite": "952 A.2d 565",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        3923577,
+        8182829
+      ],
+      "year": 2008,
+      "pin_cites": [
+        {
+          "page": "576",
+          "parenthetical": "\"There is absolutely no doubt that there is an enduring societal interest in the finality of criminal proceedings\""
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/597/0523-01",
+        "/a2d/952/0565-01"
+      ]
+    },
+    {
+      "cite": "597 Pa. 523",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        3923577
+      ],
+      "year": 2008,
+      "pin_cites": [
+        {
+          "page": "542",
+          "parenthetical": "\"There is absolutely no doubt that there is an enduring societal interest in the finality of criminal proceedings\""
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/597/0523-01"
+      ]
+    },
+    {
+      "cite": "2013 Ark. 175",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        6948164
+      ],
+      "weight": 2,
+      "year": 2013,
+      "opinion_index": 0,
+      "case_paths": [
+        "/sw3d/426/0906-01"
+      ]
+    },
+    {
+      "cite": "28 U.S.C. \u00a7 2244",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "pin_cites": [
+        {
+          "page": "(b)(2)(A)",
+          "parenthetical": "emphasis added"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "110 Stat. 1214",
+      "category": "laws:leg_session",
+      "reporter": "Stat.",
+      "pin_cites": [
+        {
+          "parenthetical": "the \"AEDPA\""
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "533 U.S. 656",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        9313540
+      ],
+      "weight": 5,
+      "year": 2001,
+      "pin_cites": [
+        {
+          "page": "660"
+        },
+        {
+          "page": "2481"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/533/0656-01"
+      ]
+    },
+    {
+      "cite": "496 Pa. 52",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1772909
+      ],
+      "weight": 2,
+      "year": 1981,
+      "pin_cites": [
+        {
+          "page": "56",
+          "parenthetical": "remarking, albeit in a different context, that the \"attempt to devise a universal principle for determining whether a rule is inherently procedural or substantive in nature has met with little success in the history of our jurisprudence\""
+        },
+        {
+          "page": "150",
+          "parenthetical": "remarking, albeit in a different context, that the \"attempt to devise a universal principle for determining whether a rule is inherently procedural or substantive in nature has met with little success in the history of our jurisprudence\""
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/496/0052-01"
+      ]
+    },
+    {
+      "cite": "494 U.S. 484",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        4970
+      ],
+      "weight": 3,
+      "year": 1990,
+      "pin_cites": [
+        {
+          "page": "488"
+        },
+        {
+          "page": "1260"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/494/0484-01"
+      ]
+    },
+    {
+      "cite": "506 U.S. 461",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11925359
+      ],
+      "weight": 5,
+      "year": 1993,
+      "pin_cites": [
+        {
+          "page": "467"
+        },
+        {
+          "page": "898"
+        },
+        {
+          "page": "463"
+        },
+        {
+          "page": "895"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/506/0461-01"
+      ]
+    },
+    {
+      "cite": "438 U.S. 586",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        1769215
+      ],
+      "weight": 3,
+      "year": 1978,
+      "pin_cites": [
+        {
+          "parenthetical": "plurality"
+        },
+        {
+          "parenthetical": "plurality"
+        },
+        {
+          "parenthetical": "plurality"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/438/0586-01"
+      ]
+    },
+    {
+      "cite": "428 U.S. 280",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6177464
+      ],
+      "weight": 3,
+      "year": 1976,
+      "pin_cites": [
+        {
+          "parenthetical": "plurality"
+        },
+        {
+          "parenthetical": "plurality"
+        },
+        {
+          "parenthetical": "plurality"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/428/0280-01"
+      ]
+    },
+    {
+      "cite": "560 U.S. 48",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        12448995,
+        3641893
+      ],
+      "weight": 4,
+      "year": 2010,
+      "pin_cites": [
+        {
+          "page": "81-82",
+          "parenthetical": "holding that a life-without-parole sentence violates the Eighth Amendment, when imposed on a juvenile non-homicide offender"
+        },
+        {
+          "page": "2034",
+          "parenthetical": "holding that a life-without-parole sentence violates the Eighth Amendment, when imposed on a juvenile non-homicide offender"
+        },
+        {
+          "parenthetical": "holding that a life-without-parole sentence violates the Eighth Amendment, when imposed on a juvenile non-homicide offender"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/l-ed-2d/176/0825-01",
+        "/us/560/0048-01"
+      ]
+    },
+    {
+      "cite": "536 U.S. 304",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        1255406
+      ],
+      "weight": 3,
+      "year": 2002,
+      "pin_cites": [
+        {
+          "parenthetical": "banning the execution of mentally retarded individuals"
+        },
+        {
+          "parenthetical": "banning the execution of mentally retarded individuals"
+        },
+        {
+          "parenthetical": "banning the execution of mentally retarded individuals"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/536/0304-01"
+      ]
+    },
+    {
+      "cite": "554 U.S. 407",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        3677216
+      ],
+      "weight": 3,
+      "year": 2008,
+      "pin_cites": [
+        {
+          "parenthetical": "holding that imposing the death penally for non-homicide crimes violates the Eighth Amendment"
+        },
+        {
+          "parenthetical": "holding that imposing the death penally for non-homicide crimes violates the Eighth Amendment"
+        },
+        {
+          "parenthetical": "holding that imposing the death penally for non-homicide crimes violates the Eighth Amendment"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/554/0407-01"
+      ]
+    },
+    {
+      "cite": "372 U.S. 335",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        1765333
+      ],
+      "weight": 3,
+      "year": 1963,
+      "pin_cites": [
+        {
+          "parenthetical": "holding that all indigent defendants charged with felonies are entitled to appointed counsel"
+        },
+        {
+          "parenthetical": "holding that all indigent defendants charged with felonies are entitled to appointed counsel"
+        },
+        {
+          "parenthetical": "holding that all indigent defendants charged with felonies are entitled to appointed counsel"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/372/0335-01"
+      ]
+    },
+    {
+      "cite": "36 A.3d 24",
+      "category": "reporters:state_regional",
+      "reporter": "A.3d",
+      "case_ids": [
+        4205851,
+        7295171,
+        7295141,
+        4207029
+      ],
+      "year": 2011,
+      "pin_cites": [
+        {
+          "page": "66",
+          "parenthetical": "reflecting a reluctance, in the absence of a common law policy or directive from the Pennsylvania General Assembly, to \"go further than what is affirmatively commanded by the High Court\" in the implementation of new federal constitutional doctrine"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/613/0639-01",
+        "/a3d/36/0024-02",
+        "/a3d/36/0024-01",
+        "/pa/614/0001-01"
+      ]
+    },
+    {
+      "cite": "614 Pa. 1",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        4207029
+      ],
+      "year": 2011,
+      "pin_cites": [
+        {
+          "page": "70",
+          "parenthetical": "reflecting a reluctance, in the absence of a common law policy or directive from the Pennsylvania General Assembly, to \"go further than what is affirmatively commanded by the High Court\" in the implementation of new federal constitutional doctrine"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/614/0001-01"
+      ]
+    },
+    {
+      "cite": "986 A.2d 128",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7291329,
+        7291355,
+        4196900,
+        4196478
+      ],
+      "year": 2009,
+      "pin_cites": [
+        {
+          "page": "144",
+          "parenthetical": "recognizing that \"a more sophisticated analysis\" may be required on state collateral review in some circumstances"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/986/0128-01",
+        "/a2d/986/0128-02",
+        "/pa/604/0459-01",
+        "/pa/604/0459-02"
+      ]
+    },
+    {
+      "cite": "604 Pa. 459",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        4196900,
+        4196478
+      ],
+      "year": 2009,
+      "pin_cites": [
+        {
+          "page": "486",
+          "parenthetical": "recognizing that \"a more sophisticated analysis\" may be required on state collateral review in some circumstances"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/604/0459-01",
+        "/pa/604/0459-02"
+      ]
+    },
+    {
+      "cite": "865 A.2d 761",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        9035570,
+        1140661
+      ],
+      "year": 2004,
+      "pin_cites": [
+        {
+          "page": "780-82"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/865/0761-01",
+        "/pa/581/0274-01"
+      ]
+    },
+    {
+      "cite": "581 Pa. 274",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1140661
+      ],
+      "year": 2004,
+      "pin_cites": [
+        {
+          "page": "306-10"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/581/0274-01"
+      ]
+    },
+    {
+      "cite": "552 U.S. 264",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        3675901
+      ],
+      "weight": 6,
+      "year": 2008,
+      "pin_cites": [
+        {
+          "page": "282"
+        },
+        {
+          "page": "1042"
+        },
+        {
+          "page": "280"
+        },
+        {
+          "page": "1041"
+        },
+        {
+          "page": "271"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/552/0264-01"
+      ]
+    },
+    {
+      "cite": "115 So.3d 375",
+      "category": "reporters:state_regional",
+      "reporter": "So. 3d",
+      "case_ids": [
+        6999556
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "377"
+        },
+        {
+          "page": "377"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/so3d/115/0375-01"
+      ]
+    },
+    {
+      "cite": "828 N.W.2d 685",
+      "category": "reporters:state_regional",
+      "reporter": "N.W.2d",
+      "weight": 2,
+      "year": 2012,
+      "pin_cites": [
+        {
+          "page": "713",
+          "parenthetical": "\"In Jackson, because the State did not raise the issue of retroactivity, the necessary predicate for the Court to resolve the question of retroactivity was waived.\""
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "298 Mich.App. 472",
+      "category": "reporters:state",
+      "reporter": "Mich. App.",
+      "case_ids": [
+        4085579
+      ],
+      "year": 2012,
+      "opinion_index": 0,
+      "case_paths": [
+        "/mich-app/298/0472-01"
+      ]
+    },
+    {
+      "cite": "2013 WL 69128",
+      "category": "reporters:specialty_west",
+      "reporter": "WL",
+      "weight": 4,
+      "year": 2012,
+      "pin_cites": [
+        {
+          "page": "*2"
+        },
+        {
+          "page": "*2"
+        },
+        {
+          "page": "*2"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "831 N.W.2d 311",
+      "category": "reporters:state_regional",
+      "reporter": "N.W.2d",
+      "case_ids": [
+        7060020
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "311",
+          "parenthetical": "concluding that Miller does not establish a watershed rule because it focuses exclusively on sentencing and does not alter bedrock procedural elements essential to fairness of a proceeding"
+        },
+        {
+          "page": "329",
+          "parenthetical": "reasoning that the Miller rule is procedural, inter alia, because it \"does not eliminate the power of the State to impose the punishment of life imprisonment without the possibility of release upon a juvenile offender who has committed a homicide offense.\""
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/nw2d/831/0311-01"
+      ]
+    },
+    {
+      "cite": "713 F.3d 1365",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        3559387
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "1367-68",
+          "parenthetical": "finding Miller to be non-substantive because it regulates only the manner of determining the degree of a defendant's culpability"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/713/1365-01"
+      ]
+    },
+    {
+      "cite": "981 N.E.2d 1010",
+      "category": "reporters:state_regional",
+      "reporter": "N.E.2d",
+      "weight": 3,
+      "year": 2012,
+      "pin_cites": [
+        {
+          "page": "1023",
+          "parenthetical": "same"
+        },
+        {
+          "page": "1022",
+          "parenthetical": "same"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "367 Ill.Dec. 282",
+      "category": "reporters:state",
+      "reporter": "Ill. Dec.",
+      "weight": 3,
+      "year": 2012,
+      "opinion_index": 0
+    },
+    {
+      "cite": "982 N.E.2d 181",
+      "category": "reporters:state_regional",
+      "reporter": "N.E.2d",
+      "weight": 3,
+      "year": 2012,
+      "pin_cites": [
+        {
+          "page": "197",
+          "parenthetical": "deriving support for the holding that Miller's holding is retroactive from its disposition of the Jackson case"
+        },
+        {
+          "page": "197",
+          "parenthetical": "holding that Miller's holding qualifies as a watershed rule of criminal procedure under the second Teague, exception"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "367 Ill.Dec. 503",
+      "category": "reporters:state",
+      "reporter": "Ill. Dec.",
+      "weight": 3,
+      "year": 2012,
+      "opinion_index": 0
+    },
+    {
+      "cite": "122 So.3d 698",
+      "category": "reporters:state_regional",
+      "reporter": "So. 3d",
+      "case_ids": [
+        6999698
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "701",
+          "parenthetical": "finding the Miller rule to be substantive in character"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/so3d/122/0698-01"
+      ]
+    },
+    {
+      "cite": "836 N.W.2d 107",
+      "category": "reporters:state_regional",
+      "reporter": "N.W.2d",
+      "case_ids": [
+        7055847
+      ],
+      "year": 2013,
+      "opinion_index": 0,
+      "case_paths": [
+        "/nw2d/836/0107-01"
+      ]
+    },
+    {
+      "cite": "542 U.S. 406",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        5858880
+      ],
+      "weight": 4,
+      "year": 2004,
+      "pin_cites": [
+        {
+          "page": "417",
+          "parenthetical": "\"[I]t should come as no surprise that we have yet to find a new rule that falls under the second Teague exception.\""
+        },
+        {
+          "page": "2513-14",
+          "parenthetical": "\"[I]t should come as no surprise that we have yet to find a new rule that falls under the second Teague exception.\""
+        },
+        {
+          "parenthetical": "\"[I]t should come as no surprise that we have yet to find a new rule that falls under the second Teague exception.\""
+        },
+        {
+          "page": "419-20"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/542/0406-01"
+      ]
+    },
+    {
+      "cite": "549 U.S. 406",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        3553902
+      ],
+      "weight": 5,
+      "year": 2007,
+      "pin_cites": [
+        {
+          "page": "417-18",
+          "parenthetical": "indicating that, \"in the years since Teague, we have rejected every claim that a new rule satisfied the requirements for watershed status\""
+        },
+        {
+          "page": "1181-82",
+          "parenthetical": "indicating that, \"in the years since Teague, we have rejected every claim that a new rule satisfied the requirements for watershed status\""
+        },
+        {
+          "parenthetical": "indicating that, \"in the years since Teague, we have rejected every claim that a new rule satisfied the requirements for watershed status\""
+        },
+        {
+          "page": "421"
+        },
+        {
+          "page": "1183-84",
+          "parenthetical": "citations omitted"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/549/0406-01"
+      ]
+    },
+    {
+      "cite": "514 U.S. 115",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        1340327
+      ],
+      "weight": 5,
+      "year": 1995,
+      "pin_cites": [
+        {
+          "page": "117",
+          "parenthetical": "explaining that \"a court need not entertain the [:Teague ] defense if the State has not raised it.\""
+        },
+        {
+          "page": "1276",
+          "parenthetical": "explaining that \"a court need not entertain the [:Teague ] defense if the State has not raised it.\""
+        },
+        {
+          "parenthetical": "explaining that \"a court need not entertain the [:Teague ] defense if the State has not raised it.\""
+        },
+        {
+          "page": "117"
+        },
+        {
+          "page": "1276"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/514/0115-01"
+      ]
+    },
+    {
+      "cite": "657 F.3d 258",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        3834187
+      ],
+      "pin_cites": [
+        {
+          "page": "262"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/657/0258-01"
+      ]
+    },
+    {
+      "cite": "542 U.S. 348",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        2528610
+      ],
+      "weight": 9,
+      "year": 2004,
+      "pin_cites": [
+        {
+          "page": "353"
+        },
+        {
+          "page": "2519"
+        },
+        {
+          "page": "352"
+        },
+        {
+          "page": "2523",
+          "parenthetical": "relating that \"it is unlikely that any [watershed rule] ha[s] yet to emerge\" (internal citations omitted)"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/542/0348-01"
+      ]
+    },
+    {
+      "cite": "536 U.S. 266",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        1255062
+      ],
+      "weight": 3,
+      "year": 2002,
+      "pin_cites": [
+        {
+          "parenthetical": "quoting Saffle, 494 U.S. at 495, 110 S.Ct. at 1264 (internal quotations omitted)"
+        },
+        {
+          "parenthetical": "quoting Saffle, 494 U.S. at 495, 110 S.Ct. at 1264 (internal quotations omitted)"
+        },
+        {
+          "parenthetical": "quoting Saffle, 494 U.S. at 495, 110 S.Ct. at 1264 (internal quotations omitted)"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/536/0266-01"
+      ]
+    },
+    {
+      "cite": "492 U.S. 302",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6214810
+      ],
+      "weight": 5,
+      "year": 1989,
+      "pin_cites": [
+        {
+          "page": "329-30"
+        },
+        {
+          "page": "2952-53"
+        },
+        {
+          "page": "330"
+        },
+        {
+          "page": "330"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/492/0302-01"
+      ]
+    },
+    {
+      "cite": "489 U.S. 288",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        12032050
+      ],
+      "weight": 5,
+      "year": 1989,
+      "pin_cites": [
+        {
+          "parenthetical": "plurality"
+        },
+        {
+          "parenthetical": "plurality"
+        },
+        {
+          "parenthetical": "plurality"
+        },
+        {
+          "page": "300"
+        },
+        {
+          "page": "301"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/489/0288-01"
+      ]
+    },
+    {
+      "cite": "87 Wash. L. Rev. 51",
+      "category": "journals:journal",
+      "reporter": "Wash. L. Rev.",
+      "year": 2012,
+      "pin_cites": [
+        {
+          "page": "62",
+          "parenthetical": "observing that the line of decisions including Miller reflect what legal scholars have termed a developing \"youth is different\" jurisprudence"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "543 U.S. 551",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        5928574
+      ],
+      "weight": 7,
+      "year": 2005,
+      "pin_cites": [
+        {
+          "page": "578"
+        },
+        {
+          "page": "1200"
+        },
+        {
+          "page": "578"
+        },
+        {
+          "page": "1200"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/543/0551-01"
+      ]
+    },
+    {
+      "cite": "132 S.Ct. 2455",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        12407312
+      ],
+      "weight": 33,
+      "year": 2012,
+      "pin_cites": [
+        {
+          "page": "2475"
+        },
+        {
+          "page": "2463",
+          "parenthetical": "citations and internal quotation marks omitted"
+        },
+        {
+          "page": "2466"
+        },
+        {
+          "page": "2469"
+        },
+        {
+          "page": "2466",
+          "parenthetical": "opining that the \"imposition of a State's most severe penalties on juvenile offenders cannot proceed as though they were not children\""
+        },
+        {
+          "page": "2467",
+          "parenthetical": "observing that \"[s]uch mandatory penalties, by their nature, preclude a sentencer from taking account of an offender's age and the wealth of characteristics and circumstances attendant to it\""
+        },
+        {
+          "page": "2471"
+        },
+        {
+          "page": "2475"
+        },
+        {
+          "page": "2475"
+        },
+        {
+          "page": "2471",
+          "parenthetical": "citations omitted; emphasis added"
+        },
+        {
+          "page": "2469",
+          "parenthetical": "\"[W]e do not consider Jackson's and Miller's alternative argument that the Eighth Amendment requires a categorical bar on life without parole for juveniles, or at least for those 14 and younger.\""
+        },
+        {
+          "page": "2471"
+        },
+        {
+          "page": "2477",
+          "parenthetical": "Roberts, C.J., dissenting, joined by Scalia, Thomas, and Alito, JJ."
+        },
+        {
+          "page": "2471"
+        },
+        {
+          "page": "2477",
+          "parenthetical": "Roberts, C.J., joined by Scalia, Thomas, and Alito, JJ., dissenting"
+        },
+        {
+          "page": "2475-77",
+          "parenthetical": "Breyer, J., concurring"
+        },
+        {
+          "page": "2471"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/567/0460-01"
+      ]
+    },
+    {
+      "cite": "851 A.2d 870",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        1329432,
+        9241455
+      ],
+      "year": 2004,
+      "pin_cites": [
+        {
+          "page": "877-78"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/pa/578/0263-01",
+        "/a2d/851/0870-01"
+      ]
+    },
+    {
+      "cite": "578 Pa. 263",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1329432
+      ],
+      "year": 2004,
+      "opinion_index": 1,
+      "case_paths": [
+        "/pa/578/0263-01"
+      ]
+    },
+    {
+      "cite": "32 A.3d 697",
+      "category": "reporters:state_regional",
+      "reporter": "A.3d",
+      "case_ids": [
+        7271203,
+        4205983
+      ],
+      "year": 2011,
+      "pin_cites": [
+        {
+          "page": "702-05"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/a3d/32/0697-01",
+        "/pa/613/0097-01"
+      ]
+    },
+    {
+      "cite": "613 Pa. 97",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        4205983
+      ],
+      "year": 2011,
+      "opinion_index": 1,
+      "case_paths": [
+        "/pa/613/0097-01"
+      ]
+    },
+    {
+      "cite": "503 A.2d 400",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        1795272
+      ],
+      "year": 1986,
+      "pin_cites": [
+        {
+          "parenthetical": "addressing prison conditions"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/pa/509/0456-02"
+      ]
+    },
+    {
+      "cite": "509 Pa. 456",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1795272,
+        1795374
+      ],
+      "year": 1986,
+      "pin_cites": [
+        {
+          "parenthetical": "addressing prison conditions"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/pa/509/0456-02",
+        "/pa/509/0456-01"
+      ]
+    },
+    {
+      "cite": "832 A.2d 396",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        9086610,
+        587998
+      ],
+      "year": 2003,
+      "pin_cites": [
+        {
+          "page": "399",
+          "parenthetical": "addressing excessive fines provision"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/a2d/832/0396-01",
+        "/pa/574/0423-01"
+      ]
+    },
+    {
+      "cite": "574 Pa. 423",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        587998
+      ],
+      "year": 2003,
+      "pin_cites": [
+        {
+          "parenthetical": "addressing excessive fines provision"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/pa/574/0423-01"
+      ]
+    },
+    {
+      "cite": "827 A.2d 385",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        9108680,
+        9108745,
+        197235,
+        197204,
+        197206,
+        9108637
+      ],
+      "year": 2003,
+      "pin_cites": [
+        {
+          "parenthetical": "rejecting claim that death penalty was per se cruel punishment"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/a2d/827/0385-02",
+        "/a2d/827/0385-03",
+        "/pa/573/0531-01",
+        "/pa/573/0532-02",
+        "/pa/573/0532-01",
+        "/a2d/827/0385-01"
+      ]
+    },
+    {
+      "cite": "573 Pa. 532",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        197204,
+        197206
+      ],
+      "year": 2003,
+      "pin_cites": [
+        {
+          "parenthetical": "rejecting claim that death penalty was per se cruel punishment"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/pa/573/0532-02",
+        "/pa/573/0532-01"
+      ]
+    },
+    {
+      "cite": "77 L.Ed.2d 1327",
+      "category": "reporters:federal",
+      "reporter": "L. Ed. 2d",
+      "year": 1983,
+      "opinion_index": 1
+    },
+    {
+      "cite": "103 S.Ct. 2444",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "year": 1983,
+      "opinion_index": 1
+    },
+    {
+      "cite": "461 U.S. 970",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11337770,
+        11337700
+      ],
+      "year": 1983,
+      "opinion_index": 1,
+      "case_paths": [
+        "/us/461/0970-02",
+        "/us/461/0970-01"
+      ]
+    },
+    {
+      "cite": "500 Pa. 16",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1781169
+      ],
+      "weight": 2,
+      "year": 1982,
+      "pin_cites": [
+        {
+          "page": "967-69"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/pa/500/0016-01"
+      ]
+    },
+    {
+      "cite": "770 A.2d 287",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        11100168,
+        1276742,
+        1276805,
+        11100118
+      ],
+      "weight": 3,
+      "year": 2001,
+      "pin_cites": [
+        {
+          "page": "290-94",
+          "parenthetical": "Castille, J., concurring, joined by Newman, J."
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/a2d/770/0287-02",
+        "/pa/564/0604-01",
+        "/pa/564/0603-01",
+        "/a2d/770/0287-01"
+      ]
+    },
+    {
+      "cite": "564 Pa. 604",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1276742
+      ],
+      "year": 2001,
+      "pin_cites": [
+        {
+          "parenthetical": "Castille, J., concurring, joined by Newman, J."
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/pa/564/0604-01"
+      ]
+    },
+    {
+      "cite": "916 A.2d 511",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8333009,
+        3014012
+      ],
+      "year": 2007,
+      "pin_cites": [
+        {
+          "page": "518-21",
+          "parenthetical": "since PCRA did not provide remedy for appellant's claim regarding deportation from Canada, which essentially challenged \"the continued vitality of his sentence,\" claim could be raised in a petition for writ of habeas corpus"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/a2d/916/0511-01",
+        "/pa/591/0126-01"
+      ]
+    },
+    {
+      "cite": "591 Pa. 126",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        3014012
+      ],
+      "year": 2007,
+      "pin_cites": [
+        {
+          "parenthetical": "since PCRA did not provide remedy for appellant's claim regarding deportation from Canada, which essentially challenged \"the continued vitality of his sentence,\" claim could be raised in a petition for writ of habeas corpus"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/pa/591/0126-01"
+      ]
+    },
+    {
+      "cite": "867 Ill.Dec. 503",
+      "category": "reporters:state",
+      "reporter": "Ill. Dec.",
+      "opinion_index": 1
+    },
+    {
+      "cite": "501 U.S. 808",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        1108176
+      ],
+      "weight": 3,
+      "year": 1991,
+      "opinion_index": 1,
+      "case_paths": [
+        "/us/501/0808-01"
+      ]
+    },
+    {
+      "cite": "773 A.2d 143",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        124760,
+        11089010,
+        124727,
+        11088943
+      ],
+      "weight": 3,
+      "year": 2001,
+      "pin_cites": [
+        {
+          "page": "149-58"
+        },
+        {
+          "page": "151",
+          "parenthetical": "Opinion Announcing the Judgment of Court"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/pa/565/0309-02",
+        "/a2d/773/0143-02",
+        "/pa/565/0309-01",
+        "/a2d/773/0143-01"
+      ]
+    },
+    {
+      "cite": "565 Pa. 309",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        124760,
+        124727
+      ],
+      "weight": 2,
+      "year": 2001,
+      "pin_cites": [
+        {
+          "parenthetical": "Opinion Announcing the Judgment of Court"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/pa/565/0309-02",
+        "/pa/565/0309-01"
+      ]
+    },
+    {
+      "cite": "428 U.S. 153",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6176749
+      ],
+      "weight": 3,
+      "year": 1976,
+      "pin_cites": [
+        {
+          "page": "169, 187"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/us/428/0153-01"
+      ]
+    },
+    {
+      "cite": "463 U.S. 277",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6194264
+      ],
+      "weight": 3,
+      "year": 1983,
+      "pin_cites": [
+        {
+          "page": "290-292",
+          "parenthetical": "courts should be guided by objective criteria: (i) gravity of offense and harshness of penalty; (ii) comparison of severity of crimes for which same sentences imposed in same jurisdiction; and (iii"
+        },
+        {
+          "parenthetical": "courts should be guided by objective criteria: (i) gravity of offense and harshness of penalty; (ii) comparison of severity of crimes for which same sentences imposed in same jurisdiction; and (iii"
+        },
+        {
+          "parenthetical": "courts should be guided by objective criteria: (i) gravity of offense and harshness of penalty; (ii) comparison of severity of crimes for which same sentences imposed in same jurisdiction; and (iii) comparison of sentences imposed for commission of same offense in other jurisdictions"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/us/463/0277-01"
+      ]
+    },
+    {
+      "cite": "526 Pa. 374",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1825870
+      ],
+      "weight": 2,
+      "year": 1991,
+      "opinion_index": 1,
+      "case_paths": [
+        "/pa/526/0374-01"
+      ]
+    },
+    {
+      "cite": "66 A.3d 286",
+      "category": "reporters:state_regional",
+      "reporter": "A.3d",
+      "case_ids": [
+        7307594,
+        4328123
+      ],
+      "weight": 4,
+      "year": 2013,
+      "pin_cites": [
+        {
+          "page": "297"
+        },
+        {
+          "page": "298"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/a3d/66/0286-01",
+        "/pa/620/0115-01"
+      ]
+    },
+    {
+      "cite": "620 Pa. 115",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        4328123
+      ],
+      "year": 2013,
+      "opinion_index": 1,
+      "case_paths": [
+        "/pa/620/0115-01"
+      ]
+    },
+    {
+      "cite": "712 A.2d 791",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        11819579
+      ],
+      "pin_cites": [
+        {
+          "page": "795"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/a2d/712/0791-01"
+      ]
+    },
+    {
+      "cite": "36 A.3d 24",
+      "category": "reporters:state_regional",
+      "reporter": "A.3d",
+      "case_ids": [
+        4205851,
+        7295171,
+        7295141,
+        4207029
+      ],
+      "year": 2011,
+      "pin_cites": [
+        {
+          "page": "66"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/pa/613/0639-01",
+        "/a3d/36/0024-02",
+        "/a3d/36/0024-01",
+        "/pa/614/0001-01"
+      ]
+    },
+    {
+      "cite": "614 Pa. 1",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        4207029
+      ],
+      "year": 2011,
+      "opinion_index": 1,
+      "case_paths": [
+        "/pa/614/0001-01"
+      ]
+    },
+    {
+      "cite": "986 A.2d 128",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7291329,
+        7291355,
+        4196900,
+        4196478
+      ],
+      "year": 2009,
+      "pin_cites": [
+        {
+          "parenthetical": "states that have recognized right to jury determination of mental retardation generally have done so by statute; Danforth-based claim that state court might provide more protection than federal courts waived"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/a2d/986/0128-01",
+        "/a2d/986/0128-02",
+        "/pa/604/0459-01",
+        "/pa/604/0459-02"
+      ]
+    },
+    {
+      "cite": "604 Pa. 459",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        4196900,
+        4196478
+      ],
+      "year": 2009,
+      "pin_cites": [
+        {
+          "parenthetical": "states that have recognized right to jury determination of mental retardation generally have done so by statute; Danforth-based claim that state court might provide more protection than federal courts waived"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/pa/604/0459-01",
+        "/pa/604/0459-02"
+      ]
+    },
+    {
+      "cite": "552 U.S. 264",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        3675901
+      ],
+      "weight": 3,
+      "year": 2008,
+      "pin_cites": [
+        {
+          "page": "282"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/us/552/0264-01"
+      ]
+    },
+    {
+      "cite": "982 N.E.2d 181",
+      "category": "reporters:state_regional",
+      "reporter": "N.E.2d",
+      "year": 2012,
+      "opinion_index": 1
+    },
+    {
+      "cite": "836 N.W.2d 107",
+      "category": "reporters:state_regional",
+      "reporter": "N.W.2d",
+      "case_ids": [
+        7055847
+      ],
+      "year": 2013,
+      "opinion_index": 1,
+      "case_paths": [
+        "/nw2d/836/0107-01"
+      ]
+    },
+    {
+      "cite": "132 S.Ct. 2455",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        12407312
+      ],
+      "weight": 2,
+      "year": 2012,
+      "opinion_index": 1,
+      "case_paths": [
+        "/us/567/0460-01"
+      ]
+    },
+    {
+      "cite": "2013 WL 5486170",
+      "category": "reporters:specialty_west",
+      "reporter": "WL",
+      "opinion_index": 2
+    },
+    {
+      "cite": "732 F.3d 280",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        3709495
+      ],
+      "opinion_index": 2,
+      "case_paths": [
+        "/f3d/732/0280-01"
+      ]
+    },
+    {
+      "cite": "28 U.S.C. \u00a7 2255",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "pin_cites": [
+        {
+          "page": "(h)(2)"
+        }
+      ],
+      "opinion_index": 2
+    },
+    {
+      "cite": "2013 WL 364198",
+      "category": "reporters:specialty_west",
+      "reporter": "WL",
+      "year": 2013,
+      "pin_cites": [
+        {
+          "page": "*2",
+          "parenthetical": "emphasis in original"
+        }
+      ],
+      "opinion_index": 2
+    },
+    {
+      "cite": "99 So.3d 28",
+      "category": "reporters:state_regional",
+      "reporter": "So. 3d",
+      "case_ids": [
+        7003234,
+        7003202
+      ],
+      "opinion_index": 2,
+      "case_paths": [
+        "/so3d/99/0028-02",
+        "/so3d/99/0028-01"
+      ]
+    },
+    {
+      "cite": "536 U.S. 584",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        1254507
+      ],
+      "weight": 3,
+      "year": 2002,
+      "opinion_index": 2,
+      "case_paths": [
+        "/us/536/0584-01"
+      ]
+    },
+    {
+      "cite": "34 A.3d 1",
+      "category": "reporters:state_regional",
+      "reporter": "A.3d",
+      "case_ids": [
+        4205963,
+        7265404
+      ],
+      "year": 2011,
+      "pin_cites": [
+        {
+          "page": "55-56",
+          "parenthetical": "\"We recognize that the question of what in particular is substantive and what is procedural is not always clear.\""
+        }
+      ],
+      "opinion_index": 2,
+      "case_paths": [
+        "/pa/613/0371-01",
+        "/a3d/34/0001-01"
+      ]
+    },
+    {
+      "cite": "613 Pa. 371",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        4205963
+      ],
+      "year": 2011,
+      "pin_cites": [
+        {
+          "parenthetical": "\"We recognize that the question of what in particular is substantive and what is procedural is not always clear.\""
+        }
+      ],
+      "opinion_index": 2,
+      "case_paths": [
+        "/pa/613/0371-01"
+      ]
+    },
+    {
+      "cite": "5 A.3d 212",
+      "category": "reporters:state_regional",
+      "reporter": "A.3d",
+      "case_ids": [
+        7284711,
+        4198569,
+        7284661,
+        7284823,
+        4198104,
+        4198751
+      ],
+      "year": 2010,
+      "pin_cites": [
+        {
+          "page": "226",
+          "parenthetical": "Saylor, J., dissenting"
+        }
+      ],
+      "opinion_index": 2,
+      "case_paths": [
+        "/a3d/5/0212-02",
+        "/pa/607/0224-02",
+        "/a3d/5/0212-01",
+        "/a3d/5/0212-03",
+        "/pa/607/0224-01",
+        "/pa/607/0225-01"
+      ]
+    },
+    {
+      "cite": "607 Pa. 225",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        4198751
+      ],
+      "year": 2010,
+      "pin_cites": [
+        {
+          "parenthetical": "Saylor, J., dissenting"
+        }
+      ],
+      "opinion_index": 2,
+      "case_paths": [
+        "/pa/607/0225-01"
+      ]
+    },
+    {
+      "cite": "66 A.3d 286",
+      "category": "reporters:state_regional",
+      "reporter": "A.3d",
+      "case_ids": [
+        7307594,
+        4328123
+      ],
+      "weight": 2,
+      "year": 2013,
+      "pin_cites": [
+        {
+          "parenthetical": "applying Miller to juvenile on direct appeal"
+        }
+      ],
+      "opinion_index": 2,
+      "case_paths": [
+        "/a3d/66/0286-01",
+        "/pa/620/0115-01"
+      ]
+    },
+    {
+      "cite": "620 Pa. 115",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        4328123
+      ],
+      "weight": 2,
+      "year": 2013,
+      "pin_cites": [
+        {
+          "parenthetical": "applying Miller to juvenile on direct appeal"
+        }
+      ],
+      "opinion_index": 2,
+      "case_paths": [
+        "/pa/620/0115-01"
+      ]
+    },
+    {
+      "cite": "2013 Ark. 175",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        6948164
+      ],
+      "weight": 2,
+      "year": 2013,
+      "pin_cites": [
+        {
+          "page": "909-10"
+        }
+      ],
+      "opinion_index": 2,
+      "case_paths": [
+        "/sw3d/426/0906-01"
+      ]
+    },
+    {
+      "cite": "533 U.S. 656",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        9313540
+      ],
+      "weight": 3,
+      "year": 2001,
+      "pin_cites": [
+        {
+          "page": "665",
+          "parenthetical": "internal quotation marks and emphasis omitted"
+        },
+        {
+          "parenthetical": "internal quotation marks and emphasis omitted"
+        },
+        {
+          "parenthetical": "internal quotation marks and emphasis omitted"
+        }
+      ],
+      "opinion_index": 2,
+      "case_paths": [
+        "/us/533/0656-01"
+      ]
+    },
+    {
+      "cite": "560 U.S. 48",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        12448995,
+        3641893
+      ],
+      "weight": 3,
+      "year": 2010,
+      "pin_cites": [
+        {
+          "parenthetical": "prohibiting life without parole for non-homicide juvenile offenders"
+        },
+        {
+          "parenthetical": "prohibiting life without parole for non-homicide juvenile offenders"
+        },
+        {
+          "parenthetical": "prohibiting life without parole for non-homicide juvenile offenders"
+        }
+      ],
+      "opinion_index": 2,
+      "case_paths": [
+        "/l-ed-2d/176/0825-01",
+        "/us/560/0048-01"
+      ]
+    },
+    {
+      "cite": "986 A.2d 128",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7291329,
+        7291355,
+        4196900,
+        4196478
+      ],
+      "year": 2009,
+      "pin_cites": [
+        {
+          "page": "141-142"
+        }
+      ],
+      "opinion_index": 2,
+      "case_paths": [
+        "/a2d/986/0128-01",
+        "/a2d/986/0128-02",
+        "/pa/604/0459-01",
+        "/pa/604/0459-02"
+      ]
+    },
+    {
+      "cite": "604 Pa. 459",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        4196900,
+        4196478
+      ],
+      "year": 2009,
+      "opinion_index": 2,
+      "case_paths": [
+        "/pa/604/0459-01",
+        "/pa/604/0459-02"
+      ]
+    },
+    {
+      "cite": "115 So.3d 375",
+      "category": "reporters:state_regional",
+      "reporter": "So. 3d",
+      "case_ids": [
+        6999556
+      ],
+      "opinion_index": 2,
+      "case_paths": [
+        "/so3d/115/0375-01"
+      ]
+    },
+    {
+      "cite": "828 N.W.2d 685",
+      "category": "reporters:state_regional",
+      "reporter": "N.W.2d",
+      "year": 2012,
+      "pin_cites": [
+        {
+          "parenthetical": "deeming Miller procedural because it altered the manner in which the punishment was imposed"
+        }
+      ],
+      "opinion_index": 2
+    },
+    {
+      "cite": "298 Mich.App. 472",
+      "category": "reporters:state",
+      "reporter": "Mich. App.",
+      "case_ids": [
+        4085579
+      ],
+      "year": 2012,
+      "pin_cites": [
+        {
+          "parenthetical": "deeming Miller procedural because it altered the manner in which the punishment was imposed"
+        }
+      ],
+      "opinion_index": 2,
+      "case_paths": [
+        "/mich-app/298/0472-01"
+      ]
+    },
+    {
+      "cite": "2013 WL 69128",
+      "category": "reporters:specialty_west",
+      "reporter": "WL",
+      "year": 2012,
+      "pin_cites": [
+        {
+          "parenthetical": "concluding Miller not retroactive because it did not create a categorical bar to a penalty and because it was not a watershed rule"
+        }
+      ],
+      "opinion_index": 2
+    },
+    {
+      "cite": "831 N.W.2d 311",
+      "category": "reporters:state_regional",
+      "reporter": "N.W.2d",
+      "case_ids": [
+        7060020
+      ],
+      "opinion_index": 2,
+      "case_paths": [
+        "/nw2d/831/0311-01"
+      ]
+    },
+    {
+      "cite": "981 N.E.2d 1010",
+      "category": "reporters:state_regional",
+      "reporter": "N.E.2d",
+      "year": 2012,
+      "pin_cites": [
+        {
+          "parenthetical": "concluding Miller is retroactive because it created a new substantive rule, reinforced by Supreme Court's application of Miller to Jackson"
+        }
+      ],
+      "opinion_index": 2
+    },
+    {
+      "cite": "367 Ill.Dec. 282",
+      "category": "reporters:state",
+      "reporter": "Ill. Dec.",
+      "year": 2012,
+      "pin_cites": [
+        {
+          "parenthetical": "concluding Miller is retroactive because it created a new substantive rule, reinforced by Supreme Court's application of Miller to Jackson"
+        }
+      ],
+      "opinion_index": 2
+    },
+    {
+      "cite": "982 N.E.2d 181",
+      "category": "reporters:state_regional",
+      "reporter": "N.E.2d",
+      "year": 2012,
+      "pin_cites": [
+        {
+          "parenthetical": "concluding Miller is retroactive as a \"watershed rule\" of criminal procedure and recognizing that the Supreme Court reversed the judgment of Jackson"
+        }
+      ],
+      "opinion_index": 2
+    },
+    {
+      "cite": "367 Ill.Dec. 503",
+      "category": "reporters:state",
+      "reporter": "Ill. Dec.",
+      "year": 2012,
+      "pin_cites": [
+        {
+          "parenthetical": "concluding Miller is retroactive as a \"watershed rule\" of criminal procedure and recognizing that the Supreme Court reversed the judgment of Jackson"
+        }
+      ],
+      "opinion_index": 2
+    },
+    {
+      "cite": "836 N.W.2d 107",
+      "category": "reporters:state_regional",
+      "reporter": "N.W.2d",
+      "case_ids": [
+        7055847
+      ],
+      "weight": 3,
+      "year": 2013,
+      "pin_cites": [
+        {
+          "page": "115-116",
+          "parenthetical": "holding Miller retroactive because it mandated a new procedure resulting from \"a substantive change in the law\" and because of the Supreme Court's application of the new rule to Jackson, the defendant on collateral review"
+        },
+        {
+          "page": "116"
+        },
+        {
+          "page": "116",
+          "parenthetical": "\"There would have been no reason for the Court to direct such an outcome if it did not view the Miller rule as applying retroactively to cases on collateral review.\""
+        }
+      ],
+      "opinion_index": 2,
+      "case_paths": [
+        "/nw2d/836/0107-01"
+      ]
+    },
+    {
+      "cite": "542 U.S. 348",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        2528610
+      ],
+      "weight": 22,
+      "year": 2004,
+      "pin_cites": [
+        {
+          "page": "351"
+        },
+        {
+          "page": "351-352"
+        },
+        {
+          "page": "352"
+        },
+        {
+          "parenthetical": "internal quotation marks omitted"
+        },
+        {
+          "parenthetical": "internal quotation marks omitted, emphasis in original"
+        },
+        {
+          "page": "353"
+        },
+        {
+          "page": "351-352"
+        },
+        {
+          "page": "352"
+        },
+        {
+          "page": "355"
+        }
+      ],
+      "opinion_index": 2,
+      "case_paths": [
+        "/us/542/0348-01"
+      ]
+    },
+    {
+      "cite": "489 U.S. 288",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        12032050
+      ],
+      "weight": 5,
+      "year": 1989,
+      "pin_cites": [
+        {
+          "page": "300"
+        }
+      ],
+      "opinion_index": 2,
+      "case_paths": [
+        "/us/489/0288-01"
+      ]
+    },
+    {
+      "cite": "543 U.S. 551",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        5928574
+      ],
+      "weight": 3,
+      "year": 2005,
+      "pin_cites": [
+        {
+          "parenthetical": "precluding death sentence for juveniles"
+        },
+        {
+          "parenthetical": "precluding death sentence for juveniles"
+        },
+        {
+          "parenthetical": "precluding death sentence for juveniles"
+        }
+      ],
+      "opinion_index": 2,
+      "case_paths": [
+        "/us/543/0551-01"
+      ]
+    },
+    {
+      "cite": "132 S.Ct. 2455",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        12407312
+      ],
+      "weight": 13,
+      "year": 2012,
+      "pin_cites": [
+        {
+          "page": "2464"
+        },
+        {
+          "page": "2460"
+        },
+        {
+          "page": "2471"
+        },
+        {
+          "page": "2475"
+        },
+        {
+          "page": "2489"
+        },
+        {
+          "page": "2464"
+        },
+        {
+          "parenthetical": "internal citations and quotation marks omitted"
+        },
+        {
+          "page": "2465"
+        },
+        {
+          "page": "2460"
+        },
+        {
+          "page": "2467"
+        },
+        {
+          "page": "2468",
+          "parenthetical": "internal citations omitted"
+        }
+      ],
+      "opinion_index": 2,
+      "case_paths": [
+        "/us/567/0460-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 2474,
+    "char_count": 83896,
+    "ocr_confidence": 0.737,
+    "pagerank": {
+      "raw": 4.003785375579558e-07,
+      "percentile": 0.9059062902895111
+    },
+    "sha256": "f69b8e50f63e9c8421c33eb6a75358395b0013a270c09e164ad6000d2d219af5",
+    "simhash": "1:52ece508d6cc4f1c",
+    "word_count": 13091
+  },
+  "last_updated": "2024-02-27T16:59:34.878718+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "BEFORE: CASTILLE, C.J., SAYLOR, EAKIN, BAER, TODD, McCAFFERY, STEVENS, JJ.",
+      "Chief Justice CASTILLE and Justices EAKIN and STEVENS join the opinion.",
+      "Chief Justice CASTILLE files a concurring opinion.",
+      "Justice BAER files a dissenting opinion in which Justices TODD and McCAFFERY join.",
+      "Justices TODD and McCAFFERY join this opinion."
+    ],
+    "parties": [
+      "COMMONWEALTH of Pennsylvania, Appellee v. Ian CUNNINGHAM, Appellant."
+    ],
+    "opinions": [
+      {
+        "text": "OPINION\nJustice SAYLOR.\nThis appeal involves a post-conviction challenge to the imposition of a mandatory sentence of life imprisonment, without the possibility of parole, for a murder committed by a juvenile. Specifically, we are asked to determine whether Miller v. Alabama, - U.S. -, 132 S.Ct. 2455, 183 L.Ed.2d 407 (2012) \u2014 which holds that \u201cthe Eighth Amendment forbids a sentencing scheme that mandates life in prison without possibility of parole for juvenile offenders,\u201d id. at-, 132 S.Ct. at 2469 \u2014 applies retroactively to Appellant\u2019s 2002 judgment of sentence, which became final in 2005.\nIn 1999, Appellant, his codefendant, and two accomplices robbed the occupants of a vehicle at gunpoint. In the course of the robbery, Appellant shot and killed the victim, Daniel Delarge, Jr. At the time, Appellant was seventeen years of age.\nIn 2002, Appellant was convicted of second-degree murder and related offenses. He received a mandatory sentence of life imprisonment without the possibility of parole, plus a term of imprisonment of 1% to 15 years. See 18 Pa.C.S. \u00a7 1102(b); 61 Pa.C.S. \u00a7 6137. On direct appeal, the Superior Court affirmed; this Court denied Appellant\u2019s petition for allowance of appeal; and Appellant did not seek discretionary review in the United States Supreme Court.\nAppellant timely filed a post-conviction petition claiming, inter alia, that the life-without-parole sentence violated his rights under the Eighth Amendment to the United States Constitution, as extended to the States via the Fourteenth Amendment. As of the initial filing, Appellant relied primarily on Roper v. Simmons, 543 U.S. 551, 125 S.Ct. 1183, 161 L.Ed.2d 1 (2005), which held that the Constitution precludes entry of a judgment of sentence of death for defendants under the age of eighteen at the time of their capital crime or crimes. See id. at 578, 125 S.Ct. at 1200. The post-conviction court denied the petition without an evidentiary hearing, and the Superior Court affirmed in a memorandum opinion, concluding that Roper had no bearing on life sentences. Appellant filed a petition for allowance of appeal, which was held in abeyance pending the disposition of a petition seeking discretionary review before this Court in Commonwealth v. Batts, 79 MAP 2009. The Batts case concerns a challenge to the imposition of a mandatory life sentence for crimes committed by a minor asserted on direct appeal.\nThe United States Supreme Court issued the Miller decision in June 2012, rendering Pennsylvania\u2019s mandatory scheme of life imprisonment for first- and second-degree murder unconstitutional, as applied to offenders under the age of eighteen at the time of their crimes. Paralleling Batts and Cunningham in this Court, the federal review implemented by the High Court also encompassed one case in the direct-review chain, Miller v. Alabama, No. 10-9646, and another at a post-conviction stage, Jackson v. Hobbs, No. 10-9647. In a deeply divided opinion, the United States Supreme Court reversed the affirmance of the judgment of sentence and the affirmance of a denial of post-conviction relief, respectively, by state-level reviewing courts. See Miller, - U.S. at-, 132 S.Ct. at 2475.\nIn its reasoning, the Miller majority initially explained that its decision turned on proportionality. The Supreme Court previously has found this concept to be central to the Eighth Amendment\u2019s prohibition against cruel and unusual punishment; further, the Court admonished that proportionality is to be assessed \u201cless through a historical prism than according to the evolving standards of decency that mark the progress of a maturing society.\u201d Id. at-, 132 S.Ct. at 2463 (citations and internal quotation marks omitted).\nIn its evolving-standards-of-decency evaluation, the Miller majority found two \u201cstrands of precedent\u201d to be particularly pertinent. Id. The first of these involves the categorical prohibition of certain punishments for specified classes of offenders. The second requires individualized sentencing for defendants facing the death penalty, and, by extension, other of the most serious penalties. See id. at-, 132 S.Ct. at 2466.\nBased on these lines of authority, the Miller majority announced that mandatory life-without-parole sentences, as applied to those under the age of eighteen, offend the Eighth Amendment by preventing sentencing authorities from considering juveniles\u2019 \u201cdiminished culpability and heightened capacity for change.\u201d Id. at-, 132 S.Ct. at 2469; see also id. at -, 132 S.Ct. at 2466 (opining that the \u201cimposition of a State\u2019s most severe penalties on juvenile offenders cannot proceed as though they were not children\u201d); id. at-, 132 S.Ct. at 2467 (observing that \u201c[s]uch mandatory penalties, by their nature, preclude a sentencer from taking account of an offender\u2019s age and the wealth of characteristics and circumstances attendant to it\u201d). See generally Cara H. Drinan, Graham on the Ground, 87 Wash. L. Rev. 51, 62 (2012) (observing that the line of decisions including Miller reflect what legal scholars have termed a developing \u201cyouth is different\u201d jurisprudence). The majority also remarked that its decision requires only that a sentencing authority \u201cfollow a certain process\u201d before imposing this harshest possible penalty on a juvenile offender \u2014 entailing consideration of the offender\u2019s youth and attendant characteristics. Miller,-U.S. at-, 132 S.Ct. at 2471.\nSignificantly, for present purposes, the Miller majority did not specifically address the question of whether its holding applies to judgments of sentence for prisoners, such as Appellant, which already were final as of the time of the Miller decision. As such, the opinion does not set out the principles governing the High Court\u2019s retroactivity jurisprudence.\nBriefly, Teague v. Lane, 489 U.S. 288, 109 S.Ct. 1060, 103 L.Ed.2d 334 (1989) (plurality), delineated a general rule of non-retroactivity for new procedural, constitutional rules announced by the Court, Wayne R. Lafave, Jerold H. Israel, Nancy J. King & Or\u00edn S. Kerr, 1 Crim. Proc. \u00a7 2.11(e) (3d ed.2012) (relating that Teague has been described as establishing a \u201claw at the time\u201d principle), subject to two narrow exceptions. This construct was solidified by the majority decision in Penry v. Lynaugh, 492 U.S. 302, 329-30, 109 S.Ct. 2934, 2952-53, 106 L.Ed.2d 256 (1989). As relevant here, the exceptions extend to \u201crules prohibiting a certain category of punishment for a class of defendants because of their status or offense,\u201d Penry, 492 U.S. at 330, 109 S.Ct. at 2953, and \u201cwatershed rules of criminal procedure implicating the fundamental fairness and accuracy of the criminal proceeding.\u201d Horn v. Banks, 536 U.S. 266, 271 n. 5, 122 S.Ct. 2147, 2150 n. 5, 153 L.Ed.2d 301 (2002) (quoting Saffle, 494 U.S. at 495, 110 S.Ct. at 1264 (internal quotations omitted)). More recently, in Schriro v. Summerlin, 542 U.S. 348, 124 S.Ct. 2519, 159 L.Ed.2d 442 (2004), the High Court appears to have merged the first Teague exception with the principle that new substantive rules generally apply retroactively. See id. at 351-52 & n. 4. 124 S.Ct. at 2522-23 & n. 4. See generally Drinan, Graham on the Ground, 87 Wash. L.Rev. at 66 (explaining that \u201cthe Court has shifted its terminology somewhat and has described new rules as \u2018substantive\u2019 when they \u2018alter[] the range of conduct or the class of persons that the law punishes,\u2019 rather than describing them as falling within the first of the two nonretroactivity exceptions.\u201d (footnotes omitted)).\nAfter Miller\u2019s issuance, the litigants incorporated their assessments of the decision into their submissions, along with developed arguments concerning its prospective versus retroactive application. It is Appellant\u2019s position that the holding in Miller applies retroactively to prisoners, such as Appellant, serving mandatory life-without-parole sentences for crimes committed as juveniles, even where they have exhausted their direct appeal rights and are proceeding under the Post Conviction Relief Act, 42 Pa.C.S. \u00a7\u00a7 9541-9546. According to Appellant, the United States Supreme Court unambiguously sanctioned retroactive application in Miller, since it reversed the order of a state appellate court affirming the dismissal of a post-conviction petition in the Jackson case. See Miller, \u2014 U.S. at-, 132 S.Ct. at 2475. In this respect, Appellant invokes the admonishment that, \u201conce a new rule is applied to the defendant in the case announcing the rule, evenhanded justice requires that it be applied retroactively to all who are similarly situated.\u201d Teague, 489 U.S. at 300, 109 S.Ct. at 1070; see also id. at 315-16, 109 S.Ct. at 1078 (indicating that \u201chabeas corpus cannot be used as a vehicle to create new constitutional rules of criminal procedure unless those rules would be applied retroactively to all defendants on collateral review through one of the two exceptions we have articulated\u201d (emphasis in original)).\nAdditionally, Appellant emphasizes that several of the decisions in the \u201cstrands of precedent\u201d upon which the Miller majority relied are applied retroactively. See, e.g., In re Sparks, 657 F.3d 258, 262 (5th Cir.2011) (observing that Atkins, Roper, and Graham each have been held by various courts to be retroactive). Furthermore, it is Appellant\u2019s position that Miller articulates a rule of substantive law, which, by its nature, is retroactive. See, e.g., Brief for Appellant at 24 (\u201cThe new rule announced in Miller is substantive, and therefore retroactive, because \u2018it alters ... the class of persons that the law punishes.\u2019 \u201d (quoting Schriro v. Summerlin, 542 U.S. at 353, 124 S.Ct. at 2519)). For the same reason, even if Teague\u2019s general rule of non-retroactivity were relevant in the first instance, Appellant asserts, the Miller rule meets the first exception to it.\nIn response to Appellant\u2019s lead argument that the holding in Jackson compels retroactive application of Miller in collateral review settings, the Commonwealth observes that the Miller Court did not, in fact, reverse Jackson\u2019s judgment of sentence. Rather, the Commonwealth explains, the United States Supreme Court reversed only the judgments of the state appellate courts and remanded \u201cfor further proceedings not inconsistent with this opinion.\u201d Miller, - U.S. at -, 132 S.Ct. at 2475. As such, the Commonwealth posits that the state could raise a Teague bar to the new rule in that case to prevent resentencing. Moreover, the Commonwealth stresses that the Miller majority simply did not address retroactivity, and, thus, there simply is no dispositive ruling on the subject. See Brief for the Commonwealth at 14 (citing Goeke v. Branch, 514 U.S. 115, 117, 115 S.Ct. 1275, 1276, 131 L.Ed.2d 152 (1995) (explaining that \u201ca court need not entertain the [:Teague ] defense if the State has not raised it.\u201d)).\nFurthermore, the Commonwealth highlights: Miller was decided more than six years after Appellant\u2019s judgment of sentence became final and nearly three years after the Superi- or Court affirmed the denial of post-conviction relief; the Teague general rule is one of wow-retroactivity; and the exceptions to that rule have been construed narrowly by the courts.\nIn terms of the first Teague exception, the Commonwealth vigorously refutes Appellant\u2019s contention that Miller entirely forecloses any certain category of punishment for juvenile offenders. According to the Commonwealth, Miller, by its express terms, \u201cbans nothing,\u201d but, rather, concerned only the manner of determining whether a particular sentence should be imposed. Brief for the Commonwealth at 16. In this regard, the Commonwealth quotes the Miller majority\u2019s own depiction of its ruling, as follows:\nOur decision does not categorically bar a penalty for a class of offenders or type of crime ... Instead, it mandates only that a sentencer follow a certain process \u2014 considering an offender\u2019s youth and attendant characteristics \u2014 before imposing a particular penalty.\nMiller, - U.S. at -, 132 S.Ct. at 2471 (citations omitted; emphasis added); accord id. at -, 132 S.Ct. at 2469 (\u201c[W]e do not consider Jackson\u2019s and Miller\u2019s alternative argument that the Eighth Amendment requires a categorical bar on life without parole for juveniles, or at least for those 14 and younger.\u201d). In the Commonwealth\u2019s view, Appellant\u2019s assertion of a categorical bar is tantamount to an exercise in \u201cword games,\u201d in its admixture of procedural and substantive aspects of schemes imposing mandatory life sentences for certain classes of murder. Brief for the Commonwealth at 18 n. 8.\nThe Commonwealth also briefly addresses the second Teague exception for \u201cwatershed rules,\u201d stressing, in particular, the repeated admonitions of the High Court that such exception is tightly limited. See Brief for the Commonwealth at 14 (citing Whorton v. Bockting, 549 U.S. 406, 417-18, 127 S.Ct. 1173, 1181-82, 167 L.Ed.2d 1 (2007) (indicating that, \u201cin the years since Teague, we have rejected every claim that a new rule satisfied the requirements for watershed status\u201d), Schriro v. Summerlin, 542 U.S. at 352, 124 S.Ct. at 2523 (relating that \u201cit is unlikely that any [watershed rule] ha[s] yet to emerge\u201d (internal citations omitted)), and Beard v. Banks, 542 U.S. 406, 417, 124 S.Ct. 2504, 2513-14, 159 L.Ed.2d 494 (2004) (\u201c[I]t should come as no surprise that we have yet to find a new rule that falls under the second Teague exception.\u201d)).\nIn terms of Appellant\u2019s argument that the retroactive application of cases from the two \u201cstrands of precedent\u201d relied upon by the Miller majority compels Miller\u2019s own retrospective application, the Commonwealth regards the contention as \u201clegally incoherent.\u201d Brief for the Commonwealth at 15; see also id. at 15-16 (\u201cThere is no \u2018strands of precedent\u2019 exception to Teague [.]\u201d). As to cases within the first strand, the Commonwealth rests on its observation that it is the nature of the rules in issue as substantive rules that resulted in retroactive application, whereas, the Commonwealth maintains, the Miller rule is purely a procedural one. With regard to the second strand, the Commonwealth highlights that various cases that require consideration of \u201cthe characteristics of a defendant and the details of his offense before sentencing him\u201d are indeed subject to Teague. Id. at 16; accord LaFave, 7 Crim. Proc. \u00a7 28.6(e) (\u201cSince Teague, the Court has rejected arguments that other procedural requirements for death sentences [should] be applied retroactively.\u201d).\nIt is the Commonwealth\u2019s core position that Appellant\u2019s claim must be decided under the law as it stood at the time his conviction became final in 2005.\nBoth parties have presented post-submission communications, with Appellant furnishing copies of recent decisions finding Miller to be retroactive, see, e.g., State v. Ragland, 836 N.W.2d 107 (Iowa 2013); Jones v. State, 122 So.3d 698 (Miss.2013); People v. Williams, 367 Ill.Dec. 503, 982 N.E.2d 181 (2012); People v. Morfin, 367 Ill.Dec. 282, 981 N.E.2d 1010 (2012), and the Commonwealth pinpointing decisions finding Miller to be non-retroactive, see, e.g., In re Morgan, 713 F.3d 1365 (11th Cir.2013); Chambers v. State, 831 N.W.2d 311 (Minn.2013); Craig v. Cain, No. 12-30035, slip op., 2013 WL 69128; People v. Carp, 298 Mich.App. 472, 828 N.W.2d 685 (2012); Geter v. State, 115 So.3d 375 (Fla.App.2012). Our review of the legal issues presented is plenary.\nAs a threshold matter, we reiterate that Appellant\u2019s position that we are obliged to apply Miller retroactively is based solely upon retroactivity principles applied by the United States Supreme Court in conjunction with its development of federal constitutional doctrine. This limitation is significant, because the High Court has determined that Teague does not limit the authority of state courts to provide remedies for violations deemed non-retroactive under Teague. See Danforth v. Minnesota, 552 U.S. 264, 282, 128 S.Ct. 1029, 1042, 169 L.Ed.2d 859 (2008).\nThis Court, however, generally has looked to the Teague doctrine in determining retroactivity of new federal constitutional rulings. See, e.g., Commonwealth v. Hughes, 581 Pa. 274, 306-10, 865 A.2d 761, 780-82 (2004). Certainly, this practice is subject to potential refinement, since \u201cthe Teague rule of nonretroactivity was fashioned to achieve the goals of federal habeas while minimizing federal intrusion into state criminal proceedings.\u201d Danforth, 552 U.S. at 280, 128 S.Ct. at 1041. Accordingly, the Teague doctrine is not necessarily a natural model for retroactivity jurisprudence as applied at the state level. See, e.g., Commonwealth v. Bracey, 604 Pa. 459, 486, 986 A.2d 128, 144 (2009) (recognizing that \u201ca more sophisticated analysis\u201d may be required on state collateral review in some circumstances); see also supra note 7 (alluding to a few potential criticisms of Teague and its progeny).\nOur present, default practice of proceeding no further than Teague requires as a matter of federal constitutional law is, in part, a function of the arguments which have been presented to us, where, as here, the litigants have not provided developed argumentation to assist in the fashioning of any broader retroactivity principles. Moreover, state judges who may be circumspect about evolving normative pronouncements of five of nine Justices \u2014 which forcefully are rejected by four others \u2014 may be reluctant to apply those standards more broadly than is absolutely required. Cf. Commonwealth v. Sanchez, 614 Pa. 1, 70, 36 A.3d 24, 66 (2011) (reflecting a reluctance, in the absence of a common law policy or directive from the Pennsylvania General Assembly, to \u201cgo further than what is affirmatively commanded by the High Court\u201d in the implementation of new federal constitutional doctrine). Thus, litigants who may advocate broader retrospective extension of a new federal constitutional rule would do best to try to persuade this Court both that the new rule is resonate with Pennsylvanian norms and that there are good grounds to consider the adoption of broader retroactivity doctrine which would permit the rule\u2019s application at the collateral review stage. In the latter regard, the Court would benefit from recognition and treatment of the strong interest in finality inherent in an orderly criminal justice system, as well as the social policy and concomitant limitations on the courts\u2019 jurisdiction and authority reflected in the Post Conviction Relief Act. Because the appellant in this matter has not set an appropriate stage for either pillar of such review, the Teague line of analysis remains the appropriate default litmus governing the present appeal.\nHere, we find the application of this analysis to be fairly straightforward. Initially, we reject Appellant\u2019s position that the Miller Court\u2019s reversal of the state appellate court decision affirming the denial of post-conviction relief in the Jackson case compels the conclusion that Miller is retroactive. In the first instance, it is not clear that the issue was even placed before the Court, and, as the Commonwealth observes, the Supreme Court need not entertain questions of retroactive application where the government has not raised it. See Goeke, 514 U.S. at 117, 115 S.Ct. at 1276; cf. Carp, 828 N.W.2d at 713 (\u201cIn Jackson, because the State did not raise the issue of retroactivity, the necessary predicate for the Court to resolve the question of retroactivity was waived.\u201d). Whether the matter was waived or, as the Commonwealth contends, remained available to be asserted on remand is of no moment here, since the United States Supreme Court has made clear enough that Teague determinations are not inherently implicit in all new constitutional rulings implemented by that Court. But see Williams, 367 Ill.Dec. 503, 982 N.E.2d at 197 (deriving support for the holding that Miller\u2019s holding is retroactive from its disposition of the Jackson case); Morfin, 367 Ill.Dec. 282, 981 N.E.2d at 1023 (same). Rather, in the absence of a specific, principled retroactivity analysis by the United States Supreme Court (or a functional equivalent), we do not believe that a Teague assessment by subordinate state courts is foreclosed.\nWe also agree with the Commonwealth that the first Teague exception does not apply to the Miller rule. Since, by its own terms, the Miller holding \u201cdoes not categorically bar a penalty for a class of offenders,\u201d Miller, - U.S. at -, 132 S.Ct. at 2471, (and because it does not place any conduct beyond the State\u2019s power to punish at all, see supra note 6), it is procedural and not substantive for purposes of Teague. Accord, e.g., Craig v. Cain, No. 12-30035, slip op., 2013 WL 69128, at *2 (\u201cMiller does not satisfy the test ... because it does not categorically bar all sentences of life imprisonment for juveniles; Miller bars only those sentences made mandatory by a sentencing scheme.\u201d).\nAs to the second Teague exception, as we have previously noted, Appellant has not developed his arguments in such terms. We will say that, given the high importance attached by the Miller majority to the new rule which it discerned, it seems possible that some Justices of the United States Supreme Court may find the rule to be of the watershed variety. Accord Williams, 367 Ill.Dec. 503, 982 N.E.2d at 197 (holding that Miller\u2019s holding qualifies as a watershed rule of criminal procedure under the second Teague, exception). We doubt, however, that a majority of the Justices would broaden the exception beyond the exceedingly narrow (or, essentially, class-of-one) parameters reflected in the line of decisions referenced by the Commonwealth. Accord Chambers, 831 N.W.2d at 311 (concluding that Miller does not establish a watershed rule because it focuses exclusively on sentencing and does not alter bedrock procedural elements essential to fairness of a proceeding); Craig v. Cain, No. 12-30035, 2013 WL 69128, at *2 (depicting Miller as \u201can outgrowth of the Court\u2019s prior decisions that pertain to individualized-sentencing determinations,\u201d rather than a watershed rule broadly impacting fundamental fairness and accuracy in the proceedings). According to the Court, the exception is limited to \u201csweeping\u201d changes on the order of Gideon v. Wainwright, 372 U.S. 335, 83 S.Ct. 792, 9 L.Ed.2d 799 (1963) (holding that all indigent defendants charged with felonies are entitled to appointed counsel); modifications of a less broadscale nature, while they may be very important, simply do not require retroactive application, under the second Teague exception. Whorton v. Bockting, 549 U.S. at 421, 127 S.Ct. at 1183-84 (citations omitted).\nAll Justices of this Court and the United States Supreme Court share the sentiment that \u201c[determining the appropriate sentence for a teenager convicted of murder presents grave and challenging questions of morality and social policy.\u201d Miller, - U.S. at -, 132 S.Ct. at 2477 (Roberts, C.J., dissenting, joined by Scalia, Thomas, and Alito, JJ.). Our role in establishing social policy in the arena is a limited one, however. Here, applying settled principles of appellate review, nothing in Appellant\u2019s arguments persuades us that Miller\u2019s proscription of the imposition of mandatory life-without-parole sentences upon offenders under the age of eighteen at the time their crimes were committed must be extended to those whose judgments of sentence were final as of the time of Miller\u2019s announcement. See generally Geter, 115 So.3d at 377 (\u201cClearly and unequivocally, the Supreme Court distinguished between the substantive determinations of a categorical bar prohibiting a \u2018penalty for a class of offenders or type of crime,\u2019 as in Roper and Graham, and the procedural determination in Miller that merely requires consideration of mitigating factors of youth in the sentencing process.\u201d (quoting Miller, \u2014 U.S. at -, 132 S.Ct. at 2471)). See generally LaFave, 1 Crim. Proc. \u00a7 2.11(e) (\u201cTeague has made new rulings very rarely applicable retroactively on habeas review[.]\u201d).\nThe order of the Superior Court is affirmed.\nChief Justice CASTILLE and Justices EAKIN and STEVENS join the opinion.\nChief Justice CASTILLE files a concurring opinion.\nJustice BAER files a dissenting opinion in which Justices TODD and McCAFFERY join.\n. Under the Juvenile Act, murder is excluded from the definition of delinquent acts generally adjudicated by juvenile courts. See 42 Pa.C.S. \u00a7\u00a7 6302, 6322(a). Accordingly, murder prosecutions are commenced in adult criminal court, subject to the potential for transfer to juvenile court, upon an appropriate showing by a defendant. See id. \u00a7 6322(a).\n. See id. at-, 132 S.Ct. at 2463 (citing Kennedy v. Louisiana, 554 U.S. 407, 128 S.Ct. 2641, 171 L.Ed.2d 525 (2008) (holding that imposing the death penally for non-homicide crimes violates the Eighth Amendment); Atkins v. Virginia, 536 U.S. 304, 122 S.Ct. 2242, 153 L.Ed.2d 335 (2002) (banning the execution of mentally retarded individuals); Roper, 543 U.S. at 578, 125 S.Ct. at 1200; and Graham v. Florida, 560 U.S. 48, 81-82, 130 S.Ct. 2011, 2034, 176 L.Ed.2d 825 (2010) (holding that a life-without-parole sentence violates the Eighth Amendment, when imposed on a juvenile non-homicide offender)).\n. See id. at -, 132 S.Ct. at 2463-64 (citing Woodson v. North Carolina, 428 U.S. 280, 96 S.Ct. 2978, 49 L.Ed.2d 944 (1976) (plurality) (holding that a North Carolina statute requiring a mandatory death sentence for first-degree murder violated the Eighth Amendment), and Lockett v. Ohio, 438 U.S. 586, 98 S.Ct. 2954, 57 L.Ed.2d 973 (1978) (plurality) (invalidating an Ohio statute which limited the range of mitigation which could be considered by the sentencing authority in a capital proceeding)).\n. The Miller decision subsumes three separate dissenting opinions supported, to various measures, by four Justices, demonstrating, at the very least, that the evolving norms discerned by the majority Justices are not universally shared. See, e.g., Miller, - U.S. at-, 132 S.Ct. at 2477 (Roberts, C.J., joined by Scalia, Thomas, and Alito, JJ., dissenting) (\"Put simply, if a 17-year-old is convicted of deliberately murdering an innocent victim, it is not \u2018unusual\u2019 for the murderer to receive a mandatory sentence of life without parole. That reality should preclude finding that mandatory life imprisonment for juvenile killers violates the Eighth Amendment.\u201d).\nIn a joining concurrence, Justice Breyer, joined by Justice Sotomayor, took the position that the federal constitution requires a determination that the defendant \"killed or intended to kill\u201d the victim before the State may seek even discretionary imposition of a life-without-parole sentence. See Miller, - U.S. at -, 132 S.Ct. at 2475-77 (Breyer, J., concurring). The opinion reflects a concern that strict application of felony-murder and transferred-intent theories may produce an untenable mismatch between culpability and punishment as applied to individuals under the age of eighteen. See id.\n. There is no dispute in the present appeal that Miller embodies a new constitutional rule. See Teague 489 U.S. at 301, 109 S.Ct. at 1070 (\u201cIn general ... a case announces a new rule when it breaks new ground or imposes a new obligation on the States or the Federal Government\u201d or \"was not dictated by precedent existing at the time the defendant\u2019s conviction became final\u201d (emphasis in original)); see also Graham v. Collins, 506 U.S. 461, 467, 113 S.Ct. 892, 898, 122 L.Ed.2d 260 (1993) (explaining that \"unless reasonable jurists hearing [a] petitioner\u2019s claim at the time his conviction became final 'would have felt compelled by existing precedent' to rule in his favor, we are barred from doing so now\" (quoting Saffle v. Parks, 494 U.S. 484, 488, 110 S.Ct. 1257, 1260, 108 L.Ed.2d 415 (1990))). See generally LaFave, 1 Crim. Proc. \u00a7 2.11(e) (\"Under a long line of Teague progeny, any reading of Supreme Court precedent that is more expansive than what was \u2018dictated\u2019 by that precedent \u2014 i.e., any reading beyond the narrowest reasonable reading of that precedent \u2014 can readily be viewed as a 'new rule.\u2019 \u201d (footnote omitted)).\nAs developed below, however, the litigants differ concerning whether Miller\u2019s effect is substantive versus procedural.\n. The first Teague exception also extends to new rules placing certain primary conduct beyond the State\u2019s power to punish at all. See Penry, 492 U.S. at 330, 109 S.Ct. at 2953.\n. One effect of this merger is to solidify, and narrow, the range of matters which may be denominated as substantive. Such limitation may be salutary in terms of enhancing the accessibility and certainty of retroactivity doctrine, see generally Laudenberger v. Port Auth., 496 Pa. 52, 56, 436 A.2d 147, 150 (1981) (remarking, albeit in a different context, that the \u201cattempt to devise a universal principle for determining whether a rule is inherently procedural or substantive in nature has met with little success in the history of our jurisprudence\u201d). It seems problematic, to this author at least, to the degree that it excludes matters which otherwise appear to have a potent substantive dynamic (under the more conventional understanding of the word \"substantive\u201d).\nIn this regard, to some degree, modern application of the Teague doctrine may be viewed, by some, as more an exercise in (perhaps necessary) line drawing than as a precise demarcation between rules which are innately substantive versus procedural in character, or as an effort to address the treatment of the vast range of rules having both attributes in varying degrees.\n. Appellant also relies upon Tyler v. Cain, 533 U.S. 656, 121 S.Ct. 2478, 150 L.Ed.2d 632 (2001), as does the Commonwealth. While the majority opinion in Tyler contains numerous statements and explanations concerning retroactivity, it arose in the context of the limits on successive habeas corpus petitions imposed by the Antiterrorism and Effective Death Penalty Act of 1996, 110 Stat. 1214 (the \"AEDPA\u201d). See Tyler, 533 U.S. at 660, 121 S.Ct. at 2481. Such enactment substantially curtails the justiciability of serial petitions, subject to a few exceptions, including for claims that \"rel[y] on a new rule of constitutional law, made retroactive to cases on collateral review by the Supreme Court, that was previously unavailable.\" 28 U.S.C. \u00a7 2244(b)(2)(A) (emphasis added).\nWe find it unnecessary, for purposes of the present appeal, to decipher if, or to what extent, the High Court's statements concerning the effect of the AEDPA upon serial, federal habeas corpus claims impact upon the application of the judicially crafted Teague construct as applied in the setting of a state post-conviction petition.\n. Notably, while Appellant alludes to the second Teague exception in discussing the jurisprudence of the United States Supreme Court, he does not advance any argument that such exception applies to the rule of law announced in Miller.\n. As it turns out, the state did not do so in Jackson, but, rather, conceded retroactivity. See Jackson v. Norris, 2013 Ark. 175, 426 S.W.3d 906 (2013). Given this concession, the Arkansas Supreme Court did not perform a principled Teague analysis, which is our task here.\n. See, e.g., Beard v. Banks, 542 U.S. at 419-20, 124 S.Ct. at 2515 (holding that an Eighth Amendment capital sentencing rule invalidating instructions that prevent some jurors from considering mitigating evidence was new and inapplicable on collateral review per Teague); Graham v. Collins, 506 U.S. at 463, 113 S.Ct. at 895 (declining to \"decide whether the jury that sentenced [a prisoner] to death was able to give effect, consistent with the Eighth and Fourteenth Amendments, to mitigating evidence of [the prisoner\u2019s] youth, family background, and positive character traits,\u201d because doing so would require retrospective application of a new rule, contrary to Teague). See generally Craig v. Cain, No. 12-30035, slip op., 2013 WL 69128, at *2 (5th Cir. Jan. 4, 2013) (explaining that \"the Supreme Court has denied retroactive application of prohibitions against weighing invalid aggravating circumstances in certain circumstances, imposition of a death sentence by a jury that has been led to believe responsibility for determining the appropriateness of a death sentence rests elsewhere, and capital-sentencing schemes that foreclose a jury from considering all mitigating evidence.\u201d).\n. Some majority rulings of the United States Supreme Court have espoused the position that \"new rules\u201d are not really \u201cnew rules\u201d at all, but rather, lie in a sort of inert existence prior to the date of their announcement. See, e.g., Danforth, 552 U.S. at 271, 128 S.Ct. at 1035 (\"As we have already explained, the source of a \u2018new rule' is the Constitution itself, not any judicial power to create new rules of law. Accordingly, the underlying right necessarily pre-exists our articulation of the new rule.\u201d). In our view, however, this sort of originalist philosophy is inconsistent with the \"evolving standards\u201d overlay which has been engrafted onto the Eighth Amendment, as reflected in Miller and its predecessors. Conceptually, we are unable to grasp that a specific right which has \"evolved\u201d from a source that did not originally contemplate that right \u2014 albeit that the source may have allowed for later evolutionary expansion \u2014 rationally can be said to have pre-existed the evolutionary process which produced it. The reluctance to expand new rules announced under the High Court\u2019s evolving-standards jurisprudence into the state post-conviction context beyond what is required of this Court may also be explained, partly, in terms of this conceptual difference. Cf. generally Drinan, Graham on the Ground, 87 Wash. L.Rev. at 64 (observing that \"scholars historically have criticized the U.S. Supreme Court\u2019s opaque retroactivity doctrine\u201d (footnote omitted)).\n. See, e.g., Commonwealth v. Sam, 597 Pa. 523, 542, 952 A.2d 565, 576 (2008) (\"There is absolutely no doubt that there is an enduring societal interest in the finality of criminal proceedings\u201d); accord Calderon v. Thompson, 523 U.S. 538, 556, 118 S.Ct. 1489, 1501, 140 L.Ed.2d 728 (1998) (\"Only with real finality can the victims of crime move forward knowing the moral judgment will be carried out.\u201d); McCleskey v. Zant, 499 U.S. 467, 491, 111 S.Ct. 1454, 1468, 113 L.Ed.2d 517 (1991) (\"One of the law's very objects is the finality of its judgments.\u201d); Witt v. State, 387 So.2d 922, 929 (Fla.1980) (opining that emergent, \"evolutionary refinements\u201d in criminal law \"do not compel an abridgement of the finality of judgments,\u201d at the expense of stability, predictability, and manageability of the justice system).\n. See also Morgan, 713 F.3d at 1367-68 (finding Miller to be non-substantive because it regulates only the manner of determining the degree of a defendant\u2019s culpability); Chambers, 831 N.W.2d at 329 (reasoning that the Miller rule is procedural, inter alia, because it \"does not eliminate the power of the State to impose the punishment of life imprisonment without the possibility of release upon a juvenile offender who has committed a homicide offense.\u201d); Geter, 115 So.3d at 377 (\"Clearly and unequivocally, the Supreme Court distinguished between the substantive determinations of a categorical bar prohibiting a \u2018penalty for a class of offenders or type of crime,\u2019 as in Roper and Graham, and the procedural determination in Miller that merely requires consideration of mitigating factors of youth in the sentencing process.\u201d (quoting Miller, - U.S. at -, 132 S.Ct. at 2471)). See generally LaFave, 7 Crim. Proc. \u00a7 28.6(e) (\"Miller, unlike other rules applied retroactively under Teague, was primarily a procedural, not a substantive decision.\"). But see Jones, 122 So.3d at 701 (finding the Miller rule to be substantive in character); Morfin, 367 Ill.Dec. 282, 981 N.E.2d at 1022 (same).",
+        "type": "majority",
+        "author": "Justice SAYLOR."
+      },
+      {
+        "text": "Chief Justice CASTILLE,\nconcurring.\nI join the well-reasoned Majority Opinion in its entirety. The question of the retroactive effect of new federal constitutional rules adopted by the U.S. Supreme Court requires a mastery of difficult and often arcane principles. The Majority\u2019s cogent and comprehensive accounting of those principles, which makes clear the restrictions upon what actions this Court may undertake in response to this PCRA appeal under existing law and the arguments that have been forwarded here, is convincing. I write separately to express my own view of what, if anything, might be done to mitigate the seeming inequity that is a result of the High Court\u2019s ruling in Miller v. Alabama, - U.S. -, 132 S.Ct. 2455, 183 L.Ed.2d 407 (2012). The \u201cseeming inequity\u201d here arises from the fact that the prospect of an individualized, discretionary judicial determination of whether a juvenile murderer should ever be afforded parole eligibility depends solely upon the happenstance of the moment that the defendant\u2019s conviction became final.\nPrior to Miller, there was nothing in Pennsylvania organic law, legislation or decisional law to restrict the legislative power to establish a mandatory sentence of life imprisonment without possibility of parole (\u201cLWOP\u201d) as appropriate punishment for a juvenile who commits murder of the first or second degree. That mandatory sentencing scheme as adopted by the General Assembly represented the Commonwealth\u2019s policy on the issue. Under Miller and by operation of the Supremacy Clause of the U.S. Constitution, that expression of policy can no longer apply going forward. However, as the Majority notes, the Miller Court did not address the inevitable aftermath in states, such as Pennsylvania, with an existing (and substantial) roster of defendants currently serving LWOP for murders committed while they were juveniles; some of these defendants no doubt have already served decades in prison. See Majority Op. at 548, 81 A.3d at 4 (\u201cSignificantly, for present purposes, the Miller majority did not specifically address the question of whether its holding applies to judgments of sentence for prisoners, such as Appellant, which already were final as of the time of the Miller decision. As such, the opinion does not set out the principles governing the High Court\u2019s retroactivity jurisprudence.\u201d).\nThe Miller Court\u2019s silence on retroactivity, combined with the High Court\u2019s clear, existing law on retroactivity \u2014 ably detailed by the Majority here \u2014 suggests that it would require a constitutional decision as innovative as Miller itself to divine an existing Eighth Amendment basis for holding that Miller is to be afforded retroactive effect of sufficient scope so as to upset judgments that have become final. Any such Eighth Amendment extension of existing federal retroactivity law, in my view, should only come from the U.S. Supreme Court. Given the retroactivity confusion arising in the wake of Miller, we may have the definitive federal answer some day.\nMoreover, even if there were a stronger case to be made for predicting that the High Court -will one day hold that Miller applies retroactively to final judgments, this appeal proceeds under the PCRA, and as a PCRA matter, the retroactivity claim is at best premature. Accord Majority Op. at 546-57, 81 A.3d at 9 (noting \u201cthe social policy and concomitant limitations on the courts\u2019 jurisdiction and authority reflected in the Post Conviction Relief Act.\u201d). The PCRA\u2019s eligibility provisions speak of convictions or sentences resulting from violations of existing law. See 42 Pa.C.S. \u00a7 9543(a)(2). Thus, subsection (a)(2)(vi) speaks of \u201cthe imposition of a sentence greater than the lawful maximum.\u201d When appellant\u2019s sentence was imposed, it was lawful. Appellant\u2019s collateral sentencing claim depends upon Miller being deemed globally retroactive. The only court that can render a definitive answer on that federal question is the U.S. Supreme Court. Until that Court holds that Miller has such an effect, appellant\u2019s LWOP sentence cannot be deemed to be one greater than the lawful maximum.\nThe very structure of the PCRA presupposes that this is the only proper approach. Thus, Section 9545(b) recognizes that new constitutional rights (state or federal) may come into existence after a sentence is final, and indeed, after a defendant\u2019s right to PCRA review has been exhausted. The statute allows new constitutional rights to be vindicated, but only after the Court announcing the new right has also held that the right operates retroactively: \u201cthe right asserted is a constitutional right that was recognized by the Supreme Court of the United States or the Supreme Court of Pennsylvania after the time period provided in this section and has been held by that court to apply retroactively.\u201d 42 Pa.C.S. \u00a7 9545(b)(l)(iii). This safety valve for vindication of new and retroactive rights is logically limited to pronouncements from the two courts of last resort that can recognize new rights and makes clear that the court of last resort announcing the new right should also issue the holding on the retroactivity of the new right. There is nothing irrational in the statute\u2019s accommodation of new constitutional rules in this manner. Under the construct, appellant\u2019s federal constitutional claim is, at best, premature; and his assumption that this Court can substitute for the U.S. Supreme Court in rendering the retroactivity holding is erroneous, where this Court did not announce the \u201cright\u201d at issue.\nGiven the dynamism of the U.S. Supreme Court\u2019s retroactivity jurisprudence and that Court majority\u2019s new emphasis on age as a disqualifying criterion in Eighth Amendment matters (perhaps an emerging \u201cyouth is different\u201d view to accompany the Court\u2019s \u201cdeath is different\u201d approach), Mr. Justice Baer\u2019s Dissenting Opinion may well be accurate in predicting the High Court\u2019s ultimate retroactivity conclusion\u2014 notwithstanding the Court\u2019s existing precedent on retroactivity and the Miller majority\u2019s deliberate emphasis of the procedural nature of its holding. The difficulty with implementing the dissent\u2019s predictive federal judgment in this PCRA appeal is that the dissent never comes to terms with the PCRA\u2019s approach to the vindication of new constitutional rights held to be retroactive.\nThe resulting landscape in Pennsylvania is ironic: federal habeas corpus-based restrictions premised upon respect for state sovereignty and the finality of judgments result in a circumstance that is certainly unusual, if not arbitrary: the longer a juvenile murderer has been in prison, the less likely he is ever to have the prospect of an individualized assessment of whether LWOP was a comparatively appropriate punishment, given his age, other characteristics, and the specifics of his offense (including the degree of the murder) as required by Miller. The circumstance is no fault of Pennsylvania, but it is a reality, nevertheless. As the Majority notes, the High Court has recognized that state courts can go further \u2014 as a matter of state law \u2014 than is commanded by federal law in implementing new federal constitutional rules. See, e.g., Danforth v. Minnesota, 552 U.S. 264, 282, 128 S.Ct. 1029, 169 L.Ed.2d 859 (2008). But, the Majority properly cautions that a litigant advocating for a broader retroactive application of a federal constitutional rule, as a matter of state law, should attempt to persuade this Court that the broader rule comports with Pennsylvania norms, and accounts for competing concerns, such as the abiding concern with the finality of judgments and the restrictions of the PCRA. No such developed argument for a broader Pennsylvania approach to retroactivity is forwarded and developed here; appellant\u2019s position on retroactivity is premised solely upon federal law, and our Court remains properly reluctant to ignore the PCRA\u2019s approach to new rights, and to go beyond the affirmative commands of the U.S. Supreme Court, in the absence of a legislative policy directive or some grounded basis in Pennsylvania law. See Commonwealth v. Sanchez, 614 Pa. 1, 36 A.3d 24, 66 (2011). See also Commonwealth v. Bracey, 604 Pa. 459, 986 A.2d 128, 146-47 & n. 19 (2009) (states that have recognized right to jury determination of mental retardation generally have done so by statute; Danforth-based claim that state court might provide more protection than federal courts waived).\nBecause the PCRA addresses and accommodates claims premised upon new constitutional rights that are in fact of retroactive effect, appellant\u2019s federal claim is not particularly difficult: the claim is premature. What is of more concern to me is the Pennsylvania consequence of the Miller decision \u2014 if the decision is ultimately deemed not to be retroactive by the U.S. Supreme Court. That circumstance may pose more difficult questions of state constitutional law which, it would appear, fall outside the auspices of the PCRA. As noted, the U.S. Supreme Court has held that state courts may, as a matter of state law, afford greater retroactive effect to new federal constitutional rights than is commanded by the High Court. However, for prisoners whose sentences are final, the PCRA offers no avenue to pursue that argument. New rules and rights are more properly the province of preservation and presentation in the direct review process; and Section 9545 of the PCRA provides a safety valve for collateral relief only after a new right has been held to be retroactive.\nThere is no Pennsylvania constitutional difficulty with this paradigm restricting the extension of new federal rights: nothing in the Pennsylvania Constitution confers a right to the broadest possible interpretation and extension of those rights. However, a new federal rule, if sufficiently disruptive of state law \u2014 such as by requiring the state to treat identically situated defendants differently \u2014 may pose an issue of Pennsylvania constitutional law independent of the federal rule. But, in what manner could such a state constitutional claim be vindicated? The state constitutional claim cannot be pursued via direct review because, by definition, the aggrieved defendants have already exhausted their direct appeals. Nor does it appear that the PCRA provides an avenue to articulate and seek vindication of a novel state constitutional claim arising from the effect of a new and disruptive federal rule.\nI offer the following tentative thoughts upon the prospects of other methods of remedying the seeming inequity arising in the post -Miller landscape. First, it is notable that the General Assembly acted quickly in the wake of Miller to address new cases involving sentencing for juvenile murderers, see 18 Pa.C.S. \u00a7 1102.1. The General Assembly made a policy judgment about appropriate mandatory minimum terms (before parole eligibility may arise) for new cases arising after Miller, establishing minimum term benchmarks for parole eligibility of twenty-five years and thirty-five years, depending upon the juvenile defendant\u2019s age at the time of the offense. The new statute, however, does not reach the existing class of juveniles, such as appellant, whose mandatory LWOP sentences were automatic and became final before Miller was decided.\nPresumably, the General Assembly has the power to revise the applicable statutory provisions related to parole, without affecting the underlying judicial judgments in these cases. Miller\u2019s concern was not with sentences of LWOP for juveniles per se, but rather with the absolute, mandatory unavailability of parole irrespective of individualized circumstances that the High Court deemed relevant for juvenile offenders. The restriction on parole opportunities in Pennsylvania is not a function of the Crimes Code, which establishes the appropriate term of a sentence, but rather is dictated by relevant provisions of the Commonwealth\u2019s Prisons and Parole Code, specifically those which govern the authority of the Pennsylvania Board of Probation and Parole, 61 Pa.C.S. \u00a7\u00a7 6101-6153, and which the General Assembly may certainly amend. Cf. Myers v. Ridge, 712 A.2d 791, 795 (Pa.Cmwlth.1998) (General Assembly has power to make changes in terms and conditions of parole; there is no guarantee against changes in parole laws as long as change does not violate prohibition against ex post facto laws). Revisions to the Parole Code would not affect the underlying judicial judgments in cases such as this; the judgment remains guilt for first- or second-degree murder, and the term remains life in prison. Indeed, the General Assembly has amended the Parole Code to account prospectively for the addition of 18 Pa.C.S. \u00a7 1102.1 after the Miller decision. See 61 Pa.C.S. \u00a7 6139(a)(3.1) (board shall not be required to consider or dispose of application by an inmate or an inmate\u2019s attorney in the case of an inmate sentenced under 18 Pa.C.S. \u00a7 1102.1 if parole decision was issued by the board within five years of the date of current application); 61 Pa.C.S. \u00a7 6139(a)(3.2) (\u201cNothing under this section shall be interpreted as granting a right to be paroled to any person, and a decision by the board and its designees relating to a person sentenced under 18 Pa.C.S. \u00a7 1102.1 may not be considered an adjudication under 2 Pa.C.S. Chs. 5 Subch. A (relating to practice and procedure of Commonwealth agencies) and 7 Subch. A (relating to judicial review of Commonwealth agency action).\u201d).\nAgain, I stress that the inequitable situation arising in the wake of Miller \u2014 with respect to individuals in appellant\u2019s position \u2014 is not the fault of anything in the prior Pennsylvania statutory scheme as it affects final judgments \u2014 and Miller plainly is a new procedural rule. But, the situation does raise a question of Pennsylvania policy that I respectfully suggest the General Assembly should consider. See Majority Op. at 559, 81 A.3d at 11 (\u201cOur role in establishing social policy in the arena is a limited one, however.\u201d). The fact that Pennsylvania is not required to go further than new federal law or policy does not mean that the Commonwealth should not do so. There is at least a colorable argument that there are now two classes of sentenced juvenile murderers, for whom the distinguishing factor has nothing to do with their crimes or their circumstances: those with final sentences who can never be assessed to determine if parole is appropriate, and those going forward who must be so assessed, based on Miller factors.\nPolicy arguments aside, I would further note that the situation resulting from Miller is \u201cunusual\u201d in terms of basic fairness and proportionality, but the more relevant constitutional question may be whether the situation is \u201ccruel\u201d? I pose the question that way because the Pennsylvania Constitution\u2019s Declaration of Rights prohibits the infliction of cruel punishments, but it does not refer to \u201cunusual\u201d punishments. Compare U.S. Const, amend. VIII (cruel and unusual punishments shall not be inflicted) with Pa. Const, art. I, \u00a7 13 (cruel punishments shall not be inflicted). No such state constitutional claim having been developed here, this Court\u2019s decision today necessarily does not foreclose an argument premised upon our organic charter.\nIn Commonwealth v. Batts, 620 Pa. 115, 66 A.3d 286 (2013), which was argued along with this case, the Court was faced \u25a0with the question of how to implement Miller in a direct appeal scenario. Appellant Batts and his amicus raised a broader \u201ccorollary argument that a categorical ban on the imposition of life-without-parole sentences on juvenile offenders is required by Article I, Section 13 of the Pennsylvania Constitution, which prohibits \u2018cruel punishments.\u2019 \u201d Id. at 297. Mr. Justice Saylor\u2019s unanimous Opinion recognized that the Court had previously held that Article I, Section 13 was coextensive with the Eighth Amendment in several discrete contexts, but that \u201cnone of those cases involved juvenile offenders, who the Supreme Court has indicated are to be treated differently with respect to criminal punishment.\u201d Id. at 298 n. 5. The Court also noted that Batts had not provided a \u201cfully developed analysis in accord with Commonwealth v. Edmunds, 526 Pa. 374, 586 A.2d 887 (1991),\u201d the seminal case from this Court setting forth the factors to be considered in determining whether a provision of the Pennsylvania Constitution affords broader protections than its federal counterpart, but instead had relied upon the brief of his amicus on that point. Id. at 297.\nNevertheless, the Batts Court weighed the assertion of a separate and categorical state constitutional proscription seriously and engaged the Article I, Section 13 argument on the merits. The Court ultimately deemed the argument for a categorical ban on juvenile LWOP sentences to lack merit noting, inter alia, that the \u201cpurport of the argument is that this Court should expand upon the United States Supreme Court\u2019s proportionality approach, not that it should derive new theoretical distinctions based on differences between the conceptions of \u2018cruel\u2019 and \u2018unusual.\u2019 \u201d 66 A.3d at 298.\nThe Article I, Section 13 claim considered and rejected in Batts focused on juvenile LWOP sentences as a categorical or per se matter. The claim to which I write here is very different, as it has to do with the uneven state-law effect that is a necessary byproduct of a non-retroactive decision such as Miller. In Article I, Section 13 terms, it may be viewed as a type of proportionality claim. It is also a claim, like the one raised in Batts, that has not been considered by this Court before.\nOf course, the U.S. Supreme Court has developed decisional law concerning sentencing proportionality. See Solem v. Helm, 463 U.S. 277, 290-292, 103 S.Ct. 3001, 77 L.Ed.2d 637 (1983) (courts should be guided by objective criteria: (i) gravity of offense and harshness of penalty; (ii) comparison of severity of crimes for which same sentences imposed in same jurisdiction; and (iii) comparison of sentences imposed for commission of same offense in other jurisdictions). To my knowledge, however, this Court has not definitively addressed the appropriate proportionality test under Article I, Section 13. Moreover, even if we had, the potential proportionality/cruelty claim arising in this instance is both unique and peculiar to the states, since it is the very disruptive effect of a federal constitutional decision within a state\u2019s borders that raises the issue. In assessing such a claim, this Court, unlike a court determining an Eighth Amendment claim, may rightly be concerned only with comparative and proportional justice within Pennsylvania\u2019s own borders, and certainly our review would not have to account for federalism concerns. In short, in this instance, the existing Eighth Amendment standard may not sufficiently vindicate the state constitutional value at issue. See, generally, Thomas G. Saylor, Prophylaxis in Modem State Constitutionalism: New Judicial Federalism and the Acknowledged Prophylactic Rule, 59 N.Y.U. Annual Survey of Am. L. 283, 309-10 (2003).\nNotably, this Court has conducted a separate Article I, Section 13 analysis, even in instances where the Court believed that the governing Pennsylvania standard was coextensive with the federal standard. This was so in Zettlemoyer, the first Article I, Section 13 case of any real moment issued by this Court. In Zettlemoyer, the defendant argued that imposition of the death penalty was \u201cinevitably\u201d cruel punishment under Article I, Section 13. The Court responded that the same claim, when raised under the Eighth Amendment\u2019s proscription against \u201ccruel and unusual\u201d punishments, had been rejected by the U.S. Supreme Court in Gregg v. Georgia, 428 U.S. 153, 169, 187, 96 S.Ct. 2909, 49 L.Ed.2d 859 (1976). The Court then summarily concluded that \u201cthe rights secured by the Pennsylvania prohibition against \u2018cruel punishments\u2019 are co-extensive with those secured by the Eighth and Fourteenth Amendments.\u201d Zettlemoyer, 454 A.2d at 967. The Court\u2019s finding of a coextensive standard, however, did not mean that a separate analysis under Pennsylvania law, in applying the standard, was not required. And indeed, the Court went on to independently analyze the claim at some length in light of specific indicators in Pennsylvania history. Id. at 967-69.\nThe Opinion Announcing the Judgment of the Court (\u201cOAJC\u201d) in Commonwealth v. Means, 565 Pa. 309, 773 A.2d 143 (2001) is to similar effect. The relevant issue in Means was whether a statute allowing victim impact evidence at the penalty phase of capital trials violated the Eighth Amendment and/or Article I, Section 13. Under Payne v. Tennessee, 501 U.S. 808, 111 S.Ct. 2597, 115 L.Ed.2d 720 (1991), the OAJC held the Eighth Amendment claim was meritless. The OAJC then engaged in a full-blown analysis of the issue under Article I, Section 13, pursuant to the Edmunds test, ultimately concluding that the legislation was not constitutionally infirm. 773 A.2d at 149-58. And, finally, as noted, the Court in Batts engaged in a separate state constitutional analysis; notably, the claim for a broader approach to retroactivity there ultimately failed, in large part, because it sought merely to build upon and expand the existing federal approach, rather than deriving from considerations sufficiently specific to Pennsylvania.\nIn the absence of legislative action to address the policy question of how to treat juveniles whose mandatory sentences of LWOP became final before Miller, I would remain open to considering whether there is a basis in Pennsylvania constitutional law \u2014 specifically, under Article I, Section 13 \u2014 to afford global retroactive effect to Miller. See, e.g., State v. Ragland, 836 N.W.2d 107 (Iowa 2013) (prisoner brought Miller-based challenge to his mandatory LWOP sentence under both U.S. and Iowa Constitutions; no argument made that application of standard under Iowa Constitution was other than that employed by U.S. Supreme Court under Eighth Amendment; in determining to apply Miller retroactively, Iowa Supreme Court used federal substantive standard of cruel and unusual punishment while reserving right to apply it in more stringent fashion than federal precedent); People v. Williams, 867 Ill.Dec. 503, 982 N.E.2d 181 (1st Dist.2012) (Miller applied retroactively to final mandatory LWOP sentence based on arguments grounded in U.S. and Illinois Constitutions).\nAs noted earlier, I realize that it is not apparent that such a state constitutional claim, arising from the effect of a federal decision, is cognizable under the PCRA. To the extent that is so, however, there is at least some basis in law for an argument that the claim is cognizable via a petition under Pennsylvania\u2019s habeas corpus statute, found at 42 Pa.C.S. \u00a7 6501 et seq. See, e.g., Commonwealth v. Judge, 591 Pa. 126, 916 A.2d 511, 518-21 (2007) (since PCRA did not provide remedy for appellant\u2019s claim regarding deportation from Canada, which essentially challenged \u201cthe continued vitality of his sentence,\u201d claim could be raised in a petition for writ of habeas corpus). See also Coady v. Vaughn, 564 Pa. 604, 770 A.2d 287, 290-94 (2001) (Castille, J., concurring, joined by Newman, J.) (explaining interrelationship of PCRA and traditional habeas corpus).\n. Post Conviction Relief Act, 42 Pa.C.S. \u00a7\u00a7 9541-9546.\n. New Section 1102.1 still authorizes, consistently with Miller, a sentence of life imprisonment without parole in appropriate cases. 18 Pa.C.S. \u00a7 1102.1(a)(1).\n. Alternatively, the General Assembly could amend the eligibility provisions of the PCRA, as it did in 1998 with its addition of a provision addressing impediments to extraditing convicted defendants who flee to certain foreign countries. See 42 Pa.C.S. \u00a7 9543(c) (\"If the petitioner\u2019s conviction and sentence resulted from a trial conducted in his absence and if the petitioner has fled to a foreign country that refuses to extradite him because a trial in absentia was employed, the petitioner shall be entitled to the grant of a new trial if the refusing country agrees by virtue of this provision to return him and if the petitioner upon such return to this jurisdiction so requests. This subsection shall apply, notwithstanding any other law or judgment to the contrary.\u201d). In addition, for this narrow class of prisoners, the PCRA time-bar provisions, which, as stated earlier, recognize an exception for new rules of constitutional law expressly held to be retroactive, could be amended not to require a retroactivity holding, in instances involving this sort of juvenile-specific rule. See id. \u00a7 9545(b)( 1 )(iii).\n. I recognize that there are policy considerations apart from the circumstances of the defendants in these cases. The finality of the LWOP regime gave the victims\u2019 families a sense of closure, and Miller-style relief would disrupt that expectation. See Commonwealth's Brief for Appellee, at 8 n. 4 (\"a life-with -parole sentence has been likened to \u2018sentencing the victim and the victim\u2019s family, as well.... It\u2019s a sort of virtual prison, because ... as long as [the killers] are in jail ... and as long as they come up for parole, we\u2019re sharing that sentence with them\u2019 \") (quoting Brief of Amicus Curiae The National Organization of Victims of Juvenile Lifers in Support of Respondents, at 27, filed in the Miller case).\n. See id. at 298 n. 5. The Batts Court cited Commonwealth v. Zettlemoyer, 500 Pa. 16, 454 A.2d 937, 967-69 (1982), cert. denied, 461 U.S. 970, 103 S.Ct. 2444, 77 L.Ed.2d 1327 (1983), abrogated on other grounds by Commonwealth v. Freeman, 573 Pa. 532, 827 A.2d 385 (2003) (rejecting claim that death penalty was per se cruel punishment); Commonwealth v. 5444 Spruce Street, 574 Pa. 423, 832 A.2d 396, 399 (2003) (addressing excessive fines provision); and Jackson v. Hendrick, 509 Pa. 456, 503 A.2d 400, 404 n. 10 (1986) (addressing prison conditions). The Court had previously recognized that Zettlemoyer spoke to a coextensive standard only within the context in which that case was decided, in Commonwealth v. Means, 565 Pa. 309, 773 A.2d 143, 151 (2001) (Opinion Announcing the Judgment of Court) (addressing challenge to statute allowing victim impact testimony in penalty phase; recognizing that Zettlemoyer holding on coextensive standard was distinguishable because different Article I, Section 13 challenge was involved).\n. There is no indication that a separate and developed state constitutional analysis was forwarded in Zettlemoyer\u2019s brief; notably, the case predated Edmunds.\n. On the other hand, this Court on many occasions has noted the need to engage in a broad construction of the PCRA so as to avoid tension with the traditional scope of the writ of habeas corpus. See, e.g., Commonwealth v. Haun, 613 Pa. 97, 32 A.3d 697, 702-05 (2011); Commonwealth v. Cruz, 578 Pa. 263, 851 A.2d 870, 877-78 (2004).",
+        "type": "concurrence",
+        "author": "Chief Justice CASTILLE,"
+      },
+      {
+        "text": "Justice BAER,\ndissenting.\nWhile I find merit in much of the Majority\u2019s analysis, I ultimately conclude that Miller v. Alabama, - U.S. -, 132 S.Ct. 2455, 183 L.Ed.2d 407 (2012), should apply retroactively to juveniles sentenced to life without parole on timely collateral as well as direct review because I find Miller to be an effectively substantive rule. See Commonwealth v. Batts, 620 Pa. 115, 66 A.3d 286 (2013) (applying Miller to juvenile on direct appeal). I am guided by the United States Supreme Court\u2019s decision reversing the judgment of the collateral appeal defendant in Miller and the High Court\u2019s overarching recognition in its development of this area of law that \u201cchildren are constitutionally different.\u201d Miller, 132 S.Ct. at 2464.\nAs my colleagues recognize, the Supreme Court recently held that \u201cmandatory life without parole for those under the age of 18 at the time of their crimes violates the Eighth Amendment\u2019s prohibition on \u2018cruel and unusual punishments.\u2019\u201d Id. at 2460. The Majority also observes that the High Court did not explicitly address the retroactive effect of its decision, which reversed the judgments of Evan Miller, a juvenile on direct appeal, and Kuntrell Jackson, a juvenile on collateral appeal.\nI fully agree with the Majority\u2019s determination that Miller represents a new rule for the purpose of determining retroactivity. See Maj. Op. at 549 n.5, 81 A.3d at 4, n.5. While it may derive from Graham v. Florida, 560 U.S. 48, 130 S.Ct. 2011, 176 L.Ed.2d 825 (2010)(prohibiting life without parole for non-homicide juvenile offenders), Roper v. Simmons, 543 U.S. 551, 125 S.Ct. 1183, 161 L.Ed.2d 1 (2005)(precluding death sentence for juveniles), and cases requiring individualized sentencing, it is clear that those cases did not announce the bar to mandatory life sentences without parole for juveniles set forth in Miller.\nGiven that Miller created a new rule of law, the next logical question is whether the rule announced therein should be applied retroactively to those whose judgments became final prior to its filing. Under the United States Supreme Court precedent discussed below, a retroactivity determination requires consideration of whether the rule is substantive, and therefore retroactive, or procedural, and accordingly prospective, unless subject to an exception.\nThe Majority astutely characterizes this distinction between new procedural rules and new substantive rules as an exercise in \u201cline drawing\u201d rather than \u201ca precise demarcation between rules which are innately substantive versus procedural in character.\u201d Maj. Op. at 550 n.7, 81 A.3d at 5, n.7. Given that many rules have both procedural and substantive attributes, we have repeatedly observed that the line between procedural and substantive rules in other contexts is \u201cnebulous.\u201d Freed v. Geisinger Medical Center, 607 Pa. 225, 5 A.3d 212, 226 (2010) (Saylor, J., dissenting); see also Samuel-Bassett v. Kia Motors America, Inc., 613 Pa. 371, 34 A.3d 1, 55-56 (2011) (\u201cWe recognize that the question of what in particular is substantive and what is procedural is not always clear.\u201d).\nIn addressing the question of retroactivity and the substantive/procedural dichotomy, the Majority properly recounts the development of the law from Teague v. Lane, 489 U.S. 288, 109 S.Ct. 1060, 103 L.Ed.2d 334 (1989), to Schriro v. Summerlin, 542 U.S. 348, 124 S.Ct. 2519, 159 L.Ed.2d 442 (2004). As noted by the Majority, the High Court in Summerlin explained that, in general, new rules apply to all criminal cases still pending on direct review, but only apply in limited circumstances to convictions that are already final, such as the final judgment against the PCRA defendant in the case at bar. Summerlin, 542 U.S. at 351, 124 S.Ct. 2519; see also Commonwealth v. Bracey, 604 Pa. 459, 986 A.2d 128, 141-142 (2009).\nThus, the High Court instructed that new rules apply retroactively to defendants on collateral review when the new rule is a \u201csubstantive rule,\u201d a term which the Court defined to include \u201cdecisions that narrow the scope of a criminal statute by interpreting its terms[,] as well as constitutional determinations that place particular conduct or persons covered by the statute beyond the State\u2019s power to punish.\u201d Summerlin, 542 U.S. at 351-352, 124 S.Ct. 2519 (internal citations omitted). Substantive rules apply retroactively under Summerlin \u201cbecause they necessarily carry a significant risk that a defendant stands convicted of an act that the law does not make criminal or faces a punishment that the law cannot impose upon him.\u201d Id. at 352, 124 S.Ct. 2519 (internal quotation marks omitted).\nConversely, the Supreme Court observed that new procedural rules generally do not apply retroactively because they \u201cmerely raise the possibility that someone convicted with use of the invalidated procedure might have been acquitted otherwise.\u201d Id. Given the \u201cspeculative connection to innocence,\u201d the Court limited the retroactive effect of new procedural rules to \u201cwatershed rules of criminal procedure implicating the fundamental fairness and accuracy of the criminal proceeding.\u201d Id. (internal quotation marks omitted). Moreover, the Court restricted the concept of \u201cfundamental fairness\u201d to situations where \u201cthe likelihood of an accurate conviction is seriously diminished.\u201d Id. (internal quotation marks omitted, emphasis in original).\nThe Supreme Court noted that while substantive rules alter \u201cthe range of conduct or the class of person that the law punishes\u201d or the punishment imposed on a class of persons, procedural rules \u201cregulate only the manner of determining the defendant\u2019s culpability.\u201d Id. at 353, 124 S.Ct. 2519 (emphasis removed). Applying this rubric in Summerlin, the Court determined that its prior decision in Ring v. Arizona, 536 U.S. 584, 122 S.Ct. 2428, 153 L.Ed.2d 556 (2002), should not apply retroactively because it merely addressed the process of determining a defendant\u2019s culpability, specifically that a jury rather than a judge must determine the aggravating factors necessary for a death sentence. It noted that rules allocating decision making authority are \u201cprototypical procedural rules.\u201d Summerlin, 542 U.S. at 353, 124 S.Ct. 2519.\nThe Majority in the case at bar provides a supportable analysis of the Miller rule\u2019s retroactivity under Summerlin and Teague, concluding that Miller has procedural attributes. Indeed, the Supreme Court in Miller distinguished its holding from Graham and Roper using procedural language, stating that the Miller decision did \u201cnot categorically bar a penalty for a class of offenders or type of crime \u2014 as, for example, we did in Roper or Graham. Instead, it mandates only that a sentencer follow a certain process \u2014 considering an offender\u2019s youth and attendant characteristics \u2014 before imposing a particular penalty.\u201d Miller, 132 S.Ct. at 2471. Moreover, a number of courts around the country have also found Miller to be procedural and not retroactive. See, e.g., Chambers v. State, 831 N.W.2d 311 (Minn.2013) (concluding that Miller is not retroactive because it was neither a substantive rule nor a watershed rule); Craig v. Cain, 2013 WL 69128 (5th Cir. Jan. 4, 2013)(concluding Miller not retroactive because it did not create a categorical bar to a penalty and because it was not a watershed rule); People v. Carp, 298 Mich.App. 472, 828 N.W.2d 685 (2012)(deeming Miller procedural because it altered the manner in which the punishment was imposed); Geter v. State, 115 So.3d 375 (Fla.Dist.Ct.App.2012)(concluding Miller not retroactive, inter alia, because it is a procedural rule and because of the need for finality of sentences).\nHowever, with full appreciation of the intrinsic difficulties and uncertainties of the procedural-substantive dichotomy, I do not find the analysis as \u201cstraightforward\u201d as does the Majority. Maj. Op. at 557, 81 A.3d at 9. Rather, I view Miller\u2019s categorical bar on the mandatory imposition of life without parole for juveniles as also containing substantive attributes which would require retroactive application. Under the framework of Summerlin, I conclude that the High Court in Miller made a \u201cconstitutional determination ] that place[d] particular ... persons ... beyond the State\u2019s power to punish.\u201d Summerlin, 542 U.S. at 351-352, 124 S.Ct. 2519. The rule in Miller provides that mandatory life without parole is \u201ca punishment that the law cannot impose upon\u201d juveniles. Id. at 352, 124 S.Ct. 2519.\nAlthough the prohibition in Miller is not as broad as the clearly retroactive prohibitions of Roper (barring capital punishment for juveniles) and Graham (prohibiting a sentence of life without parole for juveniles convicted of non-homicide offenses), Miller is a categorical prohibition against mandatory life sentences without parole for juvenile offenders. Unlike Ring, as analyzed in Summerlin, Miller did not allocate the decision making authority from one party to another, but instead defined the limits of the decision making authority. In other words, the Miller holding does not address the procedural aspect of \u201chow\u201d the determination is made, but rather defines \u201cwhat\u201d the substantive limits of that determination must be.\nI additionally recognize that other courts around the nation have applied Miller retroactively. See State v. Ragland, 836 N.W.2d 107, 115-116 (Iowa 2013) (holding Miller retroactive because it mandated a new procedure resulting from \u201ca substantive change in the law\u201d and because of the Supreme Court\u2019s application of the new rule to Jackson, the defendant on collateral review); People v. Morfin, 367 Ill.Dec. 282, 981 N.E.2d 1010 (2012)(concluding Miller is retroactive because it created a new substantive rule, reinforced by Supreme Court\u2019s application of Miller to Jackson); People v. Williams, 367 Ill.Dec. 503, 982 N.E.2d 181 (2012)(concluding Miller is retroactive as a \u201cwatershed rule\u201d of criminal procedure and recognizing that the Supreme Court reversed the judgment of Jackson); see also State v. Simmons, 99 So.3d 28 (La.2012) (remanding for a sentencing hearing under Miller ). Additionally, although in dicta, a federal district court fervently admonished, \u201cif ever there was a legal rule that should \u2014 as a matter of law and morality \u2014 be given retroactive effect, it is the rule announced in Miller. To hold otherwise would allow the state to impose unconstitutional punishment on some persons but not others, an intolerable miscarriage of justice.\u201d Hill v. Snyder, 2013 WL 364198, *2 (E.D.Mich. Jan. 30, 2013)(emphasis in original).\nMoreover, in resolving the uncertainties abounding in this case, I emphasize that the High Court reversed the judgment of Kuntrell Jackson, the defendant before it on collateral review. Specifically, the Court held:\nBy requiring that all children convicted of homicide receive lifetime incarceration without possibility of parole, regardless of their age and age-related characteristics and the nature of their crimes, the mandatory sentencing schemes before us violate this principle of proportionality, and so the Eighth Amendment\u2019s ban on cruel and unusual punishment. We accordingly reverse the judgments of the Arkansas Supreme Court and Alabama Court of Criminal Appeals and remand the cases for further proceedings not inconsistent with this opinion.\nMiller, 132 S.Ct. at 2475. Thus, the Court made no distinction between the collateral review defendant from Arkansas and the direct review defendant from Alabama.\nIt is implausible that the Supreme Court granted review of these two juvenile life-without-parole cases randomly, just as it was not accidental that this Court chose to address a juvenile on direct review in Commonwealth v. Batts, 620 Pa. 115, 66 A.3d 286 (2013), and this case in which a juvenile seeks collateral review. Indeed, while making a different point in dissent, Justice Alito emphasized that the two cases were \u201ccarefully selected.\u201d Miller, 132 S.Ct. at 2489. Therefore, by reversing the lower court\u2019s decision as to Jackson and directing further proceedings consistent with its opinion, I find it a fair, if not compelling, inference that the High Court intended to apply the rule to other juveniles on collateral review. Similarly, the Iowa Supreme Court observed, \u201cThere would have been no reason for the Court to direct such an outcome if it did not view the Miller rule as applying retroactively to cases on collateral review.\u201d Ragland, 836 N.W.2d at 116. As noted in Teague, \u201conce a new rule is applied to the defendant in the case announcing the rule, evenhanded justice requires that it be applied retroactively to all who are similarly situated.\u201d Teague, 489 U.S. at 300, 109 S.Ct. 1060.\nAs Chief Justice Castille articulates in his concurrence, I too am bothered by the \u201cseeming inequity\u201d that \u201carises from the fact that the prospect of an individualized, discretionary judicial determination of whether a juvenile murderer should ever be afforded parole eligibility depends solely upon the happenstance of the moment that the defendant\u2019s conviction became final.\u201d Concurring Opinion at 560, 81 A.3d at 11 (Castille, C.J.).\nFinally, I am guided by the rationale underlying the holdings in Miller, Roper, and Graham that \u201cchildren are constitutionally different from adults for the purpose of sentencing.\u201d Miller, 132 S.Ct. at 2464. The High Court noted \u201cthree significant gaps\u201d between juveniles and adults:\nFirst, children have a lack of maturity and an underdeveloped sense of responsibility, leading to recklessness, impulsivity, and heedless risk-taking. Second, children are more vulnerable ... to negative influences and outside pressures, including from their family and peers; they have limited contro[l] over their own environment and lack the ability to extricate themselves from horrific, crime-producing settings. And third, a child\u2019s character is not as well formed as an adult\u2019s; his traits are less fixed and his actions less likely to be evidence of irretrievable] deprav[ity].\nId. (internal citations and quotation marks omitted). The Court further noted that these \u201cdistinctive attributes of youth diminish the penological justifications for imposing the harshest sentences on juvenile offenders, even when they commit terrible crimes.\u201d Id. at 2465. The Court additionally prohibited mandatory sentences of life without parole to juveniles because it concluded that the mandatory sentencing scheme violated its prior cases\u2019 \u201crequirement of individualized sentencing for defendants facing the most serious penalties.\u201d Id. at 2460. The Court noted that the mandatory sentence prohibits a judge from \u201ctaking account of an offender\u2019s age and the wealth of characteristics and circumstances attendant to it.\u201d Id. at 2467. The Court opined,\nMandatory life \"without parole for a juvenile precludes consideration of his chronological age and its hallmark features \u2014 among them, immaturity, impetuosity, and failure to appreciate risks and consequences. It prevents taking into account the family and home environment that surrounds him \u2014 and from which he cannot usually extricate himself\u2014 no matter how brutal or dysfunctional. It neglects the circumstances of the homicide offense, including the extent of his participation in the conduct and the way familial and peer pressures may have affected him. Indeed, it ignores that he might have been charged and convicted of a lesser offense if not for incompetencies associated with youth \u2014 for example, his inability to deal with police officers or prosecutors (including on a plea agreement) or his incapacity to assist his own attorneys. And finally, this mandatory punishment disregards the possibility of rehabilitation even when the circumstances most suggest it.\nId. at 2468 (internal citations omitted). These arguments against prohibiting mandatory life sentences without parole apply equally to the juvenile on direct appeal as they do to the juvenile on collateral appeal.\nMy conclusion that the Miller rule should apply retroactively for the various reasons stated, however, should not be interpreted as a suggestion that life without parole should not be imposed on this appellant or any other juvenile murderer. However, the decision should be, at least in this instance, in the discretion of a trial judge observing the facts of the case and the characteristics of the defendant to determine whether life without parole is appropriate. Moreover, the ultimate decision of whether to release the juvenile on parole, if awarded, will rest with the parole board.\nAccordingly, I respectfully dissent because I conclude that Miller should be applied retroactively to juveniles on collateral review.\nJustices TODD and McCAFFERY join this opinion.\n. As noted by the Majority in this case and in Summerlin, the Supreme Court had previously categorized the second half of this current explanation of a substantive rule as part of the Teague test for the limited number of procedural rules that apply retroactively. Id. at 352, n. 4, 124 S.Ct. 2519.\n. I agree with the Majority that Miller does not fit into the Teague exception for a \"watershed\u201d rule of criminal procedure because that category is limited to rules \"implicating the fundamental fairness and accuracy of the criminal proceeding.\u201d Summerlin, 542 U.S. at 355, 124 S.Ct. 2519. The Supreme Court has additionally noted that \"[t]o fall within this exception, a new rule must meet two requirements: Infringement of the rule must seriously diminish the likelihood of obtaining an accurate conviction, and the rule must alter our understanding of the bedrock procedural elements essential to the fairness of a proceeding.\" Tyler v. Cain, 533 U.S. 656, 665, 121 S.Ct. 2478, 150 L.Ed.2d 632 (2001) (internal quotation marks and emphasis omitted). The holding in Miller has no relation to the accuracy of a juvenile defendant\u2019s convictions.\n. The Court of Appeals for the Third Circuit recently entered a brief order finding that petitioners before that court had made a prima facie showing that Miller was retroactive for purposes of the court\u2019s grant of authorization to file second or successive habeas corpus petitions, which require a showing that the asserted claim relies upon \"a new rule of constitutional law, made retroactive to cases on collateral review by the Supreme Court, that was previously unavailable.\u201d 28 U.S.C. \u00a7 2255(h)(2). The court, however, emphasized that the determination was tentative. In re Pendleton, 732 F.3d 280, 2013 WL 5486170 (3d Cir.2013).\n. While I recognize that the prosecution may not have raised a Teague retroactivity argument before the United States Supreme Court in regard to Jackson, the state, upon remand, conceded retroactivity, as noted by the Majority. Maj. Op. at 466-67 n.10, 81 A.3d at 6 n.10. Additionally, the Arkansas Supreme Court agreed with the state that Jackson was \"entitled to the benefit of the United State[s] Supreme Court\u2019s opinion in his own case.\u201d Jackson v. Norris, 2013 Ark. 175, 426 S.W.3d 906, 909-10 (2013)\nIn his concurring opinion, the Chief Justice correctly observes that the High Court did not overtly hold that Miller should apply retroactively. Had the Court so held, this case indisputably would have fallen within the PCRA\u2019s timeliness exception allowing for the filing of a petition when \"the right asserted is a constitutional right that was recognized by the Supreme Court of the United States or the Supreme Court of Pennsylvania after the time period provided in this section and has been held by that court to apply retroactively.\u201d 42 Pa.C.S. \u00a7 9545(b)(l)(iii). The Chief Justice applies this section to forbid relief via the PCRA, because the Supreme Court did not speak specifically to the retroactivity question. Concurring Opinion at 561-63, 81 A.3d at 12-13 (Castille, C.J.). I, however, conclude that Section 9545(b)(l)(iii) can be read more broadly to apply to the situation at bar, where, as I view the case, the United States Supreme Court granted relief, de facto allowing for the new constitutional rule to be applied retroactively to Jackson on collateral review, even though the Court did not address retroactivity in the text of the opinion. See Ragland, 836 N.W.2d at 116 (\"There would have been no reason for the Court to direct such an outcome if it did not view the Miller rule as applying retroactively to cases on collateral review.\u201d).\n. Additionally, while I disagree with the concurrence\u2019s conclusion on Miller\u2019s retroactivity, I concur with its call for an argument framed in terms of the Pennsylvania Constitution or for legislative action to correct the current inequality, in the absence of retroactive application of Miller by this Court.",
+        "type": "dissent",
+        "author": "Justice BAER,"
+      }
+    ],
+    "attorneys": [
+      "Bradley Steven Bridge, Esq., Defender Association of Philadelphia, John P. Cotter, Esq., Cotter & Miller, Philadelphia, Marsha Levick, Esq., Juvenile Law Center, for Ian Cunningham.",
+      "Hugh J. Burns, Jr., Esq., Philadelphia District Attorney\u2019s Office, for Commonwealth of Pennsylvania."
+    ],
+    "corrections": "",
+    "head_matter": "81 A.3d 1\nCOMMONWEALTH of Pennsylvania, Appellee v. Ian CUNNINGHAM, Appellant.\nSupreme Court of Pennsylvania.\nArgued Sept. 12, 2012.\nResubmitted Aug. 13, 2013.\nDecided Oct. 30, 2013.\nBradley Steven Bridge, Esq., Defender Association of Philadelphia, John P. Cotter, Esq., Cotter & Miller, Philadelphia, Marsha Levick, Esq., Juvenile Law Center, for Ian Cunningham.\nHugh J. Burns, Jr., Esq., Philadelphia District Attorney\u2019s Office, for Commonwealth of Pennsylvania.\nBEFORE: CASTILLE, C.J., SAYLOR, EAKIN, BAER, TODD, McCAFFERY, STEVENS, JJ."
+  },
+  "file_name": "0543-01",
+  "first_page_order": 587,
+  "last_page_order": 624
+}

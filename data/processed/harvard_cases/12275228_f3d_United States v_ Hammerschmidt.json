@@ -1,0 +1,493 @@
+{
+  "id": 12275228,
+  "name": "UNITED STATES of America, Plaintiff-Appellee v. Mark Arlin HAMMERSCHMIDT, Defendant-Appellant; United States of America, Plaintiff-Appellee v. Ornella Angelina Hammerschmidt, Defendant-Appellant",
+  "name_abbreviation": "United States v. Hammerschmidt",
+  "decision_date": "2018-02-02",
+  "docket_number": "No. 16-4420, No. 16-4422",
+  "first_page": "633",
+  "last_page": "640",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "881 F.3d 633"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "8th Cir.",
+    "id": 8821,
+    "name": "United States Court of Appeals for the Eighth Circuit"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "311 F.3d 886",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        9304309
+      ],
+      "weight": 2,
+      "year": 2002,
+      "pin_cites": [
+        {
+          "page": "890"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/311/0886-01"
+      ]
+    },
+    {
+      "cite": "556 F.3d 682",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        3332374
+      ],
+      "year": 2009,
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/556/0682-01"
+      ]
+    },
+    {
+      "cite": "596 F.3d 913",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        4219870
+      ],
+      "year": 2010,
+      "pin_cites": [
+        {
+          "page": "925-26",
+          "parenthetical": "\"[W]e generally do not accept pro se motions or briefs when an appellant is represented by counsel.\""
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/596/0913-01"
+      ]
+    },
+    {
+      "cite": "796 F.3d 951",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        5768514
+      ],
+      "year": 2015,
+      "pin_cites": [
+        {
+          "parenthetical": "\"[A]s a general rule we do not entertain arguments that are first raised in a reply brief.\""
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/796/0951-01"
+      ]
+    },
+    {
+      "cite": "553 U.S. 708",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        3674182
+      ],
+      "weight": 3,
+      "year": 2008,
+      "pin_cites": [
+        {
+          "page": "714",
+          "parenthetical": "\" 'Departure' is a term of art under the Guidelines and refers only to non-Guidelines sentences imposed under the framework set out in the Guidelines.\""
+        },
+        {
+          "parenthetical": "\" 'Departure' is a term of art under the Guidelines and refers only to non-Guidelines sentences imposed under the framework set out in the Guidelines.\""
+        },
+        {
+          "parenthetical": "\" 'Departure' is a term of art under the Guidelines and refers only to non-Guidelines sentences imposed under the framework set out in the Guidelines.\""
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/553/0708-01"
+      ]
+    },
+    {
+      "cite": "18 U.S.C. \u00a7 3553",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "pin_cites": [
+        {
+          "page": "(a)"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "509 F.3d 911",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        3330830
+      ],
+      "year": 2007,
+      "pin_cites": [
+        {
+          "page": "914"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/509/0911-01"
+      ]
+    },
+    {
+      "cite": "640 F.3d 338",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        4205033
+      ],
+      "year": 2011,
+      "pin_cites": [
+        {
+          "page": "352",
+          "parenthetical": "alteration in original"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/640/0338-01"
+      ]
+    },
+    {
+      "cite": "536 F.3d 862",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        5763652
+      ],
+      "year": 2008,
+      "pin_cites": [
+        {
+          "page": "865",
+          "parenthetical": "\"If a defendant fails to timely object to a procedural sentencing error, the error is forfeited and may only be reviewed for plain error.\""
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/536/0862-01"
+      ]
+    },
+    {
+      "cite": "351 F.3d 131",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        9047320
+      ],
+      "year": 2003,
+      "pin_cites": [
+        {
+          "page": "139-40",
+          "parenthetical": "concluding that the defendant's six-month sentences for contempt were properly awarded criminal history points because the sentences \"were 'for a definite period' and could not be purged by any affirmative act\""
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/351/0131-01"
+      ]
+    },
+    {
+      "cite": "221 U.S. 418",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        3658940
+      ],
+      "weight": 4,
+      "year": 1911,
+      "pin_cites": [
+        {
+          "page": "442"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/221/0418-01"
+      ]
+    },
+    {
+      "cite": "281 F.3d 687",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        9394608
+      ],
+      "year": 2002,
+      "pin_cites": [
+        {
+          "page": "690",
+          "parenthetical": "per curiam"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/281/0687-01"
+      ]
+    },
+    {
+      "cite": "67 F.3d 153",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        7414007
+      ],
+      "weight": 2,
+      "year": 1995,
+      "pin_cites": [
+        {
+          "page": "156-57"
+        },
+        {
+          "page": "157",
+          "parenthetical": "\"The guidelines only require that [the defendant] supervised 'one or more other participants' to trigger this enhancement.\""
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/67/0153-01"
+      ]
+    },
+    {
+      "cite": "639 F.3d 423",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        4201970
+      ],
+      "year": 2011,
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/639/0423-01"
+      ]
+    },
+    {
+      "cite": "830 F.3d 786",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        5927132
+      ],
+      "year": 2016,
+      "pin_cites": [
+        {
+          "page": "788-89",
+          "parenthetical": "\"[W]e remand the case to provide the district court the opportunity to clarify whether [the defendant] organized or led at least one other participant, and to identify what evidence in this record supports that finding.\""
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/830/0786-01"
+      ]
+    },
+    {
+      "cite": "975 F.2d 1357",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        10518974
+      ],
+      "year": 1992,
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/975/1357-01"
+      ]
+    },
+    {
+      "cite": "750 F.3d 759",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        4066689
+      ],
+      "year": 2014,
+      "pin_cites": [
+        {
+          "page": "764",
+          "parenthetical": "\"[W]e have always required evidence that the defendant directed or procured the aid of underlings.\""
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/750/0759-01"
+      ]
+    },
+    {
+      "cite": "129 F.3d 457",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        11896135
+      ],
+      "year": 1997,
+      "pin_cites": [
+        {
+          "page": "470",
+          "parenthetical": "\"If the evidence does not support the finding that [the defendant] managed or supervised other participants, then her offense level could only be increased by means of a departure and not by means of an adjustment.\""
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/129/0457-01"
+      ]
+    },
+    {
+      "cite": "61 F.3d 1100",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        11321690
+      ],
+      "year": 1995,
+      "pin_cites": [
+        {
+          "page": "1110",
+          "parenthetical": "\"[A]n enhancement (as opposed to an upward departure) is the appropriate vehicle only for those defendants who controlled people.\""
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/61/1100-01"
+      ]
+    },
+    {
+      "cite": "51 F.3d 663",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        11352943
+      ],
+      "year": 1995,
+      "pin_cites": [
+        {
+          "page": "668",
+          "parenthetical": "\"[Tjhis note now requires that a defendant have control over at least one participant of the criminal activity in order to be subject to a sentencing enhancement under \u00a7 3B1.1.\""
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/51/0663-01"
+      ]
+    },
+    {
+      "cite": "64 F.3d 1235",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        7415618
+      ],
+      "weight": 2,
+      "year": 1995,
+      "pin_cites": [
+        {
+          "page": "1237",
+          "parenthetical": "noting the circuit split and citing cases"
+        },
+        {
+          "page": "1237-38"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/64/1235-01"
+      ]
+    },
+    {
+      "cite": "827 F.3d 797",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        5924707
+      ],
+      "weight": 2,
+      "year": 2016,
+      "pin_cites": [
+        {
+          "page": "800-01",
+          "parenthetical": "\"We review the district court's interpretation of the sentencing guidelines de novo and its factual findings for clear error.\""
+        },
+        {
+          "page": "800-01",
+          "parenthetical": "standard of review"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/827/0797-01"
+      ]
+    },
+    {
+      "cite": "18 U.S.C. \u00a7 287",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "18 U.S.C. \u00a7 286",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "weight": 2,
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 954,
+    "char_count": 20652,
+    "ocr_confidence": 0.582,
+    "pagerank": {
+      "raw": 7.200636822534974e-08,
+      "percentile": 0.43062703655695755
+    },
+    "sha256": "48fb797b0903940d43b26f7c2e0703f5a4a6e1f8e57844986ee1682e4544625e",
+    "simhash": "1:ba0dc9e78b9b1769",
+    "word_count": 3273
+  },
+  "last_updated": "2024-02-27T17:59:44.301675+00:00",
+  "provenance": {
+    "date_added": "2018-10-23",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before WOLLMAN and SHEPHERD, and GOLDBERG, Circuit Judges."
+    ],
+    "parties": [
+      "UNITED STATES of America, Plaintiff-Appellee v. Mark Arlin HAMMERSCHMIDT, Defendant-Appellant United States of America, Plaintiff-Appellee v. Ornella Angelina Hammerschmidt, Defendant-Appellant"
+    ],
+    "opinions": [
+      {
+        "text": "WOLLMAN, Circuit Judge.\nMark Arlin Hammerschmidt (Mark) pleaded guilty to two counts of conspiracy to defraud the United States in violation of 18 U.S.C. \u00a7 286 and was sentenced to 135 months\u2019 imprisonment.' Ornella Angelina Hammerschmidt \u2022 (Ornella) pleaded guilty to one count of making false claims for refunds in violation of 18 U.S.C. \u00a7 287 and was sentenced to 48 months\u2019 imprisonment. The Hammerschmidts appeal from their sentences. Mark argues that the district court erred in Calculating his offense level and his criminal history points. Ornel-la argues that the district court erred in calculating her offense level and in imposing a sentence above the range set forth in the United States Sentencing' Guidelines Manual (Guidelines or U.S.S.G.). Because the district court did not make the findings required to increase Mark\u2019s offense level for being a manager .or supervisor and because it should not have assessed criminal history points for a 2008 purged disposition of civil contempt, we vacate Mark\u2019s sentence and remand for resentencing. We affirm Ornella\u2019s sentence. .\nI. Background\nThis case involves two schemes to obtain fraudulent tax refunds from the United States' Department _ of the Treasury through the Internal Revenue Service (IRS). The first scheme involved the Ham-merschmidts\u2019 providing accounting and tax preparation services through their businesses, American Gro\u00fcp and Liberty Tax. They also offered immigration services, with Ornella Hammerschmidt falsely claiming that she was an attorney.\nFrom January 2011 through February 2013, the Hammerschmidts completed income tax returns for taxpayers in Florida and Minnesota, many of whom were immigrants who did not speak English. The Hammerschmidts reported false information on the returns to qualify the taxpayers for additional refunds. The false information included incorrect filing statuses, false household-help income, fictitious businesses and business losses, and fraudulent tax credits. The taxpayers were not aware that the Hammerschmidts were making false statements on their returns. Ornella sometimes signed the returns on behalf of the taxpayers, and American Group did not always provide clients with copies of their returns. The Hammerschmidts did not identify themselves on the returns as paid tax preparers.\nMost of the refunds were deposited directly into a bank account managed by the Hammerschmidts, who thereafter deducted fees and remitted partial refunds to the taxpayers. All told, the first scheme involved twenty-two federal tax returns that claimed more than $95,000 in fraudulent refunds, on which the IRS paid out more than $45,000. The first scheme also involved Minnesota tax returns that claimed $110,000 in fraudulent refunds, on which the Minnesota Department of Revenue suffered no identifiable actual loss.\nIn the second scheme, Mark conspired with others to file false federal income tax returns on behalf of Guatemalan citizens (the Guatemalan conspiracy). From 2010 until February 2012, co-conspirators provided Mark with identifying information of Guatemalan citizens, which he used to obtain individual taxpayer identification numbers. Mark then filed fraudulent federal income tax returns for multiple tax years in the names of the Guatemalan citizens, none of whom resided or worked in the United States. The refunds were sent to addresses or deposited in bank accounts associated with Mark. Mark filed more than five hundred of these fraudulent federal tax returns, claiming approximately $1.8 million in fraudulent refunds, on which the IRS paid out $1,787,621.\nA federal grand jury returned a thirty-seven count indictment. Counts 1 through 23 charged Mark and Ornella with offenses related to the first scheme. Counts 24 through 37 charged only Mark and related to the second scheme.\nMark pleaded guilty to the two counts of conspiracy to defraud the United States (counts 1 and 24), and Ornella pleaded guilty to one count of making a false claim for refunds (count 18). While released on bond pending sentencing, the Hammer-schmidts violated a condition of their release by participating in the preparation of tax returns. Ornella helped another tax preparer complete a fraudulent tax return for an undercover agent, who posed as a tax client. The district court placed Mark on location monitoring with home confinement and revoked Ornella\u2019s release, concluding that Ornella\u2019s \u201cegregious violation of her conditions of release and her involvement in advising the undercover agent to file a fraudulent tax return support a determination that her release must be revoked.\u201d D. Ct. Order of Apr. 19, 2016.\nThe district court determined that Mark\u2019s total offense level was 31, that his criminal history category was III, and that his advisory sentencing range was 135 to 168 months\u2019 imprisonment. To impose a sentence of 135 months\u2019 imprisonment, the district court sentenced Mark to the statutory maximum term of imprisonment of 120 months on each count, see 18 U.S.C. \u00a7 286, with 105 months on count 24 to be served concurrently with count 1 and the remaining 15 months to be served consecutively.\nThe district court determined that Or-nella\u2019s total offense level was 16, that her criminal history category was II, and that her advisory sentencing range was 24 to 30 months\u2019 imprisonment. The district court varied upward from the Guidelines sentencing range and imposed a 48-month sentence.\nII. Mark Hammerschmidt\nMark argues that the district court erred by applying the aggravating role adjustment set forth in Guidelines \u00a7 3Bl.l(b) and increasing his offense level by 3 for being a manager or supervisor in the Guatemalan conspiracy. He contends that the adjustment applies only if he managed or supervised at least one other participant, a fact that the government failed to prove by a preponderance of the evidence. The government maintains that the adjustment was appropriate because Mark exercised management responsibility over the activities of the Guatemalan conspiracy, even if he did not exercise control over another participant. We review de novo the question whether the government was required to prove that Mark managed or supervised at least one participant in the Guatemalan conspiracy. See United States v. Reid, 827 F.3d 797, 800-01 (8th Cir. 2016) (\u201cWe review the district court\u2019s interpretation of the sentencing guidelines de novo and its factual findings for clear error.\u201d).\nGuidelines \u00a7 3B1.1 instructs the district court to increase the defendant\u2019s offense level if the defendant served as an organizer, leader, manager, or supervisor in committing the offense. There has long been confusion about whether a defendant must exercise some degree of control over another participant to qualify as an organizer, leader, manager, or supervisor for purposes of \u00a7 3B1.1. To resolve a split that had developed among the courts of appeals, the United States Sentencing Commission adopted Amendment 500 in 1993. U.S.S.G. app. C, amend. 500; see United States v. McFarlane, 64 F.3d 1235, 1237 (8th Cir. 1995) (noting the circuit split and citing cases). The amendment added the following application note to \u00a7 3B1.1:\nTo qualify for an adjustment under this section, the defendant must have been the organizer, leader, manager, or supervisor of one or more other participants. An upward departure may be warranted, however, in the case of a defendant who did not organize, lead, manage, or supervise another participant, but who nevertheless exercised management responsibility over the property, assets, or activities of a criminal organization.\nU.S.S.G. \u00a7 3B1.1 cmt. n.2. The note thus clarified that a \u00a7 3B1.1 adjustment was appropriate only if the defendant had organized, led, managed, or supervised another participant. See United States v. Fones, 51 F.3d 663, 668 (7th Cir. 1995) (\u201c[Tjhis note now requires that a defendant have control over at least one participant of the criminal activity in order to be subject to a sentencing enhancement under \u00a7 3B1.1.\u201d); United States v. Capers, 61 F.3d 1100, 1110 (4th Cir. 1995) (\u201c[A]n enhancement (as opposed to an upward departure) is the appropriate vehicle only for those defendants who controlled people.\u201d).\nWe conclude that .for the \u00a7 3Bl.l(b) adjustment to apply, the government was required to prove that Mark managed or supervised another participant in the Guatemalan conspiracy. See United States v. Padilla-Pena, 129 F.3d 457, 470 (8th Cir. 1997) (\u201cIf the evidence does not support the finding that [the defendant] managed or supervised other participants, then her offense level could only be increased by means of a departure and not by means of an adjustment.\u201d); see also United States v. Irlmeier, 750 F.3d 759, 764 (8th Cir. 2014) (\u201c[W]e have always required evidence that the defendant directed or procured the aid of underlings.\u201d) (quoting United States v. Rowley, 975 F.2d 1357, 1364 n.7 (8th Cir. 1992)). Because the district court did not determine whether Mark managed or supervised another participant in the Guatemalan conspiracy, we must remand the case. See United States v. Musa, 830 F.3d 786, 788-89 (8th Cir, 2016) (\u201c[W]e remand the case to provide the district court the opportunity to clarify whether [the defendant] organized or led at least one other participant, and to identify what evidence in this record supports that finding.\u201d).\nWe are not persuaded by the government\u2019s argument that a footnote from United States v. Gaines allows us to uphold the application of the \u00a7 3B1.1(b) adjustment to Mark\u2019s offense level. 639 F.3d 423, 428-29 n.4 (8th Cir. 2011). Although the Gaines footnote concluded that proof of control over another participant was not necessary to sustain a \u00a7 3B1.1 adjustment, it did not cite or otherwise address \u00a7 3B1.1 application note 2. Moreover, to the extent that the Gaines footnote conflicts with our earlier precedent, e.g., United States v. Pena, 67 F.3d 153, 156-57 (8th Cir. 1995); McFarlane, 64 F.3d at 1237-38, we are bound by the decisions of the panels that predate Gaines. See Owsley v. Luebbers, 281 F.3d 687, 690 (8th Cir. 2002) (per curiam) (\u201cIt is a cardinal rule in our circuit that one panel is bound by the decision of a prior panel.\u201d).\nMark next argues that the district court erred in determining his criminal history category. He contends that; he should not have received criminal history points for a purged sentence for contempt that did not result in an adjudication of guilt or a definite sentence. The government agrees and has requested resentencing. We review de novo this issue of law. See Reid, 827 F.3d at 800-01 (standard of review).\nIn 2008, Mark was sentenced to \u201c[s]erve 60 days in jail, with a purge of $1,500\u201d for contempt of court, a misdemeanor, in the Orange County, Florida, Domestic Relations Court. Mark did not remember being charged with contempt, but believed that he likely was past.due on child support payments. During the sentencing hearing, Mark proffered that he had paid the $1,500 purge amount and served only an hour in jail. The district eourt accepted those representations \u2022 as true. Over Mark\u2019s objection, however, the .district court added 2 criminal history points for the contempt disposition. Those 2 points raised his criminal history category from II to III.\nGuidelines \u00a7 4Al.l(b) instructs the district court to 'add 2 points \u201cfor each prior sentence of imprisonment of at least sixty days.\u201d A \u201cprior sentence\u201d is defined as a \u201csentence previously imposed upon adjudication of guilt .... for conduct not part of the instant offense.\u201d U.S.S.G. \u00a7 4A1.2(a)(l). Sentences for misdemeanor offenses of \u201ccontempt of court\u201d or of \u201cnonsupport\u201d are counted under \u00a7 4A1.1 only in .certain circumstances, including if the sentence was a term of imprisonment of at least thirty days. U.S.S.G. \u00a7 4A1.2(c)(l).\nMark\u2019s contempt disposition does not meet the definition of \u201cprior sentence\u201d because he purged his contempt by paying $1,500. Imprisonment in a case of civil contempt \u201cis intended to coerce the defendant to do the thing required by the order,\u201d Gompers v. Buck\u2019s Stove & Range Co., 221 U.S. 418, 442, 31 S.Ct. 492, 55 L.Ed. 797 (1911). The term of imprisonment is indefinite because the defendant can \u201cend the sentence and discharge himself at any moment by doing what he had previously refused to do.\u201d Id. Here, Mark was behind in child support payments. Presumably, his arrest and hour-long imprisonment were intended to coerce him to pay. When he did pay the past-due .amount, he purged his contempt and ended his sentence. Accordingly, he was never adjudicated guilty, and he did not receive a definite sentence. Because the contempt disposition was not a \u201csentence previously..imposed upon adjudication of guilt,\u201d see U.S.S.G. \u00a7 4A1.2(a)(l),. Mark should not have received the disputed criminal history points. See United States v. Pratt, 351 F.3d 131, 139-40 (4th Cir. 2003) (concluding that the defendant\u2019s six-month sentences for contempt were properly awarded criminal history points because the sentences \u201cwere \u2018for a definite period\u2019 and could not be purged by any affirmative act\u201d).\nIII. Ornella Hammerschmidt\nOrnella argues that the district \u2022court erred when it applied Guidelines \u00a7 2T1.4(b)(l)(B) and increased -her offense level by 2 for being '\u201cin the busin\u00e9ss of preparing or -assisting in the preparation of tax returns.\u201d Ornella claims that she \u201conly occasionally or sporadically\u201d assisted her husband in the preparation of tax returns and that the government presented no evidence that she profited from her assistance. Appellant Ornella\u2019s Br\u00a1 20. The record, however, belies these claims.\nAs part of the factual basis for her plea agreement, Ornella admitted that she and Mark operated a tax preparation business that they used, to prepare and file more than 1,000 federal income tax returns. Or-nella served as the vice president of the business, and it is undisputed that the business collected fees for its services. Moreover, Ornella continued to assist in the preparation of tax returns after she was indicted in this case. Ornella\u2019s conduct falls squarely within the application note that explains that \u00a7 ,2T1.4(b)(l)(B) \u201capplies to persons who regularly prepare or assist in the preparation of tax returns for profit.\u201d U.S.S.G. \u00a7 2T1.4 cmt. n.2.\nOrnella next argues that the district Court erred in relying on \u201cvictim impact\u201d. as a reason for varying above the Guidelines sentencing range. According to Ornella, \u201c[t]he district court did not elaborate on why victim impact was a basis for the upward variance, but [Ornella] contends the'court relied on erroneous facts to support the variance.\u201d Appellant Ornella\u2019s Br. 26. On plain error review, she essentially asks us to assume that the district court relied upon erroneous facts to support the variance. See United States v, Phelps, 536 F.3d 862, 865 (8th Cir. 2008) (\u201cIf a defendant fails to timely object to a procedural sentencing error, the error is forfeited and may only be reviewed for plain error.\u201d). This we will not do. . .\nThe district court did not erf in finding that Ornella\u2019s conduct had a serious impact on her victims. Ornella helped prepare and file fraudulent federal income tax returns on behalf:of tax and immigration, clients. She made false \u2022 statements on those returns to obtain fraudulent refunds. Ornella also falsely claimed to be an attorney who specialized - in ' immigration, and she charged clients for immigration services that she did not provide. The conspiracies caused the IRS to suffer monetary loss. During the sentencing hearing, three victims spoke of the havoc wreaked in their lives because of the fraudulent tax returns that Mark and Ornella had filed for them and because of the errors that Mark and Ornella had made in their immigration cases. The government read a statement by a fourth victim. The record thus supports the district court\u2019s decision to rely on \u201cvictim impact\u201d as a reason to vary above Ornella\u2019s Guidelines sentencing range.\nWe likewise find no plain error in the district court\u2019s reliance on Ornella\u2019s criminal history as a reason to vary above the Guidelines sentencing range. Ornella contends that the Guidelines adequately addressed her criminal history, but \u201c[w]e have held that a district court may impose an upward variance based on facts already included in the advisory sentencing guidelines where the advisory guidelines do not fully account for those facts.\u201d United States v. Fiorito, 640 F.3d 338, 352 (8th Cir. 2011) (alteration in original) (quoting United States v. Jones, 509 F.3d 911, 914 (8th Cir. 2007)). Ornella began defrauding the government as early as 2002. Although the schemes varied, she continued to engage in fraudulent conduct until she was incarcerated. The district court adequately explained its reasons for the variance:\nThe court has varied upward from the guidelines range because of defendant\u2019s continued course of fraudulent conduct dating back to 2002. And as set forth in the presentence report, this is defendant\u2019s second federal conviction for fraud-related conduct and the fourth-charged fraud offense. Further, although not charged with a crime for such conduct, the PSR establishes that between 2010 and 2014 defendant posed as an immigration attorney and charged immigration clients for services not provided. And, finally, the defendant committed the instant offense while on probation for another federal fraud conviction.\nSent. Tr. 30-31. Ornella\u2019s reliance on Guidelines \u00a7 4A1.3, Departures Based on Inadequacy of Criminal History Category, is misplaced. The district court did not depart on the basis of \u00a7 4A1.3, but rather varied from the Guidelines sentencing range after considering the sentencing factors set forth in 18 U.S.C. \u00a7 3553(a). See U.S.S.G. \u00a7 IB 1.1 (setting forth the procedure to determine a defendant\u2019s sentence); see also Irizarry v. United States, 553 U.S. 708, 714, 128 S.Ct. 2198, 171 L.Ed.2d 28 (2008) (\u201c \u2018Departure\u2019 is a term of art under the Guidelines and refers only to non-Guidelines sentences imposed under the framework set out in the Guidelines.\u201d).\nFinally, we do not address Ornella\u2019s argument that the district court erred by denying a mitigating role adjustment under Guidelines \u00a7 3B1.2. Ornella conceded the argument in her reply brief. See Appellant Ornella\u2019s Reply Br. 5. Nor do we address the additional arguments that Or-nella raised for the first time in her reply brief and in a pro se document that she filed with the court on October 30, 2017. See United States v. Williams, 796 F.3d 951, 958 n.4 (8th Cir. 2015) (\u201c[A]s a general rule we do not entertain arguments that are first raised in a reply brief.\u201d); United States v. Donnell, 596 F.3d 913, 925-26 (8th Cir. 2010) (\u201c[W]e generally do not accept pro se motions or briefs when an appellant is represented by counsel.\u201d) (alteration in original) (quoting United States v. Barker, 556 F.3d 682, 690 n.3 (8th Cir. 2009)).\nIV. Conclusion\nWe vacate Mark\u2019s sentence and remand his case for resentencing. We affirm Ornel-la\u2019s sentence.\n. The footnote in Gaines relied on a statement in United States v. Brown, 311 F.3d 886, 890 (8th Cir. 2002), that \u201c[w]e will uphold this enhancement if. the defendant controlled at least one other participant in the drug trafficking offense.\u201d Our holding in Brown, however, was that the district court' did not clearly err in finding that the defendant was an organizer, in light of evidence that he had organized cross-country transport and delivery of drugs and had \u201cpaid operatives ... to serve in supporting roles.\u201d Id. at 891 (citing U.S.S.G, \u00a7 3B1.1 cmt. n.2; Pena, 67 F.3d at 157 (\"The guidelines only require that [the defendant] supervised 'one or more other participants' to trigger this enhancement.\u201d)).",
+        "type": "majority",
+        "author": "WOLLMAN, Circuit Judge."
+      }
+    ],
+    "attorneys": [
+      "Michelle E. Jones,. Timothy Christopher Rank, Assistant U.S. Attorneys, U.S. ATTORNEY\u2019S OPEICE, District of Minnesota, Minneapolis, MN, Lisa D. Kirkpatrick, Assistant U.S. Attorney, U.S. \u25a0 ATTORNEY\u2019S OFFICE, Saint, Paul, MN, for Plaintiff-Appellee.",
+      "Mark Arlin Hammerschmidt, Pro Se. \u2019",
+      "James E. Ostgard, II, Minneapolis, MN, for Defendan1>-Appellant,"
+    ],
+    "corrections": "",
+    "head_matter": "UNITED STATES of America, Plaintiff-Appellee v. Mark Arlin HAMMERSCHMIDT, Defendant-Appellant United States of America, Plaintiff-Appellee v. Ornella Angelina Hammerschmidt, Defendant-Appellant\nNo. 16-4420, No. 16-4422\nUnited States Court of Appeals, Eighth Circuit.\nSubmitted: October 20, 2017\nFiled: February 2, 2018\nRehearing and Rehearing En Banc Denied March 13, 2018\nMichelle E. Jones,. Timothy Christopher Rank, Assistant U.S. Attorneys, U.S. ATTORNEY\u2019S OPEICE, District of Minnesota, Minneapolis, MN, Lisa D. Kirkpatrick, Assistant U.S. Attorney, U.S. \u25a0 ATTORNEY\u2019S OFFICE, Saint, Paul, MN, for Plaintiff-Appellee.\nMark Arlin Hammerschmidt, Pro Se. \u2019\nJames E. Ostgard, II, Minneapolis, MN, for Defendan1>-Appellant,\nBefore WOLLMAN and SHEPHERD, and GOLDBERG, Circuit Judges.\n. The Honorable Richard W. Goldberg, Judge, United States Court of International Trade, sitting by designation."
+  },
+  "file_name": "0633-01",
+  "first_page_order": 671,
+  "last_page_order": 678
+}

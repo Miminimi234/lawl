@@ -1,0 +1,681 @@
+{
+  "id": 1370259,
+  "name": "Tazzalyn Lewis, et al, Appellants, v. Peter Bours, Respondent",
+  "name_abbreviation": "Lewis v. Bours",
+  "decision_date": "1992-09-10",
+  "docket_number": "No. 58283-1",
+  "first_page": "667",
+  "last_page": "674",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "119 Wash. 2d 667"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Wash.",
+    "id": 9029,
+    "name": "Washington Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 38,
+    "name_long": "Washington",
+    "name": "Wash."
+  },
+  "cites_to": [
+    {
+      "cite": "430 P.2d 600",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1967,
+      "opinion_index": 0
+    },
+    {
+      "cite": "71 Wn.2d 679",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        1095196
+      ],
+      "year": 1967,
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/71/0679-01"
+      ]
+    },
+    {
+      "cite": "506 P.2d 1332",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1973,
+      "pin_cites": [
+        {
+          "parenthetical": "citing Griffiths & Sprague Stevedoring Co. v. Bayly, Martin & Fay, Inc., 71 Wn.2d 679, 430 P.2d 600 (1967); Bowen v. Bateman, 76 Wn.2d 567, 458 P.2d 269 (1969)"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "8 Wn. App. 435",
+      "category": "reporters:state",
+      "reporter": "Wash. App.",
+      "case_ids": [
+        475657
+      ],
+      "year": 1973,
+      "pin_cites": [
+        {
+          "page": "439",
+          "parenthetical": "citing Griffiths & Sprague Stevedoring Co. v. Bayly, Martin & Fay, Inc., 71 Wn.2d 679, 430 P.2d 600 (1967); Bowen v. Bateman, 76 Wn.2d 567, 458 P.2d 269 (1969)"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-app/8/0435-01"
+      ]
+    },
+    {
+      "cite": "111 Wn.2d 1017",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "year": 1988,
+      "opinion_index": 0
+    },
+    {
+      "cite": "756 P.2d 150",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1988,
+      "opinion_index": 0
+    },
+    {
+      "cite": "51 Wn. App. 936",
+      "category": "reporters:state",
+      "reporter": "Wash. App.",
+      "case_ids": [
+        591813
+      ],
+      "year": 1988,
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-app/51/0936-01"
+      ]
+    },
+    {
+      "cite": "425 P.2d 647",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1967,
+      "opinion_index": 0
+    },
+    {
+      "cite": "70 Wn.2d 875",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        1060193
+      ],
+      "year": 1967,
+      "pin_cites": [
+        {
+          "page": "884-90"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/70/0875-01"
+      ]
+    },
+    {
+      "cite": "382 U.S. 1025",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6445505,
+        6445590,
+        6445336,
+        6445403,
+        6445246
+      ],
+      "year": 1966,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/382/1025-04",
+        "/us/382/1025-05",
+        "/us/382/1025-02",
+        "/us/382/1025-03",
+        "/us/382/1025-01"
+      ]
+    },
+    {
+      "cite": "403 P.2d 351",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1965,
+      "opinion_index": 0
+    },
+    {
+      "cite": "66 Wn.2d 469",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        1045235
+      ],
+      "year": 1965,
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/66/0469-01"
+      ]
+    },
+    {
+      "cite": "422 P.2d 512",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1967,
+      "opinion_index": 0
+    },
+    {
+      "cite": "70 Wn.2d 198",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        1060122
+      ],
+      "year": 1967,
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/70/0198-01"
+      ]
+    },
+    {
+      "cite": "445 P.2d 1012",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1968,
+      "opinion_index": 0
+    },
+    {
+      "cite": "74 Wn.2d 679",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        1086695
+      ],
+      "year": 1968,
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/74/0679-01"
+      ]
+    },
+    {
+      "cite": "458 P.2d 269",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "weight": 2,
+      "year": 1969,
+      "opinion_index": 0
+    },
+    {
+      "cite": "76 Wn.2d 567",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        1080091
+      ],
+      "weight": 2,
+      "year": 1969,
+      "pin_cites": [
+        {
+          "page": "575"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/76/0567-01"
+      ]
+    },
+    {
+      "cite": "409 U.S. 1009",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6440739,
+        6440004,
+        6439783,
+        6440393,
+        6441036,
+        6440525,
+        6440632,
+        6440848,
+        6440950,
+        6439928,
+        6440090,
+        6439707
+      ],
+      "year": 1972,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/409/1009-09",
+        "/us/409/1009-04",
+        "/us/409/1009-02",
+        "/us/409/1009-06",
+        "/us/409/1009-12",
+        "/us/409/1009-07",
+        "/us/409/1009-08",
+        "/us/409/1009-10",
+        "/us/409/1009-11",
+        "/us/409/1009-03",
+        "/us/409/1009-05",
+        "/us/409/1009-01"
+      ]
+    },
+    {
+      "cite": "497 P.2d 1311",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1972,
+      "opinion_index": 0
+    },
+    {
+      "cite": "80 Wn.2d 707",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        1067119
+      ],
+      "year": 1972,
+      "pin_cites": [
+        {
+          "page": "714"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/80/0707-01"
+      ]
+    },
+    {
+      "cite": "581 S.W.2d 377",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.2d",
+      "case_ids": [
+        9937042
+      ],
+      "year": 1979,
+      "pin_cites": [
+        {
+          "page": "383"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/sw2d/581/0377-01"
+      ]
+    },
+    {
+      "cite": "787 F.2d 7",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1560605
+      ],
+      "year": 1986,
+      "pin_cites": [
+        {
+          "page": "11"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/787/0007-01"
+      ]
+    },
+    {
+      "cite": "375 F. Supp. 661",
+      "category": "reporters:federal",
+      "reporter": "F. Supp.",
+      "case_ids": [
+        3421778
+      ],
+      "year": 1984,
+      "opinion_index": 0,
+      "case_paths": [
+        "/f-supp/375/0661-01"
+      ]
+    },
+    {
+      "cite": "459 F. 2d 287",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        724382
+      ],
+      "year": 1974,
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/459/0287-01"
+      ]
+    },
+    {
+      "cite": "345 N.E.2d 149",
+      "category": "reporters:state_regional",
+      "reporter": "N.E.2d",
+      "year": 1972,
+      "opinion_index": 0
+    },
+    {
+      "cite": "37 Ill. App. 3d 6",
+      "category": "reporters:state",
+      "reporter": "Ill. App. 3d",
+      "case_ids": [
+        2714674
+      ],
+      "year": 1972,
+      "opinion_index": 0,
+      "case_paths": [
+        "/ill-app-3d/37/0006-01"
+      ]
+    },
+    {
+      "cite": "428 N.E.2d 532",
+      "category": "reporters:state_regional",
+      "reporter": "N.E.2d",
+      "year": 1976,
+      "opinion_index": 0
+    },
+    {
+      "cite": "101 Ill. App. 3d 601",
+      "category": "reporters:state",
+      "reporter": "Ill. App. 3d",
+      "case_ids": [
+        3087149
+      ],
+      "year": 1976,
+      "opinion_index": 0,
+      "case_paths": [
+        "/ill-app-3d/101/0601-01"
+      ]
+    },
+    {
+      "cite": "444 N.E.2d 780",
+      "category": "reporters:state_regional",
+      "reporter": "N.E.2d",
+      "year": 1981,
+      "opinion_index": 0
+    },
+    {
+      "cite": "111 Ill. App. 3d 775",
+      "category": "reporters:state",
+      "reporter": "Ill. App. 3d",
+      "case_ids": [
+        5438006
+      ],
+      "year": 1981,
+      "opinion_index": 0,
+      "case_paths": [
+        "/ill-app-3d/111/0775-01"
+      ]
+    },
+    {
+      "cite": "492 N.E.2d 1267",
+      "category": "reporters:state_regional",
+      "reporter": "N.E.2d",
+      "year": 1986,
+      "opinion_index": 0
+    },
+    {
+      "cite": "112 Ill. 2d 205",
+      "category": "reporters:state",
+      "reporter": "Ill. 2d",
+      "case_ids": [
+        5537969
+      ],
+      "year": 1986,
+      "pin_cites": [
+        {
+          "page": "209-10"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ill-2d/112/0205-01"
+      ]
+    },
+    {
+      "cite": "176 N.E.2d 761",
+      "category": "reporters:state_regional",
+      "reporter": "N.E.2d",
+      "year": 1961,
+      "opinion_index": 0
+    },
+    {
+      "cite": "22 Ill. 2d 432",
+      "category": "reporters:state",
+      "reporter": "Ill. 2d",
+      "case_ids": [
+        2788413
+      ],
+      "year": 1961,
+      "opinion_index": 0,
+      "case_paths": [
+        "/ill-2d/22/0432-01"
+      ]
+    },
+    {
+      "cite": "385 P.2d 305",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1963,
+      "opinion_index": 0
+    },
+    {
+      "cite": "62 Wn.2d 987",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        1036870
+      ],
+      "year": 1963,
+      "pin_cites": [
+        {
+          "page": "995"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/62/0987-01"
+      ]
+    },
+    {
+      "cite": "692 P.2d 198",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "weight": 3,
+      "year": 1984,
+      "opinion_index": 0
+    },
+    {
+      "cite": "39 Wn. App. 96",
+      "category": "reporters:state",
+      "reporter": "Wash. App.",
+      "case_ids": [
+        1794266
+      ],
+      "weight": 3,
+      "year": 1984,
+      "pin_cites": [
+        {
+          "page": "101-02"
+        },
+        {
+          "page": "100"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-app/39/0096-01"
+      ]
+    },
+    {
+      "cite": "504 P.2d 782",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "weight": 2,
+      "year": 1972,
+      "opinion_index": 0
+    },
+    {
+      "cite": "81 Wn.2d 719",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        1064105
+      ],
+      "weight": 2,
+      "year": 1972,
+      "pin_cites": [
+        {
+          "page": "722"
+        },
+        {
+          "page": "722"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/81/0719-01"
+      ]
+    },
+    {
+      "cite": "490 U.S. 1004",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        605952,
+        606019,
+        605862,
+        605710,
+        605490,
+        604948,
+        604917,
+        604890,
+        605213
+      ],
+      "weight": 2,
+      "year": 1989,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/490/1004-09",
+        "/us/490/1004-06",
+        "/us/490/1004-08",
+        "/us/490/1004-03",
+        "/us/490/1004-07",
+        "/us/490/1004-05",
+        "/us/490/1004-04",
+        "/us/490/1004-01",
+        "/us/490/1004-02"
+      ]
+    },
+    {
+      "cite": "757 P.2d 933",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "weight": 2,
+      "year": 1988,
+      "opinion_index": 0
+    },
+    {
+      "cite": "110 Wn.2d 752",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        1182895
+      ],
+      "weight": 2,
+      "year": 1988,
+      "pin_cites": [
+        {
+          "page": "756"
+        },
+        {
+          "page": "756"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/110/0752-01"
+      ]
+    },
+    {
+      "cite": "804 P.2d 627",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1991,
+      "opinion_index": 0
+    },
+    {
+      "cite": "60 Wn. App. 414",
+      "category": "reporters:state",
+      "reporter": "Wash. App.",
+      "case_ids": [
+        1718980
+      ],
+      "year": 1991,
+      "pin_cites": [
+        {
+          "page": "418"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-app/60/0414-01"
+      ]
+    },
+    {
+      "cite": "787 P.2d 562",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1990,
+      "opinion_index": 0
+    },
+    {
+      "cite": "114 Wn.2d 271",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        1169970
+      ],
+      "year": 1990,
+      "pin_cites": [
+        {
+          "page": "274"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/114/0271-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 847,
+    "char_count": 14270,
+    "ocr_confidence": 0.782,
+    "pagerank": {
+      "raw": 3.0242934506134133e-07,
+      "percentile": 0.8541142746160104
+    },
+    "sha256": "0e90063f0620f897a145c6803bf061225262cf359dc571bd56a59571abd1529e",
+    "simhash": "1:88c7ec0a90cb9947",
+    "word_count": 2325
+  },
+  "last_updated": "2024-02-27T20:54:39.105269+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "file_name": "0667-01",
+  "first_page_order": 701,
+  "last_page_order": 708
+}

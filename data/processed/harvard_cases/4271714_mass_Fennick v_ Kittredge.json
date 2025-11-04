@@ -1,0 +1,64 @@
+{
+  "id": 4271714,
+  "name": "Kevin Fennick vs. Joseph Kittredge & another",
+  "name_abbreviation": "Fennick v. Kittredge",
+  "decision_date": "2011-09-21",
+  "docket_number": "",
+  "first_page": "1012",
+  "last_page": "1012",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "460 Mass. 1012"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Mass.",
+    "id": 8825,
+    "name": "Massachusetts Supreme Judicial Court"
+  },
+  "jurisdiction": {
+    "id": 4,
+    "name_long": "Massachusetts",
+    "name": "Mass."
+  },
+  "cites_to": [
+    {
+      "cite": "444 Mass. 1001",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "case_ids": [
+        985764,
+        985822
+      ],
+      "year": 2005,
+      "pin_cites": [
+        {
+          "page": "1001"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mass/444/1001-01",
+        "/mass/444/1001-02"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 113,
+    "char_count": 1026,
+    "ocr_confidence": 0.92,
+    "sha256": "9169f8f95dad21a04d82d703f7308177820724a4787e224f3e390e485d18c8f0",
+    "simhash": "1:1d81491313282b96",
+    "word_count": 169
+  },
+  "last_updated": "2024-02-27T17:56:26.592595+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "file_name": "1012-01",
+  "first_page_order": 902,
+  "last_page_order": 902
+}

@@ -1,0 +1,62 @@
+{
+  "id": 2192050,
+  "name": "First National Bank of Montrose, Appellant, v. William B. Harwood, Impleaded, etc., Respondent",
+  "name_abbreviation": "First National Bank v. Harwood",
+  "decision_date": "1883-11-27",
+  "docket_number": "",
+  "first_page": "635",
+  "last_page": "635",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "94 N.Y. 635"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "N.Y.",
+    "id": 24653,
+    "name": "New York Court of Appeals"
+  },
+  "jurisdiction": {
+    "id": 1,
+    "name_long": "New York",
+    "name": "N.Y."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 34,
+    "char_count": 279,
+    "ocr_confidence": 0.527,
+    "sha256": "a50a9dc583560901153dc5172028b17510f46165f14b5bc416d31e0c2f063581",
+    "simhash": "1:29ea3c665e8725b9",
+    "word_count": 41
+  },
+  "last_updated": "2023-07-14T18:55:18.857986+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "First National Bank of Montrose, Appellant, v. William B. Harwood, Impleaded, etc., Respondent."
+    ],
+    "opinions": [
+      {
+        "text": "Agree to dismiss appeal; no opinion.\nAll concur.\nAppeal dismissed.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "B. F. Einstein for appellant.",
+      "J. M. Ferguson for respondent."
+    ],
+    "corrections": "",
+    "head_matter": "First National Bank of Montrose, Appellant, v. William B. Harwood, Impleaded, etc., Respondent.\n(Argued November 20, 1883;\ndecided November 27, 1883.)\nB. F. Einstein for appellant.\nJ. M. Ferguson for respondent."
+  },
+  "file_name": "0635-03",
+  "first_page_order": 659,
+  "last_page_order": 659
+}

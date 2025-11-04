@@ -1,0 +1,775 @@
+{
+  "id": 10545288,
+  "name": "Homer E. HANRAHAN, Petitioner-Appellee, James H. THIERET, Warden, Respondent-Appellant",
+  "name_abbreviation": "Hanrahan v. Thieret",
+  "decision_date": "1991-05-29",
+  "docket_number": "No. 90-3292",
+  "first_page": "1328",
+  "last_page": "1343",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "933 F.2d 1328"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "7th Cir.",
+    "id": 9010,
+    "name": "United States Court of Appeals for the Seventh Circuit"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "28 U.S.C. \u00a7 2254",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "pin_cites": [
+        {
+          "page": "(d)"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "481 U.S. 200",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6212712
+      ],
+      "weight": 3,
+      "year": 1987,
+      "pin_cites": [
+        {
+          "page": "211"
+        },
+        {
+          "page": "1709"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/481/0200-01"
+      ]
+    },
+    {
+      "cite": "95 L.Ed.2d 162",
+      "category": "reporters:federal",
+      "reporter": "L. Ed. 2d",
+      "case_ids": [
+        6212322,
+        6930932
+      ],
+      "year": 1987,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/481/0186-01",
+        "/us/340/0147-01"
+      ]
+    },
+    {
+      "cite": "481 U.S. 186",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6212322
+      ],
+      "weight": 2,
+      "year": 1987,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/481/0186-01"
+      ]
+    },
+    {
+      "cite": "489 U.S. 288",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        12032050
+      ],
+      "weight": 3,
+      "year": 1989,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/489/0288-01"
+      ]
+    },
+    {
+      "cite": "405 U.S. 427",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11722669
+      ],
+      "weight": 3,
+      "year": 1972,
+      "pin_cites": [
+        {
+          "page": "432"
+        },
+        {
+          "page": "1059"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/405/0427-01"
+      ]
+    },
+    {
+      "cite": "475 U.S. 673",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6207521
+      ],
+      "weight": 4,
+      "year": 1986,
+      "pin_cites": [
+        {
+          "page": "684"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/475/0673-01"
+      ]
+    },
+    {
+      "cite": "913 F.2d 434",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        10534350
+      ],
+      "year": 1990,
+      "pin_cites": [
+        {
+          "page": "446"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/913/0434-01"
+      ]
+    },
+    {
+      "cite": "835 F.2d 1204",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        10551832
+      ],
+      "pin_cites": [
+        {
+          "page": "1206"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/835/1204-01"
+      ]
+    },
+    {
+      "cite": "111 L.Ed.2d 786",
+      "category": "reporters:federal",
+      "reporter": "L. Ed. 2d",
+      "year": 1990,
+      "opinion_index": 0
+    },
+    {
+      "cite": "110 S.Ct. 3277",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "year": 1990,
+      "opinion_index": 0
+    },
+    {
+      "cite": "884 F.2d 945",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        11358982
+      ],
+      "pin_cites": [
+        {
+          "page": "951"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/884/0945-01"
+      ]
+    },
+    {
+      "cite": "924 F.2d 679",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        10543891
+      ],
+      "pin_cites": [
+        {
+          "page": "683"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/924/0679-01"
+      ]
+    },
+    {
+      "cite": "372 U.S. 335",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        1765333
+      ],
+      "weight": 3,
+      "year": 1963,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/372/0335-01"
+      ]
+    },
+    {
+      "cite": "927 F.2d 955",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1797261
+      ],
+      "pin_cites": [
+        {
+          "page": "956"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/927/0955-01"
+      ]
+    },
+    {
+      "cite": "695 F.Supp. 372",
+      "category": "reporters:federal",
+      "reporter": "F. Supp.",
+      "case_ids": [
+        4027567
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "386",
+          "parenthetical": "district court's first opinion analyzing closing argument statements in context"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f-supp/695/0372-01"
+      ]
+    },
+    {
+      "cite": "108 Ill.2d 579",
+      "category": "reporters:state",
+      "reporter": "Ill. 2d",
+      "year": 1985,
+      "opinion_index": 0
+    },
+    {
+      "cite": "87 Ill.Dec. 892",
+      "category": "reporters:state",
+      "reporter": "Ill. Dec.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "478 N.E.2d 31",
+      "category": "reporters:state_regional",
+      "reporter": "N.E.2d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "132 Ill.App.3d 640",
+      "category": "reporters:state",
+      "reporter": "Ill. App. 3d",
+      "case_ids": [
+        3442757
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ill-app-3d/132/0640-01"
+      ]
+    },
+    {
+      "cite": "723 F.2d 67",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "547 F.Supp. 721",
+      "category": "reporters:federal",
+      "reporter": "F. Supp.",
+      "case_ids": [
+        5685108
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f-supp/547/0721-01"
+      ]
+    },
+    {
+      "cite": "62 L.Ed.2d 36",
+      "category": "reporters:federal",
+      "reporter": "L. Ed. 2d",
+      "year": 1979,
+      "opinion_index": 0
+    },
+    {
+      "cite": "100 S.Ct. 53",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "year": 1979,
+      "opinion_index": 0
+    },
+    {
+      "cite": "444 U.S. 828",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11318437,
+        11318502,
+        11318348,
+        11319087,
+        11319248,
+        11319029,
+        11318582,
+        11318266,
+        11318683,
+        11318909,
+        11318751
+      ],
+      "year": 1979,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/444/0828-03",
+        "/us/444/0828-04",
+        "/us/444/0828-02",
+        "/us/444/0828-10",
+        "/us/444/0828-11",
+        "/us/444/0828-09",
+        "/us/444/0828-05",
+        "/us/444/0828-01",
+        "/us/444/0828-06",
+        "/us/444/0828-08",
+        "/us/444/0828-07"
+      ]
+    },
+    {
+      "cite": "20 Ill.Dec. 866",
+      "category": "reporters:state",
+      "reporter": "Ill. Dec.",
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "1015-16"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "380 N.E.2d 1075",
+      "category": "reporters:state_regional",
+      "reporter": "N.E.2d",
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "1081"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "64 Ill.App.3d 207",
+      "category": "reporters:state",
+      "reporter": "Ill. App. 3d",
+      "case_ids": [
+        3331617
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "215"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ill-app-3d/64/0207-01"
+      ]
+    },
+    {
+      "cite": "88 L.Ed.2d 471",
+      "category": "reporters:federal",
+      "reporter": "L. Ed. 2d",
+      "year": 1985,
+      "opinion_index": 0
+    },
+    {
+      "cite": "106 S.Ct. 541",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "year": 1985,
+      "opinion_index": 0
+    },
+    {
+      "cite": "474 U.S. 1011",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6485064,
+        6484154,
+        6485162,
+        6484648,
+        6485306,
+        6484077,
+        6484951,
+        6484787,
+        6484725,
+        6484374,
+        6484886,
+        6484249,
+        6484506,
+        6484575
+      ],
+      "year": 1985,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/474/1011-12",
+        "/us/474/1011-02",
+        "/us/474/1011-13",
+        "/us/474/1011-07",
+        "/us/474/1011-14",
+        "/us/474/1011-01",
+        "/us/474/1011-11",
+        "/us/474/1011-09",
+        "/us/474/1011-08",
+        "/us/474/1011-04",
+        "/us/474/1011-10",
+        "/us/474/1011-03",
+        "/us/474/1011-05",
+        "/us/474/1011-06"
+      ]
+    },
+    {
+      "cite": "772 F.2d 1410",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        306694
+      ],
+      "pin_cites": [
+        {
+          "page": "1414"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/772/1410-01"
+      ]
+    },
+    {
+      "cite": "391 U.S. 123",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        1767670
+      ],
+      "weight": 3,
+      "year": 1968,
+      "pin_cites": [
+        {
+          "page": "140",
+          "parenthetical": "White, J., dissenting"
+        },
+        {
+          "page": "1630",
+          "parenthetical": "White, J., dissenting"
+        },
+        {
+          "parenthetical": "White, J., dissenting"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/391/0123-01"
+      ]
+    },
+    {
+      "cite": "111 S.Ct. 1246",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        11318776
+      ],
+      "weight": 3,
+      "year": 1991,
+      "pin_cites": [
+        {
+          "page": "1257",
+          "parenthetical": "\" '[T]he admissions of a defendant come from the actor himself, the most knowledgeable and unimpeachable source of information about his past conduct.' \""
+        },
+        {
+          "parenthetical": "\" '[T]he admissions of a defendant come from the actor himself, the most knowledgeable and unimpeachable source of information about his past conduct.' \""
+        },
+        {
+          "page": "1257"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/499/0279-01"
+      ]
+    },
+    {
+      "cite": "929 F.2d 1180",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        10546991
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/929/1180-01"
+      ]
+    },
+    {
+      "cite": "461 U.S. 499",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11298852
+      ],
+      "weight": 5,
+      "year": 1983,
+      "pin_cites": [
+        {
+          "page": "511"
+        },
+        {
+          "page": "1981"
+        },
+        {
+          "page": "511-12"
+        },
+        {
+          "page": "1981-82"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/461/0499-01"
+      ]
+    },
+    {
+      "cite": "395 U.S. 250",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        1771609
+      ],
+      "weight": 5,
+      "year": 1969,
+      "pin_cites": [
+        {
+          "page": "254"
+        },
+        {
+          "page": "1728"
+        },
+        {
+          "page": "254"
+        },
+        {
+          "page": "1728"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/395/0250-01"
+      ]
+    },
+    {
+      "cite": "898 F.2d 72",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        10527536
+      ],
+      "pin_cites": [
+        {
+          "page": "75"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/898/0072-01"
+      ]
+    },
+    {
+      "cite": "386 U.S. 18",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6168882
+      ],
+      "weight": 11,
+      "year": 1967,
+      "pin_cites": [
+        {
+          "page": "24"
+        },
+        {
+          "page": "828"
+        },
+        {
+          "page": "24"
+        },
+        {
+          "page": "828"
+        },
+        {
+          "page": "24"
+        },
+        {
+          "page": "828"
+        },
+        {
+          "page": "24"
+        },
+        {
+          "page": "828"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/386/0018-01"
+      ]
+    },
+    {
+      "cite": "748 F.Supp. 603",
+      "category": "reporters:federal",
+      "reporter": "F. Supp.",
+      "case_ids": [
+        4107725
+      ],
+      "weight": 13,
+      "pin_cites": [
+        {
+          "page": "611"
+        },
+        {
+          "page": "611",
+          "parenthetical": "quoting Trial Transcript at 1712"
+        },
+        {
+          "page": "612"
+        },
+        {
+          "page": "612"
+        },
+        {
+          "page": "604-08"
+        },
+        {
+          "page": "612",
+          "parenthetical": "referring to Homer's \"Blame it all on me....\" statement"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f-supp/748/0603-01"
+      ]
+    },
+    {
+      "cite": "896 F.2d 241",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        10529325
+      ],
+      "weight": 9,
+      "pin_cites": [
+        {
+          "page": "245"
+        },
+        {
+          "page": "244",
+          "parenthetical": "noting our circuit's prior lack of focus on the issue"
+        },
+        {
+          "page": "243"
+        },
+        {
+          "page": "243"
+        },
+        {
+          "page": "243"
+        },
+        {
+          "page": "245",
+          "parenthetical": "outlining State's argument"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/896/0241-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 2003,
+    "char_count": 57578,
+    "ocr_confidence": 0.788,
+    "pagerank": {
+      "raw": 1.0966969321979081e-07,
+      "percentile": 0.5670631762701223
+    },
+    "sha256": "9b2c47c31fa8dfbc56c54eef5af27570e76d6bd644cfae166f1c7ec9342280e7",
+    "simhash": "1:d8626a2661a3454b",
+    "word_count": 9488
+  },
+  "last_updated": "2024-02-27T20:17:01.570520+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before WOOD, Jr., and POSNER, Circuit Judges, and FAIRCHILD, Senior Circuit Judge."
+    ],
+    "parties": [
+      "Homer E. HANRAHAN, Petitioner-Appellee, James H. THIERET, Warden, Respondent-Appellant."
+    ],
+    "opinions": [
+      {
+        "text": "HARLINGTON WOOD, Jr., Circuit Judge.\nSometime near midnight on November 21, 1974, Mary Ellen Hanrahan, the sixteen-year-old daughter of Homer Hanra-han, went to the Niles police station. Her mother was gone, she told police officers, and she was worried. Her report led to the arrest of her nineteen-year-old brother, Michael Hanrahan. It also led to the arrest of her father and the discovery of her mother\u2019s dead body in the trunk of his car. Both men were charged with murder, aggravated kidnapping, aggravated battery, and conspiracy. After a joint trial, a jury convicted Homer on all counts and Michael on all counts but murder.\nHomer thereafter began a lengthy process of challenging his convictions on direct appeal as well as collaterally. This court first addressed these efforts in Hanrahan v. Greer, 896 F.2d 241 (7th Cir.1990), where we upheld the district court\u2019s conclusion that Homer\u2019s constitutional rights had been violated by the admission of incriminating statements by his son and nontestifying codefendant, Michael. We remanded the case, however, so that the district court could determine whether the admission of Michael\u2019s statements collectively constituted harmless error. That determination having been made in favor of Homer, see United States ex. rel. Hanrahan v. Thieret, 748 F.Supp. 603 (N.D.Ill.1990), we have occasion to revisit his petition on this appeal by his prosecutor.\nI.\nFamiliarity with the previous opinions addressing Homer\u2019s efforts is assumed, but the nature of our inquiry demands a factual presentation. Crudely, but necessarily, summarized, the relevant testimony falls within four major categories: (1) Mary Ellen\u2019s testimony; (2) physical evidence; (3) Homer\u2019s statements and testimony at trial; and (4) Michael\u2019s statements.\nA. Mary Ellen\u2019s Testimony\nMary Ellen testified that she arrived at her home in Niles, Illinois, at approximately 9:30 p.m. on November 20, 1974. She was met by her father, which she thought unusual for two reasons. First, her father and mother were in the process of getting divorced and he no longer resided in the family home. Second, blood covered his right forearm, which he attributed to having cut himself.\nAt her father\u2019s behest, Mary Ellen went upstairs to her room. Once there, she was startled when she heard her mother, Marian Hanrahan, scream. Homer soon came upstairs and explained that Michael and Marian were fighting, but this explanation failed to satisfy Mary Ellen\u2019s curiosity. After her father left, she eavesdropped at an air vent that led to the basement. She heard her mother moan and also heard her mother say, \u201cIt hurts, it hurts.\u201d\nThe results of her eavesdropping prompted Mary Ellen to go downstairs to the kitchen. Homer soon came up from the basement and again told her that Michael and Marian were arguing downstairs. Things had gotten out of hand, he said, but they were okay now. Mary Ellen went back to her bedroom but continued to hear her mother moaning.\nWhen Mary Ellen\u2019s uncle brought her brother Steven back home from a birthday party, she went downstairs and saw Michael greet the uncle at the front door wearing only his undershorts. After the uncle departed, she asked Michael what was wrong. He replied that their mother had gone \u201ccrazy\u201d and that he had hit her in the face after she came at him with a knife. Michael then refused to allow Mary Ellen to go down to the basement to see their mother.\nAfter her encounter with Michael, Mary Ellen returned to her bedroom. She was not to remain there, however; she later came back downstairs to the kitchen and once again encountered her father. They had a conversation in which Homer asked her how she would feel about the possibility of his reconciliation with her mother.\nMary Ellen thereafter returned to her bedroom, fell asleep, and did not awaken until roughly 7:00 a.m., when she heard Michael leaving for school. After her father came into her room and told her to get ready for school, Mary Ellen asked to see her mother. Homer refused. He assured her, however, that everything was alright and that her mother was still sleeping.\nWhen Mary Ellen returned from school around 2:15 p.m., she found a note from her father stating that he and her mother had gone on a trip and would return in a few days. She thought it unusual that her mother would leave without saying goodbye. She also thought it unusual that her mother would go anywhere with her father. Acting on her concerns, she went to the police and told them what had happened.\nB. Physical Evidence\nAfter Mary Ellen related these events, police officers accompanied her to the family home. In the basement, they discovered blood and observed that the floor had been freshly mopped. They also found a bloodstained mattress pad on Marian\u2019s bed and noticed that the sheets and covers were missing. After checking her mother\u2019s closet, Mary Ellen found that none of her mother\u2019s clothes were missing.\nMichael was arrested for battery later that morning, November 22, 1974. That evening, police officers arrested Homer at the home of Roberta Stiles, his girlfriend. When they opened the trunk of his car, they found Marian\u2019s naked dead body inside. They also found Marian\u2019s purse, some hypodermic syringes, various drugs, a drug salesperson\u2019s sample kit with empty slots, a bottle labelled chloroform, a paper towel shaped into a cup, a suitcase that contained a hunting knife, boxes with medication labels, and a vibrator. In addition to the contents of the trunk, the state was also successful in admitting into evidence two handguns that were in Stiles\u2019s home, one of which had traces of blood on the butt; sheets, towels, and blankets from the family home that were discovered in Stiles\u2019s basement; an attache case from the back seat of Homer\u2019s car; and bloodstained clothing belonging to Michael and Homer.\nIn relaying the results of his initial examination, the pathologist described the bruises that were evident on the side, shoulder, and head of Marian\u2019s body. He testified that a bruise on Marian\u2019s forehead, which had caused internal bleeding, was consistent with a blow to the head. That blow could have caused external bleeding from her nose, head, ears, or mouth, but the pathologist did not observe any signs of external bleeding from those areas. He also described Marian\u2019s anus as dilated and indicated that her buttocks evidenced multiple puncture wounds that were consistent with needle injections.\nOn the basis of this initial examination, the pathologist determined that Marian\u2019s numerous bruises had caused her death. When he received the toxicologist\u2019s report, however, he revised that determination. Marian, he told the jury, died of acute morphine intoxication; the external wounds were at most a contributing cause of death. She had died twenty-four to forty-eight hours prior to her autopsy on the morning of November 23, and she had eaten approximately four to six hours before her death.\nThe toxicologist\u2019s analysis of Marian\u2019s blood, urine, and bile revealed a toxic level of morphine; nonlethal doses of a tranquilizer and barbiturates; a negligible amount of alcohol; and a trace amount of chloroform. Of the drugs that the police recovered, only one could have been the source of the morphine that killed Marian \u2014 the cough medicine Phenargan, which contained codeine. If that were the only source, however, Marian would have had to ingest five to ten of the little sample bottles that the police discovered.\nC. Homer\u2019s Statement and Testimony\nHomer\u2019s first and only statement came several hours after his arrest. He revealed the location of two guns and also revealed the location of the blankets, towels, bandages, drugs, hypodermic needles, and Marian\u2019s clothing. He admitted that he had attempted to administer Sparine, a tranquilizer, into his wife\u2019s anus and that he had successfully injected it into her buttocks. He also identified chloroform as another substance used, and admitted a familiarity with drugs as a result of his former employment as a salesperson for a pharmaceutical company.\nHomer\u2019s statement also included references to Michael\u2019s participation. He told the assistant state\u2019s attorney that Michael struck Marian in the head with a gun after she displayed a serrated knife. He also stated that Michael administered chloroform to Marian. In seeming contrast to these statements, however, Homer told his interviewer, \u201cBlame it all on me, I did it, my son was not involved.\u201d The interview terminated after he requested an attorney.\nHomer also testified at trial. He told the jury that on November 20, 1974, he met Michael for dinner at Jake\u2019s Restaurant prior to a prearranged meeting with Marian to work out some of the details in their pending divorce. During his dinner with Michael, Homer expressed a desire to settle the matter that evening. If a quick settlement was not possible, however, then Homer indicated that he would like to get Marian \u201caway from the influence of her family for a few days\u201d in order to facilitate settlement. The two men, who were both gun enthusiasts, also discussed a broken gun that Homer had left behind in the basement of the family home. Homer told Michael that he would give him the gun later that evening because Michael had an idea as to where to obtain a part to fix it.\nAfter dinner, Homer and Michael proceeded separately to the family home, and on the way Homer stopped to cash a check and purchase beer. When he arrived, he noted that Marian\u2019s eyes and her walk appeared \u201cfunny.\u201d Homer told the jury that Marian was an epileptic and that she occasionally had seizures. He also testified that during these occasions Marian was in the habit of using the tranquilizer Sparine, samples of which he had received for distribution to doctors while working as a drug salesperson. Some of these samples were located in an old sample kit that he had left behind in the basement of the family home.\nHomer and Marian proceeded to the basement, where they began sorting certain bills that he had paid and wanted credited toward his child support payments. As Marian was walking to a filing cabinet, she collapsed on the floor and began yelling and screaming incoherently. When Homer tried to help her to her feet, she pushed him away. She stood up on her own effort, knocking down a metal table in the process, and ran around the basement. She also managed to obtain a knife during this time and she began to come at Homer, knocking over yet another metal table. Some sort of struggle ensued, during which she cut Homer\u2019s hand.\nIn the middle of this altercation, Michael entered the basement and attempted to separate his parents. Homer described Marian as \u201crunning around in circles, hanging on to this post with one hand and lunging at me trying to hit me, lunging at me with this knife, and of course, Mike was trying to stop everything at this point, and she kicked Michael.\u201d Trial Transcript at 1031. Michael went down on the floor and Marian fell back and hit her head against the post, causing her to fall to the floor semiconscious.\nHomer went up to the kitchen to find towels so that he could clean up the blood that had splattered about. He also grabbed some ice cubes for Marian\u2019s head. When he returned to the basement, Michael suggested that they call a doctor. Homer rejected the idea, however. He was afraid that Marian would blame him for her injuries and that he would be arrested.\nMary Ellen had since arrived home and been sent to bed. Homer did not want his daughter to hear her mother moan so he retrieved some of the Sparine samples from the kit that he had left in the basement. He cut a slit in Marian\u2019s slacks and attempted to administer the Sparine rectally. When several attempts failed, however, he injected a quantity of the drug directly into her buttocks, in the process bending a hypodermic needle. Marian continued to moan during the period in which the drug had not fully taken effect. She also said something about hurting. Homer and Michael continued efforts to clean up the mess and also removed their blood-stained clothes and threw them in the washing machine.\nAt approximately 10:15 p.m., Homer\u2019s brother-in-law telephoned to say that he was bringing Steven home. Fearful of being discovered, Homer covered Marian\u2019s mouth with \u201cindustrial tape\u201d and gave her another injection of Sparine to keep her from moaning. He also sent Michael upstairs to meet the brother-in-law, Michael\u2019s and Mary Ellen\u2019s uncle.\nLater, after Mary Ellen and Steven went to sleep, Homer and Michael carried Marian to her bedroom. Michael again recommended that they call a doctor and Homer again refused. He assured Michael that Marian would be fine after she \u201cslept it off.\u201d After Michael left the room, Homer undressed his wife and pulled the covers over her.\nThe next morning, after Michael, Mary Ellen, and Steven had left for school, Homer attempted unsuccessfully to wake Marian. She was dead. Panicking, he decided to remove her body from the house so that the children would not have to see her in that state. He was also afraid that he would be blamed for her death. In attempting to lift Marian\u2019s body from the bed, however, he discovered that she was quite heavy and that her arms and legs would not cooperate with his efforts to move her. He told the jury that he found it necessary to bind her arms and legs in order to facilitate her eventual removal from the room.\nWhen Michael came home unexpectedly around 10:30 a.m., Homer informed him that his mother was dead. The two men then wrapped Marian in her bedding, carried her to the garage, and placed her in the trunk of Homer\u2019s car. Homer continued to straighten up the house from the night before and picked up, among other things, some of the drugs from his sample kit. He also picked up two guns, at least one of which had been on a bar in the basement. He placed these items in the trunk of his car and then prepared a note in which he said that he and Marian were going on a vacation. Homer then left the note where either Mary Ellen or Steven would find it.\nMichael left for a job interview. Homer drove around aimlessly, at one point checking into a motel. From there, he called the family home and talked to Steven, giving him the name of the motel and its phone number. He left the motel sometime after dark and continued to drive aimlessly, ending up at the home of his girlfriend, where he was arrested the next evening. Marian\u2019s body remained in his trunk during this entire time.\nD. Michael\u2019s Statements\nApproximately one hour after he was first arrested, Michael told police that he slapped Marian during a fight and that he last saw her leaving with Homer about noon on the following day. He revised this statement about an hour and a half later, this time telling his interviewer that he overheard Homer and Marian arguing in the basement and that he ran downstairs after he heard a loud crash. There he saw Homer standing over Marian, with blood on him, saying, \u201cOh my God, what have I done?\u201d He also told police that he heard Marian moan as he and his father placed her body in the trunk the next day.\nMichael did not testify at trial, but both of these statements were related to the jury, as was a third statement. In the early morning hours of November 23, 1974, Michael recanted his two earlier statements and in their place gave a substantially more comprehensive description of what had occurred. Portions of that statement were related to the jury by Mr. DiVito, the same assistant state's attorney who related Homer\u2019s statement.\nDiVito told the jury that on the evening of November 20, Michael met his father at a prearranged place, Jake\u2019s Restaurant in Niles, Illinois. Once there, the two men discussed a plan to imprison Marian until she agreed to sign over the family home and other property to her children. They then left the restaurant and proceeded to the family home, but not before Homer gave Michael an unloaded automatic handgun.\nMichael arrived at the family home about the same time that his mother pulled into the driveway. Homer arrived shortly thereafter, having stopped to purchase beer. The three went to the basement, whereupon Michael produced the gun and demanded that his mother sign over the properties. Using a piece of rope that he had brought with him, Homer attempted to bind and blindfold Marian but was not immediately successful. She struggled and kicked Michael in the groin. Michael retaliated by pistol-whipping her, causing her to fall to the floor unconscious.\nMarian was bleeding severely, according to Michael, and he and his father wiped up the blood with bath towels. The two men also removed and attempted to wash their blood-stained outer clothing. Mary Ellen and Steven were sent to bed when they returned home.\nWhen Marian regained consciousness during this period of time, Homer would administer chloroform. Homer also cut a slit in Marian\u2019s slacks and injected drugs, which Michael could not identify, into her buttocks and anus. Homer had also bound Marian\u2019s hands and legs by this time. The two men later carried Marian to her bedroom and Michael thereafter went to sleep.\nMichael next saw Marian at about 6:30 a.m. the next day; she was in bed with a bandage wrapped around her head. After Homer assured him that everything was alright, he left for school. He returned around 10:30 a.m. and helped Homer to wrap Marian\u2019s trussed and naked body in sheets and blankets from her bed and to place her in the trunk of Homer\u2019s car. And while moving her body, he thought that he heard Marian moan. He and Homer then gathered up the handgun, drugs, hypodermic needles, and other articles and placed them in the trunk along with a shovel. Michael then left to attend a job interview.\nII.\nAlthough given the opportunity on remand to argue that the entirety of Michael\u2019s statements was harmful, 896 F.2d at 245, Homer identified only the following portions of Michael\u2019s statements as fatal:\n1. That Homer planned in advance to kidnap Marian and force her to turn property over to the children;\n2. That Homer laid out these plans to Michael and gave him a gun;\n3. That Homer and Michael confronted Marian with a gun, and Homer tied her up with a rope he had brought with him;\n4. That Homer caused the initial injury to Marian;\n5. That Homer administered chloroform to Marian; and,\n6. That Michael thought he heard a groan as Marian\u2019s body was placed in the trunk of the car.\nTaking the issues as framed by Homer, the district court proceeded to decide the harmless error issue in his favor.\nApplying the standard for constitutional error originally set forth in Chapman v. California, 386 U.S. 18, 24, 87 S.Ct. 824, 828, 17 L.Ed.2d 705 (1967), the district court concluded that the admission of Michael\u2019s statements was not harmless beyond a reasonable doubt. First discussing the long-since-vacated conspiracy conviction, the district court concluded that the only direct evidence to support that conviction was Michael\u2019s statement about what had occurred at the restaurant. Accordingly, the district court concluded that Michael\u2019s statement must have contributed to Homer\u2019s conviction and that the admission of that statement was not harmless error.\nAs to the conviction for aggravated kidnapping, the district court focussed on two aspects of Michael\u2019s statements \u2014 the statement that he and Homer agreed to kidnap Marian and the statement that he may have heard Marian moan when he and his father placed her body in the trunk of the car. It then concluded that the State\u2019s emphasis on Michael\u2019s statements during closing argument \u201cmade obvious the intention that the jury should consider Michael\u2019s statement the main event.\u201d 748 F.Supp. at 611. The district court also noted that Michael\u2019s statements, even if fully corroborated by other evidence, were of far more value to the State and had a far more damaging impact on Homer by virtue of the fact that they were \u201cpresented out of the mouth of Michael.\u201d Id. And given this \u201cheavy\u201d reliance on Michael\u2019s statements, and the relatively thin nature of corroborating evidence, the district court concluded that the admission of Michael\u2019s statements could not be construed as harmless error with respect to this conviction as well.\nIn discussing the murder conviction, the district court noted that the suspect nature of the conspiracy and kidnapping counts precluded a felony murder theory. That fact, it concluded, should be sufficient to cast doubt on Homer\u2019s murder conviction. The district court went on, however, to note that the lack of a reference to a seizure in any of Michael\u2019s statements was highly damaging to Homer\u2019s defense, as was Michael\u2019s statement concerning the agreement to kidnap Marian and the evil intent that it suggested. In view of these observations, the district court concluded that Michael\u2019s statements also contributed to Homer\u2019s murder conviction.\nIII.\nConstitutional error does not require automatic reversal. On the contrary, an otherwise valid conviction need not be set aside if the error is harmless. As the district court correctly stated, however, the standard is strict indeed. A court must be able to say confidently, on the record as a whole, that the error was harmless beyond a reasonable doubt. Chapman, 386 U.S. at 24, 87 S.Ct. at 828; United States v. Hill, 898 F.2d 72, 75 (7th Cir.1990).\nIn making this determination, a court must evaluate the \u201cprobable impact\u201d of Michael\u2019s statements \u201con the minds of an average jury.\u201d Harrington v. California, 395 U.S. 250, 254, 89 S.Ct. 1726, 1728, 23 L.Ed.2d 284 (1969). It should not, however, attempt to act as a jury and determine the ultimate question of Homer\u2019s guilt or innocence. The correct inquiry, as articulated by the district court, is whether there exists a \u201creasonable possibility\u201d that Michael\u2019s statements \u201cmight have contributed\u201d to Homer\u2019s conviction. If so, Homer deserves a new trial.\nAs to the standard of appellate review, our initial opinion raised the question of how much deference should be accorded a district court\u2019s findings regarding harmless error. 896 F.2d at 244 (noting our circuit\u2019s prior lack of focus on the issue). We also suggested that deferential review was \u201cmore consonant with principles that govern the ordinary roles of district and appellate judges.\u201d Id. We expressly refused to decide the issue, however, until it had been fully briefed.\nDespite this clear invitation to the parties, we presently find ourselves in roughly the same position as before. Only Homer has addressed the issue, not surprisingly advocating the view that the findings of the district court, which has now reviewed this record six times (three times regarding Homer and three times regarding Michael), are entitled to deference. The State, on the other hand, did not address the issue in its opening brief. Nor did it use its reply brief to respond to Homer\u2019s argument. We can only conclude, therefore, that both parties to this case are in agreement that the district court\u2019s findings must be reviewed in a deferential manner; a true resolution of this issue must wait for another day.\nIV.\nAt long last arriving at a point where we can apply the relevant standards to this case, we find that at least two of the statements identified by Homer are capable of summary disposition. The first is the statement that Homer caused the initial injury to Marian, which derives from Michael\u2019s second statement and its image of Homer standing over Marian\u2019s body, with blood on him, saying \u201cOh my God, what have I done?\u201d The district court\u2019s initial opinion resolved this issue against Homer, 695 F.Supp. at 383-88, and this court found that treatment persuasive. 896 F.2d at 243; see also 748 F.Supp. at 611 n. 11 (district court subsequently reaffirmed its belief in the earlier analysis). Homer has not asked us to overrule our prior determination, and to the extent his present argument incorporates any new insights it is simply too late.\nWe can also reject as inconsequential Michael\u2019s suggestion that he may have heard a moan. In response to Homer\u2019s identification of this statement as harmful, the State argued before the district court that Michael\u2019s suggestion was merely cumulative of the pathologist\u2019s testimony that Marian had eaten approximately four to six hours before her death. Based on this testimony, the State argued that the jury concluded that Marian had eaten sometime after she had been placed in the trunk and, therefore, that she had been alive when placed in the trunk. Homer responded with strong criticism and in the process conceded away the ultimate issue.\nAs Homer put it:\n\u201c[I]t challenges the imagination to believe that twelve reasonable jurors concluded that Homer had bound and gagged Marian and loaded her, naked, into his car, and had then either spoonfed her in that position or untied her and taken her out to eat, before injecting her with a lethal dose of drugs and returning her bound, gagged, and naked, as before, to the trunk of the car. It is far more likely that the jury simply concluded either that the medical evidence was off by a few hours or that Marian had somehow eaten during the night of November 20-21, before she died on the morning of the 21st.\u201d\n748 F.Supp. at 611 n. 10 (quoting Homer\u2019s reply memorandum). This reasoning does more than dispute the State\u2019s argument, it takes the position that a reasonable jury would not have believed that Marian was alive when Homer and Michael placed her in the trunk. But if the average jury would not have believed that proposition, then there is no reasonable possibility that the error of admitting Michael\u2019s statement about the moan could have contributed to Homer\u2019s conviction. The average jury, after all, would quickly reject an unbelievable argument.\nAll that remains, then, are those portions of Michael\u2019s statements that tend to suggest a scheme to kidnap Marian. In scrutinizing Homer\u2019s aggravated kidnapping conviction, the district court assumed for the sake of argument that each of these allegedly incriminating statements was corroborated by other evidence. Nevertheless, the district court concluded, the error could not have been harmless because of the prosecution\u2019s \u201cheavy\u201d reliance on Michael\u2019s statements and because of the comparatively thin nature of this corroborating evidence.\nWe cannot agree, however, with the district court\u2019s conclusion that the State relied heavily on Michael\u2019s statements. This conclusion, as explained in the district court opinion, relies exclusively on a single statement by Homer\u2019s prosecutor during the course of closing arguments:\n\u201cWe don\u2019t want sympathy. I could stand before you and tell you and look you straight in the face and tell you that the people of the community, based on the evidence that you have got, corroborated admissions to the deputy state\u2019s attorney of this county, the people of this community demand justice from you.\u201d\n748 F.Supp. at 611 (quoting Trial Transcript at 1712) (emphasis added by district court). There is a certain danger, however, in relying conclusively on one phrase from a transcript that spans approximately 1750 pages, 123 pages of which are attributable to closing arguments. That danger is implicitly recognized at another point in the district court\u2019s opinion and deserves consideration as well in this instance.\n\u201cA reviewing court must begin with the reality that the jurors sat in the same room day after day with the defendants and their lawyers.\u201d United States v. Hasting, 461 U.S. 499, 511, 103 S.Ct. 1974, 1981, 76 L.Ed.2d 96 (1983). The State\u2019s closing argument, including rebuttal, occupies some sixty-three pages of transcript. In delivering that argument, the State did make references to Michael\u2019s statements, but most of these references appear inconsequential. Homer does find fault with a summary of Michael\u2019s third statement but fails to mention that this reference was part of a comprehensive summary of the trial testimony that was performed without special emphasis. The district court\u2019s first opinion found a similar reference unobjectionable, 695 F.Supp. at 386, and the same rationale would apply here.\nThe State\u2019s request that the jury rely on \u201ccorroborated admissions to the deputy state\u2019s attorney\u201d is also less consequential when viewed in context. That request, made during rebuttal, was in response to an argument by Michael\u2019s attorney that, especially in light of Homer\u2019s efforts to deny his son\u2019s participation, the only evidence implicating Michael was his own statements. And, Michael\u2019s attorney continued, those \u201cuncorroborated\u201d statements were unreliable in view of the manner in which they were obtained and related to the jury.\nAn examination of the surrounding text reveals that the State was arguing only that Michael\u2019s admissions were, in fact, \u201ccorroborated.\u201d It was not arguing, as Homer and the district court now suggest, that the jury should look first and foremost to Michael\u2019s statements in reaching its verdict. If anything, the focus of the State\u2019s closing was Homer\u2019s testimony, which the State portrayed as hopelessly at odds with itself. There was thus no real reliance on Michael\u2019s statements, much less \u201cheavy\u201d reliance, which makes it less likely that those statements could have contributed to Homer\u2019s conviction.\nNor can we agree with the district court\u2019s characterization of the other evidence that supported the kidnapping charge. Homer\u2019s own testimony revealed that he was willing to get Marian away from the influence of her family \u201cfor a few days.\u201d Homer also testified that his fear of arrest caused him to inject Marian with a tranquilizer and to put tape over her mouth to conceal her presence from, among others, his daughter and his brother-in-law. His statement to the police revealed that chloroform was used.\nIt could not have escaped the jury\u2019s attention, moreover, that guns were involved. Homer himself testified that he picked up two handguns, at least one of which was lying on the bar in the basement, while cleaning up the other \u201cevidence.\u201d In his statement to the police he divulged the location of the guns at the same time that he revealed the whereabouts of such evidence as the drugs and Marian\u2019s clothing. He also admitted that Michael had used a gun to hit Marian. At no time, however, did Homer explain why it was necessary for weapons to be present during this allegedly amicable meeting with his wife.\nThe significance of this evidence should not be lightly dismissed. The jury instructions for aggravated kidnapping, after all, required only a finding that Homer, acting with knowledge and intent, secretly confined Marian against her will (and in the process inflicted great bodily harm upon her). Homer\u2019s own testimony goes a long way in meeting the State\u2019s burden and, in view of the source, must be viewed as having a more detrimental impact upon his defense than Michael\u2019s statements. See Morrison v. Duckworth, 929 F.2d 1180 (7th Cir.1991) (purported constitutional error held harmless when defendant\u2019s own statements admitted elements of crime); see also Arizona v. Fulminante, \u2014 U.S. -, 111 S.Ct. 1246, 1257, 113 L.Ed.2d 302 (1991) (\u201c \u2018[T]he admissions of a defendant come from the actor himself, the most knowledgeable and unimpeachable source of information about his past conduct.\u2019 \u201d) (quoting Bruton v. United States, 391 U.S. 123, 140, 88 S.Ct. 1620, 1630, 20 L.Ed.2d 476 (1968) (White, J., dissenting)). Michael\u2019s statements certainly indicate that Homer attempted to kidnap Marian, but in many ways these references are merely cumulative of other, more damaging, evidence dictating the same conclusion. It is therefore less likely that Michael\u2019s statements contributed to Homer\u2019s conviction.\nIt is unlikely, moreover, that a jury would accept Michael\u2019s statements at face value. As Michael\u2019s trial counsel emphasized to the jury, DiVito\u2019s recollection of Michael\u2019s third statement derived from a short memorandum that was initiated over four hours after his conversation with Michael and which incorporated only the highlights of what was apparently a very long interview. Michael\u2019s three-stage confession also demonstrated a reluctance to accept responsibility for his own actions and a simultaneous willingness to shift an undue portion of the blame toward his father. This reluctance tainted his third statement, and a jury is likely to be skeptical of testimony that may not be entirely frank. These apparent weaknesses in Michael\u2019s statements certainly make it less likely that they contributed to Homer\u2019s conviction.\nSupreme Court precedent also suggests the necessity and appropriateness of an analysis of Homer\u2019s defense. See, e.g., Hasting, 461 U.S. at 511-12, 103 S.Ct. at 1981-82. The less believable the defense, after all, the more likely the conclusion that the constitutional error did not contribute to the conviction. See, e.g., Phelps v. Duckworth, 772 F.2d 1410, 1414 (7th Cir.) (en banc) (defendant\u2019s inconsistent and implausible testimony supports finding of harmless error), cert. denied, 474 U.S. 1011, 106 S.Ct. 541, 88 L.Ed.2d 471 (1985).\nHere, Homer\u2019s defense had some obvious problems. His testimony at trial contradicted his statement to DiVito and, to a certain extent, his statements to Mary Ellen. In addition, he asserted that Marian\u2019s death was accidental but was unable to reconcile his version of events effectively with either the physical evidence (such as the morphine, chloroform, and guns) or his own actions (such as concealing evidence and keeping his wife\u2019s body in the trunk of his car for two days).\nMost importantly, Homer\u2019s defense depended heavily on the jury\u2019s willingness to believe that Marian had suffered an epileptic seizure. The district court recognized this reliance when it discussed the harmful effect of Michael\u2019s failure to mention a seizure, 748 F.Supp. at 612, but that logic has broader application. Michael was not the only person who failed to mention an epileptic seizure. Homer\u2019s own testimony reveals that he told no one about the seizure \u2014 Mary Ellen, Steven, the brother-in-law, the hospital ... the list goes on. If the district court is correct in concluding that Michael\u2019s omission prejudiced Homer\u2019s defense, then Homer\u2019s own omission must have had an even more damaging impact. See Fulminante, 111 S.Ct. at 1257.\nViewed in a vacuum, it is not difficult to conclude that Michael\u2019s statements could have contributed to Homer\u2019s kidnapping conviction. Those statements were not made in a vacuum, however, and we cannot analyze them in that manner. Viewed within the context of the trial as a whole, Michael\u2019s relatively unemphasized statements had an effect that was substantially preempted by Homer himself. It was Homer who told the jury that his fear of going to jail caused him to drug and gag Marian so that no one would hear her. It was Homer who was unable to reconcile his version of events effectively with either the physical evidence or his own actions. It was Homer\u2019s sudden reference to an epileptic seizure that made his defense appear weak and uncorroborated. And it is simply unnecessary to indulge the argument that Michael\u2019s statements contributed to Homer\u2019s conviction when there exists a perfectly rational explanation for the jury\u2019s verdict, completely consistent with the judge\u2019s instructions. See Schneble, 405 U.S. at 432, 92 S.Ct. at 1059. We are thus satisfied beyond a reasonable doubt that the challenged statements did not contribute to Homer\u2019s conviction for aggravated kidnapping.\nAs to the murder conviction, it would appear that the reasoning set forth in the district court\u2019s first opinion has already resolved the harmless error issue. In analyzing the effect of Michael\u2019s second statement, the district court concluded (in addition to the fact that the State had not emphasized the testimony during closing argument) that: (1) it is unlikely that the jury followed a felony murder theory; (2) Michael\u2019s second statement \u201cwould have been of less importance to the jury in assigning responsibility for Marian\u2019s death\u201d because it shed no light on the cause of death, morphine intoxication; and (3) Homer\u2019s own testimony accounted for the jury\u2019s verdicts. 695 F.Supp. at 387. Although that opinion addresses only Michael\u2019s second statement, its reasoning is also relevant to Michael\u2019s other statements. Our first opinion found this reasoning persuasive, and it is no less persuasive in the present context.\nThe possibility that the felony murder doctrine explains Homer\u2019s murder conviction must be discounted if for no other reason than the fact that the parties themselves have discounted it. Homer has always argued, and continues to argue on this appeal, that Michael\u2019s acquittal on the murder charge suggests that the jury did not use a felony murder theory. The State, moreover, did not emphasize the doctrine during trial; it relied instead on theories in which Homer intended to kill Marian (or do her great bodily harm) or at the least knew that his acts would cause, or would create a strong probability of, death (or great bodily harm).\nIndeed, prompted in no small part by the arguments of Homer\u2019s trial counsel, the State emphasized the fact that Marian died of morphine intoxication. Michael\u2019s statements spoke at most of kidnapping, however, not murder. They said absolutely nothing about morphine and gave no hint as to the source of that drug. Therefore, under the same reasoning set out in the district court\u2019s first opinion, Michael\u2019s statements would have had less significance to the jury.\nKeeping in mind that we have already rejected some of the district court\u2019s other findings, the only remaining development in the second opinion is the observation that Michael\u2019s reference to a kidnapping plot \u201chas the unmistakable implication that [Homer\u2019s and Michael\u2019s] evil intent carried through to the later actions.\u201d 748 F.Supp. at 612. But even if this implication would support a conclusion that the error here was harmful, the notion that any of Michael\u2019s statements could have contributed to Homer\u2019s murder conviction was soundly rejected by the district court\u2019s first opinion. There, in dismissing Homer\u2019s argument that only the \u201cOh my God, what have I done?\u201d statement could explain his murder conviction, the district court reasoned:\nWhere Homer\u2019s argument collapses, however, is that there were ample reasons for the jury to reach different conclusions as to the two defendants under the stated murder theories other than the challenged statement by Michael. All the trial evidence showed Homer, rather than Michael, was the one with knowledge of drugs from his educational background in the sciences and his previous employment as a pharmaceuticals salesman. It was also well within the jury\u2019s purview to conclude the injection of drugs into Marian was not within the scope of the conspiracy between Homer and Michael, but was Homer\u2019s independent action to an unintended injury to Marian. Indeed, the jury was certainly entitled to credit Homer\u2019s own testimony that Michael had no involvement in the application of drugs to Marian and that Michael had repeatedly urged Homer to seek medical assistance for her. Any or all of those reasons plausibly account for the jury\u2019s verdict. There is not the slightest indication that Michael\u2019s ... [second] statement ... could have made a difference in (let alone its having been the source of) the jury\u2019s decision to convict Homer of his wife\u2019s murder.\n695 F.Supp. at 387. That same reasoning applies here; if Homer\u2019s own testimony accounted for the jury\u2019s decision to convict him of murder, then Michael\u2019s statements \u2014first, second, and third \u2014 could not have had the effect that Homer now urges.\nWe have already described the district court\u2019s first opinion as persuasive, 896 F.2d at 243, and the broad reasoning within that opinion guides the present disposition. Given that reasoning, as well as our prior discussion, we are satisfied beyond a reasonable doubt that the challenged evidence did not contribute to Homer\u2019s murder conviction.\nV.\nFor the aforementioned reasons, the decision of the district court is\nREVERSED.\n. See People v. Hanrahan, 64 Ill.App.3d 207, 380 N.E.2d 1075, 20 Ill.Dec. 866 (1st Dist.1978), cert. denied, 444 U.S. 828, 100 S.Ct. 53, 62 L.Ed.2d 36 (1979).\n. See United States ex rel. Hanrahan v. Bosse, 547 F.Supp. 721 (N.D.Ill.1982), aff'd by unpublished opinion, 723 F.2d 67 (7th Cir.1983); People v. Hanrahan, 132 Ill.App.3d 640, 478 N.E.2d 31, 87 Ill.Dec. 892 (1st Dist.), appeal denied, 108 Ill.2d 579 (1985); United States ex rel. Hanrahan v. Thieret, 695 F.Supp. 372 (N.D.Ill.1988).\nThe state trial court vacated the conspiracy charge at the sentencing hearing and the three-to ten-year sentence for aggravated battery has already been served. Thus, only the convictions for aggravated kidnapping and murder remain candidates for habeas corpus relief.\n.These categories derive from our first encounter with Homer\u2019s petition. See 896 F.2d at 243. We have borrowed wholesale from the exposition of facts by the district court, 748 F.Supp. at 604-08, which in turn relied heavily on the statement of facts in an Illinois appellate court opinion. See id. at 604 n. 5; see also 64 Ill. App.3d 207, 380 N.E.2d 1075, 20 Ill.Dec. 866. The state court opinion did not specifically address the issue of harmless error, however, and the district court, as well as this court, have at times found it necessary to supplement that opinion\u2019s otherwise thorough descriptions.\n. This statement was made shortly after Michael gave his third statement.\n. As noted before, the police located most of this material and it was admitted at trial. The police were unable, however, to locate Marian\u2019s clothing.\n. Homer testified that he had believed his interviewer to be an attorney appointed to act on his behalf. When he discovered that the attorney was in fact a representative of the State, he refused to speak further.\n. Trial Transcript at 1014. The following colloquy also occurred at this point in Homer\u2019s testimony:\nQ: Have you ever discussed getting your wife away from her family with anyone else?\nA: Yes, sir.\nQ: With whom?\nA: My divorce attorney.\nQ: And who was that?\nA: Samuel Segal.\nQ: And what did you suggest to him?\nA: Well, I made that remark to him.\nQ: What did he say to you?\nA: He told me not to be foolish.\nQ: Why did he say that?\nA: It would serve no purpose, but get you in more trouble. It would be no point in it.\nId. at 1015-16.\n.Homer did not recall whether Michael carried a gun.\n. The following excerpt from Homer\u2019s testimony elaborates upon this fear:\nQ: And what do you mean, she was going to blame you?\nA: Well, with the divorce proceedings lasting as long as they had, we had so many other confrontations that I just knew that she was going to say that whatever happened to her was my fault.\nQ: What was your feeling that if you called the doctor at that time would happen to you?\nA: I would wind up in jail.\nQ: In the divorce proceedings that you and your wife had going at the time, did you have any orders against you probhiting [sic] you from striking, harassing her, interfering with her actions, or molesting her?\nA: Yes, sir.\nQ: And was there an injunction on you at that time, issued on you, is that correct?\nA: Yes, sir.\nQ: And had your wife during the divorce proceedings sought to have you held in contempt of court for any reason during the divorce proceedings?\nA: Yes, sir.\nQ: And how many times was that?\nA: Two or three.\nTrial Transcript at 1035-36.\n. Homer expressed bewilderment as to how the morphine got in Marian\u2019s body. He also stated that neither he nor Michael had used chloroform and that the chloroform found in his automohile had been purchased as a cleaning solvent for use in his plumbing business.\n. The police were also unable to locate this item.\n. Homer identified other statements in his reply memorandum before the district court and in his answer brief before this court. The district court gave little or no weight to these statements and we, too, find it unnecessary to consider arguments that are not raised in a timely manner. Given the circumstances that produced a remand in the first place, that result is especially appropriate in this case. See 748 F.Supp. at 613-17 & n. 8 (attributing necessity of remand to Homer\u2019s expanded argument on appeal and State's willingness to concede propriety of that argument).\n. It is unclear how Homer expected to benefit from this attack. As we noted earlier, the state court vacated the conspiracy conviction prior to sentencing, and it makes no sense to petition for a writ of habeas corpus to overturn a vacated conviction. The district court opinion suggests that both a conspiracy conviction and a kidnapping conviction were the predicate felonies for a felony murder conviction. An examination of the jury instructions does not support this suggestion, however, and, in any event, Homer's brief before this court states that kidnapping is the only predicate felony.\nAnother possible explanation is that Homer is attacking the conspiracy finding and not the conspiracy conviction. The language used in Homer's argument at times suggests this interpretation and, indeed, the jury instructions for aggravated kidnapping and murder clearly state that Homer could be liable for the acts and mental state of \"one for whose conduct he is responsible.\" Instruction No. 14 defines this phrase as follows:\nA person is responsible for the conduct of another person when, either before or during the commission of a crime, and with the intent to promote or facilitate the commission of a crime, he knowingly aids, agrees or attempts to aid the other person in the planning or commission of the crime.\nThe problem with this interpretation, however, is that the State has never argued that Homer was liable solely as a conspirator. On the contrary, the State argued before the jury that Homer had masterminded the operation and that he had actually committed the necessary acts. If anyone, it was Michael who would have been liable solely by virtue of his agreement to participate in the alleged conspiracy.\nThere may be other explanations, but if they have been raised at all, they have been raised in a very opaque manner. As this court has colorfully stated in a recent opinion, \"Judges are not like pigs, hunting for truffles buried in briefs.\u201d United States v. Dunkel, 927 F.2d 955, 956 (7th Cir.1991) (per curiam). The rationale for Homer's argument being far from obvious, and in view of his own failure to offer an explanation, we find it unnecessary to devote continued time or discussion to the vacated conspiracy conviction.\n. Certain constitutional errors are assumed to be so serious that they could never be harmless. See, e.g., Chapman, 386 U.S. at 23 n. 8, 87 S.Ct. at 828 n. 8 (citing, inter alia, Gideon v. Wainwright, 372 U.S. 335, 83 S.Ct. 792, 9 L.Ed.2d 799 (1963)); United States ex rel. Fleming v. Huch, 924 F.2d 679, 683 (7th Cir.1991). Errors arising under the confrontation clause, however, have not been recognized as falling within that category. See United States ex rel. Lee v. Flannigan, 884 F.2d 945, 951 (7th Cir.1989), cert. denied, \u2014 U.S. -, 110 S.Ct. 3277, 111 L.Ed.2d 786 (1990).\n. The burden of proof is on the State. See Chapman, 386 U.S. at 24, 87 S.Ct. at 828; 748 F.Supp. at 609 & n. 8.\n. See United States ex rel. Sanders v. Lane, 835 F.2d 1204, 1206 (7th Cir.1987) (citing Chapman, 386 U.S. at 24, 87 S.Ct. at 828); see also United States v. Towns, 913 F.2d 434, 446 (7th Cir. 1990).\nIn Delaware v. Van Arsdall, 475 U.S. 673, 106 S.Ct. 1431, 89 L.Ed.2d 674 (1986), the Supreme Court set out a number of factors that are useful in determining whether an error is harmless in a particular case. Those factors include: (1) the importance of the witness\u2019s testimony in the prosecution\u2019s case; (2) whether the testimony was cumulative; (3) the presence or absence of evidence corroborating or contradicting the testimony of the witness on material points; (4) the extent of cross-examination otherwise permitted; and (5) the overall strength of the prosecution\u2019s case. Id. at 684, 106 S.Ct. at 1438 (citing Schneble v. Florida, 405 U.S. 427, 432, 92 S.Ct. 1056, 1059, 31 L.Ed.2d 340 (1972); Harrington, 395 U.S. at 254, 89 S.Ct. at 1728).\n.The Supreme Court has not always been precise in choosing words to articulate the Chapman standard, and the language of some of its opinions suggests at times that the correct analysis is whether the jury would have convicted the defendant in a trial without the unconstitutionally admitted evidence. See W. LaFave & J. Israel, Criminal Procedure \u00a7 26.6 (1984 & Supp.1990) (providing examples). The Supreme Court has yet to overrule or formally modify Chapman, however, and we must continue to respect its holding until that day.\n. Homer's attack stands in odd contrast to his argument that the findings of the district court should be accorded great deference.\n. This is not the only argument by the parties that suggests a puzzling unfamiliarity with this court\u2019s prior decision. The State continues to urge that Homer\u2019s convictions are beyond challenge by virtue of Teague v. Lane, 489 U.S. 288, 109 S.Ct. 1060, 103 L.Ed.2d 334 (1989). See 896 F.2d at 245 (outlining State\u2019s argument). The purpose of remand, however, was solely to determine whether the constitutional error was harmless; remand was not granted so that the State could reopen the issue of whether a constitutional error existed in the first place. And even if properly raised on remand, we find that (contrary to the suggestion of the State\u2019s briefs) we explicitly considered and rejected the Teague argument in our first opinion. See id. (concluding that State had waived any argument based on Teague by failing to raise retroactivity objection when district court asked for briefing on Cruz v. New York, 481 U.S. 186, 107 S.Ct. 1714, 95 L.Ed.2d 162 (1987)). That treatment is still persuasive, and we see no reason to revisit it.\n. Evidence was also elicited from the pathologist to the effect that a decomposing body emits gases, creating a sound that could be mistaken for a moan.\n. See 748 F.Supp. at 612 (referring to Homer's \"Blame it all on me....\u201d statement); see also 695 F.Supp. at 386 (district court\u2019s first opinion analyzing closing argument statements in context).\n. For example, Homer complains of a reference during closing argument to the fact that Michael may have heard his mother moan as he and his father were placing her in the trunk. Our previous discussion, however, indicates that Homer has at another point in his argument conceded that this type of statement could have had no effect on the jury.\nHomer also complains that the State referred to Michael\u2019s statement in an attempt to discredit Homer's assertion that Marian had arranged the meeting on November 20. Homer has not, however, cited any other attempts by the State to impeach his testimony in this manner. The apparently isolated and indirect nature of this conduct, along with the fact that the underlying dispute was, at best, peripheral to the case, makes this statement an unlikely source of harmful error.\n. Richardson v. Marsh, 481 U.S. 200, 211, 107 S.Ct. 1702, 1709, 95 L.Ed.2d 176 (1987), cited by Homer, is therefore inapplicable.\n. The dynamics of the trial back up our conclusion. The admission \u00f3f both defendants' statements was hotly contested and Homer\u2019s and Michael's attorneys were quite diligent in making objections when the State's presentation might have suggested to the jury that one defendant's confession was relevant in determining the guilt of the other. There was no such objection to the State\u2019s reference to \"corroborated admissions,\u201d however. Although the lack of an objection is obviously not conclusive, it tends to suggest at least that the defense attorneys, who were on the lookout for such statements, did not interpret the State\u2019s reference as arguing that the jury should concentrate on Michael\u2019s statements in determining Homer's guilt.\n. Any innocent construction that might have been placed on that language quickly dissipated as Homer relayed his divorce lawyer's negative response to the same remark. See supra note 7.\n. Homer has never attempted to argue that his attempt to secrete Marian was not against her will.\n. In relevant part, Instruction No. 55 states:\nTo sustain the charge of aggravated kidnapping, the State must prove the following propositions:\nFirst: That the defendant, Homer Hanra-han, or one for whose conduct he is responsible, acted knowingly; and\nSecond: That the defendant, Homer Hanra-han, or one for whose conduct he is responsible, secretly confined Marian Hanrahan against her will; and\nThird: That when the defendant, Homer Hanrahan, or one for whose conduct he is responsible, did so he intended secretly to confine Marian Hanrahan against her will; and\nFourth: That the defendant, Homer Hanra-han, or one for whose conduct he is responsible, inflicted great bodily harm upon Marian Hanrahan.\nContrary to Homer\u2019s suggestion, it was not necessary for the jury to believe that Marian was alive when placed in the trunk in order to convict Homer of kidnapping. Indeed, the jury could quite clearly conclude that Homer\u2019s own version of events satisfied the instructions.\n. Admittedly, the challenged statements portray some of the facts in a slightly different manner than the remainder of the evidence. The distinctions are not crucial to the underlying charge, however. So long as there was evidence to establish beyond a reasonable doubt that Homer, acting with knowledge, intended to secrete Marian against her will and that he in fact secreted her against her will, thereby inflicting great bodily harm, the minutiae of factual detail surrounding the commission of the crime is interesting but largely irrelevant.\nIf we presume, as we must, that the jury followed the instruction on aggravated kidnapping, then it matters little, for example, where Homer developed the idea to kidnap Marian or the precise nature of what he wanted to accomplish. Likewise, once we know that weapons were used, it is a minor detail whether they were revealed immediately. And with Homer\u2019s own admission that he injected Marian with a tranquilizer and taped her mouth shut, it hardly matters whether he went the extra distance at that point and tied her up. Nor does it matter whether Homer brought the rope with him to the house or found it lying in the family home. As to the chloroform, Homer (the one with experience in its use) admitted that it was used and gave no indication that he objected to its use. That being said, the determination of who actually administered the chloroform \u2014 Homer or Michael \u2014 should not have altered the jury\u2019s decision.\n. Of course, to go beyond this inquiry and to decide Homer\u2019s innocence or guilt would usurp the function of a jury. To determine that one party\u2019s version of events is less believable, however, is not to make that ultimate determination.\n. The reasoning in the district court\u2019s first opinion is distinguishable insofar as Homer\u2019s kidnapping conviction is concerned. It is not distinguishable, as we shall see, insofar as Homer\u2019s murder conviction is concerned.\n. Homer also conceded at oral argument that the evidence showed that he was guilty of some crime. That crime, he maintained, was manslaughter, and the difference between that conviction and a murder conviction was Michael\u2019s statements. This argument forgets, however, that an Illinois appellate court opinion has already addressed and rejected Homer\u2019s suggestion that the trial court should have instructed the jury on involuntary manslaughter. That opinion, noting that Homer admitted that he voluntarily and wilfully injected drugs into Marian, taped her mouth shut, and refused to call a doctor \u2014 all evidence that came from Homer, not Michael \u2014 concluded that Homer's conduct could in no way be construed as reckless and would in no way merit an instruction on involuntary manslaughter. 64 Ill.App.3d at 215, 380 N.E.2d at 1081, 20 IU.Dec. at 872. We owe a certain deference to that finding, see 28 U.S.C. \u00a7 2254(d), and Homer has never bothered to explain why the finding is either incorrect or inapplicable.\n. To the extent that felony murder may have been a theory espoused by the jury, our prior discussion of Homer's kidnapping conviction forecloses any serious argument that the error was not harmless.\n. If anything, Michael's third statement is even less open to challenge than his first or second. The jury clearly accepted a theory of the case in which Michael and Homer were not partners in Marian\u2019s murder. Michael\u2019s first and second statements supported that theory by blaming everything on Homer. Michael\u2019s third statement, however, spoke more of a joint effort, making it less likely that the jury paid attention to the third statement in assigning responsibility for Marian\u2019s death.",
+        "type": "majority",
+        "author": "HARLINGTON WOOD, Jr., Circuit Judge."
+      }
+    ],
+    "attorneys": [
+      "Cynthia Grant Bowman, Northwestern University Legal Clinic, Chicago, III, for petitioner-appellee.",
+      "Marcia L. Friedl, Asst. Atty. Gen., Neil F. Hartigan, Atty. Gen., Bradley P. Hallo-ran, Office of the Atty. Gen., and Terence M. Madsen, Asst. Atty. Gen., Office of the Atty. Gen., Crim. Appeals Div., Chicago, Ill., for respondent-appellant."
+    ],
+    "corrections": "",
+    "head_matter": "Homer E. HANRAHAN, Petitioner-Appellee, James H. THIERET, Warden, Respondent-Appellant.\nNo. 90-3292.\nUnited States Court of Appeals, Seventh Circuit.\nArgued Feb. 14, 1991.\nDecided May 29, 1991.\nRehearing and Rehearing In Banc Denied Aug. 12, 1991.\nCynthia Grant Bowman, Northwestern University Legal Clinic, Chicago, III, for petitioner-appellee.\nMarcia L. Friedl, Asst. Atty. Gen., Neil F. Hartigan, Atty. Gen., Bradley P. Hallo-ran, Office of the Atty. Gen., and Terence M. Madsen, Asst. Atty. Gen., Office of the Atty. Gen., Crim. Appeals Div., Chicago, Ill., for respondent-appellant.\nBefore WOOD, Jr., and POSNER, Circuit Judges, and FAIRCHILD, Senior Circuit Judge."
+  },
+  "file_name": "1328-01",
+  "first_page_order": 1404,
+  "last_page_order": 1419
+}

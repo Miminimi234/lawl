@@ -1,0 +1,162 @@
+{
+  "id": 2041363,
+  "name": "WELLS v. DEPARTMENT OF CORRECTIONS",
+  "name_abbreviation": "Wells v. Department of Corrections",
+  "decision_date": "1994-10-31",
+  "docket_number": "Docket No. 96796",
+  "first_page": "415",
+  "last_page": "421",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "447 Mich. 415"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Mich.",
+    "id": 8790,
+    "name": "Michigan Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 49,
+    "name_long": "Michigan",
+    "name": "Mich."
+  },
+  "cites_to": [
+    {
+      "cite": "246 NW2d 394",
+      "category": "reporters:state_regional",
+      "reporter": "N.W.2d",
+      "year": 1976,
+      "opinion_index": 0
+    },
+    {
+      "cite": "71 Mich App 115",
+      "category": "reporters:state",
+      "reporter": "Mich. App.",
+      "case_ids": [
+        2142160
+      ],
+      "year": 1976,
+      "opinion_index": 0,
+      "case_paths": [
+        "/mich-app/71/0115-01"
+      ]
+    },
+    {
+      "cite": "243 NW2d 20",
+      "category": "reporters:state_regional",
+      "reporter": "N.W.2d",
+      "year": 1976,
+      "opinion_index": 0
+    },
+    {
+      "cite": "68 Mich App 474",
+      "category": "reporters:state",
+      "reporter": "Mich. App.",
+      "case_ids": [
+        2146872
+      ],
+      "year": 1976,
+      "opinion_index": 0,
+      "case_paths": [
+        "/mich-app/68/0474-01"
+      ]
+    },
+    {
+      "cite": "231 NW2d 644",
+      "category": "reporters:state_regional",
+      "reporter": "N.W.2d",
+      "weight": 2,
+      "year": 1975,
+      "opinion_index": 0
+    },
+    {
+      "cite": "394 Mich 462",
+      "category": "reporters:state",
+      "reporter": "Mich.",
+      "case_ids": [
+        1938481
+      ],
+      "weight": 2,
+      "year": 1975,
+      "opinion_index": 0,
+      "case_paths": [
+        "/mich/394/0462-01"
+      ]
+    },
+    {
+      "cite": "948 F2d 1004",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1859574
+      ],
+      "year": 1991,
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/948/1004-01"
+      ]
+    },
+    {
+      "cite": "483 NW2d 381",
+      "category": "reporters:state_regional",
+      "reporter": "N.W.2d",
+      "year": 1992,
+      "opinion_index": 0
+    },
+    {
+      "cite": "439 Mich 971",
+      "category": "reporters:state",
+      "reporter": "Mich.",
+      "year": 1992,
+      "opinion_index": 0
+    },
+    {
+      "cite": "481 NW2d 726",
+      "category": "reporters:state_regional",
+      "reporter": "N.W.2d",
+      "year": 1992,
+      "opinion_index": 0
+    },
+    {
+      "cite": "192 Mich App 443",
+      "category": "reporters:state",
+      "reporter": "Mich. App.",
+      "case_ids": [
+        2324421
+      ],
+      "year": 1992,
+      "pin_cites": [
+        {
+          "page": "445"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mich-app/192/0443-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 551,
+    "char_count": 12939,
+    "ocr_confidence": 0.795,
+    "pagerank": {
+      "raw": 7.610482555409193e-08,
+      "percentile": 0.4503189182072005
+    },
+    "sha256": "fff3cd879f920d7d9bec27a2c655c98523ea080ee49dfae327256c239d2a6cc4",
+    "simhash": "1:335d4fbdb62784e9",
+    "word_count": 2184
+  },
+  "last_updated": "2024-02-27T18:11:16.460176+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "file_name": "0415-01",
+  "first_page_order": 641,
+  "last_page_order": 647
+}

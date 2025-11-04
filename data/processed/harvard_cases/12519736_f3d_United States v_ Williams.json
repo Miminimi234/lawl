@@ -1,0 +1,125 @@
+{
+  "id": 12519736,
+  "name": "UNITED STATES of America, Plaintiff-Appellee v. Willie Gill WILLIAMS, Defendant-Appellant",
+  "name_abbreviation": "United States v. Williams",
+  "decision_date": "2019-01-28",
+  "docket_number": "No. 17-3740",
+  "first_page": "1115",
+  "last_page": "1116",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "913 F.3d 1115"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "8th Cir.",
+    "id": 8821,
+    "name": "United States Court of Appeals for the Eighth Circuit"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "18 U.S.C. \u00a7 3553",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "pin_cites": [
+        {
+          "page": "(a)"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "828 F.3d 668",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        4335972
+      ],
+      "year": 2016,
+      "pin_cites": [
+        {
+          "page": "672"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/828/0668-01"
+      ]
+    },
+    {
+      "cite": "698 F.3d 667",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        3628140
+      ],
+      "year": 2012,
+      "pin_cites": [
+        {
+          "page": "670"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/698/0667-01"
+      ]
+    },
+    {
+      "cite": "812 F.3d 714",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        4085085
+      ],
+      "weight": 2,
+      "year": 2016,
+      "pin_cites": [
+        {
+          "page": "715",
+          "parenthetical": "per curiam"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/812/0714-01"
+      ]
+    },
+    {
+      "cite": "18 U.S.C. \u00a7\u00a7 922",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "pin_cites": [
+        {
+          "page": "(g)(1)"
+        }
+      ],
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 239,
+    "char_count": 2775,
+    "pagerank": {
+      "raw": 5.298132930532853e-08,
+      "percentile": 0.33481199096935765
+    },
+    "sha256": "4a4beee28f2142fb668d79dcb7a0e5057d9d334d0ee6cf44e40d22520d520384",
+    "simhash": "1:73926753bbb3aa03",
+    "word_count": 430
+  },
+  "last_updated": "2024-02-27T18:46:17.308091+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "file_name": "1115-01",
+  "first_page_order": 1115,
+  "last_page_order": 1116
+}

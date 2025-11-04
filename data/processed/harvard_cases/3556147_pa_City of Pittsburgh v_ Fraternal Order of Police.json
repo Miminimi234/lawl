@@ -1,0 +1,82 @@
+{
+  "id": 3556147,
+  "name": "CITY OF PITTSBURGH, Respondent, v. FRATERNAL ORDER of POLICE, Fort Pitt Lodge No. 1, Petitioner",
+  "name_abbreviation": "City of Pittsburgh v. Fraternal Order of Police",
+  "decision_date": "2007-05-22",
+  "docket_number": "Nos. 678, 679 WAL 2006",
+  "first_page": "454",
+  "last_page": "454",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "592 Pa. 454"
+    },
+    {
+      "type": "parallel",
+      "cite": "926 A.2d 437"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "514 Pa. 501",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1804548
+      ],
+      "weight": 2,
+      "year": 1987,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/514/0501-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 85,
+    "char_count": 794,
+    "ocr_confidence": 0.659,
+    "pagerank": {
+      "raw": 8.724443257361318e-08,
+      "percentile": 0.49404154450703497
+    },
+    "sha256": "3b9c47124670d8a82a4963ed20ba341c185d12c15ff1f9c8d101fb761bd698f0",
+    "simhash": "1:c015659cf682a01a",
+    "word_count": 121
+  },
+  "last_updated": "2024-02-27T21:45:49.457734+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "CITY OF PITTSBURGH, Respondent, v. FRATERNAL ORDER of POLICE, Fort Pitt Lodge No. 1, Petitioner."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nPER CURIAM.\nAND NOW, this 22nd day of May 2007, the Petition for Allowance of Appeal is GRANTED, as to the following issue:\nWhether the Commonwealth Court\u2019s decision permitting the reduction of post-retirement healthcare benefits for active officers conflicts with the Supreme Court\u2019s decision in Appeal of Upper Providence Township, 514 Pa. 501, 526 A.2d 315 (1987)?\nIn briefing this issue, the parties are directed to address whether the arbitrator\u2019s award approving a capping of contributions for healthcare benefits for future retirees constitutes a diminishment in benefits in a present employee\u2019s pension or retirement system.",
+        "type": "majority",
+        "author": "PER CURIAM."
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "926 A.2d 437\nCITY OF PITTSBURGH, Respondent, v. FRATERNAL ORDER of POLICE, Fort Pitt Lodge No. 1, Petitioner.\nSupreme Court of Pennsylvania.\nMay 22, 2007."
+  },
+  "file_name": "0454-01",
+  "first_page_order": 506,
+  "last_page_order": 506
+}

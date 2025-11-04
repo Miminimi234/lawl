@@ -1,0 +1,90 @@
+{
+  "id": 12144102,
+  "name": "Zwiers v. Growney",
+  "name_abbreviation": "Zwiers v. Growney",
+  "decision_date": "2015-11-04",
+  "docket_number": "No. 149815; Court of Appeals No. 312133",
+  "first_page": "910",
+  "last_page": "910",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "498 Mich. 910"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Mich.",
+    "id": 8790,
+    "name": "Michigan Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 49,
+    "name_long": "Michigan",
+    "name": "Mich."
+  },
+  "cites_to": [
+    {
+      "cite": "498 Mich 68",
+      "category": "reporters:state",
+      "reporter": "Mich.",
+      "case_ids": [
+        12121778
+      ],
+      "year": 2015,
+      "opinion_index": 0,
+      "case_paths": [
+        "/mich/498/0068-01"
+      ]
+    },
+    {
+      "cite": "490 Mich 239",
+      "category": "reporters:state",
+      "reporter": "Mich.",
+      "case_ids": [
+        4186511
+      ],
+      "year": 2011,
+      "opinion_index": 0,
+      "case_paths": [
+        "/mich/490/0239-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 83,
+    "char_count": 727,
+    "ocr_confidence": 0.717,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.24632633022234116
+    },
+    "sha256": "559dd023d8a49e8eaebd31e1f71ac37d64884de7b4734d58a3b1452baad64a29",
+    "simhash": "1:28537eb7120500cb",
+    "word_count": 126
+  },
+  "last_updated": "2024-02-27T16:10:26.420323+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Zwiers v Growney,"
+    ],
+    "opinions": [
+      {
+        "text": "Pursuant to MCR 7.305(H)(1), in lieu of granting leave to appeal, we reverse the judgment of the Court of Appeals and reinstate the August 6, 2012 order of the Kent Circuit Court granting summary disposition to the defendants on the basis of Driver v Naini, 490 Mich 239 (2011). See Furr v McLeod, 498 Mich 68 (2015). A medical malpractice complaint filed before the expiration of the 182-day notice period is ineffective to toll the statute of limitations. We remand this case to the Court of Appeals for consideration of the issues raised by the plaintiff but not addressed by that court during its initial review of this case.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Summary Disposition November 4, 2015:\nZwiers v Growney,\nNo. 149815; Court of Appeals No. 312133."
+  },
+  "file_name": "0910-02",
+  "first_page_order": 856,
+  "last_page_order": 856
+}

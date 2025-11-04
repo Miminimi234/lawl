@@ -1,0 +1,101 @@
+{
+  "id": 3895878,
+  "name": "Commonwealth vs. Andre Arias (and four companion cases)",
+  "name_abbreviation": "Commonwealth v. Arias",
+  "decision_date": "1991-06-05",
+  "docket_number": "",
+  "first_page": "1005",
+  "last_page": "1005",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "410 Mass. 1005"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Mass.",
+    "id": 8825,
+    "name": "Massachusetts Supreme Judicial Court"
+  },
+  "jurisdiction": {
+    "id": 4,
+    "name_long": "Massachusetts",
+    "name": "Mass."
+  },
+  "cites_to": [
+    {
+      "cite": "29 Mass. App. Ct. 613",
+      "category": "reporters:state",
+      "reporter": "Mass. App. Ct.",
+      "case_ids": [
+        4001177
+      ],
+      "weight": 3,
+      "year": 1990,
+      "pin_cites": [
+        {
+          "page": "616-617"
+        },
+        {
+          "page": "617-620"
+        },
+        {
+          "page": "620"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mass-app-ct/29/0613-01"
+      ]
+    },
+    {
+      "cite": "409 Mass. 1103",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "year": 1991,
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 158,
+    "char_count": 1864,
+    "ocr_confidence": 0.955,
+    "pagerank": {
+      "raw": 5.6454232620736374e-08,
+      "percentile": 0.3523753701470626
+    },
+    "sha256": "57424bb0b61f5d8943918a04a8af78d5311f944c3d8980b233d46ab7333f4596",
+    "simhash": "1:fbe79c5180bf6341",
+    "word_count": 291
+  },
+  "last_updated": "2024-02-27T17:24:21.316167+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Commonwealth vs. Andre Arias (and four companion cases)."
+    ],
+    "opinions": [
+      {
+        "text": "On application of the defendants, we granted further appellate review of these cases. Commonwealth v. Arias, 409 Mass. 1103 (1991). Three defendants (Arias, Melvin Diaz, and Rafael Mehejia) argue that the grand jury had not heard sufficient evidence to warrant indictments charging them with trafficking in cocaine. Every defendant argues that the evidence at trial was insufficient to prove that he had possession and control of cocaine seized by the police from the apartment in which he was found and arrested. The Appeals Court concluded that the evidence presented to the grand jury was sufficient to support the challenged indictments, 29 Mass. App. Ct. 613, 616-617 (1990), and that the evidence presented at trial was sufficient to establish, as to each defendant, the essential elements of the crime of trafficking in cocaine. Id. at 617-620. The Appeals Court has accurately set out the facts warranted by the evidence and has carefully stated and applied the relevant principles of law. We agree with the reasoning and result of the Appeals Court on the dispositive question of constructive possession. We also agree with the Appeals Court\u2019s disposition of the remaining claims raised by the defendants Arias and Mehejia. Id. at 620.\nJudgments affirmed.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Stephen H. Merlin for Andre Arias.",
+      "William M. Leonard for Rafael D. Mehejia.",
+      "John P. Corbett, Assistant District Attorney, for the Commonwealth.",
+      "Woodrow Brown, Jr., for Melvin Diaz, Thomas J. Amoroso for Jose Antonio Gonzalez, & M. Page Kelley, Committee for Public Counsel Services, for Jose A. Nunez, were present but did not argue."
+    ],
+    "corrections": "",
+    "head_matter": "Commonwealth vs. Andre Arias (and four companion cases).\nJune 5, 1991.\nControlled Substances. Practice, Criminal, Indictment, Grand jury proceedings. Grand Jury.\nStephen H. Merlin for Andre Arias.\nWilliam M. Leonard for Rafael D. Mehejia.\nJohn P. Corbett, Assistant District Attorney, for the Commonwealth.\nWoodrow Brown, Jr., for Melvin Diaz, Thomas J. Amoroso for Jose Antonio Gonzalez, & M. Page Kelley, Committee for Public Counsel Services, for Jose A. Nunez, were present but did not argue.\nOne indictment each against Melvin Diaz, Jose Antonio Gonzalez, Rafael D. Mehejia, and Jose A. Nunez."
+  },
+  "file_name": "1005-01",
+  "first_page_order": 917,
+  "last_page_order": 917
+}

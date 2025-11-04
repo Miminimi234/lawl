@@ -1,0 +1,66 @@
+{
+  "id": 12127998,
+  "name": "Mueller v. Bouis",
+  "name_abbreviation": "Mueller v. Bouis",
+  "decision_date": "2015-07-28",
+  "docket_number": "No. 149990; Court of Appeals No. 321758",
+  "first_page": "869",
+  "last_page": "869",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "498 Mich. 869"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Mich.",
+    "id": 8790,
+    "name": "Michigan Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 49,
+    "name_long": "Michigan",
+    "name": "Mich."
+  },
+  "cites_to": [
+    {
+      "cite": "497 Mich 997",
+      "category": "reporters:state",
+      "reporter": "Mich.",
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 17,
+    "char_count": 98,
+    "ocr_confidence": 0.762,
+    "sha256": "f80d20d48d3a2d6f1959009a583d30db2a602cb786a144adaa8cef3e142cd0ee",
+    "simhash": "1:608a220b81b96e82",
+    "word_count": 18
+  },
+  "last_updated": "2024-02-27T16:10:26.420323+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Mueller v Bouis,"
+    ],
+    "opinions": [
+      {
+        "text": "Leave to appeal denied at 497 Mich 997.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Mueller v Bouis,\nNo. 149990; Court of Appeals No. 321758."
+  },
+  "file_name": "0869-03",
+  "first_page_order": 815,
+  "last_page_order": 815
+}

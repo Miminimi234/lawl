@@ -1,0 +1,726 @@
+{
+  "id": 4075804,
+  "name": "In the Matter of the Welfare of A.W. et al. The Department of Social and Health Services, Respondent, v. T.P., Appellant",
+  "name_abbreviation": "Department of Social & Health Services v. T.P.",
+  "decision_date": "2015-02-19",
+  "docket_number": "No. 90393-0",
+  "first_page": "689",
+  "last_page": "715",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "182 Wash. 2d 689"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Wash.",
+    "id": 9029,
+    "name": "Washington Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 38,
+    "name_long": "Washington",
+    "name": "Wash."
+  },
+  "cites_to": [
+    {
+      "cite": "29 P.3d 1275",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2001,
+      "opinion_index": 0
+    },
+    {
+      "cite": "108 Wn. App. 149",
+      "category": "reporters:state",
+      "reporter": "Wash. App.",
+      "case_ids": [
+        320899
+      ],
+      "year": 2001,
+      "pin_cites": [
+        {
+          "page": "165"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-app/108/0149-01"
+      ]
+    },
+    {
+      "cite": "309 P.3d 620",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2013,
+      "opinion_index": 0
+    },
+    {
+      "cite": "176 Wn. App. 419",
+      "category": "reporters:state",
+      "reporter": "Wash. App.",
+      "case_ids": [
+        4269376
+      ],
+      "year": 2013,
+      "pin_cites": [
+        {
+          "page": "425"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-app/176/0419-01"
+      ]
+    },
+    {
+      "cite": "304 P.3d 909",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "weight": 2,
+      "year": 2013,
+      "opinion_index": 0
+    },
+    {
+      "cite": "175 Wn. App. 140",
+      "category": "reporters:state",
+      "reporter": "Wash. App.",
+      "case_ids": [
+        4188517
+      ],
+      "year": 2013,
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-app/175/0140-01"
+      ]
+    },
+    {
+      "cite": "194 P. 986",
+      "category": "reporters:state_regional",
+      "reporter": "P.",
+      "year": 1921,
+      "opinion_index": 0
+    },
+    {
+      "cite": "114 Wash. 117",
+      "category": "reporters:state",
+      "reporter": "Wash.",
+      "case_ids": [
+        702025
+      ],
+      "year": 1921,
+      "pin_cites": [
+        {
+          "page": "122"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash/114/0117-01"
+      ]
+    },
+    {
+      "cite": "217 P.3d 756",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "weight": 3,
+      "year": 2009,
+      "pin_cites": [
+        {
+          "parenthetical": "quoting RAP 2.5(a)"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "167 Wn.2d 91",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        4004888
+      ],
+      "year": 2009,
+      "pin_cites": [
+        {
+          "page": "98",
+          "parenthetical": "quoting RAP 2.5(a)"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/167/0091-01"
+      ]
+    },
+    {
+      "cite": "611 P.2d 1245",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1980,
+      "opinion_index": 0
+    },
+    {
+      "cite": "93 Wn.2d 689",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        1167818
+      ],
+      "year": 1980,
+      "pin_cites": [
+        {
+          "page": "695"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/93/0689-01"
+      ]
+    },
+    {
+      "cite": "230 P.3d 162",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2010,
+      "opinion_index": 0
+    },
+    {
+      "cite": "168 Wn.2d 627",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        4007391
+      ],
+      "year": 2010,
+      "pin_cites": [
+        {
+          "page": "631"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/168/0627-01"
+      ]
+    },
+    {
+      "cite": "98 P.3d 89",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "weight": 2,
+      "year": 2004,
+      "opinion_index": 0
+    },
+    {
+      "cite": "123 Wn. App. 244",
+      "category": "reporters:state",
+      "reporter": "Wash. App.",
+      "case_ids": [
+        1118088
+      ],
+      "weight": 5,
+      "year": 2004,
+      "pin_cites": [
+        {
+          "page": "251"
+        },
+        {
+          "page": "254"
+        },
+        {
+          "page": "255"
+        },
+        {
+          "page": "251"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-app/123/0244-01"
+      ]
+    },
+    {
+      "cite": "815 P.2d 277",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "weight": 2,
+      "year": 1991,
+      "opinion_index": 0
+    },
+    {
+      "cite": "62 Wn. App. 562",
+      "category": "reporters:state",
+      "reporter": "Wash. App.",
+      "case_ids": [
+        1712297
+      ],
+      "weight": 4,
+      "year": 1991,
+      "pin_cites": [
+        {
+          "page": "570"
+        },
+        {
+          "page": "570"
+        },
+        {
+          "page": "568"
+        },
+        {
+          "page": "570"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-app/62/0562-01"
+      ]
+    },
+    {
+      "cite": "913 P.2d 844",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1996,
+      "opinion_index": 0
+    },
+    {
+      "cite": "81 Wn. App. 264",
+      "category": "reporters:state",
+      "reporter": "Wash. App.",
+      "case_ids": [
+        310653
+      ],
+      "weight": 14,
+      "year": 1996,
+      "pin_cites": [
+        {
+          "page": "268"
+        },
+        {
+          "page": "269"
+        },
+        {
+          "page": "270"
+        },
+        {
+          "page": "270"
+        },
+        {
+          "page": "270"
+        },
+        {
+          "page": "270"
+        },
+        {
+          "page": "270"
+        },
+        {
+          "page": "269"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-app/81/0264-01"
+      ]
+    },
+    {
+      "cite": "513 P.2d 831",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1973,
+      "opinion_index": 0
+    },
+    {
+      "cite": "82 Wn.2d 736",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        1130140
+      ],
+      "year": 1973,
+      "pin_cites": [
+        {
+          "page": "738"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/82/0736-01"
+      ]
+    },
+    {
+      "cite": "976 P.2d 113",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1999,
+      "opinion_index": 0
+    },
+    {
+      "cite": "137 Wn.2d 918",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        179443
+      ],
+      "year": 1999,
+      "pin_cites": [
+        {
+          "page": "931"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/137/0918-01"
+      ]
+    },
+    {
+      "cite": "441 U.S. 418",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        1780484
+      ],
+      "weight": 3,
+      "year": 1979,
+      "pin_cites": [
+        {
+          "page": "423"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/441/0418-01"
+      ]
+    },
+    {
+      "cite": "256 P.3d 339",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2011,
+      "pin_cites": [
+        {
+          "parenthetical": "alteration in original"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "172 Wn.2d 1",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        4017982
+      ],
+      "year": 2011,
+      "pin_cites": [
+        {
+          "page": "7-8",
+          "parenthetical": "alteration in original"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/172/0001-01"
+      ]
+    },
+    {
+      "cite": "452 U.S. 18",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        1313768
+      ],
+      "weight": 3,
+      "year": 1981,
+      "pin_cites": [
+        {
+          "page": "27"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/452/0018-01"
+      ]
+    },
+    {
+      "cite": "169 P.3d 452",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2007,
+      "opinion_index": 0
+    },
+    {
+      "cite": "161 Wn.2d 927",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        3802000
+      ],
+      "year": 2007,
+      "pin_cites": [
+        {
+          "page": "941"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/161/0927-01"
+      ]
+    },
+    {
+      "cite": "455 U.S. 745",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11307633
+      ],
+      "weight": 22,
+      "year": 1982,
+      "pin_cites": [
+        {
+          "page": "753"
+        },
+        {
+          "page": "758-59",
+          "parenthetical": "internal quotation marks omitted"
+        },
+        {
+          "page": "764"
+        },
+        {
+          "page": "754"
+        },
+        {
+          "page": "754"
+        },
+        {
+          "page": "758-59"
+        },
+        {
+          "page": "759"
+        },
+        {
+          "page": "769"
+        },
+        {
+          "page": "749"
+        },
+        {
+          "page": "761"
+        },
+        {
+          "page": "765"
+        },
+        {
+          "page": "763"
+        },
+        {
+          "page": "764"
+        },
+        {
+          "page": "763",
+          "parenthetical": "noting that the State has a superior ability to prepare its case"
+        },
+        {
+          "page": "766"
+        },
+        {
+          "page": "769-70"
+        },
+        {
+          "page": "761"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/455/0745-01"
+      ]
+    },
+    {
+      "cite": "831 P.2d 1060",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1992,
+      "opinion_index": 0
+    },
+    {
+      "cite": "119 Wn.2d 294",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        1370284
+      ],
+      "year": 1992,
+      "pin_cites": [
+        {
+          "page": "304"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/119/0294-01"
+      ]
+    },
+    {
+      "cite": "470 U.S. 532",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11299646
+      ],
+      "weight": 3,
+      "year": 1985,
+      "pin_cites": [
+        {
+          "page": "542"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/470/0532-01"
+      ]
+    },
+    {
+      "cite": "424 U.S. 319",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        12026449
+      ],
+      "weight": 3,
+      "year": 1976,
+      "pin_cites": [
+        {
+          "page": "332"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/424/0319-01"
+      ]
+    },
+    {
+      "cite": "955 P.2d 377",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "weight": 2,
+      "year": 1998,
+      "opinion_index": 0
+    },
+    {
+      "cite": "135 Wn.2d 141",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        812859
+      ],
+      "weight": 2,
+      "year": 1998,
+      "pin_cites": [
+        {
+          "page": "147"
+        },
+        {
+          "page": "147"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/135/0141-01"
+      ]
+    },
+    {
+      "cite": "244 P.3d 1",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2010,
+      "opinion_index": 0
+    },
+    {
+      "cite": "170 Wn.2d 599",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        4012818
+      ],
+      "year": 2010,
+      "pin_cites": [
+        {
+          "page": "605"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/170/0599-01"
+      ]
+    },
+    {
+      "cite": "91 P.3d 875",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2004,
+      "opinion_index": 0
+    },
+    {
+      "cite": "151 Wn.2d 664",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        428144
+      ],
+      "year": 2004,
+      "pin_cites": [
+        {
+          "page": "668"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/151/0664-01"
+      ]
+    },
+    {
+      "cite": "317 P.3d 489",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2013,
+      "opinion_index": 0
+    },
+    {
+      "cite": "178 Wn. App. 681",
+      "category": "reporters:state",
+      "reporter": "Wash. App.",
+      "case_ids": [
+        4348585
+      ],
+      "year": 2013,
+      "pin_cites": [
+        {
+          "page": "682"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-app/178/0681-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 1481,
+    "char_count": 44959,
+    "ocr_confidence": 0.738,
+    "pagerank": {
+      "raw": 1.8127016221506928e-07,
+      "percentile": 0.7180296998010308
+    },
+    "sha256": "073481b8d6bfde369f78e597361d15fb992af189b54a73e95de67ded04773098",
+    "simhash": "1:9181c1b6819e9769",
+    "word_count": 7272
+  },
+  "last_updated": "2024-02-27T17:34:40.830885+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "file_name": "0689-01",
+  "first_page_order": 725,
+  "last_page_order": 751
+}

@@ -1,0 +1,51 @@
+{
+  "id": 4280735,
+  "name": "COMMONWEALTH of Pennsylvania, Respondent v. Leroy BRADLEY, Petitioner",
+  "name_abbreviation": "Commonwealth v. Bradley",
+  "decision_date": "2013-11-13",
+  "docket_number": "No. 300 EAL 2013",
+  "first_page": "163",
+  "last_page": "164",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "622 Pa. 163"
+    },
+    {
+      "type": "parallel",
+      "cite": "79 A.3d 1095"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 45,
+    "char_count": 347,
+    "ocr_confidence": 0.694,
+    "pagerank": {
+      "raw": 4.688403287882615e-08,
+      "percentile": 0.1448055926536252
+    },
+    "sha256": "4616dc4fe35e680ed8acb7d3dbf9623282a3c7dad5c81cdb0c06f18c6394fe00",
+    "simhash": "1:9d3746cda14eafa4",
+    "word_count": 54
+  },
+  "last_updated": "2023-07-14T18:30:24.877122+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "file_name": "0163-01",
+  "first_page_order": 207,
+  "last_page_order": 208
+}

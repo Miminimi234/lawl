@@ -1,0 +1,78 @@
+{
+  "id": 12452250,
+  "name": "State, Respondent, v. Johansen, Petitioner",
+  "name_abbreviation": "State v. Johansen",
+  "decision_date": "2017-02-08",
+  "docket_number": "No. 93699-4",
+  "first_page": "1011",
+  "last_page": "1011",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "187 Wash. 2d 1011"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Wash.",
+    "id": 9029,
+    "name": "Washington Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 38,
+    "name_long": "Washington",
+    "name": "Wash."
+  },
+  "cites_to": [
+    {
+      "cite": "194 Wn. App. 1042",
+      "category": "reporters:state",
+      "reporter": "Wash. App.",
+      "case_ids": [
+        12451834,
+        12451835,
+        12451836,
+        12451837
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-app/194/1042-01",
+        "/wash-app/194/1042-02",
+        "/wash-app/194/1042-03",
+        "/wash-app/194/1042-04"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 28,
+    "char_count": 190,
+    "ocr_confidence": 0.849,
+    "sha256": "6ebe3e5e5bcbd4b103c576320eeabfb2cc28ece3dc1089d9924613586cfb949a",
+    "simhash": "1:057b66b209dd08b1",
+    "word_count": 31
+  },
+  "last_updated": "2024-02-27T20:27:34.476040+00:00",
+  "provenance": {
+    "date_added": "2019-05-21",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "State, Respondent, v. Johansen, Petitioner,"
+    ],
+    "opinions": [
+      {
+        "text": "Petition for review of a decision of the Court of Appeals, No. 72922-5-I, June 27, 2016, 194 Wn. App. 1042. Denied February 8, 2017.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "State, Respondent, v. Johansen, Petitioner,\nNo. 93699-4."
+  },
+  "file_name": "1011-08",
+  "first_page_order": 979,
+  "last_page_order": 979
+}

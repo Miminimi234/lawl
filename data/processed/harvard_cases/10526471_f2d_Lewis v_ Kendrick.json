@@ -1,0 +1,841 @@
+{
+  "id": 10526471,
+  "name": "Diane LEWIS, Plaintiff, Appellee, v. Henry KENDRICK and Lee Kendrick, Defendants, Appellants; Diane LEWIS, Plaintiff, Appellee, v. Henry KENDRICK, et al., Defendants, Appellees, City of Brockton, Defendant, Appellant; Diane LEWIS, Plaintiff, Appellant, v. Henry KENDRICK, et al., Defendants, Appellees",
+  "name_abbreviation": "Lewis v. Kendrick",
+  "decision_date": "1991-04-26",
+  "docket_number": "Nos. 90-1480 to 90-1482",
+  "first_page": "949",
+  "last_page": "959",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "944 F.2d 949"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "1st Cir.",
+    "id": 8809,
+    "name": "United States Court of Appeals for the First Circuit"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "940 F.2d 25",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        10521311
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/f2d/940/25-29-01"
+      ]
+    },
+    {
+      "cite": "931 F.2d 154",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "opinion_index": -1
+    },
+    {
+      "cite": "461 U.S. 424",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11298707
+      ],
+      "weight": 3,
+      "year": 1983,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/461/0424-01"
+      ]
+    },
+    {
+      "cite": "482 U.S. 755",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6220396
+      ],
+      "weight": 3,
+      "year": 1987,
+      "pin_cites": [
+        {
+          "page": "761"
+        },
+        {
+          "page": "2676"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/482/0755-01"
+      ]
+    },
+    {
+      "cite": "889 F.2d 363",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        10528541
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "369"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/889/0363-01"
+      ]
+    },
+    {
+      "cite": "581 F.2d 275",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        861816
+      ],
+      "pin_cites": [
+        {
+          "page": "278-279"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/581/0275-01"
+      ]
+    },
+    {
+      "cite": "624 F.2d 127",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1273185
+      ],
+      "pin_cites": [
+        {
+          "page": "131"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/624/0127-01"
+      ]
+    },
+    {
+      "cite": "477 U.S. 561",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6210660
+      ],
+      "weight": 10,
+      "year": 1986,
+      "pin_cites": [
+        {
+          "page": "574",
+          "parenthetical": "\"The amount of damages a plaintiff recovers is certainly relevant to the amount of attorney's fees to be awarded....\""
+        },
+        {
+          "page": "2694",
+          "parenthetical": "\"The amount of damages a plaintiff recovers is certainly relevant to the amount of attorney's fees to be awarded....\""
+        },
+        {
+          "parenthetical": "\"The amount of damages a plaintiff recovers is certainly relevant to the amount of attorney's fees to be awarded....\""
+        },
+        {
+          "page": "585"
+        },
+        {
+          "page": "2699"
+        },
+        {
+          "page": "575"
+        },
+        {
+          "page": "2694"
+        },
+        {
+          "page": "574"
+        },
+        {
+          "page": "2694"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/477/0561-01"
+      ]
+    },
+    {
+      "cite": "489 U.S. 782",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        12033503
+      ],
+      "weight": 8,
+      "year": 1989,
+      "pin_cites": [
+        {
+          "page": "790",
+          "parenthetical": "emphasis in original"
+        },
+        {
+          "page": "1492",
+          "parenthetical": "emphasis in original"
+        },
+        {
+          "parenthetical": "emphasis in original"
+        },
+        {
+          "page": "792"
+        },
+        {
+          "page": "1493"
+        },
+        {
+          "page": "790"
+        },
+        {
+          "page": "1492"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/489/0782-01"
+      ]
+    },
+    {
+      "cite": "111 S.Ct. 1138",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        11318028
+      ],
+      "weight": 2,
+      "year": 1991,
+      "pin_cites": [
+        {
+          "page": "1140-1143",
+          "parenthetical": "no expert witness fees"
+        },
+        {
+          "parenthetical": "no expert witness fees"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/499/0083-01"
+      ]
+    },
+    {
+      "cite": "918 F.2d 232",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        10532643
+      ],
+      "weight": 4,
+      "pin_cites": [
+        {
+          "page": "233-34"
+        },
+        {
+          "page": "234"
+        },
+        {
+          "page": "234"
+        },
+        {
+          "page": "235"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/918/0232-01"
+      ]
+    },
+    {
+      "cite": "710 F.2d 4",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1866436
+      ],
+      "pin_cites": [
+        {
+          "page": "8"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/710/0004-01"
+      ]
+    },
+    {
+      "cite": "546 N.E.2d 139",
+      "category": "reporters:state_regional",
+      "reporter": "N.E.2d",
+      "year": 1989,
+      "opinion_index": 0
+    },
+    {
+      "cite": "406 Mass. 43",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "case_ids": [
+        3884932
+      ],
+      "year": 1989,
+      "pin_cites": [
+        {
+          "page": "46"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mass/406/0043-01"
+      ]
+    },
+    {
+      "cite": "645 F.2d 92",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1213184
+      ],
+      "pin_cites": [
+        {
+          "page": "94-95"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/645/0092-01"
+      ]
+    },
+    {
+      "cite": "732 F.2d 1030",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1947814
+      ],
+      "pin_cites": [
+        {
+          "page": "1035-36"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/732/1030-01"
+      ]
+    },
+    {
+      "cite": "817 F.2d 920",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1671096
+      ],
+      "pin_cites": [
+        {
+          "page": "924"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/817/0920-01"
+      ]
+    },
+    {
+      "cite": "379 U.S. 89",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11728831
+      ],
+      "weight": 3,
+      "year": 1964,
+      "pin_cites": [
+        {
+          "page": "91, 96-97"
+        },
+        {
+          "page": "225, 228"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/379/0089-01"
+      ]
+    },
+    {
+      "cite": "37 L.Ed.2d 1003",
+      "category": "reporters:federal",
+      "reporter": "L. Ed. 2d",
+      "year": 1973,
+      "opinion_index": 0
+    },
+    {
+      "cite": "93 S.Ct. 3017",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "year": 1973,
+      "opinion_index": 0
+    },
+    {
+      "cite": "412 U.S. 951",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6282658,
+        6284356,
+        6283271,
+        6280748,
+        6280981,
+        6281846,
+        6281239,
+        6283769,
+        6284090,
+        6283547,
+        6282333,
+        6281502,
+        6282079
+      ],
+      "year": 1973,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/412/0951-08",
+        "/us/412/0951-13",
+        "/us/412/0951-09",
+        "/us/412/0951-01",
+        "/us/412/0951-02",
+        "/us/412/0951-05",
+        "/us/412/0951-03",
+        "/us/412/0951-11",
+        "/us/412/0951-12",
+        "/us/412/0951-10",
+        "/us/412/0951-07",
+        "/us/412/0951-04",
+        "/us/412/0951-06"
+      ]
+    },
+    {
+      "cite": "470 F.2d 1192",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        261930
+      ],
+      "pin_cites": [
+        {
+          "page": "1197"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/470/1192-01"
+      ]
+    },
+    {
+      "cite": "727 F.2d 7",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1934321
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "10"
+        },
+        {
+          "page": "9-10"
+        },
+        {
+          "page": "9-10"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/727/0007-01"
+      ]
+    },
+    {
+      "cite": "928 F.2d 17",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1138336
+      ],
+      "pin_cites": [
+        {
+          "page": "23"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/928/0017-01"
+      ]
+    },
+    {
+      "cite": "870 F.2d 753",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        11645342
+      ],
+      "pin_cites": [
+        {
+          "page": "759-60"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/870/0753-01"
+      ]
+    },
+    {
+      "cite": "882 F.2d 553",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1820956
+      ],
+      "pin_cites": [
+        {
+          "page": "571-75"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/882/0553-01"
+      ]
+    },
+    {
+      "cite": "42 U.S.C. \u00a7\u00a7 1983",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "42 U.S.C. \u00a7 1988",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "opinion_index": 1
+    },
+    {
+      "cite": "612 F.2d 1057",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1411567
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "1059"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/f2d/612/1057-01"
+      ]
+    },
+    {
+      "cite": "789 F.2d 540",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1573949
+      ],
+      "pin_cites": [
+        {
+          "page": "549-50"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/f2d/789/0540-01"
+      ]
+    },
+    {
+      "cite": "390 U.S. 400",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6171007
+      ],
+      "weight": 3,
+      "year": 1968,
+      "pin_cites": [
+        {
+          "page": "402"
+        },
+        {
+          "page": "966"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/us/390/0400-01"
+      ]
+    },
+    {
+      "cite": "489 U.S. 87",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        12031571
+      ],
+      "weight": 3,
+      "year": 1989,
+      "pin_cites": [
+        {
+          "parenthetical": "prevailing party ordinarily to recover attorneys' fees \"unless special circumstances would render such an award unjust,\" (citing Newman v. Piggie Park Enters., 390 U.S. 400, 402, 88 S.Ct. 964, 966, 19 L.Ed.2d 1263 (1968)"
+        },
+        {
+          "parenthetical": "prevailing party ordinarily to recover attorneys' fees \"unless special circumstances would render such an award unjust,\" (citing Newman v. Piggie Park Enters., 390 U.S. 400, 402, 88 S.Ct. 964, 966, 19 L.Ed.2d 1263 (1968)"
+        },
+        {
+          "parenthetical": "prevailing party ordinarily to recover attorneys' fees \"unless special circumstances would render such an award unjust,\" (citing Newman v. Piggie Park Enters., 390 U.S. 400, 402, 88 S.Ct. 964, 966, 19 L.Ed.2d 1263 (1968)"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/us/489/0087-01"
+      ]
+    },
+    {
+      "cite": "461 U.S. 424",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11298707
+      ],
+      "weight": 5,
+      "year": 1983,
+      "pin_cites": [
+        {
+          "page": "434"
+        },
+        {
+          "page": "1939"
+        },
+        {
+          "page": "436"
+        },
+        {
+          "page": "1941"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/us/461/0424-01"
+      ]
+    },
+    {
+      "cite": "489 U.S. 782",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        12033503
+      ],
+      "weight": 3,
+      "year": 1989,
+      "pin_cites": [
+        {
+          "page": "793"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/us/489/0782-01"
+      ]
+    },
+    {
+      "cite": "817 F.2d 920",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1671096
+      ],
+      "pin_cites": [
+        {
+          "page": "926"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/f2d/817/0920-01"
+      ]
+    },
+    {
+      "cite": "691 F.2d 514",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1477995,
+        3636029
+      ],
+      "pin_cites": [
+        {
+          "page": "518-21"
+        }
+      ],
+      "opinion_index": 2,
+      "case_paths": [
+        "/f2d/691/0514-01",
+        "/us-app-dc/223/0325-01"
+      ]
+    },
+    {
+      "cite": "747 F.2d 838",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        644128
+      ],
+      "pin_cites": [
+        {
+          "page": "841-42"
+        }
+      ],
+      "opinion_index": 2,
+      "case_paths": [
+        "/f2d/747/0838-01"
+      ]
+    },
+    {
+      "cite": "612 F.2d 1057",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1411567
+      ],
+      "pin_cites": [
+        {
+          "page": "1059"
+        }
+      ],
+      "opinion_index": 2,
+      "case_paths": [
+        "/f2d/612/1057-01"
+      ]
+    },
+    {
+      "cite": "489 U.S. 87",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        12031571
+      ],
+      "weight": 3,
+      "year": 1989,
+      "pin_cites": [
+        {
+          "parenthetical": "internal quotations omitted"
+        },
+        {
+          "parenthetical": "internal quotations omitted"
+        },
+        {
+          "parenthetical": "internal quotations omitted"
+        }
+      ],
+      "opinion_index": 2,
+      "case_paths": [
+        "/us/489/0087-01"
+      ]
+    },
+    {
+      "cite": "461 U.S. 424",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11298707
+      ],
+      "weight": 3,
+      "year": 1983,
+      "pin_cites": [
+        {
+          "page": "429",
+          "parenthetical": "same"
+        },
+        {
+          "page": "1937",
+          "parenthetical": "same"
+        },
+        {
+          "parenthetical": "same"
+        }
+      ],
+      "opinion_index": 2,
+      "case_paths": [
+        "/us/461/0424-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 1548,
+    "char_count": 34981,
+    "ocr_confidence": 0.771,
+    "pagerank": {
+      "raw": 6.545986833406194e-07,
+      "percentile": 0.9611234091253968
+    },
+    "sha256": "7fda542ca8561c69c63151c690f3465a8680d3c4024bd20ad32d40059c506baf",
+    "simhash": "1:fe1e77a60291b1ff",
+    "word_count": 5724
+  },
+  "last_updated": "2024-02-27T20:11:57.694237+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before BREYER, Chief Judge, Aldrich, Senior Circuit Judge, and Torruella, Circuit Judge."
+    ],
+    "parties": [
+      "Diane LEWIS, Plaintiff, Appellee, v. Henry KENDRICK and Lee Kendrick, Defendants, Appellants. Diane LEWIS, Plaintiff, Appellee, v. Henry KENDRICK, et al., Defendants, Appellees, City of Brockton, Defendant, Appellant. Diane LEWIS, Plaintiff, Appellant, v. Henry KENDRICK, et al., Defendants, Appellees."
+    ],
+    "opinions": [
+      {
+        "text": "BAILEY ALDRICH, Senior Circuit Judge.\nThis ease demonstrates the consequence of lack of knowledge of the Federal Rules of Civil Procedure, and Evidence, and the substantive law, prior to trial: most of the questions sought to be raised are not before us. We start with the facts. Plaintiff Diane Lewis sued Henry and Lee Kendrick, police officers of the City of Brockton, and the City itself. Plaintiff claimed violations of her constitutional rights under 42 U.S.C. \u00a7\u00a7 1983, 1985, 1986 and 1988, adding pendent state claims under the Massachusetts Civil Rights Act, M.G.L. ch. 12, \u00a7 111, and Tort Claims Act, M.G.L. ch. 258, \u00a7 2, for assault and battery, false arrest, false imprisonment, intentional infliction of emotional distress, and malicious prosecution, with compensatory damages set at $250,-000 and punitive damages at $50,000. After ten trial days the jury returned special verdicts against the Kendricks, jointly and severally, under \u00a7 1983, in the amount of $1,000, and in the same amount under the state count for false imprisonment. All other claims involving the officers were dismissed, or found in their favor. The sole finding against the City was $3,000, for negligence, under M.G.L. ch. 258, \u00a7 2. The court awarded counsel fees against the individual defendants in the amount of $49,685.90, and costs against the individual defendants, of $4,198.97. Defendants appeal. Plaintiff cross-appeals for additional counsel fees.\nThe total events covered by the verdicts were a 15 minute investigation by the police, the facts as to which are disputed, ending with plaintiffs arrest and a trip to the station house, with incarceration for an hour and three quarters awaiting bail. Elaborating, in the early evening of July 19, 1983, Annette Ramadan, a neighbor of the plaintiff, called the Brockton police department to report that the plaintiff was threatening her with a knife. The call went out by the police dispatcher as a code 24B (assault or assault and battery with a dangerous weapon) and the defendant police officers Henry and Lee Kendrick, brothers, who happened to be assigned to patrol together that day, responded. When they arrived at Ms. Ramadan\u2019s residence, a crowd of children and adults had already assembled. Plaintiff Lewis, upset, approached the officers, asking, according to her, that they \u201cplease tell this lady [Ramadan] to stop hitting my kids.\u201d The officers, she said, told her to \u201cshut up,\u201d to which she responded by calling them \u201cwhite daddies.\u201d\nThe officers then entered Ms. Ramadan\u2019s house and asked what had happened. She responded that her daughter had been hit by plaintiff\u2019s daughter and that she (Ramadan) had gone outside to yell at the children. After Ms. Ramadan returned home with her daughter, plaintiff had arrived, wielding a steak knife and threatening to \u201ccut\u201d her. She locked the back door and called the police. In response to the officers\u2019 questioning, she emphasized that she was positive that Ms. Lewis had had a knife and she indicated her willingness to make a complaint and testify against her.\nThe officers, after leaving Ms. Ramadan, immediately arrested Ms. Lewis, taking her, after some resistance by her daughters, to the squad car. They questioned no one at the scene, made no inquiry of the plaintiff as to her version of events, and made no search for the knife. A search at the station house was unfruitful.\nDefendants\u2019 appeals seek to raise a number of issues. The first is a ruling on evidence allowing plaintiff to introduce 52 internal police files relating to citizens\u2019 complaints of false imprisonment, arrest, or use of excessive force, offered to show the City\u2019s lack of compliance with its rules and procedures. This was not error as to the City. See Gutierrez-Rodriguez v. Cartagena, 882 F.2d 553, 571-75 (1st Cir.1989) (complaint files properly admitted on issue of supervisory liability). The City now complains that the court should have found undue prejudice under Fed.R.Evid. 403. This might have been a reasonable complaint, had the court been asked to consider it. It is a clear illustration, however, of the principle that a party must specify a point, particularly one involving discretion, to the district court for consideration. Fed.R.Evid. 103(a)(1); see Notes of Advisory Committee. The City\u2019s ill-founded objection on the ground of hearsay did not do this; nor will we determine it in the first instance. E.g., United States v. Piva, 870 F.2d 753, 759-60 (1st Cir.1989).\nAlthough they did not request it, the individual defendants now complain that the court did not instruct the jury not to consider the files as evidence against them, since they were not named therein. This instruction should have been given if asked for, and is one that courts often give voluntarily. At the same time, counsel must not expect to be nurse-maided. While failure to give limiting instructions even though not requested has sometimes been called plain error, see United States v. Malik, 928 F.2d 17, 23 (1st Cir.1991) (and cases collected therein), on their face these files do not relate to the individual defendants; nor does the record show that plaintiff ever claimed otherwise. We reject plain error.\nThere are presently three substantive issues, apart from fees: probable cause (all defendants); qualified immunity (police); negligence (City). As to the first, this is a jury matter, B.C.R. Transp. Co. v. Fontaine, 727 F.2d 7, 10 (1st Cir.1984), and defendants say that the evidence conclusively establishes it. We do not agree. On the basis of the previously stated facts, particularly that the police saw no knife, and looked for none, a jury could find that to accept a hitherto unknown alleged victim\u2019s uncorroborated account without question, where there was ample opportunity to question it, was a circumstance that weighed against probable cause. Id. at 9-10. While \u201c[a]n asserted victim of a crime is a reliable informant even though his or her reliability has not theretofore been proven or tested,\u201d Nelson v. Moore, 470 F.2d 1192, 1197 (1st Cir.1972), cert. denied, 412 U.S. 951, 93 S.Ct. 3017, 37 L.Ed.2d 1003 (1973), it is not a per se basis for probable cause. B.C.R. Transp. Co., 727 F.2d at 9-10. On the record as a whole we hold that the jury could have found objective probable cause lacking.\nBefore leaving this issue we note defendants\u2019 objection to the court\u2019s failure to charge on good faith. Probable cause is an objective matter, and not determined by subjective intent. Beck v. Ohio, 379 U.S. 89, 91, 96-97, 85 S.Ct. 223, 225, 228, 13 L.Ed.2d 142 (1964). Possibly the officers intended this to be a request for an instruction on qualified immunity. The question of immunity is for the court. Hall v. Ochs, 817 F.2d 920, 924 (1st Cir.1987). It is not silently reserved. The last opportunity to raise it is by motion for directed verdict. Systemized of New England, Inc. v. SCM, Inc., 732 F.2d 1030, 1035-36 (1st Cir.1984); Fed.R.Civ.P. 50(b). Defendants fell short. At the close of plaintiff\u2019s case the City moved, in writing, for a directed verdict, on five grounds, one of which the court allowed. There was no claim of qualified immunity. Counsel for the officers spoke up.\nI do not have a written motion for directed verdict. I was going to make a written motion for directed verdict on all counts.\nThe court replied, \u201cPut it in and we\u2019ll take no action, nunc pro tunc.\u201d At the close of the evidence counsel for the officers still had no written motion. He merely said, \u201cI simply want to renew my oral motion earlier for directed verdict on all counts....\u201d Perhaps if counsel had complied with the court\u2019s instructions for a writing he might have learned that the rule requires in the motion a specification of the grounds. Fed.R.Civ.P. 50(a). In fact, there is nothing unique about the federal rule. See Mass. Superior Court Rule 9A(a)(l). Unhappily, since the motion for judgment n.o.v. can not exceed the original motion, the point was lost.\nAgain, defendants\u2019 only recourse is plain error. The fact that they lost a very possible defense that would have eliminated liability for fees is not enough; plain error requires much more. E.g., Javelin Inv., S.A. v. Municipality of Ponce, 645 F.2d 92, 94-95 (1st Cir.1981) (case must be \u201cexceptional\u201d in order to overlook failure to comply with Rule 50(b)). We will not grant it. As we have often said, rules are intended to be respected.\nWe turn to the City. Its liability was found in the affirmative answer to question 6.\n6. Did the negligence of any of the public employees of the City of Brockton, including, but not limited to that of the defendant police officers and/or their supervisors, result in the arrest and injury to Diane Lewis?\nThis included two groups of employees, and as the jury may have chosen only one (unidentified), the answer cannot stand unless both were supportable. We find they were.\nIn the matter of liability other than for the actions of the individual defendants, one of the City\u2019s police regulations called for the immediate sending of a supervisor to the scene in case of a report of a serious crime, and there was evidence, though contradicted, that this assault, as reported, qualified as such. A jury could well find that a supervisor would have given more weight to the absence of any evidence of a knife beyond the alleged victim\u2019s claim, and might have declined to arrest. Further, without the need of reciting the detail, the scant evidence of police training, particularly recently, with respect to constitutional rights, warrantless arrests, and probable cause, could have been found deficient. In such circumstances proximate cause was for the jury; defendant officers might have benefited by more training. The City complains that no expert opinion as to insufficiency was introduced. The training was sufficiently slight that we consider it within the court\u2019s discretion to conclude that a jury could find it insufficient without the specialized information contemplated by Fed.R.Evid. 702.\nAlternatively, the City could be liable under M.G.L. ch. 258, \u00a7 2 for the negligence of defendant officers acting within the scope of their duty. E.g., McNamara v. Honeyman, 406 Mass. 43, 46, 546 N.E.2d 139 (1989). To arrest without probable cause, even though in good faith, could be found negligent. Accordingly, we must rule that the jury\u2019s affirmative finding in answer to special interrogatory 6 was justified, whatever basis it may have adopted.\nAttorney\u2019s Fees. Before reaching the amount of the award, we note that the court had a question whether the verdicts were so small as not to warrant a fee at all. Including interest (the jury rejected prejudgment interest), the court entered, \u201cTotal Judgment in the amount of $5,608.55.\u201d On the awarding of fees it said, \u201cAlthough the damage award was only $5,000.00 this Court is of the opinion that $5,000.00 is not de minimis, although I caution counsel that it is dangerously close.\u201d In point of fact, $5,000.00 was redundant. The City was a separate defendant, but plaintiffs injury, her damages, were one and the same, and were caused entirely by the police; the City\u2019s liability was merely duplication. Municipal liability under M.G.L. ch. 258, \u00a7 2, the sole found basis, is \u201cto the same extent as a private individual under like circumstances.\u201d Had there been punitive damages found, that would have been another matter. When the only damages were caused by the police, it was error to make a greater finding against the City. We consider this point, though not raised, because it is material to the fee, which was properly raised. At most, the total liability of each defendant should be $2,000, with only one recovery.\nActually, even $2,000 is redundant, as we suggested in oral argument. The judgment speaks of \u201cthe federal theory of liability,\u201d and \u201cthe state theory of liability,\u201d but these were but two ways of imposing liability for the same occurrence. See Clark v. Taylor, 710 F.2d 4, 8 (1st Cir.1983). In a careful explanation the court instructed the jury that false arrest legally constituted false imprisonment, and that the federal theory and the state theory \u201ccoincide[d].\u201d There was no objection. It is not only the law of the case, but independently factually sound, that both findings covered the same injury, and were but alternate ways of reaching a result. Plaintiffs recovery must be limited to $1,000.\nAs we have recently noted, the award of an attorney\u2019s fee in civil rights cases is in the discretion of the district court, as distinguished from some other fee-providing statutes that are absolute. de Jesus v. Banco Popular de Puerto Rico, 918 F.2d 232, 233-34 (1st Cir.1990). The Civil Rights Act\u2019s comparatively less generous provisions are to be recognized. West Virginia Univ. Hosps., Inc. v. Casey, \u2014 U.S.-,-, 111 S.Ct. 1138, 1140-1143, 113 L.Ed.2d 68 (1991) (no expert witness fees). At the same time the court must have, and express, special reasons if it is to refuse, de Jesus, 918 F.2d at 234. In this case the court did not refuse, but where it considered an amount five times the correct recovery \u201cdangerously close,\u201d we are not bound by its discretionary conclusion; indeed, we may infer that if it had realized the correct figure it might well have concluded the other way. In any event, we cannot remand, if appropriate, to inquire of the trial judge, as he has retired. We accordingly take as our start a paragraph from the de Jesus opinion.\nMoreover, defendants offer no support for their theory limiting success to those plaintiffs whose damage awards closely approximate the sums sought. Indeed, the Supreme Court has firmly rejected this approach, holding unanimously that \u201cthe degree of the plaintiff\u2019s success in relation to the other goals of the lawsuit is a factor critical to the determination of the size of a reasonable fee, not to eligibility for a fee award at all,\u201d Texas State Teachers Ass\u2019n v. Garland Independent School Dist., 489 U.S. 782, 790 [109 S.Ct. 1486, 1492, 103 L.Ed.2d 866] (1989) (emphasis in original). See also City of Riverside v. Rivera, 477 U.S. 561, 574 [106 S.Ct. 2686, 2694, 91 L.Ed.2d 466] (1986) (\u201cThe amount of damages a plaintiff recovers is certainly relevant to the amount of attorney\u2019s fees to be awarded....\u201d) (emphasis added); id. at 585 [106 S.Ct. at 2699] (Powell, J., concurring). Any other view would be inconsistent with the recognized principle that even small damage awards may mean a substantial victory for \u201c \u2018a policy that Congress considered of the highest importance,\u2019 \u201d City of Riverside, 477 U.S. at 575 [106 S.Ct. at 2694] (quoting H.R.Rep. No. 94-1558 (1976)).\n918 F.2d at 234. This does not, however, resolve the questions in this case. Does there come a point, short of absolute loss, of de minimis, where the \u201celigibility for a fee award\u201d disappears, and may that question be approached in the light of the original demands?\nIn Texas State Teachers Ass\u2019n, 489 U.S. at 792, 109 S.Ct. at 1493, the Court spoke of \u201ca resolution of the dispute which changes the legal relationship\u201d between the parties. But it went on to say that if plaintiff there had received only a very minor injunction that the District Court characterized as \u201cof minor significance,\u201d \u201cwe think it clear that this alone would not have rendered them \u2018prevailing parties\u2019 within the meaning of \u00a7 1988.\u201d Id. The Court added a quotation from Chicano Police Officers Ass\u2019n v. Stover, 624 F.2d 127, 131 (10th Cir.1980), \u201cNuisance settlements, of course, should not give rise to a \u2018prevailing\u2019 plaintiff.\u201d\nHow far this recognized the propriety of comparing the result with the relief sought can not be generalized. It must, in any event, be decided on a case by case basis. Of course it is expected in some cases that the recovery will necessarily be small, far smaller than the fee based on reasonable hours spent to obtain it. We quite agree with plaintiff\u2019s district court fee memorandum in which she said, \u201c[I]t is precisely in cases when Plaintiff has no realistic expectation of substantial monetary damages that fees under the Act are required to attract an attorney to handle the case.\u201d And normally, as said, even when the amount sought is large and the recovery is small, the effect is only that the fees may be reduced; eligibility is not lost. In Texas State Teachers Ass\u2019n, 489 U.S. at 790, 109 S.Ct. at 1492, the Court reversed a denial of fees based on petitioners having failed to succeed on their \u201ccentral issue,\u201d the Court holding that the proper rule had been voiced in our case of Nadeau v. Helgemoe, 581 F.2d 275, 278-279 (1st Cir.1978), namely, \u201csucce[ss] on any significant issue in litigation which achieves some of the benefit the parties sought.\u201d\nAgain, in Stefan v. Laurenitis, 889 F.2d 363 (1st Cir.1989), plaintiffs, on the eve of trial, settled a case in which they had claimed $1,900,000 in compensatory and punitive damages for interference with their business, for $16,000, attorney\u2019s fees to be determined. In approving a fee, we made a point of the fact that $16,000 was not insignificant, and \u201cnot only was not de minimis, but may deter future harassment of Stefan and Dunn.\u201d 889 F.2d at 369.\nOne thousand dollars is much less than $16,000, and a very much larger reduction, percentage-wise, from the $300,000 sought. Is it de minimis? If reached on the courthouse steps, would it have been regarded as a nuisance settlement? We think the answer is, Yes. But even if it should not be held de minimis viewed from the standpoint of loss of eligibility for a fee, may this recovery, in the light of plaintiff\u2019s original demands and overall conduct, affect the court\u2019s discretion in deciding whether fees should be awarded? Plaintiff has failed entirely, or largely, in everything. As against the officers, on the basis of the jury answers or otherwise, she established no use of \u201cunnecessary\u201d or \u201cexcessive\u201d force; no intentional emotional damages; no malicious, or groundless, prosecution; no state claim for interference, or attempt to interfere, with plaintiff\u2019s federal constitutional rights and laws, or state laws. As against the City, no deliberate indifference to constitutional rights in respect to training, supervision and/or discipline of its police officers. This last, if answered affirmatively, could have been a favorable result quite apart from a money judgment. See Hewitt v. Helms, 482 U.S. 755, 761, 107 S.Ct. 2672, 2676, 96 L.Ed.2d 654 (1987); City of Riverside v. Rivera, 477 U.S. 561, 574, 106 S.Ct. 2686, 2694, 91 L.Ed.2d 466 (1986). And, of course, no punitive damages.\nWe could stop there, but that is not all. Even allowing generously for puffing, if, in their complaint, counsel observed Fed.R.Civ.P. ll\u2019s requirement of good faith allegations, the jury assessment is a rough measure of how far plaintiffs proof fell short. In ten trial days all that was proved was a simple street arrest and detention for bail, based on a mistaken assessment of probable cause in a two-party altercation. If, in their original claims, counsel possessed a \u201crealistic expectation of substantial monetary damages\u201d (plaintiffs fee memorandum, ante), even unperceptive counsel must have appreciated they had markedly failed. Under the circumstances, instead of seeking to charge their full 952.25 hours (approximately half a billable year), making no downward adjustment, they should have observed the requirements of the seminal case of Hensley v. Eckerhart, 461 U.S. 424, 103 S.Ct. 1933, 76 L.Ed.2d 40 (1983). There the court said, at page 440, 103 S.Ct. at page 1943,\nA reduced fee award is appropriate if the relief, however significant, is limited in comparison to the scope of the litigation as a whole.... [Wjhere the plaintiff achieved only limited success, the district court should award only that amount of fees that is reasonable in relation to the results obtained.\nIn addition, at page 434, 103 S.Ct. at page 1939, the Court said,\nCounsel for the prevailing party should make a good-faith effort to exclude from a fee request hours that are excessive, redundant, or otherwise unnecessary.\nAnd, at page 436, 103 S.Ct. at page 1941,\nIf ... a plaintiff has achieved only partial or limited success, the product of hours reasonably expended on the litigation as a whole times a reasonable hourly rate may be an excessive amount. This will be true even where the plaintiffs claims were interrelated, nonfrivolous, and raised in good faith. Congress has not authorized an award of fees whenever it was reasonable for a plaintiff to bring a lawsuit or whenever conscientious counsel tried the case with devotion and skill. Again, the most critical factor is the degree of success obtained.\nCounsels\u2019 request for full fees, and costs some of which the court labelled \u201coutrageous,\u201d was in open disregard of these principles.\nNor could we think this inadvertence. Counsel well knew Hensley. It confirms our initial suspicions of the marked excessiveness of their conduct. The fee provisions in \u00a7 1988 of the Civil Rights Act are intended to enable injured parties to obtain counsel, not to enable counsel to obtain munificent fees. To turn a single wrongful arrest into a half year\u2019s work, and seek payment therefor, with costs, amounting to 140 times the worth of the injury, is, to use a benign word, inexcusable. We should not tolerate, even by a partial award, such an imposition by counsel on the defendants, and on the court. In the exercise of the statutory discretion, we reverse the award of fees altogether.\nCosts, too, seem surprising, but there was no appeal of any consequence. The case is remanded to substitute an amended judgment in plaintiff\u2019s favor against all defendants, jointly, in the amount of $1,000, with interest from the date of verdict, and with costs as before, but without interest.\nNo costs in this court.\n. We have not computed the now-sought figure. Plaintiffs initial request was for $132,778, with costs of $6,960.\n. de Jesus forestalls our reopening the question of qualified immunity. If the officers had been so entitled, they would not have had to pay attorney\u2019s fees, but de Jesus indicates that where plaintiff won, it is no answer that she may not have deserved to. 918 F.2d at 235.\n. Both claims were put to the jury. Their entire basis was plaintiffs disputed testimony that the officers had allowed her handcuffs to become too tight.\n. As a specific example, we note in plaintiffs trial court memorandum on fees a claim that \"the Brockton Police Department is one of the worst on the eastern coast of the United States.\u201d How, when plaintiff failed in her proof as to constitutionally deficient training, this allegation should support her claim for fees, especially when chargeable against, and only against, defendant officers, is not understandable.",
+        "type": "majority",
+        "author": "BAILEY ALDRICH, Senior Circuit Judge."
+      },
+      {
+        "text": "BREYER, Chief Judge\n(concurring and dissenting in part).\nI agree with the majority and with its reasoning, with one minor exception. I would permit the district court to award a token attorneys\u2019 fee, say, $1,000, for a token victory.\nON REHEARING\nPlaintiff seeks rehearing and we respond, prompted more, perhaps, by the misconception evidenced by certain amici. First, some lesser matters.\nDuplicate Damages\nObjecting to our consolidating damages for the federal claim entitled false arrest, and the state claim entitled false imprisonment, plaintiff says that the two $1,000 findings against the police officers might have been for different injuries, and thus be cumulative. This overlooks the fact that the court instructed the jury that false arrest was false imprisonment, and that the federal and state causes coincided. This was legally correct. See Hall v. Ochs, 817 F.2d 920, 926 (1st Cir.1987) (state claim for false imprisonment and \u00a7 1983 claim for false arrest \u201ccompletely overlapping\u201d). We repeat that the $2,000 judgment, joint and several, was error.\nInterest\nTo a question not in terms limited to any damage finding the jury answered rejecting prejudgment interest, and the original judgment entered included none. The court amended this judgment by adding $608.56 as prejudgment interest on the $1,000 state recovery. We struck it in light of the jury\u2019s special answer. However, it appears that the court had instructed the jury that its question was intended to relate only to the federal finding. We restore this amount.\nAttorney\u2019s Fees\nPrincipally, plaintiff complains of our denying attorneys\u2019 fees, saying that we paid only lip service to the line of cases that we cited. We believe we made it clear that we were not departing from the recognized principle that the fee is not limited by the size of the recovery, but may, in appropriate instances, greatly exceed it. No other result could comport with the principle that plaintiffs should have an unrestricted opportunity to vindicate their civil rights. Instead, we found \u201cspecial circumstances,\u201d Blanchard v. Bergeron, 489 U.S. 87, 89 n. 1, 109 S.Ct. 939, 942 n. 1, 103 L.Ed.2d 67 (1989) (prevailing party ordinarily to recover attorneys\u2019 fees \u201cunless special circumstances would render such an award unjust,\u201d (citing Newman v. Piggie Park Enters., 390 U.S. 400, 402, 88 S.Ct. 964, 966, 19 L.Ed.2d 1263 (1968)), in the conduct of counsel. Petitioner, and, perhaps, especially, the amici, do not appear to see any basis for this finding. We repeat, however, that plaintiff started by filing a complaint alleging cruel and unusual punishment, use of excessive force, and intentional infliction of emotional harm, for which her only evidence, beyond the arrest without adequate inquiry and brief detention, was that her handcuffs were too tight \u2014 which the jury did not accept \u2014 adding totally unsupported charges of intentionally false police reports, and malicious prosecution, all \u201cmalicious, wanton and willful acts\u201d calling for punitive damages. Then, after a lengthy trial, strikingly unsuccessful, not merely did counsel make no \u201cgood faith effort to exclude from a fee request hours that are excessive, redundant, or otherwise unnecessary,\u201d Hensley v. Eckerhart, 461 U.S. 424, 434, 103 S.Ct. 1933, 1939, 76 L.Ed.2d 40 (1983), but they made no reduction for claims against the officers that the jury did not accept, nor for the claim against the City that was of no concern to the officers \u2014 the only fee payers. It is simply not so that the substantial portion of the trial devoted to the City\u2019s alleged constitutionally defective training of its police was inseparable from the officers\u2019 alleged lack of probable cause. That the officers arrested without probable cause might cast light on the City\u2019s lack of training, but this lack, which was vigorously pursued, had no relation to the factual question of whether the officers had probable cause. Nor would it affect plaintiff\u2019s damages caused thereby.\nQuite apart from all this, even if it could be thought impossible to separate plaintiff\u2019s individual charges, plaintiff was totally unmindful of Hensley\u2019s prime requirement: \u201cthe most critical factor is the degree of success obtained.\u201d Id. at 436, 103 S.Ct. at 1941. We found it almost unbelievable that plaintiff\u2019s original brief failed even to recognize this frequently expressed principle. Even in the petition for rehearing the only reference is to the district court's bare finding, \u201cA downward adjustment in the lodestar figure is not warranted by plaintiff\u2019s low damages award in this case, but, conversely, an upward adjustment is not warranted either.\u201d $300,000 to $5,000; important claims lost altogether; with all deference to the district court it would be difficult to think of a finding more clearly contrary to the Court\u2019s directions. E.g., Texas Teachers Ass\u2019n v. Garland School Dist., 489 U.S. 782, 793, 109 S.Ct. 1486, 103 L.Ed.2d 866 (1989). We find it very hard to think that counsel should believe that the court\u2019s conclusory statement, once rejected, warranted rehearing. We call our Local Rule 35.1 to counsel\u2019s attention.\nThere is, however, an important matter: our ruling denying fees altogether. Here the amici state their concern. \u201cThe panel\u2019s decision reflects an improper determination that the right to be free from an arrest in violation of the fourth amendment is not an important societal value worthy of vindication by an individual plaintiff, unless monetary damages are significant.\u201d We have no such thought. We agree with the court in Zabkowicz v. West Bend Co., 789 F.2d 540, 549-50 (7th Cir.1986), reversing the district court\u2019s denial of all fees for the mere reason that too many hours had been spent. On the other hand, there must come a point where what is sought is plainly improper. We therefore agree with that circuit's complete denial of fees in Brown v. Stackler, 612 F.2d 1057 (7th Cir.1980), even though there was a recovery. There the court said,\n[Ajppellant\u2019s counsel submitted a claim which was so intolerably inflated that the District Court was warranted in departing from the usual practice and reacting vigorously to prevent such abuse of the court\u2019s authority to award reasonable compensation to counsel.\nIf, as appellant argues, the Court were required to award a reasonable fee when an outrageously unreasonable one has been asked for, claimants would be encouraged to make unreasonable demands, knowing that the only unfavorable consequence of such misconduct would be reduction of their fee to what they should have asked for in the first place.\n612 F.2d at 1059. This is strong medicine, but for this blow-up of a routine street arrest on a citizen\u2019s call, and inexcusable reaching for fees \u2014 to the burden of the court \u2014 we believe it entirely appropriate. A request for attorney\u2019s fees is required to be in good faith and in reasonable compliance with judicial pronouncements, and not an opening gambit in negotiations to reach an ultimate result. The statute gives us discretion, 42 U.S.C. \u00a7 1988, and the departure here was too extreme to be tolerated. Except for the matter of interest, the petition for rehearing is denied.\nThe 'petition for rehearing is denied except as to the matter of prejudgment interest which is to be awarded on the $1,000 state claim recovery.\n. Brief of amici curiae filed for the Massachusetts Civil Liberties Union Foundation, the New Hampshire Civil Liberties Union Foundation, the Massachusetts chapter of the National Conference of Black Lawyers, the Gay and Lesbian Advocates and Defenders, and the Massachusetts chapter of the National Lawyers Guild, by Howard Friedman and Sarah Wunsch.\n. Plaintiff now complains that defendants\u2019 cross-examination contributed to the length of trial. On the assumption that plaintiff\u2019s counsel respected Fed.R.Civ.P. ll\u2019s requirement of good faith in their allegations, and for which they sought $250,000 in actual damages, and $50,000 punitive, it is hardly suitable for plaintiff to complain of resistance.\n.The petition openly concedes that the court\u2019s reduction from $132,788 to $49,686, \"eliminated ... compensation altogether for some of her attorneys, denied compensation for certain categories of work, and eliminated a large number of hours to account for duplication where more than one attorney had worked on the case.\u201d\n. Plaintiff\u2019s fee details, excluding costs, occupied 140 pages. It would seem clearly possible. in at least some instances, to find which claims the work went for.",
+        "type": "concurring-in-part-and-dissenting-in-part",
+        "author": "BREYER, Chief Judge"
+      },
+      {
+        "text": "BREYER, Chief Judge\n(concurring in part, dissenting in part).\nI agree with the majority that the plaintiff in this case won no more than a minor victory. She fought with a neighbor; she and the neighbor each told the police a different story; the police believed the neighbor\u2019s claim that she threatened the neighbor with a knife; and the police arrested her. The jury found that the police should have checked further before arresting plaintiff. In doing so, they had to find, at least, negligent conduct (but, because defendants waived a potentially valid qualified-immunity defense, the jury did not have to find egregious conduct). The jury then awarded damages that, after eliminating double counting and correcting for inconsistencies, amount to $1000. In the context of this case, I can find no matter of significant principle that plaintiff sought and established. Rather, in that context, the $1000 award seems to comprise a small victory on a few of many claims that plaintiff made in this much larger case.\nI do not agree with the majority, however, that an unreasonably high fee demand by the plaintiff's trial attorney forfeits her right to any fee at all. Plaintiff did prevail to some minor extent. And, a \u201cprevailing party is ordinarily entitled to fees unless special circumstances would render such an award unjust.\u201d Blanchard v. Bergeron, 489 U.S. 87, 89 n. 1, 109 S.Ct. 939, 942 n. 1, 103 L.Ed.2d 67 (1989) (internal quotations omitted); Hensley v. Eckerhart, 461 U.S. 424, 429, 103 S.Ct. 1933, 1937, 76 L.Ed.2d 40 (1983) (same). The district court, in this case, did not find that overreaching \u201cwould render\u201d a fee \u201caward unjust.\u201d And, in my view, this court should not require the district court to reach a different result. Other courts of appeals have permitted district courts to find that overreaching constitutes a \u201cspecial circumstance\u201d warranting fee forfeiture; they have not required a district court to do so. See Brown v. Stackler, 612 F.2d 1057, 1059 (7th Cir.1980); see also Hall v. Borough of Roselle, 747 F.2d 838, 841-42 (3d Cir.1984) (dictum); Jordan v. United States, 691 F.2d 514, 518-21 (D.C.Cir.1982) (dictum).\nBecause the record convinces me that the plaintiff spent much of her legal effort trying (but failing) to establish a claim against the city, I believe the $50,000 fee award is well out of proportion to the legal work needed to obtain her $1000 victory against the individual policeman. At the same time, plaintiffs trial attorney is entitled to recover some small fee. I therefore would grant rehearing and (were I in the majority) recalculate the fee on the basis of the record before us or remand this case with instructions for recalculation.",
+        "type": "concurring-in-part-and-dissenting-in-part",
+        "author": "BREYER, Chief Judge"
+      }
+    ],
+    "attorneys": [
+      "Gerald S. McAuliffe with whom McPar-land & McAuliffe, was on brief, Quincy, Mass., for Henry and Lee Kendrick.",
+      "Frank A. Smith, III with whom Karen M. Thursby and Herlihy & O\u2019Brien were on brief, Boston, Mass., for City of Brockton.",
+      "Michael Avery, Boston, Mass., with whom Charles J. DiMare and Antonino & DiMare were on brief, Amherst, Mass., for Diane Lewis."
+    ],
+    "corrections": "",
+    "head_matter": "Diane LEWIS, Plaintiff, Appellee, v. Henry KENDRICK and Lee Kendrick, Defendants, Appellants. Diane LEWIS, Plaintiff, Appellee, v. Henry KENDRICK, et al., Defendants, Appellees, City of Brockton, Defendant, Appellant. Diane LEWIS, Plaintiff, Appellant, v. Henry KENDRICK, et al., Defendants, Appellees.\nNos. 90-1480 to 90-1482.\nUnited States Court of Appeals, First Circuit.\nHeard Jan. 9, 1991.\nDecided April 26, 1991.\nOn Rehearing Aug. 1, 1991.\nGerald S. McAuliffe with whom McPar-land & McAuliffe, was on brief, Quincy, Mass., for Henry and Lee Kendrick.\nFrank A. Smith, III with whom Karen M. Thursby and Herlihy & O\u2019Brien were on brief, Boston, Mass., for City of Brockton.\nMichael Avery, Boston, Mass., with whom Charles J. DiMare and Antonino & DiMare were on brief, Amherst, Mass., for Diane Lewis.\nBefore BREYER, Chief Judge, Aldrich, Senior Circuit Judge, and Torruella, Circuit Judge.\nEditors Note: These opinions were originally published at 931 F.2d 154 and 940 F.2d 25."
+  },
+  "file_name": "0949-01",
+  "first_page_order": 1037,
+  "last_page_order": 1047
+}

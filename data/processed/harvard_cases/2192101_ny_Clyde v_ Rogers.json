@@ -1,0 +1,249 @@
+{
+  "id": 2192101,
+  "name": "William P. Clyde, et al., Respondents, v. Amos Rogers, Appellant",
+  "name_abbreviation": "Clyde v. Rogers",
+  "decision_date": "1884-01-29",
+  "docket_number": "",
+  "first_page": "541",
+  "last_page": "544",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "94 N.Y. 541"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "N.Y.",
+    "id": 24653,
+    "name": "New York Court of Appeals"
+  },
+  "jurisdiction": {
+    "id": 1,
+    "name_long": "New York",
+    "name": "N.Y."
+  },
+  "cites_to": [
+    {
+      "cite": "87 N. Y. 625",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        549466,
+        549444,
+        549506
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny/87/0625-01",
+        "/ny/87/0625-02",
+        "/ny/87/0625-03"
+      ]
+    },
+    {
+      "cite": "2 Sandf. 662",
+      "category": "reporters:state",
+      "reporter": "Sandf.",
+      "case_ids": [
+        1360163
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny-super-ct/4/0662-01"
+      ]
+    },
+    {
+      "cite": "6 How. 398",
+      "category": "reporters:scotus_early",
+      "reporter": "How.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "10 Abb. 340",
+      "category": "reporters:federal",
+      "reporter": "Abb.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "6 Duer, 695",
+      "category": "reporters:state",
+      "reporter": "Duer",
+      "case_ids": [
+        1329851
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny-super-ct/13/0695-01"
+      ]
+    },
+    {
+      "cite": "6 Abb. 177",
+      "category": "reporters:federal",
+      "reporter": "Abb.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "54 How. Pr. 374",
+      "category": "reporters:state",
+      "reporter": "How. Pr.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "2 Barb. Ch. 370",
+      "category": "reporters:state",
+      "reporter": "Barb. Ch.",
+      "case_ids": [
+        1995702
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/barb-ch/2/0370-01"
+      ]
+    },
+    {
+      "cite": "28 Hun, 341",
+      "category": "reporters:state",
+      "reporter": "Hun,",
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "454"
+        }
+      ],
+      "opinion_index": -1
+    },
+    {
+      "cite": "12 Abb. 249",
+      "category": "reporters:federal",
+      "reporter": "Abb.",
+      "pin_cites": [
+        {
+          "page": "262"
+        }
+      ],
+      "opinion_index": -1
+    },
+    {
+      "cite": "12 N. Y. Leg. Obs. 129",
+      "category": "reporters:state",
+      "reporter": "N.Y. Leg. Obs.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "6 Abb. 284",
+      "category": "reporters:federal",
+      "reporter": "Abb.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "12 Barb. 680",
+      "category": "reporters:state",
+      "reporter": "Barb.",
+      "case_ids": [
+        1937875
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/barb/12/0680-01"
+      ]
+    },
+    {
+      "cite": "8 How. Pr. 226",
+      "category": "reporters:state",
+      "reporter": "How. Pr.",
+      "case_ids": [
+        2194418
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "352"
+        }
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/how-pr/8/0226-01"
+      ]
+    },
+    {
+      "cite": "10 Pick. 9",
+      "category": "reporters:state",
+      "reporter": "Pick.",
+      "case_ids": [
+        2014343
+      ],
+      "pin_cites": [
+        {
+          "page": "14"
+        }
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/mass/27/0009-01"
+      ]
+    },
+    {
+      "cite": "24 How. 257",
+      "category": "reporters:scotus_early",
+      "reporter": "How.",
+      "case_ids": [
+        3464224
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/us/65/0257-01"
+      ]
+    },
+    {
+      "cite": "14 Abb. 443",
+      "category": "reporters:federal",
+      "reporter": "Abb.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "28 Hun, 566",
+      "category": "reporters:state",
+      "reporter": "Hun,",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 418,
+    "char_count": 6179,
+    "ocr_confidence": 0.533,
+    "pagerank": {
+      "raw": 5.4033266686372354e-08,
+      "percentile": 0.3391234392429829
+    },
+    "sha256": "16515f316ba6689b49f3d1a9a6103a450b4527db4c8a2f1bf0691c5e75856190",
+    "simhash": "1:fed6be11464b7617",
+    "word_count": 1079
+  },
+  "last_updated": "2024-02-27T20:26:35.672822+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "William P. Clyde, et al., Respondents, v. Amos Rogers, Appellant."
+    ],
+    "opinions": [
+      {
+        "text": "Per Curiam.\nThe order appealed from was discretionary, and did not invade any absolute right of the defendant. The plaintiffs had obtained two orders, one setting aside a subpoena duces tecum, the other denying an application of defendant for an inspection and permission to take copies of certain of plaint-tiffs\u2019 books and papers; these orders had been reversed by the General Term, and the defendant left at perfect liberty to have an inspection of the plaintiffs\u2019 books; dissatisfied with that result, the plaintiff moved upon new and additional facts for an order vacating or limiting the General Term order of reversal, but made his application before Judge Pratt at Special Term. The motion was denied upon the ground that the order of the General Term could not be thus vacated or modified by the Special Term, and that the sole remedy was an application to the General Term itself. Thereupon, to enable such application to be made, Judge Pratt granted to the plaintiffs a stay of proceedings unless the defendant should stipulate to take an inspection of the books under the supervision of a referee, in which case a referee should be appointed, and plaintiffs\u2019 motion be denied absolutely. The defendant refused to stipulate, and appealed. Of course his only grievance was the stay; and whether it should or should not have been granted was the sole question which he could raise on his appeal, and involved merely the discretion of the courts below. But the General Term, with all the facts before it, brought there by the appeal, did three things. It affirmed Judge Pratt\u2019s order. Under that order defendant could have had an inspection of the books, provided only that he consented to the supervision of a referee. He lost that right by his voluntary act of refusal. The General Term then, treating the whole case upon the newly stated facts as before the court, vacated its own order granting an inspection, and prohibited the making of any new order for such inspection, and it is from such order that the appeal here pending is taken. It thus becomes apparent that the defendant has been refused no absolute right. Inspection of the books was not denied to him. His exercise of the right was controlled \u25a0 and regulated by being put under the supervision of a referee, so that no foreign and improper purposes should be subserved. He refused to accept the right with that restriction, and as it was proffered, and his sole ground of complaint, therefore, is the exercise by the Special Term of a discretionary power clearly granted by the Code. After he had' refused to accept the terms lawfully imposed, the General Term had a right to renew the lost opportunity, or refuse to do so, and make the refusal effective by denying the inspection entirely, and its discretion in that respect we cannot review.\nThe appeal should be dismissed, with costs.\nAll concur.\nAppeal dismissed.",
+        "type": "majority",
+        "author": "Per Curiam."
+      }
+    ],
+    "attorneys": [
+      "Asa Bird Gardner for appellant.",
+      "E. C. Boardman for respondents."
+    ],
+    "corrections": "",
+    "head_matter": "William P. Clyde, et al., Respondents, v. Amos Rogers, Appellant.\nAfter the granting of a General Term order herein, which in effect gave the defendant liberty to inspect plaintiffs\u2019 books and papers, plaintiffs moved, at a Special Term, on additional facts, for an order vacating or limiting the General Term order; the motion was denied on the ground that plaintiffs\u2019 remedy was by application to the General Term, but a stay of proceedings was granted for the purposes of such an application, unless defendant would stipulate to take an inspection under the supervision of a referee. Defendant refused to stipulate, and appealed. The General Term affirmed the order, and, upon the new facts presented, vacated its former order, and prohibited the making of a new order for an inspection. Held, that an inspection having been granted upon terms which the Special Term could lawfully impose, upon defendant\u2019s refusal to accept those terms it was in the discretion of the General Term to deny the inspection entirely, and the exercise of this discretion was not reviewable here.\n(Argued January 15, 1884 ;\ndecided January 29, 1884.)\nAppeal from order of the General Term of the Supreme Court, in the second judicial department, made May 14, 1883, the substance of which, as well as the material facts, are stated in the opinion.\nAsa Bird Gardner for appellant.\nThe order of the Special Term setting aside the subpoena duces tecum, and relieving the plaintiffs from the obligation thereof, was properly reversed, and should not have been vacated. (Code of Civ. Pro., \u00a7\u00a7 867, 803-809; 2 Wait\u2019s Pr. 551; Amey v. Long, 9 East, 436; In re Stokes, 28 Hun, 566; 2 Wait\u2019s Pr. 533; Law v. Graydon, 14 Abb. 443; Lefferts v. Brampton, 24 How. 257; Holtz v. Schmidt, 2 J. & S. 30, 34; 1 Phillips\u2019 Ev. 3; Bull v. Loreland, 10 Pick. 9, 14; Bonesteel v. Lynde, 8 How. Pr. 226; id. 352; People v. Dyckman, 24 id. 222; Morrison v. Sturgis, 26 id. 174, 179; Lane v. Cole, 12 Barb. 680; Brett v. Buckman, 32 id. 655; Garighe v. Losche, 6 Abb. 284; Jarvis v. Clerk, 12 N. Y. Leg. Obs. 129; Mitchell\u2019s Case, 12 Abb. 249, 262; Cent. Nat. B\u2019k v. Arthur, 2 Sweeney, 200; Met. Nat. B\u2019k v. Hale, 28 Hun, 341; Harrison v. Van Volkenburgh, 5 id. 454; March v. Davison, 9 Paige, 580; Vance v. Andrews, 2 Barb. Ch. 370; Livingston v. Curtis, 54 How. Pr. 374.) The subsequent petition of the defendant to the Special Term for an inspection under \u00a7 805 of the Code, of the documents mentioned in the subpoena duces tecum, after said subpoena had been set aside, was regular and contained all necessary averments, and should have been granted as a-statutory right. (Hunt v. Hewitt, 7 Exch, 236; Jackling v. Edmonds, 3 E. D. Smith, 539; People v. Rector of Trinity Church, 6 Abb. 177; Cassard v. Hinman, 6 Duer, 695; Hoyt v. Am. Ex. B\u2019k, 1 id. 652; Thompson v. Erie R\u2019y, 9 Abb. [N. S.] 212; Pegram v. Carson, 10 Abb. 340; Gelston v. Marshall, 6 How. 398; Stanton v. D. Mut. Ins. Co., 2 Sandf. 662; Tyler v. Drayton, 2 S. & S. 309; Llewellyn v. Badely, 1 Hare, 527; Hughes v. Biddulph, 4 Russ. 190.)\nE. C. Boardman for respondents.\nThe granting or withholding of the order by the General Term rested wholly in its discretion, and the exercise of such discretion is not re viewable here. (Clyde v. Rogers, 87 N. Y. 625.)"
+  },
+  "file_name": "0541-01",
+  "first_page_order": 565,
+  "last_page_order": 568
+}

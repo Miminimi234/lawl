@@ -1,0 +1,66 @@
+{
+  "id": 12146688,
+  "name": "Jones v. Bellamy Creek Correctional Facility Warden",
+  "name_abbreviation": "Jones v. Warden",
+  "decision_date": "2015-11-24",
+  "docket_number": "No. 150946; Court of Appeals No. 323796",
+  "first_page": "923",
+  "last_page": "923",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "498 Mich. 923"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Mich.",
+    "id": 8790,
+    "name": "Michigan Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 49,
+    "name_long": "Michigan",
+    "name": "Mich."
+  },
+  "cites_to": [
+    {
+      "cite": "497 Mich 1030",
+      "category": "reporters:state",
+      "reporter": "Mich.",
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 21,
+    "char_count": 134,
+    "ocr_confidence": 0.742,
+    "sha256": "5e858db73460eb97bf3e033a30e666d1b2a4215bdc7ee049f06fe33d7afef605",
+    "simhash": "1:40d97880750fc489",
+    "word_count": 22
+  },
+  "last_updated": "2024-02-27T16:10:26.420323+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Jones v Bellamy Creek Correctional Facility Warden,"
+    ],
+    "opinions": [
+      {
+        "text": "Leave to appeal denied at 497 Mich 1030.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Jones v Bellamy Creek Correctional Facility Warden,\nNo. 150946; Court of Appeals No. 323796."
+  },
+  "file_name": "0923-03",
+  "first_page_order": 869,
+  "last_page_order": 869
+}

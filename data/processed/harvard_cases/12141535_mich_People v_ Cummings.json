@@ -1,0 +1,59 @@
+{
+  "id": 12141535,
+  "name": "People v. Cummings",
+  "name_abbreviation": "People v. Cummings",
+  "decision_date": "2015-10-15",
+  "docket_number": "No. 150116; Court of Appeals No. 312583",
+  "first_page": "895",
+  "last_page": "896",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "498 Mich. 895"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Mich.",
+    "id": 8790,
+    "name": "Michigan Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 49,
+    "name_long": "Michigan",
+    "name": "Mich."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 114,
+    "char_count": 1088,
+    "ocr_confidence": 0.664,
+    "sha256": "ec4a467e3dfbf7fdc4a141129f8cd9c3d784e4c9197be81cdd2224c4c387e5c1",
+    "simhash": "1:988ee7ad138f77de",
+    "word_count": 179
+  },
+  "last_updated": "2023-07-14T17:53:29.610635+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "People v Cummings,"
+    ],
+    "opinions": [
+      {
+        "text": "Pursuant to MCR 7.305(H)(1), in lieu of granting leave to appeal, we vacate in part the judgment of the Court of Appeals, and we remand this case to the Kent Circuit Court. A sentencing judge may make a sentence imposed for first-degree criminal sexual conduct consecutive to any term of imprisonment imposed for any other criminal offense arising from the same transaction. MCL 750.520b(3). The sentencing judge in this case failed to identify any evidence from which one could conclude that the imposition of consecutive sentences was warranted. On remand, the trial court shall either issue an order that provides a basis for its conclusion that the two criminal offenses arose from the same transaction, or resentence the defendant. In all other respects, leave to appeal is denied, because we are not persuaded that the remaining questions presented should be reviewed by this Court. The motion to file a rebuttal to the prosecution\u2019s answer is granted. We do not retain jurisdiction.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Summary Disposition October 15, 2015:\nPeople v Cummings,\nNo. 150116; Court of Appeals No. 312583."
+  },
+  "file_name": "0895-01",
+  "first_page_order": 841,
+  "last_page_order": 842
+}

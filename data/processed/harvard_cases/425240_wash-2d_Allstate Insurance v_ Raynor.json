@@ -1,0 +1,999 @@
+{
+  "id": 425240,
+  "name": "Allstate Insurance Company, Respondent, v. Martin E. Raynor, Individually, as Personal Representative, and as Guardian ad Litem, et al., Petitioners",
+  "name_abbreviation": "Allstate Insurance v. Raynor",
+  "decision_date": "2001-04-19",
+  "docket_number": "No. 68141-4",
+  "first_page": "469",
+  "last_page": "485",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "143 Wash. 2d 469"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Wash.",
+    "id": 9029,
+    "name": "Washington Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 38,
+    "name_long": "Washington",
+    "name": "Wash."
+  },
+  "cites_to": [
+    {
+      "cite": "74 F.3d 878",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        7634394
+      ],
+      "year": 1996,
+      "pin_cites": [
+        {
+          "page": "881"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/74/0878-01"
+      ]
+    },
+    {
+      "cite": "855 F. Supp. 1152",
+      "category": "reporters:federal",
+      "reporter": "F. Supp.",
+      "case_ids": [
+        3886985
+      ],
+      "year": 1994,
+      "pin_cites": [
+        {
+          "page": "1155"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f-supp/855/1152-01"
+      ]
+    },
+    {
+      "cite": "474 N.W.2d 324",
+      "category": "reporters:state_regional",
+      "reporter": "N.W.2d",
+      "case_ids": [
+        10603351
+      ],
+      "year": 1991,
+      "pin_cites": [
+        {
+          "page": "331"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/nw2d/474/0324-01"
+      ]
+    },
+    {
+      "cite": "828 P.2d 63",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1992,
+      "pin_cites": [
+        {
+          "parenthetical": "citing State Farm Fire & Cas. Co. v. Wicka, 474 N.W.2d 324, 331 (Minn. 1991)"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "65 Wn. App. 307",
+      "category": "reporters:state",
+      "reporter": "Wash. App.",
+      "case_ids": [
+        1736096
+      ],
+      "year": 1992,
+      "pin_cites": [
+        {
+          "page": "315-16",
+          "parenthetical": "citing State Farm Fire & Cas. Co. v. Wicka, 474 N.W.2d 324, 331 (Minn. 1991)"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-app/65/0307-01"
+      ]
+    },
+    {
+      "cite": "947 P.2d 708",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1997,
+      "opinion_index": 0
+    },
+    {
+      "cite": "133 Wn.2d 559",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        331078
+      ],
+      "year": 1997,
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/133/0559-01"
+      ]
+    },
+    {
+      "cite": "909 P.2d 941",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1996,
+      "opinion_index": 0
+    },
+    {
+      "cite": "80 Wn. App. 448",
+      "category": "reporters:state",
+      "reporter": "Wash. App.",
+      "case_ids": [
+        420703
+      ],
+      "year": 1996,
+      "pin_cites": [
+        {
+          "page": "456"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-app/80/0448-01"
+      ]
+    },
+    {
+      "cite": "735 P.2d 64",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1987,
+      "opinion_index": 0
+    },
+    {
+      "cite": "107 Wn.2d 882",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        1192513
+      ],
+      "year": 1987,
+      "pin_cites": [
+        {
+          "page": "892"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/107/0882-01"
+      ]
+    },
+    {
+      "cite": "953 P.2d 462",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1998,
+      "opinion_index": 0
+    },
+    {
+      "cite": "134 Wn.2d 814",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        452315
+      ],
+      "year": 1998,
+      "pin_cites": [
+        {
+          "page": "818-19"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/134/0814-01"
+      ]
+    },
+    {
+      "cite": "917 P.2d 116",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1996,
+      "opinion_index": 0
+    },
+    {
+      "cite": "129 Wn.2d 368",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        904205
+      ],
+      "year": 1996,
+      "pin_cites": [
+        {
+          "page": "374"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/129/0368-01"
+      ]
+    },
+    {
+      "cite": "771 P.2d 701",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1989,
+      "opinion_index": 0
+    },
+    {
+      "cite": "112 Wn.2d 1",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        1175530
+      ],
+      "year": 1989,
+      "pin_cites": [
+        {
+          "page": "11"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/112/0001-01"
+      ]
+    },
+    {
+      "cite": "922 P.2d 1335",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1996,
+      "opinion_index": 0
+    },
+    {
+      "cite": "130 Wn.2d 335",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        72837
+      ],
+      "year": 1996,
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/130/0335-01"
+      ]
+    },
+    {
+      "cite": "589 P.2d 817",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1979,
+      "opinion_index": 0
+    },
+    {
+      "cite": "22 Wn. App. 341",
+      "category": "reporters:state",
+      "reporter": "Wash. App.",
+      "case_ids": [
+        467247
+      ],
+      "year": 1979,
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-app/22/0341-01"
+      ]
+    },
+    {
+      "cite": "763 P.2d 454",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1988,
+      "opinion_index": 0
+    },
+    {
+      "cite": "52 Wn. App. 411",
+      "category": "reporters:state",
+      "reporter": "Wash. App.",
+      "case_ids": [
+        1708646
+      ],
+      "year": 1988,
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-app/52/0411-01"
+      ]
+    },
+    {
+      "cite": "773 P.2d 105",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1989,
+      "pin_cites": [
+        {
+          "parenthetical": "exclusion of liability coverage triggered by sexual assault of two children being baby-sat by three insured boys deprived boys' insured parents of coverage for negligent failure to supervise"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "54 Wn. App. 195",
+      "category": "reporters:state",
+      "reporter": "Wash. App.",
+      "case_ids": [
+        1761843
+      ],
+      "year": 1989,
+      "pin_cites": [
+        {
+          "page": "200-02",
+          "parenthetical": "exclusion of liability coverage triggered by sexual assault of two children being baby-sat by three insured boys deprived boys' insured parents of coverage for negligent failure to supervise"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-app/54/0195-01"
+      ]
+    },
+    {
+      "cite": "725 P.2d 957",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1986,
+      "opinion_index": 0
+    },
+    {
+      "cite": "106 Wn.2d 806",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        1195558
+      ],
+      "year": 1986,
+      "pin_cites": [
+        {
+          "page": "815"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/106/0806-01"
+      ]
+    },
+    {
+      "cite": "656 P.2d 1077",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1983,
+      "pin_cites": [
+        {
+          "parenthetical": "citations omitted"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "98 Wn.2d 533",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        1151230
+      ],
+      "year": 1983,
+      "pin_cites": [
+        {
+          "page": "538",
+          "parenthetical": "citations omitted"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/98/0533-01"
+      ]
+    },
+    {
+      "cite": "96 P.2d 588",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "weight": 2,
+      "year": 1939,
+      "pin_cites": [
+        {
+          "page": "642"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "1 Wn.2d 635",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        1963357
+      ],
+      "year": 1939,
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/1/0635-01"
+      ]
+    },
+    {
+      "cite": "517 P.2d 966",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "weight": 2,
+      "year": 1974,
+      "opinion_index": 0
+    },
+    {
+      "cite": "83 Wn.2d 353",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        1127940
+      ],
+      "year": 1974,
+      "pin_cites": [
+        {
+          "page": "358"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/83/0353-01"
+      ]
+    },
+    {
+      "cite": "784 P.2d 507",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1990,
+      "opinion_index": 0
+    },
+    {
+      "cite": "113 Wn.2d 869",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        1172062
+      ],
+      "year": 1990,
+      "pin_cites": [
+        {
+          "page": "877, 881"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/113/0869-01"
+      ]
+    },
+    {
+      "cite": "883 P.2d 308",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1994,
+      "pin_cites": [
+        {
+          "parenthetical": "quoting Boeing Co. v. Aetna Cas. & Sur. Co., 113 Wn.2d 869, 877, 881, 784 P.2d 507 (1990)"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "125 Wn.2d 164",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        437062
+      ],
+      "year": 1994,
+      "pin_cites": [
+        {
+          "page": "170",
+          "parenthetical": "quoting Boeing Co. v. Aetna Cas. & Sur. Co., 113 Wn.2d 869, 877, 881, 784 P.2d 507 (1990)"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/125/0164-01"
+      ]
+    },
+    {
+      "cite": "932 P.2d 1244",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1997,
+      "pin_cites": [
+        {
+          "parenthetical": "plurality opinion"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "131 Wn.2d 420",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        1547056
+      ],
+      "year": 1997,
+      "pin_cites": [
+        {
+          "page": "423-24",
+          "parenthetical": "plurality opinion"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/131/0420-01"
+      ]
+    },
+    {
+      "cite": "776 P.2d 123",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1989,
+      "pin_cites": [
+        {
+          "parenthetical": "Dore, J., dissenting"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "113 Wn.2d 91",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        1172037
+      ],
+      "year": 1989,
+      "pin_cites": [
+        {
+          "page": "103",
+          "parenthetical": "Dore, J., dissenting"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/113/0091-01"
+      ]
+    },
+    {
+      "cite": "656 P.2d 1030",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1982,
+      "opinion_index": 0
+    },
+    {
+      "cite": "98 Wn.2d 434",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        1151217
+      ],
+      "year": 1982,
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/98/0434-01"
+      ]
+    },
+    {
+      "cite": "850 P.2d 1298",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1993,
+      "pin_cites": [
+        {
+          "parenthetical": "citing Wilson v. Steinbach, 98 Wn.2d 434, 656 P.2d 1030 (1982)"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "121 Wn.2d 243",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        1365844
+      ],
+      "year": 1993,
+      "pin_cites": [
+        {
+          "page": "249",
+          "parenthetical": "citing Wilson v. Steinbach, 98 Wn.2d 434, 656 P.2d 1030 (1982)"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/121/0243-01"
+      ]
+    },
+    {
+      "cite": "980 P.2d 765",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1999,
+      "opinion_index": 0
+    },
+    {
+      "cite": "975 P.2d 517",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1999,
+      "opinion_index": 0
+    },
+    {
+      "cite": "969 P.2d 510",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1999,
+      "opinion_index": 0
+    },
+    {
+      "cite": "93 Wn. App. 484",
+      "category": "reporters:state",
+      "reporter": "Wash. App.",
+      "case_ids": [
+        48761
+      ],
+      "weight": 3,
+      "year": 1999,
+      "pin_cites": [
+        {
+          "page": "492-95, 496-97"
+        },
+        {
+          "page": "499-500"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-app/93/0484-01"
+      ]
+    },
+    {
+      "cite": "794 P.2d 521",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1990,
+      "opinion_index": 1
+    },
+    {
+      "cite": "58 Wn. App. 546",
+      "category": "reporters:state",
+      "reporter": "Wash. App.",
+      "case_ids": [
+        1754354
+      ],
+      "year": 1990,
+      "opinion_index": 1,
+      "case_paths": [
+        "/wash-app/58/0546-01"
+      ]
+    },
+    {
+      "cite": "963 P.2d 843",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1998,
+      "opinion_index": 1
+    },
+    {
+      "cite": "136 Wn.2d 498",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        867971
+      ],
+      "year": 1998,
+      "opinion_index": 1,
+      "case_paths": [
+        "/wash-2d/136/0498-01"
+      ]
+    },
+    {
+      "cite": "902 P.2d 1236",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1995,
+      "opinion_index": 1
+    },
+    {
+      "cite": "127 Wn.2d 490",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        433060
+      ],
+      "year": 1995,
+      "opinion_index": 1,
+      "case_paths": [
+        "/wash-2d/127/0490-01"
+      ]
+    },
+    {
+      "cite": "303 P.2d 659",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1956,
+      "pin_cites": [
+        {
+          "parenthetical": "Rosellini, J., dissenting"
+        }
+      ],
+      "opinion_index": 1
+    },
+    {
+      "cite": "49 Wn.2d 465",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        999484
+      ],
+      "year": 1956,
+      "pin_cites": [
+        {
+          "page": "477",
+          "parenthetical": "Rosellini, J., dissenting"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/wash-2d/49/0465-01"
+      ]
+    },
+    {
+      "cite": "751 P.2d 282",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1988,
+      "opinion_index": 1
+    },
+    {
+      "cite": "110 Wn.2d 99",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        1182882
+      ],
+      "year": 1988,
+      "pin_cites": [
+        {
+          "page": "104"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/wash-2d/110/0099-01"
+      ]
+    },
+    {
+      "cite": "735 P.2d 64",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1987,
+      "opinion_index": 1
+    },
+    {
+      "cite": "107 Wn.2d 882",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        1192513
+      ],
+      "year": 1987,
+      "opinion_index": 1,
+      "case_paths": [
+        "/wash-2d/107/0882-01"
+      ]
+    },
+    {
+      "cite": "922 P.2d 1335",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1996,
+      "pin_cites": [
+        {
+          "parenthetical": "exclusion for criminal acts or situations where person found not guilty by reason of insanity"
+        }
+      ],
+      "opinion_index": 1
+    },
+    {
+      "cite": "130 Wn.2d 335",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        72837
+      ],
+      "year": 1996,
+      "pin_cites": [
+        {
+          "parenthetical": "exclusion for criminal acts or situations where person found not guilty by reason of insanity"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/wash-2d/130/0335-01"
+      ]
+    },
+    {
+      "cite": "96 P.2d 588",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1939,
+      "opinion_index": 1
+    },
+    {
+      "cite": "1 Wn.2d 635",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        1963357
+      ],
+      "year": 1939,
+      "opinion_index": 1,
+      "case_paths": [
+        "/wash-2d/1/0635-01"
+      ]
+    },
+    {
+      "cite": "932 P.2d 1244",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1997,
+      "opinion_index": 1
+    },
+    {
+      "cite": "131 Wn.2d 420",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        1547056
+      ],
+      "year": 1997,
+      "opinion_index": 1,
+      "case_paths": [
+        "/wash-2d/131/0420-01"
+      ]
+    },
+    {
+      "cite": "776 P.2d 123",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1989,
+      "opinion_index": 1
+    },
+    {
+      "cite": "113 Wn.2d 91",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        1172037
+      ],
+      "year": 1989,
+      "pin_cites": [
+        {
+          "page": "96"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/wash-2d/113/0091-01"
+      ]
+    },
+    {
+      "cite": "980 P.2d 765",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1999,
+      "pin_cites": [
+        {
+          "parenthetical": "alterations in original"
+        }
+      ],
+      "opinion_index": 1
+    },
+    {
+      "cite": "975 P.2d 517",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1999,
+      "pin_cites": [
+        {
+          "parenthetical": "alterations in original"
+        }
+      ],
+      "opinion_index": 1
+    },
+    {
+      "cite": "969 P.2d 510",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1999,
+      "pin_cites": [
+        {
+          "parenthetical": "alterations in original"
+        }
+      ],
+      "opinion_index": 1
+    },
+    {
+      "cite": "93 Wn. App. 484",
+      "category": "reporters:state",
+      "reporter": "Wash. App.",
+      "case_ids": [
+        48761
+      ],
+      "year": 1999,
+      "pin_cites": [
+        {
+          "page": "494",
+          "parenthetical": "alterations in original"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/wash-app/93/0484-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 1492,
+    "char_count": 31154,
+    "ocr_confidence": 0.747,
+    "pagerank": {
+      "raw": 1.7234309536109268e-07,
+      "percentile": 0.7042852691411738
+    },
+    "sha256": "8e1ed532149aec477cc76976d52e44806e6676462cecbfb79e54840f282a2d1c",
+    "simhash": "1:94b4dc86c1e5ee33",
+    "word_count": 5140
+  },
+  "last_updated": "2024-02-27T19:32:28.277612+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Allstate Insurance Company, Respondent, v. Martin E. Raynor, Individually, as Personal Representative, and as Guardian ad Litem, et al., Petitioners."
+    ],
+    "opinions": [
+      {
+        "text": "Bridge, J.\nUpset over rabbits and rabbit droppings in the property next to his, 72-year-old Milton King fatally shot his neighbor Candy Johnson and her 12-year-old daughter Cheryl Raynor, then immediately committed suicide. Representatives for Candy\u2019s surviving 11-year-old daughter Kathryn Raynor and for the estates and family of Candy and Cheryl sought wrongful death compensation from, inter alia, Milton\u2019s estate and his widow Margie. As provider of the Kings\u2019 homeowners insurance policy, Allstate Insurance Company brought this separate declaratory judgment action, asking the Cowlitz County Superior Court to rule that it was not liable for the losses under the policy terms. The trial court granted Allstate summary judgment. We affirm based on the policy\u2019s criminal act exclusion and joint obligations clause.\nFACTS\nMilton King\u2019s .22 caliber handgun had been confiscated in November 1990 after an incident for which he was convicted of second degree assault. His attorney later retrieved the gun from the police, and on July 3, 1992, Milton and his wife Margie drove to the attorney\u2019s office, and the attorney gave the firearm to Margie while her husband waited outside.\nDavid and Candy Johnson and Candy\u2019s two daughters were the Kings\u2019 neighbors in Longview that summer. Their ownership of rabbits deeply upset Milton. On several occasions, he called the Longview Planning and Building Department (Department) about the rabbits and their droppings. On Tuesday, July 7, 1992, he went to the Department to complain in person. When he was not waited on in a timely fashion, he proceeded to the mayor\u2019s office. When he was informed that neither the mayor nor the city manager was available to see him, Milton announced he would \u201cjust have to take care of this myself,\u201d and left. Clerk\u2019s Papers (CP) at 715.\nThat Friday, July 10, 1992, at 8:30 a.m., Milton called the Department to see what, if any, action had been taken to address the rabbit situation. He then went down in person to the Longview police station to ask officers to come and stop his neighbors from raising rabbits. He complained that the rabbits had caused him stress, insomnia, and higher blood pressure. Unable to convince the officers to take any action on his behalf, Milton eventually went home.\nLater that same day, Candy, her two daughters, and a friend of the girls began stacking wood near the fence they shared with the Kings. When Milton and Margie began cursing at them, Candy called 911 (i.e., Cowlitz County Communications). Longview Police Officer Casey Tilton responded. After assuring Candy that it was lawful for her to raise rabbits and stack wood on her property, the officer contacted the Kings. Milton insisted Candy was stacking the wood to cover up rabbit droppings as well as simply to harass him. He urged the officer to halt the raising of rabbits. When Officer Tilton declined to intervene, Milton became verbally abusive.\nMargie then called 911, which again dispatched Officer Tilton to the scene. After consulting with his superior, though, he decided not to respond. He notified the dispatcher of his decision, reporting that the Kings, whom he described as \u201celderly, slightly 10-22,\" had no valid reason to be upset. CP at 673. Another officer then contacted Officer Tilton to make sure he was aware of King\u2019s personal background. \u201cOh, sure,\u201d Officer Tilton responded. \u201cHe was acting real strange, 10-22, the whole works.\u201d CP at 719. The other officer commented \u201che\u2019s like that all the time.\u201d Id. Overhearing the calls, Mary Williamson, a Longview Police Department receptionist, then contacted the 911 dispatcher herself to warn that, based on 30 years as Milton\u2019s neighbor and acquaintance, she believed that, absent intervention, he might end up doing something \u201cvery violent.\u201d CP at 674. She urged that police \u201cat least go out and talk to him.\u201d CP at 720. She warned that, given Milton\u2019s state of mind, he \u201cwouldn\u2019t care if the officers killed him.\u201d CP at 674. At 4:19 p.m., the dispatcher called the Kings to tell them the police would not be responding. Margie shouted into the phone, \u201c[T]he cops defend the criminals.\u201d CP at 432.\nMoments later, Milton armed himself with his .22 caliber handgun and a .38 caliber revolver and went out into his backyard, where he stood watching Candy and the children stacking wood. Margie told her husband it was \u201cnot worth it\u201d and was able to persuade him to come back into the house. CP at 48-49. Milton put the guns back into a drawer and lay down. Margie says her elderly husband\u2019s heart was beating so fast at that moment that she feared it was \u201cgoing to pop out of [his] chest.\u201d CP at 675. Margie went into the backyard herself and poked a stick through the fence in an effort to knock over the neighbors\u2019 woodpile and later turned on a water sprinkler, spraying the girls next door and eliciting a pejorative verbal response from them.\nSuddenly, Milton burst from his house and stormed directly onto Candy\u2019s property, firing his .22 caliber handgun. Candy was hit once in the mouth, and her daughter Cheryl twice in the chest. Candy and her other daughter Kathryn ran into the house, and the girls\u2019 friend fled the scene. Candy called 911 and, despite her mouth wound, was able to inform the dispatcher she had been shot. While Candy was still on the phone with the 911 dispatcher, Milton entered her house and shot her twice more in the chest. Severely wounded, Candy sought refuge in the bathroom with her daughter Kathryn, who hid in the bathtub. Candy pressed her back against the door to prevent Milton from entering. Milton then left the house and fatally shot himself in the head with his .38 caliber revolver. Candy and Cheryl died from their gunshot wounds.\nMartin Raynor, appearing individually, as personal representative of his daughter Cheryl\u2019s estate, and as his daughter Kathryn\u2019s guardian ad litem, together with David Johnson, appearing personally and as personal representative of Candy\u2019s estate, filed suit in Clark County Superior Court. They alleged, inter alia, that Milton and Margie King, Officer Tilton, the City of Longview, the County of Cowlitz, and Milton\u2019s defense attorney had all behaved negligently and were legally responsible for the wrongful deaths of Candy and Cheryl.\nAllstate brought this separate declaratory judgment action to establish that the wrongful deaths and personal injuries were not covered under the Kings\u2019 Deluxe Homeowners Policy. The \u201cFamily Liability Protection\u201d section of that policy guarantees that \u201cAllstate will pay all sums arising from an accidental loss which an insured person becomes legally obligated to pay as damages because of bodily injury . . . covered by this part of the policy.\u201d CP at 29 (emphasis omitted). The policy expressly excludes coverage, though, for \u201cany bodily injury or property damage which may reasonably be expected to result from the intentional or criminal acts of an insured person or which are in fact intended by an insured person.\u201d CP at 29 (emphasis omitted). The policy also includes a joint obligations clause:\nThe terms of this policy impose joint obligations on the person named on the declarations page as the Insured and that person\u2019s resident spouse. These persons are defined as you or your. This means that the responsibilities, acts and failures to act of a person defined as you or your will be binding upon another person defined as you or your.\nCP at 10 (emphasis omitted).\nDr. G. Christian Harris, a board-certified psychiatrist and neurologist, reviewed Milton\u2019s history and the circumstances of the shootings and concluded that he was suffering \u201csufficient impairment in mental functions as to seriously compromise his capacity to formulate intent.\u201d CP at 452-53. Dr. Harris believed Milton had a \u201cmajor mental disorder\u201d that impaired \u201c(a) His ability to really see the consequences of his actions, (b) His ability to perceive his environment accurately, and (c) His ability to choose an alternative course of action.\u201d CP at 738-39. In Dr. Harris\u2019 judgment, Milton \u201cwas unable to form the intent to commit these acts and was unable to control his actions when he embarked on his killing spree.\u201d CP at 739. However, Dr. Harris expressed confidence that Milton was not criminally insane under the M\u2019Naghten standard.\nThe court granted Allstate summary judgment as to Milton\u2019s and Margie\u2019s acts, and the Court of Appeals affirmed. Allstate Ins. Co. v. Raynor, 93 Wn. App. 484, 969 P.2d 510, 975 P.2d 517, 980 P.2d 765 (1999).\nANALYSIS\nSummary judgments are reviewed de novo, with all facts and reasonable inferences therefrom viewed in the light most favorable to the nonmoving party. Clements v. Travelers Indem. Co., 121 Wn.2d 243, 249, 850 P.2d 1298 (1993) (citing Wilson v. Steinbach, 98 Wn.2d 434, 656 P.2d 1030 (1982)). A summary judgment motion may be granted when no genuine issue of material fact exists and the moving party is entitled to judgment as a matter of law. CR 56(c). The moving party must prove that no factual dispute exists that might affect a trial\u2019s outcome. Grange Ins. Co. v. Brosseau, 113 Wn.2d 91, 103, 776 P.2d 123 (1989) (Dore, J., dissenting). Interpretation of the terms of an insurance policy is a matter of law. Allstate Ins. Co. v. Peasley, 131 Wn.2d 420, 423-24, 932 P.2d 1244 (1997) (plurality opinion).\nI\nAllstate denies liability under the Kings\u2019 homeowners insurance policy for the losses resulting from the shootings in this case, because the policy, inter alia, expressly excludes coverage for \u201cany bodily injury or property damage which may reasonably be expected to result from the . . . criminal acts of an insured person.\u201d CP at 29 (emphasis changed). \u201cCourts interpret insurance contracts as an average insurance purchaser would understand them and give undefined terms in these contracts their \u2018plain, ordinary, and popular\u2019 meaning.\u201d Kish v. Ins. Co. of N. Am., 125 Wn.2d 164, 170, 883 P.2d 308 (1994) (quoting Boeing Co. v. Aetna Cas. & Sur. Co., 113 Wn.2d 869, 877, 881, 784 P.2d 507 (1990)).\nIn this state, legal technical meanings have never trumped the common perception of the common man. \u201c[T]he proper inquiry is not whether a learned judge or scholar can, with study, comprehend the meaning of an insurance contract\u201d but instead \u201cwhether the insurance policy contract would be meaningful to the [layperson] . . .\u201d. Dairyland Ins. Co. v. Ward, 83 Wn.2d 353, 358, 517 P.2d 966 (1974). \u201cThe language of insurance policies is to be interpreted in accordance with the way it would be understood by the average [person], rather than in a technical sense.\u201d\nBoeing, 113 Wn.2d at 881.\nIn Allstate Insurance Co. v. Peasley, James Peasley discharged a firearm, injuring Ardis Parker, a guest in his house. 131 Wn.2d at 423. Both Peasley and Parker insisted the nonfatal shooting was accidental. Criminal charges were filed against Peasley, though, and he ultimately pleaded guilty to the crime of second degree reckless endangerment in exchange for the prosecutor\u2019s recommendation of a suspended sentence. Id.\nA majority of Justices held that Peasley\u2019s admitted act of recklessly discharging a firearm in a manner that caused a substantial risk of bodily harm or death to another person triggered the \u201ccriminal acts\u201d exclusion in his Allstate insurance policy. A different majority in Peasley held that the controlling standard was the one we set forth in Van Riper v. Constitutional Government League, 1 Wn.2d 635, 96 P.2d 588 (1939). There, we held that a criminal act exclusion does not apply to all acts technically classified as crimes, but only to serious criminal conduct \u201cdone with malicious intent, from evil nature, or with a wrongful disposition to harm or injure other persons or property.\u201d Id. at 642. We apply the Van Riper standard here.\nThe record is unequivocal that Milton was able to perceive the nature and quality of his actions\u2014i.e., pointing a loaded firearm directly at Candy and Cheryl and repeatedly pulling the trigger at close range\u2014and that he was able to understand the wrongfulness of those actions. Thus, whether or not he was suffering diminished mental capacity at the time, Milton clearly engaged in serious criminal conduct done with, at the very least, \u201ca wrongful disposition to harm or injure other persons.\u201d Van Riper, 1 Wn.2d at 642. We hold that the average insurance purchaser would reasonably apply the policy\u2019s criminal act exclusion to Milton\u2019s conduct. Allstate is thus not contractually obligated to afford liability protection for the resulting losses.\nII\nPetitioners argue, however, that the trial court erred in granting summary judgment at least concerning Margie\u2019s liability protection. They claim the record allows a reasonable inference that the losses\u2019 \u201cefficient proximate cause\u201d was not actually Milton\u2019s criminal acts of shooting, but prior, noncriminal negligence on Margie\u2019s part. They maintain that a reasonable fact finder could find that Margie\u2019s conduct set off a domino-like chain reaction of causal links ending in her 72-year-old spouse having a homicidal mental breakdown. The shootings might never have occurred, they contend, had Margie not provoked her neighbors by poking at their woodpile and then spraying them with water, prompting name-calling from them just moments after her excited husband had been dissuaded from carrying out violent action against them with two deadly weapons.\nWe first judicially adopted the so-called \u201cefficient proximate cause rule\u201d in 1983:\nWhere a peril specifically insured against sets other causes in motion which, in an unbroken sequence and connection between the act and final loss, produce the result for which recovery is sought, the insured peril is regarded as the \u201cproximate cause\u201d of the entire loss.\nIt is the efficient or predominant cause which sets into motion the chain of events producing the loss which is regarded as the proximate cause, not necessarily the last act in a chain of events.\nGraham v. Pub. Employees Mut. Ins. Co., 98 Wn.2d 533, 538, 656 P.2d 1077 (1983) (citations omitted). In Villella v. Public Employees Mutual Insurance Co., 106 Wn.2d 806, 815, 725 P.2d 957 (1986), two different events were arguably proximate causes of damage to a house\u2019s foundation: (1) builder negligence in failing to install a proper drainage system (a peril covered under the homeowners insurance policy) and (2) \u201cearth movement\u201d (a peril excluded from coverage). 106 Wn.2d at 809. We held that \u201cwhere an insured risk itself sets into operation a chain of causation in which the last step may have been an excepted risk, the excepted risk will not defeat recovery.\u201d 106 Wn.2d at 815.\nTo counter that argument, Allstate invokes the policy\u2019s joint obligations clause: \u201c[T]he responsibilities, acts and failures to act of a person defined as you or your will be binding upon another person defined as you or your\u201d CP at 10 (emphasis changed). Milton and his \u201cresident spouse\u201d Margie are clearly defined as \u201cyou\u201d and \u201cyour.\u201d CP at 9. Thus, to the extent that liability protection for petitioners\u2019 losses is forfeited under the terms of the policy by Milton\u2019s acts of shooting, Margie also loses liability protection for those same losses, Allstate argues. We agree.\nThe joint obligations clause differs from other types of coverage restrictions, because it does not limit coverage for a particular event, but rather forges the various parties insured by a policy into a joint and inseparable legal entity. Thus, when the conduct of one insured defeats liability protection for a given loss, the policy deprives all other insureds of liability protection for that loss, even if the loss was also proximately caused by one of those parties. See Farmers Ins. Co. v. Hembree, 54 Wn. App. 195, 200-02, 773 P.2d 105 (1989) (exclusion of liability coverage triggered by sexual assault of two children being baby-sat by three insured boys deprived boys\u2019 insured parents of coverage for negligent failure to supervise) (citing Farmers Ins. Co. v. Edie, 52 Wn. App. 411, 763 P.2d 454 (1988); U.S.F.&G. Ins. Co. v. Brannan, 22 Wn. App. 341, 589 P.2d 817 (1979)). Since, as discussed above, the shooting deaths of Candy and Cheryl and related losses were the reasonably expected results of \u201ccriminal acts of an insured person,\u201d such acts forfeited not only Milton\u2019s liability protection under the policy for those losses, but, under the joint obligations clause, Margie\u2019s liability protection for those same losses as well. Thus, the efficient proximate cause rule is unavailing here.\nCONCLUSION\nWe conclude that petitioners\u2019 losses are not covered under the terms of the Kings\u2019 Allstate Deluxe Homeowners Policy. We affirm and remand to the trial court for entry of a judgment consistent with this opinion.\nAlexander, C.J., Smith, Johnson, Madsen, Sanders, and Ireland, JJ., and Guy, J. Pro Tern., concur.\n\u201c10-22\u201d is the Longview Police Department\u2019s code for persons engaged in conduct suggestive of a mental disorder. CP at 673.\nThis call was received at 4:40 p.m., 21 minutes after the Kings were informed the police would not be responding.\nWashington\u2019s criminal insanity standard is codified at RCW 9A.12.010(1):\nAt the time of the commission of the offense, as a result of mental disease or defect, the mind of the actor was affected to such an extent that:\n(a) He was unable to perceive the nature and quality of the act with which he is charged; or\n(b) He was unable to tell right from wrong with reference to the particular act charged.\nIt was formulated more than a century and a half ago by the House of Lords in the M\u2019Naghten\u2019s Case, 10 Clark & Pin. 200, 210, 8 Eng. Rep. 718, 722 (H.L. 1843).\nPetitioners argue that a criminal act exclusion applies only to acts resulting in convictions. They note that the criminal act exclusion in Allstate\u2019s policy in Cary v. Allstate Insurance Co., 130 Wn.2d 335, 922 P.2d 1335 (1996), was far clearer on this point and argue that the exclusion here, by contrast, is fairly susceptible to two different but reasonable interpretations, and is therefore ambiguous. Wash. Pub. Util. Dists.\u2019 Utils. Sys. v. Pub. Util. Dist. No. 1, 112 Wn.2d 1, 11, 771 P.2d 701 (1989). We have held that ambiguities are strictly construed against the insurer as the drafter of the contractual language, a rule that \u201capplies with added force to exclusionary clauses which seek to limit policy coverage,\u201d Findlay v. United Pac. Ins. Co., 129 Wn.2d 368, 374, 917 P.2d 116 (1996), because \u201cexclusions from coverage of insurance are contrary to the fundamental protective purpose of insurance.\u201d Stuart v. Am. States Ins. Co., 134 Wn.2d 814, 818-19, 953 P.2d 462 (1998). Petitioner\u2019s argument, however, lacks merit. No reasonable insurance purchaser would consider a criminal act somehow less criminal simply because a suicide or some other circumstance prevented its prosecution in a court of law.\nSee Peasley, 131 Wn.2d at 429; id. at 437 (Madsen, J., concurring). Four justices signed the Court\u2019s plurality opinion, and Justices Guy and Alexander signed Justice Madsen\u2019s concurrence. This majority also rejected Peasley\u2019s claim that the phrase \u201ccriminal acts\u201d was ambiguous or that it exclusively denotes intentional criminal acts. Id. at 429; id. at 433 (Madsen, J., concurring).\nSee Peasley, 131 Wn.2d at 433 (Madsen, J., concurring) (\u201cHowever, I must disagree with the majority insofar as it suggests that any and all criminal acts are encompassed by the exclusion and insofar as it fails to follow the still sound analysis in [Van Riper].\u201d); id. at 437 (Johnson, J., dissenting) (\u201cI agree with Justice Madsen\u2019s conclusion that our holding in Wan Riper] is applicable in this case.\u201d).\nWilliam Edmund Van Riper died in an automobile accident after running a stop sign and entering an intersection at an excessive speed\u2014acts classified as criminal misdemeanors. Van Riper, 1 Wn.2d at 637-38. Death benefits claimed by his wife and three daughters, who survived the accident, were denied based on the certificate\u2019s exclusion of benefits in cases of \u201c \u2018death due to acts committed in criminal violation of law[.]\u2019 \u201d Id. (emphasis omitted). However, we held:\nTo say that a layman . .. would apply the word \u201ccriminal\u201d to the act of one who, under the circumstances here present, exceeded a speed limit or failed to stop before entering an arterial highway, is either to ignore the common usage of the term or else to imply that practically everyone who has ever driven an automobile is a criminal.\nWe believe that the word \u201ccriminal,\u201d as used in the [death benefit] certificate, was meant to signify an act done with malicious intent, from evil nature, or with a wrongful disposition to harm or injure other persons or property. Certainly, none of these obliquities could be ascribed to Mr. Van Riper, who had in his charge, upon the particular occasion, his wife and daughters.\nVan Riper, 1 Wn.2d at 642.\nMilton\u2019s actions were clearly no less serious or criminal than Peasley's actions. Cf. Peasley, 131 Wn.2d at 428; id. at 436 (Madsen, J., concurring); id. at 438 (Johnson, J., dissenting). Even if Milton was in fact suffering diminished mental capacity at the time of the shooting, we conclude that the lay average insurance purchaser would consider a double homicide committed by a sane person under the circumstances of this case to qualify as a \u201cserious crime.\u201d Even in a technical sense, his actions clearly contained all the elements of several crimes, including second degree manslaughter, defined in RCW 9A.32.070 as \u201ccaus[ing] the death of another person\u201d with \u201ccriminal negligence,\u201d see RCW 9A.08.010(1)(d)\u2014a charge against which evidence of diminished mental capacity we have held to be unavailing as a defense. See State v. Coates, 107 Wn.2d 882, 892, 735 P.2d 64 (1987); State v. Warden, 80 Wn. App. 448, 456, 909 P.2d 941 (1996), aff'd, 133 Wn.2d 559, 947 P.2d 708 (1997).\nWe therefore do not reach the question whether the Court of Appeals correctly interpreted and applied the policy\u2019s \u201caccidental loss\u201d limitation or \u201cintentional acts\u201d exclusion to the facts presented in this record. See Allstate Ins. Co. v. Raynor, 93 Wn. App. at 492-95, 496-97; cf. Pub. Employees Mut. Ins. Co. v. Fitzgerald, 65 Wn. App. 307, 315-16, 828 P.2d 63 (1992) (citing State Farm Fire & Cas. Co. v. Wicka, 474 N.W.2d 324, 331 (Minn. 1991)).\nDetermining which event constitutes the \u201cefficient proximate cause\u201d of a given loss is normally a question of fact for the jury, and \u201cit is only when the facts are undisputed and the inferences therefrom are plain and incapable of reasonable doubt or difference of opinion that it may be a question of law for the court.\u201d Graham, 98 Wn.2d at 539.\nJoint obligations clauses have been deemed valid in other jurisdictions; see, e.g., Castro v. Allstate Ins. Co., 855 F. Supp. 1152, 1155 (S.D. Cal. 1994); Allstate Ins. Co. v. Steele, 74 F.3d 878, 881 (8th Cir. 1996); and the parties here failed to present a compelling reason for us to find that it violates a recognized public policy. Raynor, 93 Wn. App. at 499-500.",
+        "type": "majority",
+        "author": "Bridge, J."
+      },
+      {
+        "text": "Talmadge, J.\n(concurring) \u2014 I concur because the majority arrived at the correct result, but its analytical approach to the coverage for Milton King\u2019s conduct creates a potential for future misinterpretations of the law on accident and criminal conduct. No average purchaser of liability insurance would be confused by the issues in this case. Milton King committed a heinous criminal act and did so volitionally. There is no coverage under the Kings\u2019 homeowners liability insurance policy.\nThe insuring clause of a liability insurance policy is the starting place for any coverage discussion. Allstate Insurance Co. (Allstate) agreed to cover the Kings for accidents:\nLosses We Cover. Allstate will pay all sums arising from an accidental loss which an insured person becomes legally obligated to pay as damages because of bodily injury . . . covered by this part of the policy.\nClerk\u2019s Papers at 340. While the policy did not define \u201caccidental loss,\u201d \u201caccident\u201d has a very specific meaning in Washington\u2019s insurance law. An accident is generally an event unexpected from the standpoint of the insured. See, e.g., Detweiler v. J.C. Penney Cas. Ins. Co., 110 Wn.2d 99, 104, 751 P.2d 282 (1988). In Grange Insurance Co. v. Brosseau, 113 Wn.2d 91, 96, 776 P.2d 123 (1989), we described an accident as an event that is unexpected, independent, and unforeseen. This analysis is an objective one: could any reasonable person reach the conclusion that the harm was the unforeseen result of the insured\u2019s acts? See Detweiler, 110 Wn.2d at 108.\nThis discussion has its roots in the very essence of a liability policy. A policy of liability insurance covers fortuities. As distinct from an indemnity policy that covers all situations within the policy\u2019s terms, a liability policy does not afford coverage in the absence of an accident or an \u201coccurrence.\u201d See Truck Ins. Exch. v. Rohde, 49 Wn.2d 465, 477, 303 P.2d 659 (1956) (Rosellini, J., dissenting).\nTo emphasize the policy provides coverage only for fortuitous events, Allstate\u2019s policy in this case had two express exclusions that must be read in pari materia. The policy excluded coverage for bodily injuries \u201cwhich may reasonably be expected to result from the intentional or criminal acts of an insured person or which are in fact intended by an insured person.\u201d Clerk\u2019s Papers at 340.\nWith respect to the criminal acts exclusion, there is no question but that Milton King committed criminal acts. He killed his neighbor Candy Johnson and her daughter Cheryl Raynor before killing himself. In Allstate Insurance Co. v. Peasley, 131 Wn.2d 420, 932 P.2d 1244 (1997), we upheld the enforceability of such an exclusion in a homeowners liability policy. We noted there that such an exclusion was not limited to intentional crimes. See also Cary v. Allstate Ins. Co., 130 Wn.2d 335, 922 P.2d 1335 (1996) (exclusion for criminal acts or situations where person found not guilty by reason of insanity).\nThe principal problem with the majority\u2019s analysis is its decision to rewrite the express policy language to transform an exclusion for the insured\u2019s \u201ccriminal acts\u201d to one for the insured\u2019s \u201cserious criminal acts,\u201d citing Van Riper v. Constitutional Government League, 1 Wn.2d 635, 96 P.2d 588 (1939). Majority at 477. Apart from the fact the policy language does not so state, the majority injects uncertainty into this area of law. Does the majority mean to say only those crimes described as \u201cserious\u201d or \u201cmost serious\u201d in RCW 9.41.010(12) and RCW 9.94A.030(25) are excluded? Or does the majority intend the courts to decide this issue anew in each case? The majority simply fails to demonstrate that the term \u201ccriminal acts,\u201d as set forth in the Allstate policy, is somehow ambiguous or violative of public policy so that it is not enforceable as written.\nThe plaintiffs contend any criminal acts exclusion is inapplicable because Milton King could not form the necessary intent to commit a crime. As the majority correctly discerns, Milton King was not insane at the time he committed these crimes. To establish insanity, RCW 9A.12.010(1) requires:\n(1) At the time of the commission of the offense, as a result of mental disease or defect, the mind of the actor was affected to such an extent that:\n(a) He was unable to perceive the nature and quality of the act with which he is charged; or\n(b) He was unable to tell right from wrong with reference to the particular act charged.\nEven the plaintiffs expert, Dr. G. Christian Harris, who had never treated or met Milton King, did not testify King was insane:\nRaynor\u2019s expert witness, Dr. G. Christian Harris, indicated that he \u201cwould not go so far as to say that [Milton] didn\u2019t understand the general nature of his acts\u201d and that he saw \u201cnothing in the record to indicate that [Milton] wouldn\u2019t have a basic idea of what was right and what was wrong.\u201d Furthermore, there was no evidence in the record \u201cthat suggested delusional thinking, hallucinatory deficits that would ordinarily be necessary to sustain a feeling that the person was disturbed to the extent that he couldn\u2019t understand the wrongfulness of his actions\u201d or that Milton suffered from \u201ca psychotic illness that would remove him from understanding the nature of his act or its wrongfulness.\u201d\nAllstate Ins. Co. v. Raynor, 93 Wn. App. 484, 494, 969 P.2d 510, 975 P.2d 517, 980 P.2d 765 (1999) (alterations in original).\nAs the majority notes, even if King were able to prove diminished capacity in the criminal setting were he alive and charged with a crime, such a defense might be successful in forestalling his conviction for premeditated murder, but not lesser included offenses of homicide such as manslaughter. See, e.g., State v. Eakins, 127 Wn.2d 490, 902 P.2d 1236 (1995); State v. Ellis, 136 Wn.2d 498, 963 P.2d 843 (1998). Indeed, as we noted explicitly in State v. Coates, 107 Wn.2d 882, 735 P.2d 64 (1987), a condition of diminished capacity is not a valid defense to a crime based on criminal negligence. In this case, King could have been convicted of murder in the second degree, or manslaughter, based on a diminished capacity argument. But in either instance, a crime was committed and the policy\u2019s exclusion for criminal acts applies.\nTurning next to the intentional acts exclusion, the plain import of Allstate\u2019s intentional acts exclusion is that no coverage is available if the injury was the reasonably expected result of the insured\u2019s intentional act or if the insured in fact intended to cause the injury. For either of these aspects of the exclusion, the insured must intend the act which caused the injury. Taking Dr. Harris\u2019 testimony at its most favorable to King, there is no support in his testimony for the view King acted under delusion. He did not believe he was using a toy gun to shoot at cardboard cutouts. He knew he was using a real gun to shoot real bullets at real people. He acted volitionally. As such, King\u2019s acts fell within the policy\u2019s intentional act exclusion. See N.Y. Underwriters Ins. Co. v. Doty, 58 Wn. App. 546, 794 P.2d 521 (1990).\nThe events in this case are tragic, given the loss of three lives over a minor neighborhood dispute. That a man of Milton King\u2019s disposition had a firearm is very difficult to understand; he should never have had the weapon. But whether a homeowners liability insurance policy provides coverage for an insured\u2019s homicidal rage is entirely a different issue. It does not because such conduct is not an accident\u2014the conduct is intentional or criminal, as I expect nearly all average reasonable purchasers of liability insurance would understand.\nJustice Philip Talmadge is serving as a justice pro tempore of the Supreme Court pursuant to Const. art. IV, \u00a7 2(a).",
+        "type": "concurrence",
+        "author": "Talmadge, J."
+      }
+    ],
+    "attorneys": [
+      "Michael R. McKinstry and Keith A. Kemper (of Ellis, Li & McKinstry, P.L.L. C.); and Thomas M. Geisness and Robert A. Clough, for petitioners.",
+      "R. Daniel Lindahl and Douglas F. Foley (of Bullivant Houser Bailey), for respondent."
+    ],
+    "corrections": "",
+    "head_matter": "[No. 68141-4.\nEn Banc.]\nArgued May 31, 2000.\nDecided April 19, 2001.\nAllstate Insurance Company, Respondent, v. Martin E. Raynor, Individually, as Personal Representative, and as Guardian ad Litem, et al., Petitioners.\nMichael R. McKinstry and Keith A. Kemper (of Ellis, Li & McKinstry, P.L.L. C.); and Thomas M. Geisness and Robert A. Clough, for petitioners.\nR. Daniel Lindahl and Douglas F. Foley (of Bullivant Houser Bailey), for respondent."
+  },
+  "file_name": "0469-01",
+  "first_page_order": 543,
+  "last_page_order": 559
+}

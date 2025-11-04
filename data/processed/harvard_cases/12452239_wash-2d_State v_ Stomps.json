@@ -1,0 +1,76 @@
+{
+  "id": 12452239,
+  "name": "State, Respondent, v. Stomps, Petitioner",
+  "name_abbreviation": "State v. Stomps",
+  "decision_date": "2017-02-08",
+  "docket_number": "No. 93657-9",
+  "first_page": "1010",
+  "last_page": "1010",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "187 Wash. 2d 1010"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Wash.",
+    "id": 9029,
+    "name": "Washington Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 38,
+    "name_long": "Washington",
+    "name": "Wash."
+  },
+  "cites_to": [
+    {
+      "cite": "195 Wn. App. 1007",
+      "category": "reporters:state",
+      "reporter": "Wash. App.",
+      "case_ids": [
+        12454288,
+        12454289,
+        12454287
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-app/195/1007-02",
+        "/wash-app/195/1007-03",
+        "/wash-app/195/1007-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 28,
+    "char_count": 189,
+    "ocr_confidence": 0.852,
+    "sha256": "225316871c43d7561a7a4342bb244d4c096ebb7762e9aa1a14eed273416ffadd",
+    "simhash": "1:04594a311d2d5dbc",
+    "word_count": 31
+  },
+  "last_updated": "2024-02-27T20:27:34.476040+00:00",
+  "provenance": {
+    "date_added": "2019-05-21",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "State, Respondent, v. Stomps, Petitioner,"
+    ],
+    "opinions": [
+      {
+        "text": "Petition for review of a decision of the Court of Appeals, No. 47546-4-II, July 19, 2016, 195 Wn. App. 1007. Denied February 8, 2017.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "State, Respondent, v. Stomps, Petitioner,\nNo. 93657-9."
+  },
+  "file_name": "1010-05",
+  "first_page_order": 978,
+  "last_page_order": 978
+}

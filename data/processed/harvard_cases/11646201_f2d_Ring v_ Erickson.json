@@ -1,0 +1,174 @@
+{
+  "id": 11646201,
+  "name": "Jeffrey Lee RING, Appellant, v. Robert A. ERICKSON, Appellee",
+  "name_abbreviation": "Ring v. Erickson",
+  "decision_date": "1992-07-09",
+  "docket_number": "No. 91-2488",
+  "first_page": "818",
+  "last_page": "821",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "983 F.2d 818"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "8th Cir.",
+    "id": 8821,
+    "name": "United States Court of Appeals for the Eighth Circuit"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "28 U.S.C. \u00a7 2254",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "pin_cites": [
+        {
+          "page": "(d)"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "448 U.S. 56",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        1787607
+      ],
+      "weight": 3,
+      "year": 1980,
+      "pin_cites": [
+        {
+          "page": "66"
+        },
+        {
+          "page": "2539"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/448/0056-01"
+      ]
+    },
+    {
+      "cite": "497 U.S. 805",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6219632
+      ],
+      "weight": 15,
+      "year": 1990,
+      "pin_cites": [
+        {
+          "page": "815"
+        },
+        {
+          "page": "3146"
+        },
+        {
+          "page": "816"
+        },
+        {
+          "page": "3147"
+        },
+        {
+          "page": "819"
+        },
+        {
+          "page": "3148"
+        },
+        {
+          "page": "817-19"
+        },
+        {
+          "page": "3148",
+          "parenthetical": "although child's statements were made to a medical doctor, the statements did not fall within 803(4)"
+        },
+        {
+          "page": "825-27"
+        },
+        {
+          "page": "3152"
+        },
+        {
+          "page": "821-23"
+        },
+        {
+          "page": "3150"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/497/0805-01"
+      ]
+    },
+    {
+      "cite": "112 S.Ct. 736",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        6226656
+      ],
+      "weight": 3,
+      "year": 1992,
+      "pin_cites": [
+        {
+          "page": "742-43"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/502/0346-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 538,
+    "char_count": 9798,
+    "ocr_confidence": 0.745,
+    "pagerank": {
+      "raw": 3.8044989702016345e-07,
+      "percentile": 0.8975893961385394
+    },
+    "sha256": "c36956417a3bc7c5ca565293e6ec31d84ebe511d1a64b38530ccd1d2a4a76d9f",
+    "simhash": "1:b172f741fb681cc4",
+    "word_count": 1606
+  },
+  "last_updated": "2024-02-27T16:11:36.444292+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before RICHARD S. ARNOLD, Chief Judge, LAY and HEANEY, Senior Circuit Judges."
+    ],
+    "parties": [
+      "Jeffrey Lee RING, Appellant, v. Robert A. ERICKSON, Appellee."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nThe panel opinion in this case was filed on July 9, 1992. 968 F.2d760. Thereafter, a petition for rehearing with suggestion for rehearing en banc was filed. The suggestion for rehearing en banc was granted, thus vacating the panel opinion and the judgment entered pursuant thereto.\nOn its own motion, the panel files an amended panel opinion, which is attached to this order.\nA separate order will be entered by the Court en banc with respect to the previous order granting the petition for rehearing with suggestion for rehearing en banc.\nIt is so ordered.\nBefore RICHARD S. ARNOLD, Chief Judge, LAY and HEANEY, Senior Circuit Judges.\nRICHARD S. ARNOLD, Chief Judge.\nPetitioner Jeffrey Lee Ring appeals the District Court\u2019s denial of a writ of habeas corpus. Ring was convicted in a Minnesota state court of four counts of criminal sexual conduct in the second degree for sexually abusing two minors \u2014 his niece, M.K., and his daughter, C.R. Ring has already served a 54-month sentence for his conviction regarding M.K., and began serving a 21-month sentence regarding C.R. in January, 1992. Ring challenges the admission of two videotaped interviews of C.R., whom the state court determined to be incompetent to testify at trial, claiming their admission violated his Sixth Amendment right to be confronted with the witnesses against him. The District Court denied the writ, holding that Ring\u2019s constitutional rights were not violated. We reverse.\nI.\nAt issue in this case is the admission of two out-of-court statements made by C.R. in response to questions about the alleged abuse. The first statement was made to Dr. Carolyn Levitt on September 9, 1988, more than a month after the alleged abuse took place. The trial court allowed the prosecution to play the videotape of that interview for the jury over Ring\u2019s hearsay objection, holding that it fit within Rule 803(4) of the Minnesota Rules of Evidence, the hearsay exception for statements made to physicians for purposes of diagnosis or treatment. The second statement challenged by Ring was made in response to questions asked by Luann Heim, a social worker at Sherburne County Social Services. The court admitted this videotaped statement under Minnesota Statutes \u00a7 595.02, Subd. 3, a special hearsay exception for statements made by a child describing a sexual act if the court determines it is reliable, the child either testifies or is unavailable, and there is corroborative evidence of the act. Ring argues that the admission of both of these statements violated his rights under the Confrontation Clause. We agree.\nII.\nThe Confrontation Clause does not bar the use of all out-of-court statements. Additionally, we now know that whether C.R. was unavailable is irrelevant for purposes of the Clause. The Supreme Court recently held in White v. Illinois, \u2014 U.S. -, 112 S.Ct. 736, 116 L.Ed.2d 848 (1992), that unavailability of the declarant is not constitutionally required. What the Constitution does require, however, is that the hearsay statements \u201cbear[ ] adequate \u2018indicia of reliability.\u2019 \u201d Idaho v. Wright, 497 U.S. 805, 815, 110 S.Ct. 3139, 3146, 111 L.Ed.2d 638 (1990). The Wright Court held, citing Ohio v. Roberts, 448 U.S. 56, 66, 100 S.Ct. 2531, 2539, 65 L.Ed.2d 597 (1980), that the reliability requirement can be met in either of two ways: \u201cwhere the hearsay statement \u2018falls within a firmly rooted hearsay exception,\u2019 or where it is supported by \u2018a showing of particularized guarantees of trustworthiness.\u2019 \u201d 497 U.S. at 816, 110 S.Ct. at 3147. \u201c \u2018[Particularized guarantees of trustworthiness\u2019 must be shown from the totality of the circumstances.\u201d Id., 497 U.S. at 819, 110 S.Ct. at 3148. The only circumstances which are relevant, however, are those surrounding the making of the statement, not corroborative evidence of the act. Id.\nThe first statement being challenged by Ring is the videotaped statement made by C.R. to Dr. Carolyn Levitt. The District Court upheld the state trial court\u2019s admission of the hearsay statement under the medical-diagnosis-or-treatment exception, Minn.R.Evid. 803(4), and therefore held its admission did not violate the Confrontation Clause, since it fell within a firmly rooted hearsay exception. Ring first argues that since C.R.\u2019s mother did not take her to the doctor because she was experiencing medical problems or because she needed medical treatment, but only to substantiate a claim of sexual abuse, 803(4) does not apply. See Wright, 497 U.S. at 817-19, 110 S.Ct. at 3148 (although child\u2019s statements were made to a medical doctor, the statements did not fall within 803(4)). We disagree. The trial court implicitly found that the doctor was consulted for purposes of medical treatment. This is a finding of fact which a habeas court may disregard only if one of the conditions specified in 28 U.S.C. \u00a7 2254(d) is met. We cannot say that any of these conditions has been met. Specifically, we cannot say that the record of the state-court proceeding does not fairly support the state trial court\u2019s implicit finding.\nSecondly, C.R.\u2019s mother, not C.R., sought the \u201cmedical treatment,\u201d and there was no evidence suggesting that at the time of the interview C.R. even knew Dr. Levitt was a doctor. C.R. was three years old at the time. The principal reason why 803(4) is a traditional hearsay exception automatically carrying the indicia-of-reliability label is because of the selfish-motive doctrine. This exception is based on the belief that a person seeking medical treatment is unlikely to lie to a doctor she wants to treat her, since it is in her best interest to tell the truth. White, \u2014 U.S. at - - -, 112 S.Ct. at 742-43. This underlying basis of reliability is not present in a case such as this one, where not only did the patient herself not seek the doctor\u2019s help, but there is no evidence that she even knew she was talking to a doctor. C.R.\u2019s statement to Dr. Levitt did not fall within 803(4), a firmly rooted hearsay exception, nor did the trial court suggest that it was supported by \u201cparticularized guarantees of trustworthiness.\u201d Consequently, the statement\u2019s admission was a violation of Ring\u2019s rights under the Confrontation Clause.\nThe second statement challenged by Ring is a videotaped statement made by C.R. in an interview with a social worker, Luann Heim. The trial court admitted the statement under Minnesota Statutes \u00a7 595.02, Subd. 3, which provides:\nAn out-of-court statement made by a child under the age of ten years ... alleging, explaining, denying, or describing any act of sexual contact or penetration performed with or on the child ... by another, not otherwise admissible by statute or rule of evidence, is admissible as substantive evidence if:\n(a) the court or person authorized to receive evidence finds, in a hearing conducted outside of the presence of the jury, that the time, content, and circumstances of the statement and the reliability of the person to whom the statement is made provide sufficient indicia of reliability; and\n(b) the child ... either:\n(i) testifies at the proceedings; or\n(ii) is unavailable as a witness and there is corroborative evidence of the act....\nThe parties agree that the statute is not a firmly rooted hearsay exception. It was enacted in 1984. Thus, C.R.\u2019s statement must be supported by particularized guarantees of trustworthiness. Ring argues that it was not. We agree.\nThe trial court listed many factors that it found supported the reliability of the statement. The court\u2019s reliance on two of those factors \u2014 that Ring had the opportunity to commit the crime and that other evidence corroborated the abuse \u2014 was an error of law. Wright held that these factors are irrelevant to a showing of particularized guarantees of trustworthiness, and a trial court may not rely on them in analyzing the hearsay statement\u2019s reliability under the Confrontation Clause. See Wright, 497 U.S. at 825-27, 110 S.Ct. at 3152.\nWhen the inappropriate factors relied on by the trial court are disregarded, the other factors do not satisfy the adequate-indicia-of-reliability standard. For example, the fact that C.R. used terminology typical of a child her age is not particularly helpful. Wright lists the fact that a child uses terminology not typical of a child of similar age as an indication of trustworthiness, not the opposite. 497 U.S. at 821-23, 110 S.Ct. at 3150. We hold that the statement is not particularly trustworthy and therefore that its admission violated Ring\u2019s rights under the Confrontation Clause.\nAccordingly, we reverse and remand to the District Court with directions to grant the writ unless the State retries petitioner on the charges concerning C.R. within such reasonable time as the District Court may fix.\nIt is so ordered.\n. We do not mean to imply that a doctor-patient relationship cannot be established by a parent. In this case, the fact that the relationship was established by a parent instead of by the child herself is simply one fact relevant to the question whether the child knew it was a physician that she was speaking to.\n. A child who is a competent witness could testify that she knew the person she was talking to was a physician. Here, the trial court ruled that C.R. was not competent to testify, but other witnesses, either the parents or the physician, could testify (if it is in fact the case) that the treating doctor's role was explained to the child and that the child understood it.",
+        "type": "majority",
+        "author": "RICHARD S. ARNOLD, Chief Judge."
+      }
+    ],
+    "attorneys": [
+      "Phyllis J. Kirwin, Fridley, MN, argued, for appellant.",
+      "Thomas C. McNinch, Elk River, MN, argued, for appellee."
+    ],
+    "corrections": "",
+    "head_matter": "Jeffrey Lee RING, Appellant, v. Robert A. ERICKSON, Appellee.\nNo. 91-2488.\nUnited States Court of Appeals, Eighth Circuit.\nSubmitted Feb. 11, 1992.\nDecided July 9, 1992.\nAs Amended Jan. 6, 1993.\nOrder Filed on Amendment of Opinion Jan. 6, 1993.\nPhyllis J. Kirwin, Fridley, MN, argued, for appellant.\nThomas C. McNinch, Elk River, MN, argued, for appellee."
+  },
+  "file_name": "0818-01",
+  "first_page_order": 944,
+  "last_page_order": 947
+}

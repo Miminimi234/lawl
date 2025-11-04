@@ -1,0 +1,648 @@
+{
+  "id": 550739,
+  "name": "James M. Goodwin et al., Respondents, v. George W. Griffis, Appellant",
+  "name_abbreviation": "Goodwin v. Griffis",
+  "decision_date": "1882-04-11",
+  "docket_number": "",
+  "first_page": "629",
+  "last_page": "640",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "88 N.Y. 629"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "N.Y.",
+    "id": 24653,
+    "name": "New York Court of Appeals"
+  },
+  "jurisdiction": {
+    "id": 1,
+    "name_long": "New York",
+    "name": "N.Y."
+  },
+  "cites_to": [
+    {
+      "cite": "57 Barb. 642",
+      "category": "reporters:state",
+      "reporter": "Barb.",
+      "case_ids": [
+        2255160
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/barb/57/0642-01"
+      ]
+    },
+    {
+      "cite": "40 How. 166",
+      "category": "reporters:scotus_early",
+      "reporter": "How.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "29 Barb. 120",
+      "category": "reporters:state",
+      "reporter": "Barb.",
+      "case_ids": [
+        2428582
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/barb/29/0120-01"
+      ]
+    },
+    {
+      "cite": "28 N. Y. 285",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        2036846
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny/28/0285-01"
+      ]
+    },
+    {
+      "cite": "5 How. 346",
+      "category": "reporters:scotus_early",
+      "reporter": "How.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "46 N. Y. 246",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "84 N. Y. 445",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        2180985
+      ],
+      "pin_cites": [
+        {
+          "page": "453"
+        }
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny/84/0445-01"
+      ]
+    },
+    {
+      "cite": "25 Hun, 305",
+      "category": "reporters:state",
+      "reporter": "Hun,",
+      "opinion_index": -1
+    },
+    {
+      "cite": "71 N.Y. 377",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        2168042
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny/71/0377-01"
+      ]
+    },
+    {
+      "cite": "42 N. Y. 191",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "84 N. Y. 452",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "weight": 2,
+      "opinion_index": -1
+    },
+    {
+      "cite": "21 Hun, 354",
+      "category": "reporters:state",
+      "reporter": "Hun,",
+      "weight": 2,
+      "opinion_index": -1
+    },
+    {
+      "cite": "9 N. Y. 208",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        2011942
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "331"
+        }
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny/9/0208-01"
+      ]
+    },
+    {
+      "cite": "1 Cow. 192",
+      "category": "reporters:state",
+      "reporter": "Cow.",
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "309"
+        },
+        {
+          "page": "192"
+        }
+      ],
+      "opinion_index": -1
+    },
+    {
+      "cite": "24 Wend. 381",
+      "category": "reporters:state",
+      "reporter": "Wend.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "44 N. Y. 165",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "15 Johns. 155",
+      "category": "reporters:state",
+      "reporter": "Johns.",
+      "weight": 2,
+      "opinion_index": -1
+    },
+    {
+      "cite": "42 N. Y. 83",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        504991
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny/42/0083-01"
+      ]
+    },
+    {
+      "cite": "31 Barb. 569",
+      "category": "reporters:state",
+      "reporter": "Barb.",
+      "case_ids": [
+        5040544
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/barb/31/0569-01"
+      ]
+    },
+    {
+      "cite": "2 Denio, 211",
+      "category": "reporters:state",
+      "reporter": "Denio",
+      "opinion_index": -1
+    },
+    {
+      "cite": "37 How. 88",
+      "category": "reporters:scotus_early",
+      "reporter": "How.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "66 Barb. 567",
+      "category": "reporters:state",
+      "reporter": "Barb.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "42 N. Y. 550",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "pin_cites": [
+        {
+          "page": "557"
+        }
+      ],
+      "opinion_index": -1
+    },
+    {
+      "cite": "43 Barb. 131",
+      "category": "reporters:state",
+      "reporter": "Barb.",
+      "case_ids": [
+        5124380
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/barb/43/0131-01"
+      ]
+    },
+    {
+      "cite": "4 Bosw, 684",
+      "category": "reporters:state",
+      "reporter": "Bosw.",
+      "case_ids": [
+        1342087
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny-super-ct/17/0684-01"
+      ]
+    },
+    {
+      "cite": "7 Wend. 256",
+      "category": "reporters:state",
+      "reporter": "Wend.",
+      "case_ids": [
+        2009655
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/wend/7/0256-01"
+      ]
+    },
+    {
+      "cite": "9 Cow. 230",
+      "category": "reporters:state",
+      "reporter": "Cow.",
+      "case_ids": [
+        2159669
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/cow/9/0244-01"
+      ]
+    },
+    {
+      "cite": "21 Wend. 72",
+      "category": "reporters:state",
+      "reporter": "Wend.",
+      "case_ids": [
+        2151818
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/wend/21/0072-01"
+      ]
+    },
+    {
+      "cite": "3 Johns. 177",
+      "category": "reporters:state",
+      "reporter": "Johns.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "84 N. Y. 410",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        2181012
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny/84/0410-01"
+      ]
+    },
+    {
+      "cite": "58 How. 218",
+      "category": "reporters:scotus_early",
+      "reporter": "How.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "23 Hun, 179",
+      "category": "reporters:state",
+      "reporter": "Hun,",
+      "opinion_index": -1
+    },
+    {
+      "cite": "46 N. Y. 236",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        2052660
+      ],
+      "weight": 2,
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny/46/0236-01"
+      ]
+    },
+    {
+      "cite": "79 N. Y. 167",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        2171381
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny/79/0167-01"
+      ]
+    },
+    {
+      "cite": "13 Wend. 68",
+      "category": "reporters:state",
+      "reporter": "Wend.",
+      "case_ids": [
+        2015657
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/wend/13/0068-01"
+      ]
+    },
+    {
+      "cite": "28 How. Pr. 225",
+      "category": "reporters:state",
+      "reporter": "How. Pr.",
+      "case_ids": [
+        2222049
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/how-pr/28/0225-01"
+      ]
+    },
+    {
+      "cite": "15 Barb. 333",
+      "category": "reporters:state",
+      "reporter": "Barb.",
+      "case_ids": [
+        4930387
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/barb/15/0333-01"
+      ]
+    },
+    {
+      "cite": "12 How. 208",
+      "category": "reporters:scotus_early",
+      "reporter": "How.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "9 Hun, 418",
+      "category": "reporters:state",
+      "reporter": "Hun,",
+      "opinion_index": -1
+    },
+    {
+      "cite": "53 N. Y. 640",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        512874
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny/53/0640-01"
+      ]
+    },
+    {
+      "cite": "9 Abb. N. C. 1",
+      "category": "reporters:state",
+      "reporter": "Abb. N. Cas.",
+      "case_ids": [
+        624521
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/abbn-cas/9/0001-01"
+      ]
+    },
+    {
+      "cite": "15 Hun, 267",
+      "category": "reporters:state",
+      "reporter": "Hun,",
+      "opinion_index": -1
+    },
+    {
+      "cite": "9 Wend. 338",
+      "category": "reporters:state",
+      "reporter": "Wend.",
+      "case_ids": [
+        2011226
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/wend/9/0338-01"
+      ]
+    },
+    {
+      "cite": "24 N. Y. 607",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        2029396
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny/24/0607-01"
+      ]
+    },
+    {
+      "cite": "28 Barb. 75",
+      "category": "reporters:state",
+      "reporter": "Barb.",
+      "case_ids": [
+        2424259
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/barb/28/0075-01"
+      ]
+    },
+    {
+      "cite": "11 Johns. 433",
+      "category": "reporters:state",
+      "reporter": "Johns.",
+      "case_ids": [
+        2137719
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/johns/11/0433-01"
+      ]
+    },
+    {
+      "cite": "52 N. Y. 590",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        510977
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny/52/0590-01"
+      ]
+    },
+    {
+      "cite": "29 Barb. 120",
+      "category": "reporters:state",
+      "reporter": "Barb.",
+      "case_ids": [
+        2428582
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/barb/29/0120-01"
+      ]
+    },
+    {
+      "cite": "84 N. Y. 452",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "84 N. Y. 410",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        2181012
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny/84/0410-01"
+      ]
+    },
+    {
+      "cite": "46 N. Y. 236",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        2052660
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny/46/0236-01"
+      ]
+    },
+    {
+      "cite": "13 Wend. 68",
+      "category": "reporters:state",
+      "reporter": "Wend.",
+      "case_ids": [
+        2015657
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wend/13/0068-01"
+      ]
+    },
+    {
+      "cite": "15 Barb. 333",
+      "category": "reporters:state",
+      "reporter": "Barb.",
+      "case_ids": [
+        4930387
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/barb/15/0333-01"
+      ]
+    },
+    {
+      "cite": "9 Hun, 418",
+      "category": "reporters:state",
+      "reporter": "Hun,",
+      "opinion_index": 0
+    },
+    {
+      "cite": "53 N. Y. 640",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        512874
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny/53/0640-01"
+      ]
+    },
+    {
+      "cite": "15 Hun, 267",
+      "category": "reporters:state",
+      "reporter": "Hun,",
+      "opinion_index": 0
+    },
+    {
+      "cite": "24 N. Y. 607",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        2029396
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny/24/0607-01"
+      ]
+    },
+    {
+      "cite": "28 Barb. 75",
+      "category": "reporters:state",
+      "reporter": "Barb.",
+      "case_ids": [
+        2424259
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/barb/28/0075-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 1045,
+    "char_count": 26734,
+    "ocr_confidence": 0.485,
+    "pagerank": {
+      "raw": 1.2534631958739573e-06,
+      "percentile": 0.9886441255841557
+    },
+    "sha256": "1551fe8a750a30a779248fb97d0025271d58479bfc7c7a0d8b41a84475426b47",
+    "simhash": "1:acf2caa7e626e1c8",
+    "word_count": 4790
+  },
+  "last_updated": "2024-02-27T18:19:55.831084+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "James M. Goodwin et al., Respondents, v. George W. Griffis, Appellant."
+    ],
+    "opinions": [
+      {
+        "text": "Miller, J.\nThis action is brought against defendant as sheriff of the county of Genesee, for the escape of a prisoner held in custody by virtue of an execution against the body. The county judge of Genesee county made an order releasing and discharging the prisoner from imprisonment under the execution, and he was discharged by the sheriff accordingly. If the discharge of the prisoner was legal and valid the sheriff was fully protected and the action cannot be maintained. The order is assailed on various grounds which will be considered, and the question is whether jurisdiction was conferred which authorized the County Court to grant the discharge. If the court had jurisdiction over the subject-matter, and the person of the judgment debtor and the statutory requirements in regard to an application of this kind were substantially complied with, then the discharge was valid and lawful. It is claimed that the order of discharge is not regular on its face and does not recite the necessary jurisdictional facts in several particulars. It states that the presentation of the petition of the insolvent debtor that he be discharged from imprisonment upon an execution issued in an action in the Supreme Court, in which one Goodwin was plaintiff and Hunger and others defendants, on due proof of the service of the petition, etc.; that the court having heard and determined the proofs and allegations, and being satisfied that the petition and account of the petitioner were correct and that his proceedings were just and fair, made an order requiring an assignment, which having been made, ordered that the petitioner be discharged from imprisonment. The objection that only one plaintiff and one defendant in the execution was named was not, we think, a fatal defect. The statute refers to imprisonment \u201c by virtue of\u201d one or more executions in civil cases. The petition referred to a judgment omitting to name ail the parties. It was not required that a judgment should be named or referred to, and if the proper party was notified no one could be misled by the alleged defect. The debtor was imprisoned under one execution only, and no other, in which Goodwin was a plaintiff, and the application was for a discharge from that imprisonment. The main thing is the imprisonment of the debtor, and so far as the plaintiffs in the execution are concerned the number is not material and except in regard to notice, as to the defendants, it was clearly sufficient to name one and refer to others, as was done. It is a sufficient answer to the objection-also that the proof showed that the application was for a discharge of the debtor from imprisonment upon an execution which lies at the very foundation of the proceedings, and this slight imperfection in the description of the parties in the judgment cannot,, we think, under the circumstances, vitiate the discharge. Other defects are alleged as to the' order, but none of them, we think, are sufficient to authorize the conclusion that it was invalid.\nIt is urged that there was no proof of the service of the-petition, etc., upon the judgment creditors. There was an admission indorsed upon the petition and the accompanying papers as follows: \u201c Personal service of the within petition, and account and notice is hereby admitted, J. M. Goodwin,\u2019 \u2019 which was dated November 1, 1879. Then follows an affidavit of the petitioner\u2019s attorney to the effect that \u201che knows James M. Goodwin, and saw him sign the foregoing admission of service and notice.\u201d The person who signed the admission of service is thus identified as \u201c James M. Goodwin.\u201d Was this person a plaintiff in the judgment upon which the execution was issued % The ajiplication was to be discharged from an execution in favor of this person, and it does not appear that there was any other person of the same name, other than such plaintiff. It is also proved that James M, Goodwin, the creditor with his counsel was present before the county judge at the last examination in the proceedings for a discharge, although he did not appear formally, and that there was at that time no other judgment in favor of James M. Goodwin as sole plaintiff or otherwise. In view of the facts it would he extremely strict and technical to hold that there was no proof that Goodwin upon whom the papers were served was not the judgment creditor properly identified, and that the affidavit should have shown that he was known to be such, or that proof of the signature was required. bTor is there, we think, any ground for claiming that it does not appear that copies of the papers were left with Goodwin. This is to be implied from the admission as well as every thing which was essential to make a complete and perfect service. At any rate the party had authority to waive the right to have the papers personally delivered, and such waiver may be assumed from the admission itself. In considering the question discussed it should not be overlooked that it is not process, but a mere notice which was served. It should also be borne in mind that on the trial it appears to have been taken for granted that the service was made upon James M. Goodwin as a creditor, and no objection was made, or point presented to the effect that it was not. The introduction of the petition and proceedings as evidence was not objected to upon any such ground, and if it had been, the alleged defect could have been supplied. It may also be remarked that not only the order for the discharge as we have seen, but the preceding order upon the petition being presented showed due service of the petition upon James M. Goodwin. Uor do we think that there was any failure of proof of service, because the other plaintiff was not served with the petition and notice. Section 6 of the statute provides, that fourteen days previous notice of the time and place at which the petition shall be presented, shall be personally served by the debtor on the creditors at whose suit he shall be imprisoned, or their personal representatives and assigns, of which due proof is to be furnished. The other plaintiff in the judgment, at the time when the proceeding was instituted, was not only a non-resident of the State, but was outside of its limits and jurisdiction, and it is hardly to be assumed that it was intended by the legislature when one of two plaintiffs lived within the State that the other also should be notified, and any such construction might operate as a denial of the relief which it was the object of the act to furnish when a defendant was ' imprisoned upon an execution. It may also be remarked that there was strong evidence tending to show that Goodwin alone was the judgment creditor, \u201c at whose suit the debtor was imprisoned.\u201d It is the \u201c creditor\u201d and not the plaintiff who is to be notified.\nThere is some evidence tending to establish that Goodwin was in point of fact the sole owner of the judgment, but however that may be, we think that in view of the facts notice to Goodwin was a notice to the \u201c creditor \u201d within the statute, and that it was not necessary to serve upon the other plaintiff. This gave the \u201c creditor \u201d abundant opportunity to protect the plaintiffs in the execution and to prevent an undue advantage 'being taken. The question of service relates to the creditor, and in regard to this the plaintiffs do not occupy the same position as tenants in common where in an action brought by them it is held that one cannot settle without the consent of the other, as is claimed by the respondent\u2019s counsel. (Gock v. Keneda, 29 Barb. 120.) A different rule applies to a mere statutory notice intended to notify a creditor of the debt- or\u2019s application for a discharge from imprisonment by virtue of an execution in a civil case. The statute under which the application for a discharge was instituted contains no reference to the judgment and does not prescribe any particular form in which the application should be presented. It was enough 'that the petition set forth that the cause of imprisonment was by virtue of an execution to confer jurisdiction. The action is against the sheriff as an official, and no intendment is to be indulged not sanctioned by law. Even if the order omits a recital of any necessary fact the sheriff will be protected if he can show alwmde the existence of such fact. (Bullymore v. Cooper, 46 N. Y. 236.) There is a distinction to be made between a case where the creditor seeks payment from the debtor himself and one where the action is against the sheriff for a failure to perforin his duty. (Develin v. Cooper, 84 N. Y. 410.) In the last case cited it is said: \u201c But where there is exhibited to a sheriff an order of discharge such as a county judge is authorized to make, and it shows on its face that it is such an one; as it is an order from a superior in authority, made for the guidance and control of an inferior in authority, the latter may obey it without inquiry for the existence of facts that gave jurisdiediction, and may justify under it without showing that they existed.\u201d Some other objections are urged as to the defects in the petition, schedules and notice which have been duly considered, but none of them are sufficient to authorize the conclusion that the proceedings were invalid.\nThe point urged that the order \u25a0 was void for the reason that it was not made at the place specified in the notice served on Goodwin is not well taken. The order shows upon its face that it was granted at a term of the County Court held at the office of the county judge. The notice of the application was for a term held at the court-house, and it is a fair and legitimate presumption that the office of the judge was at the courthouse, and that the order was made at a regular term of such court.\nIt is also insisted that the judgment in the original action was not one upon which an execution against the person could legally issue. There was no order of arrest made in the action, and the right to issue an execution must therefore depend upon the nature of the cause of action set forth in the complaint. It is there alleged that the plaintiffs and the defendant Kipp had been copartners, and were the owners of certain property, consisting of machinery, fixtures, etc., therein described;' that the copartnership was dissolved, and the copartners became tenants in common of said property. That Kipp and Hunger, the defendants, entered into a copartnership for the manufacture of lumber in North Carolina ; that they entered upon the real estate where the said property then was, and detached therefrom and took and carried away into North'Carolina the machinery, etc., to the sole and only use of the defendants therein, to the entire exclusion of the plaintiffs. There is no averment of an unlawful entry or of any unlawful taking, or of a conversion, or that the act done was done without the authority, knowledge or consent of the plaintiffs. Nor that they took and carried away any larger or greater share of the property than belonged to Kipp, one of the three tenants in common. The property was severable in its nature and each would be entitled to his share, and could lawfully take possession of the same, and it is not averred or shown that more was taken by Kipp than his due proportion. (Tripp v. Riley, 15 Barb. 333.) The relief demanded is only for \u201c the value of the plaintiffs\u2019 interest in the property.\u201d In fact it is that Kipp, the co-tenant in common, account for and pay the value of such interest. The complaint is based upon the theory that the action is brought to recover merely the moneyed value of the plaintiffs\u2019 interest. It contains no words indicating that a wrongful act has been done, does not sound in tort, and evinces an intention to avoid any difficulty growing out of the relationship of the tenants in common. (See Robinson v. Gilfillan, 15 Hun, 267.) If the plaintiffs \"desired to escape any question as to an action in the nature of a tort lying in such a case, or simply wished to recover the value and waive the alleged tort, they had a right to do so, and the complaint as made out would have been exactly what was required for such a cause of action. They had a clear right to waive the tort, ratify the sale, and sue for the value of the property, or to bring an action for an accounting.\nWhen one joint owner of personal property assumes to sell the interest of two other owners they may repudiate the sale, and bring trover or ratify the sale and sue for the money received. (See Small v. Robinson, 9 Hun, 418, and cases cited at 420.)\nThe complaint here may very properly be regarded as framed, having this principle in view, for the purpose of compelling an accounting or payment by the joint partner and his co-defendant of the value of the property. With no words showing that the claim was in tort for a conversion of the property, it is not a rational inference that such was the character of the complaint. If the cause of action as set forth is doubtful or ambiguons every intendment is in favor of construing it as being in the nature of an action ex contractu. (Bowen v. True, 53 N. Y. 640; Elwood v. Gardner, 45 id. 349, 355.) The right of the plaintiffs to \"waive the tort being clear, and there being an entire absence of the accustomed phraseology employed in an action for a wrongful conversion of personal property, and no imputation whatever that the act was wrongfully done in violation of the defendants\u2019 rights, the conclusion is inevitable that the action was intended to be one in the nature of ex contracto and not ex delicto. (Beard v. Yates, 5 Sup. Ct. [T. & C.] 76; Munger v. Hess, 28 Barb. 75; Byxbie v. Wood, 24 N. Y. 607; Wood v. Henry, 40 id. 124; Austin v. Rawdon, 44 id. 63; Neftel v. Lightstone, 77 id. 96.) In view of the fact that the complaint may be regarded as one in the nature of a complaint in an action ex contractu it cannot, we think, be claimed.that the words which were required to convert it into an action ex delicto are a mere legal conclusion. 27or can the answer in the original action be considered in determining the nature of the cause of action alleged, but it must be determined by the complaint. (Welsh v. Darragh, 52 N. Y. 590; Tooker v. Arnoux, 76 id. 397.) It is urged that the defendant cannot avail himself of any such defense. The right of the sheriff to interpose any defense which relieves him from liability is well established, and the sheriff when sued for an escape may set up the defense that the defendant was not subject to arrest upon the execution. (Carpentier v. Willet, 1 Keyes, 516.) In the case cited the defendant, the sheriff, was allowed to go behind the judgment to show that the arrest was unauthorized and void. It was laid down that he cannot do this and inquire whether the proceedings were or were not regular, and in this respect the judgment concludes him as well as the defendant against whom it is rendered. But he may show when sued for an escape that the defendant was not liable to arrest. (See, also, Phelps v. Barton, 13 Wend. 68; Ray v. Hogeboom, 11 Johns. 433.) The distinction to be observed is between an irregular process and one that is void. The former is not open to inquiry while the latter is the subject of proof, and renders the process of no avail, and the arrest without justification. If the action was on a promissory note which the complaint set forth with no allegation of fraud in contracting the debt, would there be any question as to the invalidity of the process when issued against the body, and that it was the subject of inquiry whether it was void?\nProof to that effect is not an attack upon the judgment but an inquiry to ascertain whether process may lawfully be issued against the body. Numerous cases are cited by the respondents\u2019 counsel to sustain the principle that this defense cannot be made available, all of which have been carefully examined, but none of them uphold the doctrine contended for. The utterances of the judges which are relied upon relate to irregularities and errors which are the subject of review on appeal and cannot be questioned collaterally, and not to a case where the process is void and issued without any authority or right whatever, as was said by Folgbr, Oh. J., in Dunford v. Weaver (84 N. Y. 452), \u201c If the process is erroneous it is voidable only and not void, and such defects the sheriff cannot set up.\u201d If the nature of the action is such that the judgment does not authorize an execution to be issued against the body, then it is null and voifl, and null and void process is no process whatever. When this appeared, as it did upon the plaintiffs\u2019 own proof upon the trial of this action, the sheriff was exonerated from liability and was not answerable for the escape of the prisoner. The invalidity of the process is not obviated or waived because the defendant remained for a time in custody, and the fact that the answer does not deny that the execution was duly issued is not such an admission of its regularity as precludes a defense that it was invalid and void.\nIt follows that the court erred in rendering a judgment in favor of the plaintiffs, and as the errors are of a vital character which can not be supplied or obviated rip on another trial, the judgment of the trial court and of the General Term should be reversed and judgment ordered for the defendant, with costs.\nEarl, Danborth and Finch, JJ.,concur; Andrews, Oh. J.,' and Tract, J., concur in result; Rapadlo, J., absent.\nJudgment accordingly.",
+        "type": "majority",
+        "author": "Miller, J."
+      }
+    ],
+    "attorneys": [
+      "M. H. Peek for appellant.",
+      "J. M. Dunning for respondents."
+    ],
+    "corrections": "",
+    "head_matter": "James M. Goodwin et al., Respondents, v. George W. Griffis, Appellant.\nIn an action against a sheriff for an escape of one held in custody under an execution, where that officer justifies under an order of the county judge discharging the prisoner, if it appears that the judge had jurisdiction over the subject-matter and the person of the debtor, and that the statutory requirements in regard to such an application were substantially complied with, the discharge is valid and the defense is established.\nIf the order itself recites the necessary jurisdictional facts it is sufficient; if it omits any essential fact the sheriff may show its existence by proof aliunde.\nIn such an action the sheriff may set up as a defense that the execution under which the judgment debtor was imprisoned was illegally issued, and that the arrest was unauthorized and void.\nIt seems that where the process is erroneous, and so voidable simply and not void, the sheriff cannot set up the defects.\nA petition, on application to discharge from arrest one so held in custody, in describing the judgment upon which the execution was issued, gave the name of but one of two plaintiffs, and but one (the one under arrest) of two defendants. It appeared that the prisoner was held under but the one execution. In an action against the sheriff, who, acting upon an order of discharge granted in the proceedings so instituted, discharged the debtor for an escape ; held, that the omission to name all the parties in the petition was not a fatal defect.\nUpon the petition was indorsed an admission of service signed with the name of &., the plaintiff named therein, with an affidavit of the petitioner\u2019s attorney, to the effect that he knew G. and saw him sign. It appeared that Q. with his counsel was present before the county judge upon the examination in the proceedings, and that the other plaintiff, at the time the proceedings were instituted, was a non-resident and not in the State. There was evidence also that G. was in fact the sole owner of the judgment. Held, that the proof showed a substantial compliance with the statute (2 E. S. 31, \u00a7 3), requiring personal service of the petition upon the creditors, at whose suit the debtor is imprisoned ; that it was not necessary to serve upon the other plaintiff.\nThe notice of application for the discharge stated that it would be made at a term of the County Court to be held at the court-house, the order upon its face showed it to have been granted at a term held at the office of the county judge. Held, it was to be presumed that said office was at the place specified in the notice, i. e., the court-house, and that the order was made at a regular term of said court.\nNo order of arrest was issued in the action upon the judgment wherein the execution was issued under which the debtor was imprisoned. The .complaint therein alleged, in substance, the ownership by plaintiffs and K., one of the defendants, as partners, of certain machinery, etc., the dissolution of the partnership, and the taking of said machinery out of the State by defendants, thus excluding plaintiffs from any use thereof. There was no averment of an unlawful taking, or that any more than K/s share of the property was taken. Plaintiffs asked to recover the value of their interest in the property. Held, that plaintiffs had a right to waive, and the complaint showed an intent to waive, any alleged tort, and the action was one in its nature ex contractu; and that, therefore, a body execution was illegally issued. .\nAlso held, that the invalidity of the process was not waived, because the defendant remained for a time in custody, or by the omission to deny in the answer of the sheriff that execution was duly issued.\n(Argued March 15, 1882;\ndecided April 11, 1882.)\nAppeal from judgment of the General Term of the Supreme Court, in the fourth judicial department, entered upon an order made June 29, 1881, which affirmed a judgment in favor of plaintiffs, entered upon a decision of the court on trial at Special Term.\nThe nature of the action and the material facts are stated in the opinion.\nM. H. Peek for appellant.\nThe court erred in refusing the motion for a nonsuit, as the execution against the person of Hunger was illegal and void. (Code of Civil Procedure, \u00a7\u00a7 1372, 1489.) The judgment in the original action, in favor of the plaintiffs against Hunger and Kipp, was not one upon which an execution against the person could legally issue. (Code of Civil Procedure, \u00a7 1487, subd. 1, \u00a7 549, subd. 2.) The action was clearly ex eontraetu and not ex delieto. (Beard v. Yates, 5 Sup. Ct. [T. & C.] 76; Munger v. Hess, 28 Barb. 75; Bixbie v. Wood, 24 N. Y. 607; Wood v. Henry, 40 id. 124; Austin v. Rawdon, 44 id. 63; Neftel v. Lightstone, 77 id. 96; Farr et al. v. Smith, 9 Wend. 338; Robinson v. Gilfillan, 15 Hun, 267; Sparmann v. Keim, 9 Abb. N. C. 1, and note; Bowen v. True, 53 N. Y. 640; Elwood v. Gardner, 45 id. 349, 355; Welsh v. Darrah, 52 id. 590; Looker v. Arnoux, 76 id. 397; Small v. Robinson, 9 Hun, 418; Ridder v. Whitlock, 12 How. 208; Tripp v. Riley, 15 Barb. 333.) The process being void, the sheriff cannot be made liable to the party issuing it as for an escape. (Carpenter v. Willett, 1 Keyes, 510; 1 Abb. App. Cases, 312; 28 How. Pr. 225; Weight and Mullen, JJ., 1 Keyes; Phelps v. Barton, 13 Wend. 68; Cowing v. Altman, 79 N. Y. 167.) The order of the County Court of Genesee county directing the discharge of the debtor Hunger from imprisonment under and by virtue of the execution furnishes a complete defense to the defendant in this action. (Bullymore v. Cooper, 46 N. Y. 236; Develin v. Cooper, 84 id. 410; People v. Bancker, 15 id. 106.) It was not necessary to refer at all to the judgment recovered in an action wherein Goodwin was plaintiff and Hunger was defendant. (Bullymore v. Cooper, 46 N. Y. 236; Hill & Denio\u2019s Supp. 81; 1 Abb. [N. S.] 48; 10 id. 450.) The only \u201c cause of imprisonment \u201d was the execution against the debtor\u2019s person, by virtue of which he was imprisoned. (Code of Civil Procedure, \u00a7 2203; Matter of Campbell, 23 Hun, 179.) The County Court had jurisdiction to entertain the application at an adjourned term of said court. (58 How. 218; 84 N. Y. 410; 46 id. 236.) The term was regularly held at the office of the county judge, which was pro hac vice the court-house. (Code of Civil Procedure, \u00a7 355.)\nJ. M. Dunning for respondents.\nThe action in which the judgment against Kipp and Hunger was recovered, and upon which the execution was issued against Hunger was an action in tort for the conversion of property. (Wilcox v. Reed, 3 Johns. 177; White v. Osborn, 21 Wend. 72; Hyde v. Stone, 9 Cow. 230; 7 Wend. 256; Murnford v. McKay, 8 id. 442; Renikes v. Orser, 4 Bosw, 684; Dyckman v. Valiante, 43 Barb. 131; affirmed, 42 N. Y. 550, 557; Kellum v. Knechdt, 17 Hnn, 583; Van Doren v. Balty, 11 id. 389; Green v. Edick, 66 Barb. 567; Lobd\u00e9ll v. Newell, 37 How. 88; Channon v. Lusk, 2 Denio, 211; Henedick v. Howard, 31 Barb. 569.) If the words \u201c wrongfully and unlawfully converted \u2019 \u2019 had been inserted in the complaint, they would not have changed the' character of the action. (Conaughty v. Nichols, 42 N. Y. 83; Greentree v. Rosenstock, 61 id. 589.) The sheriff is never allowed to allege error, either in the judgment or the process, as an excuse for an escape. And if he arrests a party, he is bound to keep him until he is discharged by due process of law. (Cable v. Cooper, 15 Johns. 155; Herman v. Breese, 13 id. 528; Bissell v. Kip, 5 id. 99; Bensel v. Lynch, 44 N. Y. 165; Fairchild v. Case, 24 Wend. 381; Jones v. Cook, 1 Cow. 192; Rose v. Luther, 4 id. 309; Bank v. Hallett, 8 id. 192; Hutchinson v. Brand, 9 N. Y. 208; Wesson v. Chamberlain, 3 id. 331; Richtmyer v. Remsen, 38 id. 206; Durnford v. Weaver, 21 Hun, 354; affirmed, 84 N. Y. 452.) The execution in the case at bar was fair and regular' upon its face. (Code of Civil Proc., \u00a7\u00a7 1366,1372; Bennett v. Morehouse, 42 N. Y. 191; B\u2019k of Genesee v. Spencer, 18 id. 153; New Code, \u00a7\u00a7 171, 172; N 7. Guaranty & Indemnity Co. v. Rogers, 71 N.Y. 377; Throop\u2019s notes to \u00a7 1372; The People, ex rel. Utley, v. Seaton, 13 Week. Dig. 240; Gen. Term, 4th dept., 25 Hun, 305; Douglass v. Haberstro, id. 263; Cable v. Cooper, 15 Johns. 155; Durnford v. Weaver, 84 N. Y. 452.) The sheriff, the defendant, is liable in an action brought against him \"for the escape of Hunger, \u201c for the debt, damages or sum of money for which the prisoner was committed.\u201d (New Code, \u00a7\u00a7 158, 1211; Durnford v. Weaver, 21 Hun, 354; affirmed, 84 N. Y. 445, 453.) The alleged discharge of the execution debtor by the order of the Genesee County Court is no defense. [Bullymore v. Cooper, 46 N. Y. 246. There was no proof of the service of the notice, etc., upon the judgment creditors, the prior proceedings in the County Court gave the court no jurisdiction.. (Litchfield v. Burwell, 5 How. 346; 4 Wait\u2019s Pr., \u00a7\u00a7 622, 623; E. S., chap. 5, \u00a7 3 of part 2, title 3; Reed v. French, 28 N. Y. 285; Goch v. Keneder, 29 Barb. 120.) The order was, and is, absolutely void, for the reason that it was not made at the place specified in the notice served on Goodwin. (People v. Brooks, 40 How. 166; Bennett v. Cooper, 57 Barb. 642.)"
+  },
+  "file_name": "0629-01",
+  "first_page_order": 657,
+  "last_page_order": 668
+}

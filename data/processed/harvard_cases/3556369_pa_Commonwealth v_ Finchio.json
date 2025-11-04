@@ -1,0 +1,192 @@
+{
+  "id": 3556369,
+  "name": "COMMONWEALTH of Pennsylvania, Appellant, v. Michael A. FINCHIO, Appellee",
+  "name_abbreviation": "Commonwealth v. Finchio",
+  "decision_date": "2007-07-18",
+  "docket_number": "No. 48 WAP 2005",
+  "first_page": "577",
+  "last_page": "581",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "592 Pa. 577"
+    },
+    {
+      "type": "parallel",
+      "cite": "926 A.2d 968"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "728 A.2d 943",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        607149,
+        11626823
+      ],
+      "year": 1999,
+      "pin_cites": [
+        {
+          "parenthetical": "explaining that a petition for a writ of habeas corpus is the proper vehicle to test the sufficiency of the Commonwealth's evidence pre-trial"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/556/0409-01",
+        "/a2d/728/0943-01"
+      ]
+    },
+    {
+      "cite": "556 Pa. 409",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        607149
+      ],
+      "year": 1999,
+      "pin_cites": [
+        {
+          "parenthetical": "explaining that a petition for a writ of habeas corpus is the proper vehicle to test the sufficiency of the Commonwealth's evidence pre-trial"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/556/0409-01"
+      ]
+    },
+    {
+      "cite": "923 A.2d 1138",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        3556578,
+        8311638
+      ],
+      "weight": 4,
+      "year": 2007,
+      "pin_cites": [
+        {
+          "page": "1147"
+        },
+        {
+          "page": "1152"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/592/0164-01",
+        "/a2d/923/1138-01"
+      ]
+    },
+    {
+      "cite": "592 Pa. 164",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        3556578
+      ],
+      "weight": 4,
+      "year": 2007,
+      "pin_cites": [
+        {
+          "page": "180"
+        },
+        {
+          "page": "188-89"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/592/0164-01"
+      ]
+    },
+    {
+      "cite": "681 A.2d 162",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7859172,
+        465078
+      ],
+      "year": 1996,
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/681/0162-01",
+        "/pa/545/0297-01"
+      ]
+    },
+    {
+      "cite": "545 Pa. 297",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        465078
+      ],
+      "year": 1996,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/545/0297-01"
+      ]
+    },
+    {
+      "cite": "923 A.2d 1138",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        3556578,
+        8311638
+      ],
+      "year": 2007,
+      "opinion_index": 1,
+      "case_paths": [
+        "/pa/592/0164-01",
+        "/a2d/923/1138-01"
+      ]
+    },
+    {
+      "cite": "592 Pa. 164",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        3556578
+      ],
+      "year": 2007,
+      "opinion_index": 1,
+      "case_paths": [
+        "/pa/592/0164-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 430,
+    "char_count": 6903,
+    "ocr_confidence": 0.673,
+    "pagerank": {
+      "raw": 9.155699817612669e-07,
+      "percentile": 0.9795511244091837
+    },
+    "sha256": "72d25e6d5fd98a3371df0bcebbf60f9858391b858bbe23b2c719087f6d6b53a6",
+    "simhash": "1:8e130fc4d7e891e2",
+    "word_count": 1106
+  },
+  "last_updated": "2024-02-27T21:45:49.457734+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "file_name": "0577-01",
+  "first_page_order": 629,
+  "last_page_order": 633
+}

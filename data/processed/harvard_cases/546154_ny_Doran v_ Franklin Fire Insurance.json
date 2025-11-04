@@ -1,0 +1,79 @@
+{
+  "id": 546154,
+  "name": "Thomas Doran, Respondent, v. The Franklin Fire Insurance Company, Appellant",
+  "name_abbreviation": "Doran v. Franklin Fire Insurance",
+  "decision_date": "1881-10-25",
+  "docket_number": "",
+  "first_page": "635",
+  "last_page": "636",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "86 N.Y. 635"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "N.Y.",
+    "id": 24653,
+    "name": "New York Court of Appeals"
+  },
+  "jurisdiction": {
+    "id": 1,
+    "name_long": "New York",
+    "name": "N.Y."
+  },
+  "cites_to": [
+    {
+      "cite": "81 N. Y. 410",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        2175316
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny/81/0410-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 167,
+    "char_count": 2149,
+    "ocr_confidence": 0.516,
+    "pagerank": {
+      "raw": 8.555723430661431e-08,
+      "percentile": 0.48811919150498734
+    },
+    "sha256": "fdea774ca2b76728ac813f68579aaa4833ca504ee7921436a5580aa9b84402a0",
+    "simhash": "1:1f4158c2248ccc16",
+    "word_count": 361
+  },
+  "last_updated": "2024-02-27T20:42:53.385782+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Thomas Doran, Respondent, v. The Franklin Fire Insurance Company, Appellant."
+    ],
+    "opinions": [
+      {
+        "text": "Folger, Ch. J.,\nreads for reversal and new trial.\nAll concur, except Earl, J., not voting.\nJudgment reversed.",
+        "type": "majority",
+        "author": "Folger, Ch. J.,"
+      }
+    ],
+    "attorneys": [
+      "G. A. Clement for appellant.",
+      "Amasa, J. Parker for respondent."
+    ],
+    "corrections": "",
+    "head_matter": "Thomas Doran, Respondent, v. The Franklin Fire Insurance Company, Appellant.\n(Argued March 4, 1881;\ndecided October 25, 1881.)\nThis action was upon a policy of fire insurance.\nThe policy contained a condition avoiding it in case \u201c the assured shall have or shall hereafter make any other insurance on the property * * * without, the consent of the company written hereon.\u201d The policy was issued August 31,1876. On February 5, 1875, a one year\u2019s policy on the property was issued by another company, \u201c loss, if any, payable to the Savings and Building Fund Association, No. 9, as interest may appear.\u201d The said association held two mortgages' on the property, executed by plaintiff, both containing covenants on the part of plaintiff to keep the property insured, and \u201cin case of any failure in the covenant,\u201d authorizing the association to insure. The prior policy was obtained by the secretary of the association, with the knowledge of the plaintiff, who paid the premium. That policy contained a similar condition as to other insurance, with the exception that it was limited to insurance thereafter obtained. Said policy was renewed by the' association without the assent or knowledge of the plaintiff. The court here held, on authority of Titus v. Glens Falls Insurance Company (81 N. Y. 410), that the act of the mortgagee in procuring the renewal could not be so far regarded as the act of plaintiff as to work a breach of the condition.\nThe policy in suit also contained this condition \u201cin case of any other insurance on the property hereby insured, whether valid or not, the assured shall be entitled to recover of this company no greater proportion of the loss sustained than the sum hereby insured bears to the whole amount so insured thereon.\u201d Held that the policy so renewed was other insurance within the meaning of said condition; and that a refusal of the court to rule on the trial that defendant was liable for only a proportionate part of the loss was error.\nG. A. Clement for appellant.\nAmasa, J. Parker for respondent."
+  },
+  "file_name": "0635-01",
+  "first_page_order": 661,
+  "last_page_order": 662
+}

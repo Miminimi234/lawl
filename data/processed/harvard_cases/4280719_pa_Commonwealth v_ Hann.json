@@ -1,0 +1,788 @@
+{
+  "id": 4280719,
+  "name": "COMMONWEALTH of Pennsylvania, Appellant v. Ricky Lynn HANN, Deceased and Paul Weachter (Bail Bondsman), Appellee",
+  "name_abbreviation": "Commonwealth v. Hann",
+  "decision_date": "2013-10-30",
+  "docket_number": "No. 65 MAP 2012",
+  "first_page": "636",
+  "last_page": "663",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "622 Pa. 636"
+    },
+    {
+      "type": "parallel",
+      "cite": "81 A.3d 57"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "279 F.3d 1112",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        9398649
+      ],
+      "pin_cites": [
+        {
+          "page": "1117"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/279/1112-01"
+      ]
+    },
+    {
+      "cite": "426 F.2d 747",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        2247071
+      ],
+      "pin_cites": [
+        {
+          "page": "752"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/426/0747-01"
+      ]
+    },
+    {
+      "cite": "247 S.W.3d 716",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.3d",
+      "case_ids": [
+        8386315
+      ],
+      "year": 2008,
+      "opinion_index": 0,
+      "case_paths": [
+        "/sw3d/247/0716-01"
+      ]
+    },
+    {
+      "cite": "204 W.Va. 547",
+      "category": "reporters:state",
+      "reporter": "W. Va.",
+      "case_ids": [
+        11584808
+      ],
+      "weight": 2,
+      "year": 1999,
+      "opinion_index": 0,
+      "case_paths": [
+        "/w-va/204/0547-01"
+      ]
+    },
+    {
+      "cite": "11 P.3d 211",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "case_ids": [
+        11176788
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/p3d/11/0211-01"
+      ]
+    },
+    {
+      "cite": "169 N.J. 364",
+      "category": "reporters:state",
+      "reporter": "N.J.",
+      "case_ids": [
+        178347
+      ],
+      "weight": 6,
+      "year": 2001,
+      "pin_cites": [
+        {
+          "page": "934"
+        },
+        {
+          "page": "936"
+        },
+        {
+          "page": "936"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/nj/169/0364-01"
+      ]
+    },
+    {
+      "cite": "87 P.3d 572",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "case_ids": [
+        9249159
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "583"
+        },
+        {
+          "page": "582-84"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/p3d/87/0572-01"
+      ]
+    },
+    {
+      "cite": "46 A.3d 709",
+      "category": "reporters:state_regional",
+      "reporter": "A.3d",
+      "case_ids": [
+        4208708,
+        4209412,
+        7313190,
+        4208360,
+        7313166,
+        7313176
+      ],
+      "year": 2012,
+      "pin_cites": [
+        {
+          "page": "712"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/616/0149-02",
+        "/pa/616/0148-01",
+        "/a3d/46/0709-03",
+        "/pa/616/0149-01",
+        "/a3d/46/0709-01",
+        "/a3d/46/0709-02"
+      ]
+    },
+    {
+      "cite": "616 Pa. 149",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        4208360,
+        4208708
+      ],
+      "year": 2012,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/616/0149-01",
+        "/pa/616/0149-02"
+      ]
+    },
+    {
+      "cite": "532 Pa. 227",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1835947
+      ],
+      "weight": 5,
+      "year": 1992,
+      "pin_cites": [
+        {
+          "page": "701"
+        },
+        {
+          "page": "701-02"
+        },
+        {
+          "page": "701-02"
+        },
+        {
+          "page": "703"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/532/0227-01"
+      ]
+    },
+    {
+      "cite": "46 A.3d 786",
+      "category": "reporters:state_regional",
+      "reporter": "A.3d",
+      "case_ids": [
+        7313283
+      ],
+      "weight": 4,
+      "pin_cites": [
+        {
+          "page": "794"
+        },
+        {
+          "page": "794"
+        },
+        {
+          "page": "790"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a3d/46/0786-01"
+      ]
+    },
+    {
+      "cite": "886 A.2d 231",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8894164
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/886/0231-01"
+      ]
+    },
+    {
+      "cite": "296 A.2d 829",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "year": 1972,
+      "pin_cites": [
+        {
+          "page": "835"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "449 Pa. 325",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1945661
+      ],
+      "year": 1972,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/449/0325-01"
+      ]
+    },
+    {
+      "cite": "51 A.3d 178",
+      "category": "reporters:state_regional",
+      "reporter": "A.3d",
+      "case_ids": [
+        7311833,
+        4209435,
+        7311821,
+        4208161
+      ],
+      "year": 2012,
+      "pin_cites": [
+        {
+          "parenthetical": "per curiam"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a3d/51/0178-02",
+        "/pa/616/0540-01",
+        "/a3d/51/0178-01",
+        "/pa/616/0541-01"
+      ]
+    },
+    {
+      "cite": "616 Pa. 541",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        4208161
+      ],
+      "year": 2012,
+      "pin_cites": [
+        {
+          "parenthetical": "per curiam"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/616/0541-01"
+      ]
+    },
+    {
+      "cite": "827 A.2d 462",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        9108926
+      ],
+      "weight": 5,
+      "pin_cites": [
+        {
+          "page": "468"
+        },
+        {
+          "page": "468-69"
+        },
+        {
+          "page": "468"
+        },
+        {
+          "page": "526",
+          "parenthetical": "A"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/827/0462-01"
+      ]
+    },
+    {
+      "cite": "579 F.Supp. 276",
+      "category": "reporters:federal",
+      "reporter": "F. Supp.",
+      "case_ids": [
+        5708611
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "278"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f-supp/579/0276-01"
+      ]
+    },
+    {
+      "cite": "644 A.2d 751",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        943074,
+        7873966
+      ],
+      "year": 1994,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa-super/434/0559-01",
+        "/a2d/644/0751-01"
+      ]
+    },
+    {
+      "cite": "434 Pa.Super. 559",
+      "category": "reporters:state",
+      "reporter": "Pa. Super.",
+      "case_ids": [
+        943074
+      ],
+      "year": 1994,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa-super/434/0559-01"
+      ]
+    },
+    {
+      "cite": "26 A.2d 335",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "year": 1942,
+      "pin_cites": [
+        {
+          "parenthetical": "disbarment proceeding following a criminal conviction is civil in nature"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "344 Pa. 527",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1210935
+      ],
+      "year": 1942,
+      "pin_cites": [
+        {
+          "parenthetical": "disbarment proceeding following a criminal conviction is civil in nature"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/344/0527-01"
+      ]
+    },
+    {
+      "cite": "639 A.2d 1174",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        1843208,
+        7869235
+      ],
+      "year": 1994,
+      "pin_cites": [
+        {
+          "parenthetical": "suspension of driver operating privileges subsequent to conviction for DUI a collateral, civil consequence"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/536/0436-01",
+        "/a2d/639/1174-01"
+      ]
+    },
+    {
+      "cite": "536 Pa. 436",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1843208
+      ],
+      "year": 1994,
+      "pin_cites": [
+        {
+          "parenthetical": "suspension of driver operating privileges subsequent to conviction for DUI a collateral, civil consequence"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/536/0436-01"
+      ]
+    },
+    {
+      "cite": "719 F.Supp. 1510",
+      "category": "reporters:federal",
+      "reporter": "F. Supp.",
+      "case_ids": [
+        572249
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "1516"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f-supp/719/1510-01"
+      ]
+    },
+    {
+      "cite": "78 So. 275",
+      "category": "reporters:state_regional",
+      "reporter": "So.",
+      "weight": 2,
+      "year": 1918,
+      "pin_cites": [
+        {
+          "parenthetical": "\"the bail authority may order the cash or other security forfeited and shall state in writing or on the record the reasons for so doing.\""
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "75 Fla. 342",
+      "category": "reporters:state",
+      "reporter": "Fla.",
+      "case_ids": [
+        1053614
+      ],
+      "year": 1918,
+      "opinion_index": 0,
+      "case_paths": [
+        "/fla/75/0342-01"
+      ]
+    },
+    {
+      "cite": "622 A.2d 1099",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7359437
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/622/1099-01"
+      ]
+    },
+    {
+      "cite": "656 N.W.2d 539",
+      "category": "reporters:state_regional",
+      "reporter": "N.W.2d",
+      "case_ids": [
+        9343601
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/nw2d/656/0539-01"
+      ]
+    },
+    {
+      "cite": "564 F.2d 376",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        893693
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/564/0376-01"
+      ]
+    },
+    {
+      "cite": "657 F.2d 712",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1192144
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/657/0712-01"
+      ]
+    },
+    {
+      "cite": "336 Pa.Super. 377",
+      "category": "reporters:state",
+      "reporter": "Pa. Super.",
+      "case_ids": [
+        622179
+      ],
+      "weight": 2,
+      "year": 1984,
+      "pin_cites": [
+        {
+          "page": "1131"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa-super/336/0377-01"
+      ]
+    },
+    {
+      "cite": "54 F.3d 601",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        7411119
+      ],
+      "pin_cites": [
+        {
+          "page": "604-05"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/54/0601-01"
+      ]
+    },
+    {
+      "cite": "670 F.2d 849",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1156501
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "853"
+        },
+        {
+          "page": "852"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/670/0849-01"
+      ]
+    },
+    {
+      "cite": "305 A.2d 410",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "year": 1973,
+      "pin_cites": [
+        {
+          "page": "411-12",
+          "parenthetical": "per curiam"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "63 N.J. 127",
+      "category": "reporters:state",
+      "reporter": "N.J.",
+      "case_ids": [
+        1321136
+      ],
+      "year": 1973,
+      "pin_cites": [
+        {
+          "parenthetical": "per curiam"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/nj/63/0127-01"
+      ]
+    },
+    {
+      "cite": "594 F.2d 440",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        512861
+      ],
+      "pin_cites": [
+        {
+          "page": "444"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/594/0440-01"
+      ]
+    },
+    {
+      "cite": "588 F.2d 425",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        832202
+      ],
+      "pin_cites": [
+        {
+          "page": "427"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/588/0425-01"
+      ]
+    },
+    {
+      "cite": "484 F.2d 877",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        238406
+      ],
+      "pin_cites": [
+        {
+          "page": "878-79"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/484/0877-01"
+      ]
+    },
+    {
+      "cite": "605 F.2d 739",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1444553
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "741"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/605/0739-01"
+      ]
+    },
+    {
+      "cite": "332 N.J.Super. 436",
+      "category": "reporters:state",
+      "reporter": "N.J. Super.",
+      "case_ids": [
+        1087202
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "1174"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/nj-super/332/0436-01"
+      ]
+    },
+    {
+      "cite": "667 A.2d 770",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7866997
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "774-75"
+        },
+        {
+          "page": "775"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/667/0770-01"
+      ]
+    },
+    {
+      "cite": "601 F.2d 380",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        498677
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/601/0380-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 1673,
+    "char_count": 48058,
+    "ocr_confidence": 0.708,
+    "pagerank": {
+      "raw": 4.469669430856099e-07,
+      "percentile": 0.9220083873615798
+    },
+    "sha256": "f66ad0882fea6ff8cb05a202b6332d385c66072d84aa5c4d5f3fd21bccdf38c7",
+    "simhash": "1:b369e7841548ec08",
+    "word_count": 7711
+  },
+  "last_updated": "2024-02-27T16:59:34.878718+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "file_name": "0636-01",
+  "first_page_order": 680,
+  "last_page_order": 707
+}

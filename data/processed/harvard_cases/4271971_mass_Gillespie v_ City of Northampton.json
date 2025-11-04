@@ -1,0 +1,923 @@
+{
+  "id": 4271971,
+  "name": "Vincent Gillespie & another vs. City of Northampton",
+  "name_abbreviation": "Gillespie v. City of Northampton",
+  "decision_date": "2011-07-14",
+  "docket_number": "",
+  "first_page": "148",
+  "last_page": "162",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "460 Mass. 148"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Mass.",
+    "id": 8825,
+    "name": "Massachusetts Supreme Judicial Court"
+  },
+  "jurisdiction": {
+    "id": 4,
+    "name_long": "Massachusetts",
+    "name": "Mass."
+  },
+  "cites_to": [
+    {
+      "cite": "396 Mass. 740",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "case_ids": [
+        898044
+      ],
+      "year": 1986,
+      "pin_cites": [
+        {
+          "page": "743"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mass/396/0740-01"
+      ]
+    },
+    {
+      "cite": "423 Mass. 1402",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "year": 1996,
+      "opinion_index": 0
+    },
+    {
+      "cite": "429 Mass. 362",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "case_ids": [
+        142783
+      ],
+      "year": 1999,
+      "pin_cites": [
+        {
+          "page": "371"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mass/429/0362-01"
+      ]
+    },
+    {
+      "cite": "365 Mass. 639",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "case_ids": [
+        292006
+      ],
+      "year": 1974,
+      "pin_cites": [
+        {
+          "page": "641"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mass/365/0639-01"
+      ]
+    },
+    {
+      "cite": "Fla. Stat. Ann. \u00a7\u00a7 316.1967",
+      "category": "laws:leg_statute",
+      "reporter": "Fla. Stat. Ann.",
+      "pin_cites": [
+        {
+          "page": "(2)"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "Conn. Gen. Stat. Ann. \u00a7 7",
+      "category": "laws:leg_statute",
+      "reporter": "Conn. Gen. Stat. Ann.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "Cal. Veh. Code \u00a7 40230",
+      "category": "laws:leg_statute",
+      "reporter": "Cal. Code",
+      "year": 2000,
+      "pin_cites": [
+        {
+          "parenthetical": "filing fee of twenty-five dollars for court review of administrative adjudication"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "Cal. Gov't Code \u00a7 70615",
+      "category": "laws:leg_statute",
+      "reporter": "Cal. Code",
+      "year": 2009,
+      "opinion_index": 0
+    },
+    {
+      "cite": "383 Mass. 682",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "case_ids": [
+        813530
+      ],
+      "year": 1981,
+      "pin_cites": [
+        {
+          "page": "687"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mass/383/0682-01"
+      ]
+    },
+    {
+      "cite": "464 U.S. 987",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6477091,
+        6476838,
+        6476787,
+        6476952,
+        6476893
+      ],
+      "year": 1983,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/464/0987-05",
+        "/us/464/0987-02",
+        "/us/464/0987-01",
+        "/us/464/0987-04",
+        "/us/464/0987-03"
+      ]
+    },
+    {
+      "cite": "389 Mass. 436",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "case_ids": [
+        912948
+      ],
+      "year": 1983,
+      "pin_cites": [
+        {
+          "page": "447"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mass/389/0436-01"
+      ]
+    },
+    {
+      "cite": "889 F.2d 13",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        10525072
+      ],
+      "year": 1989,
+      "pin_cites": [
+        {
+          "page": "19",
+          "parenthetical": "in equal protection analysis, \"apples should be compared to apples\""
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/889/0013-01"
+      ]
+    },
+    {
+      "cite": "246 F.3d 1",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        11105695
+      ],
+      "year": 2001,
+      "pin_cites": [
+        {
+          "page": "8"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/246/0001-01"
+      ]
+    },
+    {
+      "cite": "360 Mass. 1",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "case_ids": [
+        317497
+      ],
+      "weight": 2,
+      "year": 1971,
+      "pin_cites": [
+        {
+          "page": "28"
+        },
+        {
+          "page": "17"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mass/360/0001-01"
+      ]
+    },
+    {
+      "cite": "473 U.S. 432",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6200639
+      ],
+      "year": 1985,
+      "pin_cites": [
+        {
+          "page": "440"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/473/0432-01"
+      ]
+    },
+    {
+      "cite": "415 Mass. 218",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "case_ids": [
+        3906208
+      ],
+      "weight": 7,
+      "year": 1993,
+      "pin_cites": [
+        {
+          "page": "226-227",
+          "parenthetical": "Murphy"
+        },
+        {
+          "page": "226"
+        },
+        {
+          "page": "230"
+        },
+        {
+          "page": "226-227"
+        },
+        {
+          "page": "232-233"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mass/415/0218-01"
+      ]
+    },
+    {
+      "cite": "397 U.S. 254",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        12052726
+      ],
+      "weight": 2,
+      "year": 1970,
+      "pin_cites": [
+        {
+          "page": "265, 270-271",
+          "parenthetical": "public assistance payments used by beneficiaries to procure basic life necessities is substantial interest"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/397/0254-01"
+      ]
+    },
+    {
+      "cite": "451 Mass. 399",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "case_ids": [
+        3789772
+      ],
+      "year": 2008,
+      "pin_cites": [
+        {
+          "page": "412"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mass/451/0399-01"
+      ]
+    },
+    {
+      "cite": "459 U.S. 1020",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6470944,
+        6471648,
+        6470880,
+        6471493,
+        6471849,
+        6471563,
+        6471918,
+        6471121,
+        6471283,
+        6472023,
+        6471739,
+        6471390,
+        6471031
+      ],
+      "year": 1982,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/459/1020-02",
+        "/us/459/1020-09",
+        "/us/459/1020-01",
+        "/us/459/1020-07",
+        "/us/459/1020-11",
+        "/us/459/1020-08",
+        "/us/459/1020-12",
+        "/us/459/1020-04",
+        "/us/459/1020-05",
+        "/us/459/1020-13",
+        "/us/459/1020-10",
+        "/us/459/1020-06",
+        "/us/459/1020-03"
+      ]
+    },
+    {
+      "cite": "387 Mass. 105",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "case_ids": [
+        908716
+      ],
+      "weight": 2,
+      "year": 1982,
+      "pin_cites": [
+        {
+          "page": "111"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mass/387/0105-01"
+      ]
+    },
+    {
+      "cite": "380 U.S. 545",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        1524686
+      ],
+      "year": 1965,
+      "pin_cites": [
+        {
+          "page": "552"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/380/0545-01"
+      ]
+    },
+    {
+      "cite": "445 Mass. 55",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "case_ids": [
+        2823445
+      ],
+      "year": 2005,
+      "pin_cites": [
+        {
+          "page": "62"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mass/445/0055-01"
+      ]
+    },
+    {
+      "cite": "424 U.S. 319",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        12026449
+      ],
+      "weight": 5,
+      "year": 1976,
+      "pin_cites": [
+        {
+          "page": "335"
+        },
+        {
+          "page": "335"
+        },
+        {
+          "page": "335"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/424/0319-01"
+      ]
+    },
+    {
+      "cite": "488 F.2d 748",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        213603
+      ],
+      "year": 1973,
+      "pin_cites": [
+        {
+          "page": "751",
+          "parenthetical": "\"we may take it as settled that such a right, federal or state, does not exist\""
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/488/0748-01"
+      ]
+    },
+    {
+      "cite": "413 Mass. 265",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "case_ids": [
+        3902227
+      ],
+      "year": 1992,
+      "opinion_index": 0,
+      "case_paths": [
+        "/mass/413/0265-01"
+      ]
+    },
+    {
+      "cite": "441 Mass. 157",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "case_ids": [
+        411775
+      ],
+      "year": 2004,
+      "pin_cites": [
+        {
+          "page": "164",
+          "parenthetical": "freedom from physical restraint"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mass/441/0157-01"
+      ]
+    },
+    {
+      "cite": "455 Mass. 24",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "case_ids": [
+        3665362
+      ],
+      "weight": 2,
+      "year": 2009,
+      "pin_cites": [
+        {
+          "page": "33",
+          "parenthetical": "right to travel freely"
+        },
+        {
+          "page": "30"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mass/455/0024-01"
+      ]
+    },
+    {
+      "cite": "107 F.3d 227",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        7636808
+      ],
+      "year": 1997,
+      "pin_cites": [
+        {
+          "page": "233",
+          "parenthetical": "\"Requiring [litigants] to make economic decisions about filing lawsuits does not deny access to the courts\""
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/107/-1349-01"
+      ]
+    },
+    {
+      "cite": "523 U.S. 1126",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11557056,
+        11557441,
+        11557475,
+        11557508,
+        11557352,
+        11557320,
+        11557130,
+        11557264,
+        11557010,
+        11556947,
+        11556915,
+        11557176,
+        11557210,
+        11557404
+      ],
+      "year": 1998,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/523/1126-04",
+        "/us/523/1126-12",
+        "/us/523/1126-13",
+        "/us/523/1126-14",
+        "/us/523/1126-10",
+        "/us/523/1126-09",
+        "/us/523/1126-05",
+        "/us/523/1126-08",
+        "/us/523/1126-03",
+        "/us/523/1126-02",
+        "/us/523/1126-01",
+        "/us/523/1126-06",
+        "/us/523/1126-07",
+        "/us/523/1126-11"
+      ]
+    },
+    {
+      "cite": "114 F.3d 17",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        405295
+      ],
+      "weight": 3,
+      "year": 1997,
+      "pin_cites": [
+        {
+          "page": "21"
+        },
+        {
+          "page": "21"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/114/0017-01"
+      ]
+    },
+    {
+      "cite": "422 Mass. 764",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "case_ids": [
+        890336
+      ],
+      "year": 1996,
+      "pin_cites": [
+        {
+          "page": "773",
+          "parenthetical": "statute that requires nonindigent prisoners to pay for court filings does not abridge any fundamental right"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mass/422/0764-01"
+      ]
+    },
+    {
+      "cite": "434 Mass. 718",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "case_ids": [
+        1080002
+      ],
+      "weight": 2,
+      "year": 2001,
+      "pin_cites": [
+        {
+          "page": "723"
+        },
+        {
+          "page": "723",
+          "parenthetical": "\"Where, as here, the statute does not pertain to a suspect class, . . . involves a right, i.e., free access to the courts, that is not fundamental, . . . and is rationally related to achieving its purpose, it passes constitutional muster\" [citations omitted]"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mass/434/0718-01"
+      ]
+    },
+    {
+      "cite": "537 U.S. 1189",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        9374146,
+        9374116,
+        9374245,
+        9374085,
+        9374021,
+        9374216,
+        9374060,
+        9373965,
+        9374190,
+        9374001,
+        9374035,
+        9374168,
+        9373981
+      ],
+      "year": 2003,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/537/1189-09",
+        "/us/537/1189-08",
+        "/us/537/1189-13",
+        "/us/537/1189-07",
+        "/us/537/1189-04",
+        "/us/537/1189-12",
+        "/us/537/1189-06",
+        "/us/537/1189-01",
+        "/us/537/1189-11",
+        "/us/537/1189-03",
+        "/us/537/1189-05",
+        "/us/537/1189-10",
+        "/us/537/1189-02"
+      ]
+    },
+    {
+      "cite": "437 Mass. 649",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "case_ids": [
+        735018
+      ],
+      "weight": 2,
+      "year": 2003,
+      "pin_cites": [
+        {
+          "page": "660-661"
+        },
+        {
+          "page": "656",
+          "parenthetical": "parental rights of care, custody, and control of children"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mass/437/0649-01"
+      ]
+    },
+    {
+      "cite": "414 Mass. 667",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "case_ids": [
+        3903211
+      ],
+      "weight": 2,
+      "year": 1993,
+      "pin_cites": [
+        {
+          "page": "673"
+        },
+        {
+          "page": "674"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mass/414/0667-01"
+      ]
+    },
+    {
+      "cite": "302 U.S. 319",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6140617
+      ],
+      "year": 1937,
+      "pin_cites": [
+        {
+          "page": "325, 326"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/302/0319-01"
+      ]
+    },
+    {
+      "cite": "521 U.S. 702",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        916123
+      ],
+      "year": 1997,
+      "pin_cites": [
+        {
+          "page": "720-721"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/521/0702-01"
+      ]
+    },
+    {
+      "cite": "431 U.S. 494",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        1688
+      ],
+      "year": 1977,
+      "pin_cites": [
+        {
+          "page": "503"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/431/0494-01"
+      ]
+    },
+    {
+      "cite": "440 Mass. 309",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "case_ids": [
+        1346433
+      ],
+      "weight": 5,
+      "year": 2003,
+      "pin_cites": [
+        {
+          "page": "330"
+        },
+        {
+          "page": "353",
+          "parenthetical": "Spina, J., dissenting"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mass/440/0309-01"
+      ]
+    },
+    {
+      "cite": "373 Mass. 645",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "case_ids": [
+        324190
+      ],
+      "weight": 3,
+      "year": 1977,
+      "pin_cites": [
+        {
+          "page": "648-654"
+        },
+        {
+          "page": "648-654"
+        },
+        {
+          "page": "656"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mass/373/0645-01"
+      ]
+    },
+    {
+      "cite": "395 Mass. 76",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "case_ids": [
+        895995
+      ],
+      "year": 1985,
+      "pin_cites": [
+        {
+          "page": "84"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mass/395/0076-01"
+      ]
+    },
+    {
+      "cite": "410 Mass. 568",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "case_ids": [
+        3895679
+      ],
+      "year": 1991,
+      "pin_cites": [
+        {
+          "page": "576"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mass/410/0568-01"
+      ]
+    },
+    {
+      "cite": "416 Mass. 698",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "case_ids": [
+        819095
+      ],
+      "weight": 3,
+      "year": 1993,
+      "pin_cites": [
+        {
+          "page": "702-704"
+        },
+        {
+          "page": "703",
+          "parenthetical": "\"A court is only to inquire into whether the Legislature had the power to enact the statute and not whether the statute is wise or efficient\""
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mass/416/0698-01"
+      ]
+    },
+    {
+      "cite": "441 Mass. 188",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "case_ids": [
+        411807
+      ],
+      "year": 2004,
+      "pin_cites": [
+        {
+          "page": "193"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mass/441/0188-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 1489,
+    "char_count": 37136,
+    "ocr_confidence": 0.9,
+    "pagerank": {
+      "raw": 6.494142846870005e-08,
+      "percentile": 0.3995373861564902
+    },
+    "sha256": "1c84ddc7cda7041808d3c1428b1eede93c7c1f49b3f9c4b8ac73785e93212474",
+    "simhash": "1:1cb743dba08cd699",
+    "word_count": 5941
+  },
+  "last_updated": "2024-02-27T17:56:26.592595+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "file_name": "0148-01",
+  "first_page_order": 174,
+  "last_page_order": 188
+}

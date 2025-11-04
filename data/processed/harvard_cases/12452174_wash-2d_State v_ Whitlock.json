@@ -1,0 +1,76 @@
+{
+  "id": 12452174,
+  "name": "State, Petitioner, v. Whitlock, Respondent; State, Petitioner, v. Johnson, Respondent",
+  "name_abbreviation": "State v. Whitlock",
+  "decision_date": "2017-01-04",
+  "docket_number": "No. 93685-4",
+  "first_page": "1002",
+  "last_page": "1002",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "187 Wash. 2d 1002"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Wash.",
+    "id": 9029,
+    "name": "Washington Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 38,
+    "name_long": "Washington",
+    "name": "Wash."
+  },
+  "cites_to": [
+    {
+      "cite": "195 Wn. App. 745",
+      "category": "reporters:state",
+      "reporter": "Wash. App.",
+      "case_ids": [
+        12454253
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-app/195/0745-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 31,
+    "char_count": 254,
+    "ocr_confidence": 0.847,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.2572153820550928
+    },
+    "sha256": "135542c17f67a7abc0af98635147e4202887024081acedfdb00d9d94c26c5f3c",
+    "simhash": "1:3189bcf3c5081be1",
+    "word_count": 37
+  },
+  "last_updated": "2024-02-27T20:27:34.476040+00:00",
+  "provenance": {
+    "date_added": "2019-05-21",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "State, Petitioner, v. Whitlock, Respondent. State, Petitioner, v. Johnson, Respondent,"
+    ],
+    "opinions": [
+      {
+        "text": "Petition for review of decisions of the Court of Appeals, Nos. 33073-7-III and 33074-5-III, September 1, 2016, 195 Wn. App. 745. Granted January 4, 2017.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "State, Petitioner, v. Whitlock, Respondent. State, Petitioner, v. Johnson, Respondent,\nNo. 93685-4."
+  },
+  "file_name": "1002-01",
+  "first_page_order": 970,
+  "last_page_order": 970
+}

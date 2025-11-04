@@ -1,0 +1,64 @@
+{
+  "id": 557818,
+  "name": "The People of the State of New York, Appellant, v. Austin Persons, Respondent",
+  "name_abbreviation": "People v. Persons",
+  "decision_date": "1885-03-24",
+  "docket_number": "",
+  "first_page": "661",
+  "last_page": "661",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "98 N.Y. 661"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "N.Y.",
+    "id": 24653,
+    "name": "New York Court of Appeals"
+  },
+  "jurisdiction": {
+    "id": 1,
+    "name_long": "New York",
+    "name": "N.Y."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 35,
+    "char_count": 276,
+    "ocr_confidence": 0.585,
+    "sha256": "529a18fb076f87488f1a01755bd4408a87195fd5b0786c9ab494e53e539c6c8b",
+    "simhash": "1:ab612e08b02c4009",
+    "word_count": 43
+  },
+  "last_updated": "2023-07-14T15:28:40.852046+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "All concur."
+    ],
+    "parties": [
+      "The People of the State of New York, Appellant, v. Austin Persons, Respondent."
+    ],
+    "opinions": [
+      {
+        "text": "Agree to dismiss appeal; no opinion.\nAll concur.\nAppeal dismissed.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "O. G. Armstrong, district attorney, for appellant.",
+      "E. W. Gard/ner for respondent."
+    ],
+    "corrections": "",
+    "head_matter": "The People of the State of New York, Appellant, v. Austin Persons, Respondent.\n(Argued March 5, 1885;\ndecided March 24, 1885.)\nO. G. Armstrong, district attorney, for appellant.\nE. W. Gard/ner for respondent."
+  },
+  "file_name": "0661-01",
+  "first_page_order": 685,
+  "last_page_order": 685
+}

@@ -1,0 +1,104 @@
+{
+  "id": 4272385,
+  "name": "In the Matter of James F. Scola",
+  "name_abbreviation": "In re Scola",
+  "decision_date": "2011-07-15",
+  "docket_number": "",
+  "first_page": "1003",
+  "last_page": "1006",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "460 Mass. 1003"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Mass.",
+    "id": 8825,
+    "name": "Massachusetts Supreme Judicial Court"
+  },
+  "jurisdiction": {
+    "id": 4,
+    "name_long": "Massachusetts",
+    "name": "Mass."
+  },
+  "cites_to": [
+    {
+      "cite": "426 Mass. 183",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "case_ids": [
+        369460
+      ],
+      "weight": 2,
+      "year": 1997,
+      "pin_cites": [
+        {
+          "page": "184",
+          "parenthetical": "attorney intentionally commingled funds and used client funds for his own expenses"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mass/426/0183-01"
+      ]
+    },
+    {
+      "cite": "444 Mass. 1013",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "case_ids": [
+        985780
+      ],
+      "year": 2005,
+      "pin_cites": [
+        {
+          "page": "1013"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mass/444/1013-01"
+      ]
+    },
+    {
+      "cite": "448 Mass. 1007",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "case_ids": [
+        3856656
+      ],
+      "year": 2007,
+      "pin_cites": [
+        {
+          "page": "1008"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mass/448/1007-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 615,
+    "char_count": 13202,
+    "ocr_confidence": 0.938,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.14324985742412008
+    },
+    "sha256": "d09b989d05aef9d4be6a75302d16c589cb9bb830a82cdbfa2136d928368da73a",
+    "simhash": "1:de849ebaea5c0d0c",
+    "word_count": 2133
+  },
+  "last_updated": "2024-02-27T17:56:26.592595+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "file_name": "1003-01",
+  "first_page_order": 893,
+  "last_page_order": 896
+}

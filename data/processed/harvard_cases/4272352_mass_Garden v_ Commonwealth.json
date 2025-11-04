@@ -1,0 +1,120 @@
+{
+  "id": 4272352,
+  "name": "Tyrone Garden vs. Commonwealth",
+  "name_abbreviation": "Garden v. Commonwealth",
+  "decision_date": "2011-11-15",
+  "docket_number": "",
+  "first_page": "1018",
+  "last_page": "1019",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "460 Mass. 1018"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Mass.",
+    "id": 8825,
+    "name": "Massachusetts Supreme Judicial Court"
+  },
+  "jurisdiction": {
+    "id": 4,
+    "name_long": "Massachusetts",
+    "name": "Mass."
+  },
+  "cites_to": [
+    {
+      "cite": "437 Mass. 1008",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "case_ids": [
+        734988,
+        734975
+      ],
+      "year": 2002,
+      "pin_cites": [
+        {
+          "page": "1009"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mass/437/1008-02",
+        "/mass/437/1008-01"
+      ]
+    },
+    {
+      "cite": "445 Mass. 1025",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "case_ids": [
+        2822714
+      ],
+      "year": 2006,
+      "pin_cites": [
+        {
+          "page": "1025-1026"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mass/445/1025-01"
+      ]
+    },
+    {
+      "cite": "450 Mass. 1003",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "case_ids": [
+        5875442
+      ],
+      "year": 2007,
+      "opinion_index": 0,
+      "case_paths": [
+        "/mass/450/1003-01"
+      ]
+    },
+    {
+      "cite": "434 Mass. 1301",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "year": 2001,
+      "opinion_index": 0
+    },
+    {
+      "cite": "402 Mass. 589",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "case_ids": [
+        820835
+      ],
+      "weight": 2,
+      "year": 1988,
+      "opinion_index": 0,
+      "case_paths": [
+        "/mass/402/0589-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 283,
+    "char_count": 3919,
+    "ocr_confidence": 0.932,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.1432471545638375
+    },
+    "sha256": "e0970debe8ceae0675648b1a63ab95809a3911b0b07e7cdb5b2f325ff3c30b9f",
+    "simhash": "1:3c3645b1053d0e37",
+    "word_count": 643
+  },
+  "last_updated": "2024-02-27T17:56:26.592595+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "file_name": "1018-02",
+  "first_page_order": 908,
+  "last_page_order": 909
+}

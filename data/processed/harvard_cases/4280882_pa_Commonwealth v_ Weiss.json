@@ -1,0 +1,3028 @@
+{
+  "id": 4280882,
+  "name": "COMMONWEALTH of Pennsylvania, Appellee v. Ronald Lee WEISS, Appellant",
+  "name_abbreviation": "Commonwealth v. Weiss",
+  "decision_date": "2013-10-31",
+  "docket_number": "No. 655 CAP",
+  "first_page": "663",
+  "last_page": "740",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "622 Pa. 663"
+    },
+    {
+      "type": "parallel",
+      "cite": "81 A.3d 767"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "889 A.2d 501",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8993560,
+        2473146,
+        8993616,
+        2471663
+      ],
+      "weight": 3,
+      "year": 2005,
+      "pin_cites": [
+        {
+          "page": "534"
+        },
+        {
+          "page": "547",
+          "parenthetical": "holding that based on trial counsel's PCRA testimony, counsel had a reasonable basis for declining to request a limiting instruction"
+        },
+        {
+          "page": "532",
+          "parenthetical": "\"[i]t is well established that certain out-of-court statements offered to explain the course of police conduct are admissible because they are offered not for the truth of the matters asserted but rather to show the information upon which police acted.\""
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/889/0501-01",
+        "/pa/585/0547-02",
+        "/a2d/889/0501-02",
+        "/pa/585/0547-01"
+      ]
+    },
+    {
+      "cite": "543 Pa. 261",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        461610
+      ],
+      "year": 1996,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/543/0261-01"
+      ]
+    },
+    {
+      "cite": "384 U.S. 333",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        12045236
+      ],
+      "weight": 3,
+      "year": 1966,
+      "pin_cites": [
+        {
+          "page": "351"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/384/0333-01"
+      ]
+    },
+    {
+      "cite": "487 U.S. 81",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        1774920
+      ],
+      "weight": 3,
+      "year": 1988,
+      "pin_cites": [
+        {
+          "page": "85"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/487/0081-01"
+      ]
+    },
+    {
+      "cite": "285 Pa.Super. 475",
+      "category": "reporters:state",
+      "reporter": "Pa. Super.",
+      "case_ids": [
+        159940
+      ],
+      "weight": 2,
+      "year": 1981,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa-super/285/0475-01"
+      ]
+    },
+    {
+      "cite": "635 A.2d 113",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7358528,
+        7358449,
+        1841456,
+        1841465
+      ],
+      "weight": 2,
+      "year": 1993,
+      "pin_cites": [
+        {
+          "page": "115"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/635/0113-02",
+        "/a2d/635/0113-01",
+        "/pa/535/0292-01",
+        "/pa/535/0291-01"
+      ]
+    },
+    {
+      "cite": "535 Pa. 292",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1841456
+      ],
+      "year": 1993,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/535/0292-01"
+      ]
+    },
+    {
+      "cite": "779 A.2d 1195",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        9495846
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/779/1195-01"
+      ]
+    },
+    {
+      "cite": "738 A.2d 435",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        11564986,
+        838563
+      ],
+      "year": 1999,
+      "pin_cites": [
+        {
+          "page": "441",
+          "parenthetical": "holding that to establish prejudice, a petitioner must demonstrate that \"but for the act or omission in question, the outcome of the proceedings would have been different.\""
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/738/0435-01",
+        "/pa/558/0532-01"
+      ]
+    },
+    {
+      "cite": "558 Pa. 532",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        838563
+      ],
+      "year": 1999,
+      "pin_cites": [
+        {
+          "parenthetical": "holding that to establish prejudice, a petitioner must demonstrate that \"but for the act or omission in question, the outcome of the proceedings would have been different.\""
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/558/0532-01"
+      ]
+    },
+    {
+      "cite": "732 A.2d 1167",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        56907,
+        11553069
+      ],
+      "year": 1999,
+      "pin_cites": [
+        {
+          "page": "1181",
+          "parenthetical": "holding that the corrupt source charge is appropriate when the evidence is sufficient to present a jury question about whether a witness could be indicted for the crime for which the accused is charged"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/557/0207-01",
+        "/a2d/732/1167-01"
+      ]
+    },
+    {
+      "cite": "557 Pa. 207",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        56907
+      ],
+      "year": 1999,
+      "pin_cites": [
+        {
+          "parenthetical": "holding that the corrupt source charge is appropriate when the evidence is sufficient to present a jury question about whether a witness could be indicted for the crime for which the accused is charged"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/557/0207-01"
+      ]
+    },
+    {
+      "cite": "639 A.2d 9",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7858443,
+        1843135
+      ],
+      "year": 1994,
+      "pin_cites": [
+        {
+          "page": "13",
+          "parenthetical": "\"It is well established that in any case where an accomplice implicates the defendant, the judge should tell the jury that the accomplice is a corrupt and polluted source whose testimony should be viewed with great caution.\""
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/639/0009-01",
+        "/pa/536/0244-01"
+      ]
+    },
+    {
+      "cite": "536 Pa. 244",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1843135
+      ],
+      "year": 1994,
+      "pin_cites": [
+        {
+          "parenthetical": "\"It is well established that in any case where an accomplice implicates the defendant, the judge should tell the jury that the accomplice is a corrupt and polluted source whose testimony should be viewed with great caution.\""
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/536/0244-01"
+      ]
+    },
+    {
+      "cite": "720 A.2d 456",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        356211,
+        11800839
+      ],
+      "year": 1998,
+      "pin_cites": [
+        {
+          "page": "470",
+          "parenthetical": "same"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/553/0614-01",
+        "/a2d/720/0456-01"
+      ]
+    },
+    {
+      "cite": "553 Pa. 614",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        356211
+      ],
+      "year": 1998,
+      "pin_cites": [
+        {
+          "parenthetical": "same"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/553/0614-01"
+      ]
+    },
+    {
+      "cite": "30 A.3d 1111",
+      "category": "reporters:state_regional",
+      "reporter": "A.3d",
+      "case_ids": [
+        7282600,
+        4204257,
+        4205332,
+        7282701
+      ],
+      "weight": 2,
+      "year": 2011,
+      "pin_cites": [
+        {
+          "page": "1143"
+        },
+        {
+          "page": "1143"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a3d/30/1111-01",
+        "/pa/612/0333-02",
+        "/pa/612/0333-01",
+        "/a3d/30/1111-02"
+      ]
+    },
+    {
+      "cite": "612 Pa. 333",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        4204257,
+        4205332
+      ],
+      "year": 2011,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/612/0333-02",
+        "/pa/612/0333-01"
+      ]
+    },
+    {
+      "cite": "367 Pa.Super. 484",
+      "category": "reporters:state",
+      "reporter": "Pa. Super.",
+      "case_ids": [
+        682709
+      ],
+      "weight": 2,
+      "year": 1987,
+      "pin_cites": [
+        {
+          "parenthetical": "holding that psychiatric records are privileged even from in camera review"
+        },
+        {
+          "page": "131",
+          "parenthetical": "holding that psychiatric records are privileged even from in camera review"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa-super/367/0484-01"
+      ]
+    },
+    {
+      "cite": "888 A.2d 564",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        2471490,
+        8997420
+      ],
+      "year": 2005,
+      "pin_cites": [
+        {
+          "parenthetical": "providing that a claim of ineffectiveness is distinct from the underlying issue"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/585/0045-01",
+        "/a2d/888/0564-01"
+      ]
+    },
+    {
+      "cite": "585 Pa. 45",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        2471490
+      ],
+      "year": 2005,
+      "pin_cites": [
+        {
+          "parenthetical": "providing that a claim of ineffectiveness is distinct from the underlying issue"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/585/0045-01"
+      ]
+    },
+    {
+      "cite": "766 A.2d 859",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        11139632
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/766/0859-01"
+      ]
+    },
+    {
+      "cite": "951 A.2d 267",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        3925002,
+        8212195
+      ],
+      "year": 2008,
+      "pin_cites": [
+        {
+          "page": "278",
+          "parenthetical": "rejecting an ineffectiveness claim because, inter alia, PCRA counsel failed to question trial counsel during the PCRA hearing regarding his trial strategy for not calling a particular witness"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/597/0240-01",
+        "/a2d/951/0267-01"
+      ]
+    },
+    {
+      "cite": "597 Pa. 240",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        3925002
+      ],
+      "year": 2008,
+      "pin_cites": [
+        {
+          "parenthetical": "rejecting an ineffectiveness claim because, inter alia, PCRA counsel failed to question trial counsel during the PCRA hearing regarding his trial strategy for not calling a particular witness"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/597/0240-01"
+      ]
+    },
+    {
+      "cite": "870 A.2d 822",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        9019547,
+        650373
+      ],
+      "year": 2005,
+      "pin_cites": [
+        {
+          "page": "832"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/870/0822-01",
+        "/pa/582/0207-01"
+      ]
+    },
+    {
+      "cite": "582 Pa. 207",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        650373
+      ],
+      "year": 2005,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/582/0207-01"
+      ]
+    },
+    {
+      "cite": "15 A.3d 345",
+      "category": "reporters:state_regional",
+      "reporter": "A.3d",
+      "case_ids": [
+        4201010,
+        7338275
+      ],
+      "weight": 6,
+      "year": 2011,
+      "pin_cites": [
+        {
+          "page": "401",
+          "parenthetical": "providing that a petitioner is required by Pa.R.A.P. 2119 and 2132 to direct the court's attention to the relevant section of the record necessary to assess a claim"
+        },
+        {
+          "page": "401"
+        },
+        {
+          "page": "401",
+          "parenthetical": "holding that where a PCRA petitioner failed to ask trial counsel about an omission when provided with the opportunity to do so at a PCRA hearing, the petitioner failed to demonstrate the reasonable basis prong of ineffectiveness"
+        },
+        {
+          "page": "417",
+          "parenthetical": "holding that the notion of cumulating prejudice does not easily flow from the disposition of disparate claims"
+        },
+        {
+          "page": "417"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/609/0128-01",
+        "/a3d/15/0345-01"
+      ]
+    },
+    {
+      "cite": "609 Pa. 128",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        4201010
+      ],
+      "weight": 2,
+      "year": 2011,
+      "pin_cites": [
+        {
+          "parenthetical": "providing that a petitioner is required by Pa.R.A.P. 2119 and 2132 to direct the court's attention to the relevant section of the record necessary to assess a claim"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/609/0128-01"
+      ]
+    },
+    {
+      "cite": "463 Pa. 581",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1707964
+      ],
+      "weight": 2,
+      "year": 1975,
+      "pin_cites": [
+        {
+          "page": "676"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/463/0581-01"
+      ]
+    },
+    {
+      "cite": "662 A.2d 621",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        470745,
+        7863238
+      ],
+      "year": 1995,
+      "pin_cites": [
+        {
+          "page": "635",
+          "parenthetical": "\"voluntary extrajudicial statements made by a defendant may be used against a defendant even though they contain no admission of guilt.\" (citing Commonwealth v. Tervalon, 463 Pa. 581, 345 A.2d 671, 676 (1975))"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/541/0211-01",
+        "/a2d/662/0621-01"
+      ]
+    },
+    {
+      "cite": "541 Pa. 211",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        470745
+      ],
+      "year": 1995,
+      "pin_cites": [
+        {
+          "parenthetical": "\"voluntary extrajudicial statements made by a defendant may be used against a defendant even though they contain no admission of guilt.\" (citing Commonwealth v. Tervalon, 463 Pa. 581, 345 A.2d 671, 676 (1975))"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/541/0211-01"
+      ]
+    },
+    {
+      "cite": "811 A.2d 556",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        1070156,
+        9314501
+      ],
+      "year": 2002,
+      "pin_cites": [
+        {
+          "parenthetical": "holding that where evidence of a defendant's prior bad acts is a fleeting or vague reference, trial counsel might reasonably decline to object to avoid drawing attention to the reference that might otherwise have gone relatively unnoticed by the jury"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/571/0045-01",
+        "/a2d/811/0556-01"
+      ]
+    },
+    {
+      "cite": "571 Pa. 45",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1070156
+      ],
+      "year": 2002,
+      "pin_cites": [
+        {
+          "parenthetical": "holding that where evidence of a defendant's prior bad acts is a fleeting or vague reference, trial counsel might reasonably decline to object to avoid drawing attention to the reference that might otherwise have gone relatively unnoticed by the jury"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/571/0045-01"
+      ]
+    },
+    {
+      "cite": "516 Pa. 196",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1808592
+      ],
+      "weight": 2,
+      "year": 1987,
+      "pin_cites": [
+        {
+          "parenthetical": "holding that where the defendant \"opened the door\" to the admission of prior bad acts, counsel was not ineffective for stipulating thereto"
+        },
+        {
+          "parenthetical": "holding that where the defendant \"opened the door\" to the admission of prior bad acts, counsel was not ineffective for stipulating thereto"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/516/0196-01"
+      ]
+    },
+    {
+      "cite": "36 A.3d 121",
+      "category": "reporters:state_regional",
+      "reporter": "A.3d",
+      "case_ids": [
+        7295579,
+        4206519
+      ],
+      "weight": 3,
+      "year": 2012,
+      "pin_cites": [
+        {
+          "page": "146",
+          "parenthetical": "faulting a PCRA petitioner for declining to question trial counsel at the PCRA hearing about the lack of a strategic basis for failing to object"
+        },
+        {
+          "page": "146"
+        },
+        {
+          "page": "147",
+          "parenthetical": "rejecting an ineffectiveness claim premised on counsel's failure to request cautionary instructions because the petitioner did not ask trial counsel about his strategy at the PCRA hearing"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a3d/36/0121-01",
+        "/pa/614/0159-01"
+      ]
+    },
+    {
+      "cite": "614 Pa. 159",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        4206519
+      ],
+      "year": 2012,
+      "pin_cites": [
+        {
+          "parenthetical": "faulting a PCRA petitioner for declining to question trial counsel at the PCRA hearing about the lack of a strategic basis for failing to object"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/614/0159-01"
+      ]
+    },
+    {
+      "cite": "658 A.2d 771",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7872600,
+        472178
+      ],
+      "year": 1995,
+      "pin_cites": [
+        {
+          "page": "778",
+          "parenthetical": "plurality"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/658/0771-01",
+        "/pa/540/0493-01"
+      ]
+    },
+    {
+      "cite": "540 Pa. 493",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        472178
+      ],
+      "year": 1995,
+      "pin_cites": [
+        {
+          "parenthetical": "plurality"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/540/0493-01"
+      ]
+    },
+    {
+      "cite": "508 Pa. 198",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1794061
+      ],
+      "weight": 3,
+      "year": 1985,
+      "pin_cites": [
+        {
+          "page": "179"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/508/0198-01"
+      ]
+    },
+    {
+      "cite": "480 Pa. 601",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1745067
+      ],
+      "weight": 2,
+      "year": 1978,
+      "pin_cites": [
+        {
+          "parenthetical": "recognizing that there are exceptions to the rule that reference to prior bad acts is error \"where there is a legitimate basis for the introduction of the evidence other than a mere attempt to establish the accused's predisposition to commit the crime charged.\""
+        },
+        {
+          "page": "1050",
+          "parenthetical": "recognizing that there are exceptions to the rule that reference to prior bad acts is error \"where there is a legitimate basis for the introduction of the evidence other than a mere attempt to establish the accused's predisposition to commit the crime charged.\""
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/480/0601-01"
+      ]
+    },
+    {
+      "cite": "518 Pa. 290",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1811673,
+        1811668
+      ],
+      "weight": 2,
+      "year": 1988,
+      "pin_cites": [
+        {
+          "parenthetical": "\"evidence of other crimes may be relevant and admissible [] where such evidence was part of the chain or sequence of events which became part of the history of the case and formed part of the natural development of the facts.\""
+        },
+        {
+          "page": "497",
+          "parenthetical": "\"evidence of other crimes may be relevant and admissible [] where such evidence was part of the chain or sequence of events which became part of the history of the case and formed part of the natural development of the facts.\""
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/518/0290-01",
+        "/pa/518/0290-02"
+      ]
+    },
+    {
+      "cite": "800 A.2d 294",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        9409766,
+        9409834,
+        312748,
+        9409783,
+        312794,
+        312796
+      ],
+      "year": 2002,
+      "pin_cites": [
+        {
+          "page": "308"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/800/0294-01",
+        "/a2d/800/0294-03",
+        "/pa/569/0046-01",
+        "/a2d/800/0294-02",
+        "/pa/569/0045-01",
+        "/pa/569/0047-01"
+      ]
+    },
+    {
+      "cite": "569 Pa. 47",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        312796
+      ],
+      "year": 2002,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/569/0047-01"
+      ]
+    },
+    {
+      "cite": "896 A.2d 523",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8426660,
+        5654612
+      ],
+      "year": 2006,
+      "pin_cites": [
+        {
+          "page": "539",
+          "parenthetical": "\"This Court has recognized exceptions to Rule 404, for which evidence of other crimes may be introduced, including the res gestae exception which allows 'the complete story' to be told.\" (citing Commonwealth v. Paddy, 569 Pa. 47, 800 A.2d 294, 308 (2002))"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/896/0523-01",
+        "/pa/586/0553-01"
+      ]
+    },
+    {
+      "cite": "586 Pa. 553",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        5654612
+      ],
+      "year": 2006,
+      "pin_cites": [
+        {
+          "parenthetical": "\"This Court has recognized exceptions to Rule 404, for which evidence of other crimes may be introduced, including the res gestae exception which allows 'the complete story' to be told.\" (citing Commonwealth v. Paddy, 569 Pa. 47, 800 A.2d 294, 308 (2002))"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/586/0553-01"
+      ]
+    },
+    {
+      "cite": "585 Pa. 547",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        2473146,
+        2471663
+      ],
+      "weight": 2,
+      "year": 2005,
+      "pin_cites": [
+        {
+          "parenthetical": "\"[i]t is well established that certain out-of-court statements offered to explain the course of police conduct are admissible because they are offered not for the truth of the matters asserted but rather to show the information upon which police acted.\""
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/585/0547-02",
+        "/pa/585/0547-01"
+      ]
+    },
+    {
+      "cite": "982 A.2d 483",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7293403,
+        4197038
+      ],
+      "year": 2009,
+      "pin_cites": [
+        {
+          "page": "497"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/982/0483-01",
+        "/pa/603/0092-01"
+      ]
+    },
+    {
+      "cite": "603 Pa. 92",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        4197038
+      ],
+      "year": 2009,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/603/0092-01"
+      ]
+    },
+    {
+      "cite": "54 A.3d 35",
+      "category": "reporters:state_regional",
+      "reporter": "A.3d",
+      "case_ids": [
+        3900184,
+        7310671
+      ],
+      "year": 2012,
+      "pin_cites": [
+        {
+          "page": "60"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/618/0001-01",
+        "/a3d/54/0035-01"
+      ]
+    },
+    {
+      "cite": "618 Pa. 1",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        3900184
+      ],
+      "year": 2012,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/618/0001-01"
+      ]
+    },
+    {
+      "cite": "846 A.2d 105",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        9252208,
+        91641,
+        9252174,
+        91719
+      ],
+      "year": 2004,
+      "pin_cites": [
+        {
+          "page": "112",
+          "parenthetical": "\"Moreover, even if counsel had thoroughly investigated Appellant's past, the presentation of a diminished capacity defense would have directly contradicted Appellant's assertions that someone else had committed the crime, and thus would not have been an available defense.\""
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/846/0105-02",
+        "/pa/577/0472-01",
+        "/a2d/846/0105-01",
+        "/pa/577/0473-01"
+      ]
+    },
+    {
+      "cite": "577 Pa. 473",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        91719
+      ],
+      "year": 2004,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/577/0473-01"
+      ]
+    },
+    {
+      "cite": "500 Pa. 439",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1781164
+      ],
+      "weight": 2,
+      "year": 1983,
+      "pin_cites": [
+        {
+          "parenthetical": "holding that even ' if diminished capacity was the only viable defense, trial counsel would be deemed ineffective for presenting this defense without the consent of the defendant"
+        },
+        {
+          "page": "506-07",
+          "parenthetical": "holding that even ' if diminished capacity was the only viable defense, trial counsel would be deemed ineffective for presenting this defense without the consent of the defendant"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/500/0439-01"
+      ]
+    },
+    {
+      "cite": "988 A.2d 618",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7291244,
+        3699165
+      ],
+      "year": 2010,
+      "pin_cites": [
+        {
+          "page": "632"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/988/0618-01",
+        "/pa/605/0137-02"
+      ]
+    },
+    {
+      "cite": "605 Pa. 137",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        3699165,
+        3699023
+      ],
+      "year": 2010,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/605/0137-02",
+        "/pa/605/0137-01"
+      ]
+    },
+    {
+      "cite": "951 A.2d 1110",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        3924204,
+        8221590
+      ],
+      "weight": 2,
+      "year": 2008,
+      "pin_cites": [
+        {
+          "page": "1131"
+        },
+        {
+          "page": "1132",
+          "parenthetical": "\"whether addressing a claim of counsel's failure to investigate or failure to present such defenses, this Court has employed the same analysis\""
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/597/0402-01",
+        "/a2d/951/1110-01"
+      ]
+    },
+    {
+      "cite": "597 Pa. 402",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        3924204
+      ],
+      "year": 2008,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/597/0402-01"
+      ]
+    },
+    {
+      "cite": "980 A.2d 510",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        4194625,
+        7294178
+      ],
+      "weight": 2,
+      "year": 2009,
+      "pin_cites": [
+        {
+          "page": "527"
+        },
+        {
+          "page": "527"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/602/0360-01",
+        "/a2d/980/0510-01"
+      ]
+    },
+    {
+      "cite": "602 Pa. 360",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        4194625
+      ],
+      "weight": 2,
+      "year": 2009,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/602/0360-01"
+      ]
+    },
+    {
+      "cite": "25 A.3d 277",
+      "category": "reporters:state_regional",
+      "reporter": "A.3d",
+      "case_ids": [
+        4203681,
+        7275666
+      ],
+      "weight": 7,
+      "year": 2011,
+      "pin_cites": [
+        {
+          "page": "312"
+        },
+        {
+          "page": "312-13"
+        },
+        {
+          "parenthetical": "collecting cases"
+        },
+        {
+          "page": "313"
+        },
+        {
+          "page": "313-14",
+          "parenthetical": "holding that where trial counsel prepared and presented the defense that the petitioner sought based on his claim of non-involvement in the murder, the petitioner failed to establish that trial counsel was ineffective for failing to investigate a diminished capacity defense"
+        },
+        {
+          "page": "314",
+          "parenthetical": "observing that \"even at this stage in the proceedings, Appellant has not conceded any liability for the victim's murder,\" and holding that he could not, therefore, succeed on his claim of trial counsel ineffectiveness for failing to investigate and pursue a diminished capacity defense"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/611/0280-01",
+        "/a3d/25/0277-01"
+      ]
+    },
+    {
+      "cite": "611 Pa. 280",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        4203681
+      ],
+      "year": 2011,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/611/0280-01"
+      ]
+    },
+    {
+      "cite": "510 Pa. 363",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1796965
+      ],
+      "weight": 2,
+      "year": 1986,
+      "pin_cites": [
+        {
+          "parenthetical": "holding that \"[ajppellant's defense was not prejudiced by the fact that, at a prior time, his counsel had represented a Commonwealth witness\""
+        },
+        {
+          "page": "1175",
+          "parenthetical": "holding that \"[ajppellant's defense was not prejudiced by the fact that, at a prior time, his counsel had represented a Commonwealth witness\""
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/510/0363-01"
+      ]
+    },
+    {
+      "cite": "787 A.2d 292",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        9454568,
+        404519
+      ],
+      "weight": 2,
+      "year": 2001,
+      "pin_cites": [
+        {
+          "page": "297",
+          "parenthetical": "requiring a post-conviction petitioner to demonstrate that counsel's prior representation of a Commonwealth witness adversely affected counsel's representation of the petitioner"
+        },
+        {
+          "page": "297-98"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/787/0292-01",
+        "/pa/567/0310-01"
+      ]
+    },
+    {
+      "cite": "567 Pa. 310",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        404519
+      ],
+      "weight": 2,
+      "year": 2001,
+      "pin_cites": [
+        {
+          "parenthetical": "requiring a post-conviction petitioner to demonstrate that counsel's prior representation of a Commonwealth witness adversely affected counsel's representation of the petitioner"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/567/0310-01"
+      ]
+    },
+    {
+      "cite": "528 Pa. 57",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1829843
+      ],
+      "weight": 2,
+      "year": 1991,
+      "pin_cites": [
+        {
+          "page": "38"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/528/0057-01"
+      ]
+    },
+    {
+      "cite": "715 A.2d 1086",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        559304,
+        11709887
+      ],
+      "weight": 2,
+      "year": 1998,
+      "pin_cites": [
+        {
+          "page": "1094",
+          "parenthetical": "citing Commonwealth v. Faulkner, 528 Pa. 57, 595 A.2d 28, 38 (1991)"
+        },
+        {
+          "page": "1094"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/552/0420-01",
+        "/a2d/715/1086-01"
+      ]
+    },
+    {
+      "cite": "552 Pa. 420",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        559304
+      ],
+      "year": 1998,
+      "pin_cites": [
+        {
+          "parenthetical": "citing Commonwealth v. Faulkner, 528 Pa. 57, 595 A.2d 28, 38 (1991)"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/552/0420-01"
+      ]
+    },
+    {
+      "cite": "535 U.S. 162",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        353765
+      ],
+      "weight": 3,
+      "year": 2002,
+      "pin_cites": [
+        {
+          "page": "174"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/535/0162-01"
+      ]
+    },
+    {
+      "cite": "987 A.2d 638",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7292113,
+        3698349,
+        7292078,
+        4196935
+      ],
+      "weight": 2,
+      "year": 2009,
+      "pin_cites": [
+        {
+          "page": "656",
+          "parenthetical": "holding that the Commonwealth was not required to obtain a pre-sentence report and provide it to the defense where the governmental agency that possessed it was not involved in the prosecution"
+        },
+        {
+          "page": "656"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/987/0638-02",
+        "/pa/605/0001-01",
+        "/a2d/987/0638-01",
+        "/pa/604/0686-01"
+      ]
+    },
+    {
+      "cite": "605 Pa. 1",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        3698349
+      ],
+      "year": 2009,
+      "pin_cites": [
+        {
+          "parenthetical": "holding that the Commonwealth was not required to obtain a pre-sentence report and provide it to the defense where the governmental agency that possessed it was not involved in the prosecution"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/605/0001-01"
+      ]
+    },
+    {
+      "cite": "414 Pa.Super. 208",
+      "category": "reporters:state",
+      "reporter": "Pa. Super.",
+      "case_ids": [
+        909432
+      ],
+      "weight": 4,
+      "year": 1992,
+      "pin_cites": [
+        {
+          "parenthetical": "holding that psychiatric records not in the Commonwealth's possession but which are held at a treating facility are not discoverable and are privileged absent the consent of the patient"
+        },
+        {
+          "page": "941-42",
+          "parenthetical": "holding that psychiatric records not in the Commonwealth's possession but which are held at a treating facility are not discoverable and are privileged absent the consent of the patient"
+        },
+        {
+          "parenthetical": "holding that psychiatric records not in the Commonwealth's possession, but held at the treating facility, were \"absolutely privileged and shielded from discovery, absent the consent of the parties.\""
+        },
+        {
+          "parenthetical": "holding that psychiatric records not in the Commonwealth's possession, but held at the treating facility, were \"absolutely privileged and shielded from discovery, absent the consent of the parties.\""
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa-super/414/0208-01"
+      ]
+    },
+    {
+      "cite": "529 Pa. 218",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1831155
+      ],
+      "weight": 2,
+      "year": 1992,
+      "pin_cites": [
+        {
+          "parenthetical": "\"When the reliability of a witness may be determinative of guilt or innocence, nondisclosure of evidence affecting that witness's credibility\" runs afoul of Brady's disclosure requirement."
+        },
+        {
+          "page": "1272",
+          "parenthetical": "\"When the reliability of a witness may be determinative of guilt or innocence, nondisclosure of evidence affecting that witness's credibility\" runs afoul of Brady's disclosure requirement."
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/529/0218-01"
+      ]
+    },
+    {
+      "cite": "694 F.3d 308",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        3522154
+      ],
+      "weight": 5,
+      "pin_cites": [
+        {
+          "page": "337"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/694/0308-01"
+      ]
+    },
+    {
+      "cite": "642 F.3d 126",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        3384051
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/642/0126-01"
+      ]
+    },
+    {
+      "cite": "46 A.3d 648",
+      "category": "reporters:state_regional",
+      "reporter": "A.3d",
+      "case_ids": [
+        7313056,
+        4208728
+      ],
+      "year": 2012,
+      "pin_cites": [
+        {
+          "page": "670",
+          "parenthetical": "Opinion announcing the judgment of the court"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a3d/46/0648-01",
+        "/pa/616/0048-01"
+      ]
+    },
+    {
+      "cite": "616 Pa. 48",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        4208728
+      ],
+      "year": 2012,
+      "pin_cites": [
+        {
+          "parenthetical": "Opinion announcing the judgment of the court"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/616/0048-01"
+      ]
+    },
+    {
+      "cite": "516 U.S. 1",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        326451
+      ],
+      "weight": 3,
+      "year": 1995,
+      "pin_cites": [
+        {
+          "page": "6"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/516/0001-01"
+      ]
+    },
+    {
+      "cite": "360 U.S. 264",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        9052
+      ],
+      "weight": 6,
+      "year": 1959,
+      "pin_cites": [
+        {
+          "page": "269"
+        },
+        {
+          "parenthetical": "\"[t]he jury's estimate of the truthfulness and reliability of a given witness may well be determinative of guilt or innocence, and it is upon such subtle factors as the possible interest of the witness in testifying falsely that a defendant's life or liberty may depend.\""
+        },
+        {
+          "parenthetical": "\"[t]he jury's estimate of the truthfulness and reliability of a given witness may well be determinative of guilt or innocence, and it is upon such subtle factors as the possible interest of the witness in testifying falsely that a defendant's life or liberty may depend.\""
+        },
+        {
+          "page": "269",
+          "parenthetical": "holding that the knowing use of false testimony to obtain a conviction violates due process even where the false testimony goes only to the credibility of a witness"
+        },
+        {
+          "parenthetical": "holding that the knowing use of false testimony to obtain a conviction violates due process even where the false testimony goes only to the credibility of a witness"
+        },
+        {
+          "parenthetical": "holding that the knowing use of false testimony to obtain a conviction violates due process even where the false testimony goes only to the credibility of a witness"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/360/0264-01"
+      ]
+    },
+    {
+      "cite": "727 A.2d 1089",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        11633731,
+        607174
+      ],
+      "year": 1999,
+      "pin_cites": [
+        {
+          "page": "1094"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/727/1089-01",
+        "/pa/556/0216-01"
+      ]
+    },
+    {
+      "cite": "556 Pa. 216",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        607174
+      ],
+      "year": 1999,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/556/0216-01"
+      ]
+    },
+    {
+      "cite": "807 A.2d 872",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        11354912,
+        270320,
+        11355075,
+        270318
+      ],
+      "year": 2002,
+      "pin_cites": [
+        {
+          "page": "887"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/807/0872-01",
+        "/pa/570/0003-01",
+        "/a2d/807/0872-02",
+        "/pa/570/0002-01"
+      ]
+    },
+    {
+      "cite": "570 Pa. 3",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        270320
+      ],
+      "year": 2002,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/570/0003-01"
+      ]
+    },
+    {
+      "cite": "896 A.2d 1191",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8431353,
+        3465881
+      ],
+      "weight": 5,
+      "year": 2006,
+      "pin_cites": [
+        {
+          "page": "1248",
+          "parenthetical": "\"It is well established that no Brady violation occurs where the parties had equal access to the information or if the defendant knew or could have uncovered such evidence with reasonable diligence.\" (internal citation omitted)"
+        },
+        {
+          "page": "1231"
+        },
+        {
+          "page": "1232",
+          "parenthetical": "rejecting a claim based on counsel's representation of an individual which terminated before the appointment to represent the petitioner, because he offered nothing more than bald assertions, with no evidence to suggest that counsel's conduct was due to the alleged conflict of interest"
+        },
+        {
+          "page": "1218",
+          "parenthetical": "\"Absent an admission from [the defendant] that he had shot and killed [the victim], trial counsel could not have presented a diminished capacity defense.\""
+        },
+        {
+          "page": "1232",
+          "parenthetical": "citing Commonwealth v. Hawkins, 567 Pa. 310, 787 A.2d 292, 297-98 (2001)"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/896/1191-01",
+        "/pa/587/0001-01"
+      ]
+    },
+    {
+      "cite": "587 Pa. 1",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        3465881
+      ],
+      "weight": 3,
+      "year": 2006,
+      "pin_cites": [
+        {
+          "parenthetical": "\"It is well established that no Brady violation occurs where the parties had equal access to the information or if the defendant knew or could have uncovered such evidence with reasonable diligence.\" (internal citation omitted)"
+        },
+        {
+          "parenthetical": "citing Commonwealth v. Hawkins, 567 Pa. 310, 787 A.2d 292, 297-98 (2001)"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/587/0001-01"
+      ]
+    },
+    {
+      "cite": "781 A.2d 1136",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        9480513,
+        706276
+      ],
+      "weight": 2,
+      "year": 2001,
+      "pin_cites": [
+        {
+          "page": "1142"
+        },
+        {
+          "page": "1142",
+          "parenthetical": "\"the prosecutor's Brady obligation clearly extends to exculpatory evidence in the files of police agencies of the same government bringing the prosecution.\""
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/781/1136-01",
+        "/pa/566/0402-01"
+      ]
+    },
+    {
+      "cite": "566 Pa. 402",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        706276
+      ],
+      "year": 2001,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/566/0402-01"
+      ]
+    },
+    {
+      "cite": "884 A.2d 848",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8912136,
+        988530,
+        8912059,
+        988519
+      ],
+      "year": 2005,
+      "pin_cites": [
+        {
+          "page": "854"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/884/0848-02",
+        "/pa/584/0460-01",
+        "/a2d/884/0848-01",
+        "/pa/584/0461-01"
+      ]
+    },
+    {
+      "cite": "584 Pa. 461",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        988519
+      ],
+      "year": 2005,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/584/0461-01"
+      ]
+    },
+    {
+      "cite": "47 A.3d 63",
+      "category": "reporters:state_regional",
+      "reporter": "A.3d",
+      "case_ids": [
+        4208456,
+        7312412
+      ],
+      "weight": 2,
+      "year": 2012,
+      "pin_cites": [
+        {
+          "page": "84"
+        },
+        {
+          "page": "84"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/616/0164-01",
+        "/a3d/47/0063-01"
+      ]
+    },
+    {
+      "cite": "616 Pa. 164",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        4208456
+      ],
+      "year": 2012,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/616/0164-01"
+      ]
+    },
+    {
+      "cite": "761 A.2d 1167",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        11163056,
+        1366999,
+        1366968,
+        11163103
+      ],
+      "weight": 2,
+      "year": 2000,
+      "pin_cites": [
+        {
+          "page": "1175",
+          "parenthetical": "\"Impeachment evidence which goes to the credibility of a primary witness against the accused is critical evidence and it is material to the case [even when] that evidence is merely a promise or an understanding between the prosecution and the witness.\""
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/761/1167-01",
+        "/pa/563/0455-01",
+        "/pa/563/0454-01",
+        "/a2d/761/1167-02"
+      ]
+    },
+    {
+      "cite": "563 Pa. 455",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1366999
+      ],
+      "year": 2000,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/563/0455-01"
+      ]
+    },
+    {
+      "cite": "912 A.2d 268",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        3852085,
+        8440502
+      ],
+      "year": 2006,
+      "pin_cites": [
+        {
+          "page": "278"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/590/0202-01",
+        "/a2d/912/0268-01"
+      ]
+    },
+    {
+      "cite": "590 Pa. 202",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        3852085
+      ],
+      "year": 2006,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/590/0202-01"
+      ]
+    },
+    {
+      "cite": "720 A.2d 693",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        11805857,
+        765946,
+        765988,
+        11805966
+      ],
+      "year": 1998,
+      "pin_cites": [
+        {
+          "page": "701"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/720/0693-01",
+        "/pa/554/0030-01",
+        "/pa/554/0031-01",
+        "/a2d/720/0693-02"
+      ]
+    },
+    {
+      "cite": "554 Pa. 31",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        765988
+      ],
+      "year": 1998,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/554/0031-01"
+      ]
+    },
+    {
+      "cite": "863 A.2d 455",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        9167596,
+        1100645
+      ],
+      "year": 2004,
+      "pin_cites": [
+        {
+          "page": "460",
+          "parenthetical": "collecting cases"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/863/0455-01",
+        "/pa/580/0647-01"
+      ]
+    },
+    {
+      "cite": "580 Pa. 647",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1100645
+      ],
+      "year": 2004,
+      "pin_cites": [
+        {
+          "parenthetical": "collecting cases"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/580/0647-01"
+      ]
+    },
+    {
+      "cite": "936 A.2d 12",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8361505,
+        3596876
+      ],
+      "year": 2007,
+      "pin_cites": [
+        {
+          "page": "19",
+          "parenthetical": "\"It is settled that the test for counsel ineffectiveness is the same under both the Pennsylvania and Federal Constitutions: it is the performance and prejudice test set forth in Strickland v. Washington....\""
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/936/0012-01",
+        "/pa/594/0366-01"
+      ]
+    },
+    {
+      "cite": "594 Pa. 366",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        3596876
+      ],
+      "year": 2007,
+      "pin_cites": [
+        {
+          "parenthetical": "\"It is settled that the test for counsel ineffectiveness is the same under both the Pennsylvania and Federal Constitutions: it is the performance and prejudice test set forth in Strickland v. Washington....\""
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/594/0366-01"
+      ]
+    },
+    {
+      "cite": "527 A.2d 973",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        1806092
+      ],
+      "weight": 4,
+      "year": 1987,
+      "pin_cites": [
+        {
+          "page": "975"
+        },
+        {
+          "page": "975"
+        },
+        {
+          "page": "975",
+          "parenthetical": "requiring a petitioner to prove how the alleged ineffectiveness prejudiced him"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/515/0153-02"
+      ]
+    },
+    {
+      "cite": "515 Pa. 153",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1806001,
+        1806092
+      ],
+      "weight": 2,
+      "year": 1987,
+      "pin_cites": [
+        {
+          "parenthetical": "requiring a petitioner to prove how the alleged ineffectiveness prejudiced him"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/515/0153-01",
+        "/pa/515/0153-02"
+      ]
+    },
+    {
+      "cite": "466 U.S. 668",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6204802
+      ],
+      "weight": 7,
+      "year": 1984,
+      "pin_cites": [
+        {
+          "page": "687"
+        },
+        {
+          "parenthetical": "explaining that, to establish an ineffective assistance claim, a defendant must show that counsel's performance was deficient and that such deficiencies prejudiced the defense"
+        },
+        {
+          "parenthetical": "explaining that, to establish an ineffective assistance claim, a defendant must show that counsel's performance was deficient and that such deficiencies prejudiced the defense"
+        },
+        {
+          "parenthetical": "explaining that, to establish an ineffective assistance claim, a defendant must show that counsel's performance was deficient and that such deficiencies prejudiced the defense"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/466/0668-01"
+      ]
+    },
+    {
+      "cite": "888 A.2d 624",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        2473196,
+        8997708
+      ],
+      "weight": 2,
+      "year": 2005,
+      "pin_cites": [
+        {
+          "page": "629"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/585/0144-01",
+        "/a2d/888/0624-01"
+      ]
+    },
+    {
+      "cite": "585 Pa. 144",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        2473196
+      ],
+      "year": 2005,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/585/0144-01"
+      ]
+    },
+    {
+      "cite": "928 A.2d 215",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        3248208,
+        8355826
+      ],
+      "weight": 2,
+      "year": 2007,
+      "pin_cites": [
+        {
+          "page": "223"
+        },
+        {
+          "page": "245"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/593/0067-01",
+        "/a2d/928/0215-01"
+      ]
+    },
+    {
+      "cite": "593 Pa. 67",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        3248208
+      ],
+      "year": 2007,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/593/0067-01"
+      ]
+    },
+    {
+      "cite": "55 A.3d 1108",
+      "category": "reporters:state_regional",
+      "reporter": "A.3d",
+      "case_ids": [
+        7312684,
+        3901111
+      ],
+      "weight": 6,
+      "year": 2012,
+      "pin_cites": [
+        {
+          "parenthetical": "citing Commonwealth v. Rainey, 593 Pa. 67, 928 A.2d 215, 223 (2007)"
+        },
+        {
+          "page": "1117"
+        },
+        {
+          "page": "1117-18"
+        },
+        {
+          "page": "1116"
+        },
+        {
+          "page": "1150"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a3d/55/1108-01",
+        "/pa/618/0262-01"
+      ]
+    },
+    {
+      "cite": "618 Pa. 262",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        3901111
+      ],
+      "weight": 2,
+      "year": 2012,
+      "pin_cites": [
+        {
+          "parenthetical": "citing Commonwealth v. Rainey, 593 Pa. 67, 928 A.2d 215, 223 (2007)"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/618/0262-01"
+      ]
+    },
+    {
+      "cite": "514 U.S. 419",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        1339057
+      ],
+      "weight": 22,
+      "year": 1995,
+      "pin_cites": [
+        {
+          "page": "434"
+        },
+        {
+          "page": "437"
+        },
+        {
+          "page": "433"
+        },
+        {
+          "page": "434"
+        },
+        {
+          "page": "451"
+        },
+        {
+          "page": "451"
+        },
+        {
+          "page": "434"
+        },
+        {
+          "page": "437"
+        },
+        {
+          "page": "434, 436",
+          "parenthetical": "equating the prejudice inquiry under Strickland with the materiality inquiry under Brady"
+        },
+        {
+          "parenthetical": "equating the prejudice inquiry under Strickland with the materiality inquiry under Brady"
+        },
+        {
+          "parenthetical": "equating the prejudice inquiry under Strickland with the materiality inquiry under Brady"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/514/0419-01"
+      ]
+    },
+    {
+      "cite": "473 U.S. 667",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6205331
+      ],
+      "weight": 21,
+      "year": 1985,
+      "pin_cites": [
+        {
+          "page": "682"
+        },
+        {
+          "parenthetical": "holding that impeachment evidence, as well as exculpatory evidence, falls within the Brady rule"
+        },
+        {
+          "parenthetical": "holding that impeachment evidence, as well as exculpatory evidence, falls within the Brady rule"
+        },
+        {
+          "parenthetical": "holding that impeachment evidence, as well as exculpatory evidence, falls within the Brady rule"
+        },
+        {
+          "page": "682"
+        },
+        {
+          "page": "682"
+        },
+        {
+          "page": "678"
+        },
+        {
+          "page": "676"
+        },
+        {
+          "page": "676"
+        },
+        {
+          "page": "682"
+        },
+        {
+          "page": "682",
+          "parenthetical": "same"
+        },
+        {
+          "parenthetical": "same"
+        },
+        {
+          "parenthetical": "same"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/473/0667-01"
+      ]
+    },
+    {
+      "cite": "986 A.2d 808",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        4197032,
+        7292994
+      ],
+      "weight": 23,
+      "year": 2009,
+      "pin_cites": [
+        {
+          "parenthetical": "Weiss II"
+        },
+        {
+          "page": "815"
+        },
+        {
+          "page": "816"
+        },
+        {
+          "page": "816"
+        },
+        {
+          "page": "814"
+        },
+        {
+          "page": "814-15"
+        },
+        {
+          "page": "815"
+        },
+        {
+          "page": "812"
+        },
+        {
+          "page": "815"
+        },
+        {
+          "page": "816",
+          "parenthetical": "citations omitted"
+        },
+        {
+          "page": "816"
+        },
+        {
+          "page": "818"
+        },
+        {
+          "parenthetical": "\"[w]e do not adopt this view of potentially perpetual assumed representation.\""
+        },
+        {
+          "page": "818",
+          "parenthetical": "rejecting Appellant's argument of perpetual representation through the expiration of a sentence, and instead requiring Appellant to demonstrate that the conflict adversely affected counsels' performance"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/604/0573-01",
+        "/a2d/986/0808-01"
+      ]
+    },
+    {
+      "cite": "604 Pa. 573",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        4197032
+      ],
+      "year": 2009,
+      "pin_cites": [
+        {
+          "parenthetical": "Weiss II"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/604/0573-01"
+      ]
+    },
+    {
+      "cite": "373 U.S. 83",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11716714
+      ],
+      "weight": 9,
+      "year": 1963,
+      "pin_cites": [
+        {
+          "page": "87"
+        },
+        {
+          "page": "87"
+        },
+        {
+          "page": "87"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/373/0083-01"
+      ]
+    },
+    {
+      "cite": "776 A.2d 958",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        11083104,
+        124681
+      ],
+      "weight": 5,
+      "year": 2001,
+      "pin_cites": [
+        {
+          "parenthetical": "Weiss I"
+        },
+        {
+          "page": "967"
+        },
+        {
+          "page": "968-70"
+        },
+        {
+          "page": "964"
+        },
+        {
+          "page": "965"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/776/0958-01",
+        "/pa/565/0504-01"
+      ]
+    },
+    {
+      "cite": "565 Pa. 504",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        124681
+      ],
+      "year": 2001,
+      "pin_cites": [
+        {
+          "parenthetical": "Weiss I"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/565/0504-01"
+      ]
+    },
+    {
+      "cite": "866 A.2d 292",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        1140650,
+        9036758
+      ],
+      "year": 2005,
+      "pin_cites": [
+        {
+          "page": "299"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/581/0490-01",
+        "/a2d/866/0292-01"
+      ]
+    },
+    {
+      "cite": "581 Pa. 490",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1140650
+      ],
+      "year": 2005,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/581/0490-01"
+      ]
+    },
+    {
+      "cite": "811 A.2d 978",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        1070104,
+        9318734
+      ],
+      "weight": 2,
+      "year": 2002,
+      "pin_cites": [
+        {
+          "page": "987"
+        },
+        {
+          "page": "987"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/571/0085-01",
+        "/a2d/811/0978-01"
+      ]
+    },
+    {
+      "cite": "571 Pa. 85",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1070104
+      ],
+      "weight": 2,
+      "year": 2002,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/571/0085-01"
+      ]
+    },
+    {
+      "cite": "957 A.2d 237",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8206144,
+        3989448
+      ],
+      "year": 2008,
+      "pin_cites": [
+        {
+          "page": "251-52",
+          "parenthetical": "providing that an attorney's representation ended at sentencing and requiring a petitioner claiming a conflict from successive representation to demonstrate prejudice"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/957/0237-01",
+        "/pa/598/0397-01"
+      ]
+    },
+    {
+      "cite": "598 Pa. 397",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        3989448
+      ],
+      "year": 2008,
+      "pin_cites": [
+        {
+          "parenthetical": "providing that an attorney's representation ended at sentencing and requiring a petitioner claiming a conflict from successive representation to demonstrate prejudice"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/598/0397-01"
+      ]
+    },
+    {
+      "cite": "484 Pa. 534",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1753731
+      ],
+      "weight": 2,
+      "year": 1979,
+      "pin_cites": [
+        {
+          "parenthetical": "holding that members of the public defender's office would be considered members of the same firm for purposes of a question of conflict of interest in multiple representations"
+        },
+        {
+          "page": "162",
+          "parenthetical": "holding that members of the public defender's office would be considered members of the same firm for purposes of a question of conflict of interest in multiple representations"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/484/0534-01"
+      ]
+    },
+    {
+      "cite": "644 A.2d 705",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7873291,
+        775500
+      ],
+      "year": 1994,
+      "pin_cites": [
+        {
+          "page": "709"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/644/0705-01",
+        "/pa/537/0385-01"
+      ]
+    },
+    {
+      "cite": "537 Pa. 385",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        775500
+      ],
+      "year": 1994,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/537/0385-01"
+      ]
+    },
+    {
+      "cite": "966 A.2d 523",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8158876,
+        4194238
+      ],
+      "year": 2009,
+      "pin_cites": [
+        {
+          "page": "532"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/966/0523-01",
+        "/pa/600/0329-01"
+      ]
+    },
+    {
+      "cite": "600 Pa. 329",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        4194238
+      ],
+      "year": 2009,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/600/0329-01"
+      ]
+    },
+    {
+      "cite": "713 A.2d 596",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        11815387,
+        559422
+      ],
+      "year": 1998,
+      "pin_cites": [
+        {
+          "page": "601"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/713/0596-01",
+        "/pa/552/0044-01"
+      ]
+    },
+    {
+      "cite": "552 Pa. 44",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        559422
+      ],
+      "year": 1998,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/552/0044-01"
+      ]
+    },
+    {
+      "cite": "670 A.2d 1129",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7868889,
+        461610
+      ],
+      "year": 1996,
+      "pin_cites": [
+        {
+          "page": "1141"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/670/1129-01",
+        "/pa/543/0261-01"
+      ]
+    },
+    {
+      "cite": "46 A.3d 648",
+      "category": "reporters:state_regional",
+      "reporter": "A.3d",
+      "case_ids": [
+        7313056,
+        4208728
+      ],
+      "weight": 2,
+      "year": 2012,
+      "pin_cites": [
+        {
+          "page": "674-84",
+          "parenthetical": "Castille, C.J., concurring, joined by Eakin and McCaffery, JJ."
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/a3d/46/0648-01",
+        "/pa/616/0048-01"
+      ]
+    },
+    {
+      "cite": "616 Pa. 48",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        4208728
+      ],
+      "year": 2012,
+      "opinion_index": 1,
+      "case_paths": [
+        "/pa/616/0048-01"
+      ]
+    },
+    {
+      "cite": "466 U.S. 668",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6204802
+      ],
+      "weight": 3,
+      "year": 1984,
+      "opinion_index": 1,
+      "case_paths": [
+        "/us/466/0668-01"
+      ]
+    },
+    {
+      "cite": "514 U.S. 419",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        1339057
+      ],
+      "weight": 5,
+      "year": 1995,
+      "pin_cites": [
+        {
+          "page": "433-35"
+        },
+        {
+          "page": "451"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/us/514/0419-01"
+      ]
+    },
+    {
+      "cite": "473 U.S. 667",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6205331
+      ],
+      "weight": 7,
+      "year": 1985,
+      "pin_cites": [
+        {
+          "page": "683"
+        },
+        {
+          "page": "678"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/us/473/0667-01"
+      ]
+    },
+    {
+      "cite": "373 U.S. 83",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11716714
+      ],
+      "weight": 3,
+      "year": 1963,
+      "opinion_index": 1,
+      "case_paths": [
+        "/us/373/0083-01"
+      ]
+    },
+    {
+      "cite": "285 F.3d 1167",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        9448184
+      ],
+      "pin_cites": [
+        {
+          "page": "1171"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/f3d/285/1167-01"
+      ]
+    },
+    {
+      "cite": "863 A.2d 536",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        1140665,
+        9168039
+      ],
+      "year": 2004,
+      "pin_cites": [
+        {
+          "page": "556-57",
+          "parenthetical": "Castille, J., concurring"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/pa/581/0107-02",
+        "/a2d/863/0536-01"
+      ]
+    },
+    {
+      "cite": "581 Pa. 107",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1140665,
+        1140671
+      ],
+      "year": 2004,
+      "pin_cites": [
+        {
+          "parenthetical": "Castille, J., concurring"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/pa/581/0107-02",
+        "/pa/581/0107-01"
+      ]
+    },
+    {
+      "cite": "529 U.S. 362",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        9508607
+      ],
+      "weight": 3,
+      "year": 2000,
+      "pin_cites": [
+        {
+          "page": "391-93",
+          "parenthetical": "citations and footnotes omitted"
+        },
+        {
+          "parenthetical": "citations and footnotes omitted"
+        },
+        {
+          "parenthetical": "citations and footnotes omitted"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/us/529/0362-01"
+      ]
+    },
+    {
+      "cite": "506 U.S. 364",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11925282
+      ],
+      "weight": 3,
+      "year": 1993,
+      "opinion_index": 1,
+      "case_paths": [
+        "/us/506/0364-01"
+      ]
+    },
+    {
+      "cite": "475 U.S. 157",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6199238
+      ],
+      "weight": 3,
+      "year": 1986,
+      "pin_cites": [
+        {
+          "page": "175-176"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/us/475/0157-01"
+      ]
+    },
+    {
+      "cite": "640 A.2d 1242",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7871849,
+        1843211
+      ],
+      "year": 1994,
+      "pin_cites": [
+        {
+          "page": "1245"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/a2d/640/1242-01",
+        "/pa/536/0599-01"
+      ]
+    },
+    {
+      "cite": "536 Pa. 599",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1843211
+      ],
+      "year": 1994,
+      "opinion_index": 1,
+      "case_paths": [
+        "/pa/536/0599-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 2914,
+    "char_count": 140737,
+    "ocr_confidence": 0.716,
+    "pagerank": {
+      "raw": 1.5344185267422073e-07,
+      "percentile": 0.6717239113168374
+    },
+    "sha256": "1fd9b7d137722ee9b6c080c3ed6caad3dfa5c60cc9210716099d9df17c402646",
+    "simhash": "1:c1dfe340c3ed4bde",
+    "word_count": 22299
+  },
+  "last_updated": "2024-02-27T16:59:34.878718+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "file_name": "0663-01",
+  "first_page_order": 707,
+  "last_page_order": 784
+}

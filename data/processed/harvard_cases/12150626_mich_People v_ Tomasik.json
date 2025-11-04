@@ -1,0 +1,108 @@
+{
+  "id": 12150626,
+  "name": "People v. Tomasik",
+  "name_abbreviation": "People v. Tomasik",
+  "decision_date": "2015-12-23",
+  "docket_number": "No. 149372; Court of Appeals No. 279161",
+  "first_page": "953",
+  "last_page": "953",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "498 Mich. 953"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Mich.",
+    "id": 8790,
+    "name": "Michigan Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 49,
+    "name_long": "Michigan",
+    "name": "Mich."
+  },
+  "cites_to": [
+    {
+      "cite": "509 US 579",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        355769
+      ],
+      "year": 1993,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/509/0579-01"
+      ]
+    },
+    {
+      "cite": "460 Mich 750",
+      "category": "reporters:state",
+      "reporter": "Mich.",
+      "case_ids": [
+        897929
+      ],
+      "year": 1999,
+      "pin_cites": [
+        {
+          "page": "763"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mich/460/0750-01"
+      ]
+    },
+    {
+      "cite": "494 Mich 337",
+      "category": "reporters:state",
+      "reporter": "Mich.",
+      "case_ids": [
+        4190975
+      ],
+      "year": 2013,
+      "opinion_index": 0,
+      "case_paths": [
+        "/mich/494/0337-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 152,
+    "char_count": 1608,
+    "ocr_confidence": 0.661,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.2465676570332865
+    },
+    "sha256": "b73bd2225eb4d4b6bc38fcef707dfba7b7f91db978152ebbf611b4a27b77ce35",
+    "simhash": "1:a49de43abe1d20c9",
+    "word_count": 261
+  },
+  "last_updated": "2024-02-27T16:10:26.420323+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "People v Tomasik,"
+    ],
+    "opinions": [
+      {
+        "text": "On order of the Court, leave to appeal having been granted and the briefs and oral arguments of the parties having been considered by the Court, we reverse in part the April 22, 2014 judgment of the Court of Appeals and we remand this case to the Kent Circuit Court for a new trial. The trial court abused its discretion by admitting the recording of the defendant\u2019s interrogation. See People v Musser, 494 Mich 337 (2013). Because nothing of any relevance was said during the interrogation, it was simply not relevant evidence, and thus was not admissible evidence. See MRE 401. The admission of this evidence amounted to plain error that affected the defendant\u2019s substantial rights and seriously affected the fairness, integrity or public reputation of judicial proceedings. See People v Carines, 460 Mich 750, 763 (1999). In a trial in which the evidence essentially presents a \u2018one-on-one\u2019 credibility contest between the complainant and the defendant, the prosecutor cannot improperly introduce statements from the investigating detective that vouch for the veracity of the complainant and indicate that the detective believes the defendant to be guilty. On retrial, if the parties seek to admit expert testimony, &e trial court shall conduct a Daubert hearing to ensure that the proposed testimony is both relevant and reliable as is required under MRE 702. See Daubert v Merrell Dow Pharmaceuticals, Inc, 509 US 579 (1993). In light of this disposition, we decline to address the other issues presented in our order granting leave to appeal.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "People v Tomasik,\nNo. 149372; Court of Appeals No. 279161."
+  },
+  "file_name": "0953-02",
+  "first_page_order": 899,
+  "last_page_order": 899
+}

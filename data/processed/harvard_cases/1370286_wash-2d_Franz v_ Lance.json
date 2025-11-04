@@ -1,0 +1,93 @@
+{
+  "id": 1370286,
+  "name": "Alvin O. Franz, et al, Respondents, v. Peter Lance, et al, Petitioners",
+  "name_abbreviation": "Franz v. Lance",
+  "decision_date": "1992-10-01",
+  "docket_number": "No. 58985-2",
+  "first_page": "780",
+  "last_page": "783",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "119 Wash. 2d 780"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Wash.",
+    "id": 9029,
+    "name": "Washington Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 38,
+    "name_long": "Washington",
+    "name": "Wash."
+  },
+  "cites_to": [
+    {
+      "cite": "756 P.2d 174",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1988,
+      "opinion_index": 0
+    },
+    {
+      "cite": "51 Wn. App. 908",
+      "category": "reporters:state",
+      "reporter": "Wash. App.",
+      "case_ids": [
+        592001
+      ],
+      "year": 1988,
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-app/51/0908-01"
+      ]
+    },
+    {
+      "cite": "798 P.2d 808",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1990,
+      "opinion_index": 0
+    },
+    {
+      "cite": "115 Wn.2d 498",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        1379114
+      ],
+      "year": 1990,
+      "pin_cites": [
+        {
+          "page": "505"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/115/0498-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 274,
+    "char_count": 4565,
+    "ocr_confidence": 0.768,
+    "pagerank": {
+      "raw": 2.875518967878575e-07,
+      "percentile": 0.8431495426953464
+    },
+    "sha256": "6308f70f3cd58e0a086a8c1086b4aed7e9caffcea5d7d7178b2182aad1381994",
+    "simhash": "1:4c7a1addc34d64f2",
+    "word_count": 748
+  },
+  "last_updated": "2024-02-27T20:54:39.105269+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "file_name": "0780-01",
+  "first_page_order": 814,
+  "last_page_order": 817
+}

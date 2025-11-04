@@ -1,0 +1,63 @@
+{
+  "id": 4204395,
+  "name": "Roy ROBINSON, Petitioner v. Michael WENEROWICZ, Warden of SCI, Graterford Department of Corrections, Respondents",
+  "name_abbreviation": "Robinson v. Wenerowicz",
+  "decision_date": "2011-10-24",
+  "docket_number": "No. 60 EM 2011",
+  "first_page": "314",
+  "last_page": "314",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "612 Pa. 314"
+    },
+    {
+      "type": "parallel",
+      "cite": "30 A.3d 1101"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 49,
+    "char_count": 365,
+    "ocr_confidence": 0.678,
+    "sha256": "183526864a703916782a54767ab30290015383a074add9c2c3dabfad81cc3c0a",
+    "simhash": "1:742f733617d40823",
+    "word_count": 59
+  },
+  "last_updated": "2023-07-14T19:33:52.292960+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Roy ROBINSON, Petitioner v. Michael WENEROWICZ, Warden of SCI, Graterford Department of Corrections, Respondents."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nPER CURIAM.\nAND NOW, this 24th day of October, 2011, the Application for Leave to File Original Process is GRANTED, and the Petition for Writ of Habeas Corpus is DENIED.",
+        "type": "majority",
+        "author": "PER CURIAM."
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "30 A.3d 1101\nRoy ROBINSON, Petitioner v. Michael WENEROWICZ, Warden of SCI, Graterford Department of Corrections, Respondents.\nNo. 60 EM 2011.\nSupreme Court of Pennsylvania.\nOct. 24, 2011."
+  },
+  "file_name": "0314-01",
+  "first_page_order": 358,
+  "last_page_order": 358
+}

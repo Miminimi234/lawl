@@ -1,0 +1,90 @@
+{
+  "id": 12145155,
+  "name": "People v. Dickens",
+  "name_abbreviation": "People v. Dickens",
+  "decision_date": "2015-11-24",
+  "docket_number": "No. 149906; Court of Appeals No. 314267",
+  "first_page": "915",
+  "last_page": "915",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "498 Mich. 915"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Mich.",
+    "id": 8790,
+    "name": "Michigan Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 49,
+    "name_long": "Michigan",
+    "name": "Mich."
+  },
+  "cites_to": [
+    {
+      "cite": "498 Mich 358",
+      "category": "reporters:state",
+      "reporter": "Mich.",
+      "case_ids": [
+        12122895
+      ],
+      "year": 2015,
+      "opinion_index": -1,
+      "case_paths": [
+        "/mich/498/0358-01"
+      ]
+    },
+    {
+      "cite": "498 Mich 358",
+      "category": "reporters:state",
+      "reporter": "Mich.",
+      "case_ids": [
+        12122895
+      ],
+      "year": 2015,
+      "opinion_index": 0,
+      "case_paths": [
+        "/mich/498/0358-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 102,
+    "char_count": 1173,
+    "ocr_confidence": 0.71,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.24636841761817002
+    },
+    "sha256": "4d5abc43968531bbc21fce0553dc307e4dc7c8b33bd608fd96d9da4b5eb10701",
+    "simhash": "1:cdc041bd23dac199",
+    "word_count": 191
+  },
+  "last_updated": "2024-02-27T16:10:26.420323+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "People v Dickens,"
+    ],
+    "opinions": [
+      {
+        "text": "Pursuant to MCR 7.305(H)(1), in lieu of granting leave to appeal, we reverse in part the judgment of the Court of Appeals, and we remand this case to the Oakland Circuit Court to determine whether the court would have imposed a materially different sentence under the sentencing procedure described in People v Lockridge, 498 Mich 358 (2015). On remand, the trial court shall follow the procedure described in Part VI of our opinion. If the trial court determines that it would have imposed the same sentence absent the unconstitutional constraint on its discretion, it may reaffirm the original sentence. If, however, the trial court determines that it would not have imposed the same sentence absent the unconstitutional constraint on its discretion, it shall resentence the defendant. In all other respects, leave to appeal is denied, because we are not persuaded that the remaining questions presented should be reviewed by this Court. We do not retain jurisdiction.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Orders Remanding Cases to Trial Courts for Further Proceedings in Light of People v Lockridge, 498 Mich 358 (2015), Entered November 24, 2015:\nPeople v Dickens,\nNo. 149906; Court of Appeals No. 314267."
+  },
+  "file_name": "0915-01",
+  "first_page_order": 861,
+  "last_page_order": 861
+}

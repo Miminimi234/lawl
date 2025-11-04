@@ -1,0 +1,51 @@
+{
+  "id": 3555535,
+  "name": "In re NOMINATION PETITIONS of James H. OWEN for Judge of the Court of Common Pleas, 33rd Judicial District. Petition of Jennifer Blake and Richard Schreckengost",
+  "name_abbreviation": "In re Nomination Petitions of Owen",
+  "decision_date": "2007-04-30",
+  "docket_number": "Appeal No. 30 MAP 2007",
+  "first_page": "17",
+  "last_page": "17",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "592 Pa. 17"
+    },
+    {
+      "type": "parallel",
+      "cite": "922 A.2d 878"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 37,
+    "char_count": 289,
+    "ocr_confidence": 0.651,
+    "pagerank": {
+      "raw": 4.688403287882615e-08,
+      "percentile": 0.09897545527459212
+    },
+    "sha256": "146ead7f9e6ca84bb83e4333541c7e88bc1764584889a7db4c3459acc39a70ca",
+    "simhash": "1:51998afa01239234",
+    "word_count": 47
+  },
+  "last_updated": "2023-07-14T20:20:44.535844+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "file_name": "0017-01",
+  "first_page_order": 69,
+  "last_page_order": 69
+}

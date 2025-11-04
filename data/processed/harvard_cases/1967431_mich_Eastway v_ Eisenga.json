@@ -1,0 +1,60 @@
+{
+  "id": 1967431,
+  "name": "Eastway v. Eisenga",
+  "name_abbreviation": "Eastway v. Eisenga",
+  "decision_date": "1985-03-15",
+  "docket_number": "Nos. 71532, 71533",
+  "first_page": "794",
+  "last_page": "794",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "421 Mich. 1202"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Mich.",
+    "id": 8790,
+    "name": "Michigan Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 49,
+    "name_long": "Michigan",
+    "name": "Mich."
+  },
+  "cites_to": [
+    {
+      "cite": "420 Mich 410",
+      "category": "reporters:state",
+      "reporter": "Mich.",
+      "case_ids": [
+        1968446
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/mich/420/0410-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 11,
+    "char_count": 64,
+    "ocr_confidence": 0.517,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.07114372305103502
+    },
+    "sha256": "32d16571623fee05e4436a7aa414b8f986f310e3788c857cba4acf4130b3b978",
+    "simhash": "1:3a05f20b02b72d8c",
+    "word_count": 11
+  },
+  "last_updated": "2024-02-27T19:29:49.154056+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "file_name": "0794-05",
+  "first_page_order": 946,
+  "last_page_order": 946
+}

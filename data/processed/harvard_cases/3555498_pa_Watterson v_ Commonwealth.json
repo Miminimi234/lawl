@@ -1,0 +1,124 @@
+{
+  "id": 3555498,
+  "name": "Keith R. WATTERSON, Respondent, v. COMMONWEALTH of Pennsylvania, DEPARTMENT OF TRANSPORTATION, BUREAU OF DRIVER LICENSING, Petitioner",
+  "name_abbreviation": "Watterson v. Commonwealth",
+  "decision_date": "2007-05-01",
+  "docket_number": "No. 159 MAL 2003",
+  "first_page": "98",
+  "last_page": "99",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "592 Pa. 98"
+    },
+    {
+      "type": "parallel",
+      "cite": "923 A.2d 1099"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "915 A.2d 1155",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8340050,
+        3017333
+      ],
+      "year": 2007,
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/915/1155-01",
+        "/pa/591/0056-01"
+      ]
+    },
+    {
+      "cite": "591 Pa. 56",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        3017333
+      ],
+      "year": 2007,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/591/0056-01"
+      ]
+    },
+    {
+      "cite": "880 A.2d 552",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        687742,
+        8937046
+      ],
+      "year": 2005,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/583/0592-01",
+        "/a2d/880/0552-01"
+      ]
+    },
+    {
+      "cite": "583 Pa. 592",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        687742
+      ],
+      "year": 2005,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/583/0592-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 51,
+    "char_count": 465,
+    "ocr_confidence": 0.693,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.10029310589150178
+    },
+    "sha256": "af28d9437f9f3fb3a2a2d8190415e1a27a15735c4293bb1730f3486078d4bf0b",
+    "simhash": "1:d5df93778181a5fa",
+    "word_count": 71
+  },
+  "last_updated": "2024-02-27T21:45:49.457734+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Keith R. WATTERSON, Respondent, v. COMMONWEALTH of Pennsylvania, DEPARTMENT OF TRANSPORTATION, BUREAU OF DRIVER LICENSING, Petitioner."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nPER CURIAM.\nThe Petition for Allowance of Appeal is GRANTED, and the order of the Commonwealth Court is REVERSED pursuant to Alexander v. PennDOT, 583 Pa. 592, 880 A.2d 552 (2005), and McGrory v. PennDOT, 591 Pa. 56, 915 A.2d 1155 (2007). Jurisdiction relinquished.",
+        "type": "majority",
+        "author": "PER CURIAM."
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "923 A.2d 1099\nKeith R. WATTERSON, Respondent, v. COMMONWEALTH of Pennsylvania, DEPARTMENT OF TRANSPORTATION, BUREAU OF DRIVER LICENSING, Petitioner.\nSupreme Court of Pennsylvania.\nMay 1, 2007."
+  },
+  "file_name": "0098-01",
+  "first_page_order": 150,
+  "last_page_order": 151
+}

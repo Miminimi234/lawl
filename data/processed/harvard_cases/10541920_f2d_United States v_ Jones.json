@@ -1,0 +1,114 @@
+{
+  "id": 10541920,
+  "name": "UNITED STATES of America, Plaintiff-Appellee, v. Debra Ann JONES, Defendant-Appellant",
+  "name_abbreviation": "United States v. Jones",
+  "decision_date": "1991-04-29",
+  "docket_number": "No. 90-2250",
+  "first_page": "353",
+  "last_page": "355",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "933 F.2d 353"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "6th Cir.",
+    "id": 8864,
+    "name": "United States Court of Appeals for the Sixth Circuit"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "914 F.2d 206",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        10533107
+      ],
+      "pin_cites": [
+        {
+          "page": "207"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/914/0206-01"
+      ]
+    },
+    {
+      "cite": "915 F.2d 269",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        10532893
+      ],
+      "pin_cites": [
+        {
+          "page": "272"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/915/0269-01"
+      ]
+    },
+    {
+      "cite": "18 U.S.C. \u00a7 1029",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "pin_cites": [
+        {
+          "page": "(a)(2)"
+        }
+      ],
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 289,
+    "char_count": 3806,
+    "ocr_confidence": 0.763,
+    "pagerank": {
+      "raw": 1.6629490071047205e-07,
+      "percentile": 0.6946737049148425
+    },
+    "sha256": "a64827fc1e2cc2630acae0bcd7c193685c191a8e820c29fb45d48dc9d8c3ac7b",
+    "simhash": "1:23e684a331362612",
+    "word_count": 624
+  },
+  "last_updated": "2024-02-27T20:17:01.570520+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before KEITH and NELSON, Circuit Judges, and BROWN, Senior Circuit Judge."
+    ],
+    "parties": [
+      "UNITED STATES of America, Plaintiff-Appellee, v. Debra Ann JONES, Defendant-Appellant."
+    ],
+    "opinions": [
+      {
+        "text": "PER CURIAM.\nThis is an appeal from a sentence imposed for an admitted violation of 18 U.S.C. \u00a7 1029(a)(2), a statute that criminalizes certain fraudulent uses of unauthorized credit cards.\nThe defendant contends that the district court committed clear error in two respects: (1) by including interest charges in the \u201closs\u201d used by the court in applying \u00a7 2F1.1(b)(1) of the Sentencing Guidelines; and (2) by determining, under U.S. S.G. \u00a7 2F1.1(b)(2), that the offense involved \u201cmore than minimal planning.\u201d (This section provides for a two-level increase in the offense level in such cases.)\nFinding neither of the defendant\u2019s contentions persuasive, we shall affirm the sentence.\nUsing false names and false social security numbers, and lying about her occupation and income, defendant Debra Ann Jones obtained credit cards on which she made purchases at eight different business establishments. With the inclusion of the interest that accrued on her unpaid bills, the government says that Ms. Jones\u2019 debts came to a total amount of $10,080.04.\nAgreeing with the government\u2019s calculation, the district court sentenced Ms. Jones to probation for three years, six months of which was to be served at a community treatment center. The sentence was based on an adjusted offense level of nine, which reflected a three-level increase for a loss exceeding $10,000, a two-level increase for more than minimal planning, and a two-level decrease for acceptance of responsibility (see U.S.S.G. \u00a7 3E1.1).\nWe do not think it was error for the district court to include the interest charges in the calculation of the loss. When Ms. Jones made her purchases with the fraudulently obtained credit cards, the issuer advanced money to the retailer on her behalf. When Ms. Jones failed to pay, the issuer lost the use of the money that ought to have come back to it. Money has a time value, as all borrowers and lenders know, and the time value of the money withheld by Ms. Jones was fixed by the credit card agreements under which the interest was calculated. Given the existence of these agreements, the finding that the issuer\u2019s loss included the loss of the time value of its money is consistent with this circuit\u2019s decision in United States v. King, 915 F.2d 269, 272 (6th Cir.1990) (\u201closs\u201d includes incidental and consequential damages). We cannot say that the finding was clearly erroneous.\nNeither can we say that the district court erred in finding that the offense involved more than minimal planning. Ms. Jones not only used elaborate falsehoods in obtaining the credit cards, she used the cards to make numerous purchases at a variety of stores. See United States v. Sanchez, 914 F.2d 206, 207 (10th Cir.1990) (affirming a finding of more than minimal planning when a stolen credit card was used repeatedly at more than one location).\nAFFIRMED.\n. U.S.S.G. \u00a7 2Fl.l(a) establishes a base offense level of six for offenses involving fraud and deceit. Section 2F1.1(b)(1) provides that where the loss exceeds $2,000, the offense level is to be increased under a scale graduated according to the size of the loss. For a loss of more than $10,000 but not more than $20,000, the increase in the offense level is three.",
+        "type": "majority",
+        "author": "PER CURIAM."
+      }
+    ],
+    "attorneys": [
+      "David Debold, Office of the U.S. Atty., Detroit, Mich., James A. Brunson, Asst. U.S. Atty., Office of the U.S. Atty., Bay City, Mich., and Christopher P. Yates, Detroit, Mich., for plaintiff-appellee.",
+      "Paul Borman, Federal Public Defenders Office, Detroit, Mich, and Joseph K. Sheer-an, Bay City, Mich., for defendant-appellant."
+    ],
+    "corrections": "",
+    "head_matter": "UNITED STATES of America, Plaintiff-Appellee, v. Debra Ann JONES, Defendant-Appellant.\nNo. 90-2250.\nUnited States Court of Appeals, Sixth Circuit.\nSubmitted March 12, 1991.\nDecided April 29, 1991.\nDavid Debold, Office of the U.S. Atty., Detroit, Mich., James A. Brunson, Asst. U.S. Atty., Office of the U.S. Atty., Bay City, Mich., and Christopher P. Yates, Detroit, Mich., for plaintiff-appellee.\nPaul Borman, Federal Public Defenders Office, Detroit, Mich, and Joseph K. Sheer-an, Bay City, Mich., for defendant-appellant.\nBefore KEITH and NELSON, Circuit Judges, and BROWN, Senior Circuit Judge."
+  },
+  "file_name": "0353-01",
+  "first_page_order": 451,
+  "last_page_order": 453
+}

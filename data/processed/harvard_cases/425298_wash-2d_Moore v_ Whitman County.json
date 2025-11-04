@@ -1,0 +1,216 @@
+{
+  "id": 425298,
+  "name": "Victor Moore, et al., Respondents, v. Whitman County, Appellant",
+  "name_abbreviation": "Moore v. Whitman County",
+  "decision_date": "2001-02-22",
+  "docket_number": "No. 69053-7",
+  "first_page": "96",
+  "last_page": "115",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "143 Wash. 2d 96"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Wash.",
+    "id": 9029,
+    "name": "Washington Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 38,
+    "name_long": "Washington",
+    "name": "Wash."
+  },
+  "cites_to": [
+    {
+      "cite": "23 Seattle U. L. Rev. 5",
+      "category": "journals:journal",
+      "reporter": "Seattle U. L. Rev.",
+      "weight": 2,
+      "year": 1999,
+      "pin_cites": [
+        {
+          "page": "8"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "4 P.3d 115",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2000,
+      "pin_cites": [
+        {
+          "parenthetical": "quoting Richard L. Settle, Washington's Growth Management Revolution Goes to Court, 23 Seattle U. L. Rev. 5, 8 (1999)"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "141 Wn.2d 185",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        1183475
+      ],
+      "year": 2000,
+      "pin_cites": [
+        {
+          "page": "188",
+          "parenthetical": "quoting Richard L. Settle, Washington's Growth Management Revolution Goes to Court, 23 Seattle U. L. Rev. 5, 8 (1999)"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/141/0185-01"
+      ]
+    },
+    {
+      "cite": "4 P.3d 123",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2000,
+      "pin_cites": [
+        {
+          "parenthetical": "\"If a GMHB does not have jurisdiction to consider a petition, it must be filed in superior court under [Land Use Protection Act].\""
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "141 Wn.2d 169",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        1183446
+      ],
+      "year": 2000,
+      "pin_cites": [
+        {
+          "page": "178",
+          "parenthetical": "\"If a GMHB does not have jurisdiction to consider a petition, it must be filed in superior court under [Land Use Protection Act].\""
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/141/0169-01"
+      ]
+    },
+    {
+      "cite": "1992 WL 512203",
+      "category": "reporters:specialty_west",
+      "reporter": "WL",
+      "opinion_index": 0
+    },
+    {
+      "cite": "858 P.2d 232",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1993,
+      "opinion_index": 0
+    },
+    {
+      "cite": "122 Wn.2d 219",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        1363507
+      ],
+      "year": 1993,
+      "pin_cites": [
+        {
+          "page": "226"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/122/0219-01"
+      ]
+    },
+    {
+      "cite": "958 P.2d 962",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1998,
+      "opinion_index": 2
+    },
+    {
+      "cite": "135 Wn.2d 542",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        812832
+      ],
+      "year": 1998,
+      "pin_cites": [
+        {
+          "page": "558-59"
+        }
+      ],
+      "opinion_index": 2,
+      "case_paths": [
+        "/wash-2d/135/0542-01"
+      ]
+    },
+    {
+      "cite": "16 U. Puget Sound L. Rev. 1323",
+      "category": "journals:journal",
+      "reporter": "U. Puget Sound L. Rev.",
+      "year": 1993,
+      "pin_cites": [
+        {
+          "page": "1324"
+        }
+      ],
+      "opinion_index": 2
+    },
+    {
+      "cite": "966 P.2d 891",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1998,
+      "opinion_index": 2
+    },
+    {
+      "cite": "136 Wn.2d 783",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        867961
+      ],
+      "year": 1998,
+      "pin_cites": [
+        {
+          "page": "788"
+        }
+      ],
+      "opinion_index": 2,
+      "case_paths": [
+        "/wash-2d/136/0783-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 1111,
+    "char_count": 36673,
+    "ocr_confidence": 0.761,
+    "pagerank": {
+      "raw": 5.676830387708631e-08,
+      "percentile": 0.3537159888472262
+    },
+    "sha256": "7ae93cdcd8caabd61b6e8c44811c67b6682897ac01e739bcb2ecdde7262677f0",
+    "simhash": "1:2de71706f1dcfcb3",
+    "word_count": 5709
+  },
+  "last_updated": "2024-02-27T19:32:28.277612+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "file_name": "0096-01",
+  "first_page_order": 170,
+  "last_page_order": 189
+}

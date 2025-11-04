@@ -1,0 +1,66 @@
+{
+  "id": 12143446,
+  "name": "Aaron v. CBS Outdoors, Inc",
+  "name_abbreviation": "Aaron v. Inc",
+  "decision_date": "2015-10-28",
+  "docket_number": "No. 150900; Court of Appeals No. 317552",
+  "first_page": "908",
+  "last_page": "908",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "498 Mich. 908"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Mich.",
+    "id": 8790,
+    "name": "Michigan Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 49,
+    "name_long": "Michigan",
+    "name": "Mich."
+  },
+  "cites_to": [
+    {
+      "cite": "498 Mich 853",
+      "category": "reporters:state",
+      "reporter": "Mich.",
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 19,
+    "char_count": 108,
+    "ocr_confidence": 0.799,
+    "sha256": "5ca189ab3750da667935e263c882aa4ae7f71652b8e131181ea89fe033a7012d",
+    "simhash": "1:28390169217e1abf",
+    "word_count": 20
+  },
+  "last_updated": "2024-02-27T16:10:26.420323+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Aaron v CBS Outdoors, Inc,"
+    ],
+    "opinions": [
+      {
+        "text": "Leave to appeal denied at 498 Mich 853.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Aaron v CBS Outdoors, Inc,\nNo. 150900; Court of Appeals No. 317552."
+  },
+  "file_name": "0908-01",
+  "first_page_order": 854,
+  "last_page_order": 854
+}

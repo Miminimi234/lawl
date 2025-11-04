@@ -1,0 +1,1328 @@
+{
+  "id": 12275311,
+  "name": "NEW YORK AND PRESBYTERIAN HOSPITAL, Plaintiff-Appellant v. UNITED STATES, Defendant-Appellee",
+  "name_abbreviation": "New York & Presbyterian Hospital v. United States",
+  "decision_date": "2018-01-31",
+  "docket_number": "2017-1180",
+  "first_page": "877",
+  "last_page": "894",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "881 F.3d 877"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Fed. Cir.",
+    "id": 8955,
+    "name": "United States Court of Appeals for the Federal Circuit"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "133 S.Ct. 1886",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        12697051,
+        4129087
+      ],
+      "weight": 2,
+      "year": 2013,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/569/0369-01",
+        "/fed-cl/110/1886-01"
+      ]
+    },
+    {
+      "cite": "569 U.S. 369",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        12697051
+      ],
+      "weight": 3,
+      "year": 2013,
+      "pin_cites": [
+        {
+          "page": "378"
+        },
+        {
+          "page": "378"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/569/0369-01"
+      ]
+    },
+    {
+      "cite": "134 S.Ct. 870",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        12585945,
+        12701987
+      ],
+      "weight": 4,
+      "year": 2014,
+      "pin_cites": [
+        {
+          "page": "876",
+          "parenthetical": "internal quotation marks and citation .omitted"
+        },
+        {
+          "parenthetical": "internal quotation marks and citation .omitted"
+        },
+        {
+          "page": "876"
+        },
+        {
+          "page": "878",
+          "parenthetical": "internal quotation marks and citation omitted"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/s-ct/134/0870-01",
+        "/us/571/0220-01"
+      ]
+    },
+    {
+      "cite": "489 U.S. 803",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        12033629
+      ],
+      "weight": 3,
+      "year": 1989,
+      "pin_cites": [
+        {
+          "page": "809",
+          "parenthetical": "\"It is a fundamental canon of'statutory construction that the words of a statute must be read in their context and with a view to their 'place in the overall statutory scheme.\""
+        },
+        {
+          "parenthetical": "\"It is a fundamental canon of'statutory construction that the words of a statute must be read in their context and with a view to their 'place in the overall statutory scheme.\""
+        },
+        {
+          "parenthetical": "\"It is a fundamental canon of'statutory construction that the words of a statute must be read in their context and with a view to their 'place in the overall statutory scheme.\""
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/489/0803-01"
+      ]
+    },
+    {
+      "cite": "400 U.S. 410",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        12047394
+      ],
+      "weight": 3,
+      "year": 1971,
+      "pin_cites": [
+        {
+          "page": "419"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/400/0410-01"
+      ]
+    },
+    {
+      "cite": "456 U.S. 63",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6183519
+      ],
+      "weight": 3,
+      "year": 1982,
+      "pin_cites": [
+        {
+          "page": "71"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/456/0063-01"
+      ]
+    },
+    {
+      "cite": "541 U.S. 176",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        5905166
+      ],
+      "weight": 5,
+      "year": 2004,
+      "pin_cites": [
+        {
+          "page": "183",
+          "parenthetical": "\"[OJur inquiry begins with the statutory text[] and ends there as well if the text is. unambiguous.\" (citations omitted)"
+        },
+        {
+          "parenthetical": "\"[OJur inquiry begins with the statutory text[] and ends there as well if the text is. unambiguous.\" (citations omitted)"
+        },
+        {
+          "parenthetical": "\"[OJur inquiry begins with the statutory text[] and ends there as well if the text is. unambiguous.\" (citations omitted)"
+        },
+        {
+          "page": "183"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/541/0176-01"
+      ]
+    },
+    {
+      "cite": "463 U.S. 206",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6193185
+      ],
+      "weight": 5,
+      "year": 1983,
+      "pin_cites": [
+        {
+          "page": "216-17"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/463/0206-01"
+      ]
+    },
+    {
+      "cite": "123 S.Ct. 1126",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        1018072,
+        9191282,
+        7350892
+      ],
+      "weight": 10,
+      "year": 2003,
+      "opinion_index": 0,
+      "case_paths": [
+        "/fed-cl/55/1126-01",
+        "/us/537/0465-01",
+        "/am-tribal-law/4/1126-01"
+      ]
+    },
+    {
+      "cite": "537 U.S. 465",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        9191282
+      ],
+      "weight": 9,
+      "year": 2003,
+      "pin_cites": [
+        {
+          "page": "472"
+        },
+        {
+          "page": "472-73"
+        },
+        {
+          "page": "473"
+        },
+        {
+          "page": "473"
+        },
+        {
+          "page": "473"
+        },
+        {
+          "page": "477"
+        },
+        {
+          "page": "472-73"
+        },
+        {
+          "page": "472"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/537/0465-01"
+      ]
+    },
+    {
+      "cite": "402 F.3d 1167",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        9181321,
+        497517
+      ],
+      "year": 2005,
+      "pin_cites": [
+        {
+          "page": "1172",
+          "parenthetical": "en banc in relevant part"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/402/1167-01",
+        "/fed-cl/64/1167-01"
+      ]
+    },
+    {
+      "cite": "424 U.S. 392",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        12026657
+      ],
+      "weight": 3,
+      "year": 1976,
+      "pin_cites": [
+        {
+          "page": "398",
+          "parenthetical": "emphasis added"
+        },
+        {
+          "parenthetical": "emphasis added"
+        },
+        {
+          "parenthetical": "emphasis added"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/424/0392-01"
+      ]
+    },
+    {
+      "cite": "828 F.3d 1349",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        4339319,
+        4335623
+      ],
+      "year": 2016,
+      "pin_cites": [
+        {
+          "page": "1354"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/fed-cl/127/1349-01",
+        "/f3d/828/1349-01"
+      ]
+    },
+    {
+      "cite": "36 F.Supp.3d 292",
+      "category": "reporters:federal",
+      "reporter": "F. Supp. 3d",
+      "case_ids": [
+        4338466
+      ],
+      "weight": 5,
+      "year": 2014,
+      "pin_cites": [
+        {
+          "page": "298, 300"
+        },
+        {
+          "page": "303"
+        },
+        {
+          "page": "302"
+        },
+        {
+          "page": "303"
+        },
+        {
+          "page": "315"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f-supp-3d/36/0292-01"
+      ]
+    },
+    {
+      "cite": "131 S.Ct. 704",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        5914617,
+        12439770,
+        12439771,
+        5924534
+      ],
+      "year": 2011,
+      "pin_cites": [
+        {
+          "parenthetical": "holding that the \"rule is a reasonable construction of what Congress has said\""
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/562/0042-01",
+        "/l-ed-2d/178/0587-01",
+        "/l-ed-2d/178/0588-01",
+        "/us/562/0044-01"
+      ]
+    },
+    {
+      "cite": "562 U.S. 44",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        12439771,
+        5924534
+      ],
+      "weight": 2,
+      "year": 2011,
+      "pin_cites": [
+        {
+          "page": "60",
+          "parenthetical": "holding that the \"rule is a reasonable construction of what Congress has said\""
+        },
+        {
+          "parenthetical": "holding that the \"rule is a reasonable construction of what Congress has said\""
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/l-ed-2d/178/0588-01",
+        "/us/562/0044-01"
+      ]
+    },
+    {
+      "cite": "69 Fed. Reg. 76,404",
+      "category": "reporters:federal",
+      "reporter": "Fed. Reg.",
+      "year": 2004,
+      "pin_cites": [
+        {
+          "page": "76,408-10"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "Treas. Reg. \u00a7 31.6402",
+      "category": "laws:admin_compilation",
+      "reporter": "Treas. Reg.",
+      "pin_cites": [
+        {
+          "page": "(a)"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "28 U.S.C. \u00a7 1295",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "weight": 4,
+      "pin_cites": [
+        {
+          "page": "(a)(3)"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "128 Fed.Cl. 363",
+      "category": "reporters:specialty",
+      "reporter": "Fed. Cl.",
+      "case_ids": [
+        12173992
+      ],
+      "weight": 13,
+      "year": 2016,
+      "pin_cites": [
+        {
+          "page": "364-65"
+        },
+        {
+          "page": "365",
+          "parenthetical": "citations omitted"
+        },
+        {
+          "page": "365"
+        },
+        {
+          "page": "365",
+          "parenthetical": "citations omitted"
+        },
+        {
+          "page": "369"
+        },
+        {
+          "page": "373"
+        },
+        {
+          "page": "370",
+          "parenthetical": "\"[T]he court- finds that the better reading of the word comes from the primary definitions in the above-cited dictionaries, which nearly consistently defined 'indemnify' first to mean an exemption from liability.\""
+        },
+        {
+          "page": "365-67"
+        },
+        {
+          "page": "366"
+        },
+        {
+          "page": "367"
+        },
+        {
+          "page": "370",
+          "parenthetical": "stating that \" 'indemnified' does not necessarily mean a right to 'reimbursement' \" and that \"the better reading of the word comes from the primary definitions\" (emphases added)"
+        },
+        {
+          "page": "370"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/fed-cl/128/0363-01"
+      ]
+    },
+    {
+      "cite": "28 U.S.C. \u00a7 1491",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "weight": 2,
+      "year": 2012,
+      "pin_cites": [
+        {
+          "page": "(a)(1)",
+          "parenthetical": "\"the Tucker Act\""
+        },
+        {
+          "page": "(a)(1)"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "486 U.S. 825",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6224652
+      ],
+      "weight": 5,
+      "year": 1988,
+      "pin_cites": [
+        {
+          "page": "840",
+          "parenthetical": "\"The views of a subsequent Congress form a hazardous basis for inferring the intent of an earlier one,\" (internal quotation marks, brackets, and citation omitted)"
+        },
+        {
+          "parenthetical": "\"The views of a subsequent Congress form a hazardous basis for inferring the intent of an earlier one,\" (internal quotation marks, brackets, and citation omitted)"
+        },
+        {
+          "parenthetical": "\"The views of a subsequent Congress form a hazardous basis for inferring the intent of an earlier one,\" (internal quotation marks, brackets, and citation omitted)"
+        },
+        {
+          "parenthetical": "internal quotation marks and citation omitted"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/486/0825-01"
+      ]
+    },
+    {
+      "cite": "453 U.S. 280",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11722549
+      ],
+      "weight": 3,
+      "year": 1981,
+      "pin_cites": [
+        {
+          "page": "301"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/453/0280-01"
+      ]
+    },
+    {
+      "cite": "56 Stat. 798",
+      "category": "laws:leg_session",
+      "reporter": "Stat.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "39 Stat. 756",
+      "category": "laws:leg_session",
+      "reporter": "Stat.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "116 S.Ct. 2106",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        1730169,
+        6475603
+      ],
+      "year": 1996,
+      "pin_cites": [
+        {
+          "parenthetical": "accepting the Government's disavowal of reliance upon a title pursuant to \u00a7 7806(b)"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/518/0213-01",
+        "/br/197/2106-01"
+      ]
+    },
+    {
+      "cite": "518 U.S. 213",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        1730169
+      ],
+      "weight": 2,
+      "year": 1996,
+      "pin_cites": [
+        {
+          "page": "222-24",
+          "parenthetical": "accepting the Government's disavowal of reliance upon a title pursuant to \u00a7 7806(b)"
+        },
+        {
+          "parenthetical": "accepting the Government's disavowal of reliance upon a title pursuant to \u00a7 7806(b)"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/518/0213-01"
+      ]
+    },
+    {
+      "cite": "291 F.3d 718",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        9432042
+      ],
+      "year": 2002,
+      "pin_cites": [
+        {
+          "page": "724-25"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/291/0718-01"
+      ]
+    },
+    {
+      "cite": "542 F.3d 59",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        3842005
+      ],
+      "year": 2008,
+      "pin_cites": [
+        {
+          "page": "67-68"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/542/0059-01"
+      ]
+    },
+    {
+      "cite": "563 U.S. 401",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        12458995,
+        4224407
+      ],
+      "weight": 3,
+      "year": 2011,
+      "pin_cites": [
+        {
+          "page": "410"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/l-ed-2d/179/0825-01",
+        "/us/563/0401-01"
+      ]
+    },
+    {
+      "cite": "524 U.S. 125",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11181745
+      ],
+      "weight": 3,
+      "year": 1998,
+      "pin_cites": [
+        {
+          "page": "128"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/524/0125-01"
+      ]
+    },
+    {
+      "cite": "18 Op. O.L.C. 127",
+      "category": "reporters:federal",
+      "reporter": "Op. O.L.C.",
+      "weight": 3,
+      "year": 1994,
+      "pin_cites": [
+        {
+          "parenthetical": "\"FICA Mem.\""
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "53 Stat. 1",
+      "category": "laws:leg_session",
+      "reporter": "Stat.",
+      "weight": 2,
+      "opinion_index": 0
+    },
+    {
+      "cite": "523 U.S. 26",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11503127
+      ],
+      "weight": 3,
+      "year": 1998,
+      "pin_cites": [
+        {
+          "page": "35",
+          "parenthetical": "expldining that the use of \"the mandatory 'shall,' ,.. normally creates an obligation impervious to judicial discretion\" (citation omitted)"
+        },
+        {
+          "parenthetical": "expldining that the use of \"the mandatory 'shall,' ,.. normally creates an obligation impervious to judicial discretion\" (citation omitted)"
+        },
+        {
+          "parenthetical": "expldining that the use of \"the mandatory 'shall,' ,.. normally creates an obligation impervious to judicial discretion\" (citation omitted)"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/523/0026-01"
+      ]
+    },
+    {
+      "cite": "195 L.Ed.2d 334",
+      "category": "reporters:federal",
+      "reporter": "L. Ed. 2d",
+      "year": 2016,
+      "pin_cites": [
+        {
+          "parenthetical": "\"[T]he word 'shall' usually connotes a requirement.\""
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "136 S.Ct. 1969",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        4249436
+      ],
+      "year": 2016,
+      "pin_cites": [
+        {
+          "page": "1977",
+          "parenthetical": "\"[T]he word 'shall' usually connotes a requirement.\""
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/fed-cl/126/1969-01"
+      ]
+    },
+    {
+      "cite": "843 F.3d 1355",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        12174531
+      ],
+      "weight": 2,
+      "year": 2016,
+      "pin_cites": [
+        {
+          "page": "1359-60",
+          "parenthetical": "assessing for error based on the lower court's application of the law rather than the recited standard"
+        },
+        {
+          "page": "1360",
+          "parenthetical": "\"[D]ecisions from other circuits are not binding on this court.\" (internal quotation marks and citation omitted)"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/843/1355-01"
+      ]
+    },
+    {
+      "cite": "28 U.S.C. \u00a7 1500",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "367"
+        },
+        {
+          "parenthetical": "\"The ... Court of Federal Claims shall not have jurisdiction of any claim for or in respect to which the plaintiff ... has pending in any other court any suit or process against the United States .... \""
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "810 F.3d 1312",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        3998681,
+        4060653
+      ],
+      "year": 2016,
+      "pin_cites": [
+        {
+          "page": "1317",
+          "parenthetical": "explaining that the court accepts as true uncontroverted factual allegations in a complaint when the parties dispute jurisdiction"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/fed-cl/124/1313-01",
+        "/f3d/810/1312-01"
+      ]
+    },
+    {
+      "cite": "510 U.S. 200",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        234356
+      ],
+      "weight": 3,
+      "year": 1994,
+      "pin_cites": [
+        {
+          "page": "207"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/510/0200-01"
+      ]
+    },
+    {
+      "cite": "553 U.S. 1",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        3673923
+      ],
+      "weight": 9,
+      "year": 2008,
+      "pin_cites": [
+        {
+          "page": "7",
+          "parenthetical": "quoting I.R.C. \u00a7 7422(a)"
+        },
+        {
+          "parenthetical": "quoting I.R.C. \u00a7 7422(a)"
+        },
+        {
+          "parenthetical": "quoting I.R.C. \u00a7 7422(a)"
+        },
+        {
+          "page": "8"
+        },
+        {
+          "page": "9"
+        },
+        {
+          "page": "7-8"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/553/0001-01"
+      ]
+    },
+    {
+      "cite": "133 S.Ct. 1886",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        12697051,
+        4129087
+      ],
+      "year": 2013,
+      "opinion_index": 1,
+      "case_paths": [
+        "/us/569/0369-01",
+        "/fed-cl/110/1886-01"
+      ]
+    },
+    {
+      "cite": "489 U.S. 803",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        12033629
+      ],
+      "weight": 3,
+      "year": 1989,
+      "pin_cites": [
+        {
+          "page": "809"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/us/489/0803-01"
+      ]
+    },
+    {
+      "cite": "463 U.S. 206",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6193185
+      ],
+      "weight": 10,
+      "year": 1983,
+      "pin_cites": [
+        {
+          "page": "216-17"
+        },
+        {
+          "page": "216-17"
+        },
+        {
+          "page": "217"
+        },
+        {
+          "page": "218"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/us/463/0206-01"
+      ]
+    },
+    {
+      "cite": "123 S.Ct. 1126",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        1018072,
+        9191282,
+        7350892
+      ],
+      "weight": 11,
+      "year": 2003,
+      "pin_cites": [
+        {
+          "parenthetical": "quoting United States v. Mitchell, 463 U.S. 206, 216-17, 103 S.Ct. 2961, 77 L.Ed.2d 580 (1983)"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/fed-cl/55/1126-01",
+        "/us/537/0465-01",
+        "/am-tribal-law/4/1126-01"
+      ]
+    },
+    {
+      "cite": "537 U.S. 465",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        9191282
+      ],
+      "weight": 6,
+      "year": 2003,
+      "pin_cites": [
+        {
+          "page": "472",
+          "parenthetical": "quoting United States v. Mitchell, 463 U.S. 206, 216-17, 103 S.Ct. 2961, 77 L.Ed.2d 580 (1983)"
+        },
+        {
+          "parenthetical": "quoting United States v. Mitchell, 463 U.S. 206, 216-17, 103 S.Ct. 2961, 77 L.Ed.2d 580 (1983)"
+        },
+        {
+          "page": "472"
+        },
+        {
+          "page": "473"
+        },
+        {
+          "page": "473"
+        },
+        {
+          "page": "473"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/us/537/0465-01"
+      ]
+    },
+    {
+      "cite": "402 F.3d 1167",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        9181321,
+        497517
+      ],
+      "weight": 4,
+      "year": 2005,
+      "pin_cites": [
+        {
+          "page": "1171-73",
+          "parenthetical": "en banc in relevant part"
+        },
+        {
+          "page": "1173"
+        },
+        {
+          "page": "1172-73"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/f3d/402/1167-01",
+        "/fed-cl/64/1167-01"
+      ]
+    },
+    {
+      "cite": "424 U.S. 392",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        12026657
+      ],
+      "weight": 8,
+      "year": 1976,
+      "pin_cites": [
+        {
+          "page": "400"
+        },
+        {
+          "page": "400"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/us/424/0392-01"
+      ]
+    },
+    {
+      "cite": "49 Stat. 620",
+      "category": "laws:leg_session",
+      "reporter": "Stat.",
+      "opinion_index": 1
+    },
+    {
+      "cite": "534 U.S. 84",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        9108010
+      ],
+      "weight": 3,
+      "year": 2001,
+      "pin_cites": [
+        {
+          "page": "94-95"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/us/534/0084-01"
+      ]
+    },
+    {
+      "cite": "49 Stat. 974",
+      "category": "laws:leg_session",
+      "reporter": "Stat.",
+      "opinion_index": 1
+    },
+    {
+      "cite": "186 L.Ed.2d 1003",
+      "category": "reporters:federal",
+      "reporter": "L. Ed. 2d",
+      "year": 2013,
+      "opinion_index": 1
+    },
+    {
+      "cite": "669 U.S. 369",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "year": 2013,
+      "pin_cites": [
+        {
+          "page": "378"
+        }
+      ],
+      "opinion_index": 1
+    },
+    {
+      "cite": "26 U.S.C. \u00a7\u00a7 3202",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "pin_cites": [
+        {
+          "page": "(b)"
+        }
+      ],
+      "opinion_index": 1
+    },
+    {
+      "cite": "26 U.S.C. \u00a7 6511",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "weight": 2,
+      "opinion_index": 1
+    },
+    {
+      "cite": "467 U.S. 837",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6209106
+      ],
+      "weight": 6,
+      "year": 1984,
+      "pin_cites": [
+        {
+          "page": "843"
+        },
+        {
+          "page": "882"
+        },
+        {
+          "page": "884-85"
+        },
+        {
+          "parenthetical": "alteration in original"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/us/467/0837-01"
+      ]
+    },
+    {
+      "cite": "64 Fed.Cl. 583",
+      "category": "reporters:specialty",
+      "reporter": "Fed. Cl.",
+      "case_ids": [
+        497601
+      ],
+      "weight": 5,
+      "year": 2005,
+      "pin_cites": [
+        {
+          "page": "588",
+          "parenthetical": "alteration-in original"
+        },
+        {
+          "page": "590"
+        },
+        {
+          "page": "590-92"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/fed-cl/64/0583-01"
+      ]
+    },
+    {
+      "cite": "207 F.3d 1373",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        11457737
+      ],
+      "weight": 3,
+      "year": 2000,
+      "pin_cites": [
+        {
+          "page": "1378-80"
+        },
+        {
+          "page": "1379"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/f3d/207/1373-01"
+      ]
+    },
+    {
+      "cite": "372 F.2d 1002",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        10816584,
+        2043562
+      ],
+      "weight": 2,
+      "year": 1967,
+      "pin_cites": [
+        {
+          "page": "1009"
+        },
+        {
+          "page": "1009"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/us-ct-cl/178/0599-01",
+        "/f2d/372/1002-01"
+      ]
+    },
+    {
+      "cite": "26 U.S.C. \u00a7 3102",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "pin_cites": [
+        {
+          "page": "(b)"
+        }
+      ],
+      "opinion_index": 1
+    },
+    {
+      "cite": "56 Stat. 798",
+      "category": "laws:leg_session",
+      "reporter": "Stat.",
+      "opinion_index": 1
+    },
+    {
+      "cite": "39 Stat. 756",
+      "category": "laws:leg_session",
+      "reporter": "Stat.",
+      "opinion_index": 1
+    },
+    {
+      "cite": "53 Stat. 1",
+      "category": "laws:leg_session",
+      "reporter": "Stat.",
+      "opinion_index": 1
+    },
+    {
+      "cite": "553 U.S. 1",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        3673923
+      ],
+      "weight": 6,
+      "year": 2008,
+      "pin_cites": [
+        {
+          "page": "7-8"
+        },
+        {
+          "page": "4"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/us/553/0001-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 1809,
+    "char_count": 59978,
+    "ocr_confidence": 0.631,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.24882879272112005
+    },
+    "sha256": "cea883795b2a57a380a9ca9700394ec22835347d1827c1cc18e028627a781e32",
+    "simhash": "1:6919fb57e7958fad",
+    "word_count": 9639
+  },
+  "last_updated": "2024-02-27T17:59:44.301675+00:00",
+  "provenance": {
+    "date_added": "2018-10-23",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before Newman, O\u2019Malley, and Wallach, Circuit Judges."
+    ],
+    "parties": [
+      "NEW YORK AND PRESBYTERIAN HOSPITAL, Plaintiff-Appellant v. UNITED STATES, Defendant-Appellee"
+    ],
+    "opinions": [
+      {
+        "text": "Dissenting opinion filed by Circuit Judge O\u2019Malley.\nWallach, Circuit Judge.\nAppellant New York and Presbyterian Hospital (\u201cthe Hospital\u201d) sued Appellee the United States (\u201cthe Government\u201d) in the U.S. Court of Federal Claims, alleging that Internal Revenue Code \u00a7 3102(b) (2012) entitled the Hospital to recover money paid to its medical residents to settle related litigation in the U.S. District Court for the Southern District of New York (\u201cthe District Court\u201d). The Government filed a motion to dismiss for lack of subject matter jurisdiction pursuant to Rule 12(b)(1) of the Rules of the Court of Federal Claims. The Court of Federal Claims granted the Government\u2019s Motion to Dismiss, holding that \u00a7 3102(b) is not a money-mandating source of substantive law, as required for the Court of Federal Claims to have jurisdiction pursuant to 28 U.S.C. \u00a7 1491(a)(1) (2012) (\u201cthe Tucker Act\u201d). See N.Y. & Presbyterian Hosp. v. United States, 128 Fed.Cl. 363, 364-65 (2016); see also J.A. 1 (Final Judgment).\nThe Hospital appeals. We have jurisdiction pursuant to 28 U.S.C. \u00a7 1295(a)(3). We reverse and remand.\nBackground\nI, The Relevant Statutory and Regulatory Framework\nPursuant to the Federal Insurance Contributions Act (\u201cFICA\u201d), I.R.C. \u00a7\u00a7 3101-3128, employees and employers each pay taxes based on wages paid to employees. See id. \u00a7\u00a7 3101 (Tax on Employees), 3111 (Tax on Employers). Generally, the employee\u2019s FICA taxes are \u201ccollected by the employer of the taxpayer[] by deducting the amount of the tax -from the wages as and when paid.\u201d Id. \u00a7 3102(a). The subsection at issue on appeal, \u00a7 3102(b), further provides that \u201c[e]very employer required so to deduct the tax shall be liable for the payment of such tax, and shall be indemnified against the claims and demands of any person for the amount.of any such payment made by such employer.\u201d\nThere are certain excepti\u00f3ns to' the FICA tax. Relevant here, under the student exception, FICA taxes do not apply to wages for \u201cservice performed in the employ of ... a school, college, or university ... if such service is performed by a student who is enrolled and regularly attending classes at such school, college, or university.\u201d Id. \u00a7 3121(b)(l0). Although the Internal Revenue Service (\u201cIRS\u201d) determined that \u201cmedical residents were not eligible for the student exception and required hospitals employing medical residents to withhold the employee share of FICA taxes from residents\u2019 paychecks and pay the withheld amounts and the employer share to the [Gjovernment,\u201d the scope of the student exception became subject to litigation. N.Y. & Presbyterian Hosp., 128 Fed.Cl. at 365 (citations omitted). During the pendency of that litigation, the IRS allowed either employers or medical residents to file protective refund claims to preserve their elaims for refunds of the FICA taxes. Id.) see Treas. Reg. \u00a7 31.6402(a)-2(a), (b) (1960).\nIn 2004, the IRS implemented a regulation excluding medical residents from the student exception for services provided after April 1, 2005. N.Y. & Presbyterian Hosp., 128 Fed.Cl. at 365; see Student FICA Exception, 69 Fed. Reg. 76,404, 76,408-10 (Dec. 21, 2004); see also Mayo Found, for Med. Educ. & Research v. United States, 562 U.S. 44, 60, 131 S.Ct. 704, 178 L.Ed.2d 588 (2011) (holding that the \u201crule is a reasonable construction of what Congress has said\u201d). However, in 2010, \u201cthe IRS decided that ... medical residents could qualify for the student exception for tax periods ending before April 1, 2005,\u201d such that \u201chospitals and [medical] residents who had filed protective refund claims for tax periods before April 1, 2005[,]. would be able to obtain refunds of the FICA taxes withheld from residents\u2019 wages.\u201d N.Y. & Presbyterian Hosp., 128 Fed.Cl. at 365 (citations omitted); see J.A. .37 (IRS News Release).\nII. The District Court Litigation\nIn August 2013, former medical residents (\u201cthe District Court Plaintiffs\u201d) sued the Hospital in the District Court, alleging that the Hospital had not filed protective refund claims between January 1995 and June 2001, and asserting claims of fraud, constructive fraud, breach of fiduciary duty, negligent misrepresentation, negligence, breach of contract, and unjust enrichment. See Childers v. N.Y. & Presbyterian Hosp., 36 F.Supp.3d 292, 298, 300 (S.D.N.Y. 2014); see J.A. 38-74. The Hospital filed a motion to dismiss, see J.A 75-102, arguing that, inter alia, the District Court Plaintiffs\u2019\u2019, claims were \u201cdisguised tax refund suits,\u201d Childers, 36 F.Supp.3d at 303, and .Internal Revenue Code \u00a7 7422 \u201cbars any suit to recover a tax unless a timely refund claim has been made,\u201d id. at 302; see I.R.C. \u00a7 7422(a) (providing, in relevant part, that \u201c[n]o suit or proceeding shall be maintained in any court for the recovery of any internal revenue tax alleged to have been erroneously or illegally assessed or collected ... until a claim for refund or credit has been duly filed\u201d with the IRS). The District Court denied the Hospital\u2019s Motion to Dismiss, holding that the District Court Plaintiffs\u2019 claims \u201cdo not arise out of the Hospital\u2019s collection of taxes[ ] and therefore do not implicate the rationale for excusing the employer as tax collector from liability for tax refunds\u201d but rather out of \u201cindependent actions and omissions\u201d like failing \u201cto file protective refund claims.\u201d Childers, 36 F.Supp.3d at 303.\nAfter the District Court declined the Hospital\u2019s request to certify its denial of the Hospital\u2019s Motion to Dismiss for immediate appeal, see id. at 315, the Hospital petitioned for writs of mandamus, e.g., J.A. 117, each of which the U.S. Court of Appeals for the Second Circuit denied, J.A. 157. The Hospital decided to pursue settlement and, in November 2015, the Hospital and the District Court Plaintiffs entered into a settlement agreement, whereby the Hospital agreed to pay the District Court Plaintiffs $6,632,000. See J.A. 346, 348; see also J.A. 261. Relevant here, the Settlement Agreement provides that the settlement award \u201ccan be appropriately characterized as a refund for the amount of FICA taxes previously withheld by the Hospital.\u201d J.A. 275. Upon approving the the Settlement Agreement, the District Court dismissed the District Court Plaintiffs\u2019 claims. See J.A. 358.\nIII. The Court of Federal Claims Litigation\nIn April 2016, the Hospital filed its Complaint in the Court of Federal Claims, arguing that \u00a7 3102(b) indemnified the Hospital from the District Court Plaintiffs\u2019 claims and seeking, inter alia, reimbursement of the $6,632,000 paid to the District Court Plaintiffs under the Settlement Agreement. J.A. 34-35. The Government filed its Motion to Dismiss, arguing that \u201cthe phrase \u2018shall be indemnified\u2019 in [\u00a7 ] 3102(b) is not properly read to require the [G]overment to reimburse an employer that is sued in connection with the collection of FICA taxes.\" N.Y. & Presbyterian Hosp., 128 Fed.Cl. at 369. The Court of Federal Claims analyzed FICA\u2019s statutory framework and agreed with the Government, holding that \u201c[\u00a7 ] 3102(b) is ... an immunity provision and that a contrary reading would undermine the statutory refund scheme contrary to Congress\u2019 intent.\u201d Id. at 373.\nDiscussion\nI. Standard of Review and Legal Standard\nWe review the Court of Federal Claims\u2019 dismissal of an action for lack of subject matter jurisdiction de novo, Coast Prof'l, Inc. v. United States, 828 F.3d 1349, 1354 (Fed. Cir. 2016), and its attendant factual findings for clear error, see Hymas, 810 F.3d at 1317.\nPursuant to the Tucker Act, the Court of Federal Claims has jurisdiction\nto render judgment upon any claim against the United States founded either upon the Constitution, or any Act of Congress or any regulation of an executive department, or upon any express or implied contract with the United States, or for liquidated or unliquidated damages in cases not sounding in tort.\n28 U.S.C. \u00a7 1491(a)(1). The Tucker Act is \u201conly a jurisdictional statute; it does not create any substantive right enforceable against the United States for money damages. ... [T]he Act merely confers jurisdiction upon [the Court of Federal Claims] whenever the substantive right exists.\u201d United States v. Testan, 424 U.S. 392, 398, 96 S.Ct. 948, 47 L.Ed.2d 114 (1976) (emphasis added) (citation omitted). Therefore, \u201ca plaintiff must identify a separate source of substantive law that creates the right to money damages. ... [T]hat source must be \u2018money-mandating.\u2019 \u201d Fisher v. United States, 402 F.3d 1167, 1172 (Fed. Cir. 2005) (en banc in relevant part) (citations omitted).\nAlthough the waiver of sovereign immunity must be unequivocal, see United States v. White Mountain Apache Tribe, 537 U.S. 465, 472, 123 S.Ct. 1126, 155 L.Ed.2d 40 (2003), the money-mandating source of substantive law may be express or implied, see United States v. Mitchell, 463 U.S. 206, 217 n.16, 103 S.Ct. 2961, 77 L.Ed.2d 580 (1983). In Mitchell, the Supreme Court reaffirmed that a plaintiff \u201cmust demonstrate that the source of substantive law ... relie[d] upon can fairly be interpreted as mandating compensation by the Federal Government for the damages sustained.\u201d Id. at 216-17, 103 S.Ct. 2961 (emphasis added) (internal quotation marks, citation, and footnote omitted). Subsequently, the Supreme Court clarified the \u201cfairly be interpreted\u201d standard:\nThis fair interpretation rule demands a showing demonstrably lower than the standard for the initial waiver of sovereign immunity. ... It is enough, then, that a statute creating a Tucker Act right be reasonably amenable to the reading that it mandates a right of recovery in damages. While the premise to a Tucker Act claim' will not be lightly inferred, a fair inference will do.\nWhite Mountain, 537 U.S. at 472-73, 123 S.Ct. 1126 (emphases added) (internal quotation marks and citations omitted). The Supreme Court also explained that \u201cexplicit authorization of a damages remedy\u201d may be required when there are \u201cstrong indications that Congress did not intend to mandate money damages,\u201d such that \u201ca fair inference will require an express provision[ ] when the legal current is otherwise against the existence of a cognizable claim.\u201d Id. at 478, 123 S.Ct. 1126.\nII. The Court of Federal Claims Erred in Concluding \u2022 that It Lacked \u2018Subject \u25a0. \u25a0 Matter Jurisdiction over the Hospital\u2019s Complaint\nThe sole issue on appeal is whether \u00a7 3102(b)\u2019s \u201cshall \u2022 be indemnified\u201d language is a money-mandating source of substantive law. See Appellant\u2019s Br. 2; Appel-lee\u2019s Br. 3. The Hospital argues that \u00a7 3102(b) is money-mandating because \u201cthe words \u2018shall be indemnified\u2019 \u2022 can be fairly-interpreted to require the Government to pay monetary compensation,\u201d Appellant\u2019s Br. 27 (capitalization modified), whereas \u215b the Government argues \u201c\u00a7 3102(b) cannot \u2018fairly be interpreted\u2019 to mandate compensation by the [Fjederal [Government for damages sustained\u201d because \u201c\u00a7 3102(b) is an immunity provision, not a reimbursement, provision,\u201d Appellee\u2019s Br. 24. Because \u00a7 3102(b) is reasonably amenable to an interpretation that it mandates the Government to reimburse FICA taxes paid by an employer, we hold that \u00a7 3102(b) is money-mandating and that the Court of Federal Claims erred in concluding that it lacked subject matter jurisdiction over the Hospital\u2019s Complaint.\nA. The Plain Language of \u00a7 3102(b)\nWe begin with the plain language of \u00a7 3102(b). See BedRoc Ltd. v. United States, 541 U.S. 176, 183, 124 S.Ct. 1587, 158 L.Ed.2d 338 (2004) (\u201c[OJur inquiry begins with the statutory text[] and ends there as well if the text is. unambiguous.\u201d (citations omitted)). \u201cIt is a fundamental canon of statutory construction that ... words will be interpreted as taking their ordinary, contemporary, common meaning,\u201d which may be derived from \u201c[djictio-naries from, the era of [the statutory provision's enactment.\u201d Sandifer v. U.S. Steel Corp., \u2014 U.S. -, 134 S.Ct. 870, 876, 187 L.Ed.2d 729 (2014) (internal quotation marks and citation .omitted). Because the common meaning of \u201cindemnified\u201d at the time of \u00a7 31Q2(b)\u2019s enactment contempl\u00e1is ed reimbursement, \u00a7 3102(b) is \u201creasonably amenable to the reading that it mandates a right of recovery in damages.\u201d White Mountain, 537 U.S. at 473, 123 S.Ct. 1126.\nThree contemporaneous dictionaries support the conclusion that the plain meaning of \u201cindemnified\u201d includes monetary compensation. First, the 1933 Oxford English Dictionary defined \u201cindemnify\u201d to mean, inter alia: \u201c1. ... To preserve, protect, or keep free from, secure against (any-hurt, harm, or loss); to secure against legal responsibility for past or future actions or events; to give an indemnity to. ... 2. To compensate (a person, etc.) for loss suffered, expenses incurred, etc.\u201d Indemnify, The Oxford English Dictionary (1st ed. 1933) (italics omitted); see Indemnification, The Oxford English Dictionary (1st ed. 1933) (defining \u201cindemnification\u201d to mean, inter alia, \u201c[t]he- action \u25a0 of compensating for actual loss or damage sustained; also the fact of being compensated\u201d); In-, demnity, The Oxford English Dictionary (1st ed. 1933) (defining \u201cindemnity\u201d to mean, inter alia, \u201c[a] legal exemption from the penalties or liabilities incurred by any course of action\u201d and \u201c[c]ompensation for loss or damage incurred,\u201d i.e., \u201c[a] sum paid by way of compensation\u201d).\nSecond, both the 1917 and 1942 editions of Webster\u2019s New International Dictionary of the English Language defined \u201cindemnify\u201d similarly, with the 1917 version defining the term to mean: \u201c1. To save harmless; to secure against loss or damage. ... 2. To make restitution or compensation to, as- for a loss, damage, etc.; to make whole; to reimburse; to compensate; also, to make good (a loss).\u201d Indemnify, Webster\u2019s New Int\u2019l Dictionary of-the English Language (1st ed. 1917); see Indemnify, Webster\u2019s New Int\u2019l Dictionary of the English Language (2d ed. 1942) (similar); see also Indemnification, Webster\u2019s New Int\u2019l Dictionary of the English Language (1st ed. 1917) (defining \u201cindemnification\u201d to mean, inter alia, a \u201cprocess of indemnifying, preserving, or securing against loss, damage, or penalty; reimbursement of. loss, damage, or penalty; the state of being indemnified\u201d and defining \u201cindemnity\u201d to mean, inter alia, \u201c^Indemnification, compensation, or remuneration for loss, damage, or injury sustained\u201d); Indemnification, Webster\u2019s New Int\u2019l Dictionary of the English Language (2d ed. 1942) (similar).\nThird, and finally, the 1933 version of Black\u2019s Law Dictionary defined \u201cindemnify\u201d to mean: \u201cTo save harmless; to secure against loss or damage; to give security for the reimbursement of a person in case of an anticipated loss falling upon him. ... Also to make good; to compensate; to make reimbursement to one of a loss already incurred by him.\u201d Indemnify, Black\u2019s Law Dictionary (3d ed. 1933); see Indemnity, Black\u2019s Law Dictionary (3d ed. 1933) (stating that \u201cindemnity\u201d \u201cis also used to denote a compensation given to make the person whole from a loss already sustained\u201d).\nBased on a review of these three contemporaneous dictionaries, the plain meaning of \u201cindemnify\u201d included monetary compensation at the time of \u00a7 3102(b)\u2019s enactment. Not only do all three dictionaries include \u201cto compensate\u201d in their definitions, Indemnify, Webster\u2019s New Int\u2019l Dictionary of the English Language (1st ed. 1917); see also Indemnify, Webster\u2019s New Int\u2019l Dictionary of the English Language (2d ed. 1942); Indemnify, The Oxford English Dictionary (1st ed. 1933); Indemnify, Black\u2019s Law Dictionary (3d ed. 1933), two discuss reimbursement, Indemnify, Webster\u2019s New Int\u2019l Dictionary of the English Language (1st ed. 1917); see also Indemnify, Webster\u2019s New Int\u2019l Dictionary of the English Language (2d ed. 1942); Indemnify, Black\u2019s Law Dictionary (3d ed. 1933), the very relief that the Hospital seeks here. Section 3102(b) thus is \u201creasonably amenable to the reading that it mandates a right of recovery in damages.\u201d White Mountain, 537 U.S. at 473, 123 S.Ct. 1126.\nThe Government\u2019s counterarguments are unpersuasive. Echoing the Court of Federal Claims\u2019 erroneous reasoning, the Government argues that \u201cdictionaries during the time of enactment of ... \u00a7 3102(b) consistently defined the terms \u2018indemnify\u2019 and \u2018indemnity,\u2019 in the first definition or sense of the word, to mean immunity from liability.\u201d Appellee\u2019s Br. 30 (emphasis added); see N.Y. & Presbyterian Hosp., 128 Fed.Cl. at 370 (\u201c[T]he court- finds that the better reading of the word comes from the primary definitions in the above-cited dictionaries, which nearly consistently defined \u2018indemnify\u2019 first to mean an exemption from liability.\u201d). This argument fails for at least three reasons. First, the fair interpretation standard used to determine whether a statute is money-mandating does not require courts to evaluate whether the \u201cfirst\u201d or \u201cprimary\u201d meaning of the statute mandates compensation. Instead, it requires courts to evaluate whether the statute is \u201creasonably amenable to the reading that it mandates a right of recovery in damages.\u201d White Mountain, 537 U.S. at 473, 123 S.Ct. 1126 (emphasis added). Second, the first definition in each of the three dictionaries uses terms like \u201cprotect,\u201d \u201csave harmless,\u201d and \u201csecure against,\u201d but the dictionaries themselves indicate that the order of the definitions does not reflect the plain or most widely accepted meaning of the terms as understood at the time. For instance, the 1933 version of the Oxford English Dictionary states \u201cthat sense is placed first which was actually the earliest in the language: the others follow in the order in which they appear to have arisen.\u201d Preface to Oxford English Dictionary, at xxxi (1st ed. 1933) (reprinted in 1961); cf. Explanatory Notes to Webster\u2019s Third New Int\u2019l Dictionary, at 17a (1986) (stating that the ordering of senses \u201cdoes not evaluate senses or establish an enduring hierarchy of importance among them\u201d). Third, even if the meaning of indemnify were limited to the first definitions, those definitions still contemplate monetary compensation. See, e.g., Secure, Webster\u2019s New Int\u2019l Dictionary (2d ed. 1942) (defining \u201csecure\u201d to mean \u201c[t]o give adequate pledge of payment\u201d); Secure, Black\u2019s Law Dictionary (3d ed. 1933) (defining \u201csecure\u201d to mean, inter alia, \u201cto assure of payment\u201d and \u201cmake certain the payment of a debt or discharge of an obligation\u201d). The order of the definitions neither matters under the relevant legal standard nor indicates whether the common understanding of \u201cindemnify\u201d included monetary compensation at the time \u00a7 3102(b) was enacted.\nThe Government also avers that \u201cthe Hospital\u2019s reading of \u00a7 3102(b) as a reimbursement provision cannot be squared with the first clause of the statute\u201d because\nit would make little sense to read the very next clause of the statute as authorizing employers who have so collected and paid FICA taxes to the IRS to turn around and, at their own whim, pay the \u201cclaims\u201d and \u201cdemands\u201d of their employees ..., and then be entitled to full reimbursement from the United States for doing so.\nAppellee\u2019s Br. 32-33. Although it is true that \u201c[statutes should be interpreted to avoid ... unreasonable results whenever possible,\u201d Am. Tobacco Co. v. Patterson, 456 U.S. 63, 71, 102 S.Ct. 1534, 71 L.Ed.2d 748 (1982), it also is true that \u201c[t]he preeminent canon of statutory construction requires us to presume that the legislature says in a statute what it means and means in a statute what it says there,\u201d BedRoc, 541 U.S. at 183, 124 S.Ct. 1587 (internal quotation marks, brackets, and citation omitted). As we explained above, the plain language of \u00a7 3102(b) is reasonably amenable to an interpretation that it mandates reimbursement. Therefore, even if we were to agree that the Hospital\u2019s interpretation leads to unreasonable results, \u201cit is for Congress, not this [c]ourt, to rewrite the statute.\u201d Blount v. Rizzi, 400 U.S. 410, 419, 91 S.Ct. 423, 27 L.Ed.2d 498 (1971).\n\u2022 -In sum, we conclude that, at the time of \u00a7 3102(b)\u2019s enactment, \u201cindemnify\u201d was commonly understood to mean \u201cto compensate\u201d and \u201cto reimburse,\u201d thereby supporting the conclusion that \u00a7 3102(b) is reasonably amenable to an interpretation that it is money-mandating.\nB, Section 3102(b)\u2019s Relationship to Other Provisions of the Internal Revenue Code\nOther provisions of the Internal Revenue Code also may inform our interpretation of \u00a7 3102(b). See Davis v. Mich. Dep\u2019t of the Treasury, 489 U.S. 803, 809, 109 S.Ct. 1500, 103 L.Ed.2d 891 (1989) (\u201cIt is a fundamental canon of'statutory construction that the words of a statute must be read in their context and with a view to their 'place in the overall statutory scheme.\u201d). Three sections of the Internal Revenue Code, specifically \u00a7\u00a7 3202(b), 3403, and 7422, further support our conclusion that \u00a7 3102(b) is reasonably amenable to an interpretation that it is money-mandating.\nFirst, both \u00a7 3202(b), which is the counterpart to \u00a7 3102 for railroad employers and employees, and \u00a7 3403, which concerns the withholding of taxes by an employer, provide that the \u201cemployer ... .shall not be liable to any person for the amount of any such payment\u201d for taxes deducted, I.R.C. \u00a7\u00a7 3202(b), 3403 (emphasis added), such that employers are immunized from employee suits for reimbursement of taxes deducted by the- employer. Because \u00a7\u00a7 3202(b) and 3403 are structured similarly to \u00a7 3102(b) but provide that the employer \u201cshall not be liable\u201d rather than that the employer \u201cshall be indemnified)\u201d we may presume that Congress intended these phrases to have different meanings. See Sebelius v. Cloer, 569 U.S. 369, 378, 133 S.Ct. 1886, 185 L.Ed.2d 1003 (2013) (\u201cWe have long held that where Congress includes particular language in one section of a statute but omits it in another section of the same Act, it is generally presumed that Congress acts intentionally and purposely in the disparate inclusion or exclusion.\u201d (internal quotation marks, brackets, and citation omitted)).\nSecond, \u00a7 7422 provides that taxpayers \u201cmay bring \u2018[n]o suit\u2019 in \u2018any court\u2019 to recover \u2018any internal revenue tax\u2019 or \u2018any sum\u2019 alleged to have been wrongfully collected \u2018in any manner,\u2019 \u201d United States v. Clintwood Elkhorn Mining Co., 553 U.S. 1, 7, 128 S.Ct. 1511, 170 L.Ed.2d 392 (2008) (quoting I.R.C. \u00a7 7422(a)), and that \u201c[a] suit or proceeding ,.. may b\u00e9 maintained only against the United States,\u201d I.R.C. \u00a7 7422(f)(1). The Supreme Court explained that \u00a7 7422 \u201cclearly state[s] that taxpayers seeking refunds of unlawfully assessed taxes must comply with the [Internal Revenue] Code\u2019s refund scheme before bringing suit.\u201d Clintwood Elkhorn, 553 U.S. at 8, 128 S.Ct. 1511. As the Government conceded, see J.A. 399 (Q: \u201cIn a real\u2014in a perfect world, would this District Court have dismissed this case under [\u00a7 ] 7422?\u201d A: \u201cI think that\u2019s\u2014I think that was the proper thing to do.\u201d), the District Court should have interpreted \u00a7 7422 so that the Hospital was immunized from the District Court Plaintiffs\u2019 Complaint and dismissed their claims, see Clintwood Elkhorn, 553 U.S. at 9, 128 S.Ct. 1511 (stating that the nature of the claims \u201cdoes not matter\u201d because, \u201c[i]f the [taxpayers]\u2019 claims are subject to the [Internal Revenue] Code provisions, those claims are barred whatever the source of the cause of action\u201d). Because \u00a7 7422 plainly immunizes employers from claims by employees for the recovery of any internal revenue tax alleged to have been wrongfully collected, see Clintwood Elkhorn, 553 U.S. at 7-8, 128 S.Ct. 1511, we conclude that \u00a7 7422 demonstrates that Congress knew how to craft an immunity provision when it so -desired, see Cloer, 569 U.S. at 378, 133 S.Ct. 1886.\nC. Legislative History\nCourts also may rely on legislative history to inform their interpretation of statutes. See Thunder Basin Coal Co. v. Reich, 510 U.S. 200, 207, 114 S.Ct. 771, 127 L.Ed.2d 29 (1994). The legislative history of \u00a7 3102(b) further supports our conclusion that \u00a7 3102(b) is reasonably amenable to an interpretation that it is money-mandating.\nThe only relevant legislative history identified by either the parties or this court is the House Report on \u00a7 802(a) of the Social Security Act, \u00a7 3102(b)\u2019s predecessor. See Appellant\u2019s Br. 29-30; Appel-lee\u2019s Br. 33-34. The-House Report states that, \u201c[t]o protect the employer, he is in-damnified against any claims and demands with respect to that part of the wages of the employee which he withheld, up to the correct amount withheld and paid to the United States.\u201d H.R. Rep. No. 74-615, at 30 (1985). By providing for indemnification up to the \u201ccorrect amount,\u201d the House Report indicates that Congress understood \u201cindemnification\u201d to contemplate the payment of money. If read otherwise, it would allow an employer to sue for more than the correct amount. Thus, we hold that \u00a7 3102(b) is a money-mandating provision, in light of the statute\u2019s text, structure, and legislative history.\nConclusion\nWe have considered the parties\u2019 remaining arguments and find them unpersuasive. Accordingly, the Final Judgment of the Court of Federal Claims is\nREVERSED AND REMANDED\nCosts\nCosts to the Hospital.\n, \u25a0 The Hospital is the successor of two entities that merged in 1998: The Society of The New York Hospital and The Presbyterian Hospital. J.A. 30. For ease of reference, we refer to all three entities, individually and collectively, as the Hospital.\n. The parties do not contest the Court of Federal Claims' recitation of the relevant facts, see Appellant's Br. 3-17; Appellee\u2019s Br. 3-17, which it properly derived from the Hospital\u2019s complaint, see N.Y. & Presbyterian Hosp., 128 Fed.Cl. at 365-67; see also Hymas v. United States, 810 F.3d 1312, 1317 (Fed. Cir. 2016) (explaining that the court accepts as true uncontroverted factual allegations in a complaint when the parties dispute jurisdiction). Accordingly, we cite to the Court of Federal Claims\u2019 recitation of the facts.\n. Following the denial of certification for immediate appeal, the Hospital filed a third-party complaint in the District Court that listed the Government as a third-party defendant, J.A. 158-67; however, the District Court later dismissed the Third-Party Complaint without prejudice at the Hospital's request, N.Y. & Presbyterian Hosp., 128 Fed.Cl. at 366. When the Hospital originally sued in the Court of Federal Claims in June 2015, the Court of Federal Claims dismissed that case without prejudice because it was filed while the Hospital\u2019s Third-Party Complaint was pending in the District Court, such that the Court of Federal Claims did not have jurisdiction over the case pursuant to 28 U.S.C. \u00a7 1500. Id. at 367; see 28 U.S.C. \u00a7 1500 (\u201cThe ... Court of Federal Claims shall not have jurisdiction of any claim for or in respect to which the plaintiff ... has pending in any other court any suit or process against the United States .... \u201d).\n. While the Court of Federal Claims articulated the fair interpretation standard, N.Y. & Presbyterian Hosp., 128 Fed.Cl. at 367, it may have applied a more demanding standard, see id. at 370 (stating that \u201c \u2018indemnified\u2019 does not necessarily mean a right to \u2018reimbursement\u2019 \u201d and that \"the better reading of the word comes from the primary definitions\u201d (emphases added)); see also Int'l Custom Prods., Inc. v. United States, 843 F.3d 1355, 1359-60 (Fed. Cir. 2016) (assessing for error based on the lower court\u2019s application of the law rather than the recited standard). Noting that the Supreme Court rejected a heightened standard in White Mountain, we reiterate that there is no requirement of a \"plain and explicit statement\" that money damages are due. 537 U.S. at 477, 123 S.Ct. 1126. To the extent the Court of Federal Claims believes there are \"strong indications that Congress did not intend to mandate money damages,\u201d such that an \"express provision\u201d is necessary, id. at 478, 123 S.Ct. 1126, it should have articulated such a conclusion rather than expected this court to divine its rationale.\n. Section 3102(b) provides, in its entirely, that \"[e]very employer required so to deduct the tax shall be liable for the payment of such tax, and shall be indemnified against the claims and demands of any person for the amount of any such payment made by such employer.\u201d\n. , Although we hold that \u00a7 3102(b) is \"reasonably amenable\u201d to this interpretation in accordance with the Supreme Court's standard, White Mountain, 537 U.S, at 472-73, 123 S.Ct. 1126, we believe the only reasonable interpretation of \u00a7 3102(b) is that it mandates the Government to reimburse FICA taxes paid to an employer.\n.' Of the phrase \"shall be indemnified,\u201d only the term \"indemnified\u201d requires \u2019interpretation. It is undisputed that \u00a7 3102(b)'s use of \"shall\u201d mandates indemnification. See Appellant\u2019s Br. 27-40; Appellee\u2019s Br. 24-44; see also Kingdomwdre Techs., Inc. v. United States, \u2014 U.S. -, 136 S.Ct. 1969, 1977, 195 L.Ed.2d 334 (2016) (\"[T]he word 'shall' usually connotes a requirement.\u201d); Lexecon Inc. v. Milberg Weiss Bershad Hynes & Lerach, 523 U.S. 26, 35, 118 S.Ct. 956, 140 L.Ed.2d 62 (1998) (expldini\u00f1g that the use of \"the mandatory \u2018shall,\u2019 ,.. normally creates an obligation impervious to judicial discretion\u201d (citation omitted)). There is no meaningful dispute that, if \u00a7 3102(b) mandates-monetary compensation, then the Government is the indemnitor under the statute. See N.Y. & Presbyterian Hosp., 128 Fed.Cl. at 373 n.10 (stating that, although the Government argued that \u00a7 3102(b) is not money-mandating because it does not \"identify the [Gjovernnient as the liable entity,\u201d the Court of Federal Claims' \"reasoning restfed] on its construction of the word 'indemnified' \u201d); see also Oral Arg. 16:43-18:14, http://oralarguments.cafc. uscourts .gov/def\u00e1ult. aspx?fl=2017-ll 80 .mp3 (arguing, by the Government, that no indem-nitor exists under the Government's interpretation but failing to identify another possible indemnitor under the Hospital's interpretation); Appellant\u2019s Br. 47-48 (arguing that the Government is the only possible indemnitor). See generally Appellee\u2019s Br. (failing to argue that the Government would not be the indem-nitor under the Hospital\u2019s interpretation). Therefore, the dispute turns on the meaning of \"indemnified.\"\n. Section 3102(b) originally was enacted in 1935 as \u00a7 802(a) of the Social Security Act. See Social Security Act, ch. 531, tit. VIII, \u00a7 802(a), 49 Stat 620, 636 (1935) (stating, in relevant part, that \u201d[e]veiy employer ... is hereby indemnified\u201d); see also-Internal Revenue Code, ch. 9A, \u00a7 1401(b), 53 Stat. 1, 175 (1939) (codifying the-current \"shall be indemnified\u201d language). We focus our- analysis on the dictionaries contemporaneous- to \u00a7 3102(b)'s enactment in 1935, see Sandifer, 134 S.Ct. at 876, and note that neither party contends that the amendments to the language affect our analysis. .\n. This definition also comports with the common law definition of ''indemnify\u201d contemporaneous with \u00a7 3102(b)\u2019s enactment. See Restatement (First) of Restitution \u00a7 80 (Am. Law Inst. 1937) (\"A person who ... is entitled to indemnity ... is entitled to reimbursement....\u201d)\n. Indeed, in an opinion issued by the Department of Justice\u2019s Office of Legal Counsel, the Government has acknowledged that \"\u00a7 3102(b) might be read as a promise to compensate employers for their liability arising out of the FICA tax collection process rather than as a legal exemption from liability in the first instance.\u201d Prejudgment Interest Under the Back Pay Act for Refunds of Fed. Ins. Contributions Act Overpayments, 18 Op. O.L.C. 127, 134 n.7 (1994) (\"FICA Mem.\u201d). The Government then stated that, \u201cif two readings are plausible, the one that does not waive sovereign immunity must be adopted\u201d and, thus, it \"read \u00a7 3102(b) as conferring a legal exemption.\u201d Id. The Government erred in its offhand dismissal of this reading on sovereign immunity grounds. See White Mountain, 537 U.S. at 472, 123 S.Ct 1126 (\"This fair inteipretation rule demands a showing demonstrably lower than the standard for the initial waiver of sovereign immunity.\u201d (emphasis added) (internal quotation marks omitted)). Therefore, the Government's acknowledgement that reading \u00a7 3102(b) \"as a promise to compensate employers\u201d is \"plausible,\u201d FICA Mem. 18 Op. O.L.C. at 134 n.7, strongly supports the conclusion that the statute is reasonably amenable to an interpretation that it mandates monetary compensation.\n. To support this erroneous analysis, the Government cites Muscarello v. United States, 524 U.S. 125, 128, 118 S.Ct. 1911, 141 L.Ed.2d 111 (1998), see Appellee's Br. 30, and the Court of Federal Claims cited Schindler Elevator Corp. v. United States ex rel. Kirk, 563 U.S. 401, 410, 131 S.Ct. 1885, 179 L.Ed.2d 825 (2011), see N. Y. & Presbyterian Hosp., 128 Fed.Cl. at 370. However, neither case applies the fair interpretation standard to determine whether a statute is money-mandating and, thus, both cases are inapposite.\n. The Government further contends that \u2018\u2018[t]he Hospital's position that \u00a7 3102(b) provides for reimbursement also cannot be reconciled with the numerous cases holding that FICA does not create a private cause of action for employees to sue their employers over the withholding and payment of FICA taxes.\u201d Appellee's Br. 41; see id. at 41-44 (discussing, inter alia, Umland v. PLANCO Fin. Servs., Inc., 542 F.3d 59, 67-68 (3d Cir. 2008) and McDonald v. S. Farm Bureau Life Ins. Co., 291 F.3d 718, 724-25 (11th Cir. 2002)). However, these cases neither are binding precedent, see Int\u2019l Custom Prods., 843 F.3d at 1360 (\"[D]ecisions from other circuits are not binding on this court.\u201d (internal quotation marks and citation omitted)), nor decide whether \u00a7 3102(b) is money-mandating. Therefore, we ground our analysis in the text of \u00a7 3102(b), as we must.\n. . Section 3202(b) is entitled \"Indemnification of employer,\u201d and the Court of Federal Claims held that \"[\u00a7 ] 3202(b) uses both \u2018indemnified\u2019 and 'not ... liable\u2019 in the same provision to mean the same thing.\u201d N.Y. & Presbyterian Hosp., 128 Fed.CL at 372. For the reasons outlined herein, we hold that the Court of Federal Claims erroneously equated \"indemnified\u201d and \"not ... liable.\u201d'Moreover, as the Government concedes, see Appel-lee's Br. 49, the Internal Revenue Code explicitly provides that its titles have no legal effect, see I.R.C. '\u00a7 7806(b) (\"No inference, implication, or presumption of legislative construction shall be drawn or made by reason of the location or grouping of any particular section or provision or portion of this title .... \u201d); see also United States v. Reorganized CF & I Fabricators of Utah, Inc., 518 U.S. 213, 222-24, 116 S.Ct. 2106, 135 L.Ed.2d 506 (1996) (accepting the Government\u2019s disavowal of reliance upon a title pursuant to \u00a7 7806(b)). The Court of Federal Claims thus erred by relying on the use of \"indemnification\u201d in \u00a7 3202(b)\u2019s title.\n. When originally enacted, both \u00a7\u00a7 3202(b) and 3403 provided that the employer is \u201chereby indemnified,\u201d Carriers and Employees Tax Act of 1935, Pub. L. No. 74-400, ch. 813, \u00a7 3(a), 49 Stat, 974, 975 (predecessor to \u00a7 3202(b)); Revenue Act of 1916, ch. 463, \u00a7 9(b), 39 Stat. 756, 764 (predecessor to \u00a7 3403), but Congress later replaced that language with the current \u201cshall hot be liable\u201d language. Revenue Act of 1942, ch. 619, \u00a7 467(b), 56 Stat. 798, 891 (predecessor to \u00a7 3403); Internal Revenue. Code of 1939, ch. 9B, \u00a7 1501(b), 53 Stat. 1, 179 (predecessor to \u00a7 3202(b)). To the extent these subsequent amendments may inform Congressional intent, we find instructive Congress's decision not to amend \u00a7 802(a) of the Social Security Act, \u00a7 3102(b)\u2019s predecessor, despite the statutes' similar wordings arid purposes. See Haig v. Agee, 453 U.S. 280, 301, 101 S.Ct. 2766, 69 L.Ed.2d 640 (1981) (referring to a subsequent Congress's amendments to a statute as \"weighty evidence of [Congressional approval\u201d because, \u201cthough [Congress] once again enacted legislation relating to [the subject matter of the statute], [it] left completely untouched the broad rule-making authority granted in the earlier [a]ct\u201d (internal quotation marks and citation omitted)). But see Mackey v. Lanier Collection Agency & Serv., Inc., 486 U.S. 825, 840, 108 S.Ct. 2182, 100 L.Ed.2d 836 (1988) (\"The views of a subsequent Congress form a hazardous basis for inferring the intent of an earlier one,\u201d (internal quotation marks, brackets, and citation omitted)),\n. The Government argues that, \"if the Hospital\u2019s reading of \u00a7 3102(b) as a reimbursement provision were correct, then there would be no need for employees to file refund claims with the IRS, so long as their employers were willing to pay their claims and obtain reimbursement from the United States,\" Appellee\u2019s Br, 37, which would render \u00a7 7422 \"virtually a dead letter,\" id. (internal quotation marks and citation omitted), and allow \"employees and employers [to] easily circumvent\u201d the Internal Revenue Code\u2019s refund scheme, id. at' 38; see id. at 35-41. We need not decide whether \u00a7 3102(b) is inconsistent with \u00a7 7422\u2019s refund scheme because \"[t]he role of this [c]ourt is to apply the statute as it is written\u2014even if we think some other approach might accord' with good policy.\u201d San-difer, 134 S.Ct. at 878 (internal quotation marks and citation omitted)..",
+        "type": "majority",
+        "author": "Wallach, Circuit Judge."
+      },
+      {
+        "text": "O\u2019Malley, Circuit Judge,\ndissenting.\nI agree with the majority that a statute is money-mandating for the purposes of Tucker Act jurisdiction if it \u201ccan fairly be interpreted as mandating compensation by the Federal Government for the damage sustained.\u201d United States v. White Mountain Apache Tribe, 537 U.S. 465, 472, 123 S.Ct. 1126, 155 L.Ed.2d 40 (2003) (quoting United States v. Mitchell, 463 U.S. 206, 216-17, 103 S.Ct. 2961, 77 L.Ed.2d 580 (1983)). I disagree, however, with the majority\u2019s application of this standard. I believe that the en banc portion of our decision in Fisher v. United States, 402 F.3d 1167, 1171-73 (Fed. Cir. 2005) (en banc in relevant part), compels a more searching analysis than the majority conducts. Under the correct analytical approach, I would find that 26 U.S.C. \u00a7 3102(b) must be interpreted as an immunity provision, not a reimbursement provision, and that \u00a7 3102(b) is not money-mandating. I therefore respectfully dissent from today\u2019s judgment.\nI.\nThe threshold question in this case is how we are to determine whether a statute is money-mandating. The governing test originates in United States v. Testan, 424 U.S. 392, 96 S.Ct. 948, 47 L.Ed.2d 114 (1976). The Supreme Court held in Testan that a federal statute is money-mandating only if it \u201ccan fairly be interpreted as mandating compensation by the Federal Government for the damage sustained.\u201d Id. at 400, 96 S.Ct. 948 (quoting Eastport S.S. Corp. v. United States, 372 F.2d 1002, 1009 (Ct. Cl. 1967)). The Court repeated the \u201cfairly be interpreted\u201d language in United States v. Mitchell, 463 U.S. at 216-17, 103 S.Ct. 2961 (quoting Testan, 424 U.S. at 400, 96 S.Ct. 948). The Court explained that \u201cthe substantive source of law may grant the claimant a right to recover damages either \u2018expressly or by implication.\u2019\u201d Id. at 217 n.16, 103 S.Ct. 2961 (quoting Eastport, 372 F.2d at 1009).\nThe Court returned to this question in White Mountain. In a 5-4 decision, the Court held again that \u201ca statute creates a right capable of grounding a claim within the waiver of sovereign immunity if, but only if, it \u2018can fairly be interpreted as mandating compensation by the Federal Government for the damage sustained.\u2019\u201d 537 U.S. at 472, 123 S.Ct. 1126 (quoting Mitchell, 463 U.S. at 217, 103 S.Ct. 2961). The Court elaborated on that holding, however, stating that \u201c[i]t is enough ... that a statute creating a Tucker Act right be reasonably amenable to the reading that it mandates a right of recovery in damages.\u201d Id. at 473, 123 S.Ct. 1126. \u201cWhile the premise to a Tucker Act claim will not be \u2018lightly inferred,\u2019 a fair inference will do.\u201d Id. (quoting Mitchell, 463 U.S. at 218, 103 S.Ct. 2961).\nFour justices dissented, suggesting that the Court had loosened the relevant test and \u201cengage[d] in a new inquiry, asking whether common-law trust principles permit a \u2018fair inference\u2019 that money damages are available, that finds no support in existing law.\u201d Id. at 482, 123 S.Ct. 1126 (Thomas, J., dissenting). They believed that the Court had \u201cfashion[ed] a new test to determine whether Congress has conferred a substantive right enforceable against the United States in a suit for money damages.\u201d Id. at 487, 123 S.Ct. 1126. Two justices who joined the White Mountain majority\u2014and whose votes were necessary to form that majority\u2014 issued a separate concurrence, however. The concurrence emphasized that they believed that the majority opinion was \u201cguided by\u201d Mitchell, and did not change the law, despite the language employed. Id. at 479-80, 123 S.Ct. 1126 (Ginsburg, J., concurring).\nBefore White Mountain, our precedent suggested a two-step inquiry where, \u201cfor purposes of satisfying the jurisdictional requirement that a money-mandating statute or regulation is before the court, the plaintiff need only make a non-frivolous allegation that the statute or regulation may be interpreted as money-mandating.\u201d Fisher, 402 F.3d at 1172 (citing Gollehon Farming v. United States, 207 F.3d 1373, 1378-80 (Fed. Cir. 2000)). \u201cIf, as a second step, the issue of jurisdiction is later pressed and it is subsequently decided that the statute or regulation is not money-mandating, then the case is dismissed for failure to .state a claim upon which relief can be granted.\u201d Id. (citing Gollehon, 207 F.3d at 1379).\nIn Fisher, we overruled this line of cases. Id. at 1172-73. We held instead that:\nWhen a complaint is filed alleging a Tucker Act claim based on a Constitutional provision, statute, or regulation, the trial court at the outset shall determine, either in response to a motion by the Government or sua sponte (the court is always responsible for its own jurisdiction), whether -the Constitutional provision, statute, or regulation is one that is money-mandating. ... For purposes of the case before the trial court, the determination that the source is money-mandating shall be determinative both as to the question of the court\u2019s jurisdiction and thereafter as to the question of whether, on the merits, plaintiff has a money-mandating source on which to base his cause of action.\nId. at 1173.\nIt is not readily apparent how we are to reconcile the \u201creasonably amenable\u201d language in White Mountain with our discussion in Fisher, which postdated White Mountain. The majority concludes that White Mountain set forth an apparently permissive test, where, if a statute is \u201creasonably amenable\u201d to a money-mandating reading, the jurisdictional requirement is satisfied, even if, upon further inquiry, a thorough review of the statutory scheme at issue would lead to a contrary conclusion. 537 U.S. at 473, 123 S.Ct. 1126. In Fisher, however, we held that the same \u201csingle test\u201d is the sole determinant of whether a statute is money-mandating. 402 F.3d at 1173. This creates a conundrum. There may be multiple reasonable ways to read a statute, but whether a statute is money-mandating is ultimately a yes-or-no question, presumably governed by the more reasonable and fair reading of the statute.\nSoon after we issued our opinion in Fisher, the Court of Federal Claims grappled with this problem in Contreras v. United States, 64 Fed.Cl. 583 (2005). The plaintiffs in Contreras argued that White Mountain \u201cestablished] a new test for determining whether a statute is money-mandating\u201d that \u201creplaces a normal-\u2018fairly interpreted\u2019 test with a less-demanding test of treasonable amenability\u2019 based on fair inferences.\u201d Id. at 588 (alteration-in original). The court rejected this contention, finding instead'- \u201cthat the Supreme Court could not have intended to change the legal test for determining whether a statute is money-mandating.\u201d Id. at 590. Analyzing the language of White Mountain at length, the Contreras court ultimately concluded that \u201c[t]he \u25a0 test for whether a statute is money-mandating has not changed\u2014our Court must still determine whether\" the statute, correctly interpreted, would require a money damages remedy.\u201d Id. at 590-92. The Contreras court said: , .\nTo read \u201cfair inference\u201d to mean any-, thing, less than the normal, inference used in interpreting a statute ... would make little- sense, particularly in light of [Fisher\u2019s] elimination of the \u201ctwo-step process.\u201d The meaning of a statute when this Court determines if a case is within its jurisdiction is the same as its meaning when the Court determines the merits of the case.. How could it be that a, statute would require the government to pay money, damages merely because it arguably can be read to require the government to pay. money damages? To \u25a0be close to something is not the same as being it. Surely, \u201cgood enough for government liability\u201d is not the measure of our Court\u2019s jurisdiction.\nId. at 592 (citing Fisher, 402 F.3d at 1172-73). '\nIn short, Contreras held\u2014and the government argues here\u2014that the test is not whether a money-mandating interpretation of a statute is reasonable, but whether it is correct. The government argues that a statute can only be \u201cfairly interpreted\u201d via application of all traditional principles of statutory interpretation, leading to the single, most correct, reading. That is, admittedly, a somewhat strained reading of the Supreme Court\u2019s phrasing in White Mountain; a statute may well be \u201camenable\u201d to multiple reasonable interpretations. See White Mountain, 537 U.S. at 473, 123 S.Ct. 1126. As the majority does, that follow-on language in White Mountain could be read to require at this stage that we \u2022 determine only whether the Hospital\u2019s money-mandating interpretation' of ' the statute is \u201creasonable]\u201d or \u201cfair[ ],\u201d id. at 472-73, 123 S.Ct. 1126, analogous to the familiar Chevron analysis of whether an agency\u2019s interpretation \u201cis based on a permissible construction of the statute,\u201d Chevron, U.S.A. Inc. v. Nat. Res. Def. Council, 467 U.S. 837, 843, 104 S.Ct. 2778, 81 L.Ed.2d 694 (1984).\nBut'that approach is not compatible with Fisher. And I do not believe it is compelled by White Mountain. The majority\u2019s conclusion would mean that the Supreme Court did intend to change the law in White Mountain. But, if we are to determine in a single step and for all purposes whether a statute is money-mandating, we have no choice but to decide the most correct interpretation of the purportedly money-mandating statute , in that one step\u2014i.e., the truly \u201cfair\u201d interpretation of it. It cannot be that a statute mandates that the government must pay monetary compensation on a set of claims merely if the statute could be read to permit it. At most, I read Testan, Mitchell, White Mountain, and Fisher to instruct courts to construe statutes liberally in determining whether they are money-mandating. These cases do not stand for the proposition, however, that courts may avoid determining what the most reasonable interpretation of a statute is. We therefore must decide here not only whether a money-mandating interpretation of the statute is plausible, but also the ultimate question of whether the statute is or is not money-mandating.\nII.\nThe majority holds repeatedly that' \u201c\u00a7 3102(b) is reasonably amenable to an interpretation that it is money-mandating.\u201d Maj. Op. at 886, 887. It does not, however, engage with what the words \u201creasonably amenable\u201d mean in light of Fisher. This oversight leads the majority to the wrong result.\nA.\nThe majority starts, as it must, with the plain language of \u00a7 3102(b). Id. at 882. In relevant part, \u00a7 3102(b) provides that every employer required, to deduct -FICA taxes \u201cshall be liable for the payment of such tax, .and shall be indemnified against the claims and demands of any person for the amount of any such payment made by such employer.\u201d\nThe majority finds, understandably, that the plain meaning of the word \u201cindemnified\u201d encompasses monetary compensation. Maj. Op. at 882-84. But the majority errs in its response to the government\u2019s argument that, at. the time the statutory language was drafted, the word \u201cindemnified\u201d primarily referred to immunity from liability. The majority contends that \u201cthe fair interpretation standard used to determine whether a statute is money-mandating does not require courts to evaluate whether the \u2018first\u2019 or \u2018primary\u2019 meaning of the statute mandates compensation.\u201d Id. at 884-85. \u201cIn'stead,\u201d the majority holds, the standard \u2019 \u201crequires courts to evaluate whether the statute is \u2018reasonably amenable to the reading that it mandates a right of recovery in damages.\u2019 \u201d Id. (alteration in original) (quoting White. Mountain, 537 U.S. at 473, 123 S.Ct. 1126). The majority then rejects the government\u2019s contention that this reading of the 'Statute would have absurd results, finding it sufficient that \u201cthe plain language of \u00a7 3102(b) is reasonably amenable to an interpretation that it mandates reimbursement.\u201d Id. at 885.\nThe majority asks whether the word \u201cindemnified\u201d can mean a right to reimbursement. White Mountain and Fisher, however, require us to decide whether \u201cindemnified\u201d does confer a right to reimbursement, or at least can fairly be interpreted that way. In effect, the majority determines whether a money-mandating interpretation of \u00a7 3102(b) is permissible under Chevron, not whether it is fair under White Mountain and Fisher. In the context of the statutory scheme, I would find that it is not.\nWhen the similarly phrased predecessor to \u00a7 3102(b) was enacted,, dictionaries defined the terns \u201cindemnify\u201d and \u201cindemnity\u201d to mean immunity from liability. The 1933 edition of the Oxford English Dictionary defined \u201cindemnify\u201d as, among other things, \u201c[t]o preserve, protect, or keep free from, secure against (any hurt, harm, or loss); to secure against legal responsibility for past or future actions or events.\u201d The Oxford English Dictionary 194-95 (1933). The 1917 and 1942 editions of Webster\u2019s New International Dictionary similarly defined \u201cindemnify\u201d to mean \u201c[t]o save harmless; to secure against loss or damage,\u201d and they defined \u201cindemnity\u201d to include \u201cimmunity from penalty, or the punishment of past offenses.\u201d Webster\u2019s New International Dictionary of the English Language 1093 (W.T. Harris ed., 1917); Webster\u2019s New International Dictionary of the English Language 1262 (William Allan Neilson ed., 2d ed. 1942). And, in the 1933 edition of Black\u2019s Law Dictionary, one definition of \u201cindemnity\u201d was \u201c[a] legislative act, assuring a general dispensation from punishment or exemption from prosecution.\u201d Indemnity, Black\u2019s Law Dictionary (3d ed. 1933).\nThe majority is correct that the \u201cplain meaning of \u2018indemnify included monetary compensation.\u201d Maj. Op. at 883 (emphasis added). As the majority notes, several contemporaneous dictionaries also defined the word to refer to a right to reimbursement. Id. at 883-84. At the very least, however, the term is ambiguous. And, because we must determine whether the statute is money-mandating, we are obligated to resolve the ambiguity, even if, in doing so, we are to construe the statute liberally.\n\u201c[T]he words of a statute must be read in their context and with a view to their place in the overall statutory scheme.\u201d Davis v. Mich. Dep\u2019t of Treasury, 489 U.S. 803, 809, 109 S.Ct. 1500, 103 L.Ed.2d 891 (1989). The first clause of \u00a7 3102 requires employers to collect and pay FICA taxes to the IRS. Taxpayers who seek a credit or refund for any overpayment of FICA taxes must file a claim with the IRS within a specified time period. 26 U.S.C. \u00a7 6511. Section 7422(a) then precludes any court from considering an employee\u2019s claim for the recovery of any FICA taxes paid until the employee files a claim with the IRS. Such a suit \u201cmay be maintained only against the United States.\u201d Id. \u00a7 7422(f)(1).\nThe \u201cexpansive reach\u201d of \u00a7 7422 ensures \u201cthat taxpayers seeking refunds of unlawfully assessed taxes must comply with the Code\u2019s refund scheme before bringing suit, including the requirement to file a timely administrative claim.\u201d United States v. Clintwood Elkhorn Min. Co., 553 U.S. 1, 7-8, 128 S.Ct. 1511, 170 L.Ed.2d 392 (2008). In sum, any taxpayer seeking a refund of taxes collected erroneously or unlawfully must comply first with the administrative claim process. Id. at 4, 128 S.Ct. 1511. Only then may the taxpayer file suit against the government\u2014and only the government\u2014either in federal district court or in the Court of Federal Claims. Id.\nGiven this framework, it would make no sense for \u00a7 3102(b) to give the employer a right of reimbursement against \u201cclaims or demands ... for the amount of\u2019 FICA taxes paid. The statutory scheme directs taxpayers\u2019 refund claims first towards the administrative process and then to suits against the government. No part of this process involves the employer. It is implausible that Congress created a reimbursement provision applicable solely to a procedural avenue that it explicitly precluded. And it hardly seems \u201cfair\u201d to interpret the statutory scheme as one which permits the employer, at its whim, to pay tax refunds to its own employees and then turn around and demand reimbursement from the government.\nB.\nThe majority also points to other provisions of the tax code that eschew the \u201cshall be indemnified\u201d language of \u00a7 3102(b) in favor of the clearer statement that the \u201cemployer ... shall not be liable\u201d for the amount of taxes deducted. 26 U.S.C. \u00a7\u00a7 3202(b), 3403. The former should be interpreted differently from the latter, the majority posits, in light of the canon of construction that Congress intends different phrases in the same law to have different meanings. Maj. Op. at 886-87 (citing Sebelius v. Cloer, 669 U.S. 369, 378, 133 S.Ct. 1886, 186 L.Ed.2d 1003 (2013)).\nThat principle applies with substantially less force to legislative activity like this, where the statutes in question were enacted piecemeal over the course of decades. Indeed, as the majority observes, the predecessor statutes to \u00a7\u00a7 3202(b) and 3403 originally provided that the employer was \u201chereby indemnified\u201d against demands for taxes paid. Carriers and Employees Tax Act of 1935, Pub. L. No. 74-400, \u00a7 3(a), 49 Stat. 974, 975 (predecessor to \u00a7 3202(b)); Revenue Act of 1916, Pub. L. No. 64-271, \u00a7 9(b), 39 Stat. 756, 764 (predecessor to \u00a7 3403). These statutes were later amended to say that the employer \u201cshall not be liable\u201d for such demands. Internal Revenue Code of 1939, Pub. L. No. 76-1, \u00a7 1501(b), 53 Stat. 1, 179 (1939) (predecessor to \u00a7 3202(b)); Revenue Act of 1942, Pub. L. No. 77-753, \u00a7 467(b), 56 Stat. 798, 891 (predecessor to \u00a7 3403). Section 3102(b), on the other hand, retained the word \u201cindemnified,\u201d and the majority finds this fact \u201cinstructive.\u201d Maj. Op. at 886 n.14. But the legislative history accompanying the amendments to \u00a7\u00a7 3202(b) and 3403 did not give any reason for the change in language. Congress presumably would not transform a reimbursement provision into an immunity provision sub silentio. These statutes therefore do not require us to read \u00a7 3102(b) differently. To \u25a0 the contrary, the legislative history suggests we should read all three statutes to mean the same thing\u2014that is, as immunity provisions.\nThe majority also finds that \u201c\u00a7 7422 demonstrates that Congress knew how to craft an immunity provision when it so desired.\u201d Maj. Op. at 887. But \u00a7 7422, unlike \u00a7\u00a7 3202(b) and 3403, is not primarily an immunity provision for employers. Section 7422(f) provides that a tax refund suit \u201cmay be maintained only against the United States and not against any officer or employee of the United States (or former officer or employee) or his personal representative.\u201d Although the first clause of \u00a7 7422(f) implicitly confers immunity on employers by requiring claimants to bring suit against the United States instead, the' remainder of the provision makes clear that its principal goal is to immunize officers or employees of the United States from suit. And, to the extent \u00a7 7422 renders \u00a7 3102(b) redundant if the latter is read as an immunity provision, the same is true with regard to \u00a7\u00a7 3202(b) and 3403. Faced with the choice to read a statute as either redundant or nonsensical, we have no choice but to take the former route. Cf. Chickasaw Nation v. United States, 534 U.S. 84, 94-95, 122 S.Ct. 528, 151 L.Ed.2d 474 (2001) (\u201cThe canon requiring a court to give effect to each word \u2018if possible\u2019 is sometimes offset by the canon that permits a court to reject words \u2018as surplusage\u2019 if \u2018inadvertently inserted or if repugnant to the rest of the statute.\u2019 \u201d (quoting Karl N. Llewellyn, The Common Law Tradition 525 (I960))).\nC.\nThe majority finally notes that the legislative history of \u00a7 3102(b) indicates that the provision indemnifies employers \u201cagainst any claims and demands with respect to that part of the wages of the employee which he withheld, up to the correct amount withheld and paid to the United States.\u201d H.R. Rep. 'No. 74-615, at 30 (1935) (emphasis added). The emphasized language, the majority contends, \u201cindicates that Congress understood \u2018indemnification\u2019 to contemplate the payment of money.\u201d Maj. Op. at 887.\nThe reference to the \u201camount\u201d paid does not imply that \u00a7 3102(b) contemplates reimbursement. As enacted, \u00a7 3102(b) provides that the employer \u201cshall be indemnified .... for the\u2019 amount, of\u2019 taxes paid. Sections 3202(b) and 3403, which are undoubtedly immunity provisions, similarly specify that the employer \u201cshall not be liable ... for the amount of\u2019 taxes paid. Section 3102(b) should be read the same way.\nIII.\nFor the reasons above, I would affirm the thoughtful decision of the Court of Federal Claims. I respectfully dissent.\n,. It is unclear-how the liberal- construction, mandate relating to remedial statutes applies in these circumstances. See Antonin Scalia & Bryan A. Garner, Reading Law: The Interpretation of Legal Texts 364-66 (2012) (discussing, and criticizing, the rule that remedial statutes should be liberally construed).\n. The majority indicates in a footnote that it also \"believe[s]\u201d that the money-mandating interpretation of \u00a7 3102(b) is \"the only reasonable\u201d one. Op. at 882 n.6. Obviously, I disagree with that proposition. I note, moreover, that the majority's analysis focuses solely on whether its interpretation is reasonable and not, as Fisher requires, on whether the money-mandating interpretation is better than the alternative.\n. As the majority notes, \u00a7 3102(b) \"originally was enacted in 1935 as \u00a7 802(a) of the Social Security Act,\u201d and \"neither party contends that [any subsequent] amendments to the language affect our analysis.\u201d Maj. Op. at 883 n.8 (citing Social Security Act, ch. 531, tit. VIII, \u00a7 802(a), 49 Stat. 620, 636 (1935)).\n. Like the majority, I do not find the ordering of the definitions in these dictionaries particularly significant.\n. The majority appears to recognize that its interpretation of \u00a7 3102(b) would lead to unreasonable results, but it holds nevertheless that \u00a7 3102(b) is money-mandating because \"the plain language of \u00a7 3102(b) is reasonably amenable to an interpretation that it mandates reimbursement.\u201d Maj. Op. at 885.\n. In fact, when Congress amended the predecessor to \u00a7 3202(b) in 1939 to include the \"shall not be liable\u201d language, it also inserted the heading \"[\u00a1Indemnification of employer.\u201d \u00a7 1501(b), 53 Stat. at 179. Although tire majority is correct that the heading itself has no legal effect, Maj. Op. at 886'n. 13, it does shed light on how Congress may have understood the word \"indemnify.\u201d",
+        "type": "dissent",
+        "author": "O\u2019Malley, Circuit Judge,"
+      }
+    ],
+    "attorneys": [
+      "Maura Barry Grinalds, Skadden, Arps, Slate, Meagher & Flom LLP, New York, NY, argued for plaintiff-appellant. Also represented by Jonathan Lerner; Bernard John Williams, Jr,, Washington, DC.",
+      "Jacob Earl Christensen, Tax Division, United States Department of Justice, Washington, DC, for defendant-appellee."
+    ],
+    "corrections": "",
+    "head_matter": "NEW YORK AND PRESBYTERIAN HOSPITAL, Plaintiff-Appellant v. UNITED STATES, Defendant-Appellee\n2017-1180\nUnited States Court of Appeals, Federal Circuit.\nDecided: January 31, 2018\nMaura Barry Grinalds, Skadden, Arps, Slate, Meagher & Flom LLP, New York, NY, argued for plaintiff-appellant. Also represented by Jonathan Lerner; Bernard John Williams, Jr,, Washington, DC.\nJacob Earl Christensen, Tax Division, United States Department of Justice, Washington, DC, for defendant-appellee.\nBefore Newman, O\u2019Malley, and Wallach, Circuit Judges."
+  },
+  "file_name": "0877-01",
+  "first_page_order": 915,
+  "last_page_order": 932
+}

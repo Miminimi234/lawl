@@ -1,0 +1,70 @@
+{
+  "id": 1967406,
+  "name": "Bradbury v. Ford Motor Company",
+  "name_abbreviation": "Bradbury v. Ford Motor Co.",
+  "decision_date": "1985-02-19",
+  "docket_number": "No. 71732",
+  "first_page": "793",
+  "last_page": "793",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "421 Mich. 1201"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Mich.",
+    "id": 8790,
+    "name": "Michigan Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 49,
+    "name_long": "Michigan",
+    "name": "Mich."
+  },
+  "cites_to": [
+    {
+      "cite": "419 Mich 550",
+      "category": "reporters:state",
+      "reporter": "Mich.",
+      "case_ids": [
+        1970107
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/mich/419/0550-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 23,
+    "char_count": 144,
+    "ocr_confidence": 0.754,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.07114295080524
+    },
+    "sha256": "9d697e4a29359cb0c672df583e168a8c373ba733f4ee56350b8fc9e0447b5414",
+    "simhash": "1:1748f3b82cadaf42",
+    "word_count": 23
+  },
+  "last_updated": "2024-02-27T19:29:49.154056+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Bradbury v Ford Motor Company,"
+    ],
+    "opinions": [],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Motion for Rehearing Dismissed on Stipulation of Parties February 19, 1985:\nBradbury v Ford Motor Company,\nNo. 71732.\nReported at 419 Mich 550."
+  },
+  "file_name": "0793-03",
+  "first_page_order": 945,
+  "last_page_order": 945
+}

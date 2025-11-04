@@ -1,0 +1,567 @@
+{
+  "id": 2192070,
+  "name": "James H. Cronkhite, Respondent, v. Jonas Cronkhite, Appellant",
+  "name_abbreviation": "Cronkhite v. Cronkhite",
+  "decision_date": "1884-01-15",
+  "docket_number": "",
+  "first_page": "323",
+  "last_page": "329",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "94 N.Y. 323"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "N.Y.",
+    "id": 24653,
+    "name": "New York Court of Appeals"
+  },
+  "jurisdiction": {
+    "id": 1,
+    "name_long": "New York",
+    "name": "N.Y."
+  },
+  "cites_to": [
+    {
+      "cite": "2 Hun, 267",
+      "category": "reporters:state",
+      "reporter": "Hun,",
+      "opinion_index": -1
+    },
+    {
+      "cite": "72 N. Y. 39",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        532798
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny/72/0039-01"
+      ]
+    },
+    {
+      "cite": "59 N. Y. 336",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        521450
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny/59/0336-01"
+      ]
+    },
+    {
+      "cite": "6 Lans. 408",
+      "category": "reporters:state",
+      "reporter": "Lans.",
+      "case_ids": [
+        4844738
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "551"
+        }
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/lans/6/0408-01"
+      ]
+    },
+    {
+      "cite": "69 N. Y. 16",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        530666
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny/69/0016-01"
+      ]
+    },
+    {
+      "cite": "14 Wend. 227",
+      "category": "reporters:state",
+      "reporter": "Wend.",
+      "case_ids": [
+        2017109
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/wend/14/0227-01"
+      ]
+    },
+    {
+      "cite": "3 Hun, 254",
+      "category": "reporters:state",
+      "reporter": "Hun,",
+      "opinion_index": -1
+    },
+    {
+      "cite": "38 How. 385",
+      "category": "reporters:scotus_early",
+      "reporter": "How.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "44 Barb. 219",
+      "category": "reporters:state",
+      "reporter": "Barb.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "14 Johns. 15",
+      "category": "reporters:state",
+      "reporter": "Johns.",
+      "case_ids": [
+        376201
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/johns/14/0015-01"
+      ]
+    },
+    {
+      "cite": "3 Barb. Ch. 407",
+      "category": "reporters:state",
+      "reporter": "Barb. Ch.",
+      "case_ids": [
+        1997904
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/barb-ch/3/0407-01"
+      ]
+    },
+    {
+      "cite": "82 N. Y. 265",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        2177145
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny/82/0265-01"
+      ]
+    },
+    {
+      "cite": "60 N. Y. 221",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        523159
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny/60/0221-01"
+      ]
+    },
+    {
+      "cite": "17 Johns. 92",
+      "category": "reporters:state",
+      "reporter": "Johns.",
+      "case_ids": [
+        6064737
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/johns/17/0083-01"
+      ]
+    },
+    {
+      "cite": "45 N. Y. 362",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        2049806
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny/45/0362-01"
+      ]
+    },
+    {
+      "cite": "50 Barb. 316",
+      "category": "reporters:state",
+      "reporter": "Barb.",
+      "case_ids": [
+        1948719
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/barb/50/0316-01"
+      ]
+    },
+    {
+      "cite": "67 N. Y. 495",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        2165032
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny/67/0495-01"
+      ]
+    },
+    {
+      "cite": "20 Hun, 169",
+      "category": "reporters:state",
+      "reporter": "Hun,",
+      "opinion_index": -1
+    },
+    {
+      "cite": "69 N. Y. 260",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "20 Hun, 158",
+      "category": "reporters:state",
+      "reporter": "Hun,",
+      "opinion_index": -1
+    },
+    {
+      "cite": "64 N. Y. 561",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        2161805
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny/64/0561-01"
+      ]
+    },
+    {
+      "cite": "7 Cow. 266",
+      "category": "reporters:state",
+      "reporter": "Cow.",
+      "case_ids": [
+        2035110
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/cow/7/0265-01"
+      ]
+    },
+    {
+      "cite": "66 N. Y. 574",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        2163316
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny/66/0574-01"
+      ]
+    },
+    {
+      "cite": "17 Wend. 567",
+      "category": "reporters:state",
+      "reporter": "Wend.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "65 N. Y. 65",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        4398799
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "111"
+        }
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny-2d/65/0065-01"
+      ]
+    },
+    {
+      "cite": "17 Wend. 564",
+      "category": "reporters:state",
+      "reporter": "Wend.",
+      "case_ids": [
+        2020967
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/wend/17/0317-01"
+      ]
+    },
+    {
+      "cite": "14 N. Y. 252",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "5 Cow. 216",
+      "category": "reporters:state",
+      "reporter": "Cow.",
+      "case_ids": [
+        2032836
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/cow/5/0216-01"
+      ]
+    },
+    {
+      "cite": "29 Wend. 313",
+      "category": "reporters:state",
+      "reporter": "Wend.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "8 Barb. 153",
+      "category": "reporters:state",
+      "reporter": "Barb.",
+      "case_ids": [
+        1936170
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/barb/8/0153-01"
+      ]
+    },
+    {
+      "cite": "84 N. Y. 31",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        2181040
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny/84/0031-01"
+      ]
+    },
+    {
+      "cite": "1 Abb. Ct. App. Dec. 27",
+      "category": "reporters:state",
+      "reporter": "Abb. Ct. App.",
+      "case_ids": [
+        1111995
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/abb-ct-app/1/0027-01"
+      ]
+    },
+    {
+      "cite": "66 N. Y. 227",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        2163330
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "299"
+        }
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny/66/0227-01"
+      ]
+    },
+    {
+      "cite": "4 Sandf. Ch. 72",
+      "category": "reporters:state",
+      "reporter": "Sand. Ch.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "62 Barb. 325",
+      "category": "reporters:state",
+      "reporter": "Barb.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "2 Barb. Ch. 231",
+      "category": "reporters:state",
+      "reporter": "Barb. Ch.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "35 Barb. 162",
+      "category": "reporters:state",
+      "reporter": "Barb.",
+      "case_ids": [
+        5780213
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/barb/35/0162-01"
+      ]
+    },
+    {
+      "cite": "10 Barb. 343",
+      "category": "reporters:state",
+      "reporter": "Barb.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "4 Sandf. Ch. 77",
+      "category": "reporters:state",
+      "reporter": "Sand. Ch.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "29 N. Y. 639",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "6 Hill, 61",
+      "category": "reporters:state",
+      "reporter": "Hill,",
+      "opinion_index": -1
+    },
+    {
+      "cite": "15 Wend. 381",
+      "category": "reporters:state",
+      "reporter": "Wend.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "73 N. Y. 584",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "20 Hun, 216",
+      "category": "reporters:state",
+      "reporter": "Hun,",
+      "opinion_index": -1
+    },
+    {
+      "cite": "5 Barb. 384",
+      "category": "reporters:state",
+      "reporter": "Barb.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "24 Wend. 451",
+      "category": "reporters:state",
+      "reporter": "Wend.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "49 N. Y. 589",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "25 N. Y. 153",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        2031382
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny/25/0153-01"
+      ]
+    },
+    {
+      "cite": "18 Hun, 485",
+      "category": "reporters:state",
+      "reporter": "Hun,",
+      "opinion_index": -1
+    },
+    {
+      "cite": "81 N. Y. 301",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "38 Am. Rep. 479",
+      "category": "reporters:state_regional",
+      "reporter": "Am. Rep.",
+      "weight": 2,
+      "opinion_index": 0
+    },
+    {
+      "cite": "84 N. Y. 31",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        2181040
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny/84/0031-01"
+      ]
+    },
+    {
+      "cite": "66 N. Y. 227",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        2163330
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny/66/0227-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 770,
+    "char_count": 13478,
+    "ocr_confidence": 0.52,
+    "pagerank": {
+      "raw": 1.466523866441243e-06,
+      "percentile": 0.991422665954656
+    },
+    "sha256": "b62fe1515e3cb4a1f6a0bedd7bad5dda8a4f33fa53983643acf090d0c3a09d77",
+    "simhash": "1:bc3723824e9686fc",
+    "word_count": 2452
+  },
+  "last_updated": "2024-02-27T20:26:35.672822+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "James H. Cronkhite, Respondent, v. Jonas Cronkhite, Appellant."
+    ],
+    "opinions": [
+      {
+        "text": "Miller, J.\nThe referee, before whom this action was tried, found that, in or about 1832, Henry C. Cronkhite (plaintiff\u2019s father) and John C. Cronkhite (defendant\u2019s father), who owned adjoining farms, entered into a contract or agreement whereby they agreed to lay down logs or pipes upon the lands of John 0. Cronkhite to carry water from a spring upon his farm to his buildings for his use, and from thence to the buildings of Henry C. Cronkhite for his use; and that it was agreed that Henry C. Cronkhite should bear one-half the expense, and perform half the labor of procuring and laying down the logs and pipe, etc.; and that, in consideration of such expenditure and labor, he should have a right to take water from said spring through logs and pipes in perpetuity, etc. The complaint alleges an agreement in writing upon which the plaintiff\u2019s right to maintain this action is founded. At the trial no written agreement was proved, and the plaintiff relied upon parol proof of the declarations and acts of the parties which, as he claimed, established the right to use the water in the spring by adverse possession for a period of forty years or over. The agreement found by the referee rests upon the oral declarations of John C. Cronkhite in allowing his brother, Henry 0. Cronkhite, the right to take and use the surplus water of the spring, which was upon, the land of the former, and which he used for his own benefit. The testimony upon the trial established a parol contract between John C. Cronkhite and Henry 0. Cronkhite, whereby Henry 0. was to take and use the water, and there was proof showing that both parties acted in accordance with that agreement. Money was expended by Henry 0., pipes were laid down and improvements made in connection with the use of the water, but there was no specific agreement as to the size of the pipes, the amount of water to be carried through them, how far below the surface they were to he laid, how long they were to be continued, or who was authorized to direct and control them and decide as to their character. Mor was there any arrangement which authorized Henry C. Cronkliite to enter upon the land of his brother for the purpose of repairing, laying down, or improving the pipes, nor was the quantity of water to be used by either party fixed, except by the gauging at the spring, when a new line of .pipes was laid. The arrangement made had reference to the surplus water belonging to John 0., and it was evidently intended that Henry should only have the use of that. In case of a deficiency of water, by reason of the spring giving out, or in consequence of an increase in its use by John 0. for his own purposes, the agreement might be ended. Disagreements might also arise as to how, and when, and where the pipes should be laid and repaired, and as to the manner in which the spring should be protected, and thus it would be difficult for a court of equity to determine the precise character of the agreement. The evidence given upon the trial was too vague and uncertain to establish a valid agreement in perpetuity such as the law recognizes. The statute requires an agreement of this character to be in writing, expressing a consideration, and to establish it otherwise, by adverse possession, the proof should be entirely clear as to the nature and specific character of the agreement so that it can be eventually carried out and enforced.\nTo enforce an agreement relating to real estate, in a court of equity, it must be a complete and sufficient contract founded not only on a valuable consideration, but its terms defined by satisfactory proof accompanied by acts of part performance unequivocally referable to the supposed agreement. (Wiseman v. Lucksinger, 84 N. Y. 31; 38 Am. Rep. 479.) No such agreement was established on the trial, and we think that the finding of the referee was without sufficient evidence to support it. The most that can be claimed as to the agreement proved is that it was a license which was revocable at the pleasure of the person granting the same, or his heirs or representatives. The right to revoke a license, which does not partake of the character of a grant, and where the rights are not affirmatively and definitely fixed and settled, is fully established by the authorities. Even when a consideration is paid the right of revocation exists where the terms of the agreement are not of such, a nature as to make out a valid agreement which could be enforced in equity. Nor does the fact of the performance of the agreement render it effectual and valid unless the acts of performance are so clear, definite and certain in their object and design, as to refer exclusively to a complete and perfect agreement, of which they are a part execution. (Wheeler v. Reynolds, 66 N. Y. 227.)\nThe question under discussion in this case has been the subject of consideration recently in this court. In the case of Wiseman v. Lucksinger (84 N. Y. 31; 38 Am. Rep. 479), the plaintiff had paid a sum of money for permission to drain his lot upon the land of the defendant,-and took a receipt for the same, and he used and enjoyed the privilege for twenty-five years, when the defendant revoked the permission. In an action to enforce the right of the plaintiff, it was held that such user did not give the plaintiff a prescriptive right to the easement, as the possession was by consent of defendant and there could be no adverse possession until defendant cut off plaintiff\u2019s drain. It was also held that the right to drain was an easement which could not be conferred by parol license, but could be granted only by deed or conveyance in writing, and that an oral contract, which equity will regard as equivalent to the grant required at common law or by statute, must as already' stated be a complete and sufficient contract in all its parts.\nThe authorities are fully discussed in the opinion in the case cited, and, within the law as there laid down, that case is decisive of the question now presented. Following that decision it is manifest that the referee erred in his finding.\nThe judgment should be reversed and a new trial granted, with costs to abide the event.\nAll concur.\nJudgment reversed.",
+        "type": "majority",
+        "author": "Miller, J."
+      }
+    ],
+    "attorneys": [
+      "J. B. Rafter for appellant.",
+      "Amos H. Prescott for respondent."
+    ],
+    "corrections": "",
+    "head_matter": "James H. Cronkhite, Respondent, v. Jonas Cronkhite, Appellant.\nIn 1833, J. & H., who owned adjoining farms, agreed orally to lay down logs or pipes upon the lands of J. to carry water from a spring thereon to his buildings, for his use, and from thence to the buildings of EL, for his use, each to bear one-half of the expense and perform half of the labor, and in consideration of such expenditure J. agreed that H. should have the right to take the surplus water from the spring through the pipes. There was no specific agreement, however, as to the size of the pipes, how long they were to be continued, who should direct or control them, or the amount of water to be taken, nor was there any arrangement authorizing H. to enter upon the lands of J. for the purpose of repairing, etc. The agreement was carried out, and H. and his successor in title enjoyed the use of the water for over forty years. In an action to restrain defendant, who succeeded to the title of J., from obstructing such use of the water, held, that these facts failed to establish a valid agreement in perpetuity; that at most the agreement was a mere license, which, although a consideration was paid, was revocable at the pleasure of the licensor or his successors in interest; that plaintiS could not claim by adverse possession, as the use was by consent, and not adverse.\nAn oral contract, which equity will regard as equivalent to the grant required at common law to create an easement, must be clear and specific' so that it may be carried out and enforced, and it must be accompanied by acts of part performance, unequivocally referable to the agreement.\n(Argued November 27, 1883;\ndecided January 15, 1884.)\nAppeal from judgment of the General Term of the Supreme Court, in the fourth judicial department, entered upon an order made December 30, 1881, which affirmed a judgment in favor of plaintiff, entered upon the report of a referee.\nThis action was brought to restrain defendant from obstructing or interfering with certain pipes by which water from a spring upon defendant\u2019s lands was conveyed to the buildings upon the lands of plaintiff.\nThe facts, so far as material, are stated in the opinion.\nJ. B. Rafter for appellant.\nThe old maxim, secundum allegata et probata, has never been so far departed from as to allow a party to recover upon a cause of action not alleged. (Neudecker v. Kohlberg, 81 N. Y. 301; Wright v. Delafield, 25 id. 266-268; 84 id. 38, 43; 18 Hun, 485; Wright v. Weeks, 25 N. Y. 153-157.) The use having been begun under an oral license was revocable, and the fact that a consideration was paid for the permission does not make it irrevocable ; and the defendant will not be prevented from asserting his rights by equitable estoppel, where he has been guilty of no fraud, and has not induced or encouraged the other party to act, so that it would be a fraud on his part to revoke his license. (49 N. Y. 589; Luce v. Carley, 24 Wend. 451; Houghtaling v. Houghtaling, 5 Barb. 384; Poughkeepsie Gas Co. v. Citizens' Gas Co., 20 Hun, 216; Murdock v. P. P. & C. I. R. R. Co., 73 N. Y. 584; Mumford v. Whiting, 15 Wend. 381; Miller v. A. & S. R. R. Co., 6 Hill, 61; Selden v. D. & H. C. Co., 29 N. Y. 639; Babcock v. 1 Keyes, 397; Wolf v. Frost, 4 Sandf. Ch. 77; Washburn on Real Property, 542; Davis v. Townsend, 10 Barb. 343; Phillips v. Nowlan, 6 N. Y. Weekly Dig. 132; Eggleston v. N. Y. & H. R. R. Co., 35 Barb. 162; Pattin v. L. I. R. R. Co., 2 Barb. Ch. 231; Wood v. Leadbitter, 13 M. & W. 383; Bryan v. Whistler, 8 B. & C. 288; 62 Barb. 325; Wolf v. Frost, 4 Sandf. Ch. 72; Wheeler v. Reynolds, 66 N. Y. 227-231; Perripont v. Barnard, 6 id. 299; Brown on the Statute of Frauds, \u00a7\u00a7 27, 28; Babcock v. Utter, 1 Abb. Ct. App. Dec. 27\u201462; Bryan v. Wheeler, 8 B. & C. 288; Wiseman v. Lucksinger, 84 N. Y. 31.) To acquire rights to real estate by prescription, the use for twenty years must be exclusive, open and notorious, under a claim of right, hostile in its inception and with the knowledge of the owner, and it must appear affirmatively that the claim was hostile. (Miller v. Garlock, 8 Barb. 153; Parker v. Fort, 29 Wend. 313; Jackson v. Halstead, 5 Cow. 216; White v. Spencer, 14 N. Y. 252; Colvin v. Burnett, 17 Wend. 564; Burbanks v. Fay, 65 N. Y. 65; Flora v. Carbean, 38 id. 111; Colvin v. Burnett, 17 Wend. 567.) The use of an easement or the enjoyment of a license cannot be enlarged. (Markham v. Stowe, 66 N. Y. 574; Stiles v. Hooker, 7 Cow. 266; Ev. L. St. J. O. H. v. B. H. Ass\u2019n, 64 N. Y. 561; Onthank v. M. S. R. R. Co., 71 id. 194.) As to what is a personal transaction or communication the same rule applies as was applied to section 399 of the Code of Procedure. (Holcomb v. Holcomb, 20 Hun, 158; 69 N. Y. 260; Sconmaker v. Wolford, 20 Hun, 169; Bargue v. Lord, 67 N. Y. 495; Hobart v. Hobart, 62 id. 84.) The defendant had a right to dig the well for any purpose he chose. (Trustees, etc., of Delhi v. Yomans, 50 Barb. 316; affirmed, 45 N. Y. 362; Johnstown Manuf. Co. v. Veghte, 69 id. 16; Phillips v. Nowlan, 72 id. 39; Bliss v. Greeley, 45 id. 671; Panton v. Holland, 17 Johns. 92; Kerrains v. People, 60 N. Y. 221.)\nAmos H. Prescott for respondent.\nThe defendant is es-topped from asserting that the parol agreement proved was void under the statute of frauds, it having been fully executed, the possession having been taken under it by the plaintiff and his predecessor in the title, and it having been continuous since 1832. (Ward v. Warren, 82 N. Y. 265; Beardsley v. Duntley, 69 id. 577; Wheeler v. Reynolds, 66 id. 227; Miller v. Ball, 64 id. 286; Freeman v. Freeman, 43 id. 34; Lobdell v. Lobdell, 36 id. 327; Wood v. Fleet, id. 499; Ryan v. Dox, 34 id. 307; Malins v. Brown, 4 id. 403; Lowry v. Lew, 3 Barb. Ch. 407; Parkhurst v. Parkhurst, 14 Johns. 15; Corkhill v. Landers, 44 Barb. 219; Bennett v. Abrams, 41 id. 619; Wetmore v. White, 2 Caine\u2019s Cas. in Eq. 109: Hobbs v. Wetherwax, 38 How. 385; Church v. Kidd, 3 Hun, 254; Angell on Water-Courses, 318-330; 2 Story\u2019s Eq. Jur., \u00a7 759; Briggs v. Proper, 14 Wend. 227.) Upon the facts proved no error was committed by the referee in assessing the damages. (Johnstown v. Veghte, 69 N. Y. 16; Onthank v. L. S. R. R. Co., 71 id. 194; McMillan v. Cronin, 75 id. 474; Beals v. Stewart, 6 Lans. 408; Roberts v. Roberts, 7 id. 551.) Plaintiff\u2019s testimony as to the declaration of his predecessor in title, in a conversation with plaintiff\u2019s father on the morning after he had made his will and just before his death, in regard to the spring, was competent, plaintiff not being at that time interested in the transaction, and having taken no part in the conversation. (Cary v. White, 59 N. Y. 336; Hildebrant v. Crawford, 65 id. 107; Ward v. Warren, 82 id. 265.) The defendant\u2019s intentions in digging the well near the spring were wholly immaterial; he was responsible for his acts. (Phelps v. Nowlan, 72 N. Y. 39.) In equity actions the court will always look at the entire case and see whether substantial justice has been done, and.where that appears it will affirm the judgment, notwithstanding the admission of testimony which in ordinary actions at law might have necessitated a new trial. (Code of Civil Pro., \u00a7 1003; Church v. Kidd, 2 Hun, 267; Platt v. Platt, 2 N. S. C. R. 52.)"
+  },
+  "file_name": "0323-01",
+  "first_page_order": 347,
+  "last_page_order": 353
+}

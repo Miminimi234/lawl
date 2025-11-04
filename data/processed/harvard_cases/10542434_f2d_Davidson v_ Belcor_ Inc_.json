@@ -1,0 +1,833 @@
+{
+  "id": 10542434,
+  "name": "Rose A. DAVIDSON, Plaintiff-Appellant, v. BELCOR, INC., Aargus Polybag Co., Inc., M. Douglas Caffey and Robert Davidson, Defendants-Appellees",
+  "name_abbreviation": "Davidson v. Belcor, Inc.",
+  "decision_date": "1991-06-05",
+  "docket_number": "No. 89-1957",
+  "first_page": "603",
+  "last_page": "608",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "933 F.2d 603"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "7th Cir.",
+    "id": 9010,
+    "name": "United States Court of Appeals for the Seventh Circuit"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "70 L.Ed.2d 631",
+      "category": "reporters:federal",
+      "reporter": "L. Ed. 2d",
+      "year": 1981,
+      "opinion_index": 0
+    },
+    {
+      "cite": "102 S.Ct. 658",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "year": 1981,
+      "opinion_index": 0
+    },
+    {
+      "cite": "454 U.S. 1092",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6493793,
+        6494117,
+        6494214,
+        6494030,
+        6493871,
+        6493942,
+        6494296
+      ],
+      "year": 1981,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/454/1092-01",
+        "/us/454/1092-05",
+        "/us/454/1092-06",
+        "/us/454/1092-04",
+        "/us/454/1092-02",
+        "/us/454/1092-03",
+        "/us/454/1092-07"
+      ]
+    },
+    {
+      "cite": "646 F.2d 271",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1217972
+      ],
+      "pin_cites": [
+        {
+          "page": "287-88"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/646/0271-01"
+      ]
+    },
+    {
+      "cite": "780 F.2d 636",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1531088
+      ],
+      "pin_cites": [
+        {
+          "page": "641"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/780/0636-01"
+      ]
+    },
+    {
+      "cite": "17 C.F.R. \u00a7 240",
+      "category": "laws:admin_compilation",
+      "reporter": "C.F.R.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "59 L.Ed.2d 499",
+      "category": "reporters:federal",
+      "reporter": "L. Ed. 2d",
+      "year": 1979,
+      "opinion_index": 0
+    },
+    {
+      "cite": "99 S.Ct. 1289",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "year": 1979,
+      "opinion_index": 0
+    },
+    {
+      "cite": "440 U.S. 939",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6301504,
+        6300901,
+        6298757,
+        6299685,
+        6300005,
+        6301226,
+        6299469,
+        6299247,
+        6300279,
+        6300602
+      ],
+      "year": 1979,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/440/0939-10",
+        "/us/440/0939-08",
+        "/us/440/0939-01",
+        "/us/440/0939-04",
+        "/us/440/0939-05",
+        "/us/440/0939-09",
+        "/us/440/0939-03",
+        "/us/440/0939-02",
+        "/us/440/0939-06",
+        "/us/440/0939-07"
+      ]
+    },
+    {
+      "cite": "582 F.2d 388",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        857846
+      ],
+      "pin_cites": [
+        {
+          "page": "414"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/582/0388-01"
+      ]
+    },
+    {
+      "cite": "737 F.2d 582",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        669730
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/737/0582-01"
+      ]
+    },
+    {
+      "cite": "450 F.Supp. 639",
+      "category": "reporters:federal",
+      "reporter": "F. Supp.",
+      "case_ids": [
+        4006610
+      ],
+      "pin_cites": [
+        {
+          "page": "647"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f-supp/450/0639-01"
+      ]
+    },
+    {
+      "cite": "683 F.Supp. 359",
+      "category": "reporters:federal",
+      "reporter": "F. Supp.",
+      "case_ids": [
+        7398093
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f-supp/683/0359-01"
+      ]
+    },
+    {
+      "cite": "61 L.Ed.2d 274",
+      "category": "reporters:federal",
+      "reporter": "L. Ed. 2d",
+      "year": 1979,
+      "opinion_index": 0
+    },
+    {
+      "cite": "99 S.Ct. 2821",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "year": 1979,
+      "opinion_index": 0
+    },
+    {
+      "cite": "442 U.S. 909",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        1532165,
+        1532103,
+        1532047,
+        1532079,
+        1531826,
+        1532148,
+        1532117,
+        1532214,
+        1531991,
+        1532155,
+        1531967
+      ],
+      "year": 1979,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/442/0909-05",
+        "/us/442/0909-09",
+        "/us/442/0909-06",
+        "/us/442/0909-10",
+        "/us/442/0909-02",
+        "/us/442/0909-08",
+        "/us/442/0909-07",
+        "/us/442/0909-03",
+        "/us/442/0909-01",
+        "/us/442/0909-04",
+        "/us/442/0909-11"
+      ]
+    },
+    {
+      "cite": "603 F.2d 234",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1440690
+      ],
+      "year": 1978,
+      "pin_cites": [
+        {
+          "page": "240"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/603/0234-01"
+      ]
+    },
+    {
+      "cite": "412 F.2d 211",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        2187940
+      ],
+      "year": 1969,
+      "pin_cites": [
+        {
+          "parenthetical": "same"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/412/0211-01"
+      ]
+    },
+    {
+      "cite": "523 F.2d 853",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1105901
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/523/0853-01"
+      ]
+    },
+    {
+      "cite": "437 N.E.2d 777",
+      "category": "reporters:state_regional",
+      "reporter": "N.E.2d",
+      "year": 1982,
+      "pin_cites": [
+        {
+          "page": "779"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "63 Ill.Dec. 128",
+      "category": "reporters:state",
+      "reporter": "Ill. Dec.",
+      "year": 1982,
+      "pin_cites": [
+        {
+          "page": "130"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "107 Ill.App.3d 310",
+      "category": "reporters:state",
+      "reporter": "Ill. App. 3d",
+      "case_ids": [
+        3020282
+      ],
+      "year": 1982,
+      "opinion_index": 0,
+      "case_paths": [
+        "/ill-app-3d/107/0310-01"
+      ]
+    },
+    {
+      "cite": "759 F.2d 1172",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        388361
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "1174"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/759/1172-01"
+      ]
+    },
+    {
+      "cite": "91 L.Ed.2d 547",
+      "category": "reporters:federal",
+      "reporter": "L. Ed. 2d",
+      "year": 1986,
+      "opinion_index": 0
+    },
+    {
+      "cite": "106 S.Ct. 2919",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "year": 1986,
+      "opinion_index": 0
+    },
+    {
+      "cite": "476 U.S. 1183",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        12417,
+        12517,
+        13029,
+        12424,
+        12489,
+        12939,
+        12588,
+        12909,
+        12753,
+        12722,
+        12755,
+        12471,
+        12478
+      ],
+      "year": 1986,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/476/1183-13",
+        "/us/476/1183-03",
+        "/us/476/1183-06",
+        "/us/476/1183-04",
+        "/us/476/1183-08",
+        "/us/476/1183-02",
+        "/us/476/1183-11",
+        "/us/476/1183-10",
+        "/us/476/1183-12",
+        "/us/476/1183-01",
+        "/us/476/1183-07",
+        "/us/476/1183-09",
+        "/us/476/1183-05"
+      ]
+    },
+    {
+      "cite": "484 N.E.2d 1253",
+      "category": "reporters:state_regional",
+      "reporter": "N.E.2d",
+      "year": 1985,
+      "pin_cites": [
+        {
+          "page": "1260"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "92 Ill.Dec. 398",
+      "category": "reporters:state",
+      "reporter": "Ill. Dec.",
+      "year": 1985,
+      "pin_cites": [
+        {
+          "page": "405"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "137 Ill.App.3d 692",
+      "category": "reporters:state",
+      "reporter": "Ill. App. 3d",
+      "case_ids": [
+        3640529
+      ],
+      "year": 1985,
+      "pin_cites": [
+        {
+          "page": "702"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ill-app-3d/137/0692-01"
+      ]
+    },
+    {
+      "cite": "19 L.Ed.2d 470",
+      "category": "reporters:federal",
+      "reporter": "L. Ed. 2d",
+      "year": 1967,
+      "opinion_index": 0
+    },
+    {
+      "cite": "88 S.Ct. 480",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "year": 1967,
+      "opinion_index": 0
+    },
+    {
+      "cite": "389 U.S. 977",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11403658,
+        11403499,
+        11403759,
+        11403572,
+        11403612,
+        11403549,
+        11403709
+      ],
+      "year": 1967,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/389/0977-05",
+        "/us/389/0977-01",
+        "/us/389/0977-07",
+        "/us/389/0977-03",
+        "/us/389/0977-04",
+        "/us/389/0977-02",
+        "/us/389/0977-06"
+      ]
+    },
+    {
+      "cite": "380 F.2d 262",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        2073260
+      ],
+      "pin_cites": [
+        {
+          "page": "269"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/380/0262-01"
+      ]
+    },
+    {
+      "cite": "393 U.S. 453",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11317624
+      ],
+      "weight": 3,
+      "year": 1969,
+      "pin_cites": [
+        {
+          "page": "465-68"
+        },
+        {
+          "page": "571-72"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/393/0453-01"
+      ]
+    },
+    {
+      "cite": "430 U.S. 462",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        12125360
+      ],
+      "weight": 6,
+      "year": 1977,
+      "pin_cites": [
+        {
+          "page": "477-78"
+        },
+        {
+          "page": "1303"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/430/0462-01"
+      ]
+    },
+    {
+      "cite": "676 F.Supp. 856",
+      "category": "reporters:federal",
+      "reporter": "F. Supp.",
+      "case_ids": [
+        3965190
+      ],
+      "weight": 2,
+      "year": 1988,
+      "pin_cites": [
+        {
+          "page": "857"
+        },
+        {
+          "page": "857"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f-supp/676/0856-01"
+      ]
+    },
+    {
+      "cite": "593 F.2d 54",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        517678
+      ],
+      "weight": 5,
+      "pin_cites": [
+        {
+          "page": "59"
+        },
+        {
+          "page": "60"
+        },
+        {
+          "page": "60"
+        },
+        {
+          "page": "60"
+        },
+        {
+          "page": "59-61"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/593/0054-01"
+      ]
+    },
+    {
+      "cite": "80 L.Ed.2d 185",
+      "category": "reporters:federal",
+      "reporter": "L. Ed. 2d",
+      "year": 1984,
+      "opinion_index": 0
+    },
+    {
+      "cite": "104 S.Ct. 1713",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "year": 1984,
+      "opinion_index": 0
+    },
+    {
+      "cite": "466 U.S. 929",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6255138,
+        6253753,
+        6254439,
+        6255499,
+        6256396,
+        6254060,
+        6257357,
+        6256683,
+        6256048,
+        6254803,
+        6257012,
+        6252725,
+        6253433,
+        6255771
+      ],
+      "year": 1984,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/466/0929-07",
+        "/us/466/0929-03",
+        "/us/466/0929-05",
+        "/us/466/0929-08",
+        "/us/466/0929-11",
+        "/us/466/0929-04",
+        "/us/466/0929-14",
+        "/us/466/0929-12",
+        "/us/466/0929-10",
+        "/us/466/0929-06",
+        "/us/466/0929-13",
+        "/us/466/0929-01",
+        "/us/466/0929-02",
+        "/us/466/0929-09"
+      ]
+    },
+    {
+      "cite": "719 F.2d 256",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1899200
+      ],
+      "weight": 4,
+      "pin_cites": [
+        {
+          "page": "259"
+        },
+        {
+          "page": "261",
+          "parenthetical": "Bauer, J., dissenting"
+        },
+        {
+          "page": "262",
+          "parenthetical": "Bauer, J., dissenting"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/719/0256-01"
+      ]
+    },
+    {
+      "cite": "96 L.Ed. 1356",
+      "category": "reporters:federal",
+      "reporter": "L. Ed.",
+      "year": 1952,
+      "opinion_index": 0
+    },
+    {
+      "cite": "72 S.Ct. 1051",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "year": 1952,
+      "opinion_index": 0
+    },
+    {
+      "cite": "343 U.S. 956",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11370179,
+        11370031,
+        11370229,
+        11370102,
+        11370296
+      ],
+      "year": 1952,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/343/0956-03",
+        "/us/343/0956-01",
+        "/us/343/0956-04",
+        "/us/343/0956-02",
+        "/us/343/0956-05"
+      ]
+    },
+    {
+      "cite": "193 F.2d 461",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        511729
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/193/0461-01"
+      ]
+    },
+    {
+      "cite": "46 L.Ed.2d 114",
+      "category": "reporters:federal",
+      "reporter": "L. Ed. 2d",
+      "year": 1975,
+      "opinion_index": 0
+    },
+    {
+      "cite": "96 S.Ct. 157",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "year": 1975,
+      "opinion_index": 0
+    },
+    {
+      "cite": "423 U.S. 884",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6363821
+      ],
+      "year": 1975,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/423/0884-01"
+      ]
+    },
+    {
+      "cite": "421 U.S. 723",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        541651
+      ],
+      "weight": 7,
+      "year": 1975,
+      "pin_cites": [
+        {
+          "page": "737-38"
+        },
+        {
+          "page": "1926"
+        },
+        {
+          "page": "728"
+        },
+        {
+          "page": "1921"
+        },
+        {
+          "page": "739-45"
+        },
+        {
+          "page": "1927-31"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/421/0723-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 955,
+    "char_count": 20130,
+    "ocr_confidence": 0.762,
+    "pagerank": {
+      "raw": 1.0796688396900123e-07,
+      "percentile": 0.5621387578966959
+    },
+    "sha256": "1042a7e0b6a374308fa2a936db41847b344a7dd1eada04878492fe837a7e4798",
+    "simhash": "1:4caf8dfacd649123",
+    "word_count": 3263
+  },
+  "last_updated": "2024-02-27T20:17:01.570520+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before FLAUM and KANNE, Circuit Judges, and NOLAND, Senior District Judge."
+    ],
+    "parties": [
+      "Rose A. DAVIDSON, Plaintiff-Appellant, v. BELCOR, INC., Aargus Polybag Co., Inc., M. Douglas Caffey and Robert Davidson, Defendants-Appellees."
+    ],
+    "opinions": [
+      {
+        "text": "KANNE, Circuit Judge.\nThis federal securities fraud action is a follow-up to the end of a marital relationship. Early in 1985, divorce proceedings were instituted between Rose A. Davidson and Robert Davidson. Soon after, on February 19, 1985, the Davidsons signed a property settlement agreement. Under the terms of the agreement, Mr. Davidson was obligated to make monthly maintenance payments of twenty-five hundred dollars to Mrs. Davidson until February 1, 1996. Property Settlement Agreement, \u00b6 2. The maintenance provisions of the agreement also stated that:\nIn the event that Aargus Polybag Co., Inc. is sold the Wife shall receive twenty-five (25%) per cent of the proceeds received by the Husband. The Wife\u2019s share shall be paid in the same proportion of cash, stock, etc. that the Husband receives.\nId. at 114. While the agreement awarded an interest in the proceeds of the sale of the stock to Mrs. Davidson, it did not require Mr. Davidson, an officer, director and shareholder of Aargus Polybag Co., Inc., to transfer any portion of his Aargus shares (or any rights connected with the shares) to Mrs. Davidson. Finally, if Aargus was not sold prior to February 1, 1991, the agreement provided for a reduction in Mr. Davidson\u2019s maintenance obligations. Id. at 11 2.\nOn February 21, 1985, the Circuit Court of Cook County, Illinois, entered a Judgment for Dissolution of Marriage for the Davidsons, which incorporated the property settlement agreement. Under the terms of the judgment:\nAny right, claim, demand or interest in the parties in and to maintenance for themselves, whether past, present or future, and in and to the property of the other, whether real, personal or mixed, of whatsoever kind in nature and wheresoever situated, including, but not limited by homestead, successor and inheritance, arising out of the marital relationship or any other relationship existing between the parties hereto, except expressly set forth in the aforesaid agreement is forever barred and terminated.\nJudgment for Dissolution, II 4. Following the entry of the judgment, Aargus\u2019 corporate records continued to list only Mr. Davidson as a shareholder of record; the corporate records never indicated that Mrs. Davidson had any interest in the shares held under Mr. Davidson\u2019s name.\nApproximately ten months later, Aargus merged with Belcor, Inc. As consideration for the transaction, Belcor issued one million shares of Belcor stock and a promissory note in the principal amount of six million dollars to the Aargus shareholders. As his share of the merger proceeds, Mr. Davidson received 4.86% of the total consideration \u2014 48,600 shares of Belcor stock and a principal portion of the promissory note of $291,600.00. Pursuant to the property settlement agreement and judgment, Mrs. Davidson was entitled to twenty-five percent of Mr. Davidson\u2019s proceeds from the merger. Accordingly, on February 28, 1986, she received a stock certificate representing 12,150 Belcor shares and a $72,-900.00 principal share of the promissory note.\nAfter learning of her share of the merger proceeds, Mrs. Davidson began to dispute the fairness of the transaction. In particular, she questioned whether the promissory note was truly worth six million dollars since it was unsecured, non-binding and contingent. Her fears concerning the note were further exacerbated by the companies\u2019 failure to disclose the terms or conditions of the note at the time of the merger. Mrs. Davidson also questioned whether the Aargus shareholders had received a sufficient amount of Belcor stock in the exchange because Belcor and Aargus did not obtain any appraisals evaluating the values of Aargus, Belcor, or their outstanding shares of stock. While consolidated financial statements for Belcor and its subsidiaries had been made available, Belcor had not furnished the shareholders with separate statements for each corporate entity.\nSince the merger, Mrs. Davidson has received at least one payment of $3,645.00 representing interest and principal on the note. In addition, she has received form letters from the post-merger Aargus entity, as well as proxies and notices of annual meetings addressed to her as a Belcor shareholder. Her requests to Belcor and Aargus for additional information about the merger and the value of the consideration received, however, have been refused or ignored.\nAfter failing to receive a favorable response from Aargus or Belcor with respect to her requests for information regarding the merger transaction, Mrs. Davidson filed a two-count complaint in federal court. She brought the action individually, as well as on behalf of other shareholders, against Aargus and Belcor. The lawsuit also named Mr. Davidson and M. Douglas Caffey, an officer, director and shareholder of Belcor, as defendants. The first count alleged that the defendants had committed securities fraud in violation of \u00a7 10(b) of the Securities Exchange Act and Rule 10b-5 and the second involved allegations of common law fraud. Specifically, Mrs. Davidson alleged that the defendants had defrauded Aargus\u2019 shareholders by failing to disclose material facts relevant to the merger and by failing to obtain sufficient consideration for the Aargus shareholders. In addition, she contended that the defendants had defrauded her when they failed to respond to her subsequent inquiries regarding the transaction.\nThe defendants moved to dismiss Mrs. Davidson\u2019s complaint pursuant to Federal Rule of Civil Procedure 12(b)(1) for lack of subject matter jurisdiction because she had not been either a seller of Aargus shares or a purchaser of Belcor shares and, therefore, lacked standing to pursue a claim based on alleged violations of the federal securities laws. Noting that Mrs. Davidson had only a \u201cpassive role\u201d in her receipt of the proceeds from the merger and that she \u201cwas not entitled to and did not make any investment decision,\u201d the district court dismissed the complaint for lack of standing.\nIn Blue Chip Stamps v. Manor Drug Stores, 421 U.S. 723, 737-38, 95 S.Ct. 1917, 1926, 44 L.Ed.2d 539 reh\u2019g denied, 423 U.S. 884, 96 S.Ct. 157, 46 L.Ed.2d 114 (1975), the Supreme Court adopted the Birnbaum rule, Birnbaum v. Newport Steel Corp., 193 F.2d 461 (2d Cir.), cert. denied, 343 U.S. 956, 72 S.Ct. 1051, 96 L.Ed. 1356 (1952), and held that only actual purchasers and sellers of securities have standing to pursue private causes of action under the anti-fraud provisions of the Securities Exchange Act of 1934. See also Norris v. Wirtz, 719 F.2d 256, 259 (7th Cir.1983), cert. denied, 466 U.S. 929, 104 S.Ct. 1713, 80 L.Ed.2d 185 (1984); O\u2019Brien v. Continental Illinois Nat. Bank & Trust Co., 593 F.2d 54, 59 (7th Cir.1979); McHugh v. McHugh, 676 F.Supp. 856, 857 (N.D.Ill. 1988). As the Supreme Court has observed, the fundamental purpose of Section 10(b) and Rule 10b-5 is to implement a policy of full and fair disclosure so that potential purchasers and sellers can make informed investment decisions. Santa Fe Indus. v. Green, 430 U.S. 462, 477-78, 97 S.Ct. 1292, 1303, 51 L.Ed.2d 480 (1977); Blue Chip Stamps, 421 U.S. at 728, 95 S.Ct. at 1921; see also O\u2019Brien, 593 F.2d at 60. Because it limits Section 10(b) and Rule 10b-5 actions to actual purchasers and sellers of securities, this \u201cstanding\u201d requirement reinforces the goal of investor protection underlying the securities acts, while minimizing fears that corporations will be subjected to \u201cexpansive ... civil liability.\u201d Blue Chip Stamps, 421 U.S. at 739-45, 95 S.Ct. at 1927-31.\nMrs. Davidson maintains that she was both a seller of Aargus shares and a buyer of Belcor shares as a result of the Belcor/Aargus merger. It is well-established that the exchange of shares during a merger transaction constitutes the purchase or sale of securities for the purposes of Section 10(b) and Rule 10b-5. See, e.g., Securities Exchange Comm\u2019n v. National Sec., Inc., 393 U.S. 453, 465-68, 89 S.Ct. 564, 571-72, 21 L.Ed.2d 668 (1969); Dasho v. Susquehanna Corp., 380 F.2d 262, 269 (7th Cir.), cert. denied, Bard v. Dasho, 389 U.S. 977, 88 S.Ct. 480, 19 L.Ed.2d 470 (1967). The trouble, of course, is that Mrs. Davidson was never actively involved in the sale or purchase of any Aargus or Belcor shares. Her ex-husband held the shares in his name and controlled all the investment decisions concerning the shares in question while she passively received a set percentage of the proceeds from the sale. Thus, the critical determination in this appeal, is whether Mrs. Davidson had any ownership interest in the pre-merger Aargus shares after her divorce. Recognizing this, Mrs. Davidson offers several theories in an effort to demonstrate an ownership interest in the shares sufficient to establish standing as an actual buyer or seller.\nMrs. Davidson first argues that the Illinois Marriage and Dissolution of Marriage Act established her continuing common ownership of the Aargus shares. In support of her position she cites \u00a7 503(e) of the dissolution act which provides that \u201ceach spouse has a species of common ownership in the marital property.\u201d Ill.Rev. Stat. ch. 40,11503(e) (1983); In re Marriage of Shehade, 137 Ill.App.3d 692, 702, 92 Ill.Dec. 398, 405, 484 N.E.2d 1253, 1260 (1985), cert. denied, 476 U.S. 1183, 106 S.Ct. 2919, 91 L.Ed.2d 547 (1986). But, Mrs. Davidson\u2019s interpretation of the Illinois statute conveniently ignores a limiting clause in \u00a7 503(e): this species of common ownership \u201ccontinues only during the pend-ency of the action.\u201d Ill.Rev.Stat. ch. 40, \u00b6 503(e) (1983). Thus, while the dissolution act may have vested common ownership of the Aargus shares in Mrs. Davidson at the start of her divorce proceedings, the classification of the stock as \u201cmarital property\u201d terminated on February 21, 1985 when the Illinois court entered its judgment dissolving the Davidsons' marriage. From that time on, the terms of the judgment and the property settlement agreement, not \u00a7 503 of the Illinois marriage dissolution act, governed the classification of the stock.\nThe case cited by Mrs. Davidson, Head v. Head, 759 F.2d 1172 (4th Cir.1985), as support for her argument that \u00a7 503(e) created sufficient ownership in the shares to establish her standing to pursue this suit does not compel a contrary result in this case. In Head, Mrs. Head alleged that her former husband fraudulently induced her to accept a proposed settlement agreement. As a result, she argued that the settlement constituted a sale of securities in violation of Section 10(b). The court held that the Maryland Marital Property Act did not create any ownership interest in the shares of stock \u201csufficiently identifiable to make the ... property settlement a \u2018sale\u2019 of securities and thereby to make [Mrs. Head] a \u2018seller\u2019 of shares for the purposes of the federal securities laws.\u201d Id. at 1174. The legal interest created by \u00a7 503(e) of the Illinois marriage dissolution act, however, is different than that of the Maryland statute involved in Head. Accordingly, Mrs. Davidson argues that the presence of a provision like \u00a7 503(e) would have changed the outcome in Head. If Mrs. Davidson were alleging fraud in the making of the agreement, her analysis of Head might be relevant and persuasive. But see McHugh v. McHugh, 676 F.Supp. 856, 857 (N.D.Ill. 1988). But she is not. She is instead alleging that actions by the defendants (long after she had given up any ownership rights in the shares provided by \u00a7 503(e)) defrauded her and other shareholders. Under these facts, Head does not provide a basis for us to conclude that Mrs. Davidson retained sufficient ownership rights to be considered a purchaser or seller of stock over ten months later.\nIf \u00a7 503(e) of the Illinois Marriage and Dissolution of Marriage Act did not establish her ownership, Mrs. Davidson maintains that she \u201cowned\u201d the Aargus shares because these shares were acknowledged to be marital property by the terms of the state court judgment and the incorporated property settlement agreement. Paragraph 4 of the judgment, however, specifically terminated all claims arising out of the marital relationship except as provided by the property settlement agreement. A careful reading of the agreement refutes Mrs. Davidson\u2019s argument. First, the terms of the agreement state that Mrs. Davidson is entitled only to a share of the \u201cproceeds\u201d from the sale of the stock, indicating she retained no other interest in the stock. Second, although the agreement does not explicitly award the Aargus shares to Mr. Davidson, as it does, for example, in its disposition of the marital home to Mrs. Davidson, see Property Settlement Agreement, \u00b6 7 (\u201cHusband shall convey to the Wife all of his right, title and interest in the marital home\u201d), it does provide that \u201cthe Husband shall retain all items of personal property currently in his possession.\u201d Id. at \u00b6 9. Because shares of stock are personal property under Illinois law, see Kundit v. Kundit, 107 Ill.App.3d 310, 63 Ill.Dec. 128, 130, 437 N.E.2d 777, 779 (1982), and the stock was registered in Mr. Davidson\u2019s name at all times, the terms of the agreement support the defendants\u2019 contention that Mrs. Davidson retained no ownership rights in the disputed shares after the divorce. Finally, while the agreement could have provided that Mrs. Davidson would receive twenty-five percent of the Aargus stock, it did not. See Imel v. United States, 523 F.2d 853 (10th Cir.1975) (contemplating such result); Collins v. Commissioner, 412 F.2d 211 (10th Cir. 1969) (same). Under these circumstances, we are convinced that any rights Mrs. Davidson had in the Aargus shares were extinguished by the entry of the state court judgment, leaving her with only the enumerated beneficial interest in the sale of the stock.\nAs this court has previously cautioned, we are \u201creluctant to imply a 10b-5 cause of action for wrongs that do not fall within \u00a7 10(b)\u2019s fundamental purpose of requiring full and fair disclosure to- participants in securities transactions of the information that would be useful to them in deciding whether to buy or sell securities.\u201d O\u2019Brien, 593 F.2d at 60. Because the property settlement agreement and judgment awarded her only a beneficial interest in the sale of the stock (the right to receive a share of the proceeds from her ex-husband\u2019s sale of the stock), Mrs. Davidson was never in a position to make an investment decision regarding the securities and is, therefore, not a member of the class which the federal securities laws are designed to protect. Mrs. Davidson engaged in no \u201cinvestment\u201d activities with respect to the Aargus shares held by her ex-husband. She did not, and indeed could not, control the voting of the stock or dictate the time or circumstances of its sale; Mr. Davidson, as the owner of the shares, had the sole authority to make decisions concerning the shares. Because Mrs. Davidson had no input into the decision to sell the stock, any alleged misrepresentations or omissions on the part of the defendants were not made in connection with the purchase or sale of any security. O\u2019Brien, 593 F.2d at 60; Norris, 719 F.2d at 261 (Bauer, J., dissenting). Accordingly, she lacks standing to pursue a claim based on the anti-fraud provisions of the Securities Exchange Act of 1934.\nIn the alternative, Mrs. Davidson argues that the terms of the property settlement agreement established a constructive trust in her benefit and that as the beneficiary of the trust she has standing to bring suit under the anti-fraud provisions of the federal securities laws. See Norris v. Wirtz, 719 F.2d 256 (7th Cir.1985); cf Kirshner v. United States, 603 F.2d 234, 240 (2d Cir. 1978), cert. denied, 442 U.S. 909, 99 S.Ct. 2821, 61 L.Ed.2d 274 (1979). In Norris, however, the beneficiary had standing only because she was in a position to make an investment decision since the terms of the trust required her approval of any sale to the trustee. Id. at 260. Unlike the plaintiff in Norris, Mrs. Davidson had no ability to prevent or encourage the sale of the Aargus shares. Indeed, Mrs. Davidson\u2019s situation more closely resembles that of a beneficiary under a will rather than that of a beneficiary of a trust. On the date of the merger, she had no ownership interest in the securities, only an expectancy of receiving a part of Mr. Davidson\u2019s share of the proceeds after the merger was consummated. Beneficiaries under a will, unlike beneficiaries of a trust, do not have standing to bring an action against third parties who enter into fraudulent transactions for the purchase or sale of securities with the representative of an estate. See, e.g., Benson v. RMJ Sec. Corp., 683 F.Supp. 359 (S.D.N. Y.1988); Kerrigan v. Merrill Lynch, Pierce, Fenner & Smith, 450 F.Supp. 639, 647 (S.D.N.Y.1978). Therefore, because she had no power to make any investment decisions with respect to the sale of the Aargus shares, Mrs. Davidson is not a purchaser or seller as required by Blue Chip Stamps.\nWhile there are, of course, other exceptions to this general rule, they are distinguishable from this case. For example, owners of executed contracts to purchase or sell securities have standing to maintain a cause of action under the federal securities laws. Abrams v. Oppenheimer Gov\u2019t Sec., Inc., 737 F.2d 582 (7th Cir.1984). Mrs. Davidson, however, was not a party to any contract to purchase or sell Aargus or Belcor securities. Similarly, the lack of any investment decision on the part of Mrs. Davidson distinguishes this case from Goodman v. Epstein, 582 F.2d 388, 414 (7th Cir.1978), cert. denied, 440 U.S. 939, 99 S.Ct. 1289, 59 L.Ed.2d 499 (1979), where we held that additional capital contributions to a partnership constituted the purchase of securities.\nBy necessity, Mrs. Davidson\u2019s lawsuit requires the resolution of questions of Illinois trust and estate law concerning her ex-husband\u2019s obligations under the property settlement agreement. Our decision today, of course, holds only that Mrs. Davidson does not have standing to sue under the anti-fraud provisions of the federal securities laws. It has no bearing on any state law claims she may choose to pursue for \u201c[t]his type of case is far better left to state courts.\u201d Norris, 719 F.2d at 262 (Bauer, J., dissenting).\nFor the foregoing reasons, the decision of the district court is Affirmed.\n. 15 U.S.C. \u00a7 78j(b) (1934).\n. 17 C.F.R. \u00a7 240.1Ob-5 (1951).\n. \"Because the self-interested conduct of directors in dereliction of their fiduciary duties does not implicate the interest in full disclosure underlying Section 10(b) and Rule 10b-5,\u201d this court has held \"that no cause of action will be implied under the securities laws for alleged corporate mismanagement.\" Ray v. Karris, 780 F.2d 636, 641 (7th Cir.1985) (citing Santa Fe Indus. v. Green, 430 U.S. 462, 97 S.Ct. 1292, 51 L.Ed.2d 480 (1977)); Panter v. Marshall Field & Co., 646 F.2d 271, 287-88 (7th Cir.), cert. denied, 454 U.S. 1092, 102 S.Ct. 658, 70 L.Ed.2d 631 (1981); O\u2019Brien v. Continental Illinois Nat. Bank & Trust Co., 593 F.2d 54, 59-61 (7th Cir.1979). Even if Mrs. Davidson had standing as a purchaser or seller of securities, her allegation that the defendants had committed fraud by failing to obtain sufficient consideration for the pre-merger Aargus shareholders is essentially a claim of corporate mismanagement and, therefore, is not actionable under the anti-fraud provisions of the federal securities laws.",
+        "type": "majority",
+        "author": "KANNE, Circuit Judge."
+      }
+    ],
+    "attorneys": [
+      "John S. Cole, Theodore T. Scudder, III, Alfieri, Abbene, Durkin & Dailey, Elm-hurst, Ill., for plaintiff-appellant.",
+      "John L. Ropiequet, Kurt J. Heinz, Hal R. Morris, Arnstein & Lehr, Richard H. Chapman, Floyd Babbitt, Fagel & Haber, Chicago, Ill., for defendants-appellees."
+    ],
+    "corrections": "",
+    "head_matter": "Rose A. DAVIDSON, Plaintiff-Appellant, v. BELCOR, INC., Aargus Polybag Co., Inc., M. Douglas Caffey and Robert Davidson, Defendants-Appellees.\nNo. 89-1957.\nUnited States Court of Appeals, Seventh Circuit.\nArgued April 2, 1990.\nDecided June 5, 1991.\nJohn S. Cole, Theodore T. Scudder, III, Alfieri, Abbene, Durkin & Dailey, Elm-hurst, Ill., for plaintiff-appellant.\nJohn L. Ropiequet, Kurt J. Heinz, Hal R. Morris, Arnstein & Lehr, Richard H. Chapman, Floyd Babbitt, Fagel & Haber, Chicago, Ill., for defendants-appellees.\nBefore FLAUM and KANNE, Circuit Judges, and NOLAND, Senior District Judge.\nThe Honorable James E. Noland, Senior District Judge for the Southern District of Indiana, is sitting by designation."
+  },
+  "file_name": "0603-01",
+  "first_page_order": 701,
+  "last_page_order": 706
+}

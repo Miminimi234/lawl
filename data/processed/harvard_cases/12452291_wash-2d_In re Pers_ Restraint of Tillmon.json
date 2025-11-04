@@ -1,0 +1,78 @@
+{
+  "id": 12452291,
+  "name": "In re Pers. Restraint of Tillmon, Petitioner",
+  "name_abbreviation": "In re Pers. Restraint of Tillmon",
+  "decision_date": "2017-02-23",
+  "docket_number": "No. 93111-9",
+  "first_page": "1017",
+  "last_page": "1017",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "187 Wash. 2d 1017"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Wash.",
+    "id": 9029,
+    "name": "Washington Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 38,
+    "name_long": "Washington",
+    "name": "Wash."
+  },
+  "cites_to": [
+    {
+      "cite": "193 Wn. App. 1018",
+      "category": "reporters:state",
+      "reporter": "Wash. App.",
+      "case_ids": [
+        12450000,
+        12450001,
+        12450002,
+        12449999
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-app/193/1018-02",
+        "/wash-app/193/1018-03",
+        "/wash-app/193/1018-04",
+        "/wash-app/193/1018-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 30,
+    "char_count": 207,
+    "ocr_confidence": 0.845,
+    "sha256": "129d32c4e9e66e3533b4e4e967f38dd9e94f48f59772a95c1e97c68bf0011283",
+    "simhash": "1:2cf172ac71594d9d",
+    "word_count": 34
+  },
+  "last_updated": "2024-02-27T20:27:34.476040+00:00",
+  "provenance": {
+    "date_added": "2019-05-21",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In re Pers. Restraint of Tillmon, Petitioner,"
+    ],
+    "opinions": [
+      {
+        "text": "Motion for discretionary review of a decision of the Court of Appeals, No. 47094-2-II, April 12, 2016, 193 Wn. App. 1018. Denied February 23, 2017.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "In re Pers. Restraint of Tillmon, Petitioner,\nNo. 93111-9."
+  },
+  "file_name": "1017-03",
+  "first_page_order": 985,
+  "last_page_order": 985
+}

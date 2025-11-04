@@ -1,0 +1,152 @@
+{
+  "id": 12521115,
+  "name": "UNITED STATES of America, Plaintiff - Appellee, v. Joe EDGER, Defendant - Appellant. United States of America, Plaintiff - Appellee, v. Joe Edger, Defendant - Appellant.",
+  "name_abbreviation": "United States v. Edger",
+  "decision_date": "2019-05-23",
+  "docket_number": "No. 18-1594; No. 18-1596",
+  "first_page": "1011",
+  "last_page": "1015",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "924 F.3d 1011"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "8th Cir.",
+    "id": 8821,
+    "name": "United States Court of Appeals for the Eighth Circuit"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "556 U.S. 129",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        3653331
+      ],
+      "weight": 3,
+      "year": 2009,
+      "pin_cites": [
+        {
+          "page": "135"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/556/0129-01"
+      ]
+    },
+    {
+      "cite": "507 U.S. 725",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6237509
+      ],
+      "weight": 3,
+      "year": 1993,
+      "pin_cites": [
+        {
+          "page": "732-37"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/507/0725-01"
+      ]
+    },
+    {
+      "cite": "241 F.3d 1049",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        11140679
+      ],
+      "year": 2001,
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/241/1049-01"
+      ]
+    },
+    {
+      "cite": "741 F. App'x 905",
+      "category": "reporters:federal",
+      "reporter": "F. App'x",
+      "year": 2018,
+      "pin_cites": [
+        {
+          "page": "908",
+          "parenthetical": "per curiam"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "792 F.3d 931",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        4276032
+      ],
+      "weight": 2,
+      "year": 2015,
+      "pin_cites": [
+        {
+          "page": "935"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/792/0931-01"
+      ]
+    },
+    {
+      "cite": "18 U.S.C. \u00a7 924",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "pin_cites": [
+        {
+          "page": "(o)"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "18 U.S.C. \u00a7\u00a7 922",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "pin_cites": [
+        {
+          "page": "(g)(1)"
+        }
+      ],
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 515,
+    "char_count": 9541,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.25930507917643075
+    },
+    "sha256": "a62cae612ed0ce6473226610baa7543e1b347501393f0cc9a027f8be1d5e5ca0",
+    "simhash": "1:8f46e1863ae30853",
+    "word_count": 1521
+  },
+  "last_updated": "2024-02-27T18:46:58.656971+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "file_name": "1011-01",
+  "first_page_order": 1011,
+  "last_page_order": 1015
+}

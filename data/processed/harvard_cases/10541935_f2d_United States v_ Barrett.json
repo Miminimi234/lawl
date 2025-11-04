@@ -1,0 +1,825 @@
+{
+  "id": 10541935,
+  "name": "UNITED STATES of America, Plaintiff-Appellee, v. Vernon BARRETT (90-5715), Eugene Little (90-5719), Defendants-Appellants",
+  "name_abbreviation": "United States v. Barrett",
+  "decision_date": "1991-05-08",
+  "docket_number": "Nos. 90-5715, 90-5719",
+  "first_page": "355",
+  "last_page": "362",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "933 F.2d 355"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "6th Cir.",
+    "id": 8864,
+    "name": "United States Court of Appeals for the Sixth Circuit"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "873 F.2d 437",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        10531162
+      ],
+      "weight": 2,
+      "year": 1989,
+      "pin_cites": [
+        {
+          "parenthetical": "reaching a similar conclusion in the context of plea bargains"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/873/0437-01"
+      ]
+    },
+    {
+      "cite": "71 L.Ed.2d 873",
+      "category": "reporters:federal",
+      "reporter": "L. Ed. 2d",
+      "weight": 2,
+      "year": 1982,
+      "opinion_index": 0
+    },
+    {
+      "cite": "102 S.Ct. 1641",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "year": 1982,
+      "opinion_index": 0
+    },
+    {
+      "cite": "455 U.S. 1005",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11372704,
+        11372004,
+        11372580,
+        11372964,
+        11371943,
+        11372069,
+        11372841,
+        11372490,
+        11372144,
+        11372659,
+        11372887
+      ],
+      "year": 1982,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/455/1005-08",
+        "/us/455/1005-02",
+        "/us/455/1005-06",
+        "/us/455/1005-11",
+        "/us/455/1005-01",
+        "/us/455/1005-03",
+        "/us/455/1005-09",
+        "/us/455/1005-05",
+        "/us/455/1005-04",
+        "/us/455/1005-07",
+        "/us/455/1005-10"
+      ]
+    },
+    {
+      "cite": "664 F.2d 101",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1166944
+      ],
+      "pin_cites": [
+        {
+          "page": "106"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/664/0101-01"
+      ]
+    },
+    {
+      "cite": "84 L.Ed.2d 362",
+      "category": "reporters:federal",
+      "reporter": "L. Ed. 2d",
+      "weight": 2,
+      "year": 1985,
+      "opinion_index": 0
+    },
+    {
+      "cite": "105 S.Ct. 1222",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "year": 1985,
+      "opinion_index": 0
+    },
+    {
+      "cite": "469 U.S. 1226",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        12108285,
+        12108230,
+        12108265,
+        12108170,
+        12108300,
+        12108431,
+        12108207,
+        12108399,
+        12108336,
+        12108371,
+        12108248,
+        12108187,
+        12108316,
+        12108157
+      ],
+      "year": 1985,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/469/1226-08",
+        "/us/469/1226-05",
+        "/us/469/1226-07",
+        "/us/469/1226-02",
+        "/us/469/1226-09",
+        "/us/469/1226-14",
+        "/us/469/1226-04",
+        "/us/469/1226-13",
+        "/us/469/1226-11",
+        "/us/469/1226-12",
+        "/us/469/1226-06",
+        "/us/469/1226-03",
+        "/us/469/1226-10",
+        "/us/469/1226-01"
+      ]
+    },
+    {
+      "cite": "746 F.2d 1129",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        649110
+      ],
+      "pin_cites": [
+        {
+          "page": "1134"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/746/1129-01"
+      ]
+    },
+    {
+      "cite": "97 L.Ed.2d 740",
+      "category": "reporters:federal",
+      "reporter": "L. Ed. 2d",
+      "year": 1987,
+      "opinion_index": 0
+    },
+    {
+      "cite": "107 S.Ct. 3234",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "year": 1987,
+      "opinion_index": 0
+    },
+    {
+      "cite": "483 U.S. 1007",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        28226,
+        28390,
+        28039,
+        28104,
+        28140,
+        28334,
+        28305,
+        28372,
+        28184,
+        28378,
+        28317,
+        28126
+      ],
+      "year": 1987,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/483/1007-05",
+        "/us/483/1007-08",
+        "/us/483/1007-03",
+        "/us/483/1007-09",
+        "/us/483/1007-04",
+        "/us/483/1007-06",
+        "/us/483/1007-10",
+        "/us/483/1007-07",
+        "/us/483/1007-12",
+        "/us/483/1007-01",
+        "/us/483/1007-11",
+        "/us/483/1007-02"
+      ]
+    },
+    {
+      "cite": "809 F.2d 1194",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1643267
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "1207"
+        },
+        {
+          "page": "1207"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/809/1194-01"
+      ]
+    },
+    {
+      "cite": "843 F.2d 1280",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        10549255
+      ],
+      "year": 1988,
+      "pin_cites": [
+        {
+          "page": "1292"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/843/1280-01"
+      ]
+    },
+    {
+      "cite": "83 L.Ed.2d 323",
+      "category": "reporters:federal",
+      "reporter": "L. Ed. 2d",
+      "year": 1984,
+      "opinion_index": 0
+    },
+    {
+      "cite": "105 S.Ct. 389",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "year": 1984,
+      "opinion_index": 0
+    },
+    {
+      "cite": "469 U.S. 983",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        12039488,
+        12039043,
+        12038756,
+        12039562,
+        12039693,
+        12038992,
+        12038815,
+        12039985,
+        12038931,
+        12039632,
+        12039317,
+        12039766,
+        12039095,
+        12039380,
+        12038868,
+        12039839
+      ],
+      "year": 1984,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/469/0983-10",
+        "/us/469/0983-06",
+        "/us/469/0983-01",
+        "/us/469/0983-11",
+        "/us/469/0983-13",
+        "/us/469/0983-05",
+        "/us/469/0983-02",
+        "/us/469/0983-16",
+        "/us/469/0983-04",
+        "/us/469/0983-12",
+        "/us/469/0983-08",
+        "/us/469/0983-14",
+        "/us/469/0983-07",
+        "/us/469/0983-09",
+        "/us/469/0983-03",
+        "/us/469/0983-15"
+      ]
+    },
+    {
+      "cite": "733 F.2d 392",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        577369
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/733/0392-01"
+      ]
+    },
+    {
+      "cite": "98 L.Ed. 435",
+      "category": "reporters:federal",
+      "reporter": "L. Ed.",
+      "year": 1954,
+      "opinion_index": 0
+    },
+    {
+      "cite": "347 U.S. 1",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11299228
+      ],
+      "weight": 2,
+      "year": 1954,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/347/0001-01"
+      ]
+    },
+    {
+      "cite": "420 U.S. 770",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11644635
+      ],
+      "weight": 3,
+      "year": 1975,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/420/0770-01"
+      ]
+    },
+    {
+      "cite": "284 U.S. 299",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        5719289
+      ],
+      "weight": 3,
+      "year": 1932,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/284/0299-01"
+      ]
+    },
+    {
+      "cite": "769 F.2d 571",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        360987
+      ],
+      "year": 1985,
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/769/0571-01"
+      ]
+    },
+    {
+      "cite": "904 F.2d 344",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        10536389
+      ],
+      "year": 1990,
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/904/0344-01"
+      ]
+    },
+    {
+      "cite": "355 U.S. 184",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6164126
+      ],
+      "weight": 4,
+      "year": 1957,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/355/0184-01"
+      ]
+    },
+    {
+      "cite": "395 U.S. 711",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        1772134
+      ],
+      "weight": 4,
+      "year": 1969,
+      "pin_cites": [
+        {
+          "page": "717"
+        },
+        {
+          "page": "2076"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/395/0711-01"
+      ]
+    },
+    {
+      "cite": "110 S.Ct. 2084",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        634223
+      ],
+      "weight": 2,
+      "year": 1990,
+      "pin_cites": [
+        {
+          "page": "2090",
+          "parenthetical": "quoting North Carolina v. Pearce, 395 U.S. 711, 717, 89 S.Ct. 2072, 2076, 23 L.Ed.2d 656 (1969)"
+        },
+        {
+          "parenthetical": "quoting North Carolina v. Pearce, 395 U.S. 711, 717, 89 S.Ct. 2072, 2076, 23 L.Ed.2d 656 (1969)"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/495/0508-01"
+      ]
+    },
+    {
+      "cite": "21 U.S.C. \u00a7 844",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "443 U.S. 307",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6182418
+      ],
+      "weight": 5,
+      "year": 1979,
+      "pin_cites": [
+        {
+          "page": "319"
+        },
+        {
+          "page": "2789",
+          "parenthetical": "emphasis in original"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/443/0307-01"
+      ]
+    },
+    {
+      "cite": "66 L.Ed.2d 500",
+      "category": "reporters:federal",
+      "reporter": "L. Ed. 2d",
+      "year": 1980,
+      "opinion_index": 0
+    },
+    {
+      "cite": "101 S.Ct. 617",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "year": 1980,
+      "opinion_index": 0
+    },
+    {
+      "cite": "449 U.S. 1038",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11838272,
+        11837826,
+        11837732,
+        11837575,
+        11837448,
+        11837968,
+        11837875,
+        11838388,
+        11838070,
+        11837658,
+        11838461,
+        11838175
+      ],
+      "year": 1980,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/449/1038-10",
+        "/us/449/1038-05",
+        "/us/449/1038-04",
+        "/us/449/1038-02",
+        "/us/449/1038-01",
+        "/us/449/1038-07",
+        "/us/449/1038-06",
+        "/us/449/1038-11",
+        "/us/449/1038-08",
+        "/us/449/1038-03",
+        "/us/449/1038-12",
+        "/us/449/1038-09"
+      ]
+    },
+    {
+      "cite": "623 F.2d 1366",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1277780
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/623/1366-01"
+      ]
+    },
+    {
+      "cite": "655 F.2d 59",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1262084
+      ],
+      "weight": 3,
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/655/0059-01"
+      ]
+    },
+    {
+      "cite": "786 F.2d 203",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1556516
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "211"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/786/0203-01"
+      ]
+    },
+    {
+      "cite": "483 U.S. 171",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        28364
+      ],
+      "weight": 5,
+      "year": 1987,
+      "pin_cites": [
+        {
+          "page": "180"
+        },
+        {
+          "page": "2781"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/483/0171-01"
+      ]
+    },
+    {
+      "cite": "62 L.Ed.2d 756",
+      "category": "reporters:federal",
+      "reporter": "L. Ed. 2d",
+      "year": 1980,
+      "opinion_index": 0
+    },
+    {
+      "cite": "100 S.Ct. 1020",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "year": 1980,
+      "opinion_index": 0
+    },
+    {
+      "cite": "444 U.S. 1074",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11443168,
+        11443011,
+        11443048,
+        11442921,
+        11443114,
+        11442988,
+        11443085,
+        11442899,
+        11442968,
+        11442943
+      ],
+      "year": 1980,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/444/1074-10",
+        "/us/444/1074-06",
+        "/us/444/1074-07",
+        "/us/444/1074-02",
+        "/us/444/1074-09",
+        "/us/444/1074-05",
+        "/us/444/1074-08",
+        "/us/444/1074-01",
+        "/us/444/1074-04",
+        "/us/444/1074-03"
+      ]
+    },
+    {
+      "cite": "606 F.2d 149",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1436270
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "152"
+        },
+        {
+          "page": "153"
+        },
+        {
+          "page": "153"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/606/0149-01"
+      ]
+    },
+    {
+      "cite": "579 F.2d 980",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        874574
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/579/0980-01"
+      ]
+    },
+    {
+      "cite": "646 F.2d 1142",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1218144
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/646/1142-01"
+      ]
+    },
+    {
+      "cite": "107 L.Ed.2d 87",
+      "category": "reporters:federal",
+      "reporter": "L. Ed. 2d",
+      "year": 1989,
+      "opinion_index": 0
+    },
+    {
+      "cite": "110 S.Ct. 126",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "year": 1989,
+      "opinion_index": 0
+    },
+    {
+      "cite": "874 F.2d 1145",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1816491
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/874/1145-01"
+      ]
+    },
+    {
+      "cite": "18 U.S.C. \u00a7 2",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "pin_cites": [
+        {
+          "page": "(a) and (b)",
+          "parenthetical": "count 4"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "21 U.S.C. \u00a7 841",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "weight": 5,
+      "pin_cites": [
+        {
+          "page": "(a)(1)"
+        },
+        {
+          "page": "(a)(1)"
+        },
+        {
+          "page": "(a)(1)",
+          "parenthetical": "count 7"
+        },
+        {
+          "page": "(a)(1)",
+          "parenthetical": "count 8"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "21 U.S.C. \u00a7 846",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "weight": 3,
+      "pin_cites": [
+        {
+          "parenthetical": "count 1"
+        }
+      ],
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 987,
+    "char_count": 22078,
+    "ocr_confidence": 0.775,
+    "pagerank": {
+      "raw": 2.8508605734210677e-07,
+      "percentile": 0.8406407091687584
+    },
+    "sha256": "847f2b4965538b3dae67fc2af38dbdc537da613b84b8ce2a4d4da825e5ce2de3",
+    "simhash": "1:a8eacf276a079ae5",
+    "word_count": 3536
+  },
+  "last_updated": "2024-02-27T20:17:01.570520+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before KENNEDY and JONES, Circuit Judges, and CHURCHILL, Senior District Judge."
+    ],
+    "parties": [
+      "UNITED STATES of America, Plaintiff-Appellee, v. Vernon BARRETT (90-5715), Eugene Little (90-5719), Defendants-Appellants."
+    ],
+    "opinions": [
+      {
+        "text": "KENNEDY, Circuit Judge.\nVernon Barrett and Eugene Little (collectively \u201cappellants\u201d), together with Dean Brock, were convicted of conspiracy to distribute and possess with the intent to distribute cocaine and marijuana in violation of 21 U.S.C. \u00a7 846 (count 1). In addition, Jeffrey Reed and Little were convicted of the following: aiding and abetting each other in the distribution of cocaine in violation of 21 U.S.C. \u00a7 841(a)(1) and 18 U.S.C. \u00a7 2(a) and (b) (count 4); Reed with aiding and abetting Barrett in an attempt to distribute cocaine in violation of 21 U.S.C. \u00a7\u00a7 841(a)(1), 846 (count 5); Little with possession with intent to distribute marijuana in violation of 21 U.S.C. \u00a7 841(a)(1) (count 7); and Barrett with possession with intent to distribute marijuana in violation of 21 U.S.C. \u00a7 841(a)(1) (count 8). Asserting error in failing to grant a severance, insufficiency of the evidence, double jeopardy and erroneous evidentiary rulings, Barrett and Little appeal. Finding no error, we shall AFFIRM.\nI.\nIn early 1989, a federal grand jury indicted J.C. Lawson (\u201cLawson\u201d), a major drug dealer. Lawson entered into a plea agreement in which he agreed to cooperate with officers investigating criminal drug activity. Pursuant to this agreement, Lawson solicited Reed in late June 1989 to supply him with cocaine and marijuana. Reed acknowledged that he could obtain both of these drugs, and he subsequently provided Lawson with a sample of these drugs.\nOn July 27, 1989, phone records indicate that Reed called Lawson from Little\u2019s house to finalize details regarding the sale of cocaine to Lawson. Later that day, Reed, Lawson and Lawson\u2019s ex-wife drove to Little\u2019s house. While the Lawsons remained in the car, Reed entered Little\u2019s residence and returned with two ounces of cocaine. Lawson then gave $2,800 to Reed, who took this money into Little\u2019s residence. Reed then exited this residence, accompanied by Little as far as the porch.\nOn August 2, 1989, Lawson contacted Reed to set up another cocaine buy. Initially, this cocaine was to be supplied by the person who sold cocaine to Lawson on July 27, 1989, but it was later agreed that Barrett would procure the cocaine for Lawson. The Lawsons picked up Reed and drove to Barrett\u2019s residence. Barrett, whose position it was to act as a middleman between the supplier and the Lawsons, joined them in the car. When the supplier failed to show up, Reed and Barrett entered a residence and, according to phone records, called Brock\u2019s residence. Reed and Barrett returned and told the Lawsons that the supplier was on his way. While they waited, Barrett boasted about the large quantities of cocaine and marijuana he could move as well as his connections with other drug dealers. The supplier never showed up, and the deal was called off.\nIn a subsequent conversation, Lawson and Reed decided to contact Brock directly and cut Barrett out of the deal. Lawson and Reed contacted Brock, and Brock sold cocaine to Lawson and Reed. During this transaction, Reed told Lawson in a recorded conversation that Little had supplied the cocaine for the previous purchase on July 27, 1989. Reed repeated this fact in a subsequent phone conversation recorded on August 9, 1989.\nOn August 22, 1989, the government executed search warrants on the residences of Little and Barrett. Barrett\u2019s residence contained an amount of marijuana as well as various drug-related paraphernalia, including scales, indoor grow lights, clamps, hemostats and reefer clips. In Little\u2019s house, officers found individual baggies of marijuana and a large quantity of marijuana drying on a screen in front of a fan.\nII.\nA. Little\u2019s Claim\nLittle contends that the District Court committed reversible error with respect to the convictions based on counts 1 and 4 of the indictment by admitting hearsay statements of co-conspirators pursuant to Fed. R.Evid. 801(d)(2)(E). Little argues that the District Court erred when it found the existence of a conspiracy and his participation therein, necessary predicates to allow the use of the hearsay statements of a co-conspirator. According to Little, the evidence established nothing more than a buyer-seller relationship between Little and Reed. Citing United States v. Douglas, 874 F.2d 1145 (7th Cir.1989), cert. denied, \u2014 U.S. -, 110 S.Ct. 126, 107 L.Ed.2d 87 (1989), defendant urges us to hold that evidence which proves only a buyer-seller relationship is insufficient to establish the existence of a conspiracy. See United States v. Meyers, 646 F.2d 1142 (6th Cir.1981) (reaching same conclusion as Douglas Court).\nFederal Rules of Evidence 801(d)(2)(E) provides that statements by a co-conspirator made during the course and in furtherance of a conspiracy are not hearsay. We have held that a predicate for the admission of alleged hearsay statements of a co-conspirator is proof of the existence of a conspiracy as determined by a trial court based upon a preponderance of the evidence. United States v. Enright, 579 F.2d 980 (6th Cir.1978). In making this determination, a trial court has \u201cconsiderable discretion\u201d in directing the method and order of proof at trial, and we will not reverse its rulings unless they \u201caffect substantial rights.\u201d United States v. Vinson, 606 F.2d 149, 152 (6th Cir.1979), cert. denied, 444 U.S. 1074, 100 S.Ct. 1020, 62 L.Ed.2d 756 (1980). Several procedures are available to a trial court to make this determination. Among .them, a trial court may \u201cadmit the hearsay statements subject to a later demonstration of their admissibility by a preponderance of the evidence.\u201d Id. at 153; Bourjaily v. United States, 483 U.S. 171, 107 S.Ct. 2775, 97 L.Ed.2d 144 (1987). A trial court may examine all evidence \u2014 including the hearsay statements\u2014 in ruling on the preliminary question of admissibility. Bourjaily, 483 U.S. at 180, 107 S.Ct. at 2781; Vinson, 606 F.2d at 153. If this procedure is followed, the trial court should rule on the admissibility of the hearsay evidence at the close of the government\u2019s case-in-chief. Vinson, 606 F.2d at 153. The District Court followed this procedure in the instant case.\nWe conclude that the evidence and inferences which could reasonably be drawn therefrom sufficiently demonstrate by a preponderance the existence of a conspiracy and Little\u2019s participation therein. The evidence shows that several phone calls were made from Little\u2019s residence by Reed to set up a drug sale to Lawson; that Little supplied cocaine to Lawson on July 27, 1989, with Reed acting as a courier between Lawson and Little; that both Lawson and his ex-wife identified Little as being the individual who accompanied Reed onto the porch after completing the transaction; that Reed told Lawson on several occasions that Little had supplied the cocaine for the July 27th drug buy; that Little had told Reed after the July 27th drug deal that he would be receiving cocaine and would make it available to Reed in the future; and that evidence seized at Little\u2019s residence indicated an intent to prepare marijuana for distribution. This evidence establishes more than a mere buyer-seller relationship between Little and the other parties. Because the District Court properly found a conspiracy to exist, it did not err when it admitted the alleged hearsay statements of co-conspirators.\nB. Barrett\u2019s Claims\nBarrett first alleges that the evidence presented at trial is insufficient to convict him on counts 1 and 5 because of a failure to prove a conspiracy, and count 8, because the amount of marijuana seized demonstrates possession for purposes of personal consumption and not distribution.\nIn order to establish a drug conspiracy pursuant to 21 U.S.C. \u00a7 846, the government must prove \u201cthat a conspiracy existed, that the accused knew of the conspiracy, and that he knowingly and voluntarily joined it.\u201d United States v. Christian, 786 F.2d 203, 211 (6th Cir.1986). A trier of fact may infer knowledge of and participation in the common purpose and plan of a conspiracy based on defendant\u2019s actions and reactions to the circumstances. Id. (citing United States v. Garcia, 655 F.2d 59 (5th Cir.1981)). The government may demonstrate that a defendant had the requisite knowledge by showing that defendant knew the essential object of the conspiracy. The government need not show that a defendant participated in all aspects of the conspiracy; it need only prove that defendant was a party to the general conspiratorial agreement. Id. Further, \u201c[t]he connection of the defendant to the conspiracy need only be slight, if there is sufficient evidence to establish that connection beyond a reasonable doubt.\u201d Id. (quoting United States v. Batimana, 623 F.2d 1366 (9th Cir.), cert. denied, 449 U.S. 1038, 101 S.Ct. 617, 66 L.Ed.2d 500 (1980)).\nIn reviewing the sufficiency of the evidence, we construe the evidence and all reasonable inferences drawn therefrom in the light most favorable to the government. Jackson v. Virginia, 443 U.S. 307, 99 S.Ct. 2781, 61 L.Ed.2d 560 (1979). A conviction will be upheld if \u201cany rational trier of fact could have found the essential elements of the crime beyond a reasonable doubt.\u201d Id. at 319, 99 S.Ct. at 2789 (emphasis in original).\nWe conclude that the evidence presented at trial is sufficient to convict defendant on the conspiracy charge. The evidence showed that Reed told Lawson that Barrett would be able to supply cocaine to Lawson on August 3rd; that Barrett told Lawson that he had spoken with the supplier and had set up a meeting; that Barrett drove with Reed and the Lawsons to meet the cocaine supplier and consummate the transaction; that Barrett told Lawson in a recorded conversation that he could keep Lawson \u201cpretty well supplied\u201d; that Barrett offered to set up another drug deal after the first aborted attempt; and that police seized marijuana and drug paraphernalia at Barrett\u2019s residence. A rational trier of fact could conclude that Barrett was a participant in the alleged conspiracy.\nFurther, the evidence is sufficient to uphold the conviction based on count 8 of the indictment. Barrett alleges that the evidence adduced at trial demonstrates an intent to use the drugs for personal consumption and not distribution. Barrett proffered evidence showing a violation of and the jury was specifically instructed on the lesser included offense of simple possession, 21 U.S.C. \u00a7 844. The jury considered both offenses, intent to distribute and simple possession, and found Barrett guilty of the intent to distribute charge. Sufficient evidence was introduced to support this finding.\nBarrett next alleges that his convictions based on the conspiracy and attempt charges under a single statute, 21 U.S.C. \u00a7 846, violate his double jeopardy rights, or in the alternative, render him a victim of cumulative punishment. The Supreme Court recently reiterated that \u201c[t]he Double Jeopardy Clause embodies three protections: \u2018It protects against a second prosecution for the same offense after acquittal. It protects against a second prosecution for the same offense after conviction. And it protects against multiple punishments for the same offense.\u2019 \u201d Grady v. Corbin, \u2014 U.S. -, 110 S.Ct. 2084, 2090, 109 L.Ed.2d 548 (1990) (quoting North Carolina v. Pearce, 395 U.S. 711, 717, 89 S.Ct. 2072, 2076, 23 L.Ed.2d 656 (1969)). Barrett apparently alleges a double jeopardy violation based either on multiple prosecutions or on multiple punishments.\nBarrett\u2019s allegation based on multiple prosecutions is without merit. With respect to multiple prosecutions, the Court made clear in Grady that the double jeopardy clause protects against the danger of \u201c \u2018repeated attempts to convict an individual for an alleged offense, thereby subjecting him to embarrassment, expense and ordeal and compelling him to live in a continuing state of anxiety and insecurity \u2019\u201d Id., 110 S.Ct. at 2091 (quoting Green v. United States, 355 U.S. 184, 78 S.Ct. 221, 2 L.Ed.2d 199 (1957)). Further, multiple prosecutions allow the government to refine its presentation of a case by virtue of repetition, thus increasing the likelihood of erroneous conviction. Id., 110 S.Ct. at 2091-92. Accordingly, the double jeopardy clause in this context protects against the danger of separate proceedings for charges arising out of a single transaction or course of conduct, not multiple charges in the same proceeding. The double jeopardy clause protection against multiple prosecutions is not implicated in the instant case because the government prosecuted defendant for numerous charges stemming from a single course of conduct in a single proceeding.\nWe now turn to Barrett\u2019s alternate argument regarding cumulative punishment. Recently, we held that the imposition of consecutive sentences based on convictions for distribution and attempted distribution arising from a single transaction violates the double jeopardy clause. Costo v. United States, 904 F.2d 344 (6th Cir. 1990). In Costo, we struck down consecutive sentences on double jeopardy grounds because: (1) the sentences imposed were based on two offenses and one of the offenses, attempted distribution, constituted a lesser included offense of the other offense, completed distribution; and (2) both convictions arose from a single transaction.\nBarrett urges us to extend our holding in Costo to prohibit the imposition of concurrent sentences for convictions based on conspiracy and attempt arising from the same transaction. See United States v. Touw, 769 F.2d 571 (9th Cir. 1985). In Touw, the Ninth Circuit held that a defendant could be convicted for both conspiracy and attempt, but may be punished for only one of these convictions. The Touw court reasoned that Congress did not intend to punish a defendant more than once for convictions of conspiracy and attempt arising from a single course of conduct. Barrett essentially urges us to focus only upon the source of the charged offenses \u2014 whether they arose from a single course of conduct \u2014 and discard any analysis of the elements of the charged offenses.\nWe decline to follow Barrett\u2019s suggestion and to reach a conclusion similar to that of the Touw court. The Supreme Court in Grady appears to indicate that the Block-burger test remains the sole test to determine whether the double jeopardy clause bars multiple punishments. The Court observed that the test established in Block-burger \u201cfocuses on the statutory elements of the two crimes with which a defendant has been charged, not on the proof that is offered or relied upon to secure a conviction.\u201d Grady, 110 S.Ct. at 2097 (construing Blockburger v. United States, 284 U.S. 299, 52 S.Ct. 180, 76 L.Ed. 306 (1932)). \u201cIf each [offense] requires proof of a fact that the other does not, the Blockburger test is satisfied, notwithstanding a substantial overlap in the proof offered to establish the crimes.\u201d Iannelli v. United States, 420 U.S. 770, 785 n. 17, 95 S.Ct. 1284, 1294 n. 17, 43 L.Ed.2d 616 (1975). Hence, the Blockburger test focuses upon the statutory elements of the charged offenses, not the transaction which gives rise to the charged offenses.\nConspiracy and attempt are separate offenses, each requiring proof of an element not required by the other. No merger of offenses occurs in such a situation. See Pereira v. United States, 347 U.S. 1, 74 S.Ct. 358, 98 L.Ed. 435 (1954). Although Pereira dealt with charges of conspiracy and the substantive crime, we find this reasoning equally applicable to charges of conspiracy and attempt. The attempted distribution charge does not require multiple persons for its commission; a single individual could do this. A conspiracy to distribute charge is an agreement between or among individuals to distribute con-strolled substances in violation of section [ 846. No overt act is required. See United States v. Dempsey, 733 F.2d 392 (6th Cir.), cert. denied, 469 U.S. 983, 105 S.Ct. 389, 83 L.Ed.2d 323 (1984). The imposition of multiple punishments therefore passes the Blockburger test and no double jeopardy violation occurs. See United States v. Savaiano, 843 F.2d 1280, 1292 (10th Cir. 1988).\nFinally, Barrett contends that the District Court erred by not granting his motion for severance of trials. Prior to and during the course of trial, appellants moved pursuant to Fed.R.Crim.P. 14 for a severance of trials on the grounds of insufficient evidence to prove conspiracy and prejudice arising from joinder. After presentation of the government\u2019s case-in-chief, the court found that the government had established the existence of a conspiracy and the participation by appellants therein. Accordingly, the District Court denied the motion for severance.\nGenerally, \u201cparties who are jointly indicted should be tried together.\u201d United States v. Davis, 809 F.2d 1194, 1207 (6th Cir.), cert. denied, 483 U.S. 1007, 107 S.Ct. 3234, 97 L.Ed.2d 740 (1987). \u201cDefendants may be joined in a single indictment if \u2018they are alleged to have participated in the same act or transaction or in the same series of acts or transactions constituting an offense or offenses.\u2019 \u201d United States v. Pickett, 746 F.2d 1129, 1134 (6th Cir.1984) (quoting Fed.R.Crim.P. 8(b)), cert. denied, 469 U.S. 1226, 105 S.Ct. 1222, 84 L.Ed.2d 362 (1985). This is especially true in conspiracy cases, and separate trials should be permitted only upon a showing of \u201cspecific and compelling prejudice resulting from a joint trial which can be rectified only by separate trials.\u201d Id. (quoting United States v. Howell, 664 F.2d 101, 106 (5th Cir.1981), cert. denied, 455 U.S. 1005, 102 S.Ct. 1641, 71 L.Ed.2d 873 (1982)). The burden rests with defendant to show such prejudice. Id. We will reverse a denial of a motion for severance under Fed.R.Crim.P. 14 only if the trial court abused its discretion. Davis, 809 F.2d at 1207.\nUpon review of the record, we are satisfied that the District Court did not err in denying Barrett\u2019s motion for severance. Barrett contends that the jury convicted him on the offenses charged in the indictment and disregarded the lesser offense instructions. Barrett further contends that the jury did not carefully view the evidence as to him. These contentions do not rise to the level of a specific and compelling demonstration of prejudice.\nIII.\nFor the foregoing reasons we AFFIRM the decision of the District Court.\n. That this transaction was not a simple sale by Little to Reed is demonstrated by its two steps. Reed first got the cocaine from Little\u2019s home. He then got the money from Lawson and took it into the house. The manner in which the transaction took place rebuts any inference of a mere sale.\n. Although Barrett treats counts 1 and 5 as charging conspiracy, counts 1 and 5 charge different offenses. Count 1 charges conspiracy and count 5 charges attempt. Barrett construes count 5 as charging an attempt to commit conspiracy. The charge in the indictment, however, alleges an attempt to distribute cocaine in violation of 21 U.S.C. \u00a7\u00a7 841, 846. Thus, we consider only the sufficiency of the evidence as it relates to count 1, the conspiracy charge, because this is the only issue raised by Barrett.\n. The District Court sentenced Barrett to incarceration for 24 months each on counts 1, 5 and 6 to run concurrently for a total of 24 months.\n. In the instant context, the concerns implicated by this issue have been removed to a large extent by the Sentencing Guidelines. The Sentencing Guidelines, with respect to drug cases, base sentences largely upon the amount of drugs involved. Offense levels for conspiracy and attempt convictions \"shall be the same as if the object of the conspiracy or attempt had been completed.\u201d United States Sentencing Commission, Guidelines Manual, \u00a7 2D1.4(a) (Nov.1990). In order to' determine the appropriate offense level under section 2D1.1 (offenses involving drugs), section 1B1.3 (relevant conduct) requires a sentencing court to weigh all \"acts and omissions that were part of the same course of conduct,\u201d including \u201cquantities and types of drugs not specified in the count of conviction.\u201d U.S.S.G. \u00a7 lB1.3(a)(2) & background commentary. If Barrett were sentenced only for conspiracy, the sentencing court nonetheless would include the amount of cocaine involved in the \"attempt\u201d transaction because it constitutes conduct relevant to the conspiracy conviction. Thus, Barrett\u2019s sentence would be similar whether he was sentenced based solely on the conspiracy conviction or based on both the conspiracy and attempt convictions. See United States v. Wright, 873 F.2d 437 (1st Cir. 1989) (reaching a similar conclusion in the context of plea bargains); U.S.S.G. \u00a7 3D 1.2 (multiple counts).\nNor would defendant's multiple convictions in the instant case violate double jeopardy by increasing any sentences based on future convictions. An individual\u2019s criminal history category is based not on prior convictions but on prior sentences. Section 4A1.2(a)(2) of the Sentencing Guidelines states that \u201d[p]rior sentences imposed in related cases are to be treated as one sentence for purposes of the criminal history category.\" Cases are related if they \"were part of a single common scheme or plan....\u201d Id. \u00a7 4A1.2 comment 3. Thus, after the instant case, Barrett\u2019s criminal history category would be the same whether he was convicted and sentenced based solely on a conspiracy charge or based on both conspiracy and attempt charges.",
+        "type": "majority",
+        "author": "KENNEDY, Circuit Judge."
+      }
+    ],
+    "attorneys": [
+      "Louis DeFalaise, U.S. Atty., Michael Murphy, Asst. U.S. Atty., Lexington, Ky., Laura L. Klein (argued), Covington, Ky., for U.S.",
+      "William D. Stark, Jr. (argued), Barbour-ville, Ky., for Vernon Barrett.",
+      "J. Calvin Aker (argued), Beattyville, Ky., for Eugene Little."
+    ],
+    "corrections": "",
+    "head_matter": "UNITED STATES of America, Plaintiff-Appellee, v. Vernon BARRETT (90-5715), Eugene Little (90-5719), Defendants-Appellants.\nNos. 90-5715, 90-5719.\nUnited States Court of Appeals, Sixth Circuit.\nArgued Feb. 11, 1991.\nDecided May 8, 1991.\nLouis DeFalaise, U.S. Atty., Michael Murphy, Asst. U.S. Atty., Lexington, Ky., Laura L. Klein (argued), Covington, Ky., for U.S.\nWilliam D. Stark, Jr. (argued), Barbour-ville, Ky., for Vernon Barrett.\nJ. Calvin Aker (argued), Beattyville, Ky., for Eugene Little.\nBefore KENNEDY and JONES, Circuit Judges, and CHURCHILL, Senior District Judge.\nThe Honorable James P. Churchill, Senior Judge, United States District Court for the Eastern District of Michigan, sitting by designation."
+  },
+  "file_name": "0355-01",
+  "first_page_order": 453,
+  "last_page_order": 460
+}

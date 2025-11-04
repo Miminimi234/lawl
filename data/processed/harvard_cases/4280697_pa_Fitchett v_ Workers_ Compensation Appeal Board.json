@@ -1,0 +1,91 @@
+{
+  "id": 4280697,
+  "name": "Jean FITCHETT, Petitioner v. WORKERS' COMPENSATION APPEAL BOARD (SCHOOL DISTRICT OF PHILADELPHIA), Respondent",
+  "name_abbreviation": "Fitchett v. Workers' Compensation Appeal Board",
+  "decision_date": "2013-12-04",
+  "docket_number": "No. 350 EAL 2013",
+  "first_page": "350",
+  "last_page": "351",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "622 Pa. 350"
+    },
+    {
+      "type": "parallel",
+      "cite": "80 A.3d 773"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "67 A.3d 1194",
+      "category": "reporters:state_regional",
+      "reporter": "A.3d",
+      "case_ids": [
+        7309433,
+        4328337
+      ],
+      "year": 2013,
+      "pin_cites": [
+        {
+          "page": "1209",
+          "parenthetical": "\"There is no presumption of retirement arising from the fact that a claimant seeks or accepts a pension ...; rather, the worker's acceptance of a pension entitles the employer only to a permissive inference that the claimant has retired.\""
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a3d/67/1194-01",
+        "/pa/620/0345-01"
+      ]
+    },
+    {
+      "cite": "620 Pa. 345",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        4328337
+      ],
+      "year": 2013,
+      "pin_cites": [
+        {
+          "parenthetical": "\"There is no presumption of retirement arising from the fact that a claimant seeks or accepts a pension ...; rather, the worker's acceptance of a pension entitles the employer only to a permissive inference that the claimant has retired.\""
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/620/0345-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 104,
+    "char_count": 1024,
+    "ocr_confidence": 0.693,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.14369389875625954
+    },
+    "sha256": "2ece1e7aad9f79d2d6585cedb7a8cbf958ed32f57ab4b5469d42bdc6c86602c9",
+    "simhash": "1:2d126b9683260936",
+    "word_count": 158
+  },
+  "last_updated": "2024-02-27T16:59:34.878718+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "file_name": "0350-01",
+  "first_page_order": 394,
+  "last_page_order": 395
+}

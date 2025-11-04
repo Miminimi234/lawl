@@ -1,0 +1,148 @@
+{
+  "id": 12519822,
+  "name": "EMPLOYERS PREFERRED INSURANCE COMPANY, a Florida Corporation, Plaintiff - Appellee, v. HARTFORD ACCIDENT AND INDEMNITY COMPANY, a Connecticut Corporation, Defendant - Appellant.",
+  "name_abbreviation": "Emp'rs Preferred Ins. Co. v. Hartford Accident & Indem. Co.",
+  "decision_date": "2019-01-10",
+  "docket_number": "No. 17-3355",
+  "first_page": "754",
+  "last_page": "757",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "913 F.3d 754"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "8th Cir.",
+    "id": 8821,
+    "name": "United States Court of Appeals for the Eighth Circuit"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "576 F.Supp. 561",
+      "category": "reporters:federal",
+      "reporter": "F. Supp.",
+      "case_ids": [
+        6049364
+      ],
+      "weight": 3,
+      "year": 1983,
+      "pin_cites": [
+        {
+          "page": "565"
+        },
+        {
+          "page": "564"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f-supp/576/0561-01"
+      ]
+    },
+    {
+      "cite": "413 S.W.2d 514",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.2d",
+      "case_ids": [
+        10133838
+      ],
+      "year": 1967,
+      "pin_cites": [
+        {
+          "page": "518"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/sw2d/413/0514-01"
+      ]
+    },
+    {
+      "cite": "325 Mo. 888",
+      "category": "reporters:state",
+      "reporter": "Mo.",
+      "case_ids": [
+        1804673
+      ],
+      "weight": 2,
+      "year": 1930,
+      "pin_cites": [
+        {
+          "page": "152"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mo/325/0888-01"
+      ]
+    },
+    {
+      "cite": "303 S.W.3d 563",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.3d",
+      "case_ids": [
+        7299261
+      ],
+      "year": 2010,
+      "pin_cites": [
+        {
+          "page": "565"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/sw3d/303/0563-01"
+      ]
+    },
+    {
+      "cite": "Mo. Rev. Stat. \u00a7 379.195.2",
+      "category": "laws:leg_statute",
+      "reporter": "Mo. Rev. Stat.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "526 F.3d 1166",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        6048062
+      ],
+      "year": 2008,
+      "pin_cites": [
+        {
+          "page": "1168-69"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/526/1166-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 505,
+    "char_count": 7901,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.25916453044173615
+    },
+    "sha256": "44e8438f53b277c7496a1c1da01a3f3ab850ad34f29182ba66063773265cf7bd",
+    "simhash": "1:1ba56fe813bd25c2",
+    "word_count": 1250
+  },
+  "last_updated": "2024-02-27T18:46:17.308091+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "file_name": "0754-01",
+  "first_page_order": 754,
+  "last_page_order": 757
+}

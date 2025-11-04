@@ -1,0 +1,942 @@
+{
+  "id": 4272552,
+  "name": "Richard Sisson, Jr., administrator, & others vs. David W. Lhowe & another",
+  "name_abbreviation": "Sisson v. Lhowe",
+  "decision_date": "2011-10-06",
+  "docket_number": "",
+  "first_page": "705",
+  "last_page": "722",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "460 Mass. 705"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Mass.",
+    "id": 8825,
+    "name": "Massachusetts Supreme Judicial Court"
+  },
+  "jurisdiction": {
+    "id": 4,
+    "name_long": "Massachusetts",
+    "name": "Mass."
+  },
+  "cites_to": [
+    {
+      "cite": "339 S.W.3d 312",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.3d",
+      "case_ids": [
+        7319197
+      ],
+      "year": 2011,
+      "pin_cites": [
+        {
+          "page": "317",
+          "parenthetical": "affirmative defense"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/sw3d/339/0312-01"
+      ]
+    },
+    {
+      "cite": "489 A.2d 413",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7912658
+      ],
+      "year": 1985,
+      "pin_cites": [
+        {
+          "page": "420-422",
+          "parenthetical": "subject matter jurisdiction"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/489/0413-01"
+      ]
+    },
+    {
+      "cite": "269 Mass. 341",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "case_ids": [
+        3824550
+      ],
+      "year": 1929,
+      "pin_cites": [
+        {
+          "page": "343-344"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mass/269/0341-01"
+      ]
+    },
+    {
+      "cite": "37 Mass. App. Ct. 701",
+      "category": "reporters:state",
+      "reporter": "Mass. App. Ct.",
+      "case_ids": [
+        4020852
+      ],
+      "year": 1994,
+      "opinion_index": 0,
+      "case_paths": [
+        "/mass-app-ct/37/0701-01"
+      ]
+    },
+    {
+      "cite": "434 Mass. 761",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "case_ids": [
+        1080047
+      ],
+      "year": 2001,
+      "pin_cites": [
+        {
+          "page": "785-786"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mass/434/0761-01"
+      ]
+    },
+    {
+      "cite": "21 Mass. App. Ct. 170",
+      "category": "reporters:state",
+      "reporter": "Mass. App. Ct.",
+      "case_ids": [
+        3987011
+      ],
+      "year": 1985,
+      "pin_cites": [
+        {
+          "page": "173"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mass-app-ct/21/0170-01"
+      ]
+    },
+    {
+      "cite": "396 Mass. 515",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "case_ids": [
+        898097
+      ],
+      "year": 1986,
+      "pin_cites": [
+        {
+          "page": "519"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mass/396/0515-01"
+      ]
+    },
+    {
+      "cite": "365 Mass. 761",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "year": 1974,
+      "opinion_index": 0
+    },
+    {
+      "cite": "365 Mass. 274",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "case_ids": [
+        292073
+      ],
+      "year": 1974,
+      "pin_cites": [
+        {
+          "page": "279",
+          "parenthetical": "\"When legislative authority is exerted within a proper area, it need not embrace every conceivable problem within that field. The Legislature may proceed one step at a time, addressing itself to the phase of the problem which seems most acute to the legislative mind\""
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mass/365/0274-01"
+      ]
+    },
+    {
+      "cite": "412 Mass. 631",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "case_ids": [
+        3900596
+      ],
+      "year": 1992,
+      "pin_cites": [
+        {
+          "page": "635"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mass/412/0631-01"
+      ]
+    },
+    {
+      "cite": "348 U.S. 483",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6931894
+      ],
+      "year": 1992,
+      "pin_cites": [
+        {
+          "page": "487-489"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/348/0483-01"
+      ]
+    },
+    {
+      "cite": "395 Mass. 76",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "case_ids": [
+        895995
+      ],
+      "year": 1992,
+      "pin_cites": [
+        {
+          "page": "84"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mass/395/0076-01"
+      ]
+    },
+    {
+      "cite": "408 Mass. 1215",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "case_ids": [
+        3891576
+      ],
+      "pin_cites": [
+        {
+          "page": "1224"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mass/408/1215-01"
+      ]
+    },
+    {
+      "cite": "430 Mass. 276",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "case_ids": [
+        1157421
+      ],
+      "year": 1999,
+      "pin_cites": [
+        {
+          "page": "284"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mass/430/0276-01"
+      ]
+    },
+    {
+      "cite": "61 N.J. 190",
+      "category": "reporters:state",
+      "reporter": "N.J.",
+      "case_ids": [
+        1931846
+      ],
+      "year": 1972,
+      "pin_cites": [
+        {
+          "page": "201",
+          "parenthetical": "interpreting G. L. c. 260, \u00a7 2B"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/nj/61/0190-01"
+      ]
+    },
+    {
+      "cite": "402 Mass. 112",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "case_ids": [
+        820794
+      ],
+      "weight": 2,
+      "year": 1988,
+      "pin_cites": [
+        {
+          "page": "118"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mass/402/0112-01"
+      ]
+    },
+    {
+      "cite": "275 Mass. 82",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "case_ids": [
+        3829869
+      ],
+      "year": 1931,
+      "pin_cites": [
+        {
+          "page": "85"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mass/275/0082-01"
+      ]
+    },
+    {
+      "cite": "412 Mass. 617",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "case_ids": [
+        3899785
+      ],
+      "weight": 2,
+      "year": 1992,
+      "pin_cites": [
+        {
+          "page": "622"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mass/412/0617-01"
+      ]
+    },
+    {
+      "cite": "437 Mass. 630",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "case_ids": [
+        734966
+      ],
+      "weight": 6,
+      "year": 2002,
+      "pin_cites": [
+        {
+          "page": "635"
+        },
+        {
+          "page": "646-647"
+        },
+        {
+          "page": "635, 647"
+        },
+        {
+          "page": "646"
+        },
+        {
+          "page": "636, 647"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mass/437/0630-01"
+      ]
+    },
+    {
+      "cite": "450 U.S. 503",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6187887
+      ],
+      "year": 1981,
+      "pin_cites": [
+        {
+          "page": "518"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/450/0503-01"
+      ]
+    },
+    {
+      "cite": "381 Mass. 611",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "case_ids": [
+        816097
+      ],
+      "weight": 3,
+      "year": 1980,
+      "pin_cites": [
+        {
+          "page": "619"
+        },
+        {
+          "page": "618-619"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mass/381/0611-01"
+      ]
+    },
+    {
+      "cite": "435 Mass. 38",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "case_ids": [
+        993886
+      ],
+      "weight": 9,
+      "year": 2001,
+      "pin_cites": [
+        {
+          "page": "44-49"
+        },
+        {
+          "page": "44, 49"
+        },
+        {
+          "page": "43"
+        },
+        {
+          "page": "48-49"
+        },
+        {
+          "page": "48"
+        },
+        {
+          "page": "40"
+        },
+        {
+          "parenthetical": "major medical malpractice insurer announced intention to stop writing such insurance in Massachusetts in 1975, spurring legislative study"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mass/435/0038-01"
+      ]
+    },
+    {
+      "cite": "445 Mass. 353",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "case_ids": [
+        2823288
+      ],
+      "weight": 7,
+      "year": 2005,
+      "pin_cites": [
+        {
+          "page": "357-359"
+        },
+        {
+          "page": "357-359"
+        },
+        {
+          "page": "357",
+          "parenthetical": "\"the plaintiff no longer has a viable cause of action for any act or omission that occurred seven years before she filed suit\""
+        },
+        {
+          "page": "357"
+        },
+        {
+          "page": "357-358"
+        },
+        {
+          "page": "358"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mass/445/0353-01"
+      ]
+    },
+    {
+      "cite": "456 Mass. 66",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "case_ids": [
+        3668615
+      ],
+      "year": 2010,
+      "pin_cites": [
+        {
+          "page": "72",
+          "parenthetical": "\"we are mindful that a statute's language should be read in accord with the statute's purpose and history\""
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mass/456/0066-01"
+      ]
+    },
+    {
+      "cite": "22 F. Cas. 978",
+      "category": "reporters:federal",
+      "reporter": "F. Cas.",
+      "case_ids": [
+        6646047
+      ],
+      "year": 1830,
+      "pin_cites": [
+        {
+          "page": "984-985"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f-cas/22/0978-01"
+      ]
+    },
+    {
+      "cite": "445 Mass. 344",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "case_ids": [
+        2823643
+      ],
+      "weight": 13,
+      "year": 2005,
+      "pin_cites": [
+        {
+          "page": "351"
+        },
+        {
+          "page": "348-349"
+        },
+        {
+          "page": "347-348"
+        },
+        {
+          "page": "348"
+        },
+        {
+          "page": "349"
+        },
+        {
+          "page": "349"
+        },
+        {
+          "page": "344-345"
+        },
+        {
+          "page": "350"
+        },
+        {
+          "page": "351"
+        },
+        {
+          "page": "350"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mass/445/0344-01"
+      ]
+    },
+    {
+      "cite": "457 Mass. 620",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "case_ids": [
+        4268925
+      ],
+      "year": 2010,
+      "pin_cites": [
+        {
+          "page": "628-629"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mass/457/0620-01"
+      ]
+    },
+    {
+      "cite": "628 F. Supp. 849",
+      "category": "reporters:federal",
+      "reporter": "F. Supp.",
+      "case_ids": [
+        3833202
+      ],
+      "weight": 2,
+      "year": 1986,
+      "pin_cites": [
+        {
+          "page": "851-852, 855-858"
+        },
+        {
+          "page": "855"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f-supp/628/0849-01"
+      ]
+    },
+    {
+      "cite": "28 U.S.C. \u00a7 1441",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "(c)"
+        },
+        {
+          "page": "312"
+        },
+        {
+          "page": "(c)"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "704 F. Supp. 309",
+      "category": "reporters:federal",
+      "reporter": "F. Supp.",
+      "case_ids": [
+        7395950
+      ],
+      "weight": 5,
+      "year": 1989,
+      "pin_cites": [
+        {
+          "page": "312"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f-supp/704/0309-01"
+      ]
+    },
+    {
+      "cite": "388 Mass. 171",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "case_ids": [
+        911008
+      ],
+      "year": 1983,
+      "pin_cites": [
+        {
+          "page": "176"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mass/388/0171-01"
+      ]
+    },
+    {
+      "cite": "394 Mass. 534",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "case_ids": [
+        385183
+      ],
+      "weight": 3,
+      "year": 1985,
+      "pin_cites": [
+        {
+          "page": "540"
+        },
+        {
+          "page": "548"
+        },
+        {
+          "page": "548"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mass/394/0534-01"
+      ]
+    },
+    {
+      "cite": "443 Mass. 276",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "case_ids": [
+        1276654
+      ],
+      "year": 2005,
+      "pin_cites": [
+        {
+          "page": "287"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mass/443/0276-01"
+      ]
+    },
+    {
+      "cite": "458 Mass. 756",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "case_ids": [
+        4270124
+      ],
+      "year": 2011,
+      "opinion_index": 0,
+      "case_paths": [
+        "/mass/458/0756-01"
+      ]
+    },
+    {
+      "cite": "386 Mass. 701",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "case_ids": [
+        906620
+      ],
+      "weight": 6,
+      "year": 1982,
+      "pin_cites": [
+        {
+          "page": "702"
+        },
+        {
+          "page": "702"
+        },
+        {
+          "page": "709"
+        },
+        {
+          "page": "717"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mass/386/0701-01"
+      ]
+    },
+    {
+      "cite": "77 Mass. App. Ct. 117",
+      "category": "reporters:state",
+      "reporter": "Mass. App. Ct.",
+      "case_ids": [
+        3837233
+      ],
+      "weight": 2,
+      "year": 2010,
+      "pin_cites": [
+        {
+          "page": "120"
+        },
+        {
+          "page": "119-120"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mass-app-ct/77/0117-01"
+      ]
+    },
+    {
+      "cite": "286 Mass. 444",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "case_ids": [
+        922991
+      ],
+      "weight": 2,
+      "year": 1934,
+      "pin_cites": [
+        {
+          "page": "447"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mass/286/0444-01"
+      ]
+    },
+    {
+      "cite": "437 Mass. 430",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "case_ids": [
+        735032
+      ],
+      "year": 2002,
+      "pin_cites": [
+        {
+          "page": "435"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mass/437/0430-01"
+      ]
+    },
+    {
+      "cite": "456 Mass. 463",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "case_ids": [
+        3668811
+      ],
+      "year": 2010,
+      "pin_cites": [
+        {
+          "page": "468"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mass/456/0463-01"
+      ]
+    },
+    {
+      "cite": "459 Mass. 9",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "case_ids": [
+        4270710
+      ],
+      "weight": 2,
+      "year": 2011,
+      "pin_cites": [
+        {
+          "page": "12"
+        },
+        {
+          "page": "12"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mass/459/0009-01"
+      ]
+    },
+    {
+      "cite": "362 Mass. 60",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "case_ids": [
+        44107
+      ],
+      "weight": 3,
+      "year": 1972,
+      "pin_cites": [
+        {
+          "page": "63-64"
+        },
+        {
+          "page": "62"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mass/362/0060-01"
+      ]
+    },
+    {
+      "cite": "427 Mass. 46",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "case_ids": [
+        310258
+      ],
+      "year": 1998,
+      "pin_cites": [
+        {
+          "page": "47"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mass/427/0046-01"
+      ]
+    },
+    {
+      "cite": "431 Mass. 838",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "case_ids": [
+        286809
+      ],
+      "year": 2000,
+      "pin_cites": [
+        {
+          "page": "845"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mass/431/0838-01"
+      ]
+    },
+    {
+      "cite": "458 Mass. 674",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "case_ids": [
+        4270407
+      ],
+      "weight": 2,
+      "year": 2011,
+      "pin_cites": [
+        {
+          "page": "676"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mass/458/0674-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 1493,
+    "char_count": 41169,
+    "ocr_confidence": 0.906,
+    "pagerank": {
+      "raw": 2.1130783164932788e-07,
+      "percentile": 0.763492195877057
+    },
+    "sha256": "eed844980c0561f2d5edf21705a2d452884fc53d21278248306e82db1e2b2187",
+    "simhash": "1:ba374793801908a8",
+    "word_count": 6816
+  },
+  "last_updated": "2024-02-27T17:56:26.592595+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "file_name": "0705-01",
+  "first_page_order": 731,
+  "last_page_order": 748
+}

@@ -1,0 +1,849 @@
+{
+  "id": 12521206,
+  "name": "UNITED STATES of America, Appellant, v. John PAULING, a/k/a JJ, Defendant-Appellee.",
+  "name_abbreviation": "United States v. Pauling",
+  "decision_date": "2019-05-23",
+  "docket_number": "Docket No. 17-2539-cr; August Term 2018",
+  "first_page": "649",
+  "last_page": "662",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "924 F.3d 649"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "2nd Cir.",
+    "id": 9993,
+    "name": "United States Court of Appeals for the Second Circuit"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "543 U.S. 220",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        5925862
+      ],
+      "weight": 3,
+      "year": 2005,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/543/0220-01"
+      ]
+    },
+    {
+      "cite": "841 F.3d 95",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        12173717
+      ],
+      "year": 2016,
+      "pin_cites": [
+        {
+          "page": "99-100"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/841/0095-01"
+      ]
+    },
+    {
+      "cite": "812 F.3d 280",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        4086883
+      ],
+      "year": 2016,
+      "pin_cites": [
+        {
+          "parenthetical": "noting that a judgment of conviction under 21 U.S.C. \u00a7\u00a7 841(a)(1) and 841(b)(1)(C) is \"in effect a lesser-included offense\" of 21 U.S.C. \u00a7 841(b)(1)(B)\"without a mandatory minimum sentence\""
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/812/0280-01"
+      ]
+    },
+    {
+      "cite": "626 F.3d 756",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        6053167
+      ],
+      "year": 2010,
+      "pin_cites": [
+        {
+          "page": "768-70"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/626/0756-01"
+      ]
+    },
+    {
+      "cite": "723 F.3d 562",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        4065036
+      ],
+      "year": 2013,
+      "pin_cites": [
+        {
+          "page": "571"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/723/0562-01"
+      ]
+    },
+    {
+      "cite": "813 F.3d 785",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        4088725
+      ],
+      "year": 2015,
+      "pin_cites": [
+        {
+          "page": "793, 796"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/813/0785-01"
+      ]
+    },
+    {
+      "cite": "256 F.3d 687",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        11087909
+      ],
+      "year": 2001,
+      "pin_cites": [
+        {
+          "page": "693",
+          "parenthetical": "\"Although a jury may infer facts from other facts that are established by inference, each link in the chain of inferences must be sufficiently strong to avoid a lapse into speculation.\""
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/256/0687-01"
+      ]
+    },
+    {
+      "cite": "133 F. App'x 762",
+      "category": "reporters:federal",
+      "reporter": "F. App'x",
+      "case_ids": [
+        508342
+      ],
+      "weight": 6,
+      "year": 2005,
+      "pin_cites": [
+        {
+          "parenthetical": "summary order"
+        },
+        {
+          "page": "763-64"
+        },
+        {
+          "page": "765"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f-appx/133/0762-01"
+      ]
+    },
+    {
+      "cite": "727 F. App'x 12",
+      "category": "reporters:federal",
+      "reporter": "F. App'x",
+      "weight": 7,
+      "year": 2018,
+      "pin_cites": [
+        {
+          "parenthetical": "summary order"
+        },
+        {
+          "page": "13"
+        },
+        {
+          "parenthetical": "No. 17-1254"
+        },
+        {
+          "page": "13"
+        },
+        {
+          "page": "13"
+        },
+        {
+          "page": "14"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "103 F.3d 1085",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        903
+      ],
+      "weight": 3,
+      "year": 1997,
+      "pin_cites": [
+        {
+          "page": "1092",
+          "parenthetical": "approving of method of testing four randomly selected heroin balloons to estimate quantity of heroin contained in 103 balloons found inside defendant's body"
+        },
+        {
+          "parenthetical": "disapproving of extrapolation from quantity of eighth trip that each of seven prior trips contained the same quantity"
+        },
+        {
+          "page": "1092"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/103/1085-01"
+      ]
+    },
+    {
+      "cite": "998 F.2d 84",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        10508255
+      ],
+      "year": 1993,
+      "pin_cites": [
+        {
+          "page": "90"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/998/0084-01"
+      ]
+    },
+    {
+      "cite": "671 F.3d 149",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        5873600
+      ],
+      "weight": 2,
+      "year": 2011,
+      "pin_cites": [
+        {
+          "page": "163",
+          "parenthetical": "requiring \"specific evidence\" of quantity to sustain quantity-based enhancement"
+        },
+        {
+          "page": "163"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/671/0149-01"
+      ]
+    },
+    {
+      "cite": "335 F.3d 170",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        1533909
+      ],
+      "weight": 2,
+      "year": 2003,
+      "pin_cites": [
+        {
+          "page": "181"
+        },
+        {
+          "page": "181"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/335/0170-01"
+      ]
+    },
+    {
+      "cite": "534 F.3d 153",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        4065534
+      ],
+      "weight": 2,
+      "year": 2008,
+      "pin_cites": [
+        {
+          "page": "159",
+          "parenthetical": "internal quotation marks and alternations omitted"
+        },
+        {
+          "page": "159",
+          "parenthetical": "noting that \"it would not satisfy the Constitution to have a jury determine that the defendant is probably guilty\" (internal quotation marks and alternations omitted)"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/534/0153-01"
+      ]
+    },
+    {
+      "cite": "54 F.3d 1040",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        7412596
+      ],
+      "weight": 3,
+      "year": 1995,
+      "pin_cites": [
+        {
+          "page": "1043"
+        },
+        {
+          "page": "1043"
+        },
+        {
+          "page": "1049",
+          "parenthetical": "Newman, J. , dissenting"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/54/1040-01"
+      ]
+    },
+    {
+      "cite": "441 F.3d 153",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        1037333
+      ],
+      "weight": 2,
+      "year": 2006,
+      "pin_cites": [
+        {
+          "page": "169"
+        },
+        {
+          "page": "169",
+          "parenthetical": "noting that \"courts may not credit inferences within the realm of possibility when those inferences are unreasonable\""
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/441/0153-01"
+      ]
+    },
+    {
+      "cite": "543 F.3d 793",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        3825377
+      ],
+      "weight": 2,
+      "year": 2008,
+      "pin_cites": [
+        {
+          "page": "796-97"
+        },
+        {
+          "page": "796-97"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/543/0793-01"
+      ]
+    },
+    {
+      "cite": "568 F.3d 287",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        3655805
+      ],
+      "weight": 2,
+      "year": 2009,
+      "pin_cites": [
+        {
+          "page": "301-02"
+        },
+        {
+          "page": "302"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/568/0287-01"
+      ]
+    },
+    {
+      "cite": "630 F.3d 310",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        6052399
+      ],
+      "weight": 2,
+      "year": 2011,
+      "pin_cites": [
+        {
+          "page": "314, 319",
+          "parenthetical": "noting distinction between \"reasonable speculation\" and \"sufficient evidence\""
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/630/0310-01"
+      ]
+    },
+    {
+      "cite": "938 F.2d 364",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        10523567
+      ],
+      "year": 1991,
+      "pin_cites": [
+        {
+          "page": "372"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/938/0364-01"
+      ]
+    },
+    {
+      "cite": "319 U.S. 372",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        366591
+      ],
+      "weight": 3,
+      "year": 1943,
+      "pin_cites": [
+        {
+          "page": "395"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/319/0372-01"
+      ]
+    },
+    {
+      "cite": "459 U.S. 56",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6191150
+      ],
+      "weight": 3,
+      "year": 1982,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/459/0056-01"
+      ]
+    },
+    {
+      "cite": "648 F.2d 879",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1229803
+      ],
+      "year": 1981,
+      "pin_cites": [
+        {
+          "page": "895"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/648/0879-01"
+      ]
+    },
+    {
+      "cite": "39 F.3d 1249",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        10532920
+      ],
+      "weight": 2,
+      "year": 1994,
+      "pin_cites": [
+        {
+          "page": "1256"
+        },
+        {
+          "page": "1256"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/39/1249-01"
+      ]
+    },
+    {
+      "cite": "327 U.S. 645",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        413818
+      ],
+      "weight": 3,
+      "year": 1946,
+      "pin_cites": [
+        {
+          "page": "653"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/327/0645-01"
+      ]
+    },
+    {
+      "cite": "196 F.3d 435",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        11555282
+      ],
+      "year": 1999,
+      "pin_cites": [
+        {
+          "page": "448"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/196/0435-01"
+      ]
+    },
+    {
+      "cite": "480 F.3d 160",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        3896819
+      ],
+      "year": 2007,
+      "pin_cites": [
+        {
+          "page": "168",
+          "parenthetical": "alterations omitted"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/480/0160-01"
+      ]
+    },
+    {
+      "cite": "960 F.2d 1112",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        10524117
+      ],
+      "year": 1992,
+      "pin_cites": [
+        {
+          "page": "1121",
+          "parenthetical": "internal quotation marks omitted"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/960/1112-01"
+      ]
+    },
+    {
+      "cite": "894 F.3d 64",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        12517513
+      ],
+      "weight": 2,
+      "year": 2017,
+      "pin_cites": [
+        {
+          "page": "72",
+          "parenthetical": "internal quotation marks omitted"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/894/0064-01"
+      ]
+    },
+    {
+      "cite": "688 F.3d 129",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        3498986
+      ],
+      "year": 2012,
+      "pin_cites": [
+        {
+          "page": "139"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/688/0129-01"
+      ]
+    },
+    {
+      "cite": "703 F.3d 46",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        3649269
+      ],
+      "weight": 2,
+      "year": 2012,
+      "pin_cites": [
+        {
+          "page": "62",
+          "parenthetical": "\"[W]e will uphold the judgment[ ] of conviction if 'any rational trier of fact could have found the essential elements of the crime beyond a reasonable doubt.' \" (quoting Jackson , 443 U.S. at 319, 99 S.Ct. 2781 )"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/703/0046-01"
+      ]
+    },
+    {
+      "cite": "397 U.S. 358",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        12054393
+      ],
+      "weight": 3,
+      "year": 1970,
+      "pin_cites": [
+        {
+          "page": "364"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/397/0358-01"
+      ]
+    },
+    {
+      "cite": "443 U.S. 307",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6182418
+      ],
+      "weight": 9,
+      "year": 1979,
+      "pin_cites": [
+        {
+          "page": "316"
+        },
+        {
+          "page": "317"
+        },
+        {
+          "parenthetical": "\"[W]e will uphold the judgment[ ] of conviction if 'any rational trier of fact could have found the essential elements of the crime beyond a reasonable doubt.' \" (quoting Jackson , 443 U.S. at 319, 99 S.Ct. 2781 )"
+        },
+        {
+          "page": "319"
+        },
+        {
+          "page": "320"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/443/0307-01"
+      ]
+    },
+    {
+      "cite": "158 F.3d 662",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        11671462
+      ],
+      "year": 1998,
+      "pin_cites": [
+        {
+          "page": "670-71"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/158/0662-01"
+      ]
+    },
+    {
+      "cite": "420 F.3d 111",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        8934630
+      ],
+      "weight": 2,
+      "year": 2005,
+      "pin_cites": [
+        {
+          "page": "131"
+        },
+        {
+          "page": "120"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/420/0111-01"
+      ]
+    },
+    {
+      "cite": "18 U.S.C. \u00a7 924",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "pin_cites": [
+        {
+          "page": "(c)",
+          "parenthetical": "\"Count Six\""
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "18 U.S.C. \u00a7 922",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "(a)(1)(A) and (a)(2)"
+        },
+        {
+          "page": "(g)(1)"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "21 U.S.C. \u00a7\u00a7 812",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "21 U.S.C. \u00a7\u00a7 841",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "weight": 13,
+      "pin_cites": [
+        {
+          "page": "(a)(1)"
+        },
+        {
+          "page": "(a)(1)"
+        },
+        {
+          "page": "124"
+        },
+        {
+          "page": "(a)(1)"
+        },
+        {
+          "page": "(a)(1)"
+        },
+        {
+          "page": "(b)(1)(B)"
+        },
+        {
+          "page": "(b)(1)(B)(i)",
+          "parenthetical": "providing penalties for the distribution or possession with intent to distribute \"100 grams or more of a mixture or substance containing a detectable amount of heroin\""
+        },
+        {
+          "page": "124-25",
+          "parenthetical": "PAULING: \"I'm a bring the machine so we could press it all. ... [Y]ou don't wanna smash it up? I mean you don't want to press it? LOW: Yeah. I've been wanted to do that all the week, nigga. I've been calling you man. ... PAULING: Aight, so we can do it tomorrow then.\""
+        },
+        {
+          "page": "144-45"
+        },
+        {
+          "page": "116",
+          "parenthetical": "PAULING: \"[T]he queens thing is good. ... [I]t's already established.\""
+        },
+        {
+          "page": "124",
+          "parenthetical": "PAULING: \"I got some other people who want ... a gram-, two grams shit like that.\""
+        },
+        {
+          "page": "145-46",
+          "parenthetical": "PAULING: \"I'm a move it off for you. ... I'm spend it with you anyway. ... I'm a get rid of all that.\""
+        },
+        {
+          "parenthetical": "LOW: \"[W]e got a nice amount of that shit left, too. ... PAULING: I got you, I, I'm a be hittin' you ... when, um, dude calls me.\""
+        }
+      ],
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 1323,
+    "char_count": 37188,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.2593174351091512
+    },
+    "sha256": "9f0092b48cbfcf524afcc766ff2c755e115cb05355e2971602fcb1c6481a90ed",
+    "simhash": "1:aaea9ab0ea2d1d63",
+    "word_count": 6155
+  },
+  "last_updated": "2024-02-27T18:46:58.656971+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "file_name": "0649-01",
+  "first_page_order": 649,
+  "last_page_order": 662
+}

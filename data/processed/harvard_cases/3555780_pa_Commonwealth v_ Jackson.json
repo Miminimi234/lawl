@@ -1,0 +1,193 @@
+{
+  "id": 3555780,
+  "name": "COMMONWEALTH of Pennsylvania, Appellant, v. Brian JACKSON, Appellee",
+  "name_abbreviation": "Commonwealth v. Jackson",
+  "decision_date": "2007-05-31",
+  "docket_number": "No. 47 EAP 2005",
+  "first_page": "232",
+  "last_page": "238",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "592 Pa. 232"
+    },
+    {
+      "type": "parallel",
+      "cite": "924 A.2d 618"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "909 A.2d 1254",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8461731,
+        2573491
+      ],
+      "weight": 3,
+      "year": 2006,
+      "pin_cites": [
+        {
+          "page": "1257"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/909/1254-01",
+        "/pa/589/0487-01"
+      ]
+    },
+    {
+      "cite": "589 Pa. 487",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        2573491
+      ],
+      "year": 2006,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/589/0487-01"
+      ]
+    },
+    {
+      "cite": "655 A.2d 492",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        472168,
+        7864529
+      ],
+      "year": 1995,
+      "pin_cites": [
+        {
+          "page": "497"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/540/0022-01",
+        "/a2d/655/0492-01"
+      ]
+    },
+    {
+      "cite": "540 Pa. 22",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        472168
+      ],
+      "year": 1995,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/540/0022-01"
+      ]
+    },
+    {
+      "cite": "896 A.2d 523",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8426660,
+        5654612
+      ],
+      "year": 2006,
+      "pin_cites": [
+        {
+          "page": "535"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/896/0523-01",
+        "/pa/586/0553-01"
+      ]
+    },
+    {
+      "cite": "586 Pa. 553",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        5654612
+      ],
+      "year": 2006,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/586/0553-01"
+      ]
+    },
+    {
+      "cite": "889 A.2d 42",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        2473411,
+        8991567
+      ],
+      "year": 2005,
+      "pin_cites": [
+        {
+          "page": "43"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/585/0469-01",
+        "/a2d/889/0042-01"
+      ]
+    },
+    {
+      "cite": "585 Pa. 469",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        2473411
+      ],
+      "year": 2005,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/585/0469-01"
+      ]
+    },
+    {
+      "cite": "875 A.2d 388",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "weight": 2,
+      "year": 2005,
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 508,
+    "char_count": 9279,
+    "ocr_confidence": 0.677,
+    "pagerank": {
+      "raw": 1.1611861091557903e-07,
+      "percentile": 0.5841037450445953
+    },
+    "sha256": "3c7f9d3c6b11130c256533193ffa1345a5e0a80a7cd359f6eb78c3d1f24afe7d",
+    "simhash": "1:ca63b578e1f6714e",
+    "word_count": 1472
+  },
+  "last_updated": "2024-02-27T21:45:49.457734+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "file_name": "0232-01",
+  "first_page_order": 284,
+  "last_page_order": 290
+}

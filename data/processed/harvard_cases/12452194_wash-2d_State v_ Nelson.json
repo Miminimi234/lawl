@@ -1,0 +1,76 @@
+{
+  "id": 12452194,
+  "name": "State, Respondent, v. Nelson, Petitioner",
+  "name_abbreviation": "State v. Nelson",
+  "decision_date": "2017-01-04",
+  "docket_number": "No. 93596-3",
+  "first_page": "1004",
+  "last_page": "1004",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "187 Wash. 2d 1004"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Wash.",
+    "id": 9029,
+    "name": "Washington Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 38,
+    "name_long": "Washington",
+    "name": "Wash."
+  },
+  "cites_to": [
+    {
+      "cite": "195 Wn. App. 1042",
+      "category": "reporters:state",
+      "reporter": "Wash. App.",
+      "case_ids": [
+        12454419,
+        12454420,
+        12454421
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-app/195/1042-01",
+        "/wash-app/195/1042-02",
+        "/wash-app/195/1042-03"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 28,
+    "char_count": 190,
+    "ocr_confidence": 0.841,
+    "sha256": "444c7d5463f44ba215810a5cbc18fb1c197356acd5b221d8e756d2a413a6f87c",
+    "simhash": "1:ac916ab44b4b8ce1",
+    "word_count": 31
+  },
+  "last_updated": "2024-02-27T20:27:34.476040+00:00",
+  "provenance": {
+    "date_added": "2019-05-21",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "State, Respondent, v. Nelson, Petitioner,"
+    ],
+    "opinions": [
+      {
+        "text": "Petition for review of a decision of the Court of Appeals, No. 46768-2-II, August 16, 2016, 195 Wn. App. 1042. Denied January 4, 2017.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "State, Respondent, v. Nelson, Petitioner,\nNo. 93596-3."
+  },
+  "file_name": "1004-06",
+  "first_page_order": 972,
+  "last_page_order": 972
+}

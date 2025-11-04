@@ -1,0 +1,541 @@
+{
+  "id": 11648495,
+  "name": "WILLIAMS AND SONS ERECTORS, INC., Plaintiff, v. SOUTH CAROLINA STEEL CORPORATION, Defendant; SOUTH CAROLINA STEEL CORPORATION, Third-Party-Plaintiff, v. MARS ASSOCIATES, INC.; Normel Construction Corporation; and Federal Insurance Company, Third-Party-Defendants; MARS ASSOCIATES, INC.; Normel Construction Corporation; and Federal Insurance Company, Fourth-Party-Plaintiffs-Appellants, v. The DORMITORY AUTHORITY OF the STATE OF NEW YORK, Fourth-Party-Defendant-Appellee; The DORMITORY AUTHORITY OF the STATE OF NEW YORK, Fifth-Party-Plaintiff-Appellee, v. The GRUZEN PARTNERSHIP, ARCHITECTS, PLANNERS; and Gruzen Samton Steinglass, Fifth-Party-Defendants-Appellees; The GRUZEN PARTNERSHIP, ARCHITECTS, PLANNERS; and Gruzen Samton Steinglass, Sixth-Party-Plaintiff-Appellee, v. EWELL W. FINLEY, P.C., Sixth-Party-Defendant",
+  "name_abbreviation": "Williams & Sons Erectors, Inc. v. South Carolina Steel Corp.",
+  "decision_date": "1993-01-14",
+  "docket_number": "No. 1672, Docket 92-7140",
+  "first_page": "1176",
+  "last_page": "1185",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "983 F.2d 1176"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "2d Cir.",
+    "id": 8778,
+    "name": "United States Court of Appeals for the Second Circuit"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "493 N.Y.S.2d 819",
+      "category": "reporters:state",
+      "reporter": "N.Y.S.2d",
+      "case_ids": [
+        1581420
+      ],
+      "year": 1985,
+      "opinion_index": 0,
+      "case_paths": []
+    },
+    {
+      "cite": "113 A.D.2d 918",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        3442921
+      ],
+      "year": 1985,
+      "pin_cites": [
+        {
+          "page": "922"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/113/0918-01"
+      ]
+    },
+    {
+      "cite": "570 N.Y.S.2d 286",
+      "category": "reporters:state",
+      "reporter": "N.Y.S.2d",
+      "year": 1991,
+      "opinion_index": 0
+    },
+    {
+      "cite": "173 A.D.2d 405",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        1040969
+      ],
+      "year": 1991,
+      "pin_cites": [
+        {
+          "page": "406"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/173/0405-01"
+      ]
+    },
+    {
+      "cite": "448 N.E.2d 413",
+      "category": "reporters:state_regional",
+      "reporter": "N.E.2d",
+      "weight": 2,
+      "year": 1983,
+      "opinion_index": 0
+    },
+    {
+      "cite": "461 N.Y.S.2d 746",
+      "category": "reporters:state",
+      "reporter": "N.Y.S.2d",
+      "weight": 2,
+      "year": 1983,
+      "opinion_index": 0
+    },
+    {
+      "cite": "58 N.Y.2d 377",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        4388923
+      ],
+      "weight": 2,
+      "year": 1983,
+      "pin_cites": [
+        {
+          "page": "384-85"
+        },
+        {
+          "page": "385"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/58/0377-01"
+      ]
+    },
+    {
+      "cite": "493 N.E.2d 905",
+      "category": "reporters:state_regional",
+      "reporter": "N.E.2d",
+      "year": 1986,
+      "opinion_index": 0
+    },
+    {
+      "cite": "502 N.Y.S.2d 681",
+      "category": "reporters:state",
+      "reporter": "N.Y.S.2d",
+      "year": 1986,
+      "opinion_index": 0
+    },
+    {
+      "cite": "67 N.Y.2d 297",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        4403278
+      ],
+      "year": 1986,
+      "pin_cites": [
+        {
+          "page": "309"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/67/0297-01"
+      ]
+    },
+    {
+      "cite": "733 F.2d 195",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        576256
+      ],
+      "pin_cites": [
+        {
+          "page": "207"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/733/0195-01"
+      ]
+    },
+    {
+      "cite": "442 F.2d 216",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        769384
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "233"
+        },
+        {
+          "page": "233"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/442/0216-01"
+      ]
+    },
+    {
+      "cite": "524 F.2d 1317",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1100380
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "1320"
+        },
+        {
+          "page": "1320"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/524/1317-01"
+      ]
+    },
+    {
+      "cite": "959 F.2d 425",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        10520802
+      ],
+      "weight": 4,
+      "pin_cites": [
+        {
+          "page": "428"
+        },
+        {
+          "page": "428"
+        },
+        {
+          "page": "430"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/959/0425-01"
+      ]
+    },
+    {
+      "cite": "597 N.E.2d 1080",
+      "category": "reporters:state_regional",
+      "reporter": "N.E.2d",
+      "weight": 2,
+      "year": 1992,
+      "opinion_index": 0
+    },
+    {
+      "cite": "586 N.Y.S.2d 87",
+      "category": "reporters:state",
+      "reporter": "N.Y.S.2d",
+      "weight": 2,
+      "year": 1992,
+      "opinion_index": 0
+    },
+    {
+      "cite": "79 N.Y.2d 695",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        4422678
+      ],
+      "weight": 2,
+      "year": 1992,
+      "pin_cites": [
+        {
+          "page": "707-08"
+        },
+        {
+          "page": "706-07"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/79/0695-01"
+      ]
+    },
+    {
+      "cite": "550 N.Y.S.2d 717",
+      "category": "reporters:state",
+      "reporter": "N.Y.S.2d",
+      "year": 1989,
+      "opinion_index": 0
+    },
+    {
+      "cite": "156 A.D.2d 628",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        3608950
+      ],
+      "year": 1989,
+      "pin_cites": [
+        {
+          "page": "630"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/156/0628-01"
+      ]
+    },
+    {
+      "cite": "555 N.Y.S.2d 367",
+      "category": "reporters:state",
+      "reporter": "N.Y.S.2d",
+      "year": 1990,
+      "opinion_index": 0
+    },
+    {
+      "cite": "161 A.D.2d 456",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        995519
+      ],
+      "year": 1990,
+      "pin_cites": [
+        {
+          "page": "457"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/161/0456-01"
+      ]
+    },
+    {
+      "cite": "539 N.E.2d 91",
+      "category": "reporters:state_regional",
+      "reporter": "N.E.2d",
+      "weight": 6,
+      "year": 1989,
+      "opinion_index": 0
+    },
+    {
+      "cite": "541 N.Y.S.2d 335",
+      "category": "reporters:state",
+      "reporter": "N.Y.S.2d",
+      "weight": 4,
+      "year": 1989,
+      "opinion_index": 0
+    },
+    {
+      "cite": "73 N.Y.2d 417",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        4412317
+      ],
+      "year": 1989,
+      "pin_cites": [
+        {
+          "page": "424"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/73/0417-01"
+      ]
+    },
+    {
+      "cite": "859 F.2d 242",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        10525946
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/859/0242-01"
+      ]
+    },
+    {
+      "cite": "815 F.2d 885",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        519415
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "887"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/815/0885-01"
+      ]
+    },
+    {
+      "cite": "65 N.Y.2d 536",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        1580968
+      ],
+      "weight": 13,
+      "year": 1985,
+      "pin_cites": [
+        {
+          "page": "546"
+        },
+        {
+          "page": "551"
+        },
+        {
+          "page": "554"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": []
+    },
+    {
+      "cite": "135 N.E. 275",
+      "category": "reporters:state_regional",
+      "reporter": "N.E.",
+      "weight": 2,
+      "year": 1922,
+      "pin_cites": [
+        {
+          "parenthetical": "Cardozo, J."
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "233 N.Y. 236",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        1967083
+      ],
+      "year": 1922,
+      "pin_cites": [
+        {
+          "parenthetical": "Cardozo, J."
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny/233/0236-01"
+      ]
+    },
+    {
+      "cite": "111 N.E. 1050",
+      "category": "reporters:state_regional",
+      "reporter": "N.E.",
+      "year": 1916,
+      "opinion_index": 0
+    },
+    {
+      "cite": "217 N.Y. 382",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        75756
+      ],
+      "year": 1916,
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny/217/0382-01"
+      ]
+    },
+    {
+      "cite": "174 N.E.2d 441",
+      "category": "reporters:state_regional",
+      "reporter": "N.E.2d",
+      "weight": 4,
+      "opinion_index": 0
+    },
+    {
+      "cite": "174 N.E. 441",
+      "category": "reporters:state_regional",
+      "reporter": "N.E.",
+      "year": 1931,
+      "opinion_index": 0
+    },
+    {
+      "cite": "255 N.Y. 170",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        1994788
+      ],
+      "weight": 3,
+      "year": 1931,
+      "pin_cites": [
+        {
+          "page": "180"
+        },
+        {
+          "page": "170"
+        },
+        {
+          "page": "182-83"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny/255/0170-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 1270,
+    "char_count": 29581,
+    "ocr_confidence": 0.719,
+    "pagerank": {
+      "raw": 3.2945749968185244e-07,
+      "percentile": 0.8715226254503641
+    },
+    "sha256": "8e49688b32d3895fbeae3b6a66e4f0b0362451c2adbb2c185c8574db19925a0d",
+    "simhash": "1:8754d493c05d8a97",
+    "word_count": 4555
+  },
+  "last_updated": "2024-02-27T16:11:36.444292+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before: CARDAMONE, WINTER and MAHONEY, Circuit Judges."
+    ],
+    "parties": [
+      "WILLIAMS AND SONS ERECTORS, INC., Plaintiff, v. SOUTH CAROLINA STEEL CORPORATION, Defendant. SOUTH CAROLINA STEEL CORPORATION, Third-Party-Plaintiff, v. MARS ASSOCIATES, INC.; Normel Construction Corporation; and Federal Insurance Company, Third-Party-Defendants. MARS ASSOCIATES, INC.; Normel Construction Corporation; and Federal Insurance Company, Fourth-Party-Plaintiffs-Appellants, v. The DORMITORY AUTHORITY OF the STATE OF NEW YORK, Fourth-Party-Defendant-Appellee. The DORMITORY AUTHORITY OF the STATE OF NEW YORK, Fifth-Party-Plaintiff-Appellee, v. The GRUZEN PARTNERSHIP, ARCHITECTS, PLANNERS; and Gruzen Samton Steinglass, Fifth-Party-Defendants-Appellees. The GRUZEN PARTNERSHIP, ARCHITECTS, PLANNERS; and Gruzen Samton Steinglass, Sixth-Party-Plaintiff-Appellee, v. EWELL W. FINLEY, P.C., Sixth-Party-Defendant."
+    ],
+    "opinions": [
+      {
+        "text": "CARDAMONE, Circuit Judge:\nOn this appeal we are called upon to apply New York\u2019s law of privity, familiar to lawyers from Chief Judge Cardozo\u2019s memorable phrase: \u201cThe assault upon the citadel of privity is proceeding in these days apace.\u201d Ultramares Corp. v. Touche, 255 N.Y. 170, 180, 174 N.E. 441 (1931). That case involved plaintiff\u2019s attempt to hold defendant liable for words negligently spoken. In this suit by contractors, working from plans prepared for the state dormitory authority, against the architects who prepared them, we also must construe the contract documents. The record before us reveals a bungling bureaucracy that approved bid plans that had obviously been prepared in a slipshod manner. The bureaucracy\u2019s \u2014 in this case the state dormitory authority \u2014 contrary opinion that the plans would do became its dogmatic ruling to that effect, which set the stage for the litigation presently before us.\nBACKGROUND\nWe set forth those facts relevant to the resolution of the issues on appeal. The Dormitory Authority of the State of New York is a public benefit corporation that provides financing for construction of new facilities for the City University of New York (CUNY). In November 1985 it engaged The Gruzen Partnership, Architects, Planners and later its successor firm, Gruzen Samton Steinglass, (Gruzen or the architects) to design a Marine Academic Center at the Kingsborough Community College in Brooklyn, New York. Gruzen was asked to provide architectural services during the design and construction phases of the project, and also to prepare contract documents for construction of the project that the authority could distribute to prospective bidders. The architects were required to respond to questions posed by bidders regarding these project documents.\nThe architects retained several consulting firms to aid them in designing certain elements of the project. One was Ewell W. Finley, P.C., who was to put together the structural engineering design. Gruzen together with its consultants spent almost two years in design work and prepared more than 150 drawings and a massive book of specifications. In June 1987 when construction documents were 60 percent complete, the dormitory authority\u2019s internal design review board as well as CUNY staff architects and engineers reviewed the submitted designs, in which they found major defects. For example, the architects\u2019 design showed the project\u2019s roof was to be sloped; the structural plan failed to correspond and did not include such slope. When these inconsistencies were pointed out to Gruzen and Finley, they said the errors would be corrected.\nTwo months later, in August 1987, with the plans complete, the authority told Gruzen that the structural drawings of the roof still showed no slope. Gruzen responded that the actual elevations of steel would be coordinated with its structural engineer. Meanwhile, the project documents were finalized. CUNY\u2019s staff architects and engineers reviewed them independently. During a September 17, 1987 meeting with Gruzen and Finley the CUNY architects expressed serious concern about the lack of care that characterized the preparation of the completed construction plans. As a result of a review of representative drawings, these CUNY professionals doubted whether the structural plans would be satisfactorily finished in time for the October 7 bid date. A list of comments enumerating the problems with the plans included: lack of coordination in the plan documents, structurally incorrect details, and drafting errors of such proportion as to distort the drawings. Based on these deficiencies, the CUNY professionals stated that they did not believe the structure shown on the plans could actually be built.\nCUNY\u2019s chief architect then advised the dormitory authority of the particulars of CUNY\u2019s review and requested that an independent structural engineer examine all the structural documents. The authority\u2019s project manager joined in this request, which the dormitory authority denied at a September 21 meeting. At the same meeting, Finley asked that the October 7 bidding date be delayed to permit better coordination of the plan designs, which the authority also turned down. On September 23 CUNY\u2019s architect wrote a letter to the dormitory authority reiterating, \u201cwe have reviewed the 100% Structural Bid Documents of the above project and found them unacceptable for bidding.\u201d\nOn October 15, 1987 \u2014 after further work on the project documents and a one-week delay of the scheduled bidding date \u2014 the dormitory authority put out Gruzen\u2019s plans and specifications to prospective bidders. As part of the bidding process, 44 contractors attended an informational meeting with authority and Gruzen representatives. There the architects answered questions about the plans and specifications and later issued written clarifications of the documents. As required by its retainer, Gruzen also submitted to all prospective bidders written minutes of the meeting that included its clarifications.\nOn December 17, 1987 appellants, a joint venture of Mars Associates, Inc. and Nor-mel Construction Corp. (Mars-Normel) submitted what was subsequently determined to be the lowest bid. The state dormitory authority awarded appellants the contract to construct the project in January 1988. Appellant Federal Insurance Company was Mars-Normel\u2019s guarantor. Joseph Brandes, an officer of Mars-Normel and an experienced licensed professional engineer, became the general superintendent of the project. After reviewing the plan documents, he and the steel subcontractor, South Carolina Steel Corporation, determined that the structural steel fabrication could not go forward because the structural plan improperly coordinated with the architectural plans. Among these errors was the previously noted discrepancy between the architectural and structural plans with respect to the shape and slope of the project\u2019s roof. During the course of construction, Brandes discovered other significant design defects.\nIn March 1988 after construction had begun, the dormitory authority submitted an entirely new set of plans that Gruzen had prepared, and when errors in these plans appeared, the authority issued yet a third set the following month. Despite the \u201cnew\u201d plans, voluminous substantial corrections were still necessary, amounting to 400 sketches modifying the reissued plans. Further, during the construction phase of the project the dormitory authority had to make 267 change orders because of plan errors that caused appellants to perform additional work. The change orders were submitted on a dormitory authority form describing the additional work and adjusting the agreed upon price. Section 7.01D of the contract specified how the contract price would be adjusted:\nUnless otherwise specifically provided for in a change order, the compensation specified therein for Extra Work includes full payment for both the Extra Work covered thereby and for any damage or expense caused the Contractor by any delays to other Work to be done under the Contract resulting from said Extra Work and the Contractor waives all rights to any other compensation for said Extra Work, damage or expense.\nThe contract also contained a general no-damages-for-delay clause, \u00a7 10.02, providing:\nNo claims for increased costs, charges, expenses or damages of any kind shall be made by the Contractor against the Owner for any delays or hindrances from any cause whatsoever; provided that the Owner, in the Owner\u2019s discretion, may compensate the Contractor for any said delays by extending the time for completion of the Work as specified in the Contract.\nThe authority exercised its \u00a7 10.02 discretion on eight separate change orders and paid Mars-Normel $75,402 for the costs of delay. In addition, on 121 of the approximately 267 change orders the parties agreed that the authority would pay appellant for the cost of performing extra work, and that Mars-Normel would reserve all other rights arising from the change orders. The following is an example of the reservations attached to those change orders:\nthe Contractor and the Dormitory Authority expressly agree [that] ... the Contractor reserves all rights, remedies or actions, if any, against the Dormitory Authority for damages or expenses caused the contractor and/or an extension of time arising out of or related to any delays to the performance of its contract work caused by this Extra Work.\nPRIOR PROCEEDINGS\nIn June 1989, while the project was under construction, Mars-Normel presented the dormitory authority with a claim for increased costs \u201carising out of the overburdening errors and omissions in the contract drawings that have caused loss of efficiency, escalation, remobilization, etc.\u201d A month earlier Williams and Sons Erectors, Inc. (Williams), the steel erector for the project, commenced this diversity action against South Carolina Steel for the balance it claimed was due under its subcontract. South Carolina Steel counterclaimed against Williams for allegedly defective work, and brought a third-party action seeking the balance due under its contract, and for protest work and delay damages against appellants and their surety Federal Insurance Company. Mars-Normel and its guarantor counterclaimed against South Carolina Steel for defective work and for delay damages that the authority had asserted were caused by the steel subcontractor.\nMars-Normel then brought the instant fourth-party action against the state dormitory authority for indemnification on South Carolina Steel\u2019s claims, contract balance and delay impact costs as a result of change orders that were issued to correct the defective plans and specifications. The authority counterclaimed for delay and brought a fifth-party complaint for design errors against Gruzen, who then filed a sixth-party complaint against Finley. Mars-Normel asserted cross-claims for negligent misrepresentation and indemnification against Gruzen, which cross-claims are now before us.\nGruzen moved pursuant to Fed.R.Civ.P. 12(b)(6) to dismiss both of Mars-Normel's cross-claims on the grounds that they failed to state a claim upon which relief could be granted. Gruzen argued that it owed no duty of care to Mars-Normel. The district court (Wexler, J.) granted Gruzen\u2019s motion dismissing appellants\u2019 cross-claims in an October 9, 1990 order holding that the relationship between the architect and general contractor was insufficient to create a duty of care arising from the former to the latter. Mars-Normel appeals that portion of the October 9 order dismissing its claim against Gruzen for negligent misrepresentation.\nAfter the close of discovery, the state dormitory authority moved pursuant to Fed.R.Civ.P. 56 for partial summary judgment dismissing Mars-Normel\u2019s claims for delay damages based on the no-damages-for-delay clause in \u00a7 10.02 of the contract. In an order dated October 28, 1991 the magistrate judge (Jordan, M.J.) granted the motion and dismissed all claims for compensation for damages for delay. The magistrate judge concluded that the no-damages-for-delay clause barred such claims and that the authority was not grossly negligent in submitting the defective plan documents for bidding. Mars-Normel also appeals that portion of this order dismissing its claim against the state dormitory authority for delay damages.\nDISCUSSION\nI\nA. New York Law of Privity\nWe discuss first the October 9, 1990 order. In dismissing Mars-Normel\u2019s cross-claim against Gruzen for negligent misrepresentation of the defective plan documents, the district court held that the architect owed no duty of care to Mars-Normel. We agree with the district court that the relationship between the architect and the general contractor was insufficient to impose a duty of care on the architect under New York law, which the parties concede controls. Although we recognize that a number of jurisdictions have adopted the Restatement\u2019s lower threshold for a plaintiff to meet when attempting to hold a defendant liable for information negligently supplied for the guidance of others, see Restatement (Second) of Torts \u00a7 552 (1977), we are bound by New York law.\nIt is helpful in understanding the law of privity in New York to go back to its beginnings, with Winterbottom v. Wright, 10 Meeson & Welsby 109, 152 Eng.Rep. 402 (Ex.1842). There defendant Wright contracted with the Postmaster-General of England to supply horse-drawn coaches for carrying the mail; another party contracted to supply horses and coachmen, one of whom was plaintiff Winterbottom. When carrying the mail from Hartford to Holy-head, defendant\u2019s coach broke down pitching out Winterbottom. Writing for the Court of Exchequer, Lord Abinger termed plaintiff\u2019s action for damages for his injuries one of first impression and ruled in favor of defendant Wright because there was no privity of contract between plaintiff and defendant. The English court was of the view that actions upon contracts for damages are to be confined to the parties that entered into them and plaintiff\u2019s tort action would \u2014 after defendants had done everything to the satisfaction of the Postmaster-General and made whatever adjustments were necessary \u2014 permit defendant to rip open these settled accounts between the two contracting parties. Most significant for our purposes was the rationale for the decision: to grant plaintiff a remedy might let in \u201can infinity of actions,\u201d that is, if Winterbottom could successfully sue, so could every coach passenger and every passerby along the road.\nNinety years later in Ultramares Corp. v. Touche, 255 N.Y. at 170, 174 N.E.2d 441, Chief Judge Cardozo embraced that principle, observing that while in the field of contracts law a beneficiary of a promise usually has a remedy, the remedy is considerably more restricted when such beneficiaries are indeterminate or general. Id. at 180-81, 174 N.E.2d 441. Although Winter-bottom v. Wright fathered the doctrine of privity, the assault on this citadel in cases where dangerous instrumentalities were involved, see MacPherson v. Buick Motor Co., 217 N.Y. 382, 111 N.E. 1050 (1916), had already made substantial inroads. The holding of MacPherson \u2014 where the manufacturer of a defective automobile was held liable for injuries sustained by one who purchased it regardless of the lack of privity \u2014 rejected the doctrine of privity when it was applied to the same kind of facts as those that had earlier denied Winterbottom any right to recover.\nYet, to be held liable for information negligently furnished New York required that there be privity of contract or a relationship closely approaching it, as illustrated by Glanzer v. Shepard, 233 N.Y. 236, 135 N.E. 275 (1922) (Cardozo, J.). Glanzer purchased beans from Beck, who hired the defendant Shepard, a public weigher, to certify that the agreed upon quantity of beans was delivered. Plaintiff Glanzer was given a copy of defendant Shepard\u2019s certification by the seller Beck. When the weight of the beans was found deficient, Shepard was held liable to plaintiff for negligence because the aim of the certification was for Glanzer\u2019s use, and though privity was lacking between Glanzer and Shepard, their relationship was so close as to create liability. Id. at 239, 241, 135 N.E. 275.\nIn Credit Alliance Corp. v. Arthur Andersen & Co., 65 N.Y.2d 536, 493 N.Y.S.2d 435, 483 N.E.2d 110 (1985), the New York Court of Appeals reiterated the views expressed by Chief Judge Cardozo in Ultra-mares Corp. v. Touche, stating that in order for an accountant to be held liable in negligence to noncontractual parties who rely to their detriment on inaccurate financial reports, there must exist a relationship \u201c \u2018so close as to approach that of privity.\u2019 \u201d Id. at 546, 493 N.Y.S.2d 435, 483 N.E.2d 110 (quoting Ultramares, 255 N.Y. at 182-83, 174 N.E.2d 441).\n(1) the accountants must have been aware that the financial reports were to be used for a particular purpose or purposes; (2) in the furtherance of which a known party or parties was intended to rely; and (3) there must have been some conduct on the part of the accountants linking them to that party or parties, which evinces the accountants\u2019 understanding of that party or parties\u2019 reliance.\nId. 65 N.Y.2d at 551, 493 N.Y.S.2d 435, 483 N.E.2d 110. While recognizing that \u201cthese criteria permit some flexibility in the application of the doctrine of privity to accountants\u2019 liability,\u201d id., the court made clear that it did not intend to depart from its prior decisions requiring \u201cthe practical equivalent of privity.\u201d Id. at 554, 493 N.Y.S.2d 435, 483 N.E.2d 110. This \u201clinking conduct\u201d standard includes a somewhat wider group of potential plaintiffs to whom a defendant may be liable than does \u201cthe end and aim of the transaction\u201d standard set forth in Glanzer.\nIn Widett v. United States Fidelity & Guar. Co., 815 F.2d 885 (2d Cir.1987), we affirmed the dismissal of a negligence action against an architect where no privity of contract existed, based in part on our belief that the New York Court of Appeals did not intend to make further inroads on the slightly modified privity requirement of Credit Alliance Corp. to the architectural profession. We relied on four cases where the New York courts had dismissed subcontractor claims against architects with whom the subcontractors were not in privity. See id. at 887. Yet, as recognized in a later case, Widett held out the possibility that an architect could be liable to a subcontractor \u2014 in the absence of privity \u2014 if there was direct communication, a client relationship, or other special circumstances linking them. See Morse/Diesel, Inc. v. Trinity Indus., Inc., 859 F.2d 242, 247 n. 5 (2d Cir.1988). That is to say, in some circumstances the relationship may be sufficiently close as to be virtually indistinguishable from contractual privity.\nSubsequent to these decisions, the New York Court of Appeals extended its privity doctrine to \u201cdefendants other than accountants who fall within the narrow circumstances we have delineated.\u201d Ossining Union Free Sch. Dist. v. Anderson La-Rocca Anderson, 73 N.Y.2d 417, 424, 541 N.Y.S.2d 335, 539 N.E.2d 91 (1989). It reaffirmed that in negligent misrepresentation cases the rule \u201ccontinues to be that such a cause of action requires that the underlying relationship between the parties be one of contract or the bond between them so close as to be the functional equivalent of contractual privity.\u201d Id. at 419, 541 N.Y.S.2d 335, 539 N.E.2d 91. In Os-sining, the defendant engineers had been retained by a school district\u2019s architect to evaluate the structural soundness of one of the school district\u2019s buildings. The New York court found the \u201cfunctional equivalent\u201d of privity to exist where the engineers allegedly \u201cundertook their work in the knowledge that it was for the school district alone,\u201d id. at 425, 541 N.Y.S.2d 335, 539 N.E.2d 91, and \u201crendered their reports with the objective of thereby shaping this plaintiff\u2019s conduct.\u201d Id. at 426, 541 N.Y.S.2d 335, 539 N.E.2d 91. The engineers sent a bill directly to the school district, and in seeking compensation wrote that \u201cwe were hired by [the school district].\u201d Id. In addition, the engineers allegedly had direct contact with the school district. Id.\nIn the eases following Ossining, lower New York courts recognized that \u201c[t]he ambit of duty created by privity and relationships so close as to approach that of privity is narrowly defined in this State.\u201d Prudential-Bache Sec., Inc. v. Resnick Water St. Dev. Co., 161 A.D.2d 456, 457, 555 N.Y.S.2d 367 (1st Dep\u2019t 1990). The state courts adhering to the notion of privity have dismissed claims against architects and engineers in the absence of a relationship that could be construed as the functional equivalent of privity. See, e.g., id.; Briar Contracting Corp. v. City of New York, 156 A.D.2d 628, 630, 550 N.Y.S.2d 717 (2d Dep\u2019t 1989). Recently, in Security Pacific Business Credit, Inc. v. Peat Marwick Main & Co., 79 N.Y.2d 695, 707-08, 586 N.Y.S.2d 87, 597 N.E.2d 1080 (1992), the Court of Appeals reaffirmed its commitment to the limiting of liability principles set forth in Ultramares and Credit Alliance.\nB. New York Law Applied\nThe contractor appellants in the case at hand contend that their relationship with the defendant architects Gruzen was sufficient to impose a duty of care on defendant under New York law. Viewing the allegations in the complaint as true, and construing them in a light most favorable to appellants, the allegations are insufficient to raise an issue of fact with respect to whether the relationship between the parties is close enough so as to be the functional equivalent of privity.\nIn alleging a direct relationship with Gruzen, appellants place great reliance on the pre-bid meeting at which Gruzen answered prospective bidders\u2019 questions about the plan documents and Gruzen\u2019s preparation and forwarding the minutes of the meeting and written clarifications to prospective bidders. Gruzen of course took these actions at the direction of the dormitory authority, which had made it a requirement of the retainer agreement. Gruzen was therefore acting merely as a representative of the authority and not establishing a direct relationship of its own that would link it with appellants. Further, this action was directed to all prospective bidders, not simply to Mars-Normel. This isolated contact is insufficient to establish the relationship required for the imposition of liability under New York law. See Security Pacific Business Credit, Inc., 79 N.Y.2d at 706-07, 586 N.Y.S.2d 87, 597 N.E.2d 1080. Hence, appellant\u2019s cross-claim for negligent misrepresentation and indemnity against Gruzen was properly dismissed by the district court.\nII\nA. Appropriateness of Summary Judgment\nWe next analyze the October 28, 1991 order. In granting partial summary judgment in favor of the dormitory authority, the magistrate judge held that the no-damages-for-delay clause of \u00a7 10.02 of the construction contract barred Mars-Normel from seeking delay damages. Appellants first contend that the no-damages-for-delay clause does not exempt the authority from liability for prebid and other misrepresentations. Appellants also assert that, notwithstanding the general no-damages-for-delay clause, \u00a7 7.01D of the contract provides for payment of delay impact costs arising from change orders. In support of their contention that \u00a7 7.0ID is an exception to the general no-damages-for-delay clause, appellants point out that the authority paid it $75,402 in impact damages as part of eight change orders during the course of the project. Additionally, the authority paid one subcontractor directly for its delay costs. Appellants declare further that they explicitly reserved their right to delay costs envisioned by \u00a7 7.01D by insisting that such language be included on nearly half\u2014 121 of the 267 \u2014 of the change orders issued.\nSummary judgment may be granted when the provisions of a contract convey a definite and precise meaning, absent any ambiguity. See Seiden Assoc., Inc. v. ANC Holdings, Inc., 959 F.2d 425, 428 (2d Cir.1992); Heyman v. Commerce and Indus. Ins. Co., 524 F.2d 1317, 1320 (2d Cir.1975); Painton & Co. v. Bourns, Inc., 442 F.2d 216, 233 (2d Cir.1971). When the provisions of the contract are susceptible to conflicting constructions and when there is also relevant extrinsic evidence of the parties\u2019 actual intent, the meaning of the provisions becomes an issue of fact barring summary judgment. See Seiden, 959 F.2d at 428; Heyman, 524 F.2d at 1320; Painton, 442 F.2d at 233. Ambiguity without the existence of extrinsic evidence of intent presents not an issue of fact, but an issue of law for the court to rule on. Antilles Steamship Co. v. Members of the Am. Hull Ins. Syndicate, 733 F.2d 195, 207 (2d Cir.1984) (Newman, J., concurring).\nA conflict exists between \u00a7 7.01D of the contract\u2014which provides for delay impact costs arising from change orders\u2014 and the general no-damages-for-delay clause of \u00a7 10.02. The contract is ambiguous because the interrelationship of these two provisions is susceptible to different reasonable interpretations. See Seiden, 959 F.2d at 430. In light of this ambiguity, the contracting parties are entitled to an opportunity to present extrinsic evidence to establish their intent. Id. Appellants have proffered such extrinsic evidence by asserting that the authority paid delay impact costs with respect to a number of change orders, and that appellants explicitly reserved their right to make such claims in other change orders. These facts directly conflict with the state dormitory authority\u2019s interpretation of the contract. Thus partial summary judgment was inappropriately granted.\nB. Gross Negligence\nEven if it is determined that the no-damages-for-delay clause applies to the extra work performed pursuant to the change orders, such a clause will not serve to prevent recovery of damages for delays caused by the authority\u2019s bad faith or its willful, malicious, or grossly negligent conduct. See Corinno Civetta Constr. Corp. v. City of New York, 67 N.Y.2d 297, 309, 502 N.Y.S.2d 681, 493 N.E.2d 905 (1986); Kalisch-Jarcho, Inc. v. City of New York, 58 N.Y.2d 377, 384-85, 461 N.Y.S.2d 746, 448 N.E.2d 413 (1983). Gross negligence encompasses conduct \u2022 that \u201cbetokens a reckless indifference to the rights of others.\u201d Kalisch-Jarcho, 58 N.Y.2d at 385, 461 N.Y.S.2d 746, 448 N.E.2d 413. Appellants contend the district court erred in ruling as a matter of law that the authority was not grossly negligent in submitting the defective plan documents.\nAfter award of the construction contract, the state authority issued two completely revised sets of plan documents because of deficiencies in the original plans submitted to the contractors. More than 267 change orders were required because of errors found in the revised documents. While these extensive changes may not in themselves raise an issue of fact as to gross negligence, it is undisputed that the authority had notice from its own and other professionals of how substantial those errors were and how they pervaded the original documents as late as three weeks before they were submitted for bidding. Those professionals seriously questioned the viability of a structure built in accordance with the plans in hand at that time. The magistrate judge viewing this evidence concluded that any errors on the authority\u2019s part constituted simple negligence at worst. That court reasoned that any error so blatant as to be gross negligence would have had to be obvious to Mars-Normel. But in reaching this conclusion, the magistrate judge failed to apply the appropriate rule under New York law, requiring this aspect of the case also to be remanded.\nOn the remand already directed therefore the magistrate judge should first resolve the ambiguity in the contract. If that dispute is decided in appellant\u2019s favor, there will be no further need to consider appellant\u2019s gross negligence claim because whatever injury appellant suffered will be redressed by the damages obtained in its contract action. If, on the other hand, the contract ambiguity is resolved against appellant, the magistrate judge should then proceed with respect to the gross negligence claim to decide: whether the dormitory authority\u2019s delays and changes were contemplated by both parties when they entered into the contract, or whether the delays\u2014even if contemplated by the parties\u2014were so egregious that they constituted reckless indifference to Mars-Normel\u2019s rights. See Castagna & Son, Inc. v. Board of Educ. of New York, 173 A.D.2d 405, 406, 570 N.Y.S.2d 286 (1st Dep\u2019t 1991); J.R. Stevenson Corp. v. County of Westchester, 113 A.D.2d 918, 922, 493 N.Y.S.2d 819 (2d Dep\u2019t 1985).\nCONCLUSION\nAccordingly, the district court\u2019s October 9, 1990 order dismissing appellants\u2019 cross-claim against Gruzen for negligent misrepresentation is affirmed. The magistrate judge\u2019s October 28, 1991 order granting partial summary judgment to the state dormitory authority is reversed, and the case remanded for further proceedings consistent with this opinion.",
+        "type": "majority",
+        "author": "CARDAMONE, Circuit Judge:"
+      }
+    ],
+    "attorneys": [
+      "Eli S. Cohn, New York City (Eugene H. Goldberg, McDonough Marcus Cohn & Tretter, P.C., of counsel), for appellants Mars Associates, Inc., Normel Const. Corp. and Federal Ins. Co.",
+      "Frederick R. Rohn, New York City (David E. Montgomery, Ronald E. Sharpe, Sacks Montgomery, P.C., of counsel), for appellees The Dormitory Authority of the State of New York and The Gruzen Partnership, Architects, Planners and Gruzen Samton Steinglass."
+    ],
+    "corrections": "",
+    "head_matter": "WILLIAMS AND SONS ERECTORS, INC., Plaintiff, v. SOUTH CAROLINA STEEL CORPORATION, Defendant. SOUTH CAROLINA STEEL CORPORATION, Third-Party-Plaintiff, v. MARS ASSOCIATES, INC.; Normel Construction Corporation; and Federal Insurance Company, Third-Party-Defendants. MARS ASSOCIATES, INC.; Normel Construction Corporation; and Federal Insurance Company, Fourth-Party-Plaintiffs-Appellants, v. The DORMITORY AUTHORITY OF the STATE OF NEW YORK, Fourth-Party-Defendant-Appellee. The DORMITORY AUTHORITY OF the STATE OF NEW YORK, Fifth-Party-Plaintiff-Appellee, v. The GRUZEN PARTNERSHIP, ARCHITECTS, PLANNERS; and Gruzen Samton Steinglass, Fifth-Party-Defendants-Appellees. The GRUZEN PARTNERSHIP, ARCHITECTS, PLANNERS; and Gruzen Samton Steinglass, Sixth-Party-Plaintiff-Appellee, v. EWELL W. FINLEY, P.C., Sixth-Party-Defendant.\nNo. 1672, Docket 92-7140.\nUnited States Court of Appeals, Second Circuit.\nArgued June 11, 1992.\nDecided Jan. 14, 1993.\nEli S. Cohn, New York City (Eugene H. Goldberg, McDonough Marcus Cohn & Tretter, P.C., of counsel), for appellants Mars Associates, Inc., Normel Const. Corp. and Federal Ins. Co.\nFrederick R. Rohn, New York City (David E. Montgomery, Ronald E. Sharpe, Sacks Montgomery, P.C., of counsel), for appellees The Dormitory Authority of the State of New York and The Gruzen Partnership, Architects, Planners and Gruzen Samton Steinglass.\nBefore: CARDAMONE, WINTER and MAHONEY, Circuit Judges."
+  },
+  "file_name": "1176-01",
+  "first_page_order": 1302,
+  "last_page_order": 1311
+}

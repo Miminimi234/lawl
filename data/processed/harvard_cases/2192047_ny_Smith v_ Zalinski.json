@@ -1,0 +1,403 @@
+{
+  "id": 2192047,
+  "name": "Oliver Drake Smith, Respondent, v. Michael I. G. Zalinski, Impleaded, etc., Appellant",
+  "name_abbreviation": "Smith v. Zalinski",
+  "decision_date": "1884-01-29",
+  "docket_number": "",
+  "first_page": "519",
+  "last_page": "526",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "94 N.Y. 519"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "N.Y.",
+    "id": 24653,
+    "name": "New York Court of Appeals"
+  },
+  "jurisdiction": {
+    "id": 1,
+    "name_long": "New York",
+    "name": "N.Y."
+  },
+  "cites_to": [
+    {
+      "cite": "44 N. Y. 666",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        507386
+      ],
+      "pin_cites": [
+        {
+          "page": "672-3"
+        }
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny/44/0666-01"
+      ]
+    },
+    {
+      "cite": "1 Bosw. 569",
+      "category": "reporters:state",
+      "reporter": "Bosw.",
+      "case_ids": [
+        1346016
+      ],
+      "pin_cites": [
+        {
+          "page": "571, 583-4, 601"
+        }
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny-super-ct/14/0569-01"
+      ]
+    },
+    {
+      "cite": "4 Hun, 48",
+      "category": "reporters:state",
+      "reporter": "Hun,",
+      "opinion_index": -1
+    },
+    {
+      "cite": "44 N. Y. 672",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        2335815
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny-2d/44/0672-01"
+      ]
+    },
+    {
+      "cite": "29 Barb. 664",
+      "category": "reporters:state",
+      "reporter": "Barb.",
+      "case_ids": [
+        2428298
+      ],
+      "weight": 2,
+      "opinion_index": -1,
+      "case_paths": [
+        "/barb/29/0664-01"
+      ]
+    },
+    {
+      "cite": "66 N. Y. 613",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        2163331
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "673"
+        }
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny/66/0613-01"
+      ]
+    },
+    {
+      "cite": "15 Hun, 82",
+      "category": "reporters:state",
+      "reporter": "Hun,",
+      "opinion_index": -1
+    },
+    {
+      "cite": "70 N. Y. 180",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        2166408
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny/70/0180-01"
+      ]
+    },
+    {
+      "cite": "7 Hun, 74",
+      "category": "reporters:state",
+      "reporter": "Hun,",
+      "weight": 2,
+      "opinion_index": -1
+    },
+    {
+      "cite": "23 How. 300",
+      "category": "reporters:scotus_early",
+      "reporter": "How.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "47 N. Y. 307",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        509436
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny/47/0307-01"
+      ]
+    },
+    {
+      "cite": "71 N. Y. 502",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        2167981
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny/71/0502-01"
+      ]
+    },
+    {
+      "cite": "26 Hun, 229",
+      "category": "reporters:state",
+      "reporter": "Hun,",
+      "opinion_index": -1
+    },
+    {
+      "cite": "87 N. Y. 481",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        549319
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny/87/0481-01"
+      ]
+    },
+    {
+      "cite": "25 Barb. 428",
+      "category": "reporters:state",
+      "reporter": "Barb.",
+      "case_ids": [
+        5001279
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/barb/25/0428-01"
+      ]
+    },
+    {
+      "cite": "9 Wall. 779",
+      "category": "reporters:scotus_early",
+      "reporter": "Wall.",
+      "case_ids": [
+        3439902
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/us/76/0779-01"
+      ]
+    },
+    {
+      "cite": "16 Abb. Pr. 120",
+      "category": "reporters:state",
+      "reporter": "Abb. Pr.",
+      "case_ids": [
+        4627514
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/abb-pr/16/0120-01"
+      ]
+    },
+    {
+      "cite": "6 Duer, 102",
+      "category": "reporters:state",
+      "reporter": "Duer",
+      "case_ids": [
+        1329779
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny-super-ct/13/0102-01"
+      ]
+    },
+    {
+      "cite": "8 Cow. 348",
+      "category": "reporters:state",
+      "reporter": "Cow.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "60 N. Y. 143",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        523150
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny/60/0143-01"
+      ]
+    },
+    {
+      "cite": "23 How. Pr. 300",
+      "category": "reporters:state",
+      "reporter": "How. Pr.",
+      "case_ids": [
+        2214912
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "329"
+        }
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/how-pr/23/0300-01"
+      ]
+    },
+    {
+      "cite": "10 How. 253",
+      "category": "reporters:scotus_early",
+      "reporter": "How.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "74 N. Y. 370",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        534658
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny/74/0370-01"
+      ]
+    },
+    {
+      "cite": "3 Barb. 304",
+      "category": "reporters:state",
+      "reporter": "Barb.",
+      "case_ids": [
+        8593347
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/barb/3/0304-01"
+      ]
+    },
+    {
+      "cite": "7 Hill, 126",
+      "category": "reporters:state",
+      "reporter": "Hill,",
+      "opinion_index": -1
+    },
+    {
+      "cite": "49 N. Y. 259",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        2057517
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny/49/0259-01"
+      ]
+    },
+    {
+      "cite": "26 Hun, 225",
+      "category": "reporters:state",
+      "reporter": "Hun,",
+      "opinion_index": -1
+    },
+    {
+      "cite": "44 N. Y. 673",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "1 Bosw. 569",
+      "category": "reporters:state",
+      "reporter": "Bosw.",
+      "case_ids": [
+        1346016
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-super-ct/14/0569-01"
+      ]
+    },
+    {
+      "cite": "29 Barb. 664",
+      "category": "reporters:state",
+      "reporter": "Barb.",
+      "case_ids": [
+        2428298
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/barb/29/0664-01"
+      ]
+    },
+    {
+      "cite": "74 N. Y. 370",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        534658
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny/74/0370-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 691,
+    "char_count": 14798,
+    "ocr_confidence": 0.53,
+    "pagerank": {
+      "raw": 1.3597853400966129e-06,
+      "percentile": 0.9901895824814497
+    },
+    "sha256": "58fd2db05d65060aac84afd31f45940b310c1814f5a669e839d7efeca6e2227b",
+    "simhash": "1:b9a054e5bee54615",
+    "word_count": 2631
+  },
+  "last_updated": "2024-02-27T20:26:35.672822+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Oliver Drake Smith, Respondent, v. Michael I. G. Zalinski, Impleaded, etc., Appellant."
+    ],
+    "opinions": [
+      {
+        "text": "Finch, J.\nThe theory on which this case was tried, and the judgment rendered was affirmed by the General Term, is that in case of a transfer of the plaintiff\u2019s interest 'after an action commenced in his name, an order substituting the transferee as plaintiff without directing an amendment of the complaint beyond such substitution, or supplemental pleadings, which order is made on notice to the defendant, is such an adjudication of ownership and title in the substituted plaintiff as excludes that question from the issues to be tried, and leaves only to be examined those orginally framed, and which the unchanged pleadings present. It is not to be doubted that in every such case the defendant is entitled at some time and in some way to contest, if he shall please, the title of the' transferee, but if he is granted that opportunity once, he has no right to complain if he is refused it a second time. Such a transfer of interest is usually a formal matter in which the defendant has no concern except to be protected from a double claim. In all other respects the vital issues of the litigation remain nnchanged, and they only are to be tried. The power of the legislature to thus regulate the practice is not denied, and the sole question is whether it has so done. The Code provides (\u00a7 756), that \u201cincase of a transfer of interest, or devolution of liability, the action may be continued by or against the original party; unless the court directs the person to whom the interest is transferred, or upon whom the liability is devolved, to be substituted in the action, or joined with the original party, as the case requires.\u201d Then follows a section providing that in case of the death of a sole plaintiff or sole defendant, if the cause of action survive, \u201c the court must, upon a motion, allow or compel the action to be continued by or against his representative, or successor in interest.\u201d Other succeeding sections ( \u00a7\u00a7 758, 759) reach the case of the death of one of two or more plaintiffs or one of two or more defendants; and then follows a general provision applicable to all the cases which precede it. (\u00a7 760.) That directs that where the person applying does so in his own behalf,\u201cthe court may direct that he be made a party, by amendment of the pleadings, or otherwise, as the case requires.\u201d The section contains still other provisions guarding the rights of parties, but not necessary here to be repeated. And thus, pending an action, with its issues already raised and fixed by the pleadings, a transferee of the plaintiff\u2019s interest may move to be substituted in his place. Notice of the motion must be given to the defendant. On the hearing the applicant must establish his ownership and the defendant may deny it. If there be doubt about it the court may deny the motion and order the action to proceed irrespective of any such transfer. If there be no doubt about it, or the defendant by default or silence admits it, the court may order the substitution ; and even then, if justice or safety requires, it may order an amendment of the pleadings, \u201c or otherwise.\u201d By this process the defendant has ample chance to understand and contest the new ownership. If on the motion he raises the issue the court may decide it, or order such supplemental pleadings beyond the mere substitution as to carry the contested issue over to the trial. If the court decides it, and orders substitution without changing the pleadings, it cannot be raised again upon the hearing. In an equity case, such as this, the issue on the motion is decided, if it be decided, by the sort of tribunal to which alone the defendant is entitled. In an action at law, where the defendant stands contesting the ownership and demanding that the issue, like the old ones, be tried by the jury to which he is entitled, it may be that the court should order such supplemental pleadings as would introduce the new issue into the trial. Thus all the rights of the defendant in every case are fully protected. Only one suggestion is made to the contrary. On the motion, where the court decides the question in favor of substitution and without permitting allegations to be framed which will let in the new issue at the trial, the dissatisfied defendant has only the further remedy of an appeal from the order, but it is said, on that appeal, he can go no further than the General Term and cannot review the order in this court. That may be, though we-do not so decide, but the legislature infringes no right of the defendant by not allowing an appeal to this court. This, therefore, seems to follow inevitably. Where the court grants the order, and directs no amendment of the pleadings beyond the substitution of the transferee as plaintiff, the ownership of the transferee stands settled for all the purposes of the action, and must so stand upon the production of the order. In the pleadings there is no assertion of the new plaintiff\u2019s title on the one hand, nor denial of it on the other. JSfo such issue is presented because the court did not permit it to be presented, and necessarily the order of substitution becomes final upon the question of the transferee\u2019s ownership. Otherwise we should have the novel practice of a material issue litigated wholly outside of the pleadings, and originated after issue joined. But the learned counsel for the appellant, citing Riggs v. Pursell (74 N. Y. 370) insists that such an order is not final and conclusive in an after controversy. That is true in the sense exjilained by that decision. That the motion may be renewed with the consent of the court, and even without that consent upon a new and different state of facts; that where the motion was litigated a matter not necessarily involved in it, and not in fact litigated, is not concluded by the order, this court certainly held. But here the order of substitution was neither appealed from, nor a motion made to open a default, nor a new motion sought to be made, nor indeed can it be said that the ownership of the transferee was not necessarily involved. On the contrary that ownership was the one vital question involved in the motion and its decision. The order declares \u201c it appearing that the said petitioner has become vested with all the rights and cause of action of the plaintiff herein,\u201d and then directs the substitution. It is not weakened by the fact that the defendant made default. The court had a right to assume that the alleged ownership was conceded and that no issue was raised over it. The adjudicated cases confirm this view of the practice. Isham v. Davison (3 T. & C. 745) was the case of an order made upon the death pendente lite of the plaintiff, substituting his executor. Upon the trial it was objected to the title of the executor that there was no proof of the death of the testator. The General Term held that no proof on the subject was needed, and the title of the new plaintiff was established by the order. Moore v. Hamilton (44 N. Y. 673) indicates the opinion of this' court as to the effect of such an order. In that case when the substitution was made the action was partly tried before a referee appointed by consent. This'court held that the reference remained unaffected, that the pleadings continued the same, and all the prior proceedings were valid and operative. In Ford v. David (1 Bosw. 569) the motion to stibstitute the transferees had been denied. Upon the trial the defendants asked that the complaint be dismissed upon the ground that it appeared that the plaintiff had no interest in the action. The General Term held that the order denying the motion foi substitution precluded the defendant from raising the question. That is, for the purposes of the trial and under the order, Ford was to be deemed the party in interest notwithstanding his transfer. In Underhill v. Crawford (29 Barb. 664) it was held that the order of revivor was at the trial conclusive upon the point whether the action had been properly revived in the name of the executor, and whether, a recovery could be had in his name. And the court added that \u201c if the executor had sold and transferred the notes before the order of revivor so that at the time the order was made neither he as executor nor the estate of Peter Under-hill had any interest in the continuance of the action, then the defendants should have opposed the making of the order; or should have moved to vacate it on that ground ; but the order standing in full force was conclusive upon the judge at the trial that the action was properly revived and continued in the name of the executor.\u201d These cases sustain the view we have taken of the effect of an order of substitution under the Code, and show that no error was committed by the ruling in the present case.\nThe judgment should be affirmed, with costs.\nAll concur, except Ruger, Ch. J., not sitting, and Rapallo and Earl, JJ., not voting.\nJudgment affirmed.",
+        "type": "majority",
+        "author": "Finch, J."
+      }
+    ],
+    "attorneys": [
+      "Louis Marshall for appellant.",
+      "Charles A. Hawley for respondent."
+    ],
+    "corrections": "",
+    "head_matter": "Oliver Drake Smith, Respondent, v. Michael I. G. Zalinski, Impleaded, etc., Appellant.\nUnder the provisions of the Code of Civil Procedure (\u00a7 756 et seg.), where, after issue has been joined in an equity action, the plaintiff transfers his interest, the transferee may move to be substituted as plaintiff; and where, upon such motion, made with due notice to the defendant, an order of substitution is granted without directing supplemental pleadings, or an amendment of the complaint, aside from such substitution the question as to title in the substituted plaintiff is determined by the order, and may not be raised upon the trial; and this, although defendant made default upon the motion.\nIt seems that upon the hearing of such a motion the applicant must establish his ownership ; if it is disputed by defendant, the court may decide it, or if there be doubt, may deny the motion, and order the action to proceed without regard to the transfer. The court may also, in its discretion, order an amendment of the pleadings, or such supplemental pleadings as will present the question on trial.\nIt seems that if the action be one at law, and defendant contests the change of ownership, and demands that the issue be tried by jury, the court should order such supplemental pleadings.\nAs to whether, where the court decides the question in favor of substitution, and without permitting allegations to be framed which will let in the new issue at the trial, its order is re viewable here, quaere.\nIt seems that the legislature infringes no right of the defendant by not allowing an appeal to this court.\nIt seems also that such an order of substitution is not final and conclusive; it may be reviewed on appeal to the General Term, the motion may be renewed with the consent of the court, or without that consent, upon a new and different, state of facts, or where default was made, the default may be opened.\n(Argued December 14, 1883 ;\ndecided January 29, 1884.)\nAppeal from judgment of the General Term of the Supreme Court, in the fourth judicial department, entered upon an order made December 30, 1881, which affirmed a judgment in favor of plaintiff, entered \"upon the report of a referee. (Reported below, 26 Hun, 225.)\nThis action was brought to foreclose a mortgage executed by defendants Zalinski and wife.\nThe action was commenced by Gilman, the mortgagee, but after issue joined the court on motion made, on due notice to Zalinski, who alone appeared and answered, and on proof as the order recited that the present plaintiff had become vested \u201c with all the rights and cause of action of the plaintiff herein,\u201d granted an order substituting him as plaintiff, and directing the action to proceed in his name. Ho one appeared for Zalinski on the motion. On the trial, plaintiff offered in evidence the bond and mortgage and the order of substitution, and rested. Defendant\u2019s counsel moved for a non-suit on the ground that plaintiff had shown no title or interest in the mortgage, and that the complaint did not allege any interest in him, and so that he had established no right to recover. The motion was denied and defendant duly excepted.\nLouis Marshall for appellant.\nThe complaint must show how the right of action arose, and in what capacity the plaintiff sues. (Scofield v. Whitelegge, 49 N. Y. 259; Pattison v. Adams, 7 Hill, 126; Bond v. Mitchell, 3 Barb. 304; Vandenburgh v. Van Valkenburgh, 8 id. 257; Palmer v. Smedley, 28 id. 466; People v. Booth, 32 id. 397; People v. Ingersoll, 58 id. 33; People v. Fields, id. 507.) The order having been obtained by default does not constitute an adjudication upon the question of title. (Riggs v. Pursell, 74 N. Y. 370; St. John v. Covell, 10 How. 253; Emmett v. Bowers, 23 How. Pr. 300; St. John v. West, 4 id. 329; Arthur v. Griswold, 60 N. Y. 143; Dale v. Roosevelt, 8 Cow. 348; Forrest v. Forrest, 6 Duer, 102; De Graff v. Hovey, 16 Abb. Pr. 120; Gleason v. Florida, 9 Wall. 779; Clute v. Fitch, 25 Barb. 428; People, ex rel. Vogeler, v. Walsh, 87 N. Y. 481; Rockwell v. McGovern, 69 id. 294; Ely v. Cooke, 28 id. 374.) There is no allegation that Smith accepted the instrument, or that he assented, in writing, before the recording of the assignment, to accept the trust therein created. This was\"essential to its validity. (Laws of 1877, chap. 466, \u00a7 1; Pratt v. Stevens, 26 Hun, 229; Brennan v. Wilson, 71 N. Y. 502.) There was no competent evidence of an assignment. (Belden v. Meeker, 47 N. Y. 307; Carroll v. Carroll, 60 id. 123.)\nCharles A. Hawley for respondent.\nAfter the transfer of Gilman\u2019s interest it was competent for the court to direct the substitution of the present plaintiff. (Code of Civil Procedure, \u00a7 756.) The conviction of Gilman and his sentence for five years made it necessary. (2 R. S. 701, \u00a7 19.) Substitution should be made on the application of the assignee. (23 How. 300; 7 Hun, 74.) Ho amendment of the complaint was either necessary or proper; if it was, it can and should be made now, nunc fro tunc. Any mere irregularity is matter for a motion but not a ground of appeal. (Reeder v. Sayre, 70 N. Y. 180.) The fact, or the validity of the transfer, or the right of the present plaintiff to be substituted, could have been litigated by the defendant on the hearing of the motion; he was bound to litigate these questions there or not at all, and is bound by the decision there made. (Allen v. U. I. & E. R. R., 15 Hun, 82; Washoe Tool Co. v. Hibernia Ins. Co., 7 id. 74; 66 N. Y. 613; 44 id. 673; 29 Barb. 664; 44 N. Y. 672.) The order may be read in evidence and no other evidence of the present plaintiff\u2019s title is necessary. (1 Wait\u2019s Pr. 158; Washoe Tool Co. v. Hibernia Ins. Co., 7 Hun, 74; 66 N. Y. 613; Bond v. Smith, 4 Hun, 48; Ford v. David, 1 Bosw. 569, 571, 583-4, 601; Underhill v. Crawford, 29 Barb. 664; Isham v. Davison, 3 T. & C. 745; Moore v. Hamilton, 44 N. Y. 666, 672-3.)"
+  },
+  "file_name": "0519-01",
+  "first_page_order": 543,
+  "last_page_order": 550
+}

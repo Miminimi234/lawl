@@ -1,0 +1,625 @@
+{
+  "id": 1967440,
+  "name": "WHITE v. CHRYSLER CORPORATION; BUSCHLEN v. FORD MOTOR COMPANY",
+  "name_abbreviation": "White v. Chrysler Corp.",
+  "decision_date": "1984-12-28",
+  "docket_number": "Docket Nos. 69601, 71000",
+  "first_page": "192",
+  "last_page": "206",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "421 Mich. 192"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Mich.",
+    "id": 8790,
+    "name": "Michigan Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 49,
+    "name_long": "Michigan",
+    "name": "Mich."
+  },
+  "cites_to": [
+    {
+      "cite": "328 NW2d 592",
+      "category": "reporters:state_regional",
+      "reporter": "N.W.2d",
+      "year": 1982,
+      "opinion_index": -1
+    },
+    {
+      "cite": "121 Mich App 113",
+      "category": "reporters:state",
+      "reporter": "Mich. App.",
+      "case_ids": [
+        2232626
+      ],
+      "year": 1982,
+      "opinion_index": -1,
+      "case_paths": [
+        "/mich-app/121/0113-01"
+      ]
+    },
+    {
+      "cite": "414 Mich 872",
+      "category": "reporters:state",
+      "reporter": "Mich.",
+      "year": 1982,
+      "opinion_index": -1
+    },
+    {
+      "cite": "411 Mich 712",
+      "category": "reporters:state",
+      "reporter": "Mich.",
+      "case_ids": [
+        1945999
+      ],
+      "year": 1981,
+      "opinion_index": -1,
+      "case_paths": [
+        "/mich/411/0712-01"
+      ]
+    },
+    {
+      "cite": "419 Mich 956",
+      "category": "reporters:state",
+      "reporter": "Mich.",
+      "year": 1984,
+      "opinion_index": 0
+    },
+    {
+      "cite": "332 NW2d 507",
+      "category": "reporters:state_regional",
+      "reporter": "N.W.2d",
+      "year": 1983,
+      "opinion_index": 0
+    },
+    {
+      "cite": "122 Mich App 470",
+      "category": "reporters:state",
+      "reporter": "Mich. App.",
+      "case_ids": [
+        2231045
+      ],
+      "year": 1983,
+      "opinion_index": 0,
+      "case_paths": [
+        "/mich-app/122/0470-01"
+      ]
+    },
+    {
+      "cite": "328 NW2d 430",
+      "category": "reporters:state_regional",
+      "reporter": "N.W.2d",
+      "year": 1982,
+      "opinion_index": 0
+    },
+    {
+      "cite": "121 Mich App 518",
+      "category": "reporters:state",
+      "reporter": "Mich. App.",
+      "case_ids": [
+        2232573
+      ],
+      "year": 1982,
+      "opinion_index": 0,
+      "case_paths": [
+        "/mich-app/121/0518-01"
+      ]
+    },
+    {
+      "cite": "116 NW2d 789",
+      "category": "reporters:state_regional",
+      "reporter": "N.W.2d",
+      "year": 1962,
+      "opinion_index": 0
+    },
+    {
+      "cite": "367 Mich 651",
+      "category": "reporters:state",
+      "reporter": "Mich.",
+      "case_ids": [
+        1878445
+      ],
+      "year": 1962,
+      "opinion_index": 0,
+      "case_paths": [
+        "/mich/367/0651-01"
+      ]
+    },
+    {
+      "cite": "345 NW2d 164",
+      "category": "reporters:state_regional",
+      "reporter": "N.W.2d",
+      "year": 1984,
+      "pin_cites": [
+        {
+          "parenthetical": "dissenting opinion of Levin, J."
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "418 Mich 520",
+      "category": "reporters:state",
+      "reporter": "Mich.",
+      "case_ids": [
+        1971480
+      ],
+      "year": 1984,
+      "pin_cites": [
+        {
+          "page": "559",
+          "parenthetical": "dissenting opinion of Levin, J."
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mich/418/0520-01"
+      ]
+    },
+    {
+      "cite": "350 F2d 28",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        466962
+      ],
+      "year": 1965,
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/350/0028-01"
+      ]
+    },
+    {
+      "cite": "254 NW2d 759",
+      "category": "reporters:state_regional",
+      "reporter": "N.W.2d",
+      "year": 1977,
+      "opinion_index": 0
+    },
+    {
+      "cite": "400 Mich 425",
+      "category": "reporters:state",
+      "reporter": "Mich.",
+      "case_ids": [
+        1926695
+      ],
+      "year": 1977,
+      "opinion_index": 0,
+      "case_paths": [
+        "/mich/400/0425-01"
+      ]
+    },
+    {
+      "cite": "165 NW2d 436",
+      "category": "reporters:state_regional",
+      "reporter": "N.W.2d",
+      "year": 1968,
+      "opinion_index": 0
+    },
+    {
+      "cite": "14 Mich App 13",
+      "category": "reporters:state",
+      "reporter": "Mich. App.",
+      "case_ids": [
+        2048881
+      ],
+      "year": 1968,
+      "opinion_index": 0,
+      "case_paths": [
+        "/mich-app/14/0013-01"
+      ]
+    },
+    {
+      "cite": "251 NW 367",
+      "category": "reporters:state_regional",
+      "reporter": "N.W.",
+      "year": 1933,
+      "opinion_index": 0
+    },
+    {
+      "cite": "265 Mich 94",
+      "category": "reporters:state",
+      "reporter": "Mich.",
+      "case_ids": [
+        1854383
+      ],
+      "year": 1933,
+      "opinion_index": 0,
+      "case_paths": [
+        "/mich/265/0094-01"
+      ]
+    },
+    {
+      "cite": "130 NW2d 4",
+      "category": "reporters:state_regional",
+      "reporter": "N.W.2d",
+      "year": 1964,
+      "opinion_index": 0
+    },
+    {
+      "cite": "373 Mich 531",
+      "category": "reporters:state",
+      "reporter": "Mich.",
+      "case_ids": [
+        1901049
+      ],
+      "year": 1964,
+      "opinion_index": 0,
+      "case_paths": [
+        "/mich/373/0531-01"
+      ]
+    },
+    {
+      "cite": "248 Miss 416",
+      "category": "reporters:state",
+      "reporter": "Miss.",
+      "case_ids": [
+        1900805
+      ],
+      "weight": 2,
+      "year": 1964,
+      "opinion_index": 0,
+      "case_paths": [
+        "/miss/248/0416-01"
+      ]
+    },
+    {
+      "cite": "145 SW 16",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.",
+      "year": 1912,
+      "opinion_index": 0
+    },
+    {
+      "cite": "241 Mo 14",
+      "category": "reporters:state",
+      "reporter": "Mo.",
+      "case_ids": [
+        844986
+      ],
+      "year": 1912,
+      "opinion_index": 0,
+      "case_paths": [
+        "/mo/241/0014-01"
+      ]
+    },
+    {
+      "cite": "323 Mo 1089",
+      "category": "reporters:state",
+      "reporter": "Mo.",
+      "case_ids": [
+        8736453
+      ],
+      "weight": 2,
+      "year": 1929,
+      "opinion_index": 0,
+      "case_paths": [
+        "/mo/323/1089-01"
+      ]
+    },
+    {
+      "cite": "124 Cal Rptr 773",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr.",
+      "year": 1975,
+      "opinion_index": 0
+    },
+    {
+      "cite": "53 Cal App 3d 317",
+      "category": "reporters:state",
+      "reporter": "Cal. App. 3d",
+      "case_ids": [
+        4484775
+      ],
+      "year": 1975,
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-app-3d/53/0317-01"
+      ]
+    },
+    {
+      "cite": "37 Cal Rptr 441",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr.",
+      "year": 1964,
+      "opinion_index": 0
+    },
+    {
+      "cite": "225 Cal App 2d 636",
+      "category": "reporters:state",
+      "reporter": "Cal. App. 2d",
+      "case_ids": [
+        2140627
+      ],
+      "year": 1964,
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-app-2d/225/0636-01"
+      ]
+    },
+    {
+      "cite": "188 NW2d 260",
+      "category": "reporters:state_regional",
+      "reporter": "N.W.2d",
+      "year": 1971,
+      "opinion_index": 0
+    },
+    {
+      "cite": "32 Mich App 21",
+      "category": "reporters:state",
+      "reporter": "Mich. App.",
+      "case_ids": [
+        2097881
+      ],
+      "year": 1971,
+      "pin_cites": [
+        {
+          "page": "23"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mich-app/32/0021-01"
+      ]
+    },
+    {
+      "cite": "559 F2d 1030",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        942089
+      ],
+      "year": 1977,
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/559/1030-01"
+      ]
+    },
+    {
+      "cite": "30 ALR 1542",
+      "category": "reporters:specialty",
+      "reporter": "A.L.R.",
+      "year": 1977,
+      "opinion_index": 0
+    },
+    {
+      "cite": "7 Tenn 367",
+      "category": "reporters:state",
+      "reporter": "Tenn.",
+      "case_ids": [
+        11286603
+      ],
+      "year": 1881,
+      "pin_cites": [
+        {
+          "parenthetical": "see, also, Anno: Independent contractor- employer's fault, 30 ALR 1542"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/tenn/7/0295-01"
+      ]
+    },
+    {
+      "cite": "66 NW 3",
+      "category": "reporters:state_regional",
+      "reporter": "N.W.",
+      "year": 1896,
+      "opinion_index": 0
+    },
+    {
+      "cite": "64 Minn 22",
+      "category": "reporters:state",
+      "reporter": "Minn.",
+      "case_ids": [
+        1655367
+      ],
+      "year": 1896,
+      "opinion_index": 0,
+      "case_paths": [
+        "/minn/64/0022-01"
+      ]
+    },
+    {
+      "cite": "281 F Supp 460",
+      "category": "reporters:federal",
+      "reporter": "F. Supp.",
+      "case_ids": [
+        2791061
+      ],
+      "year": 1968,
+      "opinion_index": 0,
+      "case_paths": [
+        "/f-supp/281/0460-01"
+      ]
+    },
+    {
+      "cite": "386 P2d 698",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "case_ids": [
+        10578873
+      ],
+      "year": 1963,
+      "opinion_index": 0,
+      "case_paths": [
+        "/p2d/386/0698-01"
+      ]
+    },
+    {
+      "cite": "69 AD2d 79",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        3146486
+      ],
+      "year": 1979,
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/69/0079-01"
+      ]
+    },
+    {
+      "cite": "417 NYS2d 941",
+      "category": "reporters:state",
+      "reporter": "N.Y.S.2d",
+      "year": 1979,
+      "opinion_index": 0
+    },
+    {
+      "cite": "399 F2d 936",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        2140854
+      ],
+      "year": 1968,
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/399/0936-01"
+      ]
+    },
+    {
+      "cite": "369 F2d 288",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        2053149
+      ],
+      "year": 1966,
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/369/0288-01"
+      ]
+    },
+    {
+      "cite": "403 NE2d 440",
+      "category": "reporters:state_regional",
+      "reporter": "N.E.2d",
+      "year": 1980,
+      "opinion_index": 0
+    },
+    {
+      "cite": "49 NY2d 471",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        4374973
+      ],
+      "year": 1980,
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/49/0471-01"
+      ]
+    },
+    {
+      "cite": "78 ALR3d 910",
+      "category": "reporters:specialty",
+      "reporter": "A.L.R. 3d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "30 ALR 1502",
+      "category": "reporters:specialty",
+      "reporter": "A.L.R.",
+      "pin_cites": [
+        {
+          "page": "\u00a7 8"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "507 F2d 973",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        129974
+      ],
+      "year": 1975,
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/507/0973-01"
+      ]
+    },
+    {
+      "cite": "1969 PA 317",
+      "category": "reporters:neutral",
+      "reporter": "PA",
+      "weight": 4,
+      "opinion_index": 0
+    },
+    {
+      "cite": "311 NW2d 725",
+      "category": "reporters:state_regional",
+      "reporter": "N.W.2d",
+      "year": 1981,
+      "opinion_index": 0
+    },
+    {
+      "cite": "411 Mich 712",
+      "category": "reporters:state",
+      "reporter": "Mich.",
+      "case_ids": [
+        1945999
+      ],
+      "year": 1981,
+      "opinion_index": 0,
+      "case_paths": [
+        "/mich/411/0712-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 1177,
+    "char_count": 31101,
+    "ocr_confidence": 0.826,
+    "pagerank": {
+      "raw": 2.663744523769849e-07,
+      "percentile": 0.8251770663077268
+    },
+    "sha256": "0608a89f59426a2e2ab1c24869be746c5f2266ad5b75b7132f5dbd0d1b30a8b1",
+    "simhash": "1:b123c1b967508ef2",
+    "word_count": 5014
+  },
+  "last_updated": "2024-02-27T19:29:49.154056+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Williams, C.J., and Kavanagh, Ryan, Brickley, Cavanagh, and Boyle, JJ., concurred with Levin, J._"
+    ],
+    "parties": [
+      "WHITE v CHRYSLER CORPORATION BUSCHLEN v FORD MOTOR COMPANY"
+    ],
+    "opinions": [
+      {
+        "text": "Levin, J.\nGary Buschlen lost a .hand, and one of Fannie White\u2019s hands was seriously injured, while they were operating power presses for an outsource contractor employed to produce automobile parts by the Ford Motor Company, in Buschlen, and the Chrysler Corporation, in White. The outsource contractors, or their workers\u2019 compensation liability insurers, paid Buschlen\u2019s and White\u2019s medical expenses. The statute provides that workers\u2019 compensation benefits shall be paid for 215 weeks for the loss of a hand, and Buschlen received approximately $15,000. White, whose injury occurred after the statute was amended to provide for payment of weekly benefits for the \"duration of the disability,\u201d received approximately $52,000, including an amount paid upon redemption.\nExcept to the extent that payment of the 215-week specific benefit may aggregate an amount in excess of the income lost as a result of loss of a hand, the workers\u2019 compensation act does not compensate for payment for loss of non-vocational use of a hand, the inability to use the hand to drive an automobile or a golf ball, or to touch another person.\nThe act, however, provides that an injured worker may maintain an action against a person\u2014 other than the employer paying workers\u2019 compensation or a fellow employee \u2014 who is under a \"legal liability\u201d to the injured worker. Unless there is such a third person under a legal liability to the injured worker, he has no source of recovery for loss of the non-vocational use of the hand.\nThe question presented in the instant cases is whether Chrysler and Ford are subject to a legal liability to White and Buschlen as a result of acting negligently in entering into the outsource arrangements with the component parts manufacturers in whose employ White and Buschlen suffered their injury and loss. We hold that the automobile manufacturers were not under such a legal liability.\nRecovery is sought on the theories that Chrysler and Ford (i) negligently entrusted the die sets in the power presses to the component parts manufacturers, and (ii) negligently supplied them with chattels (the die sets) dangerous for the intended use.\nNegligent entrustment of a die set was considered by this Court in Fredericks v General Motors Corp, 411 Mich 712; 311 NW2d 725 (1981). In Fredericks, as in the instant cases, the automobile manufacturer entered into a contract with the manufacturer of the component part that contemplated the component manufacturer would have a die set made to produce the part according to the specifications of the contract. Although the die set was manufactured by or at the direction of the component manufacturer, title to the die set was deemed, under the terms of the contract, to have vested in the automobile manufacturer so that, if the component manufacturer was unable to continue production, the automobile manufacturer would have a legal right to recover possession of the dies. This would enable the automobile manufacturer to avoid interruption of production of automobiles because of a problem of a component manufacturer. Such a problem occurred in Fredericks when a labor dispute closed the component manufacturer. General Motors acquired possession of the dies and transferred them to Fredericks\u2019 employer. In the instant cases, neither Chrysler nor Ford obtained possession of the dies although, under their contracts with White\u2019s and Buschlen\u2019s employers, they had the right to do so.\nIn Fredericks, this Court concluded that Fredericks failed to demonstrate peculiarities of the component manufacturer sufficient to put General Motors on notice that the component manufacturer was likely to use the die set in an unsafe manner.\nAddressing the alternative argument that an unguarded die is unreasonably dangerous, the Court said that because the Michigan Occupational Safety and Health Act imposed on the employer of the worker the obligation to maintain conditions of work that are reasonably safe and healthful for employees and an unguarded die may be used in a reasonably safe manner in a guarded press, it could not be said as a matter of law that General Motors should have foreseen that the die would be used without guards. We held that an automobile manufacturer did not have an obligation to place guards on a die set or to warn the component manufacturer of hazards attendant in its use. That decision is determinative of Buschlen\u2019s claim that Ford negligently supplied a defective chattel._\nWorkplace safety, at common law and under MIOSHA, is the responsibility of the workers\u2019 employer, of the component manufacturer in the instant cases. There is, however, generally no tort liability for failure to measure up to that responsibility. The employer, as a trade-off for the obligation to secure the payment of workers\u2019 compensation benefits, is relieved of tort liability under the provision of the workers\u2019 compensation act that makes a claim for workers\u2019 compensation the injured worker\u2019s exclusive remedy against the employer.\nIn Fredericks and in the instant cases, the plaintiffs seek to impose tort liability for failure to provide workplace safety by treating the act of contracting for the manufacture of a die set where there is title retention by the automobile manufacturer as imposing on the manufacturer the obligation to provide for job safety in respect to the use of the die set.\nWhile employers of contractors have been held responsible for harm caused to injured workers as well as visitors or pedestrians as a result of defective work on premises, there is an absence of authority for the imposition of tort liability on an employer for a contractor\u2019s failure to observe workplace safety precautions at a location other than premises owned by the employer of the contractor.\nImposition of tort liability in the instant cases on the basis of the doctrine of negligent entrustment would require an expansion of that doctrine which heretofore has been applied only where the chattel has been physically entrusted to the incompetent person. The negligent entrustment doctrine was developed in cases where articles, such as guns, were entrusted to children, and automobiles were entrusted to inexperienced drivers. In Fredericks, the die sets were physically transferred by General Motors to Fredericks\u2019 employer. In the instant cases, neither Chrysler nor Ford entrusted the die sets to the component manufacturers. To be sure, the contracts between Chrysler/Ford and the component manufacturers contemplated and, in effect, required them to have die sets manufactured to produce the component parts required by the contracts; however, neither Chrysler nor Ford \u201dsupplie[d] directly or through a third person\u201d the die sets. If we were to hold that there was liability in the instant cases, we would be saying in effect that whenever a contract is entered into contemplating the use of tools, equipment, implements or other chattels to produce a part or a service, the employer of the contractor would be deemed to have supplied the implement.\nThe doctrine of negligent entrustment concerns the supply of chattels that involve an \"unreasonable risk of physical harm to himself [the person to whom the chattel is entrusted] and others whom the supplier should expect to share in or be endangered by its use.\u201d A gun entrusted to a child, an automobile entrusted to an inexperienced driver, poses an unreasonable risk of physical harm to the child or inexperienced driver and to others. In the instant cases, there is no suggestion that in entering into the contracts with the component manufacturers, Chrysler and Ford exposed the \"entrustee,\u201d the component manufacturer, to a risk of physical harm. Thus, to permit recovery in the instant cases it would be necessary to eliminate as an element of negligent entrustment that the chattel entrusted is dangerous to the person to whom it is entrusted as well as to others.\nFurther, in order to make this theory of recovery effective, it would be necessary to impose on the employer of the contractor, Chrysler and Ford in the instant cases, a duty to make themselves aware of peculiarities of the contractor that would put them on notice of a likelihood that the contractor would use the chattel in an unsafe manner. Here, as in Fredericks, there is no evidence that Chrysler or Ford had \"reason to know\u201d of such a likelihood.\nThe theory of recovery urged in the instant cases would apply without regard to whether the chattel was inherently dangerous or the contractor was incompetent within the meaning of the negligent-hiring doctrine. It would impose responsibility where, on reasonable inquiry, the employer of the contractor could have determined that the contractor had not or might not observe reasonable safety precautions for the protection of workers in respect to the use of a chattel necessary to perform the work.\nAdoption of the proposed theory of recovery would subject employers of contractors to tort liability for the failure of the contractor to observe job safety precautions in respect to the use of tools, equipment, implements, and other chattels. Since tools, equipment, implements and other chattels are used in most production, and their use or misuse is involved in a large number of accidents caused by the failure to observe job safety precautions, adoption of the proposed theory of recovery would radically transform the legal responsibility for job safety. An employer of a contractor would become accountable in a tort action \u2014 to be sure on the premise that the employer of the contractor had not made due inquiry concerning the contractor\u2019s job safety program \u2014 for the contractor\u2019s failure to observe job safety precautions in respect to the use of chattels in production.\nWe would not be justified in so transforming the responsibility for the observance of job safety precautions. The common law and the Legislature impose responsibility for job safety on the contractor, not on the employer of the contractor. However, because of the bar of the exclusive remedy provision of the workers\u2019 compensation act, there generally is no tort liability for failure to provide workplace safety. The proposed theory of liability would evolve a special rule for the benefit only of employees of a contractor injured as a result of the use of chattels in production pursuant to an outsource contract. A common-law cause of action should not be evolved solely or primarily to avoid a statutory limitation. We are not persuaded that such a special rule for the benefit only of a discrete class of seriously injured workers is justified.\nThe concepts of economic reality and enterprise responsibility cut both in favor of and against imposing liability on the automobile manufacturers. While the automobile manufacturer, by employing component manufacturers, started in motion the events that led to the injuries and loss of hands, the cost of providing workers\u2019 compensation benefits was, presumably, included in the price paid by Chrysler and Ford to the component manufacturers; as a matter of economic reality, Chrysler and Ford paid for the cost of providing the workers\u2019 compensation benefits provided White and Buschlen. On this basis, Professor Larson has argued, and in most jurisdictions the rule is, that the employer of a contractor, subject to the obligation to pay workers\u2019 compensation benefits, may not be held responsible as a third-party defendant in a tort action. Enterprise responsibility in those jurisdictions means enterprise immunity from tort liability.\nThe argument seeking to impose tort liability on the employer of a contractor based on economic reality/enterprise responsibility says that the component part manufacturer is not, as a matter of economic reality, sufficiently independent of the automobile manufacturer to free the automobile manufacturer of tort liability in respect to the failure of the component part manufacturer to maintain job safety, but, nevertheless, is sufficiently independent of the automobile manufacturer so that a tort action against the automobile manufacturer is not barred by the exclusive remedy provision.\nIn this connection, it is noteworthy that the automobile manufacturer would not be subject to tort liability if it had ordered the dies and produced the parts in its own plants; the automobile manufacturer would have been subject only to the obligation to pay workers\u2019 compensation benefits. Outsourcing does not relieve Chrysler or Ford of tort responsibility that they otherwise would be subject to.\nThe absence of tort liability or other reparations for loss not covered by workers\u2019 compensation benefits caused by the failure to observe job safety precautions results in the undercompensation of many seriously injured workers. The larger problem of uncompensated loss for industrial injury or disease remains unresolved, and a solution may be impeded, by allowing a finite number of seriously injured workers to recover for loss not covered by workers\u2019 compensation benefits. This social problem deserves a broader solution than patchwork by this Court.\nReversed in White and affirmed in Buschlen.\nWilliams, C.J., and Kavanagh, Ryan, Brickley, Cavanagh, and Boyle, JJ., concurred with Levin, J._\nBuschlen\u2019s workers\u2019 compensation file indicates that he was injured March 5, 1969, before the effective date of 1969 PA 317, and that he was paid $67.73 for 215 weeks for a total of $14,561.95.\n1969 PA 317, MCL 418.351; MSA 17.237(351), MCL 418.361; MSA 17.237(361).\nWhite was injured May 13, 1973, after the effective date of 1969 PA 317 and received, at the rate of $78.67 per week, benefits aggregating $34,536.13 for injuries described as laceration of her left hand.\nWhile 1969 PA 317 continues a provision of the original 1912 act (1912) [1st Ex Sess] PA 10) in providing for the payment of benefits for 215 weeks, it also provides, in contrast with the earlier act: \"Compensation shall be paid for the duration of the disability.\u201d MCL 418.361; MSA 17.237(361).\nWhite\u2019s claim for benefits under the act was redeemed October 15, 1969 for $18,000 for a total payment to her of $52,536.13 on the understanding that the employer would waive its lien provided for in MCL 418.827; MSA 17.237(827), in respect to a third-party claim.\nMCL 418.827; MSA 17.237(827).\nSee MCL 408.1009-408.1011; MSA 17.50(9)-17.50(11).\nBuschlen\u2019s supplier theory is outlined in 2 Restatement Torts, 2d, \u00a7392:\n\"One who supplies to another, directly or through a third person, a chattel to be used for the supplier\u2019s business purposes is subject to liability to those for whose use the chattel is supplied, or to those whom he should expect to be endangered by its probable use, for physical harm caused by the use of the chattel in the manner for which and by persons for whose use the chattel is supplied\n\"(a) if the supplier fails to exercise reasonable care to make the chattel safe for the use for which it is supplied, or\n\"(b) if he fails to exercise reasonable care to discover its dangerous condition or character, and to inform those whom he should expect to use it.\u201d\nMCL 418.131; MSA 17.237(131). MIOSHA does not provide a tort remedy. See Lynes, Relationship between OSHA and the law of torts, in Proceedings of the ABA National Institute on Occupational Safety & Health Law (ABA Press, 1976), pp 56-57. See also Jeter v St Regis Paper Co, 507 F2d 973 (CA 5, 1975).\nSee Anno: Independent contractor: liability of employer as predicated on the ground of his personal fault, 30 ALR 1502, \u00a7 8; Anno: Negligence in hiring independent contractors, 78 ALR3d 910; 2 Restatement Torts, 2d, \u00a7 411, Comment f.\nWe have found no authority holding the employer of a contractor responsible for maintaining the safety of production methods used in a contractor\u2019s routine operations carried out at the contractor\u2019s ordinary place of business.\nWe have found no case where liability for failure to observe workplace safety precautions was imposed on the employer of a contractor on the basis of negligent entrustment. Nor have we found a case in which liability was imposed on the seller of a tool used in manufacturing. To the contrary, in Robinson v Reed-Prentice Div of Packaging Machine Co, 49 NY2d 471; 403 NE2d 440 (1980), the plaintiffs hand was injured in a molding machine supplied by the defendant. Before the injury, the plaintiffs employer modified the machine in a manner that resulted in plaintiff\u2019s injury. There was evidence, however, that the defendant knew that the plaintiffs employer would so modify the machine. The majority held that the alteration precluded \u00a7 390 liability but concern was expressed about negligent entrustment being used in a novel manner to expand drastically manufacturer liability:\n\"Acceptance of plaintiffs concept of duty would expand the scope of a manufacturer\u2019s duty beyond all reasonable bounds and would be tantamount to imposing absolute liability on manufacturers for all product-related injuries. . . . [Tjhat an employee may have no remedy in tort against his employer gives the courts no license to thrust upon a third-party manufacturer a duty to insure that its products will not be abused.\u201d Robinson, supra, p 481.\nCourts are split on whether an employee of a contractor may bring an action against the employer of the contractor based on the employer\u2019s negligent selection of the contractor, where the alleged incompetence concerned the contractor\u2019s unsafe production methods. Courts have refused to allow such actions in the following jurisdictions: New York: Lipka v United States, 369 F2d 288 (CA 2, 1966); Jones v United States, 399 F2d 936 (CA 2, 1968); Guyot v Al Charyn, Inc, 417 NYS2d 941; 69 AD2d 79 (1979); Alaska: Matanuska Electric Ass\u2019n v Johnson, 386 P2d 698 (Alas, 1963); South Dakota: Hagberg v City of Sioux Falls, 281 F Supp 460 (D SD, 1968); Minnesota: Schip v Pabst Brewing Co, 64 Minn 22; 66 NW 3 (1896); Tennessee: Knoxville Iron Co v Dodson, 7 Tenn 367 (1881) (see, also, Anno: Independent contractor\u2014 employer\u2019s fault, 30 ALR 1542); federal cases: Hess v Upper Mississippi Towing Corp, 559 F2d 1030 (CA 5, 1977).\nIn Fecteau v Wolco Homes, Inc, 32 Mich App 21, 23; 188 NW2d 260 (1971), the Court of Appeals held insufficient to state a claim the plaintiffs \"charg[e] that [the general contractor] breached duties owed plaintiff ... to provide him with a safe place to work and proper supervision.\u201d\nIntermediate California appellate courts have allowed such actions in Gettemy v Star House Movers, Inc, 225 Cal App 2d 636; 37 Cal Rptr 441 (1964), and in Holman v State, 53 Cal App 3d 317; 124 Cal Rptr 773 (1975). Similarly, see Baker v Scott County Milling Co, 323 Mo 1089; 20 SW2d 494 (1929), overruling Salmon v Kansas City, 241 Mo 14; 145 SW 16 (1912). See also Whatley v Delta Brokerage & Warehouse Co, 248 Miss 416; 159 So 2d 634 (1964).\nNone of the cases that allowed an employee to bring an action adverted to whether the concept of competency includes the contractor\u2019s competence to maintain a safe workplace, or whether competency is limited to the contractor\u2019s competence to produce a satisfactory end product.\n2 Restatement Torts, 2d, \u00a7 390 provides:\n\"One who supplies directly or through a third person a chattel for the use of another whom the supplier knows or has reason to know to be likely because of his youth, inexperience, or otherwise, to use it in a manner involving unreasonable risk of physical harm to himself and others whom the supplier should expect to share in or be endangered by its use, is subject to liability for physical harm resulting to them. (Emphasis added.)\nSee also Perin v Peuler, 373 Mich 531; 130 NW2d 4 (1964); Tanis v Eding, 265 Mich 94; 251 NW 367 (1933); Chapman v Buder, 14 Mich App 13; 165 NW2d 436 (1968); Moning v Aliono, 400 Mich 425; 254 NW2d 759 (1977).\n2 Restatement Torts, 2d, \u00a7 390. See also United States v Page, 350 F2d 28 (CA 10, 1965), where the court held that a \"technical\u201d owner, who neither exercised control over nor possessed an object, could not \"supply\u201d it.\nWere we to hold that negligent entrustment does not require a physical transfer and that mere retention of title is sufficient to warrant liability for negligent entrustment, an employer of a contractor might seek to avoid liability by using security agreements, purchase options, or contractual provisions to retain the right to regain possession.\n2 Restatement Torts, 2d, \u00a7 390. (Emphasis added.)\nActions for negligent entrustment are therefore precluded in most institutional settings. This does not bar the \"traditional\u201d uses of negligent entrustment (see fn 10 supra), nor does it preclude an action based on the negligent selection of an incompetent contractor (see 2 Restatement Torts, 2d, \u00a7 411).\n\"Where ignorance is bliss, 'Tis folly to be wise.\u201d Thomas Gray, On a Distant Prospect of Eton College, Stanza 10 (1742), from Bartlett, Familiar Quotations (14th ed), p 439.\nAbsent a duty to investigate, an automobile manufacturer could, through ignorance, avoid liability. Subjecting employers of contractors to the potential of liability, without the imposition of a duty to investigate, would encourage automobile manufacturers to avoid their contractors\u2019 workplaces. The economic benefits of inspections by the automobile manufacturers would be lost, but production safety would not be enhanced, and workers would not obtain a viable source of recovery for loss not compensated by the workers\u2019 compensation act.\n1 Restatement Torts, 2d, \u00a7 12 provides:\n\"(1) The words 'reason to know\u2019 are used throughout the Restatement of this Subject to denote the fact that the actor has information from which a person of reasonable intelligence or of the superior intelligence of the actor would infer that the fact in question exists, or that such person would govern his conduct upon the assumption that such fact exists.\n\"(2) The words 'should know\u2019 are used throughout the Restatement of this Subject to denote the fact that a person of reasonable prudence and intelligence or of the superior intelligence of the actor would ascertain the fact in question in the performance of his duty to another, or would govern his conduct upon the assumption that such fact exists.\u201d\nWhite and Buschlen do not seek to impose liability on Chrysler or Ford on the basis that a die set is inherently dangerous (2 Restatement Torts, 2d, \u00a7 416) or that they failed to exercise reasonable care to employ a careful and competent contractor (2 Restatement Torts, 2d, \u00a7 411).\nSee 2A Larson, Workmen\u2019s Compensation Law, \u00a7 72.31(a), pp 14-111 ff. and Dagenhardt v Special Machine & Engineering, Inc, 418 Mich 520, 559; 345 NW2d 164 (1984) (dissenting opinion of Levin, J.).\nCf. Pettaway v McConaghy, 367 Mich 651; 116 NW2d 789 (1962); Maki v Copper Range Co, 121 Mich App 518; 328 NW2d 430 (1982).\nSee also Genson v Bofors-Lakeway, Inc, 122 Mich App 470; 332 NW2d 507 (1983), lv den 419 Mich 956 (1984).",
+        "type": "majority",
+        "author": "Levin, J."
+      }
+    ],
+    "attorneys": [
+      "Charfoos, Christensen & Archer, P.C. (by Adrienne G. Southgate), for plaintiff White.",
+      "Dice, Sweeney, Sullivan, Feikens,_ Hurbis & Foster, P.C. (by Dale L. Hebert), for defendant Chrysler Corporation.",
+      "Philo, Atkinson, Steinberg, Walker & White (by Harry M. Philo and Richard L. Steinberg) for plaintiff Buschlen.",
+      "Harvey, Kruse, Westen & Milan, P.C. (by John A. Kruse and Michael F. Schmidt), and Martin, Bacon & Martin, P.C. (by James N. Martin), for defendant Ford Motor Company.",
+      "Amici Curiae:",
+      "Plunkett, Cooney, Rutt, Watters, Stanczyk & Pedersen, P.C. (by James R. Kohl), for Association of Defense Trial Counsel and Michigan Defense Counsel, Inc.",
+      "Goodman, Eden, Millender & Bedrosian (by Paul A. Rosen) for Michigan Trial Lawyers Association."
+    ],
+    "corrections": "",
+    "head_matter": "WHITE v CHRYSLER CORPORATION BUSCHLEN v FORD MOTOR COMPANY\nDocket Nos. 69601, 71000.\nArgued April 5,1984\n(Calendar Nos. 12,13).\nDecided December 28, 1984.\nReleased January 29,1985.\nRehearing denied in Buschlen, post, 1202.\nGlenn Buschlen, for himself, and as next friend of his minor son, Gary Buschlen, brought an action in the Huron Circuit Court against the Ford Motor Company, seeking damages arising out of injuries received by Gary Buschlen in the course of his employment with Sebewaing Industries, which had contracted with Ford to supply certain automobile parts, using dies designed according to Ford\u2019s specifications. The plaintiffs alleged that Ford negligently entrusted the dies to Sebewaing. The court, M. Richard Knoblock, J., entered judgment on a jury verdict for the plaintiffs. The Court of Appeals, R. M. Maher, P.J., and R. B. Burns and M. J. Kelly, JJ., affirmed (Docket No. 49174). The Supreme Court, in lieu of granting leave to appeal, vacated the judgment of the Court of Appeals and remanded the case to the Court of Appeals for reconsideration in light of the holding in Fredericks v General Motors Corp, 411 Mich 712 (1981), that to sustain a cause of action for negligent entrustment it must be shown that the defendant knew or should have known of the propensity of the entrusted party for taking unreasonable risks. 414 Mich 872 (1982). On remand, the Court of Appeals, R. M. Maher, P.J., and R. B. Burns and M. J. Kelly, JJ., reversed (Docket No. 66128). The plaintiffs appeal.\nFannie White brought an action in the Wayne Circuit Court against Chrysler Corporation for damages resulting from the injury of her hand while operating a power press in the course of her employment with Nelson Industries, Inc., which had contracted to supply certain automobile parts to the Chrysler Corporation, using dies designed according to Chrysler\u2019s specifications. The plaintiff alleged that Chrysler negligently entrusted the dies to Nelson. The court, Patrick J. Duggan, J., entered judgment on a jury verdict for the plaintiff. The Court of Appeals, N. J. Kaufman, P. J., and V. J. Brennan and TahvoJJ., affirmed in an unpublished opinion per curiam, holding that the proofs offered at trial were sufficient under the holding in Fredericks (Docket No. 50265). The defendant appeals.\nReference for Points in Headnotes\n[1, 2] 7A Am Jur 2d, Automobiles and Highway Traffic \u00a7 717 et seq.\nIn a unanimous opinion by Justice Levin, the Supreme Court held:\nThe automobile manufacturers are not liable to the employees of the component parts manufacturers for injuries received in manufacturing the components.\n1. The automobile manufacturers entered into contracts with the plaintiffs\u2019 employers to manufacture component parts. It was contemplated that the parts manufacturers would have die sets made to produce the parts according to contract specifications. Under the terms of the contracts, title to the die sets vested in the automobile manufacturers, but they did not take possession of the dies. On the basis of title retention by the automobile manufacturers, the plaintiffs seek to impose an obligation to provide workplace safety in respect to the use of the dies and allege liability for failure to do so.\n2. Imposition of tort liability upon the defendants on the basis of the doctrine of negligent entrustment would require an expansion of the doctrine which developed where chattels had been physically entrusted to incompetent persons such as in cases in which articles,' such as guns, were entrusted to children or automobiles to inexperienced drivers. In these cases neither Ford nor Chrysler entrusted the die sets to the component parts manufacturers. There is no suggestion that in entering into the contracts with the component manufacturers that they exposed the component manufacturers to a risk of physical harm. To be effective in these cases, the doctrine would require imposition on Ford and Chrysler of a duty to make themselves aware of the peculiarities of their contractors that would put them on notice of a likelihood that the contractors would use the chattels in an unsafe manner.\n3. Adoption of the theory of recovery proposed by the plaintiffs would subject employers of contractors to tort liability for the failure of the contractor to observe job safety precautions in respect to the use of tools, equipment, implements, and other chattels. Since tools, equipment, implements, and other chattels are used in most production, and their use or misuse is involved in a large number of accidents caused by the failure to observe job safety precautions, adoption of the proposed theory of recovery would radically transform the legal responsibility for job safety. An employer of a contractor would become accountable in a tort action for the contractor\u2019s failure to observe job safety precautions in respect to the use of chattels in production. Such transformation of the responsibility for the observance of job safety precautions is not justified. The common law and the Legislature impose responsibility for job safety on the contractor, not on the employer of the contractor. However, because of the bar of the exclusive remedy provision of the workers\u2019 compensation act, there generally is no tort liability for failure to provide workplace safety. The proposed theory of liability would evolve a special rule for the benefit only of employees of a contractor injured as a result of the use of chattels in production of component parts under a contract with another manufacturer. A common-law cause of action should not be evolved solely or primarily to avoid a statutory limitation. Such a special rule for the benefit only of a discrete class of seriously injured workers is not justified.\n4. The argument seeking to impose tort liability on the employer of a contractor based on economic reality/enterprise responsibility maintains that the component part manufacturer is not, as a matter of economic reality, sufficiently independent of the automobile manufacturer to free the automobile manufacturer of tort liability in respect to the failure of the component part manufacturer to maintain job safety, but, nevertheless, is sufficiently independent of the automobile manufacturer so that a tort action against the automobile manufacturer is not barred by the exclusive remedy provision.\nWhite, reversed.\nBuschlen, affirmed.\n121 Mich App 113; 328 NW2d 592 (1982) affirmed.\n1. Negligence \u2014 Negligent Entrustment.\nAutomobile manufacturers that contracted with component parts manufacturers to supply automobile parts according to specifications required by the automobile manufacturers were not liable to employees of the component parts manufacturers under the doctrine of negligent entrustment for injuries received in the manufacture of the parts where no chattels were entrusted by the automobile manufacturers to the component parts manufacturers, even though the component parts manufacturers had dies made to manufacture the parts according to the specifications and title to the dies vested in the automobile manufacturers.\n2. Negligence \u2014 Negligent Entrustment \u2014 Knowledge of Unreasonable Risk.\nTo subject a party to liability for negligently entrusting a chattel to another party whose use of the chattel resulted in injury and loss, a plaintiff must prove that the party that entrusted the chattel knew or should have known of the propensities of the entrusted party for taking unreasonable risks.\nCharfoos, Christensen & Archer, P.C. (by Adrienne G. Southgate), for plaintiff White.\nDice, Sweeney, Sullivan, Feikens,_ Hurbis & Foster, P.C. (by Dale L. Hebert), for defendant Chrysler Corporation.\nPhilo, Atkinson, Steinberg, Walker & White (by Harry M. Philo and Richard L. Steinberg) for plaintiff Buschlen.\nHarvey, Kruse, Westen & Milan, P.C. (by John A. Kruse and Michael F. Schmidt), and Martin, Bacon & Martin, P.C. (by James N. Martin), for defendant Ford Motor Company.\nAmici Curiae:\nPlunkett, Cooney, Rutt, Watters, Stanczyk & Pedersen, P.C. (by James R. Kohl), for Association of Defense Trial Counsel and Michigan Defense Counsel, Inc.\nGoodman, Eden, Millender & Bedrosian (by Paul A. Rosen) for Michigan Trial Lawyers Association."
+  },
+  "file_name": "0192-01",
+  "first_page_order": 344,
+  "last_page_order": 358
+}

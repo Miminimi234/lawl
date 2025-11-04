@@ -1,0 +1,511 @@
+{
+  "id": 546231,
+  "name": "John Keck, Sr., et al., Respondents, v. John Werder, William M. Gray, Assignee, etc., Appellant",
+  "name_abbreviation": "Keck v. Werder",
+  "decision_date": "1881-10-04",
+  "docket_number": "",
+  "first_page": "264",
+  "last_page": "270",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "86 N.Y. 264"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "N.Y.",
+    "id": 24653,
+    "name": "New York Court of Appeals"
+  },
+  "jurisdiction": {
+    "id": 1,
+    "name_long": "New York",
+    "name": "N.Y."
+  },
+  "cites_to": [
+    {
+      "cite": "55 N. Y. 299",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        517300
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny/55/0299-01"
+      ]
+    },
+    {
+      "cite": "4 Rob. 621",
+      "category": "reporters:state",
+      "reporter": "Rob.",
+      "case_ids": [
+        1403070
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny-super-ct/27/0621-01"
+      ]
+    },
+    {
+      "cite": "9 How. 140",
+      "category": "reporters:scotus_early",
+      "reporter": "How.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "3 B. R. 123",
+      "category": "reporters:specialty",
+      "reporter": "B.R.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "73 N. Y. 264",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        2169734
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny/73/0264-01"
+      ]
+    },
+    {
+      "cite": "38 How. Pr. 343",
+      "category": "reporters:state",
+      "reporter": "How. Pr.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "5 Johns. Ch. 60",
+      "category": "reporters:state",
+      "reporter": "Johns. Ch.",
+      "case_ids": [
+        1980768
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/johns-ch/5/0060-01"
+      ]
+    },
+    {
+      "cite": "2 Sandf. Ch. 494",
+      "category": "reporters:state",
+      "reporter": "Sand. Ch.",
+      "case_ids": [
+        2164689
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/sand-ch/2/0494-01"
+      ]
+    },
+    {
+      "cite": "2 Barb. Ch. 596",
+      "category": "reporters:state",
+      "reporter": "Barb. Ch.",
+      "case_ids": [
+        1995770
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/barb-ch/2/0596-01"
+      ]
+    },
+    {
+      "cite": "38 How. Pr. 341",
+      "category": "reporters:state",
+      "reporter": "How. Pr.",
+      "case_ids": [
+        4457833
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "363"
+        }
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/how-pr/38/0341-01"
+      ]
+    },
+    {
+      "cite": "3 B. R. 524",
+      "category": "reporters:specialty",
+      "reporter": "B.R.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "16 Hun, 404",
+      "category": "reporters:state",
+      "reporter": "Hun,",
+      "opinion_index": -1
+    },
+    {
+      "cite": "35 Barb. 120",
+      "category": "reporters:state",
+      "reporter": "Barb.",
+      "case_ids": [
+        5780350
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/barb/35/0120-01"
+      ]
+    },
+    {
+      "cite": "66 N. Y. 558",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        2163527
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny/66/0558-01"
+      ]
+    },
+    {
+      "cite": "2 N. Y. 128",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "7 Johns. 182",
+      "category": "reporters:state",
+      "reporter": "Johns.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "39 Sup. Ct. 27",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        3689535
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/us/248/0073-01"
+      ]
+    },
+    {
+      "cite": "15 Johns. 21",
+      "category": "reporters:state",
+      "reporter": "Johns.",
+      "case_ids": [
+        2140897
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/johns/15/0021-01"
+      ]
+    },
+    {
+      "cite": "7 Cranch, 332",
+      "category": "reporters:scotus_early",
+      "reporter": "Cranch,",
+      "case_ids": [
+        572775
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/us/11/0332-01"
+      ]
+    },
+    {
+      "cite": "17 Johns. 405",
+      "category": "reporters:state",
+      "reporter": "Johns.",
+      "case_ids": [
+        6065145
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/johns/17/0319-01"
+      ]
+    },
+    {
+      "cite": "29 N. Y. 220",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        2038646
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny/29/0220-01"
+      ]
+    },
+    {
+      "cite": "11 B. R. 472",
+      "category": "reporters:specialty",
+      "reporter": "B.R.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "55 N. Y. 652",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        517297
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny/55/0652-01"
+      ]
+    },
+    {
+      "cite": "33 Tex. 668",
+      "category": "reporters:state",
+      "reporter": "Tex.",
+      "case_ids": [
+        2141544
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/tex/33/0668-01"
+      ]
+    },
+    {
+      "cite": "101 Mass. 109",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "case_ids": [
+        2144860
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/mass/101/0109-01"
+      ]
+    },
+    {
+      "cite": "4 B. R. 446",
+      "category": "reporters:specialty",
+      "reporter": "B.R.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "2 Story, 158",
+      "category": "reporters:federal",
+      "reporter": "Story",
+      "opinion_index": -1
+    },
+    {
+      "cite": "64 Penn. St. 74",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1021262
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/64/0074-01"
+      ]
+    },
+    {
+      "cite": "14 Blatchf. 328",
+      "category": "reporters:federal",
+      "reporter": "Blatchf.",
+      "case_ids": [
+        6631888
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/f-cas/12/0639-01"
+      ]
+    },
+    {
+      "cite": "9 B. R. 360",
+      "category": "reporters:specialty",
+      "reporter": "B.R.",
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "450"
+        }
+      ],
+      "opinion_index": -1
+    },
+    {
+      "cite": "3 Johns. 543",
+      "category": "reporters:state",
+      "reporter": "Johns.",
+      "case_ids": [
+        2129899
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/johns/3/0543-01"
+      ]
+    },
+    {
+      "cite": "1 Barb. Ch. 246",
+      "category": "reporters:state",
+      "reporter": "Barb. Ch.",
+      "case_ids": [
+        1994057
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/barb-ch/1/0246-01"
+      ]
+    },
+    {
+      "cite": "1 Sandf. Ch. 135",
+      "category": "reporters:state",
+      "reporter": "Sand. Ch.",
+      "case_ids": [
+        2163609
+      ],
+      "pin_cites": [
+        {
+          "page": "138"
+        }
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/sand-ch/1/0135-01"
+      ]
+    },
+    {
+      "cite": "16 N. Y. 196",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "weight": 2,
+      "opinion_index": -1
+    },
+    {
+      "cite": "11 Pai. 327",
+      "category": "reporters:state",
+      "reporter": "Paige Ch.",
+      "case_ids": [
+        11280992
+      ],
+      "pin_cites": [
+        {
+          "page": "329"
+        }
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/paige-ch/11/0327-01"
+      ]
+    },
+    {
+      "cite": "4 B. R. 212",
+      "category": "reporters:specialty",
+      "reporter": "B.R.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "9 Wall. 664",
+      "category": "reporters:scotus_early",
+      "reporter": "Wall.",
+      "case_ids": [
+        3441537
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/us/76/0664-01"
+      ]
+    },
+    {
+      "cite": "10 B. R. 424",
+      "category": "reporters:specialty",
+      "reporter": "B.R.",
+      "case_ids": [
+        6534113
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "472"
+        }
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/br/10/0424-01"
+      ]
+    },
+    {
+      "cite": "41 How. Pr. 389",
+      "category": "reporters:state",
+      "reporter": "How. Pr.",
+      "case_ids": [
+        4460052
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/how-pr/41/0389-01"
+      ]
+    },
+    {
+      "cite": "40 N. Y. 342",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        503165
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny/40/0342-01"
+      ]
+    },
+    {
+      "cite": "41 N. Y. 358",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        2045715
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny/41/0358-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 718,
+    "char_count": 11628,
+    "ocr_confidence": 0.493,
+    "pagerank": {
+      "raw": 9.945200794327469e-08,
+      "percentile": 0.5367139165256353
+    },
+    "sha256": "39b8888bf46a62a8c7bd721016145ab3b6bf939ae20525cafd5627ddc18bf82b",
+    "simhash": "1:b2036d4fce99c0fe",
+    "word_count": 2098
+  },
+  "last_updated": "2024-02-27T20:42:53.385782+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "John Keck, Sr., et al., Respondents, v. John Werder, William M. Gray, Assignee, etc., Appellant."
+    ],
+    "opinions": [
+      {
+        "text": "Rapallo, J.\nThis was an application, on petition, by the assignee in bankruptcy of John \"Werder, the defendant, to vacate a judgment entered in the above entitled action against Werder on the 31st of May, 1877, and let the petitioner in to defend, and to compel the plaintiffs, their attorney, and the referee in the action, to pay into court certain moneys which had, under said judgment and orders of the court, been paid to them by the receiver in said action. Also, to revive the action against the representatives of one of the original plaintiffs, who had died since the entry of the judgment. The motion was denied at Special Term and the order was affirmed at General Term.\nThe action was brought for an accounting and winding up of a partnership between the plaintiffs and defendant and for damages sustained by the plaintiffs by reason of false representations of the defendant respecting certain choses in action, a half interest in which he sold to the plaintiffs in and by the partnership agreement, and for which interest and an interest in certain chattels, the plaintiffs paid him the sum of fourteen thousand dollars.\nIssues respecting the alleged frauds were, by order of the court, framed, and tried by a jury, and the trial resulted in a verdict for the plainti^s of $6,255.41 in May, 1873. A receiver of the partnership assets was appointed, and the net amount which came to his hands was about $15,000, of which each partner was found upon an accounting before a referee to be entitled to one-half. \u25a0 Out of this fund the referee\u2019s fees, amounting to $2,500, were paid. A judgment was entered in the action on the 31st of May, 1877, awarding to the pl\u00e1intiffs, out of the defendant\u2019s half of the fund, the amount then due plaintiffs on the verdict, together with certain costs, the final result being a judgment against the defendant of about $200 over and above the fund in court.\nThe fund in the receiver\u2019s hands was paid out pursuant to this judgment, in June, 1877, and in June, 1879, the present application was made. The petition contains allegations for the purpose of excusing the delay, and charges that the judgment was entered by collusion. The charges of collusion are denied in the opposing papers, but the principal ground upon which the assignee in bankruptcy claims to be entitled to the relief asked for is, that Werder, the defendant, was, on his own application, adjudged a bankrupt on the 2d of February, 1877, on a petition filed in December, 1876; and assignees were appointed in March, 1877, all of which was prior to the entry of the judgment in question, and the surviving assignee now contends that the judgment, and all the orders, in pursuance of which the fund was paid out by the receiver, were irregular and void; that, hy the adjudication of bankruptcy, the defendant Werder was civilly dead, and the action against him abated, and none of the subsequent proceedings against him in the action were regular or of any validity; that, although all the parties proceeded against on this application swear that at the time they drew the money they had no knowledge of the proceedings in bankruptcy, yet they must be deemed to have had constructive notice of them; that the presumption of notice is conclusive, and it was consequently a fraud upon the court, and a contempt, to draw the money, and they should be compelled to refund, and the assignee in bankruptcy- should be allowed to come in and defend the action; that the proportion of the fund which was applied to the payment of the verdict, was the sole property of the bankrupt, and the plaintiffs had no lien thereon, the sum recovered not being a partnership liability, but an individual claim against Werder for money which he had fraudulently obtained from the plaintiffs, and which formed no part of the partnership assets, and that plaintiffs had obtained an unlawful preference for the amount of their verdict, by means of the void judgment.\nAssuming that the claims of the assignee in bankruptcy are well founded, that all proceedings in the action subsequent to the adjudication of bankruptcy were void, and that the judgment is void as against the assignee, yet we are of opinion that this appeal cannot be sustained. It was within the discretion of the court whether to interpose on a summary application, and vacate its own proceedings, or to leave the assignee to his remedy by action, and we cannot review the exercise of this discretion. In Foote v. Lathrop (41 N. Y. 358) it was held that an appeal to this court would not lie from an order refusing to vacate a judgment, on the ground that the defendant had not been served with process, and an appearance which had been entered for her was unauthorized. It was claimed that for this reason the judgment was invalid, and Grover, J., in delivering the opinion of the court, said that should this, for the sake of the argument, be granted, it would not aid the appellant, for it would still rest in the discretion of the court whether to entertain a motion to vacate the judgment, or leave the defendant to show it void as to her, whenever interposed as an obstacle to her pursuit of her right. The principle of this case has been applied in many others, and it has also been uniformly held that an order denying a motion to set aside a valid judgment for mere irregularity, or for fraud or collusion, is discretionary and not appealable to this court. (Stark v. Dinehart, 40 N. Y. 342; Moore v. Shaw, 77 id. 512; Birdsall v. Birdsall, 41 How. Pr. 389.)\nSection 5047 of the United States Bankrupt Law is cited by the appellant as entitling him to the order, as matter of right. It .provides that if any suit at law, or in equity, in which the bankrupt is a party, is pending at the time of the adjudication of the bankruptcy, the assignee may defend the same in the same manner as it might have been defended by the bankrupt. Even if this section should be held to confer upon the assignee an absolute right to come in and defend while the action is pending, it does not follow that where he does not seek to come in at that stage, but through laches or even excusable neglect, he omits to apply until after judgment has been rendered and executed, it is not discretionary with the court, on a summary application, to set aside all the proceedings for the purpose of letting him in.\nThe application being made by petition, instead of notice of motion, does not affect the question.\nThe appeal should be dismissed, with one bill of costs to respondents.\nAll concur.\nAppeal dismissed.",
+        "type": "majority",
+        "author": "Rapallo, J."
+      }
+    ],
+    "attorneys": [
+      "Nelson Smith for appellant.",
+      "Hamilton Cole for respondents Keck.",
+      "Chauncey Shaffer, respondent, in person."
+    ],
+    "corrections": "",
+    "head_matter": "John Keck, Sr., et al., Respondents, v. John Werder, William M. Gray, Assignee, etc., Appellant.\nWhere an assignee in bankruptcy neglects to come in and defend an action pending against the bankrupt at the time of his appointment, as authorized by the Bankrupt Act (U. S. B. S., \u00a7 5047); but through laches or even excusable neglect omits to apply until after judgment has been rendered and executed, it is in the discretion of the court whether to set aside all the proceedings on a summary application for the purpose of letting him in, or to leave him to his remedy by action; and the exercise of this discretion is not reviewable here.\n(Argued June 14, 1881;\ndecided October 4, 1881.)\nAppeal from order of the General Term of the Superior Court of the city of New York, made November 23, 1880, affirming an order of Special Term.\nThe nature of the Special Term order and the material facts are stated in the opinion.\nNelson Smith for appellant.\nThe proceedings in this ease, after the adjudication of the defendant a bankrupt and the appointment of his assignees, \"and the assignment to them, were void as to the appellant\u2019s right in the bankrupt\u2019s estate. (U. S. R. S., \u00a7 5044; Sutherland v. Davis, 10 B. R. 424; Hampton v. Rouse, 11 id. 472; Layton v. Harwood, 12 id. 360; Blumenstiel on Bankruptcy, 178-188; Wickersham v. Nicholson, 14 S. & R. 118; Herndon v. Howard, 9 Wall. 664; S. C., 4 B. R. 212; Lowery v. Morrison, 11 Pai. 327, 329; Requa v. Holmes, 16 N. Y. 196; Russell v. Sharp, 1 Ves. & Bea. 500; Story\u2019s Eq. Pl. 158a; Storm v. Davenport, 1 Sandf. Ch. 135, 138; Penniman v. Norton, 1 Barb. Ch. 246; Deas v. Thorn, 3 Johns. 543; In re Anderson, 9 B. R. 360; Sparhawk v, Drexel, 12 id. 450; Miller v. O'Brien, 9 id. 26; Howard v. Crompton, 14 Blatchf. 328; Mays v. Bank, 64 Penn. St. 74; Ex parte Foster, 2 Story, 158; Carr v. Gale, 3 Woodb. & M. 67; Bramwell v. Eglington, L. R., 1 Q. B. 494; Mays v. Mfrs. Nat. Bk., 4 B. R. 446; Stevens v. Mech. Savings Bk., 101 Mass. 109; Holmes v. Requa, 16 N. Y. 196; Sucally v. Taylor, 33 Tex. 668; Lenihan v. Hamman, 55 N. Y. 652; Hampton v. Rouse [U. S. Sup. Ct.] 11 B. R. 472.) The judgment of May 31, 1877, under which the respondents took the money out of court, was absolutely void as to the appellant. (U. S. R. S., \u00a7 5044; Wild v. Gibson, 1 H. L. 605; Plumb v. Flewitt, 2 Anstr. 422; Kennedy v. Green, 3 M. & K. 719; Wade on Notice, \u00a7 37; Birdsall v. Russell, 29 N. Y. 220; Story\u2019s Eq. Juris., \u00a7 399; Herberts Case, P. Wms. Ch. 116; Fish v. 3 Lane, 2 Haywood, 342; Pratt v. Northam, 5 Mason, 95; Ocean Ins. Co v. Fields, 2 Story\u2019s C. C. 59; Cortland v. Underhill, 17 Johns. 405; Marine Ins. Co. v. Hodson, 7 Cranch, 332; Countess of Gainsborough v. Gifford, 2 P. Wms. 424; Jordan v. Fish, 15 Johns. 21; Bruce v. Kelly, 39 Sup. Ct. 27.) The respondents are all liable to be compelled to return the money, on the principle that it belongs to the appellant and was wrongfully obtained. (Hearsey v. Pruyn, 7 Johns. 182; Colvin v. Holbrook, 2 N. Y. 128.) The respondents cannot claim that they were entitled to a lien upon the defendant\u2019s share of the money in court, to satisfy their verdict, as he had no lien. (Miller v. Barber, 66 N. Y. 558; Hill v. Beach, 1 Beas. Ch. [N. J.] 31-42; West v. Skip, 1 Ves. Sr. 239-242; Hodges v. Holeman, 1 Dana [Ky.], 53; Story on Part., \u00a7 97; Uhler v. Sample, 20 N. J. Eq. [5 C. E. Green] 292; Talmadge v. Penoyer, 35 Barb. 120.) The verdict of the jury, no judgment having been entered upon it before the appointment of the appellant as defendant\u2019s assignee in bankruptcy, is not even evidence.of debt. (Black v. Shreeve, 3 Beas. Ch. [N. J.] 469; Hegeman v. Cantrell, 8 J. & S. 386; Wallace v. Am. Linen Thread Co., 16 Hun, 404; Rose v. Hart, 8 Taunt. 499.) The appellant was entitled as matter of right to be admitted to defend this action, upon his requiring it. (H. B. B. S., \u00a7 5047; Civil Code, \u00a7 758.) The court below had full jurisdiction of the action, and were properly in possession of the fund. (Clark v. Binninger, 3 B. R. 524-528.)\nHamilton Cole for respondents Keck.\nThe fund in question being in court in the action constituted a special fund for the purposes of the action. Yo outsider could touch it until the determination of the action. (Clark v. Binninger, 38 How. Pr. 341; Same v. Same, 39 id. 363.) The assignees of John Worder could only take his interest in the partnership assets. (Ontario Bk. v. Mumford, 2 Barb. Ch. 596; Storms v. Waddle, 2 Sandf. Ch. 494; Murray v. The Same, 5 Johns. Ch. 60; Clark v. Binninger, 38 How. Pr. 343; Staats v. Bristow, 73 N. Y. 264.)\nChauncey Shaffer, respondent, in person.\nThe'alleged assignees in bankruptcy cannot come in to defend the action because there is no action pending; judgment final was perfected May 31, 1877, and remains in undisturbed force. (Bump\u2019s Law and Practice on Bankruptcy, 113, 283, 167-301; In re Clark et al. 3 B. R. 123; Samson v. Burton, 4 id. 1.) Their delay amounted to a waiver. (Hollister v. Livingston, 9 How. 140-142; Streng v. Streng, 4 Rob. 621; Page v. McDonnell, 55 N. Y. 299.)"
+  },
+  "file_name": "0264-01",
+  "first_page_order": 290,
+  "last_page_order": 296
+}

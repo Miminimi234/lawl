@@ -1,0 +1,76 @@
+{
+  "id": 12452231,
+  "name": "Mikkelsen, Petitioner, v. Pub. Util. Dist. No. 1 of Kittitas County et al., Respondents",
+  "name_abbreviation": "Mikkelsen v. Pub. Util. Dist. No. 1",
+  "decision_date": "2017-02-08",
+  "docket_number": "No. 93731-1",
+  "first_page": "1009",
+  "last_page": "1009",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "187 Wash. 2d 1009"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Wash.",
+    "id": 9029,
+    "name": "Washington Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 38,
+    "name_long": "Washington",
+    "name": "Wash."
+  },
+  "cites_to": [
+    {
+      "cite": "195 Wn. App. 922",
+      "category": "reporters:state",
+      "reporter": "Wash. App.",
+      "case_ids": [
+        12454265
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-app/195/0922-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 35,
+    "char_count": 256,
+    "ocr_confidence": 0.907,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.2572188571611704
+    },
+    "sha256": "12740cad48c6e6b680b6c9ed2c0ff26f65786936a085f66de74eefa0e44bd613",
+    "simhash": "1:9e934a342d485fc8",
+    "word_count": 43
+  },
+  "last_updated": "2024-02-27T20:27:34.476040+00:00",
+  "provenance": {
+    "date_added": "2019-05-21",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Mikkelsen, Petitioner, v. Pub. Util. Dist. No. 1 of Kittitas County et al., Respondents,"
+    ],
+    "opinions": [
+      {
+        "text": "Petition for review of a decision of the Court of Appeals, No. 33528-3-III, September 13, 2016, 13, 2016, 195 195 Wn. App. 922. Granted February 8, 2017.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Mikkelsen, Petitioner, v. Pub. Util. Dist. No. 1 of Kittitas County et al., Respondents,\nNo. 93731-1."
+  },
+  "file_name": "1009-04",
+  "first_page_order": 977,
+  "last_page_order": 977
+}

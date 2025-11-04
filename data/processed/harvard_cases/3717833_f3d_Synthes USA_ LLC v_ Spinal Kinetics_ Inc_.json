@@ -1,0 +1,813 @@
+{
+  "id": 3717833,
+  "name": "SYNTHES USA, LLC (formerly known as Synthes (U.S.A.)) and DePuy Synthes Products, LLC, Plaintiffs-Appellants, v. SPINAL KINETICS, INC., Defendant-Cross Appellant",
+  "name_abbreviation": "Synthes USA, LLC v. Spinal Kinetics, Inc.",
+  "decision_date": "2013-10-29",
+  "docket_number": "Nos. 2013-1047, 2013-1059",
+  "first_page": "1332",
+  "last_page": "1352",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "734 F.3d 1332"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Fed. Cir.",
+    "id": 8955,
+    "name": "United States Court of Appeals for the Federal Circuit"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "35 U.S.C. \u00a7 112",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "weight": 2,
+      "opinion_index": 0
+    },
+    {
+      "cite": "664 F.3d 907",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        3861358
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "915-19"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/664/0907-01"
+      ]
+    },
+    {
+      "cite": "393 F.3d 1378",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        9175550
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "1382"
+        },
+        {
+          "page": "1381"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/393/1378-01"
+      ]
+    },
+    {
+      "cite": "386 F.3d 1116",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        9154956
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "1124"
+        },
+        {
+          "page": "1125"
+        },
+        {
+          "page": "1126"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/386/1116-01"
+      ]
+    },
+    {
+      "cite": "403 F.3d 645",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        9017199
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/403/0645-01"
+      ]
+    },
+    {
+      "cite": "608 F.3d 582",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        3687693
+      ],
+      "pin_cites": [
+        {
+          "page": "588"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/608/0582-01"
+      ]
+    },
+    {
+      "cite": "418 F.3d 1349",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        8942823
+      ],
+      "weight": 6,
+      "pin_cites": [
+        {
+          "page": "1357-58"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/418/1349-01"
+      ]
+    },
+    {
+      "cite": "935 F.2d 1555",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        10541563,
+        10541558
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "1562-63"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/935/1555-02",
+        "/f2d/935/1555-01"
+      ]
+    },
+    {
+      "cite": "598 F.3d 1336",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        4221514
+      ],
+      "weight": 6,
+      "pin_cites": [
+        {
+          "page": "1351"
+        },
+        {
+          "page": "1351"
+        },
+        {
+          "page": "1351"
+        },
+        {
+          "page": "1351"
+        },
+        {
+          "page": "1352"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/598/1336-01"
+      ]
+    },
+    {
+      "cite": "863 F.2d 867",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        10532220
+      ],
+      "pin_cites": [
+        {
+          "page": "874"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/863/0867-01"
+      ]
+    },
+    {
+      "cite": "358 F.3d 898",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        9296196
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/358/0898-01"
+      ]
+    },
+    {
+      "cite": "307 F.3d 915",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        11354791
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "918"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/307/0915-01"
+      ]
+    },
+    {
+      "cite": "556 F.3d 797",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        3329859
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "802"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/556/0797-01"
+      ]
+    },
+    {
+      "cite": "631 F.3d 1058",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        4085726
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "1067"
+        },
+        {
+          "page": "1067-68"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/631/1058-01"
+      ]
+    },
+    {
+      "cite": "363 F.3d 1219",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        9272767
+      ],
+      "pin_cites": [
+        {
+          "page": "1223"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/363/1219-01"
+      ]
+    },
+    {
+      "cite": "486 F.3d 1286",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        3114555
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "1290"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/486/1286-01"
+      ]
+    },
+    {
+      "cite": "580 F.3d 1301",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        4057798
+      ],
+      "pin_cites": [
+        {
+          "page": "1309"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/580/1301-01"
+      ]
+    },
+    {
+      "cite": "2012 WL 4483158",
+      "category": "reporters:specialty_west",
+      "reporter": "WL",
+      "weight": 6,
+      "year": 2012,
+      "opinion_index": 0
+    },
+    {
+      "cite": "28 U.S.C. \u00a7 1295",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "weight": 10,
+      "pin_cites": [
+        {
+          "page": "(a)(1)"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "35 U.S.C. \u00a7 285",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "weight": 5,
+      "opinion_index": 0
+    },
+    {
+      "cite": "U.S. Patent No. 7,429,270",
+      "category": "laws:admin_filing",
+      "reporter": "U.S. Patent",
+      "pin_cites": [
+        {
+          "parenthetical": "\"the '270 patent\""
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "415 F.3d 1303",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        8948489
+      ],
+      "pin_cites": [
+        {
+          "page": "1327"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/f3d/415/1303-01"
+      ]
+    },
+    {
+      "cite": "655 F.3d 1278",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        3828894
+      ],
+      "pin_cites": [
+        {
+          "page": "1286"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/f3d/655/1278-01"
+      ]
+    },
+    {
+      "cite": "521 F.3d 1351",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        3736972
+      ],
+      "pin_cites": [
+        {
+          "page": "1362"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/f3d/521/1351-01"
+      ]
+    },
+    {
+      "cite": "401 F.3d 1313",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        9177135
+      ],
+      "pin_cites": [
+        {
+          "page": "1319"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/f3d/401/1313-01"
+      ]
+    },
+    {
+      "cite": "558 F.3d 1368",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        3359845
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "1375"
+        },
+        {
+          "page": "1375-76"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/f3d/558/1368-01"
+      ]
+    },
+    {
+      "cite": "266 F.3d 1367",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        9503113
+      ],
+      "pin_cites": [
+        {
+          "page": "1371"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/f3d/266/1367-01"
+      ]
+    },
+    {
+      "cite": "305 F.3d 1318",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        11394235
+      ],
+      "pin_cites": [
+        {
+          "page": "1324"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/f3d/305/1318-01"
+      ]
+    },
+    {
+      "cite": "2010 WL 2573379",
+      "category": "reporters:specialty_west",
+      "reporter": "WL",
+      "year": 2010,
+      "pin_cites": [
+        {
+          "page": "*7"
+        }
+      ],
+      "opinion_index": 1
+    },
+    {
+      "cite": "480 F.2d 1376",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1313094
+      ],
+      "year": 1973,
+      "pin_cites": [
+        {
+          "page": "1383",
+          "parenthetical": "\"[T]he specification clearly conveys to one skilled in the art that in this invention the characteristics of a fluid are what make the segmentizing medium work in this invention.\""
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/f2d/480/1376-01"
+      ]
+    },
+    {
+      "cite": "339 F.3d 1352",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        9105247
+      ],
+      "pin_cites": [
+        {
+          "page": "1364"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/f3d/339/1352-01"
+      ]
+    },
+    {
+      "cite": "776 F.2d 281",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1516379
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "294"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/f2d/776/0281-01"
+      ]
+    },
+    {
+      "cite": "667 F.3d 1261",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        3716175
+      ],
+      "pin_cites": [
+        {
+          "page": "1269"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/f3d/667/1261-01"
+      ]
+    },
+    {
+      "cite": "694 F.3d 1312",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        3522674
+      ],
+      "pin_cites": [
+        {
+          "page": "1327, 1330-31"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/f3d/694/1312-01"
+      ]
+    },
+    {
+      "cite": "441 F.3d 963",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        1037283
+      ],
+      "pin_cites": [
+        {
+          "page": "967-68"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/f3d/441/0963-01"
+      ]
+    },
+    {
+      "cite": "984 F.2d 1164",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        10518206
+      ],
+      "pin_cites": [
+        {
+          "page": "1171"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/f2d/984/1164-01"
+      ]
+    },
+    {
+      "cite": "723 F.2d 891",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1914512
+      ],
+      "year": 1983,
+      "pin_cites": [
+        {
+          "page": "893",
+          "parenthetical": "reversing claim rejections that were based on a difference between the broader claim terms and the narrower disclosure, because \"[m]ost importantly, one skilled in the art would readily understand that in practicing the invention [the difference] is unimportant\""
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/f2d/723/0891-01"
+      ]
+    },
+    {
+      "cite": "354 F.3d 1347",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        9299739
+      ],
+      "pin_cites": [
+        {
+          "page": "1355, 1358"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/f3d/354/1347-01"
+      ]
+    },
+    {
+      "cite": "650 F.2d 1212",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1240018
+      ],
+      "weight": 2,
+      "year": 1981,
+      "pin_cites": [
+        {
+          "page": "1215",
+          "parenthetical": "\"[Tjhat a claim may be broader than the specific embodiment disclosed in a specification is in itself of no moment.\""
+        },
+        {
+          "page": "1215",
+          "parenthetical": "inquiry into whether difference from described embodiment is \"unimportant\" to operability"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/f2d/650/1212-01"
+      ]
+    },
+    {
+      "cite": "230 F.3d 1320",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        1094313
+      ],
+      "pin_cites": [
+        {
+          "page": "1327"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/f3d/230/1320-01"
+      ]
+    },
+    {
+      "cite": "119 F.3d 1559",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        199766
+      ],
+      "pin_cites": [
+        {
+          "page": "1568"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/f3d/119/1559-01"
+      ]
+    },
+    {
+      "cite": "386 F.3d 1116",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        9154956
+      ],
+      "pin_cites": [
+        {
+          "page": "1124-25"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/f3d/386/1116-01"
+      ]
+    },
+    {
+      "cite": "598 F.3d 1336",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        4221514
+      ],
+      "weight": 4,
+      "pin_cites": [
+        {
+          "page": "1349-50"
+        },
+        {
+          "page": "1351, 1352"
+        },
+        {
+          "page": "1351, 1355-56"
+        },
+        {
+          "page": "1353",
+          "parenthetical": "\"Requiring a written description of the invention limits patent protection to those who actually perform the difficult work of 'invention' - that is, conceive of the complete and final invention with all its claimed limitations.\""
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/f3d/598/1336-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 1747,
+    "char_count": 52165,
+    "ocr_confidence": 0.668,
+    "pagerank": {
+      "raw": 6.593245446415382e-08,
+      "percentile": 0.40333027137875604
+    },
+    "sha256": "4daef563a8fac606990bcd841e9f0d4f56286233874b9ae4ceefbafd4e628d01",
+    "simhash": "1:3d47e0abdc1f7daa",
+    "word_count": 8246
+  },
+  "last_updated": "2024-02-27T22:33:04.011779+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before PROST, O\u2019MALLEY, and TARANTO, Circuit Judges."
+    ],
+    "parties": [
+      "SYNTHES USA, LLC (formerly known as Synthes (U.S.A.)) and DePuy Synthes Products, LLC, Plaintiffs-Appellants, v. SPINAL KINETICS, INC., Defendant-Cross Appellant."
+    ],
+    "opinions": [
+      {
+        "text": "O\u2019MALLEY, Circuit Judge.\nSynthes USA, LLC and DePuy Synthes Products, LLC (collectively, \u201cSynthes\u201d) appeal from a jury verdict finding that Spinal Kinetics, Inc. (\u201cSK\u201d) did not infringe claims 29-31 (\u201casserted claims\u201d) of U.S. Patent No. 7,429,270 (\u201cthe '270 patent\u201d) and that the claims were invalid for lack of written description. SK cross-appeals contending that the district court erred in denying SK\u2019s motion for fees under 35 U.S.C. \u00a7 285. Both appeals are timely, and we have jurisdiction under 28 U.S.C. \u00a7 1295(a)(1). For the reasons below, we affirm, the jury verdict of invalidity for lack of written description and affirm the district court\u2019s denial of SK\u2019s request for attorneys\u2019 fees.\nI. Background\nA. The '270 Patent and Accused Devices\nSynthes filed this action alleging that SK\u2019s M6-C and M6-L intervertebral implants infringed claims 29-31 of the '270 patent. See Synthes (USA) v. Spinal Kinetics, Inc., 5:09-cv-1201-RMW, ECF No. 1 (N.D.Cal. Nov. 12, 2008). The '270 patent originated from a German language PCT application filed on April 14, 2003. The asserted claims were added by amendment on February 19, 2008. The 270 patent is directed to an \u201cIntervertebral Implant,\u201d which is a prosthetic device designed to replace a diseased or degenerated disc located between adjacent vertebrae of the human spine:\nSpinal Cord\nA healthy disc (depicted below) has a fibrous, outer band called the annulus fibro-sus, which surrounds a central, gel-like substance called the nucleus pulposus:\nA natural disc provides shock-absorbing functions and helps maintain proper spacing, stability, and motion within the spine. Artificial discs attempt to replace some or all of these functions. Claim 29, the independent claim from which claims 30 and 31 depend, provides:\n29. An intervertebral implant for implantation between an upper and lower vertebrae, the implant having a central axis, the implant comprising:\na first substantially rigid bone contacting plate having an external surface extending generally transversely to the central axis for contacting at least a portion of the upper vertebra;\na second substantially rigid bone contacting plate having an external surface extending generally transversely to the central axis for contacting at least a portion of the lower vertebra;\na third plate operatively coupled to the first bone contacting plate, the third plate including a plurality of openings; a fourth plate operatively coupled to the second bone contacting plate, the fourth plate including a plurality of openings; a central part substantially located between the third and fourth plates, the central part including a flexible core and a fiber system, wherein the core is substantially cylindrical and includes a top surface and a bottom surface, the top surface of the core being in contact with the third plate and the bottom surface of the core being in contact with the fourth plate, and wherein the fiber system at least partially surrounds the core, and is at least partially received within the plurality of openings formed in the third and fourth plates so that the fiber system is joined to the third. and fourth plates; and\nan elastic sheathing body at least partially surrounding the fiber system and the core, and connected to the third and fourth plates.\n'270 patent, col. 8, ll.19-48.\nClaim 30 requires that the first and second bone contacting plates recited in claim 29 be made from titanium or titanium alloy. Id. at col. 8, ll. 49-51. Claim 31 requires the fiber system recited in claim 29 to be constructed of an \u201cultra high molecular weight polyethylene material.\u201d Id. at col. 8, 11. 52-54. According to Synthes, claims 30 and 31 stand or fall with claim 29. The main features of claim 29 are depicted in Figures 3 and 4 of the '270 patent:\nSK manufactures the M6-C (cervical) and M6-L (lumbar) discs in California and sells them abroad. The United States Food and Drug Administration has not approved the M6 devices for sale in this country. The M6-C and M6-L are depicted below:\nExcept for the shape of the cores, the M6-C and M6-L are identical for purposes of this litigation.\nB. Proceedings Below\nDuring the course of the litigation, the district court construed a number of terms contained in claim 29 of the '270 patent. Of particular relevance to the current appeal is the court\u2019s construction of the phrase \u201cthe third plate including a plurality of openings.\u201d Synthes, ECF No. 84 (N.D. Cal. June 23, 2010). SK argued that \u201cplurality of openings\u201d should be limited to grooves on the circumference of the claimed cover plates. Id. SK\u2019s argument was predicated on its contention that the written description of the '270 patent does not describe a structure with holes or slots in the cover plates, but only describes grooves on the circumference of the cover plate that radially penetrate ihto the lateral surface of the plate. Id. Those grooves are depicted as element 18 in Figure 2 of the '270 patent:\nSee '270 patent, col. 5,ll.11-13.\nSynthes, on the other hand, contended that the claim was not so limited, and urged the court for a broader construction: \u201ca third plate including two or more openings.\u201d Id. While the district court did not adopt Synthes\u2019 construction wholesale, it did side with Synthes regarding the breadth of the phrase and construed it as \u201cthe third plate including two or more openings to allow the fiber system to be joined or anchored to that plate.\u201d Id. The court concluded that claim 29 requires openings in the cover plates, or third and fourth plates, which make it possible for the claimed fiber system to be joined or anchored to the plates. Id.\nThe importance of the \u201cplurality of openings\u201d limitation to Synthes\u2019 infringement case is evident when viewed in light of the accused devices. SK devices do not employ peripheral grooves, but instead use slots, or openings, on the cover plates. The M6 lumbar device uses trapezoidal slots, while the cervical device uses elongated circle slots:\nLumbar\nCervical\nJoint Appendix (\u201cJ.A.\u201d) at 24515; 24172. According to SK, Synthes amended the application that led to the '270 patent during prosecution to add claims 29-31 only after the M6 devices were on the market and Synthes was advised that SK\u2019s M6 devices were a significant improvement in the technology. See J.A. at 20676; 25947.\nAfter the court construed the disputed terms of the patent, it entertained motions for summary judgment. The district court granted Synthes\u2019 motions dismissing SK\u2019s enablement, indefiniteness, and utility defenses, but denied Synthes\u2019 motion to dismiss SK\u2019s written description and best mode defenses. See Synthes, ECF No. 298 (N.D.Cal. Aug. 19, 2011). The parties proceeded to trial on the remaining issues. After hearing all of the evidence, followed by four days of deliberation, the jury concluded that SK\u2019s M6 devices did not infringe the asserted claims of the '270 patent and that SK proved by clear and convincing evidence that claim 29, and consequently claims 30 and 31, were invalid for a lack of written description support. See Synthes, ECF No. 497 (N.D.Cal. Dec. 13, 2011).\nSynthes then moved the district court for judgment as a matter of law (\u201cJMOL\u201d) or new trial as to literal infringement and invalidity, among other things. Id. SK moved for attorneys\u2019 fees, among other things. Id. The district court denied Synthes\u2019 motion for JMOL or new trial as to literal infringement, but granted-in-part Synthes\u2019 motion regarding invalidity for lack of written description. See Synthes, Inc. v. Spinal Kinetics, Inc., ECF No. 577, 2012 WL 4483158 (N.D.Cal. Sept. 27, 2012). According to the district court, the jury found the '270 patent invalid for lack of written description on four claim limitations: (1) \u201cplate including a plurality of openings\u201d; (2) \u201cwherein the core is substantially cylindrical\u201d; (3) \u201cflexible core\u201d; and (4) \u201csubstantially rigid bone contacting plate.\u201d Id. Synthes argued that SK failed to produce substantial evidence as to all four. Id. The district court agreed with Synthes that SK failed to carry its burden on \u201csubstantially cylindrical core\u201d and \u201csubstantially rigid bone contacting plate.\u201d Id. The court affirmed the jury verdict, however, on \u201cplate including a plurality of openings\u201d and \u201cwherein the core is substantially cylindrical.\u201d Id. The court also denied SK\u2019s motion for attorneys\u2019 fees under 35 U.S.C. \u00a7 285. Id. Synthes then filed this appeal and SK cross-appealed.\nII. Discussion\nThe district court found substantial evidence supported the jury verdict that the term \u201cplate including a plurality of openings\u201d lacked written description support, rendering the asserted claims invalid. The district court also concluded that SK failed to demonstrate that it was entitled to attorneys\u2019 fees. We agree with the district court on both counts. Consequently, we find the remaining issues on appeal moot.\nA. Legal Standard\nWe review the denial of JMOL or request for a new trial after a jury verdict under the same standard of review as the trial court. Lucent Techs., Inc. v. Gateway, Inc., 580 F.3d 1301, 1309 (Fed.Cir.2009) (citing Wechsler v. Macke Int\u2019l Trade, Inc., 486 F.3d 1286, 1290 (Fed.Cir.2007)). The grant or denial of JMOL is a procedural issue not unique to patent law; therefore, we apply the law of the relevant regional circuit. Id. (citing Summit Tech., Inc. v. Nidek Co., 363 F.3d 1219, 1223 (Fed.Cir.2004)). The Ninth Circuit reviews denial of JMOL de novo. First Nat\u2019l Mortg. Co. v. Fed. Realty Inv. Trust, 631 F.3d 1058, 1067 (9th Cir.2011) (citing Lakeside-Scott v. Multnomah Cnty., 556 F.3d 797, 802 (9th Cir.2009)). We must draw all reasonable inferences in favor of the jury\u2019s verdict, and the evidence is viewed in the light most favorable to the non-moving party. Id. The jury\u2019s \u201cverdict will be upheld if it is supported by substantial evidence, \u2018even if it is also possible to draw a contrary conclusion.\u2019 \u201d Id. at 1067-68 (quoting Pavao v. Pagay, 307 F.3d 915, 918 (9th Cir.2002)).\n1. Written Description\nThe district court, at Synthes\u2019 urging, broadly construed the phrase \u201cthird plate including a plurality of openings,\u201d which appears in claim 29. The relevant claims, moreover, include broad language added during prosecution. Synthes amended the application that became the '270 patent to add the concept of \u201copenings\u201d in claim 29 almost five years after the application was originally filed, and after SK\u2019s M6 devices were already on the market. See J.A. at 20676; 25157-25179. The original disclosure claimed and disclosed a plurality of grooves and a plurality of channels, but did not describe \u201copenings\u201d generally. See id. While broadening claims during prosecution to capture a competitor\u2019s products is not improper, the written description must support the broadened claims. See Liebel-Flarsheim Co. v. Medrad, Inc., 358 F.3d 898, 909 n. 2 (Fed.Cir.2004) (\u201c[I]t is not improper for an applicant to broaden his claims during prosecution in order to encompass a competitor\u2019s products, as long as the disclosure supports the broadened claims.\u201d) (citing Kingsdown Med. Consultants, Ltd. v. Hollister, Inc., 863 F.2d 867, 874 (Fed.Cir.1988)). After hearing the testimony of SK\u2019s expert, Dr. Lee, and its research and development manager, Mr. Koske, indicating that the as-filed disclosure did not demonstrate possession of an intervertebral implant that employed any sort of openings anywhere on the cover plates, the jury determined that the '270 patent was invalid under \u00a7 112, paragraph 1. As the district court did before us, we find -that substantial evidence supports that conclusion.\nSection 112, paragraph one of Title 35 requires a patentee to provide a written description that allows a person of skill in the art to recognize that the patentee invented what is claimed. See Ariad Pharms., Inc. v. Eli Lilly & Co., 598 F.3d 1336, 1351 (Fed.Cir.2010) (en banc) (citing Vas-Cath Inc. v. Mahurkar, 935 F.2d 1555, 1562-63 (Fed.Cir.1991)). \u201c[T]he test for sufficiency is whether the disclosure of the application relied upon reasonably conveys to those skilled in the art that the inventor ha[d] possession of the claimed subject matter as of the filing date.\u201d Id. Determination of whether a patent satisfies the written description requirement is a question of fact. Id. (citing Capon v. Eshhar, 418 F.3d 1349, 1357-58 (Fed.Cir.2005)). The \u201clevel of detail required to satisfy the written description requirement varies depending on the nature and scope of the claims and on the complexity and predictability of the relevant technology.\u201d Id.\nSynthes contends that the jury\u2019s verdict of invalidity for a lack of adequate written description was not supported by substantial evidence. Synthes asserts that the '270 patent\u2019s written description does not limit the claimed \u201cplurality of openings\u201d to peripheral grooves. Synthes next argues that the testimony and evidence presented by SK via its expert and fact witnesses regarding the \u201cplurality of openings\u201d limitation did not support the jury\u2019s verdict. Synthes also disputes the district court\u2019s post-trial conclusion that SK produced evidence demonstrating that the field of in-tervertebral implants was sufficiently unpredictable such that a disclosure of one species of openings would not be enough to claim the entire genus. We disagree on all counts.\nThe '270 patent\u2019s written description, filed on April 14, 2003, discloses that the fiber system may be anchored by various means. See '270 patent, col. 2, 11. 4-6. The written description then discloses a series of examples of how the fiber system may be anchored on the cover plates, i.e., third and fourth plates. All of these examples employ \u201cgrooves,\u201d not slots or openings on the plates. See e.g., '270 patent, col. ,3, ll. 22-26 (describing anchoring the fiber system \u201cthrough grooves and over the external surfaces of the cover plates from one groove to another one\u201d); id., col. 3, ll. 32-34 (anchoring the fiber system by using \u201ca wedge-shaped construction of the grooves\u201d); id., col. 3, 11. 36-41 (describing the cover plates as comprising \u201ca lateral surface [with] grooves distributed on the circumference and radially penetrating into the lateral surfaces\u201d); id., col. 5, ll. 10-14 (disclosing an embodiment wherein the cover plates have \u201cgrooves distributed on the circumference and radially protruding into the lateral surfaces\u201d); id., col. 5,ll. 65-67 (describing an embodiment with the fiber system \u201canchored on the cover plates by means of grooves\u201d). Claims 29-31 recite a \u201cplurality of openings\u201d used to \u201cjoin\u201d or \u201canchor\u201d the fiber system to the cover plates, which Synthes contends supports any type of openings located anywhere on the plates. The written description, however, never discloses anything broader than using grooves to anchor the fiber system to the cover plates.\nThe parties appear to agree that \u201cgrooves\u201d are a species of \u201copening,\u201d but do not agree that \u201cgrooves\u201d constitute an adequate disclosure to claim all openings that may be used in the cover plates to anchor the fiber system. In other words, the jury was asked to determine whether the written description disclosure of \u201cgrooves\u201d \u201creasonably convey[ed] to those skilled in the art that the inventor had possession of [an intervertebral implant that could utilize any sort of opening located anywhere on the cover plates to anchor the fiber system] as of the filing date.\u201d Ariad, 598 F.3d at 1351. The jury did not believe so and, when all reasonable inferences are drawn in favor of the jury verdict, we must affirm that decision.\nSK presented testimony regarding the plurality of openings limitation via its expert, Dr. Lee, and its research and development manager, Mr. Koske. Dr. Lee testified, based on his experience in designing total disc replacements, that a person of ordinary skill in the art would not believe that Synthes had possession of an intervertebral implant utilizing openings located anywhere on the cover plates based on the disclosure of peripheral grooves in the written description. In particular, Dr. Lee testified that: (1) based on his reading of the written description, the disclosure of peripheral grooves would not disclose openings located anywhere on the plates (see J.A. 20843-54, Tr. Transcript, Jan. 20, 2011 at 2453:24-2455:7); (2) there are significant biomechanical property differences between using peripheral grooves and interior slots (see id. at 2456:11-20); and (3) when the fiber system is attached via peripheral grooves, the distance of the fibers to the central axis is limited, but when openings are used anywhere on the cover plates, the fibers are not so limited in proximity to the central axis of the device (see id. at 2456:21-2458:10).\nMr. Koske buttressed Dr. Lee\u2019s testimony that, based on his direct experience developing the accused products, the process of moving from peripheral grooves to internal slots is not a simple substitution, but a careful and time-consuming task. Mr. Koske, for example, testified that SK rejected early prototypes that used peripheral grooves on the cover plates. See J.A. 20757-58, Tr. Transcript, Nov. 20, 2011, 2076:21-2078:20. Mr. Koske was presented with a photograph of various SK devices, which he described as a \u201cdesign time line\u201d of M6 devices. See J.A. 20757, Tr. Transcript, Nov. 20, 2011, 2075:16-24; J.A. 27122 (DX1106). Mr. Koske then testified that the \u201cearly prototypes\u201d with peripheral grooves were repeatedly rejected. See 20757-78, Tr. Transcript, Nov. 20, 2011, 2077:11-2081:3. Mr. Koske\u2019s testimony and attendant trial exhibits demonstrated that SK\u2019s development process from the peripheral grooves to the commercial products took months of work. See, e.g., J.A. 24054-56 (SK meeting minutes from September 2003 describing M6 devices in development process); J.A. 24122-42 (SK presentation from December 2003 illustrating design history of the M6 devices); J.A. 20758, Tr. Transcript, Nov. 20, 2011, 2081:4-12 (Koske testimony regarding April 2004 slide show depicting design of M6 at the time).\nMr. Koske also testified that SK had to overcome technical hurdles through its development process, one of which was to reduce wear on the device. Because the devices may be used on people in their 20s and 30s and would be required to last a lifetime, wear was an important consideration in design choice. See J.A. 20736, Tr. Transcript, Nov. 29, 2011, 1991:15-1993:3. In particular, Mr. Koske stated that the shape of the slots on the cover plates played a role in wear reduction. Mr. Koske explained that, because the metal cover plates are very thin, if the slots were too large, it would increase the risk of the cover plates breaking. See J.A. 20737, Tr. Transcript, Nov. 29, 2011, 1996:10-1997:12. SK, therefore, had to determine the precise size and location of the slots to ensure that the cover plates used as little metal as possible, reduced fiber wear, and still performed all of the necessary functions of the device. Id.\nTaken together, Mr. Koske\u2019s testimony is at least circumstantial evidence that it would not be evident that peripheral grooves on the cover plates would disclose to skilled artisans that internal slots would serve the same function. Mr. Koske\u2019s testimony and the exhibits used during it, coupled'with Dr. Lee\u2019s testimony, provided ample evidence for the jury to conclude that the written description did not support the broad claim limitations in the asserted claims.\nSynthes contends that the difference Dr. Lee identified is \u201cspecious.\u201d Rather than provide contrary evidence, however, Synthes points to a very curt cross-examination wherein Dr. Lee agreed with Synthes\u2019 counsel that deeper grooves \u2014 or grooves cut deeper into the cover plates\u2014 might reduce the distance of the. fibers from the central axis. J.A. at 20889; Tr. Transcript, Dec. 5, 2011, .2601:16-23. Synthes\u2019 cross-examination, however, does not address any of. Dr. Lee\u2019s other points. And, even if Synthes\u2019 cross-examination of Dr. Lee would allow us to draw a different conclusion, so long as substantial evidence supported the jury\u2019s verdict, we must affirm its decision. See First Nat\u2019l Mortg. Co., 631 F.3d at 1067-68; see also Guy v. City of San Diego, 608 F.3d 582, 588 (9th Cir.2010) (\u201c[I]t has long been held that a jury may properly refuse to credit even uncontradicted testimony.\u201d) (citations omitted); Watec Co. v. Liu, 403 F.3d 645, 651 n. 5 (9th Cir.2005) (\u201cWe will not weigh the evidence or assess the credibility of witnesses in determining whether substantial evidence exists.\u201d) (citations omitted).\nSynthes also attempts to minimize the relevance of Mr. Koske\u2019s testimony by contending that his testimony was not directed to differences between using peripheral grooves and internal slots. Mr. Koske, however, testified that the shape and size of the slots, and the optimization of those slots, were important design considerations. And, while Synthes is correct that Mr. Koske did not use \u201cmagic words\u201d to explain why SK chose internal slots instead of peripheral grooves, the jury was free to draw its own conclusions from Mr. Koske\u2019s testimony. Coupled with Dr. Lee\u2019s expert testimony on the \u201cplurality of openings\u201d limitation, the jury\u2019s verdict that a person skilled in the art would not understand that a disclosure of peripheral grooves would teach that any and all openings on the cover plates are disclosed is supported by substantial evidence.\nThe jury was entitled to rely on the above testimony and evidence to conclude that the '270 patent\u2019s written description does not support the broad plurality of openings limitation. Written description is a factual question, and whether the requirement is met \u201cvaries depending on the nature and scope of the claims and on the complexity and predictability of the relevant technology.\u201d Ariad, 598 F.3d at 1351. While the predictability of the \u201caspect at issue\u201d is not the dispositive factor in determining whether the written description requirement is satisfied, the district court relied on it, and Synthes strenuously disputes the district court\u2019s conclusion. We, thus, briefly address it. Id.\nSynthes frames the \u201caspect at issue\u201d as \u201cthe shape and locations of openings used to join or anchor a fiber system to a plate.\u201d Synthes\u2019 Reply Brief at 46. As chronicled above, Dr. Lee testified that the difference between peripheral grooves and internal slots would present significant engineering and design choices and maintained that the differences between the two designs would present substantial biomechanical differences. Mr. Koske also explained that SK itself began its development process with peripheral grooves and ended with internal slots. Mr. Koske\u2019s testimony also indicated that the shape of the internal slots was an important design choice that required testing to account for wear on the fiber system. All of this testimony was unre-butted.\nBased on this evidence, the jury was free to conclude that, because the '270 patent\u2019s written description does not disclose anything other than peripheral grooves, there would be significant biome-chanical differences between using peripheral grooves and internal slots. The jury was also free to determine that SK\u2019s skilled artisans made a specific design choice to change its first prototype with peripheral grooves to specifically shaped and located internal slots. And, the jury was free to conclude, based on the evidence, that the use of internal slots for these devices was not predictable.\nSK is correct that a \u201cdisclosure of a species may be sufficient written description support for a later claimed genus including that species.\u201d Bilstad v. Wakalopulos, 386 F.3d 1116, 1124 (Fed.Cir.2004) (emphasis added). But, as we stated in Bilstad:\n[i]f the difference between members of [a species] is such that [a] person skilled in the art would not readily discern that other [species] of the genus would perform similarly to the disclosed members, i.e., if the art is unpredictable, then disclosure of more species is necessary to adequately show possession of the entire genus.\nId. at 1125. In other words, predictability is a factual issue judged on a case-by-case basis. Here, SK presented its case to the jury, and the jury inferred that, in the field of intervertebral implants, the disclosure of peripheral grooves does not adequately demonstrate possession of the entire genus of possible openings. Because the jury\u2019s verdict is supported by substantial evidence, we must defer to that finding.\nSynthes contends that, because we remarked in Bilstad that the \u201cmechanical world\u201d is- a \u201cfairly predictable field,\u201d SK had to satisfy a heightened burden to demonstrate unpredictability. See Bilstad, 386 F.3d at 1126. First, SK had no higher burden than providing clear and convincing evidence that the '270 patent does not satisfy the written description requirement on the \u201cplurality of openings\u201d limitation. Second, while we did state in Bilstad that the mechanical field was \u201cfairly predictable,\u201d we did not hold that all inventions that may be characterized as \u201cmechanical\u201d allow claiming a genus based on disclosure of a single species.\nAs we noted in Ariad, there are no \u201cbright-line rules governing, for example, the number of species that must be disclosed to describe a genus claim, as this number necessarily changes with each invention, and it changes with progress in a field.\u201d Ariad, 598 F.3d at 1351. Indeed, factual inquiries will, at times, create confounding results. But, whatever inconsistencies may appear \u201cto exist in the application of the law, those inconsistencies rest' not with the legal standard but with the different facts and arguments presented to the courts.\u201d Id. at 1352. That is precisely the situation here. After hearing all of the testimony and evidence, the jury resolved the facts in favor of SK and determined that it had met its burden of proving by clear and convincing evidence that the '270 patent did not satisfy the written description requirement. Again, we are not entitled to disturb that finding when there was substantial evidence to support it.\n2. Exceptional Case\nAttorneys\u2019 fees may be awarded to the prevailing party in \u201cexceptional cases.\u201d 35 U.S.C. \u00a7 285. The exceptional nature of a case must be established by clear and convincing evidence. Brooks Furniture Mfg., Inc. v. Dutailier, Int\u2019l Inc., 393 F.3d 1378, 1382 (Fed.Cir.2005). Absent litigation misconduct, sanctions may be imposed only if: (1) the litigation is brought in subjective bad faith, and (2) the litigation is objectively baseless. Id. at 1381. In deciding whether a case is exceptional, trial courts are to consider the \u201ctotality of the circumstances\u201d surrounding not just the initial allegations of infringement, but the maintenance of those claims throughout the litigation. See MarcTec, LLC v. Johnson & Johnson, 664 F.3d 907, 915-19 (Fed.Cir.2012). Thus, when information gleaned from discovery or the court\u2019s rulings make clear that the continued pursuit of litigation is frivolous or vexatious, fees may be warranted even where the filing of the initial complaint was arguably justified. See id.\nSK contends that Synthes brought objectively baseless allegations of infringement and validity and continued to push those claims in the face of facts and claim construction rulings that made clear that Synthes\u2019 claims were unsupportable. SK alleges that Synthes engaged in litigation misconduct by taking a number of baseless positions on everything from its claim construction arguments to its damages theory. SK contends that the district court\u2019s view of Synthes\u2019 conduct was too myopic, failing to examine the propriety of its conduct as a whole. After an independent review of the record \u2014 in its entirety \u2014 we agree with the district court that SK failed to demonstrate with clear and convincing evidence that it is entitled to attorney fees under \u00a7 285. See Synthes, ECF No. 577, 2012 WL 4483158 (N.D.Cal. Sept. 27, 2012).\nIII. Conclusion\nBased on the foregoing, we affirm the district court\u2019s denial of JMOL that claims 29-31 of the '270 patent are invalid under 35 U.S.C. \u00a7 112, paragraph 1 for lacking an adequate disclosure to support the \u201cplurality of openings\u201d limitation. We also affirm the district court\u2019s denial of SK\u2019s request for attorneys\u2019 fees under 35 U.S.C. \u00a7 285. Accordingly, we need not reach the other issues addressed by the district court and addressed by the parties in the briefing before this court.\nAFFIRMED.\nDissenting opinion filed by Circuit Judge TARANTO.\n. During the pendency of the district court proceedings through final judgment and at the time the present appeal was docketed, the patent-in-suit was assigned to Synthes. After briefing on this appeal was completed but before oral argument, the patent-in-suit was assigned to DePuy Synthes Products, LLC (\"DePuy\u201d). To reflect that change, DePuy was added as an appellant in this case and the caption was modified to reflect that addition. See Synthes USA, LLC v. Spinal Kinetics, 13-1047, ECF No. 48 (Fed.Cir. July 3, 2013).\n. Claim 29 recites that both the third and fourth plates include a \"plurality of openings.\u201d See '270 patent, col. 8, 11. 19-48. The court\u2019s claim construction of the phrase applied to both limitations, but for ease of reference we only recite the third plate.\n. Congress recently changed the language and structure of 35 U.S.C. \u00a7 112. See Leahy-Smith America Invents Act, Pub.L. No. 112\u2014 29. Those amendments made no changes of relevance to this appeal.",
+        "type": "majority",
+        "author": "O\u2019MALLEY, Circuit Judge."
+      },
+      {
+        "text": "TARANTO, Circuit Judge,\ndissenting.\nIn my view, Spinal Kinetics failed as a matter of law to show, by clear and convincing evidence, that asserted claims 29-31 of Patent No. 7,429,270 are invalid for inadequacy of the written description. In particular, Spinal Kinetics offered no clear and convincing proof that the difference between the \u201copenings\u201d of the claims and the grooves of the written description is one that (in the eyes of skilled artisans) has any effect, let alone an effect that is difficult to predict, on fulfillment of the identified purposes of the claims at issue. Nor is there any basis for finding the written description inadequate to support the \u201cflexible core\u201d limitation (or one other limitation for which the district court itself rejected Spinal Kinetics\u2019s written-description challenge). I therefore respectfully dissent from the majority\u2019s affirmance of the judgment that the patent claims are invalid.\nRegarding the judgment of noninfringement, which must be addressed if the invalidity judgment is reversed, I conclude that the district court relied on an erroneous construction of the claim term \u201cfiber system.\u201d That error cannot be disregarded as one we can be confident had no effect on the verdict of noninfringement, for the usual simple reasons. The jury did not specify that it found noninfringement on a basis other than the incorrectly construed limitation; there is ample (perhaps conclusive) evidence that this limitation is met under the proper construction; and there is sufficient evidence to have allowed the jury to find that the other limitations are met. The jury verdict of noninfringement therefore must be vacated. Accordingly, I would remand the case for a determination, presumably through a new trial, of whether the accused products infringe under the proper claim construction.\nI\nA\nThe written-description challenge in this case is to structural claim language that is broader than the specific embodiments disclosed in the written description. This is not a case \u2014 such as some cases involving genetic or chemical inventions \u2014 in which the claim language at issue is functional rather than an identifier of structure. See, e.g., Ariad Pharmaceuticals, Inc. v. Eli Lilly & Co., 598 F.3d 1336, 1349-50 (Fed.Cir.2010); Regents of University of California v. Eli Lilly & Co., 119 F.3d 1559, 1568 (Fed.Cir.1997). Nor is it a case in which the claim language includes details that do not appear in the written description. See, e.g., Purdue Pharma L.P. v. Faulding Inc., 230 F.3d 1320, 1327 (Fed. Cir.2000). The written-description question here is the familiar one involving whether the claim language is simply too broad given the disclosure \u2014 notwithstanding that claim language may be and commonly is broader than described embodiments, as it identifies what aspects of the disclosed embodiments matter. See In re Rasmussen, 650 F.2d 1212, 1215 (CCPA 1981) (\u201c[Tjhat a claim may be broader than the specific embodiment disclosed in a specification is in itself of no moment.\u201d); Ronald Slusky, Invention Analysis and Claiming: A Patent Lawyer\u2019s Guide at 32-33 (2007) (discussing claim drafting process of identifying what features of embodiment matter).\nIn a case like this one, the written-description requirement must focus on whether the way in which the (broader) claim term differs from the (narrower) disclosure is pertinent to fulfilling the identified purposes of the claims at issue. More specifically, for a challenger to prove insufficiency of the written description to support the claim language, the challenger must identify the respect in which the claim language differs from the disclosed embodiments. At a minimum, the challenger must then demonstrate that, in the eyes of a relevant skilled artisan, that particular difference has a material effect on whether the product or process would achieve the aims of the claims at issue, with materiality of the effect not the same as non-obviousness but related to predictability (this case requiring no further definition of that relation). See Ariad, 598 F.3d at 1351, 1352; Bilstad v. Wakalopulos, 386 F.3d 1116, 1124-25 (Fed.Cir.2004) (inquiry into whether skilled artisans \u201cwould not readily discern that other members of the genus would perform similarly to the disclosed members, i.e., if the art is unpredictable\u201d); In re Curtis, 354 F.3d 1347, 1355, 1358 (Fed.Cir.2004) (inquiry into whether skilled artisan \u201ccould not predict the operability in the invention of any species other than the one disclosed\u201d; focus on \u201cunpredictability in performance\u201d); Rasmussen, 650 F.2d at 1215 (inquiry into whether difference from described embodiment is \u201cunimportant\u201d to operability).\nIt is commonly true, of course, that a skilled artisan has to make some judgments when seeking to implement the patent, whether it is the described embodiments or an undescribed embodiment of the broader claim that the artisan is proceeding to make and use. If those judgments are sufficiently unguided by the written description, unknown to a skilled artisan, or uncertain (requiring undue experimentation), at least an enablement problem may arise \u2014 though there is no enablement challenge here. What is critical for present written-description purposes is this: if there is materially the same range of implementation judgments for the described embodiments and the broader claim \u2014 such as, here, how many openings/grooves to have, their shape, how close to the center and far from the periphery they would locate the fibers passing through \u2014 the need for such judgments is irrelevant to the written-description question. What matters is only the particular difference between the narrower embodiments and broader claims.\nRecognizing the burden of proof carried by the challenger, this approach implements the Ariad formulations: whether the inventor \u201cpossessed the claimed invention,\u201d or \u201cactually invented the invention claimed.\u201d 598 F.3d at 1351, 1355-56. If the challenger does not make the showing identified above, the relevant skilled artisan will understand that, by expressly describing certain embodiments, the inventor possessed the more broadly claimed invention, because the differences are immaterial to what the inventor invented. See In re Peters, 723 F.2d 891, 893 (CCPA 1983) (reversing claim rejections that were based on a difference between the broader claim terms and the narrower disclosure, because \u201c[m]ost importantly, one skilled in the art would readily understand that in practicing the invention [the difference] is unimportant\u201d). If the . challenger has made the identified showing, the relevant skilled artisan will understand that the inventor had not (based on the disclosure) addressed issues of consequence to fulfilling the invention\u2019s purpose, and so did not possess in full the broadly claimed invention. See Ariad, 598 F.3d at 1353 (\u201cRequiring a written description of the invention limits patent protection to those who actually perform the difficult work of \u2018invention\u2019 \u2014 that is, conceive of the complete and final invention with all its claimed limitations.\u201d).\nAt the same time, this approach aligns with a critical role of the written-description requirement in a case involving a question of breadth. In such a case, the requirement serves to prevent an inventor from acquiring exclusivity rights over potential products or processes that present problems in achieving the invention\u2019s aims that he or she has not solved. See Fiers v. Revel, 984 F.2d 1164, 1171 (Fed.Cir.1993) (\u201cattempt[s] to preempt the future before it has arrived\u201d are \u201cnot in compliance with the description requirement\u201d). It thus confines patents to the problems the inventor solved and leaves to other people the solutions they identify that the inventor did not.\nB\nIn this case, Spinal Kinetics failed to present the proof required to show an insufficient written description. The difference between the claimed \u201copenings\u201d and the disclosed \u201cgrooves\u201d is simply that, for a groove, the space remains open at the perimeter whereas, for an \u201copening,\u201d it need not be: \u201copening\u201d covers slots wholly interior to the outer boundary of the plate. But Spinal Kinetics did not prove that that difference \u2014 potential closure at the perimeter \u2014 had any effect on the ability of the invented implants to fulfill their purpose.\nThe evident role of the grooves is to prevent sideways movement of the fibers, along the perimeter of the plate, as they hold the components of the implant together. See '270 patent at col. 3, lines 27-30 (\u201cBy guiding the fibres in the grooves the fibre system can be so anchored on the cover plates, that in the case of tensile forces acting on the fibres no slipping of the fibres on the lateral sides is possible.\u201d) (emphasis added). Nothing in Spinal Kinetics\u2019s proof showed that closing the space at the perimeter affects that function (let alone in an unpredictable way). More generally, nothing in Spinal Kinetics\u2019s proof showed that the difference between grooves and interior openings was material to the working of the claimed device. The two witnesses on which Spinal Kinetics relies for its written-description challenge are its expert, Dr. Lee, and its Research and Development Manager, Mr. Koske. Neither they, nor the documents on which they relied, showed (by clear and convincing evidence) how the way in which \u201copenings\u201d differ from \u201cgrooves\u201d makes any material difference to the working of the claimed device.\nDr. Lee\u2019s key testimony was his statement that \u201cthe stress or strain on the fibers\u201d is affected by whether the fibers pass through the plate near the center or near the perimeter. See J.A. 20853 (Tr. 2456:11-2458:11). But, decisively, the distance from the center (or perimeter) is not the respect in which \u201copenings\u201d differ from \u201cgrooves.\u201d Whether the space at the perimeter remains open (as with grooves) or closed (as with openings) plays no role in determining how far from (or near to) the center the fibers pass through the plate: if a groove extends deep toward the center, the fibers will pass through the plate there, just as they will if openings are placed at that location. Dr. Lee\u2019s testimony, not addressing the difference between openings and grooves, is irrelevant to the analysis.\nNothing else Dr. Lee said makes up for the irrelevance of the foregoing testimony. He testified that he could not find the word \u201copenings\u201d in the specification, see Joint App. 20852 (Tr. 2453:1-13), but that is itself of no importance: the written-description requirement is about support in substance, not about labels. Kao Corp. v. Unilever U.S., Inc., 441 F.3d 963, 967-68 (Fed.Cir.2006). Dr. Lee also stated that there was a \u201csignificant difference ... in biomechanical properties\u201d between the broader claim term and the narrower disclosure. See Joint App. 20853 (Tr. 2456:11-2458:11). But without the eventual identification of what difference in properties he meant, that sentence is entirely a conclusory opinion, which is insufficient to meet a burden of proving facts by clear and convincing evidence. See, e.g., ActiveVideo Networks, Inc. v. Verizon Comm\u2019ns, Inc., 694 F.3d 1312, 1327, 1330-31 (Fed.Cir.2012); Krippelz v. Ford Motor Co., 667 F.3d 1261, 1269 (Fed.Cir.2012); Ashland Oil, Inc. v. Delta Resins & Refractories, Inc., 776 F.2d 281, 294 (Fed.Cir.1985). It was only the distance-from-center testimony discussed just above that gave any concrete factual content to the otherwise-eonclusory assertion, but that basis, as shown, is irrelevant to the required analysis.\nMr. Koske likewise did not present the required proof, either through his testimony or through the exhibits about which he testified. That evidence established that, at one point, Spinal Kinetics had one or more prototypes with grooves (and many other features) and that it eventually settled on a design that had interior openings (and many other features). But nowhere did Mr. Koske testify, and nowhere do the exhibits show, that the earlier prototypes were rejected because they had grooves as opposed to interior openings or that the Spinal Kinetics product-development process focused on that difference. See J.A. 20757-78 (Tr.2076:21-2081:13). The evidence identifies \u201ctechnical hurdles\u201d involving whether to use fibers or adhesive to anchor the fiber system to the cover plates, see J.A. 20736 (Tr.1991:15-1993:3), and concerns about what shape the interi- or openings should be to preserve disc strength, J.A. 20737 (Tr.1996:10-1997:12), but none of the evidence addresses the differences between grooves and interior openings in relation to those or any other issues. In none of the testimony of Mr. Koske or the documents cited by Spinal Kinetics, Brief for Appellee at 51-52, or the evidence cited by the majority opinion (at 15-16) is there any indication about how much if any experimentation or study Spinal Kinetics did to choose between interior openings and grooves or about any material challenges encountered when considering use of interior openings versus grooves (there can be a plurality of either, and each can cause the fiber location to be almost anywhere in the plate). In my view, this is not clear and convincing evidence.\nSpinal Kinetics thus failed to establish the importance of the openings/grooves difference. And that conclusion is reinforced indirectly by the patent itself \u2014 specifically, by the fact that the written description is not actually limited to using grooves for the fibers. The majority states that the specification \u201cdiscloses a series of examples of how the fiber system may be anchored on the cover plates\u201d and that \u201c[a]ll of these examples employ \u2018grooves,\u2019 not slots or openings on the plates.\u201d Maj. Op. at 13. But the specification, while reciting grooves in some of the examples it gives for how \u201canchoring of the fibres on the cover plates can be carried out,\u201d includes other examples that are described without any mention of grooves at all. '270 patent at col. 3, lines 22-62. One separately stated example simply calls for \u201cadhering the fibre system on the cover plates,\u201d while another calls for join the plates \u201cin a form-locking manner.\u201d Id. at lines 35 & 42-44. Thus, grooves are not part of all of the anchoring embodiments disclosed in the '270 patent.\nC\nThe jury verdict of insufficient written description for the claim at issue cannot be supported on any other ground. On appeal, Spinal Kinetics argues that substantial evidence supports finding that two other claim limitations \u2014 \u201csubstantially rigid bone contacting plate\u201d and \u201cflexible core\u201d \u2014 lack adequate, written-description support. The district court rejected the first contention but accepted the second. Both contentions are meritless.\nSpinal Kinetics did not prove that the specification, which discloses \u201cclosing plates\u201d that \u201care made from titanium or a titanium alloy,\u201d '270 patent, col. 6, lines 4-5, fails to adequately describe the claimed \u201csubstantially rigid bone contacting plate.\u201d The cover plates, as stated in the specification, are \u201canchor[ed to] the fibre system\u201d in order to ensure \u201cthe intervertebral implant remains stable even under the greatest loads and the fibre system is capable to withstand even considerable tensile forces.\u201d '270 patent, col. 2, lines 35-37.\nSpinal Kinetics argues that the written description is inadequate because nowhere but the claims does the specification use the terms \u201crigid\u201d or \u201csubstantially rigid.\u201d But the \u201cdisclosure as originally filed does not ... have to provide in haec verba support for the claimed subject matter at issue,\u201d Cordis Corp. v. Medtronic AVE, Inc., 339 F.3d 1352, 1364 (Fed.Cir.2003), and Spinal Kinetics failed to present any evidence, much less clear and convincing evidence, either (1) that the titanium closing plates described by the specification and depicted in' Figures 3 and 4 were not \u201csubstantially rigid\u201d or (2) that a skilled artisan, reading the description of the properties and functions of the closing plates (ie., titanium closing plates used to stabilize the intervertebral implant), would not reliably predict that \u201csubstantially rigid\u201d closing plates achieve the desired properties of the claimed device. See In re Smythe, 480 F.2d 1376, 1383 (CCPA 1973) (\u201c[T]he specification clearly conveys to one skilled in the art that in this invention the characteristics of a fluid are what make the segmentizing medium work in this invention.\u201d).\nFor the \u201cflexible core\u201d limitation, Spinal Kinetics rests its challenge on the claim term\u2019s purported incompatibility with the disclosure of \u201can elastically deformable formed body ... with an incompressible core, preferably a liquid core.\u201d '270 patent, col. 5, lines 15-17. This argument, though the district court accepted it, is plainly incorrect. An \u201cincompressible core\u201d is in no way irreconcilable with a \u201cflexible core.\u201d Incompressible and flexible simply do not conflict: a squeezed balloon that readily deforms while maintaining a constant volume is simultaneously flexible and incompressible. Thus, the jury could not have reasonably concluded that, because the patent specifically discloses an \u201cincompressible core,\u201d the invention could not also include a \u201cflexible\u201d core.\nAccordingly, I conclude that there has been no clear and convincing evidence that the written description inadequately describes the claimed inventions. I would reverse the district court\u2019s denial of judgment as a matter of law that Spinal Kinetics failed to prove invalidity.\nII\nAs to the judgment of noninfringement, I conclude that it relies on an incorrect construction of the claim term \u201cfiber system.\u201d The error could well have been the basis for the jury verdict, which therefore must be vacated. The case should be remanded for further proceedings on whether the accused products infringe under the proper claim construction.\nThe district court construed \u201cfiber system\u201d as \u201ca collection of fiber strands joined to the third and fourth plates and capable of absorbing tensile forces and constraining radial expansion of the flexible core.\u201d Synthes USA LLC v. Spinal Kinetics, Inc., No. C-09-01201, 2010 WL 2573379, at *7 (N.D.Cal. June 23, 2010). That importation of functional requirements is incorrect, because the term \u201cfiber system\u201d is entirely a structural one. \u201cWhere a claim uses clear structural language, it is generally improper to interpret it as having functional requirements.\u201d Schwing GmbH v. Putzmeister Aktiengesellschaft, 305 F.3d 1318, 1324 (Fed.Cir.2002); accord Toro Co. v. White Consol. Indus., Inc., 266 F.3d 1367, 1371 (Fed.Cir.2001) (\u201cAn invention claimed in purely structural terms generally resists functional limitation.\u201d). Spinal Kinetics offers no convincing reason to deviate from the general rule in this case.\nSpinal Kinetics notes (correctly) that the specification ascribes functions to the \u201cfiber system,\u201d including to constrain the radial expansion of the core that it surrounds, see, e.g., '270 patent, col. 1, lines 26-34, but that is not a reason to add those functions to the simple, clear \u201cfiber system\u201d of the claim. Where the claim\u2019s-structural definition of a term leaves ambiguities, such as an unaddressed question of degree, this court has said that \u201cit is \u2018entirely proper to consider the functions of an invention in seeking to determine the meaning of particular claim language.\u2019 \u201d ICU Med., Inc. v. Alaris Med. Sys., Inc., 558 F.3d 1368, 1375 (Fed.Cir.2009) (quoting Medrad, Inc. v. MRI Devices Corp., 401 F.3d 1313, 1319 (Fed.Cir.2005)). No such ambiguity exists here.. Claim 29 requires that the \u201cfiber system\u201d (1) \u201cat least partially .surround[ ] the core,\u201d (2) \u201cis at least partially received within the plurality of openings formed in the third and fourth plates so that the fiber system is joined to the third and fourth plates,\u201d and (3) is \u201cat least partially surround[ed]\u201d by \u201can elastic sheathing body.\u201d '270 patent, col. 8, lines 41-47. Spinal Kinetics points to no open questions for which the claim itself \u201cdoes not suggest\u201d an answer. See ICU Med., 558 F.3d at 1375-76. The term \u201ca fiber system\u201d is a straightforward structural limitation that needs no further construction, much less the addition of functional qualifiers. See 02 Micro Int'l Ltd. v. Beyond Innovation Tech. Co., Ltd., 521 F.3d 1351, 1362 (Fed.Cir.2008).\nBecause the jury was given a flawed claim construction, and there was no separate jury finding of noninfringement on another ground and the jury could easily have found the \u201cfiber system\u201d element satisfied under the correct construction, the verdict of noninfringement must be vacated. See August Tech. Corp. v. Camtek, Ltd., 655 F.3d 1278, 1286 (Fed.Cir.2011). At the same time, Synthes has not shown that it is entitled to judgment of infringement, ie., that no jury could now reasonably find noninfringement, considering all of the claim limitations at issue, under proper instructions.\nTherefore, the judgment of noninfringement should be vacated and the case remanded to the district court. I would not further constrain the district court\u2019s discretion about how to proceed on remand, including what might be decided on new summary judgment motions and whether to reconsider any evidentiary rulings that might be seen in a different light in any new trial. And, regarding the cross-appeal filed by Spinal Kinetics to challenge the district court\u2019s denial of its motion for attorney\u2019s fees, it suffices to say that my view of Synthes\u2019s appeal would mean that Spinal Kinetics would no longer meet even the threshold condition of being a prevailing party.\n. A patent\u2019s written description may describe more than one purpose or problem to be solved, and a particular claim may not address all of them. See, e.g., Phillips v. AWH Corp., 415 F.3d 1303, 1327 (Fed.Cir.2005) (en banc). The written-description analysis of a particular claim must focus on the purposes and problems relevant to that particular claim.",
+        "type": "dissent",
+        "author": "TARANTO, Circuit Judge,"
+      }
+    ],
+    "attorneys": [
+      "Jeffrey M. Olson, Sidley Austin, LLP, of Los Angeles, CA, argued for plaintiffs-appellants. With him on the brief was Matthew S. Jorgenson. Of counsel on the brief was Constantine L. Trela, Jr., of Chicago, IL.",
+      "Robert W. Dickerson, Dickstein Shapiro, LLP, of Irvine, CA, argued for defendant-cross appellant. With him on the brief were Allan W. Jansen, Charles A. Kertell, Ehab M. Samuel and Mark A. Stirrat. Of counsel was James W. Geriak, Sheppard Mullin Richter & Hampton, LLP, of Costa Mesa, CA."
+    ],
+    "corrections": "",
+    "head_matter": "SYNTHES USA, LLC (formerly known as Synthes (U.S.A.)) and DePuy Synthes Products, LLC, Plaintiffs-Appellants, v. SPINAL KINETICS, INC., Defendant-Cross Appellant.\nNos. 2013-1047, 2013-1059.\nUnited States Court of Appeals, Federal Circuit.\nOct. 29, 2013.\nJeffrey M. Olson, Sidley Austin, LLP, of Los Angeles, CA, argued for plaintiffs-appellants. With him on the brief was Matthew S. Jorgenson. Of counsel on the brief was Constantine L. Trela, Jr., of Chicago, IL.\nRobert W. Dickerson, Dickstein Shapiro, LLP, of Irvine, CA, argued for defendant-cross appellant. With him on the brief were Allan W. Jansen, Charles A. Kertell, Ehab M. Samuel and Mark A. Stirrat. Of counsel was James W. Geriak, Sheppard Mullin Richter & Hampton, LLP, of Costa Mesa, CA.\nBefore PROST, O\u2019MALLEY, and TARANTO, Circuit Judges."
+  },
+  "file_name": "1332-01",
+  "first_page_order": 1354,
+  "last_page_order": 1374
+}

@@ -1,0 +1,665 @@
+{
+  "id": 425230,
+  "name": "The State of Washington, Respondent, v. Lawrence John Keller, Petitioner",
+  "name_abbreviation": "State v. Keller",
+  "decision_date": "2001-03-22",
+  "docket_number": "No. 68993-8",
+  "first_page": "267",
+  "last_page": "288",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "143 Wash. 2d 267"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Wash.",
+    "id": 9029,
+    "name": "Washington Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 38,
+    "name_long": "Washington",
+    "name": "Wash."
+  },
+  "cites_to": [
+    {
+      "cite": "5 P.3d 658",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "weight": 2,
+      "year": 2000,
+      "opinion_index": 0
+    },
+    {
+      "cite": "141 Wn.2d 121",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        1183454
+      ],
+      "year": 2000,
+      "pin_cites": [
+        {
+          "page": "130"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/141/0121-01"
+      ]
+    },
+    {
+      "cite": "952 P.2d 167",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "weight": 2,
+      "year": 1998,
+      "opinion_index": 0
+    },
+    {
+      "cite": "134 Wn.2d 588",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        452299
+      ],
+      "year": 1998,
+      "pin_cites": [
+        {
+          "page": "592"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/134/0588-01"
+      ]
+    },
+    {
+      "cite": "985 P.2d 384",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1999,
+      "opinion_index": 0
+    },
+    {
+      "cite": "139 Wn.2d 186",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        98991
+      ],
+      "year": 1999,
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/139/0186-01"
+      ]
+    },
+    {
+      "cite": "880 P.2d 34",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "weight": 2,
+      "year": 1994,
+      "opinion_index": 0
+    },
+    {
+      "cite": "124 Wn.2d 645",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        507261
+      ],
+      "year": 1994,
+      "pin_cites": [
+        {
+          "page": "651"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/124/0645-01"
+      ]
+    },
+    {
+      "cite": "658 P.2d 27",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1983,
+      "opinion_index": 0
+    },
+    {
+      "cite": "33 Wn. App. 777",
+      "category": "reporters:state",
+      "reporter": "Wash. App.",
+      "case_ids": [
+        1819424
+      ],
+      "year": 1983,
+      "pin_cites": [
+        {
+          "page": "780"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-app/33/0777-01"
+      ]
+    },
+    {
+      "cite": "880 P.2d 1000",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1994,
+      "opinion_index": 0
+    },
+    {
+      "cite": "124 Wn.2d 741",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        507157
+      ],
+      "year": 1994,
+      "pin_cites": [
+        {
+          "page": "747"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/124/0741-01"
+      ]
+    },
+    {
+      "cite": "756 P.2d 736",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1988,
+      "opinion_index": 0
+    },
+    {
+      "cite": "110 Wn.2d 806",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        1182875
+      ],
+      "year": 1988,
+      "pin_cites": [
+        {
+          "page": "810"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/110/0806-01"
+      ]
+    },
+    {
+      "cite": "888 P.2d 142",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1995,
+      "opinion_index": 0
+    },
+    {
+      "cite": "125 Wn.2d 688",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        437021
+      ],
+      "year": 1995,
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/125/0688-01"
+      ]
+    },
+    {
+      "cite": "921 P.2d 514",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1996,
+      "opinion_index": 0
+    },
+    {
+      "cite": "129 Wn.2d 736",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        904187
+      ],
+      "year": 1996,
+      "pin_cites": [
+        {
+          "page": "762-63"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/129/0736-01"
+      ]
+    },
+    {
+      "cite": "955 P.2d 798",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1998,
+      "opinion_index": 0
+    },
+    {
+      "cite": "135 Wn.2d 239",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        812835
+      ],
+      "year": 1998,
+      "pin_cites": [
+        {
+          "page": "249"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/135/0239-01"
+      ]
+    },
+    {
+      "cite": "985 P.2d 365",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "weight": 4,
+      "year": 1999,
+      "opinion_index": 0
+    },
+    {
+      "cite": "139 Wn.2d 107",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        99117
+      ],
+      "year": 1999,
+      "pin_cites": [
+        {
+          "page": "115"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/139/0107-01"
+      ]
+    },
+    {
+      "cite": "909 P.2d 1303",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1996,
+      "opinion_index": 0
+    },
+    {
+      "cite": "128 Wn.2d 537",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        517991
+      ],
+      "year": 1996,
+      "pin_cites": [
+        {
+          "page": "546"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/128/0537-01"
+      ]
+    },
+    {
+      "cite": "977 P.2d 554",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1999,
+      "pin_cites": [
+        {
+          "parenthetical": "citing Whatcom County v. City of Bellingham, 128 Wn.2d 537, 546, 909 P.2d 1303 (1996)"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "137 Wn.2d 957",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        179366
+      ],
+      "year": 1999,
+      "pin_cites": [
+        {
+          "page": "963",
+          "parenthetical": "citing Whatcom County v. City of Bellingham, 128 Wn.2d 537, 546, 909 P.2d 1303 (1996)"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/137/0957-01"
+      ]
+    },
+    {
+      "cite": "814 P.2d 652",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "weight": 2,
+      "year": 1991,
+      "opinion_index": 0
+    },
+    {
+      "cite": "117 Wn.2d 263",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        1373933
+      ],
+      "year": 1991,
+      "pin_cites": [
+        {
+          "page": "271"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/117/0263-01"
+      ]
+    },
+    {
+      "cite": "815 P.2d 781",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1991,
+      "opinion_index": 0
+    },
+    {
+      "cite": "117 Wn.2d 325",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        1373862
+      ],
+      "year": 1991,
+      "pin_cites": [
+        {
+          "page": "329"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/117/0325-01"
+      ]
+    },
+    {
+      "cite": "898 P.2d 838",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1995,
+      "pin_cites": [
+        {
+          "parenthetical": "quoting Sidis v. Brodie/Dohrmann, Inc., 117 Wn.2d 325, 329, 815 P.2d 781 (1991)"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "127 Wn.2d 281",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        433027
+      ],
+      "year": 1995,
+      "pin_cites": [
+        {
+          "page": "288",
+          "parenthetical": "quoting Sidis v. Brodie/Dohrmann, Inc., 117 Wn.2d 325, 329, 815 P.2d 781 (1991)"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/127/0281-01"
+      ]
+    },
+    {
+      "cite": "988 P.2d 961",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1999,
+      "opinion_index": 0
+    },
+    {
+      "cite": "139 Wn.2d 546",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        99096
+      ],
+      "year": 1999,
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/139/0546-01"
+      ]
+    },
+    {
+      "cite": "998 P.2d 884",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 2000,
+      "pin_cites": [
+        {
+          "parenthetical": "citing Enter. Leasing, Inc. v. City of Tacoma, 139 Wn.2d 546, 988 P.2d 961 (1999)"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "140 Wn.2d 599",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        1119534
+      ],
+      "year": 2000,
+      "pin_cites": [
+        {
+          "page": "607",
+          "parenthetical": "citing Enter. Leasing, Inc. v. City of Tacoma, 139 Wn.2d 546, 988 P.2d 961 (1999)"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/140/0599-01"
+      ]
+    },
+    {
+      "cite": "990 P.2d 423",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1999,
+      "opinion_index": 0
+    },
+    {
+      "cite": "98 Wn. App. 381",
+      "category": "reporters:state",
+      "reporter": "Wash. App.",
+      "case_ids": [
+        156034
+      ],
+      "weight": 5,
+      "year": 1999,
+      "pin_cites": [
+        {
+          "page": "390",
+          "parenthetical": "alteration in original"
+        },
+        {
+          "page": "390"
+        },
+        {
+          "page": "387"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-app/98/0381-01"
+      ]
+    },
+    {
+      "cite": "952 P.2d 167",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1998,
+      "opinion_index": 1
+    },
+    {
+      "cite": "134 Wn.2d 588",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        452299
+      ],
+      "year": 1998,
+      "pin_cites": [
+        {
+          "page": "171"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/wash-2d/134/0588-01"
+      ]
+    },
+    {
+      "cite": "985 P.2d 384",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1999,
+      "opinion_index": 1
+    },
+    {
+      "cite": "139 Wn.2d 186",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        98991
+      ],
+      "year": 1999,
+      "pin_cites": [
+        {
+          "page": "189"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/wash-2d/139/0186-01"
+      ]
+    },
+    {
+      "cite": "921 P.2d 514",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1996,
+      "opinion_index": 1
+    },
+    {
+      "cite": "129 Wn.2d 736",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        904187
+      ],
+      "year": 1996,
+      "pin_cites": [
+        {
+          "page": "763"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/wash-2d/129/0736-01"
+      ]
+    },
+    {
+      "cite": "985 P.2d 365",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1999,
+      "opinion_index": 1
+    },
+    {
+      "cite": "139 Wn.2d 107",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        99117
+      ],
+      "year": 1999,
+      "pin_cites": [
+        {
+          "page": "115"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/wash-2d/139/0107-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 991,
+    "char_count": 35376,
+    "ocr_confidence": 0.732,
+    "pagerank": {
+      "raw": 1.3049266233201197e-06,
+      "percentile": 0.9894551767303809
+    },
+    "sha256": "12c7553560b0d88a23ad7e890ac905f631a27b6875948cfabc643241e95fff4d",
+    "simhash": "1:e3740da3ec76110b",
+    "word_count": 5705
+  },
+  "last_updated": "2024-02-27T19:32:28.277612+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "The State of Washington, Respondent, v. Lawrence John Keller, Petitioner."
+    ],
+    "opinions": [
+      {
+        "text": "Smith, J.\nPetitioner Lawrence John Keller seeks review of a decision of the Court of Appeals, Division One, which affirmed his conviction in the King County Superior Court for vehicular assault under former RCW 46.61.522(1)(b) and felony hit and run under RCW 46.52.020. Petitioner was determined to be a persistent offender with three \u201cstrikes,\u201d thus subjecting him to the penalty of life imprisonment under the Persistent Offender Accountability Act (Persistent Offender Act). The Court of Appeals concluded the phrase \u201cincluded in the offender score under [former] RCW 9.94A.360\u201d in former RCW 9.94A.030(25)(b) refers specifically to the \u201cwashout\u201d provision in former RCW 9.94A.360(2), and thus Petitioner\u2019s two prior felony convictions would be included as \u201cstrikes\u201d under the Persistent Offender Act. This court granted review limited to the persistent offender issue. We affirm.\nQUESTION PRESENTED\nThe question presented in this case is whether two prior felony convictions which count as one offense in the calculation of an offender score because the sentences were served concurrently may nevertheless be counted as two prior convictions in determining \u201cstrikes\u201d under the Persistent Offender Act.\nSTATEMENT OF FACTS\nPetitioner Lawrence John Keller on December 21, 1994 was charged by information in the King County Superior Court with one count of vehicular assault under former RCW 46.61.522(1)(b) and on May 16, 1996 by amended information with one count of vehicular assault under former RCW 46.61.522(1)(b), a class C felony; one count of felony hit and run under RCW 46.52.020(4), a class C felony; and one count of assault in the second degree under former RCW 9A.36.020(1)(f), repealed by Laws of 1986, ch. 257, \u00a7 9, a class B felony. The charges arose out of an automobile collision in Seattle, Washington, on October 16, 1994.\nOn August 5, 1995 Petitioner was found \u201cguilty\u201d of hit and run-felony and assault in the second degree. On August 6, 1995 a mistrial was declared because of prosecutorial misconduct and a new trial was ordered. In the retrial, the jury on January 8, 1996 found Petitioner Keller \u201cguilty\u201d of vehicular assault under former RCW 46.61.522(1)(b) and felony hit and run under RCW 46.52.020.\nAt the sentencing hearing on February 18, 1997, the trial court, the Honorable Joan E. DuBuque, concluded it was established by the State that Petitioner \u201chad two prior convictions, and that they . . . qualify under the Persistent Offender Act.\u201d The court then indicated its intention to impose sentence as follows:\nIn Count I, in accordance with the law, the Court is going to impose the sentence of life imprisonment, without the possibility of parole, or early release. . . . [and Petitioner] is to be given credit for time served of three hundred seventy days.[]\nPetitioner was previously convicted of second degree assault in Washington in 1979 and convicted of aggravated assault in Arizona in 1983. He served his sentences in those cases concurrently. The trial court counted Petitioner\u2019s two prior convictions as \u201ctwo strikes\u201d and this vehicular assault conviction as a \u201cthird strike\u201d under the Persistent Offender Act. The court on February 18, 1997 signed a judgment and sentence finding that petitioner was a persistent offender and sentencing him to life in prison without early release. Petitioner appealed the decision to the Court of Appeals, Division One, on February 21, 1997.\nUnder the Persistent Offender Act, former RCW 9.94A.030(25) stated that an offense would be considered a \u201cstrike\u201d only if it \u201cwould be included in the offender score under RCW 9.94A.360.\u201d Petitioner claims this phrase refers to the entire statute, including former RCW 9.94A.360(6)(c), which contained language that \u201c[i]n the case of multiple prior convictions committed before July 1, 1986, for the purpose of computing the offender score, [the sentencing court must] count all adult convictions served concurrently as one offense.\u201d Petitioner claims that since the sentences for his two prior felony convictions were served concurrently, they should count as only \u201cone strike\u201d Tinder the Persistent Offender Act. Respondent State of Washington asserts the phrase in the Act refers only to subsection (2), the \u201cwashout\u201d provision of RCW 9.94A.360. Respondent argues that Petitioner\u2019s two prior felony convictions should count as \u201ctwo strikes,\u201d even though the sentences were served concurrently, because neither of them \u201cwashed out\u201d under RCW 9.94A.360(2) which provides, in part, \u201cClass A and sex prior felony convictions shall always be included in the offender score.\u201d\nOn December 13, 1999, the Court of Appeals, the Honorable Ronald E. Cox writing, affirmed the trial court\u2019s decision and held \u201cthe phrase \u2018included in the offender score under [former] RCW 9.94A.360\u2019 as used in former RCW 9.94A.030(25) refers specifically to the washout provisions set forth in former RCW 9.94A.360(2)\u201d and that \u201c[t]he phrase is not interchangeable with the provisions of former RCW 9.94A.360(6)(c).\u201d The Court of Appeals agreed with the trial court and concluded Petitioner Keller\u2019s prior felony convictions counted as two strikes and that he was a persistent offender under the Persistent Offender Act.\nOn December 30, 1999 Petitioner filed a motion for discretionary review in this court. On June 30, 2000, this court granted review limited to the persistent offender issue.\nDISCUSSION\nFormer RCW 9.94A.030(25) provided:\n(25) \u201cPersistent offender\u201d is an offender who:\n(a) Has been convicted in this state of any felony considered a most serious offense; and\n(b) Has, before the commission of the offense under (a) of this subsection, been convicted as an offender on at least two separate occasions, whether in this state or elsewhere, of felonies that under the laws of this state would be considered most serious offenses and would be included in the offender score under RCW 9.94A.360; provided that of the two or more previous convictions, at least one conviction must have occurred before the commission of any of the other most serious offenses for which the offender was previously convicted.[]\nUnder RCW 9.94A.120(4) \u201c[a] persistent offender shall be sentenced to a term of total confinement for life without the possibility of parole\u201d unless sentenced to death under RCW 10.95.030.\nPetitioner claims the phrase \u201cwould be included in the offender score under RCW 9.94A.360\u201d applies to the entire Sentencing Reform Act of 1981, including former RCW 9.94A.360(6)(c), which read:\nIn the case of multiple prior convictions for offenses committed before July 1, 1986, for the purpose of computing the offender score, count all adult convictions served concurrently as one offense, and count all juvenile convictions entered on the same date as one offense. Use the conviction for the offense that yields the highest offender score.\nPetitioner claims that since the sentences under his two prior felony convictions were served concurrently and counted as only one conviction for the purpose of computing his offender score, under former RCW 9.94A.360(6)(c) those convictions should count as only one \u201cstrike\u201d under the Persistent Offender Act. Respondent argues the words \u201cone offense\u201d in subsection (c) refer to the \u201cwashout\u201d provision of former RCW 9.94A.360(2). Respondent reasons that Petitioner\u2019s two prior felony convictions, the sentences for which were served concurrently, should count as two \u201cstrikes\u201d under the Persistent Offender Act unless they were \u201cwashed out\u201d under subsection (2).\nThe \u201cwashout\u201d portion of the offender score statute in former RCW 9.94A.360(2) and the out-of-state conviction section (3) read:\n(2) Except as provided in subsection (4) of this section, class A and sex prior felony convictions shall always be included in the offender score. Class B prior felony convictions other than sex offenses shall not be included in the offender score, if since the last date of release from confinement (including full-time residential treatment) pursuant to a felony conviction, if any, or entry of judgment and sentence, the offender had spent ten consecutive years in the community without being convicted of any felonies. Class C prior felony convictions other than sex offenses shall not be included in the offender score if, since the last date of release from confinement (including full-time residential treatment) pursuant to a felony conviction, if any, or entry of judgment and sentence, the offender had spent five consecutive years in the community without being convicted of any felonies. Serious traffic convictions shall not be included in the offender score if, since the last date of release from confinement (including full-time residential treatment) pursuant to a felony conviction, if any, or entry of judgment and sentence, the offender spent five years in the community without being convicted of any serious traffic or felony traffic offenses. This subsection applies to both adult and juvenile prior convictions.\n(3) Out-of-state convictions for offenses shall be classified according to the comparable offense definitions and sentences provided by Washington law.\nThe Court of Appeals affirmed the decision of the trial court, which concluded the \u201cone offense\u201d language in former RCW 9.94A.360(6)(c) refers only to the \u201cwash out\u201d provision of former RCW 9.94A.360 and sentenced Petitioner Keller to life in prison without the possibility of parole or early release. The principal question to be determined by this court is whether the phrase \u201cwould be included in the offender score under 9.94A.360\u201d refers to all other sections of the Sentencing Reform Act of 1981, chapter 9.94A RCW.\nStatutory interpretation is a question of law, which this court reviews de novo. Courts should assume the Legislature means exactly what it says. Plain words do not require construction. The courts do not engage in statutory interpretation of a statute that is not ambiguous. If a statute is plain and unambiguous, its meaning must be derived from the wording of the statute itself. A statute is ambiguous if it can reasonably be interpreted in two or more ways, but it is not ambiguous simply because different interpretations are conceivable. The courts are not \u201cobliged to discern any ambiguity by imagining a variety of alternative interpretations.\u201d\nIn this case the phrase \u201cwould be included in the offender score under RCW 9.94A.360\u201d cannot reasonably be interpreted to mean anything but what it says. The phrase refers to the entire offender score statute, RCW 9.94A.360, and does not limit its application to one section or subsection. In this case we must assume the Legislature meant exactly what it said. We conclude the statute is not ambiguous.\nWhen the language of a statute is clear and unambiguous the meaning is derived from the words of the statute itself. When construing a statute we read the statute in its entirety. \u201cEach provision must be viewed in relation to other provisions and harmonized, if at all possible . . . .\u201d Statutes must be construed so that all language is given effect with no portion rendered meaningless or superfluous. The court must also avoid constructions \u201cthat yield unlikely, strange or absurd consequences.\u201d\nRespondent argues that Petitioner\u2019s proposed construction would lead to absurd results, rewarding offenders simply because they committed their second offense while on parole and served their sentences concurrently. Respondent suggests Petitioner\u2019s interpretation would render RCW 9.94A.360(2) superfluous because class A and prior sex felony convictions would not under that circumstance be separately counted in the offender score if the sentences were served concurrently.\nUnder Petitioner\u2019s interpretation, even sentences for two or more class A felonies, including prior sex felonies, which were served concurrently would not be separately counted in the offender score. That interpretation is inconsistent with subsection (2) of RCW 9.94A.360 which states that \u201c[c]lass A and sex prior felonies shall always be included in the offender score.\u201d Petitioner\u2019s interpretation would render RCW 9.94A.360(2) meaningless or superfluous. The phrase \u201cwould be included in the offender score under RCW 9.94A.360\u201d refers to the entire statute, RCW 9.94A.360. It does not apply only to subsection 6(c). We must construe the language to give meaning to the entire statute.\nPetitioner claims the Legislature intended the words \u201cinclude\u201d and \u201ccount\u201d to have the same meaning because they have historically been used interchangeably and have similar definitions. Respondent answers that the Legislature intentionally used different words in the statute and that it intended \u201cinclude\u201d and \u201ccount\u201d to have different meanings. The Court of Appeals reasoned it could be inferred that the words \u201cinclude\u201d and \u201ccount\u201d were intended to have different meanings because they are two different words used in the same statute. If the Legislature uses \u201cspecific language in one instance and dissimilar language in another, a difference in legislative intent may be inferred.\u201d When the Legislature uses different words in the same statute, it usually means it intended the words to have different meanings. However, the courts must look at the entire statute and interpret the provisions to give meaning to all parts of it. In reading the entire Sentencing Reform Act of 1981, chapter 9.94A RCW, we conclude the word \u201cincluded\u201d in RCW 9.94A.030(25)(b) and the word \u201ccount\u201d in RCW 9.94A.360(6)(c) have different meanings.\nPetitioner argues the Court of Appeals was in error in concluding his two prior felony convictions should be separately counted under the Persistent Offender Act because those convictions are counted as only one offense when calculating his offender score. He cites State v. Cruz to support his assertion that the Persistent Offender Act was referring to the entire statute, including subsection (6)(c).\nIn Cruz the court determined whether a rape conviction which was previously washed out could figure into the defendant\u2019s offender score when a statutory amendment was later adopted stating sex felonies could never wash out. The court held the new statute applied prospectively only and did not revive the defendant\u2019s previously washed out conviction. The court concluded defendant Cruz\u2019 criminal history did not include his prior conviction which had washed out, stating that \u201ca conviction for purposes of implementing the [Persistent Offender Act] must also be a conviction that forms part of the defendant\u2019s offender score.\u201d\nPetitioner\u2019s reliance on Cruz is misplaced. The court concluded Mr. Cruz\u2019 prior conviction washed out, was no longer part of his criminal history, and could not be in-eluded in his offender score. It was thus not counted as a \u201cstrike\u201d under the Persistent Offender Act. The case did not involve concurrent sentences.\nPetitioner cites State v. Morley in which the defendant was sentenced to life imprisonment under the Persistent Offender Act after pleading \u201cguilty\u201d to three counts of second degree child molestation counting as his third \u201cstrike.\u201d He challenged his second offense, a military general court-martial in which he was found \u201cguilty\u201d of robbery and assault. The court concluded the court-martial conviction should be included in the offender score and then decided it would count as a \u201cstrike\u201d under the Persistent Offender Act. The court declared four elements necessary for determining that a person is a persistent offender, the fourth element requiring that prior convictions \u201cbe included in the offender score under RCW 9.94A.360.\u201d The court indicated that, to satisfy the fourth element, the conviction must be \u201ccomparable to a Washington offense and the conviction does not wash out.\u201d The case did not involve concurrent sentences.\nPetitioner also cites State v. Berry in which this court interpreted former RCW 9.94A.030(27)(a)(ii) (formerly subsection (25)), under the Persistent Offender Act to determine whether the defendant\u2019s prior assault convictions would be considered \u201cmost serious offenses.\u201d The court merely mentioned in a footnote that none of the defendant\u2019s prior convictions had washed out. The case did not involve concurrent sentences.\nBoth Petitioner Keller and Respondent State filed supplemental briefs on September 6, 2000. The Washington Association of Criminal Defense Lawyers filed a brief amicus curiae on September 26, 2000. Respondent on September 29, 2000 filed a motion to strike pages 7 through 11 of Petititoner\u2019s supplemental brief. The motion was passed to the merits for consideration by the court at the time of oral argument.\nAlthough full oral argument was allowed on all matters referred to in Petitioner\u2019s supplemental brief, we nevertheless grant Respondent\u2019s motion to strike pages 7 through 11 of Petitioner\u2019s supplemental brief relating to classification of Petitioner\u2019s 1983 conviction and sentence for aggravated assault under Arizona Revised Statute \u00a7 13-1204 as comparable to a \u201cmost serious offense,\u201d and consequently a \u201cstrike,\u201d under Washington\u2019s Persistent Offender Accountability Act.\nWe are satisfied the trial court had before it sufficient certified documents (including the indictment, statement on plea of \u201cguilty,\u201d judgment and sentence, and presentence report) from the State of Arizona to establish that Petitioner entered pleas of \u201cguilty\u201d on March 9, 1983 to two counts of an indictment which charged in Count I that:\nLAWRENCE JOHN KELLER, on or about the 1st day of MARCH, 1982, using a dangerous weapon or dangerous instrument, to-wit: a shotgun, intentionally placed ROBERT NEIL SNIDER in reasonable apprehension of imminent physical injury, in violation of A.R.S. \u00a7\u00a7 13-1204 (A)(2)(B), 13-1203 (A)(2), 13-701, 13-702 and 13-801.[]\nThe trial court during the sentencing hearing on February 18, 1997 concluded that Petitioner \u201chad two prior convictions, and that they otherwise qualify under the Persistent Offender Act.\u201d and specifically that the plea to aggravated assault \u201cunder Arizona law [was] equivalent ... to a Class C Felony,... [which] makes it count\u201d as a most serious offense under the Persistent Offender Act.\nUnder RCW 9.94A.030(29), \u201cmost serious offense\u201d means any of the specified felonies, including \u201c[a]ssault in the second degree\u201d under subsection (b) and \u201c[v]ehicular assault\u201d under subsection (q). Under RCW 9A.36.021(1)(c) \u201c[a] person is guilty of assault in the second degree if [the person], under circumstances not amounting to assault in the first degree: . . . [a]ssaults another with a deadly weaponf.]\u201d\nWe conclude the trial court properly determined Petitioner\u2019s 1983 Arizona conviction for assault, \u201cusing a dangerous weapon or dangerous instrument... a shotgun, . . . intentionally [placing] Robert Neil Snider in reasonable apprehension of imminent physical injury,\u201d was comparable to assault in the second degree under Washington law and counts as a \u201cstrike\u201d under our Persistent Offender Act.\nWe agree with the Court of Appeals and affirm its conclusion upholding the decision of the Ring County Superior Court.\nSUMMARY AND CONCLUSIONS\nThe interpretation of a statute is a matter of law. Courts do not engage in statutory construction of a statute that is not ambiguous. Where a statute is unambiguous, the meaning must be derived from the wording of the statute itself. A statute is ambiguous when it can reasonably be interpreted in two or more ways.\nThe Court of Appeals correctly concluded former RCW 9.94A.030(25) was not ambiguous. The phrase \u201cincluded in the offender score under RCW 9.94A.360\u201d stated in the Persistent Offender Act refers to the entire statute and cannot reasonably be interpreted to mean two different things. The statute is not ambiguous, and thus is not subject to the rule of strict construction.\nWe affirm the decision of the Court of Appeals, Division One, which affirmed the judgment of the King County Superior Court holding that Petitioner Lawrence John Keller\u2019s two prior felony convictions counted as two \u201cstrikes\u201d under the Persistent Offender Accountability Act, although they counted as only one conviction in calculating his offender score, and sentenced him to life imprisonment without the possibility of parole.\nIreland and Bridge, JJ., and Guy and Talmadge, JJ. Pro Tem., concur.\nState v. Keller, 98 Wn. App. 381, 990 P.2d 423 (1999).\nId. at 390; former RCW 9.94A.030(25).\nThe State of Washington originally charged Petitioner on December 21, 1994 with one count of vehicular assault under former RCW 46.61.522(1)(b) and with one count of assault in the fourth degree under former RCW 9A.36.041. Clerk\u2019s Papers at 1-2. The State amended the information on May 16, 1996 to charge Petitioner with felony hit and run under former RCW 46.52.020 and assault in the second degree under former 9A.36.020(1)(f) instead of assault in the fourth degree. Clerk\u2019s Papers at 220-21.\nClerk\u2019s Papers at 254-55.\nClerk\u2019s Papers at 258.\nClerk\u2019s Papers at 405.\nReport of Proceedings at 2821.\nReport of Proceedings at 2826.\nClerk\u2019s Papers at 707.\nId.\nId. at 433.\nClerk\u2019s Papers at 436.\nFormer RCW 9.94A.030(25)(b) defined \u201cPersistent offender\u201d as one who: \u201cHas, before the commission of the offense under (a) of this subsection, been convicted as an offender on at least two separate occasions, whether in this state or elsewhere, of felonies that under the laws of this state would be considered most serious offenses and would be included in the offender score under RCW 9.94A.360.\u201d The statute, in almost identical wording, is now codified as RCW 9.94A.030(29)(b)(ii).\n\u201cPetition for Discretionary Review\u201d at 7, 12. Former RCW 9.94A.360(6)(c) provided, \u201cIn the case of multiple prior convictions for offenses committed before July 1, 1986, for the purpose of computing the offender score, count all adult convictions served concurrently as one offense, and count all juvenile convictions entered on the same date as one offense. Use the conviction for the offense that yields the highest offender score.\u201d The statute, in identical wording, is now codified as RCW 9.94A.360(5)(a)(ii).\nId. at 10.\nSuppl. Br. of Resp\u2019t at 5.\nId.\nKeller, 98 Wn. App. at 390 (alteration in original).\nId.\nReview was granted only on the persistent offender issue discussed in the published portion of the Court of Appeals opinion.\n(Emphasis added.) Former RCW 9.94A.030(25) is now codified as RCW 9.94A.030(29)(6)(ii).\nPet. for Discretionary Review at 7, 12 (emphasis added). Former RCW 9.94A.360(6)(c) is now codified as RCW 9.94A.360(5)(a)(ii).\nId. at 7.\nThe language in the current version of the statute is substantially identical to the language in the former version.\nSuppl. Br. of Resp\u2019t at 5.\nKeller, 98 Wash. App. at 390.\nW. Telepage, Inc. v. City of Tacoma Dep\u2019t of Fin., 140 Wn.2d 599, 607, 998 P.2d 884 (2000) (citing Enter. Leasing, Inc. v. City of Tacoma, 139 Wn.2d 546, 988 P.2d 961 (1999)).\nW. Telepage, 140 Wn.2d at 609 (citing State v. McCraw, 127 Wn.2d 281, 288, 898 P.2d 838 (1995) (quoting Sidis v. Brodie/Dohrmann, Inc., 117 Wn.2d 325, 329, 815 P.2d 781 (1991))); State v. Smith, 117 Wn.2d 263, 271, 814 P.2d 652 (1991).\nId.\nDavis v. Dep\u2019t of Licensing, 137 Wn.2d 957, 963, 977 P.2d 554 (1999) (citing Whatcom County v. City of Bellingham, 128 Wn.2d 537, 546, 909 P.2d 1303 (1996)).\nState v. Tili, 139 Wn.2d 107, 115, 985 P.2d 365 (1999).\nId.\nW. Telepage, 140 Wn.2d at 608.\nId.\nId.\nTili, 139 Wn.2d at 115.\nIn re Post Sentencing Review of Charles, 135 Wn.2d 239, 249, 955 P.2d 798 (1998); see State v. Thorne, 129 Wn.2d 736, 762-63, 921 P.2d 514 (1996).\nThorne, 129 Wn.2d at 761; see State v. Young, 125 Wn.2d 688, 888 P.2d 142 (1995).\nDavis, 137 Wn.2d at 963 (citing Whatcom County, 128 Wn.2d at 546 (citing Stone v. Chelan County Sheriff\u2019s Dep\u2019t, 110 Wn.2d 806, 810, 756 P.2d 736 (1988))).\nState v. Contreras, 124 Wn.2d 741, 747, 880 P.2d 1000 (1994); see Homemakers Upjohn v. Russell, 33 Wn. App. 777, 780, 658 P.2d 27 (1983).\nSuppl. Br. of Resp\u2019t at 14. Petitioner was on parole in Washington when he was convicted in Arizona in 1983.\nId. at 17.\nRCW 9.94A.360(2) (emphasis added).\nDavis, 137 Wn.2d at 963 (citing Whatcom County, 128 Wn.2d at 546).\nPet. for Discretionary Review at 10-11.\nSuppl. Br. of Resp\u2019t at 11-12.\nKeller, 98 Wn. App. at 387.\nIn re Pers. Restraint of Sietz, 124 Wn.2d 645, 651, 880 P.2d 34 (1994).\nId.\nPet. for Discretionary Review at 10; State v. Cruz, 139 Wn.2d 186, 985 P.2d 384 (1999).\nSuppl. Br. of Pet\u2019r at 19-20.\nCruz, 139 Wn.2d at 189.\nId. at 193.\nId.\nId. at 190.\nId. at 193.\nId.\nState v. Morley, 134 Wn.2d 588, 592, 952 P.2d 167 (1998).\nId.\nId. at 602.\nId. at 604.\nId.\nState v. Berry, 141 Wn.2d 121, 130, 5 P.3d 658 (2000).\nId. at 130 n.9.\nClerk\u2019s Papers at 703-59.\nClerk\u2019s Papers at 719-21, 753.\nReport of Proceedings at 2821, 2825.",
+        "type": "majority",
+        "author": "Smith, J."
+      },
+      {
+        "text": "Alexander, C.J.\n(dissenting) \u2014 The Persistent Offender Accountability Act, commonly referred to as the \u201cthree strikes\u201d law, was passed by initiative and is subsumed within the Sentencing Reform Act of 1981 (SRA). It requires every \u201cpersistent offender\u201d to be sentenced to life imprisonment without the possibility of parole. RCW 9.94A. 120(4). As the majority observes, a persistent offender is one who is convicted in this state of \u201cany felony considered a most serious offense\u201d and has, before the commission of the latest offense,\nbeen convicted as an offender on at least two separate occasions, whether in this state or elsewhere, of felonies that under the laws of this state would be considered most serious offenses and would be included in the offender score under RCW 9.94A.360; provided that of the two or more previous convictions, at least one conviction must have occurred before the commission of any of the other most serious offenses for which the offender was previously convicted [.]\nRCW 9.94A.030(29)(a)(i), (ii) (emphasis added).\nThere is no dispute about the fact that Lawrence Keller\u2019s current conviction for vehicular assault, as well as his prior conviction in this state for second degree assault, are most serious offenses. I also agree with the majority that Keller\u2019s prior Arizona conviction qualifies as a most serious offense. I disagree, though, with the majority\u2019s conclusion that Keller falls within the definition of \u201cpersistent offender\u201d on the basis that his prior convictions, both of which occurred before July 1, 1986, \u201cwould be included in the offender score under RCW 9.94A.360.\u201d RCW 9.94A.030(29)(a)(ii).\nAs the above definition of \u201cpersistent offender\u201d indicates, RCW 9.94A.360 sets forth the rules for calculating the offender score for sentencing purposes. The Court of Appeals and the majority looked for language in that statute that echoed the \u201cincluded in the offender score\u201d language of RCW 9.94A.030(29)(a)(ii), finding it in subsection (2). In relevant part that subsection provides:\nClass A and sex prior felony convictions shall always be included in the offender score. Class B prior felony convictions other than sex offenses shall not be included in the offender score, if since the last date of release from confinement . . . pursuant to a felony conviction . . . the offender had spent ten consecutive years in the community without committing any crime that subsequently results in a conviction. Class C prior felony convictions other than sex offenses shall not be included in the offender score if, since the last date of release from confinement. . . pursuant to a felony conviction . . . the offender had spent five consecutive years in the community without committing any crime that subsequently results in a conviction.\nRCW 9.94A.360(2) (emphasis added).\nUnder case law, offenses which \u201cshall not be included in the offender score\u201d pursuant to the above provision are said to have \u201cwashed out.\u201d See State v. Cruz, 139 Wn.2d 186, 189, 985 P.2d 384 (1999). In the view of the Court of Appeals and the majority, this is the only provision to which the definition of \u201cpersistent offender\u201d refers when it says that the defendant must have been convicted of two prison offenses that \u201cwould be included in the offender score.\u201d RCW 9.94A.030(29)(a)(ii). Since Keller did not remain crime-free long enough for his prior convictions to \u201cwash out\u201d under RCW 9.94A.360(2), the Court of Appeals and the majority determined that his conviction would be \u201cincluded\u201d in his offender score and, therefore, count as two \u201cstrikes\u201d against him under the \u201cthree strikes\u201d law.\nKeller argued at the Court of Appeals and here that his prior convictions are subject to another part of RCW 9.94A.360; specifically, subsection (5)(a)(ii). That provision states that \u201cin the case of multiple prior convictions for offenses committed before July 1, 1986, for purposes of computing the offender score, count all adult convictions served concurrently as one offense,\u201d using \u201cthe conviction for the offense that yields the highest offender score.\u201d (Emphasis added.) Keller reasons that because he committed his prior crimes before July 1, 1986, and served his sentences concurrently, those crimes \u201ccount\u201d as only one for purposes of computing his offender score. He asserts, therefore, that only one crime is \u201cincluded\u201d in his offender score and he, therefore, has only one \u201cstrike.\u201d\nThe majority, like the Court of Appeals, has rejected Keller\u2019s argument. As noted above, it relies on the fact that only the washout provisions mirror the definition of \u201cpersistent offender\u201d by using the phrase \u201cincluded in the offender score,\u201d whereas RCW 9.94A.360(5)(a)(ii) says that concurrently served prior convictions shall \u201ccount\u201d as one offense in computing the offender score. The majority reasons that \u201c[w]hen the Legislature uses different words in the same statute, it usually means it intended the words to have different meanings.\u201d Majority at 278. It concludes, therefore, that RCW 9.94A.030(29) unambiguously means that a prior conviction for a most serious offense is included in the offender score unless it is subject to the washout provisions in RCW 9.94A.360.\nIn concluding that the term \u201cpersistent offender\u201d unambiguously refers only to the washout provisions, the majority is not swayed by the fact that the terms \u201ccount\u201d and \u201cinclude\u201d have been used interchangeably by this court when discussing offender scores. See State v. Morley, 134 Wn.2d 588, 171, 952 P.2d 167 (1998). Furthermore, because it holds that the definition of \u201cpersistent offender\u201d is unambiguous, it declines to give Keller the benefit of the rule of lenity.\nThe majority\u2019s decision is problematic and, as I indicated above, I disagree with it. On the last point mentioned above, it seems odd for the majority to devote significant space to analyzing legislative intent only to conclude that the statute is unambiguous. Also, the majority appears to have examined the intent behind the statute from the wrong perspective. The interpretation of the persistent offender statute is not a matter of gleaning the Legislature\u2019s intent. The so-called \u201cthree strikes\u201d law was enacted by the people as an initiative. Thus, while the basic rules of construction are the same as those applicable to statutes passed by the Legislature, interpretation must focus on the collective intent of the voters. State v. Thorne, 129 Wn.2d 736, 763, 921 P.2d 514 (1996). Here the majority incorrectly analyzed the issue as a matter of what the Legislature likely had in mind when it enacted the statute.\nAddressing myself to the merits, the interaction between the persistent offender statute and the offender score provisions of the SRA seems at least ambiguous. Unquestionably, any offense not \u201cincluded in the offender score\u201d under the washout provisions would not count as a \u201cstrike\u201d under the persistent offender statute, since the definition of \u201cpersistent offender\u201d uses precisely the same language. It is not entirely clear, however, that the voters intended that only the washout provisions would govern whether a prior offense is \u201cincluded in the offender score.\u201d Although RCW 9.94A.360(5)(a)(ii) contains the word \u201ccount\u201d instead of \u201cincluded,\u201d it cannot be said that the context in which that term is used is so different as to give it an entirely different meaning. As noted above, RCW 9.94A.360(5)(a)(ii) provides that all adult convictions before July 1, 1986, that were served concurrently are to be treated as one offense \u201cfor the purpose of computing the offender score,\u201d with the offense that yields the highest score being the one the sentencing court must \u201cuse.\u201d If the sentencing court may \u201cuse\u201d only one of the prior offenses computing the offender score, then it is reasonable to assume that offense is \u201cincluded\u201d in the offender score. The fact that the word \u201ccount\u201d was used rather than \u201cincluded\u201d in RCW 9.94A.360(5)(a)(ii) may simply indicate that the drafters believed it to be the more appropriate term under the circumstances. It is difficult to divine from that difference in terms any particular intent on the voters\u2019 part with respect to the \u201cthree strikes\u201d law.\nWhile one could argue that considering prior concurrently served crimes as one offense is not entirely consistent with the intent expressed in RCW 9.94A.392 to more severely punish repeat serious offenders, neither is the application of the washout provisions. Even under those provisions, a defendant with multiple prior Class B felonies will not have strikes if that defendant has been crime-free for 10 years.\nThe majority makes the point that Keller\u2019s position is inconsistent with the portion of RCW 9.94A.360(2) that provides that \u201cClass A and sex prior felony convictions shall always be included in the offender score.\u201d It observes, in that regard, that under Keller\u2019s interpretation multiple Class A or sex offenses that were committed before July 1, 1986, and served concurrently, would be considered as only one offense. While this may be one reason for concluding that subsection (5)(a)(ii) was not meant to be used in defining what prior offenses count as strikes, it also underscores the ambiguity of the statute on this point.\nIn sum, it is my view that it is not at all clear that the definition of \u201cpersistent offender\u201d refers to only the washout provisions of RCW 9.94A.360(2). It is well established that a statute is ambiguous if it can be reasonably interpreted in two or more ways. State v. Tili, 139 Wn.2d 107, 115, 985 P.2d 365 (1999). In my view, Keller has presented a reasonable argument that his two prior convictions are subject to the provisions of RCW 9.94A.360(5)(a)(ii) and, therefore, \u201ccount\u201d as only one in computing his offender score. Particularly in light of the fact that a life sentence without the possibility of parole is at stake here, we should be free of doubt about the meaning of the statutes in question before we reject that argument. Because I am left with substantial doubt, I would resolve the ambiguity in favor of Keller per the rule of lenity.\nJohnson, Madsen, and Sanders, JJ., concur with Alexaner, C.J.",
+        "type": "dissent",
+        "author": "Alexander, C.J."
+      }
+    ],
+    "attorneys": [
+      "Kenneth S. Kagan (of Carney, Badley, Smith & Spellman), for petitioner.",
+      "Lawrence J. Keller, pro se.",
+      "Norm Maleng, Prosecuting Attorney, and Stephen G. Teply, Amy J. Freedheim, and James M. Whisman, Deputies, for respondent.",
+      "Suzanne L. Elliott on behalf of Washington Association of Criminal Defense Lawyers, amicus curiae."
+    ],
+    "corrections": "",
+    "head_matter": "[No. 68993-8.\nEn Banc.]\nArgued October 26, 2000.\nDecided March 22, 2001.\nThe State of Washington, Respondent, v. Lawrence John Keller, Petitioner.\nKenneth S. Kagan (of Carney, Badley, Smith & Spellman), for petitioner.\nLawrence J. Keller, pro se.\nNorm Maleng, Prosecuting Attorney, and Stephen G. Teply, Amy J. Freedheim, and James M. Whisman, Deputies, for respondent.\nSuzanne L. Elliott on behalf of Washington Association of Criminal Defense Lawyers, amicus curiae."
+  },
+  "file_name": "0267-01",
+  "first_page_order": 341,
+  "last_page_order": 362
+}

@@ -1,0 +1,179 @@
+{
+  "id": 1370252,
+  "name": "The State of Washington, Petitioner, v. Joseph D. Smith, Respondent",
+  "name_abbreviation": "State v. Smith",
+  "decision_date": "1992-07-02",
+  "docket_number": "No. 58945-3",
+  "first_page": "385",
+  "last_page": "390",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "119 Wash. 2d 385"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Wash.",
+    "id": 9029,
+    "name": "Washington Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 38,
+    "name_long": "Washington",
+    "name": "Wash."
+  },
+  "cites_to": [
+    {
+      "cite": "790 P.2d 250",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1990,
+      "opinion_index": 0
+    },
+    {
+      "cite": "57 Wn. App. 921",
+      "category": "reporters:state",
+      "reporter": "Wash. App.",
+      "case_ids": [
+        1757162
+      ],
+      "year": 1990,
+      "pin_cites": [
+        {
+          "page": "923"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-app/57/0921-01"
+      ]
+    },
+    {
+      "cite": "757 P.2d 492",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1988,
+      "opinion_index": 0
+    },
+    {
+      "cite": "110 Wn.2d 682",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        1182871
+      ],
+      "year": 1988,
+      "pin_cites": [
+        {
+          "page": "685"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/110/0682-01"
+      ]
+    },
+    {
+      "cite": "63 Wn. App. 1046",
+      "category": "reporters:state",
+      "reporter": "Wash. App.",
+      "case_ids": [
+        1732920,
+        1733001,
+        1733028,
+        1732822
+      ],
+      "year": 1992,
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-app/63/0976-02",
+        "/wash-app/63/0976-03",
+        "/wash-app/63/0976-04",
+        "/wash-app/63/0976-01"
+      ]
+    },
+    {
+      "cite": "117 Wn.2d 1023",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "weight": 2,
+      "year": 1991,
+      "opinion_index": 0
+    },
+    {
+      "cite": "809 P.2d 1374",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "weight": 2,
+      "year": 1991,
+      "opinion_index": 0
+    },
+    {
+      "cite": "116 Wn.2d 917",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        1376218
+      ],
+      "weight": 2,
+      "year": 1991,
+      "pin_cites": [
+        {
+          "page": "919"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/116/0917-01"
+      ]
+    },
+    {
+      "cite": "809 P.2d 763",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "weight": 2,
+      "year": 1991,
+      "opinion_index": 0
+    },
+    {
+      "cite": "61 Wn. App. 277",
+      "category": "reporters:state",
+      "reporter": "Wash. App.",
+      "case_ids": [
+        1729475
+      ],
+      "weight": 3,
+      "year": 1991,
+      "pin_cites": [
+        {
+          "page": "279"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-app/61/0277-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 416,
+    "char_count": 7140,
+    "ocr_confidence": 0.768,
+    "pagerank": {
+      "raw": 3.2385895659525697e-07,
+      "percentile": 0.8681737815602377
+    },
+    "sha256": "476f97e34990c7d5a46ab9ea3680dcc9aaccb9ff3cced438e8aaf3cfaf7dbd46",
+    "simhash": "1:6ff0abcaa62ea6a9",
+    "word_count": 1185
+  },
+  "last_updated": "2024-02-27T20:54:39.105269+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "file_name": "0385-01",
+  "first_page_order": 419,
+  "last_page_order": 424
+}

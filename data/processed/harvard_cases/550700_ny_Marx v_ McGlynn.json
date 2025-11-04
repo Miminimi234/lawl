@@ -1,0 +1,645 @@
+{
+  "id": 550700,
+  "name": "Catharine Henrietta Marx, Appellant, v. Edward McGlynn as Executor, etc., et al., Respondents",
+  "name_abbreviation": "Marx v. McGlynn",
+  "decision_date": "1882-03-21",
+  "docket_number": "",
+  "first_page": "357",
+  "last_page": "377",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "88 N.Y. 357"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "N.Y.",
+    "id": 24653,
+    "name": "New York Court of Appeals"
+  },
+  "jurisdiction": {
+    "id": 1,
+    "name_long": "New York",
+    "name": "N.Y."
+  },
+  "cites_to": [
+    {
+      "cite": "6 N. Y. 567",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        2499311
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny/6/0524-01"
+      ]
+    },
+    {
+      "cite": "7 Barb. 226",
+      "category": "reporters:state",
+      "reporter": "Barb.",
+      "case_ids": [
+        4887015
+      ],
+      "pin_cites": [
+        {
+          "page": "230"
+        }
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/barb/7/0226-01"
+      ]
+    },
+    {
+      "cite": "43 N. Y. 803",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "3 Barb. Ch. 77",
+      "category": "reporters:state",
+      "reporter": "Barb. Ch.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "4 Abb. N. C. 384",
+      "category": "reporters:state",
+      "reporter": "Abb. N. Cas.",
+      "pin_cites": [
+        {
+          "page": "385"
+        }
+      ],
+      "opinion_index": -1
+    },
+    {
+      "cite": "63 N. Y. 504",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        527237
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny/63/0504-01"
+      ]
+    },
+    {
+      "cite": "46 Barb. 527",
+      "category": "reporters:state",
+      "reporter": "Barb.",
+      "case_ids": [
+        5150177
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/barb/46/0527-01"
+      ]
+    },
+    {
+      "cite": "11 N. Y. 157",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        2014724,
+        2014390
+      ],
+      "pin_cites": [
+        {
+          "page": "168, 169"
+        }
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny/11/0149-01",
+        "/wend/11/0157-01"
+      ]
+    },
+    {
+      "cite": "87 N. Y. 514",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        549505
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny/87/0514-01"
+      ]
+    },
+    {
+      "cite": "2 N. Y. 297",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        492207
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny/2/0297-01"
+      ]
+    },
+    {
+      "cite": "53 N. Y. 359",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "46 Barb. 518",
+      "category": "reporters:state",
+      "reporter": "Barb.",
+      "case_ids": [
+        5151096
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/barb/46/0518-01"
+      ]
+    },
+    {
+      "cite": "17 Wend. 393",
+      "category": "reporters:state",
+      "reporter": "Wend.",
+      "case_ids": [
+        2020889
+      ],
+      "weight": 2,
+      "opinion_index": -1,
+      "case_paths": [
+        "/wend/17/0222-01"
+      ]
+    },
+    {
+      "cite": "14 N. Y. 442",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "weight": 2,
+      "opinion_index": -1
+    },
+    {
+      "cite": "11 N. Y. 151",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "34 N. Y. 155",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        16519
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "190"
+        },
+        {
+          "page": "156"
+        }
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny/34/0155-01"
+      ]
+    },
+    {
+      "cite": "7 N. Y. 242",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "pin_cites": [
+        {
+          "page": "249, 260"
+        }
+      ],
+      "opinion_index": -1
+    },
+    {
+      "cite": "4 Abb. N. C. 323",
+      "category": "reporters:state",
+      "reporter": "Abb. N. Cas.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "23 N. Y. 298",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "314, 316"
+        },
+        {
+          "page": "314"
+        }
+      ],
+      "opinion_index": -1
+    },
+    {
+      "cite": "5 Barb. 139",
+      "category": "reporters:state",
+      "reporter": "Barb.",
+      "case_ids": [
+        5778162
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "140, 144"
+        }
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/barb/5/0139-01"
+      ]
+    },
+    {
+      "cite": "9 Hun, 150",
+      "category": "reporters:state",
+      "reporter": "Hun,",
+      "opinion_index": -1
+    },
+    {
+      "cite": "71 N. Y. 345",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        2168008
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "347"
+        }
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny/71/0345-01"
+      ]
+    },
+    {
+      "cite": "53 N. Y. 627",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        512945,
+        512924,
+        513037
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny/53/0627-03",
+        "/ny/53/0627-02",
+        "/ny/53/0627-01"
+      ]
+    },
+    {
+      "cite": "72 N. Y. 273",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "18 Pick. 115",
+      "category": "reporters:state",
+      "reporter": "Pick.",
+      "case_ids": [
+        2025384
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/mass/35/0115-01"
+      ]
+    },
+    {
+      "cite": "36 Miss. 190",
+      "category": "reporters:state",
+      "reporter": "Miss.",
+      "case_ids": [
+        8837573
+      ],
+      "pin_cites": [
+        {
+          "page": "248"
+        }
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/miss/36/0190-01"
+      ]
+    },
+    {
+      "cite": "21 Ga. 552",
+      "category": "reporters:state",
+      "reporter": "Ga.",
+      "case_ids": [
+        270885
+      ],
+      "pin_cites": [
+        {
+          "page": "572"
+        }
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ga/21/0552-01"
+      ]
+    },
+    {
+      "cite": "46 Mo. 147",
+      "category": "reporters:state",
+      "reporter": "Mo.",
+      "case_ids": [
+        8850978
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/mo/46/0147-01"
+      ]
+    },
+    {
+      "cite": "20 Wend. 457",
+      "category": "reporters:state",
+      "reporter": "Wend.",
+      "case_ids": [
+        2150271
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "480"
+        }
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/wend/20/0457-01"
+      ]
+    },
+    {
+      "cite": "3 Port. 115",
+      "category": "reporters:state",
+      "reporter": "Port.",
+      "case_ids": [
+        11255865
+      ],
+      "weight": 4,
+      "pin_cites": [
+        {
+          "page": "264, 266"
+        }
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/port/3/0115-01"
+      ]
+    },
+    {
+      "cite": "1 Hoff. Ch. 42",
+      "category": "reporters:state",
+      "reporter": "Hoff. Ch.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "20 Mo. 306",
+      "category": "reporters:state",
+      "reporter": "Mo.",
+      "case_ids": [
+        8855352
+      ],
+      "weight": 2,
+      "opinion_index": -1,
+      "case_paths": [
+        "/mo/20/0306-01"
+      ]
+    },
+    {
+      "cite": "35 N. Y. 559",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        16931
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny/35/0559-01"
+      ]
+    },
+    {
+      "cite": "7 Pick. 94",
+      "category": "reporters:state",
+      "reporter": "Pick.",
+      "case_ids": [
+        2056573
+      ],
+      "pin_cites": [
+        {
+          "page": "99, 100"
+        }
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/mass/24/0099-01"
+      ]
+    },
+    {
+      "cite": "4 Bradf. 311",
+      "category": "reporters:state",
+      "reporter": "Bradf.",
+      "case_ids": [
+        791276
+      ],
+      "pin_cites": [
+        {
+          "page": "320"
+        }
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/brad/4/0311-01"
+      ]
+    },
+    {
+      "cite": "36 Miss. 245",
+      "category": "reporters:state",
+      "reporter": "Miss.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "70 N. Y. 387",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        2166427
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny/70/0387-01"
+      ]
+    },
+    {
+      "cite": "68 N. Y. 149",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "152"
+        }
+      ],
+      "opinion_index": -1
+    },
+    {
+      "cite": "3 Mass. 236",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "case_ids": [
+        2005698
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/mass/3/0206-01"
+      ]
+    },
+    {
+      "cite": "9 N. Y. 380",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "9 Abb. N. C. 326",
+      "category": "reporters:state",
+      "reporter": "Abb. N. Cas.",
+      "case_ids": [
+        624543
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/abbn-cas/9/0326-01"
+      ]
+    },
+    {
+      "cite": "2 R. 8",
+      "category": "reporters:state_regional",
+      "reporter": "R.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "5 N. Y. 136",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        6096355
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny/5/0129-01"
+      ]
+    },
+    {
+      "cite": "3 Wheat. 563",
+      "category": "reporters:scotus_early",
+      "reporter": "Wheat.",
+      "case_ids": [
+        1443491
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/16/0563-01"
+      ]
+    },
+    {
+      "cite": "4 Abb. N. C. 385",
+      "category": "reporters:state",
+      "reporter": "Abb. N. Cas.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "7 Barb. 226",
+      "category": "reporters:state",
+      "reporter": "Barb.",
+      "case_ids": [
+        4887015
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/barb/7/0226-01"
+      ]
+    },
+    {
+      "cite": "87 N. Y. 514",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        549505
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny/87/0514-01"
+      ]
+    },
+    {
+      "cite": "2 N. Y. 297",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        492207
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "351"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny/2/0297-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 1833,
+    "char_count": 43153,
+    "ocr_confidence": 0.489,
+    "pagerank": {
+      "raw": 4.910423768855488e-06,
+      "percentile": 0.9988126720901489
+    },
+    "sha256": "cd4cfa6015c2f7b55504c82b8bedb1d26eff03eb08f4c8b9d37fb7ca7145e25f",
+    "simhash": "1:92a7f444c4069db5",
+    "word_count": 7797
+  },
+  "last_updated": "2024-02-27T18:19:55.831084+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Catharine Henrietta Marx, Appellant, v. Edward McGlynn as Executor, etc., et al., Respondents."
+    ],
+    "opinions": [
+      {
+        "text": "Earl, J.\nIn 1869 Catharine Henrietta Marx, Mary Caroline Marx and Emma Julia Marx, three unmarried sisters, were residing together in the city of Hew York as one household. Mary was about fifty years old, Catharine somewhat older, and Emma a few years younger. Their property consisted mostly of real estate, which they owned as tenants in common, and from which they received an annual income of about $15,000. They were brought up in the Protestant Episcopal Church, and were zealous and devoted members thereof. Then* usual place of worship was St. Alban\u2019s Church, where the services were of a highly ritualistic character. They were very much interested in those services and were active in promoting the interests of that church. Mary was a religious enthusiast, very much attached to her church and to her ministers. In the year named the respondent Bradley came to this country from England. He had graduated from Oxford University, and in 1868 was ordained a priest of the Church of England. He was licensed by the bishop of New York to preach and officiate as a priest in his diocese, and in the summer of 1869, he assisted in conducting the services at St. Alban\u2019s Church. Mary, the testatrix, was introduced to him there, and she invited him to her house, and he subsequently became very intimate with her, visiting her frequently, and accompanying her to religious services and to other places. In the latter part of that year, he expressed an intention of establishing a mission on the west side of the city for vagrants, and the three sisters, all of them having confidence in him, subscribed $100 toward the project. Soon thereafter he returned to England, and the testatrix and one of the ministers of St. Alban\u2019s Church went to the vessel to see him off. He returned in the early part of the summer of 1870 from England, and very soon thereafter called upon the testatrix at her home. He continued his calls upon her frequently, showing her great attention, taking her to religious services and to other places, and this state of things continued until September, when Bradley opened the oratory of St. Sacrament on Broadway, New York. She immediately became greatly interested in the oratory, the services of which were eccentric, resembling the services of the Boman Church more than those of the Protestant Episcopal Church, of which he claimed to be a priest. For some months she spent a large portion of her time at the oratory, and in July, 1871, she went there to live and adopted a full suit of mourning. The oratory proved a failure, and Bradley next opened a mission, and the testatrix went with him to the place of the mission called the Orphanage and remained there as housekeeper. But the mission was without orphans and also proved a failure. She remained at this Orphanage until December, 1871, when she was taken sick and her sister Catharine went to her and took her home. In January, 1872, Bradley announced his withdrawal from the Episcopal Church and the Church of England, and his conversion to the Eoman Catholic Church, and in that month he was formally received into the Eoman Catholic Church by the respondent, Dr. McGrlynn, a Catholic priest, at St. Stephen\u2019s Church, in the city of Hew York. Fourteen days after that the testatrix was also received into the Eoman Catholic Church by the same priest, Bradley standing as her god-father. During several months after her admission into the Eoman Catholic Church she remained at home with her sisters, Bradley calling upon her at her house frequently and remaining with her hours at a time. About June, 1872, the testatrix conceived the idea of going to Europe with Bradley. She left her property in charge of her sisters, giving them a power of attorney to manage the same. She went to the vessel with Bradley and another priest just prior to the time when the vessel was to sail, having just time to bid her sisters a hasty farewell. She remained in Europe until the spring of 1818. She visited the father and mother and relatives of Bradley, by whom she was well received and kindly treated. She spent more than half .the time while in Europe traveling with Bradley and living in the same places with him. She paid his expenses while traveling and while he was preparing for the priesthood in the Boman Catholic Church. He appears at all times to have been kind, attentive, considerate and grateful to her, and she regarded him with great affection, and was greatly interested in and evidently much attached to him. When separated they were in constant correspondence, addressing each other by endearing names, she frequently addressing him as her nephew and he her as his aunt. Her diary, which she kept during that time, contains frequent allusions to him. He was finally ordained to the priesthood in the Eoman Catholic Church in 18J5. She took great pride in him and regarded him as a very promising young man who would make his mark and wield great influence in the world. In February,-1878, Emma, who had been in failing health for some years, died, leaving a will in which she left a legacy of $500, to St. Alban\u2019s church and one of $1,000, to its rector and the rest of her property to her sister Catharine. In her will she stated that she left nothing to her sister Mary, \u201c for reasons which she will understand.\u201d Soon thereafter the testatrix learned of the contents of Emma\u2019s will and was very much displeased and offended. She expressed the belief that Emma had been improperly influenced in making her will and threatened to make trouble about it. During her whole stay in Europe she was in constant correspondence with her sisters, and the letters that passed between them were full of sisterly affection and confidence. About the 1st of April, 1878, she sailed for Mew York, leaving some of her personal effects in Liverpool. She went directly to the house of \"her sister Catharine and soon made claim that she should have half of her sister Emma\u2019s property, using threats of various kinds unless her demand was acceded to, and it was finally arranged that her sister should convey to her one-half of the property left by her sister Emma; and the conveyance was accordingly executed, so that the entire real estate was owned thereafter by Catharine and Mary as tenants in common. Soon after her return she placed in her room at the house where she and her sister lived portraits of saints and popes and a vessel for holy water.- She called upon Dr. McGrlynn and attended services at his church. She went to the confessional and took the communion there. She consulted Dr. McGrlynn as to a lawyer to draw her will and he recommended Mr. Ryan who was a brother of Sister Francis Xavier who was the superioress of the Orphanage connected with St. Stephen\u2019s Church. Dr. McGrlynn gave her a letter to Sister Francis and she addressed a note to her brother requesting him to call at the Orphanage for the purpose of drawing the decedent\u2019s will. On the 7th of May he called and took from her directions as to her will, and made an appointment to meet her again. On the 14th of May, Ryan again met her at the Orphanage and there presented the will which he had drafted m accordance with her instructions. She read the will and suggested certain interlineations which were made, and .then Ryan took the paper and went away to rewrite the will, and after some days he again returned with the will as re-written to the Orphanage, where he met the deceased, and there it was executed in the presence of Ryan and Aylward who was the sexton of St. Stephen\u2019s Church. Ryan before his introduction to her as above stated was a stranger to her and so was Aylward, except as she had seen and met him in the church. During all this time she was living with her sister and continued to live with her until July, 1878, when she died. Before leaving England for this country she had executed a will, as we may infer, disposing of her property much as she disposed of it by the will in question. Soon after the will was executed she informed Bradley of its execution and substantially of its contents. She provided in her will as follows:\n\u201cFirst. I give and bequeath to my sister Catharine Henrietta Marx the sum of $1,000 a year during her life and all my clothing forever, and all my right, title and interest in the premises now known as number 122 East Fortieth-street, Hew York city, and my share in the family silver, during her life. After my sister\u2019s death I wish my share of the said house aud silver to go to Rev. Aloysious J. D. Bradley.\n\u201cSecond. I give, devise and bequeath to Rev. Dr. Edward MeGrlynn, the sum of $1,000.\n\u201cThird. I give and bequeath to Rev. Aloysious J. D. Bradley of Liverpool, England, all my personal property now in a storage house in Liverpool, England, for his own use forever. It is my will and desire that my executor hereinafter named pay to Rev. Aloysious J. D. Bradley all the income derived from my estate after paying the necessary expenses accruing thereon. After the death of Rev. Aloysious J. D. Bradley, I give, devise and bequeath to the Roman Catholic Little Sisters of the Poor of the city of Hew York all the rest, residue and remainder of my estate for their use forever.\n\u201cLastly. I do hereby nominate and appoint Rev. Dr. Edward McG-lynn executor of this my last will and testament, with full power to sell and convey all or any portion of my estate when it shall be for its best advantage.\u201d\nIn August, 1878, this will was presented for probate in the Surrogate\u2019s Court in the city of Hew York, and thereafter Bradley, upon his petition was permitted to intervene and appear in the proceedings by his proctor. Catharine contested the will on the ground that it was not according to law, that the testatrix was not of sound mind and memory, and that the will was the result of undue influence. The surrogate, after hearing the evidence, admitted the will to probate, and his decree was, upon appeal to the General Term, affirmed.\nWe are not to examine the evidence and weigh it as a court of original jurisdiction. If there was sufficient evidence to authorize the decision made by the surrogate and affirmed by the Supreme Court we must affirm the judgment. It was for the surrogate and the Supreme Court to weigh the evidence and to draw conclusions and inferences therefrom and to determine the questions of fact. We can consider questions of law only. (Davis v. Clark, 87 N. Y. [Mem.] 623, and in the Matter of the Probate of the Last Will and Testament of George Ross, deceased, 87 N. Y. 514.)\nIt is undisputed that the will was executed with the formalities required by law. There is nothing in the statute which requires any particular qualifications of the witnesses. They were both men of sufficient age and intelligence and while neither of them had any previous acquaintance with the testatrix they were able to tell how she appeared and conducted herself at the time the will was executed and that is sufficient. It cannot be doubted that it is wise on such occasions to call as witnesses persons who have previously known the testator or testatrix. The evidence of such persons would in all cases be more satisfactory; but it cannot be said as matter of law that these witnesses were not perfectly competent and that their evidence is not sufficient, standing alone, to establish the due execution of the will.\nIt cannot be doubted that the testatrix was, within the meaning of the law, of sound mind and memory. She appears from her letters and diaries which were introduced in evidence to have been a woman of at least ordinary intelligence and education. She was treated by her sister and acquaintances as competent to take care of herself and her property. There is no satisfactory evidence that she at any time exhibited or manifested any aberration of mind. Indeed I do not understand that it is now claimed by the contestant that she was. not mentally competent to make a will.\nThe allegation of undue influence presents a more serious question; but after a careful reading of the evidence we cannot say, as matter of law, that it is established that the will was the result of undue influence exercised upon the mind of the testatrix at the time of its execution. Undue influence may be exercised by physical coercion or by threats of personal harm and duress, by which a person is compelled, really against his will, to make a testamentary disposition of his property. That kind of undue influence can never be presumed. It must be shown by evidence legitimately proving the facts, and where it is established, the will cannot be admitted to probate, for the reason that it is not the will of the testator.\nThere is another kind of undue influence more common than that just referred to, and that is where the mind and the will of the testator has been overpowered and subjected to the will of another, so that while the testator willingly and intelligently executed a will, yet it was really the will of another, induced by the overpowering influence exercised upon a weak or impaired mind. Such a will may be procured by working upon the fears or the hopes of a weak-minded person; by artful and cunning contrivances; by constant pressure, persuasion and effort, so that the mind of the testator is not left free to act intelligently and understandingly. It is not sufficient, however, for the purpose of establishing undue influence, to show that the will is the result of affection or gratitude, or the persuasion which a friend or relative may legitimately use; but the influence must be such as to overpower and subject the will of the testator, thus producing a disposition of property which the testator would not have made if left freely to act his own pleasure, and this kind of influence will not generally be presumed, but must be proved like any other fact by him who alleges it. But there are certain cases in which the law indulges in the presumption that undue influence has been used, and those cases are where a patient makes a will in favor of his physician, a client in favor of his lawyer, a ward in favor of his guardian, or any person in favor of his priest or religious adviser, or where other close confidential relationships exist. Such wills, when made to the exclusion of the natural objects of the testator\u2019s bounty, are viewed with great suspicion by the law, and some proof should be required beside the factum of the will before the will can be sustained. We think this rule of law applies with great force in this case. Respondent Mc-Grlynn was the priest of the church at which the deceased attended in Hew York. He was her confessor and administered to her the communion. He received her into the Church of Rome. The respondent Bradley was for a long time her spiritual adviser and comforter. He was her god-father when she was taken into the Church of Rome. He had for a long time been her traveling companion, her confidant and he is shown to have had great influence over her. But this presumption of undue influence which arises in such cases is a presumption of fact. There is no statute which prohibits such a will. If fairly made the law does not condemn it. One possessed of property may do with it as he pleases, and may himself select the objects of his bounty.\nThe claim is made on behalf of the contestant that this presumption of fact was not rebutted or overcome by evidence, and hence that the case comes to us with this presumption unimpaired existing in it. But we think otherwise. The surrogate had before him the diaries of the deceased kept during the whole of her sojourn in Europe, photographing her mind, giving her inmost thoughts and her mental impressions and the facts transpiring around her from day to day. He also had numerous letters written by her in confidence to her sisters at home, and there is nothing in those letters or diaries indicating that Bradley had attempted to operate upon her hopes or fears for the purpose of obtaining a disposition of property in his favor, and nothing is disclosed in them showing that he in any way attempted to influence her as to her property or to interfere with her property or to alienate her from her relatives. During all the time prior to her death she kept control of her own property. While she contributed to his support she never gave him dominion over any of her property, or constituted him agent in reference thereto. It does not appear that during her life he made any effort whatever to obtain her property except as she contributed from time to time to his support and to his education for the priesthood. When the will was executed Bradley was in Europe, thousands of miles away from her. She was.living with her sister and was among her friends in the city of Hew York where she was born and brought up. There is no evidence tending to show that after she returned to this country any one attempted in any way to influence her as to her will. It does not even appear that she talked with any one as to its contents. She simply consulted with Dr. McGlynn in reference to some person to draw her will. The will. was drawn with great deliberation and the time, from the day when she first saw the lawyer who wrote it until she executed it, was about two weeks. She first gave a memorandum of what she desired to have put in the will; about a week after, she corrected the draft, and about a week after that she finally executed the will in the form in which it was finally left. There was no one pressing her, crowding her, advising her or attempting to influence her. It is clear that she perfectly comprehended the contents of the will, and her subsequent correspondence with Bradley shows that it was just as she desired it should be. It cannot be inferred that Sister Francis Xavier attempted to exercise any influence over her, as there is nothing in her will indicating any such influence, the Orphanage over which she presided receiving nothing under the will. It cannot be justly inferred that Dr. McGlynn exercised any influence over her. She doubtless felt grateful to him, as the priest who had received her into the church. While in England, she wrote to her sisters, directing them to give him one hundred and fifty dollars. The small legacy she gave him, and the fact that she appointed him her executor, having no male relative of her own, is not so extraordinary as to justify the inference that any undue influence had been exercised over her mind by him. Hor do we think, as contended by the learned counsel for the contestant, that the will is a very unnatural or unjust one. At the date of the will her only relative was her sister, then -unmarried and upwards of sixty years old. She had no other sister, no brother, no nephew, niece or dependent. Her sister had a competency, an income besides her interest in the dwelling-house in which she lived of $7,500 annually. She gave her an annuity of $1,000 more and the use for life of her interest in the dwelling-house. So that she had a dwelling-house to live in and an income of $8,500 a year. The testatrix knew quite well, that in a very few years at most, her sister would die and would have to leave all the property which she had to very distant relatives, or to charitable institutions, or to churches. It was quite natural, therefore, that she should prefer to make a final disposition of her' own property. She was ardently attached to the Roman Catholic Church. She had received great comfort, peace of mind and contentment in its services, in its communion and in the absolution pronounced at the confessional. She felt grateful to Dr. McGlynn for her conversion to the Roman Catholic Church. She was warmly attached to Bradley, who was many years her junior. She seems to have regarded him as a son or a nephew. She had for some years contributed to his support, and had aided him with money while pursuing his studies for the priesthood. She looked upon him as a young man of promise, destined to be very useful and influential, and if she desired to do so, why should she not be permitted to give him her property % The property was hers. She had a very ardent affection for him, and it was very natural that the dispositions in her will should follow her affections. To refuse probate of this will under such circumstances as a matter of law would be to hold that a will influenced and controlled by affection shall not stand; that where one person has such an .affection for another as to induce her to give her property to such person at death, the affection producing such results shall he regarded as undue influence. We are therefore of the opinion that there is enough evidence in this case to sustain the decision of the surrogate and of the Supreme Court, that this will was not the result of undue influence within the meaning of the law.\nI have not cited or referred to the numerous authorities upon the subject of undue influence found in the very learned and interesting brief submitted to us by the counsel for the appellant. They lay down and illustrate general principles which receive our fullest sanction and which we have applied in this case.\nI have thus far considered this question as if the diaries and letters introduced in evidence by the contestant were evidence of all the facts stated in them. It was held by the surrogate, and by the Supreme Court at General Term, that they were not, and we are of that opinion. They are in the nature of hearsay evidence, declarations of the deceased which are incompetent for the purpose of defeating or destroying the will, or any of its provisions. They are competent only as bearing upon the condition of the mind of the testatrix at the time of the execution of the will. Such memoranda or declarations, whether made before or after the execution of a will, are competent as bearing upon the testator\u2019s mental capacity. They are also competent as bearing upon the condition of the testator\u2019s mind, with reference to the objects of his bounty. They may be given in evidence for the purpose of showing his relations to the people around him, and to the persons named in his will as beneficiaries. They are, however, entitled to no weight in proving external acts, either of fraud or undue influence. (1 Redfield on Wills [3d ed.], 538; Waterman v. Whitney, 11 N. T. 157). The rule, as laid down in that case, is that \u201c where a will is disputed on the ground of fraud, duress, imposition or other like cause, not drawing into question the testator\u2019s mental capacity at the time of its execution, neither his prior nor subsequent declarations are evidence. But where the will is resisted on the ground that the testator was not of sound mind, or that it was procured by undue influence, which involves his mental condition at the time it was executed, his subsequent statements touching the disposition of his property, and inconsistent with the will, in connection with other evidence tending to prove a want of mental capacity are competent. Such prior or subsequent declarations are competent evidence on these questions, only as tending to prove the testator\u2019s mental condition when the will was executed.\u201d The rules of law as thus laid down were not materially violated in this case.\nWe are, therefore, of the opinion that the objections of the contestant to the probate of this will were properly overruled, and that no error was committed in admitting the will to probate.\nUnder section 11 of chapter 359 of the Laws of 1870, applicable to the Surrogate\u2019s Court in the city of \u00a1New York, the contestant asked the surrogate to construe the will, claiming that some of its provisions were illegal and void. The construction of the will is reasonably free from doubt upon the facts as they appear. In the first clause the devise of the house to Bradley, who is shown to be an alien, is void, as an alien cannot take real estate by devise. In the third clause of the will a valid trust is created. There is a direction within the meaning of the statute (1 \u00a1R. S. 728, \u00a7 55) to receive the rents and profits of the land and apply them \"to the use of Bradley. A direction to pay over rents and profits is equivalent to a direction to apply them to the use of the beneficiary. (Leggett v. Perkins, 2 N. Y. 297; Vernan v. Vernan, 53 id. 351.)\nIt is true that there is no direct or express devise of the real estate to the executor in trust, but such a devise must be implied, and in analogous cases has frequently been implied. (Betts v. Betts, 4 Abb. N. C. 385; Vail v. Vail, 7 Barb. 226; Leggett v. Perkins, supra.) The executor is to receive the income of the estate. He is to pay the necessary expenses of the estate and pay over the income, and hence it must be implied that the testatrix intended that he should take the title of the estate in order that he could manage and control the same, and carry out the trust intended. The fact that Bradley is an alien does not incapacitate him from receiving the income. He had no interest in the real estate. The income does not come to him as real estate or even as an incident of real estate. It comes to him as personal property. The title, both legal and equitable, is in the trustee, and it is expressly provided that a beneficiary or cestui que trust in such a case takes no interest in the lands, but has the simple right to enforce the performance of the trust in equity. (1 It. 8. 729, \u00a7 60; Craig v. Leslie, 3 Wheat. 563; Anstice v. Brown, 6 Paige, 448; Meakings v. Cromwell, 5 N. Y. 136; Noyes v. Blakeman, 6 id. 567.)\nAt common law an alien could take land by devise, or grant and hold it against the whole world except the sovereign, and even against him until inquest of oifice found. But our statute provides that a devise to an alien of any interest in land shall be absolutely void and that the land thus devised shall descend to the heirs of the testator. (2 R. 8. 57, \u00a7 4.) It is simply a devise of land or any interest therein that is condemned. The policy of law which prohibits aliens from holding title to land is to have the title in the hands of citizens, who owe allegiance to the government, and can be called upon to discharge the duties of citizenship. This policy is not violated by this provision of the will. The title vested in a citizen. Bradley has no estate whatever in the land. What he gets is a personal right, and the income of the real estate, when it comes to him, will come as personal property. It has been held in cases above cited that land may be devised to a citizen upon trust, to sell and pay over the proceeds to an alien cestui que trust. And for the same reason a citizen trustee may take the title to land, and rent it, and pay the net income to an alien.\nThe residuary devise to the Roman Catholic Little Sisters of the Poor of the city of Hew York is undoubtedly void, for the reason stated in the opinion of the General Term. If that society is unincorporated, it is incapable of taking title to real estate; if incorporated, the provision would be void under the laws of this State, for the reason that the will was not executed at least two months before the decease of the testatrix.\nWe are, therefore, of the opinion that the judgment should be affirmed, with costs.\nAll concur.\nJudgment affirmed.",
+        "type": "majority",
+        "author": "Earl, J."
+      }
+    ],
+    "attorneys": [
+      "Elbridge T. Gerry for appellant.",
+      "Charles Matthews for respondent",
+      "Edward Mitchell for respondent Bradley."
+    ],
+    "corrections": "",
+    "head_matter": "Catharine Henrietta Marx, Appellant, v. Edward McGlynn as Executor, etc., et al., Respondents.\nWhen there is evidence sufficient to authorize the decision of a surrogate in proceedings for the probate of a will, and it is affirmed by the Supreme Court, this court has no power to review the questions of fact.\nThe evidence of the subscribing witnesses to a will, although strangers to the testator, is sufficient, standing alone, to establish the due execution of the will.\nIt is not sufficient for the purpose of proving undue influence to show that a will is the result of affection or gratitude or the persuasion which a friend or relative may legitimately use, the influence must be such as to overpower the will of the testator, thus producing a disposition of property which the testator would not have made if left free to act.\nThis kind of influence will not generally be presumed but must be proved-\nWhere, however, a person makes a will in favor of his priest or religious adviser, to the exclusion of the natural objects of the testator\u2019s bounty, the law presumes undue influence, and to sustain the will there should, be some proof beside the making of it.\nBut such a will is not invalid and the presumption is one of fact, and where the evidence tends to show that the will is the voluntary deliberate act of a person of ordinary intelligence, that the gift was prompted simply by affection without persuasion or influence of others in any way, and the will is not unnatural or unjust, fair provision being made for \u25a0 those who would naturally be the heirs, and'it is sustained by the surrogate and the Supreme Court, this court cannot reverse their decision.\nDiaries kept and letters written by a testator either before or after the execution of the will, while proper evidence as bearing upon the mental capacity, and the condition of the mind of the testator with reference to objects of his bounty, are not competent evidence of the facts stated in or to prove fraud or undue influence.\nWhile a devise of real estate to an alien is void under the statute (2 R. S. 57, \u00a7 4), a devise to executors who are citizens, in trust, to pay the income to an alien is valid, as the beneficiary takes no interest in the lands.\nThe will of M. directed her executors to pay to B. during his life, all the income derived from her estate save as specified, after paying necessary expenses accruing thereon, with full power to sell and convey any portion, etc. Held, that a devise to the executors in trust was implied, and the clause created a valid trust.\nThe residuary estate was devised to the \" Roman Catholic Little Sisters of the Poor of the city of Hew York ; \u201d the will was executed within two months of the death of the testatrix. Held, that the devise was void ; that if the society named was unincorporated it was incapable of taking ; if incorporated, the devise was void under the statute. (\u00a7 6, chap. 319, Laws of 1848.)\n(Argued March 3, 1882;\ndecided March 21, 1882.)\nAppeal from judgment of the General Term of the Supreme Court, in the first judicial department, entered upon an order made November 23, 1881, which affirmed a decree of the surrogate of the county of New York admitting to probate the will of Mary Caroline Marx.\nThe facts are stated in the opinion.\nElbridge T. Gerry for appellant.\nThe subscribing witnesses had not sufficient personal knowledge of the decedent to enable them to pass intelligently upon her competency to devise, at the time of the execution of the instrument. (2 K. S. 58, \u00a7 14; Swenarton v. Hancock, 9 Abb. N. C. 326; De Witt v. Barley, 9 N. Y. 380-1; Doe v. Kersey, 4 Burn\u2019s Eccl. L. [9th ed.] 118; Deane on the Wills Act, 128; Chase v. Lincoln, 3 Mass. 236; Decker v. Miller, 2 Paige\u2019s Ch. 1.49; 1 Hovenden on Frauds, 261.) The proponents of this instrument were bound, on applying for probate, to give some explanation of its unnatural character, and to disprove the legal presumption that it was the result of undue influence from their priestly relations to decedent. (Calhoun v. Jones, 2 Redf. Surr. 34, 37, -38; Cudney v. Cudney, 68 N. Y. 149, 152; Boyse v. Bossborough, 6 H. L. Cas. 648; Parfitt v. Lawless, 41 L. J. [N. S., Prob. & D.] 68; Bigelow on Fraud, 124, note 2.) The facts of undue influence proved necessarily present a case which called upon proponents to make further proof from Bradley and McGill that full and honest counsel was given as to all matters involved in the making of the will, which the fiduciary relation in which they stood made it their duty to give her. (Children)s Aid Society v. Loveridge, 70 N. Y. 387; Sears v. Shafer, 6 id. 268; Nesbit v. Lockman, 34 id. 169; Meek et al., v. Perry, 36 Miss. 245; Hoghton v. Hoghton, 15 Beav. 278; Jones v. Godrich, 5 Moore\u2019s P. C. 16; Bigelow on Fraud, 190, 191; Kerr on Fraud and Mistake, 150, 152; Taylor on Evidence, 161; O'Neil v. Murray, 4 Bradf. 311, 320; Matter of Welsh, 5 N. Y. Surr. Ct. [1 Redf.] 238; Bigelow on Fraud, 123; Griffiths v. Robins, 3 Madd. Ch. 105; Mountain v. Bennet, 1 Cox\u2019s Ch. 353; Casborne v. Barsham, 2 Beav. 76; Marsh v. Tyrell, 2 Hagg. Eccl. 84; Durnell v. Corfield, 1 Rob. Eccl. 51; Billinghurst v. Vickers, 1 Phil. Eccl. 187, 193; Harrel v. Harrel, 1 Duv. [Ky.J 203; Ross v. Gould, 5 Me. [Greenl.] 204; Brooks v. Barrett, 7 Pick. 94, 99, 100; Bigelow on Fraud, 122, 127; 1 Hovenden on Frauds, 266 ; Inderwick on Wills, 43 ; 1 Redfield on Wills, 515, 521, 528; Kerr on Fraud and Mistake, 143, 151.) The rule that undue influence must be sufficient to- overcome free agency is limited to cases where testator and legatee stand on a level. It does not apply where there was a confidential relation. (Redfield\u2019s Leading Cases on Wills, 522, note; Tyler v. Gardiner, 35 N. Y. 559; Kevill v. Kevill, 6 Am. L. Reg. [N. S.] 79; Taylor v. Wilburn, 20 Mo. 306; Marshall v. Flinn, 4 Jones [N. C.], 199 ; In re Welsh, 1 Bedf. Surr. 238; Godo]pilin\u2019s Orphan\u2019s Legacy, 49; Bedfield\u2019s Leading Cases on Wills, 472; 1 Bedfield on Wills, 514, note, 525, note; Swinburne on Wills, 887; Hacker v. Newborn, Style, 427.) Bradley\u2019s absence at the time of the signing of the will is not important. (Taylor v. Wilburn, 20 Mo. 306; Berrien v. McLane, 1 Hoff. Ch. 42; Legatt v. Salle, 3 Port. 115; Kerr on Fraud and Mistake, 153, 170, note; Davis v. Calvert, 5 Gill & Johns. 269; Wilmot\u2019s Opinions and Judgments, 58, 70; 1 Bedfield on Wills, 522, note, 528, note ; 3 Swinburne on Wills, 882; Dig. lib. 48, tit. 10, \u00a7 15; Billinghurst v. Vickers, 1 Phillim. 187, 194, note.) In presuming undue influence from a confidential relation between a testator and beneficiary under the will, it is important to consider closely the nature of the particular relation established, and to inquire what opportunities of influence that particular relation affords. (Marsh v. Tyrrell, 2 Hagg. Eccl. 84,123 ; Kerr on Fraud and Mistake, 151; Schouler\u2019s Dom. Bel. 512.) The court must consider the four relationships of which the general confidential relation existing between decedent and the two beneficiaries under the will was compounded. (Amos\u2019 Statutes of Hen. VIII, 129, 130; Brooke\u2019s Six Privy Council Judgments, 22; Essays in Anglo-Saxon Law, 107; Finlaison on Charitable Trusts, 5, 25; Gilbert on Devises, 6 ; 1 Phillimore\u2019s Ecclesiastical Law, 373 ; 1 Papin, 478, fol. ed.; Fuller\u2019s Hist, of the Church, book 3, 77; Ayliffe\u2019s Parergon, 376-378; Prynne\u2019s Hist. Edw. I, 236; Shelford on Mortmain, 17; Adam Smith, quoted in 2 Millar\u2019s English Government, 429; 1 Stephen\u2019s Commentaries, 469-474; 4 id. 264, 266; Justice William Strong\u2019s second lecture on Belations of Civil Law to Church Polity, 83; Sketch of the Boman Laws, id. 78 ; Amos\u2019 Statutes of Hen. VIII, 529; 3 Bum\u2019s Ecclesiastical Law, 113; 3 Thomas Coke\u2019s Institute, .391 Harg. & B. note; 2 Blackstone\u2019s Commentaries, 374; id. 488 ; 4 id. 55; Van Kleeck v. Dutch Church, 20 Wend. 457, 480; Stat. 9 Hen. III, 36, A. D. 1225 ; 2 Co. Inst. 75 ; Stat. 21 Hen. VIII, chap. 6, A. D. 1529; 1 Stephen\u2019s Ecclesiastical Statutes, 127, note 5; Stat. 23 Hen. VIII, chap. 10,20, A. D. 1531; Stat. 25 Hen. VHI, chap. 21, A. D. 1533; Stat. 32 Hen. VIII, chap. 38, A. D. 1540 ; Stat. 37 Hen. VIII, chap. 17, A. D. 1545 ; Stat. 1 Edw. VI, chap. \u201914, A. D. 1547; Stat. 1 Eliz., chap. 1, A. D. 1558; 1 Stephen\u2019s Ecclesiastical Statutes, 353; Brooke\u2019s Six Privy Council Judgments, 11; Stat. 5 Eliz., chap. 1, A. D. 1562 ; Stat, 27 Eliz., chap. 2, A. D. 1585 ; Stat. 11 and 12 Wm. Ill, chap. 4, A. D. 1700; Stat. 9 Geo. II, chap. 36, A. D. 1736; Atty.-Gen. v. Day, 1 Ves. 213; Francis on Charities, 15; Shelford on Mortmain, 120; 13 Eliz., chap. 2, A D. 1570; 23 id., chap. 1, A. D. 1581; 35 id., chap. 2, A. D. 1593 ; 2 Jac. I, chap. 4, A. D. 1604; 3 id. 1, chaps. 4, 5, A. D. 1605; 25 Car. 2, chap. 2, A. D. 1672; 1 Wm. & M., chaps. 9, 15, 26, A. D. 1688; 9 Wm. & M., chap. 26, A. D. 1697; 11 and 12 Wm. Ill, chap. 4, A. D. 1700; 1 Geo. I, st. 1, chap. 47, A. D. 1715; 1 Geo. I, st. 2, chap. 50, A. D. 1715; 3 Geo. I, chaps. 18, 19, A. D. 1716; 20 Geo. II, chap. 52, A. D. 1747; Canons and Decrees of Council of Trent, 23d sess., chap. 4, p. 173; id. 14th sess., chap. 5, p. 97; Catechism of Council of Trent, 82, 84, 180, 181, 191, 192, 193, 196, 212, 214; Canons and Decrees of Council of Trent, 14th sess., chap. 1, p. 93; id. 14th sess., canon 3, p. 107; id. canon 9, p. 109; id. canon 15, p. 110; id. 13th sess., chap. 7, pp. 80, 81; id. 13th sess., canons 9 and 10, pp. 83, 84; Catechism of Council of Trent, pp. 164, 165, 166, 168; Finlaison, 115, 117; Middleton v. Sherburne, 4 You. & C. 358, 359, 360, 361, 366, 390; Pothier Traite des Donations Testamentares, chap. 3, art. 3 ; Merlin, Bepertoire de Jurisprudence, tit. Confessor, art. 3; Nottidge v. Prince, 2 Griff. 246, 269; N. Y. Code of Civil Pro., \u00a7 833; Badeley on Beligious Confessions, 76, 77; Re-vised Botes to 2 R. S. 422; 5 Edm. Stat. at Large, 726; Hugenim v. Baseley, 14 Ves. 273, 278, 288; Parfett v. Lawless, 41 L. J. [N. S., Prob., etc.] 68; Matter of Welsh, 5 N. Y. Surr.; 1 Bedf. 238; Pothier Donation, entre Vifs, \u00a7 1; Harwood v. Baker, 3 Moore\u2019s P. C. 290; Norton v. Kelly, Edm. Ch. 286; Lyon v. Home, L. R., 6 Eq. 655; Lottidge v. Prince, 2 Griff. 246; Harvey v. Sullens, 46 Mo. 147; Canons and Decrees of Council of Trent, 24th sess., chap. 2, p. 199; Catechism of Council of Trent, 119, 121, 122, 142; Morris v. Stokes, 21 Ga. 552, 572; Meek v. Perry, 36 Miss. 190, 248; Hatch v. Hatch, 9 Ves. 292, 296; Macpherson on Infants, 260 ; Reeve\u2019s Domestic Relations, 329 ; Schouler\u2019s Domestic Relations, 515; Bigelow on Fraud, 222, 231; Breed v. Pratt, 18 Pick. 115; Redfield\u2019s Lead. Cas. on Wills, 517; Bridgeman v. Green, Wilm. Judgments and Opinions, 60-66; Billinghurst v. Vickers, 1 Phillim. 187, 193; Ashwell v. Lowri, L. R., 2 Prob. & Div. 477; Inderwick on Wills, 44; 1 Redfield on Wills, 533.) The surrogate erred in treating the diaries kept by decedent in her own handwriting as admissible only on the question of mental incapacity. (Horn v. Pullman et al., 72 N. Y. 273; Rollwagen v. Rollwagen, 63 id. 519; Boylan v. Meeker, 4 Dutch. 274; 1 Redfield on Wills, 558, note.) The General Term erred in declining to decide \u201c whether the surrogate ruled correctly in limiting the effect of the diaries kept by the testatrix so as to be merely evidence upon the point of her mental capacity.\u201d (Cudney v. Cudney, 68 N. Y. 149.) The proponents having failed to make satisfactory proof of the factum of the alleged will, and the contestant having given convincing evidence that the proponents obtained its execution by means of undue priestly influence, the judgment of the General Term, affirming the decree of the surrogate admitting it to probate as the last will of Mary Caroline Marx, should be reversed, and the case should be sent to a jury for investigation. (Howland v. Taylor, 53 N. Y. 627.) The attempt in the third clause of the. instrument to create an express (active) trust for the benefit of Bradley, an alien, is invalid. (1 R. S. 728, \u00a7 55; 729, \u00a755; 1 Edna. Stat. 678; Verdin v. Slocum, 71 N. Y. 345, 347; S. C., 9 Hun, 150; Parks v. Parks, 9 Paige, 107; Jarvis v. Babcock, 5 Barb. 139; Beekman v. Bonsor, 23 N. Y. 298, 314, 316; Betts v. Betts, 4 Abb. N. C. 323.) Even if the trust sought to be created by the first clause of the instruriaent in favor of Bradley had been an express (active) trust permitted by statute (1 R. S. 728, \u00a7 55, sub. 3), it would still have been void, because created for the benefit of an alien. (2 R. S. 57, \u00a74; 1 id. 729, \u00a7 60; Edm. Stat. 679; Leggett v. Dubois, 5 Paige\u2019s Ch. 114; Sharp v. St. Sauveur, 7 Eng. Ch. App. 343; 1 Perry on Trusts, 45s \u00a7 63; Hill on Trustees [4th Am. ed.], 82, 83.) The power of the executor to sell does not create an equitable conversion, therefore Bradley cannot take the real estate as personalty. (Harris v. Clark, 7 N. Y. 242, 249, 260; Gourley v. Campbell, 66 id. 169, 173.)\nCharles Matthews for respondent\nMcGlynn 27either an unjust will nor the opportunity and motive for undue influence existing, in the absence of affirmative evidence of its exercise, will warrant the presumption of such undue influence in a case where the testator\u2019s mind is unimpaired and where it clearly appears he had the opportunity to and did understand the provisions of the will. (Gardner v. Gardner, 34 N. Y. 155; Clapp v. Fullerton, 11 id. 190; Jackson v. Jackson, 39 id. 156; Rollwagen v. Rollwagen, 63 id. 504; Cudney v. Cudney, 58 id. 148; Children\u2019s Aid Soc. v. Loveridge, 70 id. 388.) The surrogate properly refused to consider the statements in the diary and letters of decedent as evidence of the facts therein stated. (Waterman v. Whitney, 11 N. Y. 151; Jarman on Wills, 78; Van Wyck v. McIntosh, 14 N. Y. 442; Raymond v. Raymond, 17 Wend. 393; Rayner v. Timerson, 46 Barb. 518.) The third clause of the will creates an express trust for the benefit of A. J. D. Bradley. (1 R. S. [Edm. ed.] 679, \u00a7 60; Vernon v. Vernon, 53 N. Y. 359; Tobias v. Beatham, 32 id. 319; Brewster v. Stryker, 2 Comst. 19; Leggett v. Perkins, 2 N. Y. 297; Salvage v. Burnham, 17 id. 561; 1 Cruise\u2019s Dig. 462, \u00a7 13.)\nEdward Mitchell for respondent Bradley.\nThis court will not review the questions of fact. It will only see if there is any evidence to sustain the decision. (Davies v. Clark, 13 N. Y. W. D. 391; In re Ross, 87 N. Y. 514.) The diaries and letters of the decedent are not evidence of any fact purported to be therein stated, but merely of the mental condition of the testatrix, and, under the objections herein, are to be restricted to that purpose. (Waterman v. Whitney, 11 N. Y. 157, 168, 169; Raymond v. Howland, 17 Wend. 393; Rayner v. Timerson, 46 Barb. 527; Van Wyck v. McIntosh, 14 N. Y. 442; 1 Redfield on Wills, 557-558; Rollwagen v. Rollwagen, 63 N. Y. 504; Horn v. Pullman, 72 id. 269; In re Welsh, 1 Redf. N. Y. Surr. 238.) The third clause of the will creates an express trust for the benefit of Mr. Bradley and is valid. (Betts v. Betts, 4 Abb. N. C. 384, 385; Vail v. Vail, 4 Paige, 328; Bradley v. Amedon, 10 id. 235; Craig v. Craig, 3 Barb. Ch. 77; Manice v. Manice, 43 N. Y. 803; Downing v. Marshall, 23 id. 378; Courthope v. Heyman, Carter, 25; Stile v. Thomson, 2 Dyer, 210; 7 Barb. 226, 230; Gott v. Oook, 7 Paige, 321; 1 Bob. on Wills [3d Bond, ed.], 404; South v. Allen, Comb. 375; 5 Mod. 98; 1 Salk. 228, S. C.; Griffith v. Smith, Moor, 753; Say et al. v. Jones, 1 Cru. Dig., tit. 12, chap. 1, \u00a7 21; Leggett v. Perkins, 2 Comst. 297, 305; Oates v. Cook, 3 Burr. 1684; Doe v. Woodhouse, 4 T. R. 8992; Fletcher on Trustees, 27; Greenleaf\u2019s Cruise, tit. 12, Trust, chap. 1, \u00a7 14 and note; Tickling\u2019s Analogy, 15, note; Brewster v. Stryker, 2 Comst. 19, 30, 31, 32, 33, 34, 35, 36; Verdin v. Slocum, 71 N. Y. 345; Jarvis v. Babcock, 5 Barb. S. C. 139, 140, 144; Beekman v. Bonsor, 23 N. Y. 298, 314; 1 R. S. 729, \u00a7 60; 1 Edm. 679, \u00a7 60; Noyes v. Blakeman, 6 N. Y. 567-577, 579.)"
+  },
+  "file_name": "0357-01",
+  "first_page_order": 385,
+  "last_page_order": 405
+}

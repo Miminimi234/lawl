@@ -1,0 +1,76 @@
+{
+  "id": 12452235,
+  "name": "In re Custody of M.S. et al. Criswell, Petitioner, v. Div. of Children & Family Servs., Respondent",
+  "name_abbreviation": "Criswell v. Div. of Children & Family Servs.",
+  "decision_date": "2017-02-08",
+  "docket_number": "No. 93506-8",
+  "first_page": "1010",
+  "last_page": "1010",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "187 Wash. 2d 1010"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Wash.",
+    "id": 9029,
+    "name": "Washington Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 38,
+    "name_long": "Washington",
+    "name": "Wash."
+  },
+  "cites_to": [
+    {
+      "cite": "194 Wn. App. 1033",
+      "category": "reporters:state",
+      "reporter": "Wash. App.",
+      "case_ids": [
+        12451801,
+        12451802,
+        12451803
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-app/194/1033-01",
+        "/wash-app/194/1033-02",
+        "/wash-app/194/1033-03"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 37,
+    "char_count": 251,
+    "ocr_confidence": 0.887,
+    "sha256": "bd6e43c8fced1d17e5908e508ee3e3af24ff84dc93e9dba92d05bfbe969a507e",
+    "simhash": "1:61fbbb57252cc4ec",
+    "word_count": 42
+  },
+  "last_updated": "2024-02-27T20:27:34.476040+00:00",
+  "provenance": {
+    "date_added": "2019-05-21",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In re Custody of M.S. et al. Criswell, Petitioner, v. Div. of Children & Family Servs., Respondent,"
+    ],
+    "opinions": [
+      {
+        "text": "Petition for review of a decision of the Court of Appeals, No. 33132-6-III, June 14, 2016, 194 Wn. App. 1033. Dismissed February 8, 2017.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "In re Custody of M.S. et al. Criswell, Petitioner, v. Div. of Children & Family Servs., Respondent,\nNo. 93506-8."
+  },
+  "file_name": "1010-01",
+  "first_page_order": 978,
+  "last_page_order": 978
+}

@@ -1,0 +1,724 @@
+{
+  "id": 501848,
+  "name": "PEOPLE v. GRANT",
+  "name_abbreviation": "People v. Grant",
+  "decision_date": "1997-07-15",
+  "docket_number": "Docket No. 103165",
+  "first_page": "221",
+  "last_page": "245",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "455 Mich. 221"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Mich.",
+    "id": 8790,
+    "name": "Michigan Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 49,
+    "name_long": "Michigan",
+    "name": "Mich."
+  },
+  "cites_to": [
+    {
+      "cite": "534 NW2d 149",
+      "category": "reporters:state_regional",
+      "reporter": "N.W.2d",
+      "year": 1995,
+      "opinion_index": -1
+    },
+    {
+      "cite": "210 Mich App 467",
+      "category": "reporters:state",
+      "reporter": "Mich. App.",
+      "case_ids": [
+        1876181
+      ],
+      "year": 1995,
+      "opinion_index": -1,
+      "case_paths": [
+        "/mich-app/210/0467-01"
+      ]
+    },
+    {
+      "cite": "456 Mich 1201",
+      "category": "reporters:state",
+      "reporter": "Mich.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "9 F3d 22",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        6529752,
+        10505124
+      ],
+      "year": 1993,
+      "pin_cites": [
+        {
+          "page": "25"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/br/160/0022-01",
+        "/f3d/9/0022-01"
+      ]
+    },
+    {
+      "cite": "941 F2d 480",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        11716151
+      ],
+      "year": 1991,
+      "pin_cites": [
+        {
+          "page": "485"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/941/0480-01"
+      ]
+    },
+    {
+      "cite": "328 US 640",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        377314
+      ],
+      "weight": 3,
+      "year": 1946,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/328/0640-01"
+      ]
+    },
+    {
+      "cite": "160 NW 467",
+      "category": "reporters:state_regional",
+      "reporter": "N.W.",
+      "year": 1916,
+      "opinion_index": 0
+    },
+    {
+      "cite": "193 Mich 476",
+      "category": "reporters:state",
+      "reporter": "Mich.",
+      "case_ids": [
+        1628549
+      ],
+      "year": 1916,
+      "opinion_index": 0,
+      "case_paths": [
+        "/mich/193/0476-01"
+      ]
+    },
+    {
+      "cite": "242 NW 222",
+      "category": "reporters:state_regional",
+      "reporter": "N.W.",
+      "year": 1932,
+      "opinion_index": 0
+    },
+    {
+      "cite": "258 Mich 89",
+      "category": "reporters:state",
+      "reporter": "Mich.",
+      "case_ids": [
+        1864716
+      ],
+      "year": 1932,
+      "opinion_index": 0,
+      "case_paths": [
+        "/mich/258/0089-01"
+      ]
+    },
+    {
+      "cite": "89 L Ed 600",
+      "category": "reporters:federal",
+      "reporter": "L. Ed.",
+      "year": 1944,
+      "opinion_index": 0
+    },
+    {
+      "cite": "65 S Ct 80",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "year": 1944,
+      "opinion_index": 0
+    },
+    {
+      "cite": "323 US 749",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        1230049,
+        1230179,
+        1230229,
+        1229409
+      ],
+      "year": 1944,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/323/0749-03",
+        "/us/323/0749-01",
+        "/us/323/0749-02",
+        "/us/323/0749-04"
+      ]
+    },
+    {
+      "cite": "12 NW2d 466",
+      "category": "reporters:state_regional",
+      "reporter": "N.W.2d",
+      "year": 1943,
+      "opinion_index": 0
+    },
+    {
+      "cite": "307 Mich 575",
+      "category": "reporters:state",
+      "reporter": "Mich.",
+      "case_ids": [
+        1850234
+      ],
+      "year": 1943,
+      "opinion_index": 0,
+      "case_paths": [
+        "/mich/307/0575-01"
+      ]
+    },
+    {
+      "cite": "415 Mich 581",
+      "category": "reporters:state",
+      "reporter": "Mich.",
+      "year": 1943,
+      "pin_cites": [
+        {
+          "page": "n 23"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "92 L Ed 1748",
+      "category": "reporters:federal",
+      "reporter": "L. Ed.",
+      "year": 1948,
+      "opinion_index": 0
+    },
+    {
+      "cite": "68 S Ct 1082",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        6161667
+      ],
+      "year": 1948,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/334/0816-05"
+      ]
+    },
+    {
+      "cite": "334 US 318",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "year": 1948,
+      "opinion_index": 0
+    },
+    {
+      "cite": "28 NW2d 909",
+      "category": "reporters:state_regional",
+      "reporter": "N.W.2d",
+      "year": 1947,
+      "opinion_index": 0
+    },
+    {
+      "cite": "318 Mich 557",
+      "category": "reporters:state",
+      "reporter": "Mich.",
+      "case_ids": [
+        1885010
+      ],
+      "year": 1947,
+      "pin_cites": [
+        {
+          "page": "567"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mich/318/0557-01"
+      ]
+    },
+    {
+      "cite": "6 NW2d 527",
+      "category": "reporters:state_regional",
+      "reporter": "N.W.2d",
+      "year": 1942,
+      "opinion_index": 0
+    },
+    {
+      "cite": "303 Mich 313",
+      "category": "reporters:state",
+      "reporter": "Mich.",
+      "case_ids": [
+        1821591
+      ],
+      "year": 1942,
+      "opinion_index": 0,
+      "case_paths": [
+        "/mich/303/0313-01"
+      ]
+    },
+    {
+      "cite": "330 NW2d 314",
+      "category": "reporters:state_regional",
+      "reporter": "N.W.2d",
+      "year": 1982,
+      "opinion_index": 0
+    },
+    {
+      "cite": "415 Mich 558",
+      "category": "reporters:state",
+      "reporter": "Mich.",
+      "case_ids": [
+        1976700
+      ],
+      "weight": 2,
+      "year": 1982,
+      "pin_cites": [
+        {
+          "page": "568"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mich/415/0558-01"
+      ]
+    },
+    {
+      "cite": "24 F3d 68",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        10503019,
+        10502924
+      ],
+      "year": 1994,
+      "pin_cites": [
+        {
+          "page": "72"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/24/0068-02",
+        "/f3d/24/0068-01"
+      ]
+    },
+    {
+      "cite": "59 F3d 43",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        179193
+      ],
+      "year": 1995,
+      "pin_cites": [
+        {
+          "page": "46"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/59/0043-01"
+      ]
+    },
+    {
+      "cite": "107 F3d 716",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        7641627
+      ],
+      "year": 1997,
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/107/-868-01"
+      ]
+    },
+    {
+      "cite": "394 US 489",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6175076
+      ],
+      "weight": 3,
+      "year": 1969,
+      "pin_cites": [
+        {
+          "page": "492"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/394/0489-01"
+      ]
+    },
+    {
+      "cite": "93 L Ed 1337",
+      "category": "reporters:federal",
+      "reporter": "L. Ed.",
+      "year": 1949,
+      "opinion_index": 0
+    },
+    {
+      "cite": "337 US 241",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        572499
+      ],
+      "weight": 2,
+      "year": 1949,
+      "pin_cites": [
+        {
+          "page": "249-250"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/337/0241-01"
+      ]
+    },
+    {
+      "cite": "218 NW2d 655",
+      "category": "reporters:state_regional",
+      "reporter": "N.W.2d",
+      "year": 1974,
+      "opinion_index": 0
+    },
+    {
+      "cite": "391 Mich 618",
+      "category": "reporters:state",
+      "reporter": "Mich.",
+      "case_ids": [
+        1903138
+      ],
+      "year": 1974,
+      "pin_cites": [
+        {
+          "page": "635"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mich/391/0618-01"
+      ]
+    },
+    {
+      "cite": "539 NW2d 570",
+      "category": "reporters:state_regional",
+      "reporter": "N.W.2d",
+      "year": 1995,
+      "opinion_index": 0
+    },
+    {
+      "cite": "213 Mich App 198",
+      "category": "reporters:state",
+      "reporter": "Mich. App.",
+      "case_ids": [
+        1872172
+      ],
+      "year": 1995,
+      "pin_cites": [
+        {
+          "page": "200-201"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mich-app/213/0198-01"
+      ]
+    },
+    {
+      "cite": "1985 PA 89",
+      "category": "reporters:neutral",
+      "reporter": "PA",
+      "opinion_index": 0
+    },
+    {
+      "cite": "1988 PA 21",
+      "category": "reporters:neutral",
+      "reporter": "PA",
+      "opinion_index": 0
+    },
+    {
+      "cite": "518 US 267",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        1730053
+      ],
+      "weight": 4,
+      "year": 1996,
+      "pin_cites": [
+        {
+          "page": "291-292"
+        },
+        {
+          "page": "292"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/518/0267-01"
+      ]
+    },
+    {
+      "cite": "460 NW2d 505",
+      "category": "reporters:state_regional",
+      "reporter": "N.W.2d",
+      "year": 1990,
+      "opinion_index": 0
+    },
+    {
+      "cite": "435 Mich 517",
+      "category": "reporters:state",
+      "reporter": "Mich.",
+      "case_ids": [
+        1982774
+      ],
+      "year": 1990,
+      "pin_cites": [
+        {
+          "page": "531-532"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mich/435/0517-01"
+      ]
+    },
+    {
+      "cite": "210 Mich App 470",
+      "category": "reporters:state",
+      "reporter": "Mich. App.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "428 Mich 360",
+      "category": "reporters:state",
+      "reporter": "Mich.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "408 NW2d 795",
+      "category": "reporters:state_regional",
+      "reporter": "N.W.2d",
+      "year": 1987,
+      "opinion_index": 0
+    },
+    {
+      "cite": "428 Mich 356",
+      "category": "reporters:state",
+      "reporter": "Mich.",
+      "case_ids": [
+        1995069
+      ],
+      "year": 1987,
+      "opinion_index": 0,
+      "case_paths": [
+        "/mich/428/0356-01"
+      ]
+    },
+    {
+      "cite": "403 NW2d 143",
+      "category": "reporters:state_regional",
+      "reporter": "N.W.2d",
+      "year": 1987,
+      "opinion_index": 0
+    },
+    {
+      "cite": "157 Mich App 375",
+      "category": "reporters:state",
+      "reporter": "Mich. App.",
+      "case_ids": [
+        2276148
+      ],
+      "weight": 2,
+      "year": 1987,
+      "pin_cites": [
+        {
+          "page": "361"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mich-app/157/0375-01"
+      ]
+    },
+    {
+      "cite": "211 Mich App 710",
+      "category": "reporters:state",
+      "reporter": "Mich. App.",
+      "weight": 2,
+      "opinion_index": 0
+    },
+    {
+      "cite": "536 NW2d 605",
+      "category": "reporters:state_regional",
+      "reporter": "N.W.2d",
+      "weight": 4,
+      "year": 1995,
+      "pin_cites": [
+        {
+          "page": "708-709"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "211 Mich App 703",
+      "category": "reporters:state",
+      "reporter": "Mich. App.",
+      "case_ids": [
+        1874647
+      ],
+      "weight": 2,
+      "year": 1995,
+      "pin_cites": [
+        {
+          "page": "708"
+        },
+        {
+          "page": "708-709"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mich-app/211/0703-01"
+      ]
+    },
+    {
+      "cite": "339 NW2d 666",
+      "category": "reporters:state_regional",
+      "reporter": "N.W.2d",
+      "year": 1983,
+      "opinion_index": 0
+    },
+    {
+      "cite": "128 Mich App 17",
+      "category": "reporters:state",
+      "reporter": "Mich. App.",
+      "case_ids": [
+        2220834
+      ],
+      "weight": 3,
+      "year": 1983,
+      "pin_cites": [
+        {
+          "page": "23-24"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mich-app/128/0017-01"
+      ]
+    },
+    {
+      "cite": "537 NW2d 160",
+      "category": "reporters:state_regional",
+      "reporter": "N.W.2d",
+      "year": 1995,
+      "opinion_index": 0
+    },
+    {
+      "cite": "449 Mich 515",
+      "category": "reporters:state",
+      "reporter": "Mich.",
+      "case_ids": [
+        2038473
+      ],
+      "year": 1995,
+      "pin_cites": [
+        {
+          "page": "523-524"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mich/449/0515-01"
+      ]
+    },
+    {
+      "cite": "450 Mich 964",
+      "category": "reporters:state",
+      "reporter": "Mich.",
+      "year": 1996,
+      "opinion_index": 0
+    },
+    {
+      "cite": "210 Mich App 471",
+      "category": "reporters:state",
+      "reporter": "Mich. App.",
+      "weight": 2,
+      "opinion_index": 0
+    },
+    {
+      "cite": "534 NW2d 149",
+      "category": "reporters:state_regional",
+      "reporter": "N.W.2d",
+      "year": 1995,
+      "opinion_index": 0
+    },
+    {
+      "cite": "210 Mich App 467",
+      "category": "reporters:state",
+      "reporter": "Mich. App.",
+      "case_ids": [
+        1876181
+      ],
+      "year": 1995,
+      "pin_cites": [
+        {
+          "page": "471"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mich-app/210/0467-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 1380,
+    "char_count": 49979,
+    "ocr_confidence": 0.734,
+    "pagerank": {
+      "raw": 2.624816699601257e-07,
+      "percentile": 0.8216635410018113
+    },
+    "sha256": "be5d1b5479d9bdd546e3b262db4102a4f0e1a196ca07394bb4435eee82373347",
+    "simhash": "1:a36eee90ebdaaef0",
+    "word_count": 8152
+  },
+  "last_updated": "2024-02-27T17:45:28.850794+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "file_name": "0221-01",
+  "first_page_order": 307,
+  "last_page_order": 331
+}

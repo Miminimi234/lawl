@@ -1,0 +1,167 @@
+{
+  "id": 12519793,
+  "name": "Maranda Lynn ODONNELL, Plaintiff-Appellee, v. Alex SALGADO; Ronnisha Bowman; Erica Hughes ; Shannon Baldwin ; David M. Fleischer ; Kelley Andrews; Andrew A. Wright; Franklin Bynum; Toria J. Finch; Lee Harper Wilson; Sedrick T. Walker, II; Cassandra Y. Holleman; Raul Rodriguez; Tonya Jones, Defendants-Appellants. Loetha Shanta McGruder; Robert Ryan Ford, Plaintiffs-Appellees, v. Harris County, Texas, et al., Defendants, Alex Salgado; Ronnisha Bowman; Erica Hughes ; Shannon Baldwin ; David M. Fleischer ; Kelley Andrews; Andrew A. Wright; Franklin Bynum; Toria J. Finch; Lee Harper Wilson; Sedrick T. Walker, II; Cassandra Y. Holleman; Raul Rodriguez; Tonya Jones, Appellants.",
+  "name_abbreviation": "Odonnell v. Salgado",
+  "decision_date": "2019-01-14",
+  "docket_number": "No. 18-20466",
+  "first_page": "479",
+  "last_page": "482",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "913 F.3d 479"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "5th Cir.",
+    "id": 8820,
+    "name": "United States Court of Appeals for the Fifth Circuit"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "28 U.S.C. \u00a7 46",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "pin_cites": [
+        {
+          "page": "(d)"
+        }
+      ],
+      "opinion_index": -1
+    },
+    {
+      "cite": "861 F.3d 545",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        12276184
+      ],
+      "year": 2017,
+      "pin_cites": [
+        {
+          "parenthetical": "Smith, J."
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/861/0545-01"
+      ]
+    },
+    {
+      "cite": "95 L.Ed. 36",
+      "category": "reporters:federal",
+      "reporter": "L. Ed.",
+      "year": 1950,
+      "opinion_index": 0
+    },
+    {
+      "cite": "340 U.S. 36",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6930686
+      ],
+      "weight": 2,
+      "year": 1950,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/340/0036-01"
+      ]
+    },
+    {
+      "cite": "484 U.S. 72",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        601323
+      ],
+      "weight": 5,
+      "year": 1987,
+      "pin_cites": [
+        {
+          "page": "83"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/484/0072-01"
+      ]
+    },
+    {
+      "cite": "115 S.Ct. 386",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        1332416,
+        6117237
+      ],
+      "weight": 4,
+      "year": 1994,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/513/0018-01",
+        "/br/173/0386-01"
+      ]
+    },
+    {
+      "cite": "513 U.S. 18",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        1332416
+      ],
+      "weight": 4,
+      "year": 1994,
+      "pin_cites": [
+        {
+          "page": "26"
+        },
+        {
+          "page": "25-26"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/513/0018-01"
+      ]
+    },
+    {
+      "cite": "900 F.3d 220",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        12518189
+      ],
+      "year": 2018,
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/900/0220-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 489,
+    "char_count": 6259,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.2591614414585561
+    },
+    "sha256": "1363d39e2fcf06ff03866033f8a102a26603161176c0131b2d25e55536d20445",
+    "simhash": "1:39f02a127b8a4990",
+    "word_count": 981
+  },
+  "last_updated": "2024-02-27T18:46:17.308091+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "file_name": "0479-01",
+  "first_page_order": 479,
+  "last_page_order": 482
+}

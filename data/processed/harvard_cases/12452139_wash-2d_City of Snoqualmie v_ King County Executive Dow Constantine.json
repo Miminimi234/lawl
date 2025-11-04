@@ -1,0 +1,692 @@
+{
+  "id": 12452139,
+  "name": "The City of Snoqualmie, Respondent, v. King County Executive Dow Constantine et al., Defendants, The Department of Revenue, Appellant",
+  "name_abbreviation": "City of Snoqualmie v. King County Executive Dow Constantine",
+  "decision_date": "2016-12-22",
+  "docket_number": "No. 91534-2",
+  "first_page": "289",
+  "last_page": "307",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "187 Wash. 2d 289"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Wash.",
+    "id": 9029,
+    "name": "Washington Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 38,
+    "name_long": "Washington",
+    "name": "Wash."
+  },
+  "cites_to": [
+    {
+      "cite": "194 P.3d 977",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "weight": 3,
+      "year": 2008,
+      "opinion_index": 0
+    },
+    {
+      "cite": "164 Wn.2d 875",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        3996478
+      ],
+      "year": 2008,
+      "pin_cites": [
+        {
+          "page": "882"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/164/0875-01"
+      ]
+    },
+    {
+      "cite": "101 P.3d 67",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2004,
+      "pin_cites": [
+        {
+          "parenthetical": "citing Spitzer, supra, at 343-49"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "152 Wn.2d 862",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        1217447
+      ],
+      "year": 2004,
+      "pin_cites": [
+        {
+          "parenthetical": "citing Spitzer, supra, at 343-49"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/152/0862-01"
+      ]
+    },
+    {
+      "cite": "38 Gonz. L. Rev. 335",
+      "category": "journals:journal",
+      "reporter": "Gonz. L. Rev.",
+      "year": 2002,
+      "pin_cites": [
+        {
+          "page": "352",
+          "parenthetical": "explaining that the Coveil test's two-category approach does not \"adequately describe! ] the full range of governmental charges\""
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "78 P.3d 1279",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2003,
+      "pin_cites": [
+        {
+          "parenthetical": "streetlight charge"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "150 Wn.2d 540",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        9195051
+      ],
+      "year": 2003,
+      "pin_cites": [
+        {
+          "page": "553",
+          "parenthetical": "streetlight charge"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/150/0540-01"
+      ]
+    },
+    {
+      "cite": "89 P.3d 217",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2004,
+      "pin_cites": [
+        {
+          "parenthetical": "ambulance charge"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "151 Wn.2d 359",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        428154
+      ],
+      "year": 2004,
+      "pin_cites": [
+        {
+          "page": "371",
+          "parenthetical": "ambulance charge"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/151/0359-01"
+      ]
+    },
+    {
+      "cite": "315 P.3d 1065",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2013,
+      "pin_cites": [
+        {
+          "parenthetical": "credit enhancement charge"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "178 Wn.2d 763",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        4298050
+      ],
+      "year": 2013,
+      "pin_cites": [
+        {
+          "page": "808",
+          "parenthetical": "credit enhancement charge"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/178/0763-01"
+      ]
+    },
+    {
+      "cite": "905 P.2d 324",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1995,
+      "opinion_index": 0
+    },
+    {
+      "cite": "127 Wn.2d 874",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        433034
+      ],
+      "year": 1995,
+      "pin_cites": [
+        {
+          "page": "879"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/127/0874-01"
+      ]
+    },
+    {
+      "cite": "207 P.2d 712",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "weight": 2,
+      "year": 1949,
+      "opinion_index": 0
+    },
+    {
+      "cite": "33 Wn.2d 896",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        4907536
+      ],
+      "year": 1949,
+      "pin_cites": [
+        {
+          "page": "902"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/33/0896-01"
+      ]
+    },
+    {
+      "cite": "650 P.2d 193",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1982,
+      "opinion_index": 0
+    },
+    {
+      "cite": "97 Wn.2d 804",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        1155014
+      ],
+      "year": 1982,
+      "pin_cites": [
+        {
+          "page": "809"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/97/0804-01"
+      ]
+    },
+    {
+      "cite": "18 P.3d 523",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2001,
+      "opinion_index": 0
+    },
+    {
+      "cite": "143 Wn.2d 12",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        425268
+      ],
+      "year": 2001,
+      "pin_cites": [
+        {
+          "page": "26"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/143/0012-01"
+      ]
+    },
+    {
+      "cite": "459 P.2d 633",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "weight": 3,
+      "year": 1969,
+      "pin_cites": [
+        {
+          "parenthetical": "finding that where a controversy's \"outcome will have a direct bearing on the commerce, finance, labor, industry or agriculture generally, questions of standing to maintain an action should be given less rigid and more liberal answer\""
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "77 Wn.2d 94",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        1076407
+      ],
+      "year": 1969,
+      "pin_cites": [
+        {
+          "page": "96",
+          "parenthetical": "finding that where a controversy's \"outcome will have a direct bearing on the commerce, finance, labor, industry or agriculture generally, questions of standing to maintain an action should be given less rigid and more liberal answer\""
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/77/0094-01"
+      ]
+    },
+    {
+      "cite": "694 P.2d 641",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "weight": 2,
+      "year": 1985,
+      "opinion_index": 0
+    },
+    {
+      "cite": "103 Wn.2d 663",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        1134128
+      ],
+      "year": 1985,
+      "pin_cites": [
+        {
+          "page": "668"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/103/0663-01"
+      ]
+    },
+    {
+      "cite": "576 P.2d 401",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1978,
+      "opinion_index": 0
+    },
+    {
+      "cite": "89 Wn.2d 862",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        1108605
+      ],
+      "year": 1978,
+      "pin_cites": [
+        {
+          "page": "866"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/89/0862-01"
+      ]
+    },
+    {
+      "cite": "83 P.3d 419",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2004,
+      "pin_cites": [
+        {
+          "parenthetical": "internal quotation marks omitted"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "150 Wn.2d 791",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        9195743
+      ],
+      "year": 2004,
+      "pin_cites": [
+        {
+          "page": "802",
+          "parenthetical": "internal quotation marks omitted"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/150/0791-01"
+      ]
+    },
+    {
+      "cite": "298 P.3d 720",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2013,
+      "opinion_index": 0
+    },
+    {
+      "cite": "177 Wn.2d 242",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        4131200
+      ],
+      "year": 2013,
+      "pin_cites": [
+        {
+          "page": "246"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/177/0242-01"
+      ]
+    },
+    {
+      "cite": "31 U.S.C. \u00a7\u00a7 6901-6907",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "725 P.2d 411",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1986,
+      "pin_cites": [
+        {
+          "parenthetical": "citations omitted"
+        }
+      ],
+      "opinion_index": 1
+    },
+    {
+      "cite": "106 Wn.2d 695",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        1195532
+      ],
+      "year": 1986,
+      "pin_cites": [
+        {
+          "page": "699-700",
+          "parenthetical": "citations omitted"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/wash-2d/106/0695-01"
+      ]
+    },
+    {
+      "cite": "286 U.S. 276",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        3918684
+      ],
+      "weight": 3,
+      "year": 1932,
+      "pin_cites": [
+        {
+          "page": "280"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/us/286/0276-01"
+      ]
+    },
+    {
+      "cite": "312 U.S. 359",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        359173
+      ],
+      "weight": 3,
+      "year": 1941,
+      "pin_cites": [
+        {
+          "page": "363"
+        },
+        {
+          "parenthetical": "\"In passing on the constitutionality of a tax law 'we are concerned only with its practical operation, not its definition or the precise form of descriptive words which may be applied to it.' \" (quoting Lawrence v. State Tax Comm'n, 286 U.S. 276, 280, 52 S. Ct. 556, 76 L. Ed. 1102 (1932))"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/us/312/0359-01"
+      ]
+    },
+    {
+      "cite": "26 U.S.C. \u00a7 6672",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "pin_cites": [
+        {
+          "page": "(a)"
+        }
+      ],
+      "opinion_index": 1
+    },
+    {
+      "cite": "436 U.S. 268",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        1490474
+      ],
+      "weight": 3,
+      "year": 1978,
+      "pin_cites": [
+        {
+          "page": "275",
+          "parenthetical": "\"That the funds due are referred to as a 'penalty' . . . does not alter their essential character as taxes.\" (quoting 26 U.S.C. \u00a7 6672(a))"
+        },
+        {
+          "parenthetical": "\"That the funds due are referred to as a 'penalty' . . . does not alter their essential character as taxes.\" (quoting 26 U.S.C. \u00a7 6672(a))"
+        },
+        {
+          "parenthetical": "\"That the funds due are referred to as a 'penalty' . . . does not alter their essential character as taxes.\" (quoting 26 U.S.C. \u00a7 6672(a))"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/us/436/0268-01"
+      ]
+    },
+    {
+      "cite": "567 U.S. 519",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        12407356
+      ],
+      "weight": 3,
+      "year": 2012,
+      "pin_cites": [
+        {
+          "page": "564",
+          "parenthetical": "noting that a governmental charge's constitutionality \"was not controlled by Congress's choice of label\""
+        },
+        {
+          "parenthetical": "noting that a governmental charge's constitutionality \"was not controlled by Congress's choice of label\""
+        },
+        {
+          "parenthetical": "noting that a governmental charge's constitutionality \"was not controlled by Congress's choice of label\""
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/us/567/0519-01"
+      ]
+    },
+    {
+      "cite": "89 P.3d 217",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2004,
+      "opinion_index": 1
+    },
+    {
+      "cite": "151 Wn.2d 359",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        428154
+      ],
+      "year": 2004,
+      "pin_cites": [
+        {
+          "page": "372"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/wash-2d/151/0359-01"
+      ]
+    },
+    {
+      "cite": "905 P.2d 324",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1995,
+      "opinion_index": 1
+    },
+    {
+      "cite": "127 Wn.2d 874",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        433034
+      ],
+      "year": 1995,
+      "opinion_index": 1,
+      "case_paths": [
+        "/wash-2d/127/0874-01"
+      ]
+    },
+    {
+      "cite": "18 P.3d 523",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "weight": 2,
+      "year": 2001,
+      "opinion_index": 1
+    },
+    {
+      "cite": "143 Wn.2d 12",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        425268
+      ],
+      "year": 2001,
+      "pin_cites": [
+        {
+          "page": "28"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/wash-2d/143/0012-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 1281,
+    "char_count": 32767,
+    "ocr_confidence": 0.891,
+    "pagerank": {
+      "raw": 5.12982294956584e-08,
+      "percentile": 0.3240690866533145
+    },
+    "sha256": "ebe54e674a7120bad037ece171cfc07fbd79432d1e0a31cd512080ffd3e081a0",
+    "simhash": "1:51947e26ebabf188",
+    "word_count": 5496
+  },
+  "last_updated": "2024-02-27T20:27:34.476040+00:00",
+  "provenance": {
+    "date_added": "2019-05-21",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Madsen, C.J., and Johnson, Fairhurst, Stephens, Gonz\u00e1lez, and Yu, JJ., concur.",
+      "Gordon McCloud, J., concurs with Wiggins, J."
+    ],
+    "parties": [
+      "The City of Snoqualmie, Respondent, v. King County Executive Dow Constantine et al., Defendants, The Department of Revenue, Appellant."
+    ],
+    "opinions": [
+      {
+        "text": "Owens, J.\n\u00b6 1 Article VII of the Washington Constitution imposes a set of requirements on taxes for the protection of the taxpayers; however, not all governmental charges are \u201ctaxes\u201d that are subject to those requirements. At issue in this case is whether a certain governmental charge imposed on Indian tribes is a tax. After the legislature amended a statute to expand the types of tribal property that are eligible for a property tax exemption, the Muckleshoot Indian Tribe applied for and received an exemption on its Salish Lodge property pursuant to the amendment. As required by statute, the tribe negotiated and paid an amount to the county in lieu of taxes. Today, we are asked to consider the constitutionality of this payment in lieu of tax (PILT). We find that the PILT is not a tax at all but, rather, a charge that tribes pay to compensate municipalities for public services provided to the exempt property. Since the PILT is not a tax, it is not subject to article VII\u2019s tax requirements and thus we reverse the trial court and uphold the constitutionality of the provision.\nFACTS\n\u00b62 The Washington Constitution gives the legislature the authority to exempt property from taxation. Const, art. VII, \u00a7 1. In 2004, the Washington Legislature added tribal property to the list of tax-exempt property. Laws of 2004, ch. 236, \u00a7 1. Tribal property is exempt from state taxation if the property is owned by a recognized tribe and used for \u201c \u2018essential government services,\u2019 \u201d including operations like \u201ctribal administration, public facilities, fire, police, public health, education, sewer, water, environmental and land use, transportation, and utility services.\u201d Id. \u00a7 1(1), (2) (formatting omitted).\n\u00b63 In 2014, the legislature passed Engrossed Substitute House Bill (ESHB) 1287, which expanded qualifying exempt property and created a payment in lieu of property tax for some of it. Id. ch. 207. To do so, it expanded the qualifying list of \u201c\u2018[e]ssential government services\u2019\u201d to include \u201ceconomic development,\u201d thereby expanding the types of properties eligible for the tax exemption. Id. \u00a7 5(3)(b) (formatting omitted); RCW 84.36.010(3)(b). \u201cEconomic development\u201d is defined as \u201ccommercial activities, including those that facilitate the creation or retention of businesses or jobs, or that improve the standard of living or economic health of tribal communities.\u201d Laws of 2014, ch. 207, \u00a7 5(3)(c) (formatting omitted).\n\u00b64 If a tribe takes advantage of the property tax exemption, it does not pay property taxes, but the statute still requires the tribe to make some payment. Where tribes lease the property to a third party, the private lessee must pay a leasehold excise tax essentially for the \u201cprivilege of occupying or using\u201d the land. RCW 82.29A.030(l)(a). If the land is not leased, then the tribe must make a \u201cpayment in lieu of leasehold excise taxes.\u201d RCW 82.29A.055(1). This PILT is owed to the county if (1) the property is used exclusively for economic development, (2) there is no taxable leasehold interest in the tax-exempt property, (3) the property is not on the tribe\u2019s reservation, and (4) the property is not otherwise exempt from taxation under federal law. Id. The amount of the PILT is to be determined through good faith negotiation between the tribe and the county in which the property is located. RCW 82.29A-.055(2). If they cannot agree, the Department of Revenue will determine the PILT amount, which cannot exceed the leasehold excise tax amount that would be due if the land were leased to a third party. Id.\n\u00b65 PILTs are nothing new. In 1976, the federal government established the payments in lieu of taxes (referred to as PILT or PILOT) program, whereby the government pays sums of money to state governments or localities where its property sits, in spite of its tax-exempt status. See 31 U.S.C. \u00a7\u00a7 6901-6907. The purpose for PILT payments was to mitigate the burden on state governments created by the tax-exempt land that still requires public services from the state. As one report explained, \u201cFederal lands cannot be taxed but may create a demand for services such as fire protection, police cooperation, or longer roads to skirt the federal property.\u201d M. Lynne Corn, Cong. Research Serv., RL31392, PILT (Payments in Lieu of Taxes): Somewhat Simplified, \u201cSummary\u201d (2015), https://www.fas.org/sgp/crs/misc/RL 31392.pdf [https://perma.cc/4P9R-CGUC]. For instance, federal land in the state of Washington is some 12 million acres of mostly wildlife and forestland, representing about one-quarter of the state\u2019s total acreage. The federal government ameliorates the impact of these tax-exempt lands by paying PILTs to the State for the various state public services needed to support these lands. Washington also has PILT programs for property owned by other governmental agencies, such as the Washington State Department of Fish and Wildlife and the Washington State Department of Natural Resources. See, e.g., RCW 77.12.201; RCW 79.71.130.\n\u00b66 Various Washington tribes took advantage of the 2014 amendment expanding the off-reservation tribal property exemption for around 190 properties. One of those properties is the Salish Lodge, an off-reservation hotel and spa in the city of Snoqualmie and King County, owned by the Muckleshoot Indian Tribe. Pursuant to the 2014 amendment, the tribe applied for and received a property tax exemption on the Salish Lodge as a property used for \u201ceconomic development.\u201d Clerk\u2019s Papers at 416-34. The tribe negotiated a PILT payment with King County and agreed to pay 25 percent of the property taxes it paid in 2014.\n\u00b67 The city challenged the constitutionality of ESHB 1287. Engrossed Substitute House Bill 1287, 63d Leg., Reg. Sess. (Wash. 2014). It contended that the Salish Lodge would generate about $93,500 in property tax revenue to the city, which would be roughly 1.6 percent of the city\u2019s total property tax levy. The city stated in its complaint that the exemption of the lodge created a tax shift to its taxpayers (raising their individual tax liability due to the loss in overall revenue) and also raised the city\u2019s property tax levy rate. Furthermore, the city points to the tribe\u2019s planned development expansion of the Salish Lodge, which could generate an additional $600,000 of property tax revenue\u2014however, due to the expanded property tax exemption of ESHB 1287, the city would not realize it. The city challenged the PILT as an unconstitutional property tax, arguing that it violates the uniformity clause and the antisurrender clause, and that it is an improper delegation of the legislature\u2019s tax power. Const, art. VII, \u00a7\u00a7 1, 9. The trial court granted partial summary judgment in favor of the city, finding that (1) the city has standing to challenge the constitutionality of ESHB 1287 and (2) the PILT is a property tax that violates article VII\u2019s uniformity requirement and antisurrender clause and thus is unconstitutional. The department appealed directly to this court, and we retained the case for review.\n\u00b68 Three amicus curiae briefs were filed in this case. The Muckleshoot Indian Tribe filed a brief in support of upholding the PILT. The Master Builders Association of King and Snohomish Counties and the Washington State Association of Municipal Attorneys both filed briefs in support of the city\u2019s contention that the PILT is an unconstitutional tax.\nISSUES\n\u00b69 1. Does the city of Snoqualmie have standing to challenge the constitutionality of the PILT?\n\u00b610 2. Is the PILT an unconstitutional tax?\nANALYSIS\n1. The City of Snoqualmie Has Standing To Pursue Its Constitutional Claims\n\u00b6 11 The city of Snoqualmie has standing to challenge the PILT, both on its own behalf and in the form of representative standing on behalf of its residents. As explained below, we find that the city has direct standing under the more liberal standing requirements we apply when a case involves an issue of public importance. Separately, the city also has representative standing to bring the lawsuit on behalf of its citizens. Either suffices to grant the city standing in this case. We review the legal question of standing de novo. In re Estate of Becker, 177 Wn.2d 242, 246, 298 P.3d 720 (2013).\na. The City Has Direct Standing To Challenge the Statute under Our More Liberal Standing Requirements for Cases of Public Importance\n\u00b612 Typically, a party has direct standing when it seeks to protect interests that are within the \u201c \u2018zone of interests\u2019 \u201d regulated by the challenged statute and where the party suffered an injury in fact. Grant County Fire Prot. Dist. No. 5 v. City of Moses Lake, 150 Wn.2d 791, 802, 83 P.3d 419 (2004) (internal quotation marks omitted) (quoting Save a Valuable Env\u2019t v. City of Bothell, 89 Wn.2d 862, 866, 576 P.2d 401 (1978)). While it is clear to us that the city has suffered an injury by losing the tax revenue generated by the now exempt tribal property, it is a closer call whether the city\u2019s interests are within the zone of interests regulated by the challenged statute. However, we have held that \u201c [standing is not an insurmountable barrier\u201d to a city challenging the constitutionality of a statute. City of Seattle v. State, 103 Wn.2d 663, 668, 694 P.2d 641 (1985). Indeed, we have applied standing requirements more liberally where an issue is of \u201cserious public importance.\u201d Id.\n\u00b613 Here, the department even concedes the substantial importance of this case, stating, \u201cThe Department recognizes that this case raises important constitutional questions, the resolution of which will have a broad impact on the administration of property taxes.\u201d Br. of Appellant at 23. However, it argues the importance should not mean that we should apply standing requirements more liberally. On the contrary, our case law directs us to do just that. See City of Seattle, 103 Wn.2d at 668; Wash. Nat. Gas Co. v. Pub. Util. Dist. No. 1 of Snohomish County, 77 Wn.2d 94, 96, 459 P.2d 633 (1969) (finding that where a controversy\u2019s \u201coutcome will have a direct bearing on the commerce, finance, labor, industry or agriculture generally, questions of standing to maintain an action should be given less rigid and more liberal answer\u201d).\n\u00b614 The issue of whether this PILT is constitutional will impact Indian tribes throughout the state. As the Muckle-shoot Indian Tribe stated in its amicus brief, several other tribes will be directly affected by an invalidation of the exemption and accompanying PILT. See Amicus Curiae Br. of Muckleshoot Indian Tribe at 1. We also recognize that the tax implications surrounding this case might broadly impact the legislature\u2019s actions concerning the imposition of future PILTs. Therefore, since this issue concerns a matter of great public importance as it pertains to Washington\u2019s tribes and our tax system, we find that the city has standing to challenge the constitutionality of the PILT. Alternatively, the city has representative standing on behalf of its residents, which is discussed below.\nb. The City Has Representative Standing\n\u00b615 In addition, municipalities may have standing to raise constitutional issues on behalf of their citizens in a representative capacity. Grant County, 150 Wn.2d at 803. Any property tax exemption will slightly increase the property tax rate of other taxable property because an exemption reduces the overall taxable property base. See Wash. Senate Ways & Means Comm., A Legislative Guide to Washington State Property Taxes 4 (2016), http://leg.wa.gov /Senate/Committees/WM/Documents/Publications/2016 /2016%20Property%20Tax%20Guide%20v9Jan8_website.pdf [https://perma.cc/BJ9J-ZRJB]. This is called \u201ctax shift,\u201d and the nonexempt individuals must pay higher taxes to compensate for the lost revenue. Id. Here, the taxpayers have been subjected to a tax shift and the PILT cannot compensate for the total loss. Since the taxpayers have suffered an injury from the exemption and the PILT, we find that the city has representative standing to challenge the PILT.\n2. The Statute Does Not Violate the Washington Constitution\u2019s Tax Requirements Because the PILT Is Not a Tax\n\u00b616 It is within the legislature\u2019s power to declare property exempt from taxation. Const, art. VII, \u00a7 1. Thus, the legislature\u2019s amendment expanding the types of tribal property that qualify for a property tax exemption is not at issue. The issue we must decide is whether the PILT that accompanies the expanded exemption is constitutional under article VII. Article VII requires that taxes conform to certain standards. The city challenges the constitutionality of the PILT on three separate grounds under article VII. First, the city argues that it violates the uniformity clause, which requires classes of property to be taxed uniformly. Id. Second, the city argues that the statute is an improper delegation of the legislature\u2019s taxing authority. Const, art. VII, \u00a7 9. Third, the city argues that the statute violates the antisurrender clause, which prohibits the legislature from surrendering its taxing power. Const, art. VII, \u00a7 1.\n\u00b617 In order for these three constitutional requirements to apply to the PILT, the PILT must be a \u201ctax.\u201d \u201cIt is beyond dispute that article VII, section 1 applies only to taxes. Anything other than a tax is beyond the provision\u2019s scope.\u201d Dean v. Lehman, 143 Wn.2d 12, 26, 18 P.3d 523 (2001). Thus, if the PILT is a tax, it must conform to the requirements of article VII. If it is not a tax, then the tax requirements do not apply to it. We explain below that the PILT is not a tax.\nThe PILT Is Not a Tax\n\u00b618 As explained above, the threshold question in this case is whether the PILT is a tax. However, both parties frame the question as whether the PILT is a tax or a regulatory fee. This is understandable since much of our prior case law in this area dealt with whether certain fees were actually hidden taxes, and thus our analysis was designed to distinguish between those two categories of payments. However, some payments to the government are neither taxes nor regulatory fees. As we explain below, that is the case here.\n\u00b619 \u201cNot all demands for payment made by a governmental body are taxes.\u201d Hillis Homes, Inc. v. Snohomish County, 97 Wn.2d 804, 809, 650 P.2d 193 (1982). This court has defined \u201ctax\u201d as\nan enforced contribution of money, assessed or charged by authority of sovereign government for the benefit of the state or the legal taxing authorities. It is not a debt or contract in the ordinary sense, but it is an exaction in the strictest sense of the word.\nState ex rel. City of Seattle v. Dep\u2019t of Pub. Utils., 33 Wn.2d 896, 902, 207 P.2d 712 (1949). In Hillis Homes, we were asked to decide whether certain \u201cdevelopment fees\u201d should actually be characterized as taxes. 97 Wn.2d at 809. To make that determination, we questioned whether the fees were regulatory instead of purely fiscal. Id. To answer such questions, we designed a three-factor test to distinguish between taxes and regulatory fees in Covell v. City of Seattle, 127 Wn.2d 874, 879, 905 P.2d 324 (1995). We have applied the three-factor Covell test to several government charges. See, e.g., Cedar River Water & Sewer Dist. v. King County, 178 Wn.2d 763, 808, 315 P.3d 1065 (2013) (credit enhancement charge); Arborwood Idaho, LLC v. City of Kennewick, 151 Wn.2d 359, 371, 89 P.3d 217 (2004) (ambulance charge); Okeson v. City of Seattle, 150 Wn.2d 540, 553, 78 P.3d 1279 (2003) (streetlight charge).\n\u00b620 This test has been useful as a tool to discover whether certain charges are actually taxes that have been disguised as fees. See Cedar River, 178 Wn.2d at 808. However, we find that in some instances, the test is too limited because it was not designed to account for the full spectrum of other government charges\u2014some of which will be neither taxes nor regulatory fees. See Hugh D. Spitzer, Taxes vs. Fees: A Curious Confusion, 38 Gonz. L. Rev. 335, 352 (2002-03) (explaining that the Coveil test\u2019s two-category approach does not \u201cadequately describe! ] the full range of governmental charges\u201d).\n\u00b621 As we have previously pointed out, \u201cmunicipalities may charge fees that are not purely regulatory in nature.\u201d Branson v. Port of Seattle, 152 Wn.2d 862, 874 n.5, 101 P.3d 67 (2004) (citing Spitzer, supra, at 343-49). Regulatory fees are only one subset of \u201cuser charge,\u201d which is a broad term that describes other types of charges such as commodity charges, burden offset charges, and special assessments. Spitzer, supra, at 343-51. These various types of fees illustrate why a test that determines only whether a charge is a tax or a regulatory fee is too limited. Just because a charge is not a tax does not always mean that it is a regulatory fee. Thus, we take this opportunity to clarify that the two-category dichotomy of governmental charges from the Coveil test is not always practical. At times, the critical inquiry will not be labeling the charge, but merely determining whether a charge is a tax. That is the case here, where the key issue is not whether the PILT is some kind of fee, but whether the PILT is a tax (and therefore subject to the constitution\u2019s taxation requirements). Thus, we analyze below not whether the PILT is a fee or a tax, but only whether the PILT is a tax.\n\u00b622 Given that we are not determining whether this charge is a tax or a fee, the original Coveil factors are not entirely helpful. Nonetheless, the principles underlying the Coveil factors help us answer the question presented. As we have done previously, we can apply a broader version of the Coveil factors in our analysis. See Lane v. City of Seattle, 164 Wn.2d 875, 882, 194 P.3d 977 (2008). In Lane, we summarized the factors as \u201cthe purpose of the cost, where the money raised is spent, and whether people pay the cost because they use the service.\u201d Id. For cases such as this one, the Coveil factors can be helpful when applied broadly, as they were in Lane. Here, we apply those more generalized factors to determine whether the PILT is a tax or not.\n\u00b623 First, we look at the purpose of the charge, id., which supports finding that the PILT is not a tax. We have found that where a charge\u2019s purpose is to \u201calleviatfe] a burden to which they contribute,\u201d then the charge is more likely not a tax. Arborwood Idaho, 151 Wn.2d at 371. Here, the PILT\u2019s purpose is to allow the tribe to alleviate a burden to which it contributes. The PILT is meant to offset the burden created by the tax exemption, in order to compensate the municipality for the services the tribal exempt land requires. Although we have said that where the purpose of a charge is to raise revenue, it is a tax, see Coveil, 127 Wn.2d at 879, we must also acknowledge that all governmental charges are generally imposed to raise revenue. Thus, that aspect is not dispositive. Since the purpose of the PILT is to alleviate a burden, this factor weighs against finding that the PILT is a tax.\n\u00b624 The second factor considers where the money raised is spent. Lane, 164 Wn.2d at 882. Overall, this factor supports finding that the PILT is not a tax because although the money is deposited into a general fund like taxes are, its value is accounted for by the particular services required. Previously, we have found that a charge is less likely to be a tax if it is deposited into a special fund for a particular purpose. See id. at 883. However, we have held that the funds need not be directly allocated to a particular service in order to not be a tax. Dean, 143 Wn.2d at 27-28. Although the PILT is not directly allocated to a particular special fund or service, it is essentially a reimbursement, or at least a prospective payment, for municipal services rendered. Therefore, although the PILT is distributed to the city\u2019s general fund, it is unlike a tax, as it is used to offset or reimburse the cost of municipal services provided to the tribal land.\n\u00b625 Finally, the third factor considers whether there is a relationship between the charge and the service. Lane, 164 Wn.2d at 882. This factor also supports finding that the PILT is not a tax. While Coveil required a \u201cdirect\u201d relationship to find the charge was not a tax, 127 Wn.2d at 879, our cases that have applied the factors more broadly have simply looked at \u201cwhether people pay the cost because they use the service.\u201d Lane, 164 Wn.2d at 882. Here, the PILT is paid because of the municipal services the land receives. This is evidenced by the negotiation process between the tribe and the county, which allows for flexibility and accounts for the unique service requirements of each piece of tribal land. Although the PILT is not a direct reimbursement to the municipality for services received\u2014 such as receiving a bill for a service like a forest fire on the land\u2014it is preemptive and is intended to cover costs that are likely to arise. Under the broad interpretation, we find that the PILT is related to the services received on the land. Thus, the third factor supports finding that the PILT is not a tax. Consequently, the three factors support a finding that the PILT is not a tax. Instead, the purpose of the PILT is to compensate the local government for services provided to the land, as evidenced by the negotiation process between the tribe and the county to determine the amount of the PILT.\n\u00b626 We also note that practically speaking, the PILT is simply not a tax because of the legislature\u2019s own language and construction of the PILT. If it were a tax, then the legislature would not provide a tax exemption. A PILT by its very nature is a payment in lieu of a tax. Its very reason for being is an understanding that while certain property is tax exempt, it still creates a burden that justifies the property owner\u2019s payment of some funds to cover that burden.\n\u00b627 Here, the legislature decided to expand the type of tribal property that would receive a tax exemption for the benefit of this state\u2019s recognized tribes. The legislature\u2019s purpose for the amendments in expanding what tribal property qualifies as tax exempt was expressly laid out in the statute:\nIt is the legislature\u2019s specific public policy objective to create jobs and improve the economic health of tribal communities. It is the legislature\u2019s intent to exempt property used by federally recognized Indian tribes for economic development purposes, in order to achieve these policy objectives.\nLaws of 2014, ch. 207, \u00a7 1(2). The legislature intended to bolster tribal communities by allowing more tribal property to receive the benefit of exemption. The PILT, as explained above, is used to provide some compensation for the burden the increase in tax exempt land might place on cities. The PILT was simply not intended to be a tax. If it were, then the legislature would not have provided for an exemption and a PILT simultaneously. Consequently, we hold that the PILT is not a tax. Since it is not a tax, it is not subject to article VII\u2019s tax requirements and our inquiry ends. Accordingly, we reverse the trial court\u2019s decision to strike down ESHB 1287 as unconstitutional.\nCONCLUSION\n\u00b628 We hold that the PILT is not a tax because payment is tied to compensating the municipality for public services the land might require, in lieu of paying a property tax or leasehold excise tax. Since the PILT is not a tax, the tax requirements of article VII do not apply to it. Accordingly, we reverse.\nMadsen, C.J., and Johnson, Fairhurst, Stephens, Gonz\u00e1lez, and Yu, JJ., concur.\nThe city made other claims relating to the Public Records Act (ch. 42.56 RCW), which are still pending before the King County Superior Court. This court\u2019s commissioner stayed the superior court\u2019s decision pending the resolution of this appeal.\nAlthough the department references justiciability in its briefing to this court, it does not appear to raise it as a separate issue and instead focuses on standing only. Thus, we focus on the standing challenge.",
+        "type": "majority",
+        "author": "Owens, J."
+      },
+      {
+        "text": "Wiggins, J.\n(concurring in result)\n\u00b629 I agree with the majority that the city of Snoqualmie (City) has standing to pursue these claims. Majority at 295-96. I also agree that the Muckleshoot Indian Tribe\u2019s payment in lieu of tax (PILT) is not subject to article VII of the Washington Constitution. Id. at 303. However, I do not agree that the PILT is not a tax. Rather, I would hold that, while not a property tax, the PILT is an excise tax, a determination that ultimately does not change the outcome of the majority\u2019s opinion. Therefore, I concur in the majority\u2019s result but decline to join in the majority\u2019s reasoning.\n\u00b630 I take issue with the majority\u2019s analysis of the third Covell factor\u2014\u201cwhether there is a direct relationship between the fee charged and the service received by those who pay the fee or between the fee charged and the burden produced by the fee payer.\u201d Arborwood Idaho, LLC v. City of Kennewick, 151 Wn.2d 359, 372, 89 P.3d 217 (2004). For this factor, the majority concludes that \u201cthe PILT is paid because of the municipal services the land receives\u201d and because the PILT is \u201cpreemptive and is intended to cover costs that are likely to arise . . . , we find that the PILT is related to the services received on the land.\u201d Majority at 302. However, the majority fails to distinguish the PILT\u2019s relationship to government services from the relationship that a general property tax has to government services, beyond the amount charged by the State for the PILT\u2014the very issue presented in this case: whether the PILT is a tax subject to article VII\u2019s uniformity requirements.\n\u00b631 Both the PILT and the property tax compensate the government for governmental services. See, e.g., RCW 82-.29A.010(1)(a) (recognizing that certain properties \u201creceive substantial benefits from governmental services provided by units of government\u201d and requiring a leasehold excise tax as a result); Wash. State Dep\u2019t of Revenue, Homeowner\u2019s Guide to Property Tax 1 (2016) (\u201c[The property tax] continues to be the most important revenue source for public schools, fire protection, libraries, and parks and recreation.\u201d), https://dor.wa.gov/docs/pubs/prop_tax/homeown.pdf [https:// perma.cc/2Q3N-E2NU]. However, RCW 82.29A.055(2) allows a tribe to negotiate a lower amount than a general property tax or leasehold excise tax to pay for these services\u2014the PILT. Because we require property taxes to be uniform, we cannot reason backward and say that because a different amount is being charged by the PILT, even though it is for the same services, this somehow transforms the charge into a fee and not a tax.\n\u00b632 It is true that we do not require that \u201cthe charge be individualized as to the actual benefit received or burden imposed by the payer\u201d to characterize the charge as a fee versus a tax. Dean v. Lehman, 143 Wn.2d 12, 28, 18 P.3d 523 (2001). However, there still must be a direct relationship between the fee charged, and the services received and the burden produced by the fee payer. Id. In the present case, even if a tribe fails to pay the PILT, the tribal property will still receive governmental services. This is likewise the case for individuals who fail to pay their property taxes; such individuals still receive the benefit of government services. Therefore, there is precisely the same relationship between the PILT and the governmental services received as there is between property taxes paid and the services those taxes go to provide.\n\u00b633 This scenario is different from a true fee scheme. For example, in a hypothetical water district, a price is calculated, similar to the PILT, according to the estimated burden an individual may create by drawing water from the district. See, e.g., RCW 57.08.005(11). Yet, we do not label the water district charge a \u201cfee\u201d merely because the charge is based on a practical estimate of what burden on the district an individual may cause. Instead, we call the water district charge a fee because there is a direct relationship between the charges an individual pays and the service received from the water district: water. If an individual stops paying water district fees, the water district no longer provides the service; the district shuts off access to the water. In such a case, there is a direct relationship between the charge and the service provided. As a result, such a charge is appropriately characterized as a fee rather than a tax.\n\u00b634 In the present case, there is no direct relationship between the \u201cactual benefit received or burden imposed\u201d for the PILT to be classified as not a tax. Since the tribal property receives governmental services regardless of the PILT, as is the case with property tax, and since the only discernable difference between the PILT and the property tax is the name and amount charged, I would classify it as a tax rather than a fee.\n\u00b635 Furthermore, I do not find persuasive the majority\u2019s reasoning that \u201cthe PILT is simply not a tax because of the legislature\u2019s own language and construction of the PILT.\u201d Majority at 302. Courts have never been persuaded on a constitutional question regarding the propriety of taxation merely by the legislature\u2019s labeling. See, e.g., Nat\u2019l Fed\u2019n of Indep. Bus. v. Sebelius, 567 U.S. 519, 564, 132 S. Ct. 2566, 183 L. Ed. 2d 450 (2012) (noting that a governmental charge\u2019s constitutionality \u201cwas not controlled by Congress\u2019s choice of label\u201d); United States v. Sotelo, 436 U.S. 268, 275, 98 S. Ct. 1795, 56 L. Ed. 2d 275 (1978) (\u201cThat the funds due are referred to as a \u2018penalty\u2019 . . . does not alter their essential character as taxes.\u201d (quoting 26 U.S.C. \u00a7 6672(a))); Nelson v. Sears, Roebuck & Co., 312 U.S. 359, 363, 61 S. Ct. 586, 85 L. Ed. 888 (1941) (\u201cIn passing on the constitutionality of a tax law \u2018we are concerned only with its practical operation, not its definition or the precise form of descriptive words which may be applied to it.\u2019 \u201d (quoting Lawrence v. State Tax Comm\u2019n, 286 U.S. 276, 280, 52 S. Ct. 556, 76 L. Ed. 1102 (1932))); Covell, 127 Wn.2d at 886 (\u201c[T]he characterization of charges by the governmental entity imposing them is not dispositive. Rather, the characterization of the fees turns on a determination of the primary purpose of the fees as derived from the language of the authorizing and implementing legislation.\u201d).\n\u00b636 With this in mind, I would conclude the PILT is an excise tax rather than a property tax. We have established a two-pronged test for determining whether a charge is a property tax or an excise tax:\n[A]n assessment is a valid excise tax if (1) the obligation to pay an excise tax is based upon the voluntary action of the person taxed in performing the act, enjoying the privilege, or engaging in the occupation which is the subject of the excise tax, and (2) the element of absolute and unavoidable demand is lacking.\nArborwood, 151 Wn.2d at 367. We stated the difference between a property tax and excise tax alternatively as follows:\nIf a tax is imposed on the value of the property, it may be a property tax. If levied upon the privilege of doing business, it is an excise tax. A tax for the beneficial use of property as distinguished from a tax on property itself has long been established law.\nHigh Tide Seafoods v. State, 106 Wn.2d 695, 699-700, 725 P.2d 411 (1986) (citations omitted). In the present case, RCW 82.29A.055(l)(a) imposes a PILT when \u201c[t]he tax exempt property is used exclusively for economic development.\u201d The same property would not be subject to the PILT if not used for commercial purposes. As such, the PILT lacks the element of \u201cabsolute and unavoidable demand\u201d of property taxes .Arborwood, 151 Wn.2d at 367. Consequently, the PILT is an excise rather than a property tax. Therefore, the PILT, while certainly a tax, is not subject to the uniformity requirements of article VII, section 1 of the Washington Constitution. See High Tide Seafoods, 106 Wn.2d at 700.\n\u00b637 I concur in the majority\u2019s result only.\nGordon McCloud, J., concurs with Wiggins, J.\nReconsideration denied March 8, 2017.\nCovell v. City of Seattle, 127 Wn.2d 874, 905 P.2d 324 (1995).",
+        "type": "concurrence",
+        "author": "Wiggins, J."
+      }
+    ],
+    "attorneys": [
+      "Robert W. Ferguson, Attorney General, and David M. Hankins, Kelly Owings, and Andrew J. Krawczyk, Assistants, for appellant.",
+      "Bob C. Sterbank, City Attorney, and Matthew J. Segal and Taki V. Flevaris {o\u00edPacifica Law Group LLP), for respondent.",
+      "Patrick B. Anderson and Daniel B. Heid on behalf of Washington State Association of Municipal Attorneys, am-icus curiae.",
+      "Robert L. Otsea Jr., Richard Reich, William C. Severson, and Michelle DeLappe on behalf of Muckleshoot Indian Tribe, amicus curiae.",
+      "Duana T. Kolouskova and Trisna Tanus on behalf of Master Builders Association of King and Snohomish Counties, amicus curiae."
+    ],
+    "corrections": "",
+    "head_matter": "[No. 91534-2.\nArgued May 5, 2016.\nDecided December 22, 2016.\nThe City of Snoqualmie, Respondent, v. King County Executive Dow Constantine et al., Defendants, The Department of Revenue, Appellant.\nRobert W. Ferguson, Attorney General, and David M. Hankins, Kelly Owings, and Andrew J. Krawczyk, Assistants, for appellant.\nBob C. Sterbank, City Attorney, and Matthew J. Segal and Taki V. Flevaris {o\u00edPacifica Law Group LLP), for respondent.\nPatrick B. Anderson and Daniel B. Heid on behalf of Washington State Association of Municipal Attorneys, am-icus curiae.\nRobert L. Otsea Jr., Richard Reich, William C. Severson, and Michelle DeLappe on behalf of Muckleshoot Indian Tribe, amicus curiae.\nDuana T. Kolouskova and Trisna Tanus on behalf of Master Builders Association of King and Snohomish Counties, amicus curiae."
+  },
+  "file_name": "0289-01",
+  "first_page_order": 325,
+  "last_page_order": 343
+}

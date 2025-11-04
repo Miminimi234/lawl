@@ -1,0 +1,59 @@
+{
+  "id": 12144717,
+  "name": "People v. Wooten",
+  "name_abbreviation": "People v. Wooten",
+  "decision_date": "2015-11-13",
+  "docket_number": "No. 149917; Court of Appeals No. 314315",
+  "first_page": "913",
+  "last_page": "913",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "498 Mich. 913"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Mich.",
+    "id": 8790,
+    "name": "Michigan Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 49,
+    "name_long": "Michigan",
+    "name": "Mich."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 45,
+    "char_count": 369,
+    "ocr_confidence": 0.653,
+    "sha256": "2787a864aab3014b389d4543c229035ab4d79cb4370188c2a3bd2b279e15cb88",
+    "simhash": "1:2082ceaad48e50e7",
+    "word_count": 64
+  },
+  "last_updated": "2023-07-14T17:53:29.610635+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "People v Wooten,"
+    ],
+    "opinions": [
+      {
+        "text": "On November 4,2015, the Court heard oral argument on the application for leave to appeal the June 26, 2014 judgment of the Court of Appeals. On order of the Court, the application is again considered, and it is denied, because we are not persuaded that the questions presented should be reviewed by this Court.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "People v Wooten,\nNo. 149917; Court of Appeals No. 314315."
+  },
+  "file_name": "0913-02",
+  "first_page_order": 859,
+  "last_page_order": 859
+}

@@ -1,0 +1,47 @@
+{
+  "id": 4280384,
+  "name": "Clifton PARKER, Petitioner v. COURT OF COMMON PLEAS OF PHILADELPHIA COUNTY, Respondent",
+  "name_abbreviation": "Parker v. Court of Common Pleas",
+  "decision_date": "2013-11-20",
+  "docket_number": "No. 156 EM 2013",
+  "first_page": "174",
+  "last_page": "175",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "622 Pa. 174"
+    },
+    {
+      "type": "parallel",
+      "cite": "80 A.3d 379"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 60,
+    "char_count": 666,
+    "ocr_confidence": 0.667,
+    "sha256": "1a6f752f0e7cb4481440083a1825dc883777a5a1e805d2f72684ff2a2e23cba7",
+    "simhash": "1:78278292d3533cbd",
+    "word_count": 106
+  },
+  "last_updated": "2023-07-14T18:30:24.877122+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "file_name": "0174-02",
+  "first_page_order": 218,
+  "last_page_order": 219
+}

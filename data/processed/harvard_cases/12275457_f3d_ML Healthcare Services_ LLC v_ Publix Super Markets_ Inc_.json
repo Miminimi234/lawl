@@ -1,0 +1,876 @@
+{
+  "id": 12275457,
+  "name": "ML HEALTHCARE SERVICES, LLC, Interested Party-Appellant, Robin Houston, Plaintiff-Appellant, v. PUBLIX SUPER MARKETS, INC., Defendant-Appellee",
+  "name_abbreviation": "ML Healthcare Services, LLC v. Publix Super Markets, Inc.",
+  "decision_date": "2018-02-07",
+  "docket_number": "No. 15-13851",
+  "first_page": "1293",
+  "last_page": "1309",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "881 F.3d 1293"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "11th Cir.",
+    "id": 9031,
+    "name": "United States Court of Appeals for the Eleventh Circuit"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "137 S.Ct. 1190",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        12603215
+      ],
+      "weight": 2,
+      "year": 2017,
+      "pin_cites": [
+        {
+          "page": "1197",
+          "parenthetical": "\"When a carrier exercises its right to either reimbursement or subrogation, it receives from either the beneficiary or a third party 'payment' respecting the benefits the carrier had previously paid.\""
+        },
+        {
+          "parenthetical": "\"When a carrier exercises its right to either reimbursement or subrogation, it receives from either the beneficiary or a third party 'payment' respecting the benefits the carrier had previously paid.\""
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/s-ct/137/1190-01"
+      ]
+    },
+    {
+      "cite": "193 L.Ed.2d 408",
+      "category": "reporters:federal",
+      "reporter": "L. Ed. 2d",
+      "case_ids": [
+        12600576,
+        12600577,
+        12600578,
+        12600579,
+        12600580,
+        12600581,
+        12600582,
+        12600583
+      ],
+      "year": 2015,
+      "opinion_index": 0,
+      "case_paths": [
+        "/s-ct/136/0518-01",
+        "/s-ct/136/0518-02",
+        "/s-ct/136/0518-03",
+        "/s-ct/136/0518-04",
+        "/s-ct/136/0518-05",
+        "/s-ct/136/0518-06",
+        "/s-ct/136/0519-01",
+        "/s-ct/136/0519-02"
+      ]
+    },
+    {
+      "cite": "136 S.Ct. 518",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        12600576,
+        12600577,
+        12600578,
+        12600579,
+        12600580,
+        12600581
+      ],
+      "year": 2015,
+      "opinion_index": 0,
+      "case_paths": [
+        "/s-ct/136/0518-01",
+        "/s-ct/136/0518-02",
+        "/s-ct/136/0518-03",
+        "/s-ct/136/0518-04",
+        "/s-ct/136/0518-05",
+        "/s-ct/136/0518-06"
+      ]
+    },
+    {
+      "cite": "191 L.Ed.2d 718",
+      "category": "reporters:federal",
+      "reporter": "L. Ed. 2d",
+      "case_ids": [
+        12589248,
+        12589249,
+        12589251,
+        12589253,
+        12589254,
+        12589258
+      ],
+      "year": 2015,
+      "opinion_index": 0,
+      "case_paths": [
+        "/s-ct/135/1757-01",
+        "/s-ct/135/1757-02",
+        "/s-ct/135/1757-04",
+        "/s-ct/135/1757-06",
+        "/s-ct/135/1757-07",
+        "/s-ct/135/1758-04"
+      ]
+    },
+    {
+      "cite": "135 S.Ct. 1757",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        12589248,
+        12589249,
+        12589250,
+        12589251,
+        12589252,
+        12589253,
+        12589254
+      ],
+      "year": 2015,
+      "opinion_index": 0,
+      "case_paths": [
+        "/s-ct/135/1757-01",
+        "/s-ct/135/1757-02",
+        "/s-ct/135/1757-03",
+        "/s-ct/135/1757-04",
+        "/s-ct/135/1757-05",
+        "/s-ct/135/1757-06",
+        "/s-ct/135/1757-07"
+      ]
+    },
+    {
+      "cite": "191 L.Ed.2d 143",
+      "category": "reporters:federal",
+      "reporter": "L. Ed. 2d",
+      "case_ids": [
+        12587264,
+        12587265,
+        12587266,
+        12587267,
+        12587268,
+        12587269,
+        12588766,
+        12587263
+      ],
+      "year": 2015,
+      "opinion_index": 0,
+      "case_paths": [
+        "/s-ct/135/1187-05",
+        "/s-ct/135/1188-01",
+        "/s-ct/135/1188-02",
+        "/s-ct/135/1188-03",
+        "/s-ct/135/1188-04",
+        "/s-ct/135/1188-05",
+        "/s-ct/135/1589-04",
+        "/s-ct/135/1187-04"
+      ]
+    },
+    {
+      "cite": "135 S.Ct. 1188",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        12587265,
+        12587266,
+        12587267,
+        12587268,
+        12587269,
+        12587270
+      ],
+      "year": 2015,
+      "opinion_index": 0,
+      "case_paths": [
+        "/s-ct/135/1188-01",
+        "/s-ct/135/1188-02",
+        "/s-ct/135/1188-03",
+        "/s-ct/135/1188-04",
+        "/s-ct/135/1188-05",
+        "/s-ct/135/1188-06"
+      ]
+    },
+    {
+      "cite": "661 F.2d 1206",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1181978
+      ],
+      "year": 1981,
+      "pin_cites": [
+        {
+          "page": "1209",
+          "parenthetical": "en banc"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/661/1206-01"
+      ]
+    },
+    {
+      "cite": "773 S.E.2d 170",
+      "category": "reporters:state_regional",
+      "reporter": "S.E.2d",
+      "case_ids": [
+        4242018
+      ],
+      "year": 2015,
+      "pin_cites": [
+        {
+          "parenthetical": "noting that the evidentiary relevance and prejudice provisions in the Georgia Evidence Code \"track their federal counterparts\" and are interpreted similarly"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ga/297/0156-02"
+      ]
+    },
+    {
+      "cite": "297 Ga. 156",
+      "category": "reporters:state",
+      "reporter": "Ga.",
+      "case_ids": [
+        4242018,
+        4242956
+      ],
+      "year": 2015,
+      "pin_cites": [
+        {
+          "page": "158",
+          "parenthetical": "noting that the evidentiary relevance and prejudice provisions in the Georgia Evidence Code \"track their federal counterparts\" and are interpreted similarly"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ga/297/0156-02",
+        "/ga/297/0156-01"
+      ]
+    },
+    {
+      "cite": "87 So.3d 1190",
+      "category": "reporters:state_regional",
+      "reporter": "So. 3d",
+      "case_ids": [
+        7019893
+      ],
+      "year": 2011,
+      "pin_cites": [
+        {
+          "page": "1193"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/so3d/87/1190-01"
+      ]
+    },
+    {
+      "cite": "Ala. Code \u00a7 12-21-45",
+      "category": "laws:leg_statute",
+      "reporter": "Ala. Code",
+      "opinion_index": 0
+    },
+    {
+      "cite": "97 F.3d 499",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        7649593
+      ],
+      "year": 1996,
+      "pin_cites": [
+        {
+          "page": "506"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/97/0499-01"
+      ]
+    },
+    {
+      "cite": "682 F.3d 934",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        3889843
+      ],
+      "year": 2012,
+      "pin_cites": [
+        {
+          "page": "947",
+          "parenthetical": "internal quotation marks omitted"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/682/0934-01"
+      ]
+    },
+    {
+      "cite": "527 F.3d 1235",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        3567716
+      ],
+      "year": 2008,
+      "pin_cites": [
+        {
+          "page": "1247",
+          "parenthetical": "internal quotations omitted"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/527/1235-01"
+      ]
+    },
+    {
+      "cite": "805 F.3d 1018",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        4356402
+      ],
+      "year": 2015,
+      "pin_cites": [
+        {
+          "page": "1045"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/805/1018-01"
+      ]
+    },
+    {
+      "cite": "205 F.3d 1277",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        11464277
+      ],
+      "year": 2000,
+      "pin_cites": [
+        {
+          "page": "1285",
+          "parenthetical": "\"Generally, a party must object to preserve error in the admission of testimony, even when a party or a court violates an in limine ruling.\""
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/205/1277-01"
+      ]
+    },
+    {
+      "cite": "731 F.3d 1171",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        6049030
+      ],
+      "year": 2013,
+      "pin_cites": [
+        {
+          "page": "1178"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/731/1171-01"
+      ]
+    },
+    {
+      "cite": "788 F.3d 1298",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        4229773
+      ],
+      "year": 2015,
+      "pin_cites": [
+        {
+          "page": "1313"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/788/1298-01"
+      ]
+    },
+    {
+      "cite": "9 F.3d 934",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        10514312
+      ],
+      "weight": 2,
+      "year": 1993,
+      "pin_cites": [
+        {
+          "page": "938"
+        },
+        {
+          "parenthetical": "internal quotations, citations, and alterations omitted"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/9/0934-01"
+      ]
+    },
+    {
+      "cite": "282 Ga. App. 123",
+      "category": "reporters:state",
+      "reporter": "Ga. App.",
+      "case_ids": [
+        2981771
+      ],
+      "weight": 2,
+      "year": 2006,
+      "pin_cites": [
+        {
+          "page": "124"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ga-app/282/0123-01"
+      ]
+    },
+    {
+      "cite": "752 F.3d 1317",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        4308926
+      ],
+      "year": 2014,
+      "pin_cites": [
+        {
+          "page": "1335",
+          "parenthetical": "internal quotation marks omitted"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/752/1317-01"
+      ]
+    },
+    {
+      "cite": "733 F.2d 1464",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        575723
+      ],
+      "year": 1984,
+      "pin_cites": [
+        {
+          "page": "1472",
+          "parenthetical": "noting that a \"presumption favors free cross-examination on possible bias, motive, ability to perceive and remember, and general character for truthfulness\""
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/733/1464-01"
+      ]
+    },
+    {
+      "cite": "653 F.2d 915",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1465927
+      ],
+      "year": 1981,
+      "pin_cites": [
+        {
+          "page": "921",
+          "parenthetical": "holding that \"evidence, properly offered and clearly relevant for impeachment purposes, was improperly excluded simply because, under the collateral source rule, it would have been inadmissible as direct evidence\""
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/653/0915-01"
+      ]
+    },
+    {
+      "cite": "469 U.S. 45",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11958408
+      ],
+      "weight": 3,
+      "year": 1984,
+      "pin_cites": [
+        {
+          "page": "52",
+          "parenthetical": "\"Proof of bias is almost always relevant because the jury, as finder of fact and weigher of credibility, has historically been entitled to assess all evidence which might bear on the accuracy and truth of a witness' testimony.\""
+        },
+        {
+          "parenthetical": "\"Proof of bias is almost always relevant because the jury, as finder of fact and weigher of credibility, has historically been entitled to assess all evidence which might bear on the accuracy and truth of a witness' testimony.\""
+        },
+        {
+          "parenthetical": "\"Proof of bias is almost always relevant because the jury, as finder of fact and weigher of credibility, has historically been entitled to assess all evidence which might bear on the accuracy and truth of a witness' testimony.\""
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/469/0045-01"
+      ]
+    },
+    {
+      "cite": "177 F.3d 71",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        727255
+      ],
+      "year": 1999,
+      "pin_cites": [
+        {
+          "page": "74",
+          "parenthetical": "reaching the same conclusion with respect to Massachusetts's collateral source rule"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/177/0071-01"
+      ]
+    },
+    {
+      "cite": "696 F.2d 1321",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1498713
+      ],
+      "weight": 10,
+      "year": 1983,
+      "pin_cites": [
+        {
+          "page": "1322"
+        },
+        {
+          "page": "1323"
+        },
+        {
+          "page": "1322,1323"
+        },
+        {
+          "page": "1322",
+          "parenthetical": "noting that Fed. R. Civ. P. 24(b) permits a court to condition intervention"
+        },
+        {
+          "page": "1323"
+        },
+        {
+          "parenthetical": "emphasis in original"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/696/1321-01"
+      ]
+    },
+    {
+      "cite": "760 F.3d 1322",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        4148950
+      ],
+      "year": 2014,
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/760/1322-01"
+      ]
+    },
+    {
+      "cite": "392 F.3d 1283",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        9191531
+      ],
+      "weight": 4,
+      "year": 2004,
+      "pin_cites": [
+        {
+          "page": "1294-95"
+        },
+        {
+          "page": "1294"
+        },
+        {
+          "page": "1295"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/392/1283-01"
+      ]
+    },
+    {
+      "cite": "304 U.S. 64",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        10687
+      ],
+      "weight": 3,
+      "year": 1938,
+      "pin_cites": [
+        {
+          "page": "78"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/304/0064-01"
+      ]
+    },
+    {
+      "cite": "266 Ga. 408",
+      "category": "reporters:state",
+      "reporter": "Ga.",
+      "case_ids": [
+        1245974
+      ],
+      "weight": 2,
+      "year": 1996,
+      "pin_cites": [
+        {
+          "page": "410"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ga/266/0408-01"
+      ]
+    },
+    {
+      "cite": "301 Ga. App. 88",
+      "category": "reporters:state",
+      "reporter": "Ga. App.",
+      "case_ids": [
+        12164434
+      ],
+      "weight": 2,
+      "year": 2009,
+      "pin_cites": [
+        {
+          "page": "90",
+          "parenthetical": "citing Warren v. Ballard, 266 Ga. 408, 410, 467 S.E.2d 891 (1996)"
+        },
+        {
+          "parenthetical": "citing Warren v. Ballard, 266 Ga. 408, 410, 467 S.E.2d 891 (1996)"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ga-app/301/0088-01"
+      ]
+    },
+    {
+      "cite": "286 Ga. 507",
+      "category": "reporters:state",
+      "reporter": "Ga.",
+      "case_ids": [
+        12163696
+      ],
+      "weight": 2,
+      "year": 2010,
+      "pin_cites": [
+        {
+          "page": "508"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ga/286/0507-01"
+      ]
+    },
+    {
+      "cite": "258 Ga. 54",
+      "category": "reporters:state",
+      "reporter": "Ga.",
+      "case_ids": [
+        1217695
+      ],
+      "weight": 19,
+      "year": 1988,
+      "pin_cites": [
+        {
+          "page": "55"
+        },
+        {
+          "parenthetical": "citation omitted"
+        },
+        {
+          "page": "56"
+        },
+        {
+          "page": "56"
+        },
+        {
+          "page": "55"
+        },
+        {
+          "page": "56"
+        },
+        {
+          "parenthetical": "emphasis added"
+        },
+        {
+          "page": "56"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ga/258/0054-01"
+      ]
+    },
+    {
+      "cite": "873 F.3d 1304",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        12267192
+      ],
+      "year": 2017,
+      "pin_cites": [
+        {
+          "page": "1313",
+          "parenthetical": "internal quotation marks omitted"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/873/1304-01"
+      ]
+    },
+    {
+      "cite": "803 F.3d 1298",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        4346056
+      ],
+      "year": 2015,
+      "pin_cites": [
+        {
+          "page": "1307",
+          "parenthetical": "\"We review a district court's decision on whether to quash a subpoena only for an abuse of discretion.\""
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/803/1298-01"
+      ]
+    },
+    {
+      "cite": "427 F.3d 939",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        1241091
+      ],
+      "weight": 7,
+      "year": 2005,
+      "pin_cites": [
+        {
+          "page": "943",
+          "parenthetical": "\"We review the district court's' decision regarding spoliation sanctions for abuse of discretion.\""
+        },
+        {
+          "page": "944"
+        },
+        {
+          "page": "946",
+          "parenthetical": "suggesting that, in making the bad faith determination, the court should \"weigh the degree of the spoliator's culpability against the prejudice to the opposing party\""
+        },
+        {
+          "page": "943"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/427/0939-01"
+      ]
+    },
+    {
+      "cite": "832 F.3d 1259",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        4351159
+      ],
+      "year": 2016,
+      "pin_cites": [
+        {
+          "page": "1314",
+          "parenthetical": "\"The district court has broad discretion to determine the relevance and admissibility of any given'piece of evidence.\" (internal quotation marks omitted)"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/832/1259-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 1657,
+    "char_count": 47859,
+    "ocr_confidence": 0.59,
+    "pagerank": {
+      "raw": 5.305008338252094e-08,
+      "percentile": 0.3350662528973697
+    },
+    "sha256": "7be526c4d50b05033b407cd2ca618057592960abd13ebec8dba612548c87068e",
+    "simhash": "1:9b06c62158dfc7e9",
+    "word_count": 7598
+  },
+  "last_updated": "2024-02-27T17:59:44.301675+00:00",
+  "provenance": {
+    "date_added": "2018-10-23",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before TJOFLAT and JULIE CARNES, Circuit Judges, and CONWAY, District Judge."
+    ],
+    "parties": [
+      "ML HEALTHCARE SERVICES, LLC, Interested Party-Appellant, Robin Houston, Plaintiff-Appellant, v. PUBLIX SUPER MARKETS, INC., Defendant-Appellee."
+    ],
+    "opinions": [
+      {
+        "text": "JULIE CARNES, Circuit Judge\nThis is a personal injury case arising from plaintiff Robin Houston\u2019s slip and fall at a Publix Supermarket operated by Defendant. Following an eight-day trial, the jury' returned a verdict in favor of Defendant. Plaintiff and third-party ML Healthcare appeal, claiming that the district court erred by requiring ML Healthcare to produce, and then by admitting at trial, evidence of collateral source payments made by ML Healthcare' on Plaintiffs behalf. Plaintiff further contends that the district court erred by denying her motion for sanctions based on Defendant\u2019s alleged spoliation of evidence. We find no error, and thus AFFIRM the entry of judgment in Defendant\u2019s favor.\nBACKGROUND\nOn July 24, 2012, Plaintiff was shopping at a Publix Supermarket in McDonough, Georgia, when she slipped and fell in the dairy aisle. Plaintiff sued Defendant in state court, alleging that she had slipped on liquid that had been left in the aisle and that her subsequent fall had caused serious medical injuries. Defendant removed the case to federal court on the ground of diversity jurisdiction. Following an eight-day trial, the jury returned a verdict in favor of Defendant. \u25a0\nDuring the litigation, Defendant conducted discovery concerning the relationship between Plaintiff, her treating doctors, and third-party ML Healthcare. Through its discovery, Defendant learned that ML Healthcare is a \u201clitigation investment\u201d company that contracts with doctors to provide medical care for injured people with viable tort claims who lack medical insurance.\u2019 Pursuant to the contracts, ML Healthcare purchases at a discounted rate from these physicians the medical debt that the putative plaintiffs incur during their treatment. But the contract also allows ML Healthcare the right to later recover the full cost of the medical care provided out of any subsequent tort settlement or judgment the treated individuals receive. The discovery \u25a0 showed that ML Healthcare had entered into such agreements with Plaintiff and the treating doctors who would testify at her trial concerning the extent and cause of her medical injuries.\nDefendant sought to introduce at trial evidence of the relationship described above to show that Plaintiffs doctors were biased in their testimony and that Plaintiffs claimed medical expenses were unreasonable. In connection with its efforts, Defendant served subpoenas on ML Healthcare requiring it to provide testimony at trial. Plaintiff and ML Healthcare objected to the admission of such evidence, arguing that it was unfairly prejudicial and barred by Georgia\u2019s collateral source rule. Plaintiff filed a motion in limine to exclude the evidence related to ML Healthcare, and ML Healthcare moved to quash the subpoenas it had received. The district court denied Plaintiffs motion in limine, ruling that the ML Healthcare evidence could be admitted for the limited purposes identified, by Defendant. \u25a0 The court also denied in part ML Healthcare\u2019s motion to quash, requiring ML Healthcare to appear and provide evidence at trial.\nPlaintiff and ML Healthcare appeal the district court\u2019s rulings, on the motion in limine and the motion to quash. In addition, Plaintiff appeals the district court\u2019s denial of her motion for sanctions based on Defendant\u2019s alleged spoliation of evidence: specifically, its destruction of video from the McDonough Publix for all but the one hour immediately surrounding Plaintiffs accident.\nDISCUSSION\nI. Standard of Review\nWe review the evidentiary, and sanctions rulings at issue, in this appeal under the abuse of discretion standard. See United States v. Clay, 832 F.3d 1259, 1314 (11th Cir. 2016) (\u201cThe district court has broad discretion to determine the relevance and admissibility of any given'piece of evidence.\u201d (internal quotation marks omitted)); Flury v. Daimler Chrysler Corp., 427 F.3d 939, 943 (11th Cir. 2005) (\u201cWe review the district court\u2019s' decision regarding spoliation sanctions for abuse of discretion.\u201d). Likewise, we apply the abuse of discretion, standard to the district court\u2019s denial in part of ML Healthcare\u2019s motion to quash. See In re Hubbard, 803 F.3d 1298, 1307 (11th Cir. 2015) (\u201cWe review a district court\u2019s decision on whether to quash a subpoena only for an abuse of discretion.\u201d). Applying that standard, we will only reverse if we find that \u201cthe district court has made a clear error of judgment, or has applied the wrong legal standard.\u201d Eghnayem v. Boston Sci Corp., 873 F.3d 1304, 1313 (11th Cir. 2017) (internal quotation marks omitted).\nII. Impeachment of Treating Physicians with Evidence Concerning ML Healthcare\u2019s Payments\nA. Collateral Source Rule and District Court Ruling\nWhen a tort plaintiff has been compensated by her health insurer, or other non-defendants, for injuries that have been caused by the defendant, the question arises whether the plaintiff can recover those expenses for which she has already been reimbursed. The collateral source rule provides that the plaintiff is entitled to recover those already-reimbursed expenses. Georgia follows the collateral source rule, which:\ngives [a plaintiff] the right to recover damages undiminished by collateral benefits. It refuses credit to the benefit of a tortfeasor of money or services received by the plaintiff in reparation of the injury or damage caused which emanate from sources other than the tortfeasor.\nPolito v. Holland, 258 Ga. 54, 55, 365 S.E.2d 273 (1988). \u201cThe collateral source rule, stated simply, is that the receipt of benefits or mitigation of loss from sources other than the defendant will not operate to diminish the plaintiffs recovery of damages.\u201d Id. (citation omitted). \u201cIf a windfall must be had, it will inure to the benefit of the injured party rather than relieve the wrongdoer of full responsibility for his wrongdoing.\u201d Broda v. Dziwura, 286 Ga. 507, 508, 689 S.E.2d 319 (2010).\nGiven this prohibition against a credit to the defendant for expenses already recovered by the plaintiff, it follows that evidence of collateral benefits is inadmissible \u201cif the only proposition for which it is offered is in reduction of damages, because it is then offered to help prove a proposition which is not a matter in issue.\u201d Polito, 258 Ga. at 56, 365 S.E.2d 273. On the other hand, the Georgia Supreme Court has recognized that \u201cthere may be another issue in a case to which evidence of collateral benefits is material.\u201d Id. When that happens and the evidence is admitted for that other purpose, the court should nonetheless \u201ccharge the jury that collateral benefits shall not reduce damages the tortfeasor is otherwise liable to pay.\u201d Id. Indeed, Georgia appellate courts have recognized that evidence of collateral benefits received by the plaintiff may be admissible for impeachment purposes when a witness gives false evidence relating to a material issue in the case. Kelley v. Purcell, 301 Ga. App. 88, 90, 686 S.E.2d 879 (2009) (citing Warren v. Ballard, 266 Ga. 408, 410, 467 S.E.2d 891 (1996)). In short, under Georgia law, evidence of collateral benefits is not typically admissible in a personal injury tort case unless that evidence serves a valid evidentiary purpose other than just revealing to the jury those benefits. When that occurs and the evidence is admitted, the trial court should instruct the jury about the limited purpose of the evidence and, in particular, remind the jury not to consider the collateral payments to reduce its award of reasonable and necessary medical expenses.\nPlaintiff and ML Healthcare argue that the collateral source rule was violated in this case as a result of the district court\u2019s orders requiring ML Healthcare to produce\u2014and admitting at trial\u2014evidence concerning payments made by ML Healthcare to Plaintiffs treating doctors. As noted, the district court denied the motion, in part, ruling that this evidence could be admitted for only two limited purposes: (1) to attack the credibility of the causation opinions proffered by Plaintiffs doctors and (2) to challenge the reasonableness of Plaintiffs claimed medical expenses. As discussed below, we conclude that the district court did not abuse its discretion.\nB. Choice of Law\nThe district court concluded that the business model used by ML Healthcare, which included the fronting of medical expenses for plaintiffs to the treating doctors that ML Healthcare had selected, was \u201chighly relevant and probative\u201d as to the bias of those doctors, as well as the reasonableness of the medical bills. This conclusion led naturally to the district court\u2019s evidentiary ruling that the doctors could be impeached with evidence of this relationship between themselves, ML Healthcare, and the patients ML Healthcare had referred.\nIn federal diversity actions, state law governs substantive issues, but federal law governs procedural issues. Erie R.R. Co. v. Tompkins, 304 U.S. 64, 78, 58 S.Ct. 817, 82 L.Ed. 1188 (1938). See also McDowell v. Brown, 392 F.3d 1283, 1294-95 (11th Cir. 2004); Adams v. Lab. Corp. of Am., 760 F.3d 1322, 1328 n.8 (11th Cir. 2014). Further, \u201c[r]ules of procedure encompass rules of evidence, and therefore, the Federal Rules of Evidence, not state evidentiary rules, apply\u201d to evidentiary disputes in a federal diversity action. McDowell, 392 F.3d at 1294.\nAlthough Georgia\u2019s collateral source rule is a substantive rule of damages, it also has procedural evidentiary implications. The substantive component of the rule, which prohibits the reliance on collateral source payments to reduce a plaintiffs damages award, is binding on a federal court sitting in diversity. As a procedural ruling, an evidentiary ruling deciding whether particular evidence runs afoul of this state substantive rule will typically be governed by federal evidence law. See McDowell, supra.\nNevertheless, we have recognized that \u201c[s]ome state evidentiary rules are substantive in nature, and transcend the substance-procedure boundary,\u201d id. at 1295, meaning that sometimes a state\u2019s eviden-tiary rule can trump a federal evidentiary rule. In fact, we have explored a somewhat similar phenomenon in a case involving the Alabama collateral source rule. In Southern v. Plumb Tools, A Division of O\u2019Ames Corporation, 696 F.2d 1321 (ilth Cir. 1983), the plaintiff had been injured on the job when a shard of metal flew off a hammer. He sued the manufacturer of the hammer. During the federal litigation, his employer\u2019s workmen\u2019s compensation carrier sought to intervene in the action to recover the money it had paid the plaintiff for his resulting disability. Id. at 1322. But absent some limitations, the carrier\u2019s participation in the case would necessarily reveal the fact that the plaintiff had already been paid in part for his injuries. As it happens, Alabama law had anticipated the possibility of intervention by an insurance carrier and allowed that intervention so long as conditions were imposed on its participation. Id. In fact, the plaintiff did not object to intervention so long as the court imposed these limitations, which presumably would have helped to shield evidence of the payment of the compensation benefits from the jury. Id. at 1323. But in allowing the intervention, the federal district court refused to impose any limitations. Id. at 1322,1323. ....\nWe reversed. In the first place, the Alabama limitations on an intervenor\u2019s participation did not further, or undermine, any federal evidentiary or civil rule. Id. at 1322 (noting that Fed. R. Civ. P. 24(b) permits a court to condition intervention). Second, recognizing that the Alabama collateral source rule was. a state substantive law\u2014 which must be applied by a federal court in a diversity action\u2014we also recognized that a procedural ruling permitting intervention would undermine this state sub-, stantive law. Southern, 696 F.2d at 1323. Further, we could \u201cidentify no strong federal interest requiring us to uphold a procedural ruling that severely undermines Alabama\u2019s substantive law.\u201d Id. Indeed, we noted that \u201cAlabama strictly adheres to the collateral source rule with respect to insurance payments and workmen\u2019s compensation benefits, and any showing that plaintiff has received such payments constitutes reversible error.\u201d Id. (emphasis in original). Ergo, any mention of the plaintiffs prior receipt of compensation for her injuries would .violate this substantive state law, transforming the procedural ruling that essentially revealed this, compensation into a ruling that ran afoul of Alabama\u2019s substantive law.\nContrary to Alabama law, Georgia law does not create a substantive evidentiary rule that bars the admission of collateral source payments under all circumstances. See Polito, 258 Ga. at 56, 365 S.E.2d 273. Rather, Georgia law recognizes .that there can be circumstances in which evidence of these payments is admissible. Indeed, in Polito, the Georgia Supreme Court helpfully outlines the dichotomy between the substantive component and. the procedural component of its collateral source rule. Noting that \u201c[sjubstantive law is that law which creates rights, duties, and obligations ... [whereas] [procedural law is that law which prescribes the methods of enforcement of rights, duties, and obligations,\u201d . Polito described the collateral source rule as \u201cprimarily substantive in nature.\u201d Id. at 55, 365 S.E.2d 273. That is, \u201c[i]t gives a. party the right to recover damages undiminished by collateral benefits. It refuses credit to the benefit of a tortfeasor of money.or services received by the plaintiff in reparation of the injury or damage caused which emanate from sources other than the tortfeasor.\u201d Id.\nThe above principle represents the substantive component of the collateral source rule. Id. at 56, 365 S.E.2d 273. The court noted, however, that there is also an \u201cevi-dentiary\u201d consequence of the rule. \u201cBecause of the substantive consequence of the rule, evidence of collateral benefits is not generally material.\u201d Id. (emphasis added). This is so because as \u201ca result of the interaction between the collateral source rule and a rule of evidence,\u201d- evidence of collateral benefits will not typically be material in a damages case, given the existence of a substantive rule that disallows the setting off of collateral benefits against damages. Polito, 258 Ga. at 56, 365 S.E.2d 273.\nThe Georgia Supreme Court made clear, however, that the inadmissibility of collateral benefits is not. always required by Georgia\u2019s collateral source rule. \u201cCertainly [the immateriality of collateral benefits] is true if the only proposition for which it is offered is in reduction of damages, because it is then offered to help prove a proposition which is not a matter in issue .... The substantive collateral source rule removes the proposition as an issue in the case and the evidence rule of materiality precludes proof of collateral benefits.\u201d Id. But the court goes on to note: \u201cOf course, there may be another issue in a case to which evidence of collateral benefits is ma-. ferial. When such evidence is admitted on another issue fit is proper , to charge the jury that collateral benefits shall not reduce damages the tortfeasor is otherwise liable to pay,\u201d Id.\nIn short, unlike the Alabama collateral source rule at issue in Southern, Georgia\u2019s rule is not an all-or-nothing proposition. Evidence concerning the receipt of collateral benefits will likely be inadmissible most of the time, but sometimes admission will be proper. Translated: as Potito defined it, the substantive Georgia rule provides that a tortfeasor will not receive a set-off on the damages it has caused based on the payment of part or all of those damages by a third party. But deciding whether proffered evidence is offered for the above proscribed \u2018 purpose versus a legitimate evidentiary use- requires an evidentiary ruling. That eviden-tiary decision is a procedural one and when made in a federal court, federal law controls. Accord Fitzgerald, P.P.A. v. Expressway Sewerage Const., Inc., 177 F.3d 71, 74 (1st Cir. 1999) (reaching the same conclusion with respect to Massachusetts\u2019s collateral source rule).\nC. Admissibility of Evidence for Purposes of Showing Bias\nDefendant asserted a theory of bias in this ease stemming from ML Healthcare\u2019s business model and the incentives it creates for- the treating doctors whq testify .on behalf of their patients. As explained abov\u00e9, ML Healthcare matches injured, uninsured plaintiffs who have viable-tort claims with treating doctors. It then purchases at a discounted rate the medical bills these doctors generate. To recoup its investment and make a profit, its contract with the plaintiffs permits ML Healthcare to recover the full amount of these bills from any tort damages recovered by the plaintiffs. The contract also provides that the referred plaintiffs will personally repay ML Healthcare the full amount of the bills if they recover no damages or if there are insufficient damages to cover the bills. In short, the contract allows ML Healthcare to recover the difference between the discounted bills it pays treating doctors and what those doctors say is the full value of those medical services: either from the plaintiffs themselves or from any tort recovery the plaintiffs receive. Nonetheless, a plaintiff who recovers insufficient damages to pay back ML Healthcare may be unable or unwilling to repay .her debt, meaning that, absent a recovery by the plaintiff in such cases, ML Healthcare will be out not only its investment, but also any hoped-for profit. Thus, for its business model to flourish, ML Healthcare needs the plaintiffs whom it subsidizes to win their lawsuits.\nAccording to Defendant, this arrangement creates the risk of bias on the part of doctors who receive referrals from ML Healthcare and who subsequently testify on behalf of the plaintiffs they have treated pursuant to those referrals. This is so, Defendant contends, because if a doctor did not provide a favorable causation analysis\u2014which is necessary to win a tort action\u2014ML Healthcare likely would find other doctors who would. Thus, to continue to receive referrals from ML Healthcare\u2014 and the guaranteed income stream they generate\u2014the treating doctors have an incentive to provide analyses that help these patients\u2014and, by extension, ML Healthcare\u2014win their cases.\nThe district court did not abuse its discretion in crediting this argument, and thus permitting evidence of ML Healthcare\u2019s payment arrangement to be admitted for the limited purpose of showing bias on the part of the doctors who testified in this case. First, the evidence was relevant. Indeed, proof of bias will typically be relevant. See United States v. Abel, 469 U.S. 45, 52, 105 S.Ct. 465, 83 L.Ed.2d 450 (1984) (\u201cProof of bias is almost always relevant because the jury, as finder of fact and weigher of credibility, has historically been entitled to assess all evidence which might bear on the accuracy and truth of a witness\u2019 testimony.\u201d). The fact that the evidence also implicates the collateral source rule does not render it irrelevant \u201cfor impeachment purposes.\u201d Barrera v. E. I. Du Pont De Nemours & Co., Inc., 653 F.2d 915, 921 (5th Cir. Unit A 1981) (holding that \u201cevidence, properly offered and clearly relevant for impeachment purposes, was improperly excluded simply because, under the collateral source rule, it would have been inadmissible as direct evidence\u201d).\nPlaintiff points out that none of her doctors admitted to bias while testifying in the case. That is true, but hardly a surprising revelation. A witness\u2019s refusal to admit bias does not bar the opposing party from introducing evidence that might contradict such a protestation. At any rate, Defendant does not need to be able to prove a premeditated plan of deceit in order to probe potential bias. See United States v. Phelps, 733 F.2d 1464, 1472 (11th Cir. 1984) (noting that a \u201cpresumption favors free cross-examination on possible bias, motive, ability to perceive and remember, and general character for truthfulness\u201d). Instead, Defendant needed only to show that ML Healthcare\u2019s payment arrangement had \u201cany tendency\u201d to make bias more probable than it would be without the evidence. See Fed. R. Evid. 401(a). That requirement is easily satisfied here. A jury might infer that Plaintiffs doctors were incentivized by ML Healthcare\u2019s referral and payment arrangement to provide testimony that was more favorable to Plaintiff than it otherwise would have been. If so, the jury would have found bias, which is clearly a relevant consideration in evaluating a witness\u2019s credibility.\nSecond, the district court did not commit a clear error of judgment or apply the wrong legal standard in ruling that the probative value of the ML Healthcare evidence outweighed any potential for prejudice under Rule 403 of the Federal Rules of Evidence. Rule 403 provides for the exclusion of relevant evidence when \u201cits probative value is substantially outweighed by a danger of ... unfair prejudice.\u201d Fed. R. Evid. 403. But exclusion of relevant evidence under Rule 403 is \u201can extraordinary remedy that should be used sparingly\u201d and only after looking at the evidence \u201cin the light most favorable to its admission.\u201d United States v. Flanders, 752 F.3d 1317, 1335 (11th Cir. 2014) (internal quotation marks omitted), cert. denied, \u2014 U.S. \u2014, 135 S.Ct. 1188, 191 L.Ed.2d 143 (2015), reh\u2019g denied, \u2014 U.S. \u2014, 135 S.Ct. 1757, 191 L.Ed.2d 718 (2015). Applying that standard, there simply is no basis for finding that the district court abused its discretion.\nThe potential for prejudice arising from admission of the ML Healthcare evidence is that the evidence might have been considered in a way that runs contrary to Georgia\u2019s collateral source rule. In other words, the jury might have concluded from the evidence that Plaintiff had already been compensated for her injuries and, thus, reduced her damages award. But any such prejudice could have easily been mitigated by an explanation that Plaintiff remained personally liable to ML Healthcare for the full value of the medical care provided by her treating doctors, regardless of any damages she received. And, indeed, Plaintiffs counsel advised the jury of -this fact during his opening statement. If counsel was concerned that there was any confusion about this issue, he could have elaborated further or taken other steps to ensure that the jury completely understood Plaintiffs outstanding financial obligations under her agreement with ML Healthcare.\nWith Plaintiffs full outstanding liability explained, there is no reason to think the jury would find it unnecessary to compensate Plaintiff because a portion of her medical bills had been paid by ML Healthcare. The purpose of the collateral source rule is to ensure that a tortfeasor is not allowed to benefit from its wrongful conduct simply because a plaintiffs bills have been paid by some other party. See Hoeflick v. Bradley, 282 Ga. App. 123, 124, 637 S.E.2d 832 (2006). The jury presumably understood that plaintiffs bills were still due in full, and that any damages award should therefore not be reduced as a result of ML Healthcare\u2019s payments.\nFinally, the district court properly instructed the jury about the collateral source rule and directed the jury not to reduce any damages it might award on account of ML Healthcare\u2019s payments. \u201cFew tenets are more fundamental to our jury trial system than the presumption that juries obey the court\u2019s instructions.\u201d United States v. Stone, 9 F.3d 934, 938 (11th Cir. 1993). \u201cIndeed, the presumption that juries follow their instructions is necessary to any meaningful search for the reason behind a jury verdict. This presumption is, therefore, almost invariable.\u201d Id. (internal quotations, citations, and alterations omitted). In short, the district court\u2019s jury instruction was sufficient to ensure that the ML Healthcare evidence admitted to show bias on the part of Plaintiffs doctors would not be used in an unfairly prejudicial manner in violation of Georgia\u2019s collateral source rule.\nD. Admissibility of ML Healthcare Evidence for the Purpose of Contesting the Reasonableness of Plaintiffs Claimed Medical Bills\nThe district court also allowed Defendant to introduce ML Healthcare evidence to attack the reasonableness of Plaintiffs claimed medical expenses. In support of admitting the evidence for this purpose, Defendant argued that the doctors who received referrals from ML Healthcare improperly inflated their bills in an effort to aid ML Healthcare and themselves. These bills were the basis for a plaintiffs damages request in the subsequent litigation and also set the level of debt to which the plaintiff remained liable to ML Healthcare. Thus, Defendant argued, the higher the billed price the greater the benefit to ML Healthcare. Similar to Defendant\u2019s bias argument, the unreasonable expenses argument also rests somewhat on the assumption that the doctors provided this benefit in .an effort to ensure that they continued to receive referrals from ML Healthcare.\nAs it turns out, Defendant ultimately did not use the ML Healthcare evidence to challenge the reasonableness of the,medical bills. That being so, and because there was a. valid ground for the admission of the ML Healthcare evidence\u2014to show bias\u2014 we- do not have to determine whether admissibility of the evidence to challenge the reasonability of the expenses was proper,\nE. Use of ML Healthcare Evidence Outside the . Scope of the District Court\u2019s Order\nIn addition to the ML Healthcare evidence admitted in accordance with the district court\u2019s ruling on Plaintiffs motion in limine, defense counsel twice made statements that implicated collateral source- evidence in a manner inconsistent with the contours of the district judge\u2019s limited ruling. First, Defendant\u2019s counsel made the following remarks during his opening statement:\n[Plaintiffs counsel] said ML is really just like an insurance company except :that they don\u2019t get paid a premium, they get paid at the end. Well, I would suggest to you that that\u2019s entirely different. That\u2019s called an investor, and that\u2019s what ML is. And fortunately for [Plaintiff], the bulk of the medical, expenses have been paid by ML. So it\u2019s not really [Plaintiff] who\u2019s at risk. It\u2019s ML. And if you make a bad investment, sometimes you take a loss.\nThis line of argument has nothing to do with potential bias in.the causation opinions offered by Plaintiffs doctors nor does it seek to cast doubt on the reasonableness of Plaintiffs medical expenses.*\nThe second instance occurred during the closing moments of Plaintiffs cross-examination:\nQ: And you understood that there was going to be a relationship between ML Healthcare and these medical providers such that at least for some period of time the money would flow from ML to the providers and you weren\u2019t going to have to pay for it?\nA: I\u2019m sorry, but could you repeat that question.\nQ: Well, let me ask you this. Have you paid Dr.- Ugwonali?\nA: No. '\nQ: Have you paid Dr. Ch\u00edtale?\nA: No,'\n. Q: Have you paid -\nA: Well, Dr. Ch\u00edtale was paid through my insurance.\nQ: The first portion of Dr. Ch\u00edtale was before the involvement of ML?\nA: Yes.\nQ: Okay. He was a Neil Flit referral, but at that point in time you still had your CIGNA insurance?\nA: That\u2019s correct.\nQ: And at some point did ML then transition into the latter portion of the Chi-tale treatment?\nA: Yes.\nQ: Okay. So after the involvement of ML, you have not paid Hunter, you have not paid Ugwonali, you have not paid Ch\u00edtale, you have not paid for therapy, you have not paid for prescriptions; is that correct?\nA: That\u2019s correct.\nQ: And is it your understanding that were you to receive a verdict and judgment in this lawsuit against Defendant for a sum for medical expenses, pharmacy expenses and the like greater than the amount that ML actually paid to these medical providers that they get to keep the difference?\nA: I have no idea.\nQ: You don\u2019t know what your obligations are with ML, do you, ma\u2019am?\nA: I know that I am obligated to reimburse .them for my medical expenses after this\u2014after the lawsuit should. I win, but that\u2019s really what I know.\nQ: And if you don\u2019t win, that\u2019s ML\u2019s loss, isn\u2019t it?\nA: I would say so.\nOnce again, this line of questioning strays outside the scope of the district court\u2019s delineated collateral source boundaries.\nNevertheless, the admission of these statements does not constitute reversible error. First, Plaintiff did not object when the statements were made at trial, as required to preserve the issue for appeal under Federal Rule of Evidence 103. See United States v. Wilson, 788 F.3d 1298, 1313 (11th Cir. 2015), cert. denied, \u2014 U.S. \u2014, 136 S.Ct. 518, 193 L.Ed.2d 408 (2015). Plaintiff contends that the district court\u2019s denial of her initial motion in limine was sufficient to preserve the objection for' appeal. A motion in li-mine may preserve an objection when the district court has \u201cdefinitively\u201d ruled on the matter at issue. Tampa Bay Water v. HDR Eng\u2019g, Inc., 731 F.3d 1171, 1178 (11th Cir. 2013). But \u201cif the opposing party violates the terms of the initial ruling, objection must be made when the evidence is offered to preserve the claim of error for appeal. The error, if any, in such a situation occurs only when .the evidence is offered and admitted.\u201d Fed. R. Evid. 103 advisory committee\u2019s note to the 2000 Amendments, See also Frederick v. Kirby Tankships, Inc., 205 F.3d 1277, 1285 (11th Cir. 2000) (\u201cGenerally, a party must object to preserve error in the admission of testimony, even when a party or a court violates an in limine ruling.\u201d). .\nBecause Plaintiff failed to object to the two statements quoted above, we review their admission for plain error. See United States v. Azmat, 805 F.3d 1018, 1045 (11th Cir. 2015). \u201cFor the admission of evidence to constitute plain error, the evidence must have been so obviously inadmissible and prejudicial that, despite [the opposing'party\u2019s] failure to object, the district court, sua sponte, should have excluded the evidence.\u201d United States v. Williams, 527 F.3d 1235, 1247 (11th Cir. 2008) (internal quotations omitted). Though the statements are arguably irrelevant in,light of the collateral source rule, they were not so clearly prejudicial to Plaintiff that the district court erred in failing to sua sponte exclude or strike them. As discussed above, Plaintiffs counsel was able to mitigate the import of these statements by explaining that Plaintiff remained liable for the full amount of her medical bills regardless of the outcome of the trial. Given that explanation, the jury would have no reason to diminish Plaintiffs damages award on the assumption that she had already been compensated for her injuries. Further, Defendant did not directly argue that the jury should diminish any damages award in this manner; it only provided the context of ML Healthcare\u2019s payment arrangement and implied that ML Healthcare, rather than Plaintiff, was at risk in the lawsuit.\nFinally, the statements are pertinent only to the proper measure of damages. Again, prejudice from these statements would only arise if the jury concluded that it should reduce Plaintiffs damages award because ML Healthcare was footing the bill: a conclusion that would violate the collateral source rule. But the jury never reached the damages question because it determined that Defendant was not liable for Plaintiffs injuries in the first place. For this additional reason, the admission of these statements into evidence was harmless.\nIII. ML Healthcare\u2019s Motions to Quash\nML Healthcare was subpoenaed twice during the litigation to provide evidence related to its business model and payment arrangement with Plaintiff. In both instances, ML Healthcare filed a motion to quash the subpoena. The district court granted in part and denied in part both motions. ML Healthcare appeals the district court\u2019s decision not to quash the subpoenas in whole.\nThe decision whether to quash a subpoena is governed by Federal Rule of Civil Procedure 45(d)(8). That rule provides that a district court must quash a subpoena that: \u201c(i) fails to allow a reasonable time to comply; (ii) requires a person to comply beyond the geographical limits specified in Rule 45(c); (iii) requires disclosure of privileged or- other protected matter, if no exception or waiver applies; or (iv) subjects a person to undue burden.\u201d Fed. R. Civ. P. 45(d)(3)(A). ML Healthcare does not assert any temporal or geographic problem with the subpoena, and does not claim that it was subject to an undue burden by the subpoena. Nor does it raise any formal legal privilege. Instead, it asserts that \u201cthe information sought was protected by the collateral source rule.\u201d However, evidence that may implicate the collateral source rule is not \u201cprotected material\u201d as contemplated by Rule 45(d)(3). See Fed. R. Civ. P. 45(e)(2) (describing the information an entity must provide when \u201cwithholding subpoenaed information under a claim that it is privileged or subject to protection as trial-preparation material\u201d).\nFurthermore, Rule 45 does not set forth \u201cinadmissibility\u201d as a ground for quashing a subpoena. The admissibility or relevance of a piece of evidence could be pertinent to an undue burden analysis, but again ML Healthcare does not assert that the production was unduly burdensome. To the extent ML Healthcare intended to assert such an argument, it provides no indication of the money, time, work-hours, or other cost that it faced in' complying with the subpoena. Moreover, the evidence sought under the subpoena was admissible to impeach the causation analysis of Plaintiffs treating doctors and was potentially relevant to challenge the reasonableness of her claimed medical expenses. Thus, any implied undue burden argument fails.\nIn short, there is no basis for finding that the district court abused its discretion by denying in part ML Healthcare\u2019s motion to quash.\nIV. Spoliation Sanctions\nThe last issue on appeal concerns the alleged spoliation of video evidence concerning Plaintiffs accident. Approximately twelve days after the accident, Plaintiffs original counsel sent two letters to Defendant requesting that Defendant preserve and produce video of the \u201c[s]lip and fall involving [Plaintiff] on or about July 24, 2012.\u201d Several days later, Plaintiffs newly retained counsel sent a third letter to Defendant requesting the preservation and production of \u201call video media from every camera at the subject Publix store\u201d from July 12, 2012 through August 14, 2012. Plaintiffs counsel subsequently sent another letter to Defendant requesting \u201ca copy of the video media captured by the camera at the rear of aisle 13 on July 24, 2012 at [the subject Publix store].\u201d Despite these letters, Defendant only preserved one hour of video related to Plaintiffs accident. That portion of video, which included the thirty minutes prior to and the thirty minutes after Plaintiffs accident, was automatically and immediately preserved pursuant to Defendant\u2019s video retention policy. The remainder of the video was erased in the usual course of business.\nPlaintiff moved for spoliation sanctions, including (1) an adverse inference instruction or (2) a ruling precluding Defendant\u2019s witnesses from testifying that the aisle had been cleaned or inspected prior to Plaintiffs fall. The district court denied both requests, agreeing with Defendant that it had no duty to preserve any more video than what was provided to Plaintiff, and that the destruction of the video was not undertaken with the necessary state of mind to warrant sanctions.\nA. Applicable Standard\nIn Flury v. Daimler Chrysler Corporation, this. Court held that \u201cfederal law governs the imposition of spoliation sanctions\u201d but at the same time observed that federal law does not set forth \u201cspecific guidelines\u201d to determine when such sanctions are warranted. Flury, 427 F.3d at 944. The Court thus borrowed a multi-factor test from Georgia spoliation law, which it found to be \u201cwholly consistent with federal, spoliation principles.\u201d Id. The factors identified by the Court in Flury as relevant to the inquiry include: (1) whether the party seeking sanctions was prejudiced as a result of the destruction of evidence and whether any prejudice could be cured, (2) the practical importance of the evidence, (3) .whether the spoliating party acted in bad faith, and (4) the potential for abuse if sanctions are not imposed. See id. at 945-\nIn December 2015, Rule 37 of the Federal Rules of Civil Procedure was amended to address the spoliation of electronically stored information like the video at issue here. See Fed. R. Civ. P. 37(e). Rule 37 now provides:\n(e) Failure to Preserve Electronically Stored Information. If electronical-iy stored information that should have been preserved in the anticipation or conduct of litigation is lost because a party failed to take reasonable-, steps to preserve it, and it cannot be- restored or replaced through additional discovery, the court:\n(1) upon finding prejudice to another \u25a0 party from loss of the information, may order measures no greater \u25a0 than necessary to cure the preju- \u25a0 dice; or\n(2) only upon finding that the party acted with the intent to' deprive\" another party of the information\u2019s use in the litigation may:\n(A) presume that the lost information was unfavorable to the party;\n(B) instruct the jury that it may or must presume the information was unfavorable to the party; or\n(C), dismiss the action or enter a default judgment,\nId.\nWe have not yet had the opportunity to determine whether, given the above amendment, the multi-factor test relied upon in Flury is still applicable when a party seeks sanctions based on the spoliation of electronically stored evidence. As discussed below, we need not make that determination herd because, under either Rule 37(e) or the Flury test, the district court did\u2019 hot abuse its discretion by denying Plaintiffs motion for sanctions.\nB. Request for an Adverse Inference\nPrior to the amendment of Rule 37, this Court held that an adverse inference instruction is only proper \u201cwhen the absence of [the] evidence is predicated on bad faith.\u201d S.E.C. v. Goble, 682 F.3d 934, 947 (11th Cir. 2012) (internal quotation marks omitted). \u25a0 Likewise, \u25a0 an adverse inference instruction is only available under Rule 37(e) if the court finds that the spoliating party \u201cacted with the intent to deprive another party of the information\u2019s use in the litigation.\u201d Fed. R. Civ. P. 37(e)(2).\nThe district court did not abuse its discretion by concluding that Defendant\u2019s failure to retain more video did not constitute bad faith or demonstrate an intent to deprive Plaintiff of evidence necessary to her case. Defendant immediately saved the most relevant portion of the video\u2014the hour during which Plaintiffs fall occurr\u00e9d, which covered the entire time Plaintiff was in the store\u2014before any request for preservation or notice of litigation was provided. This initial-preservation fulfills the request of Plaintiffs first two preservation letters. As to Plaintiffs subsequent preservation letters, the requests in those letters encompassed all video media from every camera at the store for a period of thirty-five days-r-totaling 840 hours of video per camera, assuming the cameras.run for 24 hours a day.; Defendant might reasonably, and -in good faith, have concluded that it did not have to comply with such a broad and far-reaching request.\nNor is there any other evidence of bad faith. First, there is no indication that Defendant destroyed the evidence in a manner inconsistent with its normal video-retention policies. Second, this is not the sort of case where the unpreserved evidence clearly would have resolved a crucial issue in the case. See Flury, 427 F.3d at 946 (suggesting that, in making the bad faith determination, the court should \u201cweigh the degree of the spoliator\u2019s culpability against the prejudice to the opposing party\u201d). Plaintiff hoped the video would contradict the testimony of Defendant\u2019s employees that inspections were conducted at 5:00 and 6:00 a.m. on the morning of Plaintiffs accident and that the aisle had been auto-scrubbed the night before the accident, with an employee following the machine to pick up excess liquid. Further, Plaintiff hoped the video would show that an employee\u2019s stpcking cart traversed the area of the fall, from which the jury might infer that the cart was leaking some sort of liquid, which dripped on the spot of the fall and remained on the floor until Plaintiff came into contact with it. Yet, Plaintiff never narrowed her request to cover just those periods of time. Moreover, Plaintiff provides no reason to believe that the video would have actually shown these things such as conflicting testimony, inconsistent statements, or observations from other witnesses. Failure to preserve such speculative evidence does not raise the specter of bad faith in the same way that a failure to preserve evidence of a specific, crucial event in a case might.\nC. Request for Exclusion of Evidence\nLikewise, the district court did not abuse its discretion by denying Plaintiffs alternative sanctions request, which was to preclude Defendant\u2019s witnesses from testifying that the location of Plaintiffs fall had been cleaned or inspected hours prior to the accident. Under either Flwry or Rule 37(e), such a sanction depends on a finding that destruction of the evidence resulted in prejudice to the opposing party. In both its initial ruling and its oral ruling upon reconsideration, the district court held that Plaintiff had not been prejudiced by Defendant\u2019s failure to provide additional video evidence. Specifically, the court found that any additional benefit from the undisclosed video was \u201cpurely speculation and conjecture,\u201d and that the resolution of the videos was not clear enough to see any liquids on the floor, even if the videos were available. The court thus concluded that \u201chaving additional videotape to look at would accomplish nothing but consume more of everybody\u2019s time in this case.\u201d There is no basis for finding that the district court abused its discretion in reaching this conclusion. See Harris v. Chapman, 97 F.3d 499, 506 (11th Cir. 1996) (\u201cDistrict judges are accorded wide discretion in ruling upon discovery motions, and appellate review is accordingly-deferential. A judge\u2019s decision as to \u2022 whether :a party or-lawyer\u2019s actions merit imposition of sanctions is heavily dependent on the court\u2019s firsthand knowledge, experience, and observation;\u201d).\nCONCLUSION\nFor the above reasons, we affirm the district court\u2019s rulings on Plaintiffs motion in limine, ML Healthcare\u2019s motions to quash,'and Plaintiffs motion for spoliation sanctions. The final judgment of the district court is therefore AFFIRMED. -\n. Of course, it is not always the case that a plaintiff will actually gain the windfall of a double recovery. Under , certain circumstances, a health insurer may have the right of subrogation, meaning that the insurer will sometimes be able to claw back from the plaintiff\u2019s recovery some of the medical expenses it has reimbursed. See Coventry Health Care of Missouri, Inc. v. Nevils, \u2014 U.S. \u2014, 137 S.Ct. 1190, 1197, 197 L.Ed.2d 572 (2017) (\u201cWhen a carrier exercises its right to either reimbursement or subrogation, it receives from either the beneficiary or a third party \u2018payment\u2019 respecting the benefits the carrier had previously paid.\")\n. Alabama has since statutorily overruled its common law collateral source doctrine. See Ala. Code \u00a7 12-21-45. Evidence of collateral source payments is now not only' admissible as an evidentiary matter, but it can also be used by a jury to discount its damages award to the plaintiff. See Crocker v. Grammar, 87 So.3d 1190, 1193 (Ala. Civ. App. 2011).\n. The analysis likely would be the same under Georgia evidentiary law. See State v. Jones, 297 Ga. 156, 158, 773 S.E.2d 170 (2015) (noting that the evidentiary relevance and prejudice provisions in the Georgia Evidence Code \u201ctrack their federal counterparts\u201d and are interpreted similarly). And indeed, as set out supra; Georgia courts have approved the admission of evidence of collateral benefits for impeachment purposes. Nevertheless, \"we must determine as a threshold matter whether to apply state of federal law\u201d in this diversity action. Flury, 427 F.3d at 943.\n. In addition to attacking the district court\u2019s assessment of the bias issue, Plaintiff contends that the district'court erred at the outset by holding that ML Healthcare was not even a collateral source.,We .do not read the district . court\u2019s rulings as holding that evidence concerning ML Healthcare was not subject to the collateral soured rule. During the telephonic conference in which the district court orally denied Plaintiff\u2019s motion in limine, the court merely noted that it did not think that \"the payments being mad\u00e9 by [ML Healthcare] in this case are traditional collateral source payments\u201d but it stated that \"even so\u201d Plaintiffs motion would be denied because the evidence was otherwise admissible on valid grounds. Likewise, in the district court\u2019s- subsequent written order, the court noted that ML Healthcare is not a \"traditional\u201d collateral source, but again based its ruling on the admissibility of the evidence. Further, Defendant conc\u00e9des that the evidence concerning ML Healthcare\u2019s payments implicates the -collateral source rule. Thus, for purposes of this appeal, we will assume that ML Healthcare is a collateral source.\n. In Bonner v. City of Prichard, 661 F.2d 1206, 1209 (11th Cir. 1981) (en banc), this Court adopted as binding precedent all decisions of the former Fifth Circuit handed down prior to October 1, 1981. Barrera was decided in August of 1981.\n. The district court ruled on ML Healthcare's motion to quash before the latest amendments to the Federal Rules of Civil Procedure took effect on December 1, 2013. The amendments did not change the substance of the provisions of Rule 45 at issue here, only their numbering. Thus, to avoid confusion, we will use the post-2013 numbering.\n. Rule 45(d)(3) provides that a district court may quash a subpoena that requires \"(i) disclosing a trade secret or other confidential research, development, or commercial information; or (ii) disclosing an unretained expert's opinion or information that does not describe specific occurrences in dispute and results from the expert\u2019s study that was not requested by a party.\u201d Fed. R. Civ. P. 45(d)(3)(B). ML Healthcare initially objected to the discovery subpoena on confidentiality grounds, resulting in an order that documents produced under the subpoena \"shall only be shared and used within this civil action and must be filed under seal.\u201d ML Healthcare does not challenge that order or otherwise assert the confidentiality objection in this appeal.",
+        "type": "majority",
+        "author": "JULIE CARNES, Circuit Judge"
+      }
+    ],
+    "attorneys": [
+      "Jason Scott Alloy, Richard L. Robbins, Matthew Tyrone Parrish, Heather Huggins Sharp, Robbins Ross Alloy Belinfante & Littlefield, LLC, Atlanta, GA, for Interested Party-Appellant.",
+      "Keith E. Fryer, Fryer Shuster & Lester,- PC, Atlanta, GA, Bruce Berger, The Berger Law Firm, Atlanta, GA, for Plaintiff-Appellant. -",
+      "Robert P. Marcovitch, Weinberg Wheeler Hudgins Gunn & Dial, LLC, Atlanta, GA, Richard W. Brown, Gene Major, Fain Major & Brennan, PC, Atlanta, GA, for Defendant-Appellee.",
+      "Thomas G. Tidwell, The Tidwell Law Firm, LLC; Atlanta, GA, for Amicus Curiae GEORGIA TRIAL LAWYERS ASSO-CATION."
+    ],
+    "corrections": "",
+    "head_matter": "ML HEALTHCARE SERVICES, LLC, Interested Party-Appellant, Robin Houston, Plaintiff-Appellant, v. PUBLIX SUPER MARKETS, INC., Defendant-Appellee.\nNo. 15-13851\nUnited States Court of Appeals, Eleventh Circuit.\nFiled: 02/07/2018\nJason Scott Alloy, Richard L. Robbins, Matthew Tyrone Parrish, Heather Huggins Sharp, Robbins Ross Alloy Belinfante & Littlefield, LLC, Atlanta, GA, for Interested Party-Appellant.\nKeith E. Fryer, Fryer Shuster & Lester,- PC, Atlanta, GA, Bruce Berger, The Berger Law Firm, Atlanta, GA, for Plaintiff-Appellant. -\nRobert P. Marcovitch, Weinberg Wheeler Hudgins Gunn & Dial, LLC, Atlanta, GA, Richard W. Brown, Gene Major, Fain Major & Brennan, PC, Atlanta, GA, for Defendant-Appellee.\nThomas G. Tidwell, The Tidwell Law Firm, LLC; Atlanta, GA, for Amicus Curiae GEORGIA TRIAL LAWYERS ASSO-CATION.\nBefore TJOFLAT and JULIE CARNES, Circuit Judges, and CONWAY, District Judge.\nThe Honorable Anne C. Conway, United States District Judge for the Middle District of Florida, sitting by designation."
+  },
+  "file_name": "1293-01",
+  "first_page_order": 1321,
+  "last_page_order": 1337
+}

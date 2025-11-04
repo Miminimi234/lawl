@@ -1,0 +1,96 @@
+{
+  "id": 3556162,
+  "name": "Thomas C. FORD, Respondent, v. COMMONWEALTH of Pennsylvania, DEPARTMENT OF TRANSPORTATION, BUREAU OF DRIVER LICENSING, Petitioner",
+  "name_abbreviation": "Ford v. Commonwealth",
+  "decision_date": "2007-05-01",
+  "docket_number": "No. 327 MAL 2003",
+  "first_page": "21",
+  "last_page": "21",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "592 Pa. 21"
+    },
+    {
+      "type": "parallel",
+      "cite": "922 A.2d 880"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "915 A.2d 1155",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8340050,
+        3017333
+      ],
+      "year": 2007,
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/915/1155-01",
+        "/pa/591/0056-01"
+      ]
+    },
+    {
+      "cite": "591 Pa. 56",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        3017333
+      ],
+      "year": 2007,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/591/0056-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 48,
+    "char_count": 440,
+    "ocr_confidence": 0.657,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.10032090674012269
+    },
+    "sha256": "14d53b3bca014a8b33d1824e7a50345cedf088c7405e5994f1f5c932d51e2e98",
+    "simhash": "1:dddb1a7fc1a5a5fa",
+    "word_count": 66
+  },
+  "last_updated": "2024-02-27T21:45:49.457734+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Thomas C. FORD, Respondent, v. COMMONWEALTH of Pennsylvania, DEPARTMENT OF TRANSPORTATION, BUREAU OF DRIVER LICENSING, Petitioner."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nPER CURIAM.\nThe Petition for Allowance of Appeal is GRANTED, and the order of the Commonwealth Court is REVERSED pursuant to McGrory v. PennDOT, 591 Pa. 56, 915 A.2d 1155 (2007).\nThe Motion for Consolidation is DENIED.\nJurisdiction relinquished.",
+        "type": "majority",
+        "author": "PER CURIAM."
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "922 A.2d 880\nThomas C. FORD, Respondent, v. COMMONWEALTH of Pennsylvania, DEPARTMENT OF TRANSPORTATION, BUREAU OF DRIVER LICENSING, Petitioner.\nSupreme Court of Pennsylvania.\nMay 1, 2007."
+  },
+  "file_name": "0021-01",
+  "first_page_order": 73,
+  "last_page_order": 73
+}

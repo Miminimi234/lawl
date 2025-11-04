@@ -1,0 +1,935 @@
+{
+  "id": 3727288,
+  "name": "Michael SMITH, Petitioner-Appellant, v. OREGON BOARD OF PAROLE AND POST-PRISON SUPERVISION, Superintendent, Respondent-Appellee",
+  "name_abbreviation": "Smith v. Oregon Board of Parole & Post-Prison Supervision",
+  "decision_date": "2013-11-26",
+  "docket_number": "No. 11-35338",
+  "first_page": "857",
+  "last_page": "867",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "736 F.3d 857"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "9th Cir.",
+    "id": 8826,
+    "name": "United States Court of Appeals for the Ninth Circuit"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "500 F.2d 1124",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        2258240
+      ],
+      "pin_cites": [
+        {
+          "page": "1128"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/500/1124-01"
+      ]
+    },
+    {
+      "cite": "177 Or.App. 627",
+      "category": "reporters:state",
+      "reporter": "Or. App.",
+      "case_ids": [
+        368800
+      ],
+      "weight": 2,
+      "year": 2001,
+      "opinion_index": 0,
+      "case_paths": [
+        "/or-app/177/0627-01"
+      ]
+    },
+    {
+      "cite": "177 Or.App. 727",
+      "category": "reporters:state",
+      "reporter": "Or. App.",
+      "case_ids": [
+        368738
+      ],
+      "weight": 2,
+      "year": 2001,
+      "pin_cites": [
+        {
+          "parenthetical": "per curiam"
+        },
+        {
+          "page": "1027",
+          "parenthetical": "per curiam"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/or-app/177/0727-01"
+      ]
+    },
+    {
+      "cite": "680 F.3d 1105",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        3882050
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "1111"
+        },
+        {
+          "page": "1112"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/680/1105-01"
+      ]
+    },
+    {
+      "cite": "501 U.S. 722",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        1108153
+      ],
+      "weight": 6,
+      "year": 1991,
+      "pin_cites": [
+        {
+          "page": "736"
+        },
+        {
+          "page": "740"
+        },
+        {
+          "parenthetical": "\"The Virginia Supreme Court stated plainly that it was granting the Commonwealth's motion to dismiss the petition for appeal. That motion was based solely on Coleman's failure to meet the Supreme Court's time requirements.\""
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/501/0722-01"
+      ]
+    },
+    {
+      "cite": "133 S.Ct. 1088",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        12407478
+      ],
+      "weight": 2,
+      "year": 2013,
+      "pin_cites": [
+        {
+          "page": "1096",
+          "parenthetical": "\"When a state court rejects a federal claim without expressly addressing that claim, a federal habeas court must presume that the federal claim was adjudicated on the merits - but that presumption can in some limited circumstances be rebutted.\""
+        },
+        {
+          "parenthetical": "\"When a state court rejects a federal claim without expressly addressing that claim, a federal habeas court must presume that the federal claim was adjudicated on the merits - but that presumption can in some limited circumstances be rebutted.\""
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/568/0289-01"
+      ]
+    },
+    {
+      "cite": "343 Or. 515",
+      "category": "reporters:state",
+      "reporter": "Or.",
+      "case_ids": [
+        3687206
+      ],
+      "weight": 2,
+      "year": 2007,
+      "pin_cites": [
+        {
+          "parenthetical": "en banc"
+        },
+        {
+          "page": "826",
+          "parenthetical": "en banc"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/or/343/0515-01"
+      ]
+    },
+    {
+      "cite": "343 Or. 505",
+      "category": "reporters:state",
+      "reporter": "Or.",
+      "case_ids": [
+        3687511
+      ],
+      "weight": 3,
+      "year": 2007,
+      "pin_cites": [
+        {
+          "page": "821"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/or/343/0505-01"
+      ]
+    },
+    {
+      "cite": "383 F.3d 809",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        9211598
+      ],
+      "pin_cites": [
+        {
+          "page": "815"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/383/0809-01"
+      ]
+    },
+    {
+      "cite": "549 F.3d 1191",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        5734596
+      ],
+      "weight": 5,
+      "pin_cites": [
+        {
+          "page": "1197"
+        },
+        {
+          "page": "1197"
+        },
+        {
+          "page": "1197-98"
+        },
+        {
+          "page": "1198-99"
+        },
+        {
+          "page": "1197"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/549/1191-01"
+      ]
+    },
+    {
+      "cite": "448 U.S. 56",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        1787607
+      ],
+      "weight": 3,
+      "year": 1980,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/448/0056-01"
+      ]
+    },
+    {
+      "cite": "155 P.3d 52",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2007,
+      "opinion_index": 0
+    },
+    {
+      "cite": "342 Or. 474",
+      "category": "reporters:state",
+      "reporter": "Or.",
+      "year": 2007,
+      "opinion_index": 0
+    },
+    {
+      "cite": "140 P.3d 1196",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "case_ids": [
+        8450716,
+        8450927
+      ],
+      "year": 2006,
+      "pin_cites": [
+        {
+          "page": "1196",
+          "parenthetical": "per curiam"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/or-app/207/0318-01",
+        "/or-app/207/0351-01"
+      ]
+    },
+    {
+      "cite": "207 Or.App. 318",
+      "category": "reporters:state",
+      "reporter": "Or. App.",
+      "case_ids": [
+        8450716
+      ],
+      "year": 2006,
+      "pin_cites": [
+        {
+          "parenthetical": "per curiam"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/or-app/207/0318-01"
+      ]
+    },
+    {
+      "cite": "135 P.3d 319",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2006,
+      "opinion_index": 0
+    },
+    {
+      "cite": "340 Or. 484",
+      "category": "reporters:state",
+      "reporter": "Or.",
+      "year": 2006,
+      "opinion_index": 0
+    },
+    {
+      "cite": "204 Or.App. 113",
+      "category": "reporters:state",
+      "reporter": "Or. App.",
+      "case_ids": [
+        3098165
+      ],
+      "weight": 4,
+      "year": 2006,
+      "pin_cites": [
+        {
+          "parenthetical": "per curiam"
+        },
+        {
+          "page": "208",
+          "parenthetical": "per curiam"
+        },
+        {
+          "page": "208-09"
+        },
+        {
+          "page": "208"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/or-app/204/0113-01"
+      ]
+    },
+    {
+      "cite": "541 U.S. 36",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        5873383
+      ],
+      "weight": 3,
+      "year": 2004,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/541/0036-01"
+      ]
+    },
+    {
+      "cite": "489 U.S. 255",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        12031982
+      ],
+      "weight": 3,
+      "year": 1989,
+      "pin_cites": [
+        {
+          "page": "263",
+          "parenthetical": "internal quotation omitted"
+        },
+        {
+          "parenthetical": "internal quotation omitted"
+        },
+        {
+          "parenthetical": "internal quotation omitted"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/489/0255-01"
+      ]
+    },
+    {
+      "cite": "456 U.S. 107",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6184186
+      ],
+      "weight": 5,
+      "year": 1982,
+      "pin_cites": [
+        {
+          "page": "134"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/us/456/0107-01"
+      ]
+    },
+    {
+      "cite": "495 U.S. 103",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        634195
+      ],
+      "weight": 3,
+      "year": 1990,
+      "pin_cites": [
+        {
+          "page": "124-25"
+        },
+        {
+          "parenthetical": "finding a contemporaneous objection rule inadequate to bar habeas review because the defense \"pressed the issue [in an earlier motion to dismiss] ... [and] nothing would be gained by requiring Osborne's lawyer to object a second time, specifically to the jury instruction.\""
+        },
+        {
+          "parenthetical": "finding a contemporaneous objection rule inadequate to bar habeas review because the defense \"pressed the issue [in an earlier motion to dismiss] ... [and] nothing would be gained by requiring Osborne's lawyer to object a second time, specifically to the jury instruction.\""
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/us/495/0103-01"
+      ]
+    },
+    {
+      "cite": "534 U.S. 362",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        9108263
+      ],
+      "weight": 9,
+      "year": 2002,
+      "pin_cites": [
+        {
+          "page": "376"
+        },
+        {
+          "page": "372, 380"
+        },
+        {
+          "page": "378"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/us/534/0362-01"
+      ]
+    },
+    {
+      "cite": "468 U.S. 1",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11336769
+      ],
+      "weight": 8,
+      "year": 1984,
+      "pin_cites": [
+        {
+          "parenthetical": "collecting cases evaluating the failure to make novel legal claims under the cause-and-prejudice framework"
+        },
+        {
+          "parenthetical": "collecting cases evaluating the failure to make novel legal claims under the cause-and-prejudice framework"
+        },
+        {
+          "parenthetical": "collecting cases evaluating the failure to make novel legal claims under the cause-and-prejudice framework"
+        },
+        {
+          "page": "16"
+        },
+        {
+          "page": "15"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/us/468/0001-01"
+      ]
+    },
+    {
+      "cite": "85 F.3d 1387",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        571744
+      ],
+      "pin_cites": [
+        {
+          "page": "1392"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/f3d/85/1387-01"
+      ]
+    },
+    {
+      "cite": "130 F.3d 373",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        11889439
+      ],
+      "pin_cites": [
+        {
+          "page": "377"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/f3d/130/0373-01"
+      ]
+    },
+    {
+      "cite": "498 U.S. 411",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6228233
+      ],
+      "weight": 3,
+      "year": 1991,
+      "pin_cites": [
+        {
+          "page": "424"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/us/498/0411-01"
+      ]
+    },
+    {
+      "cite": "169 F.3d 573",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        11763665
+      ],
+      "pin_cites": [
+        {
+          "page": "577"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/f3d/169/0573-01"
+      ]
+    },
+    {
+      "cite": "322 F.3d 573",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        9370046
+      ],
+      "pin_cites": [
+        {
+          "page": "580"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/f3d/322/0573-01"
+      ]
+    },
+    {
+      "cite": "340 Or. 160",
+      "category": "reporters:state",
+      "reporter": "Or.",
+      "case_ids": [
+        5862092
+      ],
+      "weight": 2,
+      "year": 2006,
+      "pin_cites": [
+        {
+          "page": "783"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/or/340/0160-01"
+      ]
+    },
+    {
+      "cite": "131 S.Ct. 770",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        12439786,
+        6005083
+      ],
+      "weight": 2,
+      "year": 2011,
+      "pin_cites": [
+        {
+          "page": "784"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/l-ed-2d/178/0624-01",
+        "/us/562/0086-01"
+      ]
+    },
+    {
+      "cite": "312 Or. 376",
+      "category": "reporters:state",
+      "reporter": "Or.",
+      "case_ids": [
+        2194378
+      ],
+      "weight": 3,
+      "year": 1991,
+      "pin_cites": [
+        {
+          "page": "959"
+        },
+        {
+          "page": "959"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/or/312/0376-01"
+      ]
+    },
+    {
+      "cite": "501 U.S. 797",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        1107781
+      ],
+      "weight": 3,
+      "year": 1991,
+      "pin_cites": [
+        {
+          "page": "803"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/us/501/0797-01"
+      ]
+    },
+    {
+      "cite": "433 U.S. 72",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6177021
+      ],
+      "weight": 3,
+      "year": 1977,
+      "pin_cites": [
+        {
+          "page": "90-91"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/us/433/0072-01"
+      ]
+    },
+    {
+      "cite": "28 U.S.C. \u00a7 2254",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "pin_cites": [
+        {
+          "page": "(b)(1)"
+        }
+      ],
+      "opinion_index": 1
+    },
+    {
+      "cite": "680 F.3d 1105",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        3882050
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "1112"
+        },
+        {
+          "page": "1111-12"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/f3d/680/1105-01"
+      ]
+    },
+    {
+      "cite": "501 U.S. 722",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        1108153
+      ],
+      "weight": 11,
+      "year": 1991,
+      "pin_cites": [
+        {
+          "page": "727-28"
+        },
+        {
+          "page": "736"
+        },
+        {
+          "page": "735"
+        },
+        {
+          "page": "739"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/us/501/0722-01"
+      ]
+    },
+    {
+      "cite": "549 F.3d 1191",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        5734596
+      ],
+      "weight": 4,
+      "pin_cites": [
+        {
+          "page": "1196"
+        },
+        {
+          "page": "1198"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/f3d/549/1191-01"
+      ]
+    },
+    {
+      "cite": "448 U.S. 56",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        1787607
+      ],
+      "weight": 5,
+      "year": 1980,
+      "pin_cites": [
+        {
+          "page": "66"
+        },
+        {
+          "page": "66"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/us/448/0056-01"
+      ]
+    },
+    {
+      "cite": "140 P.3d 1196",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "case_ids": [
+        8450716,
+        8450927
+      ],
+      "year": 2006,
+      "pin_cites": [
+        {
+          "page": "1196",
+          "parenthetical": "per curiam"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/or-app/207/0318-01",
+        "/or-app/207/0351-01"
+      ]
+    },
+    {
+      "cite": "207 Or.App. 318",
+      "category": "reporters:state",
+      "reporter": "Or. App.",
+      "case_ids": [
+        8450716
+      ],
+      "year": 2006,
+      "pin_cites": [
+        {
+          "parenthetical": "per curiam"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/or-app/207/0318-01"
+      ]
+    },
+    {
+      "cite": "204 Or.App. 113",
+      "category": "reporters:state",
+      "reporter": "Or. App.",
+      "case_ids": [
+        3098165
+      ],
+      "weight": 2,
+      "year": 2006,
+      "pin_cites": [
+        {
+          "parenthetical": "per cu-riam"
+        },
+        {
+          "page": "208",
+          "parenthetical": "per cu-riam"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/or-app/204/0113-01"
+      ]
+    },
+    {
+      "cite": "541 U.S. 36",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        5873383
+      ],
+      "weight": 3,
+      "year": 2004,
+      "pin_cites": [
+        {
+          "page": "59"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/us/541/0036-01"
+      ]
+    },
+    {
+      "cite": "489 U.S. 255",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        12031982
+      ],
+      "weight": 9,
+      "year": 1989,
+      "pin_cites": [
+        {
+          "page": "263"
+        },
+        {
+          "page": "258"
+        },
+        {
+          "page": "261"
+        },
+        {
+          "page": "264"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/us/489/0255-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 1205,
+    "char_count": 30594,
+    "ocr_confidence": 0.681,
+    "pagerank": {
+      "raw": 1.4155445678921878e-07,
+      "percentile": 0.6479321767408062
+    },
+    "sha256": "bb67ec7e3ef0fb95898693dc81b43e9238aa758da692cfe45087bb06d7d4f99c",
+    "simhash": "1:8b01e2efeb3da769",
+    "word_count": 4882
+  },
+  "last_updated": "2024-02-27T16:55:59.249303+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before: ALEX KOZINSKI, Chief Judge, and MARSHA S. BERZON and ANDREW D. HURWITZ, Circuit Judges."
+    ],
+    "parties": [
+      "Michael SMITH, Petitioner-Appellant, v. OREGON BOARD OF PAROLE AND POST-PRISON SUPERVISION, Superintendent, Respondent-Appellee."
+    ],
+    "opinions": [
+      {
+        "text": "OPINION\nHURWITZ, Circuit Judge:\nThe central issue before us is whether Smith, an Oregon state prisoner, procedurally defa\u00falted a federal habeas claim. In Harris v. Reed, the Supreme Court instructed that \u201ca procedural default does not bar consideration of a federal claim ... unless the last state court rendering a judgment in the case clearly and expressly states that its judgment rests on a state procedural bar.\u201d 489 U.S. 255, 263, 109 S.Ct. 1038, 103 L.Ed.2d 308 (1989) (internal quotation omitted). Applying Hams and its Ninth Circuit progeny, we hold that Smith did not default his claim and vacate the district court\u2019s dismissal of his habeas petition.\nI.\nA.\nWhile on patrol, Officer Jason Coyle received a report of an altercation. He responded and took statements from two witnesses at the scene, Colin Fisher and Keir Mellor. Mellor\u2019s statement inculpated Michael Smith, who was charged with first- and second-degree kidnapping, third-degree robbery, and second-degree assault. The case was tried to a judge in a one-day trial.\nFisher did not testify at trial. Mellor was scheduled to testify but did not appear on the morning of trial. The judge recessed the proceedings for several hours to allow the state to locate her. When the trial reconvened, the state explained that it was unable to secure Mellor\u2019s presence and argued that she was unavailable. The state then sought to admit her statement to Coyle under three hearsay exceptions in Oregon\u2019s Evidence Code (OEC): excited utterance (OEC 803(2)), statement of emotional or physical condition (OEC 803(3)), and statement of domestic violence (OEC 803(26)). Smith objected to the admission of the statements on hearsay grounds, but did not raise a Confrontation Clause objection. The judge admitted the statements without identifying the applicable hearsay exception.\nCoyle then recounted statements by Mellor that: (1) she and Fisher entered Smith\u2019s residence when he was not home; (2) when Smith arrived, he punched, kicked, and hit Fisher with a hand dolly; and (3) Smith took her keys and phone when he left. The judge found Smith guilty of third-degree robbery and second-degree assault.\nB.\nSmith\u2019s direct appeal raised a Confrontation Clause challenge to the introduction of the Mellor statements, relying on Crawford v. Washington, 541 U.S. 36, 124 S.Ct. 1354, 158 L.Ed.2d 177 (2004), which was decided after the trial. The Oregon Court of Appeals summarily affirmed the convictions, stating: \u201cWe reject without discussion defendant\u2019s arguments regarding his convictions.\u201d State v. Smith, 204 Or.App. 113, 129 P.3d 208, 208 (2006) (per curiam). However, the court vacated Smith\u2019s sentences and remanded for resentencing, finding that the trial judge had improperly imposed an upward departure. Id. at 208-09. The Oregon Supreme Court denied review. State v. Smith, 340 Or. 484, 135 P.3d 319 (2006). After the state filed a motion for reconsideration, the Court of Appeals reinstated the original sentences in a one-sentence opinion: \u201cMotion for relief from default granted; reconsideration allowed; former disposition withdrawn; affirmed.\u201d State v. Smith, 207 Or.App. 318, 140 P.3d 1196, 1196 (2006) (per curiam). The Oregon Supreme Court again denied review. State v. Smith, 342 Or. 474, 155 P.3d 52 (2007).\nC.\nSmith\u2019s federal habeas petition asserted that the admission of Mellor\u2019s out-of-court statements violated the Sixth Amendment\u2019s Confrontation Clause. The district court found the Confrontation Clause claim proeedurally defaulted because Smith\u2019s hearsay objection at trial did not preserve the claim. The court also found that the cursory rejection of Smith\u2019s appeal by the Oregon Court of Appeals did not preserve the constitutional issue for habeas review, because the state court did not make a written finding of plain error.\nSmith argued that the contemporaneous objection rule should not apply because Crawford was decided after his trial. The district court rejected that argument, finding Smith\u2019s trial counsel could at least have made a Confrontation Clause challenge under the then-controlling precedent, Ohio v. Roberts, 448 U.S. 56, 100 S.Ct. 2531, 65 L.Ed.2d 597 (1980). The district court also found Crawford not sufficiently novel to excuse the absence of a contemporaneous Confrontation Clause challenge.\nII.\nThe appellee Oregon Board of Parole and Post-Prison Supervision (the \u201cstate\u201d or \u201cOregon\u201d) argues that because the Oregon Court of Appeals did not expressly indicate that it was engaging in discretionary plain error review, the court\u2019s opinion cannot be construed to have reached the Confrontation Clause claim. Oregon argues that we therefore must affirm the district court, because we only \u201cconstrue an ambiguous state court response as acting on the merits of a claim, if such a construction is plausible.\u201d Chambers v. McDaniel, 549 F.3d 1191, 1197 (9th Cir.2008). We review de novo the district court\u2019s conclusion that the state court decision could not plausibly be read as acting on the merits. Leavitt v. Arave, 383 F.3d 809, 815 (9th Cir.2004).\nA.\nIn Oregon, an argument concerning the introduction of evidence is generally barred on appeal if not preserved by a contemporaneous objection at trial. Or. R.App. P. 5.45(1). Under Oregon\u2019s plain error doctrine, however, an appellate court may address a defaulted argument if the trial court committed error apparent on the face of the record. State v. Ramirez, 343 Or. 505, 173 P.3d 817, 821 (2007). Even if the appellate court finds plain error, it must decide whether to exercise its discretion to consider that error. Id. If the appellate court reaches the issue, it must \u201carticulate its reasons for doing so.\u201d State v. Fults, 343 Or. 515, 173 P.3d 822, 826 (2007) (en banc) (internal quotation omitted).\nIn Chambers, we held that \u201cunless a court expressly (not implicitly) states that it is relying upon a procedural bar, we must construe an ambiguous state court response as acting on the merits of a claim, if such a construction is plausible.\u201d 549 F.3d at 1197. There is no warrant to depart from the Chambers rule here. Although an Oregon court may be required under state law to detail its reasons for exercising its discretion to treat an objection not raised at trial, the Oregon Court of Appeals might have declined to exercise that discretion in Smith\u2019s case either because of the lack of a contemporaneous objection or because it concluded that the trial court had not committed plain error.\nIndeed, the cursory rejection of Smith\u2019s appeal makes it quite plausible that the Oregon Court of Appeals reached the merits of his Sixth Amendment claim. The court treated Smith\u2019s unpreserved Confrontation Clause claim in precisely the same manner as his plainly preserved state hearsay claim. Smith\u2019s brief to that court raised only the Confrontation Clause and hearsay issues with respect to his convictions, and the Court of Appeals rejected both identically \u2014 \u201cwithout discussion.\u201d Smith, 129 P.3d at 208. Because the Court of Appeals thus rejected the state hearsay claims on the merits, its failure to treat the federal constitutional argument separately requires that under Chambers, we presume that the federal claim was also rejected on the merits. See Johnson v. Williams, \u2014 U.S. -, 133 S.Ct. 1088, 1096, 185 L.Ed.2d 105 (2013) (\u201cWhen a state court rejects a federal claim without expressly addressing that claim, a federal habeas court must presume that the federal claim was adjudicated on the merits \u2014 but that presumption can in some limited circumstances be rebutted.\u201d).\nThe dissent\u2019s suggestion that we today depart from the teaching of Coleman v. Thompson, 501 U.S. 722, 736, 111 S.Ct. 2546, 115 L.Ed.2d 640 (1991), is misplaced. Coleman held that the Harris presumption did not apply when the Virginia Supreme Court dismissed an appeal in direct response to a state motion contending that it had been untimely filed. Id. at 740, 111 S.Ct. 2546. That dismissal expressly indicated that the state court had not treated any federal constitutional issues. Id. (\u201cThe Virginia Supreme Court stated plainly that it was granting the Commonwealth\u2019s motion to dismiss the petition for appeal. That motion was based solely on Coleman\u2019s failure to meet the Supreme Court\u2019s time requirements.\u201d). Here, in contrast, the Oregon Court of Appeals affirmed the denial of post-conviction relief without intimating that its disposition rested on state procedural grounds.\nB.\nCiting Nitschke v. Belleque, 680 F.3d 1105, 1111 (9th Cir.2012), Oregon argues that in conducting a plain error analysis, a state court would simply have determined whether federal law was clear at the time of Smith\u2019s trial, and would not have independently evaluated the merits of Smith\u2019s Crawford claim. But, in Nitschke the Oregon court expressly cited a previous Oregon opinion holding that an unpreserved federal constitutional claim did not qualify for plain error review. State v. Nitschke, 177 Or.App. 727, 33 P.3d 1027, 1027 (2001) (per curiam) (citing State v. Crain, 177 Or.App. 627, 33 P.3d 1050 (2001)). We relied on that citation in determining that the state court acted on procedural grounds. Nitschke, 680 F.3d at 1112.\nIn contrast, the Oregon Court of Appeals here rejected Smith\u2019s claim without any discussion or citation. It is precisely this lack of clarity that invokes the settled Chambers rule: \u201cwhere the [state court] includes no citation and simply states that the petition is denied, that absence of a citation coupled with the cursory statement denying the petition satisfies the exhaustion requirement.\u201d 549 F.3d at 1197-98.\nC.\nFinally, Oregon argues that the Chambers rule should not apply because its appellate courts reach the merits of unpre-served claims only in rare instances. That statement, of course, could be made about virtually all state appellate courts; else-wise, the universal contemporaneous objection rule would be of little consequence. Accepting the state\u2019s argument would effectively render Harris to the dustbin, as every other state surely could also claim that treatment of unpreserved constitutional issues on direct appeal is the infrequent exception, rather than the rule. We are not free to disregard the clear guidance of the Supreme Court, let alone vitiate its opinion in Hams, and reject this gambit.\nIII.\nFor the reasons above, we VACATE the district court\u2019s dismissal of the Petitioner\u2019s habeas petition and REMAND for further proceedings consistent with this opinion.\nEach party is to bear its own costs.\n. The dissent contends that we \"over-read[]\u201d Chambers. Dissent at 12. To the contrary, it is our colleague who incorrectly reads Chambers as departing from Ninth Circuit precedent. In Chambers, we construed an ambiguous Nevada Supreme Court order denying a habeas petition as a decision on the merits. 549 F.3d at 1198-99. In so doing, the panel expressly cited and applied the settled rule first announced in Harris v. Superior Court, 500 F.2d 1124, 1128 (9th Cir.1974) (en banc), that \"we must construe an ambiguous state court response as acting on the merits of a claim.\u201d Chambers, 549 F.3d at 1197. We again apply that rule today.\n. Because we hold that Smith's federal habe-as claim was not procedurally defaulted, unlike our dissenting colleague,- we do not address whether there is cause and prejudice to excuse a default. See Dissent at 17-20.",
+        "type": "majority",
+        "author": "HURWITZ, Circuit Judge:"
+      },
+      {
+        "text": "Chief Judge KOZINSKI,\ndissenting:\nThe Oregon Court of Appeals affirmed Smith\u2019s conviction in a one-sentence order. The majority deploys a presumption that such a summary disposition constitutes a decision on the merits of Smith\u2019s federal claim unless the state court \u201cclearly and expressly states that its judgment rests on a state procedural bar.\u201d Maj. op. at 858 (quoting Harris v. Reed, 489 U.S. 255, 263, 109 S.Ct. 1038, 103 L.Ed.2d 308 (1989)). But this presumption applies only when the state court\u2019s ruling fairly appears to rest primarily on the resolution of federal claims, or to be interwoven with such claims, neither of which is the case here. We are therefore bound to conclude that the state court decided the case on state-law grounds, precluding federal relief.\nI\nBefore seeking relief from a state conviction in federal court, a prisoner must exhaust all available state remedies. 28 U.S.C. \u00a7 2254(b)(1). If the state court denies relief on an adequate and independent state ground, such as noncompliance with a state procedural rule, the federal claim is procedurally defaulted and a federal court cannot grant relief unless petitioner shows cause for the default and prejudice resulting from the alleged constitutional violation. Wainwright v. Sykes, 433 U.S. 72, 90-91, 97 S.Ct. 2497, 53 L.Ed.2d 594 (1977).\nTo determine whether a conviction rests on an adequate and independent state ground, we look to the last reasoned decision of the state courts. Ylst v. Nunne-maker, 501 U.S. 797, 803, 111 S.Ct. 2590, 115 L.Ed.2d 706 (1991). Here there is no reasoned decision: The trial court made no decision because petitioner didn\u2019t object on Confrontation Clause grounds, and the court of appeals issued only summary af-firmances. The question is, what must we infer about the basis for the state court\u2019s decision when it mentions no law at all, state or federal?\nA\nUnder Oregon\u2019s contemporaneous objection rule, Smith was required to raise his Confrontation Clause claim at trial in order to preserve it for appeal. Or. R.App. P. 5.45(1). His failure to do so provides an adequate and independent state ground on which the Oregon Court of Appeals could have affirmed his conviction. But Oregon appellate courts have discretion to consider a defaulted claim if (1) the trial court committed an error of law, (2) that is obvious, and (3) on the record, if (4) doing so is justified. Ailes v. Portland Meadows, Inc., 312 Or. 376, 823 P.2d 956, 959 (1991). To add a further layer of complexity, a court\u2019s decision to engage in plain-error review doesn\u2019t necessarily mean that its affirmance rests on resolution of the federal claim. This is because the second prong of the plain-error analysis \u2014 the determination that an error of law is obvious \u2014 is itself a question of state law, reliance on which precludes federal review. See Nitschke v. Belleque, 680 F.3d 1105, 1112 (9th Cir.2012).\nAlthough an Oregon court must articulate its reasoning when it overturns a trial court decision on plain-error review, it\u2019s not required to do so if it considers the four prongs and finds one of them unsatisfied. Ailes, 823 P.2d at 959. In such circumstances, we can\u2019t tell whether the state court rejected the claim for failure to comply with an adequate and independent state rule (a state-law ruling), based on an assessment of the merits (a federal-law ruling) or because it found one or more of the four plain-error prongs unsatisfied (either a state or federal-law ruling). This is the situation Smith finds himself in.\nB\nThe majority cites Harris and Chambers v. McDaniel, 549 F.3d 1191 (9th Cir.2008), for the proposition that a state court\u2019s decision is presumed to rest on federal grounds unless that court expressly states that it\u2019s relying on a state procedural bar. But this over-reads Harris and Chambers, and contradicts the letter and logic of our precedent.\nHarris presented an ineffective assistance of counsel claim in a state petition for postconviction relief. The state court observed that the claim was not properly before it because Harris had failed to raise it on direct appeal, but proceeded to evaluate the merits of the claim and rejected it. Harris, 489 U.S. at 258, 109 S.Ct. 1038. The Supreme Court held that \u201cif it fairly appears that the state court rested its decision primarily on federal law, this Court may reach the federal question on review unless the state court\u2019s opinion contains a plain statement that [its] decision rests upon adequate and independent state grounds.\u201d Id. at 261, 109 S.Ct. 1038 (quotation marks omitted) (emphasis added). In cases like Harris, where the state court discusses both federal and state law, \u201c[r]e-quiring a state court to be explicit in its reliance on a procedural default does not interfere unduly with state judicial deci-sionmaking.\u201d Id. at 264, 109 S.Ct. 1038.\nHarris didn\u2019t focus much on whether the state court\u2019s opinion appeared to rest primarily on federal law. Because the state court discussed the merits of Harris\u2019s federal claim' extensively, even though it acknowledged that the claim was procedurally defaulted, nobody doubted its reliance on federal-law grounds. What, after all, would be the point of discussing federal law if the default was dispositive?\nBut the Supreme Court underscored the importance of this antecedent question two years later in Coleman v. Thompson, 501 U.S. 722, 111 S.Ct. 2546, 115 L.Ed.2d 640 (1991). Coleman sought state postconviction relief on numerous federal grounds. After briefing on the merits, the Virginia Supreme Court issued a summary disposition granting the state\u2019s motion to dismiss. Id. at 727-28, 111 S.Ct. 2546. On habeas review, the Supreme Court rejected petitioner\u2019s argument that it should apply the Harris presumption in all cases where federal claims are presented to the state court. Id. at 736, 111 S.Ct. 2546. Instead, the Court held that the presumption applies only where the state court\u2019s disposition \u201cfairly appeared to rest primarily on resolution of those [federal] claims, or to be interwoven with those claims.\u201d Id. at 735, 111 S.Ct. 2546. The state court in Coleman, unlike that in Harris, didn\u2019t discuss either federal or state-law claims. The Supreme Court held that it would be too intrusive to require the state court to clearly state its reliance on state law in such circumstances: \u201c[W]e will not impose on state courts the responsibility for using particular language in every case in which a state prisoner presents a federal claim.\u201d Id. at 739, 111 S.Ct. 2546.\nThe only rule we can reasonably derive from these two cases is that when a state court discusses both federal and state grounds in an opinion, either of which would independently dispose of the case, a federal court should presume that the court relied on the federal ground. In such situations, the state court has already analyzed the merits of the federal claim, and it would be no great imposition to require it to tell us if it considered some other -ground dispositive. But when the state court discusses the merits of neither federal nor state-law claims, as in Coleman, applying such a presumption as a matter of course trenches on the state judicial process.\nAs the Supreme Court observed in an analogous context, \u201crequiring a statement of reasons could undercut state practices designed to preserve the integrity of the case-law tradition. The issuance of summary dispositions in many collateral attack cases can enable a state judiciary to concentrate its resources on the cases where opinions are most needed.\u201d Harrington v. Richter, \u2014 U.S.-, 131 S.Ct. 770, 784, 178 L.Ed.2d 624 (2011).\nOur own cases, including Chambers, reflect this approach. Although the state court in Chambers issued a cursory one-sentence opinion affirming petitioner\u2019s conviction, we were careful to note that \u201cthe Nevada Supreme Court did not deny without comment or opinion.\u201d Chambers, 549 F.3d at 1196. Instead, the state court\u2019s opinion stated that it \u201cconsidered\u201d all materials filed by the parties and \u201cconcluded\u201d that intervention wasn\u2019t appropriate. Id. Because the filed materials disclosed that petitioner had presented federal claims to the state court, we concluded that the state court \u201cdid more than issue a postcard denial,\u201d and instead specifically evaluated and issued a judgment on the federal claims. Id. at 1198. This didn\u2019t announce a rule that all summary adjudications are presumed to rest on federal grounds unless the state court expressly states to the contrary, as the majority claims. Rather, it stands for the more limited proposition that a federal court may look to the wording and context of a state court\u2019s cursory adjudication to determine whether it fairly appears to rest on the resolution of federal claims.\nC\nThere is nothing in Smith\u2019s case supporting an inference that the state court resolved the federal claim. The Oregon Court of Appeals had two opportunities to consider Smith\u2019s Confrontation Clause claim. The first time, it remanded for re-sentencing after briefly affirming his conviction: , \u201cWe reject without discussion defendant\u2019s arguments regarding his convictions.\u201d State v. Smith, 204 Or.App. 113, 129 P.3d 208, 208 (2006) (per cu-riam). The state moved for reconsideration of the sentencing ruling, which the court granted in one terse sentence: \u201cMotion for relief from default granted; reconsideration allowed; former disposition withdrawn; affirmed.\u201d State v. Smith, 207 Or.App. 318, 140 P.3d 1196, 1196 (2006) (per curiam).\nNeither of these dispositions remotely suggests that it rested on, or was interwoven with, Confrontation Clause grounds. The state court made no mention of state or federal claims and, unlike the state court in Chambers, the court here used no language permitting a plausible inference that it relied on federal rather than state grounds.\nThe majority infers that the state court resolved the merits of Smith\u2019s Confrontation Clause claim because it rejected his hearsay claim in the same disposition, and that claim must have been rejected on the merits, having clearly been preserved. But Smith\u2019s hearsay claims presented no issue of federal law. That the state court rejected Smith\u2019s hearsay claim based on state law tells us nothing about whether it relied on federal law in rejecting his Confrontation Clause claim. There\u2019s no reason to doubt that the state court, resolved both claims on state-l\u00e1w grounds.\nDrawing such a strained inference is particularly dubious when there\u2019s no reason to believe that the Oregon courts normally decide such matters on federal grounds. Ordinary state practice might not be relevant where the Harris presumption applies, but there\u2019s no presumption when the state court\u2019s disposition doesn\u2019t fairly appear to rest on a federal ground. When, as here, the state court gives no indication of what grounds it\u2019s relying on, the fact that it seldom engages in plain-error review counsels against inferring that it did so.\nThe Supreme Court of Oregon has held that \u201c[i]t is only in rare and exceptional cases that this court will notice an alleged error' [on plain-error review] where no ruling has been sought from the trial judge.\u201d State v. Gornick, 340 Or. 160, 130 P.3d 780, 783 (2006). And, even when a court does engage in plain-error analysis, that doesn\u2019t necessarily mean that it reached the federal grounds because the obviousness prong of the inquiry is a matter of state law. Nitschke, 680 F.3d at 1111-12.\nII\nProcedural default doesn\u2019t always bar habeas relief. The state procedural rule must be adequate and independent; and, even where it is, habeas review may still be available if petitioner can show cause and prejudice. Bennett v. Mueller, 322 F.3d 573, 580 (9th Cir.2003). None of this helps Smith.\nA\nSmith concedes that Oregon\u2019s contemporaneous objection rule is independent of federal law, but claims that it provides an inadequate basis on which to deny relief. As a general matter, a state procedural rule is adequate \u201cif it was \u2018firmly established and regularly followed\u2019 at the time it was applied by the state court.\u201d Poland v. Stewart, 169 F.3d 573, 577 (9th Cir.1998) (quoting Ford v. Georgia, 498 U.S. 411, 424, 111 S.Ct. 850, 112 L.Ed.2d 935 (1991)). Although Oregon courts can engage in discretionary plain-error review, \u201cjudicial discretion may be applied consistently when it entails \u2018the exercise of judgment according to standards that, at least over time, can become known and understood within reasonable operating limits.\u2019 \u201d Wood v. Hall, 130 F.3d 373, 377 (9th Cir.1997) (quoting Morales v. Calderon, 85 F.3d 1387, 1392 (9th Cir.1996)).\nSmith doesn\u2019t dispute that Oregon\u2019s contemporaneous objection rule satisfies this test. Nevertheless, he claims the rule is still inadequate because of a change in Confrontation Clause jurisprudence following his conviction. At the time of Smith\u2019s trial, Ohio v. Roberts held that out-of-court statements could be introduced at trial if the declarant is unavailable and the statements bear adequate indicia of reliability. 448 U.S. 56, 66, 100 S.Ct. 2531, 65 L.Ed.2d 597 (1980). Crawford v. Washington, which was decided while Smith\u2019s direct appeal was pending, overruled Roberts and held that the Confrontation Clause precludes the introduction of out-of-court statements unless the declarant is unavailable and the defendant had a prior opportunity to cross-examine him. 541 U.S. 36, 59, 124 S.Ct. 1354, 158 L.Ed.2d 177 (2004).\nSmith argues that Crawford effected a change in law that he \u201ccould not have reasonably foreseen,\u201d rendering application of Oregon\u2019s contemporaneous objection rule inadequate as applied to his case. But this goes to cause for the default, see infra Part II.B, not adequacy of the defaulted state rule. See Reed v. Ross, 468 U.S. 1, 13 n. 9, 104 S.Ct. 2901, 82 L.Ed.2d 1 (1984) (collecting cases evaluating the failure to make novel legal claims under the cause-and-prejudice framework). Adequacy focuses on the mine run of cases, not on particular defects in individual applications. See Lee v. Kemna, 534 U.S. 362, 376, 122 S.Ct. 877, 151 L.Ed.2d 820 (2002).\nNor is this one of those \u201cexceptional cases in which exorbitant application of a generally sound rule renders the state ground inadequate to stop consideration of a federal question.\u201d Id. For example, the petitioner in Lee orally requested a continuance of his murder trial after subpoenaed alibi witnesses failed to appear, but the trial court denied the motion due to scheduling conflicts. Two and a half years later, when the case was on direct review, the state for the first time invoked a rule requiring that motions for a continuance be submitted in writing along with an affidavit. Id. at 372, 380, 122 S.Ct. 877. The appellate court relied on this rule in denying petitioner relief. The Supreme Court found this inadequate, citing \u201c \u2018the general principle that an objection which is ample and timely to bring the alleged federal error to the attention of the trial court and enable it to take appropriate corrective action is sufficient to serve legitimate state interests, and therefore sufficient to preserve the claim for review here.\u2019\u201d Id. at 378, 122 S.Ct. 877 (quoting Osborne v. Ohio, 495 U.S. 103, 124-25, 110 S.Ct. 1691, 109 L.Ed.2d 98 (1990) (finding a contemporaneous objection rule inadequate to bar habeas review because the defense \u201cpressed the issue [in an earlier motion to dismiss] ... [and] nothing would be gained by requiring Osborne\u2019s lawyer to object a second time, specifically to the jury instruction.\u201d)). There is no unfairness, irregularity or injustice in a state appellate court\u2019s insistence that a defendant first present an objection to the trial judge, who might well have corrected the error, had it been brought to his attention.\nThe alleged unforeseeability of the Supreme Court\u2019s decision in Crawford is insufficient to bring Oregon\u2019s contemporaneous objection rule within \u201cthe small category of cases in which asserted state grounds are inadequate to block adjudication of a federal claim.\u201d Id. at 381, 122 S.Ct. 877. Rather, this contention must be considered under the cause-and-prejudice rubric.\nB\nThe Supreme Court has held that a petitioner can show cause for a procedural default \u201cwhere a constitutional claim is so novel that its legal basis is not reasonably available to counsel.\u201d Reed, 468 U.S. at 16, 104 S.Ct. 2901. But \u201c[w]here the basis of a constitutional claim is available, and other defense counsel have perceived and litigated that claim, the demands of comity and finality counsel against labeling alleged unawareness of the objection as cause for a procedural default.\u201d Engle v. Isaac, 456 U.S. 107, 134, 102 S.Ct. 1558, 71 L.Ed.2d 783 (1982).\nThe Supreme Court granted certiorari in Crawford three weeks prior to Smith\u2019s trial, certifying the question as whether it should \u201creevaluate [the] Confrontation Clause framework established in [Roberts ] and hold that the Clause unequivocally prohibits the admission of out-of-court statements insofar as they are contained in \u2018testimonial materials.\u2019 \u201d Given this timing, we cannot \u201cassume that [counsel was] sufficiently unaware of the question\u2019s latent existence that we cannot attribute to him strategic motives of any sort.\u201d Reed, 468 U.S. at 15, 104 S.Ct. 2901. And when the Supreme Court has already announced its intention to consider an issue, it is no longer the case that \u201c[r]aising such a claim in state court ... would not promote either the fairness or the efficiency of the state criminal justice system.\u201d Id.\nMoreover, Smith could have objected under Roberts. While Crawford is likely more favorable to Smith, a key indicium of reliability under Roberts was whether the challenged evidence fell within a firmly rooted hearsay exception. Roberts, 448 U.S. at 66, 100 S.Ct. 2531. Smith did challenge the testimony on hearsay grounds, raising a claim that tracks closely the Confrontation Clause claim he could have made under Roberts. Counsel\u2019s failure to make a Confrontation Clause objection was either an oversight or a tactical decision not to pursue what counsel judged to be a weak claim. Whatever the reason, the fact remains that counsel could have raised a Confrontation Clause claim, and so his failure to do so provides no cause for Smith\u2019s procedural default. Any prejudice he suffered is thus immaterial. Engle, 456 U.S. at 134 n. 43, 102 S.Ct. 1558.\nIll\nI would affirm the district court\u2019s denial of petitioner\u2019s habeas petition on the ground that his Confrontation Clause claim is procedurally defaulted and he has failed to show cause and prejudice to excuse this default.",
+        "type": "dissent",
+        "author": "Chief Judge KOZINSKI,"
+      }
+    ],
+    "attorneys": [
+      "Anthony D. Bornstein (argued), Assistant Federal Public Defender, Portland, OR, for Petitioner-Appellant.",
+      "Ellen F. Rosenblum, Attorney General, Anna M. Joyce, Solicitor General, and Inge D. Wells (argued), Senior Assistant Attorney General, Salem, OR, for Respondent-Appellee."
+    ],
+    "corrections": "",
+    "head_matter": "Michael SMITH, Petitioner-Appellant, v. OREGON BOARD OF PAROLE AND POST-PRISON SUPERVISION, Superintendent, Respondent-Appellee.\nNo. 11-35338.\nUnited States Court of Appeals, Ninth Circuit.\nArgued and Submitted May 10, 2013.\nFiled Nov. 26, 2013.\nAnthony D. Bornstein (argued), Assistant Federal Public Defender, Portland, OR, for Petitioner-Appellant.\nEllen F. Rosenblum, Attorney General, Anna M. Joyce, Solicitor General, and Inge D. Wells (argued), Senior Assistant Attorney General, Salem, OR, for Respondent-Appellee.\nBefore: ALEX KOZINSKI, Chief Judge, and MARSHA S. BERZON and ANDREW D. HURWITZ, Circuit Judges."
+  },
+  "file_name": "0857-01",
+  "first_page_order": 883,
+  "last_page_order": 893
+}

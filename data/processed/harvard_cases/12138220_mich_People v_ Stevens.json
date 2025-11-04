@@ -1,0 +1,66 @@
+{
+  "id": 12138220,
+  "name": "People v. Stevens",
+  "name_abbreviation": "People v. Stevens",
+  "decision_date": "2015-09-29",
+  "docket_number": "No. 150475; Court of Appeals No. 309831",
+  "first_page": "888",
+  "last_page": "888",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "498 Mich. 888"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Mich.",
+    "id": 8790,
+    "name": "Michigan Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 49,
+    "name_long": "Michigan",
+    "name": "Mich."
+  },
+  "cites_to": [
+    {
+      "cite": "497 Mich 1012",
+      "category": "reporters:state",
+      "reporter": "Mich.",
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 17,
+    "char_count": 100,
+    "ocr_confidence": 0.716,
+    "sha256": "09272b390bf502c31828c3c77e8e5f8178301323b96f42106829fd9b3e81be09",
+    "simhash": "1:20b77e81b8a59683",
+    "word_count": 18
+  },
+  "last_updated": "2024-02-27T16:10:26.420323+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "People v Stevens,"
+    ],
+    "opinions": [
+      {
+        "text": "Leave to appeal denied at 497 Mich 1012.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "People v Stevens,\nNo. 150475; Court of Appeals No. 309831."
+  },
+  "file_name": "0888-03",
+  "first_page_order": 834,
+  "last_page_order": 834
+}

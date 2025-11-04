@@ -1,0 +1,76 @@
+{
+  "id": 12144175,
+  "name": "Fingerle v. City of Ann Arbor",
+  "name_abbreviation": "Fingerle v. City of Ann Arbor",
+  "decision_date": "2015-11-04",
+  "docket_number": "No. 150819",
+  "first_page": "910",
+  "last_page": "910",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "498 Mich. 910"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Mich.",
+    "id": 8790,
+    "name": "Michigan Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 49,
+    "name_long": "Michigan",
+    "name": "Mich."
+  },
+  "cites_to": [
+    {
+      "cite": "308 Mich App 318",
+      "category": "reporters:state",
+      "reporter": "Mich. App.",
+      "case_ids": [
+        4281953
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mich-app/308/0318-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 51,
+    "char_count": 383,
+    "ocr_confidence": 0.699,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.24632903308262374
+    },
+    "sha256": "0c02c60b7a07c9c33ee3a4add53b8f9bfc3c153214b2618de855433ddba7fb9e",
+    "simhash": "1:0a2ba41e65a71680",
+    "word_count": 66
+  },
+  "last_updated": "2024-02-27T16:10:26.420323+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Fingerle v City of Ann Arbor,"
+    ],
+    "opinions": [
+      {
+        "text": "reported below: 308 Mich App 318. Pursuant to MCR 7.305(H)(1), in lieu of granting leave to appeal, we vacate the majority opinion and affirm the judgment of the Court of Appeals for the reasons stated in the concurring opinion, to wit, that the plaintiff cannot make the requisite showing of \u201csubstantial proximate cause.\u201d MCL 691.1416(1).",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Fingerle v City of Ann Arbor,\nNo. 150819;"
+  },
+  "file_name": "0910-03",
+  "first_page_order": 856,
+  "last_page_order": 856
+}

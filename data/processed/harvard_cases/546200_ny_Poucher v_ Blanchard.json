@@ -1,0 +1,513 @@
+{
+  "id": 546200,
+  "name": "William A. Poucher, Respondent, v. John L. Blanchard et al., Appellants",
+  "name_abbreviation": "Poucher v. Blanchard",
+  "decision_date": "1881-10-04",
+  "docket_number": "",
+  "first_page": "256",
+  "last_page": "264",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "86 N.Y. 256"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "N.Y.",
+    "id": 24653,
+    "name": "New York Court of Appeals"
+  },
+  "jurisdiction": {
+    "id": 1,
+    "name_long": "New York",
+    "name": "N.Y."
+  },
+  "cites_to": [
+    {
+      "cite": "6 Daly, 190",
+      "category": "reporters:state",
+      "reporter": "Daly",
+      "opinion_index": -1
+    },
+    {
+      "cite": "90 U. S. 308",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "72 N. Y. 286",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        532851
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny/72/0286-01"
+      ]
+    },
+    {
+      "cite": "2 Hill, 461",
+      "category": "reporters:state",
+      "reporter": "Hill,",
+      "opinion_index": -1
+    },
+    {
+      "cite": "13 Wend. 518",
+      "category": "reporters:state",
+      "reporter": "Wend.",
+      "case_ids": [
+        2015691
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/wend/13/0518-01"
+      ]
+    },
+    {
+      "cite": "18 Hun, 314",
+      "category": "reporters:state",
+      "reporter": "Hun,",
+      "opinion_index": -1
+    },
+    {
+      "cite": "10 N. Y. 178",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        2013403
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "184"
+        },
+        {
+          "page": "320, 322"
+        }
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny/10/0178-01"
+      ]
+    },
+    {
+      "cite": "11 Barb. 642",
+      "category": "reporters:state",
+      "reporter": "Barb.",
+      "case_ids": [
+        4909744
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/barb/11/0642-01"
+      ]
+    },
+    {
+      "cite": "30 N. Y. 211",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        2040635
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny/30/0211-01"
+      ]
+    },
+    {
+      "cite": "40 N. Y. 453",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "17 N. Y. 362",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        2019338
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "442"
+        }
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny/17/0362-01"
+      ]
+    },
+    {
+      "cite": "35 Barb. 463",
+      "category": "reporters:state",
+      "reporter": "Barb.",
+      "case_ids": [
+        5780940
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/barb/35/0463-01"
+      ]
+    },
+    {
+      "cite": "64 N. Y. 85",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        2161928
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny/64/0085-01"
+      ]
+    },
+    {
+      "cite": "3 Hun, 391",
+      "category": "reporters:state",
+      "reporter": "Hun,",
+      "opinion_index": -1
+    },
+    {
+      "cite": "8 Hill, 523",
+      "category": "reporters:state",
+      "reporter": "Hill,",
+      "opinion_index": -1
+    },
+    {
+      "cite": "13 Barb. 481",
+      "category": "reporters:state",
+      "reporter": "Barb.",
+      "case_ids": [
+        5778529
+      ],
+      "pin_cites": [
+        {
+          "page": "488"
+        }
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/barb/13/0481-01"
+      ]
+    },
+    {
+      "cite": "3 Hill, 236",
+      "category": "reporters:state",
+      "reporter": "Hill,",
+      "opinion_index": -1
+    },
+    {
+      "cite": "44 Ill. 266",
+      "category": "reporters:state",
+      "reporter": "Ill.",
+      "case_ids": [
+        5223405
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ill/44/0266-01"
+      ]
+    },
+    {
+      "cite": "9 Hun, 242",
+      "category": "reporters:state",
+      "reporter": "Hun,",
+      "weight": 2,
+      "opinion_index": -1
+    },
+    {
+      "cite": "5 Duer, 122",
+      "category": "reporters:state",
+      "reporter": "Duer",
+      "case_ids": [
+        1350815
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny-super-ct/12/0122-01"
+      ]
+    },
+    {
+      "cite": "15 Am. Rep. 185",
+      "category": "reporters:state_regional",
+      "reporter": "Am. Rep.",
+      "weight": 2,
+      "opinion_index": -1
+    },
+    {
+      "cite": "27 Mich. 244",
+      "category": "reporters:state",
+      "reporter": "Mich.",
+      "case_ids": [
+        1954671
+      ],
+      "weight": 2,
+      "opinion_index": -1,
+      "case_paths": [
+        "/mich/27/0244-01"
+      ]
+    },
+    {
+      "cite": "39 N. Y. 19",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        502242
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny/39/0019-01"
+      ]
+    },
+    {
+      "cite": "9 Johns. 118",
+      "category": "reporters:state",
+      "reporter": "Johns.",
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "247"
+        }
+      ],
+      "opinion_index": -1
+    },
+    {
+      "cite": "8 Barb. 355",
+      "category": "reporters:state",
+      "reporter": "Barb.",
+      "case_ids": [
+        1936190
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/barb/8/0355-01"
+      ]
+    },
+    {
+      "cite": "61 N. Y. 305",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        525396
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny/61/0305-01"
+      ]
+    },
+    {
+      "cite": "4 Denio, 295",
+      "category": "reporters:state",
+      "reporter": "Denio",
+      "case_ids": [
+        485448
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/denio/4/0295-01"
+      ]
+    },
+    {
+      "cite": "3 Duer, 241",
+      "category": "reporters:state",
+      "reporter": "Duer",
+      "case_ids": [
+        1326215
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny-super-ct/10/0241-01"
+      ]
+    },
+    {
+      "cite": "63 N. Y. 181",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        527185
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "184"
+        },
+        {
+          "page": "184"
+        }
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny/63/0181-01"
+      ]
+    },
+    {
+      "cite": "50 Barb. 499",
+      "category": "reporters:state",
+      "reporter": "Barb.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "7 Wend. 301",
+      "category": "reporters:state",
+      "reporter": "Wend.",
+      "case_ids": [
+        2009717
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/wend/7/0301-01"
+      ]
+    },
+    {
+      "cite": "3 Hill, 523",
+      "category": "reporters:state",
+      "reporter": "Hill,",
+      "opinion_index": -1
+    },
+    {
+      "cite": "102 U. S. 263",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        5629965
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/102/0263-01"
+      ]
+    },
+    {
+      "cite": "91 U. S. 308",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        5647655
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/91/0308-01"
+      ]
+    },
+    {
+      "cite": "73 N. Y. 543",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        2169744
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny/73/0543-01"
+      ]
+    },
+    {
+      "cite": "9 Hun, 242",
+      "category": "reporters:state",
+      "reporter": "Hun,",
+      "opinion_index": 0
+    },
+    {
+      "cite": "5 Duer, 122",
+      "category": "reporters:state",
+      "reporter": "Duer",
+      "case_ids": [
+        1350815
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-super-ct/12/0122-01"
+      ]
+    },
+    {
+      "cite": "27 Mich. 244",
+      "category": "reporters:state",
+      "reporter": "Mich.",
+      "case_ids": [
+        1954671
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mich/27/0244-01"
+      ]
+    },
+    {
+      "cite": "39 N. Y. 19",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        502242
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "52"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny/39/0019-01"
+      ]
+    },
+    {
+      "cite": "61 N. Y. 305",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        525396
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny/61/0305-01"
+      ]
+    },
+    {
+      "cite": "3 Hill, 523",
+      "category": "reporters:state",
+      "reporter": "Hill,",
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 842,
+    "char_count": 17606,
+    "ocr_confidence": 0.492,
+    "pagerank": {
+      "raw": 4.869540621651893e-07,
+      "percentile": 0.9330144344322777
+    },
+    "sha256": "4cfef2b1179efbbc11ffb4ee65359ed27bd76cc08cd69d71455ae5cf4b110785",
+    "simhash": "1:15d83d7fbbce8667",
+    "word_count": 3153
+  },
+  "last_updated": "2024-02-27T20:42:53.385782+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "William A. Poucher, Respondent, v. John L. Blanchard et al., Appellants."
+    ],
+    "opinions": [
+      {
+        "text": "Earl, J.\nIn October, 1865, the plaintiff owned a canal-boat and then sold her to one Jane Sprague and, to secure a portion of the purchase-money, took back a-chattel mortgage upon her, which was duly filed and recorded in all the places required by law. During the season of 1866 Orlando B. Sprague, the husband of Jane, ran the boat, as master, upon the Erie canal and Hudson river, between Buffalo and Hew York, and in December, at the close of navigation in that year, she was laid up in the Atlantic basin on the Brooklyn side of Hew York harbor, outside of low-water mark. The whole amount secured by the mortgage, to-wit, the sum of $2,000 and interest, was then due and unpaid.\nIn Hovember, 1866, the defendants were engaged in towing boats upon the Hudson river and were employed by Sprague, the master, to tow this boat from Troy to Hew York at \"the agreed price of $50. Early in January, 1867, the defendants were informed by one Schutt, the captain of their tow-boat, that the bill for towing the boat had not been paid, and they ordered him to place the bill in the hands of some lawyer for collection. Thereupon he placed the bill in the hands of a reputable Hew York law firm for collection, and they proceeded to collect the same under the act chapter 482 of the Laws of 1862, entitled \u201c An act to provide for the collection of demands against ships and vessels,\u201d and they caused the vessel to be seized under the provisions of that act by the sheriff of Kings county and sold, and $30 of the proceeds were paid to the defendants.\nThe plaintiff, claiming that the act of 1862 was so far unconstitutional as not to authorize the seizure and sale of the boat, and that all the proceedings for her sale were absolutely void, brought this action against the defendants to recover the value of the boat, and so far he has succeeded in his action.\nThe defendants admit that the act of 1862 was unconstitutional, and that the proceedings for the sale of the boat were wholly void, and that the plaintiff was wrongfully deprived of his boat, but they contend that they were not responsible for the acts of the Hew York law firm in causing the sale of the boat under the act of 1862, and whether they were or not is the matter now to be determined.\nWithout here referring to the evidence in detail, we think the referee was justified in his finding that the defendants knew when they caused their claim to be placed in the hands of the attorneys for collection that. it was to be collected by some proceeding against the boat, and hence it may be inferred that they intended such proceeding should, if necessary, be taken. They claim, however, that they did not authorize their attorneys to proceed under an act that was null and void, and thus to commit a clear wrong and trespass.\nThe law which regulates the relation between attorney and client is that of agency, and it is elementary law that the principal is bound by the acts of his agent performed within the scope of his authority, and he is thus not only bound by the contracts of his agent, but is responsible for his negligent and wrongful acts. The rule is thus sharply laid down by Allen, J., in Mott v. Consumers\u2019 Ice Co. (73 N. Y. 543) : \u201c For the acts of the servant, within the general scope of his employment, while engaged in his master\u2019s business, and done with a view to the furtherance of that business and the master\u2019s interest, the master will be responsible, whether the act be done negligently, wantonly, or even willfully.\u201d\n\u25a0 Here this claim was placed in the hands of attorneys for collection against the boat. It was placed in their hands rather than in the hands of some other agent, not an attorney, because they were learned in the law and could set legal machinery in operation to enforce collection. They were not instructed as to particular methods, but that matter was left to their judgment. The first matter for them to determine when thev-received the claim was how they should proceed to make the collection, and they immediately entered upon their agency in making such determination. Attorneys in such a case might determine to commence a common-law action and in such action ^attach the boat, or to take proceedings in admiralty, or under the act of 1862. Whichever determination they might make, in making it they would be acting within the scope of their authority. If they made a mistake in the remedy or in prosecuting the remedy it would be a mistake as agents of their clients for the consequences of which the client might be responsible.\nThe attorneys who caused the sale of this boat are not charged with bad faith, or with any willful wrong. The law of 1862 had not then been pronounced unconstitutional and no lawyer could even be charged with incompetency or carelessness in taking proceedings under it. (In re Steamboat Josephine, 39 N. Y. 19; Sheppard v. Steele, 43 id. 52; Brookman v. Hamill, id. 554.) The attorneys did not go outside of their employment, but they instituted a proceeding apparently provided for such cases. They simply made a mistake in not perceiving that the act was unconstitutional and they thus committed a wrong upon the plaintiff. But the mistake was one committed in their employment as attorneys and within the scope of their agency.\nIt matters not that this mistake did not occur in a proceeding in court or in a proceeding in which the employment of an attorney was absolutely essential. It is sufficient that it occurred in a legal proceeding instituted in the name of the defendants, and for their benefit, by agents authorized to act for them. It matters not that the sale of defendants\u2019 boat was a pure trespass; for it has frequently been decided that a client may be responsible for a trespass committed by his attorney which he in no way authorized except by his general employment of the attorney. In Foster v. Wiley (27 Mich. 244), the plaintiff\u2019s property was taken and sold under an execution wrongfully issued at the instance of the defendant\u2019s attorney after an appeal had been taken and it was held that the defendant was liable in trespass. The execution was issued by a justice of the peace in an action pending before him, and hence that was a case like this, where the services of an attorney were not absolutely essential. Nevertheless, the defendant having employed an attorney to collect the demand put in suit before the justice was held liable for his acts. Cooley, J., said: \u201c When one puts his case against another into the hands of an attorney for suit, it is a reasonable presumption that the authority he intends to confer upon the attorney includes such action, as the latter, in his superior knowledge of the law, may decide to be legal, proper and necessary in the prosecution of the demand; and consequently, whatever adverse proceedings may be taken by the attorney are to be considered, so far as they affect the defendant in the suit, as approved by the client in advance, and, therefore, as his act even though they prove to be unwarranted by the law.\u201d In Barker v. Braham (3 Wils. 368), the attorney took out a ca. sa. without authority of law, and both the attorney and his client were held liable for trespass, though the. latter did not personally participate in the proceedings so far as appears from the report. In Bates v. Pilling (6 Barn. & Cr. 38), the attorney and client were held jointly liable in trespass for the issue and service of an execution by the attorney\u2019s agent after the demand had been paid, though neither of them directed or knew of its issue. In Hoover v. Greenbaum (61 N. Y. 305), nothing was decided in conflict with any views above expressed. In that case the defendants were sought to be made liable for the fraud of certain attorneys ; but it was held that the attorneys were not the agents of the defendants. That case was affirmed in the Federal Supreme Court (Hoover v. Wise, 91 U. S. 308). The result there would have been different if the attorneys had been the agents of the defendants, as clearly appears from the subsequent case of Rogers v. Palmer (102 U. S. 263), in which the client was held liable for the fraud of his attorneys. Justice Miller, writing the opinion in the latter case, said of the former that an examination of the opinion will show that all (the judges) were agreed that if the creditor had sent the note directly to the attorney, the latter would then have been the agent of the creditor, whose acts and whose knowledge, obtained in the course of the employment, would have been the acts and the knowledge of the principal.\u201d (See, also, Crook v. Wright, R. & M. 278; Sleight v. Leavenworth, 5 Duer, 122; Oestrich v. Gilbert, 9 Hun, 242; Newberry v. Lee, 3 Hill, 523.)\nWhen a demand is placed in the hands of an attorney for collection by some legal proceeding, he may determine what proceeding he will take; whether he will simply commence an action, and what the nature of the action shall be, whether at law or in equity, or ex delicto, or ex eontraotu \u00a1 and whether he will obtain an attachment or an order of arrest. If, in making such determination, or if, in the conduct of the action or proceeding, he makes a mistake and commits a trespass, acting within the scope of his authority in his effort to collect the demand, his client may be held responsible for his acts to the party injured.\nThe learned counsel for the defendants contends that this case must be treated as if the act of 1862 had never been enacted, and the attorney had directed the sheriff to seize the boat without any warrant or semblance of authority. This contention cannot receive assent. If an attorney who receives a demand for collection should, without any process or legal proceeding, violently seize or cause to be seized the property of the debtor to satisfy the demand, he would do an act having no semblance of legality, and wholly unauthorized by his retainer. The act would not be within the apparent scope of his employment, and would be so unusual and extraordinary that every one would know that it was not authorized by his simple employment as attorney to collect the demand.\nBut here the attorneys pursued legal methods, then in use for the collection of such demands. They proceeded under an act believed by them to be constitutional, and which, in the Josephine Case, was held to be constitutional by the General Term of the Supreme Court. Finding this act among the statutes of the State unrepealed, it was within the scope of their employment to determine whether it was valid and whether they should proceed under it. And while the act, as it was subsequently determined, was absolutely null and void, yet, in proceeding under it, it cannot be said that the attorneys transcended the power conferred upon them by their retainer.\nI have not deemed it important to inquire particularly into the extent of the authority conferred by the defendants upon Schutt as to their demand for towing, because it is sufficient for the present purpose that he was authorized to place it in the hands of the attorneys for collection against the boat.\nThe point is also made that the sheriff of Kings county was a trespasser in seizing and selling the boat, which, it is claimed, was at the time outside of his county. But, whether the boat was within or without Kings county, the warrant procured by defendants\u2019 attorneys directed the sheriff to seize that boat where she was, and hence the attorneys, as well as the defendants, became liable for the seizure.\nThe- able and ingenious argument of defendants\u2019 counsel has not, therefore, convinced us that any error was committed in the decision rendered in the court below, and it should be affirmed.\nAll concur.\nJudgment affirmed.",
+        "type": "majority",
+        "author": "Earl, J."
+      }
+    ],
+    "attorneys": [
+      "Esek Cowen for appellants.",
+      "Albertus Perry for respondent."
+    ],
+    "corrections": "",
+    "head_matter": "William A. Poucher, Respondent, v. John L. Blanchard et al., Appellants.\nWhere an attorney, in whose hands a demand is placed for collection, elects to proceed under a statute of the State, believed by him to be valid, his determination and his action in pursuing the remedy as prescribed by the statute is within the scope of his employment, for which his client is responsible, although it is subsequently determined that the statute is void.\nIt is immaterial that the proceeding is one in which the employment of an attorney is not absolutely essential; it is sufficient that it is a legal proceeding instituted in the name of the client and for his benefit.\nIn November, 1866, defendants, who were engaged in towing boats upon the Hudson river, were employed by the master of a canal-boat to tow the boat from Troy to New York. In January, 1867, the bill for towing not having been paid, it was placed by defendants\u2019 direction in the hands of a New York law firm for collection by some proceeding against the boat. Said attorneys proceeded under the act of 1862 (Chap 482, Laws of 1862), providing \u201c for the collection of demands against ships and vessels\u201d which act had not then been declared unconstitutional; they caused the vessel to be seized and sold under the provisions of that act by the sheriff of Kings county, and a portion of the proceeds were paid to defendants. In an action brought by the owner of the boat to recover for its conversion, it was conceded that said act was unconstitutional and the proceedings under it void. Held, that defendants were liable. The boat at the time of the seizure it was claimed was' lying outside of Kings county. Held, immaterial; that as the warrant procured by defendants\u2019 attorneys directed the seizure of the boat where it then was, defendants were liable.\n(Argued June 13, 1881;\ndecided October 4, 1881.)\nAppeal from judgment of the General Term of the Su-, preme Court, in the fourth judicial department, entered upon an order made April 6, 1880, which affirmed a judgment in favor of plaintifE, entered upon the report of a referee.\nThis action was brought to recover damages for the alleged conversion of a canal-boat.\nThe material facts are stated in the opinion.\nEsek Cowen for appellants.\nThe referee erred in holding that the defendants, by leaving the towing'bill in the hands of his attorneys for collection, authorized them to commit a trespass for the purpose of collection, or made themselves liable for such trespass. (Newberry v. Lee, 3 Hill, 523; Brown v. Feeter, 7 Wend. 301; Chap. 482, Laws of 1862; Matter of Steamship Circassian, 50 Barb. 499.) Where there is a general authority to do a particular thing and there are two ways of doing it, one lawful and the other unlawful, the law, in the absence of specific instructions, will not imply a direction to act in an unlawful manner. (Welsh v. Cochran, 63 N. Y. 181, 184; Vanderbilt v. Richmond T. Co., 2 id. 479; Clark v. Metropolitan Bk., 3 Duer, 241; Averill v. Williams, 4 Denio, 295; Hoover v. Greenbaum, 61 N. Y. 305; Ward v. Roy, 69 id. 96.) To ratify an unlawful act done for the benefit of a party, he must know the facts which make the act unlawful. (Fox v. Jackson, 8 Barb. 355; Adams v. Freeman, 9 Johns. 118; Collins v. Ferris, 14 id. 247; Welsh v. Cochran, 63 N. Y. 181, 184; Smith v. Tracy, 36 id. 79.)\nAlbertus Perry for respondent.\nThe defendants were responsible for the seizure and sale of the Hiawatha. (39 N. Y. 19; Foster v. Wiley, 27 Mich. 244; S. C., 15 Am. Rep. 185; Barker v. Braham & Norwood, 3 Wils. 368; Bates v. Pilling, 6 B. & C. 38; Crook v. Wright, R. & W. 278; Slight v. Leavenworth, 5 Duer, 122; Oestrich v. Gilbert, 9 Hun, 242.) An agent employed to collect a debt or claim may resort to such usual, proper and effective mode as the law furnishes. (Merrick v. Wagner 44 Ill. 266; McMinn v. Richtmyer, 3 Hill, 236; Bush v. Miller, 13 Barb. 481, 488; Stewart v. Biddlecum, 2 Comst. 103.) If defendants\u2019 attorneys, either through negligence or ignorance of the law, made a mistake, their act was none the less the act of the defendants. (Foster v. Wiley, 27 Mich. 244; S. C., 15 Am. Rep. 185; Newberry v. Lee, 8 Hill, 523.) The principal warrants against the mistakes of his agent. (Standard Oil Co. v. T. Ins. Co., 3 Hun, 391; S. C., 64 N. Y. 85; Dunning v. Roberts, 35 Barb. 463; Story on Agency, \u00a7 452.) The principal is liable to third persons for the torts, negligences and other malfeasances or misfeasances and omissions of duty of his agent in the course of his employment, although the principal did not authorize, justify or participate in, or indeed know of such misconduct. (Story on Agency, \u00a7 452; Dunlap\u2019s Paley on Agency, 305; Weed v. Panama R. R. Co., 17 N. Y. 362; Lee v. Village of Sandy Hill, 40 id. 442; Davis v. Bemis, note, 40 N. Y. 453; Higgins v. Watervliet T. Co., 46 id. 23; Isaacs v. Third Ave. R. R. Co., 47 id. 122; Jackson v. Second Ave. R. R. Co., id. 174; Cosgrove v. Ogden, 49 id. 255; Peck v. N. Y. C. & H. R. R. R. Co., 70 id. 587; Shea v. Sixth Ave. R. R. Co., 62 id. 180; Mott v. Consumers\u2019 Ice Co., 73 id. 543; Wood\u2019s Master and Servant, 590.) Even if the action of the attorneys was not authorized by the defendants in the first instance, it was subsequently ratified by them, and they are bound by it. (Wood\u2019s Master and Servant, 598, \u00a7 310; Brainard v. Dunning, 30 N. Y. 211; Judson v. Cook, 11 Barb. 642; Fox v. Jackson, 8 id. 357; Vanderbilt v. Richmond T. Co., 2 Comst. 479; Oestrich v. Gilbert, 9 Hun, 242; Welsh v. Cochran, 63 N. Y. 181; Ingalls v. Morgan, 10 N. Y. 178, 184; President, etc., v. Comen, 37 id. 320, 322; Hier v. Adell, 18 Hun, 314; Jeffry v. Bigelow, 13 Wend. 518; Bk. of U. S. v. Davis, 2 Hill, 461; Story on Agency, \u00a7 140; Holden v. N. Y. & E. Bk., 72 N. Y. 286; Hoover v. Wise, 90 U. S. 308; Messenger v. Fourth Nat. Bk., 6 Daly, 190; Law v. Gross, 1 Black [U. S.], 539.)"
+  },
+  "file_name": "0256-01",
+  "first_page_order": 282,
+  "last_page_order": 290
+}

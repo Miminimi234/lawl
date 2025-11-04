@@ -1,0 +1,597 @@
+{
+  "id": 4272598,
+  "name": "Metropolitan Property and Casualty Insurance Company vs. Robert Morrison, Jr., & others",
+  "name_abbreviation": "Metropolitan Property & Casualty Insurance Co. v. Morrison",
+  "decision_date": "2011-08-11",
+  "docket_number": "",
+  "first_page": "352",
+  "last_page": "365",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "460 Mass. 352"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Mass.",
+    "id": 8825,
+    "name": "Massachusetts Supreme Judicial Court"
+  },
+  "jurisdiction": {
+    "id": 4,
+    "name_long": "Massachusetts",
+    "name": "Mass."
+  },
+  "cites_to": [
+    {
+      "cite": "449 Mass. 167",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "case_ids": [
+        3817155
+      ],
+      "year": 2007,
+      "pin_cites": [
+        {
+          "page": "175"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mass/449/0167-01"
+      ]
+    },
+    {
+      "cite": "304 Mass. 268",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "case_ids": [
+        873539
+      ],
+      "year": 1939,
+      "pin_cites": [
+        {
+          "page": "269"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mass/304/0268-01"
+      ]
+    },
+    {
+      "cite": "395 Mass. 737",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "case_ids": [
+        896051
+      ],
+      "weight": 3,
+      "year": 1985,
+      "pin_cites": [
+        {
+          "page": "742"
+        },
+        {
+          "page": "747-748"
+        },
+        {
+          "page": "747"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mass/395/0737-01"
+      ]
+    },
+    {
+      "cite": "97 Or. App. 658",
+      "category": "reporters:state",
+      "reporter": "Or. App.",
+      "case_ids": [
+        4411424
+      ],
+      "year": 1989,
+      "pin_cites": [
+        {
+          "page": "660"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/or-app/97/0658-01"
+      ]
+    },
+    {
+      "cite": "426 Mass. 93",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "case_ids": [
+        369450
+      ],
+      "weight": 4,
+      "year": 1997,
+      "pin_cites": [
+        {
+          "page": "94",
+          "parenthetical": "Gamache"
+        },
+        {
+          "page": "95"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mass/426/0093-01"
+      ]
+    },
+    {
+      "cite": "458 Mass. 561",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "case_ids": [
+        4269959
+      ],
+      "year": 2010,
+      "pin_cites": [
+        {
+          "page": "565"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mass/458/0561-01"
+      ]
+    },
+    {
+      "cite": "415 Mass. 844",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "case_ids": [
+        3905924
+      ],
+      "year": 1993,
+      "pin_cites": [
+        {
+          "page": "849"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mass/415/0844-01"
+      ]
+    },
+    {
+      "cite": "449 Mass. 621",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "case_ids": [
+        3816862
+      ],
+      "weight": 2,
+      "year": 2007,
+      "pin_cites": [
+        {
+          "page": "628"
+        },
+        {
+          "parenthetical": "\"insured generally bears the burden of proving that a particular claim falls within a policy's coverage . . . while an insurer has the burden of proving the applicability of a particular exclusion\""
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mass/449/0621-01"
+      ]
+    },
+    {
+      "cite": "424 Mass. 275",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "case_ids": [
+        117678
+      ],
+      "year": 1997,
+      "pin_cites": [
+        {
+          "page": "280"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mass/424/0275-01"
+      ]
+    },
+    {
+      "cite": "454 Mass. 337",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "case_ids": [
+        3670054
+      ],
+      "year": 2009,
+      "pin_cites": [
+        {
+          "page": "355"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mass/454/0337-01"
+      ]
+    },
+    {
+      "cite": "292 Mass. 105",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "case_ids": [
+        3835853
+      ],
+      "year": 1935,
+      "pin_cites": [
+        {
+          "page": "106",
+          "parenthetical": "where defendant insurer failed to defend and insured defaulted in underlying claim, insurer barred in subsequent action from offering evidence showing that there was no gross negligence, because \"[t]hat question was foreclosed by the judgment\" in underlying action"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mass/292/0105-01"
+      ]
+    },
+    {
+      "cite": "361 Mass. 68",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "case_ids": [
+        3870286
+      ],
+      "year": 1972,
+      "pin_cites": [
+        {
+          "page": "70-71",
+          "parenthetical": "\"In the absence of fraud or collusion the insurer would be bound by a judgment entered by default\""
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mass/361/0068-01"
+      ]
+    },
+    {
+      "cite": "25 Mass. App. Ct. 333",
+      "category": "reporters:state",
+      "reporter": "Mass. App. Ct.",
+      "case_ids": [
+        3994878
+      ],
+      "year": 1988,
+      "pin_cites": [
+        {
+          "page": "334-335",
+          "parenthetical": "\"Upon default ... the factual allegations of a complaint are accepted as true for purposes of establishing liability\""
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mass-app-ct/25/0333-01"
+      ]
+    },
+    {
+      "cite": "401 Mass. 516",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "case_ids": [
+        3878683
+      ],
+      "year": 1988,
+      "pin_cites": [
+        {
+          "page": "519",
+          "parenthetical": "\"When, as here, a defendant is defaulted, well-pleaded facts are deemed to be admitted . . .\""
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mass/401/0516-01"
+      ]
+    },
+    {
+      "cite": "342 Mass. 597",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "case_ids": [
+        3856793
+      ],
+      "year": 1961,
+      "pin_cites": [
+        {
+          "page": "603",
+          "parenthetical": "same"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mass/342/0597-01"
+      ]
+    },
+    {
+      "cite": "291 Mass. 445",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "case_ids": [
+        495056
+      ],
+      "year": 1935,
+      "pin_cites": [
+        {
+          "page": "448"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mass/291/0445-01"
+      ]
+    },
+    {
+      "cite": "419 Mass. 316",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "case_ids": [
+        823646
+      ],
+      "year": 1995,
+      "pin_cites": [
+        {
+          "page": "323",
+          "parenthetical": "insurer that commits breach of duty to defend liable for natural consequences of breach of contract that placed insured in worse position"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mass/419/0316-01"
+      ]
+    },
+    {
+      "cite": "414 Mass. 747",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "case_ids": [
+        3904202
+      ],
+      "year": 1993,
+      "pin_cites": [
+        {
+          "page": "763",
+          "parenthetical": "\"When an insurer's good faith refusal to defend an insured is ruled to have been unjustified, there is no reason not to apply normal contract damages principles\""
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mass/414/0747-01"
+      ]
+    },
+    {
+      "cite": "418 Mass. 295",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "case_ids": [
+        480477
+      ],
+      "year": 1994,
+      "pin_cites": [
+        {
+          "page": "304"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mass/418/0295-01"
+      ]
+    },
+    {
+      "cite": "54 Mass. App. Ct. 743",
+      "category": "reporters:state",
+      "reporter": "Mass. App. Ct.",
+      "case_ids": [
+        987469
+      ],
+      "year": 2002,
+      "pin_cites": [
+        {
+          "page": "747"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mass-app-ct/54/0743-01"
+      ]
+    },
+    {
+      "cite": "458 Mass. 194",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "case_ids": [
+        4270484
+      ],
+      "year": 2010,
+      "pin_cites": [
+        {
+          "page": "200-201"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mass/458/0194-01"
+      ]
+    },
+    {
+      "cite": "41 Mass. App. Ct. 344",
+      "category": "reporters:state",
+      "reporter": "Mass. App. Ct.",
+      "case_ids": [
+        1038812
+      ],
+      "year": 1996,
+      "pin_cites": [
+        {
+          "page": "347"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mass-app-ct/41/0344-01"
+      ]
+    },
+    {
+      "cite": "439 Mass. 387",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "case_ids": [
+        47236
+      ],
+      "year": 2003,
+      "pin_cites": [
+        {
+          "page": "394-395"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mass/439/0387-01"
+      ]
+    },
+    {
+      "cite": "441 A.2d 1012",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7980386
+      ],
+      "year": 1982,
+      "pin_cites": [
+        {
+          "page": "1015"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/441/1012-01"
+      ]
+    },
+    {
+      "cite": "17 Mass. App. Ct. 316",
+      "category": "reporters:state",
+      "reporter": "Mass. App. Ct.",
+      "case_ids": [
+        3980024
+      ],
+      "year": 1983,
+      "pin_cites": [
+        {
+          "page": "319"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mass-app-ct/17/0316-01"
+      ]
+    },
+    {
+      "cite": "393 Mass. 37",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "case_ids": [
+        894356
+      ],
+      "year": 1984,
+      "pin_cites": [
+        {
+          "page": "40"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mass/393/0037-01"
+      ]
+    },
+    {
+      "cite": "406 Mass. 7",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "case_ids": [
+        3884825
+      ],
+      "year": 1989,
+      "pin_cites": [
+        {
+          "page": "10-11"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mass/406/0007-01"
+      ]
+    },
+    {
+      "cite": "430 Mass. 794",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "case_ids": [
+        1157287
+      ],
+      "year": 2000,
+      "pin_cites": [
+        {
+          "page": "796"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mass/430/0794-01"
+      ]
+    },
+    {
+      "cite": "445 Mass. 502",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "case_ids": [
+        2824178
+      ],
+      "weight": 2,
+      "year": 2005,
+      "pin_cites": [
+        {
+          "page": "527"
+        },
+        {
+          "page": "518"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mass/445/0502-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 1132,
+    "char_count": 32449,
+    "ocr_confidence": 0.914,
+    "pagerank": {
+      "raw": 3.4800570808458323e-07,
+      "percentile": 0.8816917511407035
+    },
+    "sha256": "ae4ce230a49811f711c0325ef96eb122115abcb9da1666cb7b1e7f87a43122e6",
+    "simhash": "1:cae0bf02397194ca",
+    "word_count": 5234
+  },
+  "last_updated": "2024-02-27T17:56:26.592595+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "file_name": "0352-01",
+  "first_page_order": 378,
+  "last_page_order": 391
+}

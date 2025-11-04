@@ -1,0 +1,610 @@
+{
+  "id": 4075995,
+  "name": "The State of Washington, Petitioner, v. Ryan Richard Quaale, Respondent",
+  "name_abbreviation": "State v. Quaale",
+  "decision_date": "2014-12-18",
+  "docket_number": "No. 89666-6",
+  "first_page": "191",
+  "last_page": "212",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "182 Wash. 2d 191"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Wash.",
+    "id": 9029,
+    "name": "Washington Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 38,
+    "name_long": "Washington",
+    "name": "Wash."
+  },
+  "cites_to": [
+    {
+      "cite": "58 P.3d 889",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2002,
+      "opinion_index": 0
+    },
+    {
+      "cite": "147 Wn.2d 330",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        103707
+      ],
+      "year": 2002,
+      "pin_cites": [
+        {
+          "page": "341"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/147/0330-01"
+      ]
+    },
+    {
+      "cite": "155 P.3d 125",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "weight": 3,
+      "year": 2007,
+      "opinion_index": 0
+    },
+    {
+      "cite": "159 Wn.2d 918",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        3592675
+      ],
+      "year": 2007,
+      "pin_cites": [
+        {
+          "page": "927"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/159/0918-01"
+      ]
+    },
+    {
+      "cite": "183 P.3d 267",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2008,
+      "opinion_index": 0
+    },
+    {
+      "cite": "163 Wn.2d 577",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        5682631
+      ],
+      "year": 2008,
+      "pin_cites": [
+        {
+          "page": "594"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/163/0577-01"
+      ]
+    },
+    {
+      "cite": "293 F. 1013",
+      "category": "reporters:federal",
+      "reporter": "F.",
+      "case_ids": [
+        11720199
+      ],
+      "year": 1923,
+      "opinion_index": 0,
+      "case_paths": [
+        "/f/293/1013-01"
+      ]
+    },
+    {
+      "cite": "54 App. D.C. 46",
+      "category": "reporters:state",
+      "reporter": "App. D.C.",
+      "year": 1923,
+      "opinion_index": 0
+    },
+    {
+      "cite": "991 P.2d 1151",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 2000,
+      "opinion_index": 0
+    },
+    {
+      "cite": "140 Wn.2d 1",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        1119557
+      ],
+      "year": 2000,
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/140/0001-01"
+      ]
+    },
+    {
+      "cite": "854 P.2d 658",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1993,
+      "opinion_index": 0
+    },
+    {
+      "cite": "70 Wn. App. 573",
+      "category": "reporters:state",
+      "reporter": "Wash. App.",
+      "case_ids": [
+        1745499
+      ],
+      "weight": 8,
+      "year": 1993,
+      "pin_cites": [
+        {
+          "page": "579"
+        },
+        {
+          "page": "579-80"
+        },
+        {
+          "page": "576"
+        },
+        {
+          "page": "579-80"
+        },
+        {
+          "page": "576"
+        },
+        {
+          "page": "580"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-app/70/0573-01"
+      ]
+    },
+    {
+      "cite": "940 P.2d 1239",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "weight": 2,
+      "year": 1997,
+      "opinion_index": 0
+    },
+    {
+      "cite": "132 Wn.2d 668",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        498257
+      ],
+      "year": 1997,
+      "pin_cites": [
+        {
+          "page": "701"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/132/0668-01"
+      ]
+    },
+    {
+      "cite": "30 P.2d 1255",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "weight": 2,
+      "year": 2001,
+      "pin_cites": [
+        {
+          "parenthetical": "alteration in original"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "144 Wn.2d 600",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        970376
+      ],
+      "year": 2001,
+      "pin_cites": [
+        {
+          "page": "609"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/144/0600-01"
+      ]
+    },
+    {
+      "cite": "30 P.3d 1278",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "weight": 3,
+      "year": 2001,
+      "pin_cites": [
+        {
+          "parenthetical": "plurality opinion"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "144 Wn.2d 753",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        970401
+      ],
+      "year": 2001,
+      "pin_cites": [
+        {
+          "page": "758",
+          "parenthetical": "plurality opinion"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/144/0753-01"
+      ]
+    },
+    {
+      "cite": "320 P.3d 719",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2014,
+      "opinion_index": 0
+    },
+    {
+      "cite": "179 Wn.2d 1022",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "year": 2014,
+      "opinion_index": 0
+    },
+    {
+      "cite": "312 P.3d 726",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2013,
+      "opinion_index": 0
+    },
+    {
+      "cite": "177 Wn. App. 603",
+      "category": "reporters:state",
+      "reporter": "Wash. App.",
+      "case_ids": [
+        4320887
+      ],
+      "weight": 3,
+      "year": 2013,
+      "pin_cites": [
+        {
+          "page": "617-18"
+        },
+        {
+          "page": "618"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-app/177/0603-01"
+      ]
+    },
+    {
+      "cite": "749 P.2d 702",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1988,
+      "opinion_index": 1
+    },
+    {
+      "cite": "50 Wn. App. 412",
+      "category": "reporters:state",
+      "reporter": "Wash. App.",
+      "case_ids": [
+        1706389
+      ],
+      "year": 1988,
+      "pin_cites": [
+        {
+          "page": "418"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/wash-app/50/0412-01"
+      ]
+    },
+    {
+      "cite": "777 P.2d 36",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "weight": 3,
+      "year": 1989,
+      "opinion_index": 1
+    },
+    {
+      "cite": "55 Wn. App. 294",
+      "category": "reporters:state",
+      "reporter": "Wash. App.",
+      "case_ids": [
+        8847831
+      ],
+      "year": 1989,
+      "opinion_index": 1,
+      "case_paths": [
+        "/wash-app/55/0294-01"
+      ]
+    },
+    {
+      "cite": "230 P. 821",
+      "category": "reporters:state_regional",
+      "reporter": "P.",
+      "year": 1924,
+      "opinion_index": 1
+    },
+    {
+      "cite": "131 Wash. 611",
+      "category": "reporters:state",
+      "reporter": "Wash.",
+      "case_ids": [
+        770262
+      ],
+      "year": 1924,
+      "opinion_index": 1,
+      "case_paths": [
+        "/wash/131/0611-01"
+      ]
+    },
+    {
+      "cite": "922 P.2d 1285",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1996,
+      "pin_cites": [
+        {
+          "parenthetical": "citing State v. Forsyth, 131 Wash. 611, 230 P. 821 (1924)"
+        }
+      ],
+      "opinion_index": 1
+    },
+    {
+      "cite": "130 Wn.2d 228",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        72832
+      ],
+      "year": 1996,
+      "pin_cites": [
+        {
+          "page": "235",
+          "parenthetical": "citing State v. Forsyth, 131 Wash. 611, 230 P. 821 (1924)"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/wash-2d/130/0228-01"
+      ]
+    },
+    {
+      "cite": "183 P.3d 267",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2008,
+      "pin_cites": [
+        {
+          "parenthetical": "quoting Demery, 144 Wn.2d at 765"
+        }
+      ],
+      "opinion_index": 1
+    },
+    {
+      "cite": "163 Wn.2d 577",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        5682631
+      ],
+      "year": 2008,
+      "pin_cites": [
+        {
+          "page": "595",
+          "parenthetical": "quoting Demery, 144 Wn.2d at 765"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/wash-2d/163/0577-01"
+      ]
+    },
+    {
+      "cite": "293 F. 1013",
+      "category": "reporters:federal",
+      "reporter": "F.",
+      "case_ids": [
+        11720199
+      ],
+      "year": 1923,
+      "opinion_index": 1,
+      "case_paths": [
+        "/f/293/1013-01"
+      ]
+    },
+    {
+      "cite": "54 App. D.C. 46",
+      "category": "reporters:state",
+      "reporter": "App. D.C.",
+      "year": 1923,
+      "opinion_index": 1
+    },
+    {
+      "cite": "991 P.2d 1151",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 2000,
+      "opinion_index": 1
+    },
+    {
+      "cite": "140 Wn.2d 1",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        1119557
+      ],
+      "year": 2000,
+      "opinion_index": 1,
+      "case_paths": [
+        "/wash-2d/140/0001-01"
+      ]
+    },
+    {
+      "cite": "854 P.2d 658",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1993,
+      "pin_cites": [
+        {
+          "parenthetical": "holding that the officer's testimony that the defendant was \" 'obviously intoxicated and affected by the alcoholic drink that ... he could not drive a motor vehicle in a safe manner' \" was not an impermissible opinion on guilt"
+        }
+      ],
+      "opinion_index": 1
+    },
+    {
+      "cite": "70 Wn. App. 573",
+      "category": "reporters:state",
+      "reporter": "Wash. App.",
+      "case_ids": [
+        1745499
+      ],
+      "weight": 7,
+      "year": 1993,
+      "pin_cites": [
+        {
+          "page": "576-77, 579-80",
+          "parenthetical": "holding that the officer's testimony that the defendant was \" 'obviously intoxicated and affected by the alcoholic drink that ... he could not drive a motor vehicle in a safe manner' \" was not an impermissible opinion on guilt"
+        },
+        {
+          "page": "579"
+        },
+        {
+          "page": "576"
+        },
+        {
+          "page": "580"
+        },
+        {
+          "page": "579"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/wash-app/70/0573-01"
+      ]
+    },
+    {
+      "cite": "30 P.3d 1278",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "weight": 2,
+      "year": 2001,
+      "pin_cites": [
+        {
+          "parenthetical": "plurality opinion"
+        }
+      ],
+      "opinion_index": 1
+    },
+    {
+      "cite": "144 Wn.2d 753",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        970401
+      ],
+      "year": 2001,
+      "pin_cites": [
+        {
+          "page": "759",
+          "parenthetical": "plurality opinion"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/wash-2d/144/0753-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 1277,
+    "char_count": 37176,
+    "ocr_confidence": 0.745,
+    "pagerank": {
+      "raw": 4.2161401957449166e-08,
+      "percentile": 0.26826602632045343
+    },
+    "sha256": "205acfb7fdf3c695337b95a8d128c9012f26b175f43d3016aa7c48c21c54de5a",
+    "simhash": "1:f833559533a9d0a1",
+    "word_count": 6096
+  },
+  "last_updated": "2024-02-27T17:34:40.830885+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "C. Johnson, Wiggins, Gordon McCloud, and Yu, JJ., concur.",
+      "Fairhurst, Stephens, and Gonz\u00e1lez, JJ., concur with Owens, J."
+    ],
+    "parties": [
+      "The State of Washington, Petitioner, v. Ryan Richard Quaale, Respondent."
+    ],
+    "opinions": [
+      {
+        "text": "Madsen, C.J.\n\u00b61 The arresting trooper in this DUI (driving under the influence) trial testified that he had \u201cno doubt\u201d that the defendant was impaired based solely on a horizontal gaze nystagmus (HGN) test. We hold that the testimony was an improper opinion on guilt and affirm the Court of Appeals.\nFACTS\n\u00b62 Washington State Patrol Trooper Chris Stone saw a truck, driven by Ryan Quaale, speed by in a 25-mile-per-hour zone on a residential street. Trooper Stone\u2019s radar captured Quaale\u2019s speed at 56 miles per hour. Trooper Stone activated the lights on his patrol car and attempted to pull the truck over. In response, Quaale turned off his truck\u2019s headlights and accelerated.\n\u00b63 Trooper Stone pursued. Quaale lost control and overshot a corner, skidding into a homeowner\u2019s yard before he regained control and sped away for several more blocks. After Trooper Stone activated his siren, Quaale pulled the truck over and stopped. Quaale exited his truck but did not attempt to flee on foot. As a part of standard pursuit protocol, Trooper Stone ordered Quaale to the ground and handcuffed him. As he approached Quaale, Trooper Stone smelled a strong odor of \u201cintoxicants\u201d on Quaale\u2019s breath. Partial Verbatim Report of Proceedings (RP) at 12.\n\u00b64 Trooper Stone then performed the HGN test on Quaale. The HGN test is a routinely used field sobriety test in which the administrator tells the subject to follow a pen or fingertip with his or her eyes as the administrator moves the stimulus from side to side. After consuming alcohol, a person will have difficulty smoothly following the stimulus; the person\u2019s eyes will jerk or bounce as they move from side to side. Trooper Stone testified that in his opinion, the HGN test is very important to determining impairment because unlike the walk the line test, which a person can practice, the HGN test measures an involuntary reflex. Id. at 27. Trooper Stone did not perform any other sobriety tests on Quaale in the field.\n\u00b65 During the HGN test, Trooper Stone observed Quaale\u2019s eyes bounce and have difficulty tracking the stimulus. Trooper Stone placed Quaale under arrest for DUI, reckless driving, and attempting to elude a police vehicle. At the station, Trooper Stone informed Quaale of the implied consent warnings for a breath test. Quaale refused to take the test.\n\u00b66 Quaale was charged with attempting to elude a police vehicle and with felony DUI. The DUI was charged as a felony because Quaale had been previously convicted of vehicular homicide while under the influence. RCW 46.61.502(6)(b)(i).\n\u00b67 Quaale was tried twice. At the first trial, the jury convicted him of attempting to elude but could not agree on a verdict for the DUI charge. During a second trial on the DUI charge, the State concluded its direct examination of Trooper Stone with the following questions:\nQ. In this case, based on the HGN test alone, did you form an opinion based on your training and experience as to whether or not Mr. Quaale\u2019s ability to operate a motor vehicle was impaired?\n[Defendant\u2019s objection that the question goes to the ultimate issue is overruled.]\nQ. ... Did you form an opinion?\nA. Absolutely. There was no doubt he was impaired.\nRP at 33.\n\u00b68 In closing, the State argued that the odor of intoxicants and Quaale\u2019s erratic driving supported its theory of driving while impaired by alcohol, but the State primarily relied on the HGN test. Indeed, during its rebuttal, in response to the defense explanation for the odor of intoxicants, the State said, \u201cThe horizontal gaze nystagmus is not caused by alcohol that he may have spilled on his clothes; it is what is inside your body. The eyes in this case are more than the window to the soul; they are the window to his intoxication level.\u201d Clerk\u2019s Papers (CP) at 153-54.\n\u00b69 The State also remarked on Quaale\u2019s revoked license during closing in violation of the court\u2019s ruling. The jury found Quaale guilty of DUI.\n\u00b610 On appeal, Quaale argued that the trooper\u2019s testimony amounted to an improper opinion on guilt. He also argued that the prosecutor committed misconduct when she commented on his revoked license and that the trial court improperly denied a motion to dismiss under CrR 8.3(b), alleging \u201cgovernmental misconduct whe[re] there has been prejudice to the rights of the accused which materially affect the accused\u2019s right to a fair trial.\u201d The Court of Appeals reversed Quaale\u2019s DUI conviction, holding that the trooper\u2019s opinion testimony violated Quaale\u2019s \u201cconstitutional right to have a fact critical to his guilt determined by the jury.\u201d State v. Quaale, 177 Wn. App. 603, 617-18, 312 P.3d 726 (2013). The Court of Appeals ordered a new trial and did not reach the other issues that Quaale raised, including the prosecutor\u2019s misconduct. Id. at 619. The State filed a petition for review regarding the opinion testimony issue, which we granted. State v. Quaale, 179 Wn.2d 1022, 320 P.3d 719 (2014).\nDISCUSSION\n\u00b611 We review decisions to admit evidence using an abuse of discretion standard. State v. Demery, 144 Wn.2d 753, 758, 30 P.3d 1278 (2001) (plurality opinion). The trial court is given considerable discretion to determine if evidence is admissible. Id. \u201cWhere reasonable persons could take differing views regarding the propriety of the trial court\u2019s actions, the trial court has not abused its discretion.\u201d Id. However, the trial court has abused its discretion on an evidentiary ruling if it is contrary to law. State v. Neal, 144 Wn.2d 600, 609, 30 P.2d 1255 (2001). \u201cAn abuse of discretion exists \u2018[w]hen a trial court\u2019s exercise of its discretion is manifestly unreasonable or based on untenable grounds or reasons.\u2019 \u201d Id. (alteration in original) (quoting State v. Stenson, 132 Wn.2d 668, 701, 940 P.2d 1239 (1997)).\n\u00b612 At trial, defense counsel objected to a question posed by the prosecutor \u2014 whether the testifying trooper formed an opinion about Mr. Quaale\u2019s impairment based on the HGN test alone \u2014 because the question went to the ultimate issue. The state correctly points out that under Washington\u2019s rules of evidence, opinion testimony is not objectionable merely because it embraces an ultimate issue that the jury must decide. ER 704 states, \u201cTestimony in the form of an opinion or inferences otherwise admissible is not objectionable because it embraces an ultimate issue to be decided by the trier of fact.\u201d\n\u00b613 An opinion that embraces an ultimate issue, however, must be \u201cotherwise admissible.\u201d Id. When opinion testimony that embraces an ultimate issue is inadmissible in a criminal trial, the testimony may constitute an impermissible opinion on guilt. City of Seattle v. Heatley, 70 Wn. App. 573, 579, 854 P.2d 658 (1993). Here, the trooper\u2019s opinion based solely on the HGN test was inadmissible under our decision in State v. Baity, 140 Wn.2d 1, 991 P.2d 1151 (2000).\n\u00b614 In Baity, we considered whether a drug recognition protocol employed by police officers to detect behavior associated with certain drugs constituted novel scientific evidence generally accepted in the scientific community, satisfying the Frye test for admissibility of expert testimony. Id. at 3; Frye v. United States, 54 App. D.C. 46, 293 F. 1013 (1923). Police officers trained to use this protocol are often referred to as drug recognition experts (DREs). DREs use a 12-step procedure to classify behavioral patterns associated with seven categories of drugs. Baity, 140 Wn.2d at 6. Officers employ the HGN test as 1 of the 12 steps. Id. at 6-7.\n\u00b615 We analyzed whether the HGN test satisfied Frye when used for drug detection, and we held that it did. We agreed that the underlying scientific basis of the test \u2014 an intoxicated person will exhibit nystagmus \u2014 was undisputed. Id. at 12. We also noted that officers perform the test in the same way whether the officer tests for alcohol or drug impairment and that the officer also looks for the same result: involuntary jerking in the driver\u2019s eyes. Id. at 13. Thus, our analysis of the HGN test in the DUI drug detection context, as discussed in Baity, applies equally to the DUI alcohol detection context in this case.\n\u00b616 Although we held testimony on the HGN test admissible as evidence that a person was intoxicated on drugs, we placed limits on that testimony because the HGN test merely shows physical signs consistent with ingestion of intoxicants. Id. at 13-14,17-18. We said that an officer may not testify in a manner that casts an \u201caura of scientific certainty to the testimony.\u201d Id. at 17. The officer also cannot predict the specific level of drugs present in a suspect. Id. We further instructed that a DRE officer, properly qualified, could express an opinion that a suspect\u2019s behavior and physical attributes are consistent or inconsistent with those behaviors and physical signs associated with certain categories of drugs. Id. at 17-18.\n\u00b617 Here, the trooper\u2019s testimony violated the limitations set out in Baity. The trooper testified that he had \u201cno doubt\u201d the defendant was impaired based on the HGN test alone. This testimony was improper for two reasons. First, the trooper cast his testimony in a way that gave it an aura of scientific certainty. By testifying that he had \u201cno doubt,\u201d the trooper implied that the HGN test may reveal that someone is intoxicated and \u201cimpaired\u201d on alcohol when the test simply shows physical signs consistent with alcohol consumption. Although an officer may testify that the test revealed signs consistent with alcohol consumption, the officer here cast his conclusion in absolute terms and improperly gave the appearance that the HGN test may produce scientifically certain results.\n\u00b618 Second, the trooper testified to a specific level of intoxication when he testified that the defendant was \u201cimpaired.\u201d The State argues that the trooper\u2019s testimony falls within our holding in Baity because the trooper did not testify to a specific blood alcohol level; he simply said the defendant was \u201cimpaired.\u201d But the conclusion that the defendant was impaired rests on the premise that the defendant consumed a sufficient level of intoxicants to be impaired. Even though the testimony did not include a numerical blood alcohol level, the testimony implicitly includes a specific level of intoxication: that the alcohol consumed impaired the defendant, which is the legal standard for guilt. The HGN test alone cannot reveal specific levels of intoxication, and, consequently, the trooper\u2019s testimony violated Baity.\n\u00b619 Under Baity, the trooper\u2019s opinion was inadmissible and the trial court should have excluded the testimony. We must now determine if the inadmissible testimony on the ultimate issue of Quaale\u2019s impairment while driving amounted to an improper opinion on guilt.\n\u00b620 Opinions on guilt are improper whether made directly or by inference. State v. Montgomery, 163 Wn.2d 577, 594, 183 P.3d 267 (2008). Impermissible opinion testimony regarding the defendant\u2019s guilt may be reversible error because such evidence violates the defendant\u2019s constitutional right to a jury trial, which includes the independent determination of the facts by the jury. State v. Kirkman, 159 Wn.2d 918, 927, 155 P.3d 125 (2007). Before opinion testimony is offered, the trial court must determine admissibility of the testimony. Montgomery, 163 Wn.2d at 591. In making this determination, the court will consider the circumstances of the case, including the following factors: (1) the type of witness involved, (2) the specific nature of the testimony, (3) the nature of the charges, (4) the type of defense, and (5) the other evidence before the trier of fact. Id. Some areas, however, are clearly inappropriate for opinion testimony in criminal trials, including personal opinions, particularly expressions of personal belief, as to the defendant\u2019s guilt, the intent of the accused, or the veracity of witnesses. Id.\n\u00b621 The case before us presents an improper opinion on guilt by inference because the trooper\u2019s opinion went to the core issue and the only disputed element: whether Quaale drove while under the influence of alcohol. See id. at 594. Quaale was charged with felony DUI under RCW 46.61-.502. The statute indicates, in relevant part, that \u201c[a] person is guilty of driving while under the influence of intoxicating liquor ... if the person drives a vehicle within this state ... [w]hile the person is under the influence of or affected by intoxicating liquor.\u201d RCW 46.61.502(l)(c). Whether Quaale was affected by intoxicating liquor was the only issue in dispute. The jury was instructed as follows: \u201cA person is under the influence of or affected by the use of intoxicating liquor if the person\u2019s ability to drive a motor vehicle is lessened in any appreciable degree.\u201d CP at 92 (Instruction 5).\n\u00b622 The trooper\u2019s testimony that Quaale was \u201cimpaired\u201d parroted the legal standard contained in the jury instruction definition for \u201cunder the influence.\u201d The word \u201cimpair\u201d means to \u201cdiminish in quantity, value, excellence, or strength.\u201d Webster\u2019s Third New International Dictionary 1131 (2002). Thus, the trooper concluded that alcohol diminished Quaale to such an appreciable degree that the HGN test could detect Quaale\u2019s impairment. Because the trooper\u2019s inadmissible testimony went to the ultimate factual issue \u2014 the core issue of Quaale\u2019s impairment to drive \u2014 the testimony amounted to an improper opinion on guilt.\n\u00b623 The State argues that this case is analogous to Heatley. In Heatley, Division One of the Court of Appeals held that an officer\u2019s testimony constituted a permissible opinion that embraced an ultimate issue. 70 Wn. App. at 579-80. The officer testified that the defendant was \u201c \u2018obviously intoxicated and affected by the alcoholic drink [such] that ... he could not drive a motor vehicle in a safe manner.\u2019 \u201d Id. at 576. We find Heatley distinguishable.\n\u00b624 The court noted in Heatley that \u201cEvenson\u2019s opinion was based solely on his experience and his observation of Heatley\u2019s physical appearance and performance on the field sobriety tests.\u201d Id. at 579-80. The officer observed that Heatley\u2019s eyes were bloodshot and watery, his face was flushed, his balance was unsteady, and he had a \u201c \u2018strong odor\u2019 \u201d of alcohol on his breath. Id. at 576. The officer performed a series of field sobriety tests, including asking Heatley to recite the alphabet, count backwards, walk heel to toe, and touch his nose. Id. The officer testified that he arrived at his conclusion \u201c \u2018[biased on [Heatley\u2019s] physical appearance and my observations of that and based on all the tests I gave him as a whole.\u2019 \u201d Id.\n\u00b625 Here, the testimony in question is distinguishable from that in Heatley because Trooper Stone\u2019s opinion was based solely on the HGN test, which is expert testimony subject to our decision in Baity. As has been explained, the HGN test can indicate the presence of alcohol in a suspect but it cannot establish impairment. In contrast, the officer in Heatley based his testimony on observations of the defendant, such as the defendant\u2019s unsteady balance, the defendant\u2019s bloodshot eyes, and the odor of alcohol on the defendant\u2019s breath. A lay witness may express an opinion on another person\u2019s intoxication when the witness had the opportunity to observe the affected person. Id. at 580. Unlike the officer in Heatley, Trooper Stone based his opinion on expert and not lay testimony, and in doing so, he gave impermissible opinion testimony that constituted an improper opinion on guilt.\n\u00b626 This improper opinion on guilt violated Mr. Quaale\u2019s constitutional right to have a fact critical to his guilt determined by the jury. Constitutional error is harmless only if the State establishes beyond a reasonable doubt that any reasonable jury would have reached the same result absent the error. State v. Brown, 147 Wn.2d 330, 341, 58 P.3d 889 (2002). As the Court of Appeals noted, the officer testified and the State argued that the HGN test alone established that Quaale\u2019s ability to drive a motor vehicle was impaired. Quaale, 177 Wn. App. at 618. That assertion, improperly admitted, was offered by an officer in a manner that \u201ccast an aura of scientific certainty,\u201d significantly increasing the weight the jury likely attached to it. In light of the fact that there were no other tests administered, such as field sobriety tests or a breath test, this improper evidence renders the officer\u2019s \u201cabsolute certainty\u201d more significant. As the Court of Appeals noted, the jury in the first trial convicted Quaale on the eluding charge but deadlocked on the DUI count, suggesting that the only other evidence, poor driving, was attributed to the fact that Quaale was trying to elude the officer. Id. Under these circumstances, the error in admitting the testimony was not harmless beyond a reasonable doubt. We therefore reverse the judgment and sentence and remand the case for a new trial.\nCONCLUSION\n\u00b627 We hold that Trooper Stone\u2019s testimony that he had \u201cno doubt\u201d the defendant was impaired was an improper opinion on the defendant\u2019s guilt and therefore inadmissible. Trooper Stone based his opinion solely on a HGN test, which can indicate physical signs consistent with alcohol consumption. The test, however, cannot establish impairment by itself, and testimony to the contrary violates the limitations imposed by our decision in Baity. We therefore affirm the Court of Appeals, reverse the judgment and sentence, and remand the case for a new trial.\nC. Johnson, Wiggins, Gordon McCloud, and Yu, JJ., concur.\nThe State\u2019s petition for review also raised the argument that the defendant did not properly preserve the right to appeal the admission of the opinion testimony because he failed to object to the testimony of the witness at the time of trial. This argument was not raised in the Court of Appeals. We decline to review this argument pursuant to RAP 13.7(b), which grants the court discretionary scope of review.\n\u201cNystagmus is the involuntary oscillation of the eyeballs, which results from the body\u2019s attempt to maintain orientation and balance. HGN is the inability of the eyes to maintain visual fixation as they turn from side to side or move from center focus to the point of maximum deviation at the side.\u201d Baity, 140 Wn.2d at 7 n.3.",
+        "type": "majority",
+        "author": "Madsen, C.J."
+      },
+      {
+        "text": "Owens, J.\n\u00b628 (dissenting) \u2014 Without a basis in case law or any evidence in the record, the majority improperly creates a new bright-line rule regarding the limits of a particular test that police officers routinely use to determine alcohol impairment, the horizontal gaze nystagmus (HGN) test. The parties did not raise the issue of the HGN test\u2019s scientific merits at trial, and there is no evidence in the record regarding any scientific studies on the test, its accuracy, or its limits. We are not optometrists or drug recognition experts, and we should not make such conclusive scientific determinations in the absence of evidence and testimony from experts in the field. This is particularly problematic because limiting the conclusions that can be drawn from the HGN test creates a way for drunk drivers to evade prosecution by refusing the breath test and being so uncooperative with police officers that conducting other sobriety tests is not feasible.\n\u00b629 The actual issue in front of the trial court was whether Trooper Chris Stone\u2019s statement that he had \u201cno doubt\u201d Ryan Quaale was impaired, Partial Verbatim Report of Proceedings (PVRP) at 33, was an opinion on an issue of fact (and thus permissible) or an opinion on his guilt (and thus impermissible). Under our long-standing precedent on opinion testimony, Trooper Stone\u2019s testimony did not constitute an impermissible opinion on Quaale\u2019s guilt. I respectfully dissent.\nFACTS\n\u00b630 In addition to the majority\u2019s listed facts, I would note that Trooper Stone gave extensive foundation testimony about the HGN test. Officers administer the HGN test to persons suspected of driving under the influence (DUI). Generally, officers take a pen or other stimulus, hold it 12 to 15 inches away from a suspect\u2019s face, and move the pen from side to side to check for eye nystagmus. Put simply, \u201ceye nystagmus\u201d is the involuntary jerking of the eye, and persons who are intoxicated from alcohol exhibit nystagmus. The crucial foundation testimony Trooper Stone gave about the HGN test was that if the nystagmus of the eye starts earlier in the test, it means the test subject is more impaired. Specifically, when the prosecutor asked Trooper Stone when the eye nystagmus started in this case, Trooper Stone responded:\nThe bouncing in this case began immediately. As soon as I started to move the pen, it began immediately. The higher the impairment, the sooner it begins to bounce. So if you don\u2019t see it until forty-five [degrees], . . . then they are . . . most likely they are not going to be impaired. Anything before that is going to be more impaired and after that is going to be less impaired.\nPVRP at 25. Quaale did not object to that testimony.\nANALYSIS\n\u00b631 As explained below, the majority\u2019s rigid holding regarding the limits of the HGN test is not supported by case law or the evidence in the record. The key case the majority relies on \u2014 State v. Baity, 140 Wn.2d 1, 991 P.2d 1151 (2000) \u2014 did not address HGN tests in the DUI alcohol detection context, and it did not contemplate the limits of the HGN test with regard to alcohol impairment. Further, there is no record in this case regarding the scientific merits of the HGN test because Quaale did not object at trial and did not submit any evidence regarding the limitations of the HGN test. This newly created strict limit on the HGN test is particularly concerning because it will incentivize drunk drivers to evade other standard field sobriety tests, putting law enforcement officials in an untenable situation.\n1. The Majority\u2019s Reliance on Baity Is Misplaced\n\u00b632 The majority errs by relying on Baity to limit testimony regarding the HGN test in the DUI alcohol detection context because Baity did not address that issue. Baity did not address whether the HGN test alone can identify someone who is impaired as opposed to someone who has merely consumed alcohol. The primary issue in Baity was whether \u201ca drug recognition protocol, used by trained drug recognition officers to determine if a suspect\u2019s driving is impaired by a drug other than alcohol, meets the requirements of Frye v. United States, [54 App. D.C. 46, 293 F. 1013] (1923), for novel scientific evidence.\u201d Id. at 3 (emphasis added). The drug recognition protocol involved the HGN test, and we held that HGN testing \u201cis generally accepted in the relevant scientific communities\u201d and thus that \u201cthe forensic application of HGN to drug intoxication in the DRE [(drug recognition expert)] context satisfies Frye\u201d Id. at 14. We noted that\nan officer may not testify in a fashion that casts an aura of scientific certainty to the testimony. The officer also may not predict the specific level of drugs present in a suspect. The DRE officer, properly qualified, may express an opinion that a suspect\u2019s behavior and physical attributes are or are not consistent with the behavioral and physical signs associated with certain categories of drugs.\nId. at 17-18. That language from Baity does not say that the HGN test alone cannot show impairment from alcohol \u2014 it did not even contemplate what exactly HGN can show in the alcohol detection context. Baity simply prohibits DRE officers from testifying in a manner that implies a suspect\u2019s \u201cdrug intoxication\u201d is a scientific fact and from placing specific numbers on a suspect\u2019s intoxication level. See id.\n\u00b633 Here, Trooper Stone\u2019s testimony did not violate the actual limits imposed by Baity because (1) this is an alcohol impairment case and (2) he did not imply Quaale\u2019s impairment was a scientific fact and did not put a specific level on Quaale\u2019s impairment. Trooper Stone merely stated that he had \u201cno doubt\u201d that Quaale was impaired from alcohol based on the HGN test. That testimony is very similar to a case in which our Court of Appeals properly held that an officer\u2019s testimony constituted a permissible opinion on the ultimate issue of fact. See City of Seattle v. Heatley, 70 Wn. App. 573, 576-77, 579-80, 854 P.2d 658 (1993) (holding that the officer\u2019s testimony that the defendant was \u201c \u2018obviously intoxicated and affected by the alcoholic drink that ... he could not drive a motor vehicle in a safe manner\u2019 \u201d was not an impermissible opinion on guilt).\n\u00b634 The majority intensely focuses on the prosecutor\u2019s question as to whether \u201cbased on the HGN test alone\u201d Trooper Stone could determine whether Quaale was impaired. PVRP at 33. The majority combines that question and Trooper Stone\u2019s response with its own scientific determination that the HGN test alone cannot show impairment in order to reverse. However, the majority\u2019s intense focus on the prosecutor\u2019s question and Trooper Stone\u2019s response ignores the fact that the jury heard extensive foundation testimony about the HGN test and assumes that the jury heard Trooper Stone\u2019s \u201cno doubt\u201d testimony in a vacuum. Quaale did not object during the crucial foundation testimony for what the HGN test can show regarding impairment. The jury properly heard and considered Trooper Stone\u2019s testimony that the sooner nystagmus starts during the HGN test, the more impaired the suspect is \u2014 and that Quaale\u2019s nystagmus started immediately. Additionally, the jury heard testimony that (1) Quaale was driving 56 miles per hour in a 25-mile-per-hour residential zone, (2) Quaale overshot a corner and skidded into a homeowner\u2019s yard, leaving 98 feet of skid marks, (3) Trooper Stone immediately smelled a strong odor of intoxicants on Quaale\u2019s breath when he approached Quaale, and (4) when Trooper Stone drove Quaale to the station, he had to roll the windows down because the alcohol smell was so strong.\n2. The HGN Test Issue Was Not Presented to the Trial Court, and There Is No Evidence in the Record about Its Merits\n\u00b635 Not only is the issue of whether the HGN test alone can show impairment not discussed in Baity, but the parties here did not present that issue to the trial court. The amicus group Washington Foundation for Criminal Justice cited cases from foreign jurisdictions detailing extensive trial court records including studies and criticisms of HGN testing, but even they admit that \u201c[t]he parties did not present such a record to the trial court in Quaale.\u201d Br. of Amicus Curiae Wash. Found, for Criminal Justice at 13. There is nothing in the record contradicting the scientific accuracy of Trooper Stone\u2019s foundation testimony about what the HGN test shows. I am unwilling to take the majority\u2019s leap and make my own scientific determination when the issue was not presented to the trial court. Instead, we should adhere to our precedent and apply the factors we have traditionally used to determine whether testimony is an impermissible opinion on guilt. State v. Demery, 144 Wn.2d 753, 759, 30 P.3d 1278 (2001) (plurality opinion).\n3. Under the Demery Factor Analysis, the Testimony in This Case Was Permissible\n\u00b636 We consider the unique circumstances of each case to determine whether testimony constitutes an improper opinion on guilt, guided by the following factors: \u201c(1) \u2018the type of witness involved,\u2019 (2) \u2018the specific nature of the testimony,\u2019 (3) \u2018the nature of the charges,\u2019 (4) \u2018the type of defense, and\u2019 (5) \u2018the other evidence before the trier of fact.\u2019 \u201d Id. (quoting Heatley, 70 Wn. App. at 579). Applying those factors, Trooper Stone\u2019s testimony was not an impermissible opinion on guilt. I will discuss each factor in turn.\nA. The Type of Witness Involved\n\u00b637 The witness who offered the challenged testimony was a state trooper. Opinion testimony from police officers carries an \u201c \u2018aura of reliability\u2019 \u201d that could unduly influence a jury. State v. Montgomery, 163 Wn.2d 577, 595, 183 P.3d 267 (2008) (quoting Demery, 144 Wn.2d at 765). This factor weighs against admissibility.\nB. Nature of the Charges and the Specific Nature of the Testimony\n\u00b638 The charge at issue was DUI, and the testimony was that Trooper Stone had \u201cno doubt\u201d Quaale was impaired. PVRP at 33. Generally, that type of testimony is admissible, as officers as well as laypersons may offer an opinion that a defendant was intoxicated. State v. Easter, 130 Wn.2d 228, 235, 922 P.2d 1285 (1996) (citing State v. Forsyth, 131 Wash. 611, 230 P. 821 (1924)). However, \u201copinion testimony should be avoided if the information can be presented in such a way that the jury can draw its own conclusions.\u201d Montgomery, 163 Wn.2d at 591. Also, opinions on ultimate issues are more problematic when the opinions parrot the legal standard. Id. at 594.\n\u00b639 Trooper Stone\u2019s testimony did not parrot the legal standard, and it is substantially similar to testimony our courts have found not to be improper opinions on guilt. First, Trooper Stone\u2019s opinion did not parrot the legal standard, as the word \u201cimpaired\u201d does not appear in the DUI statute. See RCW 46.61.502. Rather, a person is guilty of a DUI for driving \u201c[w]hile the person is under the influence of or affected by intoxicating liquor.\u201d RCW 46.61-.502(l)(c). Trooper Stone did not testify that he believed Quaale was \u201cunder the influence\u201d or \u201caffected by intoxicating liquor.\u201d Rather, he testified that he believed Quaale was \u201cimpaired.\u201d PVRP at 33.\n\u00b640 Second, Trooper Stone\u2019s \u201cno doubt\u201d testimony is permissible conclusory language in a DUI trial not premised on the breath test. As discussed above, I find Heatley persuasive and analogous to this case, and we have cited favorably to it on several occasions. In Heatley, the prosecutor asked the arresting officer to give his opinion regarding the \u201c \u2018defendant\u2019s impairment due to his use of alcohol.\u2019 \u201d70 Wn. App. at 576. The officer responded:\nBased on my, his physical appearance and my observations of that and based on all the tests I gave him as a whole, I determined that Mr. Heatley was obviously intoxicated and affected by the alcoholic drink that he\u2019d been, he could not drive a motor vehicle in a safe manner. At that time, I did place Mr. Heatley under arrest for DWI.\nId. Our Court of Appeals held that testimony did not amount to an impermissible opinion on guilt. Id. at 580. It reasoned that the officer did not directly testify that he felt the defendant was guilty. Id. at 579. The fact that the opinion directly supported a finding of guilt did not disqualify it; instead, the court noted that \u201c \u2018[i]t is the very fact that such opinions imply that the defendant is guilty which makes the evidence relevant and material.\u2019 \u201d Id. (quoting State v. Wilber, 55 Wn. App. 294, 298 n.1, 777 P.2d 36 (1989)). Moreover, the court reasoned that the officer based his opinion on his experience and his personal observations of the defendant\u2019s appearance and performance of field sobriety tests. Id. Thus, the opinion had a foundation that \u201c \u2018directly and logically\u2019 supported the officer\u2019s conclusion.\u201d Id. (quoting State v. Allen, 50 Wn. App. 412, 418, 749 P.2d 702 (1988)).\n\u00b641 I find few differences here. Trooper Stone never testified that he thought Quaale was guilty of DUI. Instead, he testified about the HGN test, Quaale\u2019s dangerous and poor driving, and the strong odor of intoxicants on Quaale\u2019s breath \u2014 all of which directly and logically support Trooper Stone\u2019s conclusion that he had \u201cno doubt\u201d Quaale was impaired. Although the prosecutor unartfully asked whether Trooper Stone formed an opinion based on the HGN test alone, any rational juror would have clearly processed Trooper Stone\u2019s opinion in conjunction with his personal observations of Quaale\u2019s dangerous driving and breath. The fact that Trooper Stone\u2019s testimony directly supports a finding of guilt is not fatal \u2014 that is precisely what makes it relevant. And Trooper Stone\u2019s \u201cno doubt\u201d language mirrors the permissible conclusory term that the defendant was \u201c \u2018obviously intoxicated\u2019 \u201d in Heatley. Id. at 576.\n\u00b642 Because Trooper Stone\u2019s testimony did not parrot the legal standard and is permissible conclusory language, these factors weigh in favor of admissibility.\nC. The Type of Defense\n\u00b643 Quaale\u2019s primary defense was that Trooper Stone failed to conduct a thorough investigation. Trooper Stone\u2019s \u201cno doubt\u201d testimony did nothing to hinder Quaale\u2019s defense; arguably, it strengthened it. Read in isolation, Trooper Stone testified that based on the HGN test alone, he concluded Quaale was impaired. On cross-examination, the officer acknowledged that there are other standard field sobriety tests that he did not perform, including the \u201cwalk and turn\u201d and the \u201cone leg stand,\u201d because he did not want to risk Quaale running off again. PVRP at 34-35. He also acknowledged that his police report failed to include anything about Quaale\u2019s coordination, attitude, or clothes, or whether he had watery or bloodshot eyes, a flushed face, or slurred speech. Quaale was able to develop his defense attacking the investigation and Trooper Stone\u2019s credibility for basing his conclusion solely on the HGN test. Additionally, the defense differentiated between the level of certainty needed to make an arrest and the level needed to convict. Trooper Stone readily acknowledged that his investigation is intended to develop probable cause and that probable cause is not the same as beyond a reasonable doubt.\n\u00b644 Thus, Trooper Stone\u2019s testimony arguably strengthened Quaale\u2019s defense. This factor weighs in favor of admissibility.\nD. The Other Evidence\n\u00b645 The evidence presented to the jury other than the HGN test was the strong intoxicant odor of Quaale\u2019s breath and his dangerous driving. As mentioned above, this court has cautioned that \u201copinion testimony should be avoided if the information can be presented in such a way that the jury can draw its own conclusions.\u201d Montgomery, 163 Wn.2d at 591. But here, the State could not present additional evidence in a way that would have better allowed the jury to draw its own conclusions about Quaale\u2019s impairment because of Quaale\u2019s bad conduct. Trooper Stone did not conduct other field sobriety tests because Quaale had just led him on a chase down a residential road at night, and far from backup in a remote area, Trooper Stone feared that Quaale would attempt to flee again if he released him to perform the other tests. The State could not submit evidence from a breath test because Quaale refused to take it. The State has a legitimate concern when it asks, \u201cHow would DUI prosecutions based on a refusal to take the breath test be prosecuted if the police officer cannot express an opinion regarding the defendant\u2019s impairment?\u201d Suppl. Br. of Pet\u2019r at 8. The majority\u2019s decision will seriously hinder DUI prosecutions in which defendants refuse the breath test and are so uncooperative that field sobriety tests other than the HGN test are not feasible.\n\u00b646 In DUI prosecutions not involving the breath test, the State often has to prove that the suspect was affected by alcohol using officer testimony alone. The evidence rules allow that testimony to go to the ultimate factual issue before the jury. ER 704. And, as in this case, that testimony is permissible as long as an officer refrains from testifying that he or she believes that the defendant is guilty. This factor does not weigh against admissibility because the State did not rely solely on the HGN test to prove guilt and Quaale\u2019s bad conduct hindered Trooper Stone\u2019s ability to administer the other field sobriety tests.\n\u00b647 Thus, after analyzing the factors, I would find Trooper Stone\u2019s testimony permissible. While one factor\u2014 the fact that the testimony came from a state trooper\u2014 weighs against admissibility, the other factors either weigh in favor of admissibility or are neutral at best.\nCONCLUSION\n\u00b648 I would reverse the Court of Appeals and hold that Trooper Stone\u2019s testimony that he had \u201cno doubt\u201d Quaale was impaired did not amount to an impermissible opinion on guilt. The majority improperly uses Baity to make its own scientific determination about HGN tests without any basis in the record, and it incentivizes drunk drivers to be uncooperative with officers in order to limit the amount of evidence the State can use at trial. I would not come to such rigid conclusions about what the HGN test can tell us regarding alcohol impairment without a full record developed at the trial level. After analyzing Trooper Stone\u2019s \u201cno doubt\u201d testimony under the Demery factors, I conclude that Quaale\u2019s right to have facts adjudicated by a jury was not violated. I respectfully dissent.\nFairhurst, Stephens, and Gonz\u00e1lez, JJ., concur with Owens, J.",
+        "type": "dissent",
+        "author": "Owens, J."
+      }
+    ],
+    "attorneys": [
+      "Steven J. Tucker, Prosecuting Attorney, and Andrew J. Metis III and Mark E. Lindsey, Deputies, for petitioner.",
+      "Eric J. Nielsen and Dana M. Nelson (of Nielsen Broman & Koch PLLC); and Jennifer L. Dobson, for respondent.",
+      "Ryan B. Robertson, Briteney A. Mercer, and Theodore W. Vosk on behalf of Washington Foundation for Criminal Justice, amicus curiae.",
+      "Jennifer P. Joseph on behalf of Washington Association of Prosecuting Attorneys, amicus curiae."
+    ],
+    "corrections": "",
+    "head_matter": "[No. 89666-6.\nEn Banc.]\nArgued May 29, 2014.\nDecided December 18, 2014.\nThe State of Washington, Petitioner, v. Ryan Richard Quaale, Respondent.\nSteven J. Tucker, Prosecuting Attorney, and Andrew J. Metis III and Mark E. Lindsey, Deputies, for petitioner.\nEric J. Nielsen and Dana M. Nelson (of Nielsen Broman & Koch PLLC); and Jennifer L. Dobson, for respondent.\nRyan B. Robertson, Briteney A. Mercer, and Theodore W. Vosk on behalf of Washington Foundation for Criminal Justice, amicus curiae.\nJennifer P. Joseph on behalf of Washington Association of Prosecuting Attorneys, amicus curiae."
+  },
+  "file_name": "0191-01",
+  "first_page_order": 227,
+  "last_page_order": 248
+}

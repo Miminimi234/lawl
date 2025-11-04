@@ -1,0 +1,59 @@
+{
+  "id": 12126434,
+  "name": "People v. Eugene Brown",
+  "name_abbreviation": "People v. Brown",
+  "decision_date": "2015-07-28",
+  "docket_number": "No. 151036; Court of Appeals No. 324575",
+  "first_page": "864",
+  "last_page": "864",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "498 Mich. 864"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Mich.",
+    "id": 8790,
+    "name": "Michigan Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 49,
+    "name_long": "Michigan",
+    "name": "Mich."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 31,
+    "char_count": 213,
+    "ocr_confidence": 0.747,
+    "sha256": "689ab9a331328dd8dfa41dbf64c37de560f9fe50f4c70e877ef78e6a65caa346",
+    "simhash": "1:68992a0f742c10f8",
+    "word_count": 39
+  },
+  "last_updated": "2023-07-14T17:53:29.610635+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "People v Eugene Brown,"
+    ],
+    "opinions": [
+      {
+        "text": "Pursuant to MCR 7.302(H)(1), in lieu of granting leave to appeal, we remand this case to the Court of Appeals for consideration as on leave granted.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "People v Eugene Brown,\nNo. 151036; Court of Appeals No. 324575."
+  },
+  "file_name": "0864-03",
+  "first_page_order": 810,
+  "last_page_order": 810
+}

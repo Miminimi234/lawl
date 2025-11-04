@@ -1,0 +1,62 @@
+{
+  "id": 2192029,
+  "name": "John M. Masterson, Appellant, v. Caleb E. Whitaker et al., Respondents",
+  "name_abbreviation": "Masterson v. Whitaker",
+  "decision_date": "1884-01-15",
+  "docket_number": "",
+  "first_page": "647",
+  "last_page": "647",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "94 N.Y. 647"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "N.Y.",
+    "id": 24653,
+    "name": "New York Court of Appeals"
+  },
+  "jurisdiction": {
+    "id": 1,
+    "name_long": "New York",
+    "name": "N.Y."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 35,
+    "char_count": 258,
+    "ocr_confidence": 0.556,
+    "sha256": "227ecd226710e7b671628b95a9a8ff6f4e0250da858e66cc4f6e339f000a1f54",
+    "simhash": "1:fabd5140dcc2a4ab",
+    "word_count": 39
+  },
+  "last_updated": "2023-07-14T18:55:18.857986+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "John M. Masterson, Appellant, v. Caleb E. Whitaker et al., Respondents."
+    ],
+    "opinions": [
+      {
+        "text": "Agree to affirm. No opinion.\nAll concur.\nJudgment affirmed.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Flamen B. Candler for appellant.",
+      "George V. N. Baldwin for respondents."
+    ],
+    "corrections": "",
+    "head_matter": "John M. Masterson, Appellant, v. Caleb E. Whitaker et al., Respondents.\n(Argued December 10, 1883 ;\ndecided January 15, 1884.)\nFlamen B. Candler for appellant.\nGeorge V. N. Baldwin for respondents."
+  },
+  "file_name": "0647-01",
+  "first_page_order": 671,
+  "last_page_order": 671
+}

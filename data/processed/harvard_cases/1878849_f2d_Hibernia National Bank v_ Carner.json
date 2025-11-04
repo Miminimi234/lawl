@@ -1,0 +1,821 @@
+{
+  "id": 1878849,
+  "name": "HIBERNIA NATIONAL BANK, Plaintiff-Appellee, v. John W. CARNER, Defendant-Appellant",
+  "name_abbreviation": "Hibernia National Bank v. Carner",
+  "decision_date": "1993-08-05",
+  "docket_number": "No. 92-3734",
+  "first_page": "94",
+  "last_page": "105",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "997 F.2d 94"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "5th Cir.",
+    "id": 8820,
+    "name": "United States Court of Appeals for the Fifth Circuit"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "758 F.Supp. 382",
+      "category": "reporters:federal",
+      "reporter": "F. Supp.",
+      "case_ids": [
+        7386114
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/f-supp/758/0382-01"
+      ]
+    },
+    {
+      "cite": "623 F.2d 371",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1277685
+      ],
+      "pin_cites": [
+        {
+          "page": "373"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/623/0371-01"
+      ]
+    },
+    {
+      "cite": "841 F.2d 635",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        11298441
+      ],
+      "pin_cites": [
+        {
+          "page": "639-40"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/841/0635-01"
+      ]
+    },
+    {
+      "cite": "793 F.2d 1031",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1587219,
+        6124759
+      ],
+      "pin_cites": [
+        {
+          "page": "1033"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/793/1031-01",
+        "/br/61/1031-01"
+      ]
+    },
+    {
+      "cite": "544 So.2d 25",
+      "category": "reporters:state_regional",
+      "reporter": "So. 2d",
+      "case_ids": [
+        7543540
+      ],
+      "pin_cites": [
+        {
+          "page": "26"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/so2d/544/0025-01"
+      ]
+    },
+    {
+      "cite": "1993 WL 177208",
+      "category": "reporters:specialty_west",
+      "reporter": "WL",
+      "pin_cites": [
+        {
+          "page": "*1"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "30 L.Ed.2d 739",
+      "category": "reporters:federal",
+      "reporter": "L. Ed. 2d",
+      "year": 1972,
+      "opinion_index": 0
+    },
+    {
+      "cite": "92 S.Ct. 715",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "year": 1972,
+      "opinion_index": 0
+    },
+    {
+      "cite": "404 U.S. 1048",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6473674,
+        6473772,
+        6473495,
+        6473968,
+        6474065,
+        6474261,
+        6473878,
+        6474166,
+        6473563
+      ],
+      "year": 1972,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/404/1048-03",
+        "/us/404/1048-04",
+        "/us/404/1048-01",
+        "/us/404/1048-06",
+        "/us/404/1048-07",
+        "/us/404/1048-09",
+        "/us/404/1048-05",
+        "/us/404/1048-08",
+        "/us/404/1048-02"
+      ]
+    },
+    {
+      "cite": "449 F.2d 1289",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        799245,
+        799285
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/449/1289-01",
+        "/f2d/449/1289-02"
+      ]
+    },
+    {
+      "cite": "329 F.Supp. 981",
+      "category": "reporters:federal",
+      "reporter": "F. Supp.",
+      "case_ids": [
+        5597581
+      ],
+      "pin_cites": [
+        {
+          "page": "984"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f-supp/329/0981-01"
+      ]
+    },
+    {
+      "cite": "499 So.2d 1113",
+      "category": "reporters:state_regional",
+      "reporter": "So. 2d",
+      "case_ids": [
+        7586948
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "1115"
+        },
+        {
+          "page": "1115"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/so2d/499/1113-01"
+      ]
+    },
+    {
+      "cite": "42 La.L.Rev. 1429",
+      "category": "journals:journal",
+      "reporter": "La. L. Rev.",
+      "year": 1982,
+      "pin_cites": [
+        {
+          "page": "1443",
+          "parenthetical": "interpreting \"virile share\" under French and Louisiana law, considering the policy implica- * tions surrounding interpretations of this term, and presenting policy arguments in favor of adopting earner's interpretation"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "166 So. 676",
+      "category": "reporters:state_regional",
+      "reporter": "So.",
+      "case_ids": [
+        10054310
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/so/166/0676-01"
+      ]
+    },
+    {
+      "cite": "166 So. 160",
+      "category": "reporters:state_regional",
+      "reporter": "So.",
+      "case_ids": [
+        10027205
+      ],
+      "pin_cites": [
+        {
+          "page": "167"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/so/166/0160-01"
+      ]
+    },
+    {
+      "cite": "16 So.2d 552",
+      "category": "reporters:state_regional",
+      "reporter": "So. 2d",
+      "case_ids": [
+        10064920
+      ],
+      "pin_cites": [
+        {
+          "page": "554-55"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/so2d/16/0552-01"
+      ]
+    },
+    {
+      "cite": "247 La. 417",
+      "category": "reporters:state",
+      "reporter": "La.",
+      "case_ids": [
+        9861397
+      ],
+      "year": 1965,
+      "opinion_index": 0,
+      "case_paths": [
+        "/so2d/171/0668-04"
+      ]
+    },
+    {
+      "cite": "171 So.2d 668",
+      "category": "reporters:state_regional",
+      "reporter": "So. 2d",
+      "case_ids": [
+        8502754,
+        8502658,
+        9861254,
+        8502731,
+        9861004,
+        9860894,
+        9861397,
+        8502709,
+        8502682,
+        9861502
+      ],
+      "year": 1965,
+      "opinion_index": 0,
+      "case_paths": [
+        "/la/247/0418-02",
+        "/la/247/0416-01",
+        "/so2d/171/0668-03",
+        "/la/247/0418-01",
+        "/so2d/171/0668-02",
+        "/so2d/171/0668-01",
+        "/so2d/171/0668-04",
+        "/la/247/0416-03",
+        "/la/247/0416-02",
+        "/so2d/171/0668-05"
+      ]
+    },
+    {
+      "cite": "170 So.2d 226",
+      "category": "reporters:state_regional",
+      "reporter": "So. 2d",
+      "case_ids": [
+        9835077
+      ],
+      "pin_cites": [
+        {
+          "page": "232"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/so2d/170/0226-01"
+      ]
+    },
+    {
+      "cite": "235 So.2d 200",
+      "category": "reporters:state_regional",
+      "reporter": "So. 2d",
+      "case_ids": [
+        9713609
+      ],
+      "pin_cites": [
+        {
+          "page": "206"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/so2d/235/0200-01"
+      ]
+    },
+    {
+      "cite": "275 So.2d 872",
+      "category": "reporters:state_regional",
+      "reporter": "So. 2d",
+      "case_ids": [
+        9816282
+      ],
+      "pin_cites": [
+        {
+          "page": "874"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/so2d/275/0872-01"
+      ]
+    },
+    {
+      "cite": "291 So.2d 425",
+      "category": "reporters:state_regional",
+      "reporter": "So. 2d",
+      "case_ids": [
+        9767170
+      ],
+      "pin_cites": [
+        {
+          "page": "428-29"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/so2d/291/0425-01"
+      ]
+    },
+    {
+      "cite": "328 So.2d 802",
+      "category": "reporters:state_regional",
+      "reporter": "So. 2d",
+      "case_ids": [
+        9665437
+      ],
+      "pin_cites": [
+        {
+          "page": "804"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/so2d/328/0802-01"
+      ]
+    },
+    {
+      "cite": "420 So.2d 691",
+      "category": "reporters:state_regional",
+      "reporter": "So. 2d",
+      "case_ids": [
+        9555303
+      ],
+      "pin_cites": [
+        {
+          "page": "695"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/so2d/420/0691-01"
+      ]
+    },
+    {
+      "cite": "430 So.2d 339",
+      "category": "reporters:state_regional",
+      "reporter": "So. 2d",
+      "case_ids": [
+        9524539
+      ],
+      "pin_cites": [
+        {
+          "page": "341"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/so2d/430/0339-01"
+      ]
+    },
+    {
+      "cite": "560 So.2d 103",
+      "category": "reporters:state_regional",
+      "reporter": "So. 2d",
+      "case_ids": [
+        7509240
+      ],
+      "pin_cites": [
+        {
+          "page": "106"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/so2d/560/0103-01"
+      ]
+    },
+    {
+      "cite": "11 U.S.C. \u00a7 506",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "pin_cites": [
+        {
+          "parenthetical": "\"Determination of secured status.\""
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "25 B.R. 506",
+      "category": "reporters:specialty",
+      "reporter": "B.R.",
+      "case_ids": [
+        6544844
+      ],
+      "pin_cites": [
+        {
+          "page": "509"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/br/25/0506-01"
+      ]
+    },
+    {
+      "cite": "720 F.2d 1391",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1904119
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/720/1391-01"
+      ]
+    },
+    {
+      "cite": "368 So.2d 1129",
+      "category": "reporters:state_regional",
+      "reporter": "So. 2d",
+      "case_ids": [
+        9632087
+      ],
+      "pin_cites": [
+        {
+          "page": "1132"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/so2d/368/1129-01"
+      ]
+    },
+    {
+      "cite": "534 So.2d 431",
+      "category": "reporters:state_regional",
+      "reporter": "So. 2d",
+      "case_ids": [
+        7544338,
+        7544355,
+        7544399
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/so2d/534/0431-01",
+        "/so2d/534/0431-02",
+        "/so2d/534/0431-03"
+      ]
+    },
+    {
+      "cite": "533 So.2d 161",
+      "category": "reporters:state_regional",
+      "reporter": "So. 2d",
+      "case_ids": [
+        7547272
+      ],
+      "pin_cites": [
+        {
+          "page": "162-63"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/so2d/533/0161-01"
+      ]
+    },
+    {
+      "cite": "876 F.2d 414",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        10532927
+      ],
+      "pin_cites": [
+        {
+          "page": "426"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/876/0414-01"
+      ]
+    },
+    {
+      "cite": "754 F.2d 1212",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        287664
+      ],
+      "pin_cites": [
+        {
+          "page": "1216"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/754/1212-01"
+      ]
+    },
+    {
+      "cite": "949 F.2d 790",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        11940403
+      ],
+      "pin_cites": [
+        {
+          "page": "798"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/949/0790-01"
+      ]
+    },
+    {
+      "cite": "812 F.2d 219",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1694811
+      ],
+      "pin_cites": [
+        {
+          "page": "222"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/812/0219-01"
+      ]
+    },
+    {
+      "cite": "121 L.Ed.2d 46",
+      "category": "reporters:federal",
+      "reporter": "L. Ed. 2d",
+      "year": 1992,
+      "opinion_index": 0
+    },
+    {
+      "cite": "113 S.Ct. 82",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "year": 1992,
+      "opinion_index": 0
+    },
+    {
+      "cite": "954 F.2d 1125",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        10519776
+      ],
+      "pin_cites": [
+        {
+          "page": "1131"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/954/1125-01"
+      ]
+    },
+    {
+      "cite": "477 U.S. 317",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6207800
+      ],
+      "weight": 3,
+      "year": 1986,
+      "pin_cites": [
+        {
+          "page": "322"
+        },
+        {
+          "page": "2552"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/477/0317-01"
+      ]
+    },
+    {
+      "cite": "969 F.2d 146",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        10513958
+      ],
+      "pin_cites": [
+        {
+          "page": "147-48"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/969/0146-01"
+      ]
+    },
+    {
+      "cite": "477 U.S. 242",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6206897
+      ],
+      "weight": 6,
+      "year": 1986,
+      "pin_cites": [
+        {
+          "page": "250"
+        },
+        {
+          "page": "2511"
+        },
+        {
+          "page": "247-48"
+        },
+        {
+          "page": "2510"
+        },
+        {
+          "page": "249-50"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/477/0242-01"
+      ]
+    },
+    {
+      "cite": "784 F.2d 577",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1548164
+      ],
+      "pin_cites": [
+        {
+          "page": "578"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/784/0577-01"
+      ]
+    },
+    {
+      "cite": "875 F.2d 468",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        10530550
+      ],
+      "pin_cites": [
+        {
+          "page": "474"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/875/0468-01"
+      ]
+    },
+    {
+      "cite": "440 U.S. 147",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6180409
+      ],
+      "weight": 3,
+      "year": 1979,
+      "pin_cites": [
+        {
+          "page": "153"
+        },
+        {
+          "page": "973",
+          "parenthetical": "\"Under collateral estoppel, once an issue is actually and necessarily' determined by a court of competent jurisdiction, that determination is conclusive in subsequent suits based on a different cause of action involving a party to the prior litigation.\""
+        },
+        {
+          "parenthetical": "\"Under collateral estoppel, once an issue is actually and necessarily' determined by a court of competent jurisdiction, that determination is conclusive in subsequent suits based on a different cause of action involving a party to the prior litigation.\""
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/us/440/0147-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 1526,
+    "char_count": 41585,
+    "ocr_confidence": 0.72,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.06899417688058261
+    },
+    "sha256": "1468d67cd9cc2819e40084fd229debe0dc342c983421048f8fc79d976f4afc4e",
+    "simhash": "1:393ecbb02a1d1f8b",
+    "word_count": 6582
+  },
+  "last_updated": "2024-02-27T17:31:44.102237+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before KING, HIGGINBOTHAM and DeMOSS, Circuit Judges.",
+      "Before KING, HIGGINBOTHAM and DeMOSS, Circuit Judges."
+    ],
+    "parties": [
+      "HIBERNIA NATIONAL BANK, Plaintiff-Appellee, v. John W. CARNER, Defendant-Appellant."
+    ],
+    "opinions": [
+      {
+        "text": "KING, Circuit Judge:\nWe are asked to consider whether the Louisiana legislature, in 1981, changed the time-honored definition of \u201cvirile share\u201d in the context of a general partner\u2019s liability for his or her partnership\u2019s debt. We are also asked to consider whether a judgment obtained by a creditor against a Louisiana general partnership is res judicata in a suit in federal district court for the amount of any deficiency owed by a general partner. Finding that the Louisiana legislature has not departed from the established definition of \u201cvirile share\u201d and that a judgment obtained against the partnership is res judicata on the amount of a deficiency owed by a general partner, we affirm in part, reverse in part, and remand.\nI. BACKGROUND\nIn September 1985, John W. Carner, a citizen of California, joined several Louisiana citizens and a Louisiana corporation to form Jefferson Hills Partnership (JHP), a Louisiana partnership. The Articles of Partnership, as amended, set forth the partners\u2019 ownership interests and the respective percentages for the sharing of profits and losses. Under the articles, Carner holds a five-percent interest in JHP, which constitutes the smallest partnership share.\nThe purpose of JHP was to purchase the Jefferson Hills Apartment complex (Jefferson Hills), which is located in Baton Rouge, Louisiana, and to convert this complex into a retirement condominium community. JHP\u2019s acquisition of Jefferson Hills was accomplished through \u201cSale(s) with Assumption of Mortgage(s),\u201d under which the partnership assumed all indebtedness represented by thirty promissory notes executed to construct the complex\u2019s thirty separate, four-unit apartment buildings. These notes were held by Fidelity National Bank. Fidelity later merged with Hibernia National Bank of New Orleans, which then merged with other banks to become Hibernia National Bank.\nIn March 1987, JHP defaulted on the promissory notes and Hibernia instituted a foreclosure action in Louisiana state court. As a result of this default, JHP filed for protection under Chapter 11 of the Bankruptcy Code, and the state court foreclosure action was removed to federal court and given an adversary proceeding number. JHP also filed a counterclaim in the bankruptcy court, alleging that Hibernia breached an agreement with JHP to release the JHP properties on a per-unit basis and that Hibernia wrongfully induced JHP into assuming troubled loans. Hibernia sought a judgment for the full amount due under the terms of the notes\u2014including attorney\u2019s fees, costs, and interest\u2014in its adversary proceeding against JHP and in its motion for summary judgment; nevertheless, Hibernia obtained a summary judgment against JHP from the bankruptcy court in December 1988 for an amount that approximates the principal ($4,156,895.76) and pre-petition interest ($809,169.14) due under the terms of the notes at the time JHP filed its bankruptcy petition. Hibernia\u2019s motion for summary judgment was not opposed (nor was the judgment appealed) because JHP and a number of individual partners had reached partial settlement agreements with Hibernia. Hibernia then commenced a federal seizure proceeding through the United States Marshal\u2019s Office against JHP\u2019s mortgaged real estate and movable property. A United States Marshal\u2019s sale of JHP\u2019s assets was conducted, and the Jefferson Hills Apartments were sold to a third party for $2,125,-000; the property had been appraised earlier for $2,600,000. JHP\u2019s movable property, which was appraised at $20,410, was sold to a third party for $5,200. Accordingly, following the Marshal\u2019s sale and payments of the Marshal\u2019s costs and expenses, Hibernia was left with a deficiency of more than $2 million.\nHibernia then commenced proceedings against JHP\u2019s eight individual partners. Hibernia then entered into settlement agreements with all of the JHP partners but Car-ner and reached a partial settlement with JHP. This settlement with JHP was executed by Sam Gallo, JHP\u2019s managing partner, after notice was sent to all the partners, including Carner. In all of these settlement agreements, Hibernia reserved its rights against JHP and any non-settling partners. The final effect of the agreements was that, in exchange for a release from liability for the underlying notes, the partnership and settling partners (1) paid Hibernia a total of $296,920, (2) released the JHP counterclaim, and (3) by not opposing Hibernia\u2019s motion for summary judgment, allowed Hibernia to foreclose on the JHP property. After giving effect to these settlements, Hibernia still was left with a substantial deficiency on its judgment against JHP.\nIn March 1990, Hibernia brought this action against Carner\u2014at that time, the only remaining non-settling partner\u2014to collect his virile share of the amount that Hibernia considered to be the JHP deficiency. Hibernia then moved for summary judgment. The district court, finding that Carner is liable to Hibernia as a matter of law, granted that motion. However, the court reserved its decision on the amount of the judgment and set that matter for trial. Following a trial on the issue of damages, the court rendered judgment in favor of Hibernia for: one-eighth of the outstanding JHP deficiency as determined by the bankruptcy court\u2019s December 1988 judgment, or $437,414.58; additional interest as provided for in the thirty promissory notes; attorney\u2019s fees in the amount of one-eighth of $200,000, or $25,000; and legal interest as provided for by Louisiana law on the total sum of the principal and interest awarded from the date of judicial demand to the date the judgment is paid in full. Carner appeals from that judgment.\nII. STANDARD OF REVIEW\nIn reviewing a grant of summary judgment, we apply the same standard as the district court. Wattman v. International Paper Co., 875 F.2d 468, 474 (5th Cir.1989) (we review grants of summary judgment de novo). Specifically, we ask whether \u201cthe pleadings, depositions, answers to interrogatories, and admissions on file, together with the affidavits, if any, show that there is no genuine issue as to any material fact and that the moving party is entitled to a judgment as a matter of law.\u201d Fed.R.Civ.P. 56(c). In making this determination, we view all of the evidence and inferences drawn from that evidence in the light most favorable to the party opposing the motion for summary judgment. Reid v. State Farm Mutual Auto Ins. Co., 784 F.2d 577, 578 (5th Cir.1986).\nTo defeat a motion for summary judgment, Rule 56(e) of the Federal Rules of Civil Procedure requires the non-moving party to set forth specific facts sufficient to establish that there is a genuine issue for trial. See Anderson v. Liberty Lobby, Inc., 477 U.S. 242, 250, 106 S.Ct. 2505, 2511, 91 L.Ed.2d 202 (1986). While a mere allegation of the existence of a dispute over material facts is not sufficient to defeat a motion for summary judgment, if the evidence shows that a reasonable jury could return a verdict for the non-moving party, the dispute is genuine. Id. at 247-48, 106 S.Ct. at 2510. On the other hand, if a rational trier of fact, based upon the record as a whole, could not find for the non-moving party, there is no genuine issue for trial. Amoco Production Co. v. Horwell Energy, Inc., 969 F.2d 146, 147-48 (5th Cir.1992). Such a finding may be supported by the absence of evidence to establish an essential element of the nonmoving party\u2019s case. See Celotex Corp. v. Catrett, 477 U.S. 317, 322, 106 S.Ct. 2548, 2552, 91 L.Ed.2d 265 (1986); Topalian v. Ehrman, 954 F.2d 1125, 1131 (5th Cir.), cert. denied, \u2014 U.S. -, 113 S.Ct. 82, 121 L.Ed.2d 46 (1992); International Ass\u2019n of Machinists & Aerospace Workers, Lodge No. 2506 v. Intercontinental Mfg. Co., 812 F.2d 219, 222 (5th Cir.1987).\nFinally, where the non-moving party has presented evidence to support the essential elements of its claims but that \u201cevidence is merely colorable, or is not significantly probative, summary judgment may be granted.\u201d Anderson, 477 U.S. at 249-50, 106 S.Ct. at 2510-11 (citations omitted). And a summary assertion made in an affidavit is simply not enough evidence to raise a genuine issue of material fact. See Lechuga v. Southern Pacific Transp. Co., 949 F.2d 790, 798 (5th Cir.1992) (\u201cConclusory statements in an affidavit do not provide facts that will counter summary judgment evidence, and testimony based on conjecture alone is insufficient to raise an issue to defeat summary judgment.\u201d); Galindo v. Precision American Corp., 754 F.2d 1212, 1216 (5th Cir.1985) (\u201c[Ajffidavits setting forth \u2018ultimate or conclusory facts ...\u2019 are insufficient to either support or defeat a motion for summary judgment_\u201d) (citation omitted). Similarly, it is insufficient for the nonmovant to argue in the abstract that the legal theory involved in the case encompasses factual questions. See Pennington v. Vistron Corp., 876 F.2d 414, 426 (5th Cir.1989).\nIII. DISCUSSION\nAll that is in dispute in the case before us is the extent of earner\u2019s liability for JHP\u2019s obligation to Hibernia pursuant to the JHP notes. Carner raises the following issues on appeal: (a) whether the district court erred in (i) determining earner\u2019s share of liability and (ii) concluding that Carner has failed to present evidence of genuine issues of material fact regarding whether Hibernia agreed to limit his maximum liability to five percent; (b) whether the district court erred in (i) refusing to value the partnership\u2019s counterclaim against Hibernia and reduce the partnership\u2019s debt accordingly and (ii) determining that Hibernia is entitled to summary judgment on earner\u2019s claim that Hibernia participated in a breach of fiduciary duty by agreeing to the dismissal of JHP\u2019s counterclaim; (c) whether the district court erred in awarding Hibernia attorney\u2019s fees, costs, and interest under the terms of the notes beyond that awarded by the bankruptcy court; and (d) whether the district court erred in awarding post-petition interest and interest under Louisiana law from the date of judicial demand.\nA. Carrier\u2019s Share of JHP\u2019s Liability\nCarner challenges the district court\u2019s determination that, as one of eight JHP partners, he is liable for one-eighth (12.5 percent) of JHP\u2019s deficiency. According to Carner, his liability is limited to five percent \u2014 the amount of his interest in JHP.\nThe parties agree that earner\u2019s share of JHP liability is controlled by La.Civ.Code Ann. art. 2817 (West Supp.1993), which is part of the revision of Louisiana\u2019s partnership law which became effective January 1, 1981. Prior to the enactment of article 2817, partnership liability was controlled by article 2873, which provided that each partner was liable for an equal share of the partnership debt. La.Civ.Code Ann. art. 2873 (repealed 1981) (stating that each partner is \u201cbound for his share of the partnership debt, calculating such share in proportion to the number of partners, without any attention to the proportion of the stock or profits each is entitled to.\u201d). Under article 2817, \u201c[a] partnership as principal obligor is primarily liable for its debts. A partner is bound for his virile share of the debts of the partnership but may plead discussion of the assets of the partnership.\u201d La.Civ.Code Ann. art. 2817 (West Supp.1993).\nThe dispute between the parties regarding earner\u2019s share of JHP\u2019s deficiency is limited to what constitutes a \u201cvirile share\u201d under article 2817. The use of the term virile share to describe per head liability among the partners of a general partnership is well-established within Louisiana partner ship jurisprudence. Moreover, although the Louisiana legislature was virtually silent as to its intended definition of virile share when enacting article 2817, the legislature\u2019s comments accompanying article 2817 suggest that its intention was to continue with the \u2022 established definition. Specifically, the comments provide that, under prior law, \u201c[a] partner of an ordinary partnership had virile share liability.... Under the new law, ... for all partnerships, each partner is liable ' only for his virile share.\u201d La.Civ.Code Ann. art. 2817 (West Supp.1993) (emphasis added). Moreover, the reporters\u2019 introduction to the 1980 partnership revision, Prec.La.Civ.Code Ann. art. 2801 (West Supp.1993), addresses the revisions in partnership, including the liability of partners, as follows:\nUnder prior law the partners of a commercial partnership were solidarily liable, but partners of an ordinary partnership were jointly liable, counting by heads. The new revision provides for joint liability in all cases, so that solidary liability does not exist in the absence of an express stipulation.\nBook III of the Different Modes of Acquiring The Ownership of Things at p. 3, in La.Civ. Code Ann. art. 1789 (West 1993).\nNevertheless, Carner asserts that what constitutes a virile share changed with the enactment of article 2817 from a per-head share to actual partnership interest. To support his definition of virile share, Carner relies upon French commentators, a dictionary dating back to the nineteenth century, and a law review Note. Specifically, Carner asserts that, although there is a presumption that the virile share is equal among those liable, this presumption does not apply (1) where \u201cthe act\u201d expressly indicates a division on another basis, and (2) where it has been demonstrated that the interests of the partners are unequal. According to Carner, \u201c[i]n the instant case, the partnership agreement set forth that Carner was liable for five percent of the Partnership\u2019s losses and ... Hibernia knew, acknowledged, and agreed to this maximum limit of earner\u2019s virile share liability.\u201d Carner also relies upon Burks v. Lombard, 533 So.2d 161, 162-63 (La.App. 4th Cir.1988) (\u201cUnder the civil law, persons are generally charged with knowledge of what is in the public records.\u201d), writ denied, 534 So.2d 431 (La.1988), asserting that JHP\u2019s articles indicating earner\u2019s five-percent partnership share were a matter of public record. Finally, Carner surveys the use of the term virile share in other articles of the Louisiana Code.\nIn sum, although (1) it is established under relevant Louisiana jurisprudence that virile share means per-head liability, (2) the semblances of intent provided in the legislature\u2019s comments and the introduction to the partnership revision suggest an acceptance of this established definition, and (3) the Louisiana legislature expressed no intention to change the established definition of virile share when enacting article 2817, Carner asserts that the Louisiana legislature has abandoned its per-head definition of virile share. The change in definition asserted by Carner would substantially change the liability of the individual partners of Louisiana\u2019s general partnerships. Although the Louisiana legislature is certainly free to abandon its established definition of virile share, we conclude that such a break from what is established cannot arise from silence.\nCarner also asserts that he has raised genuine issues of material fact as to whether Hibernia agreed to limit his liability to a maximum of five percent. Specifically, as stated by Carner,\nThe record is clear that Hibernia had full knowledge that Carner only had a five percent interest in the Partnership. Having such knowledge, Hibernia cannot deny that there may have been an express or tacit understanding to limit the partner\u2019s liability to his stipulated percentage. Hibernia cannot argue that Carner is liable for 12.5 percent of the Partnership debt when it was well aware of earner\u2019s five percent interest in the Partnership.\nCarner relies primarily upon Hibernia\u2019s initial complaint and a demand letter Hibernia sent to Carner which states that Carner is liable for five percent of JHP\u2019s deficiency. According to Hibernia, \u201cthe letter amounts to an offer to settle the claim which Carner rejected. Under.the law, the offer is not admissible in evidence. Fed. R.Evid. 408 (West 1992).\u201d Moreover, Hibernia amended its original complaint before Carner filed an answer, and, pursuant to Rule 15 of the Federal Rules of Civil Procedure, this amendment relates back to the original pleading. See Fed.R.Civ.P. 15 (West 1992). To the extent that Hibernia did make a \u201cjudicial confession,\u201d that confession was amended away. See Revision Comment (d), La.Civ.Code Ann. art. 1853 (West 1991); Guidry v. Barras, 368 So.2d 1129, 1132 (La.App.3d Cir.1979); see also White v. Arco/Polymers, Inc., 720 F.2d 1391, 1396 n. 5 (5th Cir.1983); In re Fordson Engineering Corp., 25 B.R. 506, 509 (Bankr.E.D.Mich.1982).\nCarner also contends that a genuine issue of material fact has been raised regarding this issue by the testimony of Wolfe Decker, the Hibernia officer in charge of the JHP loan. Decker testified that it was Hibernia\u2019s understanding that earner\u2019s liability was limited to his percentage of interest in JHP. In response, Hibernia asserts that, \u201ceven if the material is relevant, the material is not competent to establish the legal liability of the individual partners_ No contract of guaranty or security document limits earner\u2019s liability.\u201d\nIn sum, Carner relies upon (1) a loan officer\u2019s testimony as to what he believed and (2) a subsequently corrected statement as to liability in Hibernia\u2019s initial complaint to establish that Hibernia agreed to limit his liability to a maximum of five percent; This evidence, taken as true, simply suggests that there was some confusion on the part of some individuals employed by Hibernia as to what constitutes a virile share under Louisiana law. Accordingly, we conclude that Car-ner has failed to raise a genuine issue of material fact as to whether Hibernia entered into an express agreement to limit earner\u2019s liability to his interest in JHP. See generally supra Part II.\nB. JHP\u2019s Counterclaim\nCarner asserts that a counterclaim brought by JHP against Hibernia in the underlying adversary proceeding should be valued and that the deficiency judgment against him should be reduced by his virile share of that amount. This counterclaim was for an alleged breach of contract and lender liability, and it was based upon an assertion that Hibernia agreed to release each of the thirty mortgages (approximately $140,000 per four-plex) assumed by JHP when just one of the four units was sold. During the course of the settlement agreements between JHP, individual partners, and Hibernia, the counterclaim was dismissed. According to Carner, (1) JHP\u2019s counterclaim against Hibernia should be valued and credited against its debt to Hibernia for it was \u201ctransferred to Hibernia for absolutely no dollar credit towards the deficiency owed[,]\u201d and (2) the dismissal of JHP\u2019s counterclaim constitutes a breach of fiduciary duty, Hibernia participated in that breach of fiduciary duty, and, therefore, Carner is entitled to damages.\nThe proper vehicle for Carner to have had the JHP counterclaim recognized as an asset of the partnership, valued, and taken into account is article 5155 of the Louisiana Code of Civil Procedure. Article 5155, which enables a secondary obligor to plead discussion to restrain the enforcement of a mortgage against his or her property, provides;\nDiscussion may be pleaded by a surety or transferee in a revocatory action only in the dilatory exception.\nIn pleading discussion, the secondary obligor shall:\n(1) Point by a description sufficient to identify it, property in the state belonging tQ the primary obligor, or otherwise subject to discussion, which is not in litigation, is not exempt from seizure, is free of mortgages and privileges, and is worth more than the total amount of the judgment or mortgage; and\n(2) Deposit into the registry of the court, for the use of the creditor, an amount sufficient to defray the costs of executing the judgment or enforcing the mortgage against the property discussed.\nLa.Code Civ.Proc.Ann. art. 5155 (West Supp.1993). Carner has acknowledged that he has not properly pled discussion and, therefore, that he has not met the requirements of article 5155. Accordingly, earner\u2019s opportunity to obtain an adjustment to JHP\u2019s deficiency and his virile share of that deficiency for the value of JHP\u2019s dismissed counterclaim has now passed. \u2022\nIn his second effort to obtain value for JHP\u2019s dismissed counterclaim, Carner asserts that the counterclaim was dismissed as the result of a breach of fiduciary duty on the part of Sam Gallo, JHP\u2019s managing partner, and that Hibernia participated in this alleged breach of fiduciary duty. All that the record reveals to support earner\u2019s assertion is that Hibernia (1) actively sought to collect on JHP\u2019s notes, (2) participated in settlement negotiations with JHP and its partners, (3) and reached settlement agreements with JHP and all of its partners other than Car-ner. The record also establishes that Carner was invited to participate in settlement negotiations with Hibernia but chose not to. Accordingly, we conclude, as did the district court, that Carner has failed to present a genuine issue of material fact regarding this breach-of-fiduciary-duty assertion, and Car-ner is therefore entitled to summary judgment as a matter of law. Fed.R.Civ.P. 56(c); see generally supra Part II.\nC. The District Court\u2019s Award of Attorney\u2019s Fees, Costs, and Post-Petition Interest under the Notes\nThe bankruptcy court\u2019s December 13,1988 award in favor of Hibernia is for the outstanding principal and interest under the terms of the notes up to the date JHP filed its bankruptcy petition. That award did not include post-petition interest and attorney\u2019s fees as part of the debt owed by JHP to Hibernia. In addition to ordering Carner to pay Hibernia his virile share of JHP\u2019s deficiency as determined by the bankruptcy court\u2019s judgment, the district court ordered Carner to pay one-eighth of the attorney\u2019s' fees and costs incurred by Hibernia and one-eighth of the post-petition interest due under the terms of the notes. Carner now challenges the district court\u2019s award of attorney\u2019s' fees, costs, and post-petition interest. What is at issue before us is the effect of the bankruptcy court\u2019s December 1988 grant of summary judgment in favor of Hibernia. Specifically, Carner asserts that the judg-' ment constitutes a final adjudication of the amount of JHP\u2019s debt to Hibernia, while Hibernia asserts that the judgment simply constitutes a recognition of the allowed amount of Hibernia\u2019s claim against JHP, which in turn would be limited by the value of the security pursuant to 11 U.S.C. \u00a7 506 (\u201cDetermination of secured status.\u201d).\nHibernia was required under Louisiana law to exhaust its rights against JHP before proceeding against Carner. Hibernia complied with Louisiana law by asserting all of its claims against JHP and seeking a judgment for the entire amount owed by JHP under the terms of the notes. The bankruptcy court vehicle correctly chosen by Hibernia was an adversary proceeding to establish the amount of JHP\u2019s debt to Hibernia. Finally, the bankruptcy court\u2019s December 1988 order constitutes an award of summary judgment on Hibernia\u2019s motion for a judgment for the entire amount due and owning under the notes, even if the amount of the judgment is incorrect. The record provides evidence suggesting that the claims for post-petition interest and attorney\u2019s fees now in dispute were considered by the bankruptcy court, and Hibernia\u2019s counsel led the court to believe that they were mooted by JHP\u2019s lack of assets. Because Hibernia never appealed from nor sought clarification of the bankruptcy court\u2019s grant of summary judgment, we conclude that the district court erred in construing the bankruptcy court\u2019s judgment as a partial judgment on Hibernia\u2019s claims for the principal and pre-petition interest due at the time JHP filed its bankruptcy petition. In short, the district court\u2019s added award of attorney\u2019s fees, costs, and interest under the terms of the notes is precluded by the bankruptcy court\u2019s December 1988 judgment in favor of Hibernia.\nD. The District Court\u2019s Award of Both Post-Petition Contractual Interest and Interest From the Date of Judicial Demand\nThe final issue raised by Carner is a challenge to the district court\u2019s award of both post-petition interest under the terms of the notes and legal interest from the date of judicial demand (March 26, 1990). The parties agree that the district court\u2019s award of both forms of interest is duplicative and precluded by article 2000 of the Louisiana Civil Code and relevant jurisprudence. See, e.g., Ken\u2019s Construction Co., Inc. v. Liles, 560 So.2d 103, 106 (La.App. 3rd Cir.1990) (holding that an award of interest from the date of judicial demand on an amount due is duplicative of an award of interest on that amount from the date it became due). The duplication between these awards of interest has been eliminated by our determination that the district court\u2019s award of post-petition contractual interest is barred by the bankruptcy court\u2019s grant of summary judgment in favor of Hibernia. See supra Part III.C. Accordingly, we conclude that, when altering its award of interest on remand, the district court may award Hibernia interest from the date of judicial demand pursuant to article 2000.\nIV. CONCLUSION\nFor the foregoing reasons, we affirm the district court\u2019s determinations that Carner is liable for one-eighth (12.5 percent) of JHP\u2019s deficiency and that Carner failed to raise a genuine issue of material fact regarding JHP\u2019s counterclaim. However, because the bankruptcy court\u2019s grant of summary judgment constitutes a final adjudication of Hibernia\u2019s claims under the terms of the notes, we conclude that the bankruptcy court\u2019s judgment precludes the district court\u2019s award of attorney\u2019s fees, costs, and added interest under the terms of the notes. We also conclude that, when altering the amount of its judgment on remand, the district court may award Hibernia interest from the date of judicial demand in accordance with article 2000 of the Louisiana Civil Code. Aeeordingly, we AFFIRM in part, REVERSE in part,- and REMAND.\n. JHP also completed a loan agreement for a second mortgage to American Batik & Trust Company, which was taken over by Hancock Bank.\n. Hibernia sent Carner copies of the default letters for each of the underlying Jefferson Hills notes.\n. The definition of this term under Louisiana law is discussed infra at Part III.A.\n. See, e.g., Moore v. LeBlanc, 430 So.2d 339, 341 (La.App. 3d Cir.1983) (applying former law); American Fidelity Fire Ins. Co. v. Atkison, 420 So.2d 691, 695 (La.App. 2d Cir.1982) (applying former law); LaCoste v. C & C Contractors, 328 So.2d 802, 804 (La.App. 1st Cir.1976); Cortiza v. Rosenblat, 291 So.2d 425, 428-29 (La.App. 4th Cir.1974); Dupuy v. Parish Constructors, Inc., 275 So.2d 872, 874 (La.App. 4th Cir.1970); Edkins v. Edwards, 235 So.2d 200, 206 (La.App. 4th Cir.1970); Champagne v. Southern Farm Bureau Cas. Ins. Co., 170 So.2d 226, 232 (La.App. 4th Cir.1964), writ refused, 171 So.2d 668, 247 La. 417 (1965); Modern Appliance & Supply Co., Inc. v. B.F. Ibos & Sons, 16 So.2d 552, 554-55 (La.App.1944); R.P. Farnsworth & Co., Inc. v. Estrade, Cotton & Fricke, 166 So. 160, 167 (La.App.1936), reh'g denied, 166 So. 676.\n5. Under Louisiana law, each joint obligor-owes an equal share, which is calculated by dividing the amount owed by the number of obligors. See La.Cw.Code Ann. art. 1789 (West 1993).\n. 4 C. Aubry & C. Rau, Droit Civil Francais \u00a7 298b (6th ed. Barten 1959); 2 G. Baudry-Lacantinerie et L. Barde, Traite de Droit Civil, Des Obligations, \u00a7 1256a at 367 (3d ed. 1907); 2 M. Planiol, Civil Law Treatise, pt. 1, no. 767, at 413 (11th ed. La.St.C.Inst. trans. 1959).\n. Freund\u2019s Latin Dictionary (E. Andrews ed. 1879) (C. Lewis & C. Short rev. 1907).\n. Note, Louisiana's Mew Partnership Provisions: A Review of the Changes and Some Continuing Problem Areas, 42 La.L.Rev. 1429, 1443 (1982) (interpreting \"virile share\u201d under French and Louisiana law, considering the policy implica- * tions surrounding interpretations of this term, and presenting policy arguments in favor of adopting earner\u2019s interpretation).\n. The parties dispute the meaning of this term, which is a legal term under Louisiana law. According to Carner, the partnership agreement constitutes an act between the partners, while Hibernia asserts that:\nthe \"act\" referred to is not the \"act\u201d amongst the partners, but the recognition that any partner can contract with a creditor of the partnership such that the involved partners\u2019 actual contractual obligation to the particular creditor would be more or less than the art. 2817 virile share liability. No written \u201cact\u201d existed in this case and the District Court concluded that Carner failed to show under Louisiana law that Hibernia \"knew, acknowledged or agreed\u201d to the five (5%) percent limit Carner maintains is his liability.\n. For example, he relies upon article 2803, entitled \"Participation of Partners,\u201d which provides that:\nEach partner participates equally in profits, commercial benefits, and losses of the partnership, unless the partners have agreed otherwise. The same rule applies to the distribution of assets, but in the absence of contrary agreement, contributions to capital are restored to each partner according to the contribution made.\nThe 1980 revision comments accompanying article 2803 provide that:\nThe partners have complete freedom to contract regarding the manner and extent to which they are to participate in the profits, benefits, assets, and losses of the partnership. If the parties agree, the participation may be unequal, and it may differ among the four categories, namely, profits, benefits, assets, and losses. It is only when the parties have not agreed on fixed percentages that the parties are presumed to have intended equal participation.\nArticle 2803 simply enables partners to divide partnership assets and liabilities among themselves on a basis other than per head. Hibernia is, of course, not a participant in the JHP partnership agreement, and, therefore, article 2803 cannot be relied upon as authority for restricting Hibernia\u2019s ability to collect earner's full per head share.\nSimilarly, Carner relies upon article 1804, which states that:\nAmong solidary obligors, each is liable for his virile portion. If the obligation arises from a contract or quasi-contract, virile portions are equal in the absence of agreement or judgment to the contrary. If the obligation arises from an offense or quasi-offense, a virile portion is proportionate to the fault of the obligor.\nAgain, article 1804 deals with the liability of solidary obligors among themselves. Article 1804 does not address the measure of liability to third parties, such as Hibernia.\nFinally, Carner addresses article 2815, entitled \"Effect of Loss Stipulation on Third Persons!,]\" which states that \"[a] provision that a partner shall not participate in losses does not affect third persons.\u201d The revision comment accompanying article 2815 provides that \"[a] partner is liable toward third persons for his virile share of the debts of the partnership!,]\u201d and Carner asserts that, under this provision, \"if a partner's virile share of a partnership debt is five percent, then he is liable to a third person for that five percent, regardless of whether he has an agreement with another partner that holds him harmless.\" As is true with his interpretation of virile share for article 2817 purposes, Carner has not provided conclusive authority to support his definition of virile share.\n. The record contains no documentation of this alleged agreement.\n. We note that the alleged value of the JHP counterclaim is highly questionable. Specifically, the record establishes that (1) none of the JHP partners ever actively pursued this counterclaim before it was settled, (2) no value was ever placed upon this counterclaim when all of JHP's assets that were transferred as part of each partner\u2019s settlement were valued pursuant to La.Rev. Stat.Ann. 13:4108.01, et seq., and (3) Carner has provided no documentation of the alleged release agreement which was the basis of the JHP counterclaim.\n. To circumvent his failure to plead discussion pursuant to article 5155, Carner relies upon American Security Bank v. E-Z Pik, Inc., 499 So.2d 1113, 1115 (La.App. 3rd Cir.1986), for the proposition that the dismissed JHP counterclaim should be valued, and that the value given to the counterclaim should be applied to JHP\u2019s obligation to Hibernia. In American Security, the court held that, where a judgment rendered against a partnership and in favor of a bank failed to account for payments made two days prior to the issuance of that judgment, the bank could not then secure the judgment against a partner for its full amount. We conclude that earner\u2019s reliance on American Security is misplaced, for the holding in that case is premised upon the fact that the payments received on the eve of judgment and not reflected in the judgment had partially extinguished the partnership debt. Id. at 1115. As we have explained in the text above, earner\u2019s failure to plead discussion has extinguished his opportunity to realize such a reduction in JHP\u2019s debt.\n. Carner asserts that Gallo breached the duty recognized in article 2809 of the Louisiana Civil Code, which provides that:\n[a] partner owes a fiduciary duty to the partnership and to his partners. He may not conduct any activity for himself or on behalf of a third party that is contrary to his fiduciary duty or is prejudicial to the Partnership. If he does so, he must account to the Partnership and his partners for the resulting profits.\nLa.Civ Code Ann. art. 2809; La.Rev.Stat.Ann. 9:3801.\n.Carner is the only JHP partner who has not settled with Hibernia. According to Hibernia, the reason that Carner has been left to hold JHP\u2019s liability is that,\nuntil recently, Carner never negotiated with Hibernia; he has refused to provide Hibernia with financial information to analyze his financial ability to settle and has consistently taken the position that by being an out-of-state partner, he could ignore his liability.\nThe record establishes that Gallo even wrote Carner to tell him that it was important for him to contact the attorney acting as JHP\u2019s spokesperson if he wanted to \"buy [his] way out of this problem.\u201d\nMoreover, Carner was notified of the JHP meeting in which Gallo was authorized to enter a settlement agreement on behalf of JHP, but he chose not to attend. All of JHP\u2019s other partners did attend, and they unanimously passed a resolution authorizing Gallo to \"execute settlement documents and other pleadings on behalf of the partnership whereby the partnership itself will be released from any further liability to Hibernia National Bank in return for dismissing its coun-terclaim_\u201d\n. Section 506 is explained in Collier\u2019s on Bankruptcy as:\nthe basic Code provision governing the determination of the secured status of allowed claims. It covers the extent to which an allowed claim of a creditor secured by a lien on, or a right of setoff against, property in which the holder of an allowed claim may be allowed post petition interest thereon and fees, costs or charges arising in connection therewith, the costs and expenses from such property, and the circumstances under which such lien may pass through the bankruptcy estate or be avoided.\n3 Collier\u2019s on Bankruptcy \u00a7 506.01 (15th ed. 1992).\n. As explained in comment (a), article 2817 \"sets forth the rule that creditors must look to the partnership first for the debts of the partnership. The partners are only secondarily liable.\u201d La.Civ.Code Ann. art. 2817 (West Supp.1993). Moreover, comment (c) expressly provides that,\n[e]xcept where solidary liability may arise in other contexts, such as in delictual matters in which solidaty liability is imposed by operation of law, if a creditor of the partnership wants solidary liability, he is now required to obtain express agreement from the partners to the effect that they are solidarily liable for the debt.\nId. In fact, \u201d[t]he partners of an existing partnership may not be sued on a partnership obligation unless the partnership is joined as a defendant.\u201d La.Code Civ.P.Ann. art. 737 (1960 & Supp.1993); see Melancon v. Morrison-Knudsen International Co., 329 F.Supp. 981, 984 (W.D.La.) (\"[A] judgment cannot be obtained against a member of a partnership upon a partnership obligation, while the partnership exists, except by also obtaining a judgment against the partnership itself\u201d), aff'd, 449 F.2d 1289 (5th Cir.1971), cert. denied, 404 U.S. 1048, 92 S.Ct. 715, 30 L.Ed.2d 739 (1972); Travelers Ins. Co. v. St. Judge Hospital of Kenner, La., 1993 WL 177208, at *1 (E.D.La.1993) (\"Louisiana courts have interpreted these articles to require that a partnership creditor first exhaust his rights against the partnership before he proceeds against the individual partners.\u201d), citing Koppers Co. v. Mackie Roofing & Sheet Metal Works, 544 So.2d 25, 26 (La.App. 4th Cir.1989).\n. Specifically, at the bankruptcy court's November 30, 1988 hearing on Hibernia\u2019s motion for summary judgment, Hibernia\u2019s counsel stated before the court:\nYour honor, we've asked for judgment for the principal amounts on the notes plus the interest as stated in Mr. Decker\u2019s affidavit. We have not submitted any evidence regarding attorney\u2019s fees. The notes provided for reasonable attorney's fees and we would simply leave that to the court\u2019s discretion.\nThere is not enough value in the property to come close to the principal and interest. So, it's really a moot issue as to what award....\n. The essence of Hibernia\u2019s assertion is that, in granting its motion for summary judgment for the entire amount due under the terms of the notes, the bankruptcy court did not rule on its claims for attorney\u2019s fees, costs, and interest. We note that, pursuant to Bankruptcy Rule 9024, Rule 60(b) of the Federal Rules of Civil Procedure applies to cases governed by the Bankruptcy Code. Under Rule 60(b), a party may seek to amend a judgment for mistake or inadvertence by filing a motion for relief within one year from the date a judgment is entered. Hibernia never exercised this option.\n. \"The preclusive effect of the prior decision of the bankruptcy court is determined under federal res judicata standards.\u201d McClain v. Apodaca, 793 F.2d 1031, 1033 (9th Cir.1988). As stated by this court, \"[u]nder the federal law of res judicata, a prior judgment rendered by a court of competent jurisdiction bars a subsequent cause of action between the same parties as to not only all matters litigated in the first suit, but also all matters that could have been litigated regarding the same cause of action.\u201d Kurzweg v. Marple, 841 F.2d 635, 639-40 (5th Cir.1988); see Commercial Box & Lumber v. Uniroyal, Inc., 623 F.2d 371, 373 (5th Cir.1980).\n.Article 2000 provides;\nWhen the object of the performance is a sum of money, damages for delay in performance are measured by the interest on that sum from the time it is due, at the rate agreed by the parties, or in the absence of agreement, at the rate of legal interest as fixed by Article 2924. The obligee may recover these damages without having to prove any loss and whatever loss he may have suffered he can recover no more.\nLa.Civ.Code Ann. art. 2000 (emphasis added).",
+        "type": "majority",
+        "author": "KING, Circuit Judge:"
+      },
+      {
+        "text": "ON PETITION FOR REHEARING\nSept. 15, 1993.\nBefore KING, HIGGINBOTHAM and DeMOSS, Circuit Judges.\nPER CURIAM:\nWe deny the petition for rehearing filed by Hibernia National Bank, as well as the petition for rehearing filed by John Carner. Nonetheless, we wish to clarify our holding that Hibernia is precluded from relitigating its entitlement to post-petition interest, attorney\u2019s fees, and costs.\nIn our original decision, we concluded that Hibernia could not relitigate these issues under principles of res judicata. Our discussion of the question, however, reveals that we were using \u201cres judicata\u201d in the general sense \u2014 i.e., to refer to issue preclusion as well as claim preclusion. See IB Mooee\u2019s Federal PRACTICE \u00b6.405[1] (2d ed. 1993).' We specifically noted (1) that in the 1988 adversary proceeding in bankruptcy court, Hibernia sought a judgment for the fall amount due under the terms of the notes\u2014 including attorney\u2019s fees, costs, and interest, (2) that Hibernia\u2019s claims for post-petition interest and attorney\u2019s fees were considered by the bankruptcy court, and (3) that the bankruptcy court declined to award attorney\u2019s fees, costs, and post-petition interest.\nWe now make clear that Hibernia is precluded from relitigating these issues under principles of issue preclusion, or collateral estoppel. See Montana v. United States, 440 U.S. 147, 153, 99 S.Ct. 970, 973, 59 L.Ed.2d 210 (1979) (\u201cUnder collateral estoppel, once an issue is actually and necessarily' determined by a court of competent jurisdiction, that determination is conclusive in subsequent suits based on a different cause of action involving a party to the prior litigation.\u201d). Moreover, to avoid any further confusion on the question, we delete footnote 20 from our prior opinion.",
+        "type": "rehearing",
+        "author": "PER CURIAM:"
+      }
+    ],
+    "attorneys": [
+      "Stewart F. Peck, Claude F. Bosworth, New Orleans, LA, for defendant-appellant.",
+      "Stephen F. Chiccarelli, Paul M. Hebert, Jr., Linda P. Clark, Breazeale, Sachse & Wilson, Baton Rouge, LA, for plaintiff-appel-lee."
+    ],
+    "corrections": "",
+    "head_matter": "HIBERNIA NATIONAL BANK, Plaintiff-Appellee, v. John W. CARNER, Defendant-Appellant.\nNo. 92-3734.\nUnited States Court of Appeals, Fifth Circuit.\nAug. 5, 1993.\nOrder Denying Rehearing and Clarifying Holding Sept. 15, 1993.\nSee also 758 F.Supp. 382.\nStewart F. Peck, Claude F. Bosworth, New Orleans, LA, for defendant-appellant.\nStephen F. Chiccarelli, Paul M. Hebert, Jr., Linda P. Clark, Breazeale, Sachse & Wilson, Baton Rouge, LA, for plaintiff-appel-lee.\nBefore KING, HIGGINBOTHAM and DeMOSS, Circuit Judges."
+  },
+  "file_name": "0094-01",
+  "first_page_order": 146,
+  "last_page_order": 157
+}

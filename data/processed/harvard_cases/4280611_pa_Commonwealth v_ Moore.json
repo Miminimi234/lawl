@@ -1,0 +1,63 @@
+{
+  "id": 4280611,
+  "name": "COMMONWEALTH of Pennsylvania, Respondent v. Thomas MOORE, Petitioner",
+  "name_abbreviation": "Commonwealth v. Moore",
+  "decision_date": "2013-11-20",
+  "docket_number": "No. 142 EM 2013",
+  "first_page": "169",
+  "last_page": "170",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "622 Pa. 169"
+    },
+    {
+      "type": "parallel",
+      "cite": "80 A.3d 376"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 47,
+    "char_count": 364,
+    "ocr_confidence": 0.703,
+    "sha256": "d252797c6c47220e0c3e25844d88ce794eba8adb07b34e3453a64ad7a30ca362",
+    "simhash": "1:ece382a683523d23",
+    "word_count": 56
+  },
+  "last_updated": "2023-07-14T18:30:24.877122+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "COMMONWEALTH of Pennsylvania, Respondent v. Thomas MOORE, Petitioner."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nPER CURIAM.\nAND NOW, this 20th day of November, 2013, the Petition for Writ of Mandamus and/or Extraordinary Relief and the\nApplication Seeking Leave to Submit Additional Information of Factual Record are DENIED.",
+        "type": "majority",
+        "author": "PER CURIAM."
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "80 A.3d 376\nCOMMONWEALTH of Pennsylvania, Respondent v. Thomas MOORE, Petitioner.\nNo. 142 EM 2013.\nSupreme Court of Pennsylvania.\nNov. 20, 2013."
+  },
+  "file_name": "0169-02",
+  "first_page_order": 213,
+  "last_page_order": 214
+}

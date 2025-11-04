@@ -1,0 +1,78 @@
+{
+  "id": 12452328,
+  "name": "State, Respondent, v. Johnson, Petitioner",
+  "name_abbreviation": "State v. Johnson",
+  "decision_date": "2017-03-08",
+  "docket_number": "No. 93861-0",
+  "first_page": "1022",
+  "last_page": "1022",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "187 Wash. 2d 1022"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Wash.",
+    "id": 9029,
+    "name": "Washington Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 38,
+    "name_long": "Washington",
+    "name": "Wash."
+  },
+  "cites_to": [
+    {
+      "cite": "196 Wn. App. 1039",
+      "category": "reporters:state",
+      "reporter": "Wash. App.",
+      "case_ids": [
+        12461755,
+        12461756,
+        12461757,
+        12461758
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-app/196/1039-01",
+        "/wash-app/196/1039-02",
+        "/wash-app/196/1039-03",
+        "/wash-app/196/1039-04"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 28,
+    "char_count": 190,
+    "ocr_confidence": 0.855,
+    "sha256": "d0c48e560199bd15d71be391355c88950687e5955a8621f1431935b403ab3ac0",
+    "simhash": "1:25b9665d19c587b9",
+    "word_count": 31
+  },
+  "last_updated": "2024-02-27T20:27:34.476040+00:00",
+  "provenance": {
+    "date_added": "2019-05-21",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "State, Respondent, v. Johnson, Petitioner,"
+    ],
+    "opinions": [
+      {
+        "text": "Petition for review of a decision of the Court of Appeals, No. 47876-5-II, October 25, 2016, 196 Wn. App. 1039. Denied March 8, 2017.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "State, Respondent, v. Johnson, Petitioner,\nNo. 93861-0."
+  },
+  "file_name": "1022-01",
+  "first_page_order": 990,
+  "last_page_order": 990
+}

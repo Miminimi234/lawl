@@ -1,0 +1,102 @@
+{
+  "id": 12123556,
+  "name": "AFT Michigan v. State of Michigan",
+  "name_abbreviation": "AFT Michigan v. State",
+  "decision_date": "2015-06-30",
+  "docket_number": "Nos. 145924, 145925, and 145926",
+  "first_page": "851",
+  "last_page": "851",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "498 Mich. 851"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Mich.",
+    "id": 8790,
+    "name": "Michigan Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 49,
+    "name_long": "Michigan",
+    "name": "Mich."
+  },
+  "cites_to": [
+    {
+      "cite": "297 Mich App 597",
+      "category": "reporters:state",
+      "reporter": "Mich. App.",
+      "case_ids": [
+        4084166
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/mich-app/297/0597-01"
+      ]
+    },
+    {
+      "cite": "2010 PA 75",
+      "category": "reporters:neutral",
+      "reporter": "PA",
+      "opinion_index": 0
+    },
+    {
+      "cite": "2012 PA 300",
+      "category": "reporters:neutral",
+      "reporter": "PA",
+      "weight": 2,
+      "opinion_index": 0
+    },
+    {
+      "cite": "497 Mich 197",
+      "category": "reporters:state",
+      "reporter": "Mich.",
+      "case_ids": [
+        4337983
+      ],
+      "year": 2015,
+      "opinion_index": 0,
+      "case_paths": [
+        "/mich/497/0197-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 111,
+    "char_count": 1232,
+    "ocr_confidence": 0.731,
+    "pagerank": {
+      "raw": 2.0702440954193395e-07,
+      "percentile": 0.7576553690968083
+    },
+    "sha256": "722ed07d3dd8ab4423872586181742510c03011211935243f60948e346882bf5",
+    "simhash": "1:2079ed8b23060e0b",
+    "word_count": 216
+  },
+  "last_updated": "2024-02-27T16:10:26.420323+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "AFT Michigan v State of Michigan,"
+    ],
+    "opinions": [
+      {
+        "text": "By order of May 21, 2014, the application for leave to appeal the August 16, 2012 judgment of the Court of Appeals and the application for leave to appeal as cross-appellants were held in abeyance pending the decision in AFT Michigan, et al v State of Michigan (Docket No. 148748). On order of the Court, the case having been decided on April 8, 2015, 497 Mich 197 (2015), the applications are again considered. Pursuant to MCR 7.302(H)(1), in lieu of granting leave to appeal, we vacate the judgment of the Court of Appeals and we remand these cases to the Court of Appeals for reconsideration in light of the enactment of 2012 PA 300 and this Court\u2019s decision in AFT Michigan, et al v State of Michigan. On remand, the Court of Appeals shall consider what issues presented in these cases have been superseded by the enactment of 2012 PA 300 and this Court\u2019s decision upholding that Act, and it shall only address any outstanding issues the parties may raise regarding 2010 PA 75 that were not superseded or otherwise rendered moot by that enactment and decision. We do not retain jurisdiction.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Summary Disposition June 30, 2015:\nAFT Michigan v State of Michigan,\nNos. 145924, 145925, and 145926;\nreported below: 297 Mich App 597."
+  },
+  "file_name": "0851-01",
+  "first_page_order": 797,
+  "last_page_order": 797
+}

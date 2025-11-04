@@ -1,0 +1,76 @@
+{
+  "id": 12142013,
+  "name": "Glaubius v. Glaubius",
+  "name_abbreviation": "Glaubius v. Glaubius",
+  "decision_date": "2015-10-16",
+  "docket_number": "No. 150206",
+  "first_page": "899",
+  "last_page": "899",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "498 Mich. 899"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Mich.",
+    "id": 8790,
+    "name": "Michigan Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 49,
+    "name_long": "Michigan",
+    "name": "Mich."
+  },
+  "cites_to": [
+    {
+      "cite": "306 Mich App 157",
+      "category": "reporters:state",
+      "reporter": "Mich. App.",
+      "case_ids": [
+        4334223
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mich-app/306/0157-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 17,
+    "char_count": 117,
+    "ocr_confidence": 0.817,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.24623636358722073
+    },
+    "sha256": "59ea8ab59249b924705f7130483f42d860bd5039504f19143f34999e36cc7ec3",
+    "simhash": "1:131ec45b38f86952",
+    "word_count": 18
+  },
+  "last_updated": "2024-02-27T16:10:26.420323+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Glaubius v Glaubius,"
+    ],
+    "opinions": [
+      {
+        "text": "reported below: 306 Mich App 157.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Appeal Dismissed on Stipulation October 16, 2015:\nGlaubius v Glaubius,\nNo. 150206;"
+  },
+  "file_name": "0899-01",
+  "first_page_order": 845,
+  "last_page_order": 845
+}

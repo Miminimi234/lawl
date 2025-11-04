@@ -1,0 +1,601 @@
+{
+  "id": 12519730,
+  "name": "AMERIGEN PHARMACEUTICALS LIMITED, Appellant v. UCB PHARMA GMBH, Appellee",
+  "name_abbreviation": "Amerigen Pharm. Ltd. v. UCB Pharma GMBH",
+  "decision_date": "2019-01-11",
+  "docket_number": "2017-2596",
+  "first_page": "1076",
+  "last_page": "1089",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "913 F.3d 1076"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Fed. Cir.",
+    "id": 8955,
+    "name": "United States Court of Appeals for the Federal Circuit"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "125 Stat. 284",
+      "category": "laws:leg_session",
+      "reporter": "Stat.",
+      "year": 2011,
+      "opinion_index": 0
+    },
+    {
+      "cite": "117 Stat. 2066",
+      "category": "laws:leg_session",
+      "reporter": "Stat.",
+      "year": 2003,
+      "opinion_index": 0
+    },
+    {
+      "cite": "21 C.F.R. \u00a7 314.94",
+      "category": "laws:admin_compilation",
+      "reporter": "C.F.R.",
+      "pin_cites": [
+        {
+          "page": "(a)(12)(viii)(A)"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "2016 WL 1611377",
+      "category": "reporters:specialty_west",
+      "reporter": "WL",
+      "year": 2016,
+      "pin_cites": [
+        {
+          "page": "*6, *10"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "35 U.S.C. \u00a7 271",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "pin_cites": [
+        {
+          "page": "(e)(2)"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "549 U.S. 497",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        3553859
+      ],
+      "weight": 3,
+      "year": 2007,
+      "pin_cites": [
+        {
+          "page": "517-18"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/549/0497-01"
+      ]
+    },
+    {
+      "cite": "51 F.3d 1552",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        11367997
+      ],
+      "year": 1995,
+      "pin_cites": [
+        {
+          "page": "1558"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/51/1552-01"
+      ]
+    },
+    {
+      "cite": "492 F.3d 1350",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        3506371
+      ],
+      "year": 2007,
+      "pin_cites": [
+        {
+          "page": "1356",
+          "parenthetical": "emphasis added"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/492/1350-01"
+      ]
+    },
+    {
+      "cite": "35 U.S.C. \u00a7 316",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "weight": 15,
+      "pin_cites": [
+        {
+          "page": "(e)"
+        },
+        {
+          "page": "28",
+          "parenthetical": "\"Petitioner argues that 'a person of ordinary skill in the art would have appreciated that 5-HMT was [too hydrophilic] and needed to be modified in a way to improve bioavailability....' \" (alteration in original) "
+        },
+        {
+          "page": "29-30"
+        },
+        {
+          "page": "31"
+        },
+        {
+          "page": "31-32"
+        },
+        {
+          "page": "40"
+        },
+        {
+          "page": "39"
+        },
+        {
+          "page": "40"
+        },
+        {
+          "page": "42"
+        },
+        {
+          "page": "42"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "829 F.3d 1317",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        4339368
+      ],
+      "year": 2016,
+      "pin_cites": [
+        {
+          "page": "1327"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/829/1317-01"
+      ]
+    },
+    {
+      "cite": "383 U.S. 1",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6166987
+      ],
+      "weight": 3,
+      "year": 1966,
+      "pin_cites": [
+        {
+          "page": "17-18"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/383/0001-01"
+      ]
+    },
+    {
+      "cite": "35 U.S.C. \u00a7 103",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "year": 2006,
+      "opinion_index": 0
+    },
+    {
+      "cite": "305 U.S. 197",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6139848
+      ],
+      "weight": 3,
+      "year": 1938,
+      "pin_cites": [
+        {
+          "page": "229"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/305/0197-01"
+      ]
+    },
+    {
+      "cite": "203 F.3d 1305",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        11491052
+      ],
+      "year": 2000,
+      "pin_cites": [
+        {
+          "page": "1316"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/203/1305-01"
+      ]
+    },
+    {
+      "cite": "381 F.3d 1125",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        9202753
+      ],
+      "year": 2004,
+      "pin_cites": [
+        {
+          "page": "1127"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/381/1125-01"
+      ]
+    },
+    {
+      "cite": "678 F.3d 1357",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        3874438
+      ],
+      "year": 2012,
+      "pin_cites": [
+        {
+          "page": "1361"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/678/1357-01"
+      ]
+    },
+    {
+      "cite": "35 U.S.C. \u00a7 311",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "weight": 2,
+      "opinion_index": 0
+    },
+    {
+      "cite": "540 F.3d 1353",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        4234261
+      ],
+      "weight": 3,
+      "year": 2008,
+      "pin_cites": [
+        {
+          "page": "1358-60"
+        },
+        {
+          "page": "1361"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/540/1353-01"
+      ]
+    },
+    {
+      "cite": "781 F.3d 1356",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        4076481
+      ],
+      "weight": 5,
+      "year": 2015,
+      "pin_cites": [
+        {
+          "page": "1359-61"
+        },
+        {
+          "page": "1360"
+        },
+        {
+          "page": "1361-62"
+        },
+        {
+          "page": "1367-68"
+        },
+        {
+          "page": "1363"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/781/1356-01"
+      ]
+    },
+    {
+      "cite": "904 F.3d 996",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        12518724
+      ],
+      "weight": 2,
+      "year": 2018,
+      "pin_cites": [
+        {
+          "page": "1004"
+        },
+        {
+          "page": "1004"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/904/0996-01"
+      ]
+    },
+    {
+      "cite": "549 U.S. 118",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        3553591
+      ],
+      "weight": 7,
+      "year": 2007,
+      "pin_cites": [
+        {
+          "page": "127"
+        },
+        {
+          "page": "127"
+        },
+        {
+          "page": "127"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/549/0118-01"
+      ]
+    },
+    {
+      "cite": "21 C.F.R. \u00a7 314.53",
+      "category": "laws:admin_compilation",
+      "reporter": "C.F.R.",
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "(f)(2)(i)"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "21 U.S.C. \u00a7 355",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "weight": 5,
+      "pin_cites": [
+        {
+          "page": "(j)(5)(B)(ii)"
+        },
+        {
+          "page": "(j)(2)(A)(vii)(IV)"
+        },
+        {
+          "page": "(j)(5)(D)(i)(I)(bb)"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "804 F.3d 1193",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        4356753,
+        12309940
+      ],
+      "year": 2015,
+      "pin_cites": [
+        {
+          "page": "1197"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/804/1193-01",
+        "/us-app-dc/420/0037-01"
+      ]
+    },
+    {
+      "cite": "887 F.3d 1368",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        12516530
+      ],
+      "year": 2018,
+      "pin_cites": [
+        {
+          "page": "1372"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/887/1368-01"
+      ]
+    },
+    {
+      "cite": "422 U.S. 490",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        9528
+      ],
+      "weight": 3,
+      "year": 1975,
+      "pin_cites": [
+        {
+          "page": "501"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/422/0490-01"
+      ]
+    },
+    {
+      "cite": "845 F.3d 1168",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        12178432
+      ],
+      "year": 2017,
+      "pin_cites": [
+        {
+          "page": "1171"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/845/1168-01"
+      ]
+    },
+    {
+      "cite": "136 S.Ct. 1540",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        12596653
+      ],
+      "weight": 2,
+      "year": 2016,
+      "pin_cites": [
+        {
+          "page": "1547"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/s-ct/136/1540-01"
+      ]
+    },
+    {
+      "cite": "753 F.3d 1258",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        5918243
+      ],
+      "weight": 2,
+      "year": 2014,
+      "pin_cites": [
+        {
+          "page": "1261"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/753/1258-01"
+      ]
+    },
+    {
+      "cite": "504 U.S. 555",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11730070
+      ],
+      "weight": 3,
+      "year": 1992,
+      "pin_cites": [
+        {
+          "page": "560"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/504/0555-01"
+      ]
+    },
+    {
+      "cite": "28 U.S.C. \u00a7 1295",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "pin_cites": [
+        {
+          "page": "(a)(4)(A)"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "2017 WL 3085867",
+      "category": "reporters:specialty_west",
+      "reporter": "WL",
+      "weight": 2,
+      "year": 2017,
+      "pin_cites": [
+        {
+          "parenthetical": "\" Decision \""
+        }
+      ],
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 1488,
+    "char_count": 40180,
+    "pagerank": {
+      "raw": 5.3233794276779046e-08,
+      "percentile": 0.33552902119003847
+    },
+    "sha256": "7cb19194a1d0525c844e0e2987457b70a51231984298e4d615e3aa8749b46a4b",
+    "simhash": "1:c1aec1a0021612e6",
+    "word_count": 6325
+  },
+  "last_updated": "2024-02-27T18:46:17.308091+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "file_name": "1076-01",
+  "first_page_order": 1076,
+  "last_page_order": 1089
+}

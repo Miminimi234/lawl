@@ -1,0 +1,100 @@
+{
+  "id": 12519823,
+  "name": "Keilee FANT, Individually and on Behalf of All Others Similarly Situated; Roelif Carter; Allison Nelson ; Herbert Nelson, Jr.; Alfred Morris ; Anthony Kimble ; Donyale Thomas; Shameika Morris; Daniel Jenkins ; Ronnie Tucker ; Tonya DeBerry, Plaintiffs - Appellees, v. CITY OF FERGUSON, MISSOURI, Defendant - Appellant.",
+  "name_abbreviation": "Fant v. City of Ferguson",
+  "decision_date": "2019-01-10",
+  "docket_number": "No. 18-1472",
+  "first_page": "757",
+  "last_page": "759",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "913 F.3d 757"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "8th Cir.",
+    "id": 8821,
+    "name": "United States Court of Appeals for the Eighth Circuit"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "889 F.3d 483",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        12516833
+      ],
+      "weight": 2,
+      "year": 2018,
+      "pin_cites": [
+        {
+          "page": "485-86"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/889/0483-01"
+      ]
+    },
+    {
+      "cite": "506 U.S. 139",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11925055
+      ],
+      "weight": 5,
+      "year": 1993,
+      "pin_cites": [
+        {
+          "page": "141"
+        },
+        {
+          "page": "143-44, 146"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/506/0139-01"
+      ]
+    },
+    {
+      "cite": "28 U.S.C. \u00a7 1291",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "42 U.S.C. \u00a7 1983",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 303,
+    "char_count": 4200,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.2591647235031849
+    },
+    "sha256": "fa9a5f8c8d785940539a649597620a8ef84a03c5e90c92cc34a1fd437032c255",
+    "simhash": "1:bd5fe7b65eb3c43b",
+    "word_count": 669
+  },
+  "last_updated": "2024-02-27T18:46:17.308091+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "file_name": "0757-01",
+  "first_page_order": 757,
+  "last_page_order": 759
+}

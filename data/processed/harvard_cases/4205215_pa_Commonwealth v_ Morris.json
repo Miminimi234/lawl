@@ -1,0 +1,63 @@
+{
+  "id": 4205215,
+  "name": "COMMONWEALTH of Pennsylvania, Respondent v. David MORRIS, Petitioner",
+  "name_abbreviation": "Commonwealth v. Morris",
+  "decision_date": "2011-10-04",
+  "docket_number": "No. 47 EM 2011",
+  "first_page": "104",
+  "last_page": "104",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "612 Pa. 104"
+    },
+    {
+      "type": "parallel",
+      "cite": "29 A.3d 1157"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 41,
+    "char_count": 300,
+    "ocr_confidence": 0.713,
+    "sha256": "856fdfb1eee4259086afdb9ddb8b8c7672f87610cf865ab413f1f1b2639ed27d",
+    "simhash": "1:c6954230f0c838c9",
+    "word_count": 51
+  },
+  "last_updated": "2023-07-14T19:33:52.292960+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "COMMONWEALTH of Pennsylvania, Respondent v. David MORRIS, Petitioner."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nAND NOW, this 4th day of October, the Petition for Leave to File Petition for Allowance of Appeal Nunc Pro Tunc and the Motion for Remand are DENIED.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "29 A.3d 1157\nCOMMONWEALTH of Pennsylvania, Respondent v. David MORRIS, Petitioner.\nNo. 47 EM 2011.\nSupreme Court of Pennsylvania.\nOct. 4, 2011."
+  },
+  "file_name": "0104-01",
+  "first_page_order": 148,
+  "last_page_order": 148
+}

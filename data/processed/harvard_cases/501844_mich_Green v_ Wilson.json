@@ -1,0 +1,2012 @@
+{
+  "id": 501844,
+  "name": "GREEN v. WILSON",
+  "name_abbreviation": "Green v. Wilson",
+  "decision_date": "1997-07-22",
+  "docket_number": "Docket Nos. 104028, 104034, 104039",
+  "first_page": "342",
+  "last_page": "376",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "455 Mich. 342"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Mich.",
+    "id": 8790,
+    "name": "Michigan Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 49,
+    "name_long": "Michigan",
+    "name": "Mich."
+  },
+  "cites_to": [
+    {
+      "cite": "535 NW2d 233",
+      "category": "reporters:state_regional",
+      "reporter": "N.W.2d",
+      "year": 1995,
+      "opinion_index": -1
+    },
+    {
+      "cite": "211 Mich App 140",
+      "category": "reporters:state",
+      "reporter": "Mich. App.",
+      "case_ids": [
+        1874639
+      ],
+      "year": 1995,
+      "opinion_index": -1,
+      "case_paths": [
+        "/mich-app/211/0140-01"
+      ]
+    },
+    {
+      "cite": "494 NW2d 866",
+      "category": "reporters:state_regional",
+      "reporter": "N.W.2d",
+      "year": 1992,
+      "opinion_index": 0
+    },
+    {
+      "cite": "197 Mich App 356",
+      "category": "reporters:state",
+      "reporter": "Mich. App.",
+      "case_ids": [
+        1863956
+      ],
+      "year": 1992,
+      "opinion_index": 0,
+      "case_paths": [
+        "/mich-app/197/0356-01"
+      ]
+    },
+    {
+      "cite": "84 Ill B J 504",
+      "category": "journals:journal",
+      "reporter": "Ill. B.J.",
+      "year": 1996,
+      "opinion_index": 0
+    },
+    {
+      "cite": "567 F Supp 1308",
+      "category": "reporters:federal",
+      "reporter": "F. Supp.",
+      "case_ids": [
+        3577732
+      ],
+      "year": 1983,
+      "pin_cites": [
+        {
+          "page": "1311"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f-supp/567/1308-01"
+      ]
+    },
+    {
+      "cite": "601 F Supp 845",
+      "category": "reporters:federal",
+      "reporter": "F. Supp.",
+      "case_ids": [
+        3733575
+      ],
+      "year": 1985,
+      "pin_cites": [
+        {
+          "page": "847"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f-supp/601/0845-01"
+      ]
+    },
+    {
+      "cite": "643 F2d 1229",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1202765
+      ],
+      "year": 1981,
+      "pin_cites": [
+        {
+          "page": "1236"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/643/1229-01"
+      ]
+    },
+    {
+      "cite": "882 F Supp 642",
+      "category": "reporters:federal",
+      "reporter": "F. Supp.",
+      "case_ids": [
+        7844660
+      ],
+      "year": 1994,
+      "pin_cites": [
+        {
+          "page": "651"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f-supp/882/0642-01"
+      ]
+    },
+    {
+      "cite": "898 F2d 1148",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        10539484
+      ],
+      "year": 1990,
+      "pin_cites": [
+        {
+          "page": "1150"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/898/1148-01"
+      ]
+    },
+    {
+      "cite": "954 F2d 1174",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        10519795
+      ],
+      "year": 1992,
+      "pin_cites": [
+        {
+          "page": "1176"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/954/1174-01"
+      ]
+    },
+    {
+      "cite": "357 NW2d 882",
+      "category": "reporters:state_regional",
+      "reporter": "N.W.2d",
+      "year": 1984,
+      "pin_cites": [
+        {
+          "parenthetical": "\"[The long-arm statute] was intended to give Michigan courts the full extent of power possible to gain personal jurisdiction over nonresident defendants as is consistent with the principles of due process\""
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "137 Mich App 528",
+      "category": "reporters:state",
+      "reporter": "Mich. App.",
+      "case_ids": [
+        2241033
+      ],
+      "year": 1984,
+      "pin_cites": [
+        {
+          "page": "531",
+          "parenthetical": "\"[The long-arm statute] was intended to give Michigan courts the full extent of power possible to gain personal jurisdiction over nonresident defendants as is consistent with the principles of due process\""
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mich-app/137/0528-01"
+      ]
+    },
+    {
+      "cite": "436 NW2d 412",
+      "category": "reporters:state_regional",
+      "reporter": "N.W.2d",
+      "year": 1989,
+      "pin_cites": [
+        {
+          "parenthetical": "\"This statute has been construed as giving the courts the broadest grant of jurisdiction consistent with due process\""
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "174 Mich App 660",
+      "category": "reporters:state",
+      "reporter": "Mich. App.",
+      "case_ids": [
+        2318562
+      ],
+      "year": 1989,
+      "pin_cites": [
+        {
+          "page": "662-663",
+          "parenthetical": "\"This statute has been construed as giving the courts the broadest grant of jurisdiction consistent with due process\""
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mich-app/174/0660-01"
+      ]
+    },
+    {
+      "cite": "561 NW2d 412",
+      "category": "reporters:state_regional",
+      "reporter": "N.W.2d",
+      "year": 1997,
+      "pin_cites": [
+        {
+          "parenthetical": "\"[0]ur long-arm statute has been interpreted to grant the broadest basis for jurisdiction consistent with due process\""
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "221 Mich App 54",
+      "category": "reporters:state",
+      "reporter": "Mich. App.",
+      "case_ids": [
+        484929
+      ],
+      "year": 1997,
+      "pin_cites": [
+        {
+          "page": "73",
+          "parenthetical": "\"[0]ur long-arm statute has been interpreted to grant the broadest basis for jurisdiction consistent with due process\""
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mich-app/221/0054-01"
+      ]
+    },
+    {
+      "cite": "747 F Supp 1235",
+      "category": "reporters:federal",
+      "reporter": "F. Supp.",
+      "case_ids": [
+        7388852
+      ],
+      "year": 1990,
+      "pin_cites": [
+        {
+          "page": "1239"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f-supp/747/1235-01"
+      ]
+    },
+    {
+      "cite": "211 Mich App 141",
+      "category": "reporters:state",
+      "reporter": "Mich. App.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "471 NW2d 551",
+      "category": "reporters:state_regional",
+      "reporter": "N.W.2d",
+      "year": 1991,
+      "opinion_index": 0
+    },
+    {
+      "cite": "437 Mich 394",
+      "category": "reporters:state",
+      "reporter": "Mich.",
+      "case_ids": [
+        2019256
+      ],
+      "year": 1991,
+      "pin_cites": [
+        {
+          "page": "401-402"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mich/437/0394-01"
+      ]
+    },
+    {
+      "cite": "247 NW2d 889",
+      "category": "reporters:state_regional",
+      "reporter": "N.W.2d",
+      "year": 1976,
+      "opinion_index": 0
+    },
+    {
+      "cite": "399 Mich 103",
+      "category": "reporters:state",
+      "reporter": "Mich.",
+      "case_ids": [
+        1928824
+      ],
+      "year": 1976,
+      "opinion_index": 0,
+      "case_paths": [
+        "/mich/399/0103-01"
+      ]
+    },
+    {
+      "cite": "471 NW2d 546",
+      "category": "reporters:state_regional",
+      "reporter": "N.W.2d",
+      "year": 1991,
+      "opinion_index": 0
+    },
+    {
+      "cite": "437 Mich 406",
+      "category": "reporters:state",
+      "reporter": "Mich.",
+      "case_ids": [
+        2019253
+      ],
+      "year": 1991,
+      "pin_cites": [
+        {
+          "page": "409-411"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mich/437/0406-01"
+      ]
+    },
+    {
+      "cite": "324 NW2d 729",
+      "category": "reporters:state_regional",
+      "reporter": "N.W.2d",
+      "weight": 2,
+      "year": 1982,
+      "opinion_index": 0
+    },
+    {
+      "cite": "414 Mich 181",
+      "category": "reporters:state",
+      "reporter": "Mich.",
+      "case_ids": [
+        1978435
+      ],
+      "year": 1982,
+      "pin_cites": [
+        {
+          "page": "187"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mich/414/0181-01"
+      ]
+    },
+    {
+      "cite": "188 NW2d 623",
+      "category": "reporters:state_regional",
+      "reporter": "N.W.2d",
+      "year": 1971,
+      "pin_cites": [
+        {
+          "parenthetical": "emphasis added"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "385 Mich 195",
+      "category": "reporters:state",
+      "reporter": "Mich.",
+      "case_ids": [
+        1915937
+      ],
+      "year": 1971,
+      "pin_cites": [
+        {
+          "page": "198",
+          "parenthetical": "emphasis added"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mich/385/0195-01"
+      ]
+    },
+    {
+      "cite": "317 NW2d 597",
+      "category": "reporters:state_regional",
+      "reporter": "N.W.2d",
+      "weight": 2,
+      "year": 1982,
+      "opinion_index": 0
+    },
+    {
+      "cite": "113 Mich App 280",
+      "category": "reporters:state",
+      "reporter": "Mich. App.",
+      "case_ids": [
+        2210393
+      ],
+      "year": 1982,
+      "pin_cites": [
+        {
+          "page": "286-288"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mich-app/113/0280-01"
+      ]
+    },
+    {
+      "cite": "382 F Supp 1365",
+      "category": "reporters:federal",
+      "reporter": "F. Supp.",
+      "case_ids": [
+        3312837
+      ],
+      "year": 1974,
+      "pin_cites": [
+        {
+          "page": "1371"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f-supp/382/1365-01"
+      ]
+    },
+    {
+      "cite": "326 US 310",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6157001
+      ],
+      "weight": 3,
+      "year": 1945,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/326/0310-01"
+      ]
+    },
+    {
+      "cite": "562 NW2d 640",
+      "category": "reporters:state_regional",
+      "reporter": "N.W.2d",
+      "year": 1997,
+      "opinion_index": 0
+    },
+    {
+      "cite": "454 Mich 302",
+      "category": "reporters:state",
+      "reporter": "Mich.",
+      "case_ids": [
+        265382
+      ],
+      "year": 1997,
+      "opinion_index": 0,
+      "case_paths": [
+        "/mich/454/0302-01"
+      ]
+    },
+    {
+      "cite": "453 Mich 901",
+      "category": "reporters:state",
+      "reporter": "Mich.",
+      "year": 1996,
+      "opinion_index": 0
+    },
+    {
+      "cite": "535 NW2d 233",
+      "category": "reporters:state_regional",
+      "reporter": "N.W.2d",
+      "year": 1995,
+      "opinion_index": 0
+    },
+    {
+      "cite": "211 Mich App 140",
+      "category": "reporters:state",
+      "reporter": "Mich. App.",
+      "case_ids": [
+        1874639
+      ],
+      "year": 1995,
+      "opinion_index": 0,
+      "case_paths": [
+        "/mich-app/211/0140-01"
+      ]
+    },
+    {
+      "cite": "404 NW2d 618",
+      "category": "reporters:state_regional",
+      "reporter": "N.W.2d",
+      "year": 1987,
+      "opinion_index": 1
+    },
+    {
+      "cite": "428 Mich 198",
+      "category": "reporters:state",
+      "reporter": "Mich.",
+      "case_ids": [
+        1995060
+      ],
+      "weight": 5,
+      "year": 1987,
+      "pin_cites": [
+        {
+          "page": "213"
+        },
+        {
+          "page": "211"
+        },
+        {
+          "page": "212, n 4"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/mich/428/0198-01"
+      ]
+    },
+    {
+      "cite": "471 NW2d 551",
+      "category": "reporters:state_regional",
+      "reporter": "N.W.2d",
+      "year": 1991,
+      "opinion_index": 1
+    },
+    {
+      "cite": "437 Mich 394",
+      "category": "reporters:state",
+      "reporter": "Mich.",
+      "case_ids": [
+        2019256
+      ],
+      "year": 1991,
+      "opinion_index": 1,
+      "case_paths": [
+        "/mich/437/0394-01"
+      ]
+    },
+    {
+      "cite": "247 NW2d 889",
+      "category": "reporters:state_regional",
+      "reporter": "N.W.2d",
+      "weight": 2,
+      "year": 1976,
+      "opinion_index": 1
+    },
+    {
+      "cite": "399 Mich 103",
+      "category": "reporters:state",
+      "reporter": "Mich.",
+      "case_ids": [
+        1928824
+      ],
+      "year": 1976,
+      "pin_cites": [
+        {
+          "page": "109"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/mich/399/0103-01"
+      ]
+    },
+    {
+      "cite": "471 NW2d 546",
+      "category": "reporters:state_regional",
+      "reporter": "N.W.2d",
+      "year": 1991,
+      "pin_cites": [
+        {
+          "parenthetical": "Griffin, J., plurality opinion"
+        }
+      ],
+      "opinion_index": 1
+    },
+    {
+      "cite": "437 Mich 406",
+      "category": "reporters:state",
+      "reporter": "Mich.",
+      "case_ids": [
+        2019253
+      ],
+      "year": 1991,
+      "pin_cites": [
+        {
+          "page": "409-411",
+          "parenthetical": "Griffin, J., plurality opinion"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/mich/437/0406-01"
+      ]
+    },
+    {
+      "cite": "324 NW2d 729",
+      "category": "reporters:state_regional",
+      "reporter": "N.W.2d",
+      "year": 1982,
+      "opinion_index": 1
+    },
+    {
+      "cite": "414 Mich 181",
+      "category": "reporters:state",
+      "reporter": "Mich.",
+      "case_ids": [
+        1978435
+      ],
+      "weight": 5,
+      "year": 1982,
+      "pin_cites": [
+        {
+          "page": "187"
+        },
+        {
+          "page": "188"
+        },
+        {
+          "page": "187"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/mich/414/0181-01"
+      ]
+    },
+    {
+      "cite": "535 NW2d 233",
+      "category": "reporters:state_regional",
+      "reporter": "N.W.2d",
+      "year": 1995,
+      "opinion_index": 1
+    },
+    {
+      "cite": "211 Mich App 140",
+      "category": "reporters:state",
+      "reporter": "Mich. App.",
+      "case_ids": [
+        1874639
+      ],
+      "year": 1995,
+      "pin_cites": [
+        {
+          "page": "145"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/mich-app/211/0140-01"
+      ]
+    },
+    {
+      "cite": "438 NW2d 844",
+      "category": "reporters:state_regional",
+      "reporter": "N.W.2d",
+      "year": 1992,
+      "opinion_index": 2
+    },
+    {
+      "cite": "439 Mich 370",
+      "category": "reporters:state",
+      "reporter": "Mich.",
+      "case_ids": [
+        2017469
+      ],
+      "year": 1992,
+      "pin_cites": [
+        {
+          "page": "375"
+        }
+      ],
+      "opinion_index": 2,
+      "case_paths": [
+        "/mich/439/0370-01"
+      ]
+    },
+    {
+      "cite": "528 NW2d 707",
+      "category": "reporters:state_regional",
+      "reporter": "N.W.2d",
+      "year": 1995,
+      "opinion_index": 2
+    },
+    {
+      "cite": "448 Mich 147",
+      "category": "reporters:state",
+      "reporter": "Mich.",
+      "case_ids": [
+        2039327
+      ],
+      "year": 1995,
+      "opinion_index": 2,
+      "case_paths": [
+        "/mich/448/0147-01"
+      ]
+    },
+    {
+      "cite": "503 NW2d 435",
+      "category": "reporters:state_regional",
+      "reporter": "N.W.2d",
+      "year": 1993,
+      "opinion_index": 2
+    },
+    {
+      "cite": "443 Mich 59",
+      "category": "reporters:state",
+      "reporter": "Mich.",
+      "case_ids": [
+        2010347
+      ],
+      "year": 1993,
+      "opinion_index": 2,
+      "case_paths": [
+        "/mich/443/0059-01"
+      ]
+    },
+    {
+      "cite": "393 NW2d 356",
+      "category": "reporters:state_regional",
+      "reporter": "N.W.2d",
+      "year": 1986,
+      "opinion_index": 2
+    },
+    {
+      "cite": "426 Mich 78",
+      "category": "reporters:state",
+      "reporter": "Mich.",
+      "case_ids": [
+        1999034
+      ],
+      "year": 1986,
+      "pin_cites": [
+        {
+          "page": "86"
+        }
+      ],
+      "opinion_index": 2,
+      "case_paths": [
+        "/mich/426/0078-01"
+      ]
+    },
+    {
+      "cite": "885 F2d 1293",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        10535534
+      ],
+      "year": 1989,
+      "pin_cites": [
+        {
+          "page": "1298",
+          "parenthetical": "suggesting that the long-arm statute may not be coextensive with due process in tort cases"
+        }
+      ],
+      "opinion_index": 2,
+      "case_paths": [
+        "/f2d/885/1293-01"
+      ]
+    },
+    {
+      "cite": "802 F Supp 146",
+      "category": "reporters:federal",
+      "reporter": "F. Supp.",
+      "case_ids": [
+        7405464
+      ],
+      "year": 1992,
+      "pin_cites": [
+        {
+          "page": "148",
+          "parenthetical": "suggesting that the long-arm statute has been shortened when applied to out-of-state medical providers"
+        }
+      ],
+      "opinion_index": 2,
+      "case_paths": [
+        "/f-supp/802/0146-01"
+      ]
+    },
+    {
+      "cite": "337 F Supp 981",
+      "category": "reporters:federal",
+      "reporter": "F. Supp.",
+      "case_ids": [
+        3590861
+      ],
+      "year": 1972,
+      "pin_cites": [
+        {
+          "page": "982-984"
+        }
+      ],
+      "opinion_index": 2,
+      "case_paths": [
+        "/f-supp/337/0981-01"
+      ]
+    },
+    {
+      "cite": "399 F Supp 889",
+      "category": "reporters:federal",
+      "reporter": "F. Supp.",
+      "case_ids": [
+        3818047
+      ],
+      "year": 1975,
+      "pin_cites": [
+        {
+          "page": "890"
+        }
+      ],
+      "opinion_index": 2,
+      "case_paths": [
+        "/f-supp/399/0889-01"
+      ]
+    },
+    {
+      "cite": "430 F Supp 1076",
+      "category": "reporters:federal",
+      "reporter": "F. Supp.",
+      "case_ids": [
+        3927812
+      ],
+      "year": 1977,
+      "pin_cites": [
+        {
+          "page": "1078"
+        }
+      ],
+      "opinion_index": 2,
+      "case_paths": [
+        "/f-supp/430/1076-01"
+      ]
+    },
+    {
+      "cite": "434 F Supp 168",
+      "category": "reporters:federal",
+      "reporter": "F. Supp.",
+      "case_ids": [
+        1454000
+      ],
+      "year": 1977,
+      "pin_cites": [
+        {
+          "page": "171"
+        }
+      ],
+      "opinion_index": 2,
+      "case_paths": [
+        "/f-supp/434/0168-01"
+      ]
+    },
+    {
+      "cite": "491 F Supp 188",
+      "category": "reporters:federal",
+      "reporter": "F. Supp.",
+      "case_ids": [
+        4150238
+      ],
+      "year": 1979,
+      "pin_cites": [
+        {
+          "page": "193"
+        }
+      ],
+      "opinion_index": 2,
+      "case_paths": [
+        "/f-supp/491/0188-01"
+      ]
+    },
+    {
+      "cite": "503 F Supp 1055",
+      "category": "reporters:federal",
+      "reporter": "F. Supp.",
+      "case_ids": [
+        4182091
+      ],
+      "year": 1980,
+      "pin_cites": [
+        {
+          "page": "1057"
+        }
+      ],
+      "opinion_index": 2,
+      "case_paths": [
+        "/f-supp/503/1055-01"
+      ]
+    },
+    {
+      "cite": "279 NW2d 317",
+      "category": "reporters:state_regional",
+      "reporter": "N.W.2d",
+      "year": 1979,
+      "pin_cites": [
+        {
+          "parenthetical": "panel containing Justice Riley"
+        }
+      ],
+      "opinion_index": 2
+    },
+    {
+      "cite": "88 Mich App 791",
+      "category": "reporters:state",
+      "reporter": "Mich. App.",
+      "case_ids": [
+        2181265
+      ],
+      "year": 1979,
+      "pin_cites": [
+        {
+          "page": "792",
+          "parenthetical": "panel containing Justice Riley"
+        }
+      ],
+      "opinion_index": 2,
+      "case_paths": [
+        "/mich-app/88/0791-01"
+      ]
+    },
+    {
+      "cite": "261 NW2d 80",
+      "category": "reporters:state_regional",
+      "reporter": "N.W.2d",
+      "year": 1977,
+      "pin_cites": [
+        {
+          "parenthetical": "panel containing Justice Riley"
+        }
+      ],
+      "opinion_index": 2
+    },
+    {
+      "cite": "79 Mich App 543",
+      "category": "reporters:state",
+      "reporter": "Mich. App.",
+      "case_ids": [
+        2162228
+      ],
+      "year": 1977,
+      "pin_cites": [
+        {
+          "parenthetical": "panel containing Justice Riley"
+        }
+      ],
+      "opinion_index": 2,
+      "case_paths": [
+        "/mich-app/79/0543-01"
+      ]
+    },
+    {
+      "cite": "198 NW2d 834",
+      "category": "reporters:state_regional",
+      "reporter": "N.W.2d",
+      "year": 1972,
+      "opinion_index": 2
+    },
+    {
+      "cite": "40 Mich App 131",
+      "category": "reporters:state",
+      "reporter": "Mich. App.",
+      "case_ids": [
+        2084507
+      ],
+      "year": 1972,
+      "pin_cites": [
+        {
+          "page": "135"
+        }
+      ],
+      "opinion_index": 2,
+      "case_paths": [
+        "/mich-app/40/0131-01"
+      ]
+    },
+    {
+      "cite": "208 NW2d 539",
+      "category": "reporters:state_regional",
+      "reporter": "N.W.2d",
+      "year": 1973,
+      "pin_cites": [
+        {
+          "parenthetical": "\"The only real limitation placed on this statute is the Due Process of the Fourteenth Amendment of the United States Constitution\""
+        }
+      ],
+      "opinion_index": 2
+    },
+    {
+      "cite": "46 Mich App 566",
+      "category": "reporters:state",
+      "reporter": "Mich. App.",
+      "case_ids": [
+        2108410
+      ],
+      "year": 1973,
+      "pin_cites": [
+        {
+          "page": "571",
+          "parenthetical": "\"The only real limitation placed on this statute is the Due Process of the Fourteenth Amendment of the United States Constitution\""
+        }
+      ],
+      "opinion_index": 2,
+      "case_paths": [
+        "/mich-app/46/0566-01"
+      ]
+    },
+    {
+      "cite": "243 NW2d 724",
+      "category": "reporters:state_regional",
+      "reporter": "N.W.2d",
+      "year": 1976,
+      "opinion_index": 2
+    },
+    {
+      "cite": "68 Mich App 768",
+      "category": "reporters:state",
+      "reporter": "Mich. App.",
+      "case_ids": [
+        2146877
+      ],
+      "year": 1976,
+      "pin_cites": [
+        {
+          "page": "769"
+        }
+      ],
+      "opinion_index": 2,
+      "case_paths": [
+        "/mich-app/68/0768-01"
+      ]
+    },
+    {
+      "cite": "247 NW2d 375",
+      "category": "reporters:state_regional",
+      "reporter": "N.W.2d",
+      "year": 1976,
+      "pin_cites": [
+        {
+          "parenthetical": "\"The broad language of the statute . . . indicates the Legislature's desire to expand limited personal jurisdiction to its full potential\""
+        }
+      ],
+      "opinion_index": 2
+    },
+    {
+      "cite": "71 Mich App 263",
+      "category": "reporters:state",
+      "reporter": "Mich. App.",
+      "case_ids": [
+        2142130
+      ],
+      "year": 1976,
+      "pin_cites": [
+        {
+          "page": "265-266",
+          "parenthetical": "\"The broad language of the statute . . . indicates the Legislature's desire to expand limited personal jurisdiction to its full potential\""
+        }
+      ],
+      "opinion_index": 2,
+      "case_paths": [
+        "/mich-app/71/0263-01"
+      ]
+    },
+    {
+      "cite": "323 NW2d 683",
+      "category": "reporters:state_regional",
+      "reporter": "N.W.2d",
+      "year": 1982,
+      "pin_cites": [
+        {
+          "parenthetical": "\"all agree that, if constitutionally permissible, [Michigan's long-arm statute] would allow Michigan to assume jurisdiction as the forum state in this case\""
+        }
+      ],
+      "opinion_index": 2
+    },
+    {
+      "cite": "117 Mich App 308",
+      "category": "reporters:state",
+      "reporter": "Mich. App.",
+      "case_ids": [
+        2204732
+      ],
+      "year": 1982,
+      "pin_cites": [
+        {
+          "page": "316",
+          "parenthetical": "\"all agree that, if constitutionally permissible, [Michigan's long-arm statute] would allow Michigan to assume jurisdiction as the forum state in this case\""
+        }
+      ],
+      "opinion_index": 2,
+      "case_paths": [
+        "/mich-app/117/0308-01"
+      ]
+    },
+    {
+      "cite": "209 NE2d 68",
+      "category": "reporters:state_regional",
+      "reporter": "N.E.2d",
+      "year": 1965,
+      "pin_cites": [
+        {
+          "parenthetical": "holding that the New York long-arm statute is not coextensive with the Due Process Clause"
+        }
+      ],
+      "opinion_index": 2
+    },
+    {
+      "cite": "15 NY2d 443",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        2271676
+      ],
+      "year": 1965,
+      "pin_cites": [
+        {
+          "page": "460",
+          "parenthetical": "holding that the New York long-arm statute is not coextensive with the Due Process Clause"
+        }
+      ],
+      "opinion_index": 2,
+      "case_paths": [
+        "/ny-2d/15/0443-01"
+      ]
+    },
+    {
+      "cite": "559 SW2d 407",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.2d",
+      "case_ids": [
+        9940023
+      ],
+      "year": 1977,
+      "pin_cites": [
+        {
+          "page": "409"
+        }
+      ],
+      "opinion_index": 2,
+      "case_paths": [
+        "/sw2d/559/0407-01"
+      ]
+    },
+    {
+      "cite": "285 Minn 77",
+      "category": "reporters:state",
+      "reporter": "Minn.",
+      "case_ids": [
+        303147
+      ],
+      "weight": 2,
+      "year": 1969,
+      "pin_cites": [
+        {
+          "page": "96"
+        }
+      ],
+      "opinion_index": 2,
+      "case_paths": [
+        "/minn/285/0077-01"
+      ]
+    },
+    {
+      "cite": "296 NW2d 785",
+      "category": "reporters:state_regional",
+      "reporter": "N.W.2d",
+      "case_ids": [
+        10683707
+      ],
+      "year": 1980,
+      "pin_cites": [
+        {
+          "page": "788"
+        }
+      ],
+      "opinion_index": 2,
+      "case_paths": [
+        "/nw2d/296/0785-01"
+      ]
+    },
+    {
+      "cite": "167 Colo 456",
+      "category": "reporters:state",
+      "reporter": "Colo.",
+      "case_ids": [
+        4669222
+      ],
+      "weight": 2,
+      "year": 1969,
+      "pin_cites": [
+        {
+          "page": "458-459"
+        }
+      ],
+      "opinion_index": 2,
+      "case_paths": [
+        "/colo/167/0456-01"
+      ]
+    },
+    {
+      "cite": "143 NE2d 673",
+      "category": "reporters:state_regional",
+      "reporter": "N.E.2d",
+      "year": 1957,
+      "opinion_index": 2
+    },
+    {
+      "cite": "11 Ill 2d 378",
+      "category": "reporters:state",
+      "reporter": "Ill. 2d",
+      "case_ids": [
+        2785531
+      ],
+      "year": 1957,
+      "pin_cites": [
+        {
+          "page": "389"
+        }
+      ],
+      "opinion_index": 2,
+      "case_paths": [
+        "/ill-2d/11/0378-01"
+      ]
+    },
+    {
+      "cite": "24 L Ed 565",
+      "category": "reporters:federal",
+      "reporter": "L. Ed.",
+      "case_ids": [
+        3383405
+      ],
+      "year": 1871,
+      "opinion_index": 2,
+      "case_paths": [
+        "/us/95/0714-01"
+      ]
+    },
+    {
+      "cite": "429 NW2d 835",
+      "category": "reporters:state_regional",
+      "reporter": "N.W.2d",
+      "year": 1988,
+      "opinion_index": 2
+    },
+    {
+      "cite": "171 Mich App 6",
+      "category": "reporters:state",
+      "reporter": "Mich. App.",
+      "case_ids": [
+        2289014
+      ],
+      "year": 1988,
+      "opinion_index": 2,
+      "case_paths": [
+        "/mich-app/171/0006-01"
+      ]
+    },
+    {
+      "cite": "505 F Supp 180",
+      "category": "reporters:federal",
+      "reporter": "F. Supp.",
+      "case_ids": [
+        4184948
+      ],
+      "year": 1981,
+      "pin_cites": [
+        {
+          "parenthetical": "a Michigan resident and a resident of British Columbia were involved in an accident in North Dakota"
+        }
+      ],
+      "opinion_index": 2,
+      "case_paths": [
+        "/f-supp/505/0180-01"
+      ]
+    },
+    {
+      "cite": "265 NW2d 378",
+      "category": "reporters:state_regional",
+      "reporter": "N.W.2d",
+      "weight": 2,
+      "year": 1978,
+      "pin_cites": [
+        {
+          "page": "476-477"
+        }
+      ],
+      "opinion_index": 2
+    },
+    {
+      "cite": "81 Mich App 472",
+      "category": "reporters:state",
+      "reporter": "Mich. App.",
+      "case_ids": [
+        2159115
+      ],
+      "year": 1978,
+      "opinion_index": 2,
+      "case_paths": [
+        "/mich-app/81/0472-01"
+      ]
+    },
+    {
+      "cite": "428 Mich 666",
+      "category": "reporters:state",
+      "reporter": "Mich.",
+      "pin_cites": [
+        {
+          "page": "n 3"
+        }
+      ],
+      "opinion_index": 2
+    },
+    {
+      "cite": "273 NW2d 822",
+      "category": "reporters:state_regional",
+      "reporter": "N.W.2d",
+      "year": 1978,
+      "opinion_index": 2
+    },
+    {
+      "cite": "404 Mich 160",
+      "category": "reporters:state",
+      "reporter": "Mich.",
+      "case_ids": [
+        1958931
+      ],
+      "year": 1978,
+      "pin_cites": [
+        {
+          "page": "168, n 2"
+        }
+      ],
+      "opinion_index": 2,
+      "case_paths": [
+        "/mich/404/0160-01"
+      ]
+    },
+    {
+      "cite": "209 NW2d 225",
+      "category": "reporters:state_regional",
+      "reporter": "N.W.2d",
+      "year": 1973,
+      "opinion_index": 2
+    },
+    {
+      "cite": "389 Mich 608",
+      "category": "reporters:state",
+      "reporter": "Mich.",
+      "case_ids": [
+        1907464
+      ],
+      "year": 1973,
+      "pin_cites": [
+        {
+          "page": "616"
+        }
+      ],
+      "opinion_index": 2,
+      "case_paths": [
+        "/mich/389/0608-01"
+      ]
+    },
+    {
+      "cite": "485 NW2d 676",
+      "category": "reporters:state_regional",
+      "reporter": "N.W.2d",
+      "year": 1992,
+      "opinion_index": 2
+    },
+    {
+      "cite": "440 Mich 85",
+      "category": "reporters:state",
+      "reporter": "Mich.",
+      "case_ids": [
+        2016045
+      ],
+      "year": 1992,
+      "pin_cites": [
+        {
+          "page": "96"
+        }
+      ],
+      "opinion_index": 2,
+      "case_paths": [
+        "/mich/440/0085-01"
+      ]
+    },
+    {
+      "cite": "471 US 462",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6205101
+      ],
+      "weight": 4,
+      "year": 1985,
+      "pin_cites": [
+        {
+          "page": "475"
+        },
+        {
+          "page": "477"
+        }
+      ],
+      "opinion_index": 2,
+      "case_paths": [
+        "/us/471/0462-01"
+      ]
+    },
+    {
+      "cite": "411 NW2d 439",
+      "category": "reporters:state_regional",
+      "reporter": "N.W.2d",
+      "year": 1987,
+      "opinion_index": 2
+    },
+    {
+      "cite": "428 Mich 659",
+      "category": "reporters:state",
+      "reporter": "Mich.",
+      "case_ids": [
+        1995077
+      ],
+      "weight": 2,
+      "year": 1987,
+      "pin_cites": [
+        {
+          "page": "667"
+        }
+      ],
+      "opinion_index": 2,
+      "case_paths": [
+        "/mich/428/0659-01"
+      ]
+    },
+    {
+      "cite": "444 US 286",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11306135
+      ],
+      "weight": 3,
+      "year": 1980,
+      "pin_cites": [
+        {
+          "page": "297"
+        }
+      ],
+      "opinion_index": 2,
+      "case_paths": [
+        "/us/444/0286-01"
+      ]
+    },
+    {
+      "cite": "357 US 235",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6162253
+      ],
+      "weight": 3,
+      "year": 1957,
+      "pin_cites": [
+        {
+          "page": "253"
+        }
+      ],
+      "opinion_index": 2,
+      "case_paths": [
+        "/us/357/0235-01"
+      ]
+    },
+    {
+      "cite": "2 L Ed 2d 233",
+      "category": "reporters:federal",
+      "reporter": "L. Ed. 2d",
+      "year": 1957,
+      "opinion_index": 2
+    },
+    {
+      "cite": "355 US 220",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6164156
+      ],
+      "weight": 2,
+      "year": 1957,
+      "opinion_index": 2,
+      "case_paths": [
+        "/us/355/0220-01"
+      ]
+    },
+    {
+      "cite": "171 NW2d 441",
+      "category": "reporters:state_regional",
+      "reporter": "N.W.2d",
+      "year": 1969,
+      "opinion_index": 2
+    },
+    {
+      "cite": "382 Mich 596",
+      "category": "reporters:state",
+      "reporter": "Mich.",
+      "case_ids": [
+        1888027
+      ],
+      "year": 1969,
+      "pin_cites": [
+        {
+          "page": "602"
+        }
+      ],
+      "opinion_index": 2,
+      "case_paths": [
+        "/mich/382/0596-01"
+      ]
+    },
+    {
+      "cite": "532 NW2d 842",
+      "category": "reporters:state_regional",
+      "reporter": "N.W.2d",
+      "year": 1995,
+      "opinion_index": 2
+    },
+    {
+      "cite": "448 Mich 648",
+      "category": "reporters:state",
+      "reporter": "Mich.",
+      "case_ids": [
+        2039335
+      ],
+      "year": 1995,
+      "pin_cites": [
+        {
+          "page": "654"
+        }
+      ],
+      "opinion_index": 2,
+      "case_paths": [
+        "/mich/448/0648-01"
+      ]
+    },
+    {
+      "cite": "529 NW2d 644",
+      "category": "reporters:state_regional",
+      "reporter": "N.W.2d",
+      "year": 1995,
+      "opinion_index": 2
+    },
+    {
+      "cite": "448 Mich 178",
+      "category": "reporters:state",
+      "reporter": "Mich.",
+      "case_ids": [
+        2039316
+      ],
+      "year": 1995,
+      "pin_cites": [
+        {
+          "page": "185"
+        }
+      ],
+      "opinion_index": 2,
+      "case_paths": [
+        "/mich/448/0178-01"
+      ]
+    },
+    {
+      "cite": "567 F Supp 1308",
+      "category": "reporters:federal",
+      "reporter": "F. Supp.",
+      "case_ids": [
+        3577732
+      ],
+      "year": 1983,
+      "pin_cites": [
+        {
+          "page": "1311"
+        }
+      ],
+      "opinion_index": 2,
+      "case_paths": [
+        "/f-supp/567/1308-01"
+      ]
+    },
+    {
+      "cite": "601 F Supp 845",
+      "category": "reporters:federal",
+      "reporter": "F. Supp.",
+      "case_ids": [
+        3733575
+      ],
+      "year": 1985,
+      "pin_cites": [
+        {
+          "page": "847"
+        }
+      ],
+      "opinion_index": 2,
+      "case_paths": [
+        "/f-supp/601/0845-01"
+      ]
+    },
+    {
+      "cite": "643 F2d 1229",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1202765
+      ],
+      "year": 1981,
+      "pin_cites": [
+        {
+          "page": "1236"
+        }
+      ],
+      "opinion_index": 2,
+      "case_paths": [
+        "/f2d/643/1229-01"
+      ]
+    },
+    {
+      "cite": "882 F Supp 642",
+      "category": "reporters:federal",
+      "reporter": "F. Supp.",
+      "case_ids": [
+        7844660
+      ],
+      "year": 1994,
+      "pin_cites": [
+        {
+          "page": "651"
+        }
+      ],
+      "opinion_index": 2,
+      "case_paths": [
+        "/f-supp/882/0642-01"
+      ]
+    },
+    {
+      "cite": "898 F2d 1148",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        10539484
+      ],
+      "year": 1990,
+      "pin_cites": [
+        {
+          "page": "1150"
+        }
+      ],
+      "opinion_index": 2,
+      "case_paths": [
+        "/f2d/898/1148-01"
+      ]
+    },
+    {
+      "cite": "954 F2d 1174",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        10519795
+      ],
+      "year": 1992,
+      "pin_cites": [
+        {
+          "page": "1176"
+        }
+      ],
+      "opinion_index": 2,
+      "case_paths": [
+        "/f2d/954/1174-01"
+      ]
+    },
+    {
+      "cite": "357 NW2d 882",
+      "category": "reporters:state_regional",
+      "reporter": "N.W.2d",
+      "year": 1984,
+      "pin_cites": [
+        {
+          "parenthetical": "\"[The long-arm statute] was intended to give Michigan courts the full extent of power possible to gain personal jurisdiction over nonresident defendants as is consistent with the principles of due process\""
+        }
+      ],
+      "opinion_index": 2
+    },
+    {
+      "cite": "137 Mich App 528",
+      "category": "reporters:state",
+      "reporter": "Mich. App.",
+      "case_ids": [
+        2241033
+      ],
+      "year": 1984,
+      "pin_cites": [
+        {
+          "page": "531",
+          "parenthetical": "\"[The long-arm statute] was intended to give Michigan courts the full extent of power possible to gain personal jurisdiction over nonresident defendants as is consistent with the principles of due process\""
+        }
+      ],
+      "opinion_index": 2,
+      "case_paths": [
+        "/mich-app/137/0528-01"
+      ]
+    },
+    {
+      "cite": "436 NW2d 412",
+      "category": "reporters:state_regional",
+      "reporter": "N.W.2d",
+      "year": 1989,
+      "pin_cites": [
+        {
+          "parenthetical": "\"This statute has been construed as giving the courts the broadest grant of jurisdiction consistent with due process\""
+        }
+      ],
+      "opinion_index": 2
+    },
+    {
+      "cite": "174 Mich App 660",
+      "category": "reporters:state",
+      "reporter": "Mich. App.",
+      "case_ids": [
+        2318562
+      ],
+      "year": 1989,
+      "pin_cites": [
+        {
+          "page": "662-663",
+          "parenthetical": "\"This statute has been construed as giving the courts the broadest grant of jurisdiction consistent with due process\""
+        }
+      ],
+      "opinion_index": 2,
+      "case_paths": [
+        "/mich-app/174/0660-01"
+      ]
+    },
+    {
+      "cite": "561 NW2d 412",
+      "category": "reporters:state_regional",
+      "reporter": "N.W.2d",
+      "year": 1997,
+      "pin_cites": [
+        {
+          "parenthetical": "\"[0]ur long-arm statute has been interpreted to grant the broadest basis for jurisdiction consistent with due process\""
+        }
+      ],
+      "opinion_index": 2
+    },
+    {
+      "cite": "221 Mich App 54",
+      "category": "reporters:state",
+      "reporter": "Mich. App.",
+      "case_ids": [
+        484929
+      ],
+      "year": 1997,
+      "pin_cites": [
+        {
+          "page": "73",
+          "parenthetical": "\"[0]ur long-arm statute has been interpreted to grant the broadest basis for jurisdiction consistent with due process\""
+        }
+      ],
+      "opinion_index": 2,
+      "case_paths": [
+        "/mich-app/221/0054-01"
+      ]
+    },
+    {
+      "cite": "188 NW2d 623",
+      "category": "reporters:state_regional",
+      "reporter": "N.W.2d",
+      "weight": 2,
+      "year": 1971,
+      "opinion_index": 2
+    },
+    {
+      "cite": "385 Mich 195",
+      "category": "reporters:state",
+      "reporter": "Mich.",
+      "case_ids": [
+        1915937
+      ],
+      "weight": 2,
+      "year": 1971,
+      "pin_cites": [
+        {
+          "page": "198"
+        },
+        {
+          "page": "198"
+        }
+      ],
+      "opinion_index": 2,
+      "case_paths": [
+        "/mich/385/0195-01"
+      ]
+    },
+    {
+      "cite": "317 NW2d 597",
+      "category": "reporters:state_regional",
+      "reporter": "N.W.2d",
+      "year": 1982,
+      "opinion_index": 2
+    },
+    {
+      "cite": "113 Mich App 280",
+      "category": "reporters:state",
+      "reporter": "Mich. App.",
+      "case_ids": [
+        2210393
+      ],
+      "year": 1982,
+      "opinion_index": 2,
+      "case_paths": [
+        "/mich-app/113/0280-01"
+      ]
+    },
+    {
+      "cite": "382 F Supp 1365",
+      "category": "reporters:federal",
+      "reporter": "F. Supp.",
+      "case_ids": [
+        3312837
+      ],
+      "year": 1974,
+      "pin_cites": [
+        {
+          "page": "1370"
+        }
+      ],
+      "opinion_index": 2,
+      "case_paths": [
+        "/f-supp/382/1365-01"
+      ]
+    },
+    {
+      "cite": "326 US 310",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6157001
+      ],
+      "weight": 3,
+      "year": 1945,
+      "pin_cites": [
+        {
+          "page": "316"
+        }
+      ],
+      "opinion_index": 2,
+      "case_paths": [
+        "/us/326/0310-01"
+      ]
+    },
+    {
+      "cite": "562 NW2d 640",
+      "category": "reporters:state_regional",
+      "reporter": "N.W.2d",
+      "year": 1997,
+      "opinion_index": 2
+    },
+    {
+      "cite": "454 Mich 302",
+      "category": "reporters:state",
+      "reporter": "Mich.",
+      "case_ids": [
+        265382
+      ],
+      "year": 1997,
+      "pin_cites": [
+        {
+          "page": "309"
+        }
+      ],
+      "opinion_index": 2,
+      "case_paths": [
+        "/mich/454/0302-01"
+      ]
+    },
+    {
+      "cite": "453 Mich 901",
+      "category": "reporters:state",
+      "reporter": "Mich.",
+      "year": 1996,
+      "opinion_index": 2
+    },
+    {
+      "cite": "535 NW2d 233",
+      "category": "reporters:state_regional",
+      "reporter": "N.W.2d",
+      "year": 1995,
+      "opinion_index": 2
+    },
+    {
+      "cite": "211 Mich App 140",
+      "category": "reporters:state",
+      "reporter": "Mich. App.",
+      "case_ids": [
+        1874639
+      ],
+      "year": 1995,
+      "pin_cites": [
+        {
+          "page": "142"
+        }
+      ],
+      "opinion_index": 2,
+      "case_paths": [
+        "/mich-app/211/0140-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 1845,
+    "char_count": 65049,
+    "ocr_confidence": 0.716,
+    "pagerank": {
+      "raw": 2.3434726766757808e-07,
+      "percentile": 0.7924251568334679
+    },
+    "sha256": "b8e921aef9cbae8bad6052188abc8a9fb1f2cc8122d31cc06c859eb6a3427d7c",
+    "simhash": "1:a59c7e8b348d24bb",
+    "word_count": 10352
+  },
+  "last_updated": "2024-02-27T17:45:28.850794+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Cavanagh and Boyle, JJ., concurred with Kelly, J.",
+      "Brickley and Riley, JJ., concurred with Weaver, J."
+    ],
+    "parties": [
+      "GREEN v WILSON"
+    ],
+    "opinions": [
+      {
+        "text": "Kelly, J.\nThis case presents two issues: 1) whether Michigan courts may exercise limited personal jurisdiction over a nonresident who becomes intoxicated in Michigan, chooses to drive intoxicated in Michigan, and causes an accident in another jurisdiction, and 2) whether compliance with the name-and-retain provision of the dramshop act will be excused when the allegedly intoxicated person is dismissed from litigation for lack of personal jurisdiction. MCL 436.22(6); MSA 18.993(6). We conclude that defendant Fraser Wilson\u2019s acts in Michigan that preceded his allegedly tortious acts in Canada were insufficient to subject him to subsection (2) of MCL 600.705; MSA 27A.705. Therefore, we would reverse the Court of Appeals determination that Michigan courts may exercise limited personal jurisdiction over him.\nAs Wilson cannot be retained in the suit, it is necessary to determine whether the dramshop action against defendants Jason Enterprises and Vivio\u2019s was properly dismissed. We conclude that the failure to retain Wilson was due to a jurisdictional defect that plaintiffs could not avoid. We also conclude that fear of collusion between plaintiffs and defendant Wilson is significantly reduced in this case. Under the circumstances, strict compliance with the name-and-retain provision would frustrate the purpose of the dramshop act. Consequently, we would affirm the Court of Appeals decision that allows a continuation of the dramshop action against defendants Jason Enterprises and Vivio\u2019s.\ni\nPlaintiffs Diane Green and Leslie Lynn Martin, both residents of Michigan, and defendant Wilson, a resident of Ontario, were involved in an automobile accident in the Detroit-Windsor tunnel. The accident occurred in Canada, approximately one thousand yards south of the Michigan-Ontaiio border. Plaintiffs allege that Wilson was exceeding the speed limit when his car crossed the center line and collided head-on with their car. Plaintiffs further allege that Wilson was intoxicated.\nPlaintiffs sued Wilson for negligence in Wayne Circuit Court and instituted dramshop actions against defendants Vivio\u2019s, Inc., and Jason Enterprises, Inc. Both Vivio\u2019s and Jason Enterprises operate bars in the City of Detroit. In their complaint, plaintiffs allege that both establishments served alcohol to Wilson while he was visibly intoxicated. Plaintiffs also assert that the accident occurred when Wilson was returning home from the defendant bars.\nWilson moved for summary disposition under MCR 2.116(C)(1), arguing that the court lacked personal jurisdiction over him. The trial court granted the motion, holding that Wilson was not within the reach of Michigan\u2019s long-arm statute, MCL 600.705; MSA 27A.705. The trial court also dismissed the dramshop actions against Jason Enterprises and Vivio\u2019s, because the plaintiffs failed to retain the allegedly intoxicated person as a defendant. The Court of Appeals held that Michigan courts do have jurisdiction over Wilson for the purposes of this litigation. The Court further held that compliance with the name-and-retain clause of the dramshop act would be excused when the allegedly intoxicated person is dismissed for lack of personal jurisdiction. 211 Mich App 140; 535 NW2d 233 (1995). We granted leave to appeal. 453 Mich 901 (1996).\nn\nA personal jurisdiction analysis is a two-fold inquiry: (1) do the defendant\u2019s acts fall within the applicable long-arm statute, and (2) does the exercise of jurisdiction over the defendant comport with due process? Starbrite Distributing, Inc v Excelda Mfg Co, 454 Mich 302; 562 NW2d 640 (1997). It is useful to review the history and interplay between state long-arm statutes and the Due Process Clause before applying them in this case.\nThe United States Supreme Court expanded the constitutional scope of personal jurisdiction with its decision in International Shoe Co v Washington, 326 US 310; 66 S Ct 154; 90 L Ed 95 (1945). Post at 368-369. In International Shoe, the Court inteipreted the Due Process Clause as not conferring jurisdiction. Rather, it construed the clause as establishing the outer limits of permissible jurisdictional power. The actual grant of personal jurisdiction comes from legislative long-arm statutes that invest courts with the power to exercise personal jurisdiction.\nLong-arm statutes establish the nature, character, and types of contacts that must exist for purposes of exercising personal jurisdiction. Due process, on the other hand, restricts permissible long-arm jurisdiction by defining the quality of contacts necessary to justify personal jurisdiction under the constitution. See Hadad v Lewis, 382 F Supp 1365, 1371 (ED Mich, 1974). Thus, situations may arise where a long-arm statute permits greater jurisdiction than does the constitution. See Starbrite at 315 (Weaver, J., concurring in part and dissenting in part). Likewise, there may be instances where a state court will lack the power to exercise personal jurisdiction over a defendant, even though jurisdiction may be constitutionally permissible. See Mallory v Conida Warehouses, Inc, 113 Mich App 280, 286-288; 317 NW2d 597 (1982).\nThere are primarily two types of long-arm statutes: the \u201cself-adjusting,\u201d such as the California long-arm statute, and the \u201claundry-list,\u201d such as Michigan\u2019s MCL 600.705; MSA 27A.705. The Cahfomia statute has been called self-adjusting because it stretches automatically to extend jurisdiction wherever the Due Process Clause permits. Like a complete solar eclipse, the due process and statutory analyses overlap entirely. Therefore, only a one-step analysis is necessary. Glannon, Civil Procedure, Examples and Explanations (2d ed), pp 24-27.\nLaundry-list statutes enumerate specific acts that give rise to personal jurisdiction. They do not permit a one-step analysis, even in circumstances where they are thought to be \u201ccoextensive\u201d with due process. Their analysis is akin to a partial solar eclipse, with part of the statute granting jurisdiction within the permissible constitutional scope and part of the statute possibly outside it. Id.\nThe Sifers\u2019 Court is the first in Michigan that was credited with stating the concept that limited personal jurisdiction is coextensive with due process. Since Sifers, many Michigan state and federal courts have interpreted Michigan long-arm statutes as coextensive with due process. In Sifers, the Court stated:\nWe are called upon in this case to construe a Michigan statute which represents an attempt on the part of the Michigan legislature to expand to its full potential limited personal jurisdiction of Michigan courts over nonresidents.\nUnless we are prepared to say that Michigan is forbidden by the Federal Constitution to exercise jurisdiction to the extent indicated in the statute we should not construe the statute so restrictively. [Sifers v Horen, 385 Mich 195, 198; 188 NW2d 623 (1971) (emphasis added).]\nWe interpret Sifers to mean that, if a defendant\u2019s actions or status fit within a provision of a long-arm statute, jurisdiction may be extended as far as due process permits. The long-arm statute is coextensive with due process insofar as the statute is limited by due process, and, therefore, the statute and due process share the same outer boundary. The reasoning implicit in Mallory supports this interpretation. Mallory, supra at 286-288.\nIn Mallory, the Court of Appeals determined that none of the statutory grounds for personal jurisdiction permitted the exercise of personal jurisdiction over a sister state. Id. at 286-287. It reasoned that the Legislature did not intend to permit such a suit in Michigan, regardless of what due process would allow. Consequently, there was no need to conduct a due process analysis. Id. at 288.\nThe coextensive nature of Michigan\u2019s long-arm jurisdiction becomes pertinent only if the particular acts or status of a defendant first fit within a long-arm statute provision. As the Mallory Court implicitly concluded, this does not mean that the two are equal and require a single inquiry based solely upon due process restrictions.\nThe provisions enumerated in \u00a7 705 would be superfluous if the Legislature intended that any activity that is constitutional also satisfy a long-arm statute. Furthermore, the Michigan Legislature could have written language into the statutes that confers jurisdiction to the broadest limits of due process, as other states have done. It chose not to do so.\nin\nThe State of Michigan may exercise limited personal jurisdiction over Wilson if two conditions are met: First, Wilson\u2019s conduct must fall within a provision of Michigan\u2019s long-arm statutes. Second, the exercise of jurisdiction must comport with due process. Starbrite, supra.\nThe state\u2019s long-arm statute pertaining to acquiring limited personal jurisdiction over individuals on the basis of specific acts is codified at MCL 600.705; MSA 27A.705. It states:\nThe existence of any of the following relationships between an individual or his agent and the state shall constitute a sufficient basis of jurisdiction to enable a court of record of this state to exercise limited personal jurisdiction over the individual . . . arising out of an act which creates any of the following relationships:\n* * *\n(2) The doing or causing an act to be done, or consequences to occur, in the state resulting in an action for tort.\nPlaintiffs allege that Wilson\u2019s activities in Michigan fall within subsection 2 of \u00a7 705.\nSection 705 does not delineate specific types of acts that suffice for purposes of subsection 2. The only guidance it provides is that the \u201cact\u201d or \u201cconsequences of the act\u201d must \u201cresult in an action for tort.\u201d A plain language reading of these words reveals that either the tortious conduct or the injury must occur in Michigan.\nIn this case, for purposes of subsection 2, the act is the allegedly negligent careening of defendant\u2019s speeding vehicle into plaintiffs\u2019 vehicle while defendant drove intoxicated. Plaintiffs alleged that Wilson \u201ctravel[ed] at an excessive rate of speed throughout the [Windsor] tunnel and did cross the center line in [an] attempt to pass a motor vehicle, striking head-on in the northbound lane a vehicle being operated by the plaintiff . . . .\u201d That act occurred in Canada. The consequences of the act also occurred in Canada, where the plaintiffs sustained injuries. Any liability of the defendant liquor establishments under the dram-shop act had to be triggered by the accident in Canada.\nWe are unpersuaded by the dissent\u2019s contention that the \u201cact\u201d is Wilson\u2019s drinking and driving while in Michigan. Post at 374-375. At the time Wilson left Michigan, he had committed no tort. The acts in Michigan that preceded Wilson\u2019s allegedly tortious acts in Canada were insufficient to subject him to subsection 2 of MCL 600.705; MSA 27A.705.\nWhile the Court can envision a situation where an act in Michigan results in a tort elsewhere, this case does not involve one. Most states find the exercise of personal jurisdiction over nonresidents for out-of-state driving accidents under analogous circumstances impermissible. Casad, Jurisdiction in Civil Actions, \u00b6 7.02[2][e][i], p 7-34. Consequently, we do not believe that subsection 2 jurisdiction is appropriate in this case. Since Wilson\u2019s acts do not fit under the \u00a7 705 long-arm statute, we do not reach due process for the reasons noted in part n of this opinion.\nrv\nWe next analyze whether the dramshop action against defendants Jason Enterprises and Vivio\u2019s may continue without Wilson.\nThe dramshop act provides an exclusive statutory remedy against liquor licensees for selling alcohol to minors or visibly intoxicated persons. MCL 436.22; MSA 18.993. As a condition of maintaining a dram-shop action, a plaintiff must \u201cname-and-retain\u201d the alleged intoxicated person until the litigation is concluded by trial or settlement. MCL 436.22(6); MSA 18.993(6). One recognized purpose of the name-and-retain provision is to preclude collusion between the plaintiff and the allegedly intoxicated person. Putney v Haskins, 414 Mich 181, 187; 324 NW2d 729 (1982). This is accomplished by ensuring that the intoxicated person has a financial stake in the outcome of the case. Id.\nGenerally, the Court has determined that a failure to retain the named intoxicated defendant as required by subsection 6 results in a termination of the dram-shop action. Putney at 188; Spalo v A & G Enter prises (After Remand), 437 Mich 406, 409-411; 471 NW2d 546 (1991). However, members of the Court have also reasoned that certain circumstances mandate a looser application of the name-and-retain provision. See Salas v Clements, 399 Mich 103; 247 NW2d 889 (1976); Shay v JohnKal, Inc, 437 Mich 394, 401-402; 471 NW2d 551 (1991).\nThe Court in Salas reasoned that a departure from the literal construction of a statute was justified because the named defendant was unknown. Id. at 109-110. The Court reasoned that requiring the plaintiff to retain an unknown defendant may actually encourage collusion between the intoxicated defendant and the dramshop. Id. at 110. A dismissal due to plaintiffs\u2019 failure to retain an unknown defendant produced an absurd and unjust result and was inconsistent with the purposes and policies of the dramshop act. Id.\nIn Shay, a plurality of the Court reasoned that strict adherence to the name-and-retain provision was unjustified. Chief Justice Cavanagh and Justice Levin concluded that the risk of fraud and collusion was so attenuated that a violation of the name-and-retain provision did not occur. Id. at 402. Justices Brickley and Boyle concluded that there was no conflict between the mediation rules and the dramshop act. However, they concluded that, if a plaintiff rejected mediation in order to comply with the name-and-retain provision, no sanctions should follow. Thus, four justices allowed the suit to continue without the named defendant. Id. at 405.\nIn this case, the plaintiffs brought Wilson into the dramshop action as required by subsection 22(6). As discussed in part n of this opinion, their failure to retain him was due to a jurisdictional defect that plaintiffs could not avoid.\nSince the identity of Wilson is known, the complete absence of collusion that existed in Salas is not present here. However, it is highly unlikely that there was the collusion between plaintiffs and Wilson envisioned by the Court in Putney given the reasons for plaintiffs\u2019 failure to retain Wilson. In fact, strict compliance could lead dramshops to encourage intoxicated nonresident defendants to contest jurisdiction to avoid a dramshop action. See Salas at 110. Therefore, under the circumstances of this case, we conclude that the possibility of collusion is remote and that subsection 7 of the dramshop act further reduces it. MCL 436.22(7); MSA 18.993(7).\nUnder subsection 7, a dramshop has a \u201cright to full indemnification from the allegedly visibly intoxicated person for all damages awarded against the licensee.\u201d MCL 436.22(7); MSA 18.993(7). Consequently, one would expect Wilson not to engage in energetic assistance of the plaintiffs\u2019 case as was discussed in Salas at 110. Subsection 7 seems to allow the dramshops to enforce the indemnification provision in a separate cause of action against Wilson if necessary. Presumably, the dramshops could enforce such a provision in Canada. Thus, even though Wilson is not a party to this lawsuit, his financial stake in it will remain strong.\nWe agree with the Court of Appeals reasoning that strict enforcement of the name-and-retain provision would be unfair in this case. 211 Mich App 141. The plaintiffs may be able to exercise their negligence cause of action in Canada against Wilson, but are apparently without a cause against the dramshops there. Furthermore, since a dramshop action is the exclusive remedy against a licensee who serves a visibly intoxicated person in Michigan, the dramshops will be subject to no penalty. MCL 436.22; MSA 18.993. To deny plaintiffs the opportunity to bring a cause of action against the dramshops would frustrate the essential purpose of the dramshop act. See Salas at 109-110.\nLastly, we are unpersuaded by the defendants\u2019 fear of undue burden with respect to defending the dram-shop action. With the existence of the indemnification provision, it seems that defendants will have little difficulty deposing Wilson. Also, if necessary, the parties should be able to obtain letters rogatory in order to depose Wilson under the Canadian legal system. See, e.g., In re Fecht v Deloitte & Touche, 28 OR3d 188 (1996).\nAs Wilson cannot be retained because of a jurisdictional defect beyond plaintiffs\u2019 control, we find that strict compliance with the name-and-retain provision would frustrate the purpose of the dramshop act. MCL 436.22(6); MSA 18.993(6). As a result, we would affirm the Court of Appeals decision that allows a continuation of the dramshop action against defendants Jason Enterprises and Vivio\u2019s.\nCavanagh and Boyle, JJ., concurred with Kelly, J.\nMichigan\u2019s dramshop act states, in part:\nAn action under this section against a retail licensee shall not be commenced unless the minor or the alleged intoxicated person is a named defendant in the action and is retained in the action until the litigation is concluded by trial or settlement. [MCL 436.22(6); MSA 18.993(6).]\nUS Const, Am XIV.\nSee, generally, Juenger, Judicial jurisdiction in the United States and in the European communities: A comparison, 82 Mich L R 1195 (1984).\n[Although the statute may, by its terms, give jurisdiction to the court, it must also pass constitutional muster as applied to the particular case. [United States v Ivey, 747 F Supp 1235, 1239 (ED Mich, 1990).]\nSee, e.g., Ins Comm\u2019r v Arcilio, 221 Mich App 54, 73; 561 NW2d 412 (1997) (\u201c[0]ur long-arm statute has been interpreted to grant the broadest basis for jurisdiction consistent with due process\u201d); Rainsberger v McFadden, 174 Mich App 660, 662-663; 436 NW2d 412 (1989) (\u201cThis statute has been construed as giving the courts the broadest grant of jurisdiction consistent with due process\u201d); Kriko v Allstate Ins Co of Canada, 137 Mich App 528, 531; 357 NW2d 882 (1984) (\u201c[The long-arm statute] was intended to give Michigan courts the full extent of power possible to gain personal jurisdiction over nonresident defendants as is consistent with the principles of due process\u201d); Michigan Coalition of Radioactive Material Users v Griepentrog, 954 F2d 1174, 1176 (CA 6, 1992); Chandler v Barclays Bank PLC, 898 F2d 1148, 1150 (CA 6, 1990); FFOC Co v Invent AG, 882 F Supp 642, 651 (ED Mich, 1994); Chrysler Corp v Fedders Corp, 643 F2d 1229, 1236 (CA 6, 1981); Widger Chemical Corp v Chemfil Corp, 601 F Supp 845, 847 (ED Mich, 1985); Subacz v Town Tower Motel Corp, 567 F Supp 1308, 1311 (ND Ind, 1983).\nOne author notes that reference to statutes as coextensive with due process is often misleading. He believes that such phraseology would be\nbetter interpreted to mean that the specific categories of jurisdiction conveyed by the long-aim statute are to be interpreted, as liberally as the due process clause will allow. [Glannon at 27 (emphasis added).]\nThe Illinois Legislature added a catch-all provision to its enumerated statute in 1989. See Anderson, The long reach of Illinois\u2019 long-arm statute: The catch-all provision, 84 Ill B J 504 (1996).\nSubsection 7 was added by the 1986 amendments of the dramshop act.\nWe do not express an opinion as to what causes are possible against these particular defendants in Canada. In an analogous reverse situation, however, the Court of Appeals found that Michigan courts were unable to exercise jurisdiction over Canadian dramshops. See Mozdy v Lopez, 197 Mich App 356; 494 NW2d 866 (1992).",
+        "type": "majority",
+        "author": "Kelly, J."
+      },
+      {
+        "text": "Weaver, J.\n(concurring in part and dissenting in par\u00ed). I concur with the reasoning and result of the lead opinion\u2019s conclusion that personal jurisdiction does not exist over defendant Wilson. However, I dissent from the lead opinion\u2019s creation of an exception to the \u201cname and retain\u201d provision of Michigan\u2019s dramshop act. There is no justifiable reason for this Court to create an exception to the plain language of the \u201cname and retain\u201d provision where the allegedly intoxicated driver has been dismissed for lack of personal jurisdiction.\ni\nThe \u201cname and retain\u201d provision of the dramshop act states in pertinent part:\nAn action under this section against a retail licensee shall not be commenced unless the . . . alleged intoxicated person is a named defendant in the action and is retained in the action until the litigation is concluded by trial or settlement. [MCL 436.22(6); MSA 18.993(6).]\nThe language of this provision is clear and unambiguous. Spalo v A & G Enterprises (After Remand), 437 Mich 406, 409-411; 471 NW2d 546 (1991) (Griffin, J., plurality opinion). \u201c \u2018[R]etained\u2019 means being a real party in interest in the full sense of those words.\u201d Riley v Richards, 428 Mich 198, 213; 404 NW2d 618 (1987). In Putney v Haskins, 414 Mich 181, 187; 324 NW2d 729 (1982), this Court acknowledged the \u201cname and retain\u201d provision amounted to a rule per se requiring the retention of the allegedly intoxicated defendant until the litigation is concluded by trial or settlement.\nOne purpose of the \u201cname and retain\u201d provision is to preclude collusion between allegedly intoxicated defendants and injured plaintiffs to the disadvantage of the retail licensee defendant. This Court has emphasized that\n[o]ne of the ways the \u201cname and retain\u201d provision prevents fraud and collusion is by ensuring that the defendant will have a direct financial stake in personally testifying, examining witnesses, and arguing that he did not act in a negligent manner. [Putney, supra at 188.]\nIn order to have a direct financial stake, the allegedly intoxicated defendant must be more than a nominal party, but must actually be retained in the litigation. Id.\nAn allegedly intoxicated defendant excused for lack of personal jurisdiction has no direct financial stake in the litigation. Therefore, however remote, there exists a risk of collusion or fraud. Putney, supra. As this Court stated in Riley, supra, \u201c[t]here can be no degrees of compliance with the \u2018name and retain\u2019 provision.\u201d Riley, supra at 211. Thus, I would hold that creating an exception to the \u201cname and retain\u201d provision in this case is contrary to the provision\u2019s purpose.\nn\nIn 1986, after the decision in Putney, the Legislature added MCL 436.22(7); MSA 18.993(7) to the dramshop act. This subsection affords the dramshop a \u201cright to full indemnification from the alleged visibly intoxicated person for all damages awarded against the licensee.\u201d This Court has yet to be presented with a case interpreting the scope of the indemnification provision. However, the lead opinion reasons that the indemnification provision insures against collusion because the allegedly intoxicated driver retains a financial stake in the litigation even if the allegedly intoxicated defendant cannot be retained. Therefore, the lead opinion concludes that an exception to the \u201cname and retain\u201d provision is appropriate in this case.\nThe effect of this reasoning is to render the \u201cname and retain\u201d provision meaningless whenever there is some possibility that the dramshop might be able to pursue the allegedly intoxicated person for indemnification, even if that pursuit involves litigation in a foreign jurisdiction as in the instant case. The conclusion of the lead opinion is inconsistent with the purposes of the \u201cname and retain\u201d provision. Further, the Legislature did not repeal or amend the clear and unambiguous language of the \u201cname and retain\u201d provision when it added the indemnification provision. Therefore, the plain language of the provision should be afforded full effect, and because the lead opinion fails to do this, I find its reasoning unpersuasive.\nFurther, I find the Court of Appeals holding that \u201cstrict enforcement of the name and retain provision would produce an absurd result\u201d similarly unpersuasive. 211 Mich App 140, 145; 535 NW2d 233 (1995). Relying on Salas v Clements, 399 Mich 103, 109; 247 NW2d 889 (1976), the Court reasoned that because the plaintiffs were not responsible for defendant Wilson\u2019s dismissal for lack of personal jurisdiction, there was no danger of collusion between the plaintiffs and defendant Wilson.\nIn Salas at 109, this Court noted that \u201cdeparture from the literal construction of a statute is justified when such construction would produce an absurd and unjust result and would be clearly inconsistent with the purposes and policies of the act in question.\u201d Thus, this Court created an exception to the name and retain provision where the identity of the allegedly intoxicated individual was unknown because, in such a situation, there could be no collusion between the plaintiff and the alleged intoxicated individual. Id. Clearly, this reasoning does not apply in the present case where the identity of the allegedly intoxicated defendant is known. Nor is the plaintiff\u2019s lack of control over a dismissal for lack of personal jurisdiction grounds for ignoring the Legislature\u2019s clear mandate that the allegedly intoxicated defendant must be named and retained until the conclusion of the litigation.\nIn this case, the allegedly intoxicated defendant is known. Therefore, the danger of collusion and fraud against the retail licensee exists. While the danger of collusion might well be remote, it is entirely inappropriate for this Court to speculate regarding the likelihood of such collusion or fraud in light of the clear and unambiguous language of the \u201cname and retain\u201d provision.\nFor the reasons stated above, I would not create an exception to the \u201cname and retain\u201d provision in this case.\nBrickley and Riley, JJ., concurred with Weaver, J.\nIn adopting the \u201cname and retain\u201d provision, the Legislature may have recognized the difficulty inherent for the court in determining whether there was a serious likelihood of fraud and the resulting drain on judicial resources, and instead decided to create a rule per se. Putney, supra at 187.\nWhile a separate suit for indemnification is expressly permitted for all cases filed after July 1, 1986, indemnification remains only a possible avenue of recourse for the dramshop. As this Court noted in Riley, supra, a case evidently filed before the effective date of the indemnification provision, \u201c[a] separate suit for contribution ... in the case of an alleged intoxicated person with something less than a deep pocket, [is] an even more remote possibility.\u201d Riley, supra at 212, n 4.\nThe only other instance where this Court created an exception to the \u201cname and retain\u201d provision was in Shay v JohnKal, Inc, 437 Mich 394; 471 NW2d 551 (1991). In Shay, this Court held that the name and retain provision does not bar maintenance of a dramshop action where the allegedly intoxicated defendant was dismissed after a court-ordered mediation settlement. Shay is distinguishable from the present case because the dismissal of the defendant in Shay occurred after discovery, thus allowing the retail licensee remaining in the action a testimonial record for its defense. The danger of collusion may also have been diminished by the mediation process. Further, Shay was a plurality opinion, and the reasoning of the two opinions comprising the majority does not control.",
+        "type": "concurring-in-part-and-dissenting-in-part",
+        "author": "Weaver, J."
+      },
+      {
+        "text": "Mallett, C.J.\n(concurring in part and dissenting in part). For the following reasons, I dissent.\ni\nLIMITED personal jurisdiction\nAs the lead opinion notes, in determining whether the exercise of limited personal jurisdiction over the defendant is proper in this case, a two-step analysis must be undertaken. First, it must be determined if the exercise of limited personal jurisdiction over Wilson would be consistent with the requirements of the Due Process Clause, US Const, Am XIV. Second, it must be determined if Wilson is within the reach of Michigan\u2019s long-arm statute, MCL 600.705; MSA 27A.705. Jeffrey v Rapid American Corp, 448 Mich 178, 185; 529 NW2d 644 (1995). Also, because the trial court granted summary disposition in this case, it is assumed that all factual allegations in the complaint are true for the purposes of this appeal. Simko v Blake, 448 Mich 648, 654; 532 NW2d 842 (1995).\nA\nDUE PROCESS\nThe trial court found that the exercise of jurisdiction over Wilson would not violate the Due Process Clause, and defendants did not appeal this ruling. 211 Mich App 140, 142; 535 NW2d 233 (1995). Even though it was not presented, the Court of Appeals addressed this issue because it is potentially dispositive. As a general rule, this Court will not review issues that are not presented in the lower courts. Gordon Grossman Bldg Co v Elliott, 382 Mich 596, 602; 171 NW2d 441 (1969). Thus, in granting leave to appeal, this Court did not grant leave regarding the due process issue. Rather, leave to appeal with respect to the jurisdictional question was limited to \u201cwhether the circuit court had jurisdiction under MCL 600.705; MSA 27A.705 [Michigan\u2019s long-arm statute] over defendant Wilson . . . .\u201d 453 Mich 901 (1996). Although the due process issue has been waived, I will discuss this prong of the analysis for the sake of completeness.\nIn International Shoe Co v Washington, 326 US 310, 316; 66 S Ct 154; 90 L Ed 95 (1945), the United States Supreme Court held that the Due Process Clause allowed a state to exercise personal jurisdiction over a nonresident if the nonresident has \u201cminimum contacts\u201d with the state so that \u201ctraditional notions of fair play and substantial justice\u201d are not offended. Under the \u201cminimum contacts\u201d principle of International Shoe, a defendant need not ever be physically present in a state in order to be subject to personal jurisdiction in that state. See McGee v Int\u2019l Life Ins, 355 US 220; 78 S Ct 199; 2 L Ed 2d 233 (1957). Rather, the \u201cminimum contacts\u201d requirement would be satisfied if a defendant \u201cpurposely avails [himself] of the privilege of conducting activities within the forum State, thus invoking the benefits and protections of its laws.\u201d Hanson v Denckla, 357 US 235, 253; 78 S Ct 1228; 2 L Ed 2d 1283 (1957). If a defendant purposefully avails himself of a state\u2019s laws, he reasonably can anticipate being haled into that state\u2019s courts. World-Wide Volkswagen v Woodson, 444 US 286, 297; 100 S Ct 559; 62 L Ed 2d 490 (1980).\nMichigan courts have developed a three-part test to determine if a defendant has the minimum contacts necessary for a court to exercise personal jurisdiction. This test incorporates the United States Supreme Court\u2019s jurisprudence on this issue.\nFirst, the defendant must have purposefully availed himself of the privilege of conducting activities in Michigan, thus invoking the benefits and protections of this state\u2019s laws. Second, the cause of action must arise from the defendant\u2019s activities in the state. Third, the defendant\u2019s activities must be substantially connected with Michigan to make the exercise of jurisdiction over the defendant reasonable. [Jeffrey, supra at 186; Starbrite Distributing, Inc v Excelda Mfg Co, 454 Mich 302, 309; 562 NW2d 640 (1997).]\nThus, in order to determine if Wilson has minimum contacts with Michigan, we must first ask if he purposefully availed himself of the benefits and protections of Michigan law. As this Court noted in Witbeck v Bill Cody\u2019s Ranch Inn, 428 Mich 659, 667; 411 NW2d 439 (1987), the \u201c \u2018purposeful availment\u2019 requirement insures that a defendant will not be haled into a jurisdiction solely as a result of \u2018random,\u2019 \u2018fortuitous,\u2019 or \u2018attenuated\u2019 contacts,\u201d quoting Burger King v Rudzewicz, 471 US 462, 475; 105 S Ct 2174; 85 L Ed 2d 528 (1985). In Burger King, the United States Supreme Court explained:\n[W]here the defendant \u201cdeliberately\u201d has engaged in significant activities within a State ... he manifestly has availed himself of the privilege of conducting business there, and because his activities are shielded by the \u201cbenefits and protections\u201d of the forum\u2019s laws it is presumptively not unreasonable to require him to submit to the burdens of litigation in that forum as well. [Id. at 475-476.]\nIn this case, Wilson\u2019s contacts with Michigan are not random, fortuitous, or attenuated. He deliberately entered the state, patronized establishments that are licensed and regulated by Michigan law, and drove on roads that are maintained and governed by this state. By using Michigan\u2019s roads and patronizing Michigan\u2019s establishments, Wilson purposefully availed himself of the benefits and protections of Michigan law.\nSecond, it must be determined if the cause of action arose from the defendant\u2019s activities in the state. In this case, Wilson allegedly patronized bars in Michigan, became intoxicated in Michigan, and chose to drive while intoxicated in Michigan. Wilson urges this Court to find that the accident is unrelated to his activities in Michigan, i.e., that the accident did not arise from his alleged acts of becoming intoxicated and choosing to drive while intoxicated. I would decline to make such a finding. Whether Wilson\u2019s activities in Michigan are the cause of the accident is a question of fact that must be resolved by a jury. Riddle v McLouth Steel Products Corp, 440 Mich 85, 96; 485 NW2d 676 (1992); Prosser, Torts (5th ed), \u00a7 41, pp 264-265. Certainly, the causal nexus alleged by the plaintiffs is not so attenuated that I would hold that a finding of causation is precluded as a matter of law. When a person drives while intoxicated, it is foreseeable that an accident might occur. Thus, taking the plaintiff\u2019s factual allegations as true, the accident arose from Wilson\u2019s activities in Michigan.\nThird, it must be determined if defendant\u2019s activities were so substantially connected with Michigan that the exercise of jurisdiction is reasonable. I note that this part of the test is generally easy to meet. That is, if a defendant has purposefully availed himself to this state\u2019s law, he \u201c \u2018must present a compelling case that the presence of some other considerations would render jurisdiction unreasonable.\u2019 \u201d Starbrite, supra at 313, quoting Burger King, supra at 477. Although a court\u2019s primary concern in assessing the reasonableness of exercising jurisdiction over a defendant is the burden on the defendant, the court will also consider other factors, including\nthe forum State\u2019s interest in adjudicating the dispute, the plaintiff\u2019s interest in obtaining convenient and effective relief, at least when that interest is not adequately protected by the plaintiff\u2019s power to choose the forum, the interstate judicial system\u2019s interest in obtaining the most efficient resolution of controversies, and the shared interest of the several States in furthering fundamental social policies . . . .\u201d [World-Wide Volkswagen, supra at 292; see Starbrite, supra at 313.]\nIn this case, Wilson cannot show compelling reasons why jurisdiction in Michigan would be unreasonable. At the time of the accident, Wilson was allegedly a resident of Windsor. Because Detroit is close enough for defendant to socialize here, I could not say that it would be unreasonable for him to litigate here. Also, the alternative forum would likely be Windsor, and the burden of litigating in Detroit would be similar to the burden of litigating in Windsor.\nIn fact, the other factors support jurisdiction in Michigan. First, Michigan has a strong interest in adjudicating this dispute. This state seeks to ensure that people do not drive while intoxicated and to ensure that Michigan residents who are injured by drunk drivers are compensated. Second, because the plaintiffs are residents of Detroit, the plaintiffs\u2019 interest in obtaining convenient and effective relief is best served by litigating in Wayne County. Third, the most efficient resolution of the controversy would occur in Wayne County, where most of the witnesses of Wilson\u2019s alleged intoxication are likely to be. Finally, jurisdiction in Michigan would advance the shared interest of Michigan and Ontario in furthering fundamental substantive social policies. As do other jurisdictions, Michigan has an interest in holding those who injure others through drunk driving responsible for their actions.\nTherefore, all three prongs of the \u201cminimrim contacts\u201d test are met, and jurisdiction over Wilson is constitutionally permissible.\nB\nMICHIGAN\u2019S LONG-ARM STATUTE\nMichigan\u2019s long-arm statute, MCL 600.705; MSA 27A.705, allows this state\u2019s courts to exercise personal jurisdiction over nonresidents in certain situations.\nThe existence of any of the following relationships between an individual or his agent and the state shall constitute a sufficient basis of jurisdiction to enable a court of record of this state to exercise limited personal jurisdiction over the individual and to enable the court to render personal judgments against the individual or his representative arising out of an act which creates any of the following relationships:\n(1) The transaction of any business within the state.\n(2) The doing or causing an act to be done, or consequences to occur, in the state resulting in an action for tort.\n(3) The ownership, use, or possession of real or tangible personal property situated within the state.\n(4) Contracting to insure a person, property, or risk located within this state at the time of contracting.\n(5) Entering into a contract for services to be rendered or for materials to be furnished in the state by the defendant.\n(6) Acting as a director, manager, trustee, or other officer of a corporation incorporated under the laws of, or having its principal place of business within this state.\n(7) Maintaining a domicile in this state while subject to a marital or family relationship which is the basis of the claim for divorce, alimony, separate maintenance, property settlement, child support or child custody.[]\nPlaintiffs contend that Wilson falls within the scope of subsection 2: \u201cThe doing or causing an act to be done, or consequences to occur, in the state resulting in an action for tort.\u201d In interpreting this provision, it is helpful to consider the history of long-arm statutes in the United States.\nAfter the United States Supreme Court expanded the exercise of personal jurisdiction over nonresidents in International Shoe virtually every state enacted statutes to facilitate. the use of \u201clong-arm\u201d jurisdiction. Illinois was the first state to pass a long-arm statute, and this statute attempted to identify every situation in which a state could appropriately exercise jurisdiction. Soon after the Illinois statute was passed, the Illinois Supreme Court held that the statute permitted the state to exercise jurisdiction to the full extent permitted by the Due Process Clause. Several other states followed Illinois\u2019 lead and passed \u201claundry-list\u201d style long-arm statutes, and many courts of states with these statutes held that the scope of the statute was coextensive with the Due Process Clause. Thus, in these states, the courts have essentially merged the constitutional and statutory questions. In 1970, California explicitly merged the two-steps of jurisdictional analysis by passing a statute that simply says that the state may assert jurisdiction in any situation allowed by the Due Process Clause.\nThe Legislature passed Michigan\u2019s long-arm statute in 1961. This statute resembles Illinois\u2019 laundry-list-style long-arm statute. Not long after Michigan\u2019s long-arm statute was passed, this Court indicated that it would follow the lead of other states and construe the long-arm statute to confer jurisdiction to the broadest extent constitutionally permissible. In Sifers v Horen, 385 Mich 195, 198; 188 NW2d 623 (1971), a majority of this Court stated:\nWe are called upon in this case to construe a Michigan statute which represents an attempt on the part of the Michigan legislature to expand to its full potential limited personal jurisdiction of Michigan courts over nonresidents.\nUnless we are prepared to say that Michigan is forbidden by the Federal Constitution to exercise jurisdiction to the extent indicated in the statute we should not construe the statute so restrictively.\nLikewise, the lead opinion in Schneider v Linkfield, 389 Mich 608, 616; 209 NW2d 225 (1973), repeated this proposition from Sifers:\n\u201cThe courts of those states having \u2018long-arm\u2019 statutes similar to that of Michigan which confer, specifically, limited personal jurisdiction over defendants based on \u2018the transaction of any business within the state,\u2019 have generally construed their statutes as extending the state\u2019s jurisdiction to the farthest limits permitted by due process.\u201d[]\nSince this Court\u2019s pronouncements in Sifers and Schneider, the proposition that Michigan\u2019s long-arm statute is coextensive with the Due Process Clause has been continually repeated by the Michigan Court of Appeals and federal courts sitting in diversity.\nDespite the almost-universal assumption that Michigan\u2019s long-arm statute was intended to grant the broadest jurisdictional powers constitutionally possible, some members of the Court have suggested that the long-arm statute may not be as broad as widely believed. In Hapner v Rolf Brauchli, Inc, 404 Mich 160, 168, n 2; 273 NW2d 822 (1978), Justice Levin, joined by Justice Fitzgerald, stated in a footnote:\nI also note my disagreement with the statement that \u201c[i]n previous decisions, this Court has viewed the statute as an attempt by the Legislature to expand to its full potential limited personal jurisdiction of Michigan courts over nonresidents.\u201d . . . The Michigan statutes, in contrast with statutes or rules of other states (Cal Code Civ Proc 410.10; NJ Court Rules, 4:4-4[d]), does not contain a provision subjecting non-residents to jurisdiction to the fullest extent permissible under the Federal Constitution.\nLikewise, in Witbeck, supra at 428 Mich 666, n 3, this Court in dicta equivocated on the scope of the long-arm statute.\nIn construing Michigan\u2019s statute, some courts have concluded that its reach is coextensive with due process tests laid down by the United States Supreme Court. . . . This conclusion is based upon a statement made in Sifers v Horen, 385 Mich 195, 198; 188 NW2d 623 (1971), that the long-arm statute \u201crepresents an attempt on the part of the Michigan legislature to expand to its full potential limited personal jurisdiction of Michigan courts over nonresidents.\u201d . . . However, the Sifers Court also declared that its holding rested upon the \u201cexercise [of] jurisdiction to the extent indicated in the statute.\u201d[]\nIn order to resolve the present case, the precise contours of the long-arm statute need not be determined. I do note, however, that statutes that extend jurisdiction of courts are generally construed broadly. 3A Singer, Sutherland Statutory Construction (5th ed), \u00a7 67.03, pp 67-69. Instead of determining if the long-arm statute is coextensive with the Due Process Clause, I would hold that Wilson\u2019s actions are within the scope of the plain language of subsection 2 of the long-arm statute. This subsection allows this state\u2019s courts to exercise long-arm jurisdiction for \u201c[t]he doing or causing an act to be done, or consequences to occur, in the state resulting in an action for tort.\u201d\nWilson allegedly came to Michigan, became intoxicated in Michigan, and chose to drive while intoxicated in Michigan. He argues that these acts did not result in the current action for tort, and that the only act that resulted in an action for tort was the act of crossing the center line in the Detroit-Windsor tunnel and striking plaintiff\u2019s car. As I noted above, however, whether a causal link between Wilson\u2019s alleged activities in Michigan and the accident exists is a question of fact. Because the trial court granted summary disposition in this case, I must accept the plaintiffs\u2019 claim that the accident was caused by Wilson\u2019s alleged intoxication. As also noted above, the causal link alleged by the plaintiffs is not so attenuated that I would find a lack of causation as a matter of law.\nMoreover, the fact that the accident occurred outside Michigan does not remove defendant Wilson from the scope of subsection 2. Subsection 2 does not require that the entire tort occur in Michigan. Rather, it provides that either the act or the consequences of the act must occur in Michigan. In this case, Wilson began this tort when he breached his duty of care by choosing to drive while intoxicated. The consequences of this negligent conduct occurred in Canada when the plaintiffs suffered their damages. Because subsection 2 will reach a defendant if either the act or the consequences of the act occur in Michigan, Wilson is within the scope of subsection 2.\nTherefore, because Wilson allegedly became intoxicated in Michigan and chose to drive while intoxicated in Michigan, he committed acts in this state that \u201cresulted] in an action for tort.\u201d Jurisdiction is thus proper under the long-arm statute. Because both the constitutional and statutory requirements have been met, this state may exercise limited personal jurisdiction over Wilson.\nn\nNAME AND RETAIN CLAUSE\nBecause I would hold that Michigan courts have limited personal jurisdiction over Wilson, plaintiffs have complied with the name and retain clause of the dramshop act. I concur with Justice Kelly\u2019s opinion insofar as it discusses the dramshop act.\nin\nFor these reasons, I would affirm the judgment of the Court of Appeals and remand the case to the trial court for further proceedings.\nIn fact, the risk of accident is so great that the Legislature has criminalized driving while intoxicated. MCL 257.625; MSA 9.2325.\nPlaintiffs alleged that Wilson resided in Windsor at the time of the accident, and Wilson does not deny this. Wilson is apparently presently living in London, Ontario, which is approximately ninety miles from Windsor.\nWe note that in the majority of cases in which motor vehicle accidents involving nonresident defendants have occurred outside a forum state, courts have found that the forum does not have personal jurisdiction over the nonresident. Casad, Jurisdiction in Civil Actions, \u00b6 7.02[2][e][i], pp 7-34 to 7-36. This is usually either because the nonresident has done nothing to purposefully avail himself of the forum\u2019s laws or because the accident did not arise from the nonresident defendant\u2019s contacts with the forum.\nFor example, in Clavenna v Holsey, 81 Mich App 472; 265 NW2d 378 (1978), a Michigan resident and a Canadian resident were involved in a boating accident on the Canadian side of the Detroit River. Although the Court of Appeals in that case did not carefully separate the constitutional question from the statutory question, it did indicate that the Canadian defendant lacked any contacts with Michigan. Id. at 476-477. The Court of Appeals also correctly noted that the fact that the injured Michigan resident was treated in Detroit hospitals would not provide minimum contacts sufficient for jurisdiction. After all, the defendant\u2019s contacts with the forum state matter under International Shoe, not the plaintiff\u2019s contacts. See also Zandee v Colisto, 505 F Supp 180 (WD Mich, 1981) (a Michigan resident and a resident of British Columbia were involved in an accident in North Dakota).\nLikewise, in Helzer v F Joseph Lamb Co, 171 Mich App 6; 429 NW2d 835 (1988), a Michigan resident was struck by a van while crossing a street in Windsor. The nonresident defendant had contacts with Michigan, but these contacts were unrelated to the litigation. The driver of the van was a Canadian resident who drove daily into Michigan as part of his job. Although the defendant had conducted activities in Michigan, the Court of Appeals noted that no evidence established a causal nexus between the defendant\u2019s activities in Michigan and the accident. Therefore, the accident did not \u201carise from\u201d the defendant\u2019s contacts with Michigan.\nThe present case presents a unique situation. In contrast to Clavenna and Zandee, the defendant has unequivocally availed himself of the benefits and protections of Michigan law. In contrast to Helzer, his activities in Michigan are causally linked to the resulting accident.\nWhile \u00a7 705 only applies to personal jurisdiction over individuals, the long-arm statute has comparable provisions for corporations, MCL 600.715; MSA 27A.715, partnerships, MCL 600.725; MSA 27A.725, and partnership associations or unincorporated voluntary associations, MCL 600.735; MSA27A.735.\nBefore International Shoe, state courts could only exercise personal jurisdiction over nonresidents if the nonresident consented to jurisdiction or was served with process while physically within the state. Pennoyer v Neff 95 (5 Otto) US 714, 720; 24 L Ed 565 (1871).\nSee Scoles & Hay, Conflict of Laws (2d ed), \u00a7 8.33, pp 316-320; Casad, n 3 supra, \u00b6 4.01, pp 4-3 to 4-4.\nNelson v Miller, 11 Ill 2d 378, 389; 143 NE2d 673 (1957).\nScoles & Hay, n 6 supra; Casad, n 3 supra.\nSee, e.g., Safari Outfitters, Inc v Superior Court, 167 Colo 456, 458-459; 448 P2d 783 (1969); Larsen v Scholl, 296 NW2d 785, 788 (Iowa, 1980); Hunt v Nevada State Bank, 285 Minn 77, 96; 172 NW2d 292 (1969); Fox v Fox, 559 SW2d 407, 409 (Tex Civ App, 1977); but see also Longines-Wittnauer Watch Co v Barnes & Reinecke, Inc, 15 NY2d 443, 460; 209 NE2d 68 (1965) (holding that the New York long-arm statute is not coextensive with the Due Process Clause).\nCal Code Civ P 410.10. Rhode Island, New Jersey, and Wyoming have followed California\u2019s lead and enacted one-step long-arm statutes. RI Gen Laws 9-5-33; NJ Court Rule 4:4-4(b); WY Stat Ann 5-1-107. Also, Illinois, which passed the first laundry-list-style long-arm statute, added a catch-all provision to its statute in 1989. The catch-all provision states that the court may exercise long-arm jurisdiction in any situation that does not offend due process. See Anderson, The long reach of Elinois\u2019 long-arm statute: The catch-all provision, 84 111 B J 504 (1996). Other states that originally enacted laundry-list-style long-arm statutes have also added catch-all provisions to their statutes. Ala R Civ P 4.2(a); La Rev Stat 13.3201; Neb Rev Stat 25-536.\nThe lead opinion in Schneider was written by Justice Swainson and joined by Justice Thomas Giles Kavanagh. An opinion written by Justice Williams and joined by Justice Coleman and Chief Justice T. M. Kavanagh, does not explicitly state the proposition that the long-arm statute is coextensive with the Due Process Clause, but does limit its disagreement with the lead opinion to an unrelated issue. Thus, one could reasonably conclude that five justices in Schneider agreed with the proposition that the long-arm statute stretches to the limits of the Due Process Clause.\nSee, e.g., Ins Comm\u2019r v Arcilio, 221 Mich App 54, 73; 561 NW2d 412 (1997) (\u201c[0]ur long-arm statute has been interpreted to grant the broadest basis for jurisdiction consistent with due process\u201d); Rainsberger v McFadden, 174 Mich App 660, 662-663; 436 NW2d 412 (1989) (\u201cThis statute has been construed as giving the courts the broadest grant of jurisdiction consistent with due process\u201d); Kriko v Allstate Ins Co of Canada, 137 Mich App 528, 531; 357 NW2d 882 (1984) (\u201c[The long-arm statute] was intended to give Michigan courts the full extent of power possible to gain personal jurisdiction over nonresident defendants as is consistent with the principles of due process\u201d); Northern Ins Co of New York v B Elliott, Ltd, 117 Mich App 308, 316; 323 NW2d 683 (1982) (\u201call agree that, if constitutionally permissible, [Michigan\u2019s long-arm statute] would allow Michigan to assume jurisdiction as the forum state in this case\u201d); Hapner v Rolf Brauchli, Inc, 71 Mich App 263, 265-266; 247 NW2d 375 (1976) (\u201cThe broad language of the statute . . . indicates the Legislature\u2019s desire to expand limited personal jurisdiction to its full potential\u201d) (panel containing Justice Riley); Stan Sax Corp v Siefen Compounds, 68 Mich App 768, 769; 243 NW2d 724 (1976); Kiefer v May, 46 Mich App 566, 571; 208 NW2d 539 (1973) (\u201cThe only real limitation placed on this statute is the Due Process of the Fourteenth Amendment of the United States Constitution\u201d); Schneider v Linkfield, 40 Mich App 131, 135; 198 NW2d 834 (1972). But see Mallory v Conida Warehouses, Inc, 113 Mich App 280; 317 NW2d 597 (1982).\nWilson cites Woodward v Keenan, 79 Mich App 543; 261 NW2d 80 (1977) (panel containing Justice Riley) for the proposition that Michigan courts have shortened the reach of the long-arm statute. We believe that Wilson mischaracterizes the holding in Woodward. In Woodward, a Michigan resident was referred by her doctor to a clinic in South Bend, Indiana. The Michigan resident later sued the clinic in Michigan\u2019s courts for malpractice. The trial court granted summary disposition, holding that the clime\u2019s contacts with Michigan were insufficient under the Due Process Clause to warrant the exercise of limited personal jurisdiction. Id. at 546. The Court concurred with the trial court\u2019s due process analysis, id. at 550, but remanded the case to the trial court in order to allow the plaintiff to show if the defendants had conducted business in Michigan. Id. When the case returned to the Court of Appeals, the court unequivocally stated that Michigan courts lacked jurisdiction on constitutional grounds. The court stated, \u201cAs defendants lacked sufficient due-process ties with this state making them amenable to the jurisdiction of our courts, we therefore affirm the court\u2019s grant of accelerated judgment for want of in personam jurisdiction . . . .\u201d Woodward v Keenan (After Remand), 88 Mich App 791, 792; 279 NW2d 317 (1979) (panel containing Justice Riley). Woodward, therefore, was decided on constitutional, not statutory grounds. It does not hold that the reach of the long-arm statute is shorter than that of the Due Process Clause.\nSee, e.g., Michigan Coalition of Radioactive Material Users v Griepentrog, 954 F2d 1174, 1176 (CA 6, 1992); Chandler v Barclays Bank PLC, 898 F2d 1148, 1150 (CA 6, 1990); FFOC Co v Invent AG, 882 F Supp 642, 651 (ED Mich, 1994); Chrysler Corp v Fedders Corp, 643 F2d 1229, 1236 (CA 6, 1981); Widger Chemical Corp v Chemfil Corp, 601 F Supp 845, 847 (ED Mich, 1985); Subacz v Town Tower Motel Corp, 567 F Supp 1308, 1311 (ND Ind, 1983); Speckine v Stanwick Int\u2019l Inc, 503 F Supp 1055, 1057 (WD Mich, 1980); Gavelek v Coscol Petroleum Corp, 491 F Supp 188, 193 (ED Mich, 1979); Microelectronic Systems v Bamgerger\u2019s, 434 F Supp 168, 171 (ED Mich, 1977); Central Transport, Inc v Theurer, Inc, 430 F Supp 1076, 1078 (ED Mich, 1977); Mad Hatter, Inc v Mad Hatters Night Club, 399 F Supp 889, 890 (ED Mich, 1975); Hill v Smith, 337 F Supp 981, 982-984 (WD Mich, 1972); Hadad v Lewis, 382 F Supp 1365, 1370 (ED Mich, 1974). But see Horvath v Niles, 802 F Supp 146, 148 (WD Mich, 1992) (suggesting that the long-arm statute has been shortened when applied to out-of-state medical providers), and Lak, Inc v Deer Creek Enterprises, 885 F2d 1293, 1298 (CA 6, 1989) (suggesting that the long-arm statute may not be coextensive with due process in tort cases).\nPresently, all members of the Court agree that, in at least some situations, the scope of the long-arm statute exceeds the boundaries of the Due Process Clause. In Starbrite, supra at 307, all members of the Court agreed that the requirements of the long-arm statute were met. Two members, however, argued that jurisdiction was constitutionally impermissible.\nBecause Wilson\u2019s alleged conduct is a violation of Michigan\u2019s drunk driving laws, MCL 257.625; MSA 9.2325, it would create a rebuttable presumption of negligence. Klanseck v Anderson Sales & Service, Inc, 426 Mich 78, 86; 393 NW2d 356 (1986).\nAgain, we must take the facts in the light most favorable to the plaintiff and assume that the accident was caused by Wilson\u2019s alleged intoxication.\nWilson relies on Coleman v Gurwin, 443 Mich 59; 503 NW2d 435 (1993), and Gross v General Motors Corp, 448 Mich 147; 528 NW2d 707 (1995), in support of his argument that he is not within the scope of subsection 2. Both Coleman and Gross, however, interpret Michigan\u2019s venue statute, MCL 600.1629; MSA 27A.1629, not the long-arm statute. Even if we were to analogize our venue cases to this case, they would support the plaintiffs\u2019 position, not Wilson\u2019s. In Gross, we noted that venue does not lie solely where the injury occurred, but also where part or all of the cause of action arose. Id. at 154. Likewise, in Coleman, we stated that we would examine the elements of the cause of action in determining where venue is proper. Id. at 63. Thus, in tort cases, we examine where the duty arose, where the duty was breached, the causal relationship between the breach and damages, and where the plaintiff suffered damages. Lorencz v Ford Motor Co, 439 Mich 370, 375; 438 NW2d 844 (1992). Venue will be proper where the defendant breached his duty, even if the damages were suffered elsewhere.\nIn the present case, elements of the cause of action occurred in Michigan, namely, Wilson breached his duty of care when he allegedly chose to drive while intoxicated.",
+        "type": "concurring-in-part-and-dissenting-in-part",
+        "author": "Mallett, C.J."
+      }
+    ],
+    "attorneys": [
+      "Addis & Imbrunone, P.C. (by Thomas L. Imbrunone), for the plaintiffs-appellees.",
+      "Plunkett & Cooney, P.C. (by Ernest R. Bazzan\u00e1), for defendant-appellant Robert Wilson.",
+      "Kallas & Henk, P.C. (by Ted M. Kozerski), for defendant-appellant Jason Enterprises, Inc., doing business as The Booby Trap Lounge.",
+      "Morrison, Morrison & Finley (by Gregory W. Finley) for defendant Vivio\u2019s, Inc., doing business as Vivio\u2019s Food and Spirits."
+    ],
+    "corrections": "",
+    "head_matter": "GREEN v WILSON\nDocket Nos. 104028, 104034, 104039.\nArgued March 4, 1997\n(Calendar No. 9).\nDecided July 22, 1997.\nDiane B. Green and Leslie L. Martin, residents of Michigan, brought a negligence action in the Wayne Circuit Court against Fraser R. Wilson, a resident of Ontario, alleging that the defendant was speeding when his car crossed the center line in the Detroit-Windsor tunnel and collided head-on with their vehicle. The plaintiffs also brought dramshop actions against Vivio\u2019s Inc., and Jason Enterprises, alleging that both establishments served alcohol to the defendant when he was visibly intoxicated, and that the accident occurred when he was returning home from these bars. The court, J. Phillip Jourdan, J., granted Wilson\u2019s motion for summary disposition, holding that he was not within the reach of Michigan\u2019s long-arm statute, MCL 600.705; MSA 27A.705, and dismissed the dramshop actions because the allegedly intoxicated person was not retained as a defendant. The Court of Appeals, White, P.J., and Bandstra and W. P. Cynar, JJ., reversed in an opinion per curiam, holding that Michigan courts have jurisdiction over Wilson, and that compliance with the name and retain clause of the dramshop act would be excused when the allegedly intoxicated person is dismissed for lack of personal jurisdiction (Docket No. 156889). The defendants appeal.\nIn an opinion by Justice Kelly, joined by Justices Cavanagh and Boyle, an opinion by Justice Weaver, joined by Justices Brickley and Riley, and an opinion by Chief Justice Mallett, the Supreme Court held/.\nWilson\u2019s acts in Michigan that preceded his allegedly tortious acts in Canada were insufficient to subject him to MCL 600.705(2); MSA 27A.705(2). The failure to retain Wilson was due to a jurisdictional defect that the plaintiffs could not avoid, and any fear of collusion between the plaintiffs and Wilson is significantly reduced. Strict compliance with the name-and-retain provisions would frustrate the purpose of the dramshop act.\n1. Long-arm statutes establish the nature, character, and types of contacts that must exist for purposes of exercising personal jurisdiction. Due process, on the other hand, restricts permissible long-arm jurisdiction by defining the quality of contacts necessary to justify personal jurisdiction under the constitution. If a defendant\u2019s actions or status fit within a provision of a long-arm statute, jurisdiction may be extended as far as due process permits. The long-arm statute is coextensive with due process insofar as the statute is limited by due process, and, therefore, the statute and due process share the same outer boundary. The coextensive nature of Michigan\u2019s long-arm jurisdiction becomes pertinent only if the particular acts or status of a defendant first fit within a long-arm statute provision.\n2. Limited personal jurisdiction over a defendant may be exercised if the defendant\u2019s conduct falls within a provision of Michigan\u2019s long-arm statutes and the exercise comports with due process. Under \u00a7 705(2), the defendant\u2019s act or its consequences must have occurred in Michigan. While the consequences of the defendant\u2019s act, for purposes of subsection 2, occurred in Canada, where the plaintiffs sustained injuries, so too did the act. At the time Wilson left Michigan, he had committed no tort. The acts in Michigan that preceded his allegedly tortious acts in Canada were insufficient to subject him to subsection 2.\n3. As a condition of maintaining a dramshop action, a plaintiff must name and retain the alleged intoxicated person until the litigation is concluded by trial or settlement. Generally, failure to retain the named intoxicated defendant will result in termination of the action. However, exceptions have been recognized. The plaintiffs in this case brought Wilson into the dramshop action as required, but their failure to retain him was due to a jurisdictional defect that they could not avoid. The possibility of collusion between the plaintiffs and Wilson is remote, and the indemnification provision of MCL 436.22(7); MSA 18.993(7) further reduces it. Strict compliance with the name-and-retain provision would be unfair under the circumstances and would frustrate the essential purpose of the dramshop act.\nJustice Weaver, joined by Justices Brickley and Riley, concurring in part and dissenting in part, further stated that there is no justifiable reason to create an exception to the plain language of the \u201cname and retain\u201d provision of Michigan\u2019s dramshop act where the allegedly intoxicated driver has been dismissed for lack of personal jurisdiction. Departure from a literal construction of a statute is justified when it would produce an absurd and unjust result and would be clearly inconsistent with the purposes and policies of the act, such as where the identity of the allegedly intoxicated individual was unknown. Clearly, this reasoning does not apply in this case; the allegedly intoxicated defendant is known, and the danger of collusion and fraud against the retail licensee exists.\nChief Justice Marlett, concurring in part and dissenting in part, further stated that because all three prongs of the minimum contacts test were met, personal jurisdiction over the defendant is constitutionally permissible.\nThe Due Process Clause allows a state to exercise personal jurisdiction over a nonresident if the nonresident has minimum contacts with the state by conducting activities within the state, thus invoking the benefits and protections of its laws. The cause of action must arise from the defendant\u2019s activities in the state, and these activities must be substantially connected with the state to make the exercise of jurisdiction over the defendant reasonable. In this case, the defendant\u2019s contacts with Michigan were not random, fortuitous, or attenuated. By using Michigan\u2019s roads and patronizing Michigan\u2019s establishments, the defendant purposefully availed himself of the benefits and protections of Michigan laws. The accident arose from the defendant\u2019s activities in Michigan, and he cannot show compelling reasons why jurisdiction in Michigan would be unreasonable. Further, Michigan has strong interests in ensuring that people do not drive when intoxicated and that Michigan residents who are injured by drunk drivers are compensated; the plaintiffs\u2019 interest in obtaining convenient and effective relief is best served by litigating in Wayne County; the most efficient resolution would be in Wayne County, where most of the witnesses are likely to be; and jurisdiction in Michigan would advance Michigan\u2019s and Ontario\u2019s shared interest in furthering fundamental substantive social policies.\nMichigan\u2019s long-arm statute, MCL 600.705; MSA 27A.705, allows this state\u2019s courts to exercise personal jurisdiction over nonresidents in certain situations, and has been construed to confer jurisdiction to the broadest extent permissible under the federal constitution. In this case, the defendant\u2019s actions are within the scope of the plain language of subsection 2 of the long-arm statute. The defendant began this tort when he breached his duty of care by choosing to drive while intoxicated. The consequences of this negligent conduct occurred in Canada when the plaintiffs suffered their damages. Because subsection 2 will reach a defendant if either the act or the consequences of the act occur in Michigan, the defendant is within the scope of subsection 2.\nAffirmed in part and reversed in part.\n211 Mich App 140; 535 NW2d 233 (1995) affirmed in part and reversed in part.\nAddis & Imbrunone, P.C. (by Thomas L. Imbrunone), for the plaintiffs-appellees.\nPlunkett & Cooney, P.C. (by Ernest R. Bazzan\u00e1), for defendant-appellant Robert Wilson.\nKallas & Henk, P.C. (by Ted M. Kozerski), for defendant-appellant Jason Enterprises, Inc., doing business as The Booby Trap Lounge.\nMorrison, Morrison & Finley (by Gregory W. Finley) for defendant Vivio\u2019s, Inc., doing business as Vivio\u2019s Food and Spirits."
+  },
+  "file_name": "0342-01",
+  "first_page_order": 428,
+  "last_page_order": 462
+}

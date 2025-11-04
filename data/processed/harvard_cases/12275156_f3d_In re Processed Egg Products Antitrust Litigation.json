@@ -1,0 +1,615 @@
+{
+  "id": 12275156,
+  "name": "IN RE: PROCESSED EGG PRODUCTS ANTITRUST LITIGATION. Kraft Foods Global, Inc., Kellogg Company, General Mills, Inc., and Nestl\u00e9 USA, Inc., Appellants",
+  "name_abbreviation": "In re Processed Egg Products Antitrust Litigation",
+  "decision_date": "2018-01-22",
+  "docket_number": "No. 16-3795",
+  "first_page": "262",
+  "last_page": "277",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "881 F.3d 262"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "3d Cir.",
+    "id": 8840,
+    "name": "United States Court of Appeals for the Third Circuit"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "135 S.Ct. 897",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        12594404
+      ],
+      "weight": 2,
+      "year": 2015,
+      "pin_cites": [
+        {
+          "page": "904",
+          "parenthetical": "\"Cases consolidated for MDL pretrial proceedings ordinarily retain their separate identities, so an order disposing of one of the discrete cases in its entirety should qualify under \u00a7 1291 as an appealable final decision.\""
+        },
+        {
+          "parenthetical": "\"Cases consolidated for MDL pretrial proceedings ordinarily retain their separate identities, so an order disposing of one of the discrete cases in its entirety should qualify under \u00a7 1291 as an appealable final decision.\""
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/s-ct/135/0897-01"
+      ]
+    },
+    {
+      "cite": "579 F.2d 13",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        874156
+      ],
+      "weight": 8,
+      "year": 1978,
+      "pin_cites": [
+        {
+          "parenthetical": "\"Stotter\""
+        },
+        {
+          "page": "16",
+          "parenthetical": "internal quotation marks omitted"
+        },
+        {
+          "page": "17"
+        },
+        {
+          "page": "17"
+        },
+        {
+          "page": "18"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/579/0013-01"
+      ]
+    },
+    {
+      "cite": "392 U.S. 481",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6172095
+      ],
+      "weight": 6,
+      "year": 1968,
+      "pin_cites": [
+        {
+          "page": "493-94"
+        },
+        {
+          "page": "493"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/392/0481-01"
+      ]
+    },
+    {
+      "cite": "171 F.3d 912",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        11639064
+      ],
+      "year": 1999,
+      "pin_cites": [
+        {
+          "page": "924",
+          "parenthetical": "characterizing AGC as setting out six-factor test"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/171/0912-01"
+      ]
+    },
+    {
+      "cite": "707 F.3d 223",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        3536348
+      ],
+      "weight": 2,
+      "year": 2013,
+      "pin_cites": [
+        {
+          "page": "232-33"
+        },
+        {
+          "page": "232-33"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/707/0223-01"
+      ]
+    },
+    {
+      "cite": "543 F.2d 501",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1024859
+      ],
+      "year": 1976,
+      "pin_cites": [
+        {
+          "page": "505",
+          "parenthetical": "internal quotation marks omitted"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/543/0501-01"
+      ]
+    },
+    {
+      "cite": "405 U.S. 251",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11722121
+      ],
+      "weight": 3,
+      "year": 1972,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/405/0251-01"
+      ]
+    },
+    {
+      "cite": "479 U.S. 104",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6212134
+      ],
+      "weight": 3,
+      "year": 1986,
+      "pin_cites": [
+        {
+          "page": "110"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/479/0104-01"
+      ]
+    },
+    {
+      "cite": "429 U.S. 477",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6310
+      ],
+      "weight": 5,
+      "year": 1977,
+      "pin_cites": [
+        {
+          "page": "489"
+        },
+        {
+          "page": "489"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/429/0477-01"
+      ]
+    },
+    {
+      "cite": "837 F.3d 238",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        12124963
+      ],
+      "weight": 3,
+      "year": 2016,
+      "pin_cites": [
+        {
+          "page": "263",
+          "parenthetical": "quoting Brunswick Corp. v. Pueblo Bowl-O-Mat, Inc., 429 U.S. 477, 489, 97 S.Ct. 690, 50 L.Ed.2d 701 (1977)"
+        },
+        {
+          "page": "264-65",
+          "parenthetical": "\"Mid-West Paper reached its result because it wanted to ensure that only those who are most directly harmed by the- anticompetitive conduct can sue to remedy the. antitrust violation.\""
+        },
+        {
+          "page": "263",
+          "parenthetical": "\"[Djirectness' of injury is the focal point by which the remainder of the AGC factors are guided\""
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/837/0238-01"
+      ]
+    },
+    {
+      "cite": "523 U.S. 83",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11503308
+      ],
+      "weight": 3,
+      "year": 1998,
+      "pin_cites": [
+        {
+          "page": "103"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/523/0083-01"
+      ]
+    },
+    {
+      "cite": "459 U.S. 519",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6199687
+      ],
+      "weight": 7,
+      "year": 1983,
+      "pin_cites": [
+        {
+          "page": "536",
+          "parenthetical": "\"AGC\""
+        },
+        {
+          "parenthetical": "\"AGC\""
+        },
+        {
+          "parenthetical": "\"AGC\""
+        },
+        {
+          "page": "537-38"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/459/0519-01"
+      ]
+    },
+    {
+      "cite": "15 U.S.C. \u00a7 15",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "pin_cites": [
+        {
+          "page": "(a)"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "642 F.3d 168",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "year": 2011,
+      "pin_cites": [
+        {
+          "page": "170",
+          "parenthetical": "internal quotation marks omitted"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "602 F.3d 237",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        3922323
+      ],
+      "year": 2010,
+      "pin_cites": [
+        {
+          "page": "246"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/602/0237-01"
+      ]
+    },
+    {
+      "cite": "28 U.S.C. \u00a7 1291",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "28 U.S.C. \u00a7\u00a7 1331",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "15 U.S.C. \u00a7 1",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "312 F.R.D. 171",
+      "category": "reporters:specialty",
+      "reporter": "F.R.D.",
+      "case_ids": [
+        4140277
+      ],
+      "weight": 4,
+      "year": 2015,
+      "opinion_index": 0,
+      "case_paths": [
+        "/frd/312/0171-01"
+      ]
+    },
+    {
+      "cite": "431 U.S. 720",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        1590
+      ],
+      "weight": 20,
+      "year": 1977,
+      "pin_cites": [
+        {
+          "page": "726"
+        },
+        {
+          "page": "735"
+        },
+        {
+          "page": "730"
+        },
+        {
+          "page": "745-47"
+        },
+        {
+          "page": "731-732"
+        },
+        {
+          "page": "737"
+        },
+        {
+          "page": "730-32"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/431/0720-01"
+      ]
+    },
+    {
+      "cite": "596 F.2d 573",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        502956
+      ],
+      "weight": 18,
+      "year": 1979,
+      "pin_cites": [
+        {
+          "page": "578",
+          "parenthetical": "\"[W]e are required to assess whether Illinois Brick bars suits by purchasers from competitors of the antitrust defendants who allege that defendants' anticompetitive activity made it possible for their competitors to charge higher prices, thereby injuring plaintiffs.\""
+        },
+        {
+          "page": "581"
+        },
+        {
+          "parenthetical": "internal' quotation marks omitted"
+        },
+        {
+          "page": "583"
+        },
+        {
+          "page": "584"
+        },
+        {
+          "page": "585"
+        },
+        {
+          "page": "583",
+          "parenthetical": "internal quotation marks omitted"
+        },
+        {
+          "page": "585",
+          "parenthetical": "internal quotation marks omitted"
+        },
+        {
+          "page": "583"
+        },
+        {
+          "page": "584"
+        },
+        {
+          "page": "583",
+          "parenthetical": "internal quotation marks omitted"
+        },
+        {
+          "page": "585"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/596/0573-01"
+      ]
+    },
+    {
+      "cite": "305 F.3d 145",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        11386111
+      ],
+      "weight": 2,
+      "year": 2002,
+      "pin_cites": [
+        {
+          "page": "159"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/305/0145-01"
+      ]
+    },
+    {
+      "cite": "745 F.2d 786",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        592992
+      ],
+      "year": 1984,
+      "pin_cites": [
+        {
+          "page": "815",
+          "parenthetical": "\"Antitrust policy requires the courts to seek the economic substance of an arrangement, not merely its form.\""
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/745/0786-01"
+      ]
+    },
+    {
+      "cite": "263 F.3d 239",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        9483383
+      ],
+      "year": 2001,
+      "pin_cites": [
+        {
+          "page": "246"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/263/0239-01"
+      ]
+    },
+    {
+      "cite": "509 U.S. 579",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        355769
+      ],
+      "weight": 3,
+      "year": 1993,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/509/0579-01"
+      ]
+    },
+    {
+      "cite": "424 F.3d 363",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        8923374
+      ],
+      "weight": 2,
+      "year": 2005,
+      "pin_cites": [
+        {
+          "page": "374"
+        },
+        {
+          "parenthetical": "internal quotation marks omitted"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/424/0363-01"
+      ]
+    },
+    {
+      "cite": "998 F.2d 1144",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        10517044
+      ],
+      "year": 1993,
+      "pin_cites": [
+        {
+          "page": "1167-68",
+          "parenthetical": "discussing Mid-West Paper and noting \"all-important[ ] directness factor\""
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/998/1144-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 1768,
+    "char_count": 47726,
+    "ocr_confidence": 0.6,
+    "pagerank": {
+      "raw": 4.813809854802997e-08,
+      "percentile": 0.301644034073029
+    },
+    "sha256": "93bb950fd60a5d2a407f97d8e46db2e5baa01c75c76d4198549e9f128ba271c5",
+    "simhash": "1:d283e614ac88332e",
+    "word_count": 7414
+  },
+  "last_updated": "2024-02-27T17:59:44.301675+00:00",
+  "provenance": {
+    "date_added": "2018-10-23",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before: SMITH, Chief Judge, FUENTES, Circuit Judge, and STARK, Chief District Judge"
+    ],
+    "parties": [
+      "IN RE: PROCESSED EGG PRODUCTS ANTITRUST LITIGATION Kraft Foods Global, Inc., Kellogg Company, General Mills, Inc., and Nestl\u00e9 USA, Inc., Appellants"
+    ],
+    "opinions": [
+      {
+        "text": "OPINION\nSTARK, Chief District Judge.\nIn this antitrust case, suppliers of processed egg products are accused of conspiring to reduce the supply of eggs and, consequently, increasing the market price for egg products. The District Court, relying on our decision in Mid-West Paper Products Co. v. Continental Group, Inc., 596 F.2d 573 (3d Cir. 1979), as well as the bar on indirect purchaser actions established in Illinois Brick Co. v. Illinois, 431 U.S. 720, 97 S.Ct. 2061, 52 L.Ed.2d 707 (1977), concluded that the purchaser-plaintiffs lack antitrust standing. We find that neither Mid-West Paper nor Illinois Brick bars the price-fixing claims asserted here and reverse the District Court\u2019s grant of summary judgment.\nI\nThis is a case about eggs. After collection from laying hens, most commercially-produced eggs proceed through one of two principal distribution channels. The first path is for \u201cshell eggs,\u201d which are supplied to grocery stores and other distributors as whole eggs, packaged, for example, in crates by the dozen. \u201c\u2018Shell eggs\u2019 [are] defined as eggs produced from caged birds that are sold in the shell for consumption or for breaking and further processing.\u201d In re Processed Egg Products Antitrust Litig., 312 F.R.D. 171, 177 n.4 (E.D. Pa. 2015).\nThe second path involves what are referred to as \u201cegg products.\u201d \u201c \u2018Egg products\u2019 [are] defined as the whole or any part of shell eggs that have been removed from their shells and then processed, with or without additives, into dried, frozen, or liquid forms.\u201d Id. at 177 n.5. Food manufacturers are the primary purchasers of egg products, using them as ingredients in goods ranging from frozen waffles to salad dressing to mayonnaise.\nIn a series of individual and class actions brought by purchasers of shell eggs and egg products, certain egg suppliers are accused of price-fixing in violation of the Sherman Act, 15 U.S.C. \u00a7 1. It is alleged that, between at least 1999 and 2008, these producers conspired to reduce the population of egg-laying hens, resulting in a reduced supply of eggs and, in light of the inelasticity of demand in the relevant markets, supracompetitive prices.\nAppellee United Egg Producers, Inc. (\u201cUEP\u201d), a trade association, allegedly played an important role by coordinating a certification program. Egg producers participating in the certification program were required to increase their hens\u2019 cage sizes and refrain from replacing hens that died with another laying hen (a practice known as \u201cbackfilling\u201d). It is alleged that the animal welfare rationale offered for these practices is merely a pretext for the true goal of reducing egg supply to drive up egg prices.\nAppellants\u2014Kraft Foods Global, Inc., Kellogg Company, General Mills, Inc., and Nestl\u00e9 USA, Inc. (hereinafter, \u201cPlaintiffs\u201d or \u201cPurchasers\u201d)\u2014are food manufacturers. They sued Appellees\u2014UEP, as well as an exporting entity under UEP\u2019s control (United States Egg Marketers, Inc. (\u201cUSEM\u201d)), and five processed egg product suppliers who made sales directly to the Plaintiffs\u2014in the U.S. District Court for the Northern District of'Illinois. The Judicial Panel on Multidistrict Litigation transferred the case to the U.S. District Court for the Eastern District of Pennsylvania, consolidating it for pretrial purposes with other cases involving similar antitrust claims (the \u201cMDL\u201d).\nPlaintiffs\u2019 claims are based solely on purchases of egg products; claims by purchasers of shell eggs are being litigated in other cases within the MDL. Plaintiffs seek to recover overcharges they paid in the market for egg products due to \u201csubstantially increased\u201d prices resulting from Defendants\u2019 alleged participation in the supply-reduction conspiracy. (OB at 10)\nMore particularly, the Purchasers\u2019 theory is that the Suppliers conspired to reduce the supply of shell eggs, and to inflate the price of shell eggs, with the intent and effect of also artificially inflating the price of egg products. The Purchasers\u2019 view, which they contend is supported by their expert, is that the relevant market consists of shell eggs and egg products. Therefore, according to the Purchasers, the prices they paid for egg products\u2014of which shell eggs. are the main input\u2014 include overcharges, just as the conspiring Suppliers intended. (See generally JA416) (Plaintiffs\u2019 counsel arguing during summary judgment hearing, \u201c[0]ur allegations and our proof are that the output-reduction conspiracy at the henhouse level impacted in the same way both shell eggs and egg products.\u201d)\nThe Suppliers are vertically integrated to varying degrees. Thus, some proportion of the egg products purchased by Plaintiffs was made using eggs obtained from non-party, non-conspirator egg producers (\u201cnon-conspirator eggs\u201d), with much or all of the remainder made from eggs sourced internally, from the Suppliers\u2019 own laying hens (\u201cinternal eggs\u201d). A slightly altered version of a diagram prepared by the Purchasers depicts this arrangement:\nThe dashed line in the left box indicates that internal eggs are used as an input for the egg products purchased by Plaintiffs-Purchasers from Defendants-Suppliers. In addition, as represented by the dotted line running from the right box into the left box, those same egg products also contain some amount of, non-conspirator eggs that are first purchased by Defendants-Suppliers from non-conspirator egg producers. Therefore, the egg products Plaintiffs purchased from Defendants contain some combination of internal eggs, supplied directly by Defendants, and non-conspirator eggs, supplied indirectly by non-conspirator egg producers.\nDuring discov\u00e9ry, Plaintiffs\u2019 damages expert opined that (i) the relevant market included both shell eggs and egg products; (ii) small reductions in flock size and egg supply caused significant increases in egg prices, due to the market\u2019s high inelasticity of demand; and (iii) this increase also enabled Defendants to overcharge Plaintiffs for their purchases of egg products. Plaintiffs collectively claim aggregate damages in excess of $111 million.\nPlaintiffs\u2019 damages calculations make no distinction between' overcharges for egg \u25a0products made using internal eggs and those made from non-conspirator eggs. Plaintiffs\u2019 expert testified at his deposition that the proportion of price-fixed egg products derived from non-conspirator eggs is irrelevant. In the view of Plaintiffs\u2019 expert, Defendants\u2019 conspiracy effected an increase, in the market price of all shell eggs, regardless of their source. (See JA596-97)' (\u201cAs documented ... there are no close substitutes for eggs\u2014regardless of whether one considers shell, liquid, dried, or frozen' .eggs. ... A reduction in egg production means that fewer eggs are available for making/processing shell eggs or egg products.\u201d) Consequently, and as Defendants allegedly intended, Plaintiffs paid an overcharge on all of the egg products they purchased from Defendants, even if those egg products were made, in whole or in part, from non-conspirator eggs, (See generally JA749-50) (\u201c[A]nti-competitive actions to reduce the overall production of eggs will impact prices of all types of eggs analyzed in my report. ... The primary mechanism through which the alleged conspiracy impacted the prices of shell eggs and egg products was through coordinated efforts to reduce national flock size and the overall number of eggs gen\u00e9rally....\u201d)\n. After discovery concluded, Defendants moved for summary judgment. They argued that Plaintiffs\u2019 inclusion in their damages calculations of egg products made with non-conspirator eggs Violated Mid-West Paper\u2019s prohibition on \u201cumbrella damages.\u201d Defendants emphasized that none of Plaintiffs\u2019 allegations involves any wrongdoing undertaken at the egg product production stage, but only concern the production of shell eggs at the laying stage. They also demonstrated that one defendant, Michael Poods, made the \u201coverwhelming majority\u201d of relevant egg product sales, and that most of the egg products sold by Michael Foods were made with n\u00f3n-conspirator eggs. (Joint Response Brief of Defendants-Appellees (\u201cAB\u201d) at 10) In other words, it is undisputed that \u201ca Michael Foods egg product most likely was manufactured using egg supplied by a non-conspirator.\u201d (Id. at 11)\nDefendants also pointed to Plaintiffs\u2019 expert\u2019s acknowledgment that, \u201cas of- 2004, producers not alleged to be defendants or conspirators accounted for more than 45% of [hen] flocks in the United States.\u201d (AB at 12) (citing JA590) Further, according to Defendants, Plaintiffs\u2019 damages calculations do not reveal \u201cwhether the allegedly higher prices resulted from higher raw egg prices or higher processing margins.\u201d (AB at 14)\nThe District Court entered summary judgment for Defendants. It found that Plaintiffs lack antitrust standing because they impermissibly seek to \u201clink the raw egg prices of non-conspirators to the conspiracy\u201d in violation of Mid-West Paper, and, alternatively, their allegations run afoul of Illinois Brick\u2019s bar on \u201crecovery of pass through overcharges.\u201d (JA9-10) Plaintiffs ask us to reverse the District Court\u2019s entry of summary judgment and remand the case for trial.\nII\nThe District Court had jurisdiction under 28 U.S.C. \u00a7\u00a7 1331 and 1337. Plaintiffs filed a timely notice, of appeal on October 4, 2016. On October 6, 2016, we sought input from the parties as to whether \u201c[t]he order .appealed from , dismissed all claims as to all parties.\u201d In response, both sides agreed that, notwithstanding the pendency of other related cases in the MDL, the District Court\u2019s order that is the subject of this appeal resolved all claims brought by Plaintiffs and, therefore, was a final order immediately appealable under 28 U.S.C. \u00a7 1291. We agree. See Gelboim v. Bank of America Corp., \u2014 U.S. \u2014, 135 S.Ct. 897, 904, 190 L.Ed.2d 789 (2015) (\u201cCases consolidated for MDL pretrial proceedings ordinarily retain their separate identities, so an order disposing of one of the discrete cases in its entirety should qualify under \u00a7 1291 as an appealable final decision.\u201d). Therefore, we have appellate jurisdiction pursuant to \u00a7 1291.\nIII\nWe review the District Court\u2019s order granting summary judgment de novo. In doing so, w\u00e9 \u201capply the same test the District Court should have used.\u201d Howard Hess Dental Labs. Inc. v. Dentsply Int'l, Inc., 602 F.3d 237, 246 (3d Cir. 2010). Summary judgment is appropriate when \u201cthere is no genuine dispute as to any material fact and the movant is entitled to judgment as a matter of law.\u201d Fed. R. Civ. P. 56(a). We evaluate the record \u201cin the light most favorable to the nonmoving party and draw all inferences in that party\u2019s favor.\u201d Burns v. Pa. Dep\u2019t of Corr., 642 F.3d 168, 170 (3d Cir. 2011) (internal quotation marks omitted).\nIV\nSection 4 of the Clayton Act allows one \u201cinjured in his business or property by reason of anything forbidden in the antitrust laws,\u201d such as price-fixing prohibited by the Sherman Act, to sue for treble damages. 15 U.S.C. \u00a7 15(a). Plaintiffs contend that the District Court erred in finding that they lack antitrust standing and their \u00a7 4 claims are barred by Mid-West Paper and Illinois Brick. We agree.\nA\nThe term \u201cstanding\u201d as used in the antitrust context is conceptually difficult and has not been delineated with precision. See generally Associated Gen. Contractors of California, Inc. v. California State Council of Carpenters, 459 U.S. 519, 536, 103 S.Ct. 897, 74 L.Ed.2d 723 (1983) (\u201cAGC\") (\u201cThere is a similarity between the struggle of common-law judges to articulate a precise definition of the concept of \u2018proximate cause,\u2019 and the struggle of federal judges to articulate a precise test to determine whether a party injured by an antitrust violation may recover treble damages.\u201d). It is also something of a misnomer. For a party to have \u201cantitrust standing,\u201d it must do more than satisfy the familiar three-part test for standing\u2014\u201cinjury in fact, causation, and redressability,\u201d see generally Steel Co. v. Citizens for a Better Env\u2019t, 523 U.S. 83, 103, 118 S.Ct. 1003, 140 L.Ed.2d 210 (1998)\u2014that arises from the constitutional requirement of a \u201ccase or controversy.\u201d See AGC, 459 U.S. at 535 n.31, 103 S.Ct. 897. \u201cThe doctrine of antitrust standing requires a plaintiff to \u2018prove more than injury causally linked to an illegal presence in the market.\u2019 \u201d In re Modafinil Antitrust Litig., 837 F.3d 238, 263 (3d Cir. 2016) (quoting Brunswick Corp. v. Pueblo Bowl-O-Mat, Inc., 429 U.S. 477, 489, 97 S.Ct. 690, 50 L.Ed.2d 701 (1977)). Even a showing of antitrust injury\u2014that is, \u201cinjury of the type the antitrust laws were intended to prevent and that flows from that which makes defendants\u2019 acts unlawful,\u201d Bmnswick, 429 U.S. at 489, 97 S.Ct. 690\u2014is insufficient on its own to show antitrust standing to sue for treble damages under \u00a7\u25a0 4 of the Clayton Act. See, e.g., Cargill, Inc. v. Monfort of Colorado, Inc., 479 U.S. 104, 110, 107 S.Ct. 484, 93 L.Ed.2d 427 (1986).\nInstead, noting the breadth of \u00a7 4, courts have concluded that, rather than allowing \u201cantitrust laws to provide a remedy in damages for all injuries that might conceivably be traced to an antitrust violation,\u201d Hawaii v. Standard Oil Co. of Calif., 405 U.S. 251, 262 n.14, 92 S.Ct. 885, 31 L.Ed.2d 184 (1972), the treble damages remedy should be \u201cconfine[d] ... to those individuals whose protection is the fundamental purpose of the antitrust laws,\u201d Cromar Co. v. Nuclear Materials & Equip. Corp., 543 F.2d 501, 505 (3d Cir. 1976) (internal quotation marks omitted). There is no bright-line test. Instead, the Supreme Court has identified factors to be considered in determining if a plaintiff is a party entitled (under the particular circumstances of a specific case) to the protections of the antitrust laws. Based on the Supreme Court\u2019s opinion in AGC, we have extracted the following five-factor inquiry:\n(1) the causal connection between the antitrust violation and the harm to the plaintiff and the intent by the defendant to cause that harm, with neither factor alone conferring standing;\n(2) whether the plaintiffs alleged injury is of the type for which the antitrust laws were intended to provide redress;\n(3) the directness of the injury, which addresses the concerns that liberal application of standing principles might produce speculative claims;\n(4) the existence of more direct victims of the alleged antitrust violations; and\n(5) the potential for duplicative recovery or complex apportionment of damages.\nSee Ethypharm S.A. France v. Abbott Labs., 707 F.3d 223, 232-33 (3d Cir. 2013); see also Steamfitters Local Union No. 420 Welfare Fund v. Philip Morris, Inc., 171 F.3d 912, 924 (3d Cir. 1999) (characterizing AGC as setting out six-factor test).\nTherefore, determining whether Plaintiffs have antitrust standing to pursue their claims requires application of the AGC factors, based on an understanding of the most pertinent antitrust precedents. It is to those opinions that we now turn.\nB\nThe District Court\u2019s ruling turned on our Mid-West Paper decision and the Supreme Court\u2019s decision in Illinois Brick, and we discuss both cases in some detail below. Other cases must also be considered in order to place these two principal cases in the proper context.\nIn Hanover Shoe, Inc. v. United Shoe Machinery Corp., 392 U.S. 481, 88 S.Ct. 2224, 20 L.Ed.2d 1231 (1968), the Supreme Court considered a \u00a7 4 action brought by a shoe maker against a manufacturer of machinery that the shoe maker used in its operation. The manufacturer argued that the shoe maker was not injured by \u215b the manufacturer\u2019s anticompetitive conduct because the shoe maker had passed on to its own customers any overcharge it had paid to the manufacturer. The Supreme Court rejected this \u201cpassing-on defense\u201d on the basis that overcoming it would impose on antitrust plaintiffs a requirement of making \u201ca convincing showing of ... virtually unascertainable figures,\u201d resulting in the possibility that \u201cthose who violate the antitrust laws by price fixing or monopolizing would retain the fruits of their illegality because no one was available who would bring suit against them.\u201d Id. at 493-94, 88 S.Ct. 2224. \u201cTreble-damage actions would often require additional long and complicated proceedings involving massive evidence and complicated theories,\u201d which would unduly deter those suffering from antitrust injury, and embolden those in-dined to commit antitrust violations. Id. at 493, 88 S.Ct.-2224.\nA decade after Hanover Shoe, the Supreme Court decided Illinois Brick, 431 U.S. 720, 97 S.Ct. 2061. There, the State of Illinois and local governments claimed that concrete block manufacturers had engaged in a price-fixing conspiracy. Observing that the plaintiffs were \u201cindirect purchasers of concrete block, which passes through two separate levels in the chain of \u2022 distribution before reaching\u201d the plaintiffs, id. at 726, 97 S.Ct. 2061, the Supreme Court explained that Hanover Shoe\u2019s prohibition on a \u201cpass-on theory as a defense in an action by direct purchasers\u201d likewise required a symmetrical ban on \u201coffensive use of a pass-on theory against an alleged violator.\u201d Id. at 735, 97 S.Ct. 2061. In so holding, the Court aimed to protect defendants from the \u201cserious risk of multiple liability\u201d that might result from allowing an unascertain-ably \u00a1large number of disparate, indirect purchasers to bring antitrust claims. Id. at 730, 97 S.Ct. '2061. Potential liability would arise, instead, only from transactions de-fendant\u00e9 had with their direct customers. See id. at 745-47, 97 S.Ct. 2061.\nFurther, just as Hanover Shoe wanted to avoid burdening antitrust plaintiffs from nearly-impossible evidentiary challenges, Illinois Brick reflected the Supreme Court\u2019s \u201cperception of the uncertainties and difficulties in analyzing price and output decisions in the real economic world ... and of the costs to the judicial system and the efficient enforcement of the antitrust laws of attempting to reconstruct those decisions in the courtroom.\u201d Id. at 731-732, 97 S.Ct. 2061 (internal quotation marks omitted). The Court was concerned that allowing pass-on theories \u201cwould transform treble-damages actions into massive efforts to apportion the recovery among all potential plaintiffs that could have absorbed part of the overcharge from direct purchasers to middlemen to. ultimate' consumers.\u201d Id. at 737, 97 S.Ct. 2061.\nThis Court was called upon to apply Illinois' Brick\u2019s teachings in In re Sugar Industry Antitrust Litigation (Stotter & Co., Inc. v. Amstar Corp.), 579 F.2d 13 (3d Cir. 1978) (\u201cStotter\u201d). In Stotter, a candy wholesaler sued sugar refiners who allegedly conspired to fix sugar prices. The wholesaler had purchased candy (made with the price-fixed sugar) directly from one of the sugar refiners. The district court granted summary judgment to the refiners, finding that the wholesaler-plaintiff had not \u201cpleaded or proved ... that a conspiracy to fix sugar prices by the major refiners extends to their own sugar-containing products.\u201d Id. at 16 (internal quotation marks omitted). On appeal; the plaintiff argued\u2014as the egg product Purchasers do here\u2014that \u201cif it cannot sue for the overcharge incorporated in candy brought about by the price-fixing of sugar, then no one can,\u201d and thus the refiner from whom it purchased candy would \u201cescape liability for fixing the price of all the sugar it incorporated into candy.\u201d Id. at 17.\nJudge Weis, in an eloquent and succinct opinion, explained why the plaintiff did not \u201crun into an (Illinois) brick wall\u201d and could, indeed, pursue its \u00a7 4 action. Id, at 15. While it was true that the product at issue\u2014that is, the wholesaler\u2019s candy\u2014 \u201ccompetes not with sugar, but with other candy, and more than one ingredient determines the price\u201d of candy, this could not \u201cbe allowed to obscure the fact that' the plaintiff did purchase directly from the alleged violator.\u201d Id. at 17. We distinguished Illinois Buck on the basis that the Supreme Court\u2019s concerns over complicated allocations of \u201covercharge among a number of entities in.the chain\u201d were not present. Id. at 18. \u201cThe difficulty in computation\u201d in Stotter was \u201cnot in parceling out damages among- entities in the chain, but in isolating the excessive cost of one ingredient which goes into the product purchased by the plaintiff.\u201d Id. This was a tolerable level of complexity. See id. Judge Weis also explained that denying recovery under the circumstances presented in Stotter \u201cwould leave a gaping hole in the administration of the antitrust laws\u201d by allowing \u201cthe price-fixer of a basic commodity to escape the reach of a treble-damage pienalty simply by incorporating the tainted element into another product.\u201d Id. This Court, therefore, reversed the district court and permitted the wholesaler-plaintiff to proceed with its claim.\nShortly after deciding Stotter, we were again tasked with applying Illinois Brick, this time in Mid-West Paper, which involved allegations of price-fixing by manufacturers of consumer bags. See 596 F.2d 573. One of the plaintiffs was a grocery store (\u201cMurray\u201d) that used consumer bags to package its own products. Even though Murray purchased these bags from competitors of the price-fixing defendants\u2014 and not from the price-fixing defendants themselves\u2014Murray argued that it had standing to pursue \u00a7 4 damages from the price-fixing defendants because it was the defendants\u2019 actions that allowed Murray\u2019s non-conspirator supplier to charge supra-competitive prices. See id. at- 580-81; see also id. at 578 (\u201c[W]e are required to assess whether Illinois Brick bars suits by purchasers from competitors of the antitrust defendants who allege that defendants\u2019 anticompetitive activity made it possible for their competitors to charge higher prices, thereby injuring plaintiffs.\u201d).\nWe recognized that a \u201cliteral reading\u201d of \u00a7 4\u2019s broad language might support Murray\u2019s contention. See id. at 581. However, we further observed that \u201c\u00a7 4 standing doctrine has been forged so as to confine the availability of treble damages to those individuals whose protection is the fundamental purpose of the antitrust laws,\u201d Id. (internal' quotation marks omitted). In evaluating Murray\u2019s claim that it was harmed by the conspirators\u2019 creation of an \u201c \u2018umbrella\u2019 under which their competitors were able to charge higher prices than otherwise,\u201d we concluded that only a \u201ctenuous line of causation\u201d existed between the price-fixers\u2019 conduct\" and the prices Murray ultimately paid. Id. at 583. We also observed that, because Murray was not a direct, purchaser from the price-fixers, \u201c[t]he defendants secured no illegal benefit at Murray\u2019s expense.\u201d Id.\nAdditionally,. as in Illinois Brick, it would have been difficult to trace Murray\u2019s alleged injuries to the price-fixers\u2019 conduct, or to prove that the price-fixers\u2019 competitors would not have charged the elevated price for reasons other than defendants\u2019 conspiracy. Comparing Murray\u2019s claim to Illinois Brick, we explained:\n[Ijn both situations the plaintiff seeks to recover for higher prices set by, and paid by it to, parties other than the defendants. And the rationale underlying Illinois Brick [-] that it would be almost impossible, and at the very least unwieldy, to attempt to trace the incidence of the anticompetitive effect of defendants\u2019 conduct [-] bears even greater truth in the context of a purchaser from a competitor of the defendants. For ... it cannot readily be said with any degree of economic certitude to what extent, if indeed at all, purchasers from a competitor of the price-fixers have been injured by the illegal overcharge.\nId. at 584.\nWe did not want to sanction the transformation of antitrust litigation \u201cinto the sort of complex economic proceeding that the Illinois Brick Court was desirous of avoiding if at all possible.\u201d Id. at 585. Hence, we concluded, Murray could not be considered among \u201cthose whose protection is the fundamental purpose of the antitrust laws.\u201d Id. at 583 (internal quotation marks omitted). Barring parties like Murray from recovering under an \u201cumbrella theory,\u201d from antitrust conspirators with whom Murray had no direct relationship, would not undercut the goals of \u201cde-priv[ing] the violators of all the fruits of their illegality\u201d or deterring further wrongdoing, but would instead efficaciously \u201cconcentrat[e] the entire award in the hands of the direct purchasers.\u201d Id. at 585 (internal quotation marks omitted). This would give direct purchasers \u201can incentive to sue\u201d and \u201ccompensate[ ] those victims who are most likely to assume the mantle of private attorneys general for the injuries they suffered.\u201d Id.; see also id. at 578 n.9 (\u201c[T]he [Supreme] Court has ensured that under all circumstances there will be an incentive for direct purchasers to sue, a factor that, in the Court\u2019s view, is necessary to promote effective enforcement of the antitrust laws.... \u201d).\ny\nIn this case, the District Court applied Mid-West Paper and Illinois Brick and concluded that Plaintiffs lack antitrust standing. The District Court remarked that a significant proportion of the eggs used in the egg products purchased by Plaintiffs were non-conspirator eggs; that is, they had come from suppliers who were neither price-fixing conspirators nor defendants.\nThe District Court reiterated concerns it had raised in a previous ruling in a related case (also part of the MDL) regarding Defendants\u2019 opposition to a class certification motion. There, the Court had observed:\n\u2018[T]he failure to investigate the effect of the eggs from non-defendants on the prices of egg products weighs against a finding that the conspiracy would have had a common impact on the members of the putative subclass, [because] non-conspiring producers might price their products differently than conspirators, [and these differences might be reflected] in the prices of egg products, even if sold by Defendants, meaning that certain subclass members might not have experienced an impact as a result of the conspiracy.\u2019\n(JA7-8) (quoting Processed Egg, 312 F.R.D. at 202 n.22)\nAs the District Court pointed out, \u201cPlaintiffs\u2019 theory of the case is that Defendants conspired to reduce the supply of eggs. This, in ton, raised the price of eggs, and, consequently, the price of egg products.\u201d (JA9) Given that \u201c[a] significant proportion of the egg products at issue here is made with eggs purchased from non-conspirators,\u201d the absence of any analysis by Plaintiffs of what Defendants paid for non-conspirator eggs and how much of Defendants\u2019 egg products were made with those eggs rendered it \u201cimpossible to tell whether [or to what extent] the Defendants profited unduly from these egg products.\u201d {Id.) It seemed to the District Court that, instead, Defendants may have had to pay the non-conspirator egg producers a price that could have precluded Defendants from \u201creapfing] ill-gotten gains from the egg products sales.\u201d (Id.)\nIn the District Court\u2019s view, because \u201cPlaintiffs are relying on the theory that the conspiracy raised prices for all eggs, even those produced by non-conspirators,\u201d their claim \u201cis a quintessential restatement of the umbrella theory\u201d rejected in Mid-West Paper. (Id.) Alternatively, but also unavailing, the District Court found Plaintiffs\u2019 claims could be characterized as a combination of umbrella damages and a pass-on/indirect purchaser \u201cproblem\u201d of Illinois Brick. (Id.) As the District Court saw it: \u201cAttempting to link the raw egg prices of non-conspirators to the conspiracy is, under Mid-West Paper, too attenuated, and recovering overcharges when the Plaintiffs have not presented evidence that the Defendants, and not the non-conspirators, pocketed those overcharges creates a situation in which Plaintiffs are seeking recovery of pass-through overcharges, something prohibited by Illinois Brick.\u201d (JA9-10) Furthermore, despite Plaintiffs\u2019 insistence that \u201ctheir expert has isolated the effects of the conspiracy on the prices of egg products,\u201d to the District Court the expert could not have done so \u201cwithout any analysis whatsoever of the non-conspirator egg producers\u2019 pricing decisions and -without any knowledge of which eggs went into which egg products, and in what proportion.\u201d (JA10) Accordingly, because \u201cPlaintiffs are indeed at odds with the \u2018umbrella\u2019 damages rule,\u201d the District Court granted summary judgment to Defendants. (JA4; see also JA10 n.4 (concluding Plaintiffs \u201ccannot distinguish their damages theory from prohibited umbrella damages\u201d))\nVI\nA\nWe have a different view- than the District Court. While the District Court appropriately turned to Mid-West Paper and Illinois Brick as the most relevant precedents, we see this case as one in which the correct result is not compelled by either of these opinions\u2014or, indeed, by any other. Instead, this case presents an issue of first impression. The novel issue is whether a direct purchaser of a product that includes a price-fixed input has antitrust standing to pursue a claim against the party that sold the product to the purchaser, where the seller is a participant in the price-fixing conspiracy, but where the product also includes some amount of price-fixed input supplied by a third-party non-conspirator.\nBefore answering that question, we first note that Plaintiffs plainly have antitrust standing to seek damages for overcharges for egg products made only with internal eggs. Relatedly, Plaintiffs have antitrust standing to seek damages for just the portion of the egg products they purchased that were made from internal eggs. These conclusions are compelled by our holdings in Stotter and Linerboard. Just as the Stotter defendants were accused of fixing the price of sugar, and then incorporating price-fixed sugar into candy they sold directly to the Stotter plaintiff, Defendants here allegedly conspired to raise the price of shell eggs (by reducing supply), and then incorporated their price-fixed internal eggs into the egg products they sold directly to Plaintiffs. Like the plaintiff in Stotter, if Plaintiffs cannot sue for the overcharges they paid for egg products made with Defendants\u2019 internal eggs, no one can. Cf. Stotter, 579 F.2d at .18 (-\u201c[T]o deny recovery [here] ... would leave a gaping hole in the administration of the antitrust laws ... [by] allowing] the price-fixer of a basic commodity to escape the reach of a treble-damage penalty simply by incorporating the tainted element into another productMoreover, any difficulty in computing damages arises, not-from \u201cparceling out damages among entities in the chain, but in isolating the excessive cost of one ingredient.\u201d Id. This is a challenging task, but also one we found in Stotter to .-be amenable to litigation -and worthy of the efforts of federal courts, and we again find so here.\nWe need not belabor these points. Defendants concede that, had Plaintiffs limited their claim to damages based only on the internal eggs used in the Defendants\u2019 egg products, Plaintiffs likely would'have had antitrust standing. Plaintiffs have avoided limiting their claim in this manner and strongly prefer not to do so now. Nor does it appear that the parties asked the District Court to assess the viability of an antitrust claim based solely on egg products made from internal eggs.\nB\nAs the Plaintiffs have, chosen to pursue a claim for damages on all the egg products they purchased from the Suppliers, without regard to whether those egg products were made with internal eggs, non-conspirator eggs, or both, we must determine whether Plaintiffs have antitrust standing with respect to this broader' claim. We hold that they do.\nWe do not view Plaintiffs\u2019 claim as \u201ca quintessential restatement of the umbrella theory\u201d of Mid-West Paper. (JA9-10) To be sure, there are similarities between the Purchasers\u2019 allegations here and those that were inadequate to create antitrust standing in Mid-West Paper. The Purchasers\u2019 claims, like those of Murray in Mid-West Paper, involve allegations that the conspiracy raised the price of a product that was produced both.by conspirators and non-conspirators. This allegedly price-fixed product found its way into the injured parties\u2019 hands and, as in Mid-West Paper, the Purchasers seek to recover for overcharges for products whose manufacture involved non-conspirators. But the pertinent similarities between the Purchasers\u2019 claims and those rejected in Mid-West Paper end there.\nCrucially, unlike the plaintiff in Mid-West Paper, who sued price-fixing suppliers from whom it made no purchases and with whom it had no direct relationship, here the Purchasers are pressing claims against price-fixing suppliers from whom they directly, purchased products that incorporate a price-fixed component. While Murray, in Mid-West Paper, had to predicate its purported injuries on an \u201cumbrella theory\u201d\u2014that is, that the price-fixing defendants\u2019 wrongful conduct created, an artificially high, price \u201cumbrella\u201d under which non-conspiring producers from \u00a1 whom the plaintiff purchased also benefited by charging higher prices\u2014here the Purchasers\u2019 theory of injury is different, and simpler. The Purchasers are suing the conspiring parties from whom they bought the price-fixed product. The Purchasers were directly injured by wrongful conduct undertaken by their Suppliers.\nThe direct relationship between the Purchasers and their Suppliers, and the fact that the Suppliers are alleged price-fixing conspirators and not merely competitors of those conspirators, are key distinctions from the scenario-we confronted in Mid-West Paper. See In re Modafinil, 837 F.3d at 264-65 (\u201cMid-West Paper reached its result because it wanted to ensure that only those who are most directly harmed by the- anticompetitive conduct can sue to remedy the. antitrust violation.\u201d); In re Lower Lake Erie Iron Ore Antitrust Litig., 998 F.2d 1144, 1167-68 (3d Cir. 1993) (discussing Mid-West Paper and noting \u201call-important[ ] directness factor\u201d). The plaintiff in Mid-West Paper was \u201cnot in a direct or immediate relationship to the antitrust violators,\u201d 596 F.2d at 583, and was \u201cseek[ing] to recover for higher prices set by, and paid by [it] to, parties other than the defendants,\u201d id. at 584. Here, the Purchasers are in a direct relationship with the antitrust violators and seek to recover for higher prices set by those violators, and paid by the Purchasers to those very parties. These quite different facts render the Purchasers \u201camong those whose protection is the fundamental purpose of the antitrust laws.\u201d Id. at 583 (internal quotation marks omitted).\nNor is the outcome here governed by Illinois Brick. Unlike Illinois and the'other municipal purchasers of completed masonry structures and buildings from non-conspirators, who had only a highly attenuated relationship with the concrete manufacturer conspirators, Plaintiffs are in a direct purchaser relationship with the conspirator Defendants. Plaintiffs simply are not seeking to press an indirect purchaser antitrust claim: the egg products are alleged to be price-fixed, as the principal component of the egg products\u2014shell eggs\u2014is alleged to be price-fixed, regardless of whether those-shell eggs-are internal eggs or non-conspirator eggs. Moreover, unlike in Illinois Brick, here there appears to be no \u201cserious risk of multiple liability\u201d\u2014Defendants can be sued by, and likely only by, direct purchasers, such as Plaintiffs\u2014and the issues of proof and apportionment of damages are not of a magnitude that imposes intolerable \u201ccosts to the judicial system and the efficient enforcement of the antitrust laws.\u201d Illinois Brick, 431 U.S. at 730-32, 97 S.Ct. 2061.\nApplication of the AGO factors confirms the conclusion that Plaintiffs have antitrust standing to pursue their full claim. See generally 459 U.S. at 537-38,103 S.Ct. 897; see also Ethypharm, 707 F.3d at 232-33. Plaintiffs allege a clear \u201ccausal connection between the antitrust violation and the harm -to [them] and the intent by the defendant^]- to cause that harm.\u201d That is, Plaintiffs contend that Defendants drove up the price of shell eggs intending to likewise artificially inflate the price of egg products and then injured Plaintiffs by making them pay overcharges to Defendants. Further, Plaintiffs' \u201calleged injury\u201d\u2014that is, being made to pay higher prices\u2014\u201cis of the -type for which the antitrust laws were intended to provide redress,\u201d and the injury allegedly flowed \u201cdirectly]\u201d from Defendants to Plaintiffs. See generally In re Mddafinil, 837 F.3d at 263 (\u201c[Djirectness\u2019 of injury is the focal point by which the remainder of the AGC factors are guided\u201d) (internal quotation marks omitted). Also, there are no \u201cmore direct victims of the alleged antitrust violations,\u201d no \u201cpotential for duplicative recovery,\u201d and no \u201ccomplex apportionment of damages\u201d issues among various levels of injured parties. Our recognition here that direct purchasers, like Plaintiffs, have antitrust standing to sue conspirators, like Defendants, from whom they purchased a price-fixed product, does not make- Defendants vulnerable to suit from downstream con sumers\u2014for instance, a purchaser of waffles made by Plaintiffs with Defendants\u2019 egg products\u2014with whom Defendants have no relationship. To the contrary, if Plaintiffs cannot sue for the overcharges incorporated in the egg products they purchased, no one else can sue Defendants for these losses.\nThe Purchasers\u2019 antitrust standing does not turn on whether it is the Suppliers, as opposed to someone else, who bene-fitted from the overcharges the Purchasers paid. Damages recoverable by a plaintiff on a \u00a7 4 claim do not depend on the ill-gotten benefit of the wrongdoer. See Howard Hess Dental Labs. Inc. v. Dentsply Int\u2019l, Inc., 424 F.3d 363, 374 (3d Cir. 2005). Instead, the \u201ctypical measure\u201d of damages on such a claim is the overcharge paid by the plaintiff, that is \u201cthe difference between the actual price and the presumed competitive price multiplied by the quantity purchased.\u201d Id. (internal quotation marks omitted). Regardless of who actually collected the overcharge, the Purchasers\u2019 econometric analysis purports to show the \u201cdifference between the actual [supra-competitive] price and the presumed competitive price\u201d of the egg products they purchased. This purported difference, and the Purchasers\u2019 resulting injury, was allegedly a direct and intended result of the Suppliers\u2019 conspiracy to reduce the supply of eggs and to artificially inflate the price of egg products.\nIn sum, we conclude that Plaintiffs-Appellants have antitrust standing to pursue overcharge damages from the Defendants-Appellees from whom they purchased egg products, regardless of whether those egg products were made with internal eggs, non-conspirator eggs, or both. Consequently, we reverse the District Court\u2019s grant of summary judgment to Defendants and remand for further proceedings.\nC\nWe emphasize that our holding today is limited to determining that Plaintiffs have antitrust standing to pursue their claims. We conclude that the District Court\u2019s grant of summary judgment due to lack of such standing was error. We express no view as to the merits of Plaintiffs\u2019 claims. Nor have we reached any conclusion as to whether their claims may suffer from other flaws that may make this case amenable to resolution short of trial. Hence, while Plaintiffs ask us to \u201cremand the case for trial\u201d (OB at 56), we have not done so. Instead, it will be for the District Court to determine whether, given our conclusion that Plaintiffs have antitrust standing, this case should proceed to trial.\nWe recognized in Mid-West Paper that antitrust plaintiffs must prove \u201cactual causation\u201d with \u201creasonable certainty,\u201d and provide the trier of fact enough to \u201cmake a reasonable estimate of damages.\u201d 596 F.2d at 584 n.43 (internal quotation marks omitted). We reiterate these holdings. Our decision today does not consider whether Plaintiffs have made, or can make, a sufficient evidentiary showing on these elements to warrant presenting their claims to a jury. Similarly, it is for the District Court to decide whether to entertain any challenge to Plaintiffs\u2019 expert\u2019s econometric analysis under the familiar standard set out in Daubert v. Merrell Dow Pharmaceuticals, Inc., 509 U.S. 579, 113 S.Ct. 2786, 125 L.Ed.2d 469 (1993), and whether to grant any request it may receive from any party to expand the record in light of today\u2019s decision.\nVII\nFor the reasons given above, we find that Plaintiffs-Appellants have antitrust standing to pursue their Clayton Act \u00a7 4 claims. The District Court\u2019s grant of summary judgment to Defendants-Appellees is reversed. The case is remanded for proceedings not inconsistent with this Opinion.\n. \"Demand for a product is inelastic if the price can rise without a corresponding drop in demand.\u201d A.D. Bedell Wholesale Co. v. Philip Morris Inc., 263 F.3d 239, 246 (3d Cir. 2001). As applied here, if \"the demand for eggs is highly inelastic,\u201d as Appellants contend, then \"a relatively small reduction in the egg supply results in a large increase in egg prices.\u201d (Opening Brief of Plaintiffs-Appellants (\"OB\u201d) at 15)\n. The five supplier Appellees are Rose Acre Farms, Inc., Ohio Fresh Eggs, LLC, Michael Foods, Inc. (\"Michael Foods\"), R.W. Sauder, Inc., and Cal-Maine Foods, Inc. (hereinafter referred to, together with UEP and USEM, as \"Defendants\u201d or \"Suppliers\u201d).\n. In this Opinion we sometimes refer to shell eggs as the price-fixed product. At other times we refer to shell eggs as a price-fixed input into egg products, and describe egg products\u2014the principal component of which is shell eggs\u2014as a price-fixed good. For purposes of this Opinion, these descriptions are interchangeable. Plaintiffs allege, and have an expert who agrees, that Defendants intended to artificially inflate the prices of shell eggs and egg products by restricting the supply of eggs. (See OB at 10 (\"The conspiracy was intended by defendants to raise market prices for both shell eggs and egg products.\u201d); JA248 (alleging that \"Defendants agreed to control supply and artificially maintain and increase the price of eggs [i.e., all eggs]\u201d); JA200 (specifying that term \" 'eggs\u2019 refers to both 'shell eggs\u2019 and 'egg products\u2019 \u201d); JA749 (\"[E]co-nomic theory and the documentary record indicate that firms that process egg products affect shell egg prices by seeking opportunities to divert eggs to the most profitable product, and vice versa. ... Thus, anticompetitive actions to reduce the overall production of eggs will impact prices of all types of eggs analyzed in my report.\u201d)) While in some cases whether the price-fixed item is the complete product purchased by the plaintiff, or is instead merely a component of that product, may be relevant, resolution of the issues presented here is not impacted by this distinction. See generally Weiss v. York Hosp., 745 F.2d 786, 815 (3d Cir. 1984) (\"Antitrust policy requires the courts to seek the economic substance of an arrangement, not merely its form.\u201d).\n. In addition, certain Defendants obtained shell eggs from other conspirator-Defendants. These eggs are within the scope of what this Opinion refers to as \"internal\u201d eggs, as they were produced within the conspiracy. For purposes of the issues before\u2018us, it does not matter whether a Defendant\u2019s \"internal\u201d' eggs came from a flock owned by that same Defendant or instead from a flock that belonged to a fellow conspirator-Defendant.\n. Plaintiffs also contend that the District Court abused its discretion in \"sua sponte rejecting [their] economic expert's opinions concerning the relevant product market and the impact of the alleged output conspiracy on the prices that [Plaintiffs] paid.\u201d (OB at 5; see also id. at 51-56) Any flaw in the District Court's assessment of Plaintiffs\u2019 expert's opinions stemmed from the District Court\u2019s assessment of the relevant case law. On remand, it will be for the District Court to determine whether to permit Defendants to renew or restate a challenge to Plaintiffs\u2019 expert\u2019s opinions and to decide the merits of any such attack. (See infra Section VI.C).\n. There is no dispute that Plaintiffs have met their burden to show constitutional standing. They allege they suffered an injury in fact by having to pay overcharges, which were caused by Defendants' anticompetitive price-fixing, and which could be redressed by a Court order awarding treble damages.\n. Although all the cases we discuss in the next section predate AGC, they remain binding precedents, and their analyses of many of the factors later discussed in AGC are highly informative.\n, There are exceptions to Illinois Brick\u2019s \"indirect purchaser\u201d rule\u2014for \"pre-existing cost-plus contracts] \u201d or circumstances where \"the direct purchaser is owned or controlled by its customer,\u201d 431 U.S. at 736 & n.16, 97 S.Ct. 2061\u2014but they are not relevant to the issues before us.\n. We came to the same conclusion more recently in In re Linerboard Antitrust Litigation, 305 F.3d 145 (3d Cir. 2002). There, the putative class plaintiffs purchased \u201ccorrugated sheets or boxes\u201d directly from the defendants; these products were made with \u201clinerboard that was subject to an agreement on output,\u201d Id. at 159. We held-that, under Stotter, the plaintiffs\u2014as direct purchasers from conspirators who had unlawfully raised the price of an input into finished products the conspirators themselves sold to plaintiffs\u2014had antitrust standing. See id at 159-60,\n. dditionally, our holding in Mid-West Paper reflected reluctance to \u201cexpand the standing doctrine\u201d in cases where complex economic analyses \u201care a prerequisite to establishing that the plaintiff has suffered com-pensable injury altogether.\u201d 596 F,2d at 585. That problem is not presented here. To the contrary, as noted above,, the question of whether the Purchaser? suffered any actionable harm is clearly resolved in their favor under Stotter.\n. Defendants' motion for summary judgment was based solely on their theory that Plaintiffs lack antitrust standing due to their reliance on an invalid umbrella theory of damages. Consequently, the District Court\u2019s summary judgment opinion considered only that issue.\n. The District Court noted that \"no party has challenged the admissibility of [Plaintiffs\u2019] expert report or testimony.\u201d (JA5)",
+        "type": "majority",
+        "author": "STARK, Chief District Judge."
+      }
+    ],
+    "attorneys": [
+      "Richard P. Campbell, James T. Malys-iak, Michael T. Brody [Argued], Jenner & Block LLP, 353 N. Clark Street, Chicago, IL 60654, Counsel for Appellants",
+      "Carrie C. Mahan [Argued], Weil, Gotshal & Manges LLP, 1300 Eye Street, N.W., Washington, DC 20005, William L. Greene, Ruth S. Shnider, Stinson Leonard Street LLP, 150 S. Fifth Street, Minneapolis, MN 55402, Brian E. Robison, Gibson, Dunn & Crutcher LLP . 2100, McKinney Avenue, Suite 1100 Dallas, 'TX 75201, Christine C. Levin, Jennings F. Durand, Dechert LLP, 2929 Arch Street, Philadelphia, PA 19104, Donald M. Barnes, Jay L. Levine, Porter Wright Morris & Arthur LLP, 1900 K Street, N.W., Suite 1110, Washington, DC 20006, Molly S. Crabtree, Porter Wright Morris & Arthur LLP, 41 South High Street, 29th Floor, Columbus, OH 43215, Michael L. Scheier, Joseph M. Callow, Jr., Keating Muething &. Klekamp PLL, 1 East Fourth Street, Suite 1400, Cincinnati, OH 45202, Jan P. Levine, Robin P, Sumner, Whitney R. Redding, Pepper Hamilton LLP 3000 Two Logan Square, Philadelphia, PA 19103, Counsel for Appellees"
+    ],
+    "corrections": "",
+    "head_matter": "IN RE: PROCESSED EGG PRODUCTS ANTITRUST LITIGATION Kraft Foods Global, Inc., Kellogg Company, General Mills, Inc., and Nestl\u00e9 USA, Inc., Appellants\nNo. 16-3795\nUnited States Court of Appeals, Third Circuit.\nArgued July 11, 2017\n(Opinion Filed: January 22, 2018)\nRichard P. Campbell, James T. Malys-iak, Michael T. Brody [Argued], Jenner & Block LLP, 353 N. Clark Street, Chicago, IL 60654, Counsel for Appellants\nCarrie C. Mahan [Argued], Weil, Gotshal & Manges LLP, 1300 Eye Street, N.W., Washington, DC 20005, William L. Greene, Ruth S. Shnider, Stinson Leonard Street LLP, 150 S. Fifth Street, Minneapolis, MN 55402, Brian E. Robison, Gibson, Dunn & Crutcher LLP . 2100, McKinney Avenue, Suite 1100 Dallas, 'TX 75201, Christine C. Levin, Jennings F. Durand, Dechert LLP, 2929 Arch Street, Philadelphia, PA 19104, Donald M. Barnes, Jay L. Levine, Porter Wright Morris & Arthur LLP, 1900 K Street, N.W., Suite 1110, Washington, DC 20006, Molly S. Crabtree, Porter Wright Morris & Arthur LLP, 41 South High Street, 29th Floor, Columbus, OH 43215, Michael L. Scheier, Joseph M. Callow, Jr., Keating Muething &. Klekamp PLL, 1 East Fourth Street, Suite 1400, Cincinnati, OH 45202, Jan P. Levine, Robin P, Sumner, Whitney R. Redding, Pepper Hamilton LLP 3000 Two Logan Square, Philadelphia, PA 19103, Counsel for Appellees\nBefore: SMITH, Chief Judge, FUENTES, Circuit Judge, and STARK, Chief District Judge\nHonorable Leonard P. Stark, Chief Judge of the United States District Court for the District of Delaware, sitting by designation."
+  },
+  "file_name": "0262-01",
+  "first_page_order": 312,
+  "last_page_order": 327
+}

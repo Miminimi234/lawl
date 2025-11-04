@@ -1,0 +1,251 @@
+{
+  "id": 546172,
+  "name": "National Bank of Gloversville, Respondent, v. Isaac V. Place, Impleaded, etc., Appellant",
+  "name_abbreviation": "National Bank of Gloversville v. Place",
+  "decision_date": "1881-10-25",
+  "docket_number": "",
+  "first_page": "444",
+  "last_page": "448",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "86 N.Y. 444"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "N.Y.",
+    "id": 24653,
+    "name": "New York Court of Appeals"
+  },
+  "jurisdiction": {
+    "id": 1,
+    "name_long": "New York",
+    "name": "N.Y."
+  },
+  "cites_to": [
+    {
+      "cite": "22 N. Y. 323",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        2026269
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "432"
+        }
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny/22/0323-01"
+      ]
+    },
+    {
+      "cite": "38 N. Y. 326",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        500816
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny/38/0326-01"
+      ]
+    },
+    {
+      "cite": "80 N. Y. 82",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        2173237
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny/80/0082-01"
+      ]
+    },
+    {
+      "cite": "2 Hill, 537",
+      "category": "reporters:state",
+      "reporter": "Hill,",
+      "case_ids": [
+        11255279
+      ],
+      "weight": 2,
+      "opinion_index": -1,
+      "case_paths": [
+        "/scl/20/0537-01"
+      ]
+    },
+    {
+      "cite": "55 N. Y. 440",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        517508
+      ],
+      "weight": 2,
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny/55/0440-01"
+      ]
+    },
+    {
+      "cite": "8 Barb. 530",
+      "category": "reporters:state",
+      "reporter": "Barb.",
+      "case_ids": [
+        1936207
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/barb/8/0530-01"
+      ]
+    },
+    {
+      "cite": "41 How. 454",
+      "category": "reporters:scotus_early",
+      "reporter": "How.",
+      "pin_cites": [
+        {
+          "page": "457"
+        }
+      ],
+      "opinion_index": -1
+    },
+    {
+      "cite": "49 N. Y. 555",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        2057514
+      ],
+      "pin_cites": [
+        {
+          "page": "558"
+        }
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny/49/0555-01"
+      ]
+    },
+    {
+      "cite": "44 Barb. 601",
+      "category": "reporters:state",
+      "reporter": "Barb.",
+      "case_ids": [
+        1945451
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/barb/44/0601-01"
+      ]
+    },
+    {
+      "cite": "8 Johns. 28",
+      "category": "reporters:state",
+      "reporter": "Johns.",
+      "pin_cites": [
+        {
+          "page": "39"
+        }
+      ],
+      "opinion_index": -1
+    },
+    {
+      "cite": "2 Barb. 30",
+      "category": "reporters:state",
+      "reporter": "Barb.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "42 N. Y. 22",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        505059
+      ],
+      "pin_cites": [
+        {
+          "page": "25"
+        }
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny/42/0022-01"
+      ]
+    },
+    {
+      "cite": "76 N. Y. 522",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "42 Barb. 381",
+      "category": "reporters:state",
+      "reporter": "Barb.",
+      "case_ids": [
+        5114800
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/barb/42/0381-01"
+      ]
+    },
+    {
+      "cite": "42 N. Y. 316",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        504966
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny/42/0316-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 440,
+    "char_count": 7710,
+    "ocr_confidence": 0.493,
+    "pagerank": {
+      "raw": 6.673714378835619e-07,
+      "percentile": 0.9625281242265475
+    },
+    "sha256": "3cc903750db04e59c5f0a3e9dcdda79e6239794dce3286c8e8275ffb792f93e7",
+    "simhash": "1:1e863d911772cebd",
+    "word_count": 1373
+  },
+  "last_updated": "2024-02-27T20:42:53.385782+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "National Bank of Gloversville, Respondent, v. Isaac V. Place, Impleaded, etc., Appellant."
+    ],
+    "opinions": [
+      {
+        "text": "Andrews, J.\nThe only question on this appeal is, whether there was a consideration for the defendant\u2019s indorsement of the note of September 27, 1876, upon which the action is brought. This note was made to take up a prior note for the same amount, dated May 24,1876, at four months, held by the plaintiff, purporting to have been made and indorsed by the same parties, and was used for that purpose.\nThe genuineness of the indorsement of the note in suit was admitted, but the defendant Place denied the genuineness of the indorsement of the prior note, purporting to have been indorsed by him, and claimed that he indorsed the note in suit under a mistake, induced by the representation made to him, when the indorsement was made, that he was the indorser on the prior note. The referees found against him on the issue of the genuineness of the prior indorsement.\nIt is claimed, however, that, assuming the genuineness of the indorsement of the note of May 24th, there was no consideration to uphold the indorsement of that note, nor, consequently, of the note given in renewal. We think this point is not tenable.\nThe oral contract made between the bank and Wooster, in December, 1875, to carry the indebtedness of Wooster, arising out of his indorsements for the Burrs, for one year, was to be performed by his giving short paper, indorsed by the defendant Place and others, which the bank was to renew, from time to time, as it fell due. The note of May 24th, was given to renew paper taken by the bank under this arrangement. This prior paper was due, or about due, when that note was given. The bank could have sued that paper -when due, and proof of the agreement to carry the debt, and that new notes had been tendered in renewal, would not have been a defense. The proof of the contract to carry, would not have been admissible to control the legal effect of the promise contained in the notes, to pay at a fixed time. The bank, if it had refused to perform its agreement to renew, would, I think, have been liable for the breach, but only on the theory, that the promise to carry the debt, was a collateral promise, independent of the written contract contained in the notes. It would have constituted no defense to an action upon the notes falling-due within the year. At most it would have constituted a counter-claim to the extent of the injury sustained by its breach.\nIn this view there was ample consideration for the indorsement, by the defendant Place, of the note of May 24th.- The bank, upon taking that note, canceled the prior paper and extended the payment of the debt. The note in suit was indorsed to be used at the bank to take up the note of May 24th. This was understood by Place, and it is immaterial, upon the question of consideration, at whose request this indorsement was made.\nThe judgment should be affirmed.\nAll concur.\nJudgment affirmed.",
+        "type": "majority",
+        "author": "Andrews, J."
+      }
+    ],
+    "attorneys": [
+      "Samuel Hand for appellant.",
+      "Francis Kernan, for respondent."
+    ],
+    "corrections": "",
+    "head_matter": "National Bank of Gloversville, Respondent, v. Isaac V. Place, Impleaded, etc., Appellant.\nPlaintiff made an oral contract with J. W. to carry an indebtedness of the latter for a year upon his giving short notes indorsed by the defendant P. and others, to he renewed from time to time as they fell due. In renewing one of the notes so given, but not indorsed by P., a note was presented to and received by plaintiff so indorsed, and in renewal thereof another similar note was given and received. In an action upon the last note held, that there was a sufficient consideration for the indorsement of P. ; that the plaintiff could have sued the note in renewal of which P.\u2019s first indorsement was given, and the agreement would not have been a defense, at most it would only have constituted a counter-claim to the extent of the injury sustained by its breach ; and that the canceling of that note and extension of time of payment furnished a good consideration; also that it was immaterial at whose request the indorsement by P. was made.\n(Argued October 11, 1881;\ndecided October 25, 1881.)\nAppeal by defendant Place from a judgment of the General Term of the Supreme Court, in the fourth judicial department, entered upon an order made November 26, 1879, which affirmed a judgment in favor of plaintiff, entered upon the report of a referee.\nThis action was brought upon a promissory note dated September 27,1876, made by defendant Jonathan Wooster, payable to the order of defendant M. L. Wooster, and indorsed by him and by defendants O. W. Tho.mas and Isaac Y. Place-\nThe material facts are stated in the opinion.\nSamuel Hand for appellant.\nThe contract between J. Wooster and the bank was not void as a variation of the terms of the notes themselves, because it in no way contravened those terms, the renewed notes being the method of payment agreed upon and the notes not containing the whole-contract, but being mere instruments delivered as collateral to the main contract. (Barker v. Bradley, 42 N. Y. 316; Chapin v. Dobson, 78 id. 74; Platner v. Platner, id. 90; Chester v. Bk. of Kingston, 16 id. 336; Nichols v. Smith, 42 Barb. 381; Brick v. Brick, 8 Otto, 514.) The renewals were a mere extension already agreed upon. (Jagger Iron Co. v. Walker, 76 N. Y. 522.) The indorsement being for no new consideration from the plaintiff, and being without the request or knowledge of the debtor, is without consideration as to the latter, and as to him is void as against the indorser. (McNaught v. McClaughry, 42 N. Y. 22, 25; Jaffray v. Brown, 74 id. 393; Kean v. McKinsey, 2 Barb. 30; leonard v. Vreedenburg, 8 Johns. 28, 39; Farnsworth v. Clark, 44 Barb. 601.) As the referees simply found that Ira Wooster was the agent of the maker to present the note at the bank, no other power will be inferred, and the plaintiff is charged with notice of the extent of the agent\u2019s authority. (Martin v. Farnsworth, 49 N. Y. 555, 558.) The referees erred in overruling the objection of defendant to the question put to witness Wood, calling for a conversation had with Lee Wooster, subsequent to the contract between plaintiff and Jonathan Wooster. (Williams v. Manning, 41 How. 454, 457; Battin v. Healey, 36 id. 346, 351; Weeks v. Louetre, 8 Barb. 530.) The referees also erred in overruling defendant\u2019s objections to the questions put to the witness Wood, calling for the substance of entries made in the discount book by witness\u2019 son, and in allowing the witness to testify as to such entries. (Ocean Nat. Bk. v. Carll, 55 N. Y. 440; White v. Ambler, 8 id. 170; Brewster v. Doane, 2 Hill, 537.) The referees erred in overruling the objection of the defendant\u2019s counsel to the question put to the witness Wood, as to the authority of Hubert Wood to discount paper, and in refusing to strike out the evidence given in response thereto. (Patterson v. Syracuse Bk., 80 N. Y. 82.) The referees erred in overruling the several objections of the defendant\u2019s counsel, to questions put to witness Wood, as to entries in the discount book, he being, incompetent to testify as to the same. (Ocean Nat. Bk. v. Carll, 55 N. Y. 440; White v. Ambler, 8 id. 170; Brewster v. Doane, 2 Hill, 537.)\nFrancis Kernan, for respondent.\nThe finding by the referees that the defendant- did indorse the note dated May 24, 1876, affirmed by the Supreme Oourt, at General Term, is conclusive on this court. (loescheck v. Baldwin, 38 N. Y. 326; Caswell v. Davis, 58 id. 223, 229; Hay v. Miller, 70 id. 112, 118; Stilwell v. Mut. L. Ins. Co., 72 id. 385.) On the findings of the referees, the inferences from the evidence and the presumptions of law, the plaintiff is a bona fide holder of the note in suit, and entitled to recover. (Grant v. Morse, 22 N. Y. 323; Chubuck v. Vernan, 42 id. 432; Tomlimson v. Mayor, etc., 44 id. 601; Hays v. Miller, 70 id. 112, 116.)"
+  },
+  "file_name": "0444-01",
+  "first_page_order": 470,
+  "last_page_order": 474
+}

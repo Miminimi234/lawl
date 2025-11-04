@@ -1,0 +1,583 @@
+{
+  "id": 425246,
+  "name": "The State of Washington, Petitioner, v. Sergio Jerome Turner, Respondent",
+  "name_abbreviation": "State v. Turner",
+  "decision_date": "2001-05-31",
+  "docket_number": "No. 69535-1",
+  "first_page": "715",
+  "last_page": "731",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "143 Wash. 2d 715"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Wash.",
+    "id": 9029,
+    "name": "Washington Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 38,
+    "name_long": "Washington",
+    "name": "Wash."
+  },
+  "cites_to": [
+    {
+      "cite": "955 P.2d 872",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1998,
+      "pin_cites": [
+        {
+          "parenthetical": "\"[T]he trial court must conduct a hearing and make a record before imposing restraints upon a criminal defendant.\""
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "91 Wn. App. 236",
+      "category": "reporters:state",
+      "reporter": "Wash. App.",
+      "case_ids": [
+        1681617
+      ],
+      "year": 1998,
+      "pin_cites": [
+        {
+          "page": "241",
+          "parenthetical": "\"[T]he trial court must conduct a hearing and make a record before imposing restraints upon a criminal defendant.\""
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-app/91/0236-01"
+      ]
+    },
+    {
+      "cite": "959 P.2d 1061",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1998,
+      "pin_cites": [
+        {
+          "parenthetical": "\"The trial court conducted a hearing on the defense motion to appear without restraints ....\""
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "135 Wn.2d 863",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        812831
+      ],
+      "year": 1998,
+      "pin_cites": [
+        {
+          "page": "888",
+          "parenthetical": "\"The trial court conducted a hearing on the defense motion to appear without restraints ....\""
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/135/0863-01"
+      ]
+    },
+    {
+      "cite": "615 P.2d 480",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1980,
+      "pin_cites": [
+        {
+          "parenthetical": "\"[Security measures, including physical restraints, are within the inherent power and discretion of the trial judge. The necessity for those measures must be made on a case-by-case basis after a hearing with a record evidencing the reasons for the action taken.\""
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "26 Wn. App. 576",
+      "category": "reporters:state",
+      "reporter": "Wash. App.",
+      "case_ids": [
+        1833739
+      ],
+      "year": 1980,
+      "pin_cites": [
+        {
+          "page": "588",
+          "parenthetical": "\"[Security measures, including physical restraints, are within the inherent power and discretion of the trial judge. The necessity for those measures must be made on a case-by-case basis after a hearing with a record evidencing the reasons for the action taken.\""
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-app/26/0576-01"
+      ]
+    },
+    {
+      "cite": "466 U.S. 668",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6204802
+      ],
+      "weight": 3,
+      "year": 1984,
+      "pin_cites": [
+        {
+          "page": "687"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/466/0668-01"
+      ]
+    },
+    {
+      "cite": "743 P.2d 816",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1987,
+      "pin_cites": [
+        {
+          "parenthetical": "citing Strickland v. Washington, 466 U.S. 668, 687, 104 S. Ct. 2052, 80 L. Ed. 2d 674 (1984)"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "109 Wn.2d 222",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        1186045
+      ],
+      "year": 1987,
+      "pin_cites": [
+        {
+          "page": "225",
+          "parenthetical": "citing Strickland v. Washington, 466 U.S. 668, 687, 104 S. Ct. 2052, 80 L. Ed. 2d 674 (1984)"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/109/0222-01"
+      ]
+    },
+    {
+      "cite": "902 P.2d 1236",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1995,
+      "opinion_index": 0
+    },
+    {
+      "cite": "127 Wn.2d 490",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        433060
+      ],
+      "year": 1995,
+      "pin_cites": [
+        {
+          "page": "502"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/127/0490-01"
+      ]
+    },
+    {
+      "cite": "849 P.2d 1216",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1993,
+      "opinion_index": 0
+    },
+    {
+      "cite": "121 Wn.2d 317",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        1365816
+      ],
+      "year": 1993,
+      "pin_cites": [
+        {
+          "page": "321"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/121/0317-01"
+      ]
+    },
+    {
+      "cite": "512 P.2d 718",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1973,
+      "opinion_index": 0
+    },
+    {
+      "cite": "82 Wn.2d 577",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        1130180
+      ],
+      "year": 1973,
+      "pin_cites": [
+        {
+          "page": "583"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/82/0577-01"
+      ]
+    },
+    {
+      "cite": "584 P.2d 382",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1978,
+      "opinion_index": 0
+    },
+    {
+      "cite": "90 Wn.2d 443",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        1104389
+      ],
+      "year": 1978,
+      "pin_cites": [
+        {
+          "page": "447-48"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/90/0443-01"
+      ]
+    },
+    {
+      "cite": "947 P.2d 700",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1997,
+      "opinion_index": 0
+    },
+    {
+      "cite": "133 Wn.2d 541",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        331081
+      ],
+      "year": 1997,
+      "pin_cites": [
+        {
+          "page": "545-46"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/133/0541-01"
+      ]
+    },
+    {
+      "cite": "718 P.2d 407",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1986,
+      "pin_cites": [
+        {
+          "parenthetical": "footnotes omitted"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "105 Wn.2d 692",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        1199221
+      ],
+      "year": 1986,
+      "pin_cites": [
+        {
+          "page": "704-05",
+          "parenthetical": "footnotes omitted"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/105/0692-01"
+      ]
+    },
+    {
+      "cite": "816 P.2d 1",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1991,
+      "opinion_index": 0
+    },
+    {
+      "cite": "117 Wn.2d 369",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        1373860
+      ],
+      "year": 1991,
+      "pin_cites": [
+        {
+          "page": "380"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/117/0369-01"
+      ]
+    },
+    {
+      "cite": "397 U.S. 337",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        12054264
+      ],
+      "weight": 3,
+      "year": 1970,
+      "pin_cites": [
+        {
+          "page": "343"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/397/0337-01"
+      ]
+    },
+    {
+      "cite": "985 P.2d 289",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1999,
+      "opinion_index": 0
+    },
+    {
+      "cite": "139 Wn.2d 250",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        99086
+      ],
+      "year": 1999,
+      "pin_cites": [
+        {
+          "page": "273"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/139/0250-01"
+      ]
+    },
+    {
+      "cite": "635 P.2d 694",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1981,
+      "opinion_index": 0
+    },
+    {
+      "cite": "96 Wn.2d 383",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        1157465
+      ],
+      "weight": 2,
+      "year": 1981,
+      "pin_cites": [
+        {
+          "page": "398"
+        },
+        {
+          "parenthetical": "\"The trial court conducted a hearing on the defense motion to appear without restraints ....\""
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/96/0383-01"
+      ]
+    },
+    {
+      "cite": "975 P.2d 967",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1999,
+      "opinion_index": 0
+    },
+    {
+      "cite": "137 Wn.2d 792",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        179273
+      ],
+      "year": 1999,
+      "pin_cites": [
+        {
+          "page": "842"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/137/0792-01"
+      ]
+    },
+    {
+      "cite": "845 P.2d 1017",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1993,
+      "opinion_index": 0
+    },
+    {
+      "cite": "120 Wn.2d 822",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        1368161
+      ],
+      "year": 1993,
+      "pin_cites": [
+        {
+          "page": "830"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/120/0822-01"
+      ]
+    },
+    {
+      "cite": "900 P.2d 586",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1995,
+      "opinion_index": 0
+    },
+    {
+      "cite": "79 Wn. App. 101",
+      "category": "reporters:state",
+      "reporter": "Wash. App.",
+      "case_ids": [
+        423402
+      ],
+      "year": 1995,
+      "pin_cites": [
+        {
+          "page": "113"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-app/79/0101-01"
+      ]
+    },
+    {
+      "cite": "10 P.3d 1072",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2000,
+      "opinion_index": 0
+    },
+    {
+      "cite": "141 Wn.2d 1011",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "year": 2000,
+      "opinion_index": 0
+    },
+    {
+      "cite": "994 P.2d 284",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 2000,
+      "opinion_index": 0
+    },
+    {
+      "cite": "99 Wn. App. 482",
+      "category": "reporters:state",
+      "reporter": "Wash. App.",
+      "case_ids": [
+        180956
+      ],
+      "weight": 3,
+      "year": 2000,
+      "pin_cites": [
+        {
+          "page": "488"
+        },
+        {
+          "page": "492",
+          "parenthetical": "Brown, J., dissenting"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-app/99/0482-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 1171,
+    "char_count": 25229,
+    "ocr_confidence": 0.762,
+    "pagerank": {
+      "raw": 1.2029907243005338e-07,
+      "percentile": 0.5941164909614421
+    },
+    "sha256": "68ebfa8b53d426485c822b6c3bf953d80ee928ea095ebc38099c44cb8da3eb96",
+    "simhash": "1:f747f2b53f0c51a9",
+    "word_count": 4165
+  },
+  "last_updated": "2024-02-27T19:32:28.277612+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "The State of Washington, Petitioner, v. Sergio Jerome Turner, Respondent."
+    ],
+    "opinions": [
+      {
+        "text": "Ireland, J.\nThe State sought review of a Court of Appeals\u2019 decision reversing the conviction of Sergio Turner on kidnapping, unlawful imprisonment, attempted murder, and assault charges. At issue is whether the trial court erred by failing to conduct a hearing to examine the factual basis for requiring the defendant to wear restraints during trial. Because we find that the acts necessitating the use of handcuffs and shackles occurred in the presence of the trial judge, and that the trial court made adequate findings to support imposing restraints on the defendant, we reverse the Court of Appeals\u2019 decision and reinstate the defendant\u2019s conviction.\nFACTS\nDefendant Sergio Turner (Turner) was charged with two counts of first degree kidnapping, attempted first degree murder, second degree assault of a child, and assault of a law enforcement officer. The charges arose from events that occurred on December 28, 1997. The matter was assigned to the Honorable Salvatore Cozza (Judge Cozza) of the Spokane County Superior Court.\nDuring a pretrial hearing conducted on March 12, 1998, defense counsel Gary Hemingway (Hemingway) noted that Turner was in leg shackles and asked that they be removed. The prosecutor responded that Turner had threatened witnesses and law enforcement officers during earlier appearances in court. In addition, the prosecutor stated:\nThere is a substantial risk, at least in reviewing the file and also his conduct in jail with numerous fights. He beat up a retarded person [o]n the way up in the elevator on his first appearance. . . . There\u2019s a substantial risk he may assault someone in court. That\u2019s the reason for the shackles. It\u2019s the jail\u2019s position they feel he is a risk to those in the courtroom.\n... I would suggest Mr. Turner\u2019s threats make him a risk to everyone here. I would ask at least at a minimum the shackles on his legs remain during trial.\nReport of Proceedings (RP) at 61-62.\nJudge Cozza ruled as follows:\nI think that the court can take appropriate notice of difficulties that have arisen in other courtroom settings prior to trial with this defendant.\nIt is the directive of this court that he will continue to remain in the leg shackles.\nRP at 64-65.\nAt the conclusion of the suppression hearing, Turner became enraged at his attorney. He grabbed Hemingway\u2019s tie and said, \u201cI\u2019ll kill you, man. You\u2019re a liar, man. I\u2019ll kill all you motherfuckers, man. Fuck you.\u201d RP at 97. Turner swore at Judge Cozza and repeatedly said he would kill Hemingway. The court asked Turner if he wanted to be present for the hearing and the trial. Turner replied, \u201cFuck the trial, man. I\u2019ll kill the motherfucker [Hemingway], man.\u201d RP at 98. The court then told Turner he would be removed from the courtroom until he decided to behave and not swear. Turner responded by swearing at the judge and making threats, concluding with, \u201cI\u2019m going to kill him [Hemingway] and you [Judge Cozza], man. I\u2019m going to kill your racial ass. I\u2019ll kill that motherfucker.\u201d RP at 100. At that point, Turner was physically removed from the courtroom.\nDuring the lunch recess, Hemingway met with Turner at the jail to discuss the State\u2019s final plea offer. When Turner appeared with his attorney that afternoon, the court asked him if he wanted to accept the offer or to go to trial. Turner replied, \u201cEither way I\u2019m fucked.\u201d RP at 107. Turner was cautioned about his use of four-letter words and asked if he was \u201cgoing to sit and behave in a dignified and a courteous manner.\u201d RP at 108. Turner answered, \u2018Yeah.\u201d Id.\nThe prosecutor then addressed the court:\nIf we\u2019re going to continue, Your Honor, the State is requesting that he [Turner] remain chained hand and legs at this point, based on his outbreak this morning, his prior conduct, and also his conduct while Mr. Hemingway was talking to him. I have security concerns at this point.\nId.\nTurner again lost control and was removed from the courtroom. Judge Cozza then stated:\nThe record will reflect that just now Mr. Turner did grab Mr. Hemingway\u2019s tie and had to be forcibly removed from Mr. Hemingway\u2019s tie and has now been removed from the courtroom. I will take that as his indication that he is not going to remain in this courtroom in a dignified and courteous manner.\nRP at 109.\nHemingway addressed the court, expressing his concerns about continuing to represent Turner in light of the threats and violence by his client.\nJudge Cozza responded:\nBased on my observations of this defendant from last week and throughout the day today, I have a fairly well-held belief here that this defendant is engaging in a certain chosen course of acting, which I think is deliberately calculated to disrupt the proceedings and to stall things as long as possible. I think that, frankly, he\u2019s planning most of it out ahead of time. I think he knows exactly what he\u2019s doing, and I think in large part that this morning\u2019s temper tantrum, what we saw here this morning, is fairly calculated behavior.\nAnd I\u2019m fairly well convinced that he would do this regardless of whatever counsel ends up representing him. I think he would probably engage in the same tactic. And to reward him by delaying the proceedings and trying to find another attorney would just postpone this same action. I think it was calculated, frankly, just to stall things.\nRP at 110.\nNonetheless, the court granted Hemingway\u2019s motion to withdraw the following morning. The matter was continued, allowing time for the assignment of new counsel and trial preparation.\nPursuant to court order, Turner was sent to Eastern State Hospital \u201cfor evaluation of legal sanity and competency.\u201d Clerk\u2019s Papers (CP) at 98. In June 1998, the results of Turner\u2019s evaluation were filed. Although Turner was diagnosed with two disorders\u2014polysubstance abuse (cannabis, alcohol, and hallucinogens) and antisocial personality disorder, he was found competent to stand trial and legally sane at the time of his alleged crimes. The report noted, \u201cIt is quite possible that Mr. Turner may act out somewhat during the trial but this acting out behavior is under his volitional control and is not due to a mental disease or defect.\u201d CP at 100. The report concluded as follows:\nIt is our opinion that Mr. Turner is a substantial danger to other persons and presents a substantial likelihood of committing felonious acts jeopardizing public safety unless kept under further control of the court or other persons or institutions.\nMr. Turner has an extensive criminal and substance abuse history. He is firmly enmeshed in the gang culture and exhibits little remorse for his actions. Mr. Turner will continue to exhibit a recidivisitic antisocial history.\nCP at 101.\nWhen trial resumed before Judge Cozza on July 22, 1998, Turner was represented by John Nollette (Nollette). Defense counsel requested, in a hearing conducted through a video link with the jail, that Turner be permitted to return to the courtroom. The court advised Turner that he would be removed if he failed to abide by the court\u2019s instructions and courtroom decorum. Judge Cozza told Turner that he would be permitted back in the courtroom, but that he would be secured by a belly chain and shackles. Turner agreed to the conditions. Nollette objected to Turner being shackled, claiming that his client would behave and conduct himself appropriately. The court explained that \u201cconsidering the record of these things as a whole based on prior appearances in the courtroom, the report from Eastern State Hospital, et cetera\u2014taking all those things into consideration, I think that the court is not engaging in abuse of discretion in allowing the belly chain and shackles.\u201d RP at 130.\nDuring the afternoon court session, Nollette again addressed the issue of Turner\u2019s restraints, and Judge Cozza responded:\nTrial judges always wonder what appellate judges are going to do. They wonder sometimes if\u2014how can I put this? How can I put this? That we wonder sometimes if appellate judges remember what it\u2019s like in the trenches, I guess.\nBut I think I feel reasonably comfortable in saying that the record here is abundantly clear. The defendant on his prior appearances in the court lost control on two different occasions, two different hearings, grabbed his attorney by the tie and had to be forcibly extracted from his attorney\u2019s tie, had to be removed from the courtroom kicking and screaming in horizontal fashion by a couple of deputies and interspersed with 40 or 50 renditions of the F word towards the bench.\nI think that in this court\u2019s mind I think I feel reasonably safe in concluding that a reviewing court would find that it\u2019s not an abuse of the court\u2019s discretion to exercise a modicum of security by restraining the defendant\u2019s arms and legs.\nRP at 201-02.\nFollowing three days of trial, the jury found Turner guilty of the lesser offenses of second degree kidnapping and unlawful imprisonment (both counts while armed with a firearm), attempted second degree murder, and third degree assault.\nAt the sentencing hearing on August 17, 1998, the court made additional comments concerning restraint of the defendant during trial:\nIn this case we had a situation where really up until almost the day of trial we had a serious consideration of using a viewing area attached to the jail annex to allow the defendant to watch the proceedings there, given what had happened at earlier sessions. But, based upon what the court heard from the defendant and counsel, the court was persuaded to let Mr. Turner be in the courtroom during the trial. Nonetheless, we used . . . what\u2019s commonly called the corner courtroom on the third floor, which is probably the smallest of our Superior Court courtrooms, and it was used so as to facilitate a link to the jail so that, if the defendant had to be moved there, it could be\u2014readily be accomplished without having to engage in some sort of a delay in moving courtrooms.\nThe problem with that situation is that, depending on where the defendant would be seated, he would be within either 2 feet or probably 12 feet of where the jury would be seated, and it was\u2014that courtroom is fairly small and in confines.\nThe main consideration that the court had was how to restrain the defendant from possibly acting out towards either counsel or opposing counsel or some other person in the courtroom, and the court felt that it was important to restrain the defendant\u2019s hands, given that the hands have been used on prior counsel even while he was wearing the waist chain. So, I mean, it was something the court felt was fairly important to restrain his hands, and that was ultimately why the court chose to use the restraints in that context.\nRP at 543-44.\nPROCEDURAL HISTORY\nTurner appealed his conviction to the Court of Appeals, asserting the following errors: (1) refusal of the trial judge to recuse himself; (2) failure to hold a hearing prior to requiring the defendant to wear restraints during trial; (3) failure of the prosecutor to comply with a discovery order; (4) failure to instruct the jury on fourth degree assault as a lesser included offense of attempted first degree murder; (5) denial of a fair trial based upon ineffective assistance of counsel; and (6) denial of a fair trial due to the accumulation of errors.\nThe Court of Appeals reversed Turner\u2019s conviction and remanded the case for a new trial. State v. Turner, 99 Wn. App. 482, 994 P.2d 284 (2000). The majority concluded that \u201cthe trial court erred by failing to conduct a hearing and making a record before imposing restraints on Mr. Turner during his trial.\u201d Id. at 484.\nThis Court granted the State\u2019s petition for review of the Court of Appeals\u2019 decision. State v. Turner, 141 Wn.2d 1011, 10 P.3d 1072 (2000).\nANALYSIS\nStandard of Review\nThe essential facts of this case are found in the record. The issue is whether the superior court erred by failing to hold a hearing prior to requiring the defendant to wear restraints during trial. \u201cWe review the trial court\u2019s decision to shackle a defendant under an abuse of discretion standard . . . .\u201d State v. Breedlove, 79 Wn. App. 101, 113, 900 P.2d 586 (1995). \u201cDiscretion is abused when the trial court\u2019s decision is manifestly unreasonable, or is exercised on untenable grounds, or for untenable reasons.\u201d State v. Blackwell, 120 Wn.2d 822, 830, 845 P.2d 1017 (1993).\nRestraining the Defendant\nTurner asserted on appeal that the trial court was required to hold a hearing before deciding to shackle him during trial. He argued that the use of restraints was unduly prejudicial and denied him a fair trial.\n\u201cIt is well settled that a defendant in a criminal case is entitled to appear at trial free from all bonds or shackles except in extraordinary circumstances.\u201d State v. Finch, 137 Wn.2d 792, 842, 975 P.2d 967 (1999). \u201cRestraints are viewed with disfavor because they may abridge important constitutional rights, including the presumption of innocence, privilege of testifying in one\u2019s own behalf, and right to consult with counsel during trial.\u201d State v. Hartzog, 96 Wn.2d 383, 398, 635 P.2d 694 (1981).\nHowever, as the Elmore court recently observed, \u201c[W]e afford trial courts discretion in addressing on a case-by-case basis whether a defendant should be restrained during trial.\u201d State v. Elmore, 139 Wn.2d 250, 273, 985 P.2d 289 (1999). \u201cIt is fundamental that a trial court is vested with the discretion to provide for courtroom security, in order to ensure the safety of court officers, parties, and the public.\u201d Hartzog, 96 Wn.2d at 396.\nPanel members of the Court of Appeals in the instant case disagreed as to whether the trial court abused its discretion by restraining Turner during his trial. The majority concluded that the court should have held a hearing to determine if Turner\u2019s restraints were still necessary at trial, four months after they were first imposed. The dissent, on the other hand, argued that the trial court gave tenable reasons for its decision, and therefore did not abuse its discretion.\nThe majority relied on a line of Washington cases holding that a court\u2019s discretion to restrain a defendant \u201cmust be founded upon a factual basis set forth in the record.\u201d Hartzog, 96 Wn.2d at 400. The majority interpreted the cases to require that the trial court exercise its discretion by conducting a hearing and making a record before imposing restraints. Turner, 99 Wn. App. at 488.\nHowever, as the dissent pointed out, cases such as Hartzog address the procedure to be followed when the trial court is faced with potential courtroom misconduct by defendants\u2014not, as in the instant case, when faced with actual disruptions of the proceedings caused by a defendant\u2019s blatant and willful misbehavior in court. Turner, 99 Wn. App. at 492 (Brown, J., dissenting).\nThe United States Supreme Court has declared:\nIt is essential to the proper administration of criminal justice that dignity, order, and decorum be the hallmarks of all court proceedings in our country. The flagrant disregard in the courtroom of elementary standards of proper conduct should not and cannot be tolerated. We believe trial judges confronted with disruptive, contumacious, stubbornly defiant defendants must be given sufficient discretion to meet the circumstances of each case. No one formula for maintaining the appropriate courtroom atmosphere will be best in all situations.\nIllinois v. Allen, 397 U.S. 337, 343, 90 S. Ct. 1057, 25 L. Ed. 2d 353 (1970).\nAs this Court has stated, \u201cThe manner of maintaining order in the courtroom is within the trial judge\u2019s discretion; the least severe remedy to accomplish the result is preferable.\u201d State v. DeWeese, 117 Wn.2d 369, 380, 816 P.2d 1 (1991). In addition, the Finch court recently held as follows:\nThe trial court must base its decision to physically restrain a defendant on evidence which indicates that the defendant poses an imminent risk of escape, that the defendant intends to injure someone in the courtroom, or that the defendant cannot behave in an orderly manner while in the courtroom. To do otherwise is an abuse of the trial court\u2019s discretion.\nFinch, 137 Wn.2d at 850.\nIn the case before us, the court proceeded on direct evidence that the defendant was volatile and hostile. Turner repeatedly disrupted pretrial hearings with his verbal outbursts and physical violence. He made express death threats against both his counsel and the judge. After being warned about the need to conduct himself appropriately, Turner twice assaulted his attorney and had to be forcibly removed from the courtroom. The leg shackles Turner was wearing during his attacks proved inadequate to protect those around him. Although Turner\u2019s courtroom misconduct occurred four months before the continued trial date, a psychiatric evaluation, dated just the month before trial, stated that Turner was a substantial danger to others and that he might act out during trial. Defense counsel presented no evidence to the contrary\u2014other than Turner\u2019s previously unreliable assurances of his good behavior. The record establishes the factual basis for the court\u2019s determination to restrain Turner during trial.\nThe trial court balanced Turner\u2019s right to appear unrestrained against the need to conduct the trial in a safe and orderly manner. Compelling circumstances warranted Turner\u2019s restraint. In addition, on the morning of trial, the court offered Turner the choice between being present in the courtroom wearing restraints and viewing the proceedings through a video link. Turner chose to attend trial.\nA separate, formal hearing on the necessity of utilizing handcuffs and shackles during trial was not conducted, but such a hearing would simply have been redundant in this case. The trial court did not abuse its discretion in imposing restraints under the facts already set forth in the record.\nAdditional Issues on Appeal\nBecause the Court of Appeals remanded this case for a new trial, it did not address several issues raised by Turner on appeal. Because we reverse the Court of Appeals\u2019 decision, we will resolve the additional issues in the interest of judicial economy. Those issues include: (1) refusal of the trial judge to recuse himself; (2) failure of the prosecutor to comply with a discovery order; (3) failure to instruct the jury on fourth degree assault as a lesser included offense of attempted first degree murder; (4) denial of a fair trial based upon ineffective assistance of counsel; and (5) denial of a fair trial due to the accumulation of errors.\nFirst, Turner asserts that the trial court erred in refusing to grant his motion for recusal. He argues that Judge Cozza was necessarily biased against him because he witnessed Turner\u2019s disruptive conduct\u2014including assaulting his attorney and threatening the judge\u2014during pretrial hearings. He further argues that the judge showed demonstrable bias in the manner in which the proceedings were conducted. However, the record reveals that the court\u2019s rulings during trial were consistent with applicable law. In addition, the judge concluded, based on his own observations, that Turner\u2019s conduct was intended to disrupt and stall the proceedings. As Judge Cozza aptly stated:\nIf we start recusing ourselves every time a defendant says \u201cF\u201d you, Judge, I\u2019m going to kill you,\u201d we\u2019re going to go through 11 judges pretty quick.\nCP at 200. Turner should not be allowed to benefit from his own misbehavior.\nSecond, Turner claims that the prosecutor was required to disclose (1) an allegation by one of Turner\u2019s victims that he choked her with a sock; and (2) the field notes of an investigating officer whose full incident report was explored during the officer\u2019s testimony at trial. This Court has held:\nThe prosecuting attorney is under a duty to disclose and to preserve evidence that is material and favorable to the defendant and a failure to do so will generally be held to violate the accused\u2019s constitutional right to a fair trial. . . .\n. . . The mere possibility that an item of undisclosed evidence might have helped the defense or might have affected the outcome of the trial, however, does not establish \u201cmateriality\u201d in the constitutional sense.\nState v. Kwan Fai Mak, 105 Wn.2d 692, 704-05, 718 P.2d 407 (1986) (footnotes omitted). Although Turner argues that the prosecutor failed to produce the information in compliance with a discovery order, he provides only conjecture that such a failure materially affected the outcome of the trial.\nThird, Turner argues that the court erred in refusing to instruct the jury that fourth degree assault is a lesser included offense in the charged offense of attempted first degree murder. Under Washington law, \u201cthe defendant may be found guilty of an offense the commission of which is necessarily included within that with which he is charged in the indictment or information.\u201d RCW 10.61.006. A defendant is entitled to an instruction on a lesser included offense if the following conditions are met: (1) each of the elements of the lesser offense is a necessary element of the offense charged (legal prong); and (2) the evidence supports an inference that the lesser crime was committed (factual prong). State v. Berlin, 133 Wn.2d 541, 545-46, 947 P.2d 700 (1997); State v. Workman, 90 Wn.2d 443, 447-48, 584 P.2d 382 (1978). In other words, \u201cif it is possible to commit the greater offense without having committed the lesser offense, the latter is not an included crime.\u201d State v. Roybal, 82 Wn.2d 577, 583, 512 P.2d 718 (1973).\nAt issue in this case is whether each of the elements of fourth degree assault is a necessary element of attempted first degree murder. As charged, first degree murder requires \u201ca premeditated intent to cause the death of another.\u201d RCW 9A.32.030(1)(a). A person is guilty of criminal attempt if, \u201cwith intent to commit a specific crime, he does any act which is a substantial step toward the commission of that crime.\u201d RCW 9A.28.020(1). An assaultive act, which is a necessary element of fourth degree assault, is not a necessary element of attempted first degree murder; the greater offense can be committed without committing an assault. This Court has previously held that assault is not a lesser included offense of attempted murder in the first degree. State v. Harris, 121 Wn.2d 317, 321, 849 P.2d 1216 (1993). Therefore, the trial court properly declined to instruct the jury on fourth degree assault as a lesser included offense.\nIn addition, Turner contends he was denied effective assistance of counsel because his attorney failed to present expert testimony in support of Turner\u2019s diminished capacity defense. \u201cTo show diminished capacity, a criminal defendant must produce expert testimony demonstrating the defendant suffered from a mental condition that impaired his or her ability to form the requisite specific intent.\u201d State v. Eakins, 127 Wn.2d 490, 502, 902 P.2d 1236 (1995). To establish ineffective assistance of counsel, the defendant must show that (1) counsel\u2019s performance was deficient and (2) the deficient performance prejudiced the defense. State v. Thomas, 109 Wn.2d 222, 225, 743 P.2d 816 (1987) (citing Strickland v. Washington, 466 U.S. 668, 687, 104 S. Ct. 2052, 80 L. Ed. 2d 674 (1984)). It cannot be determined from the record on appeal that any expert would have testified that Turner lacked the ability to form the specific intent required to commit the crimes with which he was charged. Therefore, Turner has failed to show that his counsel\u2019s performance was deficient.\nFinally, finding no error in the trial court\u2019s rulings, there is no basis to find that a combined effect of accumulated error denied Turner a fair trial.\nCONCLUSION\nThe record supports the trial court\u2019s exercise of its discretion in requiring that Turner be shackled and handcuffed during trial\u2014even absent a formal evidentiary hearing regarding restraints. Turner has presented no persuasive argument for reversal on other grounds. Therefore, we reverse the Court of Appeals\u2019 ruling and reinstate Turner\u2019s conviction on second degree kidnapping and unlawful imprisonment (both counts while armed with a firearm), attempted second degree murder, and third degree assault charges.\nAlexander, C.J., and Smith, Johnson, Madsen, Sanders, Bridge, Chambers, and Owens, JJ., concur.\nE.g., State v. Hartzog, 26 Wn. App. 576, 588, 615 P.2d 480 (1980) (\u201c[Security measures, including physical restraints, are within the inherent power and discretion of the trial judge. The necessity for those measures must be made on a case-by-case basis after a hearing with a record evidencing the reasons for the action taken.\u201d), aff\u2019d in part, rev\u2019d in part on other grounds by Hartzog, 96 Wn.2d 383; State v. Hutchinson, 135 Wn.2d 863, 888, 959 P.2d 1061 (1998) (\u201cThe trial court conducted a hearing on the defense motion to appear without restraints ....\u201d); State v. Flieger, 91 Wn. App. 236, 241, 955 P.2d 872 (1998) (\u201c[T]he trial court must conduct a hearing and make a record before imposing restraints upon a criminal defendant.\u201d).",
+        "type": "majority",
+        "author": "Ireland, J."
+      }
+    ],
+    "attorneys": [
+      "Steven J. Tucker, Prosecuting Attorney, and Kevin M. Korsmo, Deputy, for petitioner.",
+      "David N. Gasch, for respondent."
+    ],
+    "corrections": "",
+    "head_matter": "[No. 69535-1.\nEn Banc.]\nArgued February 15, 2001.\nDecided May 31, 2001.\nThe State of Washington, Petitioner, v. Sergio Jerome Turner, Respondent.\nSteven J. Tucker, Prosecuting Attorney, and Kevin M. Korsmo, Deputy, for petitioner.\nDavid N. Gasch, for respondent."
+  },
+  "file_name": "0715-01",
+  "first_page_order": 789,
+  "last_page_order": 805
+}

@@ -1,0 +1,78 @@
+{
+  "id": 12133881,
+  "name": "Hecht v. National Heritage Academies, Inc",
+  "name_abbreviation": "Hecht v. National Heritage Academies, Inc.",
+  "decision_date": "2015-09-16",
+  "docket_number": "No. 150616; Court of Appeals No. 306870",
+  "first_page": "877",
+  "last_page": "878",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "498 Mich. 877"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Mich.",
+    "id": 8790,
+    "name": "Michigan Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 49,
+    "name_long": "Michigan",
+    "name": "Mich."
+  },
+  "cites_to": [
+    {
+      "cite": "411 US 792",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        10002
+      ],
+      "weight": 3,
+      "year": 1973,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/411/0792-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 133,
+    "char_count": 1179,
+    "ocr_confidence": 0.72,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.24596414694447438
+    },
+    "sha256": "fd2d6404b9e5cf617cf52249f38b9b4db2f792b7deefc52659f404eeef3e42d2",
+    "simhash": "1:b16a4c2a57e539e8",
+    "word_count": 190
+  },
+  "last_updated": "2024-02-27T16:10:26.420323+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Hecht v National Heritage Academies, Inc,"
+    ],
+    "opinions": [
+      {
+        "text": "The parties shall address whether the Court of Appeals erred: (1) when it found sufficient direct evidence of racial discrimination on the basis of a witness\u2019s interpretation or understanding of what the defendant\u2019s representative said to her; (2) when it concluded that the burden-shifting analysis of McDonnell Douglas Corp v Green, 411 US 792; 93 S Ct 1817; 36 L Ed 2d 668 (1973), was not applicable and that there was sufficient circumstantial evidence that the plaintiff was similarly situated to African-American employees who had made race-based remarks in the past; and (3) when it held that the trial court did not abuse its discretion in admitting evidence of the defendant employer\u2019s disclosures, which were mandated by MCL 380.1230b, to the plaintiffs prospective employers.\nThe Labor and Employment Law Section of the State Bar of Michigan is invited to file a brief amicus curiae. Other persons or groups interested in the determination of the issues presented in this case may move the Court for permission to file briefs amicus curiae.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Leave to Appeal Granted September 16, 2015:\nHecht v National Heritage Academies, Inc,\nNo. 150616; Court of Appeals No. 306870."
+  },
+  "file_name": "0877-05",
+  "first_page_order": 823,
+  "last_page_order": 824
+}

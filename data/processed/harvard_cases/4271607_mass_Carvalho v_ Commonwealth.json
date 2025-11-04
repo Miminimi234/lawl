@@ -1,0 +1,109 @@
+{
+  "id": 4271607,
+  "name": "Jonathan Carvalho vs. Commonwealth",
+  "name_abbreviation": "Carvalho v. Commonwealth",
+  "decision_date": "2011-10-07",
+  "docket_number": "",
+  "first_page": "1014",
+  "last_page": "1014",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "460 Mass. 1014"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Mass.",
+    "id": 8825,
+    "name": "Massachusetts Supreme Judicial Court"
+  },
+  "jurisdiction": {
+    "id": 4,
+    "name_long": "Massachusetts",
+    "name": "Mass."
+  },
+  "cites_to": [
+    {
+      "cite": "427 Mass. 1016",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "case_ids": [
+        310248
+      ],
+      "year": 1998,
+      "pin_cites": [
+        {
+          "page": "1017"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mass/427/1016-01"
+      ]
+    },
+    {
+      "cite": "437 Mass. 1027",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "case_ids": [
+        734978
+      ],
+      "year": 2002,
+      "pin_cites": [
+        {
+          "page": "1028"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mass/437/1027-01"
+      ]
+    },
+    {
+      "cite": "439 Mass. 1017",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "case_ids": [
+        47339
+      ],
+      "year": 2003,
+      "pin_cites": [
+        {
+          "page": "1017"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mass/439/1017-01"
+      ]
+    },
+    {
+      "cite": "434 Mass. 1301",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "year": 2001,
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 185,
+    "char_count": 2132,
+    "ocr_confidence": 0.917,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.14320468104511114
+    },
+    "sha256": "475634f6c9eb97bae0fe41e3c3facdc59987437de661ef01158319f1fd20d225",
+    "simhash": "1:0d0e15d28a7b5412",
+    "word_count": 350
+  },
+  "last_updated": "2024-02-27T17:56:26.592595+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "file_name": "1014-01",
+  "first_page_order": 904,
+  "last_page_order": 904
+}

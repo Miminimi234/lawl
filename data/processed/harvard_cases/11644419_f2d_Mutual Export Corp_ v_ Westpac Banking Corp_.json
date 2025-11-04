@@ -1,0 +1,145 @@
+{
+  "id": 11644419,
+  "name": "MUTUAL EXPORT CORPORATION, Plaintiff-Appellee, v. WESTPAC BANKING CORPORATION, Defendant-Appellant",
+  "name_abbreviation": "Mutual Export Corp. v. Westpac Banking Corp.",
+  "decision_date": "1993-01-08",
+  "docket_number": "No. 320, Docket 92-7607",
+  "first_page": "420",
+  "last_page": "427",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "983 F.2d 420"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "2d Cir.",
+    "id": 8778,
+    "name": "United States Court of Appeals for the Second Circuit"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "448 F.Supp. 222",
+      "category": "reporters:federal",
+      "reporter": "F. Supp.",
+      "case_ids": [
+        3999082
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f-supp/448/0222-01"
+      ]
+    },
+    {
+      "cite": "608 F.2d 43",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1426216
+      ],
+      "pin_cites": [
+        {
+          "page": "47"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/608/0043-01"
+      ]
+    },
+    {
+      "cite": "606 F.2d 10",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1436423
+      ],
+      "pin_cites": [
+        {
+          "page": "15"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/606/0010-01"
+      ]
+    },
+    {
+      "cite": "789 F.Supp. 1279",
+      "category": "reporters:federal",
+      "reporter": "F. Supp.",
+      "case_ids": [
+        7412776
+      ],
+      "weight": 4,
+      "pin_cites": [
+        {
+          "page": "1284"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f-supp/789/1279-01"
+      ]
+    },
+    {
+      "cite": "73 Cornell L.Rev. 534",
+      "category": "journals:journal",
+      "reporter": "Cornell L. Rev.",
+      "weight": 2,
+      "opinion_index": 1
+    }
+  ],
+  "analysis": {
+    "cardinality": 997,
+    "char_count": 24860,
+    "ocr_confidence": 0.739,
+    "pagerank": {
+      "raw": 1.3132612093965857e-07,
+      "percentile": 0.6249209896020965
+    },
+    "sha256": "0900b7023bbe7c835a57521ab621b1effcf3bbdfb96d6ec2c7bdcc39d68f53cf",
+    "simhash": "1:d939e4bcb57289fe",
+    "word_count": 4081
+  },
+  "last_updated": "2024-02-27T16:11:36.444292+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before: OAKES, NEWMAN and PIERCE, Circuit Judges."
+    ],
+    "parties": [
+      "MUTUAL EXPORT CORPORATION, Plaintiff-Appellee, v. WESTPAC BANKING CORPORATION, Defendant-Appellant."
+    ],
+    "opinions": [
+      {
+        "text": "OAKES, Circuit Judge:\nWestpac Banking Corporation (\u201cWest-pac\u201d) appeals from a judgment of the United States District Court for the Southern District of New York, Whitman Knapp, Judge, granting Mutual Export Corporation (\u201cMutual\u201d) summary judgment in a diversity case. The district court held that a $500,000 letter of credit issued to Mutual by Westpac did not contain the termination date that had been agreed to by prior contract and, therefore, ordered that the letter of credit be reformed to reflect the appropriate date. Mutual Export Corp. v. Westpac Banking Corp., 789 F.Supp. 1279 (S.D.N.Y.1992). For the reasons set forth below, we reverse, with directions. The law governing letters of credit requires that we strictly construe the letter issued by Westpac, and, therefore, it remains valid as written.\nBACKGROUND\nRefrigerated Express Lines (Australasia) Pty. Ltd. (\u201cRefrigerated\u201d), a wholly owned subsidiary of Reefer Express Lines Pty. Ltd. (\u201cReefer\u201d), operated a shipping service between Australia and Papua New Guinea. As part of its shipping business, Refrigerated chartered two Japanese-owned container vessels, the Lakatoi Express (\u201cLaka-toi\u201d) and the Kumul Express (\u201cKumul\u201d), from Mutual, another Reefer subsidiary and a Delaware Corporation with its principal place of business in New Jersey. Refrigerated was a regular customer of West-pac, an Australian banking corporation.\nIn June, 1985, Reefer decided to sell Refrigerated in two transactions, with one half of Refrigerated\u2019s capital stock to go to a group led by managers of Refrigerated, and the second half to a quasi-governmental New Guinea agency. As a condition of the sale and to guarantee Refrigerated\u2019s obligations under the charter parties, Refrigerated was to acquire a standby letter of credit from Westpac for the benefit of Mutual in the sum of $500,000; this would secure approximately one month\u2019s payment on the charter parties of the Lakatoi and Kumul. Sometime around June 26, 1985, Reefer\u2019s counsel sent Westpac a draft form of the letter of credit. The draft letter was in the amount of $500,000, to be drawn on by Mutual in the event of a default on the charter parties, and contained the following provision: \u201cThis letter of credit expires on [45 days after the later of the last possible day on which Kumul Express or Lakatoi Express charter may terminate].\u201d The brackets surrounding the termination date were in the original.\nOn June 28, 1985, Roy Roach, a branch manager for Westpac, sent a report to his bank\u2019s lending department requesting approval for the letter of credit. Roach\u2019s request stated that the termination date of the letter of credit would be June 30, 1986. The request was accompanied by the draft letter of credit which had been provided by Reefer and that had been modified so that the bracketed termination date information was crossed out and a hand-written date of June 30, 1986 put in its place, along with other changes inconsequential here. After receiving authorization for the requested letter of credit from the lending department, subject to the approval of the legal department, Roach sent a letter to Reefer (the \u201cJune 28 Letter\u201d) containing the following statement:\nThe Bank has approved at the request of Refrigerated Express Lines (A/Asia) Pty Ltd, the establishment of an Irrevocable Credit for USD $500,000 in favour of Mutual Export Corporation.\nThe Bank hereby undertakes to issue the credit in the draft form provided by your Company, or as mutually agreed upon between your Company and the Bank.\nWestpac\u2019s legal department then prepared the letter of credit in final form as well as a form Letter of Request and Indemnity for Refrigerated to sign accompanied by the final letter of credit bearing the June 30, 1986 termination date. On July 5, 1985, Refrigerated signed the Letter of Request and Indemnity and an acknowledgement on the letter of credit, also dated July 5, 1985, that it was the duplicate instrument referred to in the Letter of Request and Indemnity. After receiving copies of the letter of credit, however, Andrew Con-sentino, outside counsel for both Mutual and Reefer, and Virginia Pearce, counsel for Refrigerated, exchanged memos expressing concern about the language pertaining to Mutual\u2019s making demand for payment, as well the termination date of the letter of credit. However, the issues were not raised with Westpac and nothing was done to modify the terms of the letter of credit. Neither Mutual, Reefer, nor Refrigerated ever indicated to Westpac that the letter of credit was unacceptable or that the expiration date was erroneous. Nor were any extensions or renewals ever sought. There is no indication that any fees were paid by anyone to Westpac for the letter of credit after June 30, 1986, though Mutual claims that this was due to clerical error on Westpac\u2019s part.\nIn December 1988, Refrigerated informed Mutual that it would be defaulting on its charter payments due that month. Until this point, both parties had acted in certain instances as if the letter of credit were still in place. For example, Westpac sent a letter to Refrigerated, dated August 18,1987, which referred'to a \u201c[cjontinuance of Bank guarantee in favor of Mutual Export Corp. USD 500,000.\u201d An officer of Mutual retrieved the letter of credit from its files and noticed that the credit had expired on June 30, 1986. Nonetheless, Mutual sought confirmation from Westpac that the letter of credit had been extended and was still in place. Westpac responded that the letter of credit had expired. On October 3, 1989, Mutual made a formal request to Westpac that the bank pay it $500,000; this request was denied.\nMutual filed the present action on March 6, 1990, claiming that Westpac had breached its contract to provide a letter of credit with a termination date of 45 days after the last possible date of termination for the charter parties. The complaint stated that July 13, 1992, not June 30, 1986, was the proper termination date. The district court found that the June 28 Letter of Roach to Reefer was a contract as a matter of law. Therefore, the district court granted Mutual\u2019s motion for summary judgment, denied Westpac\u2019s cross-motion for summary judgment, and ordered that the letter of credit be reformed to reflect a September 13, 1993 termination date.\nOn appeal, Westpac seeks to have the district court\u2019s judgment reversed with directions to grant its own summary judgment motion. We find Westpac\u2019s arguments persuasive and reverse.\nDISCUSSION\nThere is no dispute that Australian law controls in this case. Australian courts have not addressed letters of credit issues frequently, and, therefore, often look to decisions from foreign common law jurisdictions for authority bearing on letters of credit. See, e.g., Contronic Distribute. Pty. Ltd. v. Bank of New South Wales, 3 N.S.W.L.R. 110, 114-16 (Sup.Ct.1984); Westpac Banking Corp. v. Commonwealth Steel Co. Ltd., 1 N.S.W.L.R. 735, 740-42 (Sup.Ct.1983). In resolving this dispute, we are also guided by the Uniform Customs and Practices for Documentary Credits (Int\u2019l Chamber of Commerce 1983) (the \u201cU.C.P.\u201d), by which both parties agreed to be governed in the letter of credit.\nLetters of credit are unique commercial instruments. See generally John F. Dolan, The Law of Letters of Credit (2d ed. 1991). Traditional contract rules apply \u201conly to the extent that contract principles do not interfere with the unique nature of credits.\u201d Id. 11 2.02 at 2-5. In particular, letters of credit must be interpreted on their face, independent of other contracts and the underlying transaction. Article 3 of the U.C.P. provides:\nCredits, by their nature, are transactions separate from the sales or other contract(s) on which they may be based, and banks are in no way concerned with or bound by such contract(s)....\nSee also KMW Int\u2019l v. Chase Manhattan Bank, N.A., 606 F.2d 10, 15 (2d Cir.1979) (\u201cAs a matter of law, a bank\u2019s obligation under a letter of credit is totally independent of the underlying transaction\u201d).\nThe dispute in this case is whether the letter of credit issued by Westpac contained the appropriate termination date. The law in disputes such as this one is clear: The beneficiary must inspect the letter of credit and is responsible for any negligent failure to discover that the credit does not achieve the desired commercial ends. See, e.g., Corporacion De Mercadeo Agr\u00edcola v. Mellon Bank, 608 F.2d 43, 47 (2d Cir.1979) (\u201cit is black letter law that the terms and conditions of a letter of credit must be strictly adhered to ...\u201d); AMF Head Sports Wear, Inc. v. Ray Scott\u2019s All-American Sports Club, Inc., 448 F.Supp. 222 (D.Ariz.1978) (despite the inequities, bank need not reform letter of credit where beneficiary was negligent in not discovering mistake in place of delivery).\nThe rule requiring the beneficiary to inspect the letter of credit serves an important purpose. The beneficiary is in the best position to determine whether a letter of credit meets the needs of the underlying commercial transaction and to request any necessary changes. As a leading commentator explains, \u201c[i]t is more efficient to require the beneficiary to conduct that review of the credit before the fact of performance than after it, and the beneficiary that performs without seeing or examining the credit should bear the costs.\u201d Dolan, supra, 116.03 at 6-9. Here, Mutual had ample opportunity to examine the letter of credit but failed to require that the expiry date be changed or even to seek extension. In fact, Mutual admits that \u201cthe ball was dropped by Mutual, Reefer, and its attorney.\u201d Brief for Plaintiff-Appellee at 14, Mutual Export Corp. v. Westpac Banking Corp., No. 92-7607 (2d Cir.1992). We can find no reason to shift responsibility for Mutual\u2019s error to Westpac that is consistent with the law and purpose of letters of credit.\nThe district court recognized that courts typically \u201crefer exclusively to, and strictly construe, the letter in dispute, interpreting any error in it against the party responsible for the error.\u201d Mutual Export Corp., 789 F.Supp. at 1284. However, the district court believed that it could resolve this dispute without reaching the law of letters of credit if it found that the June 28 Letter was a contract. As the court stated:\n[t]hus unless the June 28 letter is found to be a contract binding defendant to issue to plaintiff the letter of credit in the form of the draft provided, none of the events that occurred or documents that were written in connection with the sale of Refrigerated are relevant to this action except the letter of credit as ultimately issued. In that case, the explicit June 30, 1986 termination date found therein would, as plaintiff has acknowledged, simply extinguish plaintiffs claim.\nId.\nThe district court improperly framed the issue in this case. A determination of whether the June 28 Letter was a contract is unnecessary. The letter of credit issued by Westpac subsumes any prior contract to issue a letter of credit, and this is as it should be for purposes of certainty in worldwide commercial dealings. We need look no further than the specific terms of the letter of credit and the absolute lack of any complaints from either Refrigerated, Mutual, or Reefer to Westpac concerning the expiry date in order to determine that Westpac fulfilled its obligations.\nIn deciding this case, we do not think it necessary to reach the issue whether a prior contract may bind an issuer of a letter of credit to a particular expiry date. Even if the June 28 Letter created a contractual obligation for Westpac to provide a letter of credit, we believe that Westpac met that alleged obligation. The June 28 Letter called for a letter of credit \u201cin the draft form provided\u201d or \u201cas mutually agreed upon\u201d between the parties. West-pac included a termination date of June 30, 1986 in the final letter of credit and did not receive any complaints from Mutual or Refrigerated. In fact, Refrigerated gave its express consent to the letter of credit when Refrigerated signed it and the Letter of Request and Indemnity, and neither Mutual, Reefer, nor Refrigerated ever indicated to Westpac, prior to its expiration, that the signed letter of credit was unacceptable or that the expiration date was erroneous. Thus, according to the law concerning letters of credit summarized above\u2014which requires a beneficiary to communicate to the issuer that there is a problem with the letter of credit\u2014it is justifiable for us to conclude that Mutual and Refrigerated \u201cmutually agreed\u201d to the terms of the letter of credit as issued.\nCONCLUSION\nAccordingly, we reverse the judgment of the district court, with directions to grant Westpac\u2019s motion for summary judgment.\n. Apparently the evidence presented as to termination of the charter parties was different from that alleged in the complaint.\n. We note that the June 28 Letter appears to be part of the initial dialogue to set up a letter of credit rather than an independent contract. The June 28 Letter does not specify what the terms of the letter of credit were to be but, instead, stated simply that the credit would be \u201cin the draft form provided by your Company, or as mutually agreed upon between your Company and the Bank.\u201d Furthermore, the draft letter itself did not set out a clear expiry date; rather it contained a bracketed reference to the Lakatoi and Kumul charter parties that needed to be replaced at some future date. The U.C.P. appears to address situations just like this one. Article 14 of the U.C.P. explicitly permits a bank to give preliminary notification to the beneficiary of a letter of credit without incurring liability. Article 14 reads as follows:\nIf incomplete or unclear instructions are received to issue, confirm, advise, or amend a credit, the bank requested to act on such instructions may give preliminary notification to the beneficiary for information only and without responsibility. The credit will be issued, confirmed, advised, or amended only when the necessary information has been received and only if the bank is then prepared to act on the instructions. Banks should provide the necessary information without delay.\nU.C.P. art. 14 (Int\u2019l Chamber of Commerce 1983) (emphasis added).",
+        "type": "majority",
+        "author": "OAKES, Circuit Judge:"
+      },
+      {
+        "text": "JON 0. NEWMAN, Circuit Judge,\nconcurring:\nI concur in the judgment in favor of Westpac Banking Corporation (\u201cWestpac\u201d or \u201cthe bank\u201d) but for reasons quite different from those set forth in Judge Oakes\u2019s opinion. The issue that separates us concerns the rarely litigated issue of whether there can be an enforceable contract to issue a letter of credit. He concludes, for all practical purposes, that the answer is \u201cno\u201d because of his view that a letter of credit \u201csubsumes any prior contract to issue a letter of credit,\u201d and that courts should thereafter look only to the terms of the credit. I think that any bank foolish enough to make a contract to issue a letter of credit should be liable for its breach, but that in this case the breach by Westpac should be considered waived by reason of the promisee\u2019s failure to complain promptly-\n1. Was a contract made? The making of the contract emerges upon consideration of two key facts, only the first of which is recounted in the Court\u2019s opinion. The first fact, as the Court notes, is the bank\u2019s June 28, 1985, letter containing the following statement:\nThe Bank hereby undertakes to issue the credit in the draft form provided by your Company, or as mutually agreed upon between your Company and the Bank.\nThe \u201cdraft form,\u201d prepared by counsel for Reefer Express Lines Pty. Ltd. (\u201cReefer\u201d), was a standby letter of credit for the benefit of Reefer\u2019s wholly owned subsidiary, Mutual Export Corporation (\u201cMutual\u201d), in the amount of $500,000. The draft form included the following expiration provision:\nThis Letter of Credit expires on [45 days after the later of the last possible day on which Kumul Express or Lakatoi Express charter may terminate].\nThe bracketed phrase, which was in the original, referred to the expiration of two charter parties. This letter was sent to Reefer, the parent corporation of Mutual.\nThe second fact, not mentioned by the Court, concerns the closing that occurred in reliance on the bank\u2019s June 28 letter. The closing concerned the sale of another wholly owned subsidiary of Reefer, Refrigerated Express Lines (Australasia) Pty. Ltd. (\u201cRefrigerated\u201d). The bank sent the letter because there was not time to issue the formal letter of credit by June 28, when, to the bank\u2019s knowledge, the closing of the transaction for which the letter of credit was needed was scheduled to occur. The letter of credit was needed to guarantee Refrigerated\u2019s payments to Mutual under the charter parties because, after the sale, Refrigerated would no longer be an affiliate of Mutual. The June 28 letter was received at the closing. Armed with the bank\u2019s letter and relying upon it, Reefer closed the transaction.\nAs the District Court correctly ruled, the June 28 letter, reasonably relied upon by Reefer and its subsidiary, Mutual, created a contract obligating the bank to issue a letter of credit in the \u201cform\u201d provided by Reefer, or in such other form \u201cas mutually agreed upon between\u201d Reefer and the bank.\n2. Do the terms of the contract survive the letter of credit? The Court rules that the letter of credit issued by the bank \u201csubsumes\u201d any prior contract to issue a letter of credit. Maj.Op. at 424. No authority is cited for this proposition. The June 28 letter was not a preliminary step in negotiation of a final contract, in which event it could be said that the final contract constitutes an integration of the parties\u2019 terms. See Restatement (Second) of Contracts \u00a7 213 (1981). The June 28 letter was itself a final contract, issued by the bank with clear knowledge of its importance to the forthcoming closing. The terms of this contract do not disappear or become \"subsume[d]\u201d when the letter of credit that was contracted for is issued. Instead, in my view, the issue becomes whether the credit, as issued, complies with the prior contract.\n3. Was the contract breached? The letter of credit issued by the bank did not comply with the form submitted by Reefer. Instead of providing an expiration date keyed to 45 days after the expiration of the charter parties, the bank inserted an expiration date of June 30, 1986. Plainly, this date, unilaterally selected by the bank, breached the June 28 letter agreement.\nThe majority contends that the credit, as issued, conformed to the contract by virtue of the \"mutually agreed upon\u201d clause of the contract. In the majority\u2019s view, mutual agreement occurred because of Mutual\u2019s failure to complain promptly about the change in the expiration date. I disagree. When a contract calls for performance of a specified event (here, issuance of a credit with an expiration date keyed to the charter parties) and includes the opportunity for a variation in performance upon mutual agreement, it must be construed to mean that the parties remain free, prior to performance, to agree on a variation. Where, as in this case, the parties do not agree to any variation prior to performance, the ob-ligor\u2019s performance must comply with the terms of the contract. Since the bank did not obtain Mutual\u2019s assent to the changed expiration date (or the assent of anyone else) prior to issuing the credit, the bank remained obligated to issue a credit with the expiration date called for by the June 28 contract. The credit, with the modified date, was not in compliance.\n4. Has Mutual waived the bank\u2019s breach? In my view, the real question in this case is whether Mutual has waived what I consider a clear breach of a clearly enforceable contract. Unless some special rule applies, a promisee is normally not under an obligation to complain promptly about nonconforming performance on pain of waiving a breach of contract claim. See John C. Reitz, Against Notice: A Proposal to Restrict the Notice of Claims Rule in U.C.C. \u00a7 2-607(3)(a), 73 Cornell L.Rev. 534, 535 n. 5 (1983) (discussing common law rule and citing cases); Restatement (Second) of Contracts \u00a7 277 (1981) (renunciation of damages claim must be in writing). However, a contrary rule applies in some circumstances, for example, with respect to nonconformity in the sale of goods. See U.C.C. \u00a7 2-607(3). I believe a similar rule should be applied to a contract to issue a letter of credit. Facilitation of commercial transactions will be enhanced if those who contract to issue credits are assured that any claim of noncomplying performance will be promptly called to the promisor\u2019s attention.\nIn this case, the majority somewhat overstates the matter in saying that \u201cnothing was done to modify the terms of the letter of credit.\u201d Maj.Op. at 422. In fact, as the Court acknowledges, correspondence from Andrew Consentino, counsel for Reefer and Mutual, to Virginia Pearce, counsel for Refrigerated, complained of deficiencies in the letter of credit as originally issued, and specifically objected to the changed expiration date. Westpac does not dispute that it was informed of this correspondence. Indeed, the bank demonstrated its awareness by issuing a revised letter of credit, making some of the revisions called for by Consen-tino.\nHowever, neither Mutual nor Reefer complained directly to Westpac after issuance of the original credit or the revised credit, both of which contained the June 30, 1986, expiration date. Though there is some indication in the record that Consenti-no had an expectation that Pearce would forward correspondence to the bank, a promisee under a contract to issue a letter of credit must be held to a strict standard to notify a bank promptly, properly, and definitively of any deficiency in the credit as issued. Mutual makes no claim that Pearce was the bank\u2019s agent. Indeed, Mutual acknowledges that after receiving the revised credit with the nonconforming expiration date, \u201cthe ball was dropped by Mutual, Reefer, and its attorney.\u201d Brief for Appellee at 14.\nThe District Court viewed the lack of a prompt complaint about the expiration date as an issue of laches. Judge Knapp concluded that a laches defense was not available to Westpac since Mutual\u2019s lack of prompt complaint was not significant in view of the parties\u2019 assumption for at least two years that the credit was still in force and since the bank was not harmed by Mutual\u2019s delay. Those observations adequately reject a laches defense, but they do not excuse the lack of prompt notification of defects that contract law must impose upon a promisee of a contract to issue a letter of credit.\nI cannot be confident that these views accord with Australian law on contracts (or letters of credit), but in the absence of Australian case law dealing specifically with contracts to issue credits, I deem it the sounder approach to apply a rule of prompt notification of nonconforming performance, rather than to say, as the majority does, that the prior contract has been \u201csubsume[d]\u201d in the credit or, alternatively, that the credit complied with the contract. For these reasons, I concur in the judgment.\n. Nor may the June 28 letter be regarded as \"preliminary notification to the beneficiary for information only and without responsibility\u201d within the meaning of U.C.P. art. 14. That provision applies \u201c[i]f incomplete or unclear instructions are received to issue, confirm, advise, or amend a credit.\u201d Id. Westpac had not received \"incomplete or unclear instructions.\u201d It knew precisely the terms of the credit its customer wanted, and it contracted to issue the credit in the form requested by the customer.\n. It would probably be more precise to phrase the issue as whether the plaintiff has forfeited its right to seek damages for breach of the contract by lack of prompt notification of nonconforming performance, since the issue is really whether the law should impose an adverse con sequence for plaintiff's omission.\n. It is questionable how much force this principle ought to have as to a unilateral contract enforceable solely by the promisee\u2019s reasonable reliance.\n.\"Where a tender has been accepted (a) the buyer must within a reasonable time after he discovers or should have discovered any breach notify the seller of breach or be barred from any remedy;....\u201d U.C.C. \u00a7 2-607(3).",
+        "type": "concurrence",
+        "author": "JON 0. NEWMAN, Circuit Judge,"
+      }
+    ],
+    "attorneys": [
+      "Edwin G. Schallert, New York City (Andrea L. Labov, Wendy Dunne Di Christina, Debevoise & Plimpton, of counsel), for defendant-appellant.",
+      "Daniel A. Ross, New York City (Ross J. Ellick, Sharfman, Shanman, Poret & Sivig-lia, P.C., of counsel), for plaintiff-appellee."
+    ],
+    "corrections": "",
+    "head_matter": "MUTUAL EXPORT CORPORATION, Plaintiff-Appellee, v. WESTPAC BANKING CORPORATION, Defendant-Appellant.\nNo. 320, Docket 92-7607.\nUnited States Court of Appeals, Second Circuit.\nArgued Oct. 23, 1992.\nDecided Jan. 8, 1993.\nEdwin G. Schallert, New York City (Andrea L. Labov, Wendy Dunne Di Christina, Debevoise & Plimpton, of counsel), for defendant-appellant.\nDaniel A. Ross, New York City (Ross J. Ellick, Sharfman, Shanman, Poret & Sivig-lia, P.C., of counsel), for plaintiff-appellee.\nBefore: OAKES, NEWMAN and PIERCE, Circuit Judges."
+  },
+  "file_name": "0420-01",
+  "first_page_order": 546,
+  "last_page_order": 553
+}

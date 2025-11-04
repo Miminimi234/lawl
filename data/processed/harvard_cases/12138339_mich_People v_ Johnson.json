@@ -1,0 +1,78 @@
+{
+  "id": 12138339,
+  "name": "People v. Harold Johnson",
+  "name_abbreviation": "People v. Johnson",
+  "decision_date": "2015-09-29",
+  "docket_number": "No. 150509; Court of Appeals No. 323479",
+  "first_page": "888",
+  "last_page": "888",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "498 Mich. 888"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Mich.",
+    "id": 8790,
+    "name": "Michigan Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 49,
+    "name_long": "Michigan",
+    "name": "Mich."
+  },
+  "cites_to": [
+    {
+      "cite": "498 Mich 864",
+      "category": "reporters:state",
+      "reporter": "Mich.",
+      "case_ids": [
+        12126130,
+        12126285,
+        12126434,
+        12126582
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mich/498/0864-01",
+        "/mich/498/0864-02",
+        "/mich/498/0864-03",
+        "/mich/498/0864-04"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 18,
+    "char_count": 106,
+    "ocr_confidence": 0.728,
+    "sha256": "2c38b193ea4b00559e393376f4268541955c5523e2796c1b3e864a0047cf31db",
+    "simhash": "1:2caf1001358bb7be",
+    "word_count": 19
+  },
+  "last_updated": "2024-02-27T16:10:26.420323+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "People v Harold Johnson,"
+    ],
+    "opinions": [
+      {
+        "text": "Leave to appeal denied at 498 Mich 864.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "People v Harold Johnson,\nNo. 150509; Court of Appeals No. 323479."
+  },
+  "file_name": "0888-04",
+  "first_page_order": 834,
+  "last_page_order": 834
+}

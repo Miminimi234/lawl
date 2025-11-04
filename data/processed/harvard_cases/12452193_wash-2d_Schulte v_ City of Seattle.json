@@ -1,0 +1,78 @@
+{
+  "id": 12452193,
+  "name": "Schulte et al., Respondents, v. City of Seattle, Petitioner",
+  "name_abbreviation": "Schulte v. City of Seattle",
+  "decision_date": "2017-01-04",
+  "docket_number": "No. 93594-7",
+  "first_page": "1004",
+  "last_page": "1004",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "187 Wash. 2d 1004"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Wash.",
+    "id": 9029,
+    "name": "Washington Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 38,
+    "name_long": "Washington",
+    "name": "Wash."
+  },
+  "cites_to": [
+    {
+      "cite": "195 Wn. App. 1004",
+      "category": "reporters:state",
+      "reporter": "Wash. App.",
+      "case_ids": [
+        12454276,
+        12454277,
+        12454278,
+        12454279
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-app/195/1004-01",
+        "/wash-app/195/1004-02",
+        "/wash-app/195/1004-03",
+        "/wash-app/195/1004-04"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 31,
+    "char_count": 206,
+    "ocr_confidence": 0.846,
+    "sha256": "2c740f9384f84f96cc11bae8f6fa4c4d2a54e41e003e015886e89c20254d0b57",
+    "simhash": "1:39b9ba1606e9696a",
+    "word_count": 35
+  },
+  "last_updated": "2024-02-27T20:27:34.476040+00:00",
+  "provenance": {
+    "date_added": "2019-05-21",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Schulte et al., Respondents, v. City of Seattle, Petitioner,"
+    ],
+    "opinions": [
+      {
+        "text": "Petition for review of a decision of the Court of Appeals, No. 72821-1-I, July 18, 2016, 195 Wn. App. 1004. Denied January 4, 2017.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Schulte et al., Respondents, v. City of Seattle, Petitioner,\nNo. 93594-7."
+  },
+  "file_name": "1004-05",
+  "first_page_order": 972,
+  "last_page_order": 972
+}

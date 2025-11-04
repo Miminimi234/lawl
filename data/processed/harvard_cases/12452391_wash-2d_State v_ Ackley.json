@@ -1,0 +1,78 @@
+{
+  "id": 12452391,
+  "name": "State, Respondent, v. Ackley, Petitioner",
+  "name_abbreviation": "State v. Ackley",
+  "decision_date": "2017-03-29",
+  "docket_number": "No. 94021-5",
+  "first_page": "1030",
+  "last_page": "1030",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "187 Wash. 2d 1030"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Wash.",
+    "id": 9029,
+    "name": "Washington Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 38,
+    "name_long": "Washington",
+    "name": "Wash."
+  },
+  "cites_to": [
+    {
+      "cite": "197 Wn. App. 1012",
+      "category": "reporters:state",
+      "reporter": "Wash. App.",
+      "case_ids": [
+        12453240,
+        12453237,
+        12453238,
+        12453239
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-app/197/1012-04",
+        "/wash-app/197/1012-01",
+        "/wash-app/197/1012-02",
+        "/wash-app/197/1012-03"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 28,
+    "char_count": 190,
+    "ocr_confidence": 0.869,
+    "sha256": "366dbbe3d1872de5df74143c2afe7d803ac13940496c71e0d26a7815d2ab91d6",
+    "simhash": "1:0dd96a330855441c",
+    "word_count": 31
+  },
+  "last_updated": "2024-02-27T20:27:34.476040+00:00",
+  "provenance": {
+    "date_added": "2019-05-21",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "State, Respondent, v. Ackley, Petitioner,"
+    ],
+    "opinions": [
+      {
+        "text": "Petition for review of a decision of the Court of Appeals, No. 74062-8-I, December 19, 2016, 197 Wn. App. 1012. Denied March 29, 2017.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "State, Respondent, v. Ackley, Petitioner,\nNo. 94021-5."
+  },
+  "file_name": "1030-01",
+  "first_page_order": 998,
+  "last_page_order": 998
+}

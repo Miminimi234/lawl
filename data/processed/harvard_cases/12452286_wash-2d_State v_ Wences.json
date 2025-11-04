@@ -1,0 +1,78 @@
+{
+  "id": 12452286,
+  "name": "State, Respondent, v. Wences, Petitioner",
+  "name_abbreviation": "State v. Wences",
+  "decision_date": "2017-02-09",
+  "docket_number": "No. 93605-6",
+  "first_page": "1016",
+  "last_page": "1016",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "187 Wash. 2d 1016"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Wash.",
+    "id": 9029,
+    "name": "Washington Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 38,
+    "name_long": "Washington",
+    "name": "Wash."
+  },
+  "cites_to": [
+    {
+      "cite": "195 Wn. App. 1013",
+      "category": "reporters:state",
+      "reporter": "Wash. App.",
+      "case_ids": [
+        12454308,
+        12454309,
+        12454310,
+        12454311
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-app/195/1013-01",
+        "/wash-app/195/1013-02",
+        "/wash-app/195/1013-03",
+        "/wash-app/195/1013-04"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 28,
+    "char_count": 189,
+    "ocr_confidence": 0.859,
+    "sha256": "bca13ddc6e113baddbe041f549de34ec6e96190d91a1fa34775d099d92f77ab5",
+    "simhash": "1:34d1eeae7dc905e1",
+    "word_count": 31
+  },
+  "last_updated": "2024-02-27T20:27:34.476040+00:00",
+  "provenance": {
+    "date_added": "2019-05-21",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "State, Respondent, v. Wences, Petitioner,"
+    ],
+    "opinions": [
+      {
+        "text": "Petition for review of a decision of the Court of Appeals, No. 73333-8-I, July 25, 2016, 195 Wn. App. 1013. Granted February 9, 2017.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "State, Respondent, v. Wences, Petitioner,\nNo. 93605-6."
+  },
+  "file_name": "1016-05",
+  "first_page_order": 984,
+  "last_page_order": 984
+}

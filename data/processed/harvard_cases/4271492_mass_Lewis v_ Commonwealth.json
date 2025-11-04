@@ -1,0 +1,51 @@
+{
+  "id": 4271492,
+  "name": "Verb Lewis vs. Commonwealth",
+  "name_abbreviation": "Lewis v. Commonwealth",
+  "decision_date": "2011-08-10",
+  "docket_number": "",
+  "first_page": "1008",
+  "last_page": "1008",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "460 Mass. 1008"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Mass.",
+    "id": 8825,
+    "name": "Massachusetts Supreme Judicial Court"
+  },
+  "jurisdiction": {
+    "id": 4,
+    "name_long": "Massachusetts",
+    "name": "Mass."
+  },
+  "cites_to": [
+    {
+      "cite": "434 Mass. 1301",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "year": 2001,
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 159,
+    "char_count": 1679,
+    "ocr_confidence": 0.918,
+    "sha256": "fab04d697d4d1d430f9ac88d224b104fc82e3284ce255619eb21f660bf0d78a0",
+    "simhash": "1:9f07d580156f8f56",
+    "word_count": 279
+  },
+  "last_updated": "2024-02-27T17:56:26.592595+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "file_name": "1008-01",
+  "first_page_order": 898,
+  "last_page_order": 898
+}

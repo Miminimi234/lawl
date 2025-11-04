@@ -1,0 +1,63 @@
+{
+  "id": 4205003,
+  "name": "Marchesu MINOR, Petitioner v. SOUTHEASTERN PENNSYLVANIA TRANSPORTATION AUTHORITY, Respondent",
+  "name_abbreviation": "Minor v. Southeastern Pennsylvania Transportation Authority",
+  "decision_date": "2011-10-14",
+  "docket_number": "No. 54 EM 2011",
+  "first_page": "312",
+  "last_page": "312",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "612 Pa. 312"
+    },
+    {
+      "type": "parallel",
+      "cite": "30 A.3d 1100"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 40,
+    "char_count": 336,
+    "ocr_confidence": 0.683,
+    "sha256": "f272c95fa944935e898419f41f15a9abdc5e43a474460bb1903288d2e0dfb64b",
+    "simhash": "1:45af51b0bfd0c657",
+    "word_count": 52
+  },
+  "last_updated": "2023-07-14T19:33:52.292960+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Marchesu MINOR, Petitioner v. SOUTHEASTERN PENNSYLVANIA TRANSPORTATION AUTHORITY, Respondent."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nPER CURIAM.\nAND NOW, this 14th day of October, 2011, the \u201cApplication to File for Application for Relief Out of Time\u201d and the Application for Relief are DENIED.",
+        "type": "majority",
+        "author": "PER CURIAM."
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "30 A.3d 1100\nMarchesu MINOR, Petitioner v. SOUTHEASTERN PENNSYLVANIA TRANSPORTATION AUTHORITY, Respondent.\nNo. 54 EM 2011.\nSupreme Court of Pennsylvania.\nOct. 14, 2011."
+  },
+  "file_name": "0312-01",
+  "first_page_order": 356,
+  "last_page_order": 356
+}

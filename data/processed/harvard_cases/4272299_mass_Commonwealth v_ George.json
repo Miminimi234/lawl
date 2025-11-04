@@ -1,0 +1,99 @@
+{
+  "id": 4272299,
+  "name": "Commonwealth vs. Brandon George",
+  "name_abbreviation": "Commonwealth v. George",
+  "decision_date": "2011-08-11",
+  "docket_number": "",
+  "first_page": "1008",
+  "last_page": "1009",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "460 Mass. 1008"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Mass.",
+    "id": 8825,
+    "name": "Massachusetts Supreme Judicial Court"
+  },
+  "jurisdiction": {
+    "id": 4,
+    "name_long": "Massachusetts",
+    "name": "Mass."
+  },
+  "cites_to": [
+    {
+      "cite": "421 Mass. 1303",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "year": 1995,
+      "opinion_index": 0
+    },
+    {
+      "cite": "452 Mass. 178",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "case_ids": [
+        5684120
+      ],
+      "year": 2008,
+      "pin_cites": [
+        {
+          "page": "189",
+          "parenthetical": "Superior Court judge's decision not to report interlocutory ruling to Appeals Court was \"highly discretionary\""
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mass/452/0178-01"
+      ]
+    },
+    {
+      "cite": "434 Mass. 1301",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "year": 2001,
+      "opinion_index": 0
+    },
+    {
+      "cite": "445 Mass. 315",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "case_ids": [
+        2823909
+      ],
+      "year": 2005,
+      "pin_cites": [
+        {
+          "page": "324"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mass/445/0315-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 255,
+    "char_count": 4231,
+    "ocr_confidence": 0.919,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.14324387251920864
+    },
+    "sha256": "3eb8df37b4df77207817017b4eed3d495f7859a304aa6abc148c42fab49d6f06",
+    "simhash": "1:9dc04042001df5c7",
+    "word_count": 671
+  },
+  "last_updated": "2024-02-27T17:56:26.592595+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "file_name": "1008-02",
+  "first_page_order": 898,
+  "last_page_order": 899
+}

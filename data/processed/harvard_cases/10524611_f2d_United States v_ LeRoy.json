@@ -1,0 +1,214 @@
+{
+  "id": 10524611,
+  "name": "UNITED STATES of America, Plaintiff-Appellee, v. Reggie LeROY, Defendant-Appellant",
+  "name_abbreviation": "United States v. LeRoy",
+  "decision_date": "1991-09-11",
+  "docket_number": "No. 90-5036",
+  "first_page": "787",
+  "last_page": "790",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "944 F.2d 787"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "10th Cir.",
+    "id": 8771,
+    "name": "United States Court of Appeals for the Tenth Circuit"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "859 F.2d 974",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        10533931,
+        3463638
+      ],
+      "pin_cites": [
+        {
+          "page": "975-76"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/859/0974-01",
+        "/us-app-dc/273/0311-01"
+      ]
+    },
+    {
+      "cite": "890 F.2d 1245",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        3476429,
+        12036934
+      ],
+      "pin_cites": [
+        {
+          "page": "1248"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us-app-dc/281/0440-01",
+        "/f2d/890/1245-01"
+      ]
+    },
+    {
+      "cite": "898 F.2d 43",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        10526985
+      ],
+      "pin_cites": [
+        {
+          "page": "46-47"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/898/0043-01"
+      ]
+    },
+    {
+      "cite": "909 F.2d 1443",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        10541490
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "1445"
+        },
+        {
+          "page": "1445"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/909/1443-01"
+      ]
+    },
+    {
+      "cite": "905 F.2d 47",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1806994
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/905/0047-01"
+      ]
+    },
+    {
+      "cite": "487 F.2d 1232",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        217162
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "1235"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/487/1232-01"
+      ]
+    },
+    {
+      "cite": "266 F.2d 524",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1977405
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/266/0524-01"
+      ]
+    },
+    {
+      "cite": "21 U.S.C. \u00a7\u00a7 841",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "weight": 4,
+      "pin_cites": [
+        {
+          "page": "(a)(1)"
+        },
+        {
+          "page": "(a)(1)"
+        },
+        {
+          "page": "(a)(1)"
+        },
+        {
+          "page": "(a)(1)"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "21 U.S.C. \u00a7 846",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 680,
+    "char_count": 13427,
+    "ocr_confidence": 0.768,
+    "pagerank": {
+      "raw": 1.0732892639669165e-07,
+      "percentile": 0.5602745565475052
+    },
+    "sha256": "1ab171327c244b88b114ec7dd62be0556d4d17593c0b2dc771361ea9be417522",
+    "simhash": "1:39d209a42c215c42",
+    "word_count": 2195
+  },
+  "last_updated": "2024-02-27T20:11:57.694237+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before SEYMOUR, MOORE and McWILLIAMS, Circuit Judges."
+    ],
+    "parties": [
+      "UNITED STATES of America, Plaintiff-Appellee, v. Reggie LeROY, Defendant-Appellant."
+    ],
+    "opinions": [
+      {
+        "text": "McWILLIAMS, Circuit Judge.\nReggie LeRoy and five others were charged with conspiring with each other, and others, from August 1, 1988, to July 20,1989, in Tulsa, Oklahoma, in violation of 21 U.S.C. \u00a7 846 as follows: (1) to knowingly and intentionally distribute a mixture or substance which contained cocaine base, a Schedule II controlled substance, in an amount in excess of fifty grams in violation of 21 U.S.C. \u00a7\u00a7 841(a)(1) and 841(b)(l)(A)(iii) and (2) to knowingly and intentionally possess with an intent to distribute cocaine in an amount in excess of five hundred grams in violation of 21 U.S.C. \u00a7\u00a7 841(a)(1) and 841(b)(l)(B)(ii).\nLeRoy was tried jointly with four of the other five defendants and the jury convicted LeRoy of conspiring to knowingly and intentionally distribute in excess of fifty grams of a mixture or substance which contained cocaine base, a Schedule II controlled substance, in violation of 21 U.S.C. \u00a7\u00a7 841(a)(1) and 841(b)(l)(A)(iii). LeRoy was sentenced under the Sentencing Guidelines to imprisonment for 320 months. Le-Roy appeals.\nOn May 4, 1989, officers of the Tulsa, Oklahoma police department searched the apartment of one Willie Junior Louis with the latter\u2019s consent. The search disclosed various drug paraphernalia, a quantity of ammunition and a Molotov cocktail. Louis explained to the police that in March, 1989, he was in Oklahoma City, Oklahoma, for several days and had left a girl friend in charge of his apartment. During this absence, according to Louis, LeRoy and the others had simply \u201cmoved\u201d into his apartment and thereafter conducted a \u201ccrack\u201d cocaine business out of his apartment. He told the police that he did not report the matter because he was fearful for his life. He also explained in detail, and later so testified at trial, how LeRoy and the others brought rock cocaine to the apartment, cut large pieces into smaller pieces with a razor blade and sold it to persons who came to the apartment. Louis also described the use of runners, often juveniles, who would come to the apartment, obtain crack cocaine, and then go into the street near his apartment and make sales to persons driving by in automobiles. Louis described how the runners would return with the money obtained from street sales.\nLouis testified at trial as a government witness. Since no cocaine was found in his apartment, his testimony concerning the use of his apartment by LeRoy and the others in the drug operation from March, 1989, to the date the police searched his apartment on May 4, 1989, was quite critical. On direct examination, Louis admitted that he had suffered two prior felony convictions and was on probation from a state conviction at the time of the search of his apartment.\nIn an effort to further attack Louis\u2019 credibility, counsel for certain defendants, including LeRoy, called as a defense witness one Ronny Goins, who was Louis\u2019 probation officer at the time of the May 4 search. Goins testified, inter alia, that he had visited Louis at his apartment on two occasions during March and April, 1989, and that he had seen no evidence of any drug operation, nor did Louis tell him that any drug operation was being conducted out of his apartment by others.\nGoins brought with him Louis\u2019 probation file. On the file was a handwritten notation \u201cmentally unbalanced.\u201d This notation was not made by Goins, but was apparently made by another probation officer who had previously handled Louis\u2019 case. The notation was ostensibly made on or about February 9, 1989, when Louis reported to his probation officer that someone had shot at him. In any event, counsel sought to introduce into evidence this two-word notation \u201cmentally unbalanced\u201d through witness Goins. Objection was made and sustained.\nOn appeal, LeRoy argues that exclusion of this evidentiary matter requires reversal. In moving for the admission of this two-word notation, defense counsel agreed that it was hearsay but sought admission on the grounds that it came under the business record exception and/or the state record exception to hearsay. In rejecting this proffer, the district court spoke as follows:\n[I]t is hearsay and while it may be a report, I don\u2019t think that they [probation officers] regularly assess mental competency through many of these records and what they do is report stories, tales, all sorts of things and you\u2019ve got to know who made the report and what the back up is and the data is, before you ever evaluate what they said and, there\u2019s no indication of competency or what the basis of the statement was nor purport for what purpose.\nThe notation on Louis\u2019 probation file was supposedly made by a Mr. Hughes, who was unavailable to testify at LeRoy\u2019s trial. Presumably, Hughes was not an expert in the field of mental health. However, Fed.R.Evid. 701 permits a lay witness to express an opinion if, inter alia, it is \u201crationally based on the perception of the witness.\u201d So, if Hughes himself had been present at the trial of this matter, he would not have been permitted to express any opinion that Louis was \u201cmentally unbalanced\u201d unless it was first shown that his opinion was \u201crationally based on the perceptions of the witness.\u201d Lay opinion of a witness as to a person\u2019s sanity is admissible if the witness is sufficiently acquainted with the person involved and has observed his conduct. McKenzie v. United States, 266 F.2d 524 (10th Cir.1959). See also United States v. Milne, 487 F.2d 1232, 1235 (5th Cir.1973). A lay witness should be required to testify regarding the person\u2019s unusual, abnormal or bizarre conduct before being permitted to express an opinion as to sanity. Id. In other words, just what Hughes was basing his opinion on would have to first be shown, and in the absence of such, his opinion would not be admitted in evidence.\nBecause Probation Officer Hughes was not present at trial, his notation expressing his opinion of Louis\u2019 mental competency should not be admitted into evidence without any showing as to the basis for his opinion. Neither the business record exception to the hearsay rule, nor the official state record exception, would justify admission of evidence which is itself inadmissible on grounds other than hearsay.\nSometime in June, 1989, Ward Price, one of the defendants, contacted Chris Witt, an officer in the Tulsa, Oklahoma police department, and thereafter had numerous conversations with Witt relating to the drug business which Price headed and in which LeRoy participated. Most of these conversations were audio-taped. These contacts culminated on July 20, 1989, when Witt \u201csold\u201d Price one kilogram of cocaine and received $6,000 in return. This transaction occurred in a motel room and was video-taped. These audio and video tapes were introduced into evidence over objections by LeRoy and the others.\nIn these various conversations between Witt and Price, Witt posed as the \u201ccrooked cop\u201d and Price attempted to enlist Witt in the conspiracy. Price told Witt of the extent and profitability of the enterprise and of the need for \u201cprotection.\u201d Price also offered to \u201cbuy\u201d police confiscated cocaine from Witt. Limited mention of LeRoy was made by Price in his several conversations with Witt.\nBefore trial, and during trial, LeRoy objected to the admission into evidence of any statements made by Price to Officer Witt involving LeRoy. The primary basis for the objection was that Price\u2019s statements to Witt were not \u201cin furtherance\u201d of any conspiracy but were simply narrative in nature. The district court rejected that argument, as do we.\nCertainly the government\u2019s evidence showed a large scale conspiracy to sell cocaine in Tulsa, Oklahoma, and that Le-Roy and Price, and others, were a part of the conspiracy. The conspiracy, though profitable, was experiencing problems. In such setting Price sought the help which only one in Witt\u2019s position as a police officer could offer. Counsel concedes that certain references to LeRoy made by Price to Witt are \u201carguably in furtherance of a conspiracy,\u201d but that other references are not. We decline to draw the fine distinctions argued for by counsel. Certainly Price\u2019s overall motive for importuning Officer Witt was to further the conspiracy. We find no reversible error in the admission into evidence of Price\u2019s statements to Officer Witt concerning LeRoy.\nAs indicated, LeRoy was convicted of conspiring to distribute a material or substance which contained a \u201ccocaine base.\u201d 21 U.S.C. \u00a7\u00a7 841(a)(1) and 841(b)(l)(B)(ii). Although the matter was not raised in the district court, on appeal counsel argues that the evidence is insufficient to show that LeRoy and the others conspired to distribute a mixture or substance containing \u201ccocaine base.\u201d In other words, counsel argues that although there was much testimony that \u201ccocaine\u201d and \u201ccrack\u201d was distributed by LeRoy and the others, such is not sufficient evidence of a violation of the statute which mentions only \u201ccocaine base.\u201d\nAs indicated, this argument is advanced for the first time on appeal and need not be considered unless it constitutes \u201cplain error.\u201d We think, under the described circumstances, it does not. None of the \u201cmixture or substance\u201d distributed by LeRoy and the others was recovered, so there was nothing to be analyzed and labeled by a forensic chemist. However, witnesses, including Louis, did refer to \u201ccocaine\u201d and \u201ccrack.\u201d In United States v. Pinto, 905 F.2d 47 (4th Cir.1990), the Fourth Circuit held that \u201ccocaine base\u201d as used in the statute includes \u201ccocaine free base,\u201d commonly referred to as \u201ccrack.\u201d We agree.\nCounsel also argues that there is insufficient evidence to support LeRoy\u2019s conviction because Louis\u2019 testimony is \u201cinherently improbable.\u201d We disagree. It was up to the jury to determine Louis\u2019 credibility. Further, this entire case does not turn on Louis\u2019 testimony alone, as there was much corroborating evidence. For example, through the use of binoculars, police officers observed \u201crunners\u201d selling their product to passing motorists outside Louis\u2019 apartment.\nLeRoy\u2019s remaining argument in this court is that in imposing sentence the district court did not comply with the Sentencing Guidelines.\nPrior to sentencing, a presentence report was prepared, and, as required by Fed. R.Crim.P. 32(c)(3), was given to LeRoy and his counsel. Counsel filed several specific objections to statements contained in the presentence report. The first objection was directed at the statement in the pre-sentence report that the \u201corganization was responsible for the distribution of at least seven (7) kilograms of crack cocaine at various locations in the Tulsa area.\u201d In response to those objections, the probation officer filed an addendum in which he basically stood by the challenged statements. At sentencing, the district court listened to the statements of counsel and, in effect, overruled the objections and accepted the presentence report.\nOn appeal, LeRoy complains that the district court did not follow the mandate of Fed.R.Crim.P. 32(c)(3)(D), which provides that if a defendant challenges the factual accuracy of statements contained in the presentence report, the court \u201cshall, as to each matter controverted, make (i) a finding as to the allegation, or (ii) a determination that no such finding is necessary because the matter controverted will not be taken into account in sentencing.\u201d That same rule also provides that a written record of such finding or determination shall be appended to the presentence report.\nFrom the record before us it would appear that the district court did not make the findings or determinations required by Fed.R.Crim.P. 32(c)(3)(D). In United States v. Alvarado, 909 F.2d 1443, 1445 (10th Cir.1990), decided after sentence was imposed in the instant case, we held that Fed.R.Crim.P. 32(c)(3)(D) requires that when a defendant challenges information in a presentence report, the district court must either make a factual finding regarding the accuracy of the challenged information or expressly state that in imposing sentence he is not taking into consideration the challenged statement. In Alvarado we remanded for resentencing and commented that such findings or determinations must be made not only for use by the corrections system, but also so that \u201cwe know the facts upon which the district judge relies.\u201d Id. at 1445.\nLeRoy\u2019s objections to the presentence report were not perfunctory but were specific. The district court did not comply with Fed.R.Crim.P. 32(c)(3)(D) and its counterpart, U.S.S.G. \u00a7 6A1.3.\nJudgment of conviction affirmed, but sentence is vacated and case remanded for resentencing.\n. See also, United States v. Metcalf, 898 F.2d 43, 46-47 (5th Cir.1990); United States v. Cyrus, 890 F.2d 1245, 1248 (D.C.Cir.1989); United States v. Brown, 859 F.2d 974, 975-76 (D.C.Cir.1988).\n. The amount of the drug involved bears on the base offense level. In this connection, it should be noted that the record indicates that LeRoy did not participate in the conspiracy prior to March, 1989.",
+        "type": "majority",
+        "author": "McWILLIAMS, Circuit Judge."
+      }
+    ],
+    "attorneys": [
+      "Kevin C. Leitch of Sneed, Lang, Adams, Hamilton & Barnett, Tulsa, Okl., for defendant-appellant.",
+      "James L. Swartz, Asst. U.S. Atty. (Tony M. Graham, U.S. Atty., with him on the brief), Tulsa, Okl., for plaintiff-appellee."
+    ],
+    "corrections": "",
+    "head_matter": "UNITED STATES of America, Plaintiff-Appellee, v. Reggie LeROY, Defendant-Appellant.\nNo. 90-5036.\nUnited States Court of Appeals, Tenth Circuit.\nSept. 11, 1991.\nKevin C. Leitch of Sneed, Lang, Adams, Hamilton & Barnett, Tulsa, Okl., for defendant-appellant.\nJames L. Swartz, Asst. U.S. Atty. (Tony M. Graham, U.S. Atty., with him on the brief), Tulsa, Okl., for plaintiff-appellee.\nBefore SEYMOUR, MOORE and McWILLIAMS, Circuit Judges."
+  },
+  "file_name": "0787-01",
+  "first_page_order": 875,
+  "last_page_order": 878
+}

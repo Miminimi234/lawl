@@ -1,0 +1,66 @@
+{
+  "id": 12146753,
+  "name": "People v. Breidenbach",
+  "name_abbreviation": "People v. Breidenbach",
+  "decision_date": "2015-11-24",
+  "docket_number": "No. 151248; Court of Appeals No. 324049",
+  "first_page": "923",
+  "last_page": "923",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "498 Mich. 923"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Mich.",
+    "id": 8790,
+    "name": "Michigan Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 49,
+    "name_long": "Michigan",
+    "name": "Mich."
+  },
+  "cites_to": [
+    {
+      "cite": "498 Mich 873",
+      "category": "reporters:state",
+      "reporter": "Mich.",
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 17,
+    "char_count": 103,
+    "ocr_confidence": 0.627,
+    "sha256": "5196cc7bca6c9d578000db5075684a96260fb68b7d5cac42f4e6900d5c3bf7ac",
+    "simhash": "1:087c150d332d55a3",
+    "word_count": 18
+  },
+  "last_updated": "2024-02-27T16:10:26.420323+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "People v Breidenbach,"
+    ],
+    "opinions": [
+      {
+        "text": "Leave to appeal denied at 498 Mich 873.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "People v Breidenbach,\nNo. 151248; Court of Appeals No. 324049."
+  },
+  "file_name": "0923-04",
+  "first_page_order": 869,
+  "last_page_order": 869
+}

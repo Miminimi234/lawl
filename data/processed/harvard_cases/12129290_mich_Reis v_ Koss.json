@@ -1,0 +1,59 @@
+{
+  "id": 12129290,
+  "name": "Reis v. Koss",
+  "name_abbreviation": "Reis v. Koss",
+  "decision_date": "2015-08-19",
+  "docket_number": "No. 152113; Court of Appeals No. 326850",
+  "first_page": "869",
+  "last_page": "869",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "498 Mich. 869"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Mich.",
+    "id": 8790,
+    "name": "Michigan Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 49,
+    "name_long": "Michigan",
+    "name": "Mich."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 32,
+    "char_count": 224,
+    "ocr_confidence": 0.774,
+    "sha256": "87921d81c58e9c3ece938839b4429cdbe81fcd04de142dbd74e03b560da75daf",
+    "simhash": "1:0b59460f35bd957e",
+    "word_count": 40
+  },
+  "last_updated": "2023-07-14T17:53:29.610635+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Reis v Koss,"
+    ],
+    "opinions": [
+      {
+        "text": "Pursuant to MCR 7.302(H)(1), in lieu of granting leave to appeal, we vacate the stay of proceedings entered by the Court of Appeals.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Summary Disposition August 19, 2015:\nReis v Koss,\nNo. 152113; Court of Appeals No. 326850."
+  },
+  "file_name": "0869-10",
+  "first_page_order": 815,
+  "last_page_order": 815
+}

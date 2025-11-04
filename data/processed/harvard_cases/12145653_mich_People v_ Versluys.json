@@ -1,0 +1,77 @@
+{
+  "id": 12145653,
+  "name": "People v. Versluys",
+  "name_abbreviation": "People v. Versluys",
+  "decision_date": "2015-11-24",
+  "docket_number": "No. 151496; Court of Appeals No. 326195",
+  "first_page": "917",
+  "last_page": "917",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "498 Mich. 917"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Mich.",
+    "id": 8790,
+    "name": "Michigan Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 49,
+    "name_long": "Michigan",
+    "name": "Mich."
+  },
+  "cites_to": [
+    {
+      "cite": "498 Mich 358",
+      "category": "reporters:state",
+      "reporter": "Mich.",
+      "case_ids": [
+        12122895
+      ],
+      "year": 2015,
+      "opinion_index": 0,
+      "case_paths": [
+        "/mich/498/0358-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 88,
+    "char_count": 967,
+    "ocr_confidence": 0.646,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.24639081274622573
+    },
+    "sha256": "b9c4a725a15e59c36cd966b4509c1240ebaa7c0e226b6a4412a130daae863d56",
+    "simhash": "1:cdf2541d03dba149",
+    "word_count": 156
+  },
+  "last_updated": "2024-02-27T16:10:26.420323+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "People v Versluys,"
+    ],
+    "opinions": [
+      {
+        "text": "Pursuant to MCR 7.305(H)(1), in lieu of granting leave to appeal, we remand this case to the Kent Circuit Court to determine whether the court would have imposed a materially different sentence under the sentencing procedure described in People v Lockridge, 498 Mich 358 (2015). On remand, the trial court shall follow the procedure described in Part VI of our opinion. If the trial court determines that it would have imposed the same sentence absent the unconstitutional constraint on its discretion, it may reaffirm the original sentence. If, however, the trial court determines that it would not have imposed the same sentence absent the unconstitutional constraint on its discretion, it shall resen-tence the defendant. In all other respects, leave to appeal is denied, because we are not persuaded that the remaining question presented should be reviewed by this Court. We do not retain jurisdiction.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "People v Versluys,\nNo. 151496; Court of Appeals No. 326195."
+  },
+  "file_name": "0917-01",
+  "first_page_order": 863,
+  "last_page_order": 863
+}

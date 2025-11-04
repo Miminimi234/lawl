@@ -1,0 +1,43 @@
+{
+  "id": 1967437,
+  "name": "In the Matter of Sobotka",
+  "name_abbreviation": "In re Sobotka",
+  "decision_date": "1985-02-13",
+  "docket_number": "No. 73651",
+  "first_page": "793",
+  "last_page": "793",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "421 Mich. 1201"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Mich.",
+    "id": 8790,
+    "name": "Michigan Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 49,
+    "name_long": "Michigan",
+    "name": "Mich."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 71,
+    "char_count": 792,
+    "ocr_confidence": 0.727,
+    "sha256": "eeae722899a3d1d15ea6baeea43bf39458ff7c214abe832ee4ca8d1b3e44b95e",
+    "simhash": "1:a6e1d0ad5443f520",
+    "word_count": 132
+  },
+  "last_updated": "2023-07-14T15:50:33.670399+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "file_name": "0793-02",
+  "first_page_order": 945,
+  "last_page_order": 945
+}

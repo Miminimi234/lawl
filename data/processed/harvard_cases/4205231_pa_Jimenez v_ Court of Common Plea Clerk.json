@@ -1,0 +1,63 @@
+{
+  "id": 4205231,
+  "name": "Victor JIMENEZ, Petitioner v. COURT OF COMMON PLEA CLERK, Respondent",
+  "name_abbreviation": "Jimenez v. Court of Common Plea Clerk",
+  "decision_date": "2011-10-13",
+  "docket_number": "No. 67 EM 2011",
+  "first_page": "472",
+  "last_page": "472",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "612 Pa. 472"
+    },
+    {
+      "type": "parallel",
+      "cite": "31 A.3d 285"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 47,
+    "char_count": 343,
+    "ocr_confidence": 0.659,
+    "sha256": "89eec1a28ca02facd6742b3787924a053a82b73cd7560b888003ea82493ee7c3",
+    "simhash": "1:79a7c377f3920e3e",
+    "word_count": 57
+  },
+  "last_updated": "2023-07-14T19:33:52.292960+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Victor JIMENEZ, Petitioner v. COURT OF COMMON PLEA CLERK, Respondent."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nPER CURIAM.\nAND NOW, this 13th day of October, 2011, the Application for Leave to File Original Process is GRANTED, and the Petition for Writ of Mandamus and/or Extraordinary Relief is DENIED.",
+        "type": "majority",
+        "author": "PER CURIAM."
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "31 A.3d 285\nVictor JIMENEZ, Petitioner v. COURT OF COMMON PLEA CLERK, Respondent.\nNo. 67 EM 2011.\nSupreme Court of Pennsylvania.\nOct. 13, 2011."
+  },
+  "file_name": "0472-02",
+  "first_page_order": 516,
+  "last_page_order": 516
+}

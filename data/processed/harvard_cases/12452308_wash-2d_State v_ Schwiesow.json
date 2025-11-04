@@ -1,0 +1,78 @@
+{
+  "id": 12452308,
+  "name": "State, Respondent, v. Schwiesow, Petitioner",
+  "name_abbreviation": "State v. Schwiesow",
+  "decision_date": "2017-03-08",
+  "docket_number": "No. 93802-4",
+  "first_page": "1019",
+  "last_page": "1019",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "187 Wash. 2d 1019"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Wash.",
+    "id": 9029,
+    "name": "Washington Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 38,
+    "name_long": "Washington",
+    "name": "Wash."
+  },
+  "cites_to": [
+    {
+      "cite": "196 Wn. App. 1026",
+      "category": "reporters:state",
+      "reporter": "Wash. App.",
+      "case_ids": [
+        12461706,
+        12461707,
+        12461708,
+        12461709
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-app/196/1026-01",
+        "/wash-app/196/1026-02",
+        "/wash-app/196/1026-03",
+        "/wash-app/196/1026-04"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 28,
+    "char_count": 191,
+    "ocr_confidence": 0.855,
+    "sha256": "0de1c95f0d48aa29039b00b02d7b857f014b29f8f715efb3bb50921ae2eb0b96",
+    "simhash": "1:b9916ca319498395",
+    "word_count": 31
+  },
+  "last_updated": "2024-02-27T20:27:34.476040+00:00",
+  "provenance": {
+    "date_added": "2019-05-21",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "State, Respondent, v. Schwiesow, Petitioner,"
+    ],
+    "opinions": [
+      {
+        "text": "Petition for review of a decision of the Court of Appeals, No. 73624-8-I, October 10, 2016, 196 Wn. App. 1026. Denied March 8, 2017.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "State, Respondent, v. Schwiesow, Petitioner,\nNo. 93802-4."
+  },
+  "file_name": "1019-05",
+  "first_page_order": 987,
+  "last_page_order": 987
+}

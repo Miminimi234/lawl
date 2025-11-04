@@ -1,0 +1,801 @@
+{
+  "id": 3727353,
+  "name": "LOUIS VUITTON MALLETIER, S.A., a foreign business entity, Plaintiff-Appellee, v. Joseph MOSSERI, Defendant-Appellant",
+  "name_abbreviation": "Louis Vuitton Malletier, S.A. v. Mosseri",
+  "decision_date": "2013-12-02",
+  "docket_number": "No. 12-12501",
+  "first_page": "1339",
+  "last_page": "1358",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "736 F.3d 1339"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "11th Cir.",
+    "id": 9031,
+    "name": "United States Court of Appeals for the Eleventh Circuit"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "334 F.3d 390",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        1530070
+      ],
+      "pin_cites": [
+        {
+          "page": "400-01"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/334/0390-01"
+      ]
+    },
+    {
+      "cite": "661 F.2d 1206",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1181978
+      ],
+      "pin_cites": [
+        {
+          "page": "1209"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/661/1206-01"
+      ]
+    },
+    {
+      "cite": "952 F.Supp. 1119",
+      "category": "reporters:federal",
+      "reporter": "F. Supp.",
+      "case_ids": [
+        7797724
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f-supp/952/1119-01"
+      ]
+    },
+    {
+      "cite": "39 So.3d 1201",
+      "category": "reporters:state_regional",
+      "reporter": "So. 3d",
+      "case_ids": [
+        7050861
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/so3d/39/1201-01"
+      ]
+    },
+    {
+      "cite": "946 F.2d 1384",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        10530023
+      ],
+      "pin_cites": [
+        {
+          "page": "1388"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/946/1384-01"
+      ]
+    },
+    {
+      "cite": "384 F.3d 700",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        9183376
+      ],
+      "pin_cites": [
+        {
+          "page": "720"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/384/0700-01"
+      ]
+    },
+    {
+      "cite": "28 U.S.C. \u00a7 1746",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "pin_cites": [
+        {
+          "page": "(2)"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "642 F.3d 555",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        5861342
+      ],
+      "pin_cites": [
+        {
+          "page": "558-59"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/642/0555-01"
+      ]
+    },
+    {
+      "cite": "435 F.2d 43",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        2216644
+      ],
+      "pin_cites": [
+        {
+          "page": "46"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/435/0043-01"
+      ]
+    },
+    {
+      "cite": "115 F.3d 1540",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        11994799
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "1542"
+        },
+        {
+          "page": "1542"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/115/1540-01"
+      ]
+    },
+    {
+      "cite": "318 F.3d 446",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        9335956
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "453-54"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/318/0446-01"
+      ]
+    },
+    {
+      "cite": "616 F.3d 158",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        6049456
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "172"
+        },
+        {
+          "page": "171"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/616/0158-01"
+      ]
+    },
+    {
+      "cite": "465 U.S. 770",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11337359
+      ],
+      "weight": 4,
+      "year": 1984,
+      "pin_cites": [
+        {
+          "parenthetical": "involving libel claims"
+        },
+        {
+          "parenthetical": "involving libel claims"
+        },
+        {
+          "parenthetical": "involving libel claims"
+        },
+        {
+          "page": "775-77"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/465/0770-01"
+      ]
+    },
+    {
+      "cite": "465 U.S. 783",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11337451
+      ],
+      "weight": 3,
+      "year": 1984,
+      "pin_cites": [
+        {
+          "parenthetical": "involving libel claims"
+        },
+        {
+          "parenthetical": "involving libel claims"
+        },
+        {
+          "parenthetical": "involving libel claims"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/465/0783-01"
+      ]
+    },
+    {
+      "cite": "594 F.3d 842",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        3521929
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "850"
+        },
+        {
+          "page": "850",
+          "parenthetical": "internal quotation marks omitted"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/594/0842-01"
+      ]
+    },
+    {
+      "cite": "593 F.3d 1249",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        3518810
+      ],
+      "pin_cites": [
+        {
+          "page": "1267"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/593/1249-01"
+      ]
+    },
+    {
+      "cite": "326 U.S. 310",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6157001
+      ],
+      "weight": 5,
+      "year": 1945,
+      "pin_cites": [
+        {
+          "page": "316"
+        },
+        {
+          "page": "158"
+        },
+        {
+          "page": "320"
+        },
+        {
+          "page": "160"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/326/0310-01"
+      ]
+    },
+    {
+      "cite": "466 U.S. 408",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6200640
+      ],
+      "weight": 9,
+      "year": 1984,
+      "pin_cites": [
+        {
+          "page": "413-14"
+        },
+        {
+          "page": "1872"
+        },
+        {
+          "page": "414"
+        },
+        {
+          "page": "1872"
+        },
+        {
+          "page": "414"
+        },
+        {
+          "page": "1872",
+          "parenthetical": "internal quotation marks omitted"
+        },
+        {
+          "page": "414"
+        },
+        {
+          "page": "1872"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/466/0408-01"
+      ]
+    },
+    {
+      "cite": "471 U.S. 462",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6205101
+      ],
+      "weight": 3,
+      "year": 1985,
+      "pin_cites": [
+        {
+          "page": "472-73, 474-75"
+        },
+        {
+          "page": "2182-83"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/471/0462-01"
+      ]
+    },
+    {
+      "cite": "85 So.3d 1084",
+      "category": "reporters:state_regional",
+      "reporter": "So. 3d",
+      "case_ids": [
+        7027807
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/so3d/85/1084-01"
+      ]
+    },
+    {
+      "cite": "620 So.2d 1004",
+      "category": "reporters:state_regional",
+      "reporter": "So. 2d",
+      "case_ids": [
+        7487014
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "1006"
+        },
+        {
+          "parenthetical": "internal quotation marks omitted"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/so2d/620/1004-01"
+      ]
+    },
+    {
+      "cite": "32 F.3d 1521",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        1844305
+      ],
+      "pin_cites": [
+        {
+          "page": "1526-27"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/32/1521-01"
+      ]
+    },
+    {
+      "cite": "449 F.3d 1149",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        5408779
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/449/1149-01"
+      ]
+    },
+    {
+      "cite": "544 F.3d 1280",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        3841064
+      ],
+      "weight": 15,
+      "pin_cites": [
+        {
+          "page": "1282-83"
+        },
+        {
+          "page": "1282",
+          "parenthetical": "emphasis added"
+        },
+        {
+          "page": "1282-83"
+        },
+        {
+          "page": "1283"
+        },
+        {
+          "page": "1282-83"
+        },
+        {
+          "page": "1283",
+          "parenthetical": "emphasis added"
+        },
+        {
+          "page": "1285"
+        },
+        {
+          "page": "1285-86, 1287-88"
+        },
+        {
+          "page": "1288",
+          "parenthetical": "concluding due process was satisfied because the plaintiff was a Florida resident and the defendant directed his intentional actions towards the plaintiff in the forum state"
+        },
+        {
+          "page": "1288"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/544/1280-01"
+      ]
+    },
+    {
+      "cite": "Fla. Stat. \u00a7 48.193",
+      "category": "laws:leg_statute",
+      "reporter": "Fla. Stat.",
+      "weight": 6,
+      "pin_cites": [
+        {
+          "page": "(l)(a)(2)"
+        },
+        {
+          "page": "(l)"
+        },
+        {
+          "page": "(1)(a)(2)",
+          "parenthetical": "emphasis added"
+        },
+        {
+          "page": "(l)(b)"
+        },
+        {
+          "page": "(l)(a)(2)"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "94 F.3d 623",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        11333961
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "627"
+        },
+        {
+          "page": "630-31"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/94/0623-01"
+      ]
+    },
+    {
+      "cite": "178 F.3d 1209",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        577773
+      ],
+      "weight": 4,
+      "pin_cites": [
+        {
+          "page": "1216"
+        },
+        {
+          "page": "1215"
+        },
+        {
+          "parenthetical": "concluding that a nonresident defendant's attempt to challenge a prima facie case of personal jurisdiction with \"conclusory assertions of ultimate fact\" is insufficient to shift to the plaintiff \"the burden of producing evidence supporting jurisdiction\""
+        },
+        {
+          "page": "1216-17",
+          "parenthetical": "collecting Florida cases and adopting Florida courts' broad interpretation of the long-arm statute that permits personal jurisdiction over nonresident \"defendants committing tortious acts outside the state that cause injury in Florida\""
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/178/1209-01"
+      ]
+    },
+    {
+      "cite": "358 F.3d 1312",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        9298526
+      ],
+      "pin_cites": [
+        {
+          "page": "1319"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/358/1312-01"
+      ]
+    },
+    {
+      "cite": "681 F.3d 1283",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        3884600
+      ],
+      "pin_cites": [
+        {
+          "page": "1292"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/681/1283-01"
+      ]
+    },
+    {
+      "cite": "558 F.3d 1210",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        3361367
+      ],
+      "weight": 9,
+      "pin_cites": [
+        {
+          "page": "1217"
+        },
+        {
+          "page": "1217"
+        },
+        {
+          "page": "1220-21"
+        },
+        {
+          "page": "1222",
+          "parenthetical": "additional internal quotation marks omitted"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/558/1210-01"
+      ]
+    },
+    {
+      "cite": "447 F.3d 1357",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        5860841
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "1360"
+        },
+        {
+          "page": "1360"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/447/1357-01"
+      ]
+    },
+    {
+      "cite": "916 F.2d 1510",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        10540823
+      ],
+      "pin_cites": [
+        {
+          "page": "1514"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/916/1510-01"
+      ]
+    },
+    {
+      "cite": "556 F.3d 1260",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        3332347
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "1274"
+        },
+        {
+          "page": "1274"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/556/1260-01"
+      ]
+    },
+    {
+      "cite": "15 U.S.C. \u00a7 1117",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "weight": 8,
+      "pin_cites": [
+        {
+          "page": "(c)(2)"
+        },
+        {
+          "page": "(c)"
+        },
+        {
+          "page": "(a)"
+        },
+        {
+          "page": "(a)"
+        },
+        {
+          "page": "(c)"
+        },
+        {
+          "page": "(c)"
+        },
+        {
+          "page": "(c)"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "15 U.S.C. \u00a7 1125",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "pin_cites": [
+        {
+          "page": "(a)"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "15 U.S.C. \u00a7 1114",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 1723,
+    "char_count": 56245,
+    "ocr_confidence": 0.677,
+    "pagerank": {
+      "raw": 2.2226439257620753e-07,
+      "percentile": 0.7778061578107449
+    },
+    "sha256": "369f4aed32b47daa6a1d45214dc9f735ebcd982ecaa3575a28a4a5344f3ef265",
+    "simhash": "1:97ae7914ba8c3368",
+    "word_count": 8573
+  },
+  "last_updated": "2024-02-27T16:55:59.249303+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before. HULL and MARTIN, Circuit Judges, and HINKLE, District Judge."
+    ],
+    "parties": [
+      "LOUIS VUITTON MALLETIER, S.A., a foreign business entity, Plaintiff-Appellee, v. Joseph MOSSERI, Defendant-Appellant."
+    ],
+    "opinions": [
+      {
+        "text": "HULL, Circuit Judge:\nIn this federal trademark infringement case, appellant Joseph Mosseri appeals the district court\u2019s denial of his motion under Federal Rule of Civil Procedure 60(b)(4) to vacate a default judgment entered against him. Appellant Mosseri does not contest that he was personally served with, the lawsuit, that he received the motion for default judgment, and that he did not respond at all. Rather, over six months after service, Mosseri filed a Rule 60(b)(4) motion contending that the judgment is void because the district court in Florida lacked jurisdiction over his person. After careful review, and with the benefit of oral argument, we conclude that the district court did not commit reversible error in denying Mosseri\u2019s motion, and we affirm.\nI. FACTS AND PROCEDURAL HISTORY\nThe plaintiff-appellee, Louis Vuitton Malletier, S.A. (\u201cLouis Vuitton\u201d) sells high-end handbags and similar products. Louis Vuitton operates retail outlets and boutiques in the Southern District of Florida and elsewhere. Unauthorized websites advertised purported Louis Vuitton bags, including in Florida. The sample advertised price was $159. Louis Vuitton knew the bags were counterfeit but did not know who was selling them. The procedural history shows how Louis Vuitton discovered defendant Joseph Mosseri was selling the counterfeit bags.\nA. The Original Complaint Against Unidentified Defendants\nIn 2010, in the Southern District of Florida, Louis Vuitton filed a complaint against unidentified defendants who were operating websites under the domain names \u201cpendoza.com\u201d and \u201clazata.com.\u201d Louis Vuitton\u2019s original complaint stated that Louis Vuitton manufactured and distributed throughout the world, including within the Southern District of Florida, high quality luggage, belts, handbags, and wallets under federally registered trademarks. According to the original complaint, through the use of the \u201cpendoza.com\u201d and \u201clazata.com\u201d websites, the unidentified defendants had sold counterfeit and trademark infringing luggage, belts, handbags, and wallets to consumers in the Southern District of Florida.\nLouis Vuitton brought claims for trademark counterfeiting and infringement under 15 U.S.C. \u00a7 1114 and for false designation of origin under 15 U.S.C. \u00a7 1125(a). Louis Vuitton requested: (1) a permanent injunction; (2) an order that the defendants\u2019 websites be permanently disabled; and (3) actual damages, trebled or statutory damages under 15 U.S.C. \u00a7 1117(c)(2) in the amount of $2,000,000 \u201cper each counterfeit Louis Vuitton Mark used and product sold.\u201d\nB. Expedited Discovery to Identify Website Operators\nLouis Vuitton requested expedited discovery to identify the website operators. Louis Vuitton filed an affidavit of Robert Holmes, a private investigator. Holmes attested that, in February 2010, he purchased a counterfeit Louis Vuitton \u201ccosmetic pouchette\u201d from \u201clazata.com.\u201d Holmes received this item in a package bearing a return address of \u201cPierre, LAZ Shipping, 1204 Ave U, Brooklyn, N.Y. 11229.\u201d By exchanging electronic information with the website, Holmes identified: (1) the website\u2019s IP address as being issued by CSC Holdings, Inc.; and (2) HCI Fashion, Inc. of Brooklyn, New York as being the payee, although Holmes was unable to tell if this entity operated the website or was just a third party payment processor. From New York corporate records, Holmes learned the incorporator of HCI Fashion was \u201cInna Orel\u201d and HCI Fashion\u2019s address was 1204 Avenue U, Brooklyn, New York 11229. An entity known as \u201cMail Drop Corp.\u201d owned that address.\nThe district court granted Louis Vuitton\u2019s requests to subpoena records from: (1) CSC Holdings; (2) Inna Orel; (3) Mail Drop Corp.; (4) United Parcel Service of America, Inc. (\u201cUPS\u201d); and (5) Verizon New York, Inc. (\u201cVerizon\u201d).\nLouis Vuitton also filed another affidavit from its investigator Holmes describing a second Internet purchase. In October 2010, Holmes purchased a Louis Vuitton branded canvas billfold from the \u201cpendo-za.com.\u201d website. UPS delivered the billfold to Holmes in Wilton Manors, Florida, and the payee information he received included a Verizon telephone number, which was (718) 382-0085. As discussed later, Verizon records showed who owned that number. The package had the same return address as the one on the package received after Holmes\u2019s February 2010 purchase from \u201clazata.com.\u201d\nC. The First Amended Complaint Against Chera and Zakmo Corporation\nThrough this expedited discovery, Louis Vuitton initially concluded that the operator of \u201clazata.com\u201d and \u201cpendoza.com\u201d was Raymond V. Chera, who was affiliated with Zakmo Corporation. Louis Vuitton identified Chera based on Mail Drop Corp. records showing that Chera rented the mailbox registered to HCI Fashion. Louis Vuitton amended its complaint to name \u201cRaymond V. Chera\u201d and \u201cZakmo Corp.\u201d as defendants.\nD. Further Investigation and Identification of Defendant Joseph Mosseri\nLouis Vuitton also received records from Verizon. The Verizon documents showed that JEM Marketing, Inc. (\u201cJEM Marketing\u201d), a corporation with the address 2167 East 21st Street, Brooklyn, New York, 11229, owned the phone number \u2014 (718) 332-0085 \u2014 associated with \u201cpendoza.com\u201d and the payee in the billfold purchase. Verizon identified (718) 332-0085 as a land line number for JEM Marketing.\nThe Verizon records also showed that a second number \u2014 (917) 669-2544 \u2014 was associated with this JEM Marketing account. Another Louis Vuitton investigator, Linda Kadluboski, testified that this second phone number \u2014 (917) 669-2594 \u2014 was listed \u201cto Joseph Mosseri at 2167 East 21st Street in Brooklyn, New York.\u201d\nChera\u2019s attorney contacted Louis Vuitton\u2019s attorney and admitted that Chera had rented a mailbox for the purposes of sending goods marketed on the \u201cpendo-za.com\u201d and \u201clazata.com\u201d websites. However, Chera\u2019s attorney stated that Chera had done so on behalf of another person, Joseph Mosseri. Chera\u2019s attorney provided Louis Vuitton with Mosseri\u2019s personal cellular telephone number of (917) 669-2544, which was the same as the second number associated with JEM Marketing\u2019s Verizon account.\nLouis Vuitton then obtained New York state records showing JEM Marketing\u2019s \u201cChairman or Chief Executive Officer\u201d was Joseph Mosseri. In sum, Louis Vuitton\u2019s investigation revealed that the payee JEM Marketing and its CEO Mosseri were using the same phone number \u2014 (917) 669-2544 \u2014 and same address \u2014 2167 East 21st Street, Brooklyn, New York.\nE.The Second Amended Complaint Against Joseph Mosseri\nHaving concluded that it was Mosseri, not Chera, who was actually behind the websites \u201cpendoza.com\u201d and \u201clazata.com,\u201d Louis Vuitton dismissed Chera as a defendant and filed a motion for leave to file a second amended complaint (the \u201ccomplaint\u201d) adding Mosseri as a defendant. The district court granted the motion, and Louis Vuitton filed the complaint against Mosseri.\nThe complaint repeated the same factual allegations and claims as those in the original complaint. Louis Vuitton also alleged that defendant Mosseri engaged in the above-described illegal counterfeiting and infringing activities knowingly and intentionally or with reckless disregard or willful blindness to Louis Vuitton\u2019s rights.\nThis time, the complaint included new allegations relevant to jurisdiction over Mosseri. For example, Louis Vuitton\u2019s complaint alleged that the district court may \u201cproperly exercise personal jurisdiction over Defendants since all Defendants directly target business activities towards consumers in Florida and cause harm to Louis Vuitton\u2019s business within this District through at least the fully interactive Internet websites operating under the Subject Domain Names.\u201d The complaint defined \u201cSubject Domain Names\u201d to include \u201clazata.com\u201d and \u201cpendoza.com.\u201d\nThe complaint also alleged that Mosseri resides in New York but \u201cconducts business throughout the United States, including within this Judicial District, through the operation of the fully interactive commercial websites operating under the Subject Domain Names.\u201d\nMoreover, the complaint alleged that \u201cDefendants engage in the offering for sale and sale of counterfeit and infringing Louis Vuitton branded products within this Judicial District through multiple fully interactive commercial websites operating under at least the Subject Domain Names\u201d and \u201chave purposefully directed their illegal activities towards consumers in ... Florida through the advertisement, offer to sell and sale of counterfeit ... goods into the State.\u201d In another paragraph, the complaint stated that Louis Vuitton had determined that Mosseri and his co-defendants \u201care promoting and otherwise advertising, distributing, selling and/or offering for sale counterfeit products, including at least handbags and wallets, using trademarks which are exact copies of the Louis Vuitton' Marks (the \u2018Counterfeit Goods\u2019).\u201d Later in the complaint, Louis Vuitton reiterated that Mos-seri was conducting \u201ccounterfeiting and infringing activities and causing harm at least within this Judicial District and elsewhere throughout the United States.\u201d\nThe complaint added that the defendants\u2019 counterfeit goods \u201care of a quality substantially different than that of Louis Vuitton\u2019s genuine goods. Despite the nature of their Counterfeit Goods and the knowledge they are without authority to do so, Defendants are actively using, promoting and otherwise advertising, distributing, selling and/or offering for sale substantial quantities of their Counterfeit Goods with the knowledge that such goods will be mistaken for the genuine high quality products offered for sale by Louis Vuitton.\u201d\nF. Mosseri\u2019s Failure to Respond\nA summons was issued for Mosseri on May 16, 2011 and returned executed on May 24, 2011. The process server\u2019s affidavit averred that, on May 19, 2011 at 8:57 PM at Mosseri\u2019s Brooklyn, New York address, he served the complaint and a summons on Mosseri. The complaint, served on Mosseri, was signed by Louis Vuitton\u2019s retained attorney in Florida, Stephen M. Gaffigan.\nMosseri did not respond to the complaint. On June 8, 2011, Louis Vuitton\u2019s attorney, Gaffigan, received a telephone call from David Schrader, who stated that he was a potential counsel for Mosseri and acknowledged that a response to the complaint was due June 9. Schrader informed Gaffigan that Mosseri needed a two-week extension until June 23 to respond to the complaint, to which Gaffigan agreed. However, Schrader never entered an appearance as counsel, and Mosseri never filed for an extension nor answered the complaint.\nAs a result, on June 27, 2011, the clerk of the district court in Florida signed an order stating that Mosseri was in default for failure to answer or otherwise plead to the complaint against him. See Fed. R.Civ.P. 55(a) (\u201cWhen a party against whom a judgment for affirmative relief is sought has failed to plead or otherwise defend, and that failure is shown by affidavit or otherwise, the clerk must enter the party\u2019s default.\u201d). The clerk of the district court mailed a copy of the default to Mos-seri in New York.\nG. Louis Vuitton\u2019s Motion for Default Judgment\nOn August 1, 2011, Louis Vuitton filed its motion for a default judgment and attached supporting evidence. See Fed. R.Civ.P. 55(b)(2). Louis Vuitton requested: (1) a default judgment and a permanent injunction; (2) orders requiring the domain names, of the websites \u201clazata.com\u201d and \u201cpendoza.com\u201d be made inoperable; (3) $324,000.00 in statutory damages under 15 U.S.C. \u00a7 1117(c); (4) $9,135.00 in attorney\u2019s fees under 15 U.S.C. \u00a7 1117(a)-(b); (5) $2,567.50 in investigative fees under 15 U.S.C. \u00a7 1117(a); (6) $504.10 in costs; and (6) prejudgment interest.\nAs to statutory damages, Louis Vuitton relied on 15 U.S.C. \u00a7 1117(c), which provides that a plaintiff may elect to recover, instead of actual damages and profits, an award of statutory damages of \u201cnot less than $1,000 or more than $200,000 per counterfeit mark per type of goods or services sold, offered for sale, or distributed.\u201d 15 U.S.C. \u00a7 1117(c). When the court determines that the trademark violation was \u201cwillful,\u201d the statute authorizes statutory damages of \u201cnot more than $2,000,000 per counterfeit mark per type of goods or services sold, offered for sale, or distributed.\u201d Id. at \u00a7 1117(c)(2).\nIn addition, Louis Vuitton claimed that: (1) Mosseri\u2019s infringing activities were willful; (2) Mosseri had sold two types of goods \u2014 handbags and wallets; and (3) these goods bore nine different federally \u2022registered Louis Vuitton trademarks. Louis Vuitton asked the district court to \u201cstart with the baseline statutory minimum award of $3,000.00, treble it to reflect Defendant\u2019s willfulness, and then double the product for the purpose of deterrence.\u201d Louis Vuitton stated that \u201c[t]he result would be $18,000.00 per registered Louis Vuitton Mark counterfeited (9) per type of goods sold (2) for a total award amount of $324,000.00 in statutory damages.\u201d\nLouis Vuitton\u2019s evidence included, inter alia: (1) an affidavit by Louis Vuitton\u2019s in-house counsel, Nikolay Livadkin, discussing its trademarks and how the goods purchased from the websites \u201cwere non-genuine Louis Vuitton products\u201d; (2) copies of the Louis Vuitton registered trademarks; (3) another affidavit from investigator Holmes summarizing his 2010 purchases, explaining how those purchases led him to Mosseri, and reporting his investigation cost $2,567.50; (4) images captured from the websites; (5) receipts and shipping documents from Holmes\u2019s purchases; (6) pictures of Holmes\u2019s purchases; (7) the New York state record on JEM Marketing; (8) an affidavit by Louis Vuitton\u2019s attorney, Gaffigan, explaining the amount of costs and attorneys\u2019 fees requested; (9) the Verizon records; (10) the process service firm\u2019s receipt [; and (11) ] copies of the subpoenas to record providers.\nH. Default Judgment\nMosseri does not now dispute the fact that he received but did not respond to Louis Vuitton\u2019s August 11 motion for a default judgment. On August 31, 2011, the district court entered a default judgment against Mosseri.\nIn the default judgment, the district court issued a permanent injunction restraining defendant Mosseri from, inter alia: (1) \u201cmanufacturing or causing to be manufactured, importing, advertising, or promoting, distributing, selling or offering to sell counterfeit and infringing goods using\u201d the Louis Vuitton trademarks listed in the complaint; (2) using Louis Vuitton\u2019s trademarks \u201cin connection with the sale of any unauthorized goods\u201d; (3) \u201cusing any logo, and/or layout which may be calculated to falsely advertise\u201d Mosseri\u2019s services or products \u201cas being sponsored by, authorized by, endorsed by, or in any way associated with\u201d Louis Vuitton; (4) \u201cfalsely representing\u201d himself as being associated with Louis Vuitton; (5) creating new entities to circumvent the district court\u2019s injunction; and (6) using Louis Vuitton trademarks on the Internet. The district court ordered that the websites at issue be transferred to Louis Vuitton\u2019s control and that various Internet administrative entities give effect to the transfer.\nThe district court awarded this monetary relief against Mosseri: (1) $324,000.00 in statutory damages; (2) $9,135.00 in attorney\u2019s fees; (3) $2,567.50 in investigative fees; (4) $504.10 in costs; and (5) prejudgment interest. Louis Vuitton\u2019s attorney Gaffigan personally sent a copy of the final default judgment to Mosseri via email. Gaffigan also sent a copy to Mosseri by regular mail.\nI.Mosseri\u2019s Motion to Vacate the Default Judgment\nMore than six months after being served with the complaint and more than three months after the default judgment, defendant Mosseri, through Florida counsel, filed a motion to vacate the default judgment under Rule 60(b)(4) and attached Mosseri\u2019s affidavit. Mosseri\u2019s motion, filed on December 13, 2011, argued that the default judgment should be vacated because: (1) he was never served; and (2) the district court in Florida lacked personal jurisdiction over him.\nIn his half-page affidavit, Mosseri stated in full:\n1. I was never served with a copy of the Florida lawsuit. I found out about the lawsuit after searching for my name on the internet. I have blondish hair, weigh about 195 pounds and am about 6'2\" tall.\n2. I reside in New York, not Florida. I do not conduct any business in Florida.\n3. I am not affiliated with the web-siteslazata.com, pendoza.com, bese-la.com, bessella.com, besella.com or-bonntique.com.\nDespite this affidavit saying he was not served, Mosseri ultimately withdrew that claim. Notably too, Mosseri\u2019s motion and affidavit did not deny, much less rebut, the complaint\u2019s detailed allegations that substantial quantities of counterfeit Louis Vuitton goods and products were being sold through the \u201cpendoza.com\u201d and \u201claza-ta.com\u201d websites including to Florida consumers. Instead, Mosseri\u2019s contention was he was \u201cnot affiliated\u201d with those websites.\nJ. Louis Vuitton\u2019s Response to the Motion to Vacate\nOn December 30, 2011, Louis Vuitton responded to Mosseri\u2019s motion to vacate and filed affidavits from the process server and investigators Holmes and Kadluboski. Investigator Kadluboski\u2019s affidavit indicated that the telephone number provided by Chera \u2014 (917) 669-2544 \u2014 belonged to Mos-seri. Holmes\u2019s affidavits were the earlier ones recounting his two 2010 purchases and how his investigation and subpoenaed records had led him to Mosseri.\nLouis Vuitton emphasized the record already established that Mosseri was in fact served. Nevertheless, in a second affidavit, the process server again averred that he personally served process on Mosseri and added that the individual served identified himself as \u201cJoseph Mosseri.\u201d The process server\u2019s affidavit stated that the individual served identified himself as Joseph Mosseri. Louis Vuitton stressed that an individual claiming to represent Mos-seri contacted Louis Vuitton\u2019s attorney on June 8, 2011 requesting an extension of time to answer the complaint. Louis Vuitton reasoned that it was \u201codd that a man who claims he was never served ... somehow managed to have counsel contact Louis Vuitton\u2019s counsel the day before his answer to the ... Complaint was due and request an extension.\u201d\nAs to jurisdiction, Louis Vuitton asserted that personal jurisdiction existed over Mosseri under Florida\u2019s long-arm statute because Mosseri committed tortious acts\u2014 trademark infringement \u2014 in Florida. The tortious acts in Florida were: (1) Mosseri\u2019s operation of \u201cfully-interactive Internet websites\u201d on which Florida customers could view, buy, and pay for products bearing counterfeits of the Louis Vuitton trademarks; and (2) the fact that \u201cMos-seri, through his affiliated websites,\u201d actually sold and shipped counterfeit Louis Vuitton goods into the Southern District of Florida.\nK. District Court Evidentiary Hearing on Motion to Vacate\nThe district court set an evidentiary hearing for January 26, 2012, which was continued to February 28. Five days before that date, the parties filed a joint motion to cancel the evidentiary hearing and stated that Mosseri was dropping his argument about having never been served. The- district court scheduled a new eviden-tiary hearing for March 16. Four days before the hearing, Mosseri\u2019s Florida attorney, Sarleson, who had filed the motion papers and affidavit, withdrew and the hearing was continued again.\nThe district court held the evidentiary hearing on March 30. Mosseri\u2019s new attorney, Santucci, came to the hearing, but Mosseri did not. Mosseri\u2019s attorney did not offer any evidence. Louis Vuitton called two witnesses: investigators Holmes and Kadluboski. As noted above, Mos-seri\u2019s affidavit had not denied the complaint\u2019s allegations that counterfeit Louis Vuitton goods and products were being sold through the websites to consumers in Florida. The focus of the hearing was whether Mosseri was connected to the websites.\nHolmes testified that Louis Vuitton retained his firm to investigate the websites \u201cpendoza.com\u201d and \u201clazata.com.\u201d He logged on to the Internet via a proxy server located in Florida and accessed \u201cpendoza.com.\u201d Afterwards, he \u201cinteracted with the website\u201d by \u201cclicking] on specific buttons for clients trademarks, items that bore our clients trademarks and retrieving] data with items with those trademarks on them.\u201d Holmes selected goods bearing Louis Vuitton trademarks and actually ordered an item from the website \u201cpendoza.com.\u201d Holmes received the item at his firm\u2019s address in Wilton Manors, Florida. Holmes recounted the investigation after his purchase. Specifically, his: (1) receiving a telephone number \u2014 (713) 322-0085 \u2014 linked to the payee on the Florida transaction; (2) linking the telephone number \u2014 (713) 322-0085 \u2014 to JEM Marketing; and (3) reviewing New York records to determine that Joseph Mosseri is the CEO of JEM Marketing.\nMosseri\u2019s attorney asked whether Holmes \u201creceived any e-mail or letter directly from Joseph Mosseri.\u201d Holmes responded that he had \u201creceived an e-mail from the website confirming [his] order\u201d and that he could not \u201ctell you sitting here that Joseph Mosseri was or was not the person that pressed the button on that particular e-mail.\u201d Mosseri\u2019s attorney asked whether Holmes uncovered evidence \u201cof any sort that Joseph Mosseri knew about the Wilton Manors[, Florida] transaction.\u201d In response, Holmes pointed out that his firm \u201cpaid Mr. Mosseri.\u201d\nNext, investigator Kadluboski testified that Louis Vuitton hired her to conduct a background investigation on Mosseri. Kadluboski was previously a federal agent with the U.S. Customs Service and Department of Homeland Security for 25 years. As a result of her investigation, she \u201cwas able to associate\u201d Mosseri with the telephone number of (917) 669-2544. She testified that the number (917) 669-2544 was \u201clisted to Joseph Mosseri at 2167 East 21st Street in Brooklyn, New York.\u201d As the Verizon records showed, that same phone number and same address are also shown on the Verizon account of JEM Marketing. During cross-examination, Kadluboski noted that her investigation did not reveal that Mosseri had any addresses in Florida.\nAfter these two witnesses testified, the district court heard arguments from Mos-seri\u2019s attorney. When the district court inquired as to why Mosseri\u2019s selling a good directly into Florida was not enough for personal jurisdiction, Mosseri\u2019s attorney stressed that Louis Vuitton manufactured the sale by directing its investigator to order the product and have it shipped to him in Florida.\nThe district court made certain legal conclusions. The district court stated \u201cit would seem to me that if there is a sale to somewhere in the world, there\u2019s jurisdiction\u201d in that place (i.e., where the good was sold and delivered). The district court rejected Mosseri\u2019s \u201cmanufactured sale\u201d argument, pointing out that the only way to determine whether a good offered for sale on the Internet was genuine or counterfeit was for Louis Vuitton to order and obtain the good. The district court commented that \u201chow they get it, I don\u2019t think that matters.\u201d\nNext, the district court made certain findings. It concluded that the evidence showed Holmes ordered and received a counterfeit Louis Vuitton billfold in Florida, stating \u201cthey ordered it, they got it, it was delivered to them here, in the Southern District of Florida.\u201d The district court found that Mosseri, through his website, was \u201csoliciting business wherever the Internet goes\u201d including in Florida. It found that Holmes had ordered and received in Wilton Manors, Florida \u201cthe bag,\u201d and paid \u201ca company that is controlled by Mr. Mosseri.\u201d The district court stated that, unless Mosseri had \u201ca factual defense saying, you know, Mosseri was in a coma for several months and did not know what was going on ... [,] his corporation [was] getting the money for selling what is allegedly infringing goods.\u201d\nThe district court orally denied Mos-seri\u2019s motion to vacate. After Mosseri\u2019s attorney stated that Louis Vuitton had not \u201cmet [the] burden\u201d of \u201cshow[ing] a continuous and systematic contact with the state of Florida,\u201d the district court reiterated \u201cI find they have done that.\u201d\nThe district court followed this oral order with a short written order providing: \u201c[f]or the reasons set forth on the record, it is hereby: ORDERED AND ADJUDGED that Joseph Mosseri\u2019s Verified Motion to Vacate Default Judgment ... is DENIED.\u201d Mosseri timely appealed, contending the default judgment is void because the district court in Florida lacked personal jurisdiction over him.\nII. STANDARD OF REVIEW\nA plaintiff seeking to establish personal jurisdiction over a nonresident defendant \u201cbears the initial burden of alleging in the complaint sufficient facts to make out a prima facie case of jurisdiction.\u201d United Techs. Corp. v. Mazer, 556 F.3d 1260, 1274 (11th Cir.2009). When a defendant challenges personal jurisdiction \u201cby submitting affidavit evidence in support of its position, the burden traditionally shifts back to the plaintiff to produce evidence supporting jurisdiction.\u201d Madam v. Hall, 916 F.2d 1510, 1514 (11th Cir.1990) (internal quotation marks omitted). The burden, however, does not shift back to the plaintiff when \u201cthe defendant\u2019s affidavits contain only conclusory assertions that the defendant is not subject to jurisdiction.\u201d Stubbs v. Wyndham Nassau Resort & Crystal Palace Casino, 447 F.3d 1357, 1360 (11th Cir.2006).\nWe review de novo whether the district court had personal jurisdiction over a nonresident defendant. Oldfield v. Pueblo De Bahia Lora, S.A., 558 F.3d 1210, 1217 (11th Cir.2009). In doing so, we accept as true the allegations in the complaint. Stubbs, 447 F.3d at 1360. If the district court makes any findings of fact in reaching its personal jurisdiction conclusion, we review those fact findings for clear error. Merial Ltd. v. Cipla Ltd., 681 F.3d 1283, 1292 (Fed.Cir.2012).\nWe generally review a district court\u2019s denial of a Rule 60(b) motion to vacate a default judgment under a deferential abuse of discretion standard. Oldfield, 558 F.3d at 1217. However, when a party seeks to vacate a default judgment by arguing that the district court did not have jurisdiction over his person, we review de novo the denial of the Rule 60(b) motion because \u201ca district court\u2019s failure to vacate a void judgment is per se an abuse of discretion.\u201d Id.\nIII. PERSONAL JURISDICTION QUESTIONS\nWe consider two questions in resolving personal jurisdiction: (1) whether personal jurisdiction exists over the nonresident defendant Mosseri under Florida\u2019s long-arm statute, and (2) if so, whether that exercise of jurisdiction would violate the Due Process Clause of the Fourteenth Amendment to the U.S. Constitution. See Mut. Serv. Ins. Co. v. Frit Indus., Inc., 358 F.3d 1312, 1319 (11th Cir.2004).\nBefore evaluating these legal issues, we address Mosseri\u2019s affidavit because a key factual issue here was whether Mosseri was connected to the websites that were selling counterfeit Louis Vuitton goods.\nIV. MOSSERI\u2019S AFFIDAVIT\nMosseri claims that his affidavit means the district court clearly erred in its finding that he was involved with the \u201cpendo-za.com\u201d website that was selling counterfeit goods into Florida and wherever the Internet goes. We disagree and explain why.\nWe start with the allegations in Louis Vuittoris complaint and then review what Mosseri\u2019s affidavit said. Louis Vuittoris complaint specifically alleged that Mosseri: (1) \u201cconducts business throughout the United States, including within this Judicial District\u201d; (2) engaged in the \u201csale of counterfeit and infringing Louis Vuitton branded products within this Judicial District through multiple fully interactive commercial websites\u201d; (3) purposefully directed illegal activities \u201ctowards consumers in ... Florida through the ... sale of counterfeit Louis Vuitton branded goods into the State\u201d; (4) was \u201cselling and/or offering for sale counterfeit products, including at least handbags and wallets, using trademarks which are exact copies of the Louis Vuitton Marks\u201d; and (5) was \u201cactively ... advertising, distributing, selling ... substantial quantities\u201d of these infringing goods in Florida and elsewhere. These allegations established a prima facie case of jurisdiction over Mosseri. See Posner v. Essex Ins. Co., 178 F.3d 1209, 1216 (11th Cir.1999) (holding that the plaintiff \u201calleged facts, unrebutted by Salem, that established a prima facie case of jurisdiction over Salem\u201d).\nTo shift the burden back to the plaintiff, a defendant\u2019s affidavit must contain \u201cspecific factual declarations within the affiant\u2019s personal knowledge.\u201d Id. at 1215. As noted earlier, Mosseri\u2019s affidavit did not deny that counterfeit Louis Vuitton goods and products were being sold directly to Florida consumers through the \u201cpen-doza.com\u201d website. Instead, Mosseri\u2019s affidavit contains only a denial that he was not affiliated with the website. Given the extensive allegations in the complaint, it is questionable whether Mosseri\u2019s conclusory denial shifted the burden back to the plaintiff at all. See id. (concluding that a nonresident defendant\u2019s attempt to challenge a prima facie case of personal jurisdiction with \u201cconclusory assertions of ultimate fact\u201d is insufficient to shift to the plaintiff \u201cthe burden of producing evidence supporting jurisdiction\u201d).\nIn any event, for purposes of this appeal, we accept that Mosseri\u2019s affidavit created a factual issue as to whether he was affiliated with the \u201cpendoza.com\u201d website (which was selling infringing goods into Florida). The problem for Mosseri is that the district court held an. evidentiary hearing and found that Holmes had ordered through Mosseri\u2019s website, had received in Florida, and had paid Mosseri\u2019s company for the infringing billfold. The district court also found Mosseri was soliciting business through his website wherever the Internet goes, including in Florida and that his company was getting money for selling infringing goods. The documentary evidence and investigators\u2019 testimony support those findings, and Mosseri has not shown the district court clearly erred in making them.\nThe fact that the district court did not believe Mosseri\u2019s affidavit is not surprising. In the first paragraph, Mosseri stated he was never served with process. The record established that Mosseri was personally served. Mosseri finally stopped denying this. In the third paragraph, Mosseri said he was not \u201caffiliated\u201d with the \u201cpendoza.com\u201d website. But Louis Vuitton\u2019s evidence at the hearing demonstrated the contrary. Holmes paid JEM Marketing for the billfold ordered through the \u201cpendoza.com\u201d website, and Mosseri was the CEO of JEM Marketing. If Mos-seri was not the entire moving force behind the \u201cpendoza.com\u201d website, he surely had the lead role. If Mosseri\u2019s company, JEM Marketing, had even one other employee besides its CEO Mosseri, the record did not reflect it.\nIn the second paragraph, Mosseri swore he lived in New York. That was true. Mosseri added only: \u201cI do not conduct any business in Florida.\u201d If this was meant as a statement that his \u201cpendoza.com\u201d website produced no sales to Florida, the statement was demonstrably false. The investigators\u2019 affidavits, testimony, and subpoenaed records collectively revealed that the payee JEM Marketing and its CEO Mosseri were using the same telephone number ((917) 669-2544) and same address (2167 East 21st Street, Brooklyn, New York). As the district court found, the payee, JEM Marketing sent the billfold to Holmes in Florida, which he ordered through the \u201cpendoza.com\u201d website, and Mosseri controlled JEM Marketing. This evidence indicated the falsity of the statement that Mosseri did not conduct \u201cany business in Florida.\u201d\nThat the district court did not credit the statements in Mosseri\u2019s affidavit \u2014 that he was not affiliated with the websites and did not conduct business in Florida \u2014 was not clear error. Given that determination, we must now review whether the complaint\u2019s unrebutted allegations and investigators\u2019 testimony showed that Mosseri was subject to personal jurisdiction in Florida. We thus turn to Florida\u2019s long-arm statute.\nV. FLORIDA\u2019S LONG-ARM STATUTE\nThe reach of Florida\u2019s long-arm statute \u201cis a question of Florida law,\u201d and this Court is required to apply the statute \u201cas would the Florida Supreme Court.\u201d United Techs., 556 F.3d at 1274. We are also bound to adhere to the interpretations of Florida\u2019s long-arm statute offered by Florida\u2019s District Courts of Appeal absent some indication that the Florida Supreme Court would hold otherwise. Id. \u201cFlorida\u2019s long-arm statute is to be strictly construed.\u201d Sculptchair, Inc. v. Century Arts, Ltd., 94 F.3d 623, 627 (11th Cir.1996) (applying Florida law).\nA. Fla. Stat. \u00a7 48.193(l)(a)(2)\nFlorida\u2019s long-arm statute provides for both general and specific personal jurisdiction. See Fla. Stat. \u00a7 48.193(l)-(2). General personal jurisdiction exists when a defendant \u201cis engaged in substantial and not isolated activity within this state ... whether or not the claim arises from that activity.\u201d Id. \u00a7 48.193(2). General personal jurisdiction is based on a defendant\u2019s substantial activity in Florida without regard to where the cause of action arose. See Oldfield, 558 F.3d at 1220 n. 27.\nOn the other hand, specific personal jurisdiction authorizes jurisdiction over causes of action arising from or related to the defendant\u2019s actions within Florida and concerns a nonresident defendant\u2019s contacts with Florida only as those contacts related to the plaintiffs cause of action. See id. Louis Vuitton relies on the \u201ctor-tious acts within Florida\u201d provision in \u00a7 48.193(l)(a)(2) of Florida\u2019s long-arm statute.\nSection 48.193(1)(a)(2) provides that a nonresident defendant is subject to personal jurisdiction in Florida \u201cfor any cause of action arising from ... [cjomitting a tortious act within [Florida]\u201d Fla. Stat. \u00a7 48.193(1)(a)(2) (emphasis added). Accordingly, Louis Vuitton must show its trademark infringement claims arose from Mosseri committing \u201ca tortious act within\u201d Florida. Similar to Louis Vuitton\u2019s case, our precedent in Licciardello v. Lovelady, 544 F.3d 1280 (11th Cir.2008), involved a website-trademark infringement \u25a0 claim against a nonresident defendant and Florida\u2019s same \u201ctortious act\u201d provision\u2014 \u00a7 48.193(l)(a)(2). Thus, Lovelady guides our analysis here.\nIn Lovelady, the plaintiff, Licciardello, a nationally-known entertainer, sued defendant Lovelady, his former personal manager in the Middle District of Florida. Id. at 1282-83. Licciardello alleged that Lovela-dy had wrongfully used Licciardello\u2019s trademarked name and picture on Lovela-dy\u2019s Internet website \u201caccessible to the public in Florida that promoted Lovelady as a personal manager for music artists.\u201d Id. at 1282 (emphasis added). Defendant Lovelady lived in Tennessee, created, his website in Tennessee, and moved to dismiss for lack of personal jurisdiction over him in Florida. Id. at 1282-83. The district court granted the motion for lack of jurisdiction over defendant Lovelady in Florida. Id.\nReversing, this Court concluded that the plaintiffs allegations in the complaint were sufficient to establish personal jurisdiction in Florida over defendant Lovelady under the \u201ctortious ' acts\u201d; provision in \u00a7 48.193(l)(a)(2). Id. at' 1283-84. While Lovelady did not expr\u00e9ssly analyze whether trademark infringement claims are tort claims, Lovelady treated them as tortious acts. Id. Thus, we conclude that Louis Vuitton\u2019s trademark claims allege \u201ctortious acts\u201d for purposes- of Florida\u2019s long-arm statute.\nMore importantly, Lovelady also tells us that, under Florida law, a nonresident defendant commits \u201ca tortious act within [Florida]\u201d when he commits an act outside the state that causes injury within Florida. See id: at 1283 (citing Posner, 178 F.3d at 1216-17 (collecting Florida cases and adopting Florida courts\u2019 broad interpretation of the long-arm statute that permits personal jurisdiction over nonresident \u201cdefendants committing tortious acts outside the state that cause injury in Florida\u201d)).\nFurthermore, Lovelady instructs that, under the \u201ctortious acts\u201d provision in \u00a7 48.193(1)(a)(2), a trademark infringement on an Internet website causes injury and occurs in Florida \u201cby virtue of the website\u2019s accessibility in Florida.\u201d Lovelady, 544 F.3d at 1283. Although defendant Lovelady lived and created the website containing the infringing mark in Tennessee, the owner of the mark (plaintiff Licciardello) resided in Florida. Id. at 1282-83. We reasoned that \u201c[w]e need not decide whether trademark injury necessarily occurs where the owner of the mark resides, as the Florida district courts have held, because in this case the alleged infringement clearly also occurred in Florida by virtue of the website\u2019s accessibility in Florida.\u201d Id. at 1283 (emphasis added).\nApplying our precedent in Lovelady, we conclude that under Florida law where Mosseri created the websites and posted the alleged infringing material does not matter. For purposes of \u00a7 48.193(1)(a)(2), the issue is whether Mosseri\u2019s tortious acts caused injury in Florida. Lovelady says the tort of trademark infringement caused injury and thus \u201coccurred in Florida by virtue of the website\u2019s accessibility in Florida.\u201d Id.\nAlthough Lovelady relied on the website\u2019s accessibility in Florida for its long-arm statute analysis solely, this case involves other tortious acts within Florida. Louis Vuitton\u2019s complaint repeatedly alleged that Mosseri was selling counterfeit and infringing Louis Vuitton products and goods into the Southern District of Florida and elsewhere and also alleged \u201csubstantial quantities\u201d were being sold. Mosseri never rebutted these allegations of multiple sales into Florida. Louis Vuitton even introduced evidence of a sample sale from the \u201cpendoza.com\u201d website to Holmes, located in Florida. Mosseri did not dispute that this Florida sale happened through that website; he only contested his association with the payee on the website transaction, JEM Marketing. However, the district court expressly found that Mosseri controlled that payee company and was soliciting business through that website.\nIn summary, Mosseri\u2019s tortious acts on behalf of JEM Marketing caused injury in Florida and thus occurred there because Mosseri\u2019s trademark infringing goods were not only accessible on the website, but were sold to Florida customers through that website. This satisfies \u00a7 48.193(l)(a)(2)\u2019s requirements for specific personal jurisdiction over Mosseri.\nB. Mosseri\u2019s Corporate Shield Defense\nOn appeal, Mosseri argues for the first time that he is not subject to personal jurisdiction in Florida because any websites sales and infringement acts by him were made on behalf of his corporation, JEM Marketing. First, Mosseri did not raise this corporate shield argument in his Rule 60(b)(4) motion to vacate or during the district court\u2019s evidentiary hearing. Thus, we consider this argument waived. See Miller v. King, 449 F.3d 1149, 1150 n. 1 (11th Cir.2006) (holding that because a \u201cclaim was never raised in the district court\u201d this Court would \u201cnot consider it for the first time on appeal\u201d); Narey v. Dean, 32 F.3d 1521, 1526-27 (11th Cir.1994) (\u201c[A]ppellate courts generally will not consider an issue or theory that was not raised in the district court.\u201d (internal quotation marks omitted)).\nIn any event, even if the argument is not waived, this case involves intentional torts, meaning that Mosseri cannot invoke Florida\u2019s corporate shield doctrine. For purposes of personal jurisdiction under Florida law, the corporate shield doctrine creates a \u201cdistinction between a corporate officer acting on one\u2019s own and a corporate ofScer acting on behalf of one\u2019s corporation.\u201d Doe v. Thompson, 620 So.2d 1004, 1006 (Fla.1993). Florida courts have held \u201cthat it is unfair to force an individual to defend a suit brought against him personally in a forum with which his only relevant contacts are acts performed not for his own benefit but for the benefit of his employer.\u201d Id. (internal quotation marks omitted).\nImportantly, however, under Florida law, this corporate shield doctrine is inapplicable where the corporate officer commits intentional torts. Id. at 1006 n. 1 (stating \u201c[a] corporate officer committing fraud or other intentional misconduct can be subject to personal jurisdiction\u201d); see also Kitroser v. Hurt, 85 So.3d 1084, 1088 n. 3 (Fla.2012). Because Louis Vuitton alleges that Mosseri committed intentional torts, his corporate shield defense to personal jurisdiction fails under Florida law.\nVI. THE DUE PROCESS CLAUSE\nAlternatively, Mosseri argues the district court\u2019s exercise of specific personal jurisdiction over him violated due process.\nA. Three-Part Due Process Test\nIn specific personal jurisdiction cases, we apply the three-part due process test, which examines: (1) whether the plaintiffs claims \u201carise out of or relate to\u201d at least one of the defendant\u2019s contacts with the forum; (2) whether the nonresident defendant \u201cpurposefully availed\u201d himself of the privilege of conducting activities within the forum state, thus invoking the benefit of the forum state\u2019s laws; and (3) whether, the exercise-of personal jurisdiction comports with \u201ctraditional notions of fair play and substantial justice.\u201d See Burger King Corp. v. Rudzewicz, 471 U.S. 462, 472-73, 474-75, 105 S.Ct. 2174, 2182-83, 85 L.Ed.2d 528 (1985); Helicopteros Nacionales de Colombia, S.A. v. Hall, 466 U.S. 408, 413-14, 104 S.Ct. 1868, 1872, 80 L.Ed.2d 404 (1984); Int\u2019l Shoe Co. v. Washington, 326 U.S. 310, 316, 66 S.Ct. 154, 158, 90 L.Ed. 95 (1945); see also Oldfield, 558 F.3d at 1220-21; Sculptchair, Inc. v. Century Arts, Ltd., 94 F.3d 623, 630-31 (11th Cir.1996).\nThe plaintiff bears the burden of establishing the first two prongs, and if the .plaintiff does so, \u201ca defendant must make a \u2018compelling case\u2019 that the exercise of jurisdiction would violate traditional notions of fair play and substantial justice.\u201d Diamond Crystal. Brands, Inc. v. Food Movers Int\u2019l, Inc., 593 F.3d 1249, 1267 (11th Cir.2010).\nB. Prong One: \u201cArising Out of\u2019 or Relatedness\n\u201c[A] \u2022 fundamental element of the specific jurisdiction calculus is that plaintiffs claim must arise out of or relate to at least one of the defendant\u2019s contacts with the forum.\u2019 \u201d Fraser v. Smith, 594 F.3d 842, 850 (11th Cir.2010) (quoting Oldfield, 558 F.3d at 1222 (additional internal quotation marks omitted)). \u201cOur inquiry must focus on the direct causal relationship between the defendant, the forum, and the litigation.\u201d Fraser, 594 F.3d at 850 (internal quotation marks omitted) (quoting Helicopteros, 466 U.S. at 414, 104 S.Ct. at 1872). \u201c[A] relationship among the defendant, the forum, and the litigation is the essential foundation of in personum jurisdiction.... \u201d Helicopteros, 466 U.S. at 414, 104 S.Ct. at 1872 (internal quotation marks omitted).\nHere, Louis Vuitton\u2019s trademark claims arise out of Mosseri\u2019s contacts with Florida. Mosseri\u2019s ties to Florida all involve the advertising, selling, and distributing of alleged counterfeit and infringing Louis Vuitton goods into the state and accepting payment from Florida customers for such goods. There is a direct causal relationship between Mosseri, Florida, and Louis Vuitton\u2019s trademark claims. See Helicopteros, 466 U.S. at 414, 104 S.Ct. at 1872. This first requirement is easily satisfied.\nC. Prong Two: Purposeful Availment\nIn intentional tort cases, there are two applicable tests for determining whether purposeful availment occurred. First, we may apply the \u201ceffects test,\u201d which the Supreme Court articulated in Colder v. Jones, 465 U.S. 783, 104 S.Ct. 1482, 79 L.Ed.2d 804 (1984) (involving libel claims). Under the \u201ceffects test,\u201d a nonresident defendant\u2019s single tortious act can establish purposeful availment, without regard to whether the defendant had any other contacts with the forum state. See Lovelady, 544 F.3d at 1285. This occurs when the tort: \u201c(1) [was] intentional; (2) [was] aimed at the forum state; and (3) caused harm that the defendant should have anticipated would be suffered in the forum state.\u201d Id. at 1285-86, 1287-88. In Lovelady, this Court concluded the defendant\u2019s use of the Florida plaintiffs trademarked name and picture on a website accessible in Florida \u201csatisfied the Colder \u2018effects test\u2019 for personal jurisdiction \u2014 the commission of an intentional tort aimed at a specific individual in the forum whose effects were suffered in the forum.\u201d Id. at 1288 (concluding due process was satisfied because the plaintiff was a Florida resident and the defendant directed his intentional actions towards the plaintiff in the forum state).\nWe may also apply a traditional purposeful availment analysis. The same day that the Supreme Court issued its decision in Colder, it also issued an opinion in another intentional tort case (but not one brought by a resident of the forum state). See Keeton v. Hustler Magazine, Inc., 465 U.S. 770, 104 S.Ct. 1473, 79 L.Ed.2d 790 (1984) (involving libel claims). In that intentional tort case, the Court applied the traditional minimum contacts test. Id. at 775-77, 104 S.Ct. at 1478-79. Circuit courts have applied the traditional minimum contacts test for purposeful availment analysis in lieu of, or in addition to, the \u201ceffects test\u201d in cases involving trademark-related intentional torts. See, e.g., Chlo\u00e9 v. Queen Bee of Beverly Hills, LLC, 616 F.3d 158, 172 (2d Cir.2010) (\u201cBecause we have concluded that [the defendant] has purposefully availed himself of the New York forum, we need not decide whether [the defendant\u2019s] act of shipping a counterfeit ... bag represented conduct \u2018expressly aimed at\u2019 New York under the ... effects test.\u201d); Toys \u201cR\u201d Us, Inc. v. Step Two, S.A., 318 F.3d 446, 454-55 & n. 6 (3d Cir.2003) (analyzing personal jurisdiction under the traditional minimum contacts test and holding that, in the alternative, the alleged infringement did not satisfy the \u201ceffects test\u201d).\nThis Court has applied that test, too. See S.E.C. v. Carrillo, 115 F.3d 1540, 1542 (11th Cir.1997) (applying the traditional minimum contacts test in a case involving intentional tort claims of securities fraud). The \u201ceffects test\u201d provides an additional means, unavailable in contract cases, of determining the appropriateness of personal jurisdiction \u2014 one that is based on a plaintiffs ties to the forum state and the harm suffered by the plaintiff. The \u201ceffects test,\u201d however, does not supplant the traditional minimum contacts test for purposeful availment applicable in contract and tort cases alike. Because Louis Yuitton showed purposeful availment under that test, we -need not analyze the \u201ceffects test\u201d here.\nUnder the minimum contacts test for purposeful availment, we assess the nonresident defendant\u2019s contacts with the forum state and ask whether those contacts: (1) are related to the plaintiffs cause of action; (2) involve some act by which the defendant purposefully availed himself of the privileges of doing business within the forum; and (3) are such that, the defendant should reasonably anticipate being haled into court in the forum. See Carrillo, 115 F.3d at 1542. In performing this analysis, we identify all contacts between a nonresident defendant and a forum state and ask whether, individually or collectively, those contacts satisfy these criteria. See King & Hatch, Inc. v. S. Pipe & Supply Co., 435 F.2d 43, 46 (5th Cir.1970) (\u201cTaken collectively, the contacts of [the nonresident defendant] with the State of Alabama far exceed those \u2018minimum contacts\u2019 which would allow Alabama to constitutionally compel [the defendant] to defend this suit in the forum state.\u201d).\nBased upon the unrebutted allegations of the complaint, the investigators\u2019 testimony, and the district court\u2019s fact findings, we conclude that Mosseri purposefully availed himself of the Florida forum in such a way that he could reasonably foresee being haled into a Florida court. Mosseri purposefully solicited business from Florida residents through the use of at least one fully interactive, commercial website, \u201cpendoza.com.\u201d As a result of this Internet advertising, Mosseri received orders from multiple Florida residents to ship goods into Florida. At least one of those orders was from Holmes for a billfold and Mosseri shipped those goods, including the billfold, into Florida. These collective contacts establish that Mosseri purposefully availed himself of the privileges of doing business in south Florida.\nWe are not saying that the mere operation of an interactive website alone gives rise to purposeful availment anywhere the website can be accessed. See Toys \u201cR\u201d Us, 318 F.3d at 453-54; see also be2 LLC v. Ivanov, 642 F.3d 555, 558-59 (7th Cir.2011) (concluding that there was insufficient evidence that the defendant, operator of a dating website which made user accounts freely available, purposefully availed himself of doing business in Illinois); Carefirst of Md., Inc. v. Carefirst Pregnancy Ctrs., Inc., 334 F.3d 390, 400-01 (4th Cir.2003) (concluding that the Illinois defendant\u2019s semi-interactive website alone did not create personal jurisdiction in Maryland because the overall content of the defendant\u2019s website had a strongly local character emphasizing its \u201cmission to assist Chicago-area women in pregnancy crises\u201d).\nBut we are saying purposeful availment for due process was shown here because, in addition to his fully interactive \u201cpendo-za.eom\u201d website accessible in Florida, Mos-seri had other contacts with Florida\u2014 through selling and distributing infringing goods through his website to Florida consumers \u2014 and the cause of action here derives directly from those contacts.\nD. Prong Three: \u201cFair Play and Substantial Justice\u201d\nThe exercise of personal jurisdiction over Mosseri in Florida also comports with fair play and substantial justice. See Int\u2019l Shoe, 326 U.S. at 320, 66 S.Ct. at 160. In this analysis, we consider these factors: (1) \u201cthe burden on the defendant\u201d; (2) \u201cthe forum\u2019s interest in adjudicating the dispute\u201d; (3) \u201cthe plaintiffs interest in obtaining convenient and effective relief\u2019; and (4) \u201cthe judicial system\u2019s interest in resolving the dispute.\u201d Lovelady, 544 F.3d at 1288.\nMosseri has not offered any evidence of his finances or any other limitations on him to show that he would be burdened by having to litigate the case in Florida. In light of Mosseri\u2019s selling trademark infringing goods into Florida and Louis Vuitton\u2019s having multiple stores in Florida, Florida had a strong interest in hearing the case and protecting consumers from confusion that results from trademark infringement. Moreover, Louis Vuitton, as a plaintiff with Florida stores, has an undeniable interest in litigating the case in its chosen forum. The judiciary has an interest in efficiently resolving the dispute in the forum where an extensive record was established and the case was long pending.\nIt bears noting, too, that Louis Vuitton, while capable of litigating in New York or anywhere else, did not bring this lawsuit in Florida to draw Mosseri away from his home jurisdiction. When Louis Vuitton filed the lawsuit, it did not know who was behind the websites or where the person was. Requiring two lawsuits when one would do makes little sense. Mosseri can constitutionally be sued in Florida; that he could also be sued in New York is quite beside the point.\nVII. CONCLUSION\nIn sum, under the unrebutted allegations and testimony here, the district court in Florida did not violate the Due Process Clause by exercising personal jurisdiction over Mosseri for Louis Vuitton\u2019s trademark infringement claims. Because the state statutory and federal constitutional personal jurisdiction requirements were satisfied, the district court did not err in denying Mosseri\u2019s motion to vacate the default judgment.\nAFFIRMED.\n. Louis Vuitton does not argue that Holmes purchased or received the item in Florida.\n. Louis Vuitton did not cite any authority for its position that $3,000 was the \"baseline statutory minimum award.\u201d In fact, the statute says otherwise, making the baseline minimum award $1,000. 15 U.S.C. \u00a7 1117(c). Nevertheless, the district court did not acknowledge this discrepancy, and Mosseri does not appeal it here.\n. At the same time it filed its default judgment motion against Mosseri, Louis Vuitton voluntarily dismissed with prejudice its' claims against Zakmo Corp. and all John Doe defendants.\n. Mosseri labeled his filing a \u201cverified motion,\u201d but there was no verification as to the allegations in the motion. Rather, Mosseri filed an unsworn \"Declaration\u201d under 28 U.S.C. \u00a7 1746(2) which is treated as evidence under that section. For ease of reference, we refer to this as Mosseri's affidavit.\n. In his reply in support of his motion to vacate, Mosseri, through Florida counsel, Matthew Sarelson, conceded that it was true Mosseri's earlier attorney in New York had contacted Louis Vuitton\u2019s attorney about an extension.\n. During cross-examination by Mosseri\u2019s attorney, Holmes testified he had \"been investigating Joseph Mosseri for eight years\u201d and he did \"not recall how many purchases that Joseph Mosseri shipped to us in Florida.\u201d Although Holmes could not recall other specific transactions linking Mosseri to Florida, he testified that he \"would be able to identify other transactions if I were able to look through my records.\u201d\n. Lovelady construed a previous version of the statute, where the tortious acts provision was codified at Fla. Stat. \u00a7 48.193(l)(b). In 2013, the Florida legislature amended the statute and moved the tortious acts provision to its present location at Fla. Stat. \u00a7 48.193(l)(a)(2). However, the amendment did not alter the language of the provision or change its substance in any way.\n. Other courts describe trademark .infringement as a tort. See, e.g., Chlo\u00e9 v. Queen Bee of Beverly Hills, LLC, 616 F.3d 158, 171 (2d Cir.2010) (\"Trademark infringement is ... a tort.\u201d); Polar Bear Prods., Inc. v. Timex Corp., 384 F.3d 700, 720 (9th Cir.2004) (\"[Tirade-mark infringement generally sounds in tort.\u201d); Dakota Indus., Inc. v. Dakota Sportswear, Inc., 946 F.2d 1384, 1388 (8th Cir.1991) (\"Infringement of a trademark is a tort.\u201d).\n. The Florida Supreme Court has, without expressly adopting or rejecting it, acknowledged this' Court\u2019s interpretation. See Internet Solutions Corp. v. Marshall, 39 So.3d 1201 (Fla.2010) (recognizing that federal courts have held \"that the commission of a tortious act out of state that causes injury to an instate resident satisfies\" Florida's long-arm statute\u201d).\n. We recognize the existence of the sliding-scale test for Internet cases first articulated in Zippo Manufacturing Co. v. Zippo Dot Com, Inc., 952 F.Supp. 1119 (W.D.Pa.1997). But our Court has noted scholarly criticisms of the Zippo test. See Oldfield, 558 F.3d at 1219-20 n. 26. We conclude the traditional, three-prong test works just fine in this Internet case where the website was commercial and fully interactive.\n. Oldfield states in dicta in a footnote that the minimum contacts test applies in negligence cases and the \"effects test\u201d applies in intentional tort cases. See 558 F.3d at 1220 n. 28. Oldfield, however, was a negligence case and did not state the \"effects test\u201d is the exclusive test for intentional tort cases. Rather, it stated the \u201ceffects test\u201d applies only in intentional tort cases, a proposition with which we do not disagree.\n. In Bonner v. City of Prichard, 661 F.2d 1206, 1209 (11th Cir.1981) (en banc), this Court adopted as binding precedent all decisions of the former Fifth Circuit handed down prior to October 1, 1981.",
+        "type": "majority",
+        "author": "HULL, Circuit Judge:"
+      }
+    ],
+    "attorneys": [
+      "Stephen M. Gaffigan, Stephen M. Gaffi-gan, PA, Fort Lauderdale, FL, Susan S. Lerner, Esq., Coral Gables, FL, for Plaintiff-Appellee.",
+      "Michael I. Santucci, Daniel Devine, Allison M. Sinclair, Santucci Priore, PL, Fort Lauderdale, FL, for Defendant-Appellant."
+    ],
+    "corrections": "",
+    "head_matter": "LOUIS VUITTON MALLETIER, S.A., a foreign business entity, Plaintiff-Appellee, v. Joseph MOSSERI, Defendant-Appellant.\nNo. 12-12501.\nUnited States Court of Appeals, Eleventh Circuit.\nDec. 2, 2013.\nStephen M. Gaffigan, Stephen M. Gaffi-gan, PA, Fort Lauderdale, FL, Susan S. Lerner, Esq., Coral Gables, FL, for Plaintiff-Appellee.\nMichael I. Santucci, Daniel Devine, Allison M. Sinclair, Santucci Priore, PL, Fort Lauderdale, FL, for Defendant-Appellant.\nBefore. HULL and MARTIN, Circuit Judges, and HINKLE, District Judge.\nHonorable Robert L. Hinkle, United States District Judge for the Northern District of Florida, sitting by designation."
+  },
+  "file_name": "1339-01",
+  "first_page_order": 1365,
+  "last_page_order": 1384
+}

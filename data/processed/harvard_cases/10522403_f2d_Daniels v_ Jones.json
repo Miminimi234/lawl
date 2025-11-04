@@ -1,0 +1,199 @@
+{
+  "id": 10522403,
+  "name": "Steven Gail DANIELS, Appellant, v. Jimmy JONES, Superintendent, Missouri Training Center for Men, Appellee",
+  "name_abbreviation": "Daniels v. Jones",
+  "decision_date": "1991-09-11",
+  "docket_number": "No. 90-2173",
+  "first_page": "429",
+  "last_page": "431",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "944 F.2d 429"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "8th Cir.",
+    "id": 8821,
+    "name": "United States Court of Appeals for the Eighth Circuit"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "872 F.2d 237",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        10527977
+      ],
+      "pin_cites": [
+        {
+          "page": "239"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/872/0237-01"
+      ]
+    },
+    {
+      "cite": "779 S.W.2d 571",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.2d",
+      "case_ids": [
+        11357513
+      ],
+      "pin_cites": [
+        {
+          "page": "572"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/sw2d/779/0571-01"
+      ]
+    },
+    {
+      "cite": "791 S.W.2d 393",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.2d",
+      "case_ids": [
+        9995250
+      ],
+      "pin_cites": [
+        {
+          "page": "396"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/sw2d/791/0393-01"
+      ]
+    },
+    {
+      "cite": "941 F.2d 631",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        11717249
+      ],
+      "weight": 4,
+      "pin_cites": [
+        {
+          "page": "636-37"
+        },
+        {
+          "page": "638"
+        },
+        {
+          "page": "639"
+        },
+        {
+          "page": "638-39"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/941/0631-01"
+      ]
+    },
+    {
+      "cite": "455 U.S. 509",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11306412
+      ],
+      "weight": 3,
+      "year": 1982,
+      "pin_cites": [
+        {
+          "page": "510, 520-22"
+        },
+        {
+          "page": "1199, 1204-05"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/455/0509-01"
+      ]
+    },
+    {
+      "cite": "751 S.W.2d 399",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.2d",
+      "case_ids": [
+        9973029
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/sw2d/751/0399-01"
+      ]
+    },
+    {
+      "cite": "649 S.W.2d 568",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.2d",
+      "case_ids": [
+        9944933
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/sw2d/649/0568-01"
+      ]
+    },
+    {
+      "cite": "28 U.S.C. \u00a7 2254",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 309,
+    "char_count": 4822,
+    "ocr_confidence": 0.74,
+    "pagerank": {
+      "raw": 7.184830438770458e-08,
+      "percentile": 0.43010075104764794
+    },
+    "sha256": "17c5d6de2a784fb6defcedd662cb7dda73df41cc82865a1837cf8a951637c4f5",
+    "simhash": "1:9042852be91d0d8e",
+    "word_count": 724
+  },
+  "last_updated": "2024-02-27T20:11:57.694237+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before FAGG and BEAM, Circuit Judges, and DOTY , District Judge."
+    ],
+    "parties": [
+      "Steven Gail DANIELS, Appellant, v. Jimmy JONES, Superintendent, Missouri Training Center for Men, Appellee."
+    ],
+    "opinions": [
+      {
+        "text": "FAGG, Circuit Judge.\nSteven Gail Daniels appeals the district court\u2019s denial of his 28 U.S.C. \u00a7 2254 application for a writ of habeas corpus. We affirm.\nFollowing his conviction and sentence for second-degree murder, Daniels unsuccessfully pursued a direct appeal, State v. Daniels, 649 S.W.2d 568 (Mo.Ct.App.1983), and postconviction relief, Daniels v. State, 751 S.W.2d 399 (Mo.Ct.App.1988), in the Missouri state courts. Daniels then filed this federal habeas action raising a number of claims, including claims not raised in the Missouri courts. Concluding Daniels had exhausted his available state remedies, the district court denied as procedurally barred the claims not raised in the state courts. The district court denied Daniels\u2019s remaining claims on the merits.\nOn appeal Daniels contends the district court committed error in concluding he had exhausted his available state remedies. Daniels argues that although he failed to raise certain claims on direct appeal or in his state postconviction proceedings, he can still pursue these claims in a state habeas corpus action under Missouri Supreme Court Rule 91. Thus, Daniels contends the district court should have dismissed his petition without prejudice to allow him to raise his claims in state court. See Rose v. Lundy, 455 U.S. 509, 510, 520-22, 102 S.Ct. 1198, 1199, 1204-05, 71 L.Ed.2d 379 (1982). We disagree.\nWe have reviewed applicable Missouri law and conclude Daniels has no available, nonfutile state remedies. Although given several opportunities, the Missouri Supreme Court has not yet defined the contours of state habeas corpus under rule 91. See Schlup v. Armontrout, 941 F.2d 631, 636-37 (8th Cir.1991) (citing cases). Nevertheless, it is clear under Missouri law that state habeas corpus relief is unavailable on claims that could have been raised on direct appeal or during state post-conviction proceedings, except in limited circumstances not applicable in this case. See Kilgore v. State, 791 S.W.2d 393, 396 (Mo.1990) (recognizing state habeas corpus may be available when failure to raise issues in appropriate postconviction proceedings \u201cwas not attributable to movant\u2019s intentional or negligent conduct and was due entirely to an ambiguity in the [postconviction] rule, coupled with abandonment by appointed counsel\u201d) (en banc); White v. State, 779 S.W.2d 571, 572 (Mo.1989) (petitioner seeking state habeas corpus on grounds not raised in postconviction proceedings \u201cat a minimum\u201d would have to establish the grounds \u201cwere not \u2018known to him\u2019 while [postconviction] proceedings ... were available\u201d (footnote omitted)) (en banc). Our reading of Missouri law is supported by the fact the Missouri Supreme Court has consistently denied habeas corpus relief to prisoners asserting claims \u201cthat could have been raised on direct appeal or in a [postconviction] proceeding.\u201d Byrd v. Delo, 941 F.2d 631, 638 (8th Cir. 1991); see also id. at 639.\nIn this case, each of the claims the district court denied as procedurally barred were known and available to Daniels when Daniels sought postconviction relief. Furthermore, Daniels does not contend he failed to raise his claims in state court because of an ambiguity in Missouri\u2019s post-conviction rule, or that his attorney abandoned him. Indeed, the district court expressly noted that Daniels \u201chas been represented [by counsel] throughout his postcon-viction proceedings.\u201d\nHaving failed to raise his claims during his state postconviction proceedings, Daniels cannot now raise them in a state habeas corpus action. Id. at 638-39; see also Barks v. Armontrout, 872 F.2d 237, 239 (8th Cir.1989) (Missouri Supreme Court rules bar petitioners from pursuing successive postconviction remedies). Thus, the district court correctly ruled that Daniels had exhausted his available state remedies. Because Daniels does not contend that cause and prejudice exist to excuse his procedural default, we conclude the district court properly denied the claims Daniels failed to raise in the state courts.\nFinally, Daniels contends the district court committed error in denying his remaining claims on the merits. Having reviewed the record, we conclude sufficient evidence supported Daniels\u2019s conviction and Daniels did not receive ineffective assistance of counsel.\nAccordingly, we affirm.",
+        "type": "majority",
+        "author": "FAGG, Circuit Judge."
+      }
+    ],
+    "attorneys": [
+      "Joseph Blanton, Jr., Sikeston, Mo., for appellant.",
+      "William Bryan, Asst. Atty. Gen., Jefferson City, Mo., for appellee."
+    ],
+    "corrections": "",
+    "head_matter": "Steven Gail DANIELS, Appellant, v. Jimmy JONES, Superintendent, Missouri Training Center for Men, Appellee.\nNo. 90-2173.\nUnited States Court of Appeals, Eighth Circuit.\nSubmitted April 11, 1991.\nDecided Sept. 11, 1991.\nJoseph Blanton, Jr., Sikeston, Mo., for appellant.\nWilliam Bryan, Asst. Atty. Gen., Jefferson City, Mo., for appellee.\nBefore FAGG and BEAM, Circuit Judges, and DOTY , District Judge.\nThe HONORABLE DAVID S. DOTY, United States District Judge for the District of Minnesota, sitting by designation."
+  },
+  "file_name": "0429-01",
+  "first_page_order": 517,
+  "last_page_order": 519
+}

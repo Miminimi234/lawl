@@ -1,0 +1,78 @@
+{
+  "id": 12452376,
+  "name": "State, Respondent, v. Jerue, Petitioner",
+  "name_abbreviation": "State v. Jerue",
+  "decision_date": "2017-03-29",
+  "docket_number": "No. 93960-8",
+  "first_page": "1028",
+  "last_page": "1028",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "187 Wash. 2d 1028"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Wash.",
+    "id": 9029,
+    "name": "Washington Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 38,
+    "name_long": "Washington",
+    "name": "Wash."
+  },
+  "cites_to": [
+    {
+      "cite": "196 Wn. App. 1057",
+      "category": "reporters:state",
+      "reporter": "Wash. App.",
+      "case_ids": [
+        12461824,
+        12461825,
+        12461822,
+        12461823
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-app/196/1057-03",
+        "/wash-app/196/1057-04",
+        "/wash-app/196/1057-01",
+        "/wash-app/196/1057-02"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 28,
+    "char_count": 189,
+    "ocr_confidence": 0.872,
+    "sha256": "1cc2aa712c53af0890a412473336b281bd98790710a9a13288f36599d5e17a30",
+    "simhash": "1:8c91fa120b63f5cc",
+    "word_count": 31
+  },
+  "last_updated": "2024-02-27T20:27:34.476040+00:00",
+  "provenance": {
+    "date_added": "2019-05-21",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "State, Respondent, v. Jerue, Petitioner,"
+    ],
+    "opinions": [
+      {
+        "text": "Petition for review of a decision of the Court of Appeals, No. 74027-0-I, November 14, 2016, 196 Wn. App. 1057. Denied March 29, 2017.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "State, Respondent, v. Jerue, Petitioner,\nNo. 93960-8."
+  },
+  "file_name": "1028-02",
+  "first_page_order": 996,
+  "last_page_order": 996
+}

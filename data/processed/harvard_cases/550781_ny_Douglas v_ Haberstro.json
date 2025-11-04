@@ -1,0 +1,1276 @@
+{
+  "id": 550781,
+  "name": "Alice Douglas v. Joseph S. Haberstro, as Sheriff, etc., Appellant",
+  "name_abbreviation": "Douglas v. Haberstro",
+  "decision_date": "1882-04-11",
+  "docket_number": "",
+  "first_page": "611",
+  "last_page": "622",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "88 N.Y. 611"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "N.Y.",
+    "id": 24653,
+    "name": "New York Court of Appeals"
+  },
+  "jurisdiction": {
+    "id": 1,
+    "name_long": "New York",
+    "name": "N.Y."
+  },
+  "cites_to": [
+    {
+      "cite": "53 Barb. 587",
+      "category": "reporters:state",
+      "reporter": "Barb.",
+      "case_ids": [
+        2248640
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/barb/53/0587-01"
+      ]
+    },
+    {
+      "cite": "7 N. Y. 553",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "13 Hun, 542",
+      "category": "reporters:state",
+      "reporter": "Hun,",
+      "opinion_index": -1
+    },
+    {
+      "cite": "55 N. Y. 309",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "pin_cites": [
+        {
+          "page": "310"
+        }
+      ],
+      "opinion_index": -1
+    },
+    {
+      "cite": "39 Barb. 72",
+      "category": "reporters:state",
+      "reporter": "Barb.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "3 Hun, 544",
+      "category": "reporters:state",
+      "reporter": "Hun,",
+      "opinion_index": -1
+    },
+    {
+      "cite": "44 N. Y. 601",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        507376
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny/44/0601-01"
+      ]
+    },
+    {
+      "cite": "22 N. Y. 425",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        2026291
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny/22/0425-01"
+      ]
+    },
+    {
+      "cite": "36 Barb. 409",
+      "category": "reporters:state",
+      "reporter": "Barb.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "2 Hun, 466",
+      "category": "reporters:state",
+      "reporter": "Hun,",
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "485"
+        }
+      ],
+      "opinion_index": -1
+    },
+    {
+      "cite": "1 Hun, 80",
+      "category": "reporters:state",
+      "reporter": "Hun,",
+      "opinion_index": -1
+    },
+    {
+      "cite": "28 Barb. 444",
+      "category": "reporters:state",
+      "reporter": "Barb.",
+      "case_ids": [
+        2425192
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/barb/28/0444-01"
+      ]
+    },
+    {
+      "cite": "16 N. Y. 251",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "18 Abb. 264",
+      "category": "reporters:federal",
+      "reporter": "Abb.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "5 How. 114",
+      "category": "reporters:scotus_early",
+      "reporter": "How.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "1 Sandf. 569",
+      "category": "reporters:state",
+      "reporter": "Sandf.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "28 N. Y. 438",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        2036853
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny/28/0438-01"
+      ]
+    },
+    {
+      "cite": "34 Barb. 523",
+      "category": "reporters:state",
+      "reporter": "Barb.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "14 N. Y. 190",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "pin_cites": [
+        {
+          "page": "201"
+        }
+      ],
+      "opinion_index": -1
+    },
+    {
+      "cite": "19 Barb. 185",
+      "category": "reporters:state",
+      "reporter": "Barb.",
+      "pin_cites": [
+        {
+          "page": "240"
+        }
+      ],
+      "opinion_index": -1
+    },
+    {
+      "cite": "48 N. Y. 231",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "50 Barb. 433",
+      "category": "reporters:state",
+      "reporter": "Barb.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "10 Abb. Pr. 71",
+      "category": "reporters:state",
+      "reporter": "Abb. Pr.",
+      "case_ids": [
+        4600320
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/abb-pr/10/0071-01"
+      ]
+    },
+    {
+      "cite": "1 Hill, 71",
+      "category": "reporters:state",
+      "reporter": "Hill,",
+      "opinion_index": -1
+    },
+    {
+      "cite": "58 How. 426",
+      "category": "reporters:scotus_early",
+      "reporter": "How.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "72 N. Y. 170",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        532820
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny/72/0170-01"
+      ]
+    },
+    {
+      "cite": "7 Wend. 353",
+      "category": "reporters:state",
+      "reporter": "Wend.",
+      "weight": 2,
+      "opinion_index": -1
+    },
+    {
+      "cite": "1 How. 160",
+      "category": "reporters:scotus_early",
+      "reporter": "How.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "55 N. Y. 304",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        517365
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny/55/0304-01"
+      ]
+    },
+    {
+      "cite": "11 Barb. 423",
+      "category": "reporters:state",
+      "reporter": "Barb.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "5 Wend. 209",
+      "category": "reporters:state",
+      "reporter": "Wend.",
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "289"
+        }
+      ],
+      "opinion_index": -1
+    },
+    {
+      "cite": "25 N. Y. 430",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        2031413
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny/25/0430-01"
+      ]
+    },
+    {
+      "cite": "19 Hun, 615",
+      "category": "reporters:state",
+      "reporter": "Hun,",
+      "opinion_index": -1
+    },
+    {
+      "cite": "3 Hun, 220",
+      "category": "reporters:state",
+      "reporter": "Hun,",
+      "opinion_index": -1
+    },
+    {
+      "cite": "24 N. Y. 266",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "9 Barb. 158",
+      "category": "reporters:state",
+      "reporter": "Barb.",
+      "case_ids": [
+        4897808
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/barb/9/0158-01"
+      ]
+    },
+    {
+      "cite": "53 Barb. 342",
+      "category": "reporters:state",
+      "reporter": "Barb.",
+      "case_ids": [
+        2248569
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/barb/53/0342-01"
+      ]
+    },
+    {
+      "cite": "6 Johns. 563",
+      "category": "reporters:state",
+      "reporter": "Johns.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "61 Barb. 116",
+      "category": "reporters:state",
+      "reporter": "Barb.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "35 How. 206",
+      "category": "reporters:scotus_early",
+      "reporter": "How.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "13 Barb. 216",
+      "category": "reporters:state",
+      "reporter": "Barb.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "4 Johns. 193",
+      "category": "reporters:state",
+      "reporter": "Johns.",
+      "case_ids": [
+        2001857
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/johns/4/0193-01"
+      ]
+    },
+    {
+      "cite": "7 Abb. N. C. 318",
+      "category": "reporters:state",
+      "reporter": "Abb. N. Cas.",
+      "case_ids": [
+        621462
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/abbn-cas/7/0318-01"
+      ]
+    },
+    {
+      "cite": "4 Abb. Pr. 127",
+      "category": "reporters:state",
+      "reporter": "Abb. Pr.",
+      "case_ids": [
+        2370311
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/abb-pr/4/0127-01"
+      ]
+    },
+    {
+      "cite": "6 Duer, 516",
+      "category": "reporters:state",
+      "reporter": "Duer",
+      "opinion_index": -1
+    },
+    {
+      "cite": "71 N. Y. 588",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        2168049
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny/71/0588-01"
+      ]
+    },
+    {
+      "cite": "5 Hun, 597",
+      "category": "reporters:state",
+      "reporter": "Hun,",
+      "opinion_index": -1
+    },
+    {
+      "cite": "17 Johns. 437",
+      "category": "reporters:state",
+      "reporter": "Johns.",
+      "case_ids": [
+        6065155
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "461"
+        },
+        {
+          "page": "461"
+        }
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/johns/17/0343-02"
+      ]
+    },
+    {
+      "cite": "25 N. Y. 270",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "10 Barb. 321",
+      "category": "reporters:state",
+      "reporter": "Barb.",
+      "case_ids": [
+        2412555
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/barb/10/0321-01"
+      ]
+    },
+    {
+      "cite": "18 How. 144",
+      "category": "reporters:scotus_early",
+      "reporter": "How.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "16 N. Y. 297",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        1297854
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny/16/0289-01"
+      ]
+    },
+    {
+      "cite": "17 Wend. 316",
+      "category": "reporters:state",
+      "reporter": "Wend.",
+      "case_ids": [
+        2020977
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "353"
+        }
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/wend/17/0179-01"
+      ]
+    },
+    {
+      "cite": "38 N. Y. 206",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        500794
+      ],
+      "weight": 4,
+      "pin_cites": [
+        {
+          "page": "290"
+        }
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny/38/0206-01"
+      ]
+    },
+    {
+      "cite": "5 Johns. 115",
+      "category": "reporters:state",
+      "reporter": "Johns.",
+      "case_ids": [
+        2131512
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/johns/5/0115-01"
+      ]
+    },
+    {
+      "cite": "1 Denio, 141",
+      "category": "reporters:state",
+      "reporter": "Denio",
+      "case_ids": [
+        483939
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/denio/1/0141-01"
+      ]
+    },
+    {
+      "cite": "46 N. Y. 236",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        2052660
+      ],
+      "pin_cites": [
+        {
+          "page": "242"
+        }
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny/46/0236-01"
+      ]
+    },
+    {
+      "cite": "64 Barb. 568",
+      "category": "reporters:state",
+      "reporter": "Barb.",
+      "case_ids": [
+        1951565
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/barb/64/0560-01"
+      ]
+    },
+    {
+      "cite": "9 How. 93",
+      "category": "reporters:scotus_early",
+      "reporter": "How.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "44 N. Y. 162",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        507354
+      ],
+      "weight": 4,
+      "pin_cites": [
+        {
+          "page": "304"
+        },
+        {
+          "page": "255"
+        },
+        {
+          "page": "224"
+        }
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny/44/0162-01"
+      ]
+    },
+    {
+      "cite": "12 Barb. 610",
+      "category": "reporters:state",
+      "reporter": "Barb.",
+      "case_ids": [
+        1937853
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/barb/12/0610-01"
+      ]
+    },
+    {
+      "cite": "73 N. Y. 63",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "62 How. Pr. 79",
+      "category": "reporters:state",
+      "reporter": "How. Pr.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "20 Hun, 547",
+      "category": "reporters:state",
+      "reporter": "Hun,",
+      "weight": 2,
+      "opinion_index": -1
+    },
+    {
+      "cite": "71 N. Y. 377",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        2168042
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny/71/0377-01"
+      ]
+    },
+    {
+      "cite": "84 N. Y. 446",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "15 Hun, 235",
+      "category": "reporters:state",
+      "reporter": "Hun,",
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "349"
+        }
+      ],
+      "opinion_index": -1
+    },
+    {
+      "cite": "7 How. 37",
+      "category": "reporters:scotus_early",
+      "reporter": "How.",
+      "weight": 2,
+      "opinion_index": -1
+    },
+    {
+      "cite": "48 N. Y. 163",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        2055408
+      ],
+      "weight": 2,
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny/48/0163-01"
+      ]
+    },
+    {
+      "cite": "78 N. Y. 390",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        544380
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny/78/0390-01"
+      ]
+    },
+    {
+      "cite": "6 Barb. 308",
+      "category": "reporters:state",
+      "reporter": "Barb.",
+      "case_ids": [
+        4874682
+      ],
+      "pin_cites": [
+        {
+          "page": "32"
+        }
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/barb/6/0308-01"
+      ]
+    },
+    {
+      "cite": "23 How. 224",
+      "category": "reporters:scotus_early",
+      "reporter": "How.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "2 Barb. 307",
+      "category": "reporters:state",
+      "reporter": "Barb.",
+      "case_ids": [
+        1933878
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "327"
+        }
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/barb/2/0307-01"
+      ]
+    },
+    {
+      "cite": "7 Hun, 316",
+      "category": "reporters:state",
+      "reporter": "Hun,",
+      "opinion_index": -1
+    },
+    {
+      "cite": "4 How. 360",
+      "category": "reporters:scotus_early",
+      "reporter": "How.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "1 Cow. 199",
+      "category": "reporters:state",
+      "reporter": "Cow.",
+      "case_ids": [
+        2156635
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/cow/1/0199-01"
+      ]
+    },
+    {
+      "cite": "22 Wend. 468",
+      "category": "reporters:state",
+      "reporter": "Wend.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "1 Barb. Ch. 274",
+      "category": "reporters:state",
+      "reporter": "Barb. Ch.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "2 Abb. N. C. 206",
+      "category": "reporters:state",
+      "reporter": "Abb. N. Cas.",
+      "case_ids": [
+        1946931
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/abbn-cas/2/0206-01"
+      ]
+    },
+    {
+      "cite": "15 Abb. 452",
+      "category": "reporters:federal",
+      "reporter": "Abb.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "17 N. Y. 448",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "4 Cow. 550",
+      "category": "reporters:state",
+      "reporter": "Cow.",
+      "case_ids": [
+        2030995,
+        2030917
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/cow/4/0550-01",
+        "/cow/4/0550-02"
+      ]
+    },
+    {
+      "cite": "9 N. Y. 208",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        2011942
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny/9/0208-01"
+      ]
+    },
+    {
+      "cite": "54 N. Y. 153",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        514665
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny/54/0153-01"
+      ]
+    },
+    {
+      "cite": "15 Abb. 233",
+      "category": "reporters:federal",
+      "reporter": "Abb.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "4 How. 260",
+      "category": "reporters:scotus_early",
+      "reporter": "How.",
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "383"
+        }
+      ],
+      "opinion_index": -1
+    },
+    {
+      "cite": "1 Wend. 18",
+      "category": "reporters:state",
+      "reporter": "Wend.",
+      "case_ids": [
+        2003297,
+        2003206
+      ],
+      "weight": 3,
+      "opinion_index": -1,
+      "case_paths": [
+        "/wend/1/0018-02",
+        "/wend/1/0018-01"
+      ]
+    },
+    {
+      "cite": "1 Cow. 309",
+      "category": "reporters:state",
+      "reporter": "Cow.",
+      "case_ids": [
+        2156655
+      ],
+      "weight": 4,
+      "pin_cites": [
+        {
+          "page": "413"
+        }
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/cow/1/0309-01"
+      ]
+    },
+    {
+      "cite": "5 Johns. 96",
+      "category": "reporters:state",
+      "reporter": "Johns.",
+      "weight": 4,
+      "opinion_index": -1
+    },
+    {
+      "cite": "26 How. 180",
+      "category": "reporters:scotus_early",
+      "reporter": "How.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "73 N. Y. 45",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        2169727
+      ],
+      "pin_cites": [
+        {
+          "page": "53"
+        }
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny/73/0045-01"
+      ]
+    },
+    {
+      "cite": "21 Hun, 251",
+      "category": "reporters:state",
+      "reporter": "Hun,",
+      "opinion_index": -1
+    },
+    {
+      "cite": "31 N. Y. 227",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "pin_cites": [
+        {
+          "page": "255"
+        }
+      ],
+      "opinion_index": -1
+    },
+    {
+      "cite": "10 Abb. 12",
+      "category": "reporters:federal",
+      "reporter": "Abb.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "19 Hun, 1",
+      "category": "reporters:state",
+      "reporter": "Hun,",
+      "opinion_index": -1
+    },
+    {
+      "cite": "49 N. Y. 266",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        2057476
+      ],
+      "weight": 3,
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny/49/0266-01"
+      ]
+    },
+    {
+      "cite": "17 Johns. 438",
+      "category": "reporters:state",
+      "reporter": "Johns.",
+      "case_ids": [
+        6065159
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/johns/17/0344-01"
+      ]
+    },
+    {
+      "cite": "34 N. Y. 24",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        16487
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny/34/0024-01"
+      ]
+    },
+    {
+      "cite": "43 N. Y. 289",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "20 N. Y. 355",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        2022878
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny/20/0355-01"
+      ]
+    },
+    {
+      "cite": "69 N. Y. 550",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "24 Barb. 278",
+      "category": "reporters:state",
+      "reporter": "Barb.",
+      "case_ids": [
+        4993013
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/barb/24/0278-01"
+      ]
+    },
+    {
+      "cite": "30 N. Y. 1",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "22 Wend. 536",
+      "category": "reporters:state",
+      "reporter": "Wend.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "3 Hill, 552",
+      "category": "reporters:state",
+      "reporter": "Hill,",
+      "opinion_index": -1
+    },
+    {
+      "cite": "1 Denio, 548",
+      "category": "reporters:state",
+      "reporter": "Denio",
+      "case_ids": [
+        484124
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/denio/1/0548-01"
+      ]
+    },
+    {
+      "cite": "7 Hill, 35",
+      "category": "reporters:state",
+      "reporter": "Hill,",
+      "opinion_index": -1
+    },
+    {
+      "cite": "6 Cow. 660",
+      "category": "reporters:state",
+      "reporter": "Cow.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "7 Cow. 739",
+      "category": "reporters:state",
+      "reporter": "Cow.",
+      "case_ids": [
+        2034825
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/cow/7/0739-01"
+      ]
+    },
+    {
+      "cite": "24 How. Pr. 502",
+      "category": "reporters:state",
+      "reporter": "How. Pr.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "33 Barb. 332",
+      "category": "reporters:state",
+      "reporter": "Barb.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "17 How. Pr. 601",
+      "category": "reporters:state",
+      "reporter": "How. Pr.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "59 N. Y. 225",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "14 Barb. 1",
+      "category": "reporters:state",
+      "reporter": "Barb.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "6 How. Pr. 253",
+      "category": "reporters:state",
+      "reporter": "How. Pr.",
+      "case_ids": [
+        2191967
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/how-pr/6/0253-01"
+      ]
+    },
+    {
+      "cite": "3 Johns. 518",
+      "category": "reporters:state",
+      "reporter": "Johns.",
+      "case_ids": [
+        2129804
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/johns/3/0518-01"
+      ]
+    },
+    {
+      "cite": "1 Cow. 735",
+      "category": "reporters:state",
+      "reporter": "Cow.",
+      "weight": 2,
+      "opinion_index": -1
+    },
+    {
+      "cite": "18 Barb. 269",
+      "category": "reporters:state",
+      "reporter": "Barb.",
+      "case_ids": [
+        1939783
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "277"
+        }
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/barb/18/0269-01"
+      ]
+    },
+    {
+      "cite": "5 How. 381",
+      "category": "reporters:scotus_early",
+      "reporter": "How.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "44 N. Y. 104",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        507332
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny/44/0104-01"
+      ]
+    },
+    {
+      "cite": "25 Hun, 262",
+      "category": "reporters:state",
+      "reporter": "Hun,",
+      "weight": 2,
+      "opinion_index": -1
+    },
+    {
+      "cite": "17 How. Pr. 439",
+      "category": "reporters:state",
+      "reporter": "How. Pr.",
+      "case_ids": [
+        2207314
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/how-pr/17/0439-01"
+      ]
+    },
+    {
+      "cite": "59 N. Y. 310",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        521471
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny/59/0310-01"
+      ]
+    },
+    {
+      "cite": "28 N. Y. 318",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        2036825
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny/28/0318-01"
+      ]
+    },
+    {
+      "cite": "7 Wend. 353",
+      "category": "reporters:state",
+      "reporter": "Wend.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "54 N. Y. 153",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        514665
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny/54/0153-01"
+      ]
+    },
+    {
+      "cite": "30 N. Y. 1",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 1314,
+    "char_count": 26489,
+    "ocr_confidence": 0.486,
+    "pagerank": {
+      "raw": 7.621408129788106e-07,
+      "percentile": 0.9709438658392825
+    },
+    "sha256": "baaa9093608b6f2def4927d22aafb4689e3495c0b2431a62101d7b6be064df72",
+    "simhash": "1:bb375a6ac760b6dd",
+    "word_count": 4831
+  },
+  "last_updated": "2024-02-27T18:19:55.831084+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Alice Douglas v. Joseph S. Haberstro, as Sheriff, etc., Appellant."
+    ],
+    "opinions": [
+      {
+        "text": "Finch, J.\nThis action must rest upon the sheriff\u2019s liability as bail. It was so treated by the court and by the counsel upon the argument before us. A prima facie case was established against the defendant, and the questions to be considered grow out of the defenses which he sought to interpose.\nThey began with an attack upon the executions. Neither of them were tested in the name of any court or judge, and the body execution did not direct the time for its return. (Code, \u00a7\u00a7 23 and 1366.) These omissions are claimed to have made the process void. We think they were merely irregularities which might be amended or disregarded, and of which the sheriff, either in his official character or as bail, could not take advantage. (Hill v. Haynes, 54 N. Y. 153; Bank of Genesee v. Spencer, 18 id. 150; Code, \u00a7 723; Kelly v. McCormick, 28 N. Y. 318; Bensel v. Lynch, 44 id. 162; James v. Gurley, 48 id. 163.) These questions have been very elaborately argued, and with an exhaustive review of the authorities, but the conclusion we have stated seems to us so well established as to make discussion unnecessary.\nA much more serious question grows out of defendant\u2019s third answer. It was held to constitute no defense, and his offer to prove it was rejected. That defense, as pleaded, was in substance that the execution against the person was returned by the deputy sheriff, at the request and by the direction of the plaintiff\u2019s attorney, in order that this action might be commenced, and in form the law seem to be complied with, and that this was done without the knowledge or consent of the defendant. This answer must be read in connection with the allegations of the complaint. That asserts the recovery of a judgment, the issue of an execution against the person of the judgment debtor on the 17h day of March, 1879, and its return by the sheriff, \u201c defendant not found,\u201d on the third of April following. It is this return, made upon such date, to which the answer refers and over which it raises the question of plaintiff\u2019s interference. It must be taken then to allege that the execution was returned on the 3d of April, 1879, defendant not found, \u201cat the request and by the direction\u201d of the plaintiff\u2019s attorney; that it was so returned by a deputy or under sheriff without the knowledge or consent of defendant; and that the return was thus made to enable the plaintiff to fix the sheriff as bail through a seeming compliance with the law.\nAll the proof offered under this answer was excluded. So far as the offers made went beyond the allegations of the answer they were properly rejected for that reason. But there remained a distinct offer to prove the facts alleged in the answer, which was overruled on the ground of insufficiency. The question, therefore, is fairly presented whether such answer constituted a defense, and whether upon its facts the sheriff was released from his liability as bail.\nIt seems to have been partly assumed by the court below, and is fully claimed in the argument here, that the sheriff\u2019s defense as bail is limited by section 599 of the Code, and that he cannot be freed from liability except upon facts which bring him within those provisions. It has been often decided that where the sheriff has become liable as bail he has all the rights and privileges of bail, and the rule of the courts in this respect has been made a positive statute in the Code. (Brady v. Brumdage, 59 N. Y. 310; McGregory v. Willett, 17 How. Pr. 439; Code, \u00a7 595.) Section 599 does not purport to limit or restrict these rights. It does not profess to define what all of them are. Itprovides that \u201c in an action against bail, it is a defense,\u201d among other things, \u201cthat a direction was given, or other fraudulent or collusive means were used, by the plaintiff or his attorney, to prevent the service\u201d of the execution. By this section certain facts occurring are specifically declared to constitute a defense. It is not said, nor is it the import of the provision, that nothing else shall be. It does not restrict the general words of section 595, which confer upon the sheriff liable as bail, all the rights and privileges of bail. The defendant therefore, was not bound to conform his pleading to the precise terms of that section, and bring himself literally within them, as a condition of exemption from liability. If he had any other defense, sufficient within recognized rules, and properly pleaded, he was entitled to its benefit, although in greater or less degree it varied from those declared to be such by the Code.\nIt is not necessary, however, to rest the defense pleaded upon grounds independent of the section referred to. That provides that a direction by the attorney in the execution to prevent its service shall constitute a defense. It is said that such direction must be fraudulent or collusive and the fraud must be alleged. But section 599 was not a new enactment. It was taken, substantially, from a similar provision in the Revised Statutes. (2 R. S., part 3, chap. 6, tit. 6, \u00a7\u00a7 31, 32, 33.) It is said by its -compiler to be section 33 of the Revised Statutes, \u201c modernized.\u201d The changes are slight and merely verbal; and the two enactments are so far identical that the construction of the original is entirely applicable to the copy. Such a construction was early adopted. (Bradley v. Bishop, 7 Wend. 353; Bishop v. Earl, 17 id. 317.) The first of these cases analyzes section 33 and states separately the four different defenses available under it to the bail. The third of these is stated to be, that directions were given by the plaintiff or his attorney to prevent the service of the writ; and the fourth, that any other fraudulent or collusive means were used t\u00f3 prevent such service. This case was decided just after the revision, and six years later, in the second of the cases cited, it was expressly held that a direction to the sheriff to prevent the service of the writ was a defense to the bail, although neither fraud nor collusion were alleged. We see no reason for disagreeing with that interpretation. It held that the plaintiff, for whose benefit the writ was issued, had the right to control it, and where he gave a controlling direction which altered the sheriff\u2019s duty, the bail were to be protected. The answer we are considering alleged that the execution was returned \u201c not found,\u201d at the request and by the direction of the plaintiff\u2019s attorney. This was sufficient without an allegation of fraud or collusion.\nBut it is said to be insufficient because it did not allege that the direction was given to prevent service of the process. The return non est, etc., at its date, did prevent such service, and the direction dictated the return. When made, the sheriff had more than forty days remaining of the sixty within which he was at liberty to produce his prisoner. The direction to return, at the time it was given, that the debtor could not be found was, on its face, a direction to prevent the service of the writ. But the1 answer alleges the intent with which the direction was given. It pleads that it was to enable the plaintiff to sue the sheriff for the non-appearance of his prisoner. It was to fix him as bail. The averment of that intent necessarily involves a purpose in the direction to prevent the service of the process. Only in that event could the sheriff be sued as bail. So that the answer substantially alleged a direction which must necessarily have required an omission to serve the writ and a purpose and intent to sue the sheriff as bail, on account of such omission.\nWe think, therefore, that the answer was good and alleged a defense. We may treat the act of the deputy or under sheriff as that of the sheriff, as the plaintiff claims that we should. Then the facts alleged are, that in a case where the sheriff was liable as bail; where he had forty days within which to produce the prisoner; where, as bail, he could arrest him anywhere in the State and put him in custody in his own county; where, for all that appears, such course was open to him and his protection assured, comes the plaintiff\u2019s attorney, having the right to direct as to the execution or non-execution of the process, (Root v. Wagner, 30 N. Y. 1; Nelson v. Kerr, 59 id. 225), and orders the sheriff, forthwith, to return the execution \u201c defendant not found; \u201d the sheriff obeys the direction and makes the return, in obedience to the command, and then is sued as bail, because he did not find and arrest the debtor. We think, in such a case, that the direction given by the plaintiff is a waiver of the sheriff\u2019s liability as bail. It is difficult to construe it otherwise. The sheriff is liable as bail for not finding the debtor; he does not find Mm because the plamtiff told him not to; and then the plaintiff sues him for obeying Ms direction. His counsel, in a brief prepared with great care and industry, puts the case thus-: He says the action was brought upon an express contract to pay $1,200, in case \"Warren was not taken upon the issue of a body execution. If that be granted, it was still competent for the plaintiff to waive the liability and excuse non-performance of the condition, and if that non-performance is occasioned by his own act or direction he certainly can have no action therefor.\nBut it is further argued that the sheriff was at liberty to disregard the direction, and that it was his duty to do so, and we are referred, in that connection, to two other sections of the Code (\u00a7\u00a7 595, 598). By the first of these it is provided that \u201c the sheriff must diligently endeavor to enforce an execution issued and delivered to him * * * notwithstanding any direction he may receive from the plaintiff or his attorney.\u201d The same provision existed in the \u00a1Revised Statutes, and never yet has been held to neutralize the specific provision making a direction to the officer, which prevents service of the writ, a defense to the bail, when the order emanates from the plaintiff in the execution. This provision fixes the sheriff\u2019s duty as between himself and any person other than the plaintiff giving the directions. It does not make the officer liable to the party who directs because of obedience to the directions. The other section referred to, after giving to the sheriff liable as bail the rights and privileges of bail, closes with a proviso that the section shall not apply \u201c to a case where a defense arises to an action against the bail in consequence of an act or omission of the sheriff.\u201d It is not necessary now to say what the precise scope of this provision is. It is enough that it does not reach the present case, for here the defense arises, not out of the act or omission of the sheriff, but out of the act of the plaintiff, exercised through his attorney.\nWe are of opinion, therefore, that the defense pleaded was good, and the defendant should have been allowed an opportunity to prove it.\nJudgment reversed, and new trial granted, costs to abide the event.\nAll concur.\nJudgment reversed.",
+        "type": "majority",
+        "author": "Finch, J."
+      }
+    ],
+    "attorneys": [
+      "Adalbert Moot for appellant.",
+      "\u2022 John Campbell Hubbell for respondent."
+    ],
+    "corrections": "",
+    "head_matter": "Alice Douglas v. Joseph S. Haberstro, as Sheriff, etc., Appellant.\nAn omission in an execution of a teste, in the name of a judge of the court, or of a direction as to the time of its return required by the Code of Civil Procedure (\u00a7\u00a7 23,1366), is a mere irregularity, which may be amended or disregarded, and of which the sheriff, either in his official character or as bail, cannot take advantage.\nDefendant, a sheriff, under an order of arrest, issued in an action brought by plaintiff against W., arrested the latter and discharged him on his giving bail. The sureties were excepted to and failed to justify. In an action to enforce defendant\u2019s liability as bail, the complaint alleged the recovery of a judgment against W., the issuing of an execution against his person, on March 17, 1879, and its return by the sheriff \u201c defendant not found\u201d on April 3, 1879. The answer alleged in substance that said execution was returned by the deputy sheriff without the knowledge or consent of the defendant at the request and by the direction of plaintiff\u2019s attorney, in order that this action might be commenced. On the trial defendant offered to prove, this portion of the answer, but the proof was rejected as constituting no defense. Held error; that the answer should be read in connection with the allegations of the complaint ; that the direction to plaintiff\u2019s attorney to return at the time it was made, when the defendant had more than forty days remaining within which to produce his prisoner, was a direction to prevent service of the execution, and so was a defense under the provision of the Code of Civil Procedure (\u00a7 599), specifying defenses in actions against bail; that it is not essential to a defense under said provision to allege or prove that the direction was fraudulent or collusive.\nIt seems that a sheriff\u2019s defense as bail is not limited by said provision; he has all the rights and privileges of bail (Code, \u00a7 595) and is entitled to the benefit of any other defense sufficient within recognized rules and properly pleaded.\nAlso held, that treating the act of the deputy as that of defendant, still the defense was good; that the direction to return the execution was a waiver of defendant\u2019s liability as bail; that the provisions of the Code (\u00a7\u00a7 595, 598) prescribing the duties and liabilities of a sheriff upon an execution do not make that officer liable to a party giving directions which prevent service of the writ because of obedience to such directions.\nDouglas v. Haberstro (25 Hun, 262), reversed.\n(Argued March 23, 1882;\ndecided April 11, 1882.)\nAppeal from judgment of the General Term of the Supreme Court, in the fourth judicial department, in favor of plaintiff, entered upon an order made October 28, 1881, which denied a motion for a new trial and directed judgment on a verdict, exceptions having been ordered to be heard at first instance at General Term. (Reported below, 25 Hun, 262.)\nThis action was brought against defendant, as sheriff of the county of Erie, to enforce an alleged liability as bail.\nThe complaint alleged, and plaintiff\u2019s evidence on the trial showed that plaintiff commenced an action in tort against one Warren; that an order of arrest was issued therein which was delivered to defendant who arrested Warren, the latter was discharged on giving bail, the bail were excepted to, but neglected to justify, plaintiff recovered judgment against Warren, a property execution was issued thereon, upon its return unsatisfied, and as the complaint alleges on March 17, 1879, an execution against the person of Warren was issued to defendant which was returned by him April 3, 1879, \u201c defendant not found.\u201d Neither of the executions were tested, and the body execution did not specify the time when it was returnable, but simply directed a return thereof \u201c as required by law.\u201d\nThe third count or defense in defendant\u2019s answer alleged in substance that said execution was returned by defendant\u2019s deputy sheriff or under sheriff having the same in charge \u201c at the request and by the direction of the plaintiff in said execution and this action, without the knowledge, privity or consent of defendant, * * * that said plaintiff\u2019s attorney * * * * requested and directed said execution to be so returned that he might commence this action against defendant, and that in form the law might seem to be complied with,\u201d etc.\nUpon the trial defendant offered to prove said answer; this was objected to as constituting no defense, and the proof was excluded; defendant\u2019s counsel duly excepted.\nAdalbert Moot for appellant.\nDefendant, being liable as bail, is entitled to all their rights and privileges, and is burdened with their obligations. (Code of Givil Proc., \u00a7\u00a7 573, 595; Clapp v. Schutt, 44 N. Y. 104.) Assuming that the notice of no acceptance of bail was properly served, then Haberstro became Warren\u2019s bail with exactly the obligations of Bedford and Phillips. (Code, \u00a7\u00a7 587, 595.) The omission of the teste and direction to return in the execution rendered it void. (Hew Code, \u00a7\u00a7 23, 24, 1364; Code, \u00a7 1366; 3 Abbott\u2019s Forms, 2, 408; Parke v. Church, 5 How. 381; Clark v. Miller, 18 Barb. 269; Farnham v. Hildreth, 32 id. 277; 2 Kebb, 705, pl. 69; 844, pi. 81; 3 id. 213; 6 Rep. 54; Turner v. Felgate, 1 Lev. 95; 1 Sid. 292; Parsons v. Loyd, 3 Wils. 341, 345; Woodcock v. Bennett, 1 Cow. 735; 2 Tidd, 1029; Read v. Markle, 3 Johns. 518; Barker v. Braham et al., 3 Wils. 368; Corwin v. Freeland, 6 How. Pr. 253; Carnick v. Meyers, 14 Barb. 1.) The sheriff, in collecting an execution, acts as the officer of the court whose process it is, and also as the agent, appointed by law, of the party who seeks by aid of the writ to obtain satisfaction of the debt or thing awarded by the judgment. (Nelson v. Kerr, 59 N. Y. 225; Parsons v. Loyd, 3 Wils. 341; Woodcock v. Bennett, 1 Cow. 735; Banker v. Norwood, 3 Wils. 368; Spencer v. Cuyler, 17 How. Pr. 601; Tyler v. Willes, 33 Barb. 332; Fenton v. Flagg, 24 How. Pr. 502; Farqueharson v. Kimball, 18 id. 36; New Code, \u00a7 597; Gorham v. Gale, 7 Cow. 739; Crocker on Sheriffs, \u00a7 850; Homan v. Liswell, 6 Cow. 660; Cornell v. Barnes, 7 Hill, 35; Mickles v. Hart, 1 Denio, 548; Corning v. Southland, 3 Hill, 552; Walter v. Sykes, 22 Wend. 536; Boot v. Wagner, 30 N. Y. 1; Humphrey v. Hathorn, 24 Barb. 278; Wehle v. Conner, 69 N. Y. 550; 3 R. S. [6th ed.], \u00a7\u00a7 10,15; New Code, \u00a7\u00a7 578-580, 587; B\u2019k of Havana v. Magee, 20 N. Y. 355.) The defendant is not estopped from setting up the void character of the process, or directions given about their return, as a defense in this action. (Baker v. The Union Mut. L. Ins. Co., 43 N. Y. 289; Dunlap\u2019s Paley on Agency, 261; Hutchins v. Hubbard, 34 N. Y. 24; Story on Agency, \u00a7 140.)\n\u2022 John Campbell Hubbell for respondent.\nDefendant was liable as bail, and the complaint as dratpi, and the action as brought, indicates that it was to enforce his liability as such. (Code of Civil Procedure, \u00a7 587; Bartlett v. Crozier, 17 Johns. 438; Austin v. Goodrich, 49 N. Y. 266; Tugman v. Nat. Stmshp. Co., 76 id. 207; Dunford, v. Weaver, 84 id. 446; 19 Hun, 1; 21 id. 320; 1 Abbott\u2019s Forms, 428, No. 523; Metcalf v. Stryker, 10 Abb. 12; 31 N. Y. 227, 255; Bensel v. Lynch, 44 id. 162, 165.) Notice of exception to bail was properly served at sheriff\u2019s official place of business, upon his under sheriff in charge thereof. (2 E. S. [Edmunds\u2019 ed.] 296, \u00a7\u00a7 54, 55, 56 ; 2 E. S. 285, \u00a7 55; Dunford v. Weaver, 21 Hun, 251; Manning v. Keenan, 73 N. Y. 45, 53; France v. Hamilton, 26 How. 180; People, ex rel. Metcalf, v. Dikeman, 4 Keyes, 93, 107.) The property and body executions were valid and the objections thereto were properly overruled. (Code of Civil Procedure, \u00a7\u00a7 23, 24; Holmes v. Williams, 3 Caines, 98; Bissell v. Kip, 5 Johns. 96; Jones v. Cook, 1 Cow. 309; Porter v. Goodman, id. 413; Ross v. Father, 4 id. 163; Jackson v. Culver, id. 550; People v. Dunning, 1 Wend. 18; Williams v. Hogeboom, 22 id. 648; Pierce v. Crane, 4 How. 260; Park v. Church, 5 id. 383; Carpenter v. Simmons, 28 id. 13; Abels v. Westervill, 15 Abb. 233; Dominick v. Eacker, S Barb. 17.) The omission of the teste does not invalidate an execution, and such defect is amendable. (People, ex rel. Brown, v. Van Horsen, 62\u2018How. Pr. 76; People, ex rel. Utley, v. Seaton, Sheriff, 13 N. Y. Weekly Dig. 240; Code of Civil Procedure, \u00a7 1372; Hill v. Haynes, 54 N. Y. 153; Dunn v. Lebony, 1 N. J. Law [1 Coxe], iii; Hutchenson v. Brand, 9 N. Y. 208; Bank of Genesee v. Spencer, 18 id. 150, 153; Jackson v. Conlon, 4 Cow. 550; Sears v. Burnham, 17 N. Y. 448; Thompson v. Sargent, 15 Abb. 452; Woster v. Wuterick, 2 Abb. N. C. 206; Boyd v. Vanderbilt, 1 Barb. Ch. 274; Williams v. Hogeboom, 22 Wend. 468; Wondbrener v. Johnson, 7 Abb. [N. S.] 202; Inman v. Grewold, 1 Cow. 199; Chichester v. Cande, 3 id. 39-42.) The court had power to amend the execution. \" (Code of Civil Prde., \u00a7\u00a7 722, 723, 724, 1303; Pierce v. Crane, 4 How. 360; Niadero v. Viadero, 7 Hun, 316; Bissell v. Kip, 5 Johns. 96-99; Scott v. Shaw, 13 id. 378; Hinman v. Brees, id. 531; Cable v. Cooper, 15 id. 154; Jones v. 1 Cow. 309; People v. Dunning, 1 Wend. 18; Ames v. Webber, 8 id. 545; Chapman v. Dyett, 11 id. 33; Parmlee v. Hitchcock, 12 id. 98; Walden v. Davidson, 15 id. 574; Berry v. Riley, 2 Barb. 307; Tylor v. Willis, 33 id. 327; Blevir V. Bleakely, 23 How. 224; Bacon v. Cropsey, 3 Seld. 195; Reynolds v. Corp., 3 Caines, 270; Jones v. Cook, 1 Cow. 309; Bissell v. Kip, 5 Johns. 96; Hennman v. Brees, 13 id. 531; The People v. Dunning, 1 Wend. 18; Roth v. Schloss, 6 Barb. 308, 32; Harrison v. Wilkin, 78 N. Y. 390; Dodge v. Brown, 9 N. Y. Week. Dig. 494; James v. Gurley, 48 N. Y. 163; Gregory v. Levy, 7 How. 37; Jewett v. Crane, 37 id. 680; Forsyth v. Campbell, 15 Hun, 235; Dunford v. Weaver, 21 id. 349; 84 N. Y. 446; Bensel v. Lynch, 44 id. 162; Bostwick v. Goetzel, 57 id. 582; Harreson v. Wilkin, 69 id. 412; Hutchinson v. Brand, 9 id. 208 ; B'k of Genesee v. Spencer, 18 id. 150, 153; Sears v. Burnham, 17 id. 448; Barker v. Binninger, 14 id. 280; Kelly v. McCormick, 28 id. 318; Dodges v. Brown, 9 N. Y. Week. Dig. 494; N. Y. Guaranty & Indemnity Co. v. Rogers, 71 N. Y. 377; Benedict & Burnham Manuf. Co. v. Thayer, 20 Hun, 547; 21 id. 615 ; People, ex rel. Brown, v. Van Housen, Sheriff, 62 How. Pr. 79; James v. Gurley, 48 N. Y. 163.) No demand was required to be made upon the sheriff for the amount of the undertaking of bail. (Manning v. Keenan, 73 N. Y. 63; Atkins v. Elwell, 45 id. 753; Gregory v. Levy, 7 How. 37; 12 Barb. 610; Jewett v. Crane, 35 id. 208; Bensel v. Lynch, 44 N. Y. 162; Cozine v. Walter, 55 id. 304; Metcalf v. Stryker, 81 id. 255; Nelson v. Kerr, 69 id. 224.) The certificate, or paper, signed by the county judge, \u201c in Iks, Matter of William T. Warren, an alleged inebriatef was entirely immaterial, and the proceedings therein or thereupon could not affect the rights of this plaintiff. (Laws of 1873, chap. 625, \u00a7 17; Brown et al. v. Tracy, 9 How. 93; Cable v. Pettibone, 4 Comst. 300; Toll v. Alvord, 64 Barb. 568; Bullymore v. Cooper, 46 N. Y. 236, 242; Bennett v. Burch, 1 Denio, 141; Jackson v. Smith, 5 Johns. 115; Van Slyck v. Taylor, 9 id. 48; Palmer v. Hatch, id. 359; Code of Civil Proc., \u00a7 599.) Proof that \u201c directions, etc., were given to prevent service of the executions \u201d was not competent under a general or special denial, it was \u201c new matter,\u201d incompetent unless put in issue, and the use in complaint of the word \u201c duly \u201d does not affect this rule. (Code of Civil Proc., \u00a7\u00a7 500, 599 ; Richtmyer v. Remsen, 38 N. Y. 206; Brazell v. Isham, 12 id. 9, 17; Bishop v. Earl, 17 Wend. 316; Bradley v. Bishop, 7 id. 353; MeKyring v. Butt, 16 N. Y. 297; Graham v. Horrower, 18 How. 144 ; Richtmyer v. Ramsen, 38 N. Y. 206; Kiffen v. McConnell, 30 id. 290; Eldridge v. Mother, 2 id. 157; Paige v. Willett, 33 id. 28, 31; Fox v. Gumstead, 10 Barb. 321; Travis v. Barger, 24 id. 614; Beaty v. Swarthout, 32 id. 293; Wright v. Delafield, 25 N. Y. 270; Forbes v. Waller, id. 437; Bartlett v. Crozier, 17 Johns. 437, 461; Austin v. Goodrich, 49 N. Y. 266; Porter v. Kingsley, 5 Hun, 597; affirmed, 71 N. Y. 588; Graham v. Machado, 6 Duer, 516; Mayor, etc. v. Doody, 4 Abb. Pr. 127; Murray v. N. Y. L. Ins. Co., 12 N. Y. Weekly Digest, 232; Bonfield v. Haeger, 7 Abb. N. C. 318.) The facts constituting a defense (Code of Civil Proc., \u00a7 599), if pleaded (id., \u00a7 500), not appearing even by amended answer, could not be proved on the trial. (Cole v. Smith, 4 Johns. 193; Monell v. Fuller, 7 id. 402; 8 id. 217; Bayard v. Smith, 17 id. 88; Smith v. Lockwood, 13 Barb. 216; Brown v. Harmon, 21 id. 508; McKarg v. Eastman, 35 How. 206; Bartlett v. Crozier, 17 Johns. 437, 461; Austin v. Goodrich, 49 N. Y. 266; Leffler v. Field, 52 id. 621; Dudley v. Scranton, 57 id. 424-429; Dubois v. Hermance, 56 id. 673; Barbery. Morgan, 61 Barb. 116; James v. McKerrmon, 6 Johns. 563; Perkins v. Giles, 53 Barb. 342 ; Richtmyer v. Remsen, 38 N. Y. 206; Field v. The Mayor, 2 Seld. 178; Bristol v. The R. & S. R. R., 9 Barb. 158; Wright v. Delafield, 24 N. Y. 266; Seward v. Torrence, 3 Hun, 220; Brazell v. Isham, 2 Kern. 1; Sheldon v. Payne, 3 Seld. 452; 6 id. 398; v. Campbell, 19 Hun, 615; Forbes v. Waller, 25 N. Y. 430; Townsend v. Oler, 5 Wend. 209; Baker v. McDuffie, 23 id. 289; Russell v. Margerson, 11 Barb. 423; Sheldon v. Pease, 3 Seld. 463; Cozine v. Walter, 55 N. Y. 304; Spencer v. Cuyler, 1 How. 160; Code of Civil Proe., \u00a7 598 ; Crocker on Sheriffs, \u00a7 46; Bradley et al. v. Bishop, 7 Wend. 353; Sheridan v. Jackson, 72 N. Y. 170; Hammond v. Earl, 58 How. 426.) The court must adopt the construction of the answer which is most unfavorable to the pleader. (Ferris v. N. Am. F. Ins. Co., 1 Hill, 71; Slocum v. Clarke, 2 id. 475; Beach v. Bay State Co., 10 Abb. Pr. 71; Winter v. Baker, 50 Barb. 433; Burger v. Koop, 48 N. Y. 231; Cruger v. Glass, 19 Barb. 185, 240; Cruger v. The Hudson R. R. Co., 14 N. Y. 190, 201; Powers v. Rome, W. & O. R. R., 5 N. & C. 449; Spear v. Downing, 34 Barb. 523; Hosley v. Black, 28 N. Y. 438.) The offer by defendant to show directions, etc., by plaintiff\u2019s counsel was incompetent and properly excluded. (Eaton v. Smith, 1 E. D. Smith, 318; Brady v. The Mayor, 1 Sandf. 569; Graham\u2019s Pr. [2d ed.] 50, 51; Trippe v. Debow, 5 How. 114; Chadwick v. Snediker, 26 id. 60; Webb v. Dill, 18 Abb. 264; Code of Civil Procedure, \u00a7\u00a7 55, 541; Kelsey v. Western, 2 Comst. 506; Walter v. Bennett, 16 N. Y. 251; Gasper v. Adams, 28 Barb. 444; Moore v. McKibbins, 33 id. 246; Sinclair v. Hill, 1 Hun, 80; Schuyler v. Meyers, 5 Bans. 170; Beared v. Gates, 2 Hun, 466; Lord v. Lindsay, 18 id. 485.) It is a violation of the plain intent of the statute to permit a sheriff to relieve himself from his statutory liability as bail, where he has directly violated his duties, as sheriff. (Ball v. Pratt, 36 Barb. 409; Code of Civil Procedure, \u00a7 598; Bishop v. Bradley, 7 Wend. 353; Bissell v. Kip, 5 Johns. 96; Mahoney v. The People, Sup. Ct. [T. & C.] 4; Ingersoll v. Bostwick, 22 N. Y. 425; Chester v. Dickenson, 54 id. 15; Sheridan v. The Mayor, 4 N. Y. W\u2019kly Dig. 507; Tomlinson v. The Mayor, etc., 44 N. Y. 601; Irvine v. Driggs, 69 id. 147; Emmons v. Wheeler, 3 Hun, 544; Bowman v. Cornell, 39 Barb. 72; Cozine v. Walter, 55 N. Y. 309, 310; Hofheins v. Campbell, 54 id. 269; Swezey v. Lott, 22 id. 484; Hoffman v. Conner, 13 Hun, 542; Ledyard v. Jones, 7 N. Y. 553; Barker v. Benninger, 14 id. 270; Flanagan v. Tinen, 53 Barb. 587.)"
+  },
+  "file_name": "0611-01",
+  "first_page_order": 639,
+  "last_page_order": 650
+}

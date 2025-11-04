@@ -1,0 +1,83 @@
+{
+  "id": 12147554,
+  "name": "Stimpson v. GFI Management Services, Inc",
+  "name_abbreviation": "Stimpson v. GFI Management Services, Inc.",
+  "decision_date": "2015-11-25",
+  "docket_number": "No. 151368; Court of Appeals No. 319165",
+  "first_page": "927",
+  "last_page": "927",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "498 Mich. 927"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Mich.",
+    "id": 8790,
+    "name": "Michigan Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 49,
+    "name_long": "Michigan",
+    "name": "Mich."
+  },
+  "cites_to": [
+    {
+      "cite": "492 Mich 450",
+      "category": "reporters:state",
+      "reporter": "Mich.",
+      "case_ids": [
+        4189888
+      ],
+      "weight": 2,
+      "year": 2012,
+      "pin_cites": [
+        {
+          "page": "468-469"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mich/492/0450-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 119,
+    "char_count": 1180,
+    "ocr_confidence": 0.681,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.2464647552810994
+    },
+    "sha256": "2dca1cb422d0d9d958b10e9059bb4e3af3f7c1732997ea179993e2fba83ed0a0",
+    "simhash": "1:50154e7ff50fc78d",
+    "word_count": 195
+  },
+  "last_updated": "2024-02-27T16:10:26.420323+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Stimpson v GFI Management Services, Inc,"
+    ],
+    "opinions": [
+      {
+        "text": "Pursuant to MCR 7.305(H)(1), in lieu of granting leave to appeal, we reverse that part of the Court of Appeals judgment holding that a reasonable jury could find that the plaintiff had no choice but to confront the hazard posed by the snow and ice. In Hoffner v Lanctoe, 492 Mich 450, 468-469 (2012), this Court clarified that, for an unreasonably dangerous hazard to be \u201ceffectively unavoidable,\u201d it must be essentially \u201cinescapable.\u201d Effective unavoidability is characterized by \u201can inability to be avoided, an inescapable result, or the inevitability of a given outcome.\u201d Id. In this instance, it is undisputed that plaintiff selected the location where she parked her truck, chose to use that vehicle even though she had a second vehicle parked under a carport, and did not attempt to use the salt near her apartment door. The Oakland Circuit Court correctly granted summary disposition to the defendants and the Court of Appeals erred by reversing. We therefore remand this case to the circuit court for reinstatement of the judgment in favor of the defendants. We do not retain jurisdiction.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Stimpson v GFI Management Services, Inc,\nNo. 151368; Court of Appeals No. 319165."
+  },
+  "file_name": "0927-01",
+  "first_page_order": 873,
+  "last_page_order": 873
+}

@@ -1,0 +1,94 @@
+{
+  "id": 3556695,
+  "name": "Jon David ARMSTRONG, Respondent v. COMMONWEALTH of Pennsylvania, DEPARTMENT OF TRANSPORTATION, BUREAU OF DRIVER LICENSING, Petitioner",
+  "name_abbreviation": "Armstrong v. Commonwealth",
+  "decision_date": "2007-04-18",
+  "docket_number": "Petition No. 657 MAL 2003",
+  "first_page": "10",
+  "last_page": "10",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "592 Pa. 10"
+    },
+    {
+      "type": "parallel",
+      "cite": "922 A.2d 874"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "915 A.2d 1155",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8340050,
+        3017333
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/915/1155-01",
+        "/pa/591/0056-01"
+      ]
+    },
+    {
+      "cite": "880 A.2d 552",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        687742,
+        8937046
+      ],
+      "year": 2005,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/583/0592-01",
+        "/a2d/880/0552-01"
+      ]
+    },
+    {
+      "cite": "583 Pa. 592",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        687742
+      ],
+      "year": 2005,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/583/0592-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 50,
+    "char_count": 459,
+    "ocr_confidence": 0.688,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.10034426717542219
+    },
+    "sha256": "f2cdb4a6bdde86c1e1fe4a2bd5a9abb9be5dc839f44ceccf5131f4de28b6db2e",
+    "simhash": "1:5dbfbbe3e105a9f2",
+    "word_count": 68
+  },
+  "last_updated": "2024-02-27T21:45:49.457734+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "file_name": "0010-01",
+  "first_page_order": 62,
+  "last_page_order": 62
+}

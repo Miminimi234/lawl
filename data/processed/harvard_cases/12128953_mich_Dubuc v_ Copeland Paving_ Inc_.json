@@ -1,0 +1,66 @@
+{
+  "id": 12128953,
+  "name": "Dubuc v. Copeland Paving, Inc",
+  "name_abbreviation": "Dubuc v. Copeland Paving, Inc.",
+  "decision_date": "2015-07-28",
+  "docket_number": "No. 151041; Court of Appeals No. 325228",
+  "first_page": "869",
+  "last_page": "869",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "498 Mich. 869"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Mich.",
+    "id": 8790,
+    "name": "Michigan Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 49,
+    "name_long": "Michigan",
+    "name": "Mich."
+  },
+  "cites_to": [
+    {
+      "cite": "497 Mich 984",
+      "category": "reporters:state",
+      "reporter": "Mich.",
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 19,
+    "char_count": 111,
+    "ocr_confidence": 0.744,
+    "sha256": "46e51008c4194ba13b3ea814da095fda1b48150e2587515b21ea1b4e73185094",
+    "simhash": "1:40cb392061214e8f",
+    "word_count": 20
+  },
+  "last_updated": "2024-02-27T16:10:26.420323+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Dubuc v Copeland Paving, Inc,"
+    ],
+    "opinions": [
+      {
+        "text": "Leave to appeal denied at 497 Mich 984.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Dubuc v Copeland Paving, Inc,\nNo. 151041; Court of Appeals No. 325228."
+  },
+  "file_name": "0869-09",
+  "first_page_order": 815,
+  "last_page_order": 815
+}

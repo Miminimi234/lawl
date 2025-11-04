@@ -1,0 +1,78 @@
+{
+  "id": 10529911,
+  "name": "Martin Allen JOHNSON, Plaintiff-Appellant, v. Robert MOORE, Superintendent, Clallam Bay Corrections Center, Defendant-Appellee",
+  "name_abbreviation": "Johnson v. Moore",
+  "decision_date": "1991-10-02",
+  "docket_number": "No. 89-35867",
+  "first_page": "1533",
+  "last_page": "1534",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "944 F.2d 1533"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "9th Cir.",
+    "id": 8826,
+    "name": "United States Court of Appeals for the Ninth Circuit"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "926 F.2d 921",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        10544565
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/926/0921-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 47,
+    "char_count": 379,
+    "ocr_confidence": 0.767,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.23508899553603319
+    },
+    "sha256": "d0fc6dec5c7e8e20f2b3e9b51cfefae3de532f22cddf4ded2819458a4bb4e611",
+    "simhash": "1:f719dafd3bad8988",
+    "word_count": 54
+  },
+  "last_updated": "2024-02-27T20:11:57.694237+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before TANG, D.W. NELSON and CANBY, Circuit Judges."
+    ],
+    "parties": [
+      "Martin Allen JOHNSON, Plaintiff-Appellant, v. Robert MOORE, Superintendent, Clallam Bay Corrections Center, Defendant-Appellee."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nThe Opinion filed February 28, 1991, 926 F.2d 921, and the Amended Opinion filed April 15, 1991 are hereby withdrawn.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Martin Allen JOHNSON, Plaintiff-Appellant, v. Robert MOORE, Superintendent, Clallam Bay Corrections Center, Defendant-Appellee.\nNo. 89-35867.\nUnited States Court of Appeals, Ninth Circuit.\nOct. 2, 1991.\nBefore TANG, D.W. NELSON and CANBY, Circuit Judges."
+  },
+  "file_name": "1533-01",
+  "first_page_order": 1603,
+  "last_page_order": 1604
+}

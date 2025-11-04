@@ -1,0 +1,118 @@
+{
+  "id": 12144843,
+  "name": "Oostdyk v. Auto Owners Ins Co",
+  "name_abbreviation": "Oostdyk v. Auto Owners Ins Co.",
+  "decision_date": "2015-11-13",
+  "docket_number": "No. 151026; Court of Appeals No. 317221",
+  "first_page": "913",
+  "last_page": "913",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "498 Mich. 913"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Mich.",
+    "id": 8790,
+    "name": "Michigan Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 49,
+    "name_long": "Michigan",
+    "name": "Mich."
+  },
+  "cites_to": [
+    {
+      "cite": "425 Mich 643",
+      "category": "reporters:state",
+      "reporter": "Mich.",
+      "case_ids": [
+        1999906
+      ],
+      "year": 1986,
+      "pin_cites": [
+        {
+          "page": "646"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mich/425/0643-01"
+      ]
+    },
+    {
+      "cite": "493 Mich 294",
+      "category": "reporters:state",
+      "reporter": "Mich.",
+      "case_ids": [
+        4190839
+      ],
+      "year": 2013,
+      "pin_cites": [
+        {
+          "page": "299"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mich/493/0294-01"
+      ]
+    },
+    {
+      "cite": "278 Mich App 578",
+      "category": "reporters:state",
+      "reporter": "Mich. App.",
+      "case_ids": [
+        3596800
+      ],
+      "year": 2008,
+      "pin_cites": [
+        {
+          "page": "586"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mich-app/278/0578-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 113,
+    "char_count": 1086,
+    "ocr_confidence": 0.666,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.24635451719385956
+    },
+    "sha256": "5e5d81f560d5db4ed1f5eaba842de158e0ddf6d2fb3adb37247286de992f09ad",
+    "simhash": "1:24c352af769e24ec",
+    "word_count": 183
+  },
+  "last_updated": "2024-02-27T16:10:26.420323+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Oostdyk v Auto Owners Ins Co,"
+    ],
+    "opinions": [
+      {
+        "text": "On order of the Court, the application for leave to appeal the December 30, 2014 judgment of the Court of Appeals is considered, and it is denied, because we are not persuaded that the question presented should be reviewed by this Court. The Court of Appeals erred by relying on the \u201calmost any causal connection\u201d standard of Scott v State Farm Mut Auto Ins Co, 278 Mich App 578, 586 (2008). The \u201calmost-any\u201d standard is discredited and inconsistent with current law to the extent it suggests a plaintiff may meet the statutory causation requirement without proving the causal connection was \u201cmore than incidental, fortuitous, or but for.\u201d See McPherson v McPherson, 493 Mich 294, 299 (2013). However, denial is warranted because the trial court correctly instructed the jury that under MCL 500.3105(1), the plaintiff had to prove the causal connection between the injury and the use of the motor vehicle was \u201cmore than incidental, fortuitous, or but for.\u201d See Thornton v Allstate Ins Co, 425 Mich 643, 646 (1986).",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Oostdyk v Auto Owners Ins Co,\nNo. 151026; Court of Appeals No. 317221."
+  },
+  "file_name": "0913-04",
+  "first_page_order": 859,
+  "last_page_order": 859
+}

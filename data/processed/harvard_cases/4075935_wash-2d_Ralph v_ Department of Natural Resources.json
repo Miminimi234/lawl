@@ -1,0 +1,2577 @@
+{
+  "id": 4075935,
+  "name": "William Ralph, Petitioner, v. The Department of Natural Resources, Respondent; William Forth et al., Petitioners, v. The Department of Natural Resources et al., Respondents",
+  "name_abbreviation": "Ralph v. Department of Natural Resources",
+  "decision_date": "2014-12-31",
+  "docket_number": "No. 88115-4",
+  "first_page": "242",
+  "last_page": "272",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "182 Wash. 2d 242"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Wash.",
+    "id": 9029,
+    "name": "Washington Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 38,
+    "name_long": "Washington",
+    "name": "Wash."
+  },
+  "cites_to": [
+    {
+      "cite": "153 P. 1",
+      "category": "reporters:state_regional",
+      "reporter": "P.",
+      "year": 1915,
+      "pin_cites": [
+        {
+          "parenthetical": "venue"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "88 Wash. 348",
+      "category": "reporters:state",
+      "reporter": "Wash.",
+      "case_ids": [
+        648898
+      ],
+      "year": 1915,
+      "pin_cites": [
+        {
+          "parenthetical": "venue"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash/88/0348-01"
+      ]
+    },
+    {
+      "cite": "3 P. 612",
+      "category": "reporters:state_regional",
+      "reporter": "P.",
+      "year": 1881,
+      "pin_cites": [
+        {
+          "parenthetical": "dictum"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "2 Wash. Terr. 64",
+      "category": "reporters:state",
+      "reporter": "Wash. Terr.",
+      "case_ids": [
+        1825964
+      ],
+      "year": 1881,
+      "pin_cites": [
+        {
+          "parenthetical": "dictum"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-terr/2/0064-01"
+      ]
+    },
+    {
+      "cite": "30 P. 1053",
+      "category": "reporters:state_regional",
+      "reporter": "P.",
+      "year": 1892,
+      "pin_cites": [
+        {
+          "parenthetical": "jurisdiction"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "4 Wash. 655",
+      "category": "reporters:state",
+      "reporter": "Wash.",
+      "case_ids": [
+        5259141
+      ],
+      "year": 1892,
+      "pin_cites": [
+        {
+          "parenthetical": "jurisdiction"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash/4/0655-01"
+      ]
+    },
+    {
+      "cite": "92 P. 267",
+      "category": "reporters:state_regional",
+      "reporter": "P.",
+      "year": 1907,
+      "pin_cites": [
+        {
+          "parenthetical": "jurisdiction"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "47 Wash. 450",
+      "category": "reporters:state",
+      "reporter": "Wash.",
+      "case_ids": [
+        1295701
+      ],
+      "year": 1907,
+      "pin_cites": [
+        {
+          "parenthetical": "jurisdiction"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash/47/0450-01"
+      ]
+    },
+    {
+      "cite": "248 P. 419",
+      "category": "reporters:state_regional",
+      "reporter": "P.",
+      "year": 1926,
+      "pin_cites": [
+        {
+          "parenthetical": "jurisdiction"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "140 Wash. 206",
+      "category": "reporters:state",
+      "reporter": "Wash.",
+      "case_ids": [
+        807324
+      ],
+      "year": 1926,
+      "pin_cites": [
+        {
+          "parenthetical": "jurisdiction"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash/140/0206-01"
+      ]
+    },
+    {
+      "cite": "67 P.2d 927",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1937,
+      "pin_cites": [
+        {
+          "parenthetical": "jurisdiction"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "190 Wash. 294",
+      "category": "reporters:state",
+      "reporter": "Wash.",
+      "case_ids": [
+        1281074
+      ],
+      "year": 1937,
+      "pin_cites": [
+        {
+          "parenthetical": "jurisdiction"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash/190/0294-01"
+      ]
+    },
+    {
+      "cite": "156 P.2d 235",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1945,
+      "opinion_index": 0
+    },
+    {
+      "cite": "153 P.2d 856",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1944,
+      "pin_cites": [
+        {
+          "parenthetical": "jurisdiction"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "21 Wn.2d 902",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        2602961
+      ],
+      "weight": 2,
+      "year": 1944,
+      "pin_cites": [
+        {
+          "parenthetical": "jurisdiction"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/21/0902-01"
+      ]
+    },
+    {
+      "cite": "886 P.2d 189",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1994,
+      "opinion_index": 0
+    },
+    {
+      "cite": "125 Wn.2d 533",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        437183
+      ],
+      "year": 1994,
+      "pin_cites": [
+        {
+          "page": "539"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/125/0533-01"
+      ]
+    },
+    {
+      "cite": "991 P.2d 1161",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 2000,
+      "opinion_index": 0
+    },
+    {
+      "cite": "139 Wn.2d 840",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        98989
+      ],
+      "year": 2000,
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/139/0840-01"
+      ]
+    },
+    {
+      "cite": "521 P.2d 1181",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "case_ids": [
+        617967
+      ],
+      "year": 1974,
+      "pin_cites": [
+        {
+          "parenthetical": "explaining the only permissible action a court may take if it lacks subject matter jurisdiction is dismissal"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ariz/110/0585-01"
+      ]
+    },
+    {
+      "cite": "83 Wn.2d 714",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        1127868
+      ],
+      "year": 1974,
+      "pin_cites": [
+        {
+          "page": "716",
+          "parenthetical": "explaining the only permissible action a court may take if it lacks subject matter jurisdiction is dismissal"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/83/0714-01"
+      ]
+    },
+    {
+      "cite": "185 P. 623",
+      "category": "reporters:state_regional",
+      "reporter": "P.",
+      "year": 1919,
+      "opinion_index": 0
+    },
+    {
+      "cite": "108 Wash. 666",
+      "category": "reporters:state",
+      "reporter": "Wash.",
+      "case_ids": [
+        680072
+      ],
+      "weight": 3,
+      "year": 1919,
+      "pin_cites": [
+        {
+          "page": "670"
+        },
+        {
+          "page": "670"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash/108/0666-01"
+      ]
+    },
+    {
+      "cite": "307 P.3d 717",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2013,
+      "opinion_index": 0
+    },
+    {
+      "cite": "175 Wn. App. 467",
+      "category": "reporters:state",
+      "reporter": "Wash. App.",
+      "case_ids": [
+        4190331
+      ],
+      "year": 2013,
+      "pin_cites": [
+        {
+          "page": "480-82"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-app/175/0467-01"
+      ]
+    },
+    {
+      "cite": "200 P.3d 689",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2009,
+      "opinion_index": 0
+    },
+    {
+      "cite": "165 Wn.2d 568",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        5751523
+      ],
+      "year": 2009,
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/165/0568-01"
+      ]
+    },
+    {
+      "cite": "515 U.S. 506",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        1564227
+      ],
+      "weight": 3,
+      "year": 1995,
+      "pin_cites": [
+        {
+          "page": "521"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/515/0506-01"
+      ]
+    },
+    {
+      "cite": "322 P.3d 1207",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2014,
+      "pin_cites": [
+        {
+          "parenthetical": "citing United States v. Gaudin, 515 U.S. 506, 521, 115 S. Ct. 2310, 132 L. Ed. 2d 444 (1995)"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "180 Wn.2d 54",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        4241959
+      ],
+      "year": 2014,
+      "pin_cites": [
+        {
+          "page": "66",
+          "parenthetical": "citing United States v. Gaudin, 515 U.S. 506, 521, 115 S. Ct. 2310, 132 L. Ed. 2d 444 (1995)"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/180/0054-01"
+      ]
+    },
+    {
+      "cite": "947 P.2d 732",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1997,
+      "pin_cites": [
+        {
+          "parenthetical": "Durham, C.J., concurring"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "133 Wn.2d 769",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        331069
+      ],
+      "year": 1997,
+      "pin_cites": [
+        {
+          "page": "790-91",
+          "parenthetical": "Durham, C.J., concurring"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/133/0769-01"
+      ]
+    },
+    {
+      "cite": "277 P.3d 67",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2012,
+      "opinion_index": 0
+    },
+    {
+      "cite": "168 Wn. App. 462",
+      "category": "reporters:state",
+      "reporter": "Wash. App.",
+      "case_ids": [
+        4028906
+      ],
+      "year": 2012,
+      "pin_cites": [
+        {
+          "page": "469"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-app/168/0462-01"
+      ]
+    },
+    {
+      "cite": "661 P.2d 976",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1983,
+      "opinion_index": 0
+    },
+    {
+      "cite": "99 Wn.2d 302",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        1145943
+      ],
+      "year": 1983,
+      "pin_cites": [
+        {
+          "page": "307"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/99/0302-01"
+      ]
+    },
+    {
+      "cite": "259 P.3d 190",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2011,
+      "pin_cites": [
+        {
+          "parenthetical": "plurality opinion"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "172 Wn.2d 398",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        4017964
+      ],
+      "year": 2011,
+      "pin_cites": [
+        {
+          "page": "423",
+          "parenthetical": "plurality opinion"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/172/0398-01"
+      ]
+    },
+    {
+      "cite": "822 P.2d 795",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1992,
+      "opinion_index": 0
+    },
+    {
+      "cite": "63 Wn. App. 798",
+      "category": "reporters:state",
+      "reporter": "Wash. App.",
+      "case_ids": [
+        1732980
+      ],
+      "year": 1992,
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-app/63/0798-01"
+      ]
+    },
+    {
+      "cite": "869 P.2d 392",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1994,
+      "pin_cites": [
+        {
+          "parenthetical": "discussing State v. McCorkell, 63 Wn. App. 798, 801 n.1, 822 P.2d 795 (1992)"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "123 Wn.2d 467",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        812809
+      ],
+      "year": 1994,
+      "pin_cites": [
+        {
+          "page": "479-80, 480",
+          "parenthetical": "discussing State v. McCorkell, 63 Wn. App. 798, 801 n.1, 822 P.2d 795 (1992)"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/123/0467-01"
+      ]
+    },
+    {
+      "cite": "186 P.2d 634",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1947,
+      "pin_cites": [
+        {
+          "parenthetical": "discussing an accused's constitutional right to have a jury trial in the county in which the charged offense was committed, Const, art. I, \u00a7 22, which was codified as former RCW 10.25.010"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "29 Wn.2d 182",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        2509700
+      ],
+      "year": 1947,
+      "pin_cites": [
+        {
+          "page": "188",
+          "parenthetical": "discussing an accused's constitutional right to have a jury trial in the county in which the charged offense was committed, Const, art. I, \u00a7 22, which was codified as former RCW 10.25.010"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/29/0182-01"
+      ]
+    },
+    {
+      "cite": "834 P.2d 609",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1992,
+      "opinion_index": 0
+    },
+    {
+      "cite": "119 Wn.2d 434",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        1370290
+      ],
+      "year": 1992,
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/119/0434-01"
+      ]
+    },
+    {
+      "cite": "750 P.2d 1276",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1988,
+      "opinion_index": 0
+    },
+    {
+      "cite": "110 Wn.2d 249",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        1182864
+      ],
+      "year": 1988,
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/110/0249-01"
+      ]
+    },
+    {
+      "cite": "254 P.3d 818",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2011,
+      "opinion_index": 0
+    },
+    {
+      "cite": "171 Wn.2d 726",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        4015795
+      ],
+      "year": 2011,
+      "pin_cites": [
+        {
+          "page": "730"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/171/0726-01"
+      ]
+    },
+    {
+      "cite": "76 P.3d 1183",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "weight": 2,
+      "year": 2003,
+      "opinion_index": 0
+    },
+    {
+      "cite": "150 Wn.2d 310",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        9194503
+      ],
+      "year": 2003,
+      "pin_cites": [
+        {
+          "page": "317"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/150/0310-01"
+      ]
+    },
+    {
+      "cite": "25 P. 906",
+      "category": "reporters:state_regional",
+      "reporter": "P.",
+      "year": 1891,
+      "opinion_index": 0
+    },
+    {
+      "cite": "2 Wash. 1",
+      "category": "reporters:state",
+      "reporter": "Wash.",
+      "case_ids": [
+        6714162,
+        5256710
+      ],
+      "year": 1891,
+      "pin_cites": [
+        {
+          "page": "4"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/va/2/0605-01",
+        "/wash/2/0001-01"
+      ]
+    },
+    {
+      "cite": "263 P.2d 276",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1953,
+      "opinion_index": 0
+    },
+    {
+      "cite": "43 Wn.2d 657",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        5009236
+      ],
+      "year": 1953,
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/43/0657-01"
+      ]
+    },
+    {
+      "cite": "721 P.2d 950",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1986,
+      "opinion_index": 0
+    },
+    {
+      "cite": "106 Wn.2d 269",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        1195541
+      ],
+      "year": 1986,
+      "pin_cites": [
+        {
+          "page": "276-77"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/106/0269-01"
+      ]
+    },
+    {
+      "cite": "984 P.2d 1041",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1999,
+      "pin_cites": [
+        {
+          "parenthetical": "conversion of collateral"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "96 Wn. App. 547",
+      "category": "reporters:state",
+      "reporter": "Wash. App.",
+      "case_ids": [
+        128507
+      ],
+      "year": 1999,
+      "pin_cites": [
+        {
+          "page": "549",
+          "parenthetical": "conversion of collateral"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-app/96/0547-01"
+      ]
+    },
+    {
+      "cite": "26 P. 76",
+      "category": "reporters:state_regional",
+      "reporter": "P.",
+      "year": 1891,
+      "pin_cites": [
+        {
+          "parenthetical": "conversion of trees"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "2 Wash. 117",
+      "category": "reporters:state",
+      "reporter": "Wash.",
+      "case_ids": [
+        5256723
+      ],
+      "weight": 3,
+      "year": 1891,
+      "pin_cites": [
+        {
+          "page": "122",
+          "parenthetical": "conversion of trees"
+        },
+        {
+          "page": "122"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash/2/0117-01"
+      ]
+    },
+    {
+      "cite": "635 P.2d 1109",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1981,
+      "pin_cites": [
+        {
+          "parenthetical": "contract for sale of a violin"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "30 Wn. App. 549",
+      "category": "reporters:state",
+      "reporter": "Wash. App.",
+      "case_ids": [
+        1826732
+      ],
+      "year": 1981,
+      "pin_cites": [
+        {
+          "page": "551",
+          "parenthetical": "contract for sale of a violin"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-app/30/0549-01"
+      ]
+    },
+    {
+      "cite": "121 P.2d 360",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1942,
+      "pin_cites": [
+        {
+          "parenthetical": "contract for sale of timber"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "12 Wn.2d 308",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        2557227
+      ],
+      "year": 1942,
+      "pin_cites": [
+        {
+          "page": "309-10",
+          "parenthetical": "contract for sale of timber"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/12/0308-01"
+      ]
+    },
+    {
+      "cite": "445 P.2d 334",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1968,
+      "pin_cites": [
+        {
+          "parenthetical": "contract for exchange of conveyances"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "74 Wn.2d 519",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        1086624
+      ],
+      "year": 1968,
+      "pin_cites": [
+        {
+          "page": "520-21",
+          "parenthetical": "contract for exchange of conveyances"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/74/0519-01"
+      ]
+    },
+    {
+      "cite": "266 P. 156",
+      "category": "reporters:state_regional",
+      "reporter": "P.",
+      "year": 1928,
+      "opinion_index": 0
+    },
+    {
+      "cite": "147 Wash. 330",
+      "category": "reporters:state",
+      "reporter": "Wash.",
+      "case_ids": [
+        796428
+      ],
+      "weight": 3,
+      "year": 1928,
+      "pin_cites": [
+        {
+          "page": "331, 335-36"
+        },
+        {
+          "page": "336"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash/147/0330-01"
+      ]
+    },
+    {
+      "cite": "176 P. 352",
+      "category": "reporters:state_regional",
+      "reporter": "P.",
+      "year": 1918,
+      "opinion_index": 0
+    },
+    {
+      "cite": "104 Wash. 268",
+      "category": "reporters:state",
+      "reporter": "Wash.",
+      "case_ids": [
+        674949
+      ],
+      "weight": 3,
+      "year": 1918,
+      "pin_cites": [
+        {
+          "page": "269"
+        },
+        {
+          "page": "274"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash/104/0268-01"
+      ]
+    },
+    {
+      "cite": "186 P.3d 1032",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2008,
+      "pin_cites": [
+        {
+          "parenthetical": "\"We will avoid deciding constitutional questions where a case may be fairly resolved on other grounds.\""
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "164 Wn.2d 35",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        3996364
+      ],
+      "year": 2008,
+      "pin_cites": [
+        {
+          "page": "41",
+          "parenthetical": "\"We will avoid deciding constitutional questions where a case may be fairly resolved on other grounds.\""
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/164/0035-01"
+      ]
+    },
+    {
+      "cite": "272 P.3d 840",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2012,
+      "opinion_index": 0
+    },
+    {
+      "cite": "174 Wn.2d 131",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        4022288
+      ],
+      "year": 2012,
+      "pin_cites": [
+        {
+          "page": "140"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/174/0131-01"
+      ]
+    },
+    {
+      "cite": "664 P.2d 1227",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1983,
+      "opinion_index": 0
+    },
+    {
+      "cite": "99 Wn.2d 815",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        1145921
+      ],
+      "year": 1983,
+      "pin_cites": [
+        {
+          "page": "819"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/99/0815-01"
+      ]
+    },
+    {
+      "cite": "541 P.2d 989",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1975,
+      "opinion_index": 0
+    },
+    {
+      "cite": "86 Wn.2d 44",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        1117407
+      ],
+      "year": 1975,
+      "pin_cites": [
+        {
+          "page": "47"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/86/0044-01"
+      ]
+    },
+    {
+      "cite": "101 U.S. 112",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        5630063
+      ],
+      "weight": 2,
+      "year": 1879,
+      "pin_cites": [
+        {
+          "page": "115-16"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/101/0112-01"
+      ]
+    },
+    {
+      "cite": "275 P. 81",
+      "category": "reporters:state_regional",
+      "reporter": "P.",
+      "year": 1929,
+      "pin_cites": [
+        {
+          "parenthetical": "quoting Market Co. v. Hoffman, 101 U.S. 112, 115-16, 25 L. Ed. 782 (1879)"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "151 Wash. 175",
+      "category": "reporters:state",
+      "reporter": "Wash.",
+      "case_ids": [
+        816070
+      ],
+      "year": 1929,
+      "pin_cites": [
+        {
+          "page": "177",
+          "parenthetical": "quoting Market Co. v. Hoffman, 101 U.S. 112, 115-16, 25 L. Ed. 782 (1879)"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash/151/0175-01"
+      ]
+    },
+    {
+      "cite": "119 P.3d 840",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2005,
+      "opinion_index": 0
+    },
+    {
+      "cite": "155 Wn.2d 374",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        3766064
+      ],
+      "year": 2005,
+      "pin_cites": [
+        {
+          "page": "393"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/155/0374-01"
+      ]
+    },
+    {
+      "cite": "89 P.3d 217",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2004,
+      "opinion_index": 0
+    },
+    {
+      "cite": "151 Wn.2d 359",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        428154
+      ],
+      "year": 2004,
+      "pin_cites": [
+        {
+          "page": "367"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/151/0359-01"
+      ]
+    },
+    {
+      "cite": "215 P.3d 185",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2009,
+      "opinion_index": 0
+    },
+    {
+      "cite": "166 Wn.2d 912",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        4001721
+      ],
+      "year": 2009,
+      "pin_cites": [
+        {
+          "page": "919"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/166/0912-01"
+      ]
+    },
+    {
+      "cite": "301 P.3d 1047",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2013,
+      "opinion_index": 0
+    },
+    {
+      "cite": "176 Wn.2d 1024",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "year": 2013,
+      "opinion_index": 0
+    },
+    {
+      "cite": "286 P.3d 992",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "weight": 2,
+      "year": 2012,
+      "opinion_index": 0
+    },
+    {
+      "cite": "171 Wn. App. 262",
+      "category": "reporters:state",
+      "reporter": "Wash. App.",
+      "case_ids": [
+        4069709
+      ],
+      "weight": 2,
+      "year": 2012,
+      "pin_cites": [
+        {
+          "page": "264"
+        },
+        {
+          "page": "265, 267"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-app/171/0262-01"
+      ]
+    },
+    {
+      "cite": "268 P.3d 892",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2011,
+      "opinion_index": 0
+    },
+    {
+      "cite": "173 Wn.2d 296",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        4019900
+      ],
+      "year": 2011,
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/173/0296-01"
+      ]
+    },
+    {
+      "cite": "65 P.3d 1194",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2003,
+      "opinion_index": 0
+    },
+    {
+      "cite": "149 Wn.2d 29",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        1292598
+      ],
+      "year": 2003,
+      "pin_cites": [
+        {
+          "page": "37"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/149/0029-01"
+      ]
+    },
+    {
+      "cite": "65 P.3d 1192",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2003,
+      "opinion_index": 0
+    },
+    {
+      "cite": "149 Wn.2d 130",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        1292577
+      ],
+      "year": 2003,
+      "pin_cites": [
+        {
+          "page": "134"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/149/0130-01"
+      ]
+    },
+    {
+      "cite": "165 P.2d 82",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1946,
+      "opinion_index": 0
+    },
+    {
+      "cite": "24 Wn.2d 401",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        2538300
+      ],
+      "weight": 2,
+      "year": 1946,
+      "pin_cites": [
+        {
+          "page": "409"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/24/0401-01"
+      ]
+    },
+    {
+      "cite": "296 P.2d 305",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1956,
+      "opinion_index": 0
+    },
+    {
+      "cite": "48 Wn.2d 637",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        996470
+      ],
+      "weight": 2,
+      "year": 1956,
+      "pin_cites": [
+        {
+          "page": "639"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/48/0637-01"
+      ]
+    },
+    {
+      "cite": "Cal. Crv. Proc. Code \u00a7 760.050",
+      "category": "laws:leg_statute",
+      "reporter": "Cal. Code",
+      "pin_cites": [
+        {
+          "page": "(a)",
+          "parenthetical": "proper county for the trial of an action to quiet title is the county in which the real property is located"
+        }
+      ],
+      "opinion_index": 1
+    },
+    {
+      "cite": "Tex. Crv. Prac. & Rem. Code Ann. \u00a7 15.011",
+      "category": "laws:leg_statute",
+      "reporter": "Tex. Code Ann.",
+      "pin_cites": [
+        {
+          "parenthetical": "actions for recovery of real property or an estate or interest in real property or to quiet title to real property shall be brought in the county in which all or a part of the property is located."
+        }
+      ],
+      "opinion_index": 1
+    },
+    {
+      "cite": "Wyo. Stat. Ann. \u00a7 34-5-101",
+      "category": "laws:leg_statute",
+      "reporter": "Wyo. Stat. Ann.",
+      "pin_cites": [
+        {
+          "parenthetical": "Actions for the recovery of, the partition of, or for the sale of real property shall be brought in the county in which the subject of the action is situated."
+        }
+      ],
+      "opinion_index": 1
+    },
+    {
+      "cite": "Or. Rev. Stat. \u00a7 14.040",
+      "category": "laws:leg_statute",
+      "reporter": "Or. Rev. Stat.",
+      "pin_cites": [
+        {
+          "parenthetical": "Actions for the recovery of real property and suits for the determination of an adverse claim estate or interest in real property shall be commenced and tried in the county in which the subject of the action or suit, or some part thereof, is situated."
+        }
+      ],
+      "opinion_index": 1
+    },
+    {
+      "cite": "N.D. Cent. Code \u00a7 28-04-01",
+      "category": "laws:leg_statute",
+      "reporter": "N.D. Cent. Code",
+      "pin_cites": [
+        {
+          "parenthetical": "Any action for the recovery of real property, or an estate therein, or for the determination in any form or such interest must be brought in the county in which the subject matter of the action or some part thereof is situated."
+        }
+      ],
+      "opinion_index": 1
+    },
+    {
+      "cite": "Neb. Rev. Stat. \u00a7 25-401",
+      "category": "laws:leg_statute",
+      "reporter": "Neb. Rev. Stat.",
+      "pin_cites": [
+        {
+          "parenthetical": "Actions for the recovery of, partition of, or sale of real property must be brought in the county in which the subject of the action is situated."
+        }
+      ],
+      "opinion_index": 1
+    },
+    {
+      "cite": "Mo. Rev. Stat. \u00a7 508.030",
+      "category": "laws:leg_statute",
+      "reporter": "Mo. Rev. Stat.",
+      "pin_cites": [
+        {
+          "parenthetical": "Suits for the possession of real estate, or whereby the title thereto may be affected ... shall be brought in the county where such real estate, or some part thereof, is situated."
+        }
+      ],
+      "opinion_index": 1
+    },
+    {
+      "cite": "Fla. Stat. \u00a7 65.061",
+      "category": "laws:leg_statute",
+      "reporter": "Fla. Stat.",
+      "pin_cites": [
+        {
+          "parenthetical": "quiet title complaint may be filed in any county in which any part of the land is situated"
+        }
+      ],
+      "opinion_index": 1
+    },
+    {
+      "cite": "Ark. Code Ann. \u00a7 18-60-502",
+      "category": "laws:leg_statute",
+      "reporter": "Ark. Code Ann.",
+      "pin_cites": [
+        {
+          "parenthetical": "A claimant shall file in the office of the clerk in the circuit court of the county in which the land is situated a petition describing the land and stating facts that show a prima facie right and title to the land."
+        }
+      ],
+      "opinion_index": 1
+    },
+    {
+      "cite": "Ala. Code \u00a7 6-6-560",
+      "category": "laws:leg_statute",
+      "reporter": "Ala. Code",
+      "pin_cites": [
+        {
+          "parenthetical": "Any person claiming to own lands or an interest therein may file a verified complaint in the circuit court of the county in which such lands lie to establish the right or title to such lands and to clear up all doubts or disputes concerning the same."
+        }
+      ],
+      "opinion_index": 1
+    },
+    {
+      "cite": "59 Miss. 320",
+      "category": "reporters:state",
+      "reporter": "Miss.",
+      "case_ids": [
+        1641904
+      ],
+      "year": 1881,
+      "pin_cites": [
+        {
+          "page": "323",
+          "parenthetical": "equity was never \"hampered by distinctions of local and transitory causes of action\""
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/miss/59/0320-01"
+      ]
+    },
+    {
+      "cite": "7 P. 550",
+      "category": "reporters:state_regional",
+      "reporter": "P.",
+      "year": 1885,
+      "opinion_index": 1
+    },
+    {
+      "cite": "33 Kan. 726",
+      "category": "reporters:state",
+      "reporter": "Kan.",
+      "case_ids": [
+        8865178
+      ],
+      "year": 1885,
+      "pin_cites": [
+        {
+          "page": "726"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/kan/33/0726-01"
+      ]
+    },
+    {
+      "cite": "167 U.S. 178",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        3595182
+      ],
+      "weight": 3,
+      "year": 1897,
+      "pin_cites": [
+        {
+          "parenthetical": "action for damages for the conversion of personal property is a personal and transitory action"
+        },
+        {
+          "parenthetical": "action for damages for the conversion of personal property is a personal and transitory action"
+        },
+        {
+          "parenthetical": "action for damages for the conversion of personal property is a personal and transitory action"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/us/167/0178-01"
+      ]
+    },
+    {
+      "cite": "21 P. 29",
+      "category": "reporters:state_regional",
+      "reporter": "P.",
+      "year": 1889,
+      "pin_cites": [
+        {
+          "parenthetical": "referring to action to establish title to personal property as transitory"
+        }
+      ],
+      "opinion_index": 1
+    },
+    {
+      "cite": "1 Wash. 559",
+      "category": "reporters:state",
+      "reporter": "Wash.",
+      "case_ids": [
+        8531206
+      ],
+      "year": 1889,
+      "pin_cites": [
+        {
+          "page": "560",
+          "parenthetical": "referring to action to establish title to personal property as transitory"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/wash/1/0559-01"
+      ]
+    },
+    {
+      "cite": "112 P. 932",
+      "category": "reporters:state_regional",
+      "reporter": "P.",
+      "year": 1911,
+      "pin_cites": [
+        {
+          "parenthetical": "explaining that actions for injuries to real estate are generally local, while action for injuries to persons or to personal property are transitory"
+        }
+      ],
+      "opinion_index": 1
+    },
+    {
+      "cite": "62 Wash. 12",
+      "category": "reporters:state",
+      "reporter": "Wash.",
+      "case_ids": [
+        613138
+      ],
+      "weight": 2,
+      "year": 1911,
+      "pin_cites": [
+        {
+          "page": "21-22",
+          "parenthetical": "explaining that actions for injuries to real estate are generally local, while action for injuries to persons or to personal property are transitory"
+        },
+        {
+          "page": "21"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/wash/62/0012-01"
+      ]
+    },
+    {
+      "cite": "743 F.2d 503",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        607716
+      ],
+      "weight": 2,
+      "year": 1984,
+      "pin_cites": [
+        {
+          "page": "506",
+          "parenthetical": "\"in order to provide in rem relief, the court must have jurisdiction over the real property at issue, and a local action must therefore be brought in the jurisdiction in which that real property is located\""
+        },
+        {
+          "page": "508",
+          "parenthetical": "determinative element in distinguishing a local action from a transitory action is whether the type of relief requested is of a \" 'personal' \" nature"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/f2d/743/0503-01"
+      ]
+    },
+    {
+      "cite": "269 F.2d 345",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1969999
+      ],
+      "year": 1959,
+      "pin_cites": [
+        {
+          "parenthetical": "stating without explanation that a Louisiana federal court would not have subject matter jurisdiction over a suit involving property in Mississippi"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/f2d/269/0345-01"
+      ]
+    },
+    {
+      "cite": "150 P.2d 604",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1944,
+      "opinion_index": 1
+    },
+    {
+      "cite": "20 Wn.2d 740",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        2596716
+      ],
+      "year": 1944,
+      "pin_cites": [
+        {
+          "page": "807"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/wash-2d/20/0740-01"
+      ]
+    },
+    {
+      "cite": "407 F. Supp. 13",
+      "category": "reporters:federal",
+      "reporter": "F. Supp.",
+      "case_ids": [
+        3848057
+      ],
+      "weight": 2,
+      "year": 1976,
+      "pin_cites": [
+        {
+          "page": "15",
+          "parenthetical": "local action rule exists for salutary reasons"
+        },
+        {
+          "page": "15-16"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/f-supp/407/0013-01"
+      ]
+    },
+    {
+      "cite": "821 F.2d 285",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1699788
+      ],
+      "weight": 2,
+      "year": 1987,
+      "pin_cites": [
+        {
+          "page": "290"
+        },
+        {
+          "page": "290",
+          "parenthetical": "local action rule concerns subject matter jurisdiction"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/f2d/821/0285-01"
+      ]
+    },
+    {
+      "cite": "217 P.3d 1172",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2009,
+      "pin_cites": [
+        {
+          "parenthetical": "doctrine of stare decisis requires us to adhere to an established rule unless there is a clear showing that rule is incorrect and harmful"
+        }
+      ],
+      "opinion_index": 1
+    },
+    {
+      "cite": "167 Wn.2d 341",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        4004550
+      ],
+      "year": 2009,
+      "pin_cites": [
+        {
+          "page": "343",
+          "parenthetical": "doctrine of stare decisis requires us to adhere to an established rule unless there is a clear showing that rule is incorrect and harmful"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/wash-2d/167/0341-01"
+      ]
+    },
+    {
+      "cite": "101 Cal. Rptr. 745",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr.",
+      "year": 1972,
+      "pin_cites": [
+        {
+          "parenthetical": "\"the term 'jurisdiction' carries a variety of meanings\""
+        }
+      ],
+      "opinion_index": 1
+    },
+    {
+      "cite": "496 P.2d 817",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1972,
+      "pin_cites": [
+        {
+          "parenthetical": "\"the term 'jurisdiction' carries a variety of meanings\""
+        }
+      ],
+      "opinion_index": 1
+    },
+    {
+      "cite": "7 Cal. 3d 94",
+      "category": "reporters:state",
+      "reporter": "Cal. 3d",
+      "case_ids": [
+        2277346
+      ],
+      "year": 1972,
+      "pin_cites": [
+        {
+          "page": "120",
+          "parenthetical": "\"the term 'jurisdiction' carries a variety of meanings\""
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/cal-3d/7/0094-01"
+      ]
+    },
+    {
+      "cite": "918 P.2d 916",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1996,
+      "opinion_index": 1
+    },
+    {
+      "cite": "129 Wn.2d 485",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        904195
+      ],
+      "year": 1996,
+      "pin_cites": [
+        {
+          "page": "496"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/wash-2d/129/0485-01"
+      ]
+    },
+    {
+      "cite": "592 P.2d 667",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1979,
+      "pin_cites": [
+        {
+          "parenthetical": "decree creating the lien was never \" 'recorded in the office of the recording officer of the county where the property is situated' \" as required by statute in order to give rise to a claim of constructive notice to the purchaser (quoting RCW 65.08.070)"
+        }
+      ],
+      "opinion_index": 1
+    },
+    {
+      "cite": "22 Wn. App. 817",
+      "category": "reporters:state",
+      "reporter": "Wash. App.",
+      "case_ids": [
+        467107
+      ],
+      "year": 1979,
+      "pin_cites": [
+        {
+          "page": "821",
+          "parenthetical": "decree creating the lien was never \" 'recorded in the office of the recording officer of the county where the property is situated' \" as required by statute in order to give rise to a claim of constructive notice to the purchaser (quoting RCW 65.08.070)"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/wash-app/22/0817-01"
+      ]
+    },
+    {
+      "cite": "211 P.2d 1005",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1949,
+      "opinion_index": 1
+    },
+    {
+      "cite": "35 Wn.2d 215",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        4922510
+      ],
+      "year": 1949,
+      "pin_cites": [
+        {
+          "page": "217"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/wash-2d/35/0215-01"
+      ]
+    },
+    {
+      "cite": "21 Wn.2d 907",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        2603286
+      ],
+      "year": 1945,
+      "opinion_index": 1,
+      "case_paths": [
+        "/wash-2d/21/0907-01"
+      ]
+    },
+    {
+      "cite": "94 P.2d 505",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1939,
+      "opinion_index": 1
+    },
+    {
+      "cite": "200 Wash. 632",
+      "category": "reporters:state",
+      "reporter": "Wash.",
+      "case_ids": [
+        484853
+      ],
+      "year": 1939,
+      "pin_cites": [
+        {
+          "page": "635"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/wash/200/0632-01"
+      ]
+    },
+    {
+      "cite": "246 P.2d 474",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1952,
+      "opinion_index": 1
+    },
+    {
+      "cite": "40 Wn.2d 734",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        4979430
+      ],
+      "year": 1952,
+      "pin_cites": [
+        {
+          "page": "736"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/wash-2d/40/0734-01"
+      ]
+    },
+    {
+      "cite": "153 P. 7",
+      "category": "reporters:state_regional",
+      "reporter": "P.",
+      "year": 1915,
+      "opinion_index": 1
+    },
+    {
+      "cite": "88 Wash. 344",
+      "category": "reporters:state",
+      "reporter": "Wash.",
+      "case_ids": [
+        649069
+      ],
+      "year": 1915,
+      "opinion_index": 1,
+      "case_paths": [
+        "/wash/88/0344-01"
+      ]
+    },
+    {
+      "cite": "15 F. Cas. 660",
+      "category": "reporters:federal",
+      "reporter": "F. Cas.",
+      "case_ids": [
+        6623509
+      ],
+      "weight": 4,
+      "year": 1811,
+      "pin_cites": [
+        {
+          "page": "665",
+          "parenthetical": "No. 8,411"
+        },
+        {
+          "page": "664"
+        },
+        {
+          "page": "664",
+          "parenthetical": "No. 8,411"
+        },
+        {
+          "page": "664",
+          "parenthetical": "\"actions are deemed transitory, where transactions on which they are founded, might have taken place anywhere; but are local where their cause is in its nature necessarily local\""
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/f-cas/15/0660-01"
+      ]
+    },
+    {
+      "cite": "199 P.2d 581",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1948,
+      "opinion_index": 1
+    },
+    {
+      "cite": "31 Wn.2d 834",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        2497025
+      ],
+      "year": 1948,
+      "pin_cites": [
+        {
+          "page": "839"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/wash-2d/31/0834-01"
+      ]
+    },
+    {
+      "cite": "3 P. 612",
+      "category": "reporters:state_regional",
+      "reporter": "P.",
+      "year": 1881,
+      "opinion_index": 1
+    },
+    {
+      "cite": "2 Wash. Terr. 64",
+      "category": "reporters:state",
+      "reporter": "Wash. Terr.",
+      "case_ids": [
+        1825964
+      ],
+      "weight": 2,
+      "year": 1881,
+      "pin_cites": [
+        {
+          "page": "69"
+        },
+        {
+          "page": "69"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/wash-terr/2/0064-01"
+      ]
+    },
+    {
+      "cite": "92 P. 267",
+      "category": "reporters:state_regional",
+      "reporter": "P.",
+      "weight": 2,
+      "year": 1907,
+      "opinion_index": 1
+    },
+    {
+      "cite": "47 Wash. 450",
+      "category": "reporters:state",
+      "reporter": "Wash.",
+      "case_ids": [
+        1295701
+      ],
+      "weight": 2,
+      "year": 1907,
+      "pin_cites": [
+        {
+          "page": "451-52"
+        },
+        {
+          "page": "451-52"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/wash/47/0450-01"
+      ]
+    },
+    {
+      "cite": "67 P.2d 927",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1937,
+      "opinion_index": 1
+    },
+    {
+      "cite": "190 Wash. 294",
+      "category": "reporters:state",
+      "reporter": "Wash.",
+      "case_ids": [
+        1281074
+      ],
+      "year": 1937,
+      "pin_cites": [
+        {
+          "page": "299"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/wash/190/0294-01"
+      ]
+    },
+    {
+      "cite": "156 P.2d 235",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1945,
+      "opinion_index": 1
+    },
+    {
+      "cite": "153 P.2d 856",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1944,
+      "opinion_index": 1
+    },
+    {
+      "cite": "21 Wn.2d 902",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        2602961
+      ],
+      "year": 1944,
+      "pin_cites": [
+        {
+          "page": "904"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/wash-2d/21/0902-01"
+      ]
+    },
+    {
+      "cite": "661 P.2d 976",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "weight": 2,
+      "year": 1983,
+      "opinion_index": 1
+    },
+    {
+      "cite": "99 Wn.2d 302",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        1145943
+      ],
+      "year": 1983,
+      "pin_cites": [
+        {
+          "page": "307"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/wash-2d/99/0302-01"
+      ]
+    },
+    {
+      "cite": "259 P.3d 190",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2011,
+      "pin_cites": [
+        {
+          "parenthetical": "plurality opinion"
+        }
+      ],
+      "opinion_index": 1
+    },
+    {
+      "cite": "172 Wn.2d 398",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        4017964
+      ],
+      "year": 2011,
+      "pin_cites": [
+        {
+          "page": "423",
+          "parenthetical": "plurality opinion"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/wash-2d/172/0398-01"
+      ]
+    },
+    {
+      "cite": "63 Wn. App. 798",
+      "category": "reporters:state",
+      "reporter": "Wash. App.",
+      "case_ids": [
+        1732980
+      ],
+      "year": 1992,
+      "pin_cites": [
+        {
+          "page": "801"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/wash-app/63/0798-01"
+      ]
+    },
+    {
+      "cite": "869 P.2d 392",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1994,
+      "opinion_index": 1
+    },
+    {
+      "cite": "123 Wn.2d 467",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        812809
+      ],
+      "year": 1994,
+      "pin_cites": [
+        {
+          "page": "479-80"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/wash-2d/123/0467-01"
+      ]
+    },
+    {
+      "cite": "186 P.2d 634",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1947,
+      "opinion_index": 1
+    },
+    {
+      "cite": "29 Wn.2d 182",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        2509700
+      ],
+      "year": 1947,
+      "pin_cites": [
+        {
+          "page": "188"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/wash-2d/29/0182-01"
+      ]
+    },
+    {
+      "cite": "76 P.3d 1183",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2003,
+      "pin_cites": [
+        {
+          "parenthetical": "subject matter jurisdiction is the authority to hear and determine the class of action to which the case belongs"
+        }
+      ],
+      "opinion_index": 1
+    },
+    {
+      "cite": "150 Wn.2d 310",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        9194503
+      ],
+      "year": 2003,
+      "pin_cites": [
+        {
+          "page": "317",
+          "parenthetical": "subject matter jurisdiction is the authority to hear and determine the class of action to which the case belongs"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/wash-2d/150/0310-01"
+      ]
+    },
+    {
+      "cite": "263 P.2d 276",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1953,
+      "opinion_index": 1
+    },
+    {
+      "cite": "43 Wn.2d 657",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        5009236
+      ],
+      "year": 1953,
+      "pin_cites": [
+        {
+          "page": "665"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/wash-2d/43/0657-01"
+      ]
+    },
+    {
+      "cite": "984 P.2d 1041",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1999,
+      "opinion_index": 1
+    },
+    {
+      "cite": "96 Wn. App. 547",
+      "category": "reporters:state",
+      "reporter": "Wash. App.",
+      "case_ids": [
+        128507
+      ],
+      "weight": 2,
+      "year": 1999,
+      "pin_cites": [
+        {
+          "page": "555"
+        },
+        {
+          "page": "558",
+          "parenthetical": "conversion action seeking exclusively monetary recovery \"is in personam and transitory in nature\""
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/wash-app/96/0547-01"
+      ]
+    },
+    {
+      "cite": "26 P. 76",
+      "category": "reporters:state_regional",
+      "reporter": "P.",
+      "year": 1891,
+      "pin_cites": [
+        {
+          "parenthetical": "RCW 4.12.010 not \"merely directory\""
+        }
+      ],
+      "opinion_index": 1
+    },
+    {
+      "cite": "2 Wash. 117",
+      "category": "reporters:state",
+      "reporter": "Wash.",
+      "case_ids": [
+        5256723
+      ],
+      "weight": 4,
+      "year": 1891,
+      "pin_cites": [
+        {
+          "page": "120-21",
+          "parenthetical": "RCW 4.12.010 not \"merely directory\""
+        },
+        {
+          "page": "122"
+        },
+        {
+          "page": "123-24",
+          "parenthetical": "Hoyt, J., dissenting"
+        },
+        {
+          "page": "120-21"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/wash/2/0117-01"
+      ]
+    },
+    {
+      "cite": "65 P.3d 1194",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2003,
+      "pin_cites": [
+        {
+          "parenthetical": "action \" 'may' \" be commenced in superior court of such county or court of two nearest counties (quoting former RCW 36.01.050 (1963))"
+        }
+      ],
+      "opinion_index": 1
+    },
+    {
+      "cite": "149 Wn.2d 29",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        1292598
+      ],
+      "year": 2003,
+      "pin_cites": [
+        {
+          "page": "33",
+          "parenthetical": "action \" 'may' \" be commenced in superior court of such county or court of two nearest counties (quoting former RCW 36.01.050 (1963))"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/wash-2d/149/0029-01"
+      ]
+    },
+    {
+      "cite": "65 P.3d 1192",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2003,
+      "pin_cites": [
+        {
+          "parenthetical": "party \" 'shall have the option' \" of suing in county where action arose or county where defendant resides (quoting former RCW 2.14.020(3) (1941))"
+        }
+      ],
+      "opinion_index": 1
+    },
+    {
+      "cite": "149 Wn.2d 130",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        1292577
+      ],
+      "year": 2003,
+      "pin_cites": [
+        {
+          "page": "133",
+          "parenthetical": "party \" 'shall have the option' \" of suing in county where action arose or county where defendant resides (quoting former RCW 2.14.020(3) (1941))"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/wash-2d/149/0130-01"
+      ]
+    },
+    {
+      "cite": "165 P.2d 82",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1946,
+      "opinion_index": 1
+    },
+    {
+      "cite": "24 Wn.2d 401",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        2538300
+      ],
+      "year": 1946,
+      "pin_cites": [
+        {
+          "page": "409"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/wash-2d/24/0401-01"
+      ]
+    },
+    {
+      "cite": "296 P.2d 305",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1956,
+      "opinion_index": 1
+    },
+    {
+      "cite": "48 Wn.2d 637",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        996470
+      ],
+      "year": 1956,
+      "pin_cites": [
+        {
+          "page": "639-40"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/wash-2d/48/0637-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 2149,
+    "char_count": 60768,
+    "ocr_confidence": 0.742,
+    "pagerank": {
+      "raw": 8.075045412068006e-08,
+      "percentile": 0.4668822390803479
+    },
+    "sha256": "eb7881b32e0197d488da60acdb91c5a49bb124aef3f70d009c9c4d9efa9ac040",
+    "simhash": "1:9d92cc016a251b0c",
+    "word_count": 9980
+  },
+  "last_updated": "2024-02-27T17:34:40.830885+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "file_name": "0242-01",
+  "first_page_order": 278,
+  "last_page_order": 308
+}

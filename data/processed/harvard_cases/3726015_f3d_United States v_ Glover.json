@@ -1,0 +1,687 @@
+{
+  "id": 3726015,
+  "name": "UNITED STATES of America, Appellee v. Lonnell GLOVER, Appellant",
+  "name_abbreviation": "United States v. Glover",
+  "decision_date": "2013-11-08",
+  "docket_number": "Nos. 09-3087, 10-3048, 10-3066",
+  "first_page": "509",
+  "last_page": "517",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "736 F.3d 509"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "D.C. Cir.",
+    "id": 8770,
+    "name": "United States Court of Appeals for the District of Columbia Circuit"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "441 U.S. 238",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        1779836
+      ],
+      "weight": 3,
+      "year": 1979,
+      "pin_cites": [
+        {
+          "page": "251-54"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/441/0238-01"
+      ]
+    },
+    {
+      "cite": "968 F.2d 130",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        10514192
+      ],
+      "pin_cites": [
+        {
+          "page": "136"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/968/0130-01"
+      ]
+    },
+    {
+      "cite": "100 F.3d 399",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        11935960
+      ],
+      "pin_cites": [
+        {
+          "page": "403"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/100/0399-01"
+      ]
+    },
+    {
+      "cite": "471 F.3d 1107",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        6045861
+      ],
+      "pin_cites": [
+        {
+          "page": "1109"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/471/1107-01"
+      ]
+    },
+    {
+      "cite": "18 U.S.C. \u00a7 2510",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "pin_cites": [
+        {
+          "page": "et seq."
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "232 F.3d 923",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        3676133,
+        11158461
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "927-28"
+        },
+        {
+          "page": "928"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us-app-dc/344/0034-01",
+        "/f3d/232/0923-01"
+      ]
+    },
+    {
+      "cite": "918 F.2d 197",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        10532202,
+        5676988
+      ],
+      "pin_cites": [
+        {
+          "page": "199"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/918/0197-01",
+        "/us-app-dc/286/0392-01"
+      ]
+    },
+    {
+      "cite": "506 U.S. 534",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11925396
+      ],
+      "weight": 5,
+      "year": 1993,
+      "pin_cites": [
+        {
+          "page": "539-41"
+        },
+        {
+          "page": "539"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/506/0534-01"
+      ]
+    },
+    {
+      "cite": "608 F.3d 818",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        3550650,
+        3686636
+      ],
+      "pin_cites": [
+        {
+          "page": "844"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us-app-dc/391/0112-01",
+        "/f3d/608/0818-01"
+      ]
+    },
+    {
+      "cite": "24 F.3d 283",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        10505388,
+        3820149
+      ],
+      "pin_cites": [
+        {
+          "page": "287"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/24/0283-01",
+        "/us-app-dc/306/0277-01"
+      ]
+    },
+    {
+      "cite": "269 F.3d 1086",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        9472296,
+        3726964
+      ],
+      "pin_cites": [
+        {
+          "page": "1089"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/269/1086-01",
+        "/us-app-dc/348/0086-01"
+      ]
+    },
+    {
+      "cite": "478 F.3d 704",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        3781413
+      ],
+      "pin_cites": [
+        {
+          "page": "711"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/478/0704-01"
+      ]
+    },
+    {
+      "cite": "468 U.S. 897",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11340969
+      ],
+      "weight": 3,
+      "year": 1984,
+      "pin_cites": [
+        {
+          "page": "911"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/468/0897-01"
+      ]
+    },
+    {
+      "cite": "41 F.3d 370",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        7409011
+      ],
+      "pin_cites": [
+        {
+          "page": "375"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/41/0370-01"
+      ]
+    },
+    {
+      "cite": "728 F.3d 429",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "pin_cites": [
+        {
+          "page": "437"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "389 U.S. 347",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11339173
+      ],
+      "weight": 3,
+      "year": 1967,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/389/0347-01"
+      ]
+    },
+    {
+      "cite": "277 U.S. 438",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        3903035
+      ],
+      "weight": 3,
+      "year": 1928,
+      "pin_cites": [
+        {
+          "page": "464",
+          "parenthetical": "holding that a wiretap was not a search because \"[tjhere was no entry of the houses or offices of the defendants\""
+        },
+        {
+          "parenthetical": "holding that a wiretap was not a search because \"[tjhere was no entry of the houses or offices of the defendants\""
+        },
+        {
+          "parenthetical": "holding that a wiretap was not a search because \"[tjhere was no entry of the houses or offices of the defendants\""
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/277/0438-01"
+      ]
+    },
+    {
+      "cite": "112 F.3d 849",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        854758
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "853"
+        },
+        {
+          "page": "852-53"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/112/0849-01"
+      ]
+    },
+    {
+      "cite": "18 U.S.C. \u00a7 2518",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "pin_cites": [
+        {
+          "page": "(3)",
+          "parenthetical": "emphasis added"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "285 U.S. 204",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        1175242
+      ],
+      "weight": 3,
+      "year": 1932,
+      "pin_cites": [
+        {
+          "page": "208",
+          "parenthetical": "It is a \"cardinal rule that, if possible, effect shall be given to every clause and part of a statute.\""
+        },
+        {
+          "parenthetical": "It is a \"cardinal rule that, if possible, effect shall be given to every clause and part of a statute.\""
+        },
+        {
+          "parenthetical": "It is a \"cardinal rule that, if possible, effect shall be given to every clause and part of a statute.\""
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/285/0204-01"
+      ]
+    },
+    {
+      "cite": "504 F.2d 289",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        109694
+      ],
+      "pin_cites": [
+        {
+          "page": "292"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/504/0289-01"
+      ]
+    },
+    {
+      "cite": "515 F.2d 290",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1137620
+      ],
+      "pin_cites": [
+        {
+          "page": "293"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/515/0290-01"
+      ]
+    },
+    {
+      "cite": "871 F.2d 368",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        10529398
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "379"
+        },
+        {
+          "page": "379"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/871/0368-01"
+      ]
+    },
+    {
+      "cite": "696 F.2d 115",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1498760,
+        3639462
+      ],
+      "pin_cites": [
+        {
+          "page": "119-21"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/696/0115-01",
+        "/us-app-dc/225/0033-01"
+      ]
+    },
+    {
+      "cite": "416 U.S. 505",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        84471
+      ],
+      "weight": 6,
+      "year": 1974,
+      "pin_cites": [
+        {
+          "page": "527"
+        },
+        {
+          "parenthetical": "It is a \"cardinal rule that, if possible, effect shall be given to every clause and part of a statute.\""
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/416/0505-01"
+      ]
+    },
+    {
+      "cite": "429 U.S. 413",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6401
+      ],
+      "weight": 3,
+      "year": 1977,
+      "pin_cites": [
+        {
+          "page": "432"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/429/0413-01"
+      ]
+    },
+    {
+      "cite": "416 U.S. 562",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        84290
+      ],
+      "weight": 3,
+      "year": 1974,
+      "pin_cites": [
+        {
+          "page": "575"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/416/0562-01"
+      ]
+    },
+    {
+      "cite": "18 U.S.C. \u00a7 2515",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "weight": 2,
+      "opinion_index": 0
+    },
+    {
+      "cite": "573 F.3d 844",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        3673084,
+        5863749
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "847"
+        },
+        {
+          "page": "851"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/573/0844-01",
+        "/us-app-dc/387/0375-01"
+      ]
+    },
+    {
+      "cite": "173 F.3d 898",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        11625225,
+        3669043
+      ],
+      "pin_cites": [
+        {
+          "page": "902"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/173/0898-01",
+        "/us-app-dc/335/0359-01"
+      ]
+    },
+    {
+      "cite": "505 U.S. 647",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        1480837
+      ],
+      "weight": 3,
+      "year": 1992,
+      "pin_cites": [
+        {
+          "page": "651"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/505/0647-01"
+      ]
+    },
+    {
+      "cite": "6 F.3d 811",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        3724377,
+        10513033
+      ],
+      "pin_cites": [
+        {
+          "page": "814"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us-app-dc/303/0352-01",
+        "/f3d/6/0811-01"
+      ]
+    },
+    {
+      "cite": "487 U.S. 326",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        1774801
+      ],
+      "weight": 3,
+      "year": 1988,
+      "pin_cites": [
+        {
+          "page": "337"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/487/0326-01"
+      ]
+    },
+    {
+      "cite": "18 U.S.C. \u00a7 3162",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "(a)(2)"
+        }
+      ],
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 1203,
+    "char_count": 24958,
+    "ocr_confidence": 0.672,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.1090768226255662
+    },
+    "sha256": "e74642a664e87cf9dd85e9302d09f76d2cfa1afd0f033183e3f81dcc7bf190a4",
+    "simhash": "1:9d5852d2aa359fea",
+    "word_count": 4008
+  },
+  "last_updated": "2024-02-27T16:55:59.249303+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before: BROWN, Circuit Judge, and EDWARDS and SILBERMAN, Senior Circuit Judges."
+    ],
+    "parties": [
+      "UNITED STATES of America, Appellee v. Lonnell GLOVER, Appellant."
+    ],
+    "opinions": [
+      {
+        "text": "Opinion for the Court filed by Senior Circuit Judge SILBERMAN.\nSILBERMAN, Senior Circuit Judge:\nAppellants Lonnell Glover and Jonathan Wright were convicted of conspiring to possess and distribute more than five kilograms of cocaine. They appeal on a number of grounds. We agree that with respect to one of their claims their convictions must be reversed; the district court erroneously admitted evidence obtained pursuant to a \u201cfacially insufficient\u201d warrant.'.\nI.\nAlthough the convictions in this case were for a conspiracy to distribute cocaine, the FBI\u2019s initial investigation was directed at Glover\u2019s distribution of PCP and heroin. The FBI obtained a warrant to tap Glover\u2019s cell phone, but Glover was careful to speak only in code when using the cell phone. It was noticed, however, that Glover had frequent meetings in his truck, so the FBI obtained a warrant from Judge Collyer of the District Court for the District of Columbia to place an audio recording device in the truck. Unfortunately, the truck was parked at the Baltimore BWI Airport, and the FBI\u2019s affidavit in support of the warrant made that plain. Nevertheless, the warrant explicitly stated that FBI agents could forcibly enter the truck, regardless of whether the vehicle was located in the District of Columbia, District of Maryland, or the Eastern District of Virginia.\nThe bug worked. Glover was recorded discussing his PCP-heroin business, as well as his plans to use funds from that business to begin distributing cocaine. The cocaine \u2014 which was to come from a Bahamian known as \u201cFoot\u201d \u2014 would be driven to Washington from Florida. Jonathan Wright was also overheard in the truck, taking part in the conspiracy by joining Glover\u2019s plans to import the cocaine from the Bahamas.\nThe cocaine conspiracy began to unravel in June of 2007, when another co-conspirator was apprehended at Miami International Airport, attempting to smuggle large quantities of cash into the Bahamas. A few weeks later, on June 19, Glover was arrested in connection with his earlier POP and heroin-related activities. Wright was finally arrested for his role in the cocaine conspiracy on May 14, 2008.\nGlover was charged and convicted on PCP charges in a separate trial. Both appellants, however, were indicted for the cocaine conspiracy. The district judge held that the government had violated the Speedy Trial Act, and dismissed the indictments without prejudice. But the government reindicted appellants and they were then convicted by a jury. This appeal followed.\nII.\nAlthough we reverse the conviction based on a defective warrant, that would still permit a new trial (assuming the government has adequate non-tainted evidence), so it is necessary to confront, at the outset, appellants\u2019 argument that their indictment should have been dismissed because of the government\u2019s violation of the Speedy Trial Act or \u2014 in the case of Wright \u2014 a related claim that the Sixth Amendment was violated.\nThe Speedy Trial Act requires a trial court to dismiss an indictment when the government fails to bring the defendant to trial within 70 days, not counting certain \u201cexcludable days.\u201d 18 U.S.C. \u00a7 3162(a)(2). The district judge determined \u2014 and this is undisputed \u2014 that the government had, indeed, violated the Act; accordingly, he dismissed the indictments. Appellants argue that the court erred, however, in dismissing the indictments without prejudice.\nThe Act lists certain (non-exclusive) factors that a trial court must consider in determining whether to dismiss an indictment with or without prejudice. Those are: \u201cthe seriousness of the offense; the facts and circumstances of the case which led to the dismissal; and the impact of a reprosecution on the administration of this chapter and on the administration of justice.\u201d Id.\nBut our review is limited; we can reverse the trial court\u2019s decision only for an abuse of discretion. \u201c[Wjhen the statutory factors are properly considered, and supporting factual findings are not clearly in error, the district court\u2019s judgment of how .opposing considerations balance should not lightly be disturbed.\u201d See United States v. Taylor, 487 U.S. 326, 337, 108 S.Ct. 2413, 101 L.Ed.2d 297 (1988). We easily conclude the district judge\u2019s decision meets that standard.\nAppellants argue that their crime was not \u201cserious,\u201d that the judge placed undue emphasis on the inadvertent nature of the government\u2019s violation, and that a dismissal without prejudice undermines the deterrent effect of the Act. These contentions are rather flimsy, and are, therefore, rejected. See United States v. Wright, 6 F.3d 811, 814 (D.C.Cir.1993) (concluding that conspiracy to distribute fifty grams of cocaine is a serious offense, that the inadvertence of the government\u2019s violation of the Act is a relevant factor, and that deterrence does not require dismissal with prejudice in all cases).\nWe also reject Wright\u2019s separate claim that even if the Speedy Trial Act was not violated, the Sixth Amendment was. The district court properly considered the four factors it was required to balance: \u201cwhether delay before trial was uncommonly long, whether the government or the criminal defendant is more to blame for that delay, whether, in due course, the defendant asserted his right to a speedy trial, and whether he suffered prejudice as the delay\u2019s result.\u201d Doggett v. United States, 505 U.S. 647, 651, 112 S.Ct. 2686, 120 L.Ed.2d 520 (1992). The court assumed arguendo that the delay was long, but noted that part of the delay was attributed to defendant and, most important, that the defendant had not shown that his defense was prejudiced because of the delay.\n* * *\nWhich brings us to the core issue in this case \u2014 the allegedly illegal warrant. Appellants argue that the warrant was, in the language of the statute, \u201cinsufficient on its face\u201d because it was signed by Judge Collyer, in the District of Columbia, authorizing the FBI to place the electronic bug in Glover\u2019s truck parked in Maryland\u2014 outside of the district court\u2019s jurisdiction. The government contends that it is perfectly permissible for a district judge to authorize the placement of such an electronic listening device on a vehicle anywhere in the United States.\nAppellants point to both Title III of the Omnibus Crime Control and Safe Streets Act of 1968, which authorizes wiretaps or electronic bugs, as well as Rule 41 of the Federal Rules of Criminal Procedure, which partially implements the statute. But before discussing the statute and Rule 41 we are obliged to deal with the government\u2019s argument that our review should be limited to plain error because appellants never raised the jurisdictional objection to the truck bug. Although Glover\u2019s written motion to exclude the truck bug evidence before Judge Hogan did not object to the warrant\u2019s alleged jurisdictional defect, at oral argument counsel seems to have asked that the motion be amended to include that ground for objection:\nI would again move to amend the motion to include the ... truck bu[g].... I think ... that the requirements of ... 41(b) apply.... [T]he judge did not have the authority to issue a warrant to apply a device on a vehicle that\u2019s outside her jurisdiction.\n(Trial Tr. at 4-7, Sept. 10, 2008).\nAdmittedly, much of counsel\u2019s argument was focused on the device\u2019s integrated GPS feature and related Fourth Amendment concerns, which explains why Judge Hogan apparently did not perceive that counsel was also objecting to the facial sufficiency of the warrant. Although an argument need not be made in a written submission to be preserved for review, see Fraternal Order of Police v. United States, 173 F.3d 898, 902 (D.C.Cir.1999), counsel should, of course, make every effort to ensure that their arguments are clearly presented. The reason we require counsel to preserve arguments is to \u25a0 ensure that the district court has the opportunity to pass on those arguments in the first instance. This purpose is. undermined if important arguments are not clearly presented. Ultimately, however, we need not decide whether the argument was preserved, because we find that appellants have demonstrated plain error. See infra; In re Sealed Case, 573 F.3d 844, 847 (D.C.Cir.2009) (A defendant\u2019s conviction may be reversed, even when he failed to preserve an argument, if he demonstrates plain error.).\nThe statute specifies that \u201c[w]henever any wire or oral communication has been intercepted, no part of the contents of such communication and no evidence derived therefrom may be received in evidence in any ... proceeding ... if the disclosure of that information would be in violation of this chapter.\u201d 18 U.S.C. \u00a7 2515. The statute further specifies that an\naggrieved person ... may move to suppress the contents of any wire or oral communication intercepted pursuant to this chapter, or evidence derived therefrom, on the grounds that\u2014\n(i) the communication was unlawfully intercepted;\n(ii) the order of authorization or approval under which it was intercepted is insufficient on its face; or\n(iii) the interception was not made in conformity with the, order, of authorization or approval.\nId. \u00a7 2518(10)(a) (emphasis added).\nThe relationship between paragraphs (i) and (ii) of the statute is, at first glance, rather puzzling, since it would appear that if the authorization was \u201cinsufficient on its face,\u201d the communication would be necessarily \u201cunlawfully intercepted.\u201d But the Supreme Court has recognized a broad reading of paragraph (i) would render (ii) and (iii) redundant and \u201cdrained of meaning.\u201d United States v. Chavez, 416 U.S. 562, 575, 94 S.Ct. 1849, 40 L.Ed.2d 380 (1974); accord United States v. Donovan, 429 U.S. 413, 432, 97 S.Ct. 658, 50 L.Ed.2d 652 (1977); United States v. Giordano, 416 U.S. 505, 525 n. 14, 94 S.Ct. 1820, 40 L.Ed.2d 341 (1974); cf. United States v. Johnson, 696 F.2d 115, 119-21 (D.C.Cir.1982) (interpreting analogous provisions of the District of Columbia Code). Therefore, the Court read paragraph (i) as requiring a broad inquiry into the government\u2019s intercept procedures to determine whether the government\u2019s actions transgressed the \u201ccore concerns\u201d of the statute, whereas (ii) is a mechanical test; either the warrant is facially sufficient or it is not. See Giordano, 416 U.S. at 527, 94 S.Ct. 1820.\nAlthough a number of our sister circuits have imported the core concerns test into paragraph (ii), we think this approach is contrary to the plain text of the statute. See United States v. Traitz, 871 F.2d 368, 379 (3d Cir.1989); United States v. Vigi, 515 F.2d 290, 293 (6th Cir.1975); United States v. Robertson, 504 F.2d 289, 292 (5th Cir.1974). Suppression is the mandatory remedy when evidence is obtained pursuant to a facially insufficient warrant. There is no room for judicial discretion. Indeed, applying the \u201ccore concerns\u201d test to paragraph (ii) would turn the Supreme Court\u2019s approach on its head, elevating policy over text. In construing the phrase \u201cunlawfully intercepted\u201d in paragraph (i), the Supreme Court only turned to congressional policies after first applying traditional tools of statutory construction, which indicated that a limiting construction was necessary to avoid rendering paragraphs (ii) and (iii) \u201csurplus-age.\u201d Giordano, 416 U.S. at 526, 94 S.Ct. 1820; see also D. Ginsberg & Sons v. Popkin, 285 U.S. 204, 208, 52 S.Ct. 322, 76 L.Ed. 704 (1932) (It is a \u201ccardinal rule that, if possible, effect shall be given to every clause and part of a statute.\u201d). But applying the \u201ccore concerns\u201d test to paragraph (ii) would actually treat that paragraph as \u201csurplusage\u201d \u2014 precisely what the Supreme Court tried to avoid in Giordano.\nTurning then to the jurisdictional language of Title III, it permits a judge to \u201cauthoriz[e] or approv[e] interception of wire, oral, or electronic communications within the territorial jurisdiction of the court in which the judge is sitting (and outside that jurisdiction but within the United States in the case of a mobile interception device authorized by a Federal court within such jurisdiction).\u201d 18 U.S.C. \u00a7 2518(3) (emphasis added).\nTo be sure, the parenthetical phrase is somewhat ambiguous. It seems reasonable to read the words \u201csuch jurisdiction\u201d in the phrase as referring back to the jurisdiction in which the judge is sitting; i.e., in this case, the District of Columbia, since the provision mentions no other jurisdiction. It is also possible that the phrase, by implication, refers to the jurisdiction in which the mobile interception device is installed. Under either reading, the parenthetical makes clear that a judge cannot authorize the interception of communications if the mobile interception device was not validly authorized, and a device cannot be validly authorized if, at the time the warrant is issued, the property on which the device is to be installed is not located in the authorizing judge\u2019s jurisdiction. A contrary reading would render the phrase \u201cauthorized by a Federal court within such jurisdiction\u201d completely superfluous.\nIndeed, the legislative history \u2014 ironically brought to our attention by the government in a 28(j) letter \u2014 confirms our conclusion that the government\u2019s interpretation is implausible. According to a Senate Judiciary Committee report, the objective of the language was to ensure that warrants remain effective in the event a target vehicle is moved out of the issuing judge\u2019s jurisdiction after a warrant is issued, but before a surveillance device can be placed in the vehicle. S.Rep. No. 99-541, at 106(a) (1986).\nThe government points to a handful of cases in which courts have found that an \u201cinterception\u201d under Title III takes place at both the location of the listening post and at the location of a tapped phone. The government argues that in light of these cases, we should recognize that an issuing court has the power to authorize covert, trespassory entries onto private property, anywhere in the country, for purposes of placing surveillance equipment. The only jurisdictional limitation the government acknowledges is that the listening post must be located in the issuing court\u2019s jurisdiction.\nOf course, the statute does not refer to a \u201clistening post,\u201d and none of the cases cited by the government addresses the jurisdiction of the issuing court to authorize law enforcement officers to covertly place a listening device on private property. All of those cases addressed phone taps, and as the Seventh Circuit explained, \u201ca tap is not placed in the telephone handset itself; it is attached to the telephone line at some distance from the handset.\u201d United States v. Ramirez, 112 F.3d 849, 853 (7th Cir.1997); see also Olmstead v. United States, 277 U.S. 438, 464, 48 S.Ct. 564, 72 L.Ed. 944 (1928) (holding that a wiretap was not a search because \u201c[tjhere was no entry of the houses or offices of the defendants\u201d), overruled in part by Katz v. United States, 389 U.S. 347, 88 S.Ct. 507, 19 L.Ed.2d 576 (1967). Whatever the merits of those decisions, they do not address the issue before us.\nTo the extent that there is uncertainty over the proper interpretation of the statute, Rule 41 of the Federal Rules of Criminal Procedure, which partially implements the statute, is crystal clear. It states that \u201ca magistrate judge with authority in the district has authority to issue a warrant for a person or property outside the district if the person or property is located within the district when the warrant is issued but might move or be moved outside the district before the warrant is executed.\u201d Fed.R.Crim.P. 41(b)(2) (emphasis added). So, therefore, we have a warrant issued in our case which appears, on its face, to be in violation of the rule (and the statute).\nThe government\u2019s position regarding Rule 41 is, to put it kindly, rather confusing. Government counsel largely ignores the rule, but implicitly suggests that it is inconsistent with the statute, which, if true, would have presented us with a rather difficult problem. But as we have explained, Rule 41 and Title III are consistent in that they impose the same geographic limitations on warrants to install listening devices.\nThe government also argues that territorial jurisdiction is not a \u201ccore concern\u201d of Title III, and that therefore suppression is not the appropriate remedy for the violation in this case. But, as we explained supra, the Supreme Court has repeatedly made clear that the \u201ccore concerns\u201d test is a construction of the term \u201cunlawfully intercepted\u201d in paragraph (i), not paragraph (ii). Even if we thought that an inquiry into the core concerns of the statute were permitted under paragraph (ii), we would, nevertheless, agree with the Fifth Circuit, which recently held that territorial jurisdiction is a core concern of Title III. United States v. North, 728 F.3d 429, 437 (5th Cir.2013).\nNor do we think that the jurisdictional flaw in the warrant can be excused as a \u201ctechnical defect.\u201d It is true that several of our sister circuits have declined to hold paragraph (ii) violated because of technical errors. See, e.g., United States v. Moore, 41 F.3d 370, 375 (8th Cir.1994) (inadvertent failure of magistrate to sign order is a \u201cmere technical defect\u201d not warranting suppression); United States v. Traitz, 871 F.2d 368, 379 (3d Cir.1989) (inadvertent omission of one page of an order does not render the order insufficient on its face where the order still meets all statutory requirements). Even if we assume that an imperfect authorizing order could be thought facially sufficient, we do not see how a blatant disregard of a district judge\u2019s jurisdictional limitation can be regarded as only \u201ctechnical.\u201d\nThe government\u2019s last refuge is a plea that we recognize the government\u2019s \u201cgood faith\u201d and, therefore, import a good faith exception to Title Ill\u2019s remedy of suppression. The Supreme Court has done so regarding Fourth Amendment violations, see United States v. Leon, 468 U.S. 897, 911, 104 S.Ct. 3405, 82 L.Ed.2d 677 (1984), where there is no explicit textual remedy. Here, of course, Congress. has spoken: The statute requires suppression of evidence gathered pursuant to a facially insufficient warrant. See United States v. Rice, 478 F.3d 704, 711 (6th Cir.2007). In any event, it is quite a stretch to label the government\u2019s actions in seeking a warrant so clearly in violation of Rule 41 as motivated by \u201cgood faith.\u201d\nAs we noted, supra, we think the failure to preclude the truck bug evidence was not only error\u2014it was plain error. See In re Sealed Case, 573 F.3d at 851. Plain, because the language of Rule 41 is quite clear; indeed, the government\u2019s reluctance to come to grips with the language is, in that respect, quite revealing. And as we have explained, the statutory remedy is automatic. The last factor to be considered in plain error analysis\u2014whether the eiTor is prejudicial, and whether it seriously affected the \u201cfairness, integrity, or public reputation of judicial proceedings\u201d\u2014is in this case indisputable. United States v. Venable, 269 F.3d 1086, 1089 (D.C.Cir.2001). The truck bug recordings were, in the words of the prosecuting attorney at trial, some of the \u201cmost incriminating\u201d and \u201cmost powerful\u201d evidence at trial, and ther\u00e9 is a high likelihood that this evidence affected the outcome. See United States v. Saro, 24 F.3d 283, 287 (D.C.Cir.1994). Accordingly, appellants\u2019 convictions must be reversed.\nAppellants raise several additional arguments that would be relevant, assuming there is a new trial. Glover claims he was entitled to severance because Wright\u2019s defense strategy was to blame Glover; Wright\u2019s lawyer was, in effect, a \u201csecond\u201d \u201cprosecutor\u201d who actually told the jury Glover would \u201cget what\u2019s coming to him.\u201d Rule 14 of the Federal Rules of Criminal Procedure does permit a district judge to sever if a defendant appears to be prejudiced, but the question is left to the district judge\u2019s discretion in light of the \u201cstrong interests\u201d in favor of joint trials. See United States v. Celis, 608 F.3d 818, 844 (D.C.Cir.2010). And the Supreme Court has explicitly held that severance is not required merely because one defendant accuses another of committing the crime. See Zafiro v. United States, 506 U.S. 534, 539-41, 113 S.Ct. 933, 122 L.Ed.2d 317 (1993). (It is instead perhaps prejudicial when damaging evidence is either admissible against only one defendant or exculpatory evidence is available to only one defendant. Id. at 539, 113 S.Ct. 933.) It follows, therefore, that the district judge was well within his discretion in denying severance.\nThere remain two evidentiary issues. The district judge refused to allow defense counsel to point out to the jury that two persons with apparent knowledge of relevant events had not been called as a witness. In other words, the trial judge determined that appellants wished to make a \u201cmissing witness\u201d argument\u2014asking the jury to infer that a missing witness would have supported a party\u2019s version of events. Such an argument is only permitted after a showing that the one party (the government here) has the unique ability to produce the witness, a showing the defendants did not make. See United States v. Pitts, 918 F.2d 197, 199 (D.C.Cir.1990). Appellants argue that they were not really seeking to make a missing witness argument, instead only highlighting the lack of certain evidence. Their preferred label does not change the substance of their argument; it was a missing witness argument by another name. Of course, this issue could be revisited if there is a new trial.\nPerhaps more significant, Glover argues that the district court erred in admitting evidence of his PCP and heroin dealings as \u201cinextricably intertwined\u201d with evidence of the charged cocaine conspiracy. The conversations recorded by the truck bug did unquestionably include Glover describing plans to use revenues from the PCP-heroin dealing to fund the cocaine conspiracy, so we think they were legitimately described as inextricably intertwined. Although the precise contours of the inextricably intertwined doctrine are murky, see United States v. Bowie, 232 F.3d 923, 927-28 (D.C.Cir.2000), as to at least these recorded conversations, we think the district court\u2019s conclusion was correct. But that evidence would no longer be available at a new trial. Whether any equally probative evidence of the PCP-heroin dealings would be admissible is not really before us. If the government does attempt to introduce additional \u201cother crimes\u201d evidence at a retrial, we encourage the district court to address Rule 404(b) before applying the inextricably intertwined doctrine, as there is a \u201cdanger that finding evidence \u2018inextricably intertwined\u2019 may too easily slip from analysis to mere conclusion.\u201d Id. at 928.\nIII.\nFor the foregoing reasons, we reverse appellants\u2019 convictions and remand for a new trial.\nSo ordered.\n. Of course, there is inherent prejudice in loss of liberty, a factor that the district court properly noted.\n. 18 U.S.C. \u00a7 2510 et seq.\n. That motion was made in the PCP case. The earlier PCP case is relevant here because Judge Huvelle \u2014 who presided over the trial that led to the convictions in this case \u2014 stated that she would follow Judge Hogan's previous evidentiary rulings, that she would not consider arguments previously made, and that she would treat all previous arguments as preserved.\n. Presumably, the statute also permits a judge to authorize extensions to eavesdropping warrants after the vehicle has left the jurisdiction, so long as the listening device was lawfully placed.\n. See United States v. Luong, 471 F.3d 1107, 1109 (9th Cir.2006); United States v. Ramirez, 112 F.3d 849, 852-53 (7th Cir.1997); United States v. Denman, 100 F.3d 399, 403 (5th Cir.1996); United States v. Rodriguez, 968 F.2d 130, 136 (2d Cir.1992).\n. For reasons that elude us, the government also cites Dalia v. United States, 441 U.S. 238, 251-54, 99 S.Ct. 1682, 60 L.Ed.2d 177 (1979), which holds only that Title III permits the surreptitious placement of a listening device on private property. It has nothing to do with the authorizing judge's geographical jurisdiction.\n. We express no opinion on whether the defects in either of these cases should be viewed as merely technical.",
+        "type": "majority",
+        "author": "SILBERMAN, Senior Circuit Judge:"
+      }
+    ],
+    "attorneys": [
+      "Robert S. Becker, appointed by the court, argued the cause and filed the joint brief for appellant Jonathan Wright.",
+      "Adam H. Kurland, appointed by the court, argued the cause and filed the joint brief for appellant Lonnell Glover.",
+      "John P. Gidez, Assistant U.S. Attorney, argued the cause for appellee. With him on the brief were Ronald C. Machen Jr., U.S. Attorney, and Elizabeth Trosman, Suzanne Grealy Curt, Anthony F. Scarpelli, and John K. Han, Assistant U.S. Attorneys."
+    ],
+    "corrections": "",
+    "head_matter": "UNITED STATES of America, Appellee v. Lonnell GLOVER, Appellant.\nNos. 09-3087, 10-3048, 10-3066.\nUnited States Court of Appeals, District of Columbia Circuit.\nArgued Sept. 23, 2013.\nDecided Nov. 8, 2013.\nRobert S. Becker, appointed by the court, argued the cause and filed the joint brief for appellant Jonathan Wright.\nAdam H. Kurland, appointed by the court, argued the cause and filed the joint brief for appellant Lonnell Glover.\nJohn P. Gidez, Assistant U.S. Attorney, argued the cause for appellee. With him on the brief were Ronald C. Machen Jr., U.S. Attorney, and Elizabeth Trosman, Suzanne Grealy Curt, Anthony F. Scarpelli, and John K. Han, Assistant U.S. Attorneys.\nBefore: BROWN, Circuit Judge, and EDWARDS and SILBERMAN, Senior Circuit Judges."
+  },
+  "file_name": "0509-01",
+  "first_page_order": 535,
+  "last_page_order": 543
+}

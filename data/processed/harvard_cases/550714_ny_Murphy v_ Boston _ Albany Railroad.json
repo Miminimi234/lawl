@@ -1,0 +1,554 @@
+{
+  "id": 550714,
+  "name": "Catharine C. Murphy, as Administratrix, etc., Appellant, v. The Boston and Albany Railroad Company, Respondent",
+  "name_abbreviation": "Murphy v. Boston & Albany Railroad",
+  "decision_date": "1882-02-28",
+  "docket_number": "",
+  "first_page": "146",
+  "last_page": "153",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "88 N.Y. 146"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "N.Y.",
+    "id": 24653,
+    "name": "New York Court of Appeals"
+  },
+  "jurisdiction": {
+    "id": 1,
+    "name_long": "New York",
+    "name": "N.Y."
+  },
+  "cites_to": [
+    {
+      "cite": "81 N. Y. 516",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        2175357
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny/81/0516-01"
+      ]
+    },
+    {
+      "cite": "19 Hun, 216",
+      "category": "reporters:state",
+      "reporter": "Hun,",
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "287"
+        }
+      ],
+      "opinion_index": -1
+    },
+    {
+      "cite": "63 N. Y. 449",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        527213
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny/63/0449-01"
+      ]
+    },
+    {
+      "cite": "58 N. Y. 248",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        2158428
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "330"
+        }
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny/58/0248-01"
+      ]
+    },
+    {
+      "cite": "25 N. Y. 562",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        2031392
+      ],
+      "weight": 2,
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny/25/0562-01"
+      ]
+    },
+    {
+      "cite": "70 N. Y. 171",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        2166398
+      ],
+      "pin_cites": [
+        {
+          "page": "174"
+        }
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny/70/0171-01"
+      ]
+    },
+    {
+      "cite": "41 Wis. 478",
+      "category": "reporters:state",
+      "reporter": "Wis.",
+      "case_ids": [
+        11285463
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/wis/41/0478-01"
+      ]
+    },
+    {
+      "cite": "30 Wis. 675",
+      "category": "reporters:state",
+      "reporter": "Wis.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "28 Vt. 59",
+      "category": "reporters:state",
+      "reporter": "Vt.",
+      "case_ids": [
+        2355393
+      ],
+      "pin_cites": [
+        {
+          "page": "64"
+        }
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/vt/28/0059-01"
+      ]
+    },
+    {
+      "cite": "80 N. Y. 46",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        2173179
+      ],
+      "pin_cites": [
+        {
+          "page": "52"
+        }
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny/80/0046-01"
+      ]
+    },
+    {
+      "cite": "31 N. J. Law, 291",
+      "category": "reporters:state",
+      "reporter": "N.J.L.",
+      "pin_cites": [
+        {
+          "page": "298"
+        }
+      ],
+      "opinion_index": -1
+    },
+    {
+      "cite": "63 Penn. St. 147",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "110 Mass. 23",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "case_ids": [
+        2109429
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "25"
+        }
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/mass/110/0023-01"
+      ]
+    },
+    {
+      "cite": "42 N. J. Law, 467",
+      "category": "reporters:state",
+      "reporter": "N.J.L.",
+      "case_ids": [
+        359471
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "474"
+        }
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/njl/42/0467-01"
+      ]
+    },
+    {
+      "cite": "56 Barb. 151",
+      "category": "reporters:state",
+      "reporter": "Barb.",
+      "case_ids": [
+        2253012
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/barb/56/0151-01"
+      ]
+    },
+    {
+      "cite": "42 N. H. 225",
+      "category": "reporters:state",
+      "reporter": "N.H.",
+      "case_ids": [
+        4548333
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/nh/42/0225-01"
+      ]
+    },
+    {
+      "cite": "8 Allen, 441",
+      "category": "reporters:state",
+      "reporter": "Allen",
+      "case_ids": [
+        2120358
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "445"
+        }
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/mass/90/0441-01"
+      ]
+    },
+    {
+      "cite": "71 Mo. 66",
+      "category": "reporters:state",
+      "reporter": "Mo.",
+      "case_ids": [
+        451468
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/mo/71/0066-01"
+      ]
+    },
+    {
+      "cite": "45 Ill. 197",
+      "category": "reporters:state",
+      "reporter": "Ill.",
+      "case_ids": [
+        424991
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ill/45/0197-01"
+      ]
+    },
+    {
+      "cite": "26 Minn. 40",
+      "category": "reporters:state",
+      "reporter": "Minn.",
+      "case_ids": [
+        754249
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/minn/26/0040-01"
+      ]
+    },
+    {
+      "cite": "59 Penn. St. 239",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        426987
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/59/0239-01"
+      ]
+    },
+    {
+      "cite": "82 N. Y. 370",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        2177266
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny/82/0370-01"
+      ]
+    },
+    {
+      "cite": "48 Me. 113",
+      "category": "reporters:state",
+      "reporter": "Me.",
+      "case_ids": [
+        692796
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "116"
+        },
+        {
+          "page": "116, 117"
+        }
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/me/48/0113-01"
+      ]
+    },
+    {
+      "cite": "117 Mass. 407",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "case_ids": [
+        2136580
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/mass/117/0407-01"
+      ]
+    },
+    {
+      "cite": "56 N. Y. 124",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        519152
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny/56/0124-01"
+      ]
+    },
+    {
+      "cite": "106 Mass. 282",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "case_ids": [
+        715845
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "285"
+        }
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/mass/106/0282-01"
+      ]
+    },
+    {
+      "cite": "24 N. Y. 410",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        2029540
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "417"
+        },
+        {
+          "page": "414"
+        }
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny/24/0410-01"
+      ]
+    },
+    {
+      "cite": "66 Me. 420",
+      "category": "reporters:state",
+      "reporter": "Me.",
+      "case_ids": [
+        8845022
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "425, 426"
+        }
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/me/66/0420-01"
+      ]
+    },
+    {
+      "cite": "34 N. J. Law, 151",
+      "category": "reporters:state",
+      "reporter": "N.J.L.",
+      "case_ids": [
+        384322
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "154"
+        }
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/njl/34/0151-01"
+      ]
+    },
+    {
+      "cite": "10 Gray, 275",
+      "category": "reporters:state",
+      "reporter": "Gray",
+      "opinion_index": -1
+    },
+    {
+      "cite": "81 N. Y. 216",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "49 N. Y. 521",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        2057471
+      ],
+      "pin_cites": [
+        {
+          "page": "528, 529"
+        }
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny/49/0521-01"
+      ]
+    },
+    {
+      "cite": "58 N. Y. 451",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        2158454
+      ],
+      "pin_cites": [
+        {
+          "page": "455"
+        }
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny/58/0451-01"
+      ]
+    },
+    {
+      "cite": "53 N. Y. 550",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "80 N. Y. 46",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        2173179
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny/80/0046-01"
+      ]
+    },
+    {
+      "cite": "49 N. Y. 521",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        2057471
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny/49/0521-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 781,
+    "char_count": 16538,
+    "ocr_confidence": 0.516,
+    "pagerank": {
+      "raw": 7.247650064586926e-07,
+      "percentile": 0.9679629970704856
+    },
+    "sha256": "4208c4066c8216020adb0bba7ba2b1c39d733bd3735c8838de12a76c7030f081",
+    "simhash": "1:b523f3ca935316ec",
+    "word_count": 2955
+  },
+  "last_updated": "2024-02-27T18:19:55.831084+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Catharine C. Murphy, as Administratrix, etc., Appellant, v. The Boston and Albany Railroad Company, Respondent."
+    ],
+    "opinions": [
+      {
+        "text": "Andrews, Ch. J.\nThe boiler of the defendant\u2019s locomotive \u201c Sacramento \u201d exploded while in the repair shop of the company, at East Albany, on the 6th of August, 1879, killing Francis Murphy, the plaintiff\u2019s intestate, and one Smith, who were engaged at the time, by the direction of the master-mechanic of the shop, in setting the safety-valve, so as to allow a pressure, in the boiler, of one hundred and thirty-three pounds to the square inch, which was the highest limit of steam permitted in the use of locomotives on the road. The locomotive was taken to the shop for repairs about two weeks before the explosion, having been reported by the engineer as pounding in the driving-boxes, leaking, etc. It was the rule of the shop, known to all the employes, that when an engine came into the shop for repairs, all defects reported should be- repaired and an examination made to see if any other defects could be discovered, and if there were any of a slight nature, they should be repaired first, and reported afterward; but if of a serious nature>they were to be reported first and repaired afterward. In the ordinary course, a locomotive sent to the shop for repairs was first put into the hands of the boiler-makers for the examination and repair of the boiler, then into the hands of the machinists, and finally into the hands of mechanics to set the safety-valve, which was the last thing to be done before the locomotive was sent on to the road. This last work was usually committed to the intestate and Smith, who were mechanics and had for several years been employed in the repair shop, and who, when the particular work of setting the safety-valve of a locomotive was to be done, were assigned to this duty. On examination of the locomotive \u201c Sacramento \u201d after the explosion, it was found that twenty of the stay-bolts on the right side of the boiler were broken, the fractures being apparently old, and the right side sheet near the mud-rmg, which was originally five-sixteenths of an inch in thickness, had been channeled, or worn down to one-sixteenth of an inch. The evidence tended to show that the explosion was attributable to these defects, which rendered the boiler incapable of sustaining-the pressure directed to be put upon it, and that the defects would have been discovered by the boiler-makers, if they had performed their duty to make thorough inspection of the boiler, with a view to ascertain whether any defects existed. The judge non-suited the plaintiff, and it must be assumed that the negligence of the boiler-makers, was one of the efficient causes of the accident. The boiler-makers were competent and skilled mechanics, and they had reported to the master-mechanic that the locomotive was \u201c ah right,\u201d before the intestate and Smith were directed to set the valve; the intestate and Smith had no notice of the defects in the boiler.\n\"Upon these facts the question arises, whether the company is liable for the death of Murphy, resulting from the negligence, primarily, of the boiler-makers. They, and the intestate, were co-servants of the defendant, and it is the general rule of law that, the master is not responsible to one servant for an injury occasioned by the negligence of a co-servant of the common employer. To this rule there are two well-defined exceptions: first, where the servant, whose negligence caused the injury, was an unfit and incompetent person to be intrusted with the duty to which he was assigned, and the accident resulted from his incompetency and unfitness (Laming v. N. Y. Central Railroad Co., 49 N. Y. 521); second, where the accident resulted from unsafe and imperfect machinery and appliances, furnished for the use of the servant in the master\u2019s business. (Laning v. N. Y. Central Railroad Co., supra; Flike v. Boston & Albany R. R. Co., 53 N. Y. 550; Fuller v. Jewett, 80 id. 46.)\nThese exceptions, however, are subject to the qualification that the duty imposed upon the master to employ competent servants, and furnish fit and safe machinery, is not absolute, but relative. The master does not guaranty either the competency of the co-servants, or the safety of the machinery and appliances. He undertakes to use due and reasonable care in both respects, and that there shall\" be no negligence on his part or on the part of any person intrusted by him with the business of employing servants and providing safe machinery, etc. It is plain that the master\u2019s liability, if sustained in this case, rests upon the second exception stated, viz.: the negligent furnishing of an unsafe machine for the use of the intestate. The competency of the .boiler-makers and machinists employed in repairing the locomotive before it came to the hands of the intestate and Smith, is not questioned. The rules of the shop were comprehensive, and required a full examination by the boiler-makers and machinists, to discover defects. Their negligence is not a ground of action against the master, unless as between the intestate and the master, it was the master\u2019s duty to ascertain before the intestate and Smith were put to setting the valve, that the boiler was safe and would bear the required pressure. We think this case is not within the principle which holds the master responsible for unsafe machinery furnished for the use of the servant. The case of Fuller v. Jewett (80 N. Y. 46) is a distinct authority for the proposition, that if this locomotive had been sent out from the shop, and afterward exploded while in use on the defendant\u2019s road, injuring the engineer or other servants of the defendant, the company would have been responsible. The negligence of the boilermakers in the case supposed, would be regarded as the negligence of the master. The risk of the negligence of the repairers and machinists, would not be considered one of the risks which a servant in whose hands the machine was subsequently placed for use, had assumed. The placing of the locomotive on the road for use would be an assurance that it was fit and safe; and an engineer, or other servant employed on the train, could not be supposed to have known the condition of the locomotive, or whether the men employed to make repairs were competent, or the manner in which the work had been done. In this case Murphy was not, we think, a servant, in whose hands the locomotive was placed by the defendant for use, within the principle of Fuller v. Jewett, and like cases. The locomotive was sent to the repair-shop in order that it might be made fit for use. The mechanics in the repair-shop, including the intestate, were employed for the purpose of repairing defective locomotives. The intestate and his co-laborers in the shop were engaged in the same department of service, worked under the same control, and in the case in question, the boilermakers and the other mechanics were employed to effect the same object, viz.: the reparation of the \u201c Sacramento.\u201d It is true that the work was done in successive stages, and different parts of the work were intrusted to different persons. The refitting of the valve and its adjustment to the required pressure, were the last things to be done. This work was, however, as necessary in fitting the locomotive for use, as the work of the boiler-makers or machinists. The intestate had an opportunity to inform himself of the competency of his co-servants in the shop. He doubtless supposed that the boilermakers had performed their duty; unfortunately they had neglected it. But we think the risk of their negligence was one of the risks he assumed, as incident to his employment in the common service. It would be too close a construction, to hold that the repairs were completed when his work 'commenced, and that the settng of the valve was an independent and disconnected service in respect to amachine put into his hands by the company for use. This claim of the plaintiff\u2019s counsel would make the master responsible to each successive employe engaged on the repairs for any negligence of a co-employe, whose work was prior in point of time, although done in effecting the common purpose in which all were engaged. This would we think be extending the liability of the master further than is warranted by the adjudged cases.\nThe case is not free from difficulty, but we are of opinion that the nonsuit was properly granted, and the judgment should, therefore, be affirmed.\nAll concur, except Traoy, J., absent.\nJudgment affirmed.",
+        "type": "majority",
+        "author": "Andrews, Ch. J."
+      }
+    ],
+    "attorneys": [
+      "E. Countryman for appellant.",
+      "Hamilton Harris for respondent."
+    ],
+    "corrections": "",
+    "head_matter": "Catharine C. Murphy, as Administratrix, etc., Appellant, v. The Boston and Albany Railroad Company, Respondent.\nIn an action to recover damages for alleged negligence causing the death of M., plaintiff's intestate, it appeared that M. was employed as a mechanic in defendant's repair shop. By the rules of the shop, known to all the employes, when a locomotive was sent to the shop for repairs, aside from repairing defects reported, a thorough examination was required to be made, to discover and repair other defects, if any. The ordinary course of business was to put the locomotive into the hands of the boiler-makers for examination and repairs, then into the hands of machinists, and finally it was turned over to mechanics to set the safety-valve ; this last work was usu'ally committed to M. and another. While1 they were engaged in setting the safety-valve of a locomotive, which had passed through this course, the boiler exploded, and M. was killed. The explosion was caused, as the evidence tended to show, by defects in the boiler, which would have been discovered had the boiler-makers performed their duty. Those employed in the shop were competent and skillful mechanics ; they had reported to the master-mechanic that the locomotive was \u201callright.\u201d Held, that plaintiff was properly non-suited, as the death of M. was caused by the negligence of his co-servants ; that the case was not within the principle, holding the master responsible for unsafe machinery furnished for the use of the employe, as the locomotive was not placed in his hands for use.\nPuller v. e7\"eroe\u00ed\u00ed(80N. Y. 46), distinguished.\n(Argued January 24, 1882;\ndecided February 28, 1882.)\nAppeal from judgment of the G-eneral Term of the Supreme Court, in the third judicial department; in favor of defendant, entered upon an order made February 11, 1881, denying a motion for a new trial, and directing judgment on an order nonsuiting plaintiff on trial.\nThis action was brought to recover damages for the alleged negligence of defendant causing the death of Francis Murphy, plaintiff\u2019s intestate.\nE. Countryman for appellant.\nOn a question of negligence arising upon a nonsuit, all disputed facts are to be decided in favor of the plaintiff, and all presumptions and inferences, which he had a right to ask from the jury, are to be conceded to him. (Cook v. N. Y. C. R. R. Co., 1 Abb. Ct. of App. Dec. 432, 433; Bernhard v. R. & S. R. R. Co., id. 131, 134; Weber v. N. Y. C. ds H. R. R. R. Co., 58 N. Y. 451, 455; Ernst v. Hudson R. R. R. Co., 35 id. 10, 40; Morrison v. N. Y. C. & H. R. R. R. Co., 63 id. 643.) A master is liable to a servant for his (the master\u2019s) negligence, or want of care and prudence, occasioning injury and damage to the servant. Such negligence may be shown in the mismanagement of the master\u2019s affairs in the furnishing of improper and unsafe machinery, implements, facilities or materials for the use or labor of the servant. (Laning v. N. Y. C. & H R. R. R. Co., 49 N. Y. 521, 528, 529; Kirkpatrick v. N. Y. C. & H. R. R. R. Co., 79 id. 240; Fuller v. Jewett, 80 id. 46; Kain v. Smith, id. 458; Flike v. B. & A. R. R. Co., 53 id. 550, 553; Booth v. B. & A. R. R. Co., 73 id. 38, 42; Crispin v. Babbitt, 81 id. 516; Hough v. Railway Co., 10 Otto, 213; Cone v. D. L. & W. R. Co., 81 N. Y. 216; Cayzer v. Taylor, 10 Gray, 275: Paulmier v. Erie R. Co., 34 N. J. Law, 151; Shanny v. Androscoggin Mills, 66 Me. 420.) This principle applies, not merely to implements and machinery furnished to the servant in the course of his employment, but as well to all means, materials and facilities supplied by the master to enable the servant to perform the duties required of him. (Ryan v. Fowler, 24 N. Y. 410; Huddleston v. Lowell Machine Shop, 106 Mass. 282; Metzer v. Hennare, 12 N. Y. Week. Dig. 181; Coughtry v. Globe Woolen Co., 56 N. Y. 124; Ackerson v. Dennison, 117 Mass. 407; Buzzell v. Laconia Manuf. Co., 48 Me. 113; Hawley v. Northern Cent. R. Co., 82 N. Y. 370; O'Donnell v. Alleghany, etc., R. Co., 59 Penn. St. 239; Drymola v. Thompson, 26 Minn. 40; Chicago, etc., R. Co. v. Swett, 45 Ill. 197; Paulmier v. Erie R. Co., 34 N. J. Law, 151; Porter v. Hannibal, etc., R. Co., 71 Mo. 66; Lewis v. St. Louis, etc., R. Co., 59 id. 495; Snow v. Housatonic, etc., R. Co., 8 Allen, 441; Fifield v. Northern R. Co., 42 N. H. 225; Spelmam v. Fisher Iron Co., 56 Barb. 151; Smith v. Oxford Iron Co., 42 N. J. Law, 467; Shanny v. Androscoggin Mills, 66 Me. 420; Clark v. Holmes, 7 Hurl. & N. 937; Walsh v. Peet Valve Co., 110 Mass. 23; Ardesco Oil Co., v. Gibson, 63 Penn. St. 147; Ryan v. Fowler, 24 N. Y. 410, 417; Snow v. Housatonic R. Co., 8 Allen, 441, 445; Smith v. Oxford Iron Co., 42 N. J. Law, 467, 474; Buzzell v. Laconia Manuf. Co., 48 Me. 113, 116; Harrison v. Central R. R. Co., 31 N. J. Law, 291, 298; Fuller v. Jewett, 80 N. Y. 46, 52; Crispin v. Babbitt, 81 id. 516, 521.) The defendant is also liable for this injury, on the. principle that an employer or owner of - property is bound to exercise vigilance and care to protect another in his employment or properly on his premises, from perils or dangers of which the latter is ignorant and has no reason to anticipate. (Cooley on Torts, 550, 551; Noyes v. Smith, 28 Vt. 59, 64; Ryan v. Fowler, 24 N. Y. 410, 414; Coughtry v. Globe Woolen Co., 56 id. 124; Strahlendorf v. Rosenthal, 30 Wis. 675; Patterson v. Wallace, 28 Eng. Law & Eq. 48, 51; Huddleston v. Lowell Machine Shop, 106 Mass. 282, 285; Buzzell v. Laconia Manuf. Co., 48 Me. 113, 116, 117; Paulmier v. Erie R. Co., 34 N. J. Law, 151, 154; Hough v. Railway Co., 10 Otto, 214,217; Wedgewood v. Chicago, etc., R. Co., 41 Wis. 478.) If the death of the deceased was caused by defective and unsafe machinery, materials, appliances or facilities furnished by the master to enable him to obey its directions, while in its service, and the master knew, or ought to have known, their actual condition, it is no defense that such machinery, materials, appliances or facilities were defective and unsafe through the negligence of' his co-employes. (Bissel Case, 70 N. Y. 171, 174; McCosker Case, 84 id. 77, 82; Crispin v. Babbitt, 81 id. 516; Ardesco Oil Co. v. Gilson, 63 Penn. St. l46, Walsh v. Peet Valve Co., 110 Mass. 23, 25; Shanny v. Androscoggin Mills, 66 Me. 420, 425, 426; Clark v. Holmes, 7 Hurlst. & Norm. 937; Watling v. Ostler, L. R., 6 Exch. 73.)\nHamilton Harris for respondent.\nThe law exempts the common master from liability to one servant for injuries caused by the negligence of a fellow-servant in the same employmei (Wright v. N. Y. C. R. R. Co., 25 N. Y. 562; Warner v. Erie R. Co., 39 id. 468 ; Laning v. N. Y. C. & H. R. R. R. Co., 49 id. 528; Hofnagle v. N. Y. C. & H. R. R. R. Co., 55 id. 608; Besel v. N. Y. C. & H. R. R. R. Co., 70 id. 171; Crispin v. Babbitt, 81 id. 516; McCosker v. L. I. R. R. Co., 84 id. 77; Slater v. Jewett, Rec'r, etc., 85 id. 21.) The deceased was bound to exercise ordinary observation and care. In not doing so he was negligent, and his negligence contributed to the injury. (Reynolds v. N. Y. C. & H. R. R. R. Co., 58 N. Y. 248; Cordell v. N. Y. C. & H. R. R. R. Co., 75 id. 330; Kellogg v. N. Y. C. & H. R. R. R. Co., 79 id. 72.) The deceased, having engaged in the service of defendant to repair disabled locomotives, with full knowledge 'of the risks of the work, assumed the risks and dangers incident to the business in which he was engaged. (Gibson v. Erie Railway Co., 63 N. Y. 449; De Graff v. N. Y. C. &. R. R. R. Co., 76 id. 129; Painton v. N. Y. C. & H. R. R. R. Co., 83 id. 7; Barrenger v. D. & H. C. Co., 19 Hun, 216; Gibson v. Northern C. R. R. Co., 22 id. 287; Marvin v. Muller, 13 N. Y. Weekly Digest, 41.) The negligence of the co-laborers of the deceased upon the locomotive in no way reflected upon the foreman and superintendent of the shop who had a right to assume the fidelity and thoroughness of their work, and the truthfulness of their report, that all the defects in the engine had been repaired and that the same was ready for use. (Crispin v. Babbitt, 81 N. Y. 516; McCosker v. L. I. R. R. Co., 84 id. 77.)"
+  },
+  "file_name": "0146-01",
+  "first_page_order": 174,
+  "last_page_order": 181
+}

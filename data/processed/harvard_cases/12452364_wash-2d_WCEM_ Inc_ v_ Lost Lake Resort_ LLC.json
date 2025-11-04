@@ -1,0 +1,78 @@
+{
+  "id": 12452364,
+  "name": "WCEM, Inc., Petitioner, v. Lost Lake Resort, LLC, Respondent",
+  "name_abbreviation": "WCEM, Inc. v. Lost Lake Resort, LLC",
+  "decision_date": "2017-03-29",
+  "docket_number": "No. 93921-7",
+  "first_page": "1026",
+  "last_page": "1026",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "187 Wash. 2d 1026"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Wash.",
+    "id": 9029,
+    "name": "Washington Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 38,
+    "name_long": "Washington",
+    "name": "Wash."
+  },
+  "cites_to": [
+    {
+      "cite": "196 Wn. App. 1045",
+      "category": "reporters:state",
+      "reporter": "Wash. App.",
+      "case_ids": [
+        12461778,
+        12461779,
+        12461780,
+        12461781
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-app/196/1045-01",
+        "/wash-app/196/1045-02",
+        "/wash-app/196/1045-03",
+        "/wash-app/196/1045-04"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 32,
+    "char_count": 210,
+    "ocr_confidence": 0.885,
+    "sha256": "d3de692cfb29a7ceb9f5ed9a6e648e27dd9eedfe9a6bba6f29d9083c84a24335",
+    "simhash": "1:efb90a1b256161ac",
+    "word_count": 35
+  },
+  "last_updated": "2024-02-27T20:27:34.476040+00:00",
+  "provenance": {
+    "date_added": "2019-05-21",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "WCEM, Inc., Petitioner, v. Lost Lake Resort, LLC, Respondent,"
+    ],
+    "opinions": [
+      {
+        "text": "Petition for review of a decision of the Court of Appeals, No. 47500-6-II, November 1, 2016, 196 Wn. App. 1045. Denied March 29, 2017.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "WCEM, Inc., Petitioner, v. Lost Lake Resort, LLC, Respondent,\nNo. 93921-7."
+  },
+  "file_name": "1026-06",
+  "first_page_order": 994,
+  "last_page_order": 994
+}

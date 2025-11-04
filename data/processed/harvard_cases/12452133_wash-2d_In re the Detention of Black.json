@@ -1,0 +1,397 @@
+{
+  "id": 12452133,
+  "name": "In the Matter of the Detention of Mark Black",
+  "name_abbreviation": "In re the Detention of Black",
+  "decision_date": "2016-12-15",
+  "docket_number": "No. 92332-9",
+  "first_page": "148",
+  "last_page": "156",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "187 Wash. 2d 148"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Wash.",
+    "id": 9029,
+    "name": "Washington Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 38,
+    "name_long": "Washington",
+    "name": "Wash."
+  },
+  "cites_to": [
+    {
+      "cite": "634 P.2d 868",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1981,
+      "opinion_index": 0
+    },
+    {
+      "cite": "96 Wn.2d 215",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        1157494
+      ],
+      "year": 1981,
+      "pin_cites": [
+        {
+          "page": "226"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/96/0215-01"
+      ]
+    },
+    {
+      "cite": "372 P.3d 755",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2016,
+      "pin_cites": [
+        {
+          "parenthetical": "citing State v. Williams, 96 Wn.2d 215, 226, 634 P.2d 868 (1981)"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "185 Wn.2d 412",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        12456838
+      ],
+      "year": 2016,
+      "pin_cites": [
+        {
+          "page": "427",
+          "parenthetical": "citing State v. Williams, 96 Wn.2d 215, 226, 634 P.2d 868 (1981)"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/185/0412-01"
+      ]
+    },
+    {
+      "cite": "470 U.S. 522",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11299581
+      ],
+      "weight": 5,
+      "year": 1985,
+      "pin_cites": [
+        {
+          "page": "526"
+        },
+        {
+          "parenthetical": "internal quotation marks omitted"
+        },
+        {
+          "page": "526"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/470/0522-01"
+      ]
+    },
+    {
+      "cite": "868 P.2d 835",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1994,
+      "pin_cites": [
+        {
+          "parenthetical": "citing United States v. Gagnon, 470 U.S. 522, 526, 105 S. Ct. 1482, 84 L. Ed. 2d 486 (1985)"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "123 Wn.2d 296",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        812805
+      ],
+      "year": 1994,
+      "pin_cites": [
+        {
+          "page": "306",
+          "parenthetical": "citing United States v. Gagnon, 470 U.S. 522, 526, 105 S. Ct. 1482, 84 L. Ed. 2d 486 (1985)"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/123/0296-01"
+      ]
+    },
+    {
+      "cite": "246 P.3d 796",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2011,
+      "opinion_index": 0
+    },
+    {
+      "cite": "170 Wn.2d 874",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        4013239
+      ],
+      "year": 2011,
+      "pin_cites": [
+        {
+          "page": "883"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/170/0874-01"
+      ]
+    },
+    {
+      "cite": "304 U.S. 458",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        10805
+      ],
+      "weight": 3,
+      "year": 1938,
+      "pin_cites": [
+        {
+          "page": "464"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/304/0458-01"
+      ]
+    },
+    {
+      "cite": "872 P.2d 1097",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1994,
+      "pin_cites": [
+        {
+          "parenthetical": "citing Johnson v. Zerbst, 304 U.S. 458, 464, 58 S. Ct. 1019, 82 L. Ed. 1461 (1938)"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "123 Wn.2d 877",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        812769
+      ],
+      "year": 1994,
+      "pin_cites": [
+        {
+          "page": "880",
+          "parenthetical": "citing Johnson v. Zerbst, 304 U.S. 458, 464, 58 S. Ct. 1019, 82 L. Ed. 1461 (1938)"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/123/0877-01"
+      ]
+    },
+    {
+      "cite": "691 P.2d 957",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1984,
+      "opinion_index": 0
+    },
+    {
+      "cite": "103 Wn.2d 203",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        1134126
+      ],
+      "year": 1984,
+      "pin_cites": [
+        {
+          "page": "208-09"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/103/0203-01"
+      ]
+    },
+    {
+      "cite": "881 P.2d 979",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1994,
+      "pin_cites": [
+        {
+          "parenthetical": "citing City of Bellevue v. Acrey, 103 Wn.2d 203, 208-09, 691 P.2d 957 (1984)"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "124 Wn.2d 719",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        507076
+      ],
+      "year": 1994,
+      "pin_cites": [
+        {
+          "page": "724-25",
+          "parenthetical": "citing City of Bellevue v. Acrey, 103 Wn.2d 203, 208-09, 691 P.2d 957 (1984)"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/124/0719-01"
+      ]
+    },
+    {
+      "cite": "366 P.3d 1243",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2016,
+      "opinion_index": 0
+    },
+    {
+      "cite": "185 Wn.2d 1002",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        12456865,
+        12456866,
+        12456867,
+        12456868,
+        12456869,
+        12456870,
+        12456871,
+        12456872
+      ],
+      "year": 2016,
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/185/1002-01",
+        "/wash-2d/185/1002-02",
+        "/wash-2d/185/1002-03",
+        "/wash-2d/185/1002-04",
+        "/wash-2d/185/1002-05",
+        "/wash-2d/185/1002-06",
+        "/wash-2d/185/1002-07",
+        "/wash-2d/185/1002-08"
+      ]
+    },
+    {
+      "cite": "357 P.3d 91",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2015,
+      "opinion_index": 0
+    },
+    {
+      "cite": "189 Wn. App. 641",
+      "category": "reporters:state",
+      "reporter": "Wash. App.",
+      "case_ids": [
+        6779630
+      ],
+      "year": 2015,
+      "pin_cites": [
+        {
+          "page": "654"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-app/189/0641-01"
+      ]
+    },
+    {
+      "cite": "938 P.2d 362",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "weight": 3,
+      "year": 1997,
+      "opinion_index": 0
+    },
+    {
+      "cite": "86 Wn. App. 791",
+      "category": "reporters:state",
+      "reporter": "Wash. App.",
+      "case_ids": [
+        1278626
+      ],
+      "year": 1997,
+      "pin_cites": [
+        {
+          "page": "792"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-app/86/0791-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 800,
+    "char_count": 14221,
+    "ocr_confidence": 0.89,
+    "pagerank": {
+      "raw": 5.66097509964652e-08,
+      "percentile": 0.35288833441640804
+    },
+    "sha256": "05996e35cf88c7aeb9aa47193224fe6301b1840aa85b9430b3aa671c8892eb30",
+    "simhash": "1:2804aa70131f097b",
+    "word_count": 2389
+  },
+  "last_updated": "2024-02-27T20:27:34.476040+00:00",
+  "provenance": {
+    "date_added": "2019-05-21",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Madsen, C.J.; Johnson, Owens, Stephens, Wiggins, Gordon McCloud, and Yu, JJ.; and Siddoway, J. Pro Tem., concur."
+    ],
+    "parties": [
+      "In the Matter of the Detention of Mark Black."
+    ],
+    "opinions": [
+      {
+        "text": "Gonz\u00e1lez, J.\n\u00b61 Mark Black challenges his commitment as a sexually violent predator under chapter 71.09 RCW. He contends that his commitment must be vacated because he was not present when some potential jurors were questioned individually in open court about their prior experiences with sexual abuse. Based on the record before us, we conclude Black waived his right to be present while jurors were individually questioned about these sensitive subjects. Accordingly, we reverse the Court of Appeals and remand to that court for further proceedings consistent with this opinion.\nFacts\n\u00b62 In 2004, Black was convicted of molesting one 13-year-old and of attempting to molest a 12-year-old. Both children were friends with Black\u2019s fianc\u00e9e\u2019s daughter. It was not Black\u2019s first conviction for sexual crimes against children; in 1996, he was convicted of raping his 13-year-old stepdaughter and, in a separate case, he pleaded guilty to raping a 14-year-old he had met over the Internet. State v. Black, 86 Wn. App. 791, 792, 938 P.2d 362 (1997).\n\u00b63 While Black was serving his 2004 sentence, he was evaluated to determine whether he met the criteria for commitment as a sexually violent predator. During that evaluation, Black reported that as an adult, he had repeated sexual contact with young teenagers for which he was never charged and \u201creadily admitted he knew he was grooming the young girls\u201d for sexual exploitation. Clerk\u2019s Papers (CP) at 32.\n\u00b64 The evaluator interviewed several of Black\u2019s adult sexual partners who reported Black had repeatedly violently raped and assaulted them. One woman, B.D., was hurt enough that she went to the hospital with head and rib injuries. B.D. told the evaluator that Black did not want her to go and \u201cmade her concoct a story to tell\u201d about her injuries and that he became more violent after that incident. CP at 36. Black acknowledged striking and choking many of his sexual partners but contended it was consensual. The evaluator diagnosed Black with sexual sadism, paraphilia with persistent sexual interest in pubescent-aged females, and a personality disorder with antisocial and narcissistic characteristics. The evaluator also concluded that Black \u201cwas unable to resist the opportunity to reoffend.\u201d CP at 51. In 2011, as Black\u2019s criminal sentence neared its end, the State filed a petition to commit him as a sexually violent predator.\n\u00b65 At the start of Black\u2019s trial, the jurors were given a questionnaire designed to determine whether they were qualified to sit on Black\u2019s three-week special commitment trial. The questionnaires are not in the record, but the record suggests they were designed to determine whether potential jurors would have difficulty sitting on a case that would require consideration of sexual violence and child molestation, and to offer the jurors an opportunity to speak privately about those difficulties. During preliminary motions, while discussing the logistics of selecting the jury from a large panel in a small room, defense counsel said:\n[W]e are planning for Mr. Black to arrive on the second day of trial. So the first day, which the jurors may want to speak to us privately, he wouldn\u2019t have to be here for that. I think that can also help them be more open and honest about their history without having the person here accused of something like that. So our hope was to address those that first day, so that can be taken care of.\nVerbatim Tr. of Proceedings (VTP) (Sept. 26, 2013) at 43. The court responded, \u201cThat certainly makes sense.\u201d Id. Later, at the eve of trial, defense counsel again recommended \u201caddress [ing] individual jurors while Mr. Black isn\u2019t here ... so we can do that without Mr. Black hearing the personal information.\u201d VTP (Oct. 17, 2013) at 96-97. We can infer that Black\u2019s attorney was reasonably concerned about the prejudicial effect of having Black present in the courtroom while jurors were asked difficult questions about sexual violence. The State did not object and suggested handling hardship excus\u00e1is at the same time. While the record is not a model of clarity, it demonstrates, and Black does not dispute, that he waived his appearance at least on the first day of voir dire, Monday, October 21, 2013.\n\u00b66 So many jurors asked to speak privately about the matters raised in the questionnaire that individual voir dire was not finished by the end of the first day. The court and counsel had expected Black to be in court the next day, October 22, 2013. Unfortunately, the jail did not transport him and, when called by the judge, reported it could not do so that day. The record is somewhat unclear on what happened at this point. The clerk\u2019s minutes report that off the record and before individual voir dire began, \u201cCounsel states that Defendant has not been brought up from the jail, even though he did not waive his presence from this point forward.\u201d CP at 1430. This notation contains the glimmerings of an objection. But the formal record as reflected in the VTP reveals no objection before individual voir dire resumed. Instead, the transcript reports that after expressing understandable frustration that Black had not been transported, the court returned to the individual voir dire of the last five jurors who had asked to speak privately. During this individual voir dire, several potential jurors were excused.\n\u00b67 After individual voir dire was finished, the court and counsel had a brief discussion about whether some other jurors should be dismissed. Afterward, defense counsel suggested excusing the voir dire panel for the day. The clerk\u2019s minutes record this as a motion. The judge suggested instead that Black waive his presence for jury selection that day \u201cso we could move the case along.\u201d VTP (Oct. 22, 2013) at 51 (jury voir dire). Defense counsel responded:\nYour Honor, I don\u2019t think that would be feasible for him. We discussed that with the peremptories. But I think the for cause, he did not feel comfortable waiving the other\u2014we [can] go talk to him if the Court wants, but I think it would ... be better for the jury to see him at some point before it\u2019s actually picked. You know, somebody may recognize him.\nId. The trial court again expressed frustration that the trial could not go forward and that jurors\u2019 time was wasted because Black had not been transported, but concurred with counsel that Black had a right to be present for the general voir dire and effectively granted the defense\u2019s motion. The judge brought the panel back in the courtroom, explained that jury selection could not be finished that day, excused a few jurors for hardships, and excused the rest of the panel for the day. A few potential jurors asked to speak to the court about their individual concerns about serving on the jury. Black\u2019s counsel did not object, and several of these jurors were dismissed. Jury selection resumed the next court day with Black present. After a two-week trial, the jury concluded the State had proved its case.\n\u00b68 Black appealed on several grounds. The Court of Appeals concluded that Black had a due process right to be present during jury selection and that the right had been violated, and reversed and remanded for a new trial. In re Det. of Black, 189 Wn. App. 641, 654, 357 P.3d 91 (2015). It did not decide Black\u2019s remaining issues. Id. at 658-59. Both the State and Black petitioned for review. We granted the State\u2019s petition and denied Black\u2019s. 185 Wn.2d 1002, 366 P.3d 1243 (2016).\nAnalysis\n\u00b69 Black contends that the criminal defendant\u2019s right to be present during jury selection extends to those facing civil commitment as sexually violent predators, that this right was violated, and that his civil commitment must be vacated. The State contends that Black failed to preserve any error on the record, that the criminal defendant\u2019s right to be present at every critical stage of trial does not extend to civil commitment proceedings, and that Black failed to show that his right to due process was offended by his absence from the conclusion of individual questioning of jurors.\n\u00b610 The extent to which the contours of a criminal defendant\u2019s right to be present at every critical stage of jury selection extends to someone facing civil commitment as a sexually violent predator merits serious consideration. This, however, is not the case for us to answer that question. The absence of a clear contemporaneous objection deprives us of a good record on which to make that decision. More importantly, we are satisfied that the second day of individual voir dire was within the substantive scope of Black\u2019s waiver.\n\u00b611 In general, constitutional rights can be waived by a knowing, voluntary, and intelligent act. State v. Stegall, 124 Wn.2d 719, 724-25, 881 P.2d 979 (1994) (citing City of Bellevue v. Acrey, 103 Wn.2d 203, 208-09, 691 P.2d 957 (1984)). Specifically, the right to be present may be knowingly and voluntarily waived. State v. Thomson, 123 Wn.2d 877, 880, 872 P.2d 1097 (1994) (citing Johnson v. Zerbst, 304 U.S. 458, 464, 58 S. Ct. 1019, 82 L. Ed. 1461 (1938)). There is no dispute that Black\u2019s decision to waive his presence on the first day of voir dire qualifies as a knowing, voluntary, and intelligent act. At least two times, defense counsel urged the court to conduct individual voir dire out of Black\u2019s presence in order to foster an environment of candor during individual questioning of jurors about often agonizingly difficult subjects. VTP (Sept. 26, 2013) at 43; VTP (Oct. 17, 2013) at 96-97. This case is complicated by the fact that Black did not voluntarily absent himself on the second day of jury selection, which might normally be fatal to the State\u2019s case. See, e.g., State v. Irby, 170 Wn.2d 874, 883, 246 P.3d 796 (2011). But we have found no case, and none has been called to our attention, where someone in Black\u2019s position urged for a portion of jury selection to be conducted out of his presence, incorrectly anticipating both that the portion of jury selection would be finished in one day and that he would be present the next. In such a circumstance, we must look to the nature of the waiver and the nature of the right. \u201cThe core of the constitutional right to be present is the right to be present when evidence is being presented.\u201d In re Pers. Restraint of Lord, 123 Wn.2d 296, 306, 868 P.2d 835 (1994) (citing United States v. Gagnon, 470 U.S. 522, 526, 105 S. Ct. 1482, 84 L. Ed. 2d 486 (1985)). \u201cBeyond that, the defendant has a \u2018right to be present at a proceeding whenever his presence has a relation, reasonably substantial, to the fulness of his opportunity to defend against the charge.\u2019 \u201d Id. (internal quotation marks omitted) (quoting Gagnon, 470 U.S. at 526). While Black may well have had the right to be present during jury selection, his presence during the second day of individual voir dire on potential jurors\u2019 history with sexual abuse is no more related to his opportunity to defend than his presence on the first. See Stegall, 124 Wn.2d at 725 (requiring a case-by-case analysis).\n\u00b612 We stress that defense counsel did not object on the record to finishing individual voir dire out of Black\u2019s presence. See VTP (Oct. 22, 2013) at 64-89 (jury voir dire). While we do not mean to suggest that counsel could waive Black\u2019s right to be present by silence, the lack of a clear and prompt objection is strong evidence that counsel perceived no error and that Black\u2019s waiver was substantively related to individual voir dire, not temporally limited to the first day of voir dire. Cf. State v. Jones, 185 Wn.2d 412, 427, 372 P.3d 755 (2016) (citing State v. Williams, 96 Wn.2d 215, 226, 634 P.2d 868 (1981)).\n\u00b613 We note that the individual voir dire was designed to determine if jurors could be fair and impartial despite their prior experiences and that the first and second days of jury selection were substantially similar to one another. On the first day, juror 24 was excused after disclosing sexual abuse within her family that plainly caused her severe anguish. Juror 34 disclosed that her daughter was sexually molested when very young by a family member. Juror 44 was excused after telling the judge about being assaulted as a 10-year-old child. That juror had never disclosed the assault to anyone until that voir dire. Juror 50 was excused after testifying that his niece had been impregnated by rape and borne a child who suffered from severe and disruptive problems with anger. Juror 54 was excused after testifying that he had a family member who had been committed to the state mental hospital due to a severe mental illness that caused him to abuse people sexually. The next day, juror 7 testified that her sister had been sexually assaulted at college. Juror 48 had been sexually abused as a child by a babysitter. Juror 70\u2019s son had been accused of grooming his sister for sexual abuse. Juror 74 was excused after testifying that she saw the devastating consequences of rape after her babysitter was raped and later when her husband\u2019s disabled uncle was sexually assaulted by a live-in caregiver.\n\u00b614 We find no substantial difference between the type of agonizing, intimate questioning of individual jurors that took place on the first day of jury selection and the second. Coupled with the lack of a formal, on-the-record objection, we can logically conclude that Black waived his presence for that portion of jury selection. A contrary decision would require us to conclude that Black waived his presence during a random sampling of individual jurors. We decline to reach such a strained conclusion.\nConclusion\n\u00b615 We conclude that Black waived his presence during the individual questioning of jurors. Accordingly, we reverse and remand to the Court of Appeals for further proceedings consistent with this opinion.\nMadsen, C.J.; Johnson, Owens, Stephens, Wiggins, Gordon McCloud, and Yu, JJ.; and Siddoway, J. Pro Tem., concur.",
+        "type": "majority",
+        "author": "Gonz\u00e1lez, J."
+      }
+    ],
+    "attorneys": [
+      "Daniel T. Satterberg, Prosecuting Attorney, and Andrea R. Vitalich and Jennifer G. Ritchie, Deputies, for petitioner.",
+      "David L. Donnan (of Mery hew Law Group)-, and Nancy R Collins (of Washington Appellate Project), for respondent."
+    ],
+    "corrections": "",
+    "head_matter": "[No. 92332-9.\nArgued July 7, 2016.\nDecided December 15, 2016.\nIn the Matter of the Detention of Mark Black.\nDaniel T. Satterberg, Prosecuting Attorney, and Andrea R. Vitalich and Jennifer G. Ritchie, Deputies, for petitioner.\nDavid L. Donnan (of Mery hew Law Group)-, and Nancy R Collins (of Washington Appellate Project), for respondent."
+  },
+  "file_name": "0148-01",
+  "first_page_order": 184,
+  "last_page_order": 192
+}

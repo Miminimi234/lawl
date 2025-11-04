@@ -1,0 +1,118 @@
+{
+  "id": 1878772,
+  "name": "UNITED STATES of America, Plaintiff-Appellee, v. Henry AVILA, Defendant-Appellant",
+  "name_abbreviation": "United States v. Avila",
+  "decision_date": "1993-06-28",
+  "docket_number": "No. 93-1063",
+  "first_page": "767",
+  "last_page": "768",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "997 F.2d 767"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "10th Cir.",
+    "id": 8771,
+    "name": "United States Court of Appeals for the Tenth Circuit"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "989 F.2d 583",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        10514214
+      ],
+      "pin_cites": [
+        {
+          "page": "587"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/989/0583-01"
+      ]
+    },
+    {
+      "cite": "18 U.S.C. \u00a7 3553",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "pin_cites": [
+        {
+          "page": "(a)(5)"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "18 U.S.C. \u00a7 3582",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "(c)(2)"
+        },
+        {
+          "page": "(c)(2)"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "28 U.S.C. \u00a7 2255",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 202,
+    "char_count": 2160,
+    "ocr_confidence": 0.74,
+    "pagerank": {
+      "raw": 4.403830709818196e-07,
+      "percentile": 0.9200011274788608
+    },
+    "sha256": "17ba27bdb894f159141671ac0bfc030ea12c4fb7ffd0db0a3ec56134934cd7f9",
+    "simhash": "1:ad0cf8217f77312b",
+    "word_count": 348
+  },
+  "last_updated": "2024-02-27T17:31:44.102237+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before TACHA, BALDOCK and KELLY, Circuit Judges."
+    ],
+    "parties": [
+      "UNITED STATES of America, Plaintiff-Appellee, v. Henry AVILA, Defendant-Appellant."
+    ],
+    "opinions": [
+      {
+        "text": "PER CURIAM.\nMr. Avila appeals from the district court\u2019s order denying his motion for sentencing range reduction. See 28 U.S.C. \u00a7 2255; 18 U.S.C. \u00a7 3582(c)(2). We affirm.\nThe Sentencing Guidelines now permit a three-level downward adjustment for acceptance of responsibility in certain circumstances. See U.S.S.G. \u00a7 3E1.1(b) (Nov. 1, 1992) & app. C, amend. 459 (eff. Nov. 1, 1992). Mr. Avila contends that, under the rule of lenity and 18 U.S.C. \u00a7 3582(c)(2), the district court should reduce his sentence one level, because at the time he was sentenced, only a two-level downward adjustment was in effect.\nSection 3582(c)(2) empowers a district court to reduce a term of imprisonment when a sentencing range has subsequently been lowered by the Sentencing Commission. However, such power is tethered to the factors contained in \u00a7 3553(a), including any pertinent policy statement of the Sentencing Commission. 18 U.S.C. \u00a7 3553(a)(5). The policy statements accompanying U.S.S.G. \u00a7 1B1.10 provide that if an amendment is not listed as covered, a reduction in sentence based on the amendment would not be consistent with the policy statement. U.S.S.G. \u00a7 1B1.10(a), p.s. Amendment 459, on which Mr. Avila relies, is not covered by the policy statement. See U.S.S.G. \u00a7 1B1.10(d), p.s. Thus, the amendment to \u00a7 3E1.1 cannot be applied retroactively and it may not serve as a basis on which to reduce his sentence. See United States v. Rodriguez, 989 F.2d 583, 587 (2d Cir.1993).\nAFFIRMED.",
+        "type": "majority",
+        "author": "PER CURIAM."
+      }
+    ],
+    "attorneys": [
+      "Henry Avila, pro se.",
+      "James R. Allison, Interim U.S. Atty., Joseph T. Urbaniak, Jr. and John M. Hutchins, Asst. U.S. Attys., Mo\u00fantain States Drug Task Force, Denver, CO, for plaintiff-appel-lee."
+    ],
+    "corrections": "",
+    "head_matter": "UNITED STATES of America, Plaintiff-Appellee, v. Henry AVILA, Defendant-Appellant.\nNo. 93-1063.\nUnited States Court of Appeals, Tenth Circuit.\nJune 28, 1993.\nHenry Avila, pro se.\nJames R. Allison, Interim U.S. Atty., Joseph T. Urbaniak, Jr. and John M. Hutchins, Asst. U.S. Attys., Mo\u00fantain States Drug Task Force, Denver, CO, for plaintiff-appel-lee.\nBefore TACHA, BALDOCK and KELLY, Circuit Judges.\nAfter examining the briefs and appellate record, this panel has determined unanimously that oral argument would not materially assist the determination of this appeal. See Fed.R.App.P. 34(a); 10th Cir.R. 34.1.9, The cause therefore is ordered submitted without oral argument."
+  },
+  "file_name": "0767-01",
+  "first_page_order": 819,
+  "last_page_order": 820
+}

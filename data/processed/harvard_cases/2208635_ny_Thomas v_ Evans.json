@@ -1,0 +1,771 @@
+{
+  "id": 2208635,
+  "name": "Ellis R. Thomas et al., Respondents, v. Thomas J. Evans et al., Appellants",
+  "name_abbreviation": "Thomas v. Evans",
+  "decision_date": "1887-06-07",
+  "docket_number": "",
+  "first_page": "601",
+  "last_page": "616",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "105 N.Y. 601"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "N.Y.",
+    "id": 24653,
+    "name": "New York Court of Appeals"
+  },
+  "jurisdiction": {
+    "id": 1,
+    "name_long": "New York",
+    "name": "N.Y."
+  },
+  "cites_to": [
+    {
+      "cite": "72 N. Y. 154",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        532849
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny/72/0154-01"
+      ]
+    },
+    {
+      "cite": "4 Abb. N. C. 427",
+      "category": "reporters:state",
+      "reporter": "Abb. N. Cas.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "3 N. Y. 280",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "61 N. Y. 382",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        525418
+      ],
+      "pin_cites": [
+        {
+          "page": "397"
+        }
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny/61/0382-01"
+      ]
+    },
+    {
+      "cite": "1 Johns. Ch. 387",
+      "category": "reporters:state",
+      "reporter": "Johns. Ch.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "73 N. Y. 96",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "18 Hun, 67",
+      "category": "reporters:state",
+      "reporter": "Hun,",
+      "opinion_index": -1
+    },
+    {
+      "cite": "3 Edw. Ch. 312",
+      "category": "reporters:state",
+      "reporter": "Edw. Ch.",
+      "case_ids": [
+        488777
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/edw-ch/3/0312-01"
+      ]
+    },
+    {
+      "cite": "83 N. Y. 579",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "weight": 2,
+      "opinion_index": -1
+    },
+    {
+      "cite": "3 N. Y. 276",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        2007259
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "357"
+        }
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny/3/0276-01"
+      ]
+    },
+    {
+      "cite": "85 N. Y. 58",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "73 N. Y. 82",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        2169798
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "137-143"
+        }
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny/73/0082-01"
+      ]
+    },
+    {
+      "cite": "17 N. Y. 80",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        2019329
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny/17/0080-01"
+      ]
+    },
+    {
+      "cite": "3 Md. Ch. 260",
+      "category": "reporters:state",
+      "reporter": "Md. Ch.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "4 Bin. 43",
+      "category": "reporters:state",
+      "reporter": "Binn.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "2 Johns. Ch 252",
+      "category": "reporters:state",
+      "reporter": "Johns. Ch.",
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "270"
+        },
+        {
+          "page": "337, 350"
+        },
+        {
+          "page": "385"
+        }
+      ],
+      "opinion_index": -1
+    },
+    {
+      "cite": "4 Cow. 744",
+      "category": "reporters:state",
+      "reporter": "Cow.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "7 Lans, 368",
+      "category": "reporters:state",
+      "reporter": "Lans.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "97 Mass. 198",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "case_ids": [
+        707734
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/mass/97/0198-01"
+      ]
+    },
+    {
+      "cite": "12 Am. Dec. 76",
+      "category": "reporters:federal",
+      "reporter": "Am. Dec.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "1 Del. Ch. 93",
+      "category": "reporters:state",
+      "reporter": "Del. Ch.",
+      "case_ids": [
+        457854
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/del-ch/1/0093-01"
+      ]
+    },
+    {
+      "cite": "10 Penn. St. 394",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        962784
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/10/0394-01"
+      ]
+    },
+    {
+      "cite": "45 Am. Dec. 310",
+      "category": "reporters:federal",
+      "reporter": "Am. Dec.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "7 S. & M. 409",
+      "category": "reporters:state",
+      "reporter": "S. & M.",
+      "case_ids": [
+        8840659
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/miss/15/0409-01"
+      ]
+    },
+    {
+      "cite": "71 N. Y. 103",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "85 N. Y. 474",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "2 Johns. Ch. 27",
+      "category": "reporters:state",
+      "reporter": "Johns. Ch.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "22 Wend. 121",
+      "category": "reporters:state",
+      "reporter": "Wend.",
+      "case_ids": [
+        2153244
+      ],
+      "weight": 2,
+      "opinion_index": -1,
+      "case_paths": [
+        "/wend/22/0121-01"
+      ]
+    },
+    {
+      "cite": "62 N. Y. 419",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "pin_cites": [
+        {
+          "page": "427"
+        }
+      ],
+      "opinion_index": -1
+    },
+    {
+      "cite": "7 Lans. 103",
+      "category": "reporters:state",
+      "reporter": "Lans.",
+      "pin_cites": [
+        {
+          "page": "105"
+        }
+      ],
+      "opinion_index": -1
+    },
+    {
+      "cite": "63 N. Y. 657",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        527323
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny/63/0657-01"
+      ]
+    },
+    {
+      "cite": "2 Johns. Ch. 252",
+      "category": "reporters:state",
+      "reporter": "Johns. Ch.",
+      "pin_cites": [
+        {
+          "page": "271"
+        }
+      ],
+      "opinion_index": -1
+    },
+    {
+      "cite": "103 Mass. 343",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "pin_cites": [
+        {
+          "page": "344"
+        }
+      ],
+      "opinion_index": -1
+    },
+    {
+      "cite": "1 Tuck. 346",
+      "category": "reporters:state",
+      "reporter": "Tuck. & Cl.",
+      "case_ids": [
+        2495103
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/dc/21/0346-01"
+      ]
+    },
+    {
+      "cite": "11 How. Pr. 491",
+      "category": "reporters:state",
+      "reporter": "How. Pr.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "3 Edw. Ch. 178",
+      "category": "reporters:state",
+      "reporter": "Edw. Ch.",
+      "case_ids": [
+        488774
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "312"
+        }
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/edw-ch/3/0178-01"
+      ]
+    },
+    {
+      "cite": "2 Bradf. 311",
+      "category": "reporters:state",
+      "reporter": "Bradf.",
+      "case_ids": [
+        1127683
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/brad/2/0311-01"
+      ]
+    },
+    {
+      "cite": "22 N. Y. 202",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "63 N. Y. 645",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        527312,
+        527227,
+        527244
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny/63/0645-01",
+        "/ny/63/0645-03",
+        "/ny/63/0645-02"
+      ]
+    },
+    {
+      "cite": "73 N. Y. 129",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "35 Mich. 446",
+      "category": "reporters:state",
+      "reporter": "Mich.",
+      "case_ids": [
+        1317446
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/mich/35/0423-01"
+      ]
+    },
+    {
+      "cite": "89 N. Y. 178",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "pin_cites": [
+        {
+          "page": "179"
+        }
+      ],
+      "opinion_index": -1
+    },
+    {
+      "cite": "17 N. J. Eq. 70",
+      "category": "reporters:state",
+      "reporter": "N.J. Eq.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "3 Md. Ch. 259",
+      "category": "reporters:state",
+      "reporter": "Md. Ch.",
+      "case_ids": [
+        1687185
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/md-ch/3/0259-01"
+      ]
+    },
+    {
+      "cite": "7 Met. 478",
+      "category": "reporters:state",
+      "reporter": "Met.",
+      "case_ids": [
+        2067503
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/mass/48/0478-01"
+      ]
+    },
+    {
+      "cite": "103 Mass. 345",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "case_ids": [
+        2146195
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "361"
+        }
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/mass/103/0345-01"
+      ]
+    },
+    {
+      "cite": "2 Johns. Ch. 18",
+      "category": "reporters:state",
+      "reporter": "Johns. Ch.",
+      "pin_cites": [
+        {
+          "page": "22"
+        }
+      ],
+      "opinion_index": -1
+    },
+    {
+      "cite": "2 Bradf. 75",
+      "category": "reporters:state",
+      "reporter": "Bradf.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "69 N. Y. 1",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        530766
+      ],
+      "pin_cites": [
+        {
+          "page": "8"
+        }
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny/69/0001-01"
+      ]
+    },
+    {
+      "cite": "7 Hill, 245",
+      "category": "reporters:state",
+      "reporter": "Hill,",
+      "opinion_index": -1
+    },
+    {
+      "cite": "68 N. Y. 281",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "pin_cites": [
+        {
+          "page": "282"
+        }
+      ],
+      "opinion_index": -1
+    },
+    {
+      "cite": "2 Johns. Ch. 1",
+      "category": "reporters:state",
+      "reporter": "Johns. Ch.",
+      "case_ids": [
+        1178191
+      ],
+      "pin_cites": [
+        {
+          "page": "20, 22, 29"
+        }
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/johns-ch/2/0001-01"
+      ]
+    },
+    {
+      "cite": "46 N. Y. 535",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "2 Johns. Ch. 22",
+      "category": "reporters:state",
+      "reporter": "Johns. Ch.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "73 N. Y. 127",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        2169793
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny/73/0127-01"
+      ]
+    },
+    {
+      "cite": "41 N. Y., 334",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "102 N. Y. 135",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        2203054
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny/102/0135-01"
+      ]
+    },
+    {
+      "cite": "50 N. Y. 339",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "1 Story, 478",
+      "category": "reporters:federal",
+      "reporter": "Story",
+      "case_ids": [
+        6104080
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f-cas/4/0127-01"
+      ]
+    },
+    {
+      "cite": "17 N. Y. 86",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "56 N. Y. 615",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        519182
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny/56/0615-01"
+      ]
+    },
+    {
+      "cite": "3 Bradf. 359",
+      "category": "reporters:state",
+      "reporter": "Bradf.",
+      "case_ids": [
+        1129335
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/brad/3/0359-01"
+      ]
+    },
+    {
+      "cite": "1 Johns. Ch. 385",
+      "category": "reporters:state",
+      "reporter": "Johns. Ch.",
+      "case_ids": [
+        1975523
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/johns-ch/1/0385-01"
+      ]
+    },
+    {
+      "cite": "11 Paige 484",
+      "category": "reporters:state",
+      "reporter": "Paige Ch.",
+      "case_ids": [
+        11282149
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/paige-ch/11/0484-01"
+      ]
+    },
+    {
+      "cite": "16 N. Y. 246",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        1297861
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny/16/0238-01"
+      ]
+    },
+    {
+      "cite": "72 N. Y. 154",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        532849
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny/72/0154-01"
+      ]
+    },
+    {
+      "cite": "3 Edw. Ch. 312",
+      "category": "reporters:state",
+      "reporter": "Edw. Ch.",
+      "case_ids": [
+        488777
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/edw-ch/3/0312-01"
+      ]
+    },
+    {
+      "cite": "17 N. Y. 80",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        2019329
+      ],
+      "pin_cites": [
+        {
+          "page": "86"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny/17/0080-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 1444,
+    "char_count": 33383,
+    "ocr_confidence": 0.521,
+    "pagerank": {
+      "raw": 1.2579493790703155e-06,
+      "percentile": 0.9887176819961319
+    },
+    "sha256": "2ec8ed5cf086616e3023b2c9611dfb5450248e6845324445d794393a673d4752",
+    "simhash": "1:4fe0041c4f82f68f",
+    "word_count": 5949
+  },
+  "last_updated": "2024-02-27T20:20:57.311996+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Ellis R. Thomas et al., Respondents, v. Thomas J. Evans et al., Appellants."
+    ],
+    "opinions": [
+      {
+        "text": "Ruger, Ch. J.\nIn July, 1841, Thomas \u25a0 Thomas died, leaving him surviving Catharine Thomas, his widow, and four children, three of whom were aged, respectively, three, live and six; the fourth, Sarah Thomas, has since died intestate and without issue. At the time of his death Thomas owned in fee eight small city lots in Williamsburg, six of which were situated on South - First, and two, of lesser value, on South Second streets, and, with the exception of two lots on South First street, were vacant and unimproved. So far as appears from the case, Thomas had no other property, real or personal, and such as he had he devised to his widow for life, with remainder to his four children. By the will he appointed his wife executrix and John L. Bulkley execuuor of his estate, and authorized them to \u201c sell the whole or any part of his real estate when they may deem best for those interested therein, either at public or private sale, and invest the proceeds in bonds and mortgages or other securities, as they may believe best.\u201d He also appointed his wife guardian of all of his children.\nIn December, 1841, the widow intermarried with the defendant Evans and lived with him as his wife until the year 1878, a period of thirty-seven years, and nearly twenty years after all the children had arrived at maturity.\nIt is conceded that by the will the widow took a life estate in the property of her husband, and that upon her marriage with Evans he became entitled to the enjoyment of her interest therein, and that the four children took a vested estate in remainder in such property. Between the. years 1841 and 1850 the defendant Evans made considerable improvements upon the property on South First street and rendered some of it productive, which was before a burden and expense to the estate. For the purpose partly of paying the liability of the estate to Evans for these improvements, and partly to raise money to meet anticipated assessments upon the property, the executors, in 1850, sold and conveyed to Evans, for the agreed price of $1,000, the two vacant lots on South Second street. Three hundred and fifty dollars of this sum was applied as a payment to Evans for the expenses incurred by him, and the balance of $650 was secured by a mortgage upon the property, given by Evans to the executors. The price paid was a fair consideration for the land, and all parties then supposed that Evans acquired a valid title under the power of sale contained in the will. Subsequently, however, upon attempting to raise money upon the lots for building purposes, Evans was advised that by reason of his relationship with one of the grantors his title was defective, and thereupon he consented to institute an action to have such title declared void and to reinstate the power of sale in the executors. Such proceedings were thereupon had in the Supreme Court that judgment was rendered declaring the conveyance from the executors to Evans null and void and reinstating them with the interest attempted to be conveyed.\nBetween 1850 and 1854 other assessments were levied upon the property of the estate for municipal improvements and the executors had no means to pay them. These assessments were mainly levied upon the lots on South First street. At the request of the executors Evans advanced some money to pay them, but the estate was still unable to meet the other burdens upon the property. Under the circumstances the defendant Evans, under an agreement with one Swackhamer, to repurchase the property and repay him its cost and such money as he should expend upon it with a bonus of $500, for his risk and trouble, induced Swackhamer to enter into a contract of purchase of the two lots on South Second street with the executors for the price of $2,000. In 1853, the executors conveyed the property to Swackhamer, receiving therefor $300 in cash, Swackhainer\u2019s note for $700, and a Telease by Evans to the executors of their indebtedness to him for money advanced and expended .for assessments and improvements upon the property. The price paid was more than the value of the property and the Thomas estate received the full benefit thereof. It does not appear, that the executors had any knowledge of the agreement between Evans and .'Swackhamer, or that any of , the parties had. any doubt but that Swackhamer acquired a valid title to the property by the \u25a0conveyance. Upon receiving his deed Swackhamer' executed a mortgage upon the property to third parties for the sum of $4,500, which sum was wholly expended in erecting three substantial brick dwellings upon the two. .lots. In 1856, in accordance with his agreement with Evans, Swackhamer conveyed the property to him, receiving in payment therefor the sum of upward of $7,000. Immediately upon receiving his deed, Evans caused it to be placed upon record, and from that time forward, claimed to be the absolute owner of the property.\nSince Evans\u2019 occupation of the lots, he has continued to make additions to and improvements upon them, the value of which, including the original cost .of the houses, as found by the trial court, exceeded $9,000 at the time of the trial. In 1879, Evans conveyed to each of the two other defendants, Catharine J. Scofield and Jessie E. Scofield, one of the houses erected on the two lots on South Second street in consideration of his love and affection for them as his daughters.\nThis action was brought by two of the remaining children of Thomas, the other one refusing to join therein as a plaintiff, in April, 1881, for the purpose of vacating and annulling the deed given by the executors to Swackhamer, and all subsequent conveyances of the property, and having it adjudged that the two lots with their improvements were the property of the plaintiffs, and requiring the defendants to release and convey the property to them, and that the defendant, Thomas J. Evans, render an account of all of his transactions with the estate of Thomas Thomas, and be decreed to pay to the plaintiffs such sums as might be found due upon such accounting. The right to relief was based exclusively upon the allegation in the complaint that the defendant Evans obtained title to the property from the executors \u201c for the purpose of enabling the executors more conveniently to manage the said estate through the defendant Thomas J. Evans, and with a view to increase the revenue for the said real estate and to put the title thereof in the said Thomas J. Evans, as trustee for the said Catharine Evans and the children of the said Thomas Thomas, deceased.\u201d\nUpon the trial no proof was offered by the plaintiffs of the existence of the trust and agreement alleged in the complaint, but the action was sustained upon, the ground that the conveyance by which the land was transferred from the executors to Swackhamer was not a valid exercise of the power of sale given to them by the will of Thomas, and constituted a cloud upon the title of the true owners, which should be removed. The decree also denied to the defendant the right to compensation for the improvements made to the property by him. The ground upon which this conclusion was reached is stated to be that Evans was not a bona fide purchaser of the premises. This conclusion was based upon the finding of law made by the trial court, that neither Evans nor the other defendants were bona fide purchasers of the land.\nIt is not entirely clear what the trial court meant by this finding of law, but if it was intended to convey any other idea than that it was simply a legal deduction, from the assumed fact that the conveyances to Swackhamer and Evans were void, by reason of the alleged invalidity in the execution of the power of sale, it is contrary to the findings of fact made by the court, and is unsupported by any evidence in the case. It was found by the trial court, that from 1856 Evans always claimed to be the absolute owner of the property, and that this claim was known to, and acquiesced in by the plaintiffs appears from the allegations of the complaint. It is therein averred that \u201cthe plaintiffs have all been for many years of full age and have not requested the transfer of said title to them because of the positive assurance they all had. from the said defendant, and from, the said testatrix, in her lifetime, that the same was held for the estate, and because their mother, the said testatrix, was entitled to the-income of the same until her death.\u2019\u2019 This excuse, so far as it alleges any assurance from the defendant Evahs, or his wife, of the existence of a trust, is not, as we have seen, supported by the evidence.\nIt also appears that some, if not all, of the surviving children of Thomas, after their majority, had knowledge oj the expenditures that the defendant Evans made, not only upon the property in dispute, but also upon the other real estate remaining unsold, and so far from making any objection thereto, actually requested them to be made.\nA careful perusal of the evidence in the case shows us that Evans, in the right of his wife, came into the possession o\u00ed the eight lots in 1841, and although both he, and the estate were destitute of means to improve it or to pay the taxes or assessments levied thereon, it was so managed as to make it' more valuable and productive, and to preserve for the remaindermen the greater part of the estate. In the meanwhile he provided a home for the widow and children of Thomas, and. educated and supported the children, not only until their-majority, but some of them until long after that time. Under these circumstances it is not strange that the remaindermen have hesitated so long to assert any rights to the two lots in question, and that one of them refused altogether to become-a party to the proceeding.\nA claim to recover hack property which has been fairly sold and paid for at its full value, and the consideration of which has accrued to the benefit of the plaintiffs, without offering to render compensation to one who, honestly believing himself to be its lawful owner, expended large sums in its improvement, and which now constitutes its greatest value, seems to be unjust and inequitable.\nWe are of the opinion that the purchase-price originally paid for the land and the value of the improvements, to the extent that they have added to its permanent value, constitute an equitable claim, and that even if the plaintiffs should establish an equitable right to the property it would not entitle them to judgment therefor, except upon the condition of refunding to the defendant Evans the amount so expended.\nIt was found by the trial court that the purchase-price was mainly paid in relieving the land from the assessments imposed upon it. These assessments were a charge upon all of the land, and the interest of the remaindermen, as well as that of the life tenant, was liable to be sold therefor. It is provided by statute, in the case of real property in which several persons have successive interests, incumbered by taxes and assessments, rendering it liable to sale therefor, that upon the application of any of the parties interested the court may order a sale of the fee or a part thereof, for the purpose of discharging the liens upon the remainder. (Chap. 341 Laws of 1841; chap 357 Laws of 1855; Jackson v. Babcock, 16 N. Y. 246; Dikeman v. Dikemam,, 11 Paige 484.) Thus the property of the plaintiffs was legally liable for the payment of these assessments. Although the method provided by statute was not pursued, we see no reason why a court of equity, called upon to settle the equitable rights of the parties, should not charge remaindermen with the reimbursement of moneys actually and honestly expended for the benefit of their estate, and which they were legally liable to pay.\nThe general rule applicable to the relation of life tenants and remaindermen, does not authorize the former to charge the latter with the cost and expense of permanent improvements put upon the property by him during the life tenancy. (Dent v. Dent, 30 Bev. 363 ; Moore v. Cable, 1 Johns. Ch. 385.) This rule is founded upon principles of justice having reference to the rights and interests of remainderfnen, and should not be inconsiderately impaired or evaded.\nIt is also the general rule that municipal assessments for permanent improvements upon land, are apportionable between the life tenant and the remaindermen, according to the circumstances of the case, and their respective interests in the property (Stillwell v. Doughty, 3 Bradf. 359 ; Peck. v. Sherwood, 56 N. Y. 615), while the ordinary taxes of government are properly chargeable to the life tenant alone. (Deraismes v. Deraismes, 72 N. Y. 154; Cairns v. Chabert, 3 Edw. Ch. 312.) Such are the rules applicable to those relations, when 'they are open and acknowledged, and no special circumstances exist authorizing the application of principles of equity, to reimburse one who, in good faith, has increased the intrinsic value of the property, by expending his own means in making permanent erections and valuable additions thereto under the belief that he was its lawful owner. Such circumstances are held to exist when a trustee or mortgagee in possession supposing, in good faith, that he has acquired title in fee to the property, goes on and deals with it as his own, and makes improvements which are of permanent benefit to the property. (Putnam v. Ritchie, 6 Paige, 390 ; Mickles v. Dillaye, 17 N. Y. 86.) In the Put-man Case the chancellor laid down the rule, as expressed in the head-note, that \u201c when industrial accessions have been made to property, in good faith, by a person who has the legal title to the property, so that the real owner is compelled to resort to a court of equity to assert his equitable title to such property, this court acts upon the civil law rule of natural equity and compels the complainant to compensate the adverse party for such industrial accessions or improvements, as a condition of granting the equitable relief asked for in the suit.\u201d This was the case of a guardian in socage of infants having a leasehold estate in fee in certain lands, which lease during the infancy of the wards was for a good consideration, surrendered by such guardian to the heir of the lessor It was held that a guardian in socage has no right to surrender a lease in fee belonging to his wards, but that when the legal title is in a trustee, or when the guardian of an infant has complete legal control over the property so as to place it fully within the power of the chancellor, as the general guardian of infants, the court may sanction the acts of the trustee, or guardian, althrough not strictly legal, if the same are done in good faith and for the benefit of the estate of the infant.\nIn Mickles v. Dillaye (17 N. Y. 80, 86) the rule was applied to a mortgagor who attempted to redeem from a mortgagee in possession under a voidable sale, and the rule adopted is expressed in the head-note of the case as follows: \u201c When valuable and permanent improvements have been made in good faith by a person standing upon the legal footing of a mortgagee in possession, but who supposed himself to have acquired the absolute title, and such mistake was favored by the omission of the owner, for several years before and after the improvements, to assert any interest in the premises, the mortgagor, on asking the aid of equity to redeem, .will be compelled to allow the value of the improvements, though exceeding the rents and profits received.\u2019'\nIn Bright v. Boyd (1 Story, 478) lands had been sold by an administrator, but the sale was void because he had not given security according to the statute. The heir sued the purchaser and recovered possession of the land. The purchaser, then filed his bill in equity to recover from the heir the value of certain improvements, including the cost of building a large dwelling-house, which he had in good faitii put upon the premises while occupying them. Judge Story referred the case to a master to take an account of the enhanced value of the premises, with a strong intimation that the plaintiff was entitled to recover that expense, but postponed the final decision of the question until the coming in of the master\u2019s report.\nJudge Denio, citing this case in Mickles v. Dillaye, entertained some doubt whether it could be sustained here except upon the principle of estoppel against one fraudulently standing by and seeing another expend money upon his land, although he expressly approved the rule laid down by the chancellor in Putman v. Ritchie. In the same case he also approved of the doctrine laid down by Judge Hand in Wetmore v. Roberts (10 How. Pr. R. 51). In that case, the defendant had bought the premises from one who liad purchased them upon a sale on a prior mortgage, in the foreclosure of which a junior mortgagee, had not been made a party. Upon a foreclosure of the junior mortgage it was held that the premises should be sold and the defendant should be paid from the purchase-money, not only the amount due on the elder mortgage, but also for improvements made by him during his occupation of the property.\nIn Miner v. Beekman (50 N. Y. 339), it was said by Grover, J., that \u201c when a plaintiff has permitted his right to satisfy a mortgage to remain dormant for nearly thirty years, during which others have paid the assessments and taxes, and 'made improvements in the belief that they had title under a foreclosure of the mortgage, he cannot complain that, as a condition of regaining possession, he is compelled to account for and pay such taxes, assessments, and for such improvements, according to the just and enlightened principles of courts o\"f equity.\u201d\nPomeroy, in a note to section 1242 of his work on Equity Jurisprudence, states the rule as follows: \u201c When a person in peaceable possession under claim of lawful title, but really under a defective title, has, in good faith, made permanent improvements, the true owner who seeks the aid of equity to establish his own title will be compelled to reimburse the occupant for his expenditure.\u201d\nMany authorities are cited in support of the proposition. In Ford v. Knapp (102 N. Y. 135), the principle is laid down that in an action by a co-tenant out of possession for a partition of the premises, upon which the other tenants in common have paid taxes and made improvements in good faith, which have largely increased the value of the property, the amount of such taxes and improvements shall in case of sale of the property \u201d be first deducted from the gross sum received, -and paid to the improving tenants, and the balance only divided among the parties according to their respective interests. The ease was decided upon the rule \u201c that one who seeks equity must do equity,\u201d and that the tenant, out of the actual occupation who seeks a court of equity to award him partition, is entitled to relief only upon condition that the equitable rights of his co-tenants shall be respected.\u2019\u2019 We think the circumstances of this case bring it within the principle of the cases .above cited.\nPrevious to the year 1860 all of the remaindermen had .arrived at years of maturity and were aware that the defendant Evans claimed to be the absolute owner of the property in question. For over twenty years they not only neglected to dispute such claim, but permitted the defendant to go on in apparent security as to his title, and make improvements upon the property and deal with it as his own. There seems to exist here the natural equity which entitles a party, who has, in good faith, with his own means, improved the property of another, to reimbursement by the parties benefited thereby, and this equity is strengthened by the conduct of the owners who stood by and saw such party, without notice or objection, incur expense under the belief that he was improving his own property.\nWe are, therefore, of the opinion that the trial court should have imposed, as the condition of any relief to the plaintiffs the reimbursement by them to Evans of the original price paid by Swackhamer for the lots, and also of such sums as were expended by Swackhamer and Evans in their improvements, so far as they have increased the value of the land, and in case Evans is charged with the rents received from the property since the death of the life tenant, he should be allowed interest on the amount payable to him.\nThe plaintiffs have sought their remedy in equity, and that course seems to have been requisite as the condition of a right to the relief demanded. The deed from the executors to Swackhamer apparently conferred the legal title under the power of sale contained in the will. The purchaser was under no responsibility for any misapplication by the executors of che consideration paid by him for the land, and was entitled to rely upon their apparent power to receive such consideration and to convey the land given to them by the will. (3 R. S. [7th ed.], 2183, \u00a7 66.) We have altogether refrained from, discussing the question as to whether the conveyance by the executors to Swackhamer was a valid execution of the power of sale.\nThere seems to be much reason for saying, under the pecu- \u2019 liar condition of this property, its unproductive character and the want of means in which the testator left his family, the liability of the property to be sold for taxes and assessments-for municipal purposes, that the real limitation intended to be - put by the testator upon the power of sale, was contained in the words that it should be sold when his executors \u201c may deem best for those interested therein,\u201d and not in the language by which they were directed \u201c to invest the proceeds in bonds- and mortgages or other securities as they may believe best.\u201d Some diversity of opinion, however, exists among the members of the court upon this question, and we, therefore, refrain from determining it, believing that the point decided will substantially dispose of the case upon a retrial.\nThe judgments, both interlocutory and final, of the courts below should be reversed, and a new trial ordered, with costs to abide the event.\nAll concur.\nJudgment accordingly.",
+        "type": "majority",
+        "author": "Ruger, Ch. J."
+      }
+    ],
+    "attorneys": [
+      "George H. Starr for appellants.",
+      "William G. Cooke for respondents.",
+      "William C. Wallace for respondent."
+    ],
+    "corrections": "",
+    "head_matter": "Ellis R. Thomas et al., Respondents, v. Thomas J. Evans et al., Appellants.\n(Argued April 25, 1887;\ndecided June 7, 1887.)\nT. died in 1841 seized of eight lots in the city of W., which, by his will, he devised to his wife for life, remainder to his children, all of whom, were infants. The wife was appointed executrix and guardian of the children. The executrix and executor were authorized to \u201c sell the whole- or any part of his real estate when they may deem it best for those interested therein * * * and invest the proceeds in bonds and mortgages or other securities as they may believe best.\u201d The widow intermarried with E., who made considerable, improvements upon the property. He-also, at the request of the executors, advanced the money to pay heavy-assessments thereon foi municipal improvements. In 1853 the executors sold and conveyed two of the lots, which were vacant and unimproved, to 8. for $1,000 and a release by E. of the advances so made by him, the price, paid being more than the value of the lots. S. erected buildings on said lots and in 1857 conveyed them to E. who put his deed on record, and thereafter, with the knowledge and acquiescence of the life tenants, claimed to own the property and made valuable improvements thereon. In an action brought by the children of T. in 1881, after the death of the life tenant, and more than twenty years after all the remaindermen became of age, to vacate and annul the deed to S. and all subsequent conveyances and to have the two lots, with the improvements, adjudged to be the property of plaintiffs, etc. Held, that, conceding the deed to S. to have been invalid (as to which qumre), the relief sought should only be allowed on condition that the-plaintiffs reimburse to E., the original price paid by S. and also all such sums as were expended by S. and E. in improvements, so far as they have increased the value of }he premises, and, in case B. is charged with the rents received since the death of the life tenant, he should also be allowed interest on the amount payable to him.\nWhere a person in peaceable possession under claim of lawful title, buu really under a defective title, has in good faith made permanent improvements, the true owner who seeks the aid of equity to establish his title will be compelled to reimburse the occupant for his-expenditures.\nAppeal from judgment of the General Term of the Supreme Court in the second judicial department, entered upon an order made at the February Term 1885, which modified and affirmed, as modified, a judgment in favor of plaintiff, entered upon a decision of the court on trial at Special Term and also affirming an interlocutory judgment herein.\nThe nature of the action and the material facts are stated in the opinion.\nGeorge H. Starr for appellants.\nThe alleged executory agreement set forth in the complaint, being by paroi, was void by the statute of frauds. (2 R. S., chap. 7, tit. 1, \u00a7 6.) Even had it been in writing, and to be deemed such an express trust as is authorized under section 55 of article 2 of the statute, it was void under section 14 of article 1 of the statute, because it was intended thereby to suspend the absolute power of alienation for more -than two lives in being. (2 R. S., chap. 1, tit. 2, art. 1, \u00a7 14; id., art. 2, \u00a7 55; Schetteler v. Smith, 41 N. Y., 334.) The plaintiffs have no equity to maintain this bill. 'The inherit.ance was not injured, but received a large pecuniary benefit and was saved from loss by the sale of the two lots; and there was no fraud or bad faith shown. (Greenl. Cruise on R. Prop. tit. 15, chap. 4, \u00a7 55 ; New v. Nicoll, 73 N. Y. 127; Austin v. Munroe, 47 id., 366.) As the price paid was \u2022entirely adequate, and the avails went directly to the benefit -of the estate in remainder, the bill should be dismissed. (Osgood v. Franklin, 2 Johns. Ch. 22-29 ; Morse v. Royal, 12 Vesey, 355; Cobb v. Hatfield, 46 N. Y. 535.) The will conferred upon-the executors a valid power in trust over the \u25a0 proceeds of any real estate sold, to continue during the life \u2022of the life tenant. It was not a mere naked power of sale. (Osgood v. Franklin, 2 Johns. Ch. 1, 20, 22, 29; Clark v. Clark, 8 Paige, 152, 160, 161 ; Livingston v. Murray, 68 N. Y. 281, 282; Champlin v. Haight, 7 Hill, 245; Hetzel v. Barber, 69 N. Y. 1, 8.) Although not trustees of the proceeds in a strict sense, the terms of the power coupled with the law imposed the same duty as if they were. (Skinner v. Quinn, 43. N. Y. 103, 106; Erwin v. Loper, id. 525, 526; Hepburn's Case, 2 Bradf. 75 ; Stilwell v. Doughty, id. 311, 317, 318; Osgood v. Franklin, 2 Johns. Ch. 18, 22, 29 ; Perry on Trusts, \u00a7\u00a7 457, 458; In re Skingley, 3 McN. & G. 221, 228 ; In re Barrington\u2019s Settlement, 1 J. & H. 143 ; Harris v. Payner, 1 Drewry\u2019s Ch. 182, 183 ; Gregg v. Coates, 23 Beav. 33-39; Howard v. Ducam, 1 T. & R. 81; Sohier v. Eldredge. 103 Mass. 345-354; Parsons v. Winslow, 16 id. 361; Watts v. Howard, 7 Met. 478; Gambril v. Gambril, 3 Md. Ch. 259; Kearney v. Kearney, 17 N. J. Eq. 70; Lent v. Howard, 89 N. Y. 178, 179; Davis v. Stover, 58 id. 474; Young v. Brush, 28 id. 671-674; Amy v. Talbot, 40 id. 83, 89 ; Sutphen v. Ellis, 35 Mich. 446.) Although executors or trustees cannot hind the estate upon executory contracts of their own, although beneficial to the estate, yet they can make such contracts an express charge upon the estate when within their discretion, and they appear to be for its benefit. (New v. Nicoll, 73 N. Y. 129; Noyes v. Blankman, 6 id. 567, 579, 580; Randall v. Dusenberry, 39 Supr. Ct. 174; 63 N. Y. 645.) The apportionment of the outlay for assessments and improvements as between tenant for life and remaindermen was on proper basis. (Mosely v. Marshall, 22 N. Y. 202; Gunning v. Carman, 3 Redf. 70; Stillwell v. Doughty, 2 Bradf. 311; Williams v. Cox, 3 Edw. Ch. 178; Cavins v. Chabert, id. 312; Fleet v. Dorland, 11 How. Pr. 491; Est. W. E. Miller, 1 Tuck. 346; 1 R. S. [6th ed.] chap. 13, tit. 3, \u00a7\u00a7 149-158 ; House v. House, 10 Paige, 158 ; Sohier v. Eldredge, 103 Mass. 343, 344.) The sale should not be held voidable as within the rule that forbids a trustee to purchase the trust property. (Davoue v. Fanning, 2 Johns. Ch. 252, 271, 272 ; Graves v. Waterman, 63 N. Y. 657, 658 ; 2 R. S. [6th ed.] chap. 1, tit. 2, \u00a7 79 ; Griswold v. Perry, 7 Lans. 103, 105.) The power to sell and the control of the question of the propriety of the sale to Evans was vested in the executors, and the discretion was properly exercised, and \u25a0 si sale to him was as valid as to another unless there are facts to show that he owed some duty to the cestui gue trust inconsistent with his making a purchase. (Howard v. Ducam, 1 T. & R. 81; Diconson v. Talbot, 6 L. R. Ch. 32 ; Lloyd v. Johnes, 9 Ves. 51; Ten Eyck v. Craig, 62 N. Y. 419, 427; Nellis v. Lathrop, 22 Wend. 121; McGuire v. McGowan, 4 De Sauss. Ch. 486; Sugden on Powers, chap. 19, \u00a7 1, subd. 79, 80 [8 Lond. ed ] 867, 868, Sugden on Vendors, chap. 20, \u00a7 2, subd. 15 [Perkin\u2019s 8th Am. ed.] 692; id. chap. 1, \u00a7 5, subd. 51; Evans v. Peacock, 16 Ves. 511; Perry on Trusts, \u00a7 511, 511a; Osgood v. Franklin, 2 Johns. Ch. 27-29.) The application of the proceeds to pay off the assessments, and to pay Evan\u2019s bill for improvements did not render the sale-voidable. (Davis v. Stover, 85 N. Y. 474; Lent v. Howard, 89 id. 178, 179; Diconson v. Talbot, 6 L. R. Ch. 37.) Plaintiffs are estopped by lapse of time and acquiescence ; and the statute of limitations is a bar. Adoption and ratification are to be presumed. (Loder v. Hatfield, 71 N. Y. 103; Perry on Trusts, \u00a7\u00a7 229, 230, 850-853; Butler v. Haskell 4 De Sauss. 706, 707; Scott v. Freeland, 7 S. & M. 409 ; 45 Am. Dec. 310; Musselman v. Eshleman, 10 Penn. St. 394 ; Bostwick v. Atkins, 3 Comst. 53 ; Van Dyke v. Johns, 1 Del. Ch. 93; 12 Am. Dec. 76 ; Ives v. Ashley, 97 Mass. 198; Salisbury v. Morss, 7 Lans, 368 ; Hawley v Cramer, 4 Oow, 743.) If the sale is to be avoided, defendant should be allowed the amount of the purchase-money, and the costs of the improvements, put upon the two lots, with interest from the date of Mrs. Evans\u2019- death, and the property should be put up for resale. (Sugden on Vendors, chap. 20, \u00a7 2, subd. 23, [2 Perkin\u2019s 8th Am. ed.] 694 ; Evans v. Peacock, 16 Ves. 511, 517; Hawley v, Cramer, 4 Cow. 744; Davoue v. Fanning, 2 Johns. Ch 252, 270, 272 ; Michoud v. Girod, 4 How. [U. S.] 552 ; Ex parte Hughes, 6 Ves. 617 ; Ex parte James, 8 id. 337, 350; Ex parte Bennett, 10 id. 385, 399 ; York's Build'g Co. v. McKenzie, 8 Brown\u2019s P. Cas. 42, 70, 71; Lessee of Moody v. Van Dyck, 4 Bin. 43, 44 ; Bailey's Adm'x v. Robinson, 1 Grat. 4; Buckels v. Lafferty, 2 Robinson [Va.] 292; Gambril v. Gambril, 3 Md. Ch. 260; Bright v. Boyd, 1 Story\u2019s Rep. 478; Jones, Adm. v. Jones, 4 Grill, 87 ; Putnam v. Ritchie, 6 Paige, 390, 402-406 ; Mickles v. Dillaye, 17 N. Y. 80; Benedict v. Gilman, 4 Paige, 58; Mad. Ave. Bap. Ch. v. Oliver St. Bap. Ch., 73 N. Y. 82, 98 ; Ford v. Knapp, 102 id. 137-143.)\nWilliam G. Cooke for respondents.\nUnder the will the widow took possession and control of the property for life. (Jennings v. Gonboy, 73 PL Y. 236.) The devise to the children was of a vested remainder in fee, limited upon the particular estate in the widow, and subject only to the proper execution of the power of sale conferred upon the executors. (Morse v. Morse, 85 N. Y. 58; Manice v. Manice, 43 id. 304; Crittenden v. Fairchild, 41 id. 289; Hetzel v. Barber, 69 id. 112; Prentice v. Janssen, 79 id. 479; Hermans v. Robertson, 64 id. 332.) A power of sale, contained in a will, can be exercised only in the manner and for the precise purpose contemplated by the testator. (Allen v. De Witt, 3 N. Y. 276 ; Roome v. Phillips, 27 id. 357; Russell v. Russell, 36 id. 581; Hetzel v. Barber, 69 id. 1.) It was not necessary as a condition of recovery in the action that plaintiffs should restore to defendant Evans the amount he paid for the land, nor has he any equitable lien for the value of his improvements. (2 Kent, 76, 77, 81, 134; Wood v. Wood, 83 N. Y. 579 ; Westervelt v. Gregg, 12 id. 202 ; Ryder v. Hulse, 24 id. 372; Cairnes v. Chabert, 3 Edw. Ch. 312 ; De Witt v. Cooper, 18 Hun, 67; Washb. on Real Prop. [4th ed.] 123 ; Mad. Ave. Bapt. Ch. v. Oliver St. Bapt. Ch., 73 N. Y. 96; Moore v. Cable, 1 Johns. Ch. 387; Woodhull v. Rosenthal. 61 N. Y. 382, 397.)\nWilliam C. Wallace for respondent.\nThe power in the will of Thomas Thomas was to dispose of his real estate as might be best for those interested therein and to invest the proceeds for their benefit. This pow\u00e9r could only be exercised for the preservation of the proceeds. (Allen v. De Witt, 3 N. Y. 280.) It was the duty of the defendant Evans to keep the property free from taxes, and from the accumulation of interest on incumbrances. (Washb. on Real Prop. 110; 4 Kent Com. 74; Bidwell v. Greenshield, 4 Abb. N. C. 427; Gillespie v. Brooks, 2 Redf. 349 ; Desraimes v. Desraimes, 72 N. Y. 154.) The value of permanent improvements made' by a life tenant cannot be charged against the remaindermen. (Washb. on Real Prop. 110, 112.) There does not appear any equitable ground upon which the remaindermen should be charged with any portion of these permanent improvements. (In re Pollock, 3 Redf. 100.)"
+  },
+  "file_name": "0601-01",
+  "first_page_order": 623,
+  "last_page_order": 638
+}

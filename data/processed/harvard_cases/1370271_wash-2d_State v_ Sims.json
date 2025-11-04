@@ -1,0 +1,205 @@
+{
+  "id": 1370271,
+  "name": "The State of Washington, Respondent, v. Richard D. Sims, Petitioner; The State of Washington, Respondent, v. Barbara Leonard, Petitioner",
+  "name_abbreviation": "State v. Sims",
+  "decision_date": "1992-05-21",
+  "docket_number": "Nos. 57661-1, 57672-6",
+  "first_page": "138",
+  "last_page": "143",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "119 Wash. 2d 138"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Wash.",
+    "id": 9029,
+    "name": "Washington Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 38,
+    "name_long": "Washington",
+    "name": "Wash."
+  },
+  "cites_to": [
+    {
+      "cite": "829 P.2d 1078",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1992,
+      "opinion_index": 0
+    },
+    {
+      "cite": "119 Wn.2d 143",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        1370265
+      ],
+      "year": 1992,
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/119/0143-01"
+      ]
+    },
+    {
+      "cite": "456 U.S. 1006",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6398721,
+        6398564,
+        6398247,
+        6398152,
+        6398954,
+        6399179,
+        6399082,
+        6399276,
+        6399630,
+        6399466,
+        6398840,
+        6399387
+      ],
+      "year": 1982,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/456/1006-04",
+        "/us/456/1006-03",
+        "/us/456/1006-02",
+        "/us/456/1006-01",
+        "/us/456/1006-06",
+        "/us/456/1006-08",
+        "/us/456/1006-07",
+        "/us/456/1006-09",
+        "/us/456/1006-12",
+        "/us/456/1006-11",
+        "/us/456/1006-05",
+        "/us/456/1006-10"
+      ]
+    },
+    {
+      "cite": "635 P.2d 435",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1981,
+      "opinion_index": 0
+    },
+    {
+      "cite": "96 Wn.2d 373",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        1157710
+      ],
+      "year": 1981,
+      "pin_cites": [
+        {
+          "page": "378-81"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/96/0373-01"
+      ]
+    },
+    {
+      "cite": "588 P.2d 1151",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1979,
+      "opinion_index": 0
+    },
+    {
+      "cite": "91 Wn.2d 342",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        1101789
+      ],
+      "year": 1979,
+      "pin_cites": [
+        {
+          "page": "344"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/91/0342-01"
+      ]
+    },
+    {
+      "cite": "812 P.2d 86",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1991,
+      "opinion_index": 0
+    },
+    {
+      "cite": "117 Wn.2d 93",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        1373973
+      ],
+      "year": 1991,
+      "pin_cites": [
+        {
+          "page": "105-06"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/117/0093-01"
+      ]
+    },
+    {
+      "cite": "117 Wn.2d 1008",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "year": 1991,
+      "opinion_index": 0
+    },
+    {
+      "cite": "796 P.2d 434",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1990,
+      "opinion_index": 0
+    },
+    {
+      "cite": "59 Wn. App. 127",
+      "category": "reporters:state",
+      "reporter": "Wash. App.",
+      "case_ids": [
+        1750878
+      ],
+      "year": 1990,
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-app/59/0127-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 384,
+    "char_count": 7734,
+    "ocr_confidence": 0.778,
+    "pagerank": {
+      "raw": 2.6557937415023816e-07,
+      "percentile": 0.8244542442435833
+    },
+    "sha256": "2e98503c0e0503067c6ed7140a2f3266b3b3f7d1632ea7eeb52b4f33908a9144",
+    "simhash": "1:427d8e9c6c9b6d6c",
+    "word_count": 1227
+  },
+  "last_updated": "2024-02-27T20:54:39.105269+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "file_name": "0138-01",
+  "first_page_order": 172,
+  "last_page_order": 177
+}

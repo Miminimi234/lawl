@@ -1,0 +1,153 @@
+{
+  "id": 3895936,
+  "name": "Scott Nash vs. Metropolitan Property and Liability Insurance Company",
+  "name_abbreviation": "Nash v. Metropolitan Property & Liability Insurance",
+  "decision_date": "1991-05-07",
+  "docket_number": "",
+  "first_page": "1002",
+  "last_page": "1002",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "410 Mass. 1002"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Mass.",
+    "id": 8825,
+    "name": "Massachusetts Supreme Judicial Court"
+  },
+  "jurisdiction": {
+    "id": 4,
+    "name_long": "Massachusetts",
+    "name": "Mass."
+  },
+  "cites_to": [
+    {
+      "cite": "27 Mass. App. Ct. 111",
+      "category": "reporters:state",
+      "reporter": "Mass. App. Ct.",
+      "case_ids": [
+        3996327
+      ],
+      "year": 1989,
+      "opinion_index": 0,
+      "case_paths": [
+        "/mass-app-ct/27/0111-01"
+      ]
+    },
+    {
+      "cite": "397 Mass. 38",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "case_ids": [
+        874788
+      ],
+      "year": 1986,
+      "pin_cites": [
+        {
+          "page": "41"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mass/397/0038-01"
+      ]
+    },
+    {
+      "cite": "14 Ohio Misc. 23",
+      "category": "reporters:state",
+      "reporter": "Ohio Misc.",
+      "case_ids": [
+        6694425
+      ],
+      "year": 1968,
+      "pin_cites": [
+        {
+          "page": "32-33"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ohio-misc/14/0023-01"
+      ]
+    },
+    {
+      "cite": "394 Mass. 450",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "case_ids": [
+        385115
+      ],
+      "year": 1985,
+      "pin_cites": [
+        {
+          "page": "452"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mass/394/0450-01"
+      ]
+    },
+    {
+      "cite": "403 Mass. 1006",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "case_ids": [
+        3879174
+      ],
+      "weight": 2,
+      "year": 1988,
+      "pin_cites": [
+        {
+          "page": "1007-1008"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mass/403/1006-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 182,
+    "char_count": 2398,
+    "ocr_confidence": 0.977,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.1183057390604626
+    },
+    "sha256": "5a145895d972891606797e72ab4b5e9a29f2660d8027646a9fcaca8c7ebad08a",
+    "simhash": "1:fccc51cec82c9caa",
+    "word_count": 378
+  },
+  "last_updated": "2024-02-27T17:24:21.316167+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Scott Nash vs. Metropolitan Property and Liability Insurance Company."
+    ],
+    "opinions": [
+      {
+        "text": "The plaintiff Nash was injured on October 23, 1983, in a single vehicle accident while he was a guest passenger in a motor vehicle owned and operated by David Mather and insured by the defendant (Metropolitan). Nash was not a named insured or a household member under Mather\u2019s automobile insurance policy. Metropolitan paid Nash $20,000, the full per person limit of the optional bodily injury coverage under the Mather policy. Nash seeks by this action to obtain a declaratory judgment that he is entitled to recover additionally under the underinsured motorist coverage of Mather\u2019s policy.\nA judge of the Superior Court granted summary judgment to Metropolitan and entered a judgment declaring that Nash was not entitled to recover underinsured motorist benefits under Mather\u2019s policy. We granted Metropolitan\u2019s application for direct appellate review. We affirm the judgment.\nThe judge was correct in relying on Liberty Mut. Ins. Co. v. Lund, 403 Mass. 1006 (1988). In that opinion, we observed that \u201c[underinsurance and uninsured motorist protection is not additional liability insurance but rather is \u2018limited personal accident insurance chiefly for the benefit of the named insured.\u2019 Cardin v. Royal Ins. Co., 394 Mass. 450, 452 (1985), quoting Motorist Mut. Ins. Co. v. Bittler, 14 Ohio Misc. 23, 32-33 (1968). To interpret uninsurance and underinsurance in the manner urged by the [claimant] \u2018would effectively convert a form of coverage which is distinct from automobile liability insurance ... to additional liability coverage. . . . This we decline to do.\u2019 Manning v. Fireman\u2019s Fund Am. Ins. Cos., 397 Mass. 38, 41 (1986), citing Cardin v. Royal Ins. Co., supra.\u201d Liberty Mut. Ins. Co. v. Lund, supra at 1007-1008.\nThe fact that Mather had optional bodily injury coverage and the insured in the Lund case did not is a distinction that does not aid Nash. Also, Nash is not helped by the fact that Lumbermens Mut. Casualty Co. v. Mercurio, 27 Mass. App. Ct. 111 (1989), was decided on the assumption that a passenger in a single vehicle accident could recover under the insured tortfeasor\u2019s underinsured coverage. The issue was not decided in that case.\nJudgment affirmed.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Brian L. Bagby for the plaintiff.",
+      "Lauren B. Pillsbury for the defendant."
+    ],
+    "corrections": "",
+    "head_matter": "Scott Nash vs. Metropolitan Property and Liability Insurance Company.\nMay 7, 1991.\nInsurance, Motor vehicle insurance, Underin-sured motorist.\nBrian L. Bagby for the plaintiff.\nLauren B. Pillsbury for the defendant."
+  },
+  "file_name": "1002-01",
+  "first_page_order": 914,
+  "last_page_order": 914
+}

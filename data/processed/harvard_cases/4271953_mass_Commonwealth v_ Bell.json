@@ -1,0 +1,771 @@
+{
+  "id": 4271953,
+  "name": "Commonwealth vs. Lastarandre Bell",
+  "name_abbreviation": "Commonwealth v. Bell",
+  "decision_date": "2011-08-01",
+  "docket_number": "",
+  "first_page": "294",
+  "last_page": "310",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "460 Mass. 294"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Mass.",
+    "id": 8825,
+    "name": "Massachusetts Supreme Judicial Court"
+  },
+  "jurisdiction": {
+    "id": 4,
+    "name_long": "Massachusetts",
+    "name": "Mass."
+  },
+  "cites_to": [
+    {
+      "cite": "458 Mass. 305",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "case_ids": [
+        4269512
+      ],
+      "year": 2010,
+      "pin_cites": [
+        {
+          "parenthetical": "defendant's conviction of murder in first degree reversed; on remand, it would be necessary for defendant to be resentenced on other convictions because those sentences had been ordered to run from and after sentence on murder conviction"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mass/458/0305-01"
+      ]
+    },
+    {
+      "cite": "427 Mass. 659",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "case_ids": [
+        310251
+      ],
+      "weight": 2,
+      "year": 1998,
+      "pin_cites": [
+        {
+          "page": "665",
+          "parenthetical": "judge's refusal to instruct on lesser included manslaughter charge \"impermissibly prevented the jury from considering a lesser degree of culpability for [the defendant]\""
+        },
+        {
+          "page": "664-665"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mass/427/0659-01"
+      ]
+    },
+    {
+      "cite": "398 Mass. 507",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "case_ids": [
+        877655
+      ],
+      "weight": 2,
+      "year": 1986,
+      "pin_cites": [
+        {
+          "page": "513-515",
+          "parenthetical": "defendant convicted of felony-murder in first degree based on unarmed robbery; no error in not giving instruction on larceny from person as basis for felony-murder in second degree where no view of facts supported it; larceny analyzed as lesser included offense of unarmed robbery"
+        },
+        {
+          "page": "514-515"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mass/398/0507-01"
+      ]
+    },
+    {
+      "cite": "407 Mass. 731",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "case_ids": [
+        3886575
+      ],
+      "year": 1990,
+      "pin_cites": [
+        {
+          "page": "737"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mass/407/0731-01"
+      ]
+    },
+    {
+      "cite": "385 Mass. 863",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "case_ids": [
+        900720
+      ],
+      "year": 1982,
+      "pin_cites": [
+        {
+          "page": "871"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mass/385/0863-01"
+      ]
+    },
+    {
+      "cite": "440 Mass. 731",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "case_ids": [
+        1346448
+      ],
+      "year": 2004,
+      "pin_cites": [
+        {
+          "page": "737"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mass/440/0731-01"
+      ]
+    },
+    {
+      "cite": "450 Mass. 55",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "case_ids": [
+        3777807
+      ],
+      "year": 2007,
+      "opinion_index": 0,
+      "case_paths": [
+        "/mass/450/0055-01"
+      ]
+    },
+    {
+      "cite": "454 Mass. 449",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "case_ids": [
+        3670142
+      ],
+      "year": 2009,
+      "pin_cites": [
+        {
+          "page": "460-461"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mass/454/0449-01"
+      ]
+    },
+    {
+      "cite": "449 Mass. 71",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "case_ids": [
+        3817560
+      ],
+      "year": 2007,
+      "pin_cites": [
+        {
+          "page": "76-80"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mass/449/0071-01"
+      ]
+    },
+    {
+      "cite": "391 U.S. 968",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        1767460,
+        1767782,
+        1767593,
+        1767789,
+        1767759,
+        1767667,
+        1767635,
+        1767385,
+        1767708
+      ],
+      "weight": 2,
+      "year": 1968,
+      "pin_cites": [
+        {
+          "parenthetical": "failure to instruct jury on felony-murder in second degree based on breaking and entering where defendant convicted of felony-murder in first degree based on robbery created \"possible miscarriage of justice\"; court remanded for entry of verdict of guilty of murder in second degree"
+        },
+        {
+          "parenthetical": "same"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/391/0968-02",
+        "/us/391/0968-04",
+        "/us/391/0968-08",
+        "/us/391/0968-09",
+        "/us/391/0968-01",
+        "/us/391/0968-03",
+        "/us/391/0968-07",
+        "/us/391/0968-05",
+        "/us/391/0968-06"
+      ]
+    },
+    {
+      "cite": "353 Mass. 409",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "case_ids": [
+        3862921
+      ],
+      "weight": 3,
+      "year": 1967,
+      "pin_cites": [
+        {
+          "page": "424-426"
+        },
+        {
+          "page": "424-426"
+        },
+        {
+          "page": "426"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mass/353/0409-01"
+      ]
+    },
+    {
+      "cite": "360 Mass. 385",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "case_ids": [
+        317479
+      ],
+      "weight": 6,
+      "year": 1971,
+      "pin_cites": [
+        {
+          "page": "386, 390"
+        },
+        {
+          "page": "394-395"
+        },
+        {
+          "page": "395-397"
+        },
+        {
+          "page": "395-396",
+          "parenthetical": "in context of felony-murder conviction based on armed robbery, evidence warranted inference that killing occurred while defendants were committing lesser crime of breaking and entering; issue analyzed as one involving degrees of murder, not lesser included offenses"
+        },
+        {
+          "page": "396-397"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mass/360/0385-01"
+      ]
+    },
+    {
+      "cite": "386 Mass. 492",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "case_ids": [
+        906593
+      ],
+      "year": 1982,
+      "opinion_index": 0,
+      "case_paths": [
+        "/mass/386/0492-01"
+      ]
+    },
+    {
+      "cite": "438 Mass. 1",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "case_ids": [
+        201327
+      ],
+      "weight": 2,
+      "year": 2002,
+      "pin_cites": [
+        {
+          "parenthetical": "\"Of course, if the evidence supports a verdict of felony-murder in the second degree within the charge of felony-murder in the first degree, that form of murder in the second degree would have to be explained to the jury\""
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mass/438/0001-01"
+      ]
+    },
+    {
+      "cite": "430 Mass. 552",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "case_ids": [
+        1157396
+      ],
+      "weight": 5,
+      "year": 2000,
+      "pin_cites": [
+        {
+          "page": "557"
+        },
+        {
+          "page": "558"
+        },
+        {
+          "page": "558"
+        },
+        {
+          "page": "557"
+        },
+        {
+          "page": "558"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mass/430/0552-01"
+      ]
+    },
+    {
+      "cite": "379 Mass. 810",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "case_ids": [
+        3872610
+      ],
+      "weight": 2,
+      "year": 1980,
+      "pin_cites": [
+        {
+          "page": "817, 823"
+        },
+        {
+          "page": "817",
+          "parenthetical": "\"the chain of circumstances permitted the jury to infer that the defendant 'wilfully and maliciously' set the fire\""
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mass/379/0810-01"
+      ]
+    },
+    {
+      "cite": "393 Mass. 612",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "case_ids": [
+        894227
+      ],
+      "weight": 2,
+      "year": 1985,
+      "opinion_index": 0,
+      "case_paths": [
+        "/mass/393/0612-01"
+      ]
+    },
+    {
+      "cite": "399 Mass. 165",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "case_ids": [
+        3794540
+      ],
+      "year": 1987,
+      "pin_cites": [
+        {
+          "page": "167"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mass/399/0165-01"
+      ]
+    },
+    {
+      "cite": "455 Mass. 307",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "case_ids": [
+        3665393
+      ],
+      "year": 2009,
+      "pin_cites": [
+        {
+          "page": "325"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mass/455/0307-01"
+      ]
+    },
+    {
+      "cite": "442 Mass. 341",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "case_ids": [
+        1183027
+      ],
+      "year": 2004,
+      "pin_cites": [
+        {
+          "page": "351"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mass/442/0341-01"
+      ]
+    },
+    {
+      "cite": "391 Mass. 279",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "case_ids": [
+        918590
+      ],
+      "year": 1984,
+      "pin_cites": [
+        {
+          "page": "290-291"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mass/391/0279-01"
+      ]
+    },
+    {
+      "cite": "450 Mass. 215",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "case_ids": [
+        3777405
+      ],
+      "weight": 2,
+      "year": 2007,
+      "opinion_index": 0,
+      "case_paths": [
+        "/mass/450/0215-01"
+      ]
+    },
+    {
+      "cite": "443 Mass. 770",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "case_ids": [
+        1276645
+      ],
+      "year": 2005,
+      "pin_cites": [
+        {
+          "page": "776-777"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mass/443/0770-01"
+      ]
+    },
+    {
+      "cite": "432 Mass. 404",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "case_ids": [
+        285284
+      ],
+      "year": 2000,
+      "pin_cites": [
+        {
+          "page": "413"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mass/432/0404-01"
+      ]
+    },
+    {
+      "cite": "373 Mass. 109",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "case_ids": [
+        324020
+      ],
+      "year": 1977,
+      "pin_cites": [
+        {
+          "page": "115"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mass/373/0109-01"
+      ]
+    },
+    {
+      "cite": "435 Mass. 113",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "case_ids": [
+        993857
+      ],
+      "weight": 2,
+      "year": 2001,
+      "pin_cites": [
+        {
+          "page": "123"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mass/435/0113-01"
+      ]
+    },
+    {
+      "cite": "366 Mass. 89",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "case_ids": [
+        314554
+      ],
+      "weight": 2,
+      "year": 1974,
+      "pin_cites": [
+        {
+          "page": "96-97"
+        },
+        {
+          "page": "96"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mass/366/0089-01"
+      ]
+    },
+    {
+      "cite": "451 Mass. 200",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "case_ids": [
+        3788607
+      ],
+      "year": 2008,
+      "pin_cites": [
+        {
+          "page": "206"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mass/451/0200-01"
+      ]
+    },
+    {
+      "cite": "438 Mass. 356",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "case_ids": [
+        201329
+      ],
+      "weight": 4,
+      "year": 2003,
+      "pin_cites": [
+        {
+          "page": "359"
+        },
+        {
+          "page": "362"
+        },
+        {
+          "page": "359-360"
+        },
+        {
+          "page": "359"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mass/438/0356-01"
+      ]
+    },
+    {
+      "cite": "430 Mass. 461",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "case_ids": [
+        1157306
+      ],
+      "year": 1999,
+      "pin_cites": [
+        {
+          "page": "465-466"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mass/430/0461-01"
+      ]
+    },
+    {
+      "cite": "440 Mass. 84",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "case_ids": [
+        1346504
+      ],
+      "weight": 2,
+      "year": 2003,
+      "opinion_index": 0,
+      "case_paths": [
+        "/mass/440/0084-01"
+      ]
+    },
+    {
+      "cite": "471 U.S. 1115",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6377922,
+        6377727,
+        6377254,
+        6378255,
+        6377425,
+        6377593,
+        6378106,
+        6377119
+      ],
+      "year": 1985,
+      "pin_cites": [
+        {
+          "parenthetical": "quotations and citation omitted"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/471/1115-06",
+        "/us/471/1115-05",
+        "/us/471/1115-02",
+        "/us/471/1115-08",
+        "/us/471/1115-03",
+        "/us/471/1115-04",
+        "/us/471/1115-07",
+        "/us/471/1115-01"
+      ]
+    },
+    {
+      "cite": "391 Mass. 461",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "case_ids": [
+        918521
+      ],
+      "year": 1984,
+      "pin_cites": [
+        {
+          "page": "466"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mass/391/0461-01"
+      ]
+    },
+    {
+      "cite": "427 Mass. 259",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "case_ids": [
+        310249
+      ],
+      "weight": 7,
+      "year": 1998,
+      "pin_cites": [
+        {
+          "page": "272"
+        },
+        {
+          "page": "273-274",
+          "parenthetical": "no merger of homicide and predicate felony of armed assault in dwelling where ample evidence presented of separate assaults against other persons in dwelling in addition to homicide victim"
+        },
+        {
+          "page": "274",
+          "parenthetical": "\"ample evidence presented by the Commonwealth of independent assaults\""
+        },
+        {
+          "page": "274"
+        },
+        {
+          "page": "276"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mass/427/0259-01"
+      ]
+    },
+    {
+      "cite": "444 Mass. 640",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "case_ids": [
+        985806
+      ],
+      "year": 2005,
+      "pin_cites": [
+        {
+          "page": "648",
+          "parenthetical": "when unpreserved error offered as ground for new trial based on ineffective assistance of counsel in case of murder in first degree, court applies substantial likelihood of miscarriage of justice standard of review"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mass/444/0640-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 1432,
+    "char_count": 43074,
+    "ocr_confidence": 0.92,
+    "pagerank": {
+      "raw": 1.7569850697720566e-07,
+      "percentile": 0.709346954204666
+    },
+    "sha256": "8312761545aeaf974a65ab95d54140348d587b2ac579c8f74f13eeaec4bf6006",
+    "simhash": "1:bb179a5bae9767ec",
+    "word_count": 7059
+  },
+  "last_updated": "2024-02-27T17:56:26.592595+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "file_name": "0294-01",
+  "first_page_order": 320,
+  "last_page_order": 336
+}

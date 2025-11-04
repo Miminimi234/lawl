@@ -1,0 +1,722 @@
+{
+  "id": 12519746,
+  "name": "MARALEX RESOURCES, INC., a Colorado Corporation; Alexis M. O'Hare; Mary C. O'Hare, Plaintiffs - Appellants, v. David BARNHARDT, in His Official Capacity as Acting Secretary of the United States Department of the Interior; The United States Department of Interior; The United States of America, Defendants - Appellees.",
+  "name_abbreviation": "Maralex Res., Inc. v. Barnhardt",
+  "decision_date": "2019-01-18",
+  "docket_number": "No. 17-1421",
+  "first_page": "1189",
+  "last_page": "1204",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "913 F.3d 1189"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "10th Cir.",
+    "id": 8771,
+    "name": "United States Court of Appeals for the Tenth Circuit"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "138 S.Ct. 2105",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        12612847
+      ],
+      "weight": 2,
+      "year": 2018,
+      "pin_cites": [
+        {
+          "page": "2115"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/s-ct/138/2105-01"
+      ]
+    },
+    {
+      "cite": "585 F.3d 1376",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        3481566
+      ],
+      "year": 2009,
+      "pin_cites": [
+        {
+          "page": "1381",
+          "parenthetical": "quotation marks and citation omitted"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/585/1376-01"
+      ]
+    },
+    {
+      "cite": "712 F.3d 136",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        3554929
+      ],
+      "year": 2013,
+      "pin_cites": [
+        {
+          "page": "141"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/712/0136-01"
+      ]
+    },
+    {
+      "cite": "599 F.3d 654",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        4223392,
+        3546916
+      ],
+      "year": 2010,
+      "pin_cites": [
+        {
+          "page": "661",
+          "parenthetical": "\"We think the proposition that the review provisions of the APA are not jurisdictional is now firmly established.\""
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/599/0654-01",
+        "/us-app-dc/389/0392-01"
+      ]
+    },
+    {
+      "cite": "725 F. App'x 614",
+      "category": "reporters:federal",
+      "reporter": "F. App'x",
+      "year": 2018,
+      "pin_cites": [
+        {
+          "page": "621",
+          "parenthetical": "stating that \"judicial exhaustion requirements under the APA are prudential only.\""
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "498 U.S. 517",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6231998
+      ],
+      "weight": 3,
+      "year": 1991,
+      "pin_cites": [
+        {
+          "parenthetical": "\"The judicial review provisions of the APA are not jurisdictional ....\""
+        },
+        {
+          "parenthetical": "\"The judicial review provisions of the APA are not jurisdictional ....\""
+        },
+        {
+          "parenthetical": "\"The judicial review provisions of the APA are not jurisdictional ....\""
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/498/0517-01"
+      ]
+    },
+    {
+      "cite": "43 C.F.R. \u00a7 3163.1",
+      "category": "laws:admin_compilation",
+      "reporter": "C.F.R.",
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "(a)(4)"
+        },
+        {
+          "page": "(a)(5)"
+        },
+        {
+          "page": "39-40"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "30 U.S.C. \u00a7\u00a7 1719",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "(a)(2)(A)"
+        },
+        {
+          "page": "(a)(2)"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "30 C.F.R. \u00a7\u00a7 3162.1",
+      "category": "laws:admin_compilation",
+      "reporter": "C.F.R.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "43 C.F.R. \u00a7 3161.2",
+      "category": "laws:admin_compilation",
+      "reporter": "C.F.R.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "43 C.F.R. \u00a7 3163.3",
+      "category": "laws:admin_compilation",
+      "reporter": "C.F.R.",
+      "pin_cites": [
+        {
+          "page": "(a) and (b)"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "43 C.F.R. \u00a7 3161.3",
+      "category": "laws:admin_compilation",
+      "reporter": "C.F.R.",
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "(a)"
+        },
+        {
+          "page": "(a)"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "43 C.F.R. \u00a7 3161.1",
+      "category": "laws:admin_compilation",
+      "reporter": "C.F.R.",
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "(b)"
+        },
+        {
+          "page": "(b)",
+          "parenthetical": "emphasis added"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "189 L.Ed.2d 372",
+      "category": "reporters:federal",
+      "reporter": "L. Ed. 2d",
+      "year": 2014,
+      "pin_cites": [
+        {
+          "parenthetical": "internal quotation marks omitted"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "134 S.Ct. 2427",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "year": 2014,
+      "pin_cites": [
+        {
+          "page": "2445",
+          "parenthetical": "internal quotation marks omitted"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "573 U.S. 302",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "year": 2014,
+      "pin_cites": [
+        {
+          "parenthetical": "internal quotation marks omitted"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "861 F.3d 1157",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        12276348
+      ],
+      "year": 2017,
+      "pin_cites": [
+        {
+          "page": "1162",
+          "parenthetical": "quoting Util. Air Regulatory Grp. v. EPA, 573 U.S. 302, 134 S.Ct. 2427, 2445, 189 L.Ed.2d 372 (2014) (internal quotation marks omitted) "
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/861/1157-01"
+      ]
+    },
+    {
+      "cite": "887 F.3d 1003",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        12516496
+      ],
+      "year": 2018,
+      "pin_cites": [
+        {
+          "page": "1018",
+          "parenthetical": "\"silence is not ambiguity\""
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/887/1003-01"
+      ]
+    },
+    {
+      "cite": "534 U.S. 84",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        9108010
+      ],
+      "weight": 3,
+      "year": 2001,
+      "pin_cites": [
+        {
+          "page": "90"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/534/0084-01"
+      ]
+    },
+    {
+      "cite": "764 F.3d 1199",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        4182593
+      ],
+      "weight": 2,
+      "year": 2014,
+      "pin_cites": [
+        {
+          "page": "1226",
+          "parenthetical": "quotations and citations omitted"
+        },
+        {
+          "page": "1227",
+          "parenthetical": "quoting Fed. Hous. Fin. Agency v. UBS Americas Inc., 712 F.3d 136, 141 (2d Cir. 2013) "
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/764/1199-01"
+      ]
+    },
+    {
+      "cite": "30 U.S.C. \u00a7 1702",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "pin_cites": [
+        {
+          "page": "(1)"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "34 Stat. 539",
+      "category": "laws:leg_session",
+      "reporter": "Stat.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "43 USC \u00a7 1613",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "pin_cites": [
+        {
+          "page": "(g)"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "568 U.S. 597",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        12407704
+      ],
+      "weight": 4,
+      "year": 2013,
+      "pin_cites": [
+        {
+          "page": "613"
+        },
+        {
+          "parenthetical": "quotation marks omitted"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/568/0597-01"
+      ]
+    },
+    {
+      "cite": "136 S.Ct. 2117",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        12597950
+      ],
+      "weight": 4,
+      "year": 2016,
+      "pin_cites": [
+        {
+          "page": "2124"
+        },
+        {
+          "page": "2124"
+        },
+        {
+          "page": "2125"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/s-ct/136/2117-01"
+      ]
+    },
+    {
+      "cite": "291 F.3d 1250",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        9434892
+      ],
+      "year": 2002,
+      "pin_cites": [
+        {
+          "page": "1257"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/291/1250-01"
+      ]
+    },
+    {
+      "cite": "467 U.S. 837",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6209106
+      ],
+      "weight": 15,
+      "year": 1984,
+      "pin_cites": [
+        {
+          "page": "842"
+        },
+        {
+          "page": "842-43"
+        },
+        {
+          "page": "843"
+        },
+        {
+          "page": "844"
+        },
+        {
+          "page": "842"
+        },
+        {
+          "page": "842-43"
+        },
+        {
+          "page": "844"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/467/0837-01"
+      ]
+    },
+    {
+      "cite": "5 U.S.C. \u00a7 706",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "pin_cites": [
+        {
+          "page": "(2)(A)"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "439 F.3d 1184",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        31362
+      ],
+      "year": 2006,
+      "pin_cites": [
+        {
+          "page": "1188",
+          "parenthetical": "internal quotations omitted"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/439/1184-01"
+      ]
+    },
+    {
+      "cite": "346 F.3d 1244",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        9095967
+      ],
+      "year": 2003,
+      "pin_cites": [
+        {
+          "page": "1248"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/346/1244-01"
+      ]
+    },
+    {
+      "cite": "30 U.S.C. \u00a7 1718",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "weight": 8,
+      "pin_cites": [
+        {
+          "page": "40-41"
+        },
+        {
+          "page": "41"
+        },
+        {
+          "page": "(b)"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "392 F.3d 1159",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        9191086
+      ],
+      "year": 2004,
+      "pin_cites": [
+        {
+          "page": "1162",
+          "parenthetical": "citations omitted"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/392/1159-01"
+      ]
+    },
+    {
+      "cite": "972 F.2d 1527",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1871193,
+        1871437
+      ],
+      "year": 1992,
+      "pin_cites": [
+        {
+          "page": "1539"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/972/1527-01",
+        "/f2d/972/1527-02"
+      ]
+    },
+    {
+      "cite": "508 U.S. 439",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11519
+      ],
+      "weight": 3,
+      "year": 1993,
+      "pin_cites": [
+        {
+          "page": "447-48",
+          "parenthetical": "discussing authority of appellate court to address potentially waived issue"
+        },
+        {
+          "parenthetical": "discussing authority of appellate court to address potentially waived issue"
+        },
+        {
+          "parenthetical": "discussing authority of appellate court to address potentially waived issue"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/508/0439-01"
+      ]
+    },
+    {
+      "cite": "43 C.F.R. \u00a7 3162.1",
+      "category": "laws:admin_compilation",
+      "reporter": "C.F.R.",
+      "weight": 31,
+      "pin_cites": [
+        {
+          "page": "(b)"
+        },
+        {
+          "page": "24"
+        },
+        {
+          "page": "33"
+        },
+        {
+          "page": "34"
+        },
+        {
+          "page": "88"
+        },
+        {
+          "page": "90"
+        },
+        {
+          "page": "90-91",
+          "parenthetical": "italics in original"
+        },
+        {
+          "page": "91"
+        },
+        {
+          "page": "93"
+        },
+        {
+          "page": "97"
+        },
+        {
+          "page": "98"
+        },
+        {
+          "page": "(b)"
+        },
+        {
+          "page": "113"
+        },
+        {
+          "page": "208"
+        },
+        {
+          "page": "102"
+        },
+        {
+          "page": "107-08"
+        },
+        {
+          "page": "112"
+        },
+        {
+          "page": "112-13"
+        },
+        {
+          "parenthetical": "emphasis added"
+        },
+        {
+          "page": "(b)"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "28 U.S.C. \u00a7 1291",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "weight": 8,
+      "pin_cites": [
+        {
+          "page": "4"
+        },
+        {
+          "page": "5"
+        },
+        {
+          "page": "32"
+        },
+        {
+          "page": "18"
+        },
+        {
+          "page": "23"
+        }
+      ],
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 1483,
+    "char_count": 46633,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.259158352475376
+    },
+    "sha256": "9f94e2da0d72765003efa95f8197dcee31d3bb0c340105bdb7ed0414ad4cad7f",
+    "simhash": "1:60ecd43cbe3a8640",
+    "word_count": 7581
+  },
+  "last_updated": "2024-02-27T18:46:17.308091+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "file_name": "1189-01",
+  "first_page_order": 1189,
+  "last_page_order": 1204
+}

@@ -1,0 +1,435 @@
+{
+  "id": 4272690,
+  "name": "John Doe vs. Police Commissioner of Boston & others",
+  "name_abbreviation": "Doe v. Police Commissioner of Boston",
+  "decision_date": "2011-08-05",
+  "docket_number": "",
+  "first_page": "342",
+  "last_page": "351",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "460 Mass. 342"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Mass.",
+    "id": 8825,
+    "name": "Massachusetts Supreme Judicial Court"
+  },
+  "jurisdiction": {
+    "id": 4,
+    "name_long": "Massachusetts",
+    "name": "Mass."
+  },
+  "cites_to": [
+    {
+      "cite": "458 Mass. 574",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "case_ids": [
+        4269639
+      ],
+      "year": 2010,
+      "opinion_index": 0,
+      "case_paths": [
+        "/mass/458/0574-01"
+      ]
+    },
+    {
+      "cite": "444 Mass. 586",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "case_ids": [
+        985800
+      ],
+      "year": 2005,
+      "pin_cites": [
+        {
+          "page": "597"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mass/444/0586-01"
+      ]
+    },
+    {
+      "cite": "440 Mass. 422",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "case_ids": [
+        1346443
+      ],
+      "year": 2003,
+      "pin_cites": [
+        {
+          "page": "429"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mass/440/0422-01"
+      ]
+    },
+    {
+      "cite": "423 Mass. 1403",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "year": 1996,
+      "opinion_index": 0
+    },
+    {
+      "cite": "454 Mass. 559",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "case_ids": [
+        3670277
+      ],
+      "year": 2009,
+      "opinion_index": 0,
+      "case_paths": [
+        "/mass/454/0559-01"
+      ]
+    },
+    {
+      "cite": "491 U.S. 110",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6211101
+      ],
+      "year": 1989,
+      "pin_cites": [
+        {
+          "page": "120-121"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/491/0110-01"
+      ]
+    },
+    {
+      "cite": "405 U.S. 645",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11723248
+      ],
+      "year": 1972,
+      "pin_cites": [
+        {
+          "page": "656-658",
+          "parenthetical": "irrebuttable presumption that unwed fathers are unfit parents did not serve State's goal of strengthening family ties"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/405/0645-01"
+      ]
+    },
+    {
+      "cite": "414 U.S. 632",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11716587
+      ],
+      "weight": 2,
+      "year": 1974,
+      "pin_cites": [
+        {
+          "page": "644-648",
+          "parenthetical": "administrative convenience insufficient to justify irrebuttable presumption of physical incapacity among pregnant teachers"
+        },
+        {
+          "page": "645-646"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/414/0632-01"
+      ]
+    },
+    {
+      "cite": "414 Mass. 667",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "case_ids": [
+        3903211
+      ],
+      "year": 1993,
+      "pin_cites": [
+        {
+          "page": "675"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mass/414/0667-01"
+      ]
+    },
+    {
+      "cite": "424 U.S. 319",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        12026449
+      ],
+      "weight": 2,
+      "year": 1976,
+      "pin_cites": [
+        {
+          "page": "335"
+        },
+        {
+          "page": "334-335"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/424/0319-01"
+      ]
+    },
+    {
+      "cite": "456 U.S. 444",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6187594
+      ],
+      "year": 1982,
+      "pin_cites": [
+        {
+          "page": "446, 456",
+          "parenthetical": "right to continued residence in government-subsidized housing is significant interest in property to which due process rights attach"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/456/0444-01"
+      ]
+    },
+    {
+      "cite": "455 Mass. 24",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "case_ids": [
+        3665362
+      ],
+      "year": 2009,
+      "pin_cites": [
+        {
+          "page": "32-33",
+          "parenthetical": "\"Massachusetts Declaration of Rights guarantees a fundamental right to move freely within the Commonwealth\""
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mass/455/0024-01"
+      ]
+    },
+    {
+      "cite": "442 Mass. 250",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "case_ids": [
+        1183109
+      ],
+      "weight": 2,
+      "year": 2004,
+      "pin_cites": [
+        {
+          "page": "257, 261"
+        },
+        {
+          "page": "257-259, 261"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mass/442/0250-01"
+      ]
+    },
+    {
+      "cite": "434 Mass. 418",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "case_ids": [
+        1080017
+      ],
+      "year": 2001,
+      "pin_cites": [
+        {
+          "page": "422-423"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mass/434/0418-01"
+      ]
+    },
+    {
+      "cite": "428 Mass. 90",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "case_ids": [
+        651222
+      ],
+      "year": 1998,
+      "pin_cites": [
+        {
+          "page": "91, 98"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mass/428/0090-01"
+      ]
+    },
+    {
+      "cite": "450 Mass. 780",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "case_ids": [
+        3777441
+      ],
+      "weight": 4,
+      "year": 2008,
+      "pin_cites": [
+        {
+          "page": "790-791",
+          "parenthetical": "liberty interest"
+        },
+        {
+          "page": "793"
+        },
+        {
+          "page": "793"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mass/450/0780-01"
+      ]
+    },
+    {
+      "cite": "452 Mass. 764",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "case_ids": [
+        5684060
+      ],
+      "year": 2008,
+      "pin_cites": [
+        {
+          "page": "772"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mass/452/0764-01"
+      ]
+    },
+    {
+      "cite": "456 Mass. 801",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "case_ids": [
+        3667927
+      ],
+      "year": 2010,
+      "pin_cites": [
+        {
+          "page": "813",
+          "parenthetical": "privacy interest"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mass/456/0801-01"
+      ]
+    },
+    {
+      "cite": "425 Mass. 217",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "case_ids": [
+        274520
+      ],
+      "year": 1997,
+      "pin_cites": [
+        {
+          "page": "220"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mass/425/0217-01"
+      ]
+    },
+    {
+      "cite": "426 Mass. 136",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "case_ids": [
+        369455
+      ],
+      "weight": 3,
+      "year": 1997,
+      "pin_cites": [
+        {
+          "page": "143"
+        },
+        {
+          "page": "140"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mass/426/0136-01"
+      ]
+    },
+    {
+      "cite": "423 Mass. 1201",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "case_ids": [
+        1028034
+      ],
+      "year": 1996,
+      "pin_cites": [
+        {
+          "page": "1225",
+          "parenthetical": "earlier version of sex offender registration statute \"imposes an entirely new system of consequences - potentially extremely burdensome - only on persons who have satisfied all the punitive measures applied to them in connection with a previous conviction\""
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mass/423/1201-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 1061,
+    "char_count": 24041,
+    "ocr_confidence": 0.918,
+    "pagerank": {
+      "raw": 8.891014858842999e-08,
+      "percentile": 0.49972025396075215
+    },
+    "sha256": "fc109096389ad58f2402d88446ec359a33fea71cbe5e3a61c6e915c491057fa2",
+    "simhash": "1:41a55ce6b09d015e",
+    "word_count": 3870
+  },
+  "last_updated": "2024-02-27T17:56:26.592595+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "file_name": "0342-01",
+  "first_page_order": 368,
+  "last_page_order": 377
+}

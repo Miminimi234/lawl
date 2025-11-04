@@ -1,0 +1,696 @@
+{
+  "id": 12519729,
+  "name": "WESTERNGECO L.L.C., Plaintiff-Cross-Appellant v. ION GEOPHYSICAL CORPORATION, Defendant-Appellant",
+  "name_abbreviation": "Westerngeco L.L.C. v. ION Geophysical Corp.",
+  "decision_date": "2019-01-11",
+  "docket_number": "2013-1527; 2014-1121; 2014-1526; 2014-1528",
+  "first_page": "1067",
+  "last_page": "1076",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "913 F.3d 1067"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Fed. Cir.",
+    "id": 8955,
+    "name": "United States Court of Appeals for the Federal Circuit"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "851 F.3d 1275",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        12277880
+      ],
+      "year": 2017,
+      "pin_cites": [
+        {
+          "page": "1287-88",
+          "parenthetical": "holding that \"satisfaction of the Panduit factors satisifie[d] principles of apportionment\" where, \"on the undisputed facts of this record,\" it was clear the plaintiff's damages were \"tied to the worth of its patented features\""
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/851/1275-01"
+      ]
+    },
+    {
+      "cite": "837 F.3d 1358",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        12142039
+      ],
+      "year": 2016,
+      "pin_cites": [
+        {
+          "parenthetical": "\"WesternGeco II \""
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/837/1358-01"
+      ]
+    },
+    {
+      "cite": "195 L.Ed.2d 820",
+      "category": "reporters:federal",
+      "reporter": "L. Ed. 2d",
+      "case_ids": [
+        12598777,
+        12598755,
+        12598765
+      ],
+      "weight": 2,
+      "year": 2016,
+      "opinion_index": 0,
+      "case_paths": [
+        "/s-ct/136/2486-05",
+        "/s-ct/136/2483-01",
+        "/s-ct/136/2484-04"
+      ]
+    },
+    {
+      "cite": "136 S.Ct. 2486",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        12598773,
+        12598774,
+        12598775,
+        12598776,
+        12598777
+      ],
+      "weight": 2,
+      "year": 2016,
+      "opinion_index": 0,
+      "case_paths": [
+        "/s-ct/136/2486-01",
+        "/s-ct/136/2486-02",
+        "/s-ct/136/2486-03",
+        "/s-ct/136/2486-04",
+        "/s-ct/136/2486-05"
+      ]
+    },
+    {
+      "cite": "773 F.3d 1245",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        6055750
+      ],
+      "year": 2014,
+      "pin_cites": [
+        {
+          "page": "1262"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/773/1245-01"
+      ]
+    },
+    {
+      "cite": "953 F.Supp.2d 731",
+      "category": "reporters:federal",
+      "reporter": "F. Supp. 2d",
+      "case_ids": [
+        3939134
+      ],
+      "year": 2013,
+      "opinion_index": 0,
+      "case_paths": [
+        "/f-supp-2d/953/0731-01"
+      ]
+    },
+    {
+      "cite": "812 F.3d 1040",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        4085378
+      ],
+      "year": 2016,
+      "pin_cites": [
+        {
+          "page": "1047",
+          "parenthetical": "\"[T]he error in the instruction governing this central dispute at trial would be harmless only if a reasonable jury would have been required by the evidence to find non-infringement even without the error.\""
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/812/1040-01"
+      ]
+    },
+    {
+      "cite": "500 F. App'x 922",
+      "category": "reporters:federal",
+      "reporter": "F. App'x",
+      "case_ids": [
+        3763949
+      ],
+      "year": 2013,
+      "pin_cites": [
+        {
+          "page": "931"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f-appx/500/0922-01"
+      ]
+    },
+    {
+      "cite": "477 U.S. 299",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6207510
+      ],
+      "weight": 3,
+      "year": 1986,
+      "pin_cites": [
+        {
+          "page": "312"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/477/0299-01"
+      ]
+    },
+    {
+      "cite": "503 F.3d 1295",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        2920813
+      ],
+      "weight": 2,
+      "year": 2007,
+      "pin_cites": [
+        {
+          "page": "1310",
+          "parenthetical": "citing Memphis Cmty. Sch. Dist. v. Stachura , 477 U.S. 299, 312, 106 S.Ct. 2537, 91 L.Ed.2d 249 (1986) "
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/503/1295-01"
+      ]
+    },
+    {
+      "cite": "112 U.S. 490",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        3508643
+      ],
+      "weight": 3,
+      "year": 1884,
+      "pin_cites": [
+        {
+          "page": "493"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/112/0490-01"
+      ]
+    },
+    {
+      "cite": "358 U.S. 613",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        3656838
+      ],
+      "weight": 3,
+      "year": 1959,
+      "pin_cites": [
+        {
+          "page": "619",
+          "parenthetical": "\"[A] new trial will be required, for there is no way to know that the invalid [legal theory] was not the sole basis for the verdict.\""
+        },
+        {
+          "parenthetical": "\"[A] new trial will be required, for there is no way to know that the invalid [legal theory] was not the sole basis for the verdict.\""
+        },
+        {
+          "parenthetical": "\"[A] new trial will be required, for there is no way to know that the invalid [legal theory] was not the sole basis for the verdict.\""
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/358/0613-01"
+      ]
+    },
+    {
+      "cite": "413 F.3d 1301",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        8973709
+      ],
+      "year": 2005,
+      "pin_cites": [
+        {
+          "page": "1311-12"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/413/1301-01"
+      ]
+    },
+    {
+      "cite": "564 U.S. 91",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        5933721,
+        12450135
+      ],
+      "weight": 3,
+      "year": 2011,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/564/0091-01",
+        "/l-ed-2d/180/0131-01"
+      ]
+    },
+    {
+      "cite": "952 F.2d 119",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1867486
+      ],
+      "year": 1992,
+      "pin_cites": [
+        {
+          "page": "126"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/952/0119-01"
+      ]
+    },
+    {
+      "cite": "598 F.3d 831",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        4221786
+      ],
+      "year": 2010,
+      "pin_cites": [
+        {
+          "page": "849-50",
+          "parenthetical": "citing Walther v. Lone Star Gas Co. , 952 F.2d 119, 126 (5th Cir. 1992) "
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/598/0831-01"
+      ]
+    },
+    {
+      "cite": "773 F.3d 1201",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        4316311
+      ],
+      "year": 2014,
+      "pin_cites": [
+        {
+          "page": "1226"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/773/1201-01"
+      ]
+    },
+    {
+      "cite": "1 F.3d 1214",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        10517136
+      ],
+      "weight": 3,
+      "year": 1993,
+      "pin_cites": [
+        {
+          "page": "1217-20"
+        },
+        {
+          "page": "1219"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/1/1214-01"
+      ]
+    },
+    {
+      "cite": "56 F.3d 1538",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        11344589
+      ],
+      "weight": 3,
+      "year": 1995,
+      "pin_cites": [
+        {
+          "parenthetical": "en banc"
+        },
+        {
+          "page": "1545",
+          "parenthetical": "emphasis added"
+        },
+        {
+          "page": "1545"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/56/1538-01"
+      ]
+    },
+    {
+      "cite": "15 L.Ed. 435",
+      "category": "reporters:federal",
+      "reporter": "L. Ed.",
+      "case_ids": [
+        3489104
+      ],
+      "year": 1855,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/59/0421-01"
+      ]
+    },
+    {
+      "cite": "59 U.S. 18",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "year": 1855,
+      "opinion_index": 0
+    },
+    {
+      "cite": "17 L.Ed. 207",
+      "category": "reporters:federal",
+      "reporter": "L. Ed.",
+      "case_ids": [
+        1410086
+      ],
+      "year": 1861,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/66/0273-01"
+      ]
+    },
+    {
+      "cite": "66 U.S. 1",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "year": 1861,
+      "opinion_index": 0
+    },
+    {
+      "cite": "789 F.3d 1349",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        4234050
+      ],
+      "year": 2015,
+      "pin_cites": [
+        {
+          "page": "1358"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/789/1349-01"
+      ]
+    },
+    {
+      "cite": "26 F.3d 1573",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        10516833
+      ],
+      "year": 1994,
+      "pin_cites": [
+        {
+          "page": "1580"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/26/1573-01"
+      ]
+    },
+    {
+      "cite": "733 F.3d 1369",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        3715565
+      ],
+      "year": 2013,
+      "pin_cites": [
+        {
+          "page": "1371",
+          "parenthetical": "Dyk, J., concurring in denial of rehearing en banc"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/733/1369-01"
+      ]
+    },
+    {
+      "cite": "721 F.3d 1330",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        5755538
+      ],
+      "weight": 4,
+      "year": 2013,
+      "pin_cites": [
+        {
+          "page": "1341",
+          "parenthetical": "alterations in original"
+        },
+        {
+          "page": "1340"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/721/1330-01"
+      ]
+    },
+    {
+      "cite": "318 F.Supp. 1116",
+      "category": "reporters:federal",
+      "reporter": "F. Supp.",
+      "case_ids": [
+        3170522
+      ],
+      "year": 1970,
+      "pin_cites": [
+        {
+          "page": "1120"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f-supp/318/1116-01"
+      ]
+    },
+    {
+      "cite": "889 F.3d 1308",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        12516784
+      ],
+      "weight": 3,
+      "year": 2018,
+      "pin_cites": [
+        {
+          "page": "1331",
+          "parenthetical": "\" WesternGeco IPR \""
+        },
+        {
+          "page": "1331"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/889/1308-01"
+      ]
+    },
+    {
+      "cite": "136 S.Ct. 1923",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        12597516
+      ],
+      "weight": 2,
+      "year": 2016,
+      "pin_cites": [
+        {
+          "page": "1935-36"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/s-ct/136/1923-01"
+      ]
+    },
+    {
+      "cite": "35 U.S.C. \u00a7\u00a7 271",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "(f)(1) and (2)"
+        },
+        {
+          "page": "(f)(2)"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "U.S. Patent No. 6,691,038",
+      "category": "laws:admin_filing",
+      "reporter": "U.S. Patent",
+      "pin_cites": [
+        {
+          "parenthetical": "\"Zajac patent\""
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "U.S. Patent No. 7,080,607",
+      "category": "laws:admin_filing",
+      "reporter": "U.S. Patent",
+      "pin_cites": [
+        {
+          "parenthetical": "\"Bittleston patents\""
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "U.S. Patent No. 7,162,967,",
+      "category": "laws:admin_filing",
+      "reporter": "U.S. Patent",
+      "opinion_index": 0
+    },
+    {
+      "cite": "U.S. Patent No. 7,293,520,",
+      "category": "laws:admin_filing",
+      "reporter": "U.S. Patent",
+      "opinion_index": 0
+    },
+    {
+      "cite": "791 F.3d 1340",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        4274494
+      ],
+      "weight": 3,
+      "year": 2015,
+      "pin_cites": [
+        {
+          "page": "1349-52"
+        },
+        {
+          "page": "1349-52, 1354-64"
+        },
+        {
+          "page": "1353-54"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/791/1340-01"
+      ]
+    },
+    {
+      "cite": "138 S.Ct. 2129",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        12612860
+      ],
+      "weight": 6,
+      "year": 2018,
+      "pin_cites": [
+        {
+          "parenthetical": "\" WesternGeco III \""
+        },
+        {
+          "parenthetical": "\" WesternGeco III \""
+        },
+        {
+          "page": "2139"
+        },
+        {
+          "page": "2139"
+        },
+        {
+          "page": "2139"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/s-ct/138/2129-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 1063,
+    "char_count": 24055,
+    "pagerank": {
+      "raw": 4.666970501906556e-08,
+      "percentile": 0.2933837069265428
+    },
+    "sha256": "0fbd2e03d288ed85c09bab361ef0968da7ac70641cc0bb38fca17775fe9075cc",
+    "simhash": "1:b54ff2246d1b370a",
+    "word_count": 3901
+  },
+  "last_updated": "2024-02-27T18:46:17.308091+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "file_name": "1067-01",
+  "first_page_order": 1067,
+  "last_page_order": 1076
+}

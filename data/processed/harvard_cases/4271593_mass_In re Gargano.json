@@ -1,0 +1,183 @@
+{
+  "id": 4271593,
+  "name": "In the Matter of Paul A. Gargano",
+  "name_abbreviation": "In re Gargano",
+  "decision_date": "2011-11-21",
+  "docket_number": "",
+  "first_page": "1022",
+  "last_page": "1025",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "460 Mass. 1022"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Mass.",
+    "id": 8825,
+    "name": "Massachusetts Supreme Judicial Court"
+  },
+  "jurisdiction": {
+    "id": 4,
+    "name_long": "Massachusetts",
+    "name": "Mass."
+  },
+  "cites_to": [
+    {
+      "cite": "224 Mass. 169",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "case_ids": [
+        44313
+      ],
+      "year": 1916,
+      "pin_cites": [
+        {
+          "page": "172"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mass/224/0169-01"
+      ]
+    },
+    {
+      "cite": "390 U.S. 544",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6174216
+      ],
+      "year": 1968,
+      "pin_cites": [
+        {
+          "page": "550"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/390/0544-01"
+      ]
+    },
+    {
+      "cite": "399 Mass. 431",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "case_ids": [
+        3794006
+      ],
+      "year": 1987,
+      "pin_cites": [
+        {
+          "page": "436"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mass/399/0431-01"
+      ]
+    },
+    {
+      "cite": "381 Mass. 784",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "year": 1980,
+      "opinion_index": 0
+    },
+    {
+      "cite": "406 Mass. 315",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "case_ids": [
+        3884473
+      ],
+      "year": 1989,
+      "pin_cites": [
+        {
+          "page": "328"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mass/406/0315-01"
+      ]
+    },
+    {
+      "cite": "426 Mass. 1429",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "year": 1998,
+      "opinion_index": 0
+    },
+    {
+      "cite": "426 Mass. 1408",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "year": 1998,
+      "opinion_index": 0
+    },
+    {
+      "cite": "426 Mass. 1405",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "year": 1998,
+      "opinion_index": 0
+    },
+    {
+      "cite": "426 Mass. 1389",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "year": 1998,
+      "opinion_index": 0
+    },
+    {
+      "cite": "426 Mass. 1383",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "year": 1998,
+      "opinion_index": 0
+    },
+    {
+      "cite": "426 Mass. 1381",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "year": 1998,
+      "opinion_index": 0
+    },
+    {
+      "cite": "426 Mass. 1363",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "year": 1998,
+      "opinion_index": 0
+    },
+    {
+      "cite": "426 Mass. 1315",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "year": 1998,
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 584,
+    "char_count": 12801,
+    "ocr_confidence": 0.944,
+    "pagerank": {
+      "raw": 4.6922169990516086e-08,
+      "percentile": 0.29458416301490936
+    },
+    "sha256": "cce1ef34c8ace082ffe1548a775e373f404fd155413e315c3d1d13c4712795a3",
+    "simhash": "1:7d6328e3310324d7",
+    "word_count": 2083
+  },
+  "last_updated": "2024-02-27T17:56:26.592595+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "file_name": "1022-01",
+  "first_page_order": 912,
+  "last_page_order": 915
+}

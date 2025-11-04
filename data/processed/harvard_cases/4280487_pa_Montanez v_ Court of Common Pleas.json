@@ -1,0 +1,63 @@
+{
+  "id": 4280487,
+  "name": "William MONTANEZ, Petitioner v. COURT OF COMMON PLEAS OF PHILADELPHIA COUNTY, Respondent",
+  "name_abbreviation": "Montanez v. Court of Common Pleas",
+  "decision_date": "2013-11-20",
+  "docket_number": "No. 153 EM 2013",
+  "first_page": "170",
+  "last_page": "170",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "622 Pa. 170"
+    },
+    {
+      "type": "parallel",
+      "cite": "80 A.3d 377"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 60,
+    "char_count": 675,
+    "ocr_confidence": 0.652,
+    "sha256": "26ba4f3a29838aa4072a1017d5b017baa6986eaeee83868ceb5aaf4ebe611851",
+    "simhash": "1:dc268297d3533ebf",
+    "word_count": 107
+  },
+  "last_updated": "2023-07-14T18:30:24.877122+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "William MONTANEZ, Petitioner v. COURT OF COMMON PLEAS OF PHILADELPHIA COUNTY, Respondent."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nPER CURIAM.\nAND NOW, this 20th day of November, 2013, the Application for Leave to File Original Process is GRANTED. To the extent the Petition for Writ of Mandamus and/or Extraordinary Relief requests extraordinary relief, it is DENIED. To the extent the Petition for Writ of Mandamus and/or Extraordinary Relief requests mandamus relief, it is GRANTED. The Court of Common Pleas of Philadelphia County is directed to dispose of Petitioner\u2019s pending habeas corpus petition within 90 days of this order.",
+        "type": "majority",
+        "author": "PER CURIAM."
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "80 A.3d 377\nWilliam MONTANEZ, Petitioner v. COURT OF COMMON PLEAS OF PHILADELPHIA COUNTY, Respondent.\nNo. 153 EM 2013.\nSupreme Court of Pennsylvania.\nNov. 20, 2013."
+  },
+  "file_name": "0170-01",
+  "first_page_order": 214,
+  "last_page_order": 214
+}

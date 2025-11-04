@@ -1,0 +1,78 @@
+{
+  "id": 12452312,
+  "name": "In re Det. of Love",
+  "name_abbreviation": "In re Det. of Love",
+  "decision_date": "2017-03-08",
+  "docket_number": "No. 93815-6",
+  "first_page": "1020",
+  "last_page": "1020",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "187 Wash. 2d 1020"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Wash.",
+    "id": 9029,
+    "name": "Washington Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 38,
+    "name_long": "Washington",
+    "name": "Wash."
+  },
+  "cites_to": [
+    {
+      "cite": "194 Wn. App. 1032",
+      "category": "reporters:state",
+      "reporter": "Wash. App.",
+      "case_ids": [
+        12451800,
+        12451797,
+        12451798,
+        12451799
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-app/194/1032-04",
+        "/wash-app/194/1032-01",
+        "/wash-app/194/1032-02",
+        "/wash-app/194/1032-03"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 27,
+    "char_count": 165,
+    "ocr_confidence": 0.843,
+    "sha256": "1ca051185bfa40a2d6f5d4b490bb340063106aab17bdff586a507698960c7a2e",
+    "simhash": "1:14b1e87171ffd6f1",
+    "word_count": 31
+  },
+  "last_updated": "2024-02-27T20:27:34.476040+00:00",
+  "provenance": {
+    "date_added": "2019-05-21",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In re Det. of Love,"
+    ],
+    "opinions": [
+      {
+        "text": "Petition for review of a decision of the Court of Appeals, No. 32555-5-III, June 14, 2016, 194 Wn. App. 1032. Denied March 8, 2017.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "In re Det. of Love,\nNo. 93815-6."
+  },
+  "file_name": "1020-01",
+  "first_page_order": 988,
+  "last_page_order": 988
+}

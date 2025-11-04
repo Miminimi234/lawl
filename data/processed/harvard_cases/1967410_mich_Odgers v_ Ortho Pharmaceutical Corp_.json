@@ -1,0 +1,70 @@
+{
+  "id": 1967410,
+  "name": "In re Certified Question, Odgers v. Ortho Pharmaceutical Corporation",
+  "name_abbreviation": "Odgers v. Ortho Pharmaceutical Corp.",
+  "decision_date": "1985-03-15",
+  "docket_number": "No. 68958",
+  "first_page": "794",
+  "last_page": "794",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "421 Mich. 1202"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Mich.",
+    "id": 8790,
+    "name": "Michigan Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 49,
+    "name_long": "Michigan",
+    "name": "Mich."
+  },
+  "cites_to": [
+    {
+      "cite": "419 Mich 686",
+      "category": "reporters:state",
+      "reporter": "Mich.",
+      "case_ids": [
+        1970084
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/mich/419/0686-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 21,
+    "char_count": 140,
+    "ocr_confidence": 0.775,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.07114314386668875
+    },
+    "sha256": "05d93868f192d7d1a882d8d3b83c13b9e520031b135dc6f168b1037e3eaac37a",
+    "simhash": "1:69bc8ce3a8898ed1",
+    "word_count": 21
+  },
+  "last_updated": "2024-02-27T19:29:49.154056+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In re Certified Question, Odgers v Ortho Pharmaceutical Corporation,"
+    ],
+    "opinions": [],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Rehearings Denied March 15, 1985:\nIn re Certified Question, Odgers v Ortho Pharmaceutical Corporation,\nNo. 68958.\nReported at 419 Mich 686."
+  },
+  "file_name": "0794-01",
+  "first_page_order": 946,
+  "last_page_order": 946
+}

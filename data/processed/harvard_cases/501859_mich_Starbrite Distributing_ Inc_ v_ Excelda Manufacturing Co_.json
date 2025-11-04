@@ -1,0 +1,60 @@
+{
+  "id": 501859,
+  "name": "Starbrite Distributing, Inc v. Excelda Manufacturing Company",
+  "name_abbreviation": "Starbrite Distributing, Inc. v. Excelda Manufacturing Co.",
+  "decision_date": "1997-06-25",
+  "docket_number": "Nos. 103536, 103563",
+  "first_page": "1201",
+  "last_page": "1201",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "455 Mich. 1201"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Mich.",
+    "id": 8790,
+    "name": "Michigan Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 49,
+    "name_long": "Michigan",
+    "name": "Mich."
+  },
+  "cites_to": [
+    {
+      "cite": "454 Mich 302",
+      "category": "reporters:state",
+      "reporter": "Mich.",
+      "case_ids": [
+        265382
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/mich/454/0302-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 27,
+    "char_count": 188,
+    "ocr_confidence": 0.75,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.017913592645748846
+    },
+    "sha256": "1bc7bb02681d6f77a9fed906dd200183213babaa389a710892ee1188bdd8c9ea",
+    "simhash": "1:180b3b930360ad09",
+    "word_count": 28
+  },
+  "last_updated": "2024-02-27T17:45:28.850794+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "file_name": "1201-01",
+  "first_page_order": 871,
+  "last_page_order": 871
+}

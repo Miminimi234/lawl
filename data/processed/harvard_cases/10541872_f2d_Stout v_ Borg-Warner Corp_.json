@@ -1,0 +1,220 @@
+{
+  "id": 10541872,
+  "name": "Kendall STOUT, Plaintiff-Appellant, v. BORG-WARNER CORPORATION, et al., Defendants, Fairchild-Hiller Stratos Division, Defendant-Appellee",
+  "name_abbreviation": "Stout v. Borg-Warner Corp.",
+  "decision_date": "1991-06-13",
+  "docket_number": "No. 90-8294",
+  "first_page": "331",
+  "last_page": "337",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "933 F.2d 331"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "5th Cir.",
+    "id": 8820,
+    "name": "United States Court of Appeals for the Fifth Circuit"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "576 F.2d 97",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        934291
+      ],
+      "year": 1978,
+      "pin_cites": [
+        {
+          "page": "102"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/576/0097-01"
+      ]
+    },
+    {
+      "cite": "897 F.2d 626",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        10533248
+      ],
+      "pin_cites": [
+        {
+          "page": "630"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/897/0626-01"
+      ]
+    },
+    {
+      "cite": "878 F.2d 1311",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        10541113,
+        10541130,
+        6503889
+      ],
+      "pin_cites": [
+        {
+          "page": "1320"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/878/1311-01",
+        "/f2d/878/1311-02",
+        "/br/101/1311-01"
+      ]
+    },
+    {
+      "cite": "890 F.2d 698",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        12030804
+      ],
+      "pin_cites": [
+        {
+          "page": "701"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/890/0698-01"
+      ]
+    },
+    {
+      "cite": "865 F.2d 1474",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        10536734
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "1486"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/865/1474-01"
+      ]
+    },
+    {
+      "cite": "866 F.2d 135",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        10524119
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "138"
+        },
+        {
+          "page": "137"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/866/0135-01"
+      ]
+    },
+    {
+      "cite": "868 F.2d 1455",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        10537286
+      ],
+      "pin_cites": [
+        {
+          "page": "1457"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/868/1455-01"
+      ]
+    },
+    {
+      "cite": "487 U.S. 500",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        1775177
+      ],
+      "weight": 12,
+      "year": 1988,
+      "pin_cites": [
+        {
+          "page": "2518"
+        },
+        {
+          "page": "2516"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/487/0500-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 935,
+    "char_count": 23110,
+    "ocr_confidence": 0.76,
+    "pagerank": {
+      "raw": 2.7097609516885954e-07,
+      "percentile": 0.8292215105977221
+    },
+    "sha256": "4e5b38ec7a8fbeb85c6908c4442e29166e80b4407756078ad93023060668d81b",
+    "simhash": "1:9bce39804d0eca7d",
+    "word_count": 3613
+  },
+  "last_updated": "2024-02-27T20:17:01.570520+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before WISDOM, JOLLY and DAVIS, Circuit Judges."
+    ],
+    "parties": [
+      "Kendall STOUT, Plaintiff-Appellant, v. BORG-WARNER CORPORATION, et al., Defendants, Fairchild-Hiller Stratos Division, Defendant-Appellee."
+    ],
+    "opinions": [
+      {
+        "text": "E. GRADY JOLLY, Circuit Judge:\nIn this product liability action, Kendall Stout, a former United States Army Corporal, caught his hand in a fan. He brought suit against Fairchild-Hiller Stratos Division of Fairchild Industries, Inc. (\u201cFair-child\u201d), the designer and manufacturer of a 38,000 BTU air conditioning unit used by the United States Army to cool its Hawk Missile System Mobile Repair Unit. It was while he was attempting to repair the air conditioning unit that his right hand was caught in the rotating blades of the unit\u2019s condenser fan. He appeals the district court\u2019s award of summary judgment granting Fairchild immunity from Stout\u2019s defective design and failure to warn claims under the government contractor defense set forth in Boyle v. United Technologies Corp., 487 U.S. 500, 108 S.Ct. 2510, 101 L.Ed.2d 442 (1988). We affirm.\nI\nKendall Stout was a United States Army air conditioning repair technician stationed at Fort Bliss, Texas. On September 6, 1985, he lost four of his fingers and one-half of his thumb on his right hand while attempting to repair a VEA4-3A air conditioning unit. He was injured while checking for blockage in the Freon system by manually feeling the temperature differences in the copper lines running from the unit\u2019s compressor. To conduct this inspection, Stout had removed the side panels of the air conditioner while the unit was still in operation. There is a factual dispute as to whether the suction created by the condenser fan forced his right hand across the fan\u2019s rotating blades or whether Stout himself inadvertently flinched his hand across the blades. The Army, however, after conducting an investigation, concluded that the accident was caused by Stout\u2019s own negligence, which supports the latter version of how the accident happened.\nThe VEA4-3A air conditioner is used by the United States Army to cool the Hawk Missile System Mobile Repair Unit. The air conditioner mounts on the side of the Hawk radar repair shelters. It serves to maintain controlled atmospheric conditions inside the shelter, preventing damage to the sensitive computers and radar systems essential to the performance to the Hawk Missile System.\nThe Army Corps of Engineers had developed the predecessor to the VEA4-3A air conditioner known as the VEA4-3. In the early 1960s, the Army Corps of Engineers at Fort Belvoir\u2019s Army Research and Development Center wrote and issued initial specifications for a redesigned VEA4-3 air conditioner for specific use with the Hawk Missile System. The Army\u2019s initial specifications included engineering design drawings and required shop drawings and pre-production models. The Army\u2019s specifications for the unit\u2019s condenser fan were as follows:\nAir-handling components. All air fans shall be of the continuous-duty type, statically and dynamically balanced.\nFan motors. The evaporator and condenser fan motors shall be of continuous-duty type, totally enclosed, and fungus-proofed and shall be equipped with permanently lubricated ball bearings. The motors shall be equipped with thermal overload protectors sized to prevent motor operation above the safe operating temperature for which the motor is rated.\nNotably, these specifications did not provide for, or prohibit, the installation of a safety device, such as a wire screen to cover the condenser fan.\nIn 1966, Fairchild was awarded the contract to redesign the VEA4-3. Fairchild performed a detailed engineering analysis, including engineering calculations to select components for the VEA4-3A that would comply with the Army\u2019s specifications. This detailed engineering analysis was then reviewed and approved by Army engineers.\nFairchild next developed a complete preliminary design layout, consisting of several engineering drawings of the assembled configuration and dimensions of the air conditioning unit. The preliminary design layout was submitted to Army engineers for a formal preliminary design review. At this time, the Army engineers critiqued the layout, made changes in the preliminary drawings, and then approved the preliminary design.\nFairchild then prepared detailed drawings from which each component of the unit would be fabricated. As with the initial engineering analysis and the preliminary design layout drawings, these detailed design drawings were submitted to the Army for review, evaluation, and approval and were subject to any changes desired by the Army at a critical design review. The critical design review lasted several days and every component of the VEA4-3A was reviewed by Army engineers.\nAfter the Army granted its final approval of the detailed drawings, the design was \u201cfrozen.\u201d Any variation by Fairchild from the detailed design at this point would result in automatic rejection of the unit by the Army.\nAfter the detailed design had been approved and the design frozen by the Army, Fairchild was required to fabricate each part specified in the detailed drawings and build prototype models. These models underwent extensive testing for several months by both Fairchild and the Army to analyze and evaluate the VEA4-3A design for actual performance. After the performance testing was completed, the Army spent approximately one month reviewing and evaluating the test results. Thereafter, the Army gave its final approval to the design of the unit and accepted bids for the manufacture of VEA4-3.A. Fairchild was awarded the manufacturing contract, and production of the unit began shortly thereafter.\nFairchild also prepared the technical manual for the VEA4-3A. The manual contained a warning about operating the unit without its side panels, as follows:\nThe operating voltage of this air conditioner is dangerous to persons coming in contact with any part of the electrical system. Severe, possible fatal, shock may result. Disconnect the power source before performing any maintenance or inspection, other than operating tests of the air conditioner.\nIn addition, the manual accompanying the preceding model, the VEA4-3, contained the following warning:\nNever perform maintenance on the air conditioner when the unit is operating. Always operate the air conditioner with all panel tightly secured to prevent personal contact with electrical components or moving parts.\nStout stated in his deposition that he had been trained to repair air conditioning units at Fort Belvoir, Virginia. He further stated that, notwithstanding the warnings contained in the two manuals, he had been taught to identify problems in the Freon system of such units by taking the side panels off while the unit was still in operation and feeling the lines to determine if the flow of Freon was blocked.\nII\nOn June 16, 1987, Stout filed a products liability action against several defendants. The complaint alleged that the VEA4-3A was unreasonably dangerous because of its defective design because there was no safety device that would prevent contact with the condenser fan while the unit was in operation. The complaint also alleged that the technical manual failed to warn about the danger. After discovery, all defendants except Fairchild were dismissed. Fairchild filed a motion for summary judgment, asserting the military contractor defense set forth by the United States Supreme Court in Boyle v. United Technologies, Inc., 487 U.S. 500, 108 S.Ct. 2510, 101 L.Ed.2d 442 (1988). The district court granted Fairchild\u2019s motion for summary judgment, and Stout filed this appeal.\nIll\nWe review the district court\u2019s summary judgment award using the same standard as that employed initially by the trial court under Rule 56, Fed.R.Civ.P. USX Corp. v. Tanenbaum, 868 F.2d 1455, 1457 (5th Cir.1989). Under Rule 56, summary judgment is proper only where \u201cthere is no genuine issue as to any material fact and the moving party is entitled to judgment as a matter of law.\u201d In determining whether fact issues exist, we are required to view the evidence in the light most favorable to the nonmoving party.\nAs is obvious from the foregoing, the issue on this appeal is whether summary judgment was erroneously granted on the grounds that the government contractor defense barred Stout\u2019s claims. This issue will be determined by our application of Boyle v. United Technologies, Inc., 487 U.S. 500, 108 S.Ct. 2510, 101 L.Ed.2d 442 (1988), to the undisputed facts.\nThe Supreme Court in Boyle reformulated the elements of this defense. The Supreme Court recognized that applying state law to hold government contractors liable for design defects in military equipment might significantly conflict with federal interests and policy. The Supreme Court reasoned that in such cases the cost of the court judgment would ultimately be passed through to the government, thus abrogating the immunity otherwise enjoyed by the government in those cases. Such a result was intolerable, and in those circumstances federal policy displaced state law.\nThe Boyle Court reasoned that the displacement of state law occurs, and that government contractors are immunized from liability for design defects in military equipment under state law, when (1) the government approved reasonably precise specifications; (2) the equipment conformed to those specifications; and (3) the contractor warned the government about the dangers in the use of the equipment that were known to the contractor but not to the government. See Boyle, 108 S.Ct. at 2518. The first two elements of the defense assure that the government, and not the contractor, is exercising discretion in selecting the design. The third element is necessary to eliminate any incentive that this defense may create for contractors to withhold knowledge of risks.\nA\n(1)\nStout argues that the government contractor defense does not apply to his defective design claim because Fairchild was required to comply only with general specifications in designing the air conditioning unit and because Fairchild failed adequately to warn the government about the dangers of the open fan housing of which the government otherwise did not know. Stout does not dispute that the VEA4-3A air conditioning unit conformed to the Army\u2019s final design specifications.\nStout\u2019s claim for defective design is that the VEA4-3A was unreasonably dangerous because Fairchild failed to provide a protective device to prevent contact with the rotating blades of the condenser fan. Stout argues that the Army\u2019s specifications were not \u201creasonably precise.\u201d Certainly, he argues, the plans did not preclude Fairchild from installing a protective device. Furthermore, he contends that the Army only accepted, but did not approve within the meaning of Boyle, the fan specifications drafted by Fairchild. Thus, because Fair-child could have complied with both its duty pursuant to the government contract\u2019s design specifications and with its own duty under state tort law to design a reasonably safe product, no significant conflict between state law and federal interests existed. The government contractor defense therefore does not apply, according to Stout.\nFairchild responds that the Army approved reasonably precise specifications. Fairchild insists that the Army retained control of the design process by making modifications to the design as it was refined and by reserving the absolute right to reject or modify the design at every step of the engineering process. Fairchild admits that the initial fan specifications prepared by the Army did not include or prohibit the installation of a safety device, but it argues that these initial specifications constituted only a small part of the total design process. The Army reviewed, evaluated, tested and approved detailed design drawings at different stages during the process and ultimately the prototype model. With regard specifically to the condenser fan, the Army approved specifications prepared by Fairchild amounting to over fifty pages of detailed design drawings. Also, the fan itself was built and incorporated into the prototype model that was tested and inspected by the Army before its approval for manufacture.\nAdditionally, Fairchild points out that the condenser fan in the VEA4-3A was virtually identical to the fan in the VEA4-3, which had been developed and used by the Army for ten years before the development of the VEA4-3A. The design of the VEA4-3 actually dictated much of the VEA4-3A design and, in truth, the design of the two units did not substantially differ. According to Fairchild, the absence of any significant difference between the two designs supports its argument that the Army, and not Fairchild, controlled the decision not to place a safety device over the condenser fan.\nFinally, Fairchild directs us to the evidence that showed a protective screen covering the condenser fan would restrict the air flow of the unit and impair its ability to operate effectively in extreme hot weather conditions. The fan that the Army approved without such a safety feature, Fair-child argues, should be regarded as reflecting the Army\u2019s discretion in balancing safety against performance. This evidence included the deposition statement of Buckingham, Fairchild\u2019s senior engineer in charge of redesigning the unit, to the effect that a screen would have been impracticable. The evidence also included the deposition statement of Chief Warrant Officer Allen Blietz, Stout\u2019s superior officer. He had submitted a proposal after Stout\u2019s accident suggesting that a safety screen be installed next to the condenser fan, but the Army had rejected the proposal, stating only that the safety screen was not feasible.\n(2)\nThis court has confronted the question of what constitutes \u201creasonably precise specifications\u201d and \u201capproval\u201d for purposes of applying the first element of the government contractor defense. For example, in Smith v. Xerox Corp., 866 F.2d 135, 138 (5th Cir.1989), we determined that a contractor who could not produce the government\u2019s original specifications for the manufacture of military equipment was nevertheless entitled to rely on the defense. We held that because the contractor in Smith was able to produce other evidence, including a listing of those specifications, a copy of the government\u2019s performance criteria, and a production contract, the evidence in its entirety showed that the government had approved reasonably precise specifications.\nIn Trevino v. General Dynamics Corp., 865 F.2d 1474 (5th Cir.1989), we were called upon to determine the meaning of \u201capproval.\u201d We concluded, inter alia, that [i]f the government has ... delegated its discretion [over the design feature in question] to the contractor, mere government acceptance of the contractor\u2019s work does not resuscitate the defense unless there is approval based on substantive review and evaluation of the contractor\u2019s design choices.\u201d Trevino, 865 F.2d at 1486. In Trevino, we distinguished between situations in which the government engages in a substantive review and evaluation of the relevant design features prepared by the contractor and other situations in which the government does not engage in a meaningful review of the design but merely accepts the contractor\u2019s design choice. The former action by the government we characterized as constituting \u201capproval\u201d sufficient to establish the first prong of the defense; the latter action we characterized as \u201crubber stamping,\u201d action that indicates that the contractor, and not the government, exercised the actual discretion over the defective feature. We further concluded that rubber stamping could occur even when the government retained the right to reject the design at any stage of the design process.\nIn the case before us, we must decide whether the government approved of reasonably precise design drawings or whether it only rubber-stamped its acceptance of such drawings. We hold that evidence in this record shows that the government did indeed approve reasonably precise specifications regarding the design of the condenser fan. We reach this conclusion because of the Army\u2019s thorough review of the design. The review involved, inter alia, Fairchild\u2019s submission of detailed drawings at various progressive stages of the design, critical design reviews where Army engineers critiqued Fairchild\u2019s work, and, finally, the production of prototype models tested and evaluated for months by the Army for its actual performance. See Kleemann v. McDonnell Douglas Corp., 890 F.2d 698, 701 (4th Cir.1989) (governmental participation in various stages of product\u2019s development establishes military contractor defense); Harduvel v. General Dynamics Corp., 878 F.2d 1311, 1320 (11th Cir.1989) (requirement that government approve reasonably precise specifications is met where contractor incorporated design that government subsequently reviewed and approved). We conclude, therefore, that Fair-child is entitled to immunity from Stout\u2019s product liability suit, assuming that the third element of the government contractor defense is met.\nB\nStout next argues that the third element of the defense \u2014 that Fairchild warned the Army about the dangers in the use of the VEA4-3A that were known to Fairchild but not to the Army \u2014 was not satisfied because there was no evidence that Fairchild warned the government about the unguarded condenser fan. Stout claims that he was specifically instructed by the Army to remove the unit\u2019s side panels while it was still in operation and to check for blockage in the Freon system by running his hand along the copper lines. Stout concedes that this method of repair was not advocated in the technical manual accompanying the YEA4-3A. He insists, however, that the fact that the Army taught him this method of repair indicates that Fairchild did not warn the Army about the risk posed by the condenser fan. We reject Stout\u2019s argument for two reasons.\nFirst, Fairchild only had the duty to warn the government of dangers of which the government had no knowledge. The danger posed by the unguarded fan was actually known to the government as evidenced by both a written and oral warning. As to the written warning, the inside cover of the technical manual for the VEA4-3, the model immediately preceding the VEA4-3A, warned against performing maintenance when the air conditioner is in operation. It also contained the following statement: \u201cAlways operate the air conditioner with all panels tightly secured to prevent personal contact with electrical components or moving parts.\u201d In an affidavit submitted in support of Fairchild\u2019s summary judgment motion, Buckingham stated that the unit only had two moving parts which would create a risk of personal injury if its side panels were removed while still in operation. The condenser fan constituted one of these two parts. That the warning was contained in the VEA4-3 manual, rather than in the YEA4-3A, is of no material relevance. The unscreened fan design of the older VEA4-3 was virtually identical to the VEA4-3A\u2019s, as was the fan itself. Indeed, the Army required the fans to be interchangeable in its specifications. As to the oral warning, Stout admitted in deposition testimony that his instructor at Fort Belvoir had specifically warned him not to get his hand caught in the fan while performing repairs. This admission demonstrates undisputed knowledge of the risk involved in repairing the unit in this manner.\nSecond, according to Chief Warrant Officer Blietz, the danger of coming into contact with the blades of the fan was obvious to anyone who observed the air conditioner in operation. The unit was so powerful that it would propel any object placed on the fan outlet like a shell from a cannon. Thus, even in the absence of the express warnings discussed above, the Army must be charged with knowledge of the obvious risk that the exposed fan posed. There was thus no need for Fairchild to communicate this warning for the government contractor defense to apply. See Trevino, 865 F.2d at 1487 n. 13.\nThat Stout may have been trained to repair the unit with its side panels removed does not necessarily imply that the Army did not know of the risk of this method of repair. Indeed, Chief Blietz\u2019s oral warning shows that the Army knew about the risk involved.\nIn sum, because the Army approved reasonably precise specifications, because the air conditioning unit indisputably conformed to those specifications, and because the Army had knowledge of the risk involved in repairing the unit in the manner which resulted in Stout\u2019s injuries, the district court\u2019s summary judgment award holding that Fairchild was entitled to immunity under the government contractor defense was not erroneous.\nIV\nFor the foregoing reasons, the judgment of the district court is\nAFFIRMED.\n. The facts of this case are clearly distinguishable from the air conditioner example given by the Supreme Court in Boyle. Boyle, 108 S.Ct. at 2516. In that example, the government had contracted for the purchase of air conditioning units. Unlike this case, however, the government was indifferent to the challenged design. The Court presented this example only to illustrate that \"state law would [not] generally be pre-empted\u201d and not to show that a conflict exists between federal interests and state law in every case involving a government contract for air conditioning units. Id.\n. Stouts argument is unclear but we conclude from his brief and his discussion at oral argument, that he does not contend that his failure to warn claim can survive the government contractor defense if his design claim does not. Stout does cite in his brief the Second Circuit Court\u2019s decision in In re Joint Eastern & Southern District New York Asbestos Litigation, 897 F.2d 626, 630 (2d Cir.1990), holding that a government contractor must show that the contract specifically includes warning requirements that significantly conflict with the duty to warn under state law in order for the government contractor defense to apply to a failure to warn claim. He does so, however, only to support his argument that Fairchild\u2019s summary judgment evidence did not meet Boyle s third prong as a matter of law. Thus, we do not address any alleged conflict between our decision in Smith v. Xerox Corp., 866 F.2d 135, 137 (5th Cir.1989) and the Second Circuit\u2019s decision in In re Asbestos Litigation with respect to the survival of a duty to warn claim under the circumstances presented in this case.\nIn any event, our failure to review this potential issue does not result in manifest injustice to Stout. Under Texas law, there is no duty to warn when the danger is obvious or actually known to the injured person. See Hagans v. Oliver Mach. Co., 576 F.2d 97, 102 (5th Cir. 1978).",
+        "type": "majority",
+        "author": "E. GRADY JOLLY, Circuit Judge:"
+      }
+    ],
+    "attorneys": [
+      "Susan Larsen, El Paso, Tex., for plaintiff-appellant.",
+      "James L. Gallager, Scott A. Agthe, Scott, Hulse, Marshall, Feuille, Finger & Thurmond, El Paso, Tex., for defendant-appel-lee."
+    ],
+    "corrections": "",
+    "head_matter": "Kendall STOUT, Plaintiff-Appellant, v. BORG-WARNER CORPORATION, et al., Defendants, Fairchild-Hiller Stratos Division, Defendant-Appellee.\nNo. 90-8294.\nUnited States Court of Appeals, Fifth Circuit.\nJune 13, 1991.\nRehearing and Rehearing En Banc Denied July 15, 1991.\nSusan Larsen, El Paso, Tex., for plaintiff-appellant.\nJames L. Gallager, Scott A. Agthe, Scott, Hulse, Marshall, Feuille, Finger & Thurmond, El Paso, Tex., for defendant-appel-lee.\nBefore WISDOM, JOLLY and DAVIS, Circuit Judges."
+  },
+  "file_name": "0331-01",
+  "first_page_order": 429,
+  "last_page_order": 435
+}

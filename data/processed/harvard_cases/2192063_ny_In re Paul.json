@@ -1,0 +1,821 @@
+{
+  "id": 2192063,
+  "name": "In the Matter of the Application of David A. Paul for a Writ of Habeas Corpus",
+  "name_abbreviation": "In re Paul",
+  "decision_date": "1884-01-29",
+  "docket_number": "",
+  "first_page": "497",
+  "last_page": "508",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "94 N.Y. 497"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "N.Y.",
+    "id": 24653,
+    "name": "New York Court of Appeals"
+  },
+  "jurisdiction": {
+    "id": 1,
+    "name_long": "New York",
+    "name": "N.Y."
+  },
+  "cites_to": [
+    {
+      "cite": "31 How. Pr. 346",
+      "category": "reporters:state",
+      "reporter": "How. Pr.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "82 N. Y. 204",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        2177206
+      ],
+      "pin_cites": [
+        {
+          "page": "211"
+        }
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny/82/0204-01"
+      ]
+    },
+    {
+      "cite": "97 U. S. 25",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        3376606
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/us/97/0025-01"
+      ]
+    },
+    {
+      "cite": "72 N. Y. 1",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        532810
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "7"
+        },
+        {
+          "page": "2, 3"
+        }
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny/72/0001-01"
+      ]
+    },
+    {
+      "cite": "5 Cush. 338",
+      "category": "reporters:state",
+      "reporter": "Cush.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "12 Pick. 184",
+      "category": "reporters:state",
+      "reporter": "Pick.",
+      "case_ids": [
+        2060300
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/mass/29/0188-01"
+      ]
+    },
+    {
+      "cite": "72 N. C. 55",
+      "category": "reporters:state",
+      "reporter": "N.C.",
+      "case_ids": [
+        8684619
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/nc/72/0055-01"
+      ]
+    },
+    {
+      "cite": "19 Ohio St. 299",
+      "category": "reporters:state",
+      "reporter": "Ohio St.",
+      "case_ids": [
+        882899
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ohio-st/19/0299-01"
+      ]
+    },
+    {
+      "cite": "51 Iowa, 428",
+      "category": "reporters:state",
+      "reporter": "Iowa",
+      "opinion_index": -1
+    },
+    {
+      "cite": "29 Ind. 187",
+      "category": "reporters:state",
+      "reporter": "Ind.",
+      "case_ids": [
+        1505324
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ind/29/0187-01"
+      ]
+    },
+    {
+      "cite": "69 N. Y. 444",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        530624
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny/69/0444-01"
+      ]
+    },
+    {
+      "cite": "10 Hun, 124",
+      "category": "reporters:state",
+      "reporter": "Hun,",
+      "opinion_index": -1
+    },
+    {
+      "cite": "11 Abb. Pr. 289",
+      "category": "reporters:state",
+      "reporter": "Abb. Pr.",
+      "case_ids": [
+        4611023
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/abb-pr/11/0289-01"
+      ]
+    },
+    {
+      "cite": "5 Hill, 209",
+      "category": "reporters:state",
+      "reporter": "Hill,",
+      "pin_cites": [
+        {
+          "page": "211"
+        }
+      ],
+      "opinion_index": -1
+    },
+    {
+      "cite": "32 Barb. 102",
+      "category": "reporters:state",
+      "reporter": "Barb.",
+      "case_ids": [
+        5046999
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/barb/32/0102-01"
+      ]
+    },
+    {
+      "cite": "57 N. Y. 591",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        5139781
+      ],
+      "pin_cites": [
+        {
+          "page": "596"
+        }
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny/57/0591-01"
+      ]
+    },
+    {
+      "cite": "44 Mo. 547",
+      "category": "reporters:state",
+      "reporter": "Mo.",
+      "case_ids": [
+        950215
+      ],
+      "pin_cites": [
+        {
+          "page": "550"
+        }
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/mo/44/0547-01"
+      ]
+    },
+    {
+      "cite": "12 Minn. 41",
+      "category": "reporters:state",
+      "reporter": "Minn.",
+      "case_ids": [
+        734733
+      ],
+      "pin_cites": [
+        {
+          "page": "48"
+        }
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/minn/12/0041-01"
+      ]
+    },
+    {
+      "cite": "6 Ala. 899",
+      "category": "reporters:state",
+      "reporter": "Ala.",
+      "case_ids": [
+        8498254
+      ],
+      "pin_cites": [
+        {
+          "page": "902"
+        }
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ala/6/0899-01"
+      ]
+    },
+    {
+      "cite": "38 Cal. 702",
+      "category": "reporters:state",
+      "reporter": "Cal.",
+      "case_ids": [
+        2246191
+      ],
+      "pin_cites": [
+        {
+          "page": "709"
+        }
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/cal/38/0702-01"
+      ]
+    },
+    {
+      "cite": "1 Penn. St. 309",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        949843
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/1/0309-01"
+      ]
+    },
+    {
+      "cite": "41 Cal. 147",
+      "category": "reporters:state",
+      "reporter": "Cal.",
+      "case_ids": [
+        4391336
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/cal/41/0147-01"
+      ]
+    },
+    {
+      "cite": "79 Penn. St. 257",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        438429
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/79/0257-01"
+      ]
+    },
+    {
+      "cite": "63 Barb. 437",
+      "category": "reporters:state",
+      "reporter": "Barb.",
+      "case_ids": [
+        2265567
+      ],
+      "pin_cites": [
+        {
+          "page": "450"
+        }
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/barb/63/0437-01"
+      ]
+    },
+    {
+      "cite": "42 N. Y. 378",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        504992
+      ],
+      "pin_cites": [
+        {
+          "page": "381"
+        }
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny/42/0378-01"
+      ]
+    },
+    {
+      "cite": "12 Wheat. 19",
+      "category": "reporters:scotus_early",
+      "reporter": "Wheat.",
+      "case_ids": [
+        1429901
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/us/25/0019-01"
+      ]
+    },
+    {
+      "cite": "7 Cow. 585",
+      "category": "reporters:state",
+      "reporter": "Cow.",
+      "weight": 2,
+      "opinion_index": -1
+    },
+    {
+      "cite": "69 N. Y. 557",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        530716
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "563"
+        },
+        {
+          "page": "563"
+        }
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny/69/0557-01"
+      ]
+    },
+    {
+      "cite": "33 Barb. 548",
+      "category": "reporters:state",
+      "reporter": "Barb.",
+      "case_ids": [
+        5059631
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "575"
+        },
+        {
+          "page": "577"
+        }
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/barb/33/0548-01"
+      ]
+    },
+    {
+      "cite": "39 N. Y. 171",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        502231
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny/39/0171-01"
+      ]
+    },
+    {
+      "cite": "34 N. Y. 657",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        16488
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "666"
+        },
+        {
+          "page": "667, 668"
+        }
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny/34/0657-01"
+      ]
+    },
+    {
+      "cite": "24 Barb. 474",
+      "category": "reporters:state",
+      "reporter": "Barb.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "5 Conn. 475",
+      "category": "reporters:state",
+      "reporter": "Conn.",
+      "case_ids": [
+        12134261
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/conn/5/0475-01"
+      ]
+    },
+    {
+      "cite": "31 N. Y. 190",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "47 N. Y. 608",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        509406
+      ],
+      "pin_cites": [
+        {
+          "page": "611"
+        }
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny/47/0608-01"
+      ]
+    },
+    {
+      "cite": "36 N. J. Law, 442",
+      "category": "reporters:state",
+      "reporter": "N.J.L.",
+      "case_ids": [
+        388019
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/njl/36/0442-01"
+      ]
+    },
+    {
+      "cite": "32 How. 107",
+      "category": "reporters:scotus_early",
+      "reporter": "How.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "82 N. Y. 323",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "60 N. Y. 10",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        523165
+      ],
+      "pin_cites": [
+        {
+          "page": "14"
+        }
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny/60/0010-01"
+      ]
+    },
+    {
+      "cite": "7 Cow. 349",
+      "category": "reporters:state",
+      "reporter": "Cow.",
+      "case_ids": [
+        2034959
+      ],
+      "weight": 2,
+      "opinion_index": -1,
+      "case_paths": [
+        "/cow/7/0348-01"
+      ]
+    },
+    {
+      "cite": "16 Wall. 36",
+      "category": "reporters:scotus_early",
+      "reporter": "Wall.",
+      "case_ids": [
+        411261
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/us/83/0036-01"
+      ]
+    },
+    {
+      "cite": "74 N. Y. 509",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        534700
+      ],
+      "pin_cites": [
+        {
+          "page": "514, 515, 520, 521, 522, 523, 524"
+        }
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny/74/0509-01"
+      ]
+    },
+    {
+      "cite": "4 Wash. C. C. 380",
+      "category": "reporters:federal",
+      "reporter": "Wash. C. C.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "16 Wall. 106",
+      "category": "reporters:scotus_early",
+      "reporter": "Wall.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "74 N. Y. 515",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "16 Wall. 39",
+      "category": "reporters:scotus_early",
+      "reporter": "Wall.",
+      "pin_cites": [
+        {
+          "page": "88, 97, 105"
+        }
+      ],
+      "opinion_index": -1
+    },
+    {
+      "cite": "39 N. Y. 132",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "13 N. Y. 371",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "70 Ill. 191",
+      "category": "reporters:state",
+      "reporter": "Ill.",
+      "case_ids": [
+        5309355
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ill/70/0191-01"
+      ]
+    },
+    {
+      "cite": "109 Mass. 315",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "case_ids": [
+        2108164
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/mass/109/0315-01"
+      ]
+    },
+    {
+      "cite": "11 Mich. 139",
+      "category": "reporters:state",
+      "reporter": "Mich.",
+      "case_ids": [
+        1918176
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/mich/11/0139-01"
+      ]
+    },
+    {
+      "cite": "3 Pick. 330",
+      "category": "reporters:state",
+      "reporter": "Pick.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "6 Ga. 1",
+      "category": "reporters:state",
+      "reporter": "Ga.",
+      "case_ids": [
+        583336
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ga/6/0001-01"
+      ]
+    },
+    {
+      "cite": "16 Pick. 126",
+      "category": "reporters:state",
+      "reporter": "Pick.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "47 Barb. 64",
+      "category": "reporters:state",
+      "reporter": "Barb.",
+      "case_ids": [
+        1946999
+      ],
+      "weight": 2,
+      "opinion_index": -1,
+      "case_paths": [
+        "/barb/47/0064-01"
+      ]
+    },
+    {
+      "cite": "13 N. Y. 278",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "53 Mo. 582",
+      "category": "reporters:state",
+      "reporter": "Mo.",
+      "case_ids": [
+        976224
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/mo/53/0582-01"
+      ]
+    },
+    {
+      "cite": "27 Vt. 149",
+      "category": "reporters:state",
+      "reporter": "Vt.",
+      "weight": 2,
+      "opinion_index": -1
+    },
+    {
+      "cite": "65 Penn. St. 399",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        430579
+      ],
+      "weight": 2,
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/65/0399-01"
+      ]
+    },
+    {
+      "cite": "35 N. Y. 302",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        16895
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "378"
+        }
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny/35/0302-01"
+      ]
+    },
+    {
+      "cite": "16 Wall. 62",
+      "category": "reporters:scotus_early",
+      "reporter": "Wall.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "97 U. S. 659",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        3376869
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/us/97/0659-01"
+      ]
+    },
+    {
+      "cite": "90 N. Y. 52",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "74 N. Y. 103",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "82 N. Y. 211",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "59 N. Y. 600",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 1170,
+    "char_count": 25035,
+    "ocr_confidence": 0.516,
+    "pagerank": {
+      "raw": 1.0538327822255158e-06,
+      "percentile": 0.9843378899696469
+    },
+    "sha256": "6af33c65784db93ba982ce68290f16cbd8c110bc325ae0be65193b9d9f8c8eb9",
+    "simhash": "1:b782a4b36515ec71",
+    "word_count": 4507
+  },
+  "last_updated": "2024-02-27T20:26:35.672822+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In the Matter of the Application of David A. Paul for a Writ of Habeas Corpus."
+    ],
+    "opinions": [
+      {
+        "text": "Finch, J.\nThe relator was arrested upon a warrant issued by a police justice of the city of New York, which recited an accusation upon sworn information that \u201c David A. Paul committed the crime of manufacturing cigars and preparing tobacco in the house No. 375 East Eighth street, the same b\u00e9ing a tenement-house, occupied by more than three families living independent of one another therein, in rooms in said tenement-house, which at the time were occupied by said David A. Paul and his family as a dwelling for the purpose of living, sleeping and the doing of household work; said rooms or apartments being on the east or right hand, section of the fourth floor in said tenement-house, adjoining each other in a contiguous line from the windows opening into the street to the windows opening into the yard of said tenement-house.\u201d The precise offense charged is somewhat obscured by the words describing the character of the house and the location of the rooms, but is nevertheless a specific accusation of manufacturing cigars in a room or rooms, which room or- rooms'were at the same time used as living or household rooms. In other words, the charge asserts the co-existence at the same time and in the same room or rooms of cigar manufacturing and household use.\nPrecisely this offense is described in the first section of the act under which the prosecution was instituted. (Laws of 1883, chap. 93.) That section reads : \u201c The manufacture of cigars or preparation of tobacco in any form in any rooms or apartments, which in the city of New York arp used as dwellings for the purpose of living, sleeping or doing any household work therein is hereby prohibited.\u201d The scope of this section seems quite clear. It is not so broad as it appeared to us on the argument. It does not forbid the manufacture of cigars in a dwelling-house. It forbids it only in such rooms or apartments within the house as are at the same time used for the purpose of \u201c living, sleeping or doing any household work therein.\u201d So that, under this section, in any dwelling-house, the same room or apartment must not at the same time be used for cigar making and for family purposes. But the owner or occupant of a house may manufacture cigars in one or more rooms therein, provided that he uses them for no household purposes, and separates completely the domestic from the business uses. The prohibition is aimed entirely at the co-existence of the cigar making and the sleeping or living of the family in the same room or apartment. If they are kept separate, and in separate and distinct apartments, it is no offense under this first section that the business use and the domestic use go on under the same roof, or in the same house.\nThat the relator did not preserve such separation is the gist of the charge in the warrant. It accuses him of manufacturing cigars \u201c in rooms \u201d which \u2022 \u201c at the time \u201d \u201c were occupied \u201d by him and his family \u201cfor the purpose of living, sleeping and the doing of household work.\u201d Just this offense was charged in the information. The deposition of the complainant averred that Paul manufactured cigars \u201c in rooms or apartments \u201d which \u201c were then and there used by the said David A. Paul as a dwelling for the purpose of living and sleeping and doing house\u00bb hold work therein.\u201d So that, the complaint and the warrant alike charged the offense described in section one.\nBut upon the hearing before the magistrate the complainant was examined as required by law. (Code of Crim. Proc., \u00a7 194.) The witness was cross-examined on behalf of the defendant. (\u00a7 195.) The examination was signed by the witness and certified by the magistrate, and is before us, returned as part of the record. It tended to show that an offense had been committed under section 1, and that there was probable cause for believing the relator guilty of violating that section. After describing the location of the rooms as consisting of four, extending through from front to rear, the two middle rooms occupied as bed-rooms and the rear room as a kitchen, which left the front room capable of use as a sitting or living room, he said, \u201c there are residers in front facing the street, and residers in the rear facing the yard.\u201d Other statements tended in the same direction, and, while the evidence was weak and lacked precision, there was enough to call into play the discretion and judgment of the magistrate. He held the prisoner for trial. Presumably the commitment was upon the charge made by the complainant, stated in the warrant, and investigated upon the hearing. But two facts make it possible that such presumption is ill-founded. The magistrate apparently had authority to issue process of commitment for a crime developed on the examination, although not charged in the original warrant (Code of Crim. Pro., \u00a7 208); and the evidence tended to prove a violation of section 2 of the act. The magistrate might have held the prisoner, therefore, for a violation of either section, or of both. But if not satisfied by the evidence that section 2 had been probably violated, and yet of opinion that section 1 had been, he was at liberty to commit the prisoner for a violation of section 1 only, which was precisely the crime charged in the complaint and warrant of arrest. That is exactly what the magistrate did. To be quite sure of it requires an analysis of section 2.\nThat provides that \u201c no part, of any section of any floor in any tenement-house in the city of New York, in which the manufacture of cigars or the preparation of tobacco is carried on, shall be used for dwelling purposes.\u201d There is no mistaking what is not, and what is the misdemeanor here prohibited. It is not the manufacture of cigars in the tenement-house, or the room therein devoted to that purpose. That is not prohibited. On the contrary the section treats it as a lawful and proper trade, lawfully carried on in the locality adopted. The prohibition and the crime consists in one of, two things, viz.: either in beginning an occupation for family use of the three rooms in the present case, where the front room was already occupied for cigar making; or in continuing the family use of three rooms, after the front room had become a cigar manufactory. The person guilty of this somewhat novel crime might or might not be the cigar maker himself. If Paul had rented the front room and began his manufacture, and then a third person had moved his family into the three rooms, that third person would have been the criminal and not Paul. The latter could not have been lawfully arrested, nor his honest pursuit of a lawful trade interfered with. If Paul himself moved his family into the three rooms he could have been arrested, but for that offense and that only. His crime would not have been the manufacture of cigars in the house, for no law forbade ; nor in the room selected, for that too was lawful; but would have been the entirely distinct and separate act of moving his family into three rooms notwithstanding his lawful manufacture in the front room. It becomes thus apparent, that under the act of 1883 the manufacture of cigars never violates its terms and never becomes a crime, save in the single instance named in the first section, where it is carried on in the room or rooms used at the same time for family purposes.\nTurning now to the commitment to see for what offense the prisoner was held for trial we find it to be \u201c willfully violating chapter 93 of the Laws of 1883, of the State of New York, in manufacturing cigars, at and within a tenement-house at 375 East Eighth street in said city.\u201d The warrant of commitment is required to state briefly the nature of the crime. (Code of Crim. Pro., \u00a7 214.) This warrant does so, making every allowance for brevity; it does not state any offense under the second section, since the manufacture of cigars is in no case under that section a crime ; but it does state one, and the only one which can possibly answer that description under the first section. As it was of such offense that the prisoner was accused and for such offense that he was arrested, and the commitment describes that and no other, we cannot say that he was arrested for one crime and committed for another. If that were true the warrant of commitment should at least have briefly stated what that new and distinct offense was; the nature of the crime. It thus appears that the relator is held for violation of section 1, and that alone. Why the magistrate did not determine that section 2 had been violated we may not inquire. Even if both the complaint and warrant of arrest may be read as charging such a violation, which is difficult, but perhaps not wholly impossible, there is no ambiguity in the warrant of commitment. It holds the prisoner for a criminal manufacture of cigars, and no such offense exists under section 2.\nIt is then claimed on the part of the appellant, that at least section 1 is unconstitutional because of a defect in the title of the act within the provisions of section 16, article 3 of the Constitution of the State. The title of the act is, \u2018\u2018 An act to improve the public health in the city of New York, by prohibiting the manufacture of cigars and preparation of tobacco in any form, in the tenement-houses of said city.\u201d It is not denied that the act is \u201c local,\u201d since; its operation is limited to the city'of New York ; and being such it is said that it relates to two distinct subjects, only one of which is mentioned in the title. We think the objection is well founded. The subject referred to in the title is the manufacture of cigars in tenement-houses. These houses, as a known and distinct class, are recognized and defined by law. (Laws of 1873, chap. 335; Sanitary Code of N. Y., \u00a7 3.) They are apt to be ill-ventilated, unclean and packed full of inmates, and to become centers or radiating points of contagious disease. As such they might be the proper subjects of sanitary regulation in the interest of the public health. To such regulation in one specific respect the title of the bill fairly relates, but no one would suspect from such title that the bill alsg undertook to regulate the occupation of every dwelling house in the city. / Two new crimes are. created by the act. One of them has relation to the tenement-houses alone; the other to the dwellings of the whole city. One of them is committed by a mode of occupying rooms in a tenement-house ; the other by manufacturing cigars in any family rooms. The two offenses are unlike, different, and entirely distinct and separate. The latter is not at all stated in the title, because that is narrowed so that it does not embrace it. Practically, the limited and specific title confined entirely to tenement-houses, a class of buildings known to, and defined by the law, operated as a fraud and deception upon the people of the city. In Harris v. People (59 N. Y. 600) citing also People v. Supervisors of Chautauqua (43 id. 10) it was declared to be one definite purpose of the constitutional provision to advise the public, and the locality, and the representatives of the locality and of other parts of the general purpose of the bill, so that those interested might be on their guard as to the whole or as to the details of the bill. The citizens of New York, jealous of interference with their homes, reading the title of this bill, would be deceived, misled, and thrown off their guard. Assuming that the measure proposed related to the sanitary condition of crowded tenement-houses, each citizen would take no heed, and find in the end that his own dwelling-house had been regulated. The legislator who should judge of the bill by its title might deem it proper or harmless, and find too late that the period of objection or resistance was gone. If the law had borne a true and not a false label, warning would have been given. Where the title is such that it gives no hint of the real subject of the enactment; where it furnishes no particle of truthful information,; and he who reads it is not bound to know or suspect that the actual enactment does or may exist; and where, as a consequence, the title is misleading and deceptive, it is safe and right to apply the constitutional prohibition. Most of the cases in which the question has arisen have been the precise reverse of the one before us. They have been those in which the title was so broad and general that a multitude of various details could be fairly deemed embraced within it. Of this character have been titles to legalize certain proceedings; in relation to certain contracts or local improvements, and to organize or amend the charters of municipal corporations. (Tifft v. City of Buffalo, 82 N. Y. 211; In re Volkening, 52 id. 650; Village of Gloversville v. Howell, 70 id. 290; In re Mayer, 50 id. 505; People, ex rel. City of Rochester, v. Briggs, id. 553; Matter of L. & W. Orphan Home, 92 id. 120; Harris v. People, 59 id. 600.) The title here is not broad, but narrow; not general but specific; not reasonable and fair but deceptive and misleading. Nobody would infer, and nobody was bound to imagine, that under a title relating to tenement-houses alone, there was enacted in th e first section a law affecting not tenement-houses as such, but all the dwelling-houses in the city ; a law as to which the title not only did not relate, but by its narrow terms, affirmatively and positively excluded it. Nor is section 1 of the act before us saved by the doctrine which we have several times applied, that if a local act contains a subject which is properly expressed in the title it is valid as to that subject, although invalid as to a subject not expressed, for the doctrine applies only where there are two or more subjects, some expressed and some not expressed, while in section 1 there is but one subject, and that not expressed in the title at all. (In re Sackett Street, 74 N. Y. 103; In re Van Antwerp, 56 id. 261; People, ex rel. City of Rochester, v. Briggs, 50 id. 553.) Nor will it do to avoid the difficulty by saying that as the phrase \u201c dwelling \u201d includes within it tenement-house we may hold the section good as to a part of its meaning, and repudiate it as to the balance, for that' in this case would be an act of legislation. It would require us to amend the section by striking out the general word \u201c dwelling\u201d and substituting the phrase \u201c tenement-house,\u201d and then to hold the section good as amended by the court. The constitutional provision deals with the law itself as it came from the legislature. We cannot change and narrow its terms to save it. In the room of the subject plainly stated we cannot put one narrower and different in order to get it within the title. The section must stand or fall just\" as it was enacted, and without reference to extrinsic facts developed in cases under it. But all the reasons for holding it not within the title culminate in this, that such title not only failed to express the subject of the section, but by its frame and phrase expressly and affirmatively excluded that subject; for when it professed to relate to tenement-houses it substantially declared that it did not relate to dwelling-houses generally, which was precisely the one subject to which it did relate. Where the title thus deceives and misleads the constitutional provision should apply if it is ever to be enforced.\nFor this reason we hold section 1 to be .unconstitutional, and that being so it follows that the relator is held for an alleged crime which did not exist and which he could not commit, and that he should be discharged.\nIt is not necessary to consider further the effect of this conclusion upon the remaining sections of the act, nor the very grave and serious argument upon the question whether the act as a whole is within the police power of the State, and capable of being sustained under the Constitution. Those questions should be reserved for an occasion, if it shall arise, when their determination is essential and necessary to the conclusion to be reached.\nThe order appealed from should be reversed, and the relator discharged.\nAll concur.\nOrder accordingly.",
+        "type": "majority",
+        "author": "Finch, J."
+      }
+    ],
+    "attorneys": [
+      "William M. Evarts for appellant.",
+      "Samuel Hand for respondent."
+    ],
+    "corrections": "",
+    "head_matter": "In the Matter of the Application of David A. Paul for a Writ of Habeas Corpus.\nThe words \" tenement-houses \u201d in the title of the act entitled \u201c An act to improve the public health in the city of New York by prohibiting the manufacture of cigars and preparation of tobacco in any form in the tenement-houses of said city \u201d (Chap. 93, Laws of 1883), refer to a distinct class of houses recognized and defined by law, and the subject of the act as expressed in the title is limited to that class of buildings.\nThe subject of the section of said act (\u00a7 1) prohibiting the manufacture of cigars or preparation of tobacco \u201c in any rooms or apartments which in the city of New York are used as dwellings, for. the purpose of- living, sleeping or doing any household work therein,\u201d is not embraced in the title; its inclusion, therefore, in the act is violative of the provision of the State Constitution (Art. 3, \u00a7 16) declaring that no private or local bill \u201c shall embrace more than one subject, and that shall be expressed in the title,\u201d and said section is void.\nThe court has no power to change and narrow the terms of an act for the purpose of- bringing its subject within the title, and so saving it from the constitutional objection.\nIt seems that, striking out said section, the act does not prohibit the manufacture of cigars or preparation of tobacco in tenement-houses ; the only other prohibition is (\u00a7 3) against the use \u201c for dwelling purposes \u201d of \u201c any part of any floor of any tenement-house \u201d where such manufacture or preparation is carried on.\n(Argued December 6, 1883;\ndecided January 29, 1884.)\nAppeal from order of the G-eneral Term of the Supreme Court, in the first judicial department, made October 19,1883,, which affirmed an order of Special Term, granted upon a hearing on return to a .writ of habeas corpus, \"which remanded the petitioner to custody.\nThe facts pertinent to the questions presented are stated in the opinion.\nWilliam M. Evarts for appellant.\nChapter 93, Laws of 1883, authorizes such an interference with personal freedom and private property as is forbidden by section 6 of article 1 of the Constitution of the State. (People v. Otis, 90 N. Y. 52; Fertilizing Co. v. Hyde, 97 U. S. 659-661; Slaughter-House Cases, 16 Wall. 62; Rockwell v. Nearin, 35 N. Y. 302; Wynehamer v. People, 13 id. 378; Craig v. Klein, 65 Penn. St. 399; Herdic v. Young, 5 P. F. Smith, 176; Thorpe v. Rutland, 27 Vt. 149; City of St. Louis v. Fits, 53 Mo. 582.) The courts have a right to protect the individual from unwarrantable interference with his property under the pretense of the exercise of the police power. (Wynehamer v. People, 13 N. Y. 278; Coe v. Schultz, 47 Barb. 64; Rockwell v. Nearin, 35 N. Y. 302; Thorpe v. Rutland, 27 Vt. 149; Craig v. Klein, 65 Penn. St. 399; Herdic v. Young, 5 P. F. Smith, 176; Austin v. Murray, 16 Pick. 126; Greene v. Savannah, 6 Ga. 1; People v. Hawley, 3 Pick. 330; Ames v. County, 11 Mich. 139; Vanderbilt v. Adams, 1 Cowen, 349; Watertown v. Mayo, 109 Mass. 315-319; Town of Lake View v. Rose Hill Co., 70 Ill. 191). The act of 1883 is in contravention of section 19, article 1 of the Federal Constitution in that it impairs the obligation of contracts. (Wynehamer v. People, 13 N. Y. 371.) The act is local and embraces more than one subject. (\u00a7 16, art. 3 of the Constitution; Gaskin v. Meek, 8 Abb. Pr. [N. S.] 312; People v. O\u2019Brien, 39 N. Y. 132.) The court will look at the act and not at its title to determine whether it encroaches upon rights and privileges secured by the Constitution. (16 Wall. 39, 88, 97, 105; 111, 116, 119, 122.) The right and privilege of the relator to pursue his trade, and to order the employment of his family therein in his own house, was a valuable right and privilege in the sense of natural and inalienable right, and in the sense of article 1, section 1 of the Constitution, as well as in the sense of \u201c liberty and property,\u201d as used in section 6 of the same article. (Smith\u2019s Wealth of Nations, b. 1, chap. 10, pt. 2; Edict of Louis XVI, 1776; 2 Kent\u2019s Commentaries, 1, 8; Bertholf v. O\u2019Reilly, 74 N. Y. 515; Wynehamer Case, 13 id. 420; Live Stock, etc., Ass\u2019n v. Crescent City, etc., Co., 1 Abb. [U. S.] 398; 16 Wall. 106; Corfield v. Coryell,4 Wash. C. C. 380; Mayor, etc., v. Thorne, 7 Paige, 263.)\nSamuel Hand for respondent.\nWhether or not the manufactoring of cigars or preparation of tobacco in any form in tenement-houses in the city of Hew York is prejudicial to the public health and the prohibition thereof expedient, is a question solely for the legislature, and it will not be reviewed by the courts. (2 Kent\u2019s Com. [Holmes\u2019 12th ed.] 340; Bertholf v. O\u2019Reilly, 74 N. Y. 509, 514, 515, 520, 521, 522, 523, 524; The Slaughter-House Cases, 16 Wall. 36; Vanderbilt v. Adams, 7 Cow. 349; Stuyvesant v. Mayor, id. 585; Phelps v. Racey, 60 N. Y. 10, 14; City of New York v. Miln, 11 Peters, 102; Cronin v. People, 82 N. Y. 323; 2 Kent\u2019s Com. 340 [Holmes\u2019 12th ed.]; Cooley on Const. Lim. [5th ed.] 739, 743, 744, 745; Potter\u2019s Dwarris on Stat. 444; Dillon on Mun. Corp., \u00a7 95.) The exercise of the police power of the State and its power of eminent domain are distinct powers and differ substantially in their essence, and the constitutional conditions as to thear exercise. (Cooper v. Shultz, 32 How. 107-121; Coe v. Shultz, 47 Barb. 64-70; Cooley on Const. Lim. [5th ed.] 707; Potter\u2019s Dwarris on Stat. 463; Dillon on Mun. Corp., \u00a7 93; Sedgwick on Const. Law, 423; State v. Blake, 36 N. J. Law, 442-447; Gordon v. Cornes, 47 N. Y. 608, 611; People v. Mayor, 3 Comst. 419; Darlington v. Mayor, etc., 31 N. Y. 190; B\u2019k of Rome v. Vil. of Rome, 18 id. 38, 43; Wynehamer v. People, 3 Kern. 378; Bridgeport v. H. R. R. Co., 5 Conn. 475; Clarke v. Rochester, 24 Barb. 474; Metropolitan B\u2019d of Excise v. Barrie, 34 N. Y. 657, 666.) The question of expediency in cases of eminent domain is purely a legislative and not a judicial one. (In re Townsend, 39 N. Y. 171-174; People v. Smith, 21 id. 595, 598; Lindenmuller v. People, 33 Barb. 548, 575; Nuendorff v. Duryea, 69 N. Y. 557, 563; Coates v. Mayor, etc., 7 Cow. 585; Martin v. Mott, 12 Wheat. 19.) The courts never declare acts of the legislature void and unconstitutional except they be clearly so. (People v. Allen, 42 N. Y. 378, 381; People v. Sup\u2019vrs of Orange Co., 17 id. 235, 241; Met. B\u2019d of Excise v. Barrie, 34 id. 657, 668; Bloomfield v. Richardson, 63 Barb. 437, 450; Mills on Eminent Domain, \u00a7 10; W. P. Inst. v. E. R. R., 79 Penn. St. 257; E. R. R. v. Stockton, 41 Cal. 147; Pittsburg v. Scott, 1 Penn. St. 309; Ex parte Smith v. Keating, 38 Cal. 702, 709; Ex parte DeLancey, 43 id. 478; The Intendant, etc., v. Chandler, 6 Ala. 899, 902; St. Paul v. Colters, 12 Minn. 41, 48; St. Louis v. Webber, 44 Mo. 547, 550; Paxon v. Sweet, 1 Green [N. J.], 196; City of Brooklyn v. Breslin, 57 N. Y. 591, 596; People v. Mayor, 32 Barb. 102; B. & N. R. R. Co. v. Buffalo, 5 Hill, 209, 211; People v. B\u2019d of Aldermen, 11 Abb. Pr. 289; N. Y. & H. R. R. Co. v. Mayor, 1 Hilt. 562; Schanck v. Mayor, 10 Hun, 124; 69 N. Y. 444; Brinkmayer v. Evansville, 29 Ind. 187; Brewster v. City of Davenport, 51 Iowa, 428; Iron R. R. Co. v. Ironton, 19 Ohio St. 299; City Council v. Goldsmith, 2 Spears [S. C.], 428; Hill v. Charlotte, 72 N. C. 55; Fisher v. Harrisburg, 2 Grant\u2019s [Penn.] Cases, 291; Baker v. Boston, 12 Pick. 184; Commw. v. Robertson, 5 Cush. 338.) The act of 1883 is not unconstitutional as in contravention of section 10, article 1 of the Federal Constitution; it does not impair the obligation of contracts; nor does it violate article 5 of the amendments to the said Constitution; it does not deprive any one of property without due process of law; nor does it take private' property for public use without due, just compensation. (Vanderbilt v. Adams, 7 Cow. 349; In re Ryer, 72 N. Y. 1, 7; Stuyvesant v. Mayor, 7 Cow. 585; Cooley on Const. Lim. [5th ed.] 710; Lindenmuller Case, 33 Barb. 548, 577; Met. B\u2019d of Excise v. Barrie, 34 N. Y. 657, 667, 668; Neuendorf v. Duryea, 69 N. Y. 557, 563; Beer Co. v. Massachusetts, 97 U. S. 25.) The act is not violative of section 16, article 3 of the Constitution of this State. It embraces only one subject, the protection of the public health against dangers arising from the manufacture of cigars and the preparation of tobacco in tenement-houses in Flew York city. (Tifft v. City of Buffalo, 82 N. Y. 204, 211; In re Volkening, 52 id. 650; In re Mayor, 50 id. 504; Harris v. People, 59 id. 599; Village of Gloversville v. Howell, 70 id. 287, 290; Matter of L. and W. Orphan Home, 92 id. 116, 120; In re Village of Middletown, 82 id. 196, 202-204; People, ex rel. City of Rochester, v. Briggs, 50 id. 553, 565, 566; Kerrigan v. Force, 68 id. 381, 383, 384; In re Met. Gas Co., 85 id. 526; In re Ketchum, 31 How. Pr. 346, 347\u2014 352; Cooley on Const. Lim. [5th ed.] 211, 212; In re Ryer, 72 N. Y. 1, 2, 3.)"
+  },
+  "file_name": "0497-01",
+  "first_page_order": 521,
+  "last_page_order": 532
+}

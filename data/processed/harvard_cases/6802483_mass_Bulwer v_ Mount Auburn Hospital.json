@@ -1,0 +1,818 @@
+{
+  "id": 6802483,
+  "name": "Bernard E. Bulwer vs. Mount Auburn Hospital & others",
+  "name_abbreviation": "Bulwer v. Mount Auburn Hospital",
+  "decision_date": "2016-02-29",
+  "docket_number": "",
+  "first_page": "672",
+  "last_page": "692",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "473 Mass. 672"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Mass.",
+    "id": 8825,
+    "name": "Massachusetts Supreme Judicial Court"
+  },
+  "jurisdiction": {
+    "id": 4,
+    "name_long": "Massachusetts",
+    "name": "Mass."
+  },
+  "cites_to": [
+    {
+      "cite": "57 N.Y.L. Sch. L. Rev. 749",
+      "category": "journals:journal",
+      "reporter": "N.Y.L. Sch. L. Rev.",
+      "pin_cites": [
+        {
+          "page": "752"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "3 Harv. L. & Pol'y Rev. 103",
+      "category": "journals:journal",
+      "reporter": "Harv. L. & Pol'y Rev.",
+      "year": 2009,
+      "pin_cites": [
+        {
+          "page": "128",
+          "parenthetical": "\"pretrial adjudication particularly disfavors employment discrimination plaintiffs\""
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "414 Mass. 375",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "case_ids": [
+        3903229
+      ],
+      "year": 1993,
+      "pin_cites": [
+        {
+          "page": "384-385"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mass/414/0375-01"
+      ]
+    },
+    {
+      "cite": "474 F.3d 10",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        5711567
+      ],
+      "year": 2007,
+      "pin_cites": [
+        {
+          "page": "14",
+          "parenthetical": "evidence of racial animus inferred from \"disparities in subjective performance evaluations between employees of different races\" where those subjective evaluations \"did not correlate with the individualized objective performance factors for those employees\""
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/474/0010-01"
+      ]
+    },
+    {
+      "cite": "472 Mass. 150",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "case_ids": [
+        4362064
+      ],
+      "year": 2015,
+      "opinion_index": 0,
+      "case_paths": [
+        "/mass/472/0150-01"
+      ]
+    },
+    {
+      "cite": "473 Mass. 23",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "case_ids": [
+        6801494
+      ],
+      "year": 2015,
+      "pin_cites": [
+        {
+          "page": "38",
+          "parenthetical": "\"In identifying these elements that arguably may support\" plaintiffs case, \"we do not in any way suggest that the [evidence] ultimately is admissible\""
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mass/473/0023-01"
+      ]
+    },
+    {
+      "cite": "397 Mass. 761",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "case_ids": [
+        874778
+      ],
+      "weight": 3,
+      "year": 1986,
+      "pin_cites": [
+        {
+          "page": "765"
+        },
+        {
+          "page": "765",
+          "parenthetical": "\"judge found [after bench trial]. .. that the plaintiff failed to prove pretext\""
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mass/397/0761-01"
+      ]
+    },
+    {
+      "cite": "443 Mass. 52",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "case_ids": [
+        1276617
+      ],
+      "year": 2004,
+      "pin_cites": [
+        {
+          "page": "55",
+          "parenthetical": "\"We ask whether, construing the evidence most favorably to the plaintiff, and 'without weighing the credibility of the witnesses or otherwise considering the weight of the evidence, the jury reasonably could have returned a verdict for the plaintiff' \""
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mass/443/0052-01"
+      ]
+    },
+    {
+      "cite": "555 U.S. 1047",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "year": 2008,
+      "opinion_index": 0
+    },
+    {
+      "cite": "451 Mass. 343",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "case_ids": [
+        3789464
+      ],
+      "year": 2008,
+      "pin_cites": [
+        {
+          "page": "350"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mass/451/0343-01"
+      ]
+    },
+    {
+      "cite": "857 F. Supp. 2d 182",
+      "category": "reporters:federal",
+      "reporter": "F. Supp. 2d",
+      "case_ids": [
+        3573916
+      ],
+      "year": 2012,
+      "pin_cites": [
+        {
+          "page": "189"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f-supp-2d/857/0182-01"
+      ]
+    },
+    {
+      "cite": "428 Mass. 1402",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "year": 1998,
+      "opinion_index": 0
+    },
+    {
+      "cite": "512 U.S. 267",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        39915
+      ],
+      "weight": 2,
+      "year": 1994,
+      "pin_cites": [
+        {
+          "page": "272"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/512/0267-01"
+      ]
+    },
+    {
+      "cite": "398 Mass. 476",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "case_ids": [
+        877676
+      ],
+      "year": 1986,
+      "pin_cites": [
+        {
+          "page": "478",
+          "parenthetical": "\"incorporation by a clearly stated general reference will suffice\""
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mass/398/0476-01"
+      ]
+    },
+    {
+      "cite": "420 Mass. 422",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "case_ids": [
+        826210
+      ],
+      "year": 1995,
+      "pin_cites": [
+        {
+          "page": "426"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mass/420/0422-01"
+      ]
+    },
+    {
+      "cite": "342 Mass. 385",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "case_ids": [
+        3856815
+      ],
+      "year": 1961,
+      "pin_cites": [
+        {
+          "page": "387"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mass/342/0385-01"
+      ]
+    },
+    {
+      "cite": "69 Mass. App. Ct. 378",
+      "category": "reporters:state",
+      "reporter": "Mass. App. Ct.",
+      "case_ids": [
+        3236384
+      ],
+      "year": 2007,
+      "pin_cites": [
+        {
+          "page": "382"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mass-app-ct/69/0378-01"
+      ]
+    },
+    {
+      "cite": "363 F.3d 77",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        9264361
+      ],
+      "year": 2004,
+      "pin_cites": [
+        {
+          "page": "83",
+          "parenthetical": "\"liability can attach if neutral decision makers, when deciding to terminate an employee, rely on information that is inaccurate, misleading, or incomplete because of another employee's discriminatory animus\""
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/363/0077-01"
+      ]
+    },
+    {
+      "cite": "384 Mass. 559",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "case_ids": [
+        934251
+      ],
+      "year": 1981,
+      "pin_cites": [
+        {
+          "page": "569-570"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mass/384/0559-01"
+      ]
+    },
+    {
+      "cite": "442 Mass. 582",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "case_ids": [
+        1183073
+      ],
+      "year": 2004,
+      "pin_cites": [
+        {
+          "page": "598"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mass/442/0582-01"
+      ]
+    },
+    {
+      "cite": "520 F.3d 490",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        3569076,
+        3701580
+      ],
+      "year": 2008,
+      "pin_cites": [
+        {
+          "page": "495"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us-app-dc/380/0283-01",
+        "/f3d/520/0490-01"
+      ]
+    },
+    {
+      "cite": "966 F. Supp. 2d 52",
+      "category": "reporters:federal",
+      "reporter": "F. Supp. 2d",
+      "case_ids": [
+        4076270
+      ],
+      "year": 2013,
+      "pin_cites": [
+        {
+          "page": "56"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f-supp-2d/966/0052-01"
+      ]
+    },
+    {
+      "cite": "546 U.S. 454",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        5996636
+      ],
+      "year": 2006,
+      "pin_cites": [
+        {
+          "page": "456",
+          "parenthetical": "judgment as matter of law for employer inappropriate where employer used ambiguous term that, though \"not always . . . evidence of racial animus,\" is not \"always benign\""
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/546/0454-01"
+      ]
+    },
+    {
+      "cite": "825 F.2d 593",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        10547309
+      ],
+      "year": 1987,
+      "pin_cites": [
+        {
+          "page": "597"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/825/0593-01"
+      ]
+    },
+    {
+      "cite": "626 F.3d 654",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        6052218
+      ],
+      "year": 2010,
+      "pin_cites": [
+        {
+          "page": "662-663",
+          "parenthetical": "\"pretext can be established by showing ... 'weaknesses [or] implausibilities ... in the employer's offered reasons' \""
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/626/0654-01"
+      ]
+    },
+    {
+      "cite": "659 F.3d 120",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        3838889
+      ],
+      "year": 2011,
+      "pin_cites": [
+        {
+          "page": "124"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/659/0120-01"
+      ]
+    },
+    {
+      "cite": "43 F.3d 1373",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        11319566
+      ],
+      "year": 1994,
+      "pin_cites": [
+        {
+          "page": "1380",
+          "parenthetical": "reversing summary judgment for employer where conflicting evaluations raised fact questions about trae reasons for adverse employment action"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/43/1373-01"
+      ]
+    },
+    {
+      "cite": "64 Mass. App. Ct. 1",
+      "category": "reporters:state",
+      "reporter": "Mass. App. Ct.",
+      "case_ids": [
+        1020973
+      ],
+      "year": 2005,
+      "pin_cites": [
+        {
+          "page": "9-10"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mass-app-ct/64/0001-01"
+      ]
+    },
+    {
+      "cite": "426 Mass. 122",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "case_ids": [
+        369454
+      ],
+      "weight": 3,
+      "year": 1997,
+      "pin_cites": [
+        {
+          "page": "127"
+        },
+        {
+          "page": "129",
+          "parenthetical": "\"The most probative means of establishing that the plaintiff's termination was a pretext for racial discrimination is to demonstrate that similarly situated white employees were treated differently\""
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mass/426/0122-01"
+      ]
+    },
+    {
+      "cite": "371 Mass. 130",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "case_ids": [
+        320399
+      ],
+      "weight": 2,
+      "year": 1976,
+      "pin_cites": [
+        {
+          "page": "139"
+        },
+        {
+          "page": "139"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mass/371/0130-01"
+      ]
+    },
+    {
+      "cite": "432 Mass. 107",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "case_ids": [
+        285237
+      ],
+      "year": 2000,
+      "pin_cites": [
+        {
+          "page": "114-115"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mass/432/0107-01"
+      ]
+    },
+    {
+      "cite": "86 Mass. App. Ct. 316",
+      "category": "reporters:state",
+      "reporter": "Mass. App. Ct.",
+      "case_ids": [
+        4239218
+      ],
+      "weight": 9,
+      "year": 2014,
+      "pin_cites": [
+        {
+          "page": "347",
+          "parenthetical": "Sikora, J., dissenting"
+        },
+        {
+          "page": "355",
+          "parenthetical": "Sikora, J., dissenting"
+        },
+        {
+          "page": "347",
+          "parenthetical": "Sikora, J., dissenting"
+        },
+        {
+          "page": "348",
+          "parenthetical": "Sikora, J., dissenting"
+        },
+        {
+          "page": "350",
+          "parenthetical": "Sikora, J., dissenting"
+        },
+        {
+          "page": "347",
+          "parenthetical": "Sikora, J., dissenting"
+        },
+        {
+          "page": "329-330"
+        },
+        {
+          "page": "333-334"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mass-app-ct/86/0316-01"
+      ]
+    },
+    {
+      "cite": "419 Mass. 437",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "case_ids": [
+        823701
+      ],
+      "weight": 11,
+      "year": 1995,
+      "pin_cites": [
+        {
+          "page": "441"
+        },
+        {
+          "page": "443"
+        },
+        {
+          "page": "443"
+        },
+        {
+          "page": "442"
+        },
+        {
+          "page": "443"
+        },
+        {
+          "page": "445"
+        },
+        {
+          "page": "439"
+        },
+        {
+          "page": "439-440"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mass/419/0437-01"
+      ]
+    },
+    {
+      "cite": "411 U.S. 792",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        10002
+      ],
+      "year": 1973,
+      "pin_cites": [
+        {
+          "page": "802-805",
+          "parenthetical": "McDonnell Douglas"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/411/0792-01"
+      ]
+    },
+    {
+      "cite": "434 Mass. 493",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "case_ids": [
+        1080013
+      ],
+      "weight": 7,
+      "year": 2001,
+      "pin_cites": [
+        {
+          "page": "502"
+        },
+        {
+          "page": "501"
+        },
+        {
+          "page": "502"
+        },
+        {
+          "page": "502"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mass/434/0493-01"
+      ]
+    },
+    {
+      "cite": "444 Mass. 34",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "case_ids": [
+        985749
+      ],
+      "weight": 5,
+      "year": 2005,
+      "pin_cites": [
+        {
+          "page": "38"
+        },
+        {
+          "page": "39"
+        },
+        {
+          "page": "39-40"
+        },
+        {
+          "page": "57"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mass/444/0034-01"
+      ]
+    },
+    {
+      "cite": "464 Mass. 467",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "case_ids": [
+        4274512
+      ],
+      "year": 2013,
+      "pin_cites": [
+        {
+          "page": "474"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mass/464/0467-01"
+      ]
+    },
+    {
+      "cite": "436 Mass. 1404",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "year": 2002,
+      "opinion_index": 0
+    },
+    {
+      "cite": "463 Mass. 316",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "case_ids": [
+        3686023
+      ],
+      "year": 2012,
+      "pin_cites": [
+        {
+          "page": "318"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mass/463/0316-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 1820,
+    "char_count": 53675,
+    "ocr_confidence": 0.874,
+    "pagerank": {
+      "raw": 3.898934379894427e-07,
+      "percentile": 0.9016635718916431
+    },
+    "sha256": "0fa053ac84de8c4b419325a4451bb20cecab9074dcb2d4448033f9a14bf54046",
+    "simhash": "1:b3f9b7b6881d37ac",
+    "word_count": 8297
+  },
+  "last_updated": "2024-02-27T18:04:19.393667+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Present: Gants, C.J., Spina, Cordy, Botsford, Duffly, & Lenk, JJ."
+    ],
+    "parties": [
+      "Bernard E. Bulwer vs. Mount Auburn Hospital & others."
+    ],
+    "opinions": [
+      {
+        "text": "Lenk, J.\nMassachusetts law prohibits employers from discriminating against their employees on the basis of, among other things, race or national origin. See G. L. c. 151B, \u00a7 4. Because direct proof of such discrimination is rarely available, employees filing claims under G. L. c. 15IB, \u00a7 4, are permitted to prove discrimination without direct evidence of discriminatory intent, by relying on evidence that their employers gave a \u201cfalse reason,\u201d or pretext, for terminating their employment. In this case, we address whether the plaintiff has produced sufficient evidence of pretext to survive his former employer\u2019s motion for summary judgment. In doing so, we clarify the evidentiary burdens each party faces after one party has moved for summary judgment. We address, in particular, three concerns: whether the evidence on which an employee relies to survive a defendant\u2019s motion for summary judgment need show not only that the defendant\u2019s stated reason was false, but also that it concealed a discriminatory purpose; whether it is the plaintiff\u2019s burden to persuade the motion judge based on that evidence that there is an issue of material fact appropriate for trial; and, finally, whether, in discerning the existence of an issue of material fact, the motion judge may weigh or otherwise evaluate the evidence.\nThe plaintiff, Bernard E. Bulwer, is a black male of African descent who is originally from the Central American country of Belize. The plaintiff has a medical degree from the University of the West Indies, and practiced medicine outside the United States until 2002, when he came to this country. In order to become certified to practice medicine in the United States, he was required to complete a residency program here. During the first year of his residency at the defendant Mount Auburn Hospital (hospital), the plaintiff received diametrically opposing reviews from supervising physicians, some laudatory and others deeply critical, after which the hospital terminated his employment. The plaintiff filed a ten-count complaint in the Superior Court against the hospital and three physicians who supervised his work, asserting, among other things, employment discrimination under G. L. c. 151B, \u00a7 4, and breach of contract. Concluding that the plaintiff had not produced sufficient evidence of the defendants\u2019 discriminatory intent, a Superior Court judge allowed the defendants\u2019 motion for summary judgment on all claims. The plaintiff appealed, and a divided Appeals Court reversed the judgment as to the discrimination and breach of contract claims, while affirming the decision on all of the other claims. We allowed the defendants\u2019 application for further appellate review, limited to the claims for discrimination under G. L. c. 151B, \u00a7 4, and breach of contract. We conclude that the defendants were not entitled to summary judgment and that the plaintiff has presented evidence sufficient to allow a jury to hear his claims.\n1. Background. We summarize facts drawn from the summary judgment record, reserving certain details for later discussion. See LeBlanc v. Logan Hilton Joint Venture, 463 Mass. 316, 318 (2012). The plaintiff, in addition to his medical degree, has postgraduate training in a number of fields, including cardiovascular disease. He practiced medicine in Trinidad, Belize, and the United Kingdom from 1989 through 2002. In 2002, the plaintiff came to the United States as a research associate and fellow in a subresidency cardiology program at another hospital in Boston, where he worked until 2005.\nIn the spring of 2005, hoping to obtain a medical license to practice in the United States, the plaintiff contacted the defendant Dr. Eric Flint, director of the internal medicine residency program at the hospital. In June, 2005, after an interview with Flint, the plaintiff was offered a residency at the hospital. Because of delays in the processing of his visa, he began his residency in September, 2005, two months later than the other residents in his cohort.\nIn August, 2005, the plaintiff signed the hospital\u2019s standard medical resident agreement (agreement), setting forth the terms and conditions of his employment. The agreement was for a one-year term, renewable for an additional two years upon satisfactory completion of the first-year program.\nThe agreement stated that the hospital and its residency program would comply with the requirements promulgated by the national Accreditation Council for Graduate Medical Education (ACGME). ACGME requires, among other things, that member programs not discriminate against residents on grounds including race and national origin. It also requires that programs provide residents with written procedures that must be followed in the event a program seeks \u201cacademic or other disciplinary action\u201d against a resident.\nThe hospital\u2019s written procedures state that, should a resident\u2019s supervisors decide to terminate a resident\u2019s employment, a resident has the right to convene an ad hoc committee consisting of the heads of various departments, the resident at issue, and another resident to be chosen by mutual agreement. Such a committee would then be empowered to conduct an independent review of the employment decisions made by the resident\u2019s supervisors. The procedures provide further that Residents may then appeal the committee\u2019s decision to the \u201cPresident of the Medical Staff.\u201d\n\u201c[t]he resident is assured of the fundamental aspects of a fan-hearing including written statement of the specific issues from the Department Chair, at least [five] days notice of the Due Process Committee meeting, the opportunity to be present and to rebut the evidence, and the opportunity to present any other information.\n\u201cAll matters upon which any decision is based must be introduced into evidence at the proceeding before the Ad Hoc Due Process Committee in the presence of the resident.\u201d\nAfter signing the agreement, the plaintiff began his residency in September, 2005. The first-year program consisted of twelve one-month rotations in a number of different \u201cservices\u201d throughout the hospital. The plaintiff\u2019s performance was to be evaluated by attending physicians and resident supervisors in each of the services where he worked. The evaluating physicians were to fill out evaluation forms, which called for numerical ratings of various aspects of the plaintiff\u2019s performance, as well as for written comments. These evaluations in turn would be given to the clinical competence committee (CCC), a panel of thirteen physicians who met regularly to discuss the progress of all of the residents. The plaintiff was also assigned a mentor, the defendant Dr. Lori Balestrero.\nThe plaintiff\u2019s first rotation in September was in the hospital\u2019s emergency department. The plaintiff received strongly positive evaluations in that department. Two physicians rated him as \u201coutstanding,\u201d and five others rated him \u201cabove average.\u201d They described him as knowledgeable, mature, and pleasant to work with. Dr. Gary Setnik, head of the emergency department, provided a more lengthy written evaluation:\n\u201cDr. Bulwer is universally held in high regard by the staff I polled and by myself. He has been totally reliable, coming in early, and staying late on most shifts. He aggressively works to see as many patients as possible. His presentations are complete, his management plans appropriate, and his procedural skills very good.\u201d\nThe next month, the plaintiff rotated into the medical intensive care unit (MICU). There, he received mixed evaluations. In an October, 2005, electronic mail message to a colleague, Dr. Soon-11 Song wrote positively that Other physicians, however, viewed the plaintiff\u2019s performance negatively. One wrote that the plaintiff \u201c[m]ade drastic and potentially dangerous/life threatening decisions about [patient] care [without] consulting [the] attending [physician]. . . . [He is] [t]oo confident for his own good and [the patient\u2019s] own good without showing any proof of capability to perform at the level of an intern or resident yet.\u201d Another commented that the plaintiff was \u201ceager to learn\u201d but that \u201c[h]e does not seem to be aware of his responsibilities as an intern despite being told them repeatedly.\u201d In response, the plaintiff sent an electronic mail message to Flint stating that he did not believe these negative reviews were objective, and asking Flint to obtain evaluations from four named physicians with whom the plaintiff had seen patients. Flint did not do so.\n\u201c[the plaintiff] had procedural skills and knowledge base well above someone at an intern level. He also was pleasant to work with. He had a good sense of his own limitations, and asked questions often in order to clarify issues. I think his ability to gather information in history taking was quite good and thorough. Above all, he maintained composure and a good attitude, despite the fact that we had an especially difficult night of no sleep and challenging patients requiring multiple attending input in the middle of the night.\u201d\nSetnik reported that both he and other members of his department received harsh comments from members of the MICU staff for his positive evaluations of the plaintiff. He described this as \u201c[a]n experience that I hadn\u2019t previously had at Mount Auburn.\u201d\nIn November, 2005, Balestrero, the plaintiff\u2019s mentor, met with the plaintiff to discuss the negative feedback. The plaintiff told her that he thought the negative impressions were inaccurate. Balestrero then met with the CCC to discuss ways in which the plaintiff could improve. Following this meeting, Balestrero presented the plaintiff with a plan for improvement that she had developed together with the CCC. The plan included a provision for weekly meetings with Balestrero and a follow-up meeting, to be held after evaluations from the December rotation were received, with the plaintiff, Balestrero, and a CCC representative. Neither the weekly meetings nor the follow-up meeting took place.\nDuring November and December of 2005, the plaintiff was assigned a \u201cwards\u201d rotation in which he provided general internal medicine care for patients who had been admitted to the hospital. The three evaluations from that rotation that appear in the record were positive, with one evaluator noting \u201cmuch improvement,\u201d and another stating that the plaintiff was \u201c[o]verall . . . pretty good.\u201d The third evaluator assigned a passing grade, but stated that the plaintiff needed improvement in \u201cpractice-based leam-ing,\u201d professionalism, and organization of notes charting patients\u2019 progress.\nIn January, 2006, the plaintiff rotated into the cardiology department. He received three evaluations of his work on that service. One rated him as failing in five of six competencies, but another gave him high marks in all competencies, and the third described his presentations as \u201cvery commendable\u201d and his knowledge as \u201cexcellent.\u201d In mid-January, 2006, the plaintiff met with Balestrero, who told him that he had received positive evaluations and that \u201cthe past [was] behind [him].\u201d\nIn February, 2006, the plaintiff rotated again into the wards service. One evaluator there rated him positively, while the other, Dr. Erica Bial, wrote a lengthy and negative evaluation in which she described her experience with the plaintiff as \u201chorrendous.\u201d She stated that \u201c[t]here is no aspect of the central competencies in which [the plaintiff] is even modestly competent.\u201d She described him as \u201cless-than-fully-honest\u201d and as having \u201ca difficult time being appropriate with . . . women in the professional environment,\u201d and recommended that the plaintiff be expelled from the residency program. During this period, Bial \u201cberated\u201d the plaintiff publicly in a manner that a witness, Song, described as not \u201cappropriate,\u201d and as unprecedented in his experience with Bial. Song also reported that Bial spoke negatively to other residents about the plaintiff, outside the plaintiff\u2019s presence.\nIn March, 2006, the CCC discussed the plaintiff\u2019s mixed evaluations. On April 5,2006, the CCC sent the plaintiff a letter stating that it would not renew his contract because of concerns about his ability to analyze complex information, his inability to \u201cbuild effective therapeutic relationships,\u201d and his difficulty presenting information to other members of his teams. The letter stated also that the plaintiff could finish his first year of residency, working until the end of his contract term in August, 2006. The letter was signed by Flint and by the defendant Dr. Ricardo Wellisch, chair of the CCC.\nThe plaintiff invoked his right to convene an ad hoc committee pursuant to the hospital\u2019s \u201cdue process\u201d policy. Although the committee consisted of most of the individuals specified in that written policy, no resident was seated on it, as required by the policy. Further, of the committee\u2019s three meetings, the plaintiff was invited to attend only the first one, which took place on April 24, 2006. At that first meeting, as well as at the second, on May 2, 2006, the committee heard testimony from physicians who had previously evaluated the plaintiff during his rotations. The transcripts of these meetings do not reflect discussion of the possibility that the plaintiff\u2019s contract would be terminated immediately, and the plaintiff did not receive any notice to that effect. He requested that the committee forward to him any materials considered during the meetings he did not attend; those requests were not answered.\nOn May 9, 2006, the committee sent a letter to Dr. Stephen Zinner, chair of the department of medicine, stating that it would affirm the decision of the CCC not to renew the plaintiff\u2019s contract. On May 17, 2006, Zinner informed the plaintiff verbally that, because of \u201cserious additional concerns\u201d for \u201cpatient safety\u201d that had arisen \u201cin the past [three] weeks,\u201d the plaintiff would \u201cbe immediately relieved of his responsibilities.\u201d\nThe plaintiff sent a letter dated May 18, 2006, to the president and chief executive officer of the hospital stating his desire to appeal, as provided in the due process policy, from the committee\u2019s decision not to renew his contract and to terminate his employment immediately. The president responded with a certified letter, return receipt requested, saying that she would convene such a committee. The plaintiff did not retrieve the letter from the postal service, which attempted delivery three times, and did not pursue the appeal.\nIn August, 2006, the plaintiff filed a charge of discrimination against the hospital with the Massachusetts Commission Against Discrimination. In February, 2008, the plaintiff filed his complaint in the Superior Court, naming the hospital, Balestrero, Flint, and Wellisch as defendants. During discovery, depositions were taken of various doctors who had worked with the plaintiff, including Dr. Ramona Dvorak, an African-American internist and psychiatrist formerly employed at the hospital, who described what she believed to have been incidents of racism she experienced during her employment. Following discovery, in December, 2010, the defendants sought summary judgment on all counts; in June, 2011, their motion was allowed.\n2. Discussion. The plaintiff contends that the motion judge erred in allowing the defendants\u2019 motion for summary judgment on his claim for employment discrimination on the basis of his race and national origin, in violation of G. L. c. 15IB, \u00a7 4, and on his breach of contract claim based on his termination in violation of the procedures set forth in the medical resident agreement. The plaintiff maintains that there were disputed issues of material fact as to both claims, and the matter should proceed to trial.\na. Standard of review. A motion for summary judgment under Mass. R. Civ. R 56 (c), as amended, 436 Mass. 1404 (2002), is appropriate where \u201cthe moving party ... \u2018show[s] that there is no genuine issue as to any material fact and that the moving party is entitled to a judgment as a matter of law\u2019 based on the undisputed facts.\u201d Premier Capital, LLC v. KMZ, Inc., 464 Mass. 467, 474 (2013), quoting Mass. R. Civ. P. 56 (c). \u201cIn reviewing the . . . grant of a motion for summary judgment, we conduct a de novo examination of the evidence in the summary judgment record ... and view the evidence in the light most favorable to the part[y] opposing summary judgment\u201d (citation omitted),\u201d LeBlanc, supra at 318, \u201cdrawing all reasonable inferences in [the nonmoving party\u2019s] favor.\u201d Sullivan v. Liberty Mut. Ins. Co., 444 Mass. 34, 38 (2005).\nb. Discrimination claim, i. Evidentiary burdens. General Laws c.151B, \u00a7 4, provides that \u201c[i]t shall be an unlawful practice . . . [f]or an employer . . . because of the race, color, . . . [or] national origin ... of any individual ... to discharge from employment such individual or to discriminate against such individual in compensation or in terms, conditions or privileges of employment.\u201d In order to prevail at trial, an employee bringing a complaint under G. L. c. 151B, \u00a7 4, must demonstrate four things: that he or she is a member of a protected class; that he or she was subject to an adverse employment action; that the employer bore \u201cdiscriminatory animus\u201d in taking that action; and that that animus was the reason for the action (causation). See Lipchitz v. Raytheon Co., 434 Mass. 493, 502 (2001). The question here is whether the plaintiff provided evidence from which a reasonable jury could infer the presence of the latter two elements, i.e., that the defendants bore discriminatory animus and that the animus was the reason the defendants terminated the plaintiff\u2019s employment.\nIn the pretrial context, an employee asserting a discrimination claim under G. L. c. 15IB, \u00a7 4, may survive a motion for summary judgment by providing \u201c[djirect evidence of [the] elements\u201d of discriminatory animus and causation. Sullivan, supra at 39. Because such direct evidence \u201crarely exists,\u201d however, an employee plaintiff may also survive such a motion by providing \u201cindirect or circumstantial evidence [of discriminatory animus and causation] using the familiar three-stage, burden-shifting paradigm first set out in McDonnell Douglas Corp. v. Green, 411 U.S. 792, 802-805 (1973) (McDonnell Douglas).\u201d Sullivan, supra at 39-40.\n\u201cIn the first stage [of this paradigm], the plaintiff has the burden to show ... a prima facie case of discrimination.\u201d Blare v. Husky Injection Molding Sys. Boston, Inc., 419 Mass. 437, 441 (1995). To do so, a plaintiff must provide \u201cevidence that: (1) he [or she] is a member of a class protected by G. L. c. 15IB; (2) he [or she] performed his [or her] job at an acceptable level; [and] (3) he [or she] was terminated.\u201d Id. \u201cIn the second stage, the employer can rebut the presumption created by the prima facie case by articulating a legitimate, nondiscriminatory reason for its [employment] decision.\u201d Id. In the third stage, the burden of production shifts back to the plaintiff employee, requiring the employee to provide evidence that \u201cthe employer\u2019s articulated justification [for the termination] is not true but a pretext.\u201d Id. at 443.\nThe defendants contend that, at this third stage, the plaintiff must present evidence that the \u201c[hospital\u2019s reason for termination constituted a pretext concealing a discriminatory purpose\u201d (emphasis supplied). Bulwer v. Mount Auburn Hosp., 86 Mass. App. Ct. 316, 347 (2014) (Sikora, J., dissenting). See id. at 355 (Sikora, J., dissenting) (taking position that claim fails because plaintiff did not show \u201cinvidious intent\u201d). This formulation, however, overstates the plaintiff\u2019s burden at the summary judgment stage because \u201cMassachusetts is a pretext only jurisdiction.\u201d Blare, supra at 443. See Abramian v. President & Fellows of Harvard College, 432 Mass. 107, 114-115 (2000). As we explained in Lipchitz, supra at 500-501:\n\u201cThe phrase \u2018pretext for discrimination\u2019 implies that the plaintiff must prove not only that a reason given by the employer for the adverse decision was false, but that the reason was given to cover a discriminatory animus. Our decisions do not require this.... If the employee were able to prove by direct evidence that discriminatory animus motivated the decision, [he] would not have to rely on the indirect method of proving animus by disproving at least one of the employer\u2019s articulated, nondiscriminatory reasons\u201d (citations omitted).\nTo survive a motion for summary judgment, the plaintiff need only present evidence from which a reasonable jury could infer that \u201cthe respondent\u2019s facially proper reasons given for its action against him were not the real reasons for that action.\u201d Wheelock College v. Massachusetts Comm\u2019n Against Discrimination, 371 Mass. 130, 139 (1976). The case can then proceed to trial, at which point, \u201cif the fact finder is persuaded that one or more of the employer\u2019s reasons is false, it may (but need not) infer that the employer is covering up a discriminatory intent, motive or state of mind.\u201d Lipchitz, supra at 501. In other words, a fact finder at trial may infer that, \u201c[c]ombined with establishment of a prima facie case . . . , a showing of pretext eliminates any legitimate explanation for the adverse hiring decision and warrants a determination that the plaintiff was the victim of unlawful discrimination.\u201d Blare, supra at 446.\nThe defendants also argue that, at this third stage, the burden of persuasion is on the \u201cthe plaintiff... to demonstrate that there is a genuine issue of material fact whether the defendants\u2019 proffered reason is a pretext\u201d (emphasis in original). Bulwer, supra at 347 (Sikora, J., dissenting). See id. at 348 (Sikora, J., dissenting) (\u201cplaintiff must substantiate a genuine issue of\u2019 material fact). While the plaintiff does bear \u201cthe burden of producing evidence\u201d that the employer\u2019s reasons are a pretext, see Matthews v. Ocean Spray Cranberries, Inc., 426 Mass. 122, 127 (1997), the burden of persuasion at summary judgment remains with the defendants, who, \u201cas the moving parties], \u2018ha[ve] the burden of affirmatively demonstrating the absence of a genuine issue of material fact on every relevant issue, even if [they] would not have the burden on an issue if the case were to go to trial.\u2019 \u201d Sullivan, supra at 39, quoting Matthews, supra.\nii. Questions of material fact. In opposing the defendants\u2019 motion for summary judgment, the plaintiff relies on indirect evidence of discrimination, which we analyze using the McDonnell Douglas three-stage paradigm. The defendants concede, with regard to the first stage, that the plaintiff has satisfied his obligation to make out a prima facie case of discrimination. With regard to the second stage, the defendants assert that the plaintiff\u2019s employment was terminated based on his poor performance evaluations, included in the record, that express doubts about his abilities and raise concerns for patient safety. This satisfies the defendants\u2019 obligation to produce both \u201clawful . . . reasons for [their] employment decision\u201d and \u201ccredible evidence to show that the . . . reasons advanced were the real reasons.\u201d See Blare, supra at 442, quoting Wheelock College, supra at 138. We therefore move to the third stage, and consider whether the plaintiff has provided evidence sufficient to allow a reasonable jury to infer that \u201cthe employer\u2019s articulated justification is not true but a pretext.\u201d Blare, supra at 443.\nWe begin by reciting more specifically the reasons provided by the hospital for terminating the plaintiff\u2019s employment. In April, 2006, Wellisch and Flint sent a letter to the plaintiff citing his \u201cinability to adequately analyze clinical data in complex cases,\u201d \u201cinability to consistently build effective therapeutic relationships,\u201d and \u201cinability to gain insight into feedback that is offered.\u201d In May, 2006, Zinner decided to terminate the plaintiff\u2019s employment immediately due to asserted \u201cadditional clinical errors, failures to document or comply with our clearly stated expectations about chart notes, and failures to call for appropriate help with severely ill patients.\u201d\nThe record contains at least five categories of evidence from which a jury might infer that these stated reasons were not the real reasons that the plaintiff\u2019s employment was terminated. When \u201ctaken as a whole rather than viewed in isolation,\u201d such evidence could lead a rational jury to conclude that the reasons for the plaintiff\u2019s discharge were pretextual. See Dorman v. Norton Co., 64 Mass. App. Ct. 1, 9-10 (2005).\nFirst, while the record plainly contains negative evaluations tending to support the aforementioned criticisms, the record also contains numerous evaluations inconsistent with these criticisms. See Cole v. Ruidoso Mun. Schs., 43 F.3d 1373, 1380 (10th Cir. 1994) (reversing summary judgment for employer where conflicting evaluations raised fact questions about trae reasons for adverse employment action). See also Bonefont-Igaravidez v. International Shipping Corp., 659 F.3d 120, 124 (1st Cir. 2011), quoting G\u00f3mez-Gonz\u00e1lez v. Rural Opportunities, Inc., 626 F.3d 654, 662-663 (1st Cir. 2010) (\u201cpretext can be established by showing ... \u2018weaknesses [or] implausibilities ... in the employer\u2019s offered reasons\u2019 \u201d); 59 Causes of Action 2d, Cause of Action Under Age Discrimination in Employment Act \u00a7 24 (2013) (\u201cevidence of satisfactory or superior performance evaluations . . . may tend to show ... the illegitimate nature of the defendant\u2019s articulated reason\u201d).\nFor example, some evaluators wrote of the plaintiff\u2019s \u201cexcellent\u201d \u201cability to interpret and analyze clinical data, and formu-lat[e] a plan of management,\u201d even as the plaintiff was dismissed ostensibly because he could not \u201cadequately analyze clinical data in complex cases.\u201d Similarly, some evaluators praised the plaintiff\u2019s \u201cprogress notes\u201d as \u201cvery detailed and informative,\u201d \u201cvery thorough,\u201d and \u201cgenerally well thought out,\u201d while others criticized him for \u201cfailing] to document or comply with . . . expectations about chart notes.\u201d Moreover, evaluations noting that \u201cseveral patients have commented on [the plaintiff\u2019s] thoroughness and humanistic qualities\u201d and that \u201cpatients\u2019 family members told [the evaluator] several times how helpful he had been during an emotionally difficult time\u201d are in some tension with the view that the plaintiff evinced an \u201cinability to consistently build effective therapeutic relationships.\u201d The record also contains evaluations noting that the plaintiff \u201chad a good sense of his own limitations\u201d and that he took \u201cin feedback well.\u201d These disparate evaluations prompted the chair of the ad hoc committee to note that \u201cit is interesting how one set of behaviors can elicit such different perception.\u201d\nThere is, secondly, evidence that the plaintiff was treated differently from similarly situated interns who are not black. See Matthews, supra at 129 (\u201cThe most probative means of establishing that the plaintiff\u2019s termination was a pretext for racial discrimination is to demonstrate that similarly situated white employees were treated differently\u201d). For example, Song named two foreign interns (one white and one apparently Asian) who experienced \u201csimilar issues\u201d but who, unlike the plaintiff, \u201cwere given opportunities to remediate or repeat rotations.\u201d The plaintiff identified a third. The suggestion that the plaintiff was treated differently from these individuals based on his race also finds support in Setnik\u2019s statement that \u201c[i]t is hard to understand the underlying basis for [the negative] perceptions of [the plaintiff\u2019s] work.\u201d\nThird, Dvorak, an African-American internist and psychiatrist, described three separate instances of Caucasian doctors whose deficient performances she and other staff members noticed and brought to the attention of hospital administrators, but who were not subject to disciplinary action until months or years after the complaints were made \u2014 and then only because of pressure from patients and other hospitals. Dvorak also noted an incident in which she found \u201cwhite supremacist\u201d literature in the break room. Although she told administrators \u201chow upsetting [this] was, particularly [to her] as a[n] African-American,\u201d she maintains that the administrators rejected requests to discipline employees who displayed such literature in the workplace.\nFourth, a reasonable jury could interpret a number of comments by the plaintiff\u2019s evaluators and supervisors as reflecting \u201c[stereotypical thinking . . . categorizing people on the basis of broad generalizations.\u201d Lipchitz, supra at 503 n.16. Although such statements in isolation would not be adequate to support a finding of discrimination, when considered with evidence of disparate or unfair treatment in the evaluation process, they may lend support to such a finding. See Conway v. Electro Switch Corp., 825 F.2d 593, 597 (1st Cir. 1987) (\u201cWhile evidence of a discriminatory atmosphere may not be conclusive proof of discrimination against an individual plaintiff, such evidence does tend to add \u2018color\u2019 to the employer\u2019s decisionmaking processes and to the influences behind the actions taken with respect to the individual plaintiff\u201d).\nFor instance, one evaluator criticized the plaintiff for being \u201ctoo confident for his own good.\u201d Another said that someone in the plaintiff\u2019s position as an \u201cintern is not supposed to be smart\u201d and \u201c[t]hat is why all of this [criticism] is happening.\u201d Yet another, Bial, stated that the plaintiff was \u201cthe least respectful person with whom [she had] ever worked\u201d and that he \u201chas no capacity whatsoever for self-assessment.\u201d Bial also spoke negatively to other residents and interns about the plaintiff outside the plaintiff\u2019s presence and \u201cberated him\u201d publicly in a manner that a witness identified as both not \u201cappropriate\u201d and unprecedented in his experience with Bial. Additionally, in informing the plaintiff of the decision not to promote him, Zinner noted that the plaintiff \u201cis not well suited for a career in internal medicine in this country.\u201d These kinds of comments can, of course, admit of different interpretations by a jury, including ones reflecting only untainted professional judgment. One interpretation that a jury could make of such comments, however, is that, combined with Bial\u2019s behavior, they reflect a subconscious sense that the plaintiff, as a black man and a foreigner, did not \u201cknow his place.\u201d See Ash v. Tyson Foods, Inc., 546 U.S. 454, 456 (2006) (judgment as matter of law for employer inappropriate where employer used ambiguous term that, though \u201cnot always . . . evidence of racial animus,\u201d is not \u201calways benign\u201d).\nFifth, there is evidence that the defendants did not follow their written procedures in deciding to terminate the plaintiff\u2019s employment. A \u201c \u2018failure to follow established procedures or criteria\u2019 . . . [may] support a reasonable inference of intentional discrimination.\u201d Nesbitt v. Holder, 966 F. Supp. 2d 52, 56 (D.D.C. 2013), quoting Brady v. Office of the Sergeant at Arms, 520 F.3d 490, 495 (D.C. Cir. 2008). See 1 A. Larson, Employment Discrimination \u00a7 8.04, at 8-81 to 8-82 (rev. ed. 2015) (\u201cpretext can be shown by demonstrating . . . irregularities in . . . the procedures for discharge\u201d).\nHere, the defendants departed from their written due process policy by failing to include a resident on the ad hoc committee, by not allowing the plaintiff to attend two of the three meetings of that committee, and by failing to heed the plaintiff\u2019s request for materials from those meetings. The defendants further departed from this policy when they immediately terminated the plaintiff\u2019s employment without having informed him, either before or after the ad hoc committee meeting, that this step was being considered.\nThe defendants argue that these five categories of evidence do not suffice to raise a question of material fact. They note that, even if all of the inferences drawn by the plaintiff from the above evidence were reasonable, the ad hoc committee conducted \u201can expanded review\u201d of the CCC\u2019s decision to terminate his employment and \u201cconcluded that the [plaintiff\u2019s] deficiencies remained serious.\u201d Bulwer, supra at 355 (Sikora, J., dissenting). A \u201cthird [party]\u2019s independent decision to take adverse action,\u201d they argue, \u201cbreaks the causal connection between [any] retaliatory or discriminatory animus [harbored by the plaintiff\u2019s evaluators] and the adverse action.\u201d Mole v. University of Mass., 442 Mass. 582, 598 (2004). This argument is unavailing.\nIn addition to input from the plaintiff, the ad hoc committee based its conclusions on the evaluations relied on by the CCC, as well as on testimony from the physicians who wrote those evaluations and on statements and memoranda from the CCC itself. Where \u201cthe decision makers relied on the recommendations of supervisors [whose motives have been impugned], the motives of the supervisors should be treated as the motives for the decision. . . . An employer [may not] insulate its decision by interposing an intermediate level of persons in the hierarchy of decision, and asserting that the ultimate decision makers acted only on recommendation\u201d (citation omitted). Trustees of Forbes Library v. Labor Relations Comm\u2019n, 384 Mass. 559, 569-570 (1981). See Cariglia v. Hertz Equip. Rental Corp., 363 F.3d 77, 83 (1st Cir. 2004) (\u201cliability can attach if neutral decision makers, when deciding to terminate an employee, rely on information that is inaccurate, misleading, or incomplete because of another employee\u2019s discriminatory animus\u201d).\nThe defendants also argue, in essence, that criticisms of the plaintiff\u2019s performance, even if harsh, are best read to reflect \u201cprofessional\u201d judgment rather than racial animus. Bulwer, supra at 350 (Sikora, J., dissenting). Even assuming that the defendants are correct such that they could prevail on this point at trial, at the summary judgment stage \u201ca court does not resolve issues of material fact, assess credibility, or weigh evidence.\u201d Kernan v. Morse, 69 Mass. App. Ct. 378, 382 (2007). The question of whose interpretation of the evidence is more believable, \u201craised by the [parties\u2019] conflicting evidence as to the defendants\u2019] motive, is not for a court to decide on the basis of [briefs and transcripts], but is for the fact finder after weighing the circumstantial evidence and assessing the credibility of the witnesses.\u201d Lipchitz, supra at 499, quoting Blare, supra at 445.\nIn this regard, summary judgment remains \u201ca disfavored remedy in the context of discrimination cases based on disparate treatment. . . because the ultimate issue of discriminatory intent is a factual question\u201d (citations omitted). Blare, supra at 439. A defendant\u2019s motive \u201cis elusive and rarely is established by other than circumstantial evidence,\u201d therefore \u201crequir[ing] [a] jury to weigh the credibility of conflicting explanations of the adverse hiring decision.\u201d Id. at 439-440.\nc. Breach of contract claim. To prevail on a claim for breach of contract, a plaintiff must demonstrate that there was an agreement between the parties; the agreement was supported by consideration; the plaintiff was ready, willing, and able to perform his or her part of the contract; the defendant committed a breach of the contract; and the plaintiff suffered harm as a result. Singarella v. Boston, 342 Mass. 385, 387 (1961). At issue here is the fourth element, i.e., whether the defendants committed a breach of the contract embodied in the medical resident agreement.\nThe plaintiff maintains that the defendants committed such a breach in five ways: by failing to comply with the ACGME\u2019s nondiscrimination policy; by failing to include a resident on the ad hoc committee as required by the hospital\u2019s written procedures; by failing to advise the plaintiff, in advance, of certain items to be discussed by the ad hoc committee; by failing to provide him with the resources and supervision necessary to perform his job; and by failing to offer him an opportunity to appeal from the decision of the ad hoc committee. To prevail on a motion for summary judgment on these claims, the defendants must demonstrate that \u201cthere are no material facts in dispute.\u201d Somerset Sav. Bank v. Chicago Title Ins. Co., 420 Mass. 422, 426 (1995).\nWith regard to the first allegation, the defendants were bound by the ACGME\u2019s nondiscrimination policy prohibiting discrimination based on race or national origin. This policy was incorporated by reference in the medical resident agreement. See Chicopee Concrete Serv., Inc. v. Hart Eng\u2019g Co., 398 Mass. 476, 478 (1986) (\u201cincorporation by a clearly stated general reference will suffice\u201d). Whether the defendants violated this policy requires analysis of much the same evidence noted in our discussion of the plaintiff\u2019s discrimination claim. For similar reasons, we conclude that the defendants have failed to establish the absence of any issue of material fact with regard to the assertion of a violation of the ACGME\u2019s nondiscrimination policy.\nTurning to the second allegation \u2014 failure to include a resident on the ad hoc committee \u2014 it is undisputed that the ad hoc committee did not include a resident. The inclusion of a resident was required by the hospital\u2019s grievance policy, which the hospital was to follow under the terms of the ACGME requirements and thereby under the medical resident agreement as well. Although the defendants claim that the plaintiff was not harmed by this failure to comply with the medical resident agreement, that is a question of fact for the jury.\nIt is also undisputed that the plaintiff was not invited to the latter two meetings of the ad hoc committee and that the defendants failed to notify the plaintiff, in advance of those meetings, that they were considering immediately terminating his employment. There is also no indication in the record that the plaintiff was ever given any information about \u201cadditional\u201d concerns cited by the committee regarding patient safety notwithstanding the plaintiff\u2019s request for pertinent information. The hospital\u2019s grievance policy, however, requires that a resident receive from the department chair in advance of the meeting a \u201cwritten statement of the specific issues [to be discussed at the meeting].\u201d Although the defendants gave the plaintiff an opportunity to submit written rebuttal evidence, a reasonable jury could find that this was not equivalent to an opportunity to participate fully in the initial proceedings. They also could find that the plaintiff\u2019s lack of notice and diminished participation in the meetings reduced the effectiveness of his participation in those meetings and, accordingly, affected the outcome of the committee\u2019s deliberations.\nThe, plaintiff contends further that the defendants failed to provide him, as required by the ACGME, with the \u201cappropriate supervision\u201d and \u201cresources\u201d necessary to perform his work. In this regard, the plaintiff has proffered evidence that his mentor did not hold weekly meetings with him as outlined in his remediation plan. More generally, he points to evidence, detailed earlier, that he was not offered the same remediation opportunities as similarly situated peers, which could be construed as a failure to provide \u201cappropriate supervision.\u201d\n3. Conclusion. The judgments in favor of the defendants on the plaintiff\u2019s claims for employment discrimination under G. L. c. 151B, \u00a7 4, and breach of contract are vacated and set aside. The matter is remanded to the Superior Court for further proceedings consistent with this opinion.\nSo ordered.\nA \u201cfalse reason\u201d is one that is not the real reason for terminating an individual\u2019s employment, regardless of whether the false reason is factually accurate. See Lipchitz v. Raytheon Co., 434 Mass. 493, 502 (2001); Wheelock College v. Massachusetts Comm\u2019n Against Discrimination, 371 Mass. 130, 139 (1976).\nThe plaintiff also alleged retaliation in violation of G. L. c. 151B, \u00a7 4; breach of a health insurance obligation in violation of G. L. c. 175, \u00a7 110D; defamation; intentional infliction of emotional distress; negligent infliction of emotional distress; and three counts of tortious interference with a contractual relationship.\nThe hospital\u2019s rules refer to this committee variously as the \u201cad hoc committee,\u201d the \u201cdue process committee,\u201d and the \u201cad hoc due process committee.\u201d\nThe plaintiff states that these meetings did not occur because of Balestrero\u2019s schedule, while the defendants contend that it was the plaintiff\u2019s schedule that prevented the meetings from taking place.\nThe record does not contain a transcript of the third meeting on May 9,2006, at which the committee apparently deliberated and reached a decision.\nThe \u201cburden of production\u201d refers to \u201ca party\u2019s obligation to come forward with evidence to support its claim.\u201d Director, Office of Workers\u2019 Compensation Programs, Dep\u2019t of Labor v. Greenwich Collieries, 512 U.S. 267, 272 (1994). This is distinct from the burden of persuasion, often called the \u201cburden of proof,\u201d which refers to \u201cthe notion that if the evidence is evenly balanced, the party that bears the burden of persuasion must lose.\u201d Id.\nWhile Lipchitz, supra, involved a motion for judgment notwithstanding the verdict, see Mass. R. Civ. R 50 (b), as amended, 428 Mass. 1402 (1998), rather than a motion for summary judgment, \u201c[t]he standard for obtaining a judgment notwithstanding a verdict in Massachusetts is the same as the summary judgment standard.\u201d Sarro v. Philip Morris USA Inc., 857 F. Supp. 2d 182, 189 (D. Mass. 2012). See Cahaly v. Benistar Prop. Exch. Trust Co., 451 Mass. 343, 350, cert. denied, 555 U.S. 1047 (2008), quoting Phelan v. May Dep\u2019t Stores Co., 443 Mass. 52, 55 (2004) (\u201cWe ask whether, construing the evidence most favorably to the plaintiff, and \u2018without weighing the credibility of the witnesses or otherwise considering the weight of the evidence, the jury reasonably could have returned a verdict for the plaintiff\u2019 \u201d).\nWe nonetheless reiterate that, at trial,\n\u201c[pjermitting the fact finder to infer discriminatory animus from proof that the employer has advanced a false reason does not . . . eliminate the plaintiff\u2019s burden to prove this essential element.... Stated differently, the \u2018indirect evidence\u2019 moniker derives from the type of evidence (pretext) that may establish one or both statutory elements (discriminatory animus and causation)\u201d (citation omitted).\nLipchitz, supra at 502.\nThis burden is described as requiring the plaintiff to demonstrate that the \u201cthe employer\u2019s articulated reason lack[s] reasonable support in evidence or is ... wholly disbelievable.\u201d Bulwer v. Mount Auburn Hosp., 86 Mass. App. Ct. 316, 347 (2014) (Sikora, J., dissenting), quoting Lewis v. Area II Homecare for Senior Citizens, Inc., 397 Mass. 761, 765 (1986). This language, drawn from Lewis, supra, described the plaintiff\u2019s burden at trial and not, as here, at summary judgment. See id. at 765 (\u201cjudge found [after bench trial]. .. that the plaintiff failed to prove pretext\u201d).\nThe defendants\u2019 concession that the plaintiff \u201ccould establish a prima facie case\u201d is \u201cfor summary judgment purposes only.\u201d\nAs the Appeals Court noted, the plaintiff \u201cdoes not seriously argue that the hospital failed to meet its non-onerous burden of articulating a legitimate reason for his termination.\u201d Bulwer, supra at 329-330.\nTwo other points along these lines are noteworthy. First, the plaintiff received contradictory advice from evaluators. While one evaluator criticized him for making \u201cdrastic\u201d decisions on his own, another suggested, only one month earlier, that the plaintiff \u201cwork on his independence and self-initiative, mainly in terms of seeing patients primarily on his own and getting out of a \u2018shadowing\u2019 mode.\u201d Second, a letter from the hospital to the Board of Registration in Medicine, sent pursuant to G. L. c. Ill, \u00a7 53B, explained that the plaintiff\u2019s employment had been terminated immediately because he \u201c[f]ail[ed] to make appropriate progress in processing and applying evaluations and other constructive criticism and feedback to patient care responsibilities.\u201d The plaintiff himself was told, however, that the immediate termination was not because of delays in his progress but, rather, because of an immediate \u201crisk to patient safety.\u201d Although these statements might be reconcilable, a jury could find in them inconsistency suggestive of the pretextual nature of the proffered reasons.\nThe defendants argue that Dr. Soon-11 Song\u2019s testimony is \u201cinadmissible as opinion testimony.\u201d We discern no basis for this argument, given that Song can testify about the treatment of these two interns from \u201cpersonal knowledge.\u201d See Mass. G. Evid. \u00a7 602 (2016) (witness may testify if he or she \u201chas personal knowledge of the matter\u201d; evidence of that knowledge \u201cmay consist of the witness\u2019s own testimony\u201d).\nThere was only one other intern not promoted from among the first-year residents in the plaintiff\u2019s cohort; that individual was black and from Uganda. He was forced to leave the residency program when, following a poor evaluation from the hospital, his medical license was not renewed.\nThe defendants contend that the entirety of Dr. Ramona Dvorak\u2019s testimony is inadmissible because it is \u201copinion testimony.\u201d To the extent that Dvorak points to specific incidents and individuals of which she had personal knowledge, however, we discern no basis on which to exclude it. See Mass. G. Evid. \u00a7 602. That being said, the admissibility of any proffered evidence at trial is for the judge to determine. See Commonwealth v. Drayton, 473 Mass. 23, 38 (2015) (\u201cIn identifying these elements that arguably may support\u201d plaintiffs case, \u201cwe do not in any way suggest that the [evidence] ultimately is admissible\u201d). See also Commonwealth v. Alcide, 472 Mass. 150, 162 n.14 (2015).\nIn addition to these comments, which were made by the plaintiff\u2019s evaluators, some comments made during a meeting of the ad hoc committee might suggest that the plaintiff was evaluated critically in part because of his race. Specifically, the doctors compared the plaintiff to a trainee from fifteen years earlier, whom they identified as a \u201cwoman of color from Washington\u201d and who, like the plaintiff, had difficulty with \u201cinterpersonal skills, communication skills, [and] professionalism.\u201d They said that this trainee \u201cwould have flunked on a number of those [more subjective] competencies\u201d in which the plaintiff was deficient, despite the fact that she had no deficiencies in \u201cintelligence and IQ.\u201d A jury might see these comments as reflecting a tendency to evaluate black trainees unfavorably in subjective areas like interpersonal communication, even where those trainees perform well in objectively measurable areas like intelligence and medical knowledge. See Douglas v. J.C. Penney Co., 474 F.3d 10, 14 (2007) (evidence of racial animus inferred from \u201cdisparities in subjective performance evaluations between employees of different races\u201d where those subjective evaluations \u201cdid not correlate with the individualized objective performance factors for those employees\u201d).\nOur decision in Sullivan v. Liberty Mut. Ins. Co., 444 Mass. 34 (2005), is not to the contrary. In affirming summary judgment for the employer, we noted that the plaintiff there essentially conceded that the adverse employment action was motivated by her supervisor\u2019s perception of her performance as poor, as evidenced by the fact that she \u201c[did] not challenge whether [the defendant] truly believed that her mishandling\u201d of certain matters warranted her discharge. Id. at 57 (plaintiff did not present any \u201cevidence . . . that [the defendant] selected her for layoff for any reason other than her own performance,\u201d and \u201c[t]here [was] ample, uncontroverted evidence that the negative impression [plaintiff\u2019s supervisors] had formed of [plaintiff]\u2019s abilities was a primary reason she was selected for layoff\u2019).\nBecause the plaintiff questions the legitimacy of his employer\u2019s motive in terminating his employment, \u201c[t]his is a disparate treatment case[,] not a disparate impact case.\u201d See Blare v. Husky Injection Molding Sys. Boston, Inc., 419 Mass. 437, 439 n.3 (1995). See also Cox v. New England Tel. & Tel. Co., 414 Mass. 375, 384-385 (1993).\nSee Clermont and Schwab, Employment Discrimination Plaintiffs in Federal Court: From Bad to Worse? 3 Harv. L. & Pol\u2019y Rev. 103, 128 (2009) (\u201cpretrial adjudication particularly disfavors employment discrimination plaintiffs\u201d). See also Donald and Pardue, Bringing Back Reasonable Inferences: A Short, Simple Suggestion for Addressing Some Problems at the Intersection of Employment Discrimination and Summary Judgment, 57 N.Y.L. Sch. L. Rev. 749, 752 (2012-2013) (\u201cFederal Judicial Center has noted that \u2018[s]ummary judgment motions by defendants are more common in [employment discrimination] cases [than in other civil actions], are more likely to be granted, and [are] more likely to terminate the litigation\u2019 \u201d).\nAlthough the complaint contained a general breach of contract claim, the motion judge declined to address directly any of these particular assertions because the specific grounds mentioned were first identified in the plaintiffs opposition to the summary judgment motion. In its de novo review, the Appeals Court nonetheless addressed these claims, see Bulwer, supra at 333-334, apparently concluding that they were properly before the motion judge. The Appeals Court noted, however, that the evidence does not support the plaintiff s contention that the defendants failed to offer him an opportunity to appeal from the ad hoc committee\u2019s decision. See Bulwer, supra at 334 n.16. We do not disagree.\nThe policy also requires that all bases for the committee\u2019s decision \u201cbe introduced into evidence at the proceeding\u201d and, more generally, that the resident receive \u201ca fair hearing.\u201d\nA jury could find that the plaintiff\u2019s lack of familiarity with hospital procedures, mentioned by Song in his deposition, could have resulted from the absence of close mentoring or supervision.",
+        "type": "majority",
+        "author": "Lenk, J."
+      }
+    ],
+    "attorneys": [
+      "Robert R. Hamel, Jr. (Megan E. Kures with him) for the defendants.",
+      "Denzil D. McKenzie (James E. Clancy, IV, with him) for the plaintiff.",
+      "James A.W. Shaw, for Massachusetts Employment Lawyers Association, amicus curiae, submitted a brief."
+    ],
+    "corrections": "",
+    "head_matter": "Bernard E. Bulwer vs. Mount Auburn Hospital & others.\nMiddlesex.\nNovember 3, 2015.\nFebruary 29, 2016.\nPresent: Gants, C.J., Spina, Cordy, Botsford, Duffly, & Lenk, JJ.\nHospital, Appointment to staff. Anti-Discrimination Law, Race, Employment. Employment, Discrimination. Contract, Employment, With hospital, Performance and breach. Practice, Civil, Summary judgment.\nDiscussion of the standard of review applicable to a motion for summary judgment. [679-680]\nThis court concluded that to survive a motion for summary judgment in a civil action alleging discrimination in employment based on race, in the third stage of the three-stage, burden-shifting paradigm for providing indirect or circumstantial evidence of discriminatory animus and causation, the plaintiff \u2022 employee need only present evidence from which a reasonable jury could infer that the defendant employer\u2019s facially proper reasons given for its action against the plaintiff were not the real reasons for that action; further, although the plaintiff bears the burden of producing evidence that the defendant\u2019s reasons are a pretext, the burden of persuasion at the summary judgment stage remains with the defendant, who, as the moving party, has the burden of affirmatively demonstrating the absence of a genuine issue of material fact on every relevant issue, even if the defendant would not have the burden on an issue if the case were to go to trial. [680-683]\nIn a civil action alleging discrimination in employment based on race, the judge erred in granting summary judgment in favor of the defendants (a hospital and three physicians who supervised the plaintiff\u2019s work), where the plaintiff provided at least five categories of evidence sufficient to allow a reasonable jury to infer that the defendants\u2019 articulated justification for terminating the plaintiff\u2019s employment was not true but a pretext, and where the question of whose interpretation of the evidence was more believable was for the fact finder after weighing the circumstantial evidence and assessing the credibility of the witnesses. [683-689]\nIn a civil action in which the plaintiff employee alleged breach of his employment contract, the judge erred in granting summary judgment in favor of the defendants (a hospital and three physicians who supervised the plaintiff\u2019s work), where the defendants failed to establish the absence of any issue of material fact with regard to the assertion of a violation of the nondiscrimination policy of a national accreditation council; where there was no dispute that the defendants\u2019 ad hoc due process committee did not include a resident as required by its grievance policy; where there was no dispute that the plaintiff was not invited to the latter two meetings of that committee and that the defendants failed to notify the plaintiff, in advance of those meetings, that the defendants were considering terminating his employment immediately; and where the plaintiff proffered evidence in support of his contention that the defendants failed to provide him with the appropriate supervision and resources necessary to perform his work. [690-692]\nCivil action commenced in the Superior Court Department on February 22, 2008.\nThe case was heard by S. Jane Haggerty, J., on a motion for summary judgment.\nAfter review by the Appeals Court, the Supreme Judicial Court granted leave to obtain further appellate review.\nRobert R. Hamel, Jr. (Megan E. Kures with him) for the defendants.\nDenzil D. McKenzie (James E. Clancy, IV, with him) for the plaintiff.\nJames A.W. Shaw, for Massachusetts Employment Lawyers Association, amicus curiae, submitted a brief.\nEric Flint, Ricardo Wellisch, and Lori Balestrero."
+  },
+  "file_name": "0672-01",
+  "first_page_order": 696,
+  "last_page_order": 716
+}

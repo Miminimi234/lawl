@@ -1,0 +1,971 @@
+{
+  "id": 12275404,
+  "name": "Ricky Lee EARP, Petitioner-Appellant, v. Ron DAVIS, Warden of California State Prison at San Quentin, Respondent-Appellee",
+  "name_abbreviation": "Earp v. Davis",
+  "decision_date": "2018-02-06",
+  "docket_number": "No. 15-56989",
+  "first_page": "1135",
+  "last_page": "1146",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "881 F.3d 1135"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "9th Cir.",
+    "id": 8826,
+    "name": "United States Court of Appeals for the Ninth Circuit"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "643 F.2d 914",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1202737
+      ],
+      "year": 1981,
+      "pin_cites": [
+        {
+          "page": "923",
+          "parenthetical": "reversing the district court when defendant's failure to produce certain evidence \"does not establish, or help to establish, a prima facie case because it bears no logical relationship to a finding of age discrimination\""
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/643/0914-01"
+      ]
+    },
+    {
+      "cite": "561 F.3d 728",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        3481482
+      ],
+      "year": 2009,
+      "pin_cites": [
+        {
+          "page": "738",
+          "parenthetical": "affirming district court's exclusion of evidence when it was not material to the defense case"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/561/0728-01"
+      ]
+    },
+    {
+      "cite": "373 U.S. 83",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11716714
+      ],
+      "weight": 3,
+      "year": 1963,
+      "pin_cites": [
+        {
+          "page": "87",
+          "parenthetical": "holding that the prosecution must disclose evidence that is both favorable to the accused and material either to guilt or punishment"
+        },
+        {
+          "parenthetical": "holding that the prosecution must disclose evidence that is both favorable to the accused and material either to guilt or punishment"
+        },
+        {
+          "parenthetical": "holding that the prosecution must disclose evidence that is both favorable to the accused and material either to guilt or punishment"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/373/0083-01"
+      ]
+    },
+    {
+      "cite": "804 F.3d 1266",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        4357387
+      ],
+      "year": 2015,
+      "pin_cites": [
+        {
+          "page": "1277"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/804/1266-01"
+      ]
+    },
+    {
+      "cite": "469 U.S. 412",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11959771
+      ],
+      "weight": 3,
+      "year": 1985,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/469/0412-01"
+      ]
+    },
+    {
+      "cite": "356 F.2d 24",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        839351
+      ],
+      "year": 1966,
+      "pin_cites": [
+        {
+          "page": "26"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/356/0024-01"
+      ]
+    },
+    {
+      "cite": "808 F.3d 413",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        4366165
+      ],
+      "year": 2015,
+      "pin_cites": [
+        {
+          "page": "428",
+          "parenthetical": "quoting Cataphote Corp. v. De Soto Chem. Coatings, Inc., 356 F.2d 24, 26 (9th Cir. 1966)"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/808/0413-01"
+      ]
+    },
+    {
+      "cite": "470 U.S. 564",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11299693
+      ],
+      "weight": 6,
+      "year": 1985,
+      "pin_cites": [
+        {
+          "page": "575"
+        },
+        {
+          "page": "575"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/470/0564-01"
+      ]
+    },
+    {
+      "cite": "507 U.S. 619",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6235767
+      ],
+      "weight": 3,
+      "year": 1993,
+      "pin_cites": [
+        {
+          "page": "638"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/507/0619-01"
+      ]
+    },
+    {
+      "cite": "241 F.3d 765",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        11138871
+      ],
+      "year": 2000,
+      "pin_cites": [
+        {
+          "page": "778"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/241/0765-01"
+      ]
+    },
+    {
+      "cite": "704 F.3d 1137",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        3654151
+      ],
+      "year": 2013,
+      "pin_cites": [
+        {
+          "page": "1142",
+          "parenthetical": "citing Vavages, 151 F.3d at 1188"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/704/1137-01"
+      ]
+    },
+    {
+      "cite": "753 F.2d 1420",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        292605
+      ],
+      "year": 1984,
+      "pin_cites": [
+        {
+          "page": "1438"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/753/1420-01"
+      ]
+    },
+    {
+      "cite": "151 F.3d 1185",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        11716432
+      ],
+      "weight": 2,
+      "year": 1998,
+      "pin_cites": [
+        {
+          "page": "1188",
+          "parenthetical": "quoting United States v. Little, 753 F.2d 1420, 1438 (9th Cir. 1984)"
+        },
+        {
+          "page": "1188"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/151/1185-01"
+      ]
+    },
+    {
+      "cite": "464 F.3d 976",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        3729128
+      ],
+      "year": 2006,
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/464/0976-01"
+      ]
+    },
+    {
+      "cite": "98 F.3d 1102",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        7650999
+      ],
+      "year": 1996,
+      "pin_cites": [
+        {
+          "page": "1106",
+          "parenthetical": "\"[C]ourts should not allow prisoners to use federal discovery for fishing expeditions to investigate mere speculation.\""
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/98/1102-01"
+      ]
+    },
+    {
+      "cite": "556 U.S. 662",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        3653744
+      ],
+      "weight": 3,
+      "year": 2009,
+      "pin_cites": [
+        {
+          "page": "681",
+          "parenthetical": "holding that mere allegations of a. vast conspiracy to discriminate were not plausible and did not sufficiently allege a cause of action"
+        },
+        {
+          "parenthetical": "holding that mere allegations of a. vast conspiracy to discriminate were not plausible and did not sufficiently allege a cause of action"
+        },
+        {
+          "parenthetical": "holding that mere allegations of a. vast conspiracy to discriminate were not plausible and did not sufficiently allege a cause of action"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/556/0662-01"
+      ]
+    },
+    {
+      "cite": "458 U.S. 858",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        636547
+      ],
+      "weight": 3,
+      "year": 1982,
+      "pin_cites": [
+        {
+          "page": "873"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/458/0858-01"
+      ]
+    },
+    {
+      "cite": "851 F.3d 910",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        12277707
+      ],
+      "year": 2017,
+      "pin_cites": [
+        {
+          "page": "927",
+          "parenthetical": "\"Materiality does not require incontrovertible evidence of exculpation; to the contrary, evidence that tends to 'cast doubt' on the government's case qualifies as material.\""
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/851/0910-01"
+      ]
+    },
+    {
+      "cite": "580 F.2d 1339",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        866190
+      ],
+      "year": 1978,
+      "pin_cites": [
+        {
+          "page": "1360",
+          "parenthetical": "denying further discovery because appellant failed to present more than conclusory allegations"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/580/1339-01"
+      ]
+    },
+    {
+      "cite": "857 F.2d 529",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        10529699
+      ],
+      "year": 1988,
+      "pin_cites": [
+        {
+          "page": "538",
+          "parenthetical": "affirming conviction when the government destroyed criminal evidence because the purported evidence \"was not a central issue\" to defendant's claim"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/857/0529-01"
+      ]
+    },
+    {
+      "cite": "473 U.S. 667",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6205331
+      ],
+      "weight": 3,
+      "year": 1985,
+      "pin_cites": [
+        {
+          "page": "678"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/473/0667-01"
+      ]
+    },
+    {
+      "cite": "952 F.2d 1101",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1867466
+      ],
+      "year": 1991,
+      "pin_cites": [
+        {
+          "page": "1106",
+          "parenthetical": "holding that evidence is only material \"if there is a reasonable probability that, had the evidence been disclosed to the defense, the result of the proceeding would have been different\""
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/952/1101-01"
+      ]
+    },
+    {
+      "cite": "348 F.2d 204",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        857406
+      ],
+      "year": 1965,
+      "pin_cites": [
+        {
+          "page": "211"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/348/0204-01"
+      ]
+    },
+    {
+      "cite": "376 F.2d 180",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        2031473
+      ],
+      "year": 1967,
+      "pin_cites": [
+        {
+          "page": "184",
+          "parenthetical": "citing United States v. Winter, 348 F.2d 204, 211 (2d Cir. 1965)"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/376/0180-01"
+      ]
+    },
+    {
+      "cite": "408 F.3d 1262",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        8961666
+      ],
+      "weight": 2,
+      "year": 2005,
+      "pin_cites": [
+        {
+          "page": "1277"
+        },
+        {
+          "page": "1277"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/408/1262-01"
+      ]
+    },
+    {
+      "cite": "938 F.2d 158",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        10522381
+      ],
+      "year": 1991,
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/938/0158-01"
+      ]
+    },
+    {
+      "cite": "6 F.3d 1318",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        10515043
+      ],
+      "year": 1993,
+      "pin_cites": [
+        {
+          "page": "1329",
+          "parenthetical": "citing Akiona v. United States, 938 F.2d 158 (9th Cir. 1991)"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/6/1318-01"
+      ]
+    },
+    {
+      "cite": "604 F.2d 1245",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        22441
+      ],
+      "year": 1979,
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/604/1245-01"
+      ]
+    },
+    {
+      "cite": "821 F.2d 179",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1699993
+      ],
+      "year": 1987,
+      "pin_cites": [
+        {
+          "page": "185",
+          "parenthetical": "citing Wackt v. Cardwell, 604 F.2d 1245, 1246 n.2 (9th Cir. 1979)"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/821/0179-01"
+      ]
+    },
+    {
+      "cite": "79 F.3d 693",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        9050373
+      ],
+      "year": 1996,
+      "pin_cites": [
+        {
+          "page": "700",
+          "parenthetical": "internal quotation marks omitted"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/79/0693-01"
+      ]
+    },
+    {
+      "cite": "384 F.3d 567",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        9183159
+      ],
+      "year": 2004,
+      "pin_cites": [
+        {
+          "page": "586"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/384/0567-01"
+      ]
+    },
+    {
+      "cite": "529 U.S. 420",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        9508670
+      ],
+      "weight": 3,
+      "year": 2000,
+      "pin_cites": [
+        {
+          "page": "430"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/529/0420-01"
+      ]
+    },
+    {
+      "cite": "520 U.S. 899",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11653326
+      ],
+      "weight": 3,
+      "year": 1997,
+      "pin_cites": [
+        {
+          "page": "904"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/520/0899-01"
+      ]
+    },
+    {
+      "cite": "812 F.3d 766",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        4087149
+      ],
+      "year": 2016,
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/812/0766-01"
+      ]
+    },
+    {
+      "cite": "397 F.3d 1236",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        9039217
+      ],
+      "year": 2005,
+      "pin_cites": [
+        {
+          "page": "1241"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/397/1236-01"
+      ]
+    },
+    {
+      "cite": "585 F.3d 1247",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        3480127
+      ],
+      "year": 2009,
+      "pin_cites": [
+        {
+          "page": "1267",
+          "parenthetical": "en banc"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/585/1247-01"
+      ]
+    },
+    {
+      "cite": "393 F.3d 943",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        9173916
+      ],
+      "year": 2004,
+      "pin_cites": [
+        {
+          "page": "964"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/393/0943-01"
+      ]
+    },
+    {
+      "cite": "742 F.3d 1083",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        4071781
+      ],
+      "weight": 2,
+      "year": 2013,
+      "pin_cites": [
+        {
+          "page": "1091-92",
+          "parenthetical": "quoting Lambert v. Blodgett, 393 F.3d 943, 964 (9th Cir. 2004)"
+        },
+        {
+          "page": "1091-92"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/742/1083-01"
+      ]
+    },
+    {
+      "cite": "114 F.3d 1002",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        405390
+      ],
+      "weight": 3,
+      "year": 1997,
+      "pin_cites": [
+        {
+          "page": "1009"
+        },
+        {
+          "page": "1009"
+        },
+        {
+          "page": "1009",
+          "parenthetical": "emphasis added"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/114/1002-01"
+      ]
+    },
+    {
+      "cite": "28 U.S.C. \u00a7 2253",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "pin_cites": [
+        {
+          "page": "(a)"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "641 F.3d 300",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        4206155
+      ],
+      "weight": 4,
+      "year": 2010,
+      "pin_cites": [
+        {
+          "page": "307"
+        },
+        {
+          "page": "307",
+          "parenthetical": "\"A constitutional violation arising from prosecutorial misconduct does not warrant habeas relief if the error is harmless.\""
+        },
+        {
+          "page": "307"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/641/0300-01"
+      ]
+    },
+    {
+      "cite": "623 F.3d 1065",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        3789809
+      ],
+      "weight": 8,
+      "year": 2010,
+      "pin_cites": [
+        {
+          "page": "1069",
+          "parenthetical": "\"Earp II\""
+        },
+        {
+          "page": "1070"
+        },
+        {
+          "page": "1078"
+        },
+        {
+          "page": "1074"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/623/1065-01"
+      ]
+    },
+    {
+      "cite": "85 Cal.Rptr.2d, 857",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr. 2d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "431 F.3d 1158",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        1618163
+      ],
+      "weight": 11,
+      "year": 2005,
+      "pin_cites": [
+        {
+          "page": "1169",
+          "parenthetical": "\"Earp I\""
+        },
+        {
+          "page": "1172"
+        },
+        {
+          "page": "1165-66"
+        },
+        {
+          "page": "1168"
+        },
+        {
+          "page": "1165"
+        },
+        {
+          "page": "1165"
+        },
+        {
+          "page": "1167"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/431/1158-01"
+      ]
+    },
+    {
+      "cite": "978 P.2d 15",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "weight": 6,
+      "year": 1999,
+      "pin_cites": [
+        {
+          "page": "56"
+        },
+        {
+          "page": "27-31"
+        },
+        {
+          "page": "27"
+        },
+        {
+          "page": "27"
+        },
+        {
+          "page": "66"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "85 Cal.Rptr.2d 857",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr. 2d",
+      "weight": 4,
+      "year": 1999,
+      "opinion_index": 0
+    },
+    {
+      "cite": "20 Cal.4th 826",
+      "category": "reporters:state",
+      "reporter": "Cal. 4th",
+      "case_ids": [
+        829711
+      ],
+      "year": 1999,
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-4th/20/0826-01"
+      ]
+    },
+    {
+      "cite": "28 U.S.C. \u00a7 2254",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "weight": 2,
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 1344,
+    "char_count": 29953,
+    "ocr_confidence": 0.585,
+    "pagerank": {
+      "raw": 5.836670223529575e-08,
+      "percentile": 0.36266207025969466
+    },
+    "sha256": "c489d47ab40a5880d6f3e302c0c4577ae0fe7b816ac9d259a1d06669c7dcef17",
+    "simhash": "1:b94be2207e038b69",
+    "word_count": 4749
+  },
+  "last_updated": "2024-02-27T17:59:44.301675+00:00",
+  "provenance": {
+    "date_added": "2018-10-23",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before: Jerome Farris, Richard C. Tallman, and N. Randy Smith, Circuit Judges."
+    ],
+    "parties": [
+      "Ricky Lee EARP, Petitioner-Appellant, v. Ron DAVIS, Warden of California State Prison at San Quentin, Respondent-Appellee."
+    ],
+    "opinions": [
+      {
+        "text": "OPINION\nTALLMAN, Circuit Judge\nCalifornia state prisoner Ricky Earp appeals the district court\u2019s order denying his 28 U.S.C. \u00a7 2254 habeas corpus petition. In his petition, Earp claims that the California state court improperly denied his motion for a new trial based on the State\u2019s prosecutorial misconduct. This case comes to us for the third time on appeal.\nIn 1992, Earp was sentenced to death after a Los Angeles County jury convicted him for the 1988 first-degree murder and rape of an 18-month-old girl. Earp filed a motion for a new trial, arguing that a newly discovered witness, Michael Taylor, would impeach Dennis Morgan\u2019s trial testimony that Morgan had never been to the scene on the day of the crime. However, the government presented evidence that Taylor recanted this impeaching statement. Consequently, the trial court denied Earp\u2019s motion for a new trial without conducting an evidentiary hearing. The California Supreme Court affirmed on direct appeal. People v. Earp, 20 Cal.4th 826, 85 Cal.Rptr.2d 857, 978 P.2d 15, 56 (1999). Following an unsuccessful state habeas petition, Earp then filed a federal habeas petition. Earp v. Ornoski, 431 F.3d 1158, 1169 (9th dr. 2005) (\u201cEarp I\u201d). The district court denied the petition and adopted the state court\u2019s factual findings, holding that \u201cTaylor\u2019s declarations were \u2018inherently untrustworthy and not worthy of belief.\u2019 \u201d Id.\nOn subsequent appeal, our panel determined that because the state court had made its credibility determination -without an evidentiary hearing, the state court had made its decision based on an unreasonable determination of the facts. Id. We similarly held that the district court erred when it \u201creached its credibility determination without taking the opportunity to listen to Taylor, test his story, and gauge his demeanor.\u201d Id. Determining that Earp may have presented a colorable due process claim, we then remanded the ease to the district court for a hearing to determine the credibility of the parties\u2019 witnesses concerning the alleged prosecutorial misconduct. Id. at 1172.\nIn 2011, while Earp\u2019s federal habeas petition was on remand, Earp moved in state court for DNA testing of napkin and pillow swatches recovered at the crime scene. Earp hoped the testing would produce evidence that Morgan had visited the scene, as Taylor would testify he heard Morgan admit. The state court granted the motion, but the laboratory could not perform the test because it discovered that some of the evidence was missing. On ha-beas review, Earp then sought further discovery from the federal district court to explore a possible relationship between the disappearance of the evidence and those involved in the alleged prosecutorial misconduct. Instead, the district court assumed without deciding that ttje State engaged in spoliation, and gave Earp the benefit of an adverse inference for the limited purpose of assessing the credibility of the witnesses at the evidentiary hearing.\nFollowing a thorough evidentiary hearing, the district court held that Earp failed to prove his prosecutorial misconduct claim by a preponderance of the evidence, and therefore, he was not denied his due process rights. The district court also denied Earp\u2019s discovery motion. Accordingly, the court denied the only remaining claim from Earp\u2019s 2001 federal habeas petition. Earp makes two contentions on appeal: (1) he should have been allowed to conduct further discovery to explore a possible relationship between those responsible for the alleged spoliation and the alleged witness intimidators; and (2) the district court improperly weighed and did not credit the defense witnesses\u2019 testimony notwithstanding the adverse inference. We affirm the district court\u2019s ruling and hold that it did not abuse its discretion in declining to authorize further discovery; nor did it clearly err in weighing the credibility of the witnesses. As Earp had no remaining viable claims, the district court\u2019s denial of his petition for a writ of habeas corpus was proper.\nI\nThe facts and circumstances surrounding Earp\u2019s crime are provided in detail in both the California Supreme Court opinion resulting from Earp\u2019s direct appeal, Earp, 85 Cal.Rptr.2d 857, 978 P.2d at 27-31, and our prior opinion in Earp I, 431 F.3d at 1165-66. Here, we provide only a brief overview of the basic facts and procedural history, with a more penetrating look at the pertinent record as it relates to the most recent proceedings.\nOn August 22, 1988, Cindy Doshier left her 18-month-old daughter, Amanda Do-shier, with Ricky Earp for a few days at his girlfriend\u2019s home in Palmdale, California. Earp, 85 Cal.Rptr.2d 857, 978 P.2d at 27. Earp claimed that Dennis Morgan appeared at the home on August 25 in search of heroin. Earp knew Morgan from then-previous time together in state prison. After giving Morgan a spoon (ostensibly to cook the drag) and telling him to leave, Earp claimed he left Amanda inside and went outside to clean paint brashes for approximately 30 minutes. At trial, Earp testified that when he returned,-\u201c[h]e discovered Amanda lying motionless at the bottom of the stairs, and made a number of attempts to revive her, including performing CPR, before calling emergency services. Earp further- testified that Morgan left as Earp was calling for help.\u201d Earp I, 431 F.3d at 1168. After a fireman arrived to transport Amanda to the emergency room, Earp fled and was later arrested in Northern California. Morgan swore that he was never at the house on the day of the attack, and that he was not responsible for Amanda\u2019s death. Id. at 1165. Morgan also said that Earp asked him to testify that another man named \u201cJoe\u201d was there that day. Id. Ultimately, the jury credited the State\u2019s evidence, and Earp was sentenced to death after the jury convicted him of Amanda\u2019s rape and murder. Earp, 85 Cal.Rptr.2d 857, 978 P.2d at 27.\nAfter Earp\u2019s trial, but prior to sentencing, Earp filed a motion for a new trial alleging (among other claims) that a jailhouse informant, Michael Taylor, had overheard Morgan admit that he was at the house that day. The prosecution then presented evidence that Taylor later recanted this claim after being visited by the assistant district attorney and the lead sheriffs detective at the, Los'Angeles County Jail. Stating that \u201cit would appear that even if this was a declaration by [Taylor] himself, it is inherently untrustworthy, ... and not worthy of belief,\u201d the trial court denied Earp\u2019s motion. The California Supreme Court subsequently affirmed Earp\u2019s conviction, id. 85 Cal.Rptr.2d, 857, 978 P.2d at 66, and summarily rejected his state habe-as corpus petition.\nIn 2001, Earp filed a petition for a writ of habeas corpus in the District Court for the Central District of California, alleging 19 separate claims of error. The district court denied Earp\u2019s petition as to all claims. As to the witness intimidation claim, the court erroneously relied on the state court\u2019s credibility findings concerning Taylor\u2019s testimony. On appeal, we affirmed denial of 17 claims but we reversed and remanded for an evidentiary hearing on' E\u00e1rp\u2019s prosecutorial misconduct and inef-' fective assistance ' of counsel (\u201cIAC\u201d) claims. Earp 1, 431 F.3d at 1165.\nOn remand in 2007, the district court conducted an evidentiary hearing to explore the testimony of Taylor, the trial prosecutor, Robert Foltz, and the chief investigator for Los Angeles County, Detective Sergeant Edwin Milkey. Earp v. Cullen, 623 F.3d 1065, 1069 (9th Cir. 2010) (\u201cEarp II\u201d). At that hearing, Taylor claimed Foltz and Milkey intimidated him into recanting his statement that Morgan had admitted to being at Earp\u2019s home on the day of the attack. Id. Additionally, Earp sought to introduce the testimony of Cindy Doshier, Amanda\u2019s mother, who claimed to have been intimidated by Foltz as well. Id. Instead, at the hearing Doshier invoked her Fifth Amendment right against self-incrimination on the basis that she might be subject to perjury charges'. Id. The district judge previously assigned to this litigation credited the State\u2019s witnesses, discredited Earp\u2019s, and again dismissed his petition. Id. at 1070. On appeal, we again reversed and remanded, holding that the district court erred in permitting Doshier to avoid testifying by invoking the Fifth Amendment as the statute of limitations \u201chad long since expired.\u201d Id. at-1071. We also held that the district court properly dismissed his IAC claim. Id. at 1078.\nAfter we issued Earp II, Earp then moved in California superior court for DNA testing of napkin and pillow swatches recovered at the scene of the crime. The superior court granted Earp\u2019s motion under California Penal Code \u00a7 1405, and the sealed evidence was transported from the Los Angeles County Sheriffs Department crime laboratory to a private laboratory in 2012. Upon its arrival, th\u00e9 private laboratory discovered that some of the evidence was missing from its sealed envelope. The supervising criminalist at the Sheriffs Department crime laboratory, Kenneth Se-well, conducted an investigation into the disappearance, and determined that the evidence had previously been transferred for a single day in 2002 to the California Department of Justice\u2019s (\u201cCDOJ\u201d) crime laboratory at the request of Sheriffs Department homicide detective Gerry Biehn. Sewell noted that it was the only occasion in his 25 years of service when the Sheriffs Department had released evidence to the CDOJ.\nIn 2014, now assigned to a different district judge (Hon. Margaret Morrow), the district court heard testimony from Foltz, Milkey, Taylor, and Doshier. Taylor testified that he had overheard Morgan talk about being at Earp\u2019s house when Amanda was assaulted, and that Foltz and Milkey had previously intimidated him into recanting that testimony. Doshier testified that Foltz had told her Earp\u2019s blood and semen were found on Amanda\u2019s body, that she had testified to that effect at trial, but that she was then intimidated into immediately recanting that testimony when recalled to the stand at trial after Foltz threatened to have her other children taken away. Foltz and Milkey testified that when they interviewed Taylor after he . had given his first declaration, without any threats or intimidation, he had admitted in a recorded statement that his claim concerning Morgan was not true and that he made it up at Earp\u2019s insistence. Foltz further testified that he had not told Doshier that Earp\u2019s blood and semen were found on autopsy, and that he had not intimidated her. Ultimately, the court credited Foltz and Milkey\u2019s testimony, discredited Taylor\u2019s testimony, and found Doshier\u2019s testimony \u201cnot particularly credible.\u201d\nIn making its findings, the district court noted that Taylor had a prior conviction for a crime involving dishonesty (providing a false identification card to police), he had admitted to previously using at least 12 different aliases, there were major inconsistencies and implausibility in Taylor\u2019s testimony, and that his recorded recantation was \u201ccoherent and sounded natural; indeed, he sounded far more like a person telling the truth than someone reciting statements he had been told to make only a few minutes earlier.\u201d Weighing Doshier\u2019s testimony, the district court \u00a1considered .the fact that \u201cshe was consuming heroin multk pie times a day during Earp\u2019s trial and when Foltz made the alleged threats,\" she was \u201cemotionally overwrought\u201d during the trial of her daughter\u2019s murderer, and it was implausible Foltz would have intimidated her given that her testimony \u201cwas not directly relevant to proving Earp\u2019s guilt.\u201d As to evaluating the assumed spoliation of evidence, the court considered and dismissed its impact: \u201cThe mere fact that Morgan lied on the stand does not mitigate any of the problems the court has identified with Taylor\u2019s testimony.\u201d Conversely, it found Foltz and Milkey \u201cto be credible witnesses at the evidentiary hearing\u201d based on the coherency of their testimony. Accordingly, the district court held that Earp \u201cfailed to prove his prosecutorial misconduct claim by a preponderance of the evidence.\u201d\nEarp appeals again. Only the prosecuto-rial misconduct claim is presented here. Thus,' Earp\u2019s contentions focus solely on two alleged errors during the district court\u2019s 2014 evidentiary hearing on that issue. In order for us to remand, Earp must establish that the court clearly erred in finding that the State did not intimidate Taylor, or that further discovery was indispensable to developing the fact of witness intimidation. For if Earp cannot show by a preponderance of the evidence that witness intimidation occurred, he necessarily cannot prove that he was prejudiced and habeas relief warranting a new trial is necessary. See Towery v. Schriro, 641 F.3d 300, 307 (9th Cir. 2010).\nWe have jurisdiction under 28 U.S.C. \u00a7 2253(a), and we review de novo the denial of a petition for writ of habeas corpus. Earp II, 623 F.3d at 1074. The district court\u2019s decision to deny discovery is reviewed for abuse of discretion. Jones v. Wood, 114 F.3d 1002, 1009 (9th Cir. 1997). \u201cFactual findings and credibility determinations made by the district court in the context of granting or denying [a petition for writ of habeas corpus] are reviewed for clear error.\u201d Larsen v. Soto, 742 F.3d 1083, 1091-92 (9th Cir. 2013) (quoting Lambert v. Blodgett, 393 F.3d 943, 964 (9th Cir. 2004)).\nII\nEarp first asserts the district court erred in denying his request for further discovery into the CDOJ\u2019s alleged spoliation of evidence. He contends that further investigation into how the evidence came to be spoliated could support his witness intimidation claims. The district court, however, assumed for the purposes of the hearing that Earp was entitled to an adverse inference based on the State\u2019s spoliation for the limited purpose of assessing the witnesses\u2019 credibility, and correctly found that any link between that evidence established by the adverse inference (even if true) and the alleged witness intimidation was too attenuated. We hold that denying further discovery in light of that finding was not an abuse of discretion. See United States v. Hinkson, 585 F.3d 1247, 1267 (9th Cir. 2009) (en banc).\nUnder Rule 7 of the Rules Governing 28 U.S.C. \u00a7 2254, a district court may expand the record without holding an evidentiary hearing. Cooper-Smith v. Palmateer, 397 F.3d 1236, 1241 (9th Cir. 2005), overruled on other grounds by Daire v. Lattimore, 812 F.3d 766 (9th Cir. 2016). A habeas petitioner like Earp, however, \u201cis not entitled to discovery as a matter of ordinary course,\u201d Braey v. Gramley, 520 U.S. 899, 904, 117 S.Ct. 1793, 138 L.Ed.2d 97 (1997), and he must demonstrate entitlement to an evidentiary hearing under the federal habeas statute, Williams v. Taylor, 529 U.S. 420, 430, 120 S.Ct. 1479, 146 L.Ed.2d 435 (2000). We have previously held \u201ca hearing is required if: \u2018(1) [the petitioner] has alleged facts that, if proven, would entitle him to habeas relief, and (2) he did not receive a full and fair opportunity to develop those facts.\u2019\u201d Earp I, 431 F.3d at 1167 (quoting Williams v. Woodford, 384 F.3d 567, 586 (9th Cir. 2004)). \u201c[A] court\u2019s denial of discovery is an abuse of discretion if discovery is indispensable to a fair, rounded, development of the material facts.\u201d Jones, 114 F.3d at 1009 (quoting Toney v. Gammon, 79 F.3d 693, 700 (8th Cir. 1996) (internal quotation marks omitted)). \u201cJust as bald assertions and conclusory allegations do not afford a sufficient ground for an evidentiary hearing, neither do they provide a basis for imposing upon the state the burden of responding in discovery to every habeas petitioner who wishes to seek such discovery.\u201d Mayberry v. Petsock, 821 F.2d 179, 185 (3d Cir. 1987) (citing Wackt v. Cardwell, 604 F.2d 1245, 1246 n.2 (9th Cir. 1979)).\nIn addition to conducting further discovery, a district court also \u201chas the broad discretionary power to permit a [fact-finder] to draw an adverse inference from the destruction or spoliation against the party or witness responsible for that behavior.\u201d Glover v. BIC Corp., 6 F.3d 1318, 1329 (9th Cir. 1993) (citing Akiona v. United States, 938 F.2d 158 (9th Cir. 1991)). \u201c[A] \u2018reasonable\u2019 inference is one that is supported by a chain of logic, rather than ... mere speculation dressed up in the guise of evidence.\u201d Juan H. v. Allen, 408 F.3d 1262, 1277 (9th Cir. 2005).\nLike undisclosed Brady evidence, facts established through an adverse inference must still be relevant and material to a defendant\u2019s claim to warrant inclusion or further investigation. \u201cMateriality turns on the [evidence]\u2019s potential, viewed as a matter of law to be decided by the trial court, for affecting the course of the inquiry.\u201d United States v. Fiorillo, 376 F.2d 180, 184 (2d Cir. 1967) (citing United States v. Winter, 348 F.2d 204, 211 (2d Cir. 1965)). See also 1 McCormick On Evid. \u00a7 185 (7th ed. 2016) (\u201cMateriality ... looks to the relation between the propositions that the evidence is offered to prove and the issues in the case. If the evidence is offered to help prove a proposition that is not a matter in issue, the evidence is immaterial.\u201d); United States v. Boshell, 952 F.2d 1101, 1106 (9th Cir. 1991) (holding that evidence is only material \u201cif there is a reasonable probability that, had the evidence been disclosed to the defense, the result of the proceeding would have been different\u201d) (citing United States v. Bagley, 473 U.S. 667, 678, 105 S.Ct. 3375, 87 L.Ed.2d 481 (1985)).\nPreviously, we have disallowed the introduction of evidence or adverse inferences when they are not relevant to the party\u2019s claim. See United States v. Laurins, 857 F.2d 529, 538 (9th Cir. 1988) (affirming conviction when the government destroyed criminal evidence because the purported evidence \u201cwas not a central issue\u201d to defendant\u2019s claim); Farrow v. United States, 580 F.2d 1339, 1360 (9th Cir. 1978) (denying further discovery because appellant failed to present more than conclusory allegations). But see Soo Park v. Thompson, 851 F.3d 910, 927 (9th Cir. 2017) (\u201cMateriality does not require incontrovertible evidence of exculpation; to the contrary, evidence that tends to \u2018cast doubt\u2019 on the government\u2019s case qualifies as material.\u201d).\nHere, Earp alleges that further discovery concerning the destruction of DNA evidence would allow him to bolster his claim of prosecutorial misconduct by Foltz and Milkey. He asserts four possible connections to be made. First, \u201cevidence of past acts is admissible to show bias.\u201d Second, \u201c[e]vidence regarding Foltz\u2019s or Milker\u2019s involvement in the disappearance of material that might have proven Morgan\u2019s presence would tend [to] show they were part of an overall effort to suppress evidence of Morgan\u2019s involvement.\u201d Third, \u201c[discovery as to how and why Sheriffs deputy Biehn came to ask DOJ investigator Shore to obtain the evidence, or as to what Shore did with it and why, could lead, for example, to information indicating that either Foltz or Milkey, or both, were involved in obtaining or disposing of the evidence.\u201d And last, \u201cMilkey had another connection with the accessing of the evidence that led to its disappearance: the request to give DOJ investigator Shore ancess to the' napkin came from a fellow Los Angeles County Sheriffs Deputy, homicide detective Gerry Biehn.\u201d Weighing the evidence, the district court held that \u201cthere is not good cause to permit additional discovery in this case\u201d because Earp received the adverse inference he desired and further' discovery into the State\u2019s alleged spoliation of evidence would \u201cnot affect [the] decision of the remaining [witness intimidation] claim of Earp\u2019s ha-beas petition.\u201d\nWe agree with the district court\u2019s rationale. First, Earp received the adverse inference he desired for the purpose of assessing the witnesses\u2019 credibility: the district court, sitting as fact-finder; assumed in applying it \u201cthat the missing evidence showed Morgan was at the scene of the crime on the day in question.\u201d Second, because Earp\u2019s remaining habeas \u2018claim concerns alleged witness intimidation, he must make some \u201cplausible showing\u201d that the adverse inference evidence \u201cwould have been material and fa-, vorable\u201d to his prosecutorial misconduct allegations. Cf. United States v. Valenzuela-Bernal, 458 U.S. 858, 873, 102 S.Ct. 3440, 73 L.Ed.2d 1193 (1982). He fails to do so.-Earp\u2019s assertion that further discovery on the CDOJ\u2019s alleged spoliation of evidence could show bias, a hidden connection between Foltz, Milkey, and the CDOJ, or an overall scheme to suppress evidence, are too attenuated and too speculative. He simply states that his motion should be granted \u201c[g]iven the reasonable possibility of uncovering evidence that Foltz and Milkey were somehow connected with the napkin\u2019s disappearance.\u201d This type of bald assertion to fish for evidence that may support the defense theory is not a \u201creasonable inference\u201d and appears more like \u201cmere speculation dressed up in the guise of evidence.\u201d Juan H., 408 F.3d at 1277. Cf. Ashcroft v. Iqbal, 556 U.S. 662, 681, 129 S.Ct. 1937, 173 L.Ed.2d 868 (2009) (holding that mere allegations of a. vast conspiracy to discriminate were not plausible and did not sufficiently allege a cause of action).\nThis is exactly the kind of fishing expedition we are admonished not to permit. Calderon v. U.S. Dist. Court for the N. Dist. of Cal., 98 F.3d 1102, 1106 (9th Cir. 1996) (\u201c[C]ourts should not allow prisoners to use federal discovery for fishing expeditions to investigate mere speculation.\u201d). As \u25a0the district court properly concluded, there is no reasonable connection \u2022 between whether Morgan was at - the scene of the crime and whether Foltz or Milkey intimidated witnesses. Further discovery on that matter would only unnecessarily burden the State.-Earp\u2019s meager, conjecture suggests that he might possibly discover a connection that might possibly exist, which might possibly change the credibility of the witnesses, if he were only allowed discovery. But that speculation does not change the fact-finder\u2019s ruling on the-credibility of the witnesses, overcome the \u201cbroad deference\u201d we afford to district courts on supervising discovery, and is not \u201cindispensable to a fair, rounded, development of the material facts.\u201d Jones, 114 F.3d at 1009 (emphasis added). The district court properly denied further discovery.\nIll\nEarp next argues that the district court improperly weighed the credibility of Foltz, Milkey, Taylor, and Doshier, especially in light of the adverse inference drawn against the State. Because we \u201ccannot substitute [our] own judgment of the credibility of a witness for that of the fact-finder,\u201d United States v. Durham, 464 F.3d 976, 983 n.11 (9th Gir. 2006), and the record shows that the district court carefully and thoughtfully weighed all of the testimony, we hold that the district court did not clearly err in weighing the credibility of the witnesses in light of the evidence adduced at the hearing.\n\u25a0' We have repeatedly held that \u201csubstantial government interference with a defense witness\u2019s free and unhampered choice to testify amounts to a violation of due process.\u201d United States v. Vavages, 151 F.3d 1185, 1188 (9th Cir. 1998) (quoting United States v. Little, 753 F.2d 1420, 1438 (9th Cir. 1984)). In a habeas case, the petitioner must establish the prosecutor\u2019s misconduct by a preponderance of the evidence. United States v. Juan, 704 F.3d 1137, 1142 (9th Cir. 2013) (citing Vavages, 151 F.3d at 1188). In addition to proving that the prosecutor engaged in witness intimidation, a petitioner seeking habeas relief must also prove that he was prejudiced by that intimidation. Towery, 641 F.3d at 307 (\u201cA constitutional violation arising from prosecutorial misconduct does not warrant habeas relief if the error is harmless.\u201d). See also Sandoval v. Calderon, 241 F.3d 765, 778 (9th Cir. 2000) (\u201cOur finding of constitutional error does not end the inquiry, however. To warrant habeas relief, [the petitioner] must show that the prosecutor\u2019s improper argument \u2018had [a] substantial and injurious effect or influence in determining the jury\u2019s verdict.\u2019\u201d (quoting Brecht v. Abrahamson, 507 U.S. 619, 638, 113 S.Ct. 1710, 123 L.Ed.2d 353 (1993))).\nSitting as fact-finder, the trial court judge is tasked with weighing and making factual findings as to the credibility of witnesses. Anderson v. City of Bessemer City, N.C., 470 U.S. 564, 575, 105 S.Ct. 1504, 84 L.Ed.2d 518 (1985). We review those findings and credibility determinations for clear error, Larsen, 742 F.3d at 1091-92, which \u201cdoes not vest[ ] us with power to reweigh the evidence presented at trial in an attempt to, assess which items should and which should not have -been accorded -credibility,\u201d Mondaca-Vega v. Lynch, 808 F.3d 413, 428 (9th Cir. 2015) (quoting Cataphote Corp. v. De Soto Chem. Coatings, Inc., 356 F.2d 24, 26 (9th Cir. 1966)). Under Federal Rule of Civil Procedure 52(a)(6), \u201c[fjindings -of fact; whether based on oral or other evidence, must not be set aside unless clearly erroneous, and the reviewing court must give due regard to the trial court\u2019s opportunity to judge the witnesses\u2019 credibility.\u201d In weighing the credibility of witnesses, \u201cRule 52(a) demands even greater deference to the trial court\u2019s findings; for only the trial judge can be aware of the variations in demeanor and tone of voice that bear so heavily on the listener\u2019s understanding of-and belief in what is said.\u201d Anderson, 470 U.S. at 575, 105 S.Ct. 1504 (citing Wainwright v. Witt, 469 U.S. 412, 105 S.Ct. 844, 83 L.Ed.2d 841 (1985)). Although credibility determinations are not unreviewable,\nwhen a trial judge\u2019s finding is based on his decision to credit the testimony of one of two or more witnesses, each of whom has told a coherent and facially plausible story that is not Qontradicted by extrinsic evidence, that finding, if not internally inconsistent, can virtually never be clear error.\nId. at 575, 105 S.Ct. 1504.\nHere, the district court heard live testimony from all four witnesses, and found that the State witnesses were credible and the defense witnesses were not. Earp contends the court clearly erred by: (1) improperly weighing spoliation evidence as to Foltz and Milkey\u2019s credibility; (2) failing to consider Taylor a \u201cneutral, disinterested\u201d witness; (3) discounting Doshier\u2019s motivation as the victim\u2019s mother; and (4) disregarding Foltz and Milkey\u2019s alleged motivations and inconsistencies.\nBut in making its determination rejecting those contentions, the district court cited considerable bases to discredit both Taylor and Doshier\u2019s testimony, dismissed the impact of the assumed adverse inference urged by the defense, listened to the tape recording of Taylor\u2019s recantation, and credited Foltz and Milkey\u2019s testimony. In light of the extremely deferential standard of review, and the district court\u2019s consistent and appropriate credibility findings, which are well supported and articulated in the record, we affirm the district court\u2019s dismissal of Earp\u2019s prosecutorial misconduct claim. We agree that whether Morgan was at the scene of the crime is minimally probative at best to Earp\u2019s allegations of witness intimidation. Earp has not established the nexus. Accordingly, Earp cannot show that his due process rights were violated by the State, or that he was prejudiced and would be entitled to a new trial. See Towery, 641 F.3d at 307. The district court\u2019s dismissal of Earp\u2019s remaining habe-as claim on the merits is AFFIRMED.\n. We noted that if the prosecutorial misconduct caused Taylor's recantation, Earp would still need to establish prejudice by showing that Taylor\u2019s testimony entitled him to a new trial under California law. Id. at 1171 n.10.\n. In his reply brief, Earp asserts that the State has waived its arguments as to the district court\u2019s denial of further discovery, and as to the proper weight of the adverse inference against the State witnesses' credibility. See United States v. Dreyer, 804 F.3d 1266, 1277 (9th Cir. 2015). Although it did not address Earp\u2019s arguments point-by-point, the State did address this issue by arguing that further discovery was unnecessary because the adverse inference was unrelated to the witness intimidation claim.\n. Brady v. Maryland, 373 U.S. 83, 87, 83 S.Ct. 1194, 10 L.Ed.2d 215 (1963) (holding that the prosecution must disclose evidence that is both favorable to the accused and material either to guilt or punishment).\n. Other circuits have also disallowed irrelevant or immaterial inferences or evidence when not pertinent to the party\u2019s claim. See United States v. Ozuna, 561 F.3d 728, 738 (7th Cir. 2009) (affirming district court\u2019s exclusion of evidence when it was not material to the defense case); Stanojev v. Ebasoo Servs., Inc., 643 F.2d 914, 923 (2d Cir. 1981) (reversing the district court when defendant\u2019s failure to produce certain evidence \"does not establish, or help to establish, a prima facie case because it bears no logical relationship to a finding of age discrimination\u201d).",
+        "type": "majority",
+        "author": "TALLMAN, Circuit Judge"
+      }
+    ],
+    "attorneys": [
+      "Robert S. Gerstein (argued), Santa Monica, California; Statia Peakheart, Los An-geles, California; Emily J.M. Groendyke, Deputy Federal Public Defender; Hilary Potashner, Federal Public Defender; Office of the Federal Public Defender, Los Angeles, California; for Petitioner-Appellant.",
+      "James William Bilderback II (argued), Supervising Deputy Attorney General; A. Scott Hayward, Deputy Attorney General; Lance E. Winters, Senior Assistant Attorney General; Xavier Becerra, Attorney General; Office of the Attorney General, Los Angeles, California; for Respondent Appellee."
+    ],
+    "corrections": "",
+    "head_matter": "Ricky Lee EARP, Petitioner-Appellant, v. Ron DAVIS, Warden of California State Prison at San Quentin, Respondent-Appellee.\nNo. 15-56989\nUnited States Court of Appeals, Ninth Circuit.\nArgued and Submitted January 12, 2018, Seattle, Washington\nFiled February 6, 2018\nRobert S. Gerstein (argued), Santa Monica, California; Statia Peakheart, Los An-geles, California; Emily J.M. Groendyke, Deputy Federal Public Defender; Hilary Potashner, Federal Public Defender; Office of the Federal Public Defender, Los Angeles, California; for Petitioner-Appellant.\nJames William Bilderback II (argued), Supervising Deputy Attorney General; A. Scott Hayward, Deputy Attorney General; Lance E. Winters, Senior Assistant Attorney General; Xavier Becerra, Attorney General; Office of the Attorney General, Los Angeles, California; for Respondent Appellee.\nBefore: Jerome Farris, Richard C. Tallman, and N. Randy Smith, Circuit Judges."
+  },
+  "file_name": "1135-01",
+  "first_page_order": 1163,
+  "last_page_order": 1174
+}

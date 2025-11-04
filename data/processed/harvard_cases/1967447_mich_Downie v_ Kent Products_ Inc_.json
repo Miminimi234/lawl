@@ -1,0 +1,70 @@
+{
+  "id": 1967447,
+  "name": "Downie v. Kent Products, Inc",
+  "name_abbreviation": "Downie v. Kent Products, Inc.",
+  "decision_date": "1985-03-15",
+  "docket_number": "No. 71735",
+  "first_page": "794",
+  "last_page": "794",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "421 Mich. 1202"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Mich.",
+    "id": 8790,
+    "name": "Michigan Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 49,
+    "name_long": "Michigan",
+    "name": "Mich."
+  },
+  "cites_to": [
+    {
+      "cite": "420 Mich 197",
+      "category": "reporters:state",
+      "reporter": "Mich.",
+      "case_ids": [
+        1968455
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/mich/420/0197-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 12,
+    "char_count": 66,
+    "ocr_confidence": 0.662,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.07114410917393253
+    },
+    "sha256": "ae3df9eb94cd89136bb621c4d2ae1a2f3f1afdd234afaac6fce7a6987924c117",
+    "simhash": "1:0426426ad418af32",
+    "word_count": 12
+  },
+  "last_updated": "2024-02-27T19:29:49.154056+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Downie v Kent Products, Inc,"
+    ],
+    "opinions": [],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Downie v Kent Products, Inc,\nNo. 71735.\nReported at 420 Mich 197."
+  },
+  "file_name": "0794-02",
+  "first_page_order": 946,
+  "last_page_order": 946
+}

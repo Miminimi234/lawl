@@ -1,0 +1,642 @@
+{
+  "id": 4280936,
+  "name": "COMMONWEALTH of Pennsylvania, Appellant v. Andre HALL, Appellee",
+  "name_abbreviation": "Commonwealth v. Hall",
+  "decision_date": "2013-10-30",
+  "docket_number": "No. 55 EAP 2010",
+  "first_page": "396",
+  "last_page": "421",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "622 Pa. 396"
+    },
+    {
+      "type": "parallel",
+      "cite": "80 A.3d 1204"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "981 A.2d 218",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "year": 2009,
+      "opinion_index": 0
+    },
+    {
+      "cite": "602 Pa. 676",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "year": 2009,
+      "opinion_index": 0
+    },
+    {
+      "cite": "947 A.2d 199",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8394899
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/947/0199-01"
+      ]
+    },
+    {
+      "cite": "662 A.2d 617",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        470757,
+        7863141
+      ],
+      "weight": 2,
+      "year": 1995,
+      "pin_cites": [
+        {
+          "page": "621"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/541/0202-01",
+        "/a2d/662/0617-01"
+      ]
+    },
+    {
+      "cite": "541 Pa. 202",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        470757
+      ],
+      "year": 1995,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/541/0202-01"
+      ]
+    },
+    {
+      "cite": "961 A.2d 176",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8189896
+      ],
+      "weight": 3,
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/961/0176-01"
+      ]
+    },
+    {
+      "cite": "970 A.2d 1131",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        4195948,
+        7335926
+      ],
+      "weight": 2,
+      "year": 2009,
+      "pin_cites": [
+        {
+          "parenthetical": "sentencing court erroneously amended amount of restitution to victim's estate under Section 1106 beyond deadline for such modification"
+        },
+        {
+          "page": "1136",
+          "parenthetical": "Saylor, J., dissenting"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/601/0058-01",
+        "/a2d/970/1131-01"
+      ]
+    },
+    {
+      "cite": "601 Pa. 58",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        4195948
+      ],
+      "year": 2009,
+      "pin_cites": [
+        {
+          "parenthetical": "sentencing court erroneously amended amount of restitution to victim's estate under Section 1106 beyond deadline for such modification"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/601/0058-01"
+      ]
+    },
+    {
+      "cite": "34 A.3d 67",
+      "category": "reporters:state_regional",
+      "reporter": "A.3d",
+      "case_ids": [
+        4205536,
+        7265866
+      ],
+      "year": 2012,
+      "pin_cites": [
+        {
+          "page": "75",
+          "parenthetical": "\"[T]he statute at issue speaks of defendants 'convicted and sentenced' to pay costs. Thus, we will accept the premise that Section 7708 is penal in nature and therefore subject to strict construction in favor of appellees.\""
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/613/0481-01",
+        "/a3d/34/0067-01"
+      ]
+    },
+    {
+      "cite": "613 Pa. 481",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        4205536
+      ],
+      "year": 2012,
+      "pin_cites": [
+        {
+          "parenthetical": "\"[T]he statute at issue speaks of defendants 'convicted and sentenced' to pay costs. Thus, we will accept the premise that Section 7708 is penal in nature and therefore subject to strict construction in favor of appellees.\""
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/613/0481-01"
+      ]
+    },
+    {
+      "cite": "766 A.2d 843",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        11139536,
+        1276796
+      ],
+      "year": 2001,
+      "pin_cites": [
+        {
+          "page": "846"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/766/0843-01",
+        "/pa/564/0228-01"
+      ]
+    },
+    {
+      "cite": "564 Pa. 228",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1276796
+      ],
+      "year": 2001,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/564/0228-01"
+      ]
+    },
+    {
+      "cite": "836 A.2d 862",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        630496,
+        9298236
+      ],
+      "year": 2003,
+      "pin_cites": [
+        {
+          "parenthetical": "quoting Commonwealth v. Booth, 564 Pa. 228, 766 A.2d 843, 846 (2001)"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/575/0395-01",
+        "/a2d/836/0862-01"
+      ]
+    },
+    {
+      "cite": "575 Pa. 395",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        630496
+      ],
+      "year": 2003,
+      "pin_cites": [
+        {
+          "parenthetical": "quoting Commonwealth v. Booth, 564 Pa. 228, 766 A.2d 843, 846 (2001)"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/575/0395-01"
+      ]
+    },
+    {
+      "cite": "55 A.3d 1056",
+      "category": "reporters:state_regional",
+      "reporter": "A.3d",
+      "case_ids": [
+        7312645,
+        3900455,
+        7312660,
+        3901527,
+        3900441,
+        7312634
+      ],
+      "pin_cites": [
+        {
+          "page": "1068"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a3d/55/1056-02",
+        "/pa/618/0173-01",
+        "/a3d/55/1056-03",
+        "/pa/618/0174-01",
+        "/pa/618/0175-01",
+        "/a3d/55/1056-01"
+      ]
+    },
+    {
+      "cite": "923 A.2d 1119",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        3556321,
+        8311597
+      ],
+      "year": 2007,
+      "pin_cites": [
+        {
+          "page": "1124"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/592/0134-01",
+        "/a2d/923/1119-01"
+      ]
+    },
+    {
+      "cite": "592 Pa. 134",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        3556321
+      ],
+      "year": 2007,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/592/0134-01"
+      ]
+    },
+    {
+      "cite": "725 A.2d 729",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        11639758,
+        1701999
+      ],
+      "weight": 2,
+      "year": 1999,
+      "pin_cites": [
+        {
+          "page": "732"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/725/0729-01",
+        "/pa/555/0505-01"
+      ]
+    },
+    {
+      "cite": "555 Pa. 505",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1701999
+      ],
+      "year": 1999,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/555/0505-01"
+      ]
+    },
+    {
+      "cite": "981 A.2d 893",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        4196469,
+        7294022
+      ],
+      "weight": 3,
+      "year": 2009,
+      "pin_cites": [
+        {
+          "page": "895"
+        },
+        {
+          "page": "902"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/603/0031-01",
+        "/a2d/981/0893-01"
+      ]
+    },
+    {
+      "cite": "603 Pa. 31",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        4196469
+      ],
+      "weight": 2,
+      "year": 2009,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/603/0031-01"
+      ]
+    },
+    {
+      "cite": "844 A.2d 13",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        9262072
+      ],
+      "pin_cites": [
+        {
+          "page": "19"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/844/0013-01"
+      ]
+    },
+    {
+      "cite": "919 A.2d 234",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8325399
+      ],
+      "pin_cites": [
+        {
+          "page": "238"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/919/0234-01"
+      ]
+    },
+    {
+      "cite": "483 Pa. 588",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1751212
+      ],
+      "weight": 5,
+      "year": 1979,
+      "pin_cites": [
+        {
+          "parenthetical": "upholding payment of twenty-five dollars per week to victim as condition of probation for defendant who shot and blinded victim"
+        },
+        {
+          "parenthetical": "upholding payment of twenty-five dollars per week to victim as condition of probation for defendant who shot and blinded victim"
+        },
+        {
+          "page": "1181",
+          "parenthetical": "sentencing court's order of restitution to victim was based in part on ascertainment of defendant's earning potential based on his previous employment"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/483/0588-01"
+      ]
+    },
+    {
+      "cite": "6 A.3d 1287",
+      "category": "reporters:state_regional",
+      "reporter": "A.3d",
+      "case_ids": [
+        7290597,
+        4199531,
+        7290615,
+        4198539,
+        7290574,
+        4199191
+      ],
+      "year": 2010,
+      "pin_cites": [
+        {
+          "parenthetical": "per curiam"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a3d/6/1287-02",
+        "/pa/607/0370-01",
+        "/a3d/6/1287-03",
+        "/pa/607/0372-01",
+        "/a3d/6/1287-01",
+        "/pa/607/0371-01"
+      ]
+    },
+    {
+      "cite": "607 Pa. 372",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        4198539
+      ],
+      "year": 2010,
+      "pin_cites": [
+        {
+          "parenthetical": "per curiam"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/607/0372-01"
+      ]
+    },
+    {
+      "cite": "792 A.2d 1253",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "year": 2001,
+      "opinion_index": 0
+    },
+    {
+      "cite": "568 Pa. 617",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "year": 2001,
+      "opinion_index": 0
+    },
+    {
+      "cite": "780 A.2d 714",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        9483211
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/780/0714-01"
+      ]
+    },
+    {
+      "cite": "904 A.2d 917",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8473997
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "920, 923-24"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/904/0917-01"
+      ]
+    },
+    {
+      "cite": "994 A.2d 1141",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7291073
+      ],
+      "weight": 5,
+      "pin_cites": [
+        {
+          "page": "1146"
+        },
+        {
+          "page": "1148-50"
+        },
+        {
+          "page": "1145"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/994/1141-01"
+      ]
+    },
+    {
+      "cite": "533 Pa. 14",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1837511
+      ],
+      "weight": 5,
+      "year": 1992,
+      "pin_cites": [
+        {
+          "page": "707"
+        },
+        {
+          "page": "704",
+          "parenthetical": "\"[A]n order placing a defendant on probation must be regarded as punishment for double jeopardy purposes and ... where restitution is imposed in addition to a statutory punishment, such as imprisonment, the order must be strictly scrutinized since its purpose is primarily punitive.\""
+        },
+        {
+          "page": "706-07"
+        },
+        {
+          "page": "707"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/533/0014-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 1685,
+    "char_count": 49785,
+    "ocr_confidence": 0.715,
+    "pagerank": {
+      "raw": 3.089706555404636e-07,
+      "percentile": 0.858552178138571
+    },
+    "sha256": "fc13907a6c2b061571e7e03ea349932e021542d69fbead7efb4b1f2dbcdaac4a",
+    "simhash": "1:c8396706c64bc3e0",
+    "word_count": 7916
+  },
+  "last_updated": "2024-02-27T16:59:34.878718+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "CASTILLE, C.J., SAYLOR, EAKIN, BAER, TODD, McCAFFERY, STEVENS, JJ.",
+      "Justice STEVENS did not participate in the consideration or decision of this case.",
+      "Justices SAYLOR, BAER, TODD and McCAFFERY join the opinion.",
+      "Justice EAKIN files dissenting opinion."
+    ],
+    "parties": [
+      "COMMONWEALTH of Pennsylvania, Appellant v. Andre HALL, Appellee."
+    ],
+    "opinions": [
+      {
+        "text": "OPINION\nChief Justice CASTILLE.\nThe issue in this appeal is whether the sentencing court properly ordered a convicted defendant, as a condition of probation, to pay amounts representing child support to the children of the victim of the defendant\u2019s crime (here, voluntary manslaughter). The Superior Court held that such a condition was not permitted as a matter of law, vacated the sentencing court\u2019s order and remanded for resentencing. For the reasons set forth below, we affirm on different grounds.\nIn 2004, appellee Andre Hall was romantically involved with Tamisha Towson. The two had an infant son together, but Towson remained in contact with her former husband, Jonathan Williams, with whom Towson also had two children, who were then three and five years old. Williams apparently supported his children with Towson financially, but there was not a formal agreement in place. The relationship between Towson and Williams remained amicable, with Williams visiting his children at Towson\u2019s residence on North 64th Street near Haverford Avenue in Philadelphia frequently, even daily. However, the relationship between Williams and appellee was strained.\nOn December 12, 2004, appellee and Towson were asleep until about 6:00 a.m., when Williams called and asked if he could come to the residence. Towson initially said no, but after two more phone calls, Towson agreed to let Williams visit and appellee began getting dressed to leave. When appellee reached his car outside, a confrontation began with Williams, who was already in the neighborhood when he phoned Towson. During the encounter, Williams evidently walked up to appellee\u2019s driver\u2019s side window and reached behind his back which, appellee claimed, led him to believe that Williams might pull a firearm and shoot him. Appellee then shot Williams multiple times with a firearm for which he had a permit. Towson came out of the house, saw that Williams had been shot, and drove Williams to nearby Lankenau Hospital, where Williams was pronounced dead at 7:30 a.m. from three gunshot wounds; the post-mortem medical examination determined that the fatal shot was fired from about two feet away and pierced Williams\u2019s liver and the bottom of his heart. Later that day, appellee surrendered to the Philadelphia police and was charged with murder generally and possession of an instrument of crime.\nAppellee testified at his jury trial and claimed that he shot Williams in self-defense. He was convicted of voluntary manslaughter, 18 Pa.C.S. \u00a7 2503(b) (unreasonable belief of self-defense), and was acquitted of possession of an instrument of crime. On September 20, 2005, the Honorable M. Teresa Sarmina sentenced appellee to five to ten years of imprisonment, to be followed by ten years of reporting probation. The court also stated:\nI really haven\u2019t thought it through a whole lot but partly because of the fact that the children are so intrinsically related \u2014 they\u2019re siblings, half siblings \u2014 one of the things that I am also going to do in this case as a condition of your sentence and with a view towards the rehabilitative needs and what you should be doing to repay for your offense in this case is to impose a duty of child support for the other two children as well as for your own. So, when you\u2019re paroled and you\u2019re working, part of what I\u2019m ordering is that as long as you\u2019re on my sentence that you will also be contributing for the support of the other two children. I\u2019m sure that\u2019s an issue that your attorney will challenge on appeal.\nN.T., 9/20/05, at 44; Tr. Ct. Order, 9/20/05. In her Appellate Rule 1925(a) opinion, the court explained that the child support provision was akin to restitution to victims as a condition of probation, and as such the condition was within her discretion in order \u201cto compensate the [decedent\u2019s] surviving child [sic] for his [sic] loss, and to ensure that both [sic] siblings would grow up financially equal.\u201d Tr. Ct. Op., 12/13/05, at 9-10 (citing 18 Pa.C.S. \u00a7 1106 (enables restitution as part of direct sentencing) and 42 Pa.C.S. \u00a7 9721(c) (in addition to confinement, sentencing court \u201cshall order the defendant to compensate the victim of his criminal conduct for the damage or injury that he sustained\u201d)). Although the court did not set forth a specific amount in her initial order and opinion, she later clarified the amount of child support for \u201cdecedent\u2019s children, based on ability to pay, at a rate of not less tha[n] $100 per child, a month.\u201d Tr. Ct. Order, 8/6/07.\nOn appeal to the Superior Court, appellee raised five issues, including the question of whether the trial court lacked statutory or other legal authority to order him to pay child support. In a memorandum opinion, the Superior Court affirmed appellee\u2019s conviction, but vacated the trial court\u2019s disposition directing child support. The Superior Court determined that neither the record nor the trial court\u2019s Rule 1925(a) opinion explained with sufficient clarity whether the court intended the sums to be paid by appellee to be part of his \u201csentence of restitution or as a condition of probation or both, or the legal basis for such an order.\u201d In light of the ambiguity, the Superior Court remanded to the trial court with instructions to \u201cclarify the record and address [appellee\u2019s] sentencing claim.\u201d Super. Ct. Memorandum Op., 6/12/07, at 18-19.\nOn remand, the trial court held new sentencing proceedings on August 6, 2007. Appellee argued that imposition of child support as restitution was improper because it was oriented to the future, and therefore was speculative, whereas monetary probation conditions such as restitution are intended to compensate for past harm. The Commonwealth responded that if the child support obligation was characterized as a condition of probation, then the imposition of \u201cfuture\u201d support for the victim\u2019s children, based upon appellee\u2019s ability to pay once he was released from incarceration, was not improper. After hearing both sides, the court stated that the child support obligation would stand as a condition of probation for rehabilitative purposes. N.T., 8/6/07, at 7-11, 22-23; Tr. Ct. Order, 8/6/07. The court further stated that the payments would be based on appellee\u2019s \u201cability to pay\u201d and that the amount would be \u201cno less than $100 per child per month.\u201d The court further stated: \u201cAnd if you are not able to pay that, then that will be brought to my attention or to the attention of the probation department. Actually, that\u2019s going to be supervised. The supervision is going to be under the county supervision.\u201d N.T., 8/6/07, at 23. The court also added an order of restitution to the Victim Compensation Program in the amount of $3,583, which had been paid to the victim\u2019s family for funeral expenses. Id. at 11.\nUpon appellee\u2019s further appeal, the trial court filed a second opinion. Citing Commonwealth v. Harner, 533 Pa. 14, 617 A.2d 702, 707 (1992), the court explained that a sentencing court\u2019s discretion to fashion conditions of probation, including financial obligations, is broad, particularly when a condition is designed to rehabilitate the defendant, provide the defendant with an understanding of the cruelty of his conduct, deter him from future criminal conduct, steer him towards a more responsible and law-abiding life, and provide some measure of redress to his victims. The court stated that imposition of child support was appropriate here \u201c[d]ue to the unique intertwinement of the three children who would all be living in the same household\u201d (Towson\u2019s children with both appellee and Williams). Tr. Ct. Op., 5/12/08, at 4. The court found it \u201csingularly unfair\u201d that upon release, appellee would be able to provide for his own child with Towson without being similarly compelled to provide some support to Williams\u2019s children, whom appellee had deprived of their father. The support payments, the court explained, were intended to \u201clevel the field [appellee] had disrupted when he killed the other children\u2019s father.\u201d The court also rejected appellee\u2019s alternative argument that imposing child support was an abuse of discretion, and that the trial court had improperly failed to make findings about the victim\u2019s history of supporting his children, and his future ability to continue doing so. Finally, the court rejected appellee\u2019s argument that the child support order was invalid because it did not take into account his ability to pay upon release from prison. The court stated that its order was indeed based on appellee\u2019s ability to pay, and a \u201chearing to determine the defendant\u2019s financial ability to pay can be held after the defendant is released from prison.\u201d Tr. Ct. Op., 5/12/08, at 3-6.\nAn en banc panel of the Superior Court vacated the child support aspect of the probationary sentence and remanded for resentencing in a 5-4 published opinion authored by the Honorable Jacqueline O. Shogan, over a dissenting opinion by the Honorable Cheryl Allen. Commonwealth v. Hall, 994 A.2d 1141 (Pa.Super.2010) (en banc ). Construing 42 Pa.C.S. \u00a7 9754, which addresses orders of probation, the majority acknowledged that imposition of monetary obligations in this case amounted to restitution under subsection (c)(8) (as condition of probation, court may require defendant \u201c[t]o make restitution of the fruits of his crime or to make reparations, in an amount he can afford to pay, for the loss or damage caused thereby\u201d), and a rehabilitative condition under subsection (c)(13) (as condition of probation, court may require defendant \u201c[t]o satisfy any other conditions reasonably related to the rehabilitation of the defendant and not unduly restrictive of his liberty or incompatible with his freedom of conscience\u201d). The majority noted as well that sentencing courts have relatively broad discretion when, as here, restitution is imposed as a condition of probation rather than as part of a defendant\u2019s direct sentence, and when it is intended to rehabilitate a defendant. However, the majority determined that, in this case \u201cthe true purpose behind the order was clearly to support the decedent\u2019s children and not to rehabilitate [appellee].\u201d Id. at 417, 80 A.3d at 1145 (emphasis in original).\nThe Superior Court majority also cited two other cases where it had held, inter alia, that it was error to order restitution to third parties who were not themselves victims of the crime. Commonwealth v. Langston, 904 A.2d 917 (Pa.Super.2006) (vacating order of restitution to guardians of child whose father was killed by defendant in drunk driving accident); Commonwealth v. Opperman, 780 A.2d 714 (Pa.Super.2001) (vacating order of restitution to insurance company), appeal denied, 568 Pa. 617, 792 A.2d 1253 (2001). The majority held that the child support condition in this case was improper because Williams\u2019s children, although \u201cvictimized\u201d by the loss of their father, were not actual victims of the homicide. The court further noted that there had been no finding that Williams had been providing financial support for his children prior to his death, and the sentencing court also did not explain how it had arrived at the amount of the award. Finally, the majority found no support for the child support probation condition in decisional law, concluding that: \u201cWhile we acknowledge the sentencing court\u2019s good intention, the sentence was not authorized under Pennsylvania law.\u201d 994 A.2d at 1146.\nIn dissent, Judge Allen opined that imposing child support payments was permissible under Section 9754(c)(8) because of the broad manner in which that provision allows a sentencing court to direct a defendant, as a condition of probation, to make restitution or reparations. Judge Allen contrasted this discretionary power with the strict wording of 18 Pa.C.S. \u00a7 1106, which governs imposition of restitution as part of a defendant\u2019s direct sentence: \u201cUpon conviction for any crime ... wherein the victim suffered personal injury directly resulting from the crime, the offender shall be sentenced to make restitution in addition to the punishment prescribed therefor.\u201d To Judge Allen, the Section 1106 mandate that restitution be made to the actual direct victim is not present in Section 9754(c)(8), and because the two statutes deal with a similar subject matter, the disparity suggests a different legislative intent \u2014 specifically that under Section 9754, \u201cthird persons,\u201d such as a homicide victim\u2019s dependent children, need not be excluded as potential recipients of probationary restitution. 994 A.2d at 1146^18 (Allen, J., dissenting).\nThe dissent also looked to the Crime Victims Act, 18 P.S. \u00a7\u00a7 11.101-11.5102, which is often cross-referenced in the Judicial Code\u2019s sentencing provisions. The dissent noted that the Crime Victims Act broadly defines crime \u201cvictims\u201d who may recover economically under the statute, as encompassing \u201c[a] family member of a homicide victim, including stepbrothers or stepsisters, stepchildren, stepparents or a fiance____\u201d 18 P.S. \u00a7\u00a7 11.103, 11.701(a). The dissent reasoned that if a murder victim\u2019s children are eligible for compensation of claims under the Crime Victims Act, there is no basis in law to deny them eligibility for restitution as a condition of probation in a case like this because the loss of parental support amounts to a \u201cfruit\u201d of the defendant\u2019s killing the parent. Thus, the dissent did not agree that in this case the requisite connection between defendant and \u2019victim had to be strictly direct (as in 18 Pa.C.S. \u00a7 1106) because the nexus between the crime and the loss sustained by the victim\u2019s children was close enough that restitution in the form of a child support obligation was permissible. The dissent also accepted the sentencing court\u2019s explanation that the child support condition served a rehabilitative purpose. 994 A.2d at 1148-50.\nThis Court granted the Commonwealth\u2019s petition for allowance of appeal, accepting the issue as stated by the Commonwealth: \u201cWhether the Superior Court erred in holding that 42 Pa.C.S. \u00a7 9754 does not permit the imposition of child support as a condition of probation in order to make reparations and restitution of the fruits of defendant\u2019s crime of killing the children\u2019s father.\u201d Commonwealth v. Hall, 607 Pa. 372, 6 A.3d 1287 (2010) (per curiam).\nThe Commonwealth first argues that both the language of Section 9754 and relevant case law support the position that monetary obligations to victims are to be construed broadly when imposed as a condition of probation, and that there is no basis for excluding Williams\u2019s children from recovery. To the Commonwealth, these types of losses may be less direct and perhaps are not limited to past harm, but they are no less real, and a defendant may be obliged to pay financial sums in the discretionary context of probation. Commonwealth\u2019s Brief at 10-12, 14-15 (citing Commonwealth v. Walton, 483 Pa. 588, 397 A.2d 1179 (1979) (upholding payment of twenty-five dollars per week to victim as condition of probation for defendant who shot and blinded victim); Commonwealth v. Harriott, 919 A.2d 234, 238 (Pa.Super.2007) (\u201cThus, even without direct causation, a court may properly impose restitution as a probationary condition if the court is satisfied that the restitution is designed to rehabilitate the defendant and to make some measure of reimbursement to the victim.\u201d); Commonwealth v. Popow, 844 A.2d 13, 19 (Pa.Super.2004) (noting in dicta that \u201csentencing court is accorded latitude in fashioning probationary conditions designed to rehabilitate the defendant and to provide some measure of redress to the victim. And, when restitution is imposed as a condition of probation, the required nexus is relaxed.\u201d)).\nThe Commonwealth adds that Section 9754(c)(8) specifically authorizes a court to order a defendant to \u201cmake reparations, in an amount he can afford to pay, for the loss or damage caused\u201d by the crime. According to the Commonwealth, because the sentencing court\u2019s order in this case could also be conceived as reparations, it should have been upheld under the tenet that a trial court determination should be affirmed if it is correct on any ground, even one not explicitly articulated by the trial court. Echoing Judge Allen\u2019s dissent below, the Commonwealth compares Section 9754 with the more stringent language in 18 Pa.C.S. \u00a7 1106, which governs restitution as part of a direct sentence. And, the Commonwealth finds further support for the award in the broad definition of a \u201cvictim\u201d eligible for restitution provided in the Crime Victims Act, 18 P.S. \u00a7\u00a7 11.103, which includes the child or children of a homicide victim. Commonwealth\u2019s Brief at 12-14.\nFinally, the Commonwealth invokes Section 9754(c)(13)\u2019s authorization of \u201cany other conditions reasonably related to the rehabilitation of the defendant,\u201d and argues that the Superior Court should not have disregarded the trial court\u2019s express statement that rehabilitation was a primary reason for imposition of the probationary child support obligation. The Commonwealth argues that the mere fact that the sentencing court\u2019s order intended to serve two purposes simultaneously\u2014 benefitting Williams\u2019s children as victims of appellee\u2019s crime and fostering appellee\u2019s rehabilitation by imposing ongoing accountability upon his release \u2014 did not invalidate the order. Commonwealth\u2019s Brief at 15-16 (citing Commonwealth v. Brown, 603 Pa. 31, 981 A.2d 893, 895 (2009) (construing 18 Pa.C.S. \u00a7 1106 and noting \u201c[i]t is well established that the primary purpose of restitution is rehabilitation of the offender by impressing upon him ... that his criminal conduct caused the victim\u2019s loss or personal injury and that it is his responsibility to repair the loss or injury as far as possible.\u201d)).\nAppellee responds that there is no legal authority affirmatively authorizing a sentencing court to order child support as restitution, under any circumstances. Appellee suggests that the sentencing court here intended to impose a punitive child support obligation upon him and then devised a post hoe rationale for doing so. Appellee further asserts that even if the court\u2019s explanation that its order was intended to be a rehabilitative condition of probation is legitimate, the order itself was still unauthorized. To appellee, part of the problem is the speculative nature of the order, because no effort was made to determine whether $100 per child per month was equivalent to the support that Williams actually had provided for his children prior to his death, or would have provided into the future had he survived. Appellee adds that even under the \u201crelaxed nexus analysis\u201d used when financial restitution is imposed as a condition of probation, an order requiring child support for a homicide victim\u2019s children is too indirect to be valid. Appellee notes that he has not contested the sentencing court\u2019s order to pay the Crime Victims Compensation Fund for the expenses it incurred regarding Williams\u2019s funeral because, in appellee\u2019s estimation, \u201cthat is clearly proper restitution\u201d aimed at compensating, to the extent possible, the actual victim of his crime. Appellee\u2019s Brief at 9-13.\nAppellee concedes that the trial court\u2019s intention might be \u201csocially laudable,\u201d but insists that \u201c[t]here is simply no law which would permit the Sentencing Court to order the payment of child support, no matter how it is packaged____\u201d Appellee likewise concedes that \u201cthe children involved here have been \u2018victimized,\u2019 \u201d but disputes whether they qualify as \u201cvictim beneficiaries\u201d under existing statutes. Appellee\u2019s Brief at 13-15.\nWe first note that questions implicating the trial court\u2019s power to impose restitution concern the legality of the sentence. In re M.W., 555 Pa. 505, 725 A.2d 729, 731 n. 4 (1999). The parties have briefed the issue sub judice in part as one involving the trial court\u2019s power to impose the challenged probation condition as a matter of statutory construction. Such issues pose questions of law, over which our review is plenary. See, e.g., Commonwealth v. Reaves, 592 Pa. 134, 923 A.2d 1119, 1124 (2007). \u201cThe object of all interpretation and construction of statutes is to ascertain and effectuate the intention of the General Assembly. Every statute shall be construed, if possible, to give effect to all its provisions.\u201d 1 Pa.C.S. \u00a7 1921(a). The plain language of the statute is generally the best indicator of legislative intent, and the words of a statute \u201cshall be construed according to rules of grammar and according to their common and approved usage____\u201d1 Pa.C.S. \u00a7 1903(a). We generally will look beyond the plain language of the statute only when words are unclear or ambiguous, or the plain meaning would lead to \u201ca result that is absurd, impossible of execution or unreasonable.\u201d 1 Pa.C.S. \u00a7 1922(1); see also Mercury Trucking, Inc. v. Pa. Pub. Util. Comm\u2019n, 55 A.3d 1056, 1068 (Pa.2012).\nFurthermore, we note, the Statutory Construction Act requires penal provisions of statutes to be strictly construed, 1 Pa.C.S. \u00a7 1928(b)(1); thus, where an ambiguity is found in the language of a penal statute, \u201csuch language should be interpreted in the light most favorable to the accused----\u201d Commonwealth v. Huggins, 575 Pa. 395, 836 A.2d 862, 868 n. 5 (2003) (quoting Commonwealth v. Booth, 564 Pa. 228, 766 A.2d 843, 846 (2001)). The Commonwealth does not dispute that provisions for payment of monetary sums as the result of criminal convictions are penal in nature. See Commonwealth v. Garzone, 613 Pa. 481, 34 A.3d 67, 75 (2012) (\u201c[T]he statute at issue speaks of defendants \u2018convicted and sentenced\u2019 to pay costs. Thus, we will accept the premise that Section 7708 is penal in nature and therefore subject to strict construction in favor of appellees.\u201d); Harner, 617 A.2d at 704 (\u201c[A]n order placing a defendant on probation must be regarded as punishment for double jeopardy purposes and ... where restitution is imposed in addition to a statutory punishment, such as imprisonment, the order must be strictly scrutinized since its purpose is primarily punitive.\u201d).\nThe primary statute at issue in this appeal is Section 9754 of the Judicial Code, which governs orders of probation. Section 9754 provides, in pertinent part, as follows:\n(a) General Rule. \u2014 In imposing an order of probation the court shall specify at the time of sentencing the length of any term during which the defendant is to be supervised, which term may not exceed the maximum term for which the defendant could be confined, and the authority that shall conduct the supervision.\n(b) Conditions generally. \u2014 The court shall attach such of the reasonable conditions authorized by subsection (c) of this section as it deems necessary to insure or assist the defendant in leading a law-abiding life.\n(c) Specific conditions. \u2014 The court may as a condition of its order require the defendant:\n(8) To make restitution of the fruits of his crime or to make reparations, in an amount he can afford to pay, for the loss or damage caused thereby.\n(13) To satisfy any other conditions reasonably related to the rehabilitation of the defendant and not unduly restrictive of his liberty or incompatible with his freedom of conscience.\n42 Pa.C.S. \u00a7 9754. By its plain terms, Section 9754 empowers sentencing courts to impose reasonable conditions of probation, which may be monetary obligations, to assist the defendant in leading a law-abiding life, so long as the conditions do not result in a violation of the defendant\u2019s essential constitutional liberty and freedom of conscience. As described in subsection (e)(8), monetary conditions of probation may be for the purpose of \u201crestitution\u201d or \u201cto make reparations\u201d for the loss or damage caused by the crime, but they must be limited to an amount the defendant \u201ccan afford to pay.\u201d Obviously, Section 9754 does not expressly include the type of restitution imposed as a condition of probation here \u2014 future financial support to a homicide victim\u2019s surviving minor children. We therefore consider the language in light of the directive that, as a penal statute, Section 9754 must be interpreted in the light most favorable to appellee.\nNotably, the common dictionary definitions of the terms used in the statute are somewhat general. \u201cRestitution\u201d has been defined as: \u201ca giving back to the rightful owner of something that has been lost or taken away; restoration\u201d and \u201ca making good for loss or damage; reimbursement.\u201d Webster\u2019s New World Dictionary 1212 (2nd College ed. 1986). The legal definition of \u201crestitution\u201d is: \u201c[c]ompensation of a loss; esp., full or partial compensation paid by a criminal to a victim, ... ordered as part of a criminal sentence or as a condition of probation.\u201d Black\u2019s Law Dictionary 1839 (8th ed. 2004). This Court has explained that restitution \u201crefers to compensation required for the wrongful appropriation of money or property[.]\u201d Walton, 397 A.2d at 1183 n. 10.\nLikewise, the ordinary dictionary definition of \u201creparations\u201d describes \u201ca making of amends; making up for a wrong or injury\u201d and \u201ccompensation ... for crimes committed against individuals; payable in money, labor, goods, etc.\u201d Webster\u2019s at 1204. The legal definition of \u201creparations\u201d describes \u201c[t]he act of making amends for a wrong\u201d and \u201c[ejompensation for an injury or wrong.\u201d Black\u2019s at 1325. These definitions convey a certain retrospection: the payment involved in restitution and reparations is to remedy a harm already inflicted upon a victim. See Walton, 397 A.2d at 1183 n. 10, 1185 (\u201creparation\u201d refers to compensation paid to victim who suffered physical injury as result of crime; sentencing court properly ordered defendant convicted of aggravated assault in shooting incident to pay blinded victim twenty-five dollars per week as condition of probation).\nSection 9754(c)(13), however, is a catchall provision, and it is written in broader terms. The provision authorizes imposition of \u201cany\u201d other conditions of probation reasonably related to the defendant\u2019s rehabilitation, so long as they are not \u201cunduly restrictive\u201d of the defendant\u2019s constitutional liberty or conscience. This subsection neither approves nor excludes monetary obligations and is not oriented towards the past in the same manner as the terms in subsection (8).\nNothing in the plain language of Section 9754 either specifies or limits the persons who may be proper subjects of restitution or reparation as a condition of probation, and the terms \u201crestitution\u201d or \u201creparation\u201d are not defined by the statute. In contrast, the Crimes Code provision that authorizes restitution as part of a direct sentence for a crime involving personal injury expressly limits recovery to the direct victim of the crime: \u201cUpon conviction for any crime ... wherein the victim suffered personal injury directly resulting from the crime, the offender shall be sentenced to make restitution in addition to the punishment prescribed therefor.\u201d 18 Pa.C.S. \u00a7 1106(a) (\u201cRestitution for injuries to person or property: General Rule\u201d). In this case involving a homicide, obviously, the victim himself is deceased and cannot receive restitution. There is no indication that an estate was ever established on behalf of the victim, which could theoretically receive an award of restitution directed to the victim himself. See, e.g., Commonwealth v. Dietrich, 601 Pa. 58, 970 A.2d 1131 (2009) (sentencing court erroneously amended amount of restitution to victim\u2019s estate under Section 1106 beyond deadline for such modification); Commonwealth v. Lebarre, 961 A.2d 176 (Pa.Super.2008) (sentencing court did not err in awarding restitution to victim\u2019s estate under Section 1106).\nThe restitution ordered by the sentencing court here was directed toward the victim\u2019s children, which no doubt explains why the Commonwealth does not attempt to defend the order on the basis of Section 1106 of the Crimes Code, and why it argues that cases relying on Section 1106 are distinguishable. Commonwealth\u2019s Brief at 13 n.3 (citing, e.g., Langston, 904 A.2d at 920, 923-24 (overturning order of restitution to crime victims\u2019 son because mandatory Section 1106 restitution is limited to direct victim and not third parties, including family members; child was not \u201cdirect victim\u201d of crime entitled to restitution through reimbursement to Crime Victims Compensation Fund under Section 1106(h), which requires that victim\u2019s loss be caused directly by defendant\u2019s criminal conduct rather than loss consequential to such conduct)).\nNevertheless, both the dissent below and the Commonwealth advert to the Crime Victims Act, noting that the definition of victim in that statute is much broader than the definition of victim in Section 1106, and specifically embraces the child or children of a homicide victim. 18 P.S. \u00a7 11.103. This is trae so far as it goes, but the statute obviously is of tangential relevance at best. The Crime Victims Act provides a scheme for protecting victims\u2019 rights and establishing remedies, such as compensation from various funds. However, compensation under the Act is made on the basis of claims filed by individual victims of crimes and determined by the Office of Victims\u2019 Services, 18 P.S. \u00a7\u00a7 11.702, 11.704, rather than through court-ordered restitution by the defendant, although the amount of victim compensation under the Act may be reduced by amounts separately paid by the defendant as restitution. 18 P.S. \u00a7\u00a7 11.707(e)(1), 11.1802. Accord Langston, supra (holding that court-ordered restitution was not supportable by fact that victim\u2019s son was a \u201cvictim/claimant\u201d for purposes of Crime Victims Act; reasoning that Section 1106 and Crime Victims Act are two separate and distinct statutes, with different purposes and differing definitions of who qualifies as \u201cvictim,\u201d and are not interchangeable for purposes of defining proper recipients of restitution).\nIn point of fact, the parties cite to no case, and our research has revealed none, that has approved of a probationary monetary condition fashioned as a form of \u201cchild support.\u201d A central thrust of appellee\u2019s argument is that the statutory construct must affirmatively indicate approval of such a condition, before it may be imposed. There is tangential support for that argument under decisional law involving Section 1106, as represented in the progression from our decision in Commonwealth v. Runion, 541 Pa. 202, 662 A.2d 617 (1995), to Commonwealth v. Brown, 603 Pa. 31, 981 A.2d 893 (2009). In Runion, decided under an earlier version of Section 1106, this Court overruled court-ordered restitution to the Department of Public Welfare for amounts the Department had paid on behalf of an injured crime victim. The Court reasoned that because the relevant portion of the statute failed to specify whether government agencies were included within the definition of \u201cvictim\u201d for purposes of restitution, the Department was not eligible for such payment. 662 A.2d at 621. In apparent response to Runion, however, the General Assembly amended Section 1106 to expand the class of entities eligible for restitution; the revised provision specifically includes a \u201cgovernment agency which has provided reimbursement to the victim as a result of the defendant\u2019s criminal conduct\u201d as a proper recipient along with the victim himself. 18 Pa.C.S. \u00a7 1106(c)(l)(ii)(C). In light of the statutory amendment, the Court in Brown upheld a sentencing court\u2019s order of restitution to Medicare for expenses it paid to medical providers on behalf of an assault victim who suffered injuries at the hands of the defendant. 981 A.2d at 902. See also Commonwealth v. Lee, 947 A.2d 199 (Pa.Super.2008) (restitution to third party animal shelter was proper because such award was expressly authorized by statute under which defendant was convicted of cruelty to animals), appeal denied, 602 Pa. 676, 981 A.2d 218 (2009).\nBut, the difficulty with appellee\u2019s position is that the relevant terms in Section 9754 are not so restrictive as the terms (describing who can be considered a victim) in Section 1106. Both the dissent below and the Commonwealth here legitimately note that distinction; and both also legitimately note that the Crime Victims Act offers at least support for the notion that, in fashioning a scheme of punishment and rehabilitation, including considering appropriate conditions of probation, there is no reason in law, logic \u2014 or the terms of Section 9754(c)(8) and (c)(13) \u2014 prohibiting the sentencing judge from considering the effect of the crime upon the minor children of a homicide victim, and fashioning a condition accordingly.\nWhat also weighs in favor of the monetary condition here is the fact that the sentencing court has discretion in making an award of restitution, especially where the restitution is ordered as a condition of probation.\nIn the context of a criminal case, restitution may be imposed either as a direct sentence, 18 Pa.C.S. \u00a7 1106(a), or as a condition of probation, 42 Pa.C.S. \u00a7 9754. Wfiien imposed as a sentence, the injury to property or person for which restitution is ordered must directly result from the crime. However, when restitution is ordered as a condition of probation, the sentencing court is accorded the latitude to fashion probationary conditions designed to rehabilitate the defendant and provide some measure of redress to the victim.... Thus, the requirement of a nexus between the damage and the offense is relaxed where restitution is ordered as a condition of probation.\nM.W., 725 A.2d at 732 (restitution provision of Juvenile Act corresponds to Section 9754 in that neither contains language specifically requiring that loss or injury sustained by victim be direct result of defendant\u2019s actions; court has broad measure of discretion to fashion remedy based on nature of crime and earning capacity of perpetrator).\nWfiiile sentencing courts have discretion to impose conditions of probation, such conditions must be reasonable and devised to serve rehabilitative goals, such as recognition of wrongdoing, deterrence of future criminal conduct, and encouragement of future law-abiding conduct. 42 Pa.C.S. \u00a7 9754(c)(13); Harner, 617 A.2d at 706-07 (restitution of amounts expended by one parent to recover children from other parent convicted of interference with custody affirmed as condition of probation). See also M.W., supra (upholding restitution order for juvenile offender; rehabilitative purpose of the Juvenile Act is attained through accountability and development of personal qualities that will enable juvenile offender to become responsible and productive member of community).\nThus, a condition requiring the defendant to take some measure of financial responsibility for the consequences of his criminal conduct may be reasonably related to the rehabilitation that probation is designed to foster. Probation itself is a form of lenity in the context of criminal sentencing, and so long as essential constitutional liberties and freedoms are not disturbed, sentencing judges have discretion to fashion monetary obligations as conditions under Section 9754(c)(8) and (18). Such conditions, so long as they are individualized and reasonable, may provide some measure of redress to those who have suffered financial hardship due to a defendant\u2019s crimes, while guiding the defendant towards a law-abiding path. In this case, the sentencing judge stated that she was seeking to assist appellee in understanding the cruelty of his actions, and that her \u201cintent was that the defendant level the field he had disrupted when he killed the other children\u2019s father by contributing to their financial support.\u201d Tr. Ct. Opinion, 5/12/08, at 4-5. As a theoretical matter, an order like this serves rehabilitative purposes by bringing home the very real consequences of the crime.\nThe difficulty with the condition, in our judgment, is twofold: first, it is difficult to see how the specific factors that go into fashioning appropriate awards of child support are easily transferrable to the probationary sentencing realm; and second, the award here seems so speculative, as a matter of child support, as to approach being arbitrary. The sentencing judge herself, in issuing her order, seemed to recognize that the amount of the child support award she was ordering was not tethered to any particular standard, and that the \u201caward\u201d might ultimately bear no relationship whatsoever to the actual needs of the children or to the appellee\u2019s ability to pay: \u201cAs I have indicated, you will be required to pay towards the support of the decedent\u2019s children, and that will be based on your ability to pay. But I am also going to order that it be no less than $100.00 per child per month. And if you are not able to pay that, then that will be brought to my attention or to the attention of the Probation Department.\u201d N.T., 8/6/07, at 22-23.\nIn Pennsylvania, child support awards are made in domestic relations matters in accordance with specific statutory guidelines, in a complex system that accounts for the obligor\u2019s capacity to pay and the reasonable needs of the particular children.\n(a) Statewide guideline. \u2014 Child and spousal support shall be awarded pursuant to a Statewide guideline as established by general rule by the Supreme Court, so that persons similarly situated shall be treated similarly. The guideline shall be based upon the reasonable needs of the child or spouse seeking support and the ability of the obligor to provide support. In determining the reasonable needs of the child or spouse seeking support and the ability of the obligor to provide support, the guideline shall place primary emphasis on the net incomes and earning capacities of the parties, with allowable deviations for unusual needs, extraordinary expenses and other factors, such as the parties\u2019 assets, as warrant special attention. The guideline so developed shall be reviewed at least once every four years.\n23 Pa.C.S. \u00a7 4322(a). The sentencing court did not refer to this subsection of the Domestic Relations code in selecting the support amount she ordered appellee to pay as a condition of probation. Nor did she refer to the numerous procedural rules pertaining to the method for calculation of child support orders in domestic relations matters. See generally Pa.R.C.P. Nos. 1910.16-1 through 1910.29. The guidelines provide extremely detailed instructions for calculating spousal and child support awards based on the obligor\u2019s net income from all sources, including, for example, wages, interest, pensions, Social Security disability benefits, lottery winnings or settlements. Pa.R.C.P. No. 1910.16-2. The guidelines include a formula and worksheet for making the calculation, which includes consideration of a child\u2019s actual living expenses, and other sources of support. See, e.g., Pa.R.C.P. No. 1910.16-4.\nThere is, in fact, nothing in the record to reflect how the court fixed the support amount at $200 monthly. Nor did the court make findings regarding the actual financial needs of the victim\u2019s children (including needs unmet by the resources available to their mother), or to what extent the victim actually provided financial support for his children \u2014 in any dollar amount \u2014 prior to his death. Rather, the amount fixed by the court seems to be unmoored \u2014 and perhaps purely symbolic. We have held in different circumstances that, to the extent a sentence of probation is imposed to make restitution for losses caused by the defendant\u2019s criminal conduct, there should be proof of the damages suffered. See Harner, 617 A.2d at 707. See also Walton, 397 A.2d at 1181 (sentencing court\u2019s order of restitution to victim was based in part on ascertainment of defendant\u2019s earning potential based on his previous employment). Accord Dietrich, 970 A.2d at 1136 (Saylor, J., dissenting) (disapproving Section 1106 restitution because \u201copen-ended\u201d amount of award bore \u201cno meaningful relation\u201d to actual compensation owed to victims of DUI accident). The probationary condition imposed by the trial court is not sustainable on the record here.\nViewed more broadly, it is not apparent to us that probationary conditions that import child support principles in the service of restitutionary and rehabilitative goals \u2014 even if the child support \u201caward\u201d is better tethered than the award here \u2014 are proper. As emphasized above, we recognize the broad discretionary power of judges to fashion probationary conditions under the Sentencing Code, and there may well be a certain amount of discretion for new and creative measures, so long as those measures do not unduly restrict liberty and freedom of conscience. We further recognize that, while a probationary condition resembling the equivalent of child support is not prohibited, neither is it specifically approved. What is undeniable is that child support is a separate realm subject to very specific statutory standards and implementing guidelines. In our view, the political branches are better suited for determining, in the first instance, what role orders that are the equivalent of child support for the surviving minor children of victims of crime should play in sentencing and probation. Accordingly, we affirm the decision of the Superi- or Court, albeit on grounds different from those specified below.\nThe order of the Superior Court, which vacated and remanded for resentencing, is affirmed.\nJustice STEVENS did not participate in the consideration or decision of this case.\nJustices SAYLOR, BAER, TODD and McCAFFERY join the opinion.\nJustice EAKIN files dissenting opinion.\n. Pursuant to 42 Pa.C.S. \u00a7 9712(a), five years of imprisonment is the mandatory minimum term for violent offenses committed when the defendant visibly possesses a firearm. At the proceeding, the Commonwealth sought incarceration \"within the upper end of the guideline range which would be in the range of about six years[J\u201d N.T., 9/20/05, at 36.\n. There is a lack of precision and resulting confusion in the court\u2019s orders about which children Judge Sarmina was identifying here. See Tr. Ct. Order, 9/20/05 (appellee must \"contribute to support of other two children of victim\"); Tr. Ct. Order, 8/6/07 (appellee must \"pay towards support of decedent's children\u201d); Tr. Ct. Op., 12/13/05, at 9-10 (appellee must pay \"support for the deceased\u2019s child\u201d and \"child support for Ms. Towson\u2019s children\u201d). In her first Rule 1925(a) opinion, Judge Sarmina states that one of Towson\u2019s children was fathered by the victim Williams, and the other by appellee. Tr. Ct. Op., 12/13/05, at 10 n.10. However, the rest of the record establishes that the victim actually fathered two children with Towson, and those two children live together with appellee\u2019s single child with Towson; the three are half-siblings. N.T., 8/6/07, at 21, 24 (victim\u2019s sister testified Towson has three children total, two by the victim and one by appellee). The court\u2019s support order for the \"other\" two children therefore apparently refers to Williams\u2019s two children with Towson.\n. Appellee also raised claims asserting insufficiency of the evidence to convict him of voluntary manslaughter; failure by the trial court to provide a jury instruction on involuntary manslaughter; improper cross-examination by the prosecutor; and trial court error for improperly sustaining prosecutor objections during defense counsel\u2019s closing. Appellee had filed a pro se notice of appeal one day before his privately retained counsel, who was shortly to cease representing appellee, filed otherwise timely post-sentence motions. The counseled post-sentence motions did include appellee\u2019s claim challenging the trial court's imposition of restitution in the form of child support. The trial court dismissed appellee\u2019s post-sentence motions as moot and beyond its jurisdiction. The Superior Court determined that the trial court should have proceeded upon the counseled post-sentence motions rather than deferring to appellee\u2019s pro se filing, and thus, appellee\u2019s claim regarding restitution was not waived. Super. Ct. Memorandum Op., 6/12/07, at 16-18. The child support claim was also included in appellee\u2019s counseled Rule 1925(b) Statement of Matters Complained of on Appeal. The Commonwealth does not argue that appellee failed to preserve the claim before this Court.\n. Judge Shogan's majority opinion was joined by Judges Musmanno, Bender, Gantman, and Donohue. Judge Allen's dissenting opinion was joined by President Judge Ford Elliott and Judges Stevens and Bowes.\n. We are not persuaded by the Commonwealth's suggestion that the Crime Victims Act specifically authorizes the Section 9754 restitution in this case based on the Act\u2019s broad definition of the term \"victim.\u201d In making this argument, the Commonwealth notes that the Superior Court\u2019s decision in Lebarre, supra, which approved Section 1106 restitution for the benefit of a deceased victim's child, is at odds with the en banc court\u2019s decision in this case. In Lebarre, the three judge panel concluded that the definition of \"victim\u201d in the Crime Victims Act applies to Section 1106 restitution, through a general cross-reference to a repealed Administrative Code provision in 18 Pa.C.S. \u00a7 1106(h) (defining \"victim\u201d for purposes of restitution by referring to section 479.1 of Administrative Code of 1929, 71 P.S. \u00a7 180-9.1). 961 A.2d at 179 n. 9. The repealed provision indicates generally that its subject matter, \"which related to rights of and services for crime victims,\" is now located in the Crime Victims Act, 18 P.S. \u00a7 11.101 et seq. 71 P.S. \u00a7 180-9.1.\nTo properly decide this case, we need not resolve the question of the interplay, if any, between the Crime Victims Act and Section 1106 of the Crimes Code. As we have already determined, the plain meaning of Section 9754, which is actually at issue here, allows for a broader range of \"victims\u201d for purposes of fashioning probationary conditions.\n. As we have noted above, the Superior Court majority in this case found that \"the true purpose behind the order was clearly to support the decedent's children and not to rehabilitate [appellee].\" 994 A.2d at 1145. The majority did not explain the basis for its determination respecting \"true purpose.\u201d We have no reason to doubt that the trial court intended the probation condition to serve rehabilitative goals, as well as to provide some measure of financial support for the victim's minor children.\n. At appellee\u2019s trial, there was general testimony from the children's mother that the victim had contributed financially to the children\u2019s schooling, and the purchase of their clothes and shoes. N.T., 8/2/05, at 242.",
+        "type": "majority",
+        "author": "Chief Justice CASTILLE."
+      },
+      {
+        "text": "Justice, EAKIN,\ndissenting.\nThe majority finds two \u201cdifficulties\u201d with the condition imposed here: the first involves transferring child support factors into probationary factors, and the second suggests the award here is speculative to the point of potential arbitrariness. See Majority Op. at 415-19, 80 A.3d at 1215-17. I respectfully dissent, as there is no \u201caward of child support\u201d here. Appellant has introduced the Straw Man of child support laws and procedures into the considerations of criminal sentencing, as if the former was the purpose of the order, thus shifting perception away from the actual rehabilitative goals of the probationary sentence. When the Straw Man enters the argument, the wrong question gets answered.\nThe payments ordered were to be rehabilitative in nature\u2014 they are not imposed as a means of realistically supporting the children. They were meant as a contribution toward their maintenance which in turn will foster some therapeutic realization by the defendant of the magnitude and range of damage caused by his violent act. As such, it is misleading to analyze this payment as an award made under our child support laws. The factors that bear on the amount of a child support award do not play into the stated goal of Judge Sarmina here, and attempting to \u201ctransfer\u201d the factors of the former into the goal of the latter is like transferring the proverbial square peg into the round hole.\nI agree the amount imposed may be called speculative, but this was necessary, as the payments were not to take effect until the defendant was released. It was to be based on ability to pay, but no one knew at the time of sentence what that would be \u2014 beyond setting a minimum, the judge could not fix a proper amount at the time of sentence. The judge noted that problems paying the minimum would be reviewable. I see no error in deferring the actual payments until the court knew if the defendant was working at Wal-Mart or Wall Street, particularly where the focus is on rehabilitative effect rather than actual needs of the children. Since it is not intended to serve the same purpose as a \u201cregular\u201d support order, the amount was not dependent on guidelines, for \u201cchild support matters\u201d were not the aim of the order.\nIf this were a judge entering a support order against a parent, the present order would be improper, but that is not what the judge was doing. Ergo, there is no error in failing to consider what statutes require for an order designed to apply to someone with a natural obligation to support their child. There is no need for \u201ctransference\u201d of concepts, nor to invite legislative involvement in enunciating factors relevant to judicial sentencing options. As such, I respectfully dissent.",
+        "type": "dissent",
+        "author": "Justice, EAKIN,"
+      }
+    ],
+    "attorneys": [
+      "Jennifer O. Andress, Esq., Hugh J. Burns Jr., Ronald Eisenberg, Esq., Arnold H. Gordon, Esq., Philadelphia District Attorney\u2019s Office, Rufus Seth Williams, Esq., Office of the District Attorney of Philadelphia County, for Commonwealth of Pennsylvania.",
+      "David Scott Rudenstein, Esq., for Andre Hall."
+    ],
+    "corrections": "",
+    "head_matter": "80 A.3d 1204\nCOMMONWEALTH of Pennsylvania, Appellant v. Andre HALL, Appellee.\nSupreme Court of Pennsylvania.\nSubmitted April 18, 2011.\nDecided Oct. 30, 2013.\nJennifer O. Andress, Esq., Hugh J. Burns Jr., Ronald Eisenberg, Esq., Arnold H. Gordon, Esq., Philadelphia District Attorney\u2019s Office, Rufus Seth Williams, Esq., Office of the District Attorney of Philadelphia County, for Commonwealth of Pennsylvania.\nDavid Scott Rudenstein, Esq., for Andre Hall.\nCASTILLE, C.J., SAYLOR, EAKIN, BAER, TODD, McCAFFERY, STEVENS, JJ."
+  },
+  "file_name": "0396-01",
+  "first_page_order": 440,
+  "last_page_order": 465
+}

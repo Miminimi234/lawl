@@ -1,0 +1,123 @@
+{
+  "id": 11647140,
+  "name": "UNITED STATES of America, Plaintiff-Appellee, v. Daniel Joseph BELL, Defendant-Appellant",
+  "name_abbreviation": "United States v. Bell",
+  "decision_date": "1993-01-13",
+  "docket_number": "Nos. 91-30417, 92-30195",
+  "first_page": "910",
+  "last_page": "911",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "983 F.2d 910"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "9th Cir.",
+    "id": 8826,
+    "name": "United States Court of Appeals for the Ninth Circuit"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "967 F.2d 1349",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        10519897
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "1350-51"
+        },
+        {
+          "page": "1350"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/967/1349-01"
+      ]
+    },
+    {
+      "cite": "18 U.S.C. \u00a7 921",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "pin_cites": [
+        {
+          "page": "(a)(20)"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "18 U.S.C. \u00a7 922",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "pin_cites": [
+        {
+          "page": "(g)(1)"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "18 U.S.C. \u00a7 924",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "pin_cites": [
+        {
+          "page": "(e)"
+        }
+      ],
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 185,
+    "char_count": 2189,
+    "ocr_confidence": 0.731,
+    "pagerank": {
+      "raw": 7.614148397797677e-08,
+      "percentile": 0.4504198893449
+    },
+    "sha256": "6941b49997f900d3e15065291b5f80024c15ff9bb7b2781c1f619b2763715ea6",
+    "simhash": "1:e9b170bf2aa5b083",
+    "word_count": 343
+  },
+  "last_updated": "2024-02-27T16:11:36.444292+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before TANG, BRUNETTI, and FERNANDEZ, Circuit Judges."
+    ],
+    "parties": [
+      "UNITED STATES of America, Plaintiff-Appellee, v. Daniel Joseph BELL, Defendant-Appellant."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nThe memorandum disposition filed November 24, 1992 is redesignated as a per curiam opinion.\nOPINION\nPER CURIAM:\nDaniel Joseph Bell (Bell) appeals the sentence, imposed pursuant to 18 U.S.C. \u00a7 924(e), upon his guilty plea to possession of a firearm by a felon, in violation of 18 U.S.C. \u00a7 922(g)(1). We vacate the sentence and remand for resentencing.\nThe sentence enhancement was predicated on four felony convictions: three first degree burglary convictions in Oregon in 1981 and 1985, and one second degree burglary conviction in Washington in 1987. Bell was discharged from the three Oregon convictions in August 1989, and his civil rights were thereupon restored. Or.Rev.Stat. \u00a7 137.281 (1987).\nA conviction for which a defendant has had his civil rights restored may not be counted as a predicate conviction. 18 U.S.C. \u00a7 921(a)(20). To determine whether a particular civil right has been restored, the sentencing court must look to the whole of state law at the time of the restoration, without regard to whether state law subsequently changed that right. United States v. Cardwell, 967 F.2d 1349, 1350-51 (9th Cir.1992). When Bell\u2019s civil rights were restored, discharged felons could possess a rifle of the type involved in this case. Or.Rev.Stat. \u00a7 166.270 (1987). Accordingly, Bell\u2019s three Oregon convictions cannot be used as predicate convictions under section 924(e) because his civil right to possess the rifle was restored upon his discharge. See Cardwell, 967 F.2d at 1350.\nThe sentence imposed by the district court is VACATED and the case REMANDED for resentencing.",
+        "type": "majority",
+        "author": "PER CURIAM:"
+      }
+    ],
+    "attorneys": [
+      "Michael R. Levine, Asst. Federal Public Defender, Portland, OR, for defendant-appellant.",
+      "Gary Y. Sussman, Asst. U.S. Atty., Portland, OR, for plaintiff-appellee."
+    ],
+    "corrections": "",
+    "head_matter": "UNITED STATES of America, Plaintiff-Appellee, v. Daniel Joseph BELL, Defendant-Appellant.\nNos. 91-30417, 92-30195.\nUnited States Court of Appeals, Ninth Circuit.\nSubmitted Nov. 6, 1992.\nMemorandum Filed Nov. 24, 1992.\nOrder and Opinion Filed Jan. 13, 1993.\nMichael R. Levine, Asst. Federal Public Defender, Portland, OR, for defendant-appellant.\nGary Y. Sussman, Asst. U.S. Atty., Portland, OR, for plaintiff-appellee.\nBefore TANG, BRUNETTI, and FERNANDEZ, Circuit Judges.\nThe panel finds this case appropriate for submission without oral argument pursuant to 9th Cir.R. 34-4 and Fed.R.App.P. 34(a)."
+  },
+  "file_name": "0910-01",
+  "first_page_order": 1036,
+  "last_page_order": 1037
+}

@@ -1,0 +1,66 @@
+{
+  "id": 12138464,
+  "name": "Filas v. Meemic Insurance Company",
+  "name_abbreviation": "Filas v. Meemic Insurance Co.",
+  "decision_date": "2015-09-29",
+  "docket_number": "No. 150510; Court of Appeals No. 316822",
+  "first_page": "888",
+  "last_page": "888",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "498 Mich. 888"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Mich.",
+    "id": 8790,
+    "name": "Michigan Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 49,
+    "name_long": "Michigan",
+    "name": "Mich."
+  },
+  "cites_to": [
+    {
+      "cite": "497 Mich 1028",
+      "category": "reporters:state",
+      "reporter": "Mich.",
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 19,
+    "char_count": 116,
+    "ocr_confidence": 0.79,
+    "sha256": "029250db3a1b6bf514258f30cd7b9c3c42863c45b9fa93fafa13230636ed7a9b",
+    "simhash": "1:62ab768371b56cd9",
+    "word_count": 20
+  },
+  "last_updated": "2024-02-27T16:10:26.420323+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Filas v Meemic Insurance Company,"
+    ],
+    "opinions": [
+      {
+        "text": "Leave to appeal denied at 497 Mich 1028.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Filas v Meemic Insurance Company,\nNo. 150510; Court of Appeals No. 316822."
+  },
+  "file_name": "0888-05",
+  "first_page_order": 834,
+  "last_page_order": 834
+}

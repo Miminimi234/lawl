@@ -1,0 +1,62 @@
+{
+  "id": 546229,
+  "name": "Patrick Nichols, Plaintiff in Error, v. The People of the State of New York, Defendant in Error",
+  "name_abbreviation": "Nichols v. People",
+  "decision_date": "1881-10-28",
+  "docket_number": "",
+  "first_page": "641",
+  "last_page": "642",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "86 N.Y. 641"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "N.Y.",
+    "id": 24653,
+    "name": "New York Court of Appeals"
+  },
+  "jurisdiction": {
+    "id": 1,
+    "name_long": "New York",
+    "name": "N.Y."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 40,
+    "char_count": 312,
+    "ocr_confidence": 0.471,
+    "sha256": "a2820de09aa8310df5bfda8134612617812fa2345d4746db22f3bdac57348a4e",
+    "simhash": "1:be108c51e2ca28c9",
+    "word_count": 52
+  },
+  "last_updated": "2023-07-14T19:10:29.416008+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Patrick Nichols, Plaintiff in Error, v. The People of the State of New York, Defendant in Error."
+    ],
+    "opinions": [
+      {
+        "text": "Agree to affirm; no opinion.\nAll concur, except 'Folger, Oh. J., absent.\nOrder affirmed.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "C. P. Hoffman for plaintiff in error.",
+      "Alonzo Wheeler for defendant in error."
+    ],
+    "corrections": "",
+    "head_matter": "Patrick Nichols, Plaintiff in Error, v. The People of the State of New York, Defendant in Error.\n(Argued June 9, 1881;\ndecided October 28, 1881.)\nC. P. Hoffman for plaintiff in error.\nAlonzo Wheeler for defendant in error."
+  },
+  "file_name": "0641-03",
+  "first_page_order": 667,
+  "last_page_order": 668
+}
