@@ -61,6 +61,9 @@ class Settings(BaseSettings):
         "http://localhost:3000",
         "http://localhost:3003",
         "http://localhost:8000",
+        "https://verdictbnb.ai",
+        "https://www.verdictbnb.ai",
+        "https://lawl.vercel.app",
     ]
     
     # Data Paths
@@ -74,7 +77,6 @@ class Settings(BaseSettings):
 
 
 settings = Settings()
-
 
 
 
