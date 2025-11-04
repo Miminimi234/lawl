@@ -65,6 +65,7 @@ class Settings(BaseSettings):
     # Add frontend dev origins here (e.g. localhost:3000, localhost:3003).
     CORS_ORIGINS: List[str] = [
         "http://localhost:3000",
+        "http://localhost:3002",
         "http://localhost:3003",
         "http://localhost:8000",
         "https://verdictbnb.ai",
@@ -79,7 +80,6 @@ class Settings(BaseSettings):
 
 
 settings = Settings()
-
 
 
 

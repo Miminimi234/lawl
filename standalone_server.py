@@ -34,6 +34,7 @@ app.add_middleware(
     CORSMiddleware,
     allow_origins=[
         "http://localhost:3000",
+        "http://localhost:3002",
         "http://localhost:3003",
         "https://verdictbnb.ai",
         "https://www.verdictbnb.ai",
