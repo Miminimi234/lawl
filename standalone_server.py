@@ -15,6 +15,9 @@ import os
 import sys
 from pathlib import Path
 
+from starlette.middleware.base import BaseHTTPMiddleware
+from starlette.requests import Request
+
 # Add backend to path
 sys.path.insert(0, str(Path(__file__).parent))
 
@@ -38,6 +41,21 @@ app = FastAPI(title="Verdict API")
 
 # Reuse counsel API when running standalone
 app.include_router(counsel_router, prefix="/api/counsel", tags=["counsel"])
+
+
+class CounselRequestLoggingMiddleware(BaseHTTPMiddleware):
+    async def dispatch(self, request: Request, call_next):
+        if request.url.path == "/api/counsel/ask":
+            body = await request.body()
+            try:
+                logger.info("Counsel ask raw body: %s", body.decode("utf-8", "ignore"))
+            except Exception as exc:  # pragma: no cover
+                logger.warning("Failed to decode counsel ask body: %s", exc)
+            request._body = body  # allow downstream handlers to re-read
+        return await call_next(request)
+
+
+app.add_middleware(CounselRequestLoggingMiddleware)
 
 # CORS - Allow verdictbnb.ai domain
 app.add_middleware(
