@@ -17,6 +17,9 @@ from pathlib import Path
 # Add backend to path
 sys.path.insert(0, str(Path(__file__).parent))
 
+# Import counsel API router
+from app.api.counsel import router as counsel_router
+
 # Import Real Case Fetcher
 REAL_CASES_AVAILABLE = False
 try:
@@ -28,6 +31,9 @@ except Exception as e:
     print(f"⚠️  Real case fetcher unavailable: {e}")
 
 app = FastAPI(title="Verdict API")
+
+# Reuse counsel API when running standalone
+app.include_router(counsel_router, prefix="/api/counsel", tags=["counsel"])
 
 # CORS - Allow verdictbnb.ai domain
 app.add_middleware(

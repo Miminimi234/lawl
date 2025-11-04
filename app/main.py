@@ -7,7 +7,7 @@ from contextlib import asynccontextmanager
 import logging
 
 from app.core.config import settings
-from app.api import cases, documents, analysis, research, feed
+from app.api import cases, documents, analysis, research, feed, counsel
 from app.db.database import engine, create_tables
 
 # Configure logging
@@ -56,6 +56,7 @@ app.include_router(documents.router, prefix="/api/documents", tags=["documents"]
 app.include_router(analysis.router, prefix="/api/analysis", tags=["analysis"])
 app.include_router(research.router, prefix="/api/research", tags=["research"])
 app.include_router(feed.router, prefix="/api/feed", tags=["feed"])
+app.include_router(counsel.router, prefix="/api/counsel", tags=["counsel"])
 
 
 @app.get("/")
