@@ -9,6 +9,7 @@ from fastapi.middleware.cors import CORSMiddleware
 from pydantic import BaseModel
 from typing import List, Optional
 from datetime import datetime, timedelta
+import logging
 import uvicorn
 import os
 import sys
@@ -29,6 +30,9 @@ try:
         print("✅ OpenAI API key detected - will fetch REAL court cases")
 except Exception as e:
     print(f"⚠️  Real case fetcher unavailable: {e}")
+
+logging.basicConfig(level=logging.INFO)
+logger = logging.getLogger("verdict.standalone")
 
 app = FastAPI(title="Verdict API")
 
@@ -239,9 +243,19 @@ if count == 0:
 # API Endpoints
 @app.get("/health")
 async def health():
+    counsel_available = False
+    try:
+        from app.services.legal_counsel import legal_counsel_service
+
+        counsel_available = legal_counsel_service.is_available()
+        logger.info("Health check: counsel service available=%s", counsel_available)
+    except Exception as exc:  # pragma: no cover - best-effort monitoring
+        logger.warning("Health check: counsel service check failed: %s", exc)
+
     return {
         "status": "healthy",
-        "message": f"Verdict running with {len(CASES_DB)} real cases"
+        "message": f"Verdict running with {len(CASES_DB)} real cases",
+        "counsel_service": "available" if counsel_available else "unavailable",
     }
 
 @app.get("/api/cases/")

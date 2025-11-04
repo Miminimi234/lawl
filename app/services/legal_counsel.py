@@ -72,6 +72,12 @@ class LegalCounselService:
         self._lock = asyncio.Lock()
         self._client: Optional[AsyncOpenAI] = None
 
+    def is_available(self) -> bool:
+        """Check whether the OpenAI-backed counsel service can run."""
+        if AsyncOpenAI is None:
+            return False
+        return bool(settings.OPENAI_API_KEY)
+
     def _ensure_client(self) -> Any:
         if AsyncOpenAI is None:
             logger.error("OpenAI Python SDK is not installed for legal counsel service")
